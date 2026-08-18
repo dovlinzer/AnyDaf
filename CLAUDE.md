@@ -1911,21 +1911,26 @@ override), `photo_url`, `status` (`"approved"`).
   (today > week > month) first, then most recently created (`order=date.desc,id.desc`) as the
   tie-break — unchanged from before this feature, just no longer the *only* line of defense against
   silently dropping one.
-- **App targeting**: three independent boolean columns — `for_anydaf`, `for_anytorah`,
-  `for_anytorah_web` — replacing an older single `app` text column (`"anydaf"`/`"anytorah"`/`"both"`)
-  that couldn't target AnyTorah Web independently of native AnyTorah. `DedicationService.swift`/`.kt`
-  here filter `for_anydaf=eq.true`; AnyTorah's native services filter `for_anytorah=eq.true`;
-  AnyTorahWeb's `app/api/dedication/route.ts` filters `for_anytorah_web=eq.true`. Migrated via
-  `dedication-app-targeting-migration.sql` (this repo's root) — run manually in the Supabase SQL
-  editor, since no service-role key is available to any of these codebases to run DDL
-  programmatically. The old `app` column is left in place, unused, after the migration.
+- **App targeting**: four independent boolean columns — `for_anydaf`, `for_anytorah`,
+  `for_anytorah_web`, `for_anyyctorah` (the last added 2026-08-18 when AnyYCTorah got its own
+  dedication banner — see `AnyYCTorah/CLAUDE.md`'s "Dedications" section) — replacing an older
+  single `app` text column (`"anydaf"`/`"anytorah"`/`"both"`) that couldn't target apps
+  independently. `DedicationService.swift`/`.kt` here filter `for_anydaf=eq.true`; AnyTorah's
+  native services filter `for_anytorah=eq.true`; AnyTorahWeb's `app/api/dedication/route.ts`
+  filters `for_anytorah_web=eq.true`; AnyYCTorah's `DedicationService.swift` filters
+  `for_anyyctorah=eq.true`. Migrated via `dedication-app-targeting-migration.sql` (this repo's
+  root, `for_anydaf`/`for_anytorah`/`for_anytorah_web`) and
+  `AnyYCTorah/dedication-anyyctorah-migration.sql` (`for_anyyctorah`) — both run manually in the
+  Supabase SQL editor, since no service-role key is available to any of these codebases to run
+  DDL programmatically. The old `app` column is left in place, unused, after the migration.
 - **Admin submission form**: `dedication-form.html` (this repo's root) — a standalone HTML/JS tool
-  (not part of either app build) for creating/editing dedication rows, with three independent
-  checkboxes (AnyDaf / AnyTorah / AnyTorah Web) instead of the old three-way radio group, plus a
-  Start date/End date pair (with a "Auto-fill end date from this" button that fills End date from
-  the Period selector's week/month convention — Sunday-start week, last day of the calendar month —
-  purely as an editing convenience; the admin can always type any End date directly).
-  `getAppFlags()`/`appLabel()` work identically against either live form state or a stored DB row.
+  (not part of any app's build) for creating/editing dedication rows, with four independent
+  checkboxes (AnyDaf / AnyTorah / AnyTorah Web / AnyYCTorah) instead of the old three-way radio
+  group, plus a Start date/End date pair (with a "Auto-fill end date from this" button that fills
+  End date from the Period selector's week/month convention — Sunday-start week, last day of the
+  calendar month — purely as an editing convenience; the admin can always type any End date
+  directly). `getAppFlags()`/`appLabel()` work identically against either live form state or a
+  stored DB row.
 - **Known quirk (not a bug):** the `date`/`end_date` columns have no timezone, and the active-range
   query compares against each platform's local "today" (`Calendar.current`/`LocalDate.now()` —
   effectively local time — against columns with no stored offset). A dedication can roll into or

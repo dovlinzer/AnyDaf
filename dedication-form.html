@@ -19,7 +19,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AnyDaf / AnyTorah — Dedication Form</title>
+  <title>AnyDaf / AnyTorah / AnyYCTorah — Dedication Form</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <style>
@@ -42,7 +42,7 @@
       <span class="text-3xl">📖</span>
       <div>
         <h1 class="text-xl font-bold leading-tight">Learning Dedication</h1>
-        <p class="text-blue-200 text-sm">Submit a dedication to be displayed in the AnyDaf and AnyTorah apps</p>
+        <p class="text-blue-200 text-sm">Submit a dedication to be displayed in the AnyDaf, AnyTorah, and AnyYCTorah apps</p>
         <p class="text-blue-200/70 text-xs">Includes AnyTorah's web version — pick which app(s) below</p>
       </div>
     </div>
@@ -52,7 +52,7 @@
 
     <!-- ── How It Works ── -->
     <div class="bg-blue-50 border border-blue-200 rounded-xl p-4 text-sm text-blue-900">
-      <p>Dedications appear in the <strong>AnyDaf and AnyTorah apps</strong> when users open them on the selected day (or week/month).
+      <p>Dedications appear in the <strong>AnyDaf, AnyTorah, and AnyYCTorah apps</strong> when users open them on the selected day (or week/month).
          Submissions are reviewed before going live.</p>
     </div>
 
@@ -160,6 +160,14 @@
                           peer-checked:border-app-blue peer-checked:bg-blue-50 peer-checked:app-blue
                           hover:border-gray-400 transition-colors select-none">
                 AnyTorah Web
+              </div>
+            </label>
+            <label class="flex-1">
+              <input type="checkbox" id="app-anyyctorah" checked class="sr-only peer" />
+              <div class="border border-gray-300 rounded-lg px-3 py-2 text-sm text-center cursor-pointer
+                          peer-checked:border-app-blue peer-checked:bg-blue-50 peer-checked:app-blue
+                          hover:border-gray-400 transition-colors select-none">
+                AnyYCTorah
               </div>
             </label>
           </div>
@@ -365,15 +373,17 @@ function getAppFlags() {
     for_anydaf:       document.getElementById('app-anydaf').checked,
     for_anytorah:     document.getElementById('app-anytorah').checked,
     for_anytorah_web: document.getElementById('app-anytorah-web').checked,
+    for_anyyctorah:   document.getElementById('app-anyyctorah').checked,
   };
 }
-// Accepts either a row from the DB (has for_anydaf/for_anytorah/for_anytorah_web) or
-// the live getAppFlags() object — same shape either way.
+// Accepts either a row from the DB (has for_anydaf/for_anytorah/for_anytorah_web/
+// for_anyyctorah) or the live getAppFlags() object — same shape either way.
 function appLabel(flags) {
   const names = [];
   if (flags.for_anydaf)       names.push('AnyDaf');
   if (flags.for_anytorah)     names.push('AnyTorah');
   if (flags.for_anytorah_web) names.push('AnyTorah Web');
+  if (flags.for_anyyctorah)   names.push('AnyYCTorah');
   if (names.length === 0) return '(no app selected)';
   if (names.length === 1) return names[0];
   return names.slice(0, -1).join(', ') + ' and ' + names[names.length - 1];
@@ -427,7 +437,7 @@ function updatePreview() {
   .forEach(id => document.getElementById(id).addEventListener('input', updatePreview));
 ['date', 'end_date', 'period', 'preposition', 'dedicated_by', 'honoree_name', 'occasion', 'display_text']
   .forEach(id => document.getElementById(id).addEventListener('change', updatePreview));
-['app-anydaf', 'app-anytorah', 'app-anytorah-web']
+['app-anydaf', 'app-anytorah', 'app-anytorah-web', 'app-anyyctorah']
   .forEach(id => document.getElementById(id).addEventListener('change', updatePreview));
 
 // Set date defaults
@@ -470,7 +480,7 @@ let allDedications = [];        // last-loaded admin rows, keyed for approve()'s
 async function findOverlaps(row, excludeId) {
   if (!db || !row.date || !row.end_date) return [];
   let query = db.from('dedications')
-    .select('id, dedicated_by, date, end_date, period, for_anydaf, for_anytorah, for_anytorah_web')
+    .select('id, dedicated_by, date, end_date, period, for_anydaf, for_anytorah, for_anytorah_web, for_anyyctorah')
     .eq('status', 'approved')
     .lte('date', row.end_date)
     .gte('end_date', row.date);
@@ -480,7 +490,8 @@ async function findOverlaps(row, excludeId) {
   return data.filter(r =>
     (row.for_anydaf && r.for_anydaf) ||
     (row.for_anytorah && r.for_anytorah) ||
-    (row.for_anytorah_web && r.for_anytorah_web)
+    (row.for_anytorah_web && r.for_anytorah_web) ||
+    (row.for_anyyctorah && r.for_anyyctorah)
   );
 }
 
@@ -829,6 +840,7 @@ function startEdit(row) {
   document.getElementById('app-anydaf').checked       = !!row.for_anydaf;
   document.getElementById('app-anytorah').checked     = !!row.for_anytorah;
   document.getElementById('app-anytorah-web').checked = !!row.for_anytorah_web;
+  document.getElementById('app-anyyctorah').checked   = !!row.for_anyyctorah;
   const approvedCheck = document.getElementById('create-approved');
   approvedCheck.checked = row.status === 'approved';
   document.getElementById('form-title').textContent = 'Edit Dedication';
