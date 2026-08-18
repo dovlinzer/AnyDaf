@@ -179,11 +179,6 @@
           "title": "Quality vs. Quantity: Same Product Despite Different Starting Amounts",
           "display_title": "Quality Clarification",
           "timestamp": "41:58"
-        },
-        {
-          "title": "Purchasing Fine Flour from the Marketplace",
-          "display_title": "Buy Flour",
-          "timestamp": "53:05"
         }
       ],
       "sefaria_index": 25,
@@ -218,6 +213,20 @@
           "title": "R. Shimon ben Elazar: Progressive Size Reduction Method",
           "display_title": "Progressive Method",
           "timestamp": "52:21"
+        }
+      ],
+      "sefaria_index": 30,
+      "matched": true
+    },
+    {
+      "title": "Purchasing Ready-Made Flour and Wheat: Torah's Concern for Financial Impact",
+      "display_title": "Purchasing Products",
+      "timestamp": "53:05",
+      "micro_segments": [
+        {
+          "title": "Purchasing Fine Flour from the Marketplace",
+          "display_title": "Buy Flour",
+          "timestamp": "53:05"
         },
         {
           "title": "Purchasing Wheat for Personal Sifting",
@@ -236,7 +245,7 @@
         }
       ],
       "sefaria_index": 30,
-      "matched": true
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -385,10 +394,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 22,
   "amud_b_segment_index": 2,
   "amud_b_timestamp": "33:29",
   "amud_b_micro_title": "Toda Number Meakev",
+  "amud_b_sefaria_index": 22,
   "shiur_start_daf": 75,
   "shiur_start_amud": "b"
 }

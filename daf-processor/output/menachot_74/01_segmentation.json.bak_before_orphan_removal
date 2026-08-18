@@ -128,11 +128,6 @@
           "title": "Rabbi Eliezer's Position: General Rule Against Eating Things Meant to Be Burned",
           "display_title": "R. Eliezer Rule",
           "timestamp": "40:51"
-        },
-        {
-          "title": "Introduction: Minchas Kohanim, Minchas Kohen Mashiach, and Minchat Nesachim—All to the Altar",
-          "display_title": "All to Altar",
-          "timestamp": "49:32"
         }
       ],
       "sefaria_index": 24,
@@ -147,6 +142,20 @@
           "title": "Abaye vs. Rava: Two Readings of the Pasuk, Same Conclusion",
           "display_title": "Abaye/Rava",
           "timestamp": "41:00"
+        }
+      ],
+      "sefaria_index": 31,
+      "matched": true
+    },
+    {
+      "title": "Categories of Korbanot: Altar's Portion vs. Kohanim's Portion",
+      "display_title": "Portions Categories",
+      "timestamp": "49:32",
+      "micro_segments": [
+        {
+          "title": "Introduction: Minchas Kohanim, Minchas Kohen Mashiach, and Minchat Nesachim—All to the Altar",
+          "display_title": "All to Altar",
+          "timestamp": "49:32"
         },
         {
           "title": "Contrast: Shtei Halechem and Lechem Hapanim—All to the Kohanim",
@@ -157,10 +166,44 @@
           "title": "Gemar's Clarification: Why These Lists Are Exhaustive (Against Shmuel's Opinion on Wine)",
           "display_title": "Exhaustive List",
           "timestamp": "50:18"
+        },
+        {
+          "title": "Support from the Mishna: Shmuel's Position on Donated Oil (Kmitza Like Mincha)",
+          "display_title": "Oil Position",
+          "timestamp": "50:58"
+        },
+        {
+          "title": "Shtei Halechem Without Lambs: Kohanim Always Receive Them",
+          "display_title": "Without Lambs",
+          "timestamp": "51:15"
         }
       ],
       "sefaria_index": 31,
-      "matched": true
+      "matched": false
+    },
+    {
+      "title": "Minchas Vessel (Kli Teunat): Oil Applications and Methods of Mixing",
+      "display_title": "Minchas Vessel",
+      "timestamp": "57:24",
+      "micro_segments": [
+        {
+          "title": "Three Oil Applications: Yetzika, Belila, and Matan Shemen B'kli",
+          "display_title": "Three Applications",
+          "timestamp": "57:24"
+        },
+        {
+          "title": "Challos: Mixing vs. Non-Mixing After Baking (Rabbi vs. Chachamim)",
+          "display_title": "Challos Debate",
+          "timestamp": "58:04"
+        },
+        {
+          "title": "Oven-Baked Mincha: Challos Mixed, Rekikin Anointed (Chi Shape)",
+          "display_title": "Oven-Baked",
+          "timestamp": "59:03"
+        }
+      ],
+      "sefaria_index": 31,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -376,10 +419,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 22,
   "amud_b_segment_index": 3,
   "amud_b_timestamp": "36:30",
   "amud_b_micro_title": "Gezeirah Shavah",
+  "amud_b_sefaria_index": 22,
   "shiur_start_daf": 74,
   "shiur_start_amud": "a"
 }

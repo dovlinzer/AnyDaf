@@ -119,7 +119,16 @@
           "title": "Story of Moonlight Confusion: Why Observer on High Place Required",
           "display_title": "Moonlight Story",
           "timestamp": "22:22"
-        },
+        }
+      ],
+      "sefaria_index": 6,
+      "matched": true
+    },
+    {
+      "title": "Kohen Gadol's Preparation and General Purity Rules",
+      "display_title": "KG Preparation",
+      "timestamp": "23:10",
+      "micro_segments": [
         {
           "title": "Kohen Gadol Taken to Mikvah for Day of Atonement Service",
           "display_title": "KG Mikvah",
@@ -132,7 +141,7 @@
         }
       ],
       "sefaria_index": 6,
-      "matched": true
+      "matched": false
     },
     {
       "title": "Determining Daybreak for Service: Multiple Opinions on Announcement",
@@ -581,7 +590,7 @@
     }
   ],
   "amud_b_sefaria_index": 11,
-  "amud_b_segment_index": 4,
+  "amud_b_segment_index": 5,
   "amud_b_timestamp": "27:49",
   "amud_b_micro_title": "Workers/Foremen",
   "shiur_start_daf": 27,

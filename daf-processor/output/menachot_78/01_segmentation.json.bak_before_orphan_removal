@@ -80,36 +80,6 @@
           "title": "Using the Word Tavyu to Include Both Chametz and Matza",
           "display_title": "Tavyu Inclusion",
           "timestamp": "16:58"
-        },
-        {
-          "title": "Karmu Paneha Batanur: Crust Development Requirement",
-          "display_title": "Crust Requirement",
-          "timestamp": "34:19"
-        },
-        {
-          "title": "All Ten Loaves Must Be Bread at Slaughtering Time",
-          "display_title": "All Loaves Must Be Bread",
-          "timestamp": "35:06"
-        },
-        {
-          "title": "Slaughtering as Todah Required for Sanctification",
-          "display_title": "Lishmah Requirement",
-          "timestamp": "35:34"
-        },
-        {
-          "title": "Matzah Standard: Non-Stringy When Broken Indicates Adequate Cooking",
-          "display_title": "Non-Stringy Standard",
-          "timestamp": "37:37"
-        },
-        {
-          "title": "Chizkiya: Forty Out of Eighty Become Sanctified",
-          "display_title": "Forty Sanctified",
-          "timestamp": "42:27"
-        },
-        {
-          "title": "Rabbi Yochanan: All or Nothing—Eighty Intended, Zero Sanctified",
-          "display_title": "All-or-Nothing",
-          "timestamp": "43:07"
         }
       ],
       "sefaria_index": 9,
@@ -134,16 +104,6 @@
           "title": "Kohen Gadol's First Day Bringing Multiple Minchot",
           "display_title": "Kohen Gadol Initiation",
           "timestamp": "29:55"
-        },
-        {
-          "title": "Rabbi Zeira's Reconciliation: Explicit Intent Resolves the Debate",
-          "display_title": "Explicit Intent",
-          "timestamp": "43:37"
-        },
-        {
-          "title": "Power of the Knife vs. Kli Sharet in Sanctification",
-          "display_title": "Knife Power Debate",
-          "timestamp": "44:52"
         }
       ],
       "sefaria_index": 20,
@@ -196,6 +156,64 @@
       ],
       "sefaria_index": 29,
       "matched": true
+    },
+    {
+      "title": "Definition of Lechem: Crust and Non-Doughy Texture",
+      "display_title": "Lechem Definition",
+      "timestamp": "34:19",
+      "micro_segments": [
+        {
+          "title": "Karmu Paneha Batanur: Crust Development Requirement",
+          "display_title": "Crust Requirement",
+          "timestamp": "34:19"
+        },
+        {
+          "title": "All Ten Loaves Must Be Bread at Slaughtering Time",
+          "display_title": "All Loaves Must Be Bread",
+          "timestamp": "35:06"
+        },
+        {
+          "title": "Slaughtering as Todah Required for Sanctification",
+          "display_title": "Lishmah Requirement",
+          "timestamp": "35:34"
+        },
+        {
+          "title": "Matzah Standard: Non-Stringy When Broken Indicates Adequate Cooking",
+          "display_title": "Non-Stringy Standard",
+          "timestamp": "37:37"
+        }
+      ],
+      "sefaria_index": 29,
+      "matched": false
+    },
+    {
+      "title": "Edge Case: Bringing More Than Forty Loaves",
+      "display_title": "Eighty Loaves Debate",
+      "timestamp": "42:27",
+      "micro_segments": [
+        {
+          "title": "Chizkiya: Forty Out of Eighty Become Sanctified",
+          "display_title": "Forty Sanctified",
+          "timestamp": "42:27"
+        },
+        {
+          "title": "Rabbi Yochanan: All or Nothing—Eighty Intended, Zero Sanctified",
+          "display_title": "All-or-Nothing",
+          "timestamp": "43:07"
+        },
+        {
+          "title": "Rabbi Zeira's Reconciliation: Explicit Intent Resolves the Debate",
+          "display_title": "Explicit Intent",
+          "timestamp": "43:37"
+        },
+        {
+          "title": "Power of the Knife vs. Kli Sharet in Sanctification",
+          "display_title": "Knife Power Debate",
+          "timestamp": "44:52"
+        }
+      ],
+      "sefaria_index": 29,
+      "matched": false
     }
   ],
   "topical_tags": [
@@ -463,10 +481,10 @@
       ]
     }
   ],
-  "amud_b_sefaria_index": 15,
   "amud_b_segment_index": 5,
   "amud_b_timestamp": "31:42",
   "amud_b_micro_title": "Location Debate",
+  "amud_b_sefaria_index": 15,
   "shiur_start_daf": 78,
   "shiur_start_amud": "a"
 }
