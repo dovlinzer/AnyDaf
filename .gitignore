@@ -46,3 +46,5 @@ daf-processor/outline/feedback/
 AnyDafWeb/ab-site/
 daf-processor/outline/.page_cache/
 daf-processor/page_layout/out/
+# A/B answer key: never commit (the repo is public)
+daf-processor/outline/ab_key_*.json

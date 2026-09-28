@@ -1840,7 +1840,8 @@ the good outcome depends on the case); glossary order "As they appear" / A–Z (
 per daf ("Save verdict" / "Save and next daf") to Supabase `outline_ab_votes`
 (`outline-ab-votes-migration.sql`, insert-only for the public key; a random tester id in the browser
 groups one tester's votes, and the latest row per tester and daf counts). The key stays in
-`outline/ab_key_round3.json`; `fetch_ab_votes.py` tallies and unblinds. Vercel project
+`outline/ab_key_round3.json` (gitignored: the repo is public, so the key and any fixed shuffle seed must
+never be committed; `build_ab_review.py` draws a new random assignment on every build); `fetch_ab_votes.py` tallies and unblinds. Vercel project
 `dovlinzers-projects/anydaf-outline-test`; rebuild into `ab-site/` without deleting `.vercel/`.
 
 #### Sages panel pilot (`build_sages.py`, 2026-09-24)

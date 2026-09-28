@@ -3,7 +3,7 @@
     python build_ab_review.py --tags opus55_medium opus55_high --out page.html \
         --dafim bekhorot_10 ... --key outline/ab_key.json
 
-Per daf, which tag is A and which is B is random (seeded, so a rebuild keeps the same assignment)
+Per daf, which tag is A and which is B is random (a new draw on every build; the key file is the only record)
 and is written only to the --key file, never into the page. Editorial fields (judgment_calls,
 coverage_notes, runners_up) are dropped, since testers shouldn't see them. Each daf has a vote
 panel (overall, structure, charts, pictures, notes). Votes stay in the tester's browser; "Copy my
@@ -129,7 +129,9 @@ def main():
     ap.add_argument("--out", required=True)
     ap.add_argument("--key", required=True, help="where to write which tag is A/B per daf (keep private)")
     ap.add_argument("--title", default="Outline Taste Test")
-    ap.add_argument("--seed", type=int, default=5786)
+    # No fixed default: the repo is public, so a seed in the code would let anyone rebuild the key.
+    # The assignment lives only in the --key file (gitignored); rebuilding draws a new one.
+    ap.add_argument("--seed", type=int, default=None, help="only for reproducible local tests")
     ap.add_argument("--round", default="round3", help="stored with each vote; names the key used to unblind")
     ap.add_argument("--hosted", metavar="DIR", help="also write a stand-alone site to DIR (index.html + vercel.json) "
                     "whose votes go to Supabase outline_ab_votes")
