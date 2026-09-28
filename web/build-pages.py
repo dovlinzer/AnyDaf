@@ -20,11 +20,14 @@ Requirements:
 
 Usage:
     cd /Users/dovlinzer/claudecode/AnyDaf/web
-    python3 build-pages.py --api-key AIzaSyAocLdmjrsJBIEXmnh0iri1S6L9OfNDqMc
+    python3 build-pages.py --api-key YOUR_API_KEY
 
+    # Or set the key via environment variable instead of the CLI flag:
+    export GOOGLE_API_KEY=YOUR_API_KEY
+    python3 build-pages.py
 
     # Add or update a specific tractate folder:
-    python3 build-pages.py --api-key KEY --tractate Berakhot --folder-id FOLDER_ID
+    python3 build-pages.py --api-key YOUR_API_KEY --tractate Berakhot --folder-id FOLDER_ID
 """
 
 import json
