@@ -95,7 +95,28 @@ button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-o
 .pageimg{flex:1;min-height:0;border:1px solid var(--line);border-radius:4px;overflow:auto;background:#FFF;overscroll-behavior:contain;touch-action:none}
 .pageimg.pan{cursor:grab}.pageimg.pan.grabbing{cursor:grabbing}
 .pageimg img{-webkit-user-drag:none;user-select:none;pointer-events:none}
-.pageimg img{display:block;width:calc(100% * var(--pz,1));max-width:none;height:auto}
+.pagewrap{position:relative;width:calc(100% * var(--pz,1))}
+.pageimg img{display:block;width:100%;max-width:none;height:auto}
+/* Live text: boxes from page_layout over the scan. The scan is always white, so these colors
+   don't change in dark mode. Strokes stay one pixel whatever the zoom. */
+.lay{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;overflow:visible}
+.lay rect{fill:transparent;stroke:none;vector-effect:non-scaling-stroke}
+.lay .g.on{fill:rgba(27,58,138,.15)}
+.lay .c.on{fill:rgba(154,98,18,.13)}
+.lay .hov{stroke:#1B3A8A;stroke-width:1.5}
+.lay .c.hov{stroke:#9A6212}
+.lay .sel{fill:rgba(27,58,138,.3)}
+.lay .c.sel{fill:rgba(154,98,18,.3)}
+.lay.off{display:none}
+.pagebar .laynote{font-size:12px;color:var(--amber)}
+.pagepop{position:relative;border:1px solid var(--line);border-radius:6px;background:var(--panel);box-shadow:var(--shadow);padding:10px 34px 10px 12px;max-height:38%;overflow:auto;font-size:14px}
+.pagepop .x{position:absolute;top:4px;right:6px;border:0;background:none;font-size:18px;color:var(--muted);cursor:pointer;padding:2px 6px}
+.pagepop .who{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 4px}
+.pagepop .he{font:400 1.08rem/1.7 var(--hebrew);direction:rtl;text-align:right;margin:2px 0}
+.pagepop .en{color:var(--muted);margin:4px 0 0}
+.pagepop .en b{color:var(--ink);font-weight:600}
+.pagepop .go{margin-top:8px}
+.pagepop .he b{font-weight:700}
 /* Size sliders at the foot of each side, as in AnyTorah web: the outline's also sizes the
    contents column; the text side's sizes the Gemara and shiur, and zooms the daf page. Text sizes
    use CSS zoom on the content, so the renderer's own proportions (headings, charts, pictures)
@@ -248,9 +269,11 @@ __SPRITE__
   <div class="pane" id="textPane"><div class="text zoomable" id="text"></div></div>
   <div class="pane" id="shiurPane" hidden><div class="shiur zoomable" id="shiur"></div></div>
   <div class="pane" id="pagePane" hidden><div class="page">
-   <div class="pagebar"><span class="folio" id="folio"></span><div class="seg" id="amudSeg" role="group" aria-label="Amud"></div></div>
-   <div class="pageimg" id="pageImg"><img id="pageEl" alt=""></div>
-   <p>Turns to the amud of the section you're reading. Zoom with the slider below, then drag the page (or scroll) to move around it.</p>
+   <div class="pagebar"><span class="folio" id="folio"></span><div class="seg" id="amudSeg" role="group" aria-label="Amud"></div>
+    <label class="tog"><input type="checkbox" id="layTog" checked> Highlight on the page</label><span class="laynote" id="layNote"></span></div>
+   <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg></div></div>
+   <div class="pagepop" id="pagePop" hidden role="status"></div>
+   <p>Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.</p>
   </div></div>
   <div class="foot" id="gemFoot"></div>
  </aside>
@@ -351,23 +374,80 @@ function renderDaf(d){
 function showAmud(a,manual){
  if(!a||!D.images[a]||a===amudShown)return;amudShown=a;
  $('pageEl').src=D.images[a];$('pageEl').alt=`${D.tractate} ${a}, Vilna page`;
+ drawLayout(a);
  $('folio').textContent=`${D.tractateHe} ${D.amudHe[a]||a}`;
  $('amudSeg').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.a===a)));
  if(manual)textHold=Date.now()+4000;
 }
+
+// ---------- live text on the daf page ----------
+// D.layouts[amud] = {g: {label: [[x,y,w,h]...]}, c: [{who, on, boxes, dh, text}], rough}, all in
+// fractions of the page (daf-processor/page_layout). Hit-testing is done here rather than by the
+// SVG, so dragging the page keeps working everywhere.
+let pageTapHold=0,hovEl=null;
+const layOf=a=>(D&&D.layouts&&D.layouts[a])||null;
+function drawLayout(a){const L=layOf(a),svg=$('pageLay');closePop();
+ $('layNote').textContent=!L?'No live text for this amud yet.':L.rough?'Line positions on this amud are approximate.':'';
+ if(!L){svg.innerHTML='';return}
+ const r=(b,cls,attr)=>`<rect class="${cls}" ${attr} x="${b[0]}" y="${b[1]}" width="${b[2]}" height="${b[3]}"/>`;
+ svg.innerHTML=Object.entries(L.g).map(([l,bs])=>bs.map(b=>r(b,'g',`data-l="${esc(l)}"`)).join('')).join('')
+  +L.c.map((c,i)=>c.boxes.map(b=>r(b,'c',`data-c="${i}"`)).join('')).join('');
+ if(current)markLayout(secs.find(x=>x.id===current))}
+function markLayout(s){const L=layOf(amudShown);if(!L||!s)return;const on=o=>s.a!=null&&o!=null&&o>=s.a&&o<=s.b;
+ $('pageLay').querySelectorAll('rect').forEach(el=>{const l=el.dataset.l??L.c[+el.dataset.c].on;el.classList.toggle('on',on(D.order[l]))})}
+// Stay on the amud in view when the section is on it; otherwise its first amud with live text.
+function pageAmudFor(s){const inRange=a=>{const L=layOf(a);return L&&Object.keys(L.g).some(l=>{const o=D.order[l];return o!=null&&o>=s.a&&o<=s.b})};
+ if(amudShown&&inRange(amudShown))return amudShown;
+ return D.amudim.find(a=>D.images[a]&&inRange(a))||s.from.split('.')[0]}
+function scrollPageTo(){const b=$('pageImg'),first=$('pageLay').querySelector('rect.g.on');if(!first)return;
+ const run=()=>{const br=b.getBoundingClientRect(),r=first.getBoundingClientRect();if(!r.height)return;
+  const top=r.top-br.top+b.scrollTop-b.clientHeight*.18,left=r.left+r.width/2-br.left+b.scrollLeft-b.clientWidth/2;
+  b.scrollTo({top:Math.max(0,top),left:Math.max(0,left),behavior:'smooth'})};
+ $('pageEl').complete?run():$('pageEl').addEventListener('load',run,{once:true})}
+function hitAt(x,y){const L=layOf(amudShown);if(!L)return null;const r=$('pageWrap').getBoundingClientRect();
+ const fx=(x-r.left)/r.width,fy=(y-r.top)/r.height,pad=.002;
+ const inb=b=>fx>=b[0]-pad&&fx<=b[0]+b[2]+pad&&fy>=b[1]-pad&&fy<=b[1]+b[3]+pad;
+ for(const [l,bs] of Object.entries(L.g))if(bs.some(inb))return{l};
+ for(let i=0;i<L.c.length;i++)if(L.c[i].boxes.some(inb))return{c:i};
+ return null}
+const hitSel=h=>h.l!=null?`rect.g[data-l="${CSS.escape(h.l)}"]`:`rect.c[data-c="${h.c}"]`;
+function hover(x,y){if($('pageLay').classList.contains('off'))return;const h=hitAt(x,y),sel=h?hitSel(h):null;
+ if(sel===hovEl)return;hovEl=sel;$('pageLay').querySelectorAll('.hov').forEach(e=>e.classList.remove('hov'));
+ if(sel)$('pageLay').querySelectorAll(sel).forEach(e=>e.classList.add('hov'));$('pageImg').style.cursor=sel?'pointer':''}
+function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains('off')){closePop();return}
+ $('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'));
+ $('pageLay').querySelectorAll(hitSel(h)).forEach(e=>e.classList.add('sel'));
+ const L=layOf(amudShown),pop=$('pagePop');let html='';
+ const line=l=>D.items.find(it=>it.l===l);
+ // Lines outside this daf's outline (the page shows the whole amud) belong to a neighbour's.
+ const ranged=secs.filter(x=>x.a!=null),lo=Math.min(...ranged.map(x=>x.a)),hi=Math.max(...ranged.map(x=>x.b));
+ const where=o=>o==null||!ranged.length?'':o<lo?'This line belongs to the previous daf\'s outline.':o>hi?'This line belongs to the next daf\'s outline.':'';
+ const go=l=>{const s=sectionForOrder(D.order[l]);if(s){pageTapHold=Date.now()+1500;setCurrent(s.id,true)}return s};
+ if(h.l!=null){const it=line(h.l),s=go(h.l),w=where(D.order[h.l]);
+  html=(s?`<p class="who">${md(s.title)}</p>`:'')+(it?`<p class="he" lang="he">${esc(it.he)}</p><p class="en">${md(it.en)}</p>`:'')
+   +(w||!it?`<p class="en"><i>${w||'This line is outside the daf\'s outline.'}</i></p>`:'')}
+ else{const c=L.c[h.c],it=line(c.on);go(c.on);
+  html=`<p class="who">${esc(c.who)}</p><p class="he" lang="he">${c.dh?`<b>${esc(c.dh)}</b> `:''}${esc(c.text)}</p>`
+   +(it?`<p class="en">On the Gemara: <span lang="he" dir="rtl">${esc(it.he.split(/\s+/).slice(0,6).join(' '))}…</span></p>`:'')}
+ pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+html;pop.hidden=false;
+ pop.querySelector('.x').onclick=closePop}
+function closePop(){$('pagePop').hidden=true;$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
+$('layTog').onchange=()=>{$('pageLay').classList.toggle('off',!$('layTog').checked);prefs.lay=$('layTog').checked;savePrefs();if(!$('layTog').checked)closePop()};
+$('layTog').checked=prefs.lay!==false;$('pageLay').classList.toggle('off',prefs.lay===false);
 
 // ---------- sync ----------
 function setCurrent(id,fromClick){
  const s=secs.find(x=>x.id===id);if(!s||(current===id&&!fromClick))return;
  current=id;view.markCurrent(id);railView&&railView.mark(id);
  const ranged=s.a!=null&&s.b!=null;
+ markLayout(s);
  itemEls.forEach((el,i)=>el.classList.toggle('in',ranged&&itemOrd[i]>=s.a&&itemOrd[i]<=s.b));
  quoteEls.forEach(q=>q.classList.toggle('in',ranged&&+q.dataset.o>=s.a&&+q.dataset.o<=s.b));
  $('now').innerHTML=`Reading <b>${md(s.title)}</b> · ${esc(s.amud||'')}`
   +(ranged?'':`<span class="approx">This outline predates line links, so the text follows by amud only.</span>`);
  if(fromClick){outHold=Date.now()+900;view.scrollToSection(id)}
  if(!$('syncTog').checked||Date.now()<textHold)return;
- if(mode==='page'){showAmud(ranged?s.from.split('.')[0]:s.am);return}
+ if(mode==='page'){showAmud(ranged?pageAmudFor(s):s.am);markLayout(s);if(Date.now()>pageTapHold)scrollPageTo();return}
  if(mode==='text'){let top=null;
   if(ranged){const i=itemOrd.findIndex(o=>o>=s.a);if(i>=0)top=posIn(textPane,itemEls[i])}
   else{const b=$('text').querySelector(`.amudbreak[data-amud="${CSS.escape(s.am)}"]`);if(b)top=posIn(textPane,b)}
@@ -408,10 +488,16 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
  b.scrollLeft=cx*z-b.clientWidth/2;b.scrollTop=cy*z-b.clientHeight/2}
 // Drag to move the page inside its frame (mouse, pen or touch).
 (function pan(){const b=$('pageImg');let st=null;
- b.addEventListener('pointerdown',e=>{if(e.button!==0)return;st={x:e.clientX,y:e.clientY,l:b.scrollLeft,t:b.scrollTop};b.setPointerCapture(e.pointerId);b.classList.add('grabbing')});
- b.addEventListener('pointermove',e=>{if(!st)return;b.scrollLeft=st.l-(e.clientX-st.x);b.scrollTop=st.t-(e.clientY-st.y)});
- const end=()=>{st=null;b.classList.remove('grabbing')};
- b.addEventListener('pointerup',end);b.addEventListener('pointercancel',end)})();
+ b.addEventListener('pointerdown',e=>{if(e.button!==0)return;st={x:e.clientX,y:e.clientY,l:b.scrollLeft,t:b.scrollTop,moved:false};b.setPointerCapture(e.pointerId)});
+ b.addEventListener('pointermove',e=>{if(!st){if(e.pointerType==='mouse')hover(e.clientX,e.clientY);return}
+  if(!st.moved&&Math.hypot(e.clientX-st.x,e.clientY-st.y)>6){st.moved=true;b.classList.add('grabbing')}
+  if(st.moved){b.scrollLeft=st.l-(e.clientX-st.x);b.scrollTop=st.t-(e.clientY-st.y)}});
+ // A press that doesn't move is a tap on the page: read the line or comment under it.
+ b.addEventListener('pointerup',e=>{const tap=st&&!st.moved;st=null;b.classList.remove('grabbing');if(tap)tapPage(e.clientX,e.clientY)});
+ b.addEventListener('pointercancel',()=>{st=null;b.classList.remove('grabbing')});
+ b.addEventListener('pointerleave',()=>{if(!st){hovEl=null;$('pageLay').querySelectorAll('.hov').forEach(x=>x.classList.remove('hov'));b.style.cursor=''}});
+ // wheel/trackpad scrolling of the page counts as the reader moving it
+ b.addEventListener('wheel',()=>pageTapHold=Date.now()+1500,{passive:true})})();
 const outSlider=slider($('outFoot'),{label:'Outline text size',steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.outSize=l;savePrefs();applyOut(l)}});
 // The text side's slider is font size for Gemara and shiur, zoom for the daf page (kept separately).
 let gemSlider=null;

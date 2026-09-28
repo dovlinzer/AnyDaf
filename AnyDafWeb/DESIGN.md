@@ -201,4 +201,6 @@ Hebrew/RTL interface mode (follow AnyTorahWeb's rules when it comes); the extend
 5. Glossary pages, once the master glossary has a first reviewed batch.
 6. The WebView bundle for iOS and Android.
 7. Daf image synced by line: per-amud layout JSON in Supabase, the current section highlighted on
-   the page, tap the page to move the outline (and, in the apps, the audio).
+   the page, tap the page to move the outline (and, in the apps, the audio). **Working in the
+   prototype since 2026-09-28** (layouts carried in each daf's data file); Supabase and the apps
+   remain.

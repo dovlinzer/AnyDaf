@@ -1744,6 +1744,23 @@ never fixed (Bekhorot's glyphs are ~10% smaller, and its Tosafot is smaller than
 for the margin gutters in the upper-middle band (bottom notes can span the full width); full-width
 lines above and below the Gemara each try both owners; overlapping line boxes are merged until none remain (otherwise shared glyphs are read twice); lines thinner than half the commentary type are ornament (BM 2a's decorated opening word was cut into slivers that ate Rashi's words; found by the author). `page_layout.viewer` builds a review page,
 `page_layout.report` the QC summary. Status and open items: TODO.md "Live-text daf image".
+Bava Batra from 29a prints Rashbam in Rashi's column: `fetch.inner_commentator()` swaps the
+name, and the refs read "Rashbam on Bava Batra 84a:…".
+
+**In the web prototype (2026-09-28).** Layouts now cover all 131 amudim the preview site shows
+(the 12 test dafim + the 30-daf batch; Gemara clean everywhere except 6 unplaced words on
+Yevamot 33b). `build_prototype.py`'s `page_layout()` puts a compact overlay per amud into each
+daf's data file (`layouts[amud] = {g: {label: boxes}, c: [{who, on, boxes, dh, text}], rough}`,
+boxes as fractions of the page so any image size fits; comment text is Sefaria's full Vilna text,
+split at the dibbur ha'matchil). In `app.html`'s Daf pane: an SVG over the scan marks the current
+section's Gemara lines in blue and the Rashi/Tosafot on those lines in amber; following the
+outline turns to an amud the section is on (staying on the one in view if the section is on it)
+and scrolls its first line into view; a tap (a press that doesn't move, so dragging still pans)
+on a Gemara line moves the outline there and shows the line's Hebrew and English, and on a
+comment shows its text and moves the outline to the Gemara it glosses; lines belonging to a
+neighbouring daf's outline say so; "Highlight on the page" turns it off; an amud whose Gemara
+alignment was flagged says positions are approximate. Hit-testing is done in JS, not by the SVG,
+so pointer capture for panning keeps working.
 
 #### AnyDafWeb — design + prototype (2026-09-24)
 

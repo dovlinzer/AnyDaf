@@ -219,8 +219,12 @@ daf's terms link to master entries from the start. Not built; awaiting the autho
           swallowed by the Rashi stream; Shita Mekubetzet note markers add unmatched words.
     - [ ] Bekhorot 13b, 16a, 17b Gemara; perek endings (Hadran) and openings.
     - [ ] Golden set (~20 hand-checked amudim) + regression test; run a full masechet.
-    - [ ] Store per-amud JSON (Supabase), then: highlight the outline section / audio segment on
-          the daf image in the web prototype; tap the image to jump.
+    - [x] Hooked into the web prototype (2026-09-28): layouts for all 131 amudim on the preview
+          site; the current section marked on the page (Rashi/Tosafot on its lines in amber),
+          tap a line or comment to read it and move the outline. Live on
+          https://anydaf-outlines.vercel.app (Daf pane) since 2026-09-28.
+    - [ ] Store per-amud JSON in Supabase (today it rides in each daf's data file), for the
+          Next.js app and the phone apps; then the audio segment on the page.
 
 ## Done recently (2026-09-25 to 27)
 

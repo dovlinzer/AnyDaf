@@ -101,8 +101,18 @@ def gemara(tractate: str, daf: int, amud: str) -> list[str]:
     return [clean(s) for s in _sefaria(sefaria_ref(tractate, daf, amud), GEMARA_VERSION)]
 
 
+def inner_commentator(name: str, tractate: str, daf: int) -> str:
+    """The commentary printed in the inner column: Rashi, except where the Vilna prints another
+    in its place (Rashbam on Bava Batra from 29a, where Rashi's own commentary breaks off)."""
+    if name == "Rashi" and tractate == "Bava Batra" and daf >= 29:
+        return "Rashbam"
+    return name
+
+
 def commentary(name: str, tractate: str, daf: int, amud: str) -> list[tuple[str, str]]:
-    """[(ref, text)] for Rashi or Tosafot on the amud, in Sefaria's order ('Rashi on Yevamot 3a:4:2')."""
+    """[(ref, text)] for Rashi (or the commentary printed in its place) or Tosafot on the amud,
+    in Sefaria's order ('Rashi on Yevamot 3a:4:2')."""
+    name = inner_commentator(name, tractate, daf)
     t = _sefaria(f"{name}_on_{sefaria_ref(tractate, daf, amud)}", COMMENTARY_VERSION)
     out = []
     for si, seg in enumerate(t, 1):
