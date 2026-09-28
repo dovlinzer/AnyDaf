@@ -1,0 +1,173 @@
+{
+ "key": "chagigah_6",
+ "tractate": "Chagigah",
+ "sages": [
+  {
+   "name": "רבי זירא",
+   "candidates": [
+    "rav-zera"
+   ],
+   "lines": [
+    "5b.24"
+   ],
+   "count": 1,
+   "first": "5b.24",
+   "ambiguous": false,
+   "pick": "rav-zera",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "6a.2",
+    "6a.7",
+    "6a.16"
+   ],
+   "count": 3,
+   "first": "6a.2",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "שמואל",
+   "candidates": [
+    "shmuel-(amora)"
+   ],
+   "lines": [
+    "6a.3"
+   ],
+   "count": 1,
+   "first": "6a.3",
+   "ambiguous": false,
+   "pick": "shmuel-(amora)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי שמעון",
+   "candidates": [
+    "shimon-bar-yochai"
+   ],
+   "lines": [
+    "6a.5"
+   ],
+   "count": 1,
+   "first": "6a.5",
+   "ambiguous": false,
+   "pick": "shimon-bar-yochai",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אלעזר",
+   "candidates": [
+    "rabbi-elazar-b-pedat",
+    "rabbi-elazar-b-shamua"
+   ],
+   "lines": [
+    "6a.16",
+    "6b.3"
+   ],
+   "count": 2,
+   "first": "6a.16",
+   "ambiguous": true,
+   "pick": "rabbi-elazar-b-shamua",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי ישמעאל",
+   "candidates": [
+    "rabbi-yishmael-b-elisha"
+   ],
+   "lines": [
+    "6a.16",
+    "6a.17",
+    "6b.9",
+    "6b.11"
+   ],
+   "count": 4,
+   "first": "6a.16",
+   "ambiguous": false,
+   "pick": "rabbi-yishmael-b-elisha",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי עקיבא",
+   "candidates": [
+    "rabbi-akiva"
+   ],
+   "lines": [
+    "6a.16",
+    "6b.1",
+    "6b.4",
+    "6b.6"
+   ],
+   "count": 4,
+   "first": "6a.16",
+   "ambiguous": false,
+   "pick": "rabbi-akiva",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוסי הגלילי",
+   "candidates": [
+    "rabbi-yose-hagelili"
+   ],
+   "lines": [
+    "6a.16",
+    "6b.6",
+    "6b.10",
+    "6b.11"
+   ],
+   "count": 4,
+   "first": "6a.16",
+   "ambiguous": false,
+   "pick": "rabbi-yose-hagelili",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב חסדא",
+   "candidates": [
+    "rav-chisda"
+   ],
+   "lines": [
+    "6b.12"
+   ],
+   "count": 1,
+   "first": "6b.12",
+   "ambiguous": false,
+   "pick": "rav-chisda",
+   "pick_by": "only"
+  },
+  {
+   "name": "מר זוטרא",
+   "candidates": [
+    "mar-zutra"
+   ],
+   "lines": [
+    "6b.13"
+   ],
+   "count": 1,
+   "first": "6b.13",
+   "ambiguous": false,
+   "pick": "mar-zutra",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב אחא בריה דרבא",
+   "candidates": [
+    "rav-aha-b-rava"
+   ],
+   "lines": [
+    "6b.14"
+   ],
+   "count": 1,
+   "first": "6b.14",
+   "ambiguous": false,
+   "pick": "rav-aha-b-rava",
+   "pick_by": "only"
+  }
+ ]
+}

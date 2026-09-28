@@ -1,0 +1,56 @@
+{"daf": "Shabbat 38", "key_terms": [
+  {
+    "term": "shehiyah",
+    "hebrew": "שהייה",
+    "sense": "leaving a pot on the stove before Shabbat so it continues cooking on Shabbat",
+    "definition": "The practice of placing food on a fire before Shabbat begins and leaving it there so that it continues to cook through Shabbat itself, as opposed to actively cooking on Shabbat.",
+    "on_this_daf": "The whole sugya asks whether one who left (or forgot) a pot on the stove may eat the resulting food, and whether the same unwitting/intentional distinction that applies to actual cooking applies to shehiyah as well.",
+    "aliases": ["shehiyah", "left a pot", "leaving a pot"],
+    "sections": ["s1","s2","s3","s4","s5","s6","s8"]
+  },
+  {
+    "term": "mitztamek ve-yafeh lo / mitztamek ve-ra lo",
+    "hebrew": "מצטמק ויפה לו / מצטמק ורע לו",
+    "sense": "whether extended cooking improves or spoils a food, as a marker of concern for stoking coals",
+    "definition": "A distinction between foods that shrivel and improve with prolonged cooking (mitztamek ve-yafeh lo), raising concern that one will stoke the coals, and foods that shrivel and deteriorate (mitztamek ve-ra lo), where no such concern exists.",
+    "on_this_daf": "R. Yehuda uses this distinction to permit fully heated water (which deteriorates with more cooking) but forbid fully cooked food (which improves), and the Gemara applies it to explain why R. Yosei forbade shriveled eggs but permitted hot water left on the stove.",
+    "aliases": ["mitztamek vera lo", "mitztamek veyafeh lo", "shrivels and improves", "shrivels and deteriorates"],
+    "sections": ["s4","s7","s9"]
+  },
+  {
+    "term": "garuf ve-katum",
+    "hebrew": "גרופה וקטומה",
+    "sense": "a stove swept of coals or covered with ashes, permitting food to be left on it",
+    "definition": "A stove (or oven/kupach) whose coals have been swept away or covered with ashes so that its heat is reduced; food may be left on such a stove even before Shabbat, since the reduced heat removes the concern that one will stoke the coals.",
+    "on_this_daf": "The Gemara reconciles R. Yehuda's apparently contradictory rulings by saying he permits leaving food on a swept/covered stove but forbids it on an unswept one, and similarly explains the kupach and oven rulings via whether they are swept and covered.",
+    "aliases": ["גרופה וקטומה", "swept and covered with ashes", "swept and covered"],
+    "sections": ["s7","s17"]
+  },
+  {
+    "term": "chazarah",
+    "hebrew": "החזרה",
+    "sense": "returning a pot removed from the stove back onto the stove on Shabbat",
+    "definition": "The question of whether, and under what conditions, one who removed a pot of food from a fire on Shabbat may put it back, given concern that doing so might lead to stoking the coals.",
+    "on_this_daf": "The Gemara discusses whether Beit Hillel's permission to return a pot applies even on Shabbat itself, and debates whether the pot's status changes once it is set on the ground or once the owner no longer intends to return it.",
+    "aliases": ["returning a pot", "chazarah", "return it"],
+    "sections": ["s10","s11","s12","s13","s14"]
+  },
+  {
+    "term": "kupach",
+    "hebrew": "כופח",
+    "sense": "a small single-pot heating apparatus, intermediate between a stove and an oven",
+    "definition": "A cooking apparatus smaller and hotter than a stove but cooler than an oven, holding only one pot; its halakhic status shifts between that of a stove and an oven depending on what fuel is used to light it.",
+    "on_this_daf": "The Mishnah rules that a kupach lit with light fuel (straw/rakings) is treated like a stove while one lit with heavy fuel (pomace/wood) is treated like an oven, and the Gemara works out the details of leaning, placing atop, and its physical size versus a stove.",
+    "aliases": ["kupach", "כופח"],
+    "sections": ["s15","s16","s17","s18","s19"]
+  },
+  {
+    "term": "chatat",
+    "hebrew": "חטאת",
+    "sense": "sin-offering liability for unwitting Torah-level Shabbat labor",
+    "definition": "The sacrifice one must bring for having unwittingly performed a labor prohibited by Torah law on Shabbat; its applicability marks an act as a genuine Torah-level violation of cooking (or another melacha) rather than a merely rabbinic prohibition.",
+    "on_this_daf": "Rav Yosef rules that one who roasted an egg beside a hot urn is liable to a chatat, treating this indirect heating as the Torah-level labor of cooking.",
+    "aliases": ["chatat", "sin-offering"],
+    "sections": ["s23"]
+  }
+]}

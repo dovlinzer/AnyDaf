@@ -1,0 +1,67 @@
+{
+ "key": "bava_metzia_4",
+ "tractate": "Bava Metzia",
+ "sages": [
+  {
+   "name": "רב ששת",
+   "candidates": [
+    "rav-sheshet"
+   ],
+   "lines": [
+    "4a.16",
+    "4a.17"
+   ],
+   "count": 2,
+   "first": "4a.16",
+   "ambiguous": false,
+   "pick": "rav-sheshet",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי שמעון בן אלעזר",
+   "candidates": [
+    "rabbi-shimon-b-elazar"
+   ],
+   "lines": [
+    "4b.1",
+    "4b.2",
+    "4b.4"
+   ],
+   "count": 3,
+   "first": "4b.1",
+   "ambiguous": false,
+   "pick": "rabbi-shimon-b-elazar",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי עקיבא",
+   "candidates": [
+    "rabbi-akiva"
+   ],
+   "lines": [
+    "4b.1",
+    "4b.7",
+    "4b.9"
+   ],
+   "count": 3,
+   "first": "4b.1",
+   "ambiguous": false,
+   "pick": "rabbi-akiva",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי חייא",
+   "candidates": [
+    "rabbi-chiyya"
+   ],
+   "lines": [
+    "4b.10"
+   ],
+   "count": 1,
+   "first": "4b.10",
+   "ambiguous": false,
+   "pick": "rabbi-chiyya",
+   "pick_by": "only"
+  }
+ ]
+}

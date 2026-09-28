@@ -1,0 +1,1027 @@
+{
+ "daf": "Kiddushin 5",
+ "scope": {
+  "start": "4b: the baraita's source for betrothal by *biah*, *u'be'alah*, and the *kal va'chomer* from *yevamah* (4b.10)",
+  "end": "6a: the Gemara's answer on Shmuel's formulas, 'when a man takes' and 'and sends her' (6a.1)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "*Biah*: The Verse *U'be'alah*, or a *Kal Va'chomer* from *Yevamah*?",
+   "amud": "4b",
+   "text": {
+    "from": "4b.10",
+    "to": "4b.13"
+   },
+   "gist": "Continuing the baraita's sources for the three modes of betrothal: *u'be'alah* teaches acquisition by *biah*, and the Gemara shows why a *kal va'chomer* from *yevamah* would not be enough.",
+   "bullets": [
+    {
+     "text": "The sugya keeps weighing three relationships against one another: *yibbum*, the *amah ivriyah* and ordinary marriage. Sorting out which comparisons hold goes to what *kiddushin* actually is.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "In the background is a question raised several dafim later: does *biah* effect only *kiddushin*, or *kiddushin* and *nissuin* together?",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "illustration": {
+    "caption": "The three women the Gemara compares on 4b: a *yevamah* is acquired by *biah* but not by money, an *amah ivriyah* by money but not by *biah*, and an ordinary woman by money, and by *biah* only because the verse says *u'be'alah*.",
+    "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three panels: a yevamah beside the yavam, acquired by biah but not by money; an amah ivriyah, acquired by money but not by biah; an ordinary woman, acquired by money and, through the verse, by biah.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"280\" height=\"400\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"310\" y=\"15\" width=\"280\" height=\"400\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"605\" y=\"15\" width=\"280\" height=\"400\" rx=\"14\" fill=\"#E3EEEC\"/><text x=\"155\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1B3A8A\">Yevamah</text><text x=\"155\" y=\"76\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#3A5692\">יבמה</text><text x=\"450\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#9A6212\">Amah Ivriyah</text><text x=\"450\" y=\"76\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#7A4A2A\">אמה עבריה</text><text x=\"745\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#50706E\">An Ordinary Woman</text><text x=\"745\" y=\"76\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#50706E\">אשה</text><use href=\"#woman\" x=\"95\" y=\"90\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"165\" y=\"90\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><text x=\"125\" y=\"228\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">yevamah</text><text x=\"195\" y=\"228\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">yavam</text><use href=\"#woman\" x=\"420\" y=\"90\" width=\"60\" height=\"120\" style=\"color:#6A4F7A\"/><use href=\"#woman\" x=\"715\" y=\"90\" width=\"60\" height=\"120\" style=\"color:#A8436E\"/><text x=\"40\" y=\"270\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Acquired by money</text><use href=\"#mark-no\" x=\"230\" y=\"249\" width=\"32\" height=\"32\"/><text x=\"40\" y=\"320\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Acquired by biah</text><use href=\"#mark-ok\" x=\"230\" y=\"299\" width=\"32\" height=\"32\"/><text x=\"335\" y=\"270\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Acquired by money</text><use href=\"#mark-ok\" x=\"525\" y=\"249\" width=\"32\" height=\"32\"/><text x=\"335\" y=\"320\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Acquired by biah</text><use href=\"#mark-no\" x=\"525\" y=\"299\" width=\"32\" height=\"32\"/><text x=\"630\" y=\"270\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Acquired by money</text><use href=\"#mark-ok\" x=\"820\" y=\"249\" width=\"32\" height=\"32\"/><text x=\"630\" y=\"320\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Acquired by biah</text><use href=\"#mark-ok\" x=\"820\" y=\"299\" width=\"32\" height=\"32\"/><text x=\"155\" y=\"364\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Rav Ashi: she is bound to the</text><text x=\"155\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">yavam and waiting for him</text><text x=\"450\" y=\"364\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Acquired as a servant,</text><text x=\"450\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">not for marriage</text><text x=\"745\" y=\"364\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Biah learned from the verse</text><text x=\"745\" y=\"394\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" fill=\"#50706E\">וּבְעָלָהּ</text><text x=\"450\" y=\"444\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Kiddushin 4b · why the kal va'chomer from yevamah does not suffice</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "*Kal Va'chomer* from *Yevamah*; *Amah Ivriyah* Refutes, Then Is Dismissed",
+     "amud": "4b",
+     "text": {
+      "from": "4b.10",
+      "to": "4b.11"
+     },
+     "gist": "If a *yevamah*, not acquired by money, is acquired by *biah*, then surely a woman acquired by money is too. The *amah ivriyah* counterexample is dismissed because hers is not a marital acquisition.",
+     "bullets": [
+      {
+       "text": "Baraita: \"and engages in intercourse with her\" (*u'be'alah*, Devarim 24:1) teaches that a woman is acquired through *biah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why is a verse needed? By *kal va'chomer*: a *yevamah* cannot be acquired by money yet is acquired by *biah*, so this woman, who can be acquired by money, should all the more be acquired by *biah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Refutation: the *amah ivriyah* is acquired by money but not by *biah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Dismissed: her acquisition is not for marriage, while this woman's is. So the *kal va'chomer* seems to stand.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot complicates the dismissal: through *ye'ud* the master may designate the *amah ivriyah* as a wife for himself or his son, with the original purchase money serving as the betrothal. Her status does have a marital side.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Rav Ashi: The *Yevamah* Is Bound and Waiting",
+     "amud": "4b",
+     "text": {
+      "from": "4b.12",
+      "to": "4b.13"
+     },
+     "gist": "Rav Ashi refutes the *kal va'chomer* at its own premise: *biah* suffices for a *yevamah* only because she is already bound to the *yavam*.",
+     "bullets": [
+      {
+       "text": "The Gemara asks again why the verse is needed. Rav Ashi: the *kal va'chomer* can be refuted from the outset, at the source of *biah* itself, the *yevamah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *yevamah* is *zekukah ve'omedet*: bound to the *yavam* and waiting for him to act, so *biah* is enough to make her his wife. An ordinary woman is bound to no one.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the *kal va'chomer* does not hold up, and the verse *u'be'alah* is needed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Behind Rav Ashi stands the tannaitic dispute over whether there is *zikah* at all, and how strong it is. On some views it approaches *kiddushin*, so that *yibbum* only completes a relationship that already exists.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "*Shtar*: A Failed *Kal Va'chomer*, a *Hekesh*, and No Divorce by Money",
+   "amud": "5a",
+   "text": {
+    "from": "5a.1",
+    "to": "5a.11"
+   },
+   "gist": "The source for betrothal by document: a *kal va'chomer* from money fails, the *hekesh havayah le'yetziah* succeeds, and Abaye, Rava and R. Yosei HaGelili explain why money cannot also divorce.",
+   "bullets": [
+    {
+     "text": "The sugya follows a set template: propose a *kal va'chomer*, refute it, then bring a verse. A logical derivation is preferred because it uses up no verse.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [
+    {
+     "id": "s5",
+     "title": "*Kal Va'chomer* from Money, Refuted: Money Redeems *Hekdesh*",
+     "amud": "5a",
+     "text": {
+      "from": "5a.1",
+      "to": "5a.2"
+     },
+     "gist": "If money, which cannot divorce, can betroth, surely a document, which can divorce, can too. Refuted: money has a unique power to redeem *hekdesh* and *ma'aser sheni*.",
+     "bullets": [
+      {
+       "text": "Baraita: from where do we know a woman is acquired even by a document? By *kal va'chomer*: money does not release a woman yet brings her in; a document releases her (as a *get*), so it should bring her in.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashba: the argument is serious, since the power to permit (*koach de'heteira adif*) is the stronger one. Creating a prohibition is easy; freeing a married woman to marry anyone takes real legal force.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Documents carry great legal weight generally: R. Yochanan treats witnesses signed on a document as though their testimony had already been examined in court.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Refutation: money acquires in many contexts. It redeems *hekdesh* and *ma'aser sheni*, and a document cannot. Source: \"he will give the money and it will be assured to him\" (Vayikra 27:19).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi imagines redeeming *ma'aser sheni* with a document of debt. Rashba objects: a betrothal document and a *get* are documents that effect the transaction, not documents of debt, so that is the kind of document to picture.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The redemption comparison echoes 2b, where betrothal forbids the woman to all \"like *hekdesh*\". The parallel between the two transfers of status is real but imperfect.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s6",
+     "title": "*Hekesh Havayah Le'yetziah*: Documents Work Both Ways, Money Only for Betrothal",
+     "amud": "5a",
+     "text": {
+      "from": "5a.3",
+      "to": "5a.5"
+     },
+     "gist": "Betrothal by document is learned from divorce by *get*. Abaye blocks the reverse (divorce by money): a *sanegor* cannot become a *kategor*. Documents escape the same objection because their texts differ, and coins do not.",
+     "bullets": [
+      {
+       "text": "\"She leaves his house... and becomes another man's\" (Devarim 24:2) juxtaposes becoming (betrothal) to leaving (divorce). As leaving is by document, so is becoming.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: then juxtapose leaving to becoming. As becoming is by money, let leaving be by money.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: people would say \"money brings in and money releases\". Can a *sanegor* (advocate) become a *kategor* (prosecutor)?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: then a document too would bring in and release, and a *kategor* would become a *sanegor*. Answer: the words of each document are distinct.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: coins are distinct too, one given for betrothal and another for divorce. Answer: the coin itself is one kind. Nothing visibly distinguishes them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The difference is fungibility. Money's essence is that any coin replaces any other. A document is a particular object with its own text, so no one would mistake a *get* for a betrothal document.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The same principle, *ein kategor na'aseh sanegor*, rules out a cow's horn as a shofar and gold garments for the Kohen Gadol in the Holy of Holies. The Gemara applies it selectively.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "How far the *hekesh* reaches: the Ba'al HaItur forbids land as betrothal money, importing the restrictions on a *get*. Rashba permits it, holding that the *hekesh* governs only documents.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Whether a *hekesh* built into a verse makes all three modes Torah law bears on the Rambam's shifting position. The teshuvot of R. Avraham ben HaRambam conclude that all three are Torah law.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Abaye's *sanegor* and *kategor* (5a): two documents with different texts can serve betrothal and divorce, but a coin is one and the same for both, so money betroths and does not divorce.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a betrothal document and a bill of divorce, each with its own wording, both valid. Right: a coin that brings a woman in by betrothal is valid, but the same coin cannot release her by divorce.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"425\" height=\"405\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1B3A8A\">Documents</text><text x=\"227\" y=\"74\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">The words of each document are distinct</text><rect x=\"45\" y=\"95\" width=\"170\" height=\"190\" rx=\"6\" fill=\"#FFFDF7\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><text x=\"130\" y=\"122\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Betrothal document</text><text x=\"130\" y=\"162\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#3A5692\">הרי את מקודשת לי</text><path d=\"M65 192 h130 M65 210 h130 M65 228 h130 M65 246 h100\" stroke=\"#D9CFBD\" stroke-width=\"3\"/><rect x=\"240\" y=\"95\" width=\"170\" height=\"190\" rx=\"6\" fill=\"#FFFDF7\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><text x=\"325\" y=\"122\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Bill of divorce (get)</text><text x=\"325\" y=\"162\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#3A5692\">הרי את מותרת לכל אדם</text><path d=\"M260 192 h130 M260 210 h130 M260 228 h130 M260 246 h100\" stroke=\"#D9CFBD\" stroke-width=\"3\"/><use href=\"#mark-ok\" x=\"112\" y=\"298\" width=\"36\" height=\"36\"/><text x=\"130\" y=\"356\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Betroths</text><use href=\"#mark-ok\" x=\"307\" y=\"298\" width=\"36\" height=\"36\"/><text x=\"325\" y=\"356\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Divorces</text><text x=\"227\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Hekesh: “she leaves… and becomes another’s”</text><text x=\"227\" y=\"404\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Devarim 24:2</text><rect x=\"460\" y=\"15\" width=\"425\" height=\"405\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#9A6212\">Money</text><text x=\"672\" y=\"74\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">“The coin itself is one”</text><circle cx=\"520\" cy=\"150\" r=\"26\" fill=\"#D9B45A\" stroke=\"#9A7440\" stroke-width=\"2\"/><circle cx=\"520\" cy=\"150\" r=\"17\" fill=\"none\" stroke=\"#9A7440\" stroke-width=\"1.5\"/><path d=\"M556 150 H598\" stroke=\"#5B4636\" stroke-width=\"3\"/><path d=\"M604 150 l-10 -6 v12 z\" fill=\"#5B4636\"/><text x=\"614\" y=\"146\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Brings her in</text><text x=\"614\" y=\"166\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">betrothal</text><use href=\"#mark-ok\" x=\"816\" y=\"130\" width=\"40\" height=\"40\"/><circle cx=\"520\" cy=\"250\" r=\"26\" fill=\"#D9B45A\" stroke=\"#9A7440\" stroke-width=\"2\"/><circle cx=\"520\" cy=\"250\" r=\"17\" fill=\"none\" stroke=\"#9A7440\" stroke-width=\"1.5\"/><path d=\"M556 250 H598\" stroke=\"#5B4636\" stroke-width=\"3\"/><path d=\"M604 250 l-10 -6 v12 z\" fill=\"#5B4636\"/><text x=\"614\" y=\"246\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Releases her</text><text x=\"614\" y=\"266\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">divorce</text><use href=\"#mark-no\" x=\"816\" y=\"230\" width=\"40\" height=\"40\"/><text x=\"672\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Abaye: people would say</text><text x=\"672\" y=\"348\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">“money brings in and money releases”:</text><text x=\"672\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">can a sanegor become a kategor?</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s7",
+     "title": "Rava: '*Ve'khatav Lah*': Writing Divorces, Money Does Not",
+     "amud": "5a",
+     "text": {
+      "from": "5a.6",
+      "to": "5a.7"
+     },
+     "gist": "Rava gives a second source against divorce by money, and the Gemara explains why the verse excludes a mode of divorce rather than betrothal by document.",
+     "bullets": [
+      {
+       "text": "Rava: \"and he writes her a scroll of severance\" (Devarim 24:3): she is divorced through writing, not through money.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: read it instead as \"divorced through writing, not betrothed through writing\". Answer: \"she leaves and becomes\" juxtaposes betrothal to divorce, so betrothal by document stands.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: why not the reverse, with the juxtaposition teaching that money works for both and \"he writes\" limiting writing to divorce? Answer: a verse about divorce excludes another mode of divorce, not a mode of betrothal.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s6",
+       "note": "A second answer to the reverse *hekesh*: why money cannot divorce"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "*Sefer Keritut*: No Money Divorce, or a *Get* That Fully Severs?",
+     "amud": "5a",
+     "text": {
+      "from": "5a.8",
+      "to": "5a.11"
+     },
+     "gist": "R. Yosei HaGelili, who expounds '*ve'khatav lah*' otherwise, learns from '*sefer keritut*' that only a document severs. The Rabbis learn from it that a *get* must sever fully, which he derives from the fuller form *keritut*.",
+     "bullets": [
+      {
+       "text": "R. Yosei HaGelili uses \"he writes her\" for a different exposition. His source against divorce by money: \"a scroll of severance\". A scroll severs her, and nothing else does.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Rabbis need *sefer keritut* for another rule: the *get* must be something that severs him from her entirely.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Baraita (Tosefta Gittin 5:12): \"this is your *get* on condition that you never drink wine\", or \"never go to your father's house\", is not severance. A condition for thirty days is.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The boundary cases (fifty years, a condition lasting until one party dies) are taken up by Rashba in a teshuvah and by Tosafot.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "R. Yosei HaGelili learns the full-severance rule from the verse's use of *keritut* rather than the basic *karet*. The Rabbis do not expound that difference.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "Two readings of \"he writes her a scroll of severance\"",
+      "columns": [
+       "",
+       "Why money cannot divorce",
+       "Why a *get* must sever fully",
+       "*Karet* vs. *keritut*"
+      ],
+      "rows": [
+       [
+        "R. Yosei HaGelili",
+        "\"*Sefer keritut*\": a scroll severs, nothing else",
+        "From the fuller form *keritut*",
+        "Expounded"
+       ],
+       [
+        "The Rabbis",
+        "\"*Ve'khatav lah*\": by writing, not money (Rava)",
+        "From \"*sefer keritut*\"",
+        "Not expounded"
+       ]
+      ]
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "One Mode from the Other Two? Benefit, Wide Acquisition, Against Her Will",
+   "amud": "5a",
+   "text": {
+    "from": "5a.12",
+    "to": "5a.15"
+   },
+   "gist": "Could any one mode be derived from the other two by *tzad ha'shaveh*? Each time, the other two share a feature the third lacks: great benefit, wide use as acquisition, or working against her will.",
+   "bullets": [
+    {
+     "text": "No mode can be derived from any single other one. Why not derive one from the other two together?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "A document from *biah* and money? Their benefit (*hana'ah*) is great, and a woman gets no enjoyment from receiving a document.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Sha'ar HaMelekh: if *biah* works through *hana'ah*, what of unnatural intercourse, which gives less? Perhaps *hana'ah* describes the category and is not the mechanism. The act of acquisition itself is what counts.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "*Biah* from money and a document? Their acquisition is great: they acquire in many other areas. *Biah* is an unusual acquisition.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Tosafot (on 3a) considers comparing *biah* to *chazakah* in land, a physical act showing the tie between acquirer and acquired, and rejects it.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Money from *biah* and a document? Those work against her will: a *yavam* acquires a *yevamah* by *biah* against her will, and a *get* releases her without her consent.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Objection: money also works against her will, when a father sells his daughter as an *amah ivriyah*. Answer: in marriage, money never acquires a woman against her will. So no mode is derived from the others.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Tosafot: the father acts for his minor daughter, who has no *da'at* of her own, so even that sale is not strictly against her will.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Three processes yield one legal result, yet each has its own character: a document gives no benefit, *biah* is not a general acquisition, and money in marriage never overrides her will.",
+     "detail": 2,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "Why no mode of betrothal can be derived from the other two",
+    "columns": [
+     "Mode to derive",
+     "From",
+     "What those two share",
+     "Why the third lacks it"
+    ],
+    "rows": [
+     [
+      "Document",
+      "*Biah* and money",
+      "Great benefit (*hana'ah*)",
+      "A woman gets no enjoyment from a document"
+     ],
+     [
+      "*Biah*",
+      "Money and document",
+      "Great acquisition: they acquire in many areas",
+      "*Biah* is an unusual acquisition"
+     ],
+     [
+      "Money",
+      "*Biah* and document",
+      "They work against her will (a *yavam*'s *biah*, a *get*)",
+      "In marriage, money never acquires against her will"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The three modes of betrothal as a triangle (5a): along each side is what the two modes at its ends share, which the mode opposite lacks, so none can be derived from the other two.",
+    "svg": "<svg viewBox=\"0 0 900 470\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A triangle with kesef at the top, biah at the bottom left and shtar at the bottom right. Each side names the feature its two modes share: great benefit, wide acquisition, working against her will.</title><rect width=\"900\" height=\"470\" fill=\"#FBF8F1\"/><text x=\"30\" y=\"42\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">One mode from the other two?</text><path d=\"M450 95 L190 370 L710 370 Z\" fill=\"#F4EFE4\" stroke=\"#C9C1B2\" stroke-width=\"3\"/><circle cx=\"450\" cy=\"95\" r=\"48\" fill=\"#1B3A8A\"/><text x=\"450\" y=\"101\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"17\" font-weight=\"600\" fill=\"#FFFFFF\">Kesef</text><circle cx=\"190\" cy=\"370\" r=\"48\" fill=\"#9A6212\"/><text x=\"190\" y=\"376\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"17\" font-weight=\"600\" fill=\"#FFFFFF\">Biah</text><circle cx=\"710\" cy=\"370\" r=\"48\" fill=\"#50706E\"/><text x=\"710\" y=\"376\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"17\" font-weight=\"600\" fill=\"#FFFFFF\">Shtar</text><text x=\"450\" y=\"172\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#1B3A8A\">כסף</text><text x=\"450\" y=\"192\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">money</text><text x=\"190\" y=\"442\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#9A6212\">ביאה</text><text x=\"190\" y=\"462\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">intercourse</text><text x=\"710\" y=\"442\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#50706E\">שטר</text><text x=\"710\" y=\"462\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">document</text><text x=\"300\" y=\"180\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Money + biah share:</text><text x=\"300\" y=\"200\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">great benefit (hana'ah)</text><text x=\"300\" y=\"220\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">a document gives none</text><text x=\"600\" y=\"180\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Money + document share:</text><text x=\"600\" y=\"200\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">acquisition in many areas</text><text x=\"600\" y=\"220\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">biah is unusual</text><text x=\"450\" y=\"412\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Biah + document share: they work against her will</text><text x=\"450\" y=\"432\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">a yavam's biah, a get; in marriage money never does</text><text x=\"450\" y=\"272\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">None can be derived:</text><text x=\"450\" y=\"294\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">each lacks what the</text><text x=\"450\" y=\"314\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">other two share</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s10",
+   "title": "Rav Huna: Does *Chuppah* Betroth by *Kal Va'chomer*?",
+   "amud": "5a–5b",
+   "text": {
+    "from": "5a.16",
+    "to": "5b.9"
+   },
+   "gist": "Rav Huna argues that *chuppah* can betroth on its own. His *terumah* argument fails, his 'completes the marriage' argument survives a *tzad ha'shaveh* cycle, and Abaye answers Rava's two objections.",
+   "bullets": [
+    {
+     "text": "*Chuppah* is the second stage, *nissuin*. The rishonim hold some seven views of what it consists of: a shared garment, a canopy, veiling the bride, *yichud*, *biah*, entering the husband's home, and more.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [
+    {
+     "id": "s11",
+     "title": "First Version: *Chuppah* Permits *Terumah*, Money Does Not",
+     "amud": "5a",
+     "text": {
+      "from": "5a.16",
+      "to": "5a.18"
+     },
+     "gist": "Rav Huna's first *kal va'chomer* collapses because, as Ulla says, betrothal money already permits *terumah* by Torah law.",
+     "bullets": [
+      {
+       "text": "Rav Huna: *chuppah* acquires by *kal va'chomer*. Money does not let a *bat Yisrael* betrothed to a *kohen* eat *terumah*, yet it acquires; *chuppah* does let her eat, so it should acquire.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge from Ulla: by Torah law a betrothed *bat Yisrael* eats *terumah*, since \"a *kohen* who buys a soul, the acquisition of his money (*kinyan kaspo*), may eat\" (Vayikra 22:11). She is his *kinyan kaspo*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Sages forbade her only by decree, lest they pour her a cup of *terumah* wine in her father's house and she share it with her brothers and sisters.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So money does permit *terumah* by Torah law, and the *kal va'chomer* fails.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "Second Version: *Chuppah* Completes the Marriage, Tested by *Tzad Ha'shaveh*",
+     "amud": "5a–5b",
+     "text": {
+      "from": "5a.19",
+      "to": "5b.5"
+     },
+     "gist": "Recast as 'money does not complete the marriage, *chuppah* does', the argument survives three rounds: redemption and *yevamah*, benefit and divorce, and working against her will.",
+     "bullets": [],
+     "illustration": {
+      "caption": "The rounds of Rav Huna's second argument (5a–5b): each objection to learning *chuppah* from the other modes is answered by another mode, until Rav Huna answers the last one himself.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Five columns of objections and answers: redemption, yevamah, benefit, divorce and her will. A band below states the common ground, beside a drawing of a chuppah.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Rav Huna’s chuppah: each objection is answered</text><rect x=\"20\" y=\"56\" width=\"160\" height=\"40\" rx=\"10\" fill=\"#1B3A8A\"/><text x=\"100\" y=\"81\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Redemption</text><rect x=\"195\" y=\"56\" width=\"160\" height=\"40\" rx=\"10\" fill=\"#1B3A8A\"/><text x=\"275\" y=\"81\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Yevamah</text><rect x=\"370\" y=\"56\" width=\"160\" height=\"40\" rx=\"10\" fill=\"#9A6212\"/><text x=\"450\" y=\"81\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Benefit</text><rect x=\"545\" y=\"56\" width=\"160\" height=\"40\" rx=\"10\" fill=\"#9A6212\"/><text x=\"625\" y=\"81\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Divorce</text><rect x=\"720\" y=\"56\" width=\"160\" height=\"40\" rx=\"10\" fill=\"#50706E\"/><text x=\"800\" y=\"81\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Her will</text><g font-family=\"Public Sans, system-ui, sans-serif\" text-anchor=\"middle\"><rect x=\"20\" y=\"108\" width=\"160\" height=\"92\" rx=\"10\" fill=\"#F3E6D8\"/><rect x=\"195\" y=\"108\" width=\"160\" height=\"92\" rx=\"10\" fill=\"#F3E6D8\"/><rect x=\"370\" y=\"108\" width=\"160\" height=\"92\" rx=\"10\" fill=\"#F3E6D8\"/><rect x=\"545\" y=\"108\" width=\"160\" height=\"92\" rx=\"10\" fill=\"#F3E6D8\"/><rect x=\"720\" y=\"108\" width=\"160\" height=\"92\" rx=\"10\" fill=\"#F3E6D8\"/><rect x=\"20\" y=\"210\" width=\"160\" height=\"92\" rx=\"10\" fill=\"#E3EAF3\"/><rect x=\"195\" y=\"210\" width=\"160\" height=\"92\" rx=\"10\" fill=\"#E3EAF3\"/><rect x=\"370\" y=\"210\" width=\"160\" height=\"92\" rx=\"10\" fill=\"#E3EAF3\"/><rect x=\"545\" y=\"210\" width=\"160\" height=\"92\" rx=\"10\" fill=\"#E3EAF3\"/><rect x=\"720\" y=\"210\" width=\"160\" height=\"92\" rx=\"10\" fill=\"#E3EAF3\"/><text x=\"100\" y=\"128\" font-size=\"12\" font-weight=\"600\" fill=\"#6B4A1A\">Objection</text><text x=\"275\" y=\"128\" font-size=\"12\" font-weight=\"600\" fill=\"#6B4A1A\">Objection</text><text x=\"450\" y=\"128\" font-size=\"12\" font-weight=\"600\" fill=\"#6B4A1A\">Objection</text><text x=\"625\" y=\"128\" font-size=\"12\" font-weight=\"600\" fill=\"#6B4A1A\">Objection</text><text x=\"800\" y=\"128\" font-size=\"12\" font-weight=\"600\" fill=\"#6B4A1A\">Objection</text><text x=\"100\" y=\"230\" font-size=\"12\" font-weight=\"600\" fill=\"#1B3A8A\">Answer</text><text x=\"275\" y=\"230\" font-size=\"12\" font-weight=\"600\" fill=\"#1B3A8A\">Answer</text><text x=\"450\" y=\"230\" font-size=\"12\" font-weight=\"600\" fill=\"#1B3A8A\">Answer</text><text x=\"625\" y=\"230\" font-size=\"12\" font-weight=\"600\" fill=\"#1B3A8A\">Answer</text><text x=\"800\" y=\"230\" font-size=\"12\" font-weight=\"600\" fill=\"#1B3A8A\">Answer</text><g font-size=\"13\" fill=\"#1A1F2E\"><text x=\"100\" y=\"150\">Money redeems</text><text x=\"100\" y=\"168\">hekdesh and</text><text x=\"100\" y=\"186\">ma'aser sheni</text><text x=\"100\" y=\"252\">Biah redeems</text><text x=\"100\" y=\"270\">nothing, yet</text><text x=\"100\" y=\"288\">betroths</text><text x=\"275\" y=\"150\">Biah acquires</text><text x=\"275\" y=\"168\">a yevamah</text><text x=\"275\" y=\"252\">Money can’t,</text><text x=\"275\" y=\"270\">yet betroths</text><text x=\"450\" y=\"150\">Money and biah</text><text x=\"450\" y=\"168\">give great benefit</text><text x=\"450\" y=\"252\">A document gives</text><text x=\"450\" y=\"270\">none, yet betroths</text><text x=\"625\" y=\"150\">A document</text><text x=\"625\" y=\"168\">releases (get)</text><text x=\"625\" y=\"252\">Money and biah</text><text x=\"625\" y=\"270\">don’t, yet betroth</text><text x=\"800\" y=\"150\">All three work</text><text x=\"800\" y=\"168\">against her will</text><text x=\"800\" y=\"252\">Rav Huna: in</text><text x=\"800\" y=\"270\">marriage, money</text><text x=\"800\" y=\"288\">never does</text></g></g><rect x=\"20\" y=\"322\" width=\"680\" height=\"76\" rx=\"12\" fill=\"#EFE6D2\"/><text x=\"360\" y=\"352\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Each time: they generally acquire, and they acquire here,</text><text x=\"360\" y=\"376\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">so chuppah, which generally acquires, should acquire here too</text><rect x=\"742\" y=\"340\" width=\"6\" height=\"70\" fill=\"#8B6A4E\"/><rect x=\"862\" y=\"340\" width=\"6\" height=\"70\" fill=\"#8B6A4E\"/><path d=\"M736 344 Q805 318 874 344 L874 352 Q805 332 736 352 Z\" fill=\"#C9D6EA\" stroke=\"#8A9AB5\" stroke-width=\"2\"/><text x=\"805\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Chuppah</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s13",
+       "title": "Money and *Biah*: Redemption, *Yevamah*, and General Acquisition",
+       "amud": "5a–5b",
+       "text": {
+        "from": "5a.19",
+        "to": "5b.2"
+       },
+       "gist": "Money's power of redemption and *biah*'s role with a *yevamah* each break a single comparison, but together the two share a general power to acquire, which *chuppah* also has.",
+       "bullets": [
+        {
+         "text": "Emended *kal va'chomer*: money does not complete the marriage (a *na'arah* stays partly under her father) yet betroths. *Chuppah* completes it and removes her entirely from her father's authority, so it should betroth.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Refuted: money acquires in many contexts, redeeming *hekdesh* and *ma'aser sheni*, and *chuppah* acquires nothing else. Counter: *biah* also acquires nothing else, yet betroths.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "*Biah* is unique: it acquires a *yevamah*, and a *yavam* does not acquire her by *chuppah*. Counter: money does not acquire a *yevamah*, yet betroths.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The argument returns to its start. Neither mode is like the other, but by *tzad ha'shaveh* both generally acquire and acquire here. *Chuppah* generally acquires (it makes her married), so it should acquire here too.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "returns_to": [
+        {
+         "id": "s5",
+         "note": "The same redemption argument that defeated the *kal va'chomer* for a document"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s14",
+       "title": "Benefit and Divorce: The Document Enters",
+       "amud": "5b",
+       "text": {
+        "from": "5b.3",
+        "to": "5b.4"
+       },
+       "gist": "The document answers the objection that money and *biah* give benefit, and money and *biah* answer the document's power to divorce, which brings the argument back to the same common ground.",
+       "bullets": [
+        {
+         "text": "Objection: money and *biah* share great benefit. Counter: a document gives no great pleasure, yet acquires.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A document is unique in that it releases, as a *get*. Counter: money and *biah* do not release, yet betroth.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Back to the start: the common denominator is general acquisition, and *chuppah* shares it.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s15",
+       "title": "Against Her Will? Rav Huna: Not Money, in Marriage",
+       "amud": "5b",
+       "text": {
+        "from": "5b.5",
+        "to": "5b.5"
+       },
+       "gist": "The last objection, that all three modes sometimes work against her will while *chuppah* never does, is answered by Rav Huna: in marriage, money never does either.",
+       "bullets": [
+        {
+         "text": "Objection: all three work against her will in some case: a *get*, the *biah* of a *yevamah*, the money of an *amah ivriyah*. *Chuppah* works only when she enters willingly.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Huna: in marriage, money never acquires a woman against her will. So the three modes still teach that *chuppah* betroths.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "returns_to": [
+        {
+         "id": "s9",
+         "note": "The same answer given there about money and the *amah ivriyah*"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s16",
+     "title": "Rava's Two Refutations, Abaye's Defense: 'Three Ways', and *Chuppah* After Betrothal",
+     "amud": "5b",
+     "text": {
+      "from": "5b.6",
+      "to": "5b.9"
+     },
+     "gist": "Rava objects that the Mishnah counts only three modes and that *chuppah* completes only after betrothal. Abaye answers that the Mishnah lists only modes explicit in the Torah, and that Rav Huna builds the second point into his argument.",
+     "bullets": [
+      {
+       "text": "Rava: two refutations of Rav Huna. First, the Mishnah says a woman is acquired in three ways, not four.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Second, *chuppah* completes a marriage only by means of the betrothal before it. Can *chuppah* without betrothal be learned from *chuppah* that works through betrothal?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: the *tanna* teaches only what is written explicitly in the Torah, and *chuppah* is not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: that is Rav Huna's own point. Money does not complete after money (a second gift does not make her fully married), yet it betroths. *Chuppah* completes after money, so it should betroth by itself.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye's first answer is not the most compelling, and Rava's second objection remains formidable.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot HaRosh asks whether Rav Huna means that *chuppah* effects *kiddushin* and *nissuin* in one act, or *kiddushin* alone, with *nissuin* still to follow. The sugya does not say.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "We usually rule like Rava against Abaye, but the Rif may rule like Rav Huna. A rare practical case: a bride who dies after the *bedeken* and before *kiddushin*, where the question is whether her *kohen* husband may become impure for her.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Rava's two objections to Rav Huna, and Abaye's replies",
+      "columns": [
+       "",
+       "The Mishnah's \"three ways\"",
+       "*Chuppah* completes only after betrothal"
+      ],
+      "rows": [
+       [
+        "Rava",
+        "Three modes, not four: *chuppah* is not one of them",
+        "*Chuppah* without betrothal can't be learned from *chuppah* after betrothal"
+       ],
+       [
+        "Abaye (for Rav Huna)",
+        "The Mishnah lists only modes explicit in the Torah",
+        "Built into the argument: money does not complete after money, *chuppah* does, so it should betroth alone"
+       ]
+      ]
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s17",
+   "title": "Betrothal by Money: Who Gives and Who Says the Formula?",
+   "amud": "5b",
+   "text": {
+    "from": "5b.10",
+    "to": "5b.13"
+   },
+   "gist": "A baraita requires the man both to give and to speak. Rav Pappa finds that its two clauses contradict each other on 'he gives, she speaks', and the Gemara rules that case either no betrothal or a doubtful one.",
+   "bullets": [
+    {
+     "text": "Baraita (Tosefta 1:1): he gives money or its worth and says \"*harei at mekudeshet li*\", \"*me'ureset li*\" or \"you are to me as a wife\": she is betrothed. She gives and says \"I am betrothed to you\": she is not.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rav Pappa: the first clause implies that if he gives and she speaks, it fails. The latter clause implies that only she-gives-she-speaks fails, so he-gives-she-speaks works.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "First answer: the first clause is exact, and the latter clause only mirrors it. Rejected: would the baraita teach a latter clause that contradicts the first?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rather: if he gives and she speaks, it is as if she both gave and spoke, so it is not betrothal.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Alternatively: he-gives-she-speaks is a doubt, and by rabbinic law we are concerned that it may be a betrothal.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "On the doubt view, if she then married another man she would need a *get* from both.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "*Ki yikach ish* makes the man the active party, yet the *amirah* appears nowhere in the verse. Her taking over the formula can still undo a proper giving, which raises the question of what the formula accomplishes.",
+     "detail": 2,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "The case the baraita leaves open: he gives, she speaks",
+    "columns": [
+     "Reading",
+     "He gives, she speaks",
+     "Basis"
+    ],
+    "rows": [
+     [
+      "Rav Pappa, from the first clause",
+      "Not betrothed",
+      "Betrothal needs him both to give and to speak"
+     ],
+     [
+      "Rav Pappa, from the latter clause",
+      "Betrothed",
+      "Only she-gives-she-speaks is excluded"
+     ],
+     [
+      "First answer (rejected)",
+      "Not betrothed",
+      "First clause exact; the latter only mirrors it"
+     ],
+     [
+      "Explanation: as though she gave",
+      "Not betrothed",
+      "Her speaking makes the act hers"
+     ],
+     [
+      "Alternative explanation",
+      "Doubtful; rabbinic concern",
+      "Unclear whether her words serve as the formula"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The baraita's cases and the one it leaves open (5b): he gives and speaks, she is betrothed; she gives and speaks, she is not; he gives and she speaks, it is as though she gave (not betrothed), or on the second explanation a doubt.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three scenes of a man and a woman with a coin. In the first the man gives and speaks; in the second the woman gives and speaks; in the third the man gives and the woman speaks.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"280\" height=\"410\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"310\" y=\"15\" width=\"280\" height=\"410\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"605\" y=\"15\" width=\"280\" height=\"410\" rx=\"14\" fill=\"#E3EEEC\"/><rect x=\"25\" y=\"60\" width=\"190\" height=\"40\" rx=\"12\" fill=\"#FFFFFF\" stroke=\"#4B5E8C\" stroke-width=\"2\"/><path d=\"M80 99 L90 122 L100 99 Z\" fill=\"#FFFFFF\" stroke=\"#4B5E8C\" stroke-width=\"2\" stroke-linejoin=\"round\"/><rect x=\"78\" y=\"94\" width=\"24\" height=\"6\" fill=\"#FFFFFF\"/><text x=\"120\" y=\"85\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">“You are betrothed to me”</text><use href=\"#man\" x=\"60\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"175\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#A8436E\"/><circle cx=\"148\" cy=\"204\" r=\"11\" fill=\"#D9B45A\" stroke=\"#9A7440\" stroke-width=\"2\"/><path d=\"M122 224 H166\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><path d=\"M174 224 l-9 -5 v10 z\" fill=\"#5B4636\"/><text x=\"155\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">He gives · he says</text><use href=\"#mark-ok\" x=\"135\" y=\"298\" width=\"40\" height=\"40\"/><text x=\"155\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Betrothed</text><rect x=\"390\" y=\"60\" width=\"190\" height=\"40\" rx=\"12\" fill=\"#FFFFFF\" stroke=\"#A8436E\" stroke-width=\"2\"/><path d=\"M490 99 L500 122 L510 99 Z\" fill=\"#FFFFFF\" stroke=\"#A8436E\" stroke-width=\"2\" stroke-linejoin=\"round\"/><rect x=\"488\" y=\"94\" width=\"24\" height=\"6\" fill=\"#FFFFFF\"/><text x=\"485\" y=\"85\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">“I am betrothed to you”</text><use href=\"#man\" x=\"355\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"470\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#A8436E\"/><circle cx=\"442\" cy=\"204\" r=\"11\" fill=\"#D9B45A\" stroke=\"#9A7440\" stroke-width=\"2\"/><path d=\"M470 224 H426\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><path d=\"M418 224 l9 -5 v10 z\" fill=\"#5B4636\"/><text x=\"450\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">She gives · she says</text><use href=\"#mark-no\" x=\"430\" y=\"298\" width=\"40\" height=\"40\"/><text x=\"450\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Not betrothed</text><rect x=\"680\" y=\"60\" width=\"190\" height=\"40\" rx=\"12\" fill=\"#FFFFFF\" stroke=\"#A8436E\" stroke-width=\"2\"/><path d=\"M785 99 L795 122 L805 99 Z\" fill=\"#FFFFFF\" stroke=\"#A8436E\" stroke-width=\"2\" stroke-linejoin=\"round\"/><rect x=\"783\" y=\"94\" width=\"24\" height=\"6\" fill=\"#FFFFFF\"/><text x=\"775\" y=\"85\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">“I am betrothed to you”</text><use href=\"#man\" x=\"650\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"765\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#A8436E\"/><circle cx=\"738\" cy=\"204\" r=\"11\" fill=\"#D9B45A\" stroke=\"#9A7440\" stroke-width=\"2\"/><path d=\"M712 224 H756\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><path d=\"M764 224 l-9 -5 v10 z\" fill=\"#5B4636\"/><text x=\"745\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">He gives · she says</text><use href=\"#mark-no\" x=\"725\" y=\"298\" width=\"40\" height=\"40\"/><text x=\"745\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">As though she gave and said:</text><text x=\"745\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">not betrothed</text><text x=\"745\" y=\"406\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Or: a doubt, a rabbinic concern</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s18",
+   "title": "Shmuel: The Formula Must Change Her Status, Not His",
+   "amud": "5b–6a",
+   "text": {
+    "from": "5b.14",
+    "to": "6a.1"
+   },
+   "gist": "Shmuel lists valid and void formulas for betrothal and divorce. Rav Pappa asks whether he accepts *yadayim she'einan mokhichot*, and the Gemara answers that Shmuel's point is that the woman's status is what the act changes.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s19",
+     "title": "'You Are Betrothed' vs. 'I Am Your Husband'; 'You Are Divorced' vs. 'I Am Not Your Husband'",
+     "amud": "5b",
+     "text": {
+      "from": "5b.14",
+      "to": "5b.15"
+     },
+     "gist": "Formulas that describe the woman's new status betroth or divorce. Formulas that describe the man's status raise no concern at all.",
+     "bullets": [
+      {
+       "text": "Shmuel, on betrothal: he gives money or its worth and says \"you are *mekudeshet*\", \"you are *me'ureset*\" or \"you are as a wife\": she is betrothed. \"I am your man\", \"your husband\" or \"your betrothed\": there is no concern here at all.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "On divorce: \"you are sent away\", \"you are divorced\" or \"you are permitted to any man\": she is divorced. \"I am not your man\", \"your husband\" or \"your betrothed\": no concern.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The man's status does not change, since he may still marry another wife. Hers does: she is forbidden to all others and needs a *get* to remarry. A formula about his status therefore does nothing.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Shmuel's formulas for betrothal and divorce",
+      "columns": [
+       "",
+       "Valid: describes her status",
+       "No concern: describes his status",
+       "Verse (6a)"
+      ],
+      "rows": [
+       [
+        "Betrothal",
+        "\"You are *mekudeshet* / *me'ureset*\", \"You are as a wife\"",
+        "\"I am your man / husband / betrothed\"",
+        "\"When a man takes a woman\": he takes her, not himself"
+       ],
+       [
+        "Divorce",
+        "\"You are sent away\", \"You are divorced\", \"You are permitted to any man\"",
+        "\"I am not your man / husband / betrothed\"",
+        "\"And sends her\": not himself from her"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s20",
+     "title": "*Yadayim She'einan Mokhichot*? Rav Pappa's Challenge from the *Nazir*",
+     "amud": "5b–6a",
+     "text": {
+      "from": "5b.16",
+      "to": "6a.1"
+     },
+     "gist": "Rav Pappa argues that Shmuel's 'you are betrothed' without 'to me' contradicts Shmuel's narrow reading of the *nazir* Mishnah. The Gemara answers that Shmuel means a case where he did say 'to me', and that his point is the void formulas.",
+     "bullets": [
+      {
+       "text": "Rav Pappa to Abaye: does Shmuel hold that *yadayim she'einan mokhichot*, incomplete expressions understood only from context, are valid? He accepts \"you are betrothed\" without \"to me\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "But Mishnah Nazir 2a: one who says \"*ehei*\" (\"I shall be\") is a *nazir*. Perhaps he meant \"I shall be in a fast\"? Shmuel: only when a *nazir* was passing before him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So without the passing *nazir* it would not be a vow. For Shmuel, then, *yadayim she'einan mokhichot* are not valid.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: Shmuel speaks of a case where he said the formula with \"to me\". Then what is new? The latter formulas: \"I am your husband\" and the like raise no concern at all.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Reason: \"when a man takes a woman\" means he takes her, not that he gives himself to her; \"and sends her\" means he sends her, not himself from her.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "Rav Pappa's challenge from Nazir 2a (5b): a man who says \"*ehei*\" as a *nazir* passes is a *nazir* according to Shmuel; with no *nazir* in sight the words might mean a fast, and they are no vow.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a man says ehei as a nazir walks past, and he becomes a nazir. Right: the same man says ehei on an empty road, and it is no vow.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"425\" height=\"380\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"460\" y=\"15\" width=\"425\" height=\"380\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"227\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">A nazir passing before him</text><text x=\"672\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">No nazir passing</text><rect x=\"15\" y=\"296\" width=\"425\" height=\"24\" fill=\"#D9C9A8\"/><rect x=\"460\" y=\"296\" width=\"425\" height=\"24\" fill=\"#D9C9A8\"/><rect x=\"40\" y=\"66\" width=\"200\" height=\"58\" rx=\"12\" fill=\"#FFFFFF\" stroke=\"#4B5E8C\" stroke-width=\"2\"/><path d=\"M95 123 L105 150 L115 123 Z\" fill=\"#FFFFFF\" stroke=\"#4B5E8C\" stroke-width=\"2\" stroke-linejoin=\"round\"/><rect x=\"93\" y=\"118\" width=\"24\" height=\"6\" fill=\"#FFFFFF\"/><text x=\"140\" y=\"93\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" fill=\"#1A1F2E\">אהא</text><text x=\"140\" y=\"114\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">“I shall be”</text><use href=\"#man\" x=\"70\" y=\"156\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"300\" y=\"156\" width=\"70\" height=\"140\" style=\"color:#6B6F3A\"/><text x=\"335\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">a nazir passing by</text><use href=\"#mark-ok\" x=\"60\" y=\"346\" width=\"32\" height=\"32\"/><text x=\"102\" y=\"368\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Shmuel: he is a nazir</text><rect x=\"485\" y=\"66\" width=\"200\" height=\"58\" rx=\"12\" fill=\"#FFFFFF\" stroke=\"#4B5E8C\" stroke-width=\"2\"/><path d=\"M540 123 L550 150 L560 123 Z\" fill=\"#FFFFFF\" stroke=\"#4B5E8C\" stroke-width=\"2\" stroke-linejoin=\"round\"/><rect x=\"538\" y=\"118\" width=\"24\" height=\"6\" fill=\"#FFFFFF\"/><text x=\"585\" y=\"93\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" fill=\"#1A1F2E\">אהא</text><text x=\"585\" y=\"114\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">“I shall be”</text><use href=\"#man\" x=\"515\" y=\"156\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><text x=\"745\" y=\"200\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#5B6478\">no nazir in sight</text><text x=\"745\" y=\"222\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">a nazir? or a fast?</text><use href=\"#mark-no\" x=\"505\" y=\"346\" width=\"32\" height=\"32\"/><text x=\"547\" y=\"368\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Not a nazirite vow</text><text x=\"450\" y=\"424\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rav Pappa: so for Shmuel, ambiguous expressions are not valid</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "kal va'chomer",
+   "hebrew": "קל וחומר",
+   "sense": "a fortiori inference",
+   "definition": "An argument from a lesser case to a greater one: if a rule holds where it is less expected, it holds all the more where it is more expected. It fails if the lesser case turns out to have a feature the greater one lacks.",
+   "on_this_daf": "Proposed for *biah*, for the document and for Rav Huna's *chuppah*. Each time the Gemara looks for the unique feature that breaks it.",
+   "aliases": [
+    "kal va'chomer",
+    "Kal Va'chomer"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s10",
+    "s11",
+    "s13"
+   ]
+  },
+  {
+   "term": "hekesh havayah le'yetziah",
+   "hebrew": "הקיש הויה ליציאה",
+   "sense": "juxtaposing betrothal to divorce",
+   "definition": "The comparison, drawn from \"she leaves... and becomes another man's\" (Devarim 24:2), between entering a marriage and leaving it, so that rules of one may be applied to the other.",
+   "on_this_daf": "It teaches betrothal by document from divorce by *get*. Abaye blocks the reverse, divorce by money.",
+   "aliases": [
+    "hekesh havayah le'yetziah",
+    "Hekesh Havayah Le'yetziah",
+    "hekesh"
+   ],
+   "sections": [
+    "s4",
+    "s6",
+    "s7"
+   ]
+  },
+  {
+   "term": "ein kategor na'aseh sanegor",
+   "hebrew": "אין קטיגור נעשה סניגור",
+   "sense": "the same instrument may not serve opposite ends",
+   "definition": "The principle that something that serves as an accuser (*kategor*) should not also serve as a defender (*sanegor*), or the reverse: one medium should not accomplish opposite purposes.",
+   "on_this_daf": "Abaye: money cannot both bring a woman into marriage and release her from it. Documents escape the objection because each has its own text.",
+   "aliases": [
+    "ein kategor na'aseh sanegor",
+    "sanegor",
+    "kategor"
+   ],
+   "sections": [
+    "s6"
+   ]
+  },
+  {
+   "term": "keritut",
+   "hebrew": "כריתות",
+   "sense": "the complete severance a get must effect",
+   "definition": "From \"a scroll of severance\" (*sefer keritut*, Devarim 24:1): a *get* must sever the tie between husband and wife completely, leaving him no lasting control over her.",
+   "on_this_daf": "The Rabbis learn from it that a *get* with a permanent condition is invalid; R. Yosei HaGelili learns from it that only a document can divorce.",
+   "aliases": [
+    "sefer keritut",
+    "Sefer Keritut",
+    "keritut"
+   ],
+   "sections": [
+    "s8"
+   ]
+  },
+  {
+   "term": "tzad ha'shaveh",
+   "hebrew": "הצד השוה",
+   "sense": "derivation from the common feature of several cases",
+   "definition": "Deriving a law from two or more sources through a feature they share, when no single source suffices. It fails if the sources share some other feature that the new case lacks.",
+   "on_this_daf": "Used to ask whether one mode of betrothal follows from the other two, and to test Rav Huna's *chuppah*. Features such as benefit, wide acquisition and working against her will keep breaking it.",
+   "aliases": [
+    "tzad ha'shaveh",
+    "Tzad Ha'shaveh"
+   ],
+   "sections": [
+    "s9",
+    "s12",
+    "s13"
+   ]
+  },
+  {
+   "term": "chuppah",
+   "hebrew": "חופה",
+   "sense": "the act that completes marriage (nissuin)",
+   "definition": "The second stage of marriage, which follows betrothal and makes the woman fully married. Opinions differ on what physical act constitutes it.",
+   "on_this_daf": "Rav Huna argues that *chuppah* can also effect betrothal by itself. Rava objects and Abaye defends him.",
+   "aliases": [
+    "chuppah",
+    "Chuppah"
+   ],
+   "sections": [
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16"
+   ]
+  },
+  {
+   "term": "yadayim she'einan mokhichot",
+   "hebrew": "ידים שאינן מוכיחות",
+   "sense": "incomplete, ambiguous expressions of intent",
+   "definition": "Partial formulations (\"handles\") of a vow or legal act that do not by themselves make clear what is meant. Whether they take effect is a recurring question.",
+   "on_this_daf": "Rav Pappa infers from Shmuel's reading of the *nazir* Mishnah that he rejects them, which seems to clash with his 'you are betrothed' without 'to me'.",
+   "aliases": [
+    "yadayim she'einan mokhichot",
+    "Yadayim She'einan Mokhichot"
+   ],
+   "sections": [
+    "s18",
+    "s20"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "Rava's '*ve'khatav lah*' (s7) and R. Yosei HaGelili's '*sefer keritut*' (s8) are about why money cannot divorce, and could form their own top-level section. They are kept under the document section because they answer the reverse *hekesh* raised there.",
+  "The one-from-two discussion (s9) could be a child of the document section, since it closes the baraita's derivations. It is made top-level because it concerns all three modes equally.",
+  "Rav Huna's second version (s12) is split into three rounds (s13–s15) following the Gemara's own 'the derivation has reverted' markers. It could be one flat section.",
+  "Who gives and who speaks (s17) and Shmuel's formulas (s18) could be grouped under one parent on the mechanics of betrothal by money. They are kept apart because each is a self-contained discussion with its own source and challenge.",
+  "The last line (6a.1) completes the Gemara's answer to Rav Pappa, so s20 ends there without a 'continues' note; 6a.2's new baraita belongs to the next outline."
+ ],
+ "coverage_notes": [
+  "4b.10–4b.13 (biah) is covered at the start of this daf's shiur, so it is not flagged.",
+  "The essay says the *amah ivriyah* counterexample, together with the *yevamah*'s uniqueness, defeats the kal va'chomer 'from both ends'. The text dismisses the *amah ivriyah* refutation (her acquisition is not for marriage), and only Rav Ashi's *yevamah* point makes the verse necessary. Followed the text.",
+  "One-from-two: the essay pairs 'deriving kesef' with 'biah is not a normal kinyan' and 'deriving biah' with 'against her will', and says marital biah cannot be against her will. The text (5a.13–14) has *biah* failing because money and document acquire widely, and money failing because *biah* (a *yavam* with a *yevamah*) and a *get* work against her will. Followed the text.",
+  "The essay attributes the *amah ivriyah* 'money against her will' objection to Tosafot. The Gemara raises and answers it itself (5a.15). Tosafot's resolution (the father acts for the minor) is kept as shiur.",
+  "Rav Huna: the essay says he 'has no answer' and the kal va'chomer cannot be completed. The text (5b.5) has Rav Huna answer that money never acquires against her will in marriage, so the derivation stands. The essay also skips the redemption refutation at 5b.1. Followed the text.",
+  "The essay presents 'reisha davka' as the resolution of Rav Pappa's contradiction. The text rejects it ('would the baraita teach a contradiction?') and replaces it with 'as though she gave', or a doubt. Followed the text.",
+  "Nazir: the essay has the speaker say 'aha' and point. The text has '*ehei*' ('I shall be'). The essay also omits the Gemara's answer that Shmuel speaks where he said 'to me'. Followed the text.",
+  "The essay garbles R. Yosei HaGelili's use of 've'khatav lah' (as if that verse taught no money divorce) and cites Gittin 21a. The text says only that he uses the verse for another exposition and learns the money rule from '*sefer keritut*'. Followed the text and omitted the citation. The name is spelled Yosei HaGelili, as in the text.",
+  "The essay places 'chada mechada lo atya' at the end of the R. Yosei HaGelili discussion; in the text it opens the one-from-two section (5a.12).",
+  "The essay's 'tana ve'shayer' framing of Abaye's first answer is not what the text says (the tanna lists only what is written in the Torah); the text's wording is used.",
+  "The segmentation's 'yadayim she'einan mochiyot' is transliterated here as *yadayim she'einan mokhichot*.",
+  "No shiur material falls outside the 4b.10–6a.1 range."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s1",
+    "subject": "Yevamah, amah ivriyah and ordinary woman by money and biah",
+    "why_not": "The illustration already sets out the three cases with their marks; a chart would repeat it."
+   },
+   {
+    "section": "s6",
+    "subject": "Documents vs. money under the hekesh",
+    "why_not": "Only two items and two outcomes; the illustration carries it."
+   },
+   {
+    "section": "s11",
+    "subject": "Terumah for a betrothed woman: Torah law vs. rabbinic decree",
+    "why_not": "One point with its reason; the bullets are enough."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s11",
+    "subject": "The cup of terumah wine poured in her father's house",
+    "why_not": "Vivid but a side reason within a failed argument; the six pictures chosen cover more central steps."
+   },
+   {
+    "section": "s8",
+    "subject": "The conditional get: never drink wine vs. thirty days",
+    "why_not": "A single cited baraita with two cases; the bullets state it clearly."
+   },
+   {
+    "section": "s19",
+    "subject": "Shmuel's formulas as speech bubbles aimed at her or at him",
+    "why_not": "The chart already sets out the valid and void formulas side by side."
+   },
+   {
+    "section": "s5",
+    "subject": "Redeeming ma'aser sheni onto a coin",
+    "why_not": "Background to a short refutation; less central than the hekesh picture."
+   }
+  ]
+ }
+}

@@ -1,0 +1,906 @@
+{
+ "daf": "Bava Metzia 11",
+ "scope": {
+  "start": "10b: how Ravina's and Rav Samma's answers on *ein shaliach li'dvar aveirah* differ (mid-exchange)",
+  "end": "11b: Rav Pappa's answer to R. Abba, *da'at acheret makneh*"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Ein Shaliach Li'dvar Aveirah: Could the Agent Refuse, or Is He Bound?",
+   "amud": "10b",
+   "text": {
+    "from": "10b.15",
+    "to": "10b.16"
+   },
+   "gist": "Continuing the question of why *ein shaliach li'dvar aveirah* doesn't stop a *chatzer* from acquiring stolen goods for its owner, the Gemara shows where Ravina's and Rav Samma's answers differ: a priest's agent betrothing a divorcee, and a woman rounding a boy's head.",
+   "bullets": [
+    {
+     "text": "The Gemara asks what practical difference there is between the answers of Ravina and Rav Samma.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "First case: a priest tells an Israelite, \"Go and betroth a divorced woman for me.\" A priest is forbidden to betroth a divorcee; an Israelite is permitted.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Second case: a man tells a woman, \"Round the corners of a minor boy's head for me.\" Rounding the corners of the head (Vayikra 19:27) is forbidden only to men, not to women.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "By the formulation that the agent alone is responsible wherever he could carry out the errand or refuse, these agents could refuse, so the sender is not liable.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "By the formulation that the sender is liable wherever the agent is not subject to the prohibition, these agents are not subject to it, so the sender is liable.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The two formulations rest on different grounds. One is duty: *divrei ha'rav ve'divrei ha'talmid, divrei mi shom'im*, so the agent should have obeyed God. The other is freedom: the agent chose. A *chatzer* has neither duty nor choice, so on either account the owner stays liable.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "In the head-rounding case there is not even *lifnei iver*: the woman isn't bound, and the boy is a minor. In the priest's case the Israelite agent may still be facilitating the priest's sin.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "How far does liability through an agent reach? Agency normally carries legal acts, not physical ones: if my agent takes a *lulav*, I have not taken one. When the sender is liable for the cutting, is the physical act his, so that he is lashed, or does he bear only a lesser liability?",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "If the rule rests on choice, an agent acting under real duress had no choice, and responsibility might shift back to the sender.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Tosafot: does *ein shaliach li'dvar aveirah* only free the sender of liability, or does it void the agency altogether? The Noda Biyehuda applies the question to a *get* delivered against the wife's will in breach of *cherem Rabbeinu Gershom*: is she divorced after the fact?",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "A residual difficulty: if the agency works because the woman is not bound, she has helped the sender sin, which may itself be *lifnei iver*.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "The two formulations of *ein shaliach li'dvar aveirah* applied to the Gemara's two cases",
+    "columns": [
+     "",
+     "When is the agent alone responsible?",
+     "Priest sends an Israelite to betroth a divorcee",
+     "Man sends a woman to round a minor boy's head"
+    ],
+    "rows": [
+     [
+      "Freedom-of-choice formulation",
+      "Whenever he could carry out the errand or refuse",
+      "Sender not liable: the agent could refuse",
+      "Sender not liable: the agent could refuse"
+     ],
+     [
+      "Obligation formulation",
+      "Only when the agent himself is bound by the prohibition",
+      "Sender liable: an Israelite may marry a divorcee",
+      "Sender liable: the prohibition doesn't apply to women"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The Gemara's two cases (10b), and how each formulation of *ein shaliach li'dvar aveirah* decides whether the sender is liable.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two cases of sending an agent: a priest sends an Israelite to betroth a divorcee, and a man sends a woman to round the corners of a minor boy's head. Beneath each, the result under each formulation.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"412\" rx=\"14\" fill=\"#F3EEE3\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"412\" rx=\"14\" fill=\"#F3EEE3\"/><text x=\"227\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Case 1: the priest</text><text x=\"227\" y=\"68\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">A priest may not betroth a divorcee; an Israelite may</text><text x=\"150\" y=\"100\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-style=\"italic\" fill=\"#1A1F2E\">“Go and betroth her for me”</text><use href=\"#man\" x=\"50\" y=\"112\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"190\" y=\"112\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"330\" y=\"112\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><path d=\"M116 176 H176\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M184 176 l-10 -6 v12 z\" fill=\"#5B6478\"/><path d=\"M256 176 H316\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M324 176 l-10 -6 v12 z\" fill=\"#5B6478\"/><text x=\"80\" y=\"254\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Priest (sender)</text><text x=\"220\" y=\"254\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Israelite (agent)</text><text x=\"360\" y=\"254\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Divorcee</text><rect x=\"30\" y=\"276\" width=\"395\" height=\"62\" rx=\"10\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"301\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Choice test: could the agent refuse? Yes</text><text x=\"227\" y=\"324\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1B3A8A\">→ the sender is not liable</text><rect x=\"30\" y=\"350\" width=\"395\" height=\"62\" rx=\"10\" fill=\"#F3E6D8\"/><text x=\"227\" y=\"375\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Obligation test: is the agent bound? No</text><text x=\"227\" y=\"398\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#9A6212\">→ the sender is liable</text><text x=\"672\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Case 2: rounding the head</text><text x=\"672\" y=\"68\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Forbidden to men only, not to women</text><text x=\"597\" y=\"100\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-style=\"italic\" fill=\"#1A1F2E\">“Round the corners of his head for me”</text><use href=\"#man\" x=\"495\" y=\"112\" width=\"60\" height=\"120\" style=\"color:#7A4A55\"/><use href=\"#woman\" x=\"635\" y=\"112\" width=\"60\" height=\"120\" style=\"color:#50706E\"/><use href=\"#child\" x=\"790\" y=\"152\" width=\"40\" height=\"80\" style=\"color:#4E7A8C\"/><path d=\"M561 176 H621\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M629 176 l-10 -6 v12 z\" fill=\"#5B6478\"/><path d=\"M701 176 H771\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M779 176 l-10 -6 v12 z\" fill=\"#5B6478\"/><text x=\"525\" y=\"254\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Man (sender)</text><text x=\"665\" y=\"254\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Woman (agent)</text><text x=\"810\" y=\"254\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Minor boy</text><rect x=\"475\" y=\"276\" width=\"395\" height=\"62\" rx=\"10\" fill=\"#E3EAF3\"/><text x=\"672\" y=\"301\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Choice test: could the agent refuse? Yes</text><text x=\"672\" y=\"324\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1B3A8A\">→ the sender is not liable</text><rect x=\"475\" y=\"350\" width=\"395\" height=\"62\" rx=\"10\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"375\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Obligation test: is the agent bound? No</text><text x=\"672\" y=\"398\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#9A6212\">→ the sender is liable</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s2",
+   "title": "A Minor's Chatzer as Yad: Get, Found Items, Girl or Boy?",
+   "amud": "10b–11a",
+   "text": {
+    "from": "10b.17",
+    "to": "11a.4"
+   },
+   "gist": "A *baraita* shows that a *chatzer* works as a woman's *yad* for a *get*, so the Gemara recasts the dispute of R. Yannai and Abba Kohen Bardela three ways: *get* vs. found items, girl vs. boy, or no dispute at all.",
+   "bullets": [],
+   "chart": {
+    "caption": "R. Yannai and Abba Kohen Bardela in the first two versions: does a minor's *chatzer* work as her *yad*?",
+    "columns": [
+     "",
+     "A *get* placed in a minor girl's *chatzer*",
+     "Version one: a found item in a minor girl's *chatzer*",
+     "Version two: a found item in a minor boy's *chatzer*"
+    ],
+    "rows": [
+     [
+      "R. Yannai",
+      "Effective (all agree)",
+      "She acquires: found items are learned from *get*",
+      "He acquires: a boy is learned from a girl"
+     ],
+     [
+      "Abba Kohen Bardela",
+      "Effective (all agree)",
+      "She does not acquire: found items are not learned from *get*",
+      "He does not acquire: only a girl, whom the *get* verse covers"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s3",
+     "title": "The Get Baraita: \"And He Gives\" Covers Her Roof, Chatzer and Enclosure",
+     "amud": "10b",
+     "text": {
+      "from": "10b.17",
+      "to": "10b.17"
+     },
+     "gist": "The Gemara objects that no one can deny a *chatzer* works as a person's *yad*: a *baraita* derives that a *get* placed on a woman's roof, in her *chatzer* or in her enclosure divorces her.",
+     "bullets": [
+      {
+       "text": "The explanation just given had Abba Kohen Bardela deny that a *chatzer* works as its owner's *yad*. The Gemara objects: does anyone deny that?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Baraita*: \"and he gives it in her hand\" (Devarim 24:1) would teach only her hand. From where do we know that a *get* placed on her roof, in her *chatzer* or in her enclosure also divorces her? The verse says \"and he gives\": in any case.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So a *chatzer* is evidently an extension of the hand.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: the verb standing before its object lets \"and he gives\" reach beyond the literal hand. Because the derivation grows out of \"her hand\", the *chatzer* here is her *yad*.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: a minor girl can also receive a *get*, so this verse establishes that a minor girl's *chatzer* is her *yad*, not her agent.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Version One: Can Found Items Be Learned from Get?",
+     "amud": "10b–11a",
+     "text": {
+      "from": "10b.18",
+      "to": "11a.1"
+     },
+     "gist": "For a *get* everyone agrees a *chatzer* is her *yad*. The dispute is over a found item in her *chatzer*: R. Yannai learns it from *get*, Abba Kohen Bardela does not.",
+     "bullets": [
+      {
+       "text": "Answer: for a *get*, everyone agrees that a *chatzer* is included because it acts as her *yad*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "They disagree about a found item discovered in her *chatzer*. R. Yannai learns found items from *get*; Abba Kohen Bardela does not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "One side reads the *get* verse as revealing a standing feature of her *chatzer*, valid for every acquisition. The other reads it as a novelty confined to divorce.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "Version Two: Can a Minor Boy Be Learned from a Minor Girl?",
+     "amud": "11a",
+     "text": {
+      "from": "11a.2",
+      "to": "11a.3"
+     },
+     "gist": "Alternatively, all agree that a minor girl acquires a found item in her *chatzer*; they disagree whether a minor boy does.",
+     "bullets": [
+      {
+       "text": "For a minor girl, everyone learns found items from *get*, so she acquires an ownerless item found in her *chatzer*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yannai learns a minor boy from a minor girl: there should be no difference between them in acquisition.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abba Kohen Bardela does not: only a minor girl acquires by her *chatzer*, since the Torah included it for her through *get*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A boy never receives a *get*, so the *yad* rooted in divorce has no direct source for him.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s6",
+     "title": "Version Three: No Dispute, One Speaks of Get, the Other of Found Items",
+     "amud": "11a",
+     "text": {
+      "from": "11a.4",
+      "to": "11a.4"
+     },
+     "gist": "Or there is no dispute: one statement says a minor girl is divorced by a *get* in her *chatzer*, the other that a minor does not acquire a found item in a *chatzer*.",
+     "bullets": [
+      {
+       "text": "There is no dispute at all. One Sage spoke of a minor girl, who is divorced when her husband places a *get* in her *chatzer*. The other spoke of a found item, which a minor boy or girl does not acquire in a *chatzer*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is strange. Once the Torah shows that a *chatzer* can be a *yad*, why not in every area? Limiting it to minors would be understandable, but why would the same *yad* work for one purpose and not another?",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "A possible answer: a *get* may not be a *kinyan* at all. What matters is that it be placed on her, and a *chatzer* counts as placement. A found item needs a real act of acquisition, which being \"on her\" may not supply.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Still open: for other acquisitions, is the *chatzer* a *yad* or an agent? And if an agent, can minors, who cannot appoint agents, use it?",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: a minor acquires found items only rabbinically, since he lacks the required intent. When someone actively gives into a minor's *chatzer* (*da'at acheret*), it may work even for a minor.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "Mishnah: \"Zakhtah Li Sadi\": Lame Deer and Unfledged Pigeons, Not Fleeing Ones",
+   "amud": "11a",
+   "text": {
+    "from": "11a.5",
+    "to": "11a.5"
+   },
+   "gist": "One who sees people chasing an ownerless animal and says \"my field has acquired it for me\" acquires a deer with a broken leg or pigeons that can't yet fly, but not a deer running normally or pigeons in flight.",
+   "bullets": [
+    {
+     "text": "People are running after an ownerless animal, a deer with a broken leg or young pigeons that cannot yet fly. The field's owner says, \"My field has acquired it for me\" (*zakhtah li sadi*). His field has acquired it for him.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "If the deer was running normally or the pigeons were flying, \"he has said nothing\": a *chatzer* cannot acquire what will not stay in it.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The principle: *kinyan chatzer* works only on what the field can actually hold. A crippled deer or unfledged chicks are contained; a running deer or flying birds are simply passing through.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "Tosafot: the declaration is not essential; the field would acquire even without it.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "illustration": {
+    "caption": "The Mishnah's four cases in its order: the field acquires a deer with a broken leg and pigeons that can't yet fly, but not a deer running normally or pigeons in flight.",
+    "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Four panels: a deer with a broken leg and young pigeons in a nest, both acquired by the field; a deer running at full stride and pigeons flying, neither acquired.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">“My field has acquired it for me”</text><text x=\"450\" y=\"58\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#5B6478\">זכתה לי שדי</text><rect x=\"15\" y=\"74\" width=\"204\" height=\"376\" rx=\"12\" fill=\"#F3EEE3\"/><rect x=\"237\" y=\"74\" width=\"204\" height=\"376\" rx=\"12\" fill=\"#F3EEE3\"/><rect x=\"459\" y=\"74\" width=\"204\" height=\"376\" rx=\"12\" fill=\"#F3EEE3\"/><rect x=\"681\" y=\"74\" width=\"204\" height=\"376\" rx=\"12\" fill=\"#F3EEE3\"/><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"117\" y=\"102\">Deer with a</text><text x=\"117\" y=\"120\">broken leg</text><text x=\"339\" y=\"102\">Young pigeons</text><text x=\"339\" y=\"120\">that can't yet fly</text><text x=\"561\" y=\"102\">Deer running</text><text x=\"561\" y=\"120\">normally</text><text x=\"783\" y=\"102\">Young pigeons</text><text x=\"783\" y=\"120\">flying</text></g><rect x=\"25\" y=\"282\" width=\"184\" height=\"26\" fill=\"#C9D5B8\"/><rect x=\"247\" y=\"282\" width=\"184\" height=\"26\" fill=\"#C9D5B8\"/><rect x=\"469\" y=\"282\" width=\"184\" height=\"26\" fill=\"#C9D5B8\"/><rect x=\"691\" y=\"282\" width=\"184\" height=\"26\" fill=\"#C9D5B8\"/><g stroke=\"#7A5230\" stroke-width=\"6\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M80 250 V282\"/><path d=\"M92 252 V282\"/><path d=\"M132 252 V282\"/><path d=\"M144 250 L154 266 L142 280\"/></g><ellipse cx=\"112\" cy=\"238\" rx=\"46\" ry=\"19\" fill=\"#A0703F\"/><ellipse cx=\"66\" cy=\"232\" rx=\"6\" ry=\"4\" fill=\"#A0703F\"/><path d=\"M140 230 L158 200\" stroke=\"#A0703F\" stroke-width=\"12\" stroke-linecap=\"round\"/><ellipse cx=\"164\" cy=\"194\" rx=\"13\" ry=\"9\" fill=\"#A0703F\"/><ellipse cx=\"156\" cy=\"184\" rx=\"5\" ry=\"3\" fill=\"#8A5E34\"/><circle cx=\"168\" cy=\"191\" r=\"1.8\" fill=\"#2E2A26\"/><path d=\"M160 186 l-4 -20 M158 176 l-8 -6 M166 186 l4 -20 M168 174 l8 -6\" stroke=\"#6E4B2A\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><rect x=\"144\" y=\"259\" width=\"12\" height=\"6\" fill=\"#EDE3CF\"/><ellipse cx=\"339\" cy=\"272\" rx=\"48\" ry=\"12\" fill=\"#8B6A4E\"/><ellipse cx=\"316\" cy=\"258\" rx=\"13\" ry=\"10\" fill=\"#B8B0A6\"/><ellipse cx=\"339\" cy=\"258\" rx=\"13\" ry=\"10\" fill=\"#B8B0A6\"/><ellipse cx=\"362\" cy=\"258\" rx=\"13\" ry=\"10\" fill=\"#B8B0A6\"/><circle cx=\"322\" cy=\"245\" r=\"7\" fill=\"#A59C92\"/><circle cx=\"345\" cy=\"245\" r=\"7\" fill=\"#A59C92\"/><circle cx=\"368\" cy=\"245\" r=\"7\" fill=\"#A59C92\"/><path d=\"M329 244 l6 2 l-6 2 z M352 244 l6 2 l-6 2 z M375 244 l6 2 l-6 2 z\" fill=\"#E0A040\"/><g stroke=\"#7A5230\" stroke-width=\"6\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M522 238 L500 262\"/><path d=\"M530 240 L514 270\"/><path d=\"M584 240 L606 262\"/><path d=\"M590 238 L616 256\"/></g><ellipse cx=\"556\" cy=\"228\" rx=\"46\" ry=\"18\" fill=\"#A0703F\"/><ellipse cx=\"510\" cy=\"222\" rx=\"6\" ry=\"4\" fill=\"#A0703F\"/><path d=\"M584 220 L602 192\" stroke=\"#A0703F\" stroke-width=\"12\" stroke-linecap=\"round\"/><ellipse cx=\"608\" cy=\"186\" rx=\"13\" ry=\"9\" fill=\"#A0703F\"/><ellipse cx=\"600\" cy=\"176\" rx=\"5\" ry=\"3\" fill=\"#8A5E34\"/><circle cx=\"612\" cy=\"183\" r=\"1.8\" fill=\"#2E2A26\"/><path d=\"M604 178 l-4 -20 M602 168 l-8 -6 M610 178 l4 -20 M612 166 l8 -6\" stroke=\"#6E4B2A\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M478 214 H494 M472 228 H490 M478 242 H494\" stroke=\"#B9A89A\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M728 186 Q739 170 750 186 Q761 170 772 186\" stroke=\"#7E858F\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><ellipse cx=\"750\" cy=\"189\" rx=\"7\" ry=\"4\" fill=\"#9AA0A8\"/><path d=\"M783 161 Q794 145 805 161 Q816 145 827 161\" stroke=\"#7E858F\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><ellipse cx=\"805\" cy=\"164\" rx=\"7\" ry=\"4\" fill=\"#9AA0A8\"/><path d=\"M768 221 Q779 205 790 221 Q801 205 812 221\" stroke=\"#7E858F\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><ellipse cx=\"790\" cy=\"224\" rx=\"7\" ry=\"4\" fill=\"#9AA0A8\"/><use href=\"#mark-ok\" x=\"97\" y=\"318\" width=\"40\" height=\"40\"/><use href=\"#mark-ok\" x=\"319\" y=\"318\" width=\"40\" height=\"40\"/><use href=\"#mark-no\" x=\"541\" y=\"318\" width=\"40\" height=\"40\"/><use href=\"#mark-no\" x=\"763\" y=\"318\" width=\"40\" height=\"40\"/><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\"><text x=\"117\" y=\"386\" fill=\"#24592E\">His field acquires it</text><text x=\"339\" y=\"386\" fill=\"#24592E\">His field acquires it</text><text x=\"561\" y=\"386\" fill=\"#8C2F2F\">“He has said nothing”</text><text x=\"783\" y=\"386\" fill=\"#8C2F2F\">“He has said nothing”</text></g><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"117\" y=\"408\">easily caught</text><text x=\"339\" y=\"408\">easily caught</text><text x=\"561\" y=\"408\">won't stay in the field</text><text x=\"783\" y=\"408\">won't stay in the field</text></g></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s8",
+   "title": "Standing Beside the Field: Shmuel's Condition, Its Source, and a Challenge",
+   "amud": "11a–11b",
+   "text": {
+    "from": "11a.6",
+    "to": "11b.7"
+   },
+   "gist": "Shmuel limits the Mishnah to an owner standing beside his field. Three parts: the secured/unsecured *chatzer* distinction, its source in the laws of *shikhchah*, and R. Abba's challenge from Rabban Gamliel's tithes given from a ship.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s9",
+     "title": "Secured or Unsecured Chatzer: When the Owner Must Stand Beside It",
+     "amud": "11a",
+     "text": {
+      "from": "11a.6",
+      "to": "11a.8"
+     },
+     "gist": "Shmuel requires the owner to stand beside his field; against R. Yosei b. R. Chanina's rule that a *chatzer* acquires without one's knowledge, the Gemara answers that the rule holds only for a secured *chatzer*.",
+     "bullets": [
+      {
+       "text": "Rav Yehuda citing Shmuel: the Mishnah's acquisition works only when the owner is standing beside his field, which gives it the status of a secured *chatzer*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Mishnah and Shmuel work on one axis: the item must not be able to escape on its own (a broken leg), and the owner must be there to stop it escaping. Together they make the item truly held in the field.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Challenge: why should the field not acquire without him? R. Yosei b. R. Chanina says a person's *chatzer* acquires for him even without his knowledge.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: that holds for a secured *chatzer* (*chatzer ha'mishtameret*), where items stay put unwatched. An unsecured *chatzer* acquires if the owner stands beside it, and not otherwise.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A field is the typical unsecured *chatzer*: open land with no fence. The owner standing there does what a fence does.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The Gemara's answer to R. Yosei b. R. Chanina (11a): a secured *chatzer* acquires even in the owner's absence, while an open field acquires only while he stands beside it.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three panels: a fenced yard holding an ownerless item with no owner present; an open field with its owner standing beside it; the same open field with the owner away.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"20\" width=\"280\" height=\"390\" rx=\"14\" fill=\"#F3EEE3\"/><rect x=\"310\" y=\"20\" width=\"280\" height=\"390\" rx=\"14\" fill=\"#F3EEE3\"/><rect x=\"605\" y=\"20\" width=\"280\" height=\"390\" rx=\"14\" fill=\"#F3EEE3\"/><g font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"155\" y=\"52\">Secured chatzer</text><text x=\"450\" y=\"52\">Unsecured field</text><text x=\"745\" y=\"52\">Unsecured field</text></g><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"155\" y=\"74\">owner away</text><text x=\"450\" y=\"74\">owner standing beside it</text><text x=\"745\" y=\"74\">owner away</text></g><rect x=\"45\" y=\"105\" width=\"220\" height=\"170\" fill=\"#E6DCC6\" stroke=\"#8B6A4E\" stroke-width=\"6\"/><g fill=\"#8B6A4E\"><rect x=\"60\" y=\"96\" width=\"6\" height=\"14\"/><rect x=\"100\" y=\"96\" width=\"6\" height=\"14\"/><rect x=\"140\" y=\"96\" width=\"6\" height=\"14\"/><rect x=\"180\" y=\"96\" width=\"6\" height=\"14\"/><rect x=\"220\" y=\"96\" width=\"6\" height=\"14\"/></g><ellipse cx=\"155\" cy=\"198\" rx=\"20\" ry=\"17\" fill=\"#B08A5A\"/><path d=\"M146 184 L155 176 L164 184 Z\" fill=\"#B08A5A\"/><rect x=\"149\" y=\"181\" width=\"12\" height=\"4\" fill=\"#6E4B2A\"/><text x=\"155\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">ownerless item</text><rect x=\"330\" y=\"130\" width=\"175\" height=\"145\" fill=\"#C9D5B8\"/><ellipse cx=\"418\" cy=\"198\" rx=\"20\" ry=\"17\" fill=\"#B08A5A\"/><path d=\"M409 184 L418 176 L427 184 Z\" fill=\"#B08A5A\"/><rect x=\"412\" y=\"181\" width=\"12\" height=\"4\" fill=\"#6E4B2A\"/><text x=\"418\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">ownerless item</text><use href=\"#man\" x=\"512\" y=\"165\" width=\"55\" height=\"110\" style=\"color:#4B5E8C\"/><rect x=\"635\" y=\"130\" width=\"220\" height=\"145\" fill=\"#C9D5B8\"/><ellipse cx=\"745\" cy=\"198\" rx=\"20\" ry=\"17\" fill=\"#B08A5A\"/><path d=\"M736 184 L745 176 L754 184 Z\" fill=\"#B08A5A\"/><rect x=\"739\" y=\"181\" width=\"12\" height=\"4\" fill=\"#6E4B2A\"/><text x=\"745\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">ownerless item</text><use href=\"#mark-ok\" x=\"135\" y=\"292\" width=\"40\" height=\"40\"/><use href=\"#mark-ok\" x=\"430\" y=\"292\" width=\"40\" height=\"40\"/><use href=\"#mark-no\" x=\"725\" y=\"292\" width=\"40\" height=\"40\"/><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" text-anchor=\"middle\"><text x=\"155\" y=\"362\" fill=\"#24592E\">Acquires for him</text><text x=\"450\" y=\"362\" fill=\"#24592E\">Acquires for him</text><text x=\"745\" y=\"362\" fill=\"#8C2F2F\">Does not acquire</text></g><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"155\" y=\"384\">even without his knowledge</text><text x=\"450\" y=\"384\">his presence secures the field</text><text x=\"745\" y=\"384\">nothing keeps the item there</text></g><text x=\"450\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">An unsecured field acquires only while its owner stands beside it (Shmuel)</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s10",
+     "title": "The Source: Shikhchah With the Owner in the Field or in Town",
+     "amud": "11a",
+     "text": {
+      "from": "11a.9",
+      "to": "11a.20"
+     },
+     "gist": "The Gemara finds the source in a *baraita* on *shikhchah*: it resolves the *baraita*'s internal contradiction by the owner's *chatzer* acquiring, then defends that reading against the claim that the field/town difference is a mere Torah edict.",
+     "bullets": [],
+     "chart": {
+      "caption": "The *baraita* on *shikhchah* as the Gemara reads it",
+      "columns": [
+       "",
+       "Forgotten from the outset",
+       "Remembered, then forgotten",
+       "Why"
+      ],
+      "rows": [
+       [
+        "Owner in the field",
+        "*Shikhchah*",
+        "Not *shikhchah*",
+        "Standing beside it, his field acts as his *chatzer* and acquires the sheaf once he remembers it"
+       ],
+       [
+        "Owner in the town",
+        "*Shikhchah*",
+        "*Shikhchah*",
+        "He isn't beside it, so his *chatzer* cannot acquire it"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s11",
+       "title": "The Baraita: Remembered in Town, Then Forgotten, and a Contradiction",
+       "amud": "11a",
+       "text": {
+        "from": "11a.9",
+        "to": "11a.11"
+       },
+       "gist": "A *baraita* about an owner in town who remembered a sheaf his workers forgot, and then forgot it himself, seems to contradict itself.",
+       "bullets": [
+        {
+         "text": "The Gemara asks: from where do we know that an unsecured *chatzer* acquires only when its owner stands beside it?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "*Baraita*: an owner standing in town says, \"I know my workers forgot a sheaf in my field; since I remember it, it won't be *shikhchah*.\" Then he himself forgot it. One might think it is not *shikhchah*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The verse says \"and have forgotten a sheaf in the field\" (Devarim 24:19): in the field, and not in the town.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The *baraita* contradicts itself. \"One might think it isn't\" implies that it is *shikhchah*; \"in the field and not in the town\" implies that a sheaf forgotten while in town is not.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s12",
+       "title": "The Reading: Standing in the Field, His Chatzer Acquires the Sheaf",
+       "amud": "11a",
+       "text": {
+        "from": "11a.12",
+        "to": "11a.13"
+       },
+       "gist": "With the owner in the field, a sheaf forgotten at the outset is *shikhchah* but a remembered one later forgotten is not, since his field acquires it; with the owner in town, even a remembered sheaf becomes *shikhchah*.",
+       "bullets": [
+        {
+         "text": "The *tanna* means: when the owner is in the field, a sheaf forgotten at the outset is *shikhchah*, but one remembered and later forgotten is not.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The reason: standing beside the sheaf, his field is like his *chatzer*, and it acquires the sheaf for him once he remembers it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "When the owner is in town, even a sheaf remembered and later forgotten is *shikhchah*, because he is not beside it for his *chatzer* to acquire it. So a *chatzer* acquires only when its owner stands beside it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A striking explanation. More intuitive would be supervision: while the owner is present and attentive, the harvest hasn't been abandoned and his memory, not the workers', governs. The Gemara instead makes it a matter of possession.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "It can't mean that his field re-acquires the sheaf after it became *shikhchah*, since by then it belongs to the poor. Rather, his presence means he never lost possession.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "A test case: the owner steps twenty feet away to knock on a neighbor's door just as the workers forget the sheaf. By this criterion it is *shikhchah*, though he remembers it and will be back in a moment. Formal presence, not memory, decides.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "The *baraita* as the Gemara reads it (11a): a remembered sheaf later forgotten stays the owner's if he stands in the field, but becomes *shikhchah* if he is in town.",
+        "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: an owner standing in his harvested field beside a sheaf. Right: an owner standing among the houses of the town, far from the sheaf in his field.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"425\" height=\"430\" rx=\"14\" fill=\"#F3EEE3\"/><rect x=\"460\" y=\"15\" width=\"425\" height=\"430\" rx=\"14\" fill=\"#F3EEE3\"/><text x=\"227\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Owner in the field</text><text x=\"672\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Owner in the town</text><text x=\"227\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">He remembered the sheaf, then forgot it</text><text x=\"672\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">He remembered the sheaf, then forgot it</text><rect x=\"35\" y=\"110\" width=\"385\" height=\"170\" fill=\"#E6D39A\"/><text x=\"52\" y=\"132\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#7A5A2A\">Field</text><g stroke=\"#B08A3A\" stroke-width=\"5\" stroke-linecap=\"round\"><path d=\"M195 250 L190 185\"/><path d=\"M202 250 L200 182\"/><path d=\"M210 250 L210 180\"/><path d=\"M218 250 L220 182\"/><path d=\"M225 250 L230 185\"/></g><rect x=\"190\" y=\"222\" width=\"40\" height=\"6\" fill=\"#8B6A2E\"/><use href=\"#man\" x=\"250\" y=\"150\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#mark-ok\" x=\"207\" y=\"296\" width=\"40\" height=\"40\"/><text x=\"227\" y=\"364\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Not shikhchah: he may take it</text><text x=\"227\" y=\"386\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Standing beside it, his field acts as his chatzer</text><text x=\"227\" y=\"404\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">and acquires the sheaf for him</text><text x=\"227\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">A sheaf forgotten from the outset is still shikhchah</text><rect x=\"485\" y=\"160\" width=\"40\" height=\"50\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\"/><path d=\"M481 162 L505 140 L529 162 Z\" fill=\"#B5673E\"/><rect x=\"535\" y=\"170\" width=\"46\" height=\"40\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\"/><path d=\"M531 172 L558 148 L585 172 Z\" fill=\"#B5673E\"/><rect x=\"499\" y=\"188\" width=\"12\" height=\"22\" fill=\"#8A7560\"/><rect x=\"552\" y=\"186\" width=\"12\" height=\"12\" fill=\"#8A7560\"/><text x=\"533\" y=\"232\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5A4A3A\">Town</text><use href=\"#man\" x=\"590\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><rect x=\"670\" y=\"150\" width=\"195\" height=\"130\" fill=\"#E6D39A\"/><text x=\"685\" y=\"170\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#7A5A2A\">Field</text><g stroke=\"#B08A3A\" stroke-width=\"5\" stroke-linecap=\"round\"><path d=\"M755 260 L750 195\"/><path d=\"M762 260 L760 192\"/><path d=\"M770 260 L770 190\"/><path d=\"M778 260 L780 192\"/><path d=\"M785 260 L790 195\"/></g><rect x=\"750\" y=\"232\" width=\"40\" height=\"6\" fill=\"#8B6A2E\"/><use href=\"#mark-no\" x=\"652\" y=\"296\" width=\"40\" height=\"40\"/><text x=\"672\" y=\"364\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Shikhchah: he may not go back for it</text><text x=\"672\" y=\"386\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">He isn't beside it, so his field</text><text x=\"672\" y=\"404\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">can't acquire the sheaf for him</text><text x=\"672\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Even a remembered sheaf becomes shikhchah</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s13",
+       "title": "A Mere Torah Edict? Lo Tashuv and Yihyeh Include the Town",
+       "amud": "11a",
+       "text": {
+        "from": "11a.14",
+        "to": "11a.20"
+       },
+       "gist": "The Gemara considers that the field/town difference is simply a Torah edict about *shikhchah*, and rules that out with a verse including the town, settling on Rav Ashi's \"it shall be\" after \"you shall not go back\" proves needed elsewhere.",
+       "flag": "Gemara text only",
+       "bullets": [
+        {
+         "text": "The proof is rejected: perhaps it is a Torah edict that with the owner in the field a sheaf is *shikhchah* and with him in town it is not, with no connection to acquisition.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Reply: \"you shall not go back to take it\" (Devarim 24:19) includes sheaves forgotten while the owner is in town. So town and field don't differ in themselves; the difference must come from the *chatzer* acquiring only when he stands beside it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: that phrase is needed to forbid taking a sheaf one has forgotten.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: for that, \"you shall not take it\" would suffice. \"Go back\" adds the town.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: \"go back\" is needed for the Mishnah in Pe'ah 7:4. A sheaf still ahead of the gatherer is not *shikhchah*; one already behind him is. The rule: whatever \"you shall not go back\" applies to is *shikhchah*, and whatever it doesn't is not.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Ashi: the town is included from \"it shall be\" (*yihyeh*) in the same verse. So the first reading stands: the field/town difference comes from the *chatzer* acquiring only when its owner stands beside it, as Rav Yehuda said in Shmuel's name.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s14",
+     "title": "Rabban Gamliel's Tithes on the Ship: Chatzer, Agav or Da'at Acheret?",
+     "amud": "11a–11b",
+     "text": {
+      "from": "11a.21",
+      "to": "11b.7"
+     },
+     "gist": "Ulla and Rabbah bar bar Chana agree with Shmuel. R. Abba objects from Rabban Gamliel's tithes, given while all were at sea, and the answers are *kinyan agav*, Rava's defense of R. Abba and the Gemara's reply, and Rav Pappa's *da'at acheret makneh*.",
+     "bullets": [],
+     "chart": {
+      "caption": "How the tithes on the ship passed, and what that means for Ulla's rule",
+      "columns": [
+       "",
+       "How the tithes passed",
+       "Key reasoning",
+       "Ulla's rule"
+      ],
+      "rows": [
+       [
+        "A Sage in Sura",
+        "*Kinyan agav*, together with the rented land",
+        "It was not a *chatzer* acquisition at all",
+        "Stands"
+       ],
+       [
+        "Rava",
+        "*Kinyan chatzer*",
+        "If ownership were transferred, *chalifin* would have done; *tovat hana'ah* can't pass by *chalifin* or with land",
+        "Refuted: a *chatzer* acquires without standing beside it"
+       ],
+       [
+        "The Gemara, answering Rava",
+        "*Kinyan agav*",
+        "Tithes must be given; *chalifin* is a sale, but movables with land is a strong form of giving",
+        "Stands"
+       ],
+       [
+        "Rav Pappa",
+        "Even if by *kinyan chatzer*",
+        "*Da'at acheret makneh*: a transfer by another mind differs from an ownerless find",
+        "Stands"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "R. Abba's objection (11a–11b): Rabban Gamliel, at sea with R. Yehoshua and R. Akiva, gave them the tithes in his field. Were they standing beside it?",
+      "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Rabban Gamliel, R. Yehoshua and R. Akiva stand on a ship at sea. Far away on shore is Rabban Gamliel's field with two heaps of grain: the first tithe for R. Yehoshua and the poor man's tithe for R. Akiva.</title><rect width=\"900\" height=\"480\" fill=\"url(#sky)\"/><rect x=\"0\" y=\"330\" width=\"560\" height=\"150\" fill=\"#8FB3CF\"/><path d=\"M0 400 q20 -8 40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0\" fill=\"none\" stroke=\"#6F97B8\" stroke-width=\"3\"/><path d=\"M0 440 q20 -8 40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0\" fill=\"none\" stroke=\"#6F97B8\" stroke-width=\"3\"/><path d=\"M540 480 L540 300 Q640 284 900 276 L900 480 Z\" fill=\"#D9C9A8\"/><rect x=\"600\" y=\"300\" width=\"270\" height=\"120\" rx=\"6\" fill=\"#E6D39A\"/><text x=\"735\" y=\"324\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A4A3A\">Rabban Gamliel's field</text><path d=\"M630 396 Q670 340 710 396 Z\" fill=\"#C99A3E\"/><path d=\"M760 396 Q800 340 840 396 Z\" fill=\"#C99A3E\"/><text x=\"670\" y=\"442\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5A4A3A\">First tithe</text><text x=\"670\" y=\"460\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5A4A3A\">to R. Yehoshua</text><text x=\"800\" y=\"442\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5A4A3A\">Poor man's tithe</text><text x=\"800\" y=\"460\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5A4A3A\">to R. Akiva</text><rect x=\"440\" y=\"110\" width=\"6\" height=\"220\" fill=\"#5A3A26\"/><path d=\"M448 120 L448 300 L530 300 Z\" fill=\"#F5EEDD\" stroke=\"#D9CFBD\"/><use href=\"#sage\" x=\"150\" y=\"225\" width=\"60\" height=\"105\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"250\" y=\"225\" width=\"60\" height=\"105\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\"/><use href=\"#sage\" x=\"350\" y=\"225\" width=\"60\" height=\"105\" style=\"color:#8C5A3C;--beard:#5A4636;--wrap:#E4D8C0\"/><path d=\"M90 330 L470 330 L430 382 L130 382 Z\" fill=\"#7A4B30\"/><text x=\"180\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Rabban Gamliel</text><text x=\"280\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">R. Yehoshua</text><text x=\"380\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">R. Akiva</text><text x=\"225\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Rabban Gamliel and the Elders on a ship</text><text x=\"225\" y=\"74\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Ma'aser Sheni 5:9</text><rect x=\"20\" y=\"116\" width=\"410\" height=\"72\" rx=\"12\" fill=\"#FFFFFF\" stroke=\"#BFAE8E\"/><path d=\"M170 187 L180 214 L196 187 Z\" fill=\"#FFFFFF\" stroke=\"#BFAE8E\" stroke-linejoin=\"round\"/><rect x=\"171\" y=\"183\" width=\"24\" height=\"5\" fill=\"#FFFFFF\"/><text x=\"225\" y=\"146\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-style=\"italic\" fill=\"#1A1F2E\">“The tenth I will measure out is given to</text><text x=\"225\" y=\"170\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-style=\"italic\" fill=\"#1A1F2E\">Yehoshua, and its place is rented to him”</text><rect x=\"560\" y=\"150\" width=\"320\" height=\"84\" rx=\"14\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><text x=\"720\" y=\"184\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1B3A8A\">R. Abba: were they standing</text><text x=\"720\" y=\"212\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1B3A8A\">beside Rabban Gamliel's field?</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s15",
+       "title": "R. Abba's Objection: Were They Standing Beside His Field?",
+       "amud": "11a–11b",
+       "text": {
+        "from": "11a.21",
+        "to": "11b.3"
+       },
+       "gist": "Ulla and Rabbah bar bar Chana also require standing beside the field; R. Abba objects from Rabban Gamliel's tithes, given to R. Yehoshua and R. Akiva while all were at sea, and Ulla brushes the objection aside.",
+       "bullets": [
+        {
+         "text": "Ulla, and Rabbah bar bar Chana too, say the Mishnah's acquisition works only when the owner stands beside his field.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Abba objects to Ulla from the Mishnah in Ma'aser Sheni 5:9. Rabban Gamliel and the Elders were traveling on a ship. He said: \"The tenth I will measure out is given to Yehoshua\" (R. Yehoshua ben Chananya, a Levite), \"and its place is rented to him.\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "\"Another tenth I will measure out, as the poor man's tithe, is given to Akiva ben Yosef\" to acquire for the poor, \"and its place is rented to him.\" A token rent was paid for the place.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Abba: were R. Yehoshua and R. Akiva standing beside Rabban Gamliel's field? They were all on the ship.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Ulla dismisses him: \"This one of the Sages seems like someone who hasn't studied *halakha*.\" That is no answer, and R. Abba is not satisfied.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rashi: Rabban Gamliel had left home without tithing and was separating the tithes from afar so his household wouldn't eat untithed produce. Tosafot: \"I will measure out\" doesn't sound like separating now; rather the tithes were already set aside, and he had to give them away at the third-year removal of tithes.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Tosafot also asks whether the place was secured at all: grain in an open field is not, and even in a house the family wouldn't know which portion now belonged to the recipients.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s16",
+       "title": "Sura's Answer, Kinyan Agav, and Rava's Challenge from Chalifin",
+       "amud": "11b",
+       "text": {
+        "from": "11b.4",
+        "to": "11b.6"
+       },
+       "gist": "A Sage in Sura says the tithes passed by *kinyan agav*; Rava backs R. Abba, since *chalifin* would then have sufficed, and the Gemara replies that tithes must be given, which *chalifin* is not and land is.",
+       "bullets": [
+        {
+         "text": "In Sura, R. Abba reported the exchange. One of the Sages answered: Rabban Gamliel transferred the tithes, which are movables, together with the rented land (*kinyan agav*), not through a *chatzer*. R. Zeira accepted this; R. Abba did not.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "*Kinyan agav*: when land is transferred, movables the owner includes pass with it, even if they are not on it. A rental counts as a transfer of land, which the Rambam calls *kinyan guf le'peirot li'zman*, ownership of use for a time. So \"its place\" need not mean the particular spot.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Rava: R. Abba was right. If Rabban Gamliel was transferring ownership, didn't they have a cloth to acquire the tithes by *chalifin*?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rather, the tithes weren't his property. He owned only *tovat hana'ah*, the benefit of choosing the recipient, which cannot pass by *chalifin* or together with land. So it must have been by *chatzer*, and a *chatzer* acquires even when its owner isn't beside it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The tithes belong to the Levites and the poor; Rabban Gamliel had only the right to pick which of them receives.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The Gemara rejects Rava's reasoning. With priestly gifts and tithes, giving is written: \"and have given it to the Levite, to the stranger, to the fatherless and to the widow\" (Devarim 26:12). *Chalifin* is a form of buying and selling, so it is unsuitable.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Transferring movables with land is a strong form of giving, so Rabban Gamliel had to use land. The transfer was not by *chatzer*, and Ulla's rule is unaffected.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s17",
+       "title": "Rav Pappa: Da'at Acheret Makneh, a Transfer Needs No Standing Beside",
+       "amud": "11b",
+       "text": {
+        "from": "11b.7",
+        "to": "11b.7"
+       },
+       "gist": "Even if the tithes passed by *chatzer*, Rav Pappa answers, a transfer by another mind (*da'at acheret makneh*) differs from an ownerless find, so the recipients needn't stand beside the field.",
+       "bullets": [
+        {
+         "text": "Rav Pappa: even if R. Yehoshua and R. Akiva acquired by *chatzer*, Ulla's rule stands. The tithes weren't ownerless: another mind, Rabban Gamliel, transferred them, and that case is different, so the recipients didn't need to stand beside the field.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Every acquisition has two parts: the intent to transfer or acquire, and a physical act of taking possession. The stronger the intent, the less the act must do.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "With a found item nobody directs it to you, so everything rests on your own hold: a secured *chatzer* or standing beside it. When a giver deliberately directs the tithes to a specific recipient, an unsecured place without him standing beside it is enough.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "continues": "Continues on 11b: Rav Pappa's proof from R. Yirmeya's question about a gift of running animals, Rav Shimi's challenge from a *get* thrown into a courtyard, and Rav Ashi's answer on 12a."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "kinyan chatzer",
+   "hebrew": "קנין חצר",
+   "sense": "acquisition through one's property",
+   "definition": "A person's courtyard or other property acquires movable items that come into it on his behalf, as though he had taken them himself.",
+   "on_this_daf": "The Gemara asks whether a minor's *chatzer* works as her hand, and Shmuel limits a field's acquisition to when its owner stands beside it.",
+   "aliases": [
+    "kinyan chatzer",
+    "chatzer"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17"
+   ]
+  },
+  {
+   "term": "yad",
+   "hebrew": "יד",
+   "sense": "a chatzer as an extension of one's hand",
+   "definition": "The view that a person's courtyard acquires for him as an extension of his own hand, so that placing an item in it is like placing it in his hand. It is contrasted with the view that the courtyard acquires as his agent.",
+   "on_this_daf": "All agree a *chatzer* is a woman's *yad* for a *get*; the dispute is whether that extends to found items, or to a minor boy.",
+   "aliases": [
+    "yad"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "term": "ein shaliach li'dvar aveirah",
+   "hebrew": "אין שליח לדבר עבירה",
+   "sense": "no agency for a transgression",
+   "definition": "The principle that when an agent commits a transgression on someone's instructions, the agent alone, not the sender, is responsible.",
+   "on_this_daf": "The Gemara shows where the two formulations, the agent's freedom to refuse and his being bound by the prohibition, diverge: a priest's agent betrothing a divorcee and a woman rounding a boy's head.",
+   "aliases": [
+    "ein shaliach li'dvar aveirah"
+   ],
+   "sections": [
+    "s1"
+   ]
+  },
+  {
+   "term": "chatzer ha'mishtameret",
+   "hebrew": "חצר המשתמרת",
+   "sense": "a secured courtyard",
+   "definition": "A courtyard in which items stay safe without anyone watching them, such as an enclosed yard. An unsecured area, such as an open field, does not hold items on its own.",
+   "on_this_daf": "R. Yosei b. R. Chanina's rule that a *chatzer* acquires without the owner's knowledge applies to a secured one; an unsecured field acquires only while its owner stands beside it.",
+   "aliases": [
+    "chatzer ha'mishtameret",
+    "unsecured chatzer",
+    "secured chatzer"
+   ],
+   "sections": [
+    "s8",
+    "s9",
+    "s10",
+    "s15",
+    "s17"
+   ]
+  },
+  {
+   "term": "shikhchah",
+   "hebrew": "שכחה",
+   "sense": "the forgotten sheaf left for the poor",
+   "definition": "Sheaves forgotten in the field during the harvest, which the owner may not go back to take and must leave for the stranger, the orphan and the widow.",
+   "on_this_daf": "A remembered sheaf later forgotten is not *shikhchah* if the owner stands in the field, since his field acquires it, but is *shikhchah* if he is in town; this is the source for Shmuel's rule.",
+   "aliases": [
+    "shikhchah"
+   ],
+   "sections": [
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13"
+   ]
+  },
+  {
+   "term": "kinyan agav",
+   "hebrew": "קנין אגב",
+   "sense": "acquiring movables together with land",
+   "definition": "Movable property can be acquired together with land: when land is transferred by a valid act, movables the owner includes in the transfer pass with it, even if they are not on it.",
+   "on_this_daf": "A Sage in Sura, and the Gemara against Rava, explain that Rabban Gamliel's tithes passed together with the rented land, which counts as giving.",
+   "aliases": [
+    "kinyan agav",
+    "agav"
+   ],
+   "sections": [
+    "s14",
+    "s16"
+   ]
+  },
+  {
+   "term": "tovat hana'ah",
+   "hebrew": "טובת הנאה",
+   "sense": "the benefit of choosing the recipient of gifts",
+   "definition": "The benefit a person who sets aside tithes or priestly gifts has in choosing which eligible priest, Levite or poor person receives them; the gifts themselves belong to the recipients.",
+   "on_this_daf": "Rava argues that since Rabban Gamliel had only *tovat hana'ah*, it could not pass by *chalifin* or with land, so the transfer must have been by *chatzer*.",
+   "aliases": [
+    "tovat hana'ah"
+   ],
+   "sections": [
+    "s14",
+    "s16"
+   ]
+  },
+  {
+   "term": "da'at acheret makneh",
+   "hebrew": "דעת אחרת מקנה",
+   "sense": "acquisition from a transferring owner",
+   "definition": "A transfer in which another person deliberately conveys ownership, as opposed to taking an ownerless item. Such a transfer can take effect with a weaker act of acquisition.",
+   "on_this_daf": "Rav Pappa answers R. Abba's objection: tithes transferred by Rabban Gamliel differ from an ownerless find, so the recipients needn't stand beside the field.",
+   "aliases": [
+    "da'at acheret makneh",
+    "da'at acheret"
+   ],
+   "sections": [
+    "s6",
+    "s14",
+    "s17"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The Mishnah is a separate top-level section and its Gemara (Shmuel's condition through Rav Pappa) a second top-level section. Nesting the Gemara under the Mishnah was the alternative; kept apart because the whole Gemara turns on Shmuel's added condition, not on the Mishnah's own distinction.",
+  "Ulla's and Rabbah bar bar Chana's agreement (11a.21) is placed with R. Abba's objection rather than with Shmuel in s9, because R. Abba's objection is addressed to Ulla.",
+  "The Torah-edict rejection and the verse back-and-forth (11a.14–20) sit as a child of the shikhchah source section rather than a separate section: it defends the same proof.",
+  "The Sura answer, Rava's defense of R. Abba and the Gemara's reply to Rava are one section (s16), since they form a single exchange about agav vs. chatzer; splitting Rava's step into its own child was possible.",
+  "The Tosafot / Noda Biyehuda question on whether ein shaliach li'dvar aveirah voids the agency is kept as bullets in s1, since it has no lines of its own in the Gemara.",
+  "The three framings of the minors' dispute are three children of one section rather than three top-level sections, because they are alternative answers to the one objection from the get baraita.",
+  "The shiur's discussion of get as placement vs. kinyan was attached to version three (s6), where the get/found-item split makes it most relevant."
+ ],
+ "coverage_notes": [
+  "The essay opens with the arba amot background from earlier on 10b, before this outline's first line; left out.",
+  "The previous daf's essay attributes the free-choice answer to 'Rava'; the text here (10b.15) speaks of the answers of Ravina and Rav Samma. Followed the text, and described the two formulations by content without assigning them to names in the Gemara bullets.",
+  "The essay presents the girl/boy split as the 'reconciliation' (no dispute). In the text the girl/boy split is a second version of the dispute, and the no-dispute version distinguishes get from found items. Followed the text.",
+  "Sefaria's interpolation at 11a.4 assigns the get statement to Abba Kohen Bardela and the found-item statement to R. Yannai, which seems reversed relative to their positions in 10b.18–11a.3. The outline states the no-dispute version without names.",
+  "The essay describes the shikhchah baraita's first clause as ruling that the declaration is ineffective, and states the resolution in terms of the owner remembering while the workers forgot. The text: the owner in town remembered, then himself forgot; with the owner in the field a sheaf forgotten at the outset is shikhchah and one remembered and later forgotten is not; in town even a remembered one is. Followed the text.",
+  "The Gemara's rejection (Torah edict) and the verses lo tashuv / yihyeh with Pe'ah 7:4 and Rav Ashi (11a.14–20) are not discussed in the shiur; outlined from the text and flagged.",
+  "The segmentation and essay call the challenger 'Rav Abba'; the text has Rabbi Abba. The essay writes 'Rabbi Yossi bar Chanina'; the text has R. Yosei son of R. Chanina. Followed the text.",
+  "The essay has Rava ask why a land rental was needed if agav sufficed, and assigns the chalifin question to 'the Gemara'. In the text Rava himself asks why they didn't use a cloth for chalifin and argues from tovat hana'ah; the Gemara then rejects Rava. Followed the text.",
+  "The essay concludes that Rabban Gamliel used kinyan chatzer as an act of giving, which needs no standing beside the field. The text's reply to Rava concludes that he used land (agav) and that the transaction was not by chatzer; only Rav Pappa's answer allows a chatzer acquisition. Followed the text.",
+  "The essay doesn't mention that R. Zeira accepted the Sura answer; included from the text.",
+  "The shiur ends with Rav Pappa's principle; Rav Pappa's proof, Rav Shimi's challenge and Rav Ashi's answer (11b.8 onward) fall to the next outline."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s7",
+    "subject": "The Mishnah's four cases by ruling",
+    "why_not": "Two variables with one principle; the illustration distills it better than a grid."
+   },
+   {
+    "section": "s9",
+    "subject": "Secured vs. unsecured chatzer, owner present or absent",
+    "why_not": "Only three real cases; the illustration carries it, and a grid would have a filler cell."
+   },
+   {
+    "section": "s13",
+    "subject": "The verse phrases (lo tashuv, yihyeh) and what each is needed for",
+    "why_not": "A back-and-forth sequence rather than a comparison along shared dimensions."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s2",
+    "subject": "A minor girl's and a minor boy's courtyards with a get and a found item",
+    "why_not": "The versions are distinctions of legal source, not of scene; the chart sets them out more clearly."
+   },
+   {
+    "section": "s13",
+    "subject": "The gatherer with sheaves ahead of and behind him (Pe'ah 7:4)",
+    "why_not": "A supporting step three levels down that doesn't bear on the main line of the sugya."
+   },
+   {
+    "section": "s17",
+    "subject": "Intent and physical act as two parts of acquisition",
+    "why_not": "An abstract principle from the shiur, with nothing concrete to draw."
+   }
+  ]
+ }
+}

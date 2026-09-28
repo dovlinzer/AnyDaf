@@ -1,0 +1,875 @@
+{
+ "daf": "Bava Metzia 10",
+ "scope": {
+  "start": "10a: the Gemara's support for Ulla's reading of \"at the outset\" in the rider Mishnah (opens mid-exchange)",
+  "end": "10b: Rav Samma's answer on agency for a transgression"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Magbiah Metziah Le'chavero: Does Lifting for a Friend Acquire for Him?",
+   "amud": "10a",
+   "text": {
+    "from": "10a.3",
+    "to": "10a.12"
+   },
+   "gist": "Continuing the dispute over *magbiah metziah le'chavero* (lifting a found item for another): how to read the rider Mishnah, Rav Nachman's creditor analogy, Rava's objection from a hired laborer, and R. Yochanan's contrary view.",
+   "bullets": [],
+   "chart": {
+    "caption": "Three readings of the rider Mishnah",
+    "columns": [
+     "",
+     "Does lifting for another acquire?",
+     "Why the pedestrian may keep it",
+     "When the rider acquires"
+    ],
+    "rows": [
+     [
+      "Ulla",
+      "Yes",
+      "He says he lifted it for himself from the start",
+      "As soon as it is lifted for him"
+     ],
+     [
+      "Rav Nachman and Rav Chisda",
+      "No: it is like seizing for one creditor at others' expense",
+      "Nothing passes to the rider before he receives it, whatever the pedestrian intended",
+      "Only when it is handed to him"
+     ],
+     [
+      "R. Yochanan (R. Chiya bar Abba's tradition)",
+      "Yes",
+      "The rider said \"give it to me,\" not \"acquire it for me\"",
+      "At the lift if he said \"acquire it for me\"; otherwise when it reaches him"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "\"At the Outset\" in the Seifa: A Clue to the Reisha or a Contrast?",
+     "amud": "10a",
+     "text": {
+      "from": "10a.3",
+      "to": "10a.4"
+     },
+     "gist": "The word *techilah* in the Mishnah's last clause supports Ulla: the pedestrian keeps the item only if he lifted it for himself. Rav Nachman reads the word as a contrast with the first clause.",
+     "bullets": [
+      {
+       "text": "The Mishnah's last clause: if after handing the item to the rider the pedestrian says \"I acquired it for myself at the outset,\" he has said nothing.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why say \"at the outset\" there? He obviously means before he handed it over. So the phrase must teach that the first clause is also about someone who says he took it for himself at the outset. This supports Ulla.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "On this reading lifting for another works. Had he lifted it for the rider, the rider would own it from the moment of lifting, and the pedestrian could no longer change course.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Rav Nachman: the last clause says \"at the outset\" to shed light on the first. In the first clause the pedestrian keeps it even without claiming intent from the start, because the rider acquires only when it is given to him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A student's question: how can intention outweigh physical possession of an ownerless item? *Kinyan* always combines an act with intent. Even a *chatzer* that acquires without one's knowledge rests on a presumed wish to acquire, and explicit contrary intent overrides that presumption.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Rav Nachman and Rav Chisda: Seizing for One Creditor at Others' Expense",
+     "amud": "10a",
+     "text": {
+      "from": "10a.5",
+      "to": "10a.6"
+     },
+     "gist": "*Magbiah metziah le'chavero* does not acquire for him, because it is *tofes le'va'al chov bi'makom she'chav le'acherim*: one may not take for one person what others have an equal claim to.",
+     "bullets": [
+      {
+       "text": "Rav Nachman and Rav Chisda: one who lifts a found item for another does not acquire it for him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Reason: it is like seizing a debtor's assets for one creditor when the debtor owes others too, which does not acquire. Everyone has an equal right to an ownerless find, so no one may take that right from all the others on behalf of one person.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi holds that a formally appointed agent would succeed. Tosafot hold that even an appointment cannot override the rights of others.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: one can hold that seizing for a creditor fails and still hold that lifting a find for another works. The finder could have taken the find for himself (*migo de'zakhi le'nafshei*), while a bystander has no claim of his own on the debtor's assets.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "A further difference the lecturer suggests: the other creditors lose money actually owed to them, while other would-be finders lose only a windfall.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot, citing Rabbeinu Tam: drawing water from a public well for another person raises no such problem, since the water is plentiful and no one is harmed. And if the mechanism is the *migo*, the drawer acquires first and then transfers, so the water's *techum* follows the one who drew it.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Rava's Objection: A Laborer's Find Goes to His Employer",
+     "amud": "10a",
+     "text": {
+      "from": "10a.7",
+      "to": "10a.11"
+     },
+     "gist": "A *baraita* gives a laborer's find to his employer when he was hired for work in general, which suggests that one can acquire for another. Rav Nachman answers that a laborer's hand is his employer's, even though he may quit.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s5",
+       "title": "\"Weed for Me\" or \"Work for Me\": Whose Is the Laborer's Find?",
+       "amud": "10a",
+       "text": {
+        "from": "10a.7",
+        "to": "10a.8"
+       },
+       "gist": "A laborer keeps his find when he was hired for a named task. When he was hired simply \"to work,\" the find belongs to the employer.",
+       "bullets": [
+        {
+         "text": "*Baraita*: a laborer's find belongs to him, not to his employer.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "That holds when the employer named a task: \"weed for me today\" or \"till for me today.\" If he said \"work for me today,\" the find is the employer's, since picking up finds is part of work in general.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So a laborer can acquire for someone else, against Rav Nachman.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "When the task is named, picking up the find lies outside the job. At most the employer could claim for the few minutes of work lost.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s6",
+       "title": "The Laborer's Hand Is His Employer's, Though He May Quit: \"Avadai Hem\"",
+       "amud": "10a",
+       "text": {
+        "from": "10a.9",
+        "to": "10a.11"
+       },
+       "gist": "Rav Nachman: while he works, *yad po'el ke'yad ba'al habayit*. His right to quit at midday comes from a separate source: \"they are My slaves, not slaves of slaves.\"",
+       "bullets": [
+        {
+         "text": "Rav Nachman: a laborer is different, because his hand is like the employer's hand (*yad po'el ke'yad ba'al habayit*).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rava: but Rav says a laborer may quit even at midday, which shows the arrangement favors the laborer.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Nachman: as long as he has not quit, his hand is the employer's. His right to quit rests on a different reason, Vayikra 25:55, \"For to Me the children of Israel are slaves\": *avadai hem ve'lo avadim la'avadim*, My slaves and not slaves of slaves.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The Gemara does not deny the bond in order to avoid servitude. It keeps the bond while the job lasts and guarantees the exit that stops it from hardening into slavery.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Tosafot: hiring oneself out is permitted. What is forbidden is servitude with no exit, like an *eved Ivri*, who cannot leave before his term without a release. Tosafot add that the laborer even holds the stronger hand if the terms for the rest of the day are renegotiated.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The Gra cites Hagahot Maimoniyot: it is forbidden to hire oneself out for more than three years, since so long a commitment comes close to servitude.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s7",
+     "title": "R. Yochanan: Lifting for Another Works; \"Give It to Me\" Isn't \"Acquire It for Me\"",
+     "amud": "10a",
+     "text": {
+      "from": "10a.12",
+      "to": "10a.12"
+     },
+     "gist": "R. Yochanan holds that the friend acquires. The Mishnah's pedestrian may keep the item because the rider only asked him to hand it over, not to acquire it for him.",
+     "bullets": [
+      {
+       "text": "R. Chiya bar Abba in the name of R. Yochanan: one who lifts a found item for another acquires it for him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Mishnah is a case where the rider said \"give it to me\" and not \"acquire it for me.\" So he acquires only when the item reaches him. Had he said \"acquire it for me,\" he would acquire as soon as it is lifted.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Delivering and acquiring are separate acts. The pedestrian lifted the item in order to deliver it, not to give the rider title, so he may change his mind until he hands it over.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "This leaves three explanations of why he may keep it: lifting for another never works (Rav Nachman); it works, but he claims he lifted it for himself from the start (Ulla); or it works, but he was asked only to deliver (R. Yochanan).",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "R. Yochanan's reading of the rider Mishnah: which words the rider used decides whether he acquires when the item is lifted or only when it is handed to him (10a).",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two panels. In each, a man rides an animal and a pedestrian holds a found item. Left: the rider said Give it to me, and acquires only when it is handed over. Right: the rider said Acquire it for me, and acquires as soon as it is lifted.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1B3A8A\">“Give it to me”</text><text x=\"227\" y=\"78\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" fill=\"#3A5692\">תנה לי</text><rect x=\"30\" y=\"290\" width=\"395\" height=\"4\" fill=\"#BFAE8E\"/><rect x=\"80\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"96\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"140\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"156\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><ellipse cx=\"122\" cy=\"232\" rx=\"55\" ry=\"24\" fill=\"#8A7A6A\"/><ellipse cx=\"182\" cy=\"204\" rx=\"17\" ry=\"12\" fill=\"#7A6A5A\"/><path d=\"M176 194 l-4 -16 M186 194 l2 -16\" stroke=\"#7A6A5A\" stroke-width=\"5\" stroke-linecap=\"round\"/><use href=\"#man\" x=\"97\" y=\"140\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"282\" y=\"180\" width=\"55\" height=\"110\" style=\"color:#6B6F3A\"/><circle cx=\"272\" cy=\"246\" r=\"9\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"35\" y=\"318\" width=\"24\" height=\"24\"/><text x=\"68\" y=\"335\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">When lifted: the rider does not yet acquire</text><use href=\"#mark-ok\" x=\"35\" y=\"352\" width=\"24\" height=\"24\"/><text x=\"68\" y=\"369\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">When handed over: the rider acquires</text><text x=\"35\" y=\"396\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Until then the pedestrian may keep it</text><rect x=\"460\" y=\"15\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#9A6212\">“Acquire it for me”</text><text x=\"672\" y=\"78\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" fill=\"#7A4A2A\">זכי לי</text><rect x=\"475\" y=\"290\" width=\"395\" height=\"4\" fill=\"#BFAE8E\"/><rect x=\"525\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"541\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"585\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"601\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><ellipse cx=\"567\" cy=\"232\" rx=\"55\" ry=\"24\" fill=\"#8A7A6A\"/><ellipse cx=\"627\" cy=\"204\" rx=\"17\" ry=\"12\" fill=\"#7A6A5A\"/><path d=\"M621 194 l-4 -16 M631 194 l2 -16\" stroke=\"#7A6A5A\" stroke-width=\"5\" stroke-linecap=\"round\"/><use href=\"#man\" x=\"542\" y=\"140\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"727\" y=\"180\" width=\"55\" height=\"110\" style=\"color:#6B6F3A\"/><circle cx=\"717\" cy=\"246\" r=\"9\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"480\" y=\"318\" width=\"24\" height=\"24\"/><text x=\"513\" y=\"335\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">When lifted: the rider acquires</text><text x=\"480\" y=\"369\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">The pedestrian can no longer keep it</text></svg>"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "Mishnah: Falling on a Find, and Where *arba amot* Acquire",
+   "amud": "10a–10b",
+   "text": {
+    "from": "10a.13",
+    "to": "10b.6"
+   },
+   "gist": "Falling on a find does not acquire it. Reish Lakish's rule that *arba amot* acquire everywhere meets objections from Pe'ah and from this Mishnah, answered by the faller's revealed intent and by Rav Pappa's and Rav Sheshet's limits on where *arba amot* (four cubits) work.",
+   "bullets": [],
+   "chart": {
+    "caption": "Rav Pappa and Rav Sheshet: where a person's *arba amot* acquire",
+    "columns": [
+     "",
+     "Objection answered",
+     "*Arba amot* acquire",
+     "*Arba amot* do not acquire",
+     "Why not there"
+    ],
+    "rows": [
+     [
+      "Rav Pappa",
+      "Pe'ah 4:3 (poor man fell on the *pe'ah*)",
+      "On public land",
+      "In a field belonging to an owner",
+      "The Torah let the poor man walk in the field and collect, not treat it as his *chatzer*"
+     ],
+     [
+      "Rav Sheshet",
+      "Our Mishnah (fell on a find)",
+      "In an alleyway, and at the sides of the public domain",
+      "In the public domain",
+      "The multitudes crowd there"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The limits on *arba amot*, in the Gemara's order: Rav Pappa distinguishes public land from an owner's field (10b.1); Rav Sheshet distinguishes an alleyway from the crowded public domain, and \"everywhere\" is read as the sides of the public domain (10b.4–6).",
+    "svg": "<svg viewBox=\"0 0 900 430\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Five tiles, left to right: public land (acquires), an owner's field (does not), an alleyway (acquires), the crowded public domain (does not), and the sides of the public domain (acquires). The first two are Rav Pappa's; the last three Rav Sheshet's.</title><rect width=\"900\" height=\"430\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"28\" width=\"345\" height=\"34\" rx=\"17\" fill=\"#1B3A8A\"/><text x=\"187\" y=\"51\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#FFFFFF\">Rav Pappa</text><rect x=\"365\" y=\"28\" width=\"520\" height=\"34\" rx=\"17\" fill=\"#9A6212\"/><text x=\"625\" y=\"51\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#FFFFFF\">Rav Sheshet</text><rect x=\"15\" y=\"72\" width=\"170\" height=\"318\" rx=\"12\" fill=\"#EFE8DA\"/><rect x=\"190\" y=\"72\" width=\"170\" height=\"318\" rx=\"12\" fill=\"#EFE8DA\"/><rect x=\"365\" y=\"72\" width=\"170\" height=\"318\" rx=\"12\" fill=\"#EFE8DA\"/><rect x=\"540\" y=\"72\" width=\"170\" height=\"318\" rx=\"12\" fill=\"#EFE8DA\"/><rect x=\"715\" y=\"72\" width=\"170\" height=\"318\" rx=\"12\" fill=\"#EFE8DA\"/><text x=\"100\" y=\"104\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Public land</text><rect x=\"35\" y=\"212\" width=\"130\" height=\"60\" fill=\"#D9C9A8\"/><rect x=\"60\" y=\"140\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#5B6478\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><use href=\"#man\" x=\"85\" y=\"152\" width=\"30\" height=\"60\" style=\"color:#4B5E8C\"/><use href=\"#mark-ok\" x=\"84\" y=\"284\" width=\"32\" height=\"32\"/><text x=\"100\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Acquires</text><text x=\"100\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">“in the world”</text><text x=\"275\" y=\"104\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">An owner’s field</text><rect x=\"210\" y=\"212\" width=\"130\" height=\"60\" fill=\"#C9D5B8\"/><path d=\"M220 230 h110 M220 248 h110 M220 266 h110\" stroke=\"#9DB08A\" stroke-width=\"2\"/><rect x=\"235\" y=\"140\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#5B6478\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><use href=\"#man\" x=\"260\" y=\"152\" width=\"30\" height=\"60\" style=\"color:#4B5E8C\"/><use href=\"#mark-no\" x=\"259\" y=\"284\" width=\"32\" height=\"32\"/><text x=\"275\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Does not acquire</text><text x=\"275\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">the field is not</text><text x=\"275\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">his courtyard</text><text x=\"450\" y=\"104\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Alleyway</text><rect x=\"380\" y=\"140\" width=\"18\" height=\"132\" fill=\"#BFAE8E\"/><rect x=\"502\" y=\"140\" width=\"18\" height=\"132\" fill=\"#BFAE8E\"/><rect x=\"398\" y=\"212\" width=\"104\" height=\"60\" fill=\"#D9C9A8\"/><use href=\"#man\" x=\"435\" y=\"152\" width=\"30\" height=\"60\" style=\"color:#4B5E8C\"/><use href=\"#mark-ok\" x=\"434\" y=\"284\" width=\"32\" height=\"32\"/><text x=\"450\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Acquires</text><text x=\"450\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">the many</text><text x=\"450\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">do not crowd</text><text x=\"625\" y=\"104\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Public domain</text><rect x=\"555\" y=\"212\" width=\"140\" height=\"60\" fill=\"#D9C9A8\"/><use href=\"#person\" x=\"558\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#6A4F7A\"/><use href=\"#person\" x=\"580\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#8C5A3C\"/><use href=\"#person\" x=\"602\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#50706E\"/><use href=\"#person\" x=\"624\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#7A4A55\"/><use href=\"#person\" x=\"646\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#6B6F3A\"/><use href=\"#person\" x=\"668\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#4B5E8C\"/><use href=\"#person\" x=\"569\" y=\"200\" width=\"24\" height=\"48\" style=\"color:#4B5E8C\"/><use href=\"#person\" x=\"591\" y=\"200\" width=\"24\" height=\"48\" style=\"color:#7A4A55\"/><use href=\"#person\" x=\"613\" y=\"200\" width=\"24\" height=\"48\" style=\"color:#6B6F3A\"/><use href=\"#person\" x=\"635\" y=\"200\" width=\"24\" height=\"48\" style=\"color:#8C5A3C\"/><use href=\"#person\" x=\"657\" y=\"200\" width=\"24\" height=\"48\" style=\"color:#50706E\"/><use href=\"#mark-no\" x=\"609\" y=\"284\" width=\"32\" height=\"32\"/><text x=\"625\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Does not acquire</text><text x=\"625\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">the many crowd</text><text x=\"800\" y=\"100\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">Sides of the</text><text x=\"800\" y=\"120\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">public domain</text><rect x=\"730\" y=\"212\" width=\"104\" height=\"60\" fill=\"#D9C9A8\"/><rect x=\"836\" y=\"140\" width=\"38\" height=\"132\" fill=\"#CDBB98\"/><use href=\"#person\" x=\"843\" y=\"150\" width=\"24\" height=\"48\" style=\"color:#6A4F7A\"/><use href=\"#person\" x=\"843\" y=\"204\" width=\"24\" height=\"48\" style=\"color:#8C5A3C\"/><use href=\"#man\" x=\"767\" y=\"152\" width=\"30\" height=\"60\" style=\"color:#4B5E8C\"/><use href=\"#mark-ok\" x=\"784\" y=\"284\" width=\"32\" height=\"32\"/><text x=\"800\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Acquires</text><text x=\"800\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">“everywhere”</text><text x=\"800\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">includes these</text><text x=\"450\" y=\"416\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Bava Metzia 10a–10b · limits on Reish Lakish’s four cubits</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s9",
+     "title": "One Fell on a Find, Another Seized It: The Seizer Acquires",
+     "amud": "10a",
+     "text": {
+      "from": "10a.13",
+      "to": "10a.13"
+     },
+     "gist": "Throwing oneself on a found item is not a mode of acquisition; whoever then seizes it acquires it.",
+     "bullets": [
+      {
+       "text": "Mishnah: one who saw a found item and fell on it, and another came and seized it: the one who seized it acquires it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Falling on it, however complete the contact, is not a formal mode of acquisition. Seizing is.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The Mishnah (10a.13): the man who fell on the find does not acquire it; the one who seized it does. Beside it, Reish Lakish's rule that a person's *arba amot* acquire for him (10a.14), which the Gemara then tests against this Mishnah.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A man lies on a found item while another man reaches under him and takes it. At right, a man stands in a dashed square marking his four cubits, with an item inside it.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"245\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">The Mishnah: he fell on it, another seized it</text><rect x=\"40\" y=\"292\" width=\"420\" height=\"4\" fill=\"#BFAE8E\"/><rect x=\"150\" y=\"252\" width=\"150\" height=\"34\" rx=\"17\" fill=\"#4B5E8C\"/><circle cx=\"132\" cy=\"266\" r=\"15\" fill=\"#D6AE86\"/><path d=\"M118 262 Q132 246 146 262 Q132 256 118 262 Z\" fill=\"#4A3A2E\"/><rect x=\"235\" y=\"280\" width=\"26\" height=\"12\" rx=\"2\" fill=\"#C9A15C\" stroke=\"#9A7440\"/><use href=\"#man\" x=\"320\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><path d=\"M334 236 L264 284\" stroke=\"#D6AE86\" stroke-width=\"6\" stroke-linecap=\"round\"/><use href=\"#mark-no\" x=\"70\" y=\"330\" width=\"26\" height=\"26\"/><text x=\"106\" y=\"349\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">The one who fell on it: does not acquire</text><use href=\"#mark-ok\" x=\"70\" y=\"368\" width=\"26\" height=\"26\"/><text x=\"106\" y=\"387\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">The one who seized it: acquires</text><rect x=\"500\" y=\"40\" width=\"385\" height=\"350\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"692\" y=\"74\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">Reish Lakish: four cubits</text><text x=\"692\" y=\"102\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#7A4A2A\">ארבע אמות</text><rect x=\"602\" y=\"126\" width=\"180\" height=\"180\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"2.5\" stroke-dasharray=\"7 5\"/><use href=\"#man\" x=\"662\" y=\"156\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><circle cx=\"752\" cy=\"284\" r=\"9\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><text x=\"692\" y=\"336\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">They acquire for him everywhere</text><text x=\"692\" y=\"360\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">enacted so people will not quarrel</text></svg>"
+     }
+    },
+    {
+     "id": "s10",
+     "title": "Reish Lakish: *Arba amot* Acquire Everywhere, to Prevent Quarrels",
+     "amud": "10a",
+     "text": {
+      "from": "10a.14",
+      "to": "10a.14"
+     },
+     "gist": "Reish Lakish, in the name of Abba Kohen Bardela: the *arba amot* around a person acquire for him everywhere, a rabbinic enactment against quarrels. Two objections are announced.",
+     "bullets": [
+      {
+       "text": "Reish Lakish in the name of Abba Kohen Bardela: a person's four cubits (*arba amot*) acquire for him everywhere.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Reason: the Sages enacted it so that people would not come to quarrel.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *arba amot* work like a portable *chatzer* (courtyard), a person's defined personal space. By granting possession through nearness, the rule ends the race before it becomes a physical scramble over the item.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Abaye: R. Chiya bar Yosef objects from a Mishnah in Pe'ah. Rava: R. Ya'akov bar Idi objects from a Mishnah in *Nezikin*.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "Objection from Pe'ah: He Fell on It, Yet Acquired Nothing",
+     "amud": "10a–10b",
+     "text": {
+      "from": "10a.15",
+      "to": "10b.1"
+     },
+     "gist": "Pe'ah 4:3 says a poor man who fell on *pe'ah* acquires nothing. The Gemara answers that his falling showed he chose that mode; Rav Pappa answers that *arba amot* don't work in the owner's field.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s12",
+       "title": "Falling Reveals His Intent: Not Through *arba amot*",
+       "amud": "10a",
+       "text": {
+        "from": "10a.15",
+        "to": "10a.19"
+       },
+       "gist": "Saying nothing is no excuse under the Sages' enactment. But by falling he showed that he meant to acquire by falling, which is invalid, and not through his *arba amot*.",
+       "bullets": [
+        {
+         "text": "Pe'ah 4:3: a poor man who took some *pe'ah* and threw it on the rest has none of it. So too if he fell on it or spread his garment over it: others may remove him. The same holds for a forgotten sheaf.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Chiya bar Yosef: if *arba amot* acquire everywhere, his *arba amot* should acquire the *pe'ah* for him.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "First answer: he didn't say \"I will acquire.\" The Gemara rejects this: the Sages' enactment should work even if he said nothing.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: by falling on it he revealed that he wanted to acquire by falling and not through his *arba amot*. Falling is not a valid mode, so he acquired nothing.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Compare one who means to acquire a cup by lifting (*hagbahah*) but raises it less than three *tefachim*, having in fact performed *meshikhah*. Does the valid act count, or does his chosen, failed mode rule it out? The Gemara here says the chosen mode displaces the one available.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Tosafot: the one who takes the *pe'ah* from under him is not even called a *rasha*. That label applies to taking an item someone else is pursuing when a similar one could be had elsewhere; an ownerless find has no such substitute.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s13",
+       "title": "Rav Pappa: Not in the Owner's Field",
+       "amud": "10b",
+       "text": {
+        "from": "10b.1",
+        "to": "10b.1"
+       },
+       "gist": "*Arba amot* were enacted for public land. The poor man's rights in the owner's field are to walk and collect, not to treat the field as his *chatzer*.",
+       "bullets": [
+        {
+         "text": "Rav Pappa: the Sages enacted *arba amot* \"in the world,\" on public land, and not in a field belonging to an owner.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The Torah gave the poor man the right to walk in the field and collect *pe'ah*. It did not give him the right to treat the field as his *chatzer* for acquiring it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "*Arba amot* act as a personal *chatzer*. A visitor's personal space cannot override the owner's hold on the land he is standing on.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s14",
+     "title": "Objection from Our Mishnah: The Same Answer, and Rav Sheshet's Crowds",
+     "amud": "10b",
+     "text": {
+      "from": "10b.2",
+      "to": "10b.6"
+     },
+     "gist": "The faller in our Mishnah should acquire through his *arba amot*. The Gemara repeats the answer of revealed intent, and Rav Sheshet answers that *arba amot* don't work where the public crowds.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s15",
+       "title": "Falling Reveals His Intent, Again",
+       "amud": "10b",
+       "text": {
+        "from": "10b.2",
+        "to": "10b.3"
+       },
+       "gist": "R. Ya'akov bar Idi's objection from our Mishnah gets the same answer as the Pe'ah objection: the faller chose falling over his *arba amot*.",
+       "bullets": [
+        {
+         "text": "R. Ya'akov bar Idi: in our Mishnah, the man's *arba amot* should acquire the find for him.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Same exchange: he didn't say \"I will acquire\"; even so, what of it? Since he fell on it, he showed he wanted to acquire by falling and gave up the Sages' mode.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "returns_to": [
+        {
+         "id": "s12",
+         "note": "Repeats the answer given to the Pe'ah objection"
+        }
+       ]
+      },
+      {
+       "id": "s16",
+       "title": "Rav Sheshet: Alleyway, Not Public Domain; \"Everywhere\" Means Its Sides",
+       "amud": "10b",
+       "text": {
+        "from": "10b.4",
+        "to": "10b.6"
+       },
+       "gist": "*Arba amot* were enacted for alley-like places, not the crowded public domain; Reish Lakish's \"everywhere\" only adds the sides of the public domain.",
+       "bullets": [
+        {
+         "text": "Rav Sheshet: the Sages enacted *arba amot* for a place like an alleyway, where the multitudes do not crowd, and not for the public domain, where they do.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "But Reish Lakish said \"everywhere\"! Answer: that word comes to include the sides of the public domain, which are not crowded.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "In a crush no one has personal space, so the idea of *arba amot* collapses. This parallels *meshikhah*, which is valid in an alleyway but not in the public domain.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "returns_to": [
+        {
+         "id": "s10",
+         "note": "Reads Reish Lakish's \"everywhere\" more narrowly"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s17",
+   "title": "Minor Girl's *chatzer* and *arba amot*: Hand or Agency?",
+   "amud": "10b",
+   "text": {
+    "from": "10b.7",
+    "to": "10b.14"
+   },
+   "gist": "Whether a *ketanah* acquires through her courtyard and *arba amot* turns on whether a *chatzer* works as her hand or as her agent. A theft *baraita* then tests the agency view against *ein shaliach li'dvar aveirah*.",
+   "bullets": [],
+   "chart": {
+    "caption": "Can a minor girl acquire through her *chatzer* and her *arba amot*?",
+    "columns": [
+     "",
+     "Why a *chatzer* acquires",
+     "Minor girl's *chatzer*",
+     "Minor girl's *arba amot*"
+    ],
+    "rows": [
+     [
+      "R. Yannai (R. Yochanan's tradition)",
+      "It acts as her hand (*yad*)",
+      "Acquires: she has a hand",
+      "Acquires"
+     ],
+     [
+      "Abba Kohen Bardela (Reish Lakish's tradition)",
+      "It acts as her agent (*shelichut*)",
+      "Does not acquire: a minor cannot appoint an agent",
+      "Does not acquire"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The dispute of 10b.7–8: if a *chatzer* is an extension of her hand, a minor girl acquires through it; if it works as her agent, she does not, since a minor cannot appoint one. Her *arba amot* follow the same line.",
+    "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two panels, each with a young girl beside her courtyard, which holds an item. Left, R. Yannai: the courtyard is her hand, and she acquires. Right, Abba Kohen Bardela: the courtyard is her agent, and she does not acquire.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">R. Yannai</text><text x=\"227\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">(R. Yochanan’s tradition)</text><text x=\"227\" y=\"96\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">The courtyard is her hand</text><text x=\"227\" y=\"120\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#3A5692\">משום ידה</text><rect x=\"190\" y=\"132\" width=\"200\" height=\"150\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><text x=\"290\" y=\"154\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5A4A3A\">her courtyard</text><circle cx=\"330\" cy=\"232\" r=\"10\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#child\" x=\"80\" y=\"192\" width=\"45\" height=\"90\" style=\"color:#8C4A60\"/><path d=\"M122 238 L186 238\" stroke=\"#1B3A8A\" stroke-width=\"3\" stroke-dasharray=\"6 4\"/><path d=\"M186 238 l-10 -6 v12 z\" fill=\"#1B3A8A\"/><use href=\"#mark-ok\" x=\"40\" y=\"305\" width=\"26\" height=\"26\"/><text x=\"76\" y=\"324\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Her courtyard acquires for her</text><use href=\"#mark-ok\" x=\"40\" y=\"343\" width=\"26\" height=\"26\"/><text x=\"76\" y=\"362\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">So do her four cubits</text><text x=\"40\" y=\"392\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">She has a hand, so she has a courtyard</text><rect x=\"460\" y=\"15\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">Abba Kohen Bardela</text><text x=\"672\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">(Reish Lakish’s tradition)</text><text x=\"672\" y=\"96\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">The courtyard is her agent</text><text x=\"672\" y=\"120\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">משום שליחות</text><rect x=\"635\" y=\"132\" width=\"200\" height=\"150\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><text x=\"735\" y=\"154\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5A4A3A\">her courtyard</text><circle cx=\"775\" cy=\"232\" r=\"10\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#child\" x=\"525\" y=\"192\" width=\"45\" height=\"90\" style=\"color:#8C4A60\"/><path d=\"M567 238 L631 238\" stroke=\"#9A6212\" stroke-width=\"3\" stroke-dasharray=\"6 4\"/><use href=\"#mark-no\" x=\"586\" y=\"225\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"485\" y=\"305\" width=\"26\" height=\"26\"/><text x=\"521\" y=\"324\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Her courtyard does not acquire</text><use href=\"#mark-no\" x=\"485\" y=\"343\" width=\"26\" height=\"26\"/><text x=\"521\" y=\"362\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Nor do her four cubits</text><text x=\"485\" y=\"392\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">A minor cannot appoint an agent</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s18",
+     "title": "Abba Kohen Bardela vs. R. Yannai: Chatzer as Yad or Shelichut",
+     "amud": "10b",
+     "text": {
+      "from": "10b.7",
+      "to": "10b.8"
+     },
+     "gist": "Reish Lakish's source denies a minor girl both modes and R. Yochanan's grants both. The Gemara grounds this in whether a *chatzer* derives from her hand or from agency.",
+     "bullets": [
+      {
+       "text": "Reish Lakish in the name of Abba Kohen Bardela: a minor girl (*ketanah*) cannot acquire through her *chatzer* or through her *arba amot*. R. Yochanan in the name of R. Yannai: she can do both.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yannai: the *chatzer* was included as a mode of acquisition because it acts as her hand. She can acquire with her hand, so she can with her *chatzer*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abba Kohen Bardela: the *chatzer* was included because of agency (*shelichut*). A minor has no power of agency, so she has no *chatzer*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Agency needs *da'at*, which a minor lacks for this purpose. The agency view treats the property almost like a person taking possession on the owner's behalf.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "*Arba amot* follow the *chatzer* in both views, since they are a kind of portable *chatzer*. Discussing a *get*, the lecturer adds that *arba amot*, though rabbinic, can then be counted as part of \"in her hand.\"",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "Theft Through One's *chatzer*: Can There Be Agency for a Transgression?",
+     "amud": "10b",
+     "text": {
+      "from": "10b.9",
+      "to": "10b.14"
+     },
+     "gist": "A *baraita* makes a thief liable when the stolen animal is found in his *chatzer*, yet *ein shaliach li'dvar aveirah*. Ravina answers that a *chatzer* is not subject to liability; Rav Samma, that it has no choice.",
+     "bullets": [],
+     "chart": {
+      "caption": "Two answers: why a courtyard's owner is liable despite *ein shaliach li'dvar aveirah*",
+      "columns": [
+       "",
+       "\"No agency for a transgression\" applies when…",
+       "Why the courtyard's owner is liable"
+      ],
+      "rows": [
+       [
+        "Ravina",
+        "The agent himself is subject to liability",
+        "A *chatzer* is not subject to liability, so its sender is"
+       ],
+       [
+        "Rav Samma",
+        "The agent can choose to do the errand or refuse",
+        "Items are placed in a *chatzer* without its consent, so its sender is liable"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "The theft *baraita* (Shemot 22:3, \"*himatze timatze*\") against the rule of no agency for a transgression: a human agent who steals bears the liability himself, while a stolen animal found in the thief's *chatzer* makes the owner liable (10b.9–14).",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a man sends another man to steal a lamb; the agent is liable, not the sender. Right: a stolen ox stands inside a closed courtyard while its owner stands outside; the owner is liable.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"412\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"227\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">A human agent</text><text x=\"227\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">“Go out and steal for me”</text><use href=\"#man\" x=\"70\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"230\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><path d=\"M140 170 L222 170\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M222 170 l-10 -6 v12 z\" fill=\"#5B6478\"/><use href=\"#lamb\" x=\"305\" y=\"168\" width=\"90\" height=\"63\"/><text x=\"100\" y=\"255\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Sender</text><text x=\"260\" y=\"255\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Agent</text><text x=\"227\" y=\"298\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">No agency for a transgression:</text><text x=\"227\" y=\"322\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">the agent is liable, not the sender</text><text x=\"227\" y=\"358\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Ravina: the agent is subject to liability</text><text x=\"227\" y=\"378\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Rav Samma: the agent could refuse</text><text x=\"227\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">אין שליח לדבר עבירה</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"412\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"672\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">His courtyard</text><text x=\"672\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">Shemot 22:3 · “himatze timatze”</text><rect x=\"560\" y=\"100\" width=\"240\" height=\"150\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><rect x=\"796\" y=\"150\" width=\"8\" height=\"50\" fill=\"#7B4B3A\"/><text x=\"680\" y=\"124\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5A4A3A\">roof, yard or enclosure</text><use href=\"#bull\" x=\"600\" y=\"150\" width=\"130\" height=\"84\"/><use href=\"#man\" x=\"820\" y=\"120\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><text x=\"845\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Owner</text><text x=\"672\" y=\"298\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Found in his courtyard:</text><text x=\"672\" y=\"322\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">the owner is liable</text><text x=\"672\" y=\"358\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Ravina: a courtyard is not subject to liability</text><text x=\"672\" y=\"378\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Rav Samma: items enter it without its consent</text><text x=\"672\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#3A5692\">גגו חצרו וקרפיפו</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s20",
+       "title": "\"Himatze Timatze\": Roof, Yard, Enclosure, and No Agency for Theft",
+       "amud": "10b",
+       "text": {
+        "from": "10b.9",
+        "to": "10b.10"
+       },
+       "gist": "The theft verse extends liability to one's *chatzer*. If a *chatzer* is an agent, that would be agency for a transgression, which is supposed not to exist.",
+       "bullets": [
+        {
+         "text": "*Baraita* on Shemot 22:3: \"in his possession\" teaches only a stolen animal found in his hand. The doubled phrase *himatze timatze* adds his roof, his yard and his enclosure.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "If a *chatzer* works through agency, this would be agency for a transgression. But the rule is *ein shaliach li'dvar aveirah*: the agent, not the sender, is liable.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "With a human agent who steals, the sender neither acquires the stolen item nor becomes liable. A *chatzer* acting as agent should then leave its owner free, which is exactly what the *baraita* rules out.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The rule's rationale: \"The words of the master and the words of the student, whose do you heed?\" The agent should have obeyed God's command, so his choice to obey the sender is his own.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s21",
+       "title": "Ravina: Only an Agent Subject to Liability; What of a Woman or Slave?",
+       "amud": "10b",
+       "text": {
+        "from": "10b.11",
+        "to": "10b.13"
+       },
+       "gist": "Ravina limits the rule to agents who are themselves liable. A woman or slave sent to steal counts as liable even though they cannot pay now.",
+       "bullets": [
+        {
+         "text": "Ravina: there is no agency for a transgression only where the agent himself is subject to liability. A *chatzer* is not, so its owner is liable.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: then one who tells a woman or a slave to steal for him should be liable, since they have no property to pay from.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: a woman and a slave are subject to liability; they just lack the means to pay right now. Mishnah Bava Kamma 87a: if the woman is divorced or the slave freed, they must pay for injuries they caused.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s22",
+       "title": "Rav Samma: Only an Agent Who Could Refuse",
+       "amud": "10b",
+       "text": {
+        "from": "10b.14",
+        "to": "10b.14"
+       },
+       "gist": "Rav Samma limits the rule to an agent who can choose whether to act. A *chatzer* receives items without its consent, so its owner is liable.",
+       "bullets": [
+        {
+         "text": "Rav Samma: there is no agency for a transgression only where the agent can carry out the errand or refuse it as he wishes. Items are placed in a *chatzer* without its consent, so its sender, the owner, is liable.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So even on the agency view a *chatzer* is unlike a human agent. It acts for the owner without will of its own, so it cannot absorb the responsibility.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "continues": "Continues on 10b: what practically separates Ravina and Rav Samma (a kohen who sends an Israelite to betroth a divorcée; a man who asks a woman to round the corners of a boy's head), then a challenge to Abba Kohen Bardela from a bill of divorce placed in a woman's *chatzer*."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "magbiah metziah le'chavero",
+   "hebrew": "המגביה מציאה לחבירו",
+   "sense": "lifting a find on another's behalf",
+   "definition": "Performing the act of acquisition on an ownerless found item on behalf of someone else, so that the other person, not the one lifting it, becomes its owner.",
+   "on_this_daf": "Rav Nachman and Rav Chisda hold that it doesn't work; R. Yochanan holds that it does, and the rider Mishnah is read in line with each view.",
+   "aliases": [
+    "magbiah metziah le'chavero"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s7"
+   ]
+  },
+  {
+   "term": "tofes le'va'al chov bi'makom she'chav le'acherim",
+   "hebrew": "תופס לבעל חוב במקום שחב לאחרים",
+   "sense": "seizing for a creditor to others' detriment",
+   "definition": "One who seizes a debtor's assets on behalf of one creditor, when doing so harms the debtor's other creditors, does not acquire them for that creditor.",
+   "on_this_daf": "Rav Nachman and Rav Chisda compare lifting a find for another to this, since everyone has an equal claim to an ownerless find.",
+   "aliases": [
+    "tofes le'va'al chov bi'makom she'chav le'acherim"
+   ],
+   "sections": [
+    "s3"
+   ]
+  },
+  {
+   "term": "yad po'el ke'yad ba'al habayit",
+   "hebrew": "יד פועל כיד בעל הבית",
+   "sense": "a hired laborer's hand as his employer's",
+   "definition": "While a hired laborer is working for his employer, his acts of acquisition within the scope of the hire count as the employer's.",
+   "on_this_daf": "Rav Nachman uses it to explain why a laborer hired to \"work for me today\" acquires his find for the employer, even though he may quit at midday.",
+   "aliases": [
+    "yad po'el ke'yad ba'al habayit"
+   ],
+   "sections": [
+    "s4",
+    "s6"
+   ]
+  },
+  {
+   "term": "arba amot",
+   "hebrew": "ארבע אמות",
+   "sense": "a person's four cubits acquiring for him",
+   "definition": "A rabbinic enactment by which the area of four cubits around a person acquires ownerless items within it for him, without any further act.",
+   "on_this_daf": "Reish Lakish says they acquire everywhere to prevent quarrels. The Gemara holds that they don't work for one who chose to acquire by falling, and Rav Pappa and Rav Sheshet exclude an owner's field and the crowded public domain.",
+   "aliases": [
+    "arba amot"
+   ],
+   "sections": [
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18"
+   ]
+  },
+  {
+   "term": "kinyan chatzer",
+   "hebrew": "חצר",
+   "sense": "acquisition through one's property",
+   "definition": "A person's courtyard or other property acquires items that come into it on his behalf, even without any act on his part.",
+   "on_this_daf": "R. Yannai grounds it in the owner's hand (*yad*) and Abba Kohen Bardela in agency (*shelichut*), which decides whether a minor girl can acquire through it.",
+   "aliases": [
+    "chatzer"
+   ],
+   "sections": [
+    "s2",
+    "s10",
+    "s13",
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22"
+   ]
+  },
+  {
+   "term": "ein shaliach li'dvar aveirah",
+   "hebrew": "אין שליח לדבר עבירה",
+   "sense": "no agency for a transgression",
+   "definition": "When a person sends an agent to commit a transgression, the act is not attributed to the sender; the agent alone bears responsibility.",
+   "on_this_daf": "It seems to rule out a courtyard working through agency, since a thief is liable for a stolen animal found in his courtyard. Ravina and Rav Samma each limit the rule so that it doesn't apply to a courtyard.",
+   "aliases": [
+    "ein shaliach li'dvar aveirah"
+   ],
+   "sections": [
+    "s19",
+    "s20",
+    "s21",
+    "s22"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "10a.3–10a.12 are grouped as one top-level discussion of magbiah metziah le'chavero, with Rava's laborer objection as a child. The laborer passage could stand as its own top-level section, but it objects to Rav Nachman's ruling and belongs to the same question.",
+  "The Mishnah on falling (s9) is a child of a section headed \"Mishnah:\", together with Reish Lakish's four cubits and the objections to them. A separate top-level Mishnah section was possible, but the whole Gemara that follows tests four cubits against this very case.",
+  "Rav Pappa is nested under the Pe'ah objection and Rav Sheshet under the objection from our Mishnah, following the text's pairing. The alternative was one \"limits of four cubits\" section holding both, which would have separated each answer from the objection it answers; the chart and illustration on s8 set the two limits side by side instead.",
+  "The theft challenge (s19) is nested under the minor-girl dispute because it attacks Abba Kohen Bardela's agency premise. It could have been a top-level section on ein shaliach li'dvar aveirah.",
+  "s15 repeats s12's answer almost word for word; kept as its own short section with a returns_to link, rather than merged, to preserve the Gemara's order."
+ ],
+ "coverage_notes": [
+  "The outline starts at 10a.3; Ulla's statement at 10a.2 and Rav Nachman's argument at 10a.1, which the essay discusses, fall on the previous outline.",
+  "The essay presents \"tana seifa legalui reisha\" (the last clause sheds light on the first) as the reasoning that establishes the original-intent reading. In the text, the question \"why do I need 'at the outset'?\" supports Ulla, and \"the last clause sheds light on the first\" is Rav Nachman's counter-reading. Followed the text.",
+  "The essay attributes the second answer on agency for a transgression to Rava; the text (10b.14) gives it in the name of Rav Samma. Followed the text.",
+  "The essay frames the minor-girl dispute as being about a get from the start. At 10b.7–8 the text speaks of acquiring property through courtyard and four cubits; the get baraita comes at 10b.17, beyond this outline's end. Followed the text, and kept the lecturer's get remark as shiur material.",
+  "The essay names the second opinion as R. Yochanan; the text has R. Yochanan in the name of R. Yannai, and the Gemara attributes the hand reasoning to R. Yannai and the agency reasoning to Abba Kohen Bardela. Followed the text.",
+  "The essay discusses only the Pe'ah objection and presents Rav Sheshet as a parallel limit. The text has two objections, from Pe'ah (R. Chiya bar Yosef) and from our Mishnah (R. Ya'akov bar Idi), with Rav Sheshet's answer following the second. Followed the text's order and pairing.",
+  "Name spellings follow the text: Rav Pappa (essay: Rav Papa), Rav Sheshet (essay: Rav Sheshes).",
+  "The essay's account of Tosafot on rasha is internally confused (a bread roll, then land). The outline states only Tosafot's conclusion, that one who takes an ownerless find another fell on is not called a rasha, with the reason in general terms.",
+  "The lecture ends at Rav Samma's answer, matching the outline's end; the practical difference between Ravina and Rav Samma (10b.15–16) is outside the scope."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s5",
+    "subject": "\"Weed/till for me\" vs. \"work for me\": who gets the laborer's find",
+    "why_not": "Two cases with one ruling each; the bullets carry it without a grid."
+   },
+   {
+    "section": "s11",
+    "subject": "The Pe'ah and Nezikin objections with their answers",
+    "why_not": "Both get the same first answer; the Rav Pappa and Rav Sheshet chart on s8 already holds the real comparison."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s5",
+    "subject": "The laborer's two contracts and where his find goes",
+    "why_not": "Clear from the bullets; the daf's more pivotal distinctions got the pictures."
+   },
+   {
+    "section": "s3",
+    "subject": "Seizing a debtor's assets for one of several creditors",
+    "why_not": "An analogy rather than the daf's own case; hard to draw without inventing detail."
+   },
+   {
+    "section": "s2",
+    "subject": "Timeline of lift and hand-over under Ulla and Rav Nachman",
+    "why_not": "Overlaps the R. Yochanan picture and the s1 chart."
+   }
+  ]
+ }
+}

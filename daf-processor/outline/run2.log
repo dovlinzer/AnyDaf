@@ -1,0 +1,132 @@
+12 dafim x 3 models = 36 requests; system prompt 57,007 chars (cached)
+  gittin_18                user prompt 57,349 chars
+  berakhot_31b             user prompt 94,126 chars
+  bava_metzia_11           user prompt 67,856 chars
+  bava_batra_84            user prompt 55,132 chars
+  niddah_60                user prompt 91,580 chars
+  kiddushin_2              user prompt 61,552 chars
+  sanhedrin_6b             user prompt 59,966 chars
+  yevamot_33               user prompt 71,313 chars
+  hullin_88                user prompt 65,120 chars
+  shabbat_21               user prompt 70,473 chars
+  gittin_18_textonly       TEXT ONLY user prompt 16,924 chars
+  shabbat_38               TEXT ONLY user prompt 31,083 chars
+Submitted claude-sonnet-5 batch msgbatch_0175XthLBxkBQ13WnTYsqdMH (12 requests)
+Submitted claude-opus-5 batch msgbatch_019wDnFc4MD5fG5Z6Ewdwu33 (12 requests)
+Submitted claude-opus-5-5 batch msgbatch_01LjDddgpBpaE7xjd5sT9yg8 (12 requests)
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus55  ended: succeeded=12 processing=0 errored=0
+  wrote outline/results/niddah_60/04_outline_opus55.json
+  wrote outline/results/yevamot_33/04_outline_opus55.json
+  wrote outline/results/bava_metzia_11/04_outline_opus55.json
+  wrote outline/results/bava_batra_84/04_outline_opus55.json
+  wrote outline/results/berakhot_31b/04_outline_opus55.json
+  wrote outline/results/kiddushin_2/04_outline_opus55.json
+  wrote outline/results/sanhedrin_6b/04_outline_opus55.json
+  wrote outline/results/hullin_88/04_outline_opus55.json
+  wrote outline/results/shabbat_38/04_outline_opus55.json
+  wrote outline/results/shabbat_21/04_outline_opus55.json
+  wrote outline/results/gittin_18/04_outline_opus55.json
+  wrote outline/results/gittin_18_textonly/04_outline_opus55.json
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 ended: succeeded=12 processing=0 errored=0
+  wrote outline/results/shabbat_38/04_outline_sonnet5.json
+  wrote outline/results/sanhedrin_6b/04_outline_sonnet5.json
+  wrote outline/results/gittin_18/04_outline_sonnet5.json
+  wrote outline/results/bava_batra_84/04_outline_sonnet5.json
+  wrote outline/results/shabbat_21/04_outline_sonnet5.json
+  wrote outline/results/niddah_60/04_outline_sonnet5.json
+  wrote outline/results/kiddushin_2/04_outline_sonnet5.json
+  wrote outline/results/berakhot_31b/04_outline_sonnet5.json
+  wrote outline/results/gittin_18_textonly/04_outline_sonnet5.json
+  wrote outline/results/hullin_88/04_outline_sonnet5.json
+  wrote outline/results/yevamot_33/04_outline_sonnet5.json
+  bava_metzia_11__sonnet5: stop_reason=max_tokens
+  wrote outline/results/bava_metzia_11/04_outline_sonnet5.json
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   in_progress: succeeded=0 processing=12 errored=0
+  opus5   ended: succeeded=12 processing=0 errored=0
+  wrote outline/results/berakhot_31b/04_outline_opus5.json
+  wrote outline/results/kiddushin_2/04_outline_opus5.json
+  wrote outline/results/hullin_88/04_outline_opus5.json
+  wrote outline/results/gittin_18_textonly/04_outline_opus5.json
+  wrote outline/results/gittin_18/04_outline_opus5.json
+  wrote outline/results/bava_batra_84/04_outline_opus5.json
+  wrote outline/results/shabbat_21/04_outline_opus5.json
+  wrote outline/results/bava_metzia_11/04_outline_opus5.json
+  wrote outline/results/yevamot_33/04_outline_opus5.json
+  wrote outline/results/sanhedrin_6b/04_outline_opus5.json
+  wrote outline/results/niddah_60/04_outline_opus5.json
+  wrote outline/results/shabbat_38/04_outline_opus5.json

@@ -1,0 +1,193 @@
+30 dafim x 2 runs (opus55_medium, opus55_high) = 60 requests; system prompt 73,250 chars (cached)
+  bekhorot_10              user prompt 73,447 chars
+  bekhorot_11              user prompt 75,859 chars
+  bekhorot_12              TEXT ONLY user prompt 37,051 chars
+  bekhorot_13              user prompt 82,220 chars
+  bekhorot_14              user prompt 71,944 chars
+  bekhorot_15              user prompt 71,667 chars
+  bekhorot_16              user prompt 68,855 chars
+  bekhorot_17              user prompt 60,501 chars
+  bekhorot_18              user prompt 67,247 chars
+  bekhorot_19              TEXT ONLY user prompt 22,760 chars
+  bava_metzia_2            user prompt 50,495 chars
+  bava_metzia_3            user prompt 64,485 chars
+  bava_metzia_4            user prompt 64,524 chars
+  bava_metzia_5            user prompt 53,985 chars
+  bava_metzia_6            user prompt 70,905 chars
+  bava_metzia_7            user prompt 62,624 chars
+  bava_metzia_8            user prompt 56,752 chars
+  bava_metzia_9            user prompt 62,155 chars
+  bava_metzia_10           user prompt 69,090 chars
+  bava_metzia_11           user prompt 68,023 chars
+  kiddushin_3              user prompt 58,990 chars
+  kiddushin_4              user prompt 71,675 chars
+  kiddushin_5              user prompt 76,531 chars
+  kiddushin_6              user prompt 53,917 chars
+  kiddushin_7              user prompt 59,843 chars
+  kiddushin_8              user prompt 62,778 chars
+  kiddushin_9              user prompt 62,159 chars
+  kiddushin_10             user prompt 64,668 chars
+  kiddushin_11             user prompt 54,841 chars
+  kiddushin_12             user prompt 61,809 chars
+Submitted opus55_medium batch msgbatch_016D2fPvrRnCroyGSPVi8PEW (30 requests)
+Submitted opus55_high batch msgbatch_01TcWqgG6ciwiDBex4b46jxX (30 requests)
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_medium  ended: succeeded=30 processing=0 errored=0
+  wrote outline/results/bava_metzia_8/04_outline_opus55_medium.json
+    check: key term: hagbahah: aliases not in outline ['hagbahah']
+    check: 'prohibited' used 1x: the author's word is 'forbidden'
+  wrote outline/results/bava_metzia_7/04_outline_opus55_medium.json
+    check: chart in 'R. Yosei and Pera'on: The Found Ketubah and Three Resolutions' has sages as column headers ['R. Yosei on a ketubah, still married']: check the orientation
+  wrote outline/results/bekhorot_10/04_outline_opus55_medium.json
+    anchor: The Cleaver Baraita: After Arifah, or Benefit From Value vs. Body?: outside its parent's range
+    anchor: Amora'im: Does R. Shimon Concede After Arifah?: outside its parent's range
+    anchor: The Kiddushin Mishnah: Betrothing With a Peter Chamor: outside its parent's range
+    anchor: outline runs 10a.2–10b.8, but its lines are 10a.2–10b.30
+    check: 'prohibited' used 13x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_12/04_outline_opus55_medium.json
+    check: 'prohibited' used 3x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_13/04_outline_opus55_medium.json
+    check: 'prohibited' used 1x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_19/04_outline_opus55_medium.json
+    check: 3 illustrations (target 4-7)
+    check: key term: peter rechem: aliases not in outline ['That which opens the womb']
+  wrote outline/results/kiddushin_11/04_outline_opus55_medium.json
+  wrote outline/results/kiddushin_3/04_outline_opus55_medium.json
+  wrote outline/results/kiddushin_12/04_outline_opus55_medium.json
+    check: 'prohibited' used 3x: the author's word is 'forbidden'
+  wrote outline/results/kiddushin_4/04_outline_opus55_medium.json
+    check: key term: amah ivriyah: aliases not in outline ['Hebrew maidservant']
+  wrote outline/results/bava_metzia_5/04_outline_opus55_medium.json
+  wrote outline/results/kiddushin_10/04_outline_opus55_medium.json
+    anchor: Bi'ah: Nisu'in at Once, or Only Erusin?: unknown or missing label {'from': '10a.6', 'to': '11a.5'}
+    anchor: Ben Bag Bag and R. Yehuda ben Beteira: May an Arusah Eat Terumah?: unknown or missing label {'from': '10b.4', 'to': '11a.5'}
+    anchor: Ravina: The Question Was Simfon, Not Terumah by Torah Law: unknown or missing label {'from': '10b.13', 'to': '11a.5'}
+    anchor: Both Forbid Her Terumah: So What Do They Dispute?: unknown or missing label {'from': '11a.4', 'to': '11a.5'}
+    check: key term: kiddushin ha'mesurin le'vi'ah: aliases not in outline ["kiddushin she'ein mesurin le'vi'ah"]
+    check: 'prohibited' used 4x: the author's word is 'forbidden'
+  wrote outline/results/bava_metzia_10/04_outline_opus55_medium.json
+  wrote outline/results/kiddushin_6/04_outline_opus55_medium.json
+  wrote outline/results/bava_metzia_2/04_outline_opus55_medium.json
+  bava_metzia_2__opus55_medium: could not parse JSON ('list' object has no attribute 'get'); raw text saved
+  wrote outline/results/bava_metzia_6/04_outline_opus55_medium.json
+    check: 'prohibited' used 1x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_18/04_outline_opus55_medium.json
+  wrote outline/results/bekhorot_15/04_outline_opus55_medium.json
+    check: 'prohibited' used 4x: the author's word is 'forbidden'
+  wrote outline/results/kiddushin_9/04_outline_opus55_medium.json
+  wrote outline/results/bava_metzia_9/04_outline_opus55_medium.json
+  wrote outline/results/bekhorot_17/04_outline_opus55_medium.json
+    anchor: The Rabbis on Human Measurement: Red Line, Vessels, Oven, *Eglah Arufah*: unknown or missing label {'from': '17b.2', 'to': '18a.5'}
+    anchor: Baraita: No Heifer at All, or "*Kerova*" vs. "*Kerovot*": unknown or missing label {'from': '18a.2', 'to': '18a.5'}
+    check: chart in 'The *Nidmeh* Baraita: What Does R. Meir Obligate? Paternity, Lineage or Partial Resemblance' has sages as column headers ['R. Meir obligates because']: check the orientation
+    check: 'prohibited' used 2x: the author's word is 'forbidden'
+  wrote outline/results/kiddushin_8/04_outline_opus55_medium.json
+    anchor: Copper Dinar vs. Flawed Dinar: Unnoticed, and Spent with Difficulty: outside its parent's range
+    anchor: Collateral Instead of Money: Rav Nachman, R. Yitzchak, R. Ami: outside its parent's range
+    anchor: Her Response to the Money: Destroying, Redirecting, Her Rock, Her Dog: outside its parent's range
+    anchor: outline runs 8a.10–8a.22, but its lines are 8a.10–8b.13
+  wrote outline/results/kiddushin_5/04_outline_opus55_medium.json
+  wrote outline/results/bekhorot_14/04_outline_opus55_medium.json
+    check: key term: kedushat ha'guf: aliases not in outline ["kedushat ha'guf"]
+  wrote outline/results/bava_metzia_3/04_outline_opus55_medium.json
+    anchor: R. Chiya's Baraita: Do Witnesses to Part of a Claim Obligate an Oath?: unknown or missing label {'from': '3a.14', 'to': '4a.14'}
+    anchor: A New Source: One Witness, Then *Gilgul Shevuah*: unknown or missing label {'from': '3b.13', 'to': '4a.14'}
+    anchor: Rav Pappa: *Gilgul Shevuah*, Then Admission and One Witness Together: unknown or missing label {'from': '4a.2', 'to': '4a.14'}
+  wrote outline/results/bava_metzia_11/04_outline_opus55_medium.json
+    check: chart in 'Rabban Gamliel's Tithes from a Ship: Chatzer, Kinyan Agav or Da'at Acheret?' has sages as column headers ['Rava']: check the orientation
+    check: 'prohibited' used 8x: the author's word is 'forbidden'
+  wrote outline/results/bava_metzia_4/04_outline_opus55_medium.json
+    check: key term: modeh be'miktzat: aliases not in outline ["modeh be'miktzat"]
+  wrote outline/results/kiddushin_7/04_outline_opus55_medium.json
+    anchor: Betrothal with Silk: Is Shuma Required?: unknown or missing label {'from': '7b.10', 'to': '8a.9'}
+    anchor: Other Version: Shaveh Kesef Must Have a Set Value Like Money: unknown or missing label {'from': '7b.12', 'to': '8a.9'}
+  wrote outline/results/bekhorot_11/04_outline_opus55_medium.json
+    check: 'prohibited' used 2x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_16/04_outline_opus55_medium.json
+    check: 'prohibited' used 2x: the author's word is 'forbidden'
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    in_progress: succeeded=0 processing=30 errored=0
+  opus55_high    ended: succeeded=30 processing=0 errored=0
+  wrote outline/results/kiddushin_7/04_outline_opus55_high.json
+    anchor: Silk Kiddushin: Must the Value Be Appraised (Shuma)?: unknown or missing label {'from': '7b.10', 'to': '8a.9'}
+    anchor: Rav Yosef's Source: A Hebrew Slave Isn't Redeemed with Grain or Vessels: unknown or missing label {'from': '8a.2', 'to': '8a.9'}
+    check: chart in 'Rava's Three Cases: Guarantor, Canaanite Slave, or Both' has sages as column headers ["Rava's source"]: check the orientation
+  wrote outline/results/kiddushin_10/04_outline_opus55_high.json
+    anchor: *Bi'ah Nisu'in Osah*: Does Intercourse Betroth or Fully Marry?: unknown or missing label {'from': '10a.6', 'to': '11a.5'}
+    anchor: Ben Bag Bag and R. Yehuda ben Beteira: May an *Arusah* Eat *Terumah*?: unknown or missing label {'from': '10b.4', 'to': '11a.5'}
+    anchor: Both Forbid by Decree: Where Do They Differ?: unknown or missing label {'from': '11a.4', 'to': '11a.5'}
+    check: 'prohibited' used 1x: the author's word is 'forbidden'
+  wrote outline/results/kiddushin_12/04_outline_opus55_high.json
+    check: chart in 'Witnesses in Idit: Disregarded (Rav Chisda) or Taken into Account (Abaye and Rava)?' has sages as column headers ["R. Chanina's captive woman"]: check the orientation
+    check: 'prohibited' used 4x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_17/04_outline_opus55_high.json
+    anchor: Efshar Le'tzamtzem in Human Hands? Altar Line, Measurements, Oven, Eglah Arufah: unknown or missing label {'from': '17b.2', 'to': '18a.5'}
+    anchor: No Heifer or Two Heifers: Precision, or the Singular "Kerova"?: unknown or missing label {'from': '18a.2', 'to': '18a.5'}
+    check: 'prohibited' used 1x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_18/04_outline_opus55_high.json
+  wrote outline/results/kiddushin_6/04_outline_opus55_high.json
+    check: 'prohibited' used 3x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_15/04_outline_opus55_high.json
+    check: key term: pesulei ha'mukdashin: aliases not in outline ['disqualified consecrated animals', 'disqualified consecrated animal']
+    check: 'prohibited' used 3x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_11/04_outline_opus55_high.json
+  wrote outline/results/bekhorot_19/04_outline_opus55_high.json
+  wrote outline/results/bava_metzia_8/04_outline_opus55_high.json
+    check: chart in 'Abaye Challenges Rav Yosef: Whose Proof, and Wagon vs. Saddle' has sages as column headers ['Abaye asks']: check the orientation
+    check: 'prohibited' used 1x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_10/04_outline_opus55_high.json
+    check: 'prohibited' used 24x: the author's word is 'forbidden'
+  wrote outline/results/bava_metzia_7/04_outline_opus55_high.json
+    check: chart in 'R. Yosi: Presumptive Status or *Chashash Pera'on*? The Found *Ketubah*' has sages as column headers ['R. Yosi and repayment']: check the orientation
+  wrote outline/results/bekhorot_14/04_outline_opus55_high.json
+    check: 'prohibited' used 1x: the author's word is 'forbidden'
+  wrote outline/results/bava_metzia_5/04_outline_opus55_high.json
+  wrote outline/results/bava_metzia_10/04_outline_opus55_high.json
+    check: 'prohibited' used 1x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_16/04_outline_opus55_high.json
+  wrote outline/results/kiddushin_4/04_outline_opus55_high.json
+  wrote outline/results/kiddushin_8/04_outline_opus55_high.json
+  wrote outline/results/bekhorot_12/04_outline_opus55_high.json
+    check: 'prohibited' used 13x: the author's word is 'forbidden'
+  wrote outline/results/bekhorot_13/04_outline_opus55_high.json
+  wrote outline/results/bava_metzia_3/04_outline_opus55_high.json
+    anchor: R. Chiya's Baraita: Do Witnesses to Part of a Claim Obligate an Oath?: unknown or missing label {'from': '3a.14', 'to': '4a.14'}
+    anchor: Other Sources: One Witness, *Gilgul Shevuah*, and Both Together: unknown or missing label {'from': '3b.13', 'to': '4a.14'}
+    anchor: Admission and One Witness Together: unknown or missing label {'from': '4a.4', 'to': '4a.14'}
+  wrote outline/results/kiddushin_5/04_outline_opus55_high.json
+    check: 'prohibited' used 1x: the author's word is 'forbidden'
+  wrote outline/results/bava_metzia_6/04_outline_opus55_high.json
+    check: key term: minyan ha'ra'uy: aliases not in outline ['a tally fit to reach ten']
+    check: 'prohibited' used 2x: the author's word is 'forbidden'
+  wrote outline/results/bava_metzia_11/04_outline_opus55_high.json
+    check: chart in 'Rabban Gamliel's Tithes on the Ship: Chatzer, Agav or Da'at Acheret?' has sages as column headers ["Ulla's rule"]: check the orientation
+    check: 'prohibited' used 4x: the author's word is 'forbidden'
+  wrote outline/results/kiddushin_3/04_outline_opus55_high.json
+  wrote outline/results/kiddushin_9/04_outline_opus55_high.json
+  wrote outline/results/bava_metzia_4/04_outline_opus55_high.json
+  wrote outline/results/bava_metzia_9/04_outline_opus55_high.json
+  wrote outline/results/bava_metzia_2/04_outline_opus55_high.json
+  wrote outline/results/kiddushin_11/04_outline_opus55_high.json

@@ -1,0 +1,218 @@
+{
+ "key": "bekhorot_18",
+ "tractate": "Bekhorot",
+ "sages": [
+  {
+   "name": "רבי טרפון",
+   "candidates": [
+    "rabbi-tarfon"
+   ],
+   "lines": [
+    "18a.7",
+    "18a.9",
+    "18b.7",
+    "18b.8",
+    "18b.10",
+    "18b.11",
+    "18b.13",
+    "18b.14",
+    "18b.15",
+    "18b.16",
+    "18b.18",
+    "18b.19"
+   ],
+   "count": 12,
+   "first": "18a.7",
+   "ambiguous": false,
+   "pick": "rabbi-tarfon",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי עקיבא",
+   "candidates": [
+    "rabbi-akiva"
+   ],
+   "lines": [
+    "18a.8",
+    "18a.9",
+    "18b.8",
+    "18b.9",
+    "18b.10",
+    "18b.12",
+    "18b.13",
+    "18b.14",
+    "18b.15",
+    "18b.16",
+    "18b.17",
+    "18b.19"
+   ],
+   "count": 12,
+   "first": "18a.8",
+   "ambiguous": false,
+   "pick": "rabbi-akiva",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי חייא בר אבא",
+   "candidates": [
+    "rabbi-chiyya-b-abba",
+    "rav-hiyya-b-abba"
+   ],
+   "lines": [
+    "18a.8"
+   ],
+   "count": 1,
+   "first": "18a.8",
+   "ambiguous": true,
+   "pick": "rabbi-chiyya-b-abba",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי יוחנן",
+   "candidates": [
+    "rabbi-yochanan-b-napacha"
+   ],
+   "lines": [
+    "18a.8",
+    "18a.10"
+   ],
+   "count": 2,
+   "first": "18a.8",
+   "ambiguous": false,
+   "pick": "rabbi-yochanan-b-napacha",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוסי",
+   "candidates": [
+    "rabbi-yose-b-chalafta",
+    "rabbi-yose-b-zevida"
+   ],
+   "lines": [
+    "18a.10",
+    "18a.11",
+    "18a.13",
+    "18a.14",
+    "18a.15",
+    "18b.2",
+    "18b.5",
+    "18b.6",
+    "18b.14",
+    "18b.16"
+   ],
+   "count": 10,
+   "first": "18a.10",
+   "ambiguous": true,
+   "pick": "rabbi-yose-b-chalafta",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי מאיר",
+   "candidates": [
+    "rabbi-meir"
+   ],
+   "lines": [
+    "18a.10",
+    "18b.1",
+    "18b.2",
+    "18b.3",
+    "18b.4",
+    "18b.5",
+    "18b.6",
+    "18b.16"
+   ],
+   "count": 8,
+   "first": "18a.10",
+   "ambiguous": false,
+   "pick": "rabbi-meir",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "18a.11",
+    "18b.10"
+   ],
+   "count": 2,
+   "first": "18a.11",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אלעזר",
+   "candidates": [
+    "rabbi-elazar-b-pedat",
+    "rabbi-elazar-b-shamua"
+   ],
+   "lines": [
+    "18a.12"
+   ],
+   "count": 1,
+   "first": "18a.12",
+   "ambiguous": true,
+   "pick": "rabbi-elazar-b-pedat",
+   "pick_by": "context"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "18b.3"
+   ],
+   "count": 1,
+   "first": "18b.3",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אמי",
+   "candidates": [
+    "rabbi-ammi",
+    "rebbi-immi"
+   ],
+   "lines": [
+    "18b.7"
+   ],
+   "count": 1,
+   "first": "18b.7",
+   "ambiguous": true,
+   "pick": "rabbi-ammi",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי חייא",
+   "candidates": [
+    "rabbi-chiyya"
+   ],
+   "lines": [
+    "18b.8"
+   ],
+   "count": 1,
+   "first": "18b.8",
+   "ambiguous": false,
+   "pick": "rabbi-chiyya",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב פפא",
+   "candidates": [
+    "rav-pappa"
+   ],
+   "lines": [
+    "18b.10"
+   ],
+   "count": 1,
+   "first": "18b.10",
+   "ambiguous": false,
+   "pick": "rav-pappa",
+   "pick_by": "only"
+  }
+ ]
+}

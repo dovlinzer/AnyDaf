@@ -1,0 +1,498 @@
+{
+  "daf": "Chagigah 6",
+  "scope": {
+    "start": "5b: the Mishnah's definition of a *katan* and R. Zeira's objection (6a opens mid-exchange)",
+    "end": "6b: the Mishnah in Pe'ah 1:1"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Minor's Obligation: When It Starts (Carried or Walking), and Chinukh",
+      "amud": "5b–6a",
+      "text": {
+        "from": "5b.24",
+        "to": "6a.7"
+      },
+      "gist": "Which child must come to the Temple: the shoulders vs. walking standard, and whether one trains a lame or blind child.",
+      "flag": "Gemara text only",
+      "bullets": [
+        {
+          "text": "Mishnah (Beit Shammai): a *katan* is exempt if he can't ride on his father's shoulders from Jerusalem up to the Temple Mount.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "R. Zeira objects: then who brought him as far as Jerusalem?",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "Abaye: his mother did, since she is obligated in *simchah*. The test only starts in Jerusalem. By Beit Hillel's standard, if he can walk up holding his father's hand, he is obligated.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "Rebbi argues for Beit Hillel from Chana: \"until the child is weaned\" (I Shmuel 1:22). Shmuel could already ride on shoulders, yet Chana didn't bring him.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "His father rejects the proof. Chana herself was obligated in *simchah* and still stayed home, so her reason was personal: Shmuel was delicate and couldn't make the trip.",
+          "detail": 3,
+          "source": "gemara"
+        },
+        {
+          "text": "R. Shimon asks about a lame child who can be carried (for Beit Shammai), or a blind child who can be led (for both schools).",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "The question is only about a child who may heal. A permanently disabled child will be exempt as an adult too, so there is nothing to train him for.",
+          "detail": 3,
+          "source": "gemara"
+        },
+        {
+          "text": "Abaye: *chinukh* follows what an adult in the same condition owes now. Where such an adult is exempt, the minor is exempt too, even if he may recover.",
+          "detail": 2,
+          "source": "gemara"
+        }
+      ],
+      "children": [],
+      "illustration": {
+        "caption": "The Mishnah's test for a *katan*, and Abaye's answer to R. Zeira: the child's mother brings him as far as Jerusalem, so the test only covers the climb from there to the Temple Mount.",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A road climbing from Jerusalem to the Temple Mount. A mother brings her child to Jerusalem; higher up, a father carries a child on his shoulders; higher still, a child walks up holding his father's hand.</title><rect width=\"900\" height=\"440\" fill=\"url(#sky)\"/><path d=\"M0 440 L0 340 C220 330 380 290 520 230 C660 170 780 130 900 120 L900 440 Z\" fill=\"#D9C9A8\"/><path d=\"M40 430 C260 400 360 350 440 300 C540 240 640 190 820 150\" fill=\"none\" stroke=\"#C9B48E\" stroke-width=\"26\" stroke-linecap=\"round\"/><g fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"><rect x=\"24\" y=\"352\" width=\"48\" height=\"48\"/><rect x=\"76\" y=\"338\" width=\"56\" height=\"62\"/><rect x=\"136\" y=\"356\" width=\"44\" height=\"44\"/><rect x=\"184\" y=\"344\" width=\"46\" height=\"56\"/></g><g fill=\"#6E5B46\"><rect x=\"40\" y=\"366\" width=\"10\" height=\"12\"/><rect x=\"96\" y=\"354\" width=\"10\" height=\"12\"/><rect x=\"112\" y=\"376\" width=\"12\" height=\"24\"/><rect x=\"152\" y=\"370\" width=\"10\" height=\"12\"/><rect x=\"200\" y=\"358\" width=\"10\" height=\"12\"/></g><text x=\"128\" y=\"428\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#5A4A3A\">Jerusalem</text><use href=\"#woman\" x=\"238\" y=\"318\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#child\" x=\"280\" y=\"364\" width=\"24\" height=\"48\" style=\"color:#4E7A8C\"/><path d=\"M276 372 L286 380\" stroke=\"#D8B38E\" stroke-width=\"4\" stroke-linecap=\"round\"/><text x=\"24\" y=\"252\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Abaye:</text><text x=\"24\" y=\"272\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">his mother brings him as far as Jerusalem,</text><text x=\"24\" y=\"292\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">since she herself is obligated in simchah</text><use href=\"#child\" x=\"407\" y=\"186\" width=\"30\" height=\"60\" style=\"color:#4E7A8C\"/><use href=\"#man\" x=\"392\" y=\"196\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><text x=\"214\" y=\"116\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Beit Shammai:</text><text x=\"214\" y=\"136\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1B3A8A\">can he ride up on his father’s shoulders?</text><use href=\"#man\" x=\"610\" y=\"88\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><use href=\"#child\" x=\"672\" y=\"148\" width=\"30\" height=\"60\" style=\"color:#4E7A8C\"/><path d=\"M662 170 L678 176\" stroke=\"#D8B38E\" stroke-width=\"4\" stroke-linecap=\"round\"/><text x=\"400\" y=\"40\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Beit Hillel:</text><text x=\"400\" y=\"60\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#9A6212\">can he walk up holding his father’s hand?</text><rect x=\"740\" y=\"112\" width=\"150\" height=\"16\" fill=\"#CDBB98\"/><rect x=\"772\" y=\"52\" width=\"86\" height=\"60\" fill=\"#EFE6D2\" stroke=\"#BFAE8E\"/><rect x=\"800\" y=\"40\" width=\"30\" height=\"72\" fill=\"#F5EEDD\" stroke=\"#BFAE8E\"/><rect x=\"808\" y=\"84\" width=\"14\" height=\"28\" fill=\"#8A7560\"/><text x=\"815\" y=\"150\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A4A3A\">Temple Mount</text><text x=\"815\" y=\"170\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#5A4A3A\">הר הבית</text><text x=\"880\" y=\"420\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">The test begins in Jerusalem: from there up to the Temple Mount</text></svg>"
+      }
+    },
+    {
+      "id": "s2",
+      "title": "Which Has the Higher Minimum: Olat Re'iyah or Shalmei Chagigah?",
+      "amud": "6a–6b",
+      "text": {
+        "from": "6a.8",
+        "to": "6b.14"
+      },
+      "gist": "Which festival offering must cost more, and, underneath that dispute, what the *olah* brought at Sinai was.",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s3",
+          "title": "Beit Shammai vs. Beit Hillel: God's Share or the Shared Offering",
+          "amud": "6a",
+          "text": {
+            "from": "6a.8",
+            "to": "6a.15"
+          },
+          "gist": "Beit Shammai make the *re'iyah* the costlier offering and Beit Hillel the *chagigah*. Each side has two arguments and answers the other's.",
+          "bullets": [
+            {
+              "text": "Beit Shammai: *olat re'iyah* at least 2 silver *kesef*, *shalmei chagigah* at least 1 *ma'ah*. Beit Hillel reverse the two.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Beneath the numbers is a question of emphasis. Beit Shammai favor the *olah*, which is God's alone. Beit Hillel favor the *shelamim*, which God and the worshipper share. At stake is how much the human side counts in worship.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "Beit Hillel: Shemot 24:5, \"*vayizbechu zevachim shelamim*\", shows the *chagigah* type existed before *matan Torah*.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Beit Shammai: the same verse says \"*vaya'alu olot*\", so the *olah* preceded Sinai as well.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "So the dispute becomes: what were those Sinai *olot*? Beit Hillel say the *olat tamid* (communal). Beit Shammai say an *olat re'iyah* (individual).",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "It is striking that both sides treat pre-Sinai practice as binding precedent at all, when events before *matan Torah* usually carry no legal weight.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "chart": {
+            "caption": "Beit Shammai vs. Beit Hillel: which offering costs more",
+            "columns": [
+              "",
+              "Minimums",
+              "First argument",
+              "Second argument",
+              "Reply to the other's first",
+              "Reply to the other's second"
+            ],
+            "rows": [
+              [
+                "Beit Shammai",
+                "*Re'iyah* 2 *kesef* · *chagigah* 1 *ma'ah*",
+                "The *olah* goes entirely to God",
+                "Shavuot's offerings have more *olot* than *shelamim*",
+                "The *olah* also existed before the *dibbur*",
+                "The *nesi'im* brought theirs once; learn from what applies in every generation"
+              ],
+              [
+                "Beit Hillel",
+                "*Re'iyah* 1 *ma'ah* · *chagigah* 2 *kesef*",
+                "The *chagigah* existed before the *dibbur* (Shemot 24:5)",
+                "The *nesi'im* brought more *shelamim* than *olot*",
+                "The *shelamim* has two \"eatings\": the altar and the owner",
+                "Shavuot's are communal; learn an individual's offering from individuals"
+              ]
+            ]
+          },
+          "children": [],
+          "illustration": {
+            "caption": "The counts behind each school's second argument. The rebuttals: Beit Hillel reply that Shavuot is a communal offering, and Beit Shammai reply that the *nesi'im* brought theirs only once.",
+            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Shavuot's offerings: ten olot and two shelamim. The nesi'im's offerings: three olot and seventeen shelamim.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"386\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">Shavuot</text><text x=\"227\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Vayikra 23:18–19 · Beit Shammai’s source</text><text x=\"35\" y=\"118\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Olot</text><use href=\"#bull\" x=\"105\" y=\"100\" width=\"40\" height=\"26\"/><use href=\"#ram\" x=\"145\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#ram\" x=\"185\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"225\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"265\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"305\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"345\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"385\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"105\" y=\"132\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"145\" y=\"132\" width=\"36\" height=\"25\"/><text x=\"35\" y=\"200\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Shelamim</text><use href=\"#lamb\" x=\"105\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"145\" y=\"182\" width=\"36\" height=\"25\"/><text x=\"227\" y=\"300\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1B3A8A\">10 olot · 2 shelamim</text><text x=\"227\" y=\"328\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">So the olah should cost more</text><text x=\"227\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Beit Hillel replies: a communal offering —</text><text x=\"227\" y=\"380\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">learn an individual’s offering from individuals</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"386\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">The Nesi’im</text><text x=\"672\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Bamidbar 7:15–17 · Beit Hillel’s source</text><text x=\"480\" y=\"118\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Olot</text><use href=\"#bull\" x=\"550\" y=\"100\" width=\"40\" height=\"26\"/><use href=\"#ram\" x=\"590\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"630\" y=\"100\" width=\"36\" height=\"25\"/><text x=\"480\" y=\"200\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Shelamim</text><use href=\"#bull\" x=\"550\" y=\"182\" width=\"40\" height=\"26\"/><use href=\"#bull\" x=\"590\" y=\"182\" width=\"40\" height=\"26\"/><use href=\"#ram\" x=\"630\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#ram\" x=\"670\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#ram\" x=\"710\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#ram\" x=\"750\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#ram\" x=\"790\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#goat\" x=\"830\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#goat\" x=\"550\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#goat\" x=\"590\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#goat\" x=\"630\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#goat\" x=\"670\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"710\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"750\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"790\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"830\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"550\" y=\"246\" width=\"36\" height=\"25\"/><text x=\"672\" y=\"300\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#9A6212\">3 olot · 17 shelamim</text><text x=\"672\" y=\"328\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">So the shelamim should cost more</text><text x=\"672\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Beit Shammai replies: a one-time event —</text><text x=\"672\" y=\"380\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">learn from what applies in every generation</text><g><use href=\"#bull\" x=\"300\" y=\"408\" width=\"30\" height=\"21\"/><text x=\"335\" y=\"423\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">bull</text><use href=\"#ram\" x=\"380\" y=\"408\" width=\"30\" height=\"21\"/><text x=\"415\" y=\"423\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">ram</text><use href=\"#goat\" x=\"460\" y=\"408\" width=\"30\" height=\"21\"/><text x=\"495\" y=\"423\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">goat</text><use href=\"#lamb\" x=\"540\" y=\"408\" width=\"30\" height=\"21\"/><text x=\"575\" y=\"423\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">lamb</text></g></svg>"
+          }
+        },
+        {
+          "id": "s4",
+          "title": "The Olah at Sinai: Re'iyah or Tamid?",
+          "amud": "6a–6b",
+          "text": {
+            "from": "6a.16",
+            "to": "6b.14"
+          },
+          "gist": "Abaye extends the question to six *tanna'im*, three on each side. The Gemara then tests his alignment and strikes R. Yishmael from it.",
+          "bullets": [],
+          "children": [
+            {
+              "id": "s5",
+              "title": "Six Tannaim, Two Camps",
+              "amud": "6a–6b",
+              "text": {
+                "from": "6a.16",
+                "to": "6b.1"
+              },
+              "gist": "Abaye divides six tanna'im into two camps: three say the Sinai *olah* was an *olat re'iyah*, three an *olat tamid*.",
+              "bullets": [
+                {
+                  "text": "Beit Shammai, R. Elazar and R. Yishmael: the Sinai *olah* was an *olat re'iyah*.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "Beit Hillel, R. Akiva and R. Yosi HaGlili: it was an *olat tamid*.",
+                  "detail": 2,
+                  "source": "gemara"
+                }
+              ],
+              "chart": {
+                "caption": "What was the *olah* at Sinai? (Abaye's alignment)",
+                "columns": [
+                  "Tanna",
+                  "Sinai *olah*",
+                  "Basis"
+                ],
+                "rows": [
+                  [
+                    "Beit Shammai",
+                    "Olat re'iyah",
+                    "The *olah* also preceded the *dibbur*"
+                  ],
+                  [
+                    "R. Elazar",
+                    "Olat re'iyah",
+                    "The *tamid* was commanded at Sinai but not offered there"
+                  ],
+                  [
+                    "R. Yishmael",
+                    "Olat re'iyah (later struck from the list)",
+                    "*Pratot* came only at the Ohel Mo'ed, so no *tamid* without *hefshet*"
+                  ],
+                  [
+                    "Beit Hillel",
+                    "Olat tamid",
+                    "No individual *olah* before the *dibbur*"
+                  ],
+                  [
+                    "R. Akiva",
+                    "Olat tamid",
+                    "Offered at Sinai and never interrupted"
+                  ],
+                  [
+                    "R. Yosi HaGlili",
+                    "Olat tamid",
+                    "Only the *chagigah* preceded the *dibbur*"
+                  ]
+                ]
+              },
+              "children": [
+                {
+                  "id": "s5a",
+                  "title": "Kelalot at Sinai, Peratot Later? R. Yishmael vs. R. Akiva",
+                  "amud": "6a–6b",
+                  "text": {
+                    "from": "6a.17",
+                    "to": "6b.1"
+                  },
+                  "gist": "R. Yishmael's view of how the Torah was given, general rules first and details later, is what places him with Beit Shammai; R. Akiva holds that both came at Sinai.",
+                  "bullets": [
+                    {
+                      "text": "R. Yishmael: *kelalot ne'emru be'Sinai, u'feratot be'Ohel Mo'ed*. The general rules came at Sinai and the details later.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "So a Sinai *tamid* would have been offered without *hefshet ve'nituach*, which only became required later. That seems impossible.",
+                      "detail": 3,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "R. Akiva: rules and details were both given at Sinai, repeated at the Ohel Mo'ed, and taught a third time in Arvot Mo'av.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "The positions seem inverted: R. Akiva derives laws from every letter, while R. Yishmael holds *dibrah Torah kilshon benei adam*.",
+                      "detail": 2,
+                      "source": "shiur"
+                    },
+                    {
+                      "text": "A resolution: for R. Akiva, details \"given at Sinai\" means encoded in the text for the Sages to derive. For R. Yishmael, details count as given only once they are stated explicitly.",
+                      "detail": 3,
+                      "source": "shiur"
+                    }
+                  ],
+                  "illustration": {
+                    "caption": "R. Yishmael and R. Akiva on when the details of the mitzvot were given. For R. Yishmael, a *tamid* offered at Sinai would have come before the laws of *hefshet ve'nituach* were given.",
+                    "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Timeline of Sinai, the Ohel Mo'ed and Arvot Mo'av. R. Yishmael: general rules at Sinai, details at the Ohel Mo'ed. R. Akiva: rules and details at Sinai, repeated at the Ohel Mo'ed, taught a third time at Arvot Mo'av.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><path d=\"M230 140 L276 72 L292 90 L310 60 L352 140 Z\" fill=\"#8E7F74\"/><ellipse cx=\"300\" cy=\"62\" rx=\"40\" ry=\"12\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><rect x=\"470\" y=\"112\" width=\"120\" height=\"28\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\"/><g stroke=\"#BFAE8E\" stroke-width=\"2\"><line x1=\"480\" y1=\"112\" x2=\"480\" y2=\"140\"/><line x1=\"500\" y1=\"112\" x2=\"500\" y2=\"140\"/><line x1=\"520\" y1=\"112\" x2=\"520\" y2=\"140\"/><line x1=\"540\" y1=\"112\" x2=\"540\" y2=\"140\"/><line x1=\"560\" y1=\"112\" x2=\"560\" y2=\"140\"/><line x1=\"580\" y1=\"112\" x2=\"580\" y2=\"140\"/></g><rect x=\"502\" y=\"70\" width=\"56\" height=\"46\" fill=\"#7B4B3A\"/><rect x=\"522\" y=\"88\" width=\"16\" height=\"28\" fill=\"#C9A96E\"/><path d=\"M702 132 q14 -8 28 0 t28 0 t28 0 t28 0 t28 0\" fill=\"none\" stroke=\"#6FA3C8\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M718 122 L732 96 L746 122 Z M752 122 L764 100 L776 122 Z\" fill=\"#C9A96E\"/><path d=\"M806 124 q2 -22 -2 -40\" stroke=\"#7A5A3A\" stroke-width=\"4\" fill=\"none\"/><path d=\"M804 84 q-18 -2 -26 10 M804 84 q18 -4 26 8 M804 84 q-8 -14 -22 -14 M804 84 q10 -14 24 -12\" stroke=\"#4E7A3E\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"290\" y=\"170\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Mount Sinai</text><text x=\"530\" y=\"170\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Ohel Mo’ed</text><text x=\"770\" y=\"170\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Arvot Mo’av</text><text x=\"290\" y=\"192\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#5B6478\">הר סיני</text><text x=\"530\" y=\"192\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#5B6478\">אהל מועד</text><text x=\"770\" y=\"192\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#5B6478\">ערבות מואב</text><path d=\"M200 208 H860\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><path d=\"M860 208 l-10 -6 v12 z\" fill=\"#C9C1B2\"/><line x1=\"20\" y1=\"298\" x2=\"880\" y2=\"298\" stroke=\"#E6DFD2\"/><use href=\"#sage\" x=\"20\" y=\"218\" width=\"40\" height=\"70\" style=\"color:#50706E;--beard:#A8A39C;--wrap:#E4D8C0\" opacity=\"1\"/><text x=\"68\" y=\"260\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">R. Yishmael</text><use href=\"#sage\" x=\"20\" y=\"306\" width=\"40\" height=\"70\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\" opacity=\"1\"/><text x=\"68\" y=\"348\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">R. Akiva</text><rect x=\"190\" y=\"232\" width=\"200\" height=\"44\" rx=\"22\" fill=\"#1B3A8A\"/><text x=\"290\" y=\"259\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">General rules (kelalot)</text><rect x=\"430\" y=\"232\" width=\"200\" height=\"44\" rx=\"22\" fill=\"#1B3A8A\"/><text x=\"530\" y=\"259\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">The details (peratot)</text><rect x=\"670\" y=\"232\" width=\"200\" height=\"44\" rx=\"22\" fill=\"none\" stroke=\"#C9C1B2\" stroke-dasharray=\"5 5\"/><rect x=\"190\" y=\"320\" width=\"200\" height=\"44\" rx=\"22\" fill=\"#9A6212\"/><text x=\"290\" y=\"347\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Rules and details</text><rect x=\"430\" y=\"320\" width=\"200\" height=\"44\" rx=\"22\" fill=\"#F3E6D0\" stroke=\"#9A6212\"/><text x=\"530\" y=\"347\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#6B4A1A\">Repeated</text><rect x=\"670\" y=\"320\" width=\"200\" height=\"44\" rx=\"22\" fill=\"#F3E6D0\" stroke=\"#9A6212\"/><text x=\"770\" y=\"347\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#6B4A1A\">Taught a third time</text><text x=\"450\" y=\"400\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Chagigah 6a–6b · the baraita of R. Yishmael and R. Akiva</text></svg>"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "s6",
+              "title": "Hefshet Ve'nituach, and When the Tamid Began",
+              "amud": "6b",
+              "text": {
+                "from": "6b.2",
+                "to": "6b.5"
+              },
+              "gist": "Why R. Yishmael can't allow a changing *tamid*, and the sources for R. Elazar and R. Akiva.",
+              "bullets": [
+                {
+                  "text": "\"Is there anything that at first didn't need *hefshet ve'nituach* and later did?\" Therefore, for R. Yishmael, the Sinai *olah* must have been a *re'iyah*.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "Tosafot: *hefshet ve'nituach* is written in the *tamid*'s own *parashah*. So a *tamid* that changed would be especially hard to accept. A private *olah* would be less of a problem.",
+                  "detail": 2,
+                  "source": "shiur"
+                },
+                {
+                  "text": "R. Elazar on \"*olat tamid ha'asuyah be'Har Sinai*\" (Bamidbar 28:6): its procedures were told at Sinai, but it wasn't offered until the Mishkan. So the Sinai *olah* was a *re'iyah*.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "R. Akiva: it was offered at Sinai and never stopped.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "Challenge from Amos 5:25: \"Did you bring Me sacrifices... forty years in the wilderness?\"",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "Answer: *shevet Levi*, who didn't worship the calf, offered it from their own funds, so the nation as a whole didn't.",
+                  "detail": 3,
+                  "source": "gemara"
+                },
+                {
+                  "text": "The verse is odd on any view. Even per R. Elazar, the *tamid* ran from the second year, so thirty-nine years at least.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s7",
+              "title": "R. Yosi HaGlili: Olah vs. Chagigah vs. Shalmei Simchah",
+              "amud": "6b",
+              "text": {
+                "from": "6b.6",
+                "to": "6b.8"
+              },
+              "gist": "Three pilgrimage offerings, each with its own unique feature. Since only the *chagigah* preceded Sinai, the Sinai *olah* must have been the *tamid*.",
+              "bullets": [
+                {
+                  "text": "*Re'iyah*, *chagigah* and *simchah*: each has something the other two lack.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "The *chagigah*'s distinction is that it existed before the *dibbur*. That is the same fact Beit Hillel rely on.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "If the *re'iyah* did not precede Sinai, the *olah* in Shemot 24 was the *olat tamid*.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "Open question: why call the Sinai *shelamim* a *chagigah* and not a *simchah*? The Gemara doesn't say.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "chart": {
+                "caption": "R. Yosi HaGlili: what each pilgrimage offering has that the others lack",
+                "columns": [
+                  "Offering",
+                  "Unique feature"
+                ],
+                "rows": [
+                  [
+                    "*Olat re'iyah*",
+                    "Goes entirely to God; the other two are mostly eaten"
+                  ],
+                  [
+                    "*Shalmei chagigah*",
+                    "Existed before the *dibbur*"
+                  ],
+                  [
+                    "*Shalmei simchah*",
+                    "Obligates women as well as men"
+                  ]
+                ]
+              },
+              "children": [],
+              "illustration": {
+                "caption": "Each offering is labeled with the one feature R. Yosi HaGlili says only it has (Chagigah 6b).",
+                "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three offerings: the olat re'iyah burns entirely on the altar; the shalmei chagigah stands before Mount Sinai; the shalmei simchah is shared by a man and a woman at a festive table.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"16\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"154\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#5A2A12\">Olat Re'iyah</text><text x=\"154\" y=\"82\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"400\" fill=\"#7A4A2A\">עולת ראייה</text><path d=\"M150 210 C130 180 175 160 150 130 C130 110 170 100 155 95\" fill=\"none\" stroke=\"#B9A89A\" stroke-width=\"10\" stroke-linecap=\"round\" opacity=\".7\"/><rect x=\"92\" y=\"262\" width=\"124\" height=\"80\" fill=\"#A8927A\"/><path d=\"M92 290 h124 M92 316 h124 M122 262 v28 M170 262 v28 M146 290 v26 M196 290 v26 M110 316 v26 M160 316 v26\" stroke=\"#8A7560\" stroke-width=\"2\"/><rect x=\"86\" y=\"248\" width=\"16\" height=\"16\" fill=\"#A8927A\"/><rect x=\"206\" y=\"248\" width=\"16\" height=\"16\" fill=\"#A8927A\"/><path d=\"M112 262 C112 222 132 238 136 206 C150 234 160 214 160 196 C176 226 196 226 196 262 Z\" fill=\"url(#fire)\"/><text x=\"154\" y=\"378\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A2A12\">Burned entirely for God</text><text x=\"154\" y=\"400\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#7A5A44\">the other two are mostly eaten</text><rect x=\"311\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"449\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#1B3A8A\">Shalmei Chagigah</text><text x=\"449\" y=\"82\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"400\" fill=\"#3A5692\">שלמי חגיגה</text><path d=\"M330 300 L420 150 L452 190 L478 140 L570 300 Z\" fill=\"#9AA7BD\"/><path d=\"M420 150 L436 176 L452 190 L466 160 L478 140 L468 178 L452 204 L436 186 Z\" fill=\"#C3CCDA\"/><ellipse cx=\"462\" cy=\"132\" rx=\"48\" ry=\"16\" fill=\"#FFFFFF\" opacity=\".9\"/><rect x=\"330\" y=\"300\" width=\"240\" height=\"34\" fill=\"#C9D5B8\"/><use href=\"#lamb\" x=\"372\" y=\"226\" width=\"150\" height=\"105\"/><rect x=\"378\" y=\"344\" width=\"142\" height=\"26\" rx=\"13\" fill=\"#1B3A8A\"/><text x=\"449\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">before Sinai</text><text x=\"449\" y=\"398\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">Existed before the dibbur</text><rect x=\"606\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"744\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#24592E\">Shalmei Simchah</text><text x=\"744\" y=\"82\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"400\" fill=\"#3C7446\">שלמי שמחה</text><use href=\"#man\" x=\"640\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#3E6FA8\"/><use href=\"#woman\" x=\"788\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#A8436E\"/><rect x=\"682\" y=\"258\" width=\"124\" height=\"12\" rx=\"4\" fill=\"#8B6A4E\"/><rect x=\"692\" y=\"270\" width=\"8\" height=\"46\" fill=\"#8B6A4E\"/><rect x=\"788\" y=\"270\" width=\"8\" height=\"46\" fill=\"#8B6A4E\"/><ellipse cx=\"744\" cy=\"252\" rx=\"34\" ry=\"8\" fill=\"#F1ECE0\" stroke=\"#C9BFA9\"/><path d=\"M724 250 q20 -16 40 0\" fill=\"#B5673E\"/><rect x=\"700\" y=\"236\" width=\"10\" height=\"16\" rx=\"2\" fill=\"#7E2A3A\"/><rect x=\"780\" y=\"236\" width=\"10\" height=\"16\" rx=\"2\" fill=\"#7E2A3A\"/><use href=\"#lamb\" x=\"690\" y=\"290\" width=\"110\" height=\"77\"/><text x=\"744\" y=\"398\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Men and women alike</text></svg>"
+              }
+            },
+            {
+              "id": "s8",
+              "title": "R. Yishmael Struck from the List",
+              "amud": "6b",
+              "text": {
+                "from": "6b.9",
+                "to": "6b.11"
+              },
+              "gist": "R. Yosi HaGlili's own *baraita* undercuts Abaye's reasoning about R. Yishmael, so the Gemara strikes R. Yishmael from the list.",
+              "bullets": [
+                {
+                  "text": "Why put R. Yishmael with Beit Shammai? Only because of the *hefshet ve'nituach* argument.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "But R. Yosi HaGlili holds that the Sinai *olah* was a *tamid* and also that it needed no *hefshet ve'nituach*, a requirement that began at the Ohel Mo'ed. So a changing *tamid* is a coherent position.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "Nothing forces R. Yishmael's view, so the Gemara deletes him from Abaye's list (*u'machkeih le'Rabbi Yishmael mehakha*).",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "Beit Shammai's reading makes Sinai a moment of encounter (*vayechezu et ha'Elokim*). Beit Hillel's makes it the quiet, daily *tamid*: worship as steady routine.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": [],
+              "returns_to": [
+                {
+                  "id": "s5",
+                  "note": "Revisits Abaye's placement of R. Yishmael"
+                }
+              ]
+            },
+            {
+              "id": "s9",
+              "title": "Shemot 24:5: Were the Olot Bulls Too? Teiku",
+              "amud": "6b",
+              "text": {
+                "from": "6b.12",
+                "to": "6b.14"
+              },
+              "gist": "Rav Chisda: in Shemot 24:5, does \"bulls\" describe both offerings or only the *shelamim*? The question is left unresolved.",
+              "bullets": [
+                {
+                  "text": "Is there a break after \"*vaya'alu olot*\"? Then the *olot* were sheep and only the *shelamim* were bulls. Or does \"*parim*\" cover both?",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "Mar Zutra: the practical difference is where the cantillation places its break.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "Rav Acha b. Rava: one who vows \"an *olah* like the one at Sinai\". Must he bring a bull or a sheep?",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "*Teiku*: the question stands.",
+                  "detail": 2,
+                  "source": "gemara"
+                }
+              ],
+              "children": [],
+              "returns_to": [
+                {
+                  "id": "s3",
+                  "note": "Returns to Shemot 24:5, the verse both schools cited"
+                }
+              ]
+            }
+          ],
+          "illustration": {
+            "caption": "Shemot 24:4–5: an altar and twelve pillars at the foot of the mountain, and \"the young men of Israel\" bringing the offerings. The two camps follow Abaye's alignment, with R. Yishmael crossed out as the Gemara concludes.",
+            "svg": "<svg viewBox=\"0 0 900 540\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Mount Sinai with an altar and twelve pillars at its foot. Three sages on the left say the olah was an olat re'iyah; three on the right say it was the olat tamid.</title><rect width=\"900\" height=\"540\" fill=\"url(#sky)\"/><path d=\"M150 380 L380 110 L430 160 L470 90 L760 380 Z\" fill=\"#8E7F74\"/><path d=\"M380 110 L400 150 L430 160 L452 124 L470 90 L462 140 L430 190 L402 168 Z\" fill=\"#A89A8E\"/><g fill=\"#FFFFFF\" opacity=\".92\"><ellipse cx=\"450\" cy=\"92\" rx=\"90\" ry=\"26\"/><ellipse cx=\"400\" cy=\"104\" rx=\"60\" ry=\"20\"/><ellipse cx=\"510\" cy=\"106\" rx=\"62\" ry=\"18\"/></g><rect y=\"380\" width=\"900\" height=\"160\" fill=\"#D9C9A8\"/><g fill=\"#B8A88E\"><rect x=\"332\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"346\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/><rect x=\"360\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"374\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/><rect x=\"388\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"402\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/><rect x=\"488\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"502\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/><rect x=\"516\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"530\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/><rect x=\"544\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"558\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/></g><path d=\"M450 300 C432 270 470 250 448 220 C432 200 466 190 452 180\" fill=\"none\" stroke=\"#B9A89A\" stroke-width=\"9\" stroke-linecap=\"round\" opacity=\".7\"/><rect x=\"414\" y=\"332\" width=\"72\" height=\"52\" fill=\"#A8927A\"/><path d=\"M414 350 h72 M414 366 h72 M438 332 v18 M462 350 v16 M430 366 v18\" stroke=\"#8A7560\" stroke-width=\"2\"/><path d=\"M426 332 C426 306 440 316 442 296 C452 314 458 302 458 290 C468 310 476 312 476 332 Z\" fill=\"url(#fire)\"/><rect x=\"496\" y=\"206\" width=\"170\" height=\"44\" rx=\"22\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><path d=\"M510 248 L494 266 L526 248 Z\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\" stroke-linejoin=\"round\"/><rect x=\"508\" y=\"244\" width=\"22\" height=\"6\" fill=\"#FFFFFF\"/><text x=\"581\" y=\"234\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">Which olah?</text><use href=\"#bull\" x=\"352\" y=\"410\" width=\"130\" height=\"84\"/><use href=\"#man\" x=\"484\" y=\"400\" width=\"46\" height=\"92\" style=\"color:#5E7D4F\"/><path d=\"M490 448 L470 446\" stroke=\"#5B4636\" stroke-width=\"3\"/><rect x=\"24\" y=\"398\" width=\"330\" height=\"36\" rx=\"18\" fill=\"#1B3A8A\"/><text x=\"189\" y=\"422\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#FFFFFF\">An olat re'iyah (individual)</text><use href=\"#sage\" x=\"36\" y=\"262\" width=\"72\" height=\"126\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\" opacity=\"1\"/><use href=\"#sage\" x=\"146\" y=\"268\" width=\"68\" height=\"119\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0\" opacity=\"1\"/><use href=\"#sage\" x=\"252\" y=\"262\" width=\"72\" height=\"126\" style=\"color:#50706E;--beard:#A8A39C;--wrap:#E4D8C0\" opacity=\"0.5\"/><text x=\"75\" y=\"458\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Beit Shammai</text><text x=\"183\" y=\"458\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">R. Elazar</text><text x=\"291\" y=\"458\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5B6478\" text-decoration=\"line-through\">R. Yishmael</text><text x=\"291\" y=\"476\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">struck from the list</text><rect x=\"546\" y=\"440\" width=\"330\" height=\"36\" rx=\"18\" fill=\"#9A6212\"/><text x=\"711\" y=\"464\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#FFFFFF\">The olat tamid (communal)</text><use href=\"#sage\" x=\"566\" y=\"302\" width=\"68\" height=\"119\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\" opacity=\"1\"/><use href=\"#sage\" x=\"674\" y=\"296\" width=\"72\" height=\"126\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\" opacity=\"1\"/><use href=\"#sage\" x=\"784\" y=\"302\" width=\"68\" height=\"119\" style=\"color:#7A4A55;--beard:#4A3A2E;--wrap:#E4D8C0\" opacity=\"1\"/><text x=\"604\" y=\"500\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Beit Hillel</text><text x=\"712\" y=\"500\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">R. Akiva</text><text x=\"822\" y=\"500\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">R. Yosi HaGlili</text><text x=\"450\" y=\"526\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#4A3A2E\">וַיַּעֲלוּ עֹלֹת וַיִּזְבְּחוּ זְבָחִים שְׁלָמִים לַה׳ פָּרִים</text></svg>"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "Re'iyah: No Minimum or Maximum",
+      "amud": "6b → 7a",
+      "text": {
+        "from": "6b.15",
+        "to": "6b.15"
+      },
+      "gist": "The Mishnah in Pe'ah lists mitzvot with no fixed measure, *re'ayon* among them. The discussion continues on 7a.",
+      "bullets": [
+        {
+          "text": "Pe'ah 1:1: \"These have no measure: *pe'ah*, *bikkurim*, *re'ayon*, *gemilut chasadim* and Torah study.\"",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "Does \"no measure\" rule out a floor, a ceiling or both? Compare the Yerushalmi on *pe'ah*, and R. Yochanan's view that one may make a whole field *bikkurim*.",
+          "detail": 3,
+          "source": "shiur"
+        }
+      ],
+      "children": [],
+      "continues": "Continues on 7a: R. Yochanan's first reading, R. Oshaya's correction, and R. Yochanan vs. Reish Lakish on *re'ayon*."
+    }
+  ],
+  "judgment_calls": [
+    "R. Yosi HaGlili's three offerings is conceptually self-contained and could be its own top-level section; kept under the Sinai debate because the Gemara cites it as the source for his position there.",
+    "Rabbi Yishmael Realigned returns to the Positions subsection; kept in Gemara order with a returns_to link rather than moved.",
+    "Parsing the Verse could sit under the Beit Hillel / Beit Shammai reasons (it returns to their verse); kept as the last step of the Sinai debate, where it falls in the text."
+  ],
+  "coverage_notes": [
+    "The minor's-obligation exchange (5b–6a) isn't discussed in this shiur; outlined from the Gemara text only.",
+    "The essay says the Gemara 'reassigns R. Yishmael to Beit Hillel'; the text only deletes him from Abaye's list. Followed the text.",
+    "The segmentation names R. Eliezer where the text has R. Elazar. Followed the text.",
+    "The shiur continues into 7a (re'iyah without a measure; R. Yochanan vs. Reish Lakish); outside this daf's scope."
+  ]
+}

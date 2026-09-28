@@ -1,0 +1,74 @@
+{"daf": "Bava Metzia 11", "key_terms": [
+  {
+    "term": "kinyan chatzer",
+    "hebrew": "קנין חצר",
+    "sense": "acquisition through one's courtyard/field/domain",
+    "definition": "A mode of acquisition whereby an item that comes to rest in a person's owned or controlled domain becomes his, without any physical act of lifting or grabbing it.",
+    "on_this_daf": "The Mishnah and Gemara work out when a field acquires a found or ownerless animal for its owner, and Shmuel, Ulla and Rabba bar bar Chana all require the owner to stand beside an unsecured field for this to work.",
+    "aliases": ["chatzer", "chatzer kona", "chatzero shel adam kona lo"],
+    "sections": ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s8", "s9", "s10", "s11", "s12", "s13", "s16", "s17", "s18"]
+  },
+  {
+    "term": "yad",
+    "hebrew": "יד",
+    "sense": "a legal extension of a person's hand",
+    "definition": "A place or object treated as an extension of a person's own hand for purposes of acquisition or receipt, so that placing something there is equivalent to placing it directly in the person's hand.",
+    "on_this_daf": "The Gemara frames the dispute over a chatzer as turning on whether it functions as one's yad (which would work even for minors) or as a shaliach (agent), which minors cannot appoint.",
+    "aliases": ["yad"],
+    "sections": ["s1", "s2"]
+  },
+  {
+    "term": "shaliach",
+    "hebrew": "שליח",
+    "sense": "legal agency",
+    "definition": "A person or mechanism empowered to act on another's behalf such that the outcome is attributed directly to the principal; a shaliach must generally be appointed by someone with legal capacity.",
+    "on_this_daf": "If a chatzer works like a shaliach rather than a yad, a minor's courtyard could not acquire for him, since minors cannot appoint agents.",
+    "aliases": ["shaliach", "shelichut"],
+    "sections": ["s1", "s2"]
+  },
+  {
+    "term": "chatzer hamishtameret",
+    "hebrew": "חצר המשתמרת",
+    "sense": "a secured courtyard versus an unsecured one",
+    "definition": "A secured courtyard or domain (fenced or otherwise guarded) acquires items placed in it even without the owner's knowledge; an unsecured domain, like an open field, requires the owner's presence to function as a place of acquisition.",
+    "on_this_daf": "The Gemara resolves the tension between Shmuel's requirement that the owner stand beside his field and R. Yosei b. R. Chanina's rule that a courtyard acquires unknowingly, by distinguishing secured from unsecured domains.",
+    "aliases": ["chatzer hamishtameret", "chatzer she'eina mishtameret", "secured courtyard", "unsecured courtyard"],
+    "sections": ["s6", "s7", "s8", "s12"]
+  },
+  {
+    "term": "da'at acheret makneh",
+    "hebrew": "דעת אחרת מקנה",
+    "sense": "acquisition where another mind actively transfers ownership",
+    "definition": "A category of acquisition in which a giver's intent directs an item to a specific recipient, as opposed to an ownerless item with no directing mind; because a kinyan combines da'at with a physical act, a strong da'at can offset a weaker act of possession.",
+    "on_this_daf": "Rav Pappa uses this principle to explain how Rabban Gamliel's recipients could acquire tithes by courtyard without standing beside it, and it is tested against the cases of a gift and a get.",
+    "aliases": ["da'at acheret makneh"],
+    "sections": ["s16", "s17", "s18"]
+  },
+  {
+    "term": "kinyan agav",
+    "hebrew": "קנין אגב",
+    "sense": "acquiring movables together with land",
+    "definition": "A mode of acquisition in which movable property, bundled together with a parcel of land being transferred, passes to the recipient along with the land, even without a separate act of acquisition on the movables themselves.",
+    "on_this_daf": "A Sage in Sura suggests Rabban Gamliel transferred his tithes to Yehoshua and Akiva via agav together with the rented land, rather than via courtyard; Rava rejects this because Rabban Gamliel owned only tovat hana'ah, which cannot be conveyed this way.",
+    "aliases": ["metaltelin agav karka", "agav"],
+    "sections": ["s13", "s14", "s15"]
+  },
+  {
+    "term": "tovat hana'ah",
+    "hebrew": "טובת הנאה",
+    "sense": "the benefit of discretion in directing a gift",
+    "definition": "The non-monetary right to choose who receives a gift owed to a class of people (such as a priestly or Levitical due), as opposed to actual ownership of the item itself; it is not considered property (mamon) for purposes of formal acquisition.",
+    "on_this_daf": "Rava argues Rabban Gamliel owned only tovat hana'ah in the tithes, which cannot be transferred by chalifin or by agav, forcing the conclusion that the transfer to Yehoshua and Akiva was by courtyard.",
+    "aliases": ["tovat hana'ah"],
+    "sections": ["s14", "s15"]
+  },
+  {
+    "term": "chalifin",
+    "hebrew": "חליפין",
+    "sense": "acquisition by symbolic exchange",
+    "definition": "A mode of acquisition in which one item (traditionally a cloth) is exchanged to symbolically effect the transfer of ownership of another item or right, functioning like a form of sale.",
+    "on_this_daf": "Rava argues Rabban Gamliel could have used chalifin to transfer the tithes had he owned them outright; the Gemara ultimately rejects this since tithes must be given, not exchanged like a sale, so chalifin was unavailable.",
+    "aliases": ["chalifin"],
+    "sections": ["s14", "s15"]
+  }
+]}

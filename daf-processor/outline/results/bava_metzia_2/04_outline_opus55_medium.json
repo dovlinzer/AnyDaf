@@ -1,0 +1,713 @@
+{
+ "daf": "Bava Metzia 2",
+ "scope": {
+  "start": "2a: the opening Mishnah of the tractate, two holding a garment",
+  "end": "3a.1: the a fortiori challenge against reading the Mishnah as Sumakhos (the answer follows on 3a)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Mishnah: Two Holding a Garment or an Animal: Swear to Half, Divide",
+   "amud": "2a",
+   "text": {
+    "from": "2a.1",
+    "to": "2a.4"
+   },
+   "gist": "Four cases: both claim the whole garment, one claims all and the other half, two with an animal, and parties who admit or have witnesses, each with its oath and division.",
+   "bullets": [
+    {
+     "text": "The tractate opens with division by oath, carrying on from the last chapter of Bava Kamma (Tosafot), which divided the wood shavings between craftsman and owner.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "The Mishnah makes two moves. It divides the object, because both parties are *muchzak* in it. And it builds an oath that neither forces a false statement nor makes a claimant give up his claim, and that matches the ruling exactly.",
+     "detail": 2,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "The Mishnah's cases: claims, oaths and result",
+    "columns": [
+     "Case",
+     "Claims",
+     "Oaths",
+     "Result"
+    ],
+    "rows": [
+     [
+      "Two holding a garment",
+      "Each: \"I found it\", \"All of it is mine\"",
+      "Each: no less than half",
+      "Divide ½ and ½"
+     ],
+     [
+      "\"All\" vs. \"half\"",
+      "One: all of it; the other: half of it",
+      "No less than ¾ / no less than ¼",
+      "¾ and ¼"
+     ],
+     [
+      "Two riding, or one riding and one leading",
+      "Each: all of it is mine",
+      "Each: no less than half",
+      "Divide ½ and ½"
+     ],
+     [
+      "They admit, or each has witnesses",
+      "Claims established",
+      "No oath",
+      "Divide without an oath"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The Mishnah's cases (2a): two claim the whole garment and split it in halves; \"all\" against \"half\" yields three-quarters and a quarter; riding and leading an animal count like holding. With admission or witnesses there is no oath.",
+    "svg": "<svg viewBox='0 0 900 470' xmlns='http://www.w3.org/2000/svg' role='img'><title>Three panels: two men holding a garment and dividing it in halves; a man claiming all and a man claiming half, dividing three-quarters and a quarter; a man riding a donkey while another leads it, dividing in halves.</title><rect width='900' height='470' fill='#FBF8F1'/><rect x='15' y='14' width='280' height='400' rx='14' fill='#E3EAF3'/><rect x='310' y='14' width='280' height='400' rx='14' fill='#F3E6D8'/><rect x='605' y='14' width='280' height='400' rx='14' fill='#E4EFE4'/><text x='155' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1B3A8A'>Both claim all</text><text x='450' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#9A6212'>“All” vs. “half”</text><text x='745' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#24592E'>Riding or leading</text><text x='155' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>“I found it” · “All of it is mine”</text><text x='450' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>“All of it is mine” · “Half is mine”</text><text x='745' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Two riding, or one riding, one leading</text><use href='#man' x='40' y='100' width='60' height='120' style='color:#4B5E8C'/><use href='#man' x='210' y='100' width='60' height='120' style='color:#8C5A3C'/><rect x='92' y='150' width='126' height='56' rx='4' fill='#B5673E'/><path d='M92 164 H218 M92 192 H218' stroke='#8E4E2E' stroke-width='2'/><rect x='45' y='246' width='110' height='34' fill='#4B5E8C'/><rect x='155' y='246' width='110' height='34' fill='#8C5A3C'/><text x='100' y='269' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='18' font-weight='600' fill='#FFFFFF'>½</text><text x='210' y='269' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='18' font-weight='600' fill='#FFFFFF'>½</text><text x='155' y='312' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Each swears he owns</text><text x='155' y='332' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>no less than half of it</text><text x='155' y='372' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>They divide it</text><use href='#man' x='335' y='100' width='60' height='120' style='color:#4B5E8C'/><use href='#man' x='505' y='100' width='60' height='120' style='color:#8C5A3C'/><rect x='387' y='150' width='126' height='56' rx='4' fill='#B5673E'/><path d='M387 164 H513 M387 192 H513' stroke='#8E4E2E' stroke-width='2'/><rect x='340' y='246' width='165' height='34' fill='#4B5E8C'/><rect x='505' y='246' width='55' height='34' fill='#8C5A3C'/><text x='422' y='269' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='18' font-weight='600' fill='#FFFFFF'>¾</text><text x='532' y='269' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='18' font-weight='600' fill='#FFFFFF'>¼</text><text x='450' y='312' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Only the second half is disputed:</text><text x='450' y='332' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>oaths for no less than ¾ and ¼</text><text x='450' y='372' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>They take ¾ and ¼</text><rect x='694' y='205' width='8' height='40' rx='3' fill='#6E5E50'/><rect x='712' y='207' width='8' height='38' rx='3' fill='#6E5E50'/><rect x='748' y='207' width='8' height='38' rx='3' fill='#6E5E50'/><rect x='764' y='205' width='8' height='40' rx='3' fill='#6E5E50'/><path d='M682 192 q-14 10 -10 30' stroke='#6E5E50' stroke-width='4' fill='none'/><ellipse cx='730' cy='198' rx='50' ry='22' fill='#8A7B6C'/><path d='M768 190 L786 166 L800 174 L780 202 Z' fill='#8A7B6C'/><ellipse cx='798' cy='170' rx='17' ry='11' fill='#7C6D5F'/><path d='M786 162 L782 144 L793 160 Z M795 160 L796 142 L802 160 Z' fill='#7C6D5F'/><use href='#man' x='708' y='108' width='44' height='88' style='color:#4B5E8C'/><use href='#man' x='828' y='140' width='50' height='100' style='color:#8C5A3C'/><path d='M812 172 L840 192' stroke='#5B4636' stroke-width='3'/><rect x='635' y='246' width='110' height='34' fill='#4B5E8C'/><rect x='745' y='246' width='110' height='34' fill='#8C5A3C'/><text x='690' y='269' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='18' font-weight='600' fill='#FFFFFF'>½</text><text x='800' y='269' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='18' font-weight='600' fill='#FFFFFF'>½</text><text x='745' y='312' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Riding and leading both count:</text><text x='745' y='332' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>each swears to half</text><text x='745' y='372' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#24592E'>They divide it</text><text x='450' y='448' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>If they admit each other’s claims, or each has witnesses, they divide without an oath</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "Both Claim All: An Oath of \"No Less Than Half\"",
+     "amud": "2a",
+     "text": {
+      "from": "2a.1",
+      "to": "2a.1"
+     },
+     "gist": "Each swears he owns no less than half and they divide, an oath built not to force a lie and to work on the one who has talked himself into the claim.",
+     "bullets": [
+      {
+       "text": "Two come to court holding a garment. Each says \"I found it\" and \"All of it is mine.\" Each swears that he owns no less than half of it, and they divide it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The garment is an ordinary cloak. Dividing it means one buys out the other's half, or they sell it and split the proceeds.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Why \"no less than half\"? Swearing \"all of it is mine\" would force at least one of them into a false oath. Swearing \"half is mine\" would make each give up his own claim. The formula avoids both and matches the ruling exactly.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "What the oath does rests on *chashud a'mamona lo chashud a'shevuata*: a man suspected of grabbing property is not therefore suspected of swearing falsely, so he may concede rather than swear.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "More precisely, the oath targets the person who has managed to rationalize taking it: he saw it first, he needs it more. The gravity of the oath breaks through that self-justification.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "\"All\" vs. \"Half\": Three-Quarters, a Quarter, and Why No Migo",
+     "amud": "2a",
+     "text": {
+      "from": "2a.2",
+      "to": "2a.2"
+     },
+     "gist": "Only the unconceded half is disputed, so the oaths and the division are ¾ and ¼. Tosafot explain why the half-claimant cannot use a *migo* to take a full half.",
+     "bullets": [
+      {
+       "text": "One says \"All of it is mine\" and the other \"Half of it is mine.\" Half is agreed to belong to the first, so only the other half is in dispute.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The first swears he owns no less than three-quarters, the second no less than a quarter. They take ¾ and ¼.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot ask: the half-claimant could have claimed all and received half. Why doesn't that *migo* get him the half he claims?",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot answer: the full claimant is *muchzak* in the whole, the half-claimant only in half. Using a *migo* to take the disputed quarter out of the other's possession is a *migo le'hotzi*, which is not accepted, just as *ha'motzi me'chavero alav ha'ra'ayah*.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Riding or Leading an Animal: The Same Oath and Split",
+     "amud": "2a",
+     "text": {
+      "from": "2a.3",
+      "to": "2a.3"
+     },
+     "gist": "Two riding an animal, or one riding and one leading it, each claiming all: each swears to half and they divide.",
+     "bullets": [
+      {
+       "text": "Two sit riding on an animal, or one rides and the other leads it by its halter. Each says \"All of it is mine.\" Each swears he owns no less than half, and they divide it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The case shows by example that riding and leading each count as possession, making each rider or leader *muchzak* just as holding a garment does.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "Admission or Witnesses: Divide Without an Oath",
+     "amud": "2a",
+     "text": {
+      "from": "2a.4",
+      "to": "2a.4"
+     },
+     "gist": "When the parties admit each other's claims or each has witnesses, they divide without an oath.",
+     "bullets": [
+      {
+       "text": "When they admit each other's claims, or each has witnesses to his claim, they divide without an oath. An oath is imposed only where the parties have no other way to prove their claims.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The oath is a tool for reaching the truth. Where admission or testimony already supplies it, the oath has no work to do.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "Why Both \"I Found It\" and \"All of It Is Mine\"?",
+   "amud": "2a–2b",
+   "text": {
+    "from": "2a.5",
+    "to": "2b.3"
+   },
+   "gist": "Two readings of the Mishnah's double claim: one compound claim teaching that sight doesn't acquire, or Rav Pappa's two cases, a found item and a purchase, each needed, with the seller who took money from both.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s7",
+     "title": "One Compound Claim: Does Seeing a Found Item Acquire It?",
+     "amud": "2a",
+     "text": {
+      "from": "2a.5",
+      "to": "2a.9"
+     },
+     "gist": "Read as one claim, \"All of it is mine\" is added so that \"I found it\" won't be taken as \"I saw it\": sight alone doesn't acquire.",
+     "bullets": [
+      {
+       "text": "The Gemara asks why the Mishnah needs both claims; let it teach one. Answer: it is one claim, \"I found it and all of it is mine.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Then let each say only \"I found it\"? One might read \"found\" as \"saw\" and think seeing an item acquires it. \"All of it is mine\" teaches that sight alone doesn't acquire.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: Rabbenai reads \"and you have found it\" (Devarim 22:3) as meaning the item came into his possession. So \"found\" can't mean \"saw.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: the verse does mean possession, but the Mishnah uses everyday speech, where a person says \"I found it\" as soon as he sees something.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The everyday sense is the parking-space instinct: spotting it first feels like a claim.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Then let each say only \"All of it is mine\"? \"I found it\" sets the case as a found item, and adding \"all of it is mine\" then teaches that sight doesn't acquire.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "Rav Pappa: Found Item and Purchase, Each Needed (Mori ve'amar)",
+     "amud": "2a–2b",
+     "text": {
+      "from": "2a.10",
+      "to": "2b.2"
+     },
+     "gist": "The Mishnah's repeated \"this one says\" marks two cases, a found item and a purchase, and each is needed because the self-justifying excuse differs between them.",
+     "bullets": [
+      {
+       "text": "Challenge: the Mishnah says \"this one says\" twice, so these are two separate claims, not one.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Pappa (some say Rav Shimi bar Ashi, some say it is unattributed): the first clause is a found item; the second is a purchase, each claiming he bought it from the seller.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Had only the found item been taught: the Sages impose the oath there because of *mori ve'amar*. He tells himself, \"He is losing nothing; it was never his. I'll seize it and divide it with him.\" In a purchase that can't be said, so perhaps no oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Had only the purchase been taught: there he can tell himself, \"He paid and I paid; I need it, so I'll take it and let him go buy another.\" With a found item that can't be said, so perhaps no oath. Both cases are needed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Framing the need for both cases around *mori ve'amar* shows that the oath is aimed at the person who can rationalize, not the brazen thief. Where no excuse is available, one might think an oath achieves nothing.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Rav Pappa's two cases and the rationalization each allows",
+      "columns": [
+       "Case",
+       "Clause of the Mishnah",
+       "The self-justification",
+       "Had only this case been taught"
+      ],
+      "rows": [
+       [
+        "Found item",
+        "\"I found it\"",
+        "\"He is losing nothing; it was never his\"",
+        "A purchase might need no oath"
+       ],
+       [
+        "Purchase",
+        "\"All of it is mine\"",
+        "\"We both paid; let him go buy another\"",
+        "A found item might need no oath"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "Rav Pappa's two clauses (2a–2b): in each case the grabber has his own way to rationalize, which is why the Sages impose an oath in both.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Left: a finder with an item and a second man thinking that the finder loses nothing. Right: a seller behind a counter and two buyers, one thinking that both paid and the other can buy another.</title><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='412' rx='14' fill='#E3EAF3'/><rect x='460' y='14' width='425' height='412' rx='14' fill='#F3E6D8'/><text x='227' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1B3A8A'>The found item</text><text x='672' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#9A6212'>The purchase</text><text x='227' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>First clause: “I found it”</text><text x='672' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Second clause: “All of it is mine”</text><rect x='150' y='88' width='270' height='96' rx='18' fill='#FFFFFF' stroke='#9AA7BD' stroke-width='2'/><text x='285' y='116' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>“He isn’t losing anything:</text><text x='285' y='138' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>it was never his. I’ll seize it</text><text x='285' y='160' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>and divide it with him.”</text><circle cx='258' cy='198' r='7' fill='#FFFFFF' stroke='#9AA7BD' stroke-width='2'/><circle cx='248' cy='214' r='4' fill='#FFFFFF' stroke='#9AA7BD' stroke-width='2'/><use href='#man' x='50' y='220' width='60' height='120' style='color:#50706E'/><rect x='130' y='282' width='44' height='30' rx='6' fill='#C9A15C'/><use href='#man' x='200' y='220' width='60' height='120' style='color:#8C5A3C'/><text x='80' y='360' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Finder</text><text x='230' y='360' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Seizes it</text><text x='227' y='392' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>Easy to rationalize: an oath is imposed</text><text x='227' y='412' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Had only this been taught: no oath for a purchase?</text><rect x='600' y='88' width='270' height='96' rx='18' fill='#FFFFFF' stroke='#C9A96E' stroke-width='2'/><text x='735' y='116' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>“He paid and I paid.</text><text x='735' y='138' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>I need it: I’ll take it,</text><text x='735' y='160' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>let him go buy another.”</text><circle cx='796' cy='198' r='7' fill='#FFFFFF' stroke='#C9A96E' stroke-width='2'/><circle cx='792' cy='214' r='4' fill='#FFFFFF' stroke='#C9A96E' stroke-width='2'/><use href='#man' x='505' y='200' width='60' height='120' style='color:#6A4F7A'/><rect x='480' y='280' width='110' height='60' fill='#A8927A'/><circle cx='560' cy='274' r='6' fill='#D9B44A'/><circle cx='574' cy='274' r='6' fill='#D9B44A'/><use href='#man' x='625' y='220' width='60' height='120' style='color:#50706E'/><use href='#man' x='760' y='220' width='60' height='120' style='color:#8C5A3C'/><text x='535' y='360' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Seller</text><text x='655' y='360' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Buyer</text><text x='790' y='360' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Buyer</text><text x='672' y='392' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>Easy to rationalize: an oath is imposed</text><text x='672' y='412' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Had only this been taught: no oath for a found item?</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s9",
+     "title": "Why Not Ask the Seller? He Took Money From Both",
+     "amud": "2b",
+     "text": {
+      "from": "2b.3",
+      "to": "2b.3"
+     },
+     "gist": "The purchase case is one where the seller took money from both, one willingly and one against his will, and doesn't know which was which.",
+     "bullets": [
+      {
+       "text": "Challenge: in a purchase, see from whom the seller took the money; that one is the buyer.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: he took money from both, willingly from the one he meant to sell to and against his will from the other, and it isn't known which was which. So the matter is settled by oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot consider whether the seller could still serve as a single witness. That would free the party he supports from the oath and put the other to a Torah oath. In this case, though, the seller truly doesn't remember.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "title": "Whose View Is the Mishnah? Ben Nannas and Sumakhos",
+   "amud": "2b → 3a",
+   "text": {
+    "from": "2b.4",
+    "to": "3a.1"
+   },
+   "gist": "The Gemara tests the Mishnah's oath against two *tanna'im*: Ben Nannas, who rejects a certainly false oath, and Sumakhos, who divides uncertain property without an oath.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s11",
+     "title": "Ben Nannas: No Oath When One Side Must Be Lying (Shevuat Shav)",
+     "amud": "2b",
+     "text": {
+      "from": "2b.4",
+      "to": "2b.6"
+     },
+     "gist": "Ben Nannas objects to oaths where one side is surely false. The Mishnah can still follow him, since both may have lifted the garment together and sworn truly.",
+     "bullets": [
+      {
+       "text": "Suggestion: the Mishnah is not Ben Nannas, who doesn't impose an oath on two parties when one is certainly lying.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Mishnah in Shevuot 45a: an employer sends his laborer to a storekeeper for food in lieu of wages. The storekeeper says he gave, the laborer says he got nothing. The Rabbis: both swear and the employer pays both. Ben Nannas: how can both come to a *shevuat shav*?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rejection: there a *shevuat shav* (oath in vain) is certain. Here both may swear truly, since they may have lifted it together and each owns half. In such a case Ben Nannas agrees that both swear.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Joint lifting is not the likely story, but the possibility is enough. Ben Nannas objects only where a false oath is certain.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Ben Nannas (2b): in the storekeeper-and-laborer case one oath must be false, so he would not impose it. With the garment, both may have lifted it together, so both oaths can be true.",
+      "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>Left: a storekeeper saying he gave food, a laborer saying he got nothing, and the employer between them. Right: two men lifting a garment together.</title><rect width='900' height='420' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='392' rx='14' fill='#F3E6D8'/><rect x='460' y='14' width='425' height='392' rx='14' fill='#E4EFE4'/><text x='227' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#5A2A12'>Storekeeper and laborer</text><text x='672' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#24592E'>Two holding a garment</text><text x='227' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Shevuot 45a · both swear, employer pays both</text><text x='672' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Our Mishnah · each swears to half</text><rect x='30' y='86' width='175' height='40' rx='12' fill='#FFFFFF' stroke='#BFAE8E'/><text x='117' y='111' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>“I gave him food”</text><rect x='245' y='86' width='180' height='40' rx='12' fill='#FFFFFF' stroke='#BFAE8E'/><text x='335' y='111' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>“He gave me nothing”</text><use href='#man' x='85' y='140' width='60' height='120' style='color:#6A4F7A'/><use href='#man' x='196' y='170' width='50' height='100' style='color:#4B5E8C'/><use href='#man' x='305' y='140' width='60' height='120' style='color:#50706E'/><text x='115' y='282' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Storekeeper</text><text x='221' y='292' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Employer</text><text x='335' y='282' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Laborer</text><use href='#mark-no' x='40' y='318' width='32' height='32'/><text x='84' y='332' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Ben Nannas: one oath is surely false,</text><text x='84' y='352' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>so no oath in vain</text><text x='227' y='384' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#5A2A12'>שבועת שוא</text><text x='672' y='108' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Perhaps they lifted it together,</text><text x='672' y='128' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>and each owns half</text><use href='#man' x='520' y='160' width='60' height='120' style='color:#4B5E8C'/><use href='#man' x='764' y='160' width='60' height='120' style='color:#8C5A3C'/><rect x='572' y='196' width='200' height='50' rx='4' fill='#B5673E'/><path d='M572 210 H772 M572 232 H772' stroke='#8E4E2E' stroke-width='2'/><use href='#mark-ok' x='485' y='318' width='32' height='32'/><text x='529' y='332' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Both oaths may be true, so</text><text x='529' y='352' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>the Mishnah can follow Ben Nannas</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "Sumakhos: Uncertain Property Divided Without an Oath?",
+     "amud": "2b → 3a",
+     "text": {
+      "from": "2b.7",
+      "to": "3a.1"
+     },
+     "gist": "Sumakhos divides *mamon ha'mutal be'safek* (property of uncertain ownership) without an oath. Three steps: the Rabbis-or-Sumakhos objection, the *shema* vs. *bari* answer, and *derara de'mamona* with its a fortiori challenge.",
+     "bullets": [
+      {
+       "text": "Sumakhos's rule, *mamon ha'mutal be'safek cholkin*, is known from Bava Kamma. A cow is sold and a calf is found beside it: the seller says it was born before the sale, the buyer after. The Rabbis put the burden of proof on the buyer. Sumakhos: they divide.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "How each view treats uncertain property and the Mishnah's garment",
+      "columns": [
+       "",
+       "Uncertain property, neither grasping",
+       "The Mishnah's garment, both grasping",
+       "Why"
+      ],
+      "rows": [
+       [
+        "The Rabbis",
+        "The burden of proof is on the claimant",
+        "Divide, with an oath",
+        "Here neither has exclusive possession"
+       ],
+       [
+        "Sumakhos (first answer)",
+        "Divide without an oath when both claims are *shema*",
+        "An oath, since both claims are *bari*",
+        "With no certain claim there is no oath to swear"
+       ],
+       [
+        "Sumakhos per Rabba bar Rav Huna",
+        "Divide without an oath even with *bari* claims, given *derara de'mamona*",
+        "An oath, since there is no *derara de'mamona*",
+        "Where only the claims create the doubt, an oath is needed"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s13",
+       "title": "Rabbis or Sumakhos? Grasping vs. Not Grasping",
+       "amud": "2b",
+       "text": {
+        "from": "2b.7",
+        "to": "2b.10"
+       },
+       "gist": "The Rabbis can split the grasped garment while keeping their burden-of-proof rule elsewhere; Sumakhos seems to face an a fortiori argument for no oath here.",
+       "bullets": [
+        {
+         "text": "Suggestion: the Mishnah is not Sumakhos, who says *mamon ha'mutal be'safek* is divided without an oath.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Counter: then is it the Rabbis? They put the burden of proof on the claimant (*ha'motzi me'chavero alav ha'ra'ayah*), and here no one brings proof.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Reply: the Rabbis can distinguish. There neither party is grasping, so the burden of proof falls on the claimant. Here both are grasping and neither has exclusive possession, so they divide with an oath.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "In the Rabbis' case one party is *muchzak* and the other seeks to take from him. Here both are equally *muchzak*.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "But for Sumakhos: if there, where they are not both grasping, they divide without an oath, then here, where both are grasping, all the more so without an oath.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s14",
+       "title": "Shema and Shema vs. Bari and Bari",
+       "amud": "2b",
+       "text": {
+        "from": "2b.11",
+        "to": "2b.11"
+       },
+       "gist": "First answer: Sumakhos divides without an oath only when neither party can claim with certainty; with two certain claims, as here, he requires an oath.",
+       "bullets": [
+        {
+         "text": "Sumakhos's rule applies to *shema* and *shema*, where neither party can say for sure that the property is his. With *bari* and *bari*, where each claims it definitively as in the Mishnah, he does not divide without an oath.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "With uncertain claims no oath can be worded, since a person can't swear to what he doesn't know. A definite claim supports a definite oath, which may yet draw out an admission.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s15",
+       "title": "Rabba bar Rav Huna: Derara de'mamona Limits Sumakhos",
+       "amud": "2b",
+       "text": {
+        "from": "2b.12",
+        "to": "2b.13"
+       },
+       "gist": "For Rabba bar Rav Huna, who has Sumakhos dividing even with *bari* claims, the limit is a *derara de'mamona* (financial association) with the item that exists apart from the claims.",
+       "bullets": [
+        {
+         "text": "Rabba bar Rav Huna says Sumakhos divides without an oath even with *bari* and *bari*. How, then, can the Mishnah be his?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: Sumakhos divides without an oath only where there is *derara de'mamona*, a financial association with the item independent of the claims. Without it, they do not divide without an oath.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Tosafot: *derara de'mamona* is doubt that arises from the agreed facts themselves and would be visible to an outsider, like a calf born at some unknown moment around the sale. With the garment, only the competing claims create the doubt.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Where the claims alone are the source of doubt, the oath is exactly what is needed: pressure on anyone who would rationalize his claim.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s16",
+       "title": "The A Fortiori Challenge: No Stake, and Possibly Both Owners",
+       "amud": "2b → 3a",
+       "text": {
+        "from": "2b.14",
+        "to": "3a.1"
+       },
+       "gist": "If Sumakhos divides without an oath where the item surely belongs wholly to one side, then all the more so here, where it may truly belong to both.",
+       "bullets": [
+        {
+         "text": "Challenge: there each party has a *derara de'mamona* with the item, and it may belong entirely to one or entirely to the other, yet Sumakhos divides this *mamon ha'mutal be'safek* without an oath. Here they have no *derara de'mamona* and it may belong to both, so all the more so they should divide without an oath.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The force of the argument: in the calf case a split is certainly not the truth, yet no oath is used to get closer to it. Here the split may be exactly the truth, so an oath should be needed even less.",
+         "detail": 2,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "The a fortiori challenge (2b–3a): where each party has a financial stake and the property is wholly one side's, Sumakhos divides without an oath; the garment may belong to both, so why an oath?",
+        "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>Left: two men and a piece of property that belongs entirely to one of them, divided without an oath. Right: two men holding a garment that may belong to both, with the question of whether an oath is needed.</title><rect width='900' height='420' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='392' rx='14' fill='#E3EAF3'/><rect x='460' y='14' width='425' height='392' rx='14' fill='#F3E6D8'/><text x='227' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1B3A8A'>Where there is a stake</text><text x='672' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#9A6212'>The Mishnah’s garment</text><text x='227' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Each has a financial association with it</text><text x='672' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>No financial association, only their claims</text><text x='148' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>entirely his?</text><text x='296' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>entirely his?</text><use href='#man' x='50' y='170' width='60' height='120' style='color:#4B5E8C'/><use href='#man' x='320' y='170' width='60' height='120' style='color:#8C5A3C'/><rect x='182' y='200' width='66' height='56' rx='8' fill='#C9A15C'/><path d='M178 228 L118 228' stroke='#5B6478' stroke-width='2' stroke-dasharray='5 4'/><path d='M252 228 L314 228' stroke='#5B6478' stroke-width='2' stroke-dasharray='5 4'/><text x='215' y='278' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>the property</text><use href='#mark-ok' x='40' y='318' width='32' height='32'/><text x='84' y='332' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Sumakhos: divide without an oath</text><text x='84' y='352' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>though it belongs entirely to one</text><text x='227' y='386' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#1B3A8A'>דררא דממונא</text><text x='672' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Room to say it belongs to both</text><use href='#man' x='500' y='170' width='60' height='120' style='color:#4B5E8C'/><use href='#man' x='784' y='170' width='60' height='120' style='color:#8C5A3C'/><rect x='552' y='210' width='236' height='48' rx='4' fill='#B5673E'/><path d='M670 210 V258' stroke='#FBF8F1' stroke-width='2' stroke-dasharray='5 4'/><text x='672' y='332' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>All the more so without an oath?</text><text x='672' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>kal va’chomer against the Mishnah’s oath</text></svg>"
+       },
+       "children": [],
+       "continues": "Continues on 3a: the Gemara answers that this oath is a rabbinic enactment, per R. Yochanan, so that people won't seize another's garment and claim it; then it asks whether the Mishnah follows R. Yosei."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "muchzak",
+   "hebrew": "מוחזק",
+   "sense": "party in possession of disputed property",
+   "definition": "The party who holds disputed property, and so keeps it unless the other side proves its claim. Two parties who both hold an object can be equally in possession of it.",
+   "on_this_daf": "Both litigants grasp the garment, so neither has exclusive possession, which is why they divide instead of leaving it with one side.",
+   "aliases": [
+    "muchzak"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s4",
+    "s13"
+   ]
+  },
+  {
+   "term": "ha'motzi me'chavero alav ha'ra'ayah",
+   "hebrew": "המוציא מחבירו עליו הראיה",
+   "sense": "burden of proof on the claimant",
+   "definition": "The principle that one who seeks to take property from another's possession must bring proof; without it, the property stays where it is.",
+   "on_this_daf": "The Rabbis apply it where one side is not grasping, and the Gemara explains why it doesn't stop them from dividing the garment both parties hold.",
+   "aliases": [
+    "ha'motzi me'chavero alav ha'ra'ayah"
+   ],
+   "sections": [
+    "s3",
+    "s12",
+    "s13"
+   ]
+  },
+  {
+   "term": "mori ve'amar",
+   "hebrew": "מורי ואמר",
+   "sense": "self-justifying rationalization",
+   "definition": "A person persuading himself that taking something is justified, as though issuing himself a permissive ruling, as distinct from knowingly stealing.",
+   "on_this_daf": "The Gemara explains why both the found-item and the purchase case are needed by the different excuse a grabber can tell himself in each.",
+   "aliases": [
+    "mori ve'amar"
+   ],
+   "sections": [
+    "s2",
+    "s8",
+    "s15"
+   ]
+  },
+  {
+   "term": "shevuat shav",
+   "hebrew": "שבועת שוא",
+   "sense": "an oath known to be false",
+   "definition": "A vain or false oath. Courts avoid imposing oaths that must be false on at least one side.",
+   "on_this_daf": "Ben Nannas objects when one of two oaths is certainly false; the garment case escapes his objection because both parties may have lifted it together.",
+   "aliases": [
+    "shevuat shav"
+   ],
+   "sections": [
+    "s11"
+   ]
+  },
+  {
+   "term": "mamon ha'mutal be'safek",
+   "hebrew": "ממון המוטל בספק",
+   "sense": "property of uncertain ownership",
+   "definition": "Property whose ownership cannot be determined between the parties. Sumakhos rules that it is divided; the Rabbis leave it with the one in possession unless the claimant brings proof.",
+   "on_this_daf": "The Gemara asks how the Mishnah's oath fits Sumakhos, who divides such property without an oath.",
+   "aliases": [
+    "mamon ha'mutal be'safek"
+   ],
+   "sections": [
+    "s12",
+    "s13",
+    "s16"
+   ]
+  },
+  {
+   "term": "bari ve'shema",
+   "hebrew": "ברי ושמא",
+   "sense": "certain versus uncertain claims",
+   "definition": "A *bari* claim asserts a fact as certain (\"it is mine\"); a *shema* claim asserts only a possibility (\"perhaps it is mine\"). The difference affects both credibility and whether an oath can be administered.",
+   "on_this_daf": "First answer: Sumakhos divides without an oath only when both claims are *shema*; with two *bari* claims, as in the Mishnah, an oath is required.",
+   "aliases": [
+    "Shema and Shema",
+    "shema"
+   ],
+   "sections": [
+    "s12",
+    "s14",
+    "s15"
+   ]
+  },
+  {
+   "term": "derara de'mamona",
+   "hebrew": "דררא דממונא",
+   "sense": "a financial stake independent of the claims",
+   "definition": "A doubt about ownership that arises from the facts themselves, giving each party a real financial connection to the property apart from what they claim.",
+   "on_this_daf": "For Rabba bar Rav Huna, Sumakhos divides without an oath only where it exists. The Gemara then turns it into an a fortiori challenge: without it, the split should need an oath even less.",
+   "aliases": [
+    "Derara de'mamona",
+    "derara de'mamona"
+   ],
+   "sections": [
+    "s12",
+    "s15",
+    "s16"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The Mishnah is split into four child sections (both claim all; all vs. half; the animal; admission or witnesses) so that the shiur's analysis of the oath and of Tosafot's migo question sits beside the clause it explains; a single Mishnah section with bullets would also be reasonable.",
+  "The seller who took money from both (2b.3) is a child of the two-clauses discussion rather than its own top-level section, because it defends Rav Pappa's reading of the second clause as a purchase.",
+  "The first a fortiori against Sumakhos (2b.10) is kept inside the Rabbis-or-Sumakhos section, since it closes the Gemara's argument that began at 2b.7; it could have been a separate step before the shema/bari answer.",
+  "Ben Nannas and Sumakhos are grouped under one parent (does the Mishnah fit each tanna?), with Sumakhos's three answers and challenges nested beneath his own section.",
+  "The final section runs to 3a.1 and ends on the challenge; its answer on 3a.2 belongs to the next daf's outline."
+ ],
+ "coverage_notes": [
+  "The essay attributes the reading of \"and you have found it\" (Devarim 22:3) to Ravina; the text has Rabbenai. Followed the text.",
+  "The essay presents shema/bari and then derara de'mamona as successive limits on Sumakhos; in the text, derara de'mamona is the answer given for Rabba bar Rav Huna, who holds that Sumakhos divides even with bari claims. Followed the text.",
+  "The essay describes Ben Nannas's case as an employer telling a shopkeeper to extend credit to workers, who took a hundred dinars' worth; the text (Shevuot 45a) has a laborer sent to a storekeeper for food in lieu of wages, with no sum. Followed the text.",
+  "The essay says the a fortiori is not resolved on this amud; the text answers it at 3a.2 (R. Yochanan: the oath is a rabbinic enactment), outside this outline's scope. Referenced only in continues.",
+  "The calf-born-after-the-sale case is not in this daf's text; it appears as shiur material explaining Sumakhos's rule.",
+  "The shiur's remarks about later cases in the chapter (a boat in the harbor, escrow until Elijah) fall outside this scope and are left out, except for a general note on the half-claimant.",
+  "The Rosh's explanation of the chapter's placement, given in the Sefaria introduction, is not in the shiur and is not the Gemara; omitted."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s11",
+    "subject": "Storekeeper/laborer vs. garment: can both oaths be true?",
+    "why_not": "Only one real dimension; the illustration and bullets carry it."
+   },
+   {
+    "section": "s7",
+    "subject": "The three proposed wordings of the claim and what each would miss",
+    "why_not": "A linear back-and-forth rather than a grid; the bullets read more clearly."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s9",
+    "subject": "The seller taking money from both buyers, one willingly and one against his will",
+    "why_not": "A single point of detail; the purchase panel of the s8 picture already shows the seller and both buyers."
+   },
+   {
+    "section": "s4",
+    "subject": "The animal case on its own",
+    "why_not": "Included as the third panel of the Mishnah picture."
+   },
+   {
+    "section": "s13",
+    "subject": "Grasping vs. not grasping under the Rabbis",
+    "why_not": "Covered by the s12 chart; a picture would repeat the garment scene without adding anything."
+   }
+  ]
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "key": "bekhorot_12",
+ "tractate": "Bekhorot",
+ "sages": [
+  {
+   "name": "רבי אליעזר",
+   "candidates": [
+    "rabbi-eliezer-b-hyrcanus"
+   ],
+   "lines": [
+    "12a.1",
+    "12a.10",
+    "12a.12",
+    "12a.13"
+   ],
+   "count": 4,
+   "first": "12a.1",
+   "ambiguous": false,
+   "pick": "rabbi-eliezer-b-hyrcanus",
+   "pick_by": "only"
+  },
+  {
+   "name": "בן בג בג",
+   "candidates": [
+    "yochanan-ben-bag-bag"
+   ],
+   "lines": [
+    "12a.2"
+   ],
+   "count": 1,
+   "first": "12a.2",
+   "ambiguous": false,
+   "pick": "yochanan-ben-bag-bag",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי מאיר",
+   "candidates": [
+    "rabbi-meir"
+   ],
+   "lines": [
+    "12a.5"
+   ],
+   "count": 1,
+   "first": "12a.5",
+   "ambiguous": false,
+   "pick": "rabbi-meir",
+   "pick_by": "only"
+  },
+  {
+   "name": "מר זוטרא",
+   "candidates": [
+    "mar-zutra"
+   ],
+   "lines": [
+    "12a.7",
+    "12a.8"
+   ],
+   "count": 2,
+   "first": "12a.7",
+   "ambiguous": false,
+   "pick": "mar-zutra",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב אשי",
+   "candidates": [
+    "rav-ashi"
+   ],
+   "lines": [
+    "12a.7",
+    "12a.8"
+   ],
+   "count": 2,
+   "first": "12a.7",
+   "ambiguous": false,
+   "pick": "rav-ashi",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבה",
+   "candidates": [
+    "rabbah-b-nachmani"
+   ],
+   "lines": [
+    "12a.14"
+   ],
+   "count": 1,
+   "first": "12a.14",
+   "ambiguous": false,
+   "pick": "rabbah-b-nachmani",
+   "pick_by": "only"
+  },
+  {
+   "name": "שמואל",
+   "candidates": [
+    "shmuel-(amora)"
+   ],
+   "lines": [
+    "12a.14"
+   ],
+   "count": 1,
+   "first": "12a.14",
+   "ambiguous": false,
+   "pick": "shmuel-(amora)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי שמעון",
+   "candidates": [
+    "shimon-bar-yochai"
+   ],
+   "lines": [
+    "12a.21",
+    "12b.1"
+   ],
+   "count": 2,
+   "first": "12a.21",
+   "ambiguous": false,
+   "pick": "shimon-bar-yochai",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יהודה",
+   "candidates": [
+    "rabbi-yehudah-b-ilai"
+   ],
+   "lines": [
+    "12a.21"
+   ],
+   "count": 1,
+   "first": "12a.21",
+   "ambiguous": false,
+   "pick": "rabbi-yehudah-b-ilai",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "12a.24"
+   ],
+   "count": 1,
+   "first": "12a.24",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב כהנא",
+   "candidates": [
+    "rav-kahana-(i)",
+    "rav-kahana-(ii)",
+    "rav-kahana-(iii)",
+    "rav-kahana-(iv)",
+    "rav-kahana-(v)"
+   ],
+   "lines": [
+    "12a.24"
+   ],
+   "count": 1,
+   "first": "12a.24",
+   "ambiguous": true,
+   "pick": "rav-kahana-(i)",
+   "pick_by": "context"
+  }
+ ]
+}

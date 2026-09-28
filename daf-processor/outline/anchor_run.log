@@ -1,0 +1,35 @@
+11 requests with claude-sonnet-5 (effort medium)
+  gittin_18        prompt 35,315 chars
+  shabbat_38       prompt 45,185 chars
+  berakhot_31b     prompt 45,668 chars
+  bava_metzia_11   prompt 45,452 chars
+  bava_batra_84    prompt 35,942 chars
+  niddah_60        prompt 60,425 chars
+  kiddushin_2      prompt 31,972 chars
+  sanhedrin_6b     prompt 30,802 chars
+  yevamot_33       prompt 36,329 chars
+  hullin_88        prompt 39,729 chars
+  shabbat_21       prompt 52,273 chars
+Submitted batch msgbatch_01WWLBcsCYnoPJzvpVMGdK8c
+  in_progress: succeeded=0 processing=11 errored=0
+  in_progress: succeeded=0 processing=11 errored=0
+  in_progress: succeeded=0 processing=11 errored=0
+  in_progress: succeeded=0 processing=11 errored=0
+  in_progress: succeeded=0 processing=11 errored=0
+  in_progress: succeeded=0 processing=11 errored=0
+  ended: succeeded=11 processing=0 errored=0
+  sanhedrin_6b: merged into outline/results/sanhedrin_6b/04_outline_opus55.json (checks clean)
+  hullin_88: merged into outline/results/hullin_88/04_outline_opus55.json (checks clean)
+  niddah_60: merged into outline/results/niddah_60/04_outline_opus55.json (checks clean)
+  yevamot_33: merged into outline/results/yevamot_33/04_outline_opus55.json (checks clean)
+  gittin_18: merged into outline/results/gittin_18/04_outline_opus55.json (checks clean)
+  shabbat_38: merged into outline/results/shabbat_38/04_outline_opus55.json
+    check: Shriveled Eggs Improve: Rebbi and Rav Chama bar Chanina: outside its parent {'from': '38a.9', 'to': '38a.9'}
+  bava_metzia_11: merged into outline/results/bava_metzia_11/04_outline_opus55.json (checks clean)
+  shabbat_21: merged into outline/results/shabbat_21/04_outline_opus55.json
+    check: Until the Tadmor Merchants Leave: outside its parent {'from': '21b.4', 'to': '21b.4'}
+    check: Why Each School Counts as It Does: outside its parent {'from': '21b.6', 'to': '21b.6'}
+    check: Two Elders in Sidon: outside its parent {'from': '21b.7', 'to': '21b.7'}
+  berakhot_31b: merged into outline/results/berakhot_31b/04_outline_opus55.json (checks clean)
+  bava_batra_84: merged into outline/results/bava_batra_84/04_outline_opus55.json (checks clean)
+  kiddushin_2: merged into outline/results/kiddushin_2/04_outline_opus55.json (checks clean)

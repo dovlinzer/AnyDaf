@@ -1,0 +1,90 @@
+```json
+{
+  "daf": "Chullin 88a-88b",
+  "key_terms": [
+    {
+      "term": "kisui ha-dam",
+      "hebrew": "כיסוי הדם",
+      "sense": "covering the blood of a slaughtered wild animal or bird",
+      "definition": "The Torah commandment to cover with earth the blood of an undomesticated animal or bird after slaughtering it.",
+      "on_this_daf": "The Gemara disputes how much of the blood must be covered and which materials may be used to cover it. It also explains why the earth used for this mitzva is not counted among Abraham's rewards.",
+      "aliases": [
+        "Covering the Blood",
+        "covering the blood",
+        "Covering the blood",
+        "cover the blood"
+      ],
+      "sections": ["s6", "s7", "s8", "s9", "s10", "s12", "s13", "s14", "s15", "s16", "s17", "s19"]
+    },
+    {
+      "term": "dam ha-nefesh",
+      "hebrew": "דם הנפש",
+      "sense": "the life-blood that flows at slaughter",
+      "definition": "The main flow of blood that pours out as the animal dies from slaughter. It is distinguished from blood that spurts aside or clings to the knife or the neck.",
+      "on_this_daf": "Rabban Shimon ben Gamliel reads \"its blood\" as the blood of the soul, so once it is covered one is exempt from covering the rest. The Rabbis require all the blood and R. Yehuda even part of it.",
+      "aliases": [
+        "dam hanefesh",
+        "blood of the soul"
+      ],
+      "sections": ["s7", "s8"]
+    },
+    {
+      "term": "afar",
+      "hebrew": "עפר",
+      "sense": "earth as the required covering material",
+      "definition": "Earth or dust. In the laws of covering the blood, it is the material the verse \"cover it with earth\" requires, which defines what may be used.",
+      "on_this_daf": "Materials qualify either by being a kind of earth in which plants grow or by being called afar in Scripture, such as ashes and gold dust. Beit Shammai accept only actual earth.",
+      "aliases": [
+        "afar",
+        "earth"
+      ],
+      "sections": ["s9", "s10", "s12", "s13", "s15", "s16", "s17"]
+    },
+    {
+      "term": "klal ha-tzarich li-frat",
+      "hebrew": "כלל הצריך לפרט",
+      "sense": "a generalization that needs its detail for clarity",
+      "definition": "A hermeneutical principle: when a general term cannot be understood without the detail that follows it, the verse is not read by the limiting rule of klal u-frat (generalization and detail).",
+      "on_this_daf": "Rav Mari invokes it to explain why \"with earth\" does not restrict \"and cover it\" to earth alone, since the detail is needed to show what kind of covering is meant.",
+      "aliases": [
+        "klal hatzarich lifrat"
+      ],
+      "sections": ["s13"]
+    },
+    {
+      "term": "tumat ohel",
+      "hebrew": "טומאת אהל",
+      "sense": "corpse impurity conveyed under a roof",
+      "definition": "The impurity a corpse or its parts convey to people and objects under the same roof or overhang, without any contact.",
+      "on_this_daf": "Reddish plasma from a corpse conveys tent impurity only if a revi'it of actual blood is present. The corpse's other liquids are pure.",
+      "aliases": [
+        "tumat ohel",
+        "tent impurity"
+      ],
+      "sections": ["s2", "s3"]
+    },
+    {
+      "term": "av ha-tumah",
+      "hebrew": "אב הטומאה",
+      "sense": "a primary source of impurity",
+      "definition": "An item impure at the primary level, which renders what it touches impure in the first degree (rishon).",
+      "on_this_daf": "The Tevul Yom Mishnah treats liquids issuing from impure sources as rishon, except liquids that are themselves an av ha-tumah, such as the saliva, urine and semen of a zav.",
+      "aliases": [
+        "av hatumah"
+      ],
+      "sections": ["s4", "s5"]
+    },
+    {
+      "term": "zav",
+      "hebrew": "זב",
+      "sense": "a man impure through a genital discharge",
+      "definition": "A man with an abnormal genital discharge who becomes a primary source of impurity. Certain of his bodily fluids are themselves primary sources of impurity.",
+      "on_this_daf": "The Sages decreed impurity on all a zav's liquids because people do not keep away from him. They made no such decree for a corpse, from which people naturally separate.",
+      "aliases": [
+        "zav"
+      ],
+      "sections": ["s1", "s4", "s5"]
+    }
+  ]
+}
+```

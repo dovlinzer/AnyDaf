@@ -1,0 +1,252 @@
+{
+ "key": "kiddushin_6",
+ "tractate": "Kiddushin",
+ "sages": [
+  {
+   "name": "רבי יוסי",
+   "candidates": [
+    "rabbi-yose-b-chalafta",
+    "rabbi-yose-b-zevida"
+   ],
+   "lines": [
+    "6a.8",
+    "6a.11",
+    "6a.14"
+   ],
+   "count": 3,
+   "first": "6a.8",
+   "ambiguous": true,
+   "pick": "rabbi-yose-b-chalafta",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי יהודה",
+   "candidates": [
+    "rabbi-yehudah-b-ilai"
+   ],
+   "lines": [
+    "6a.8",
+    "6a.11"
+   ],
+   "count": 2,
+   "first": "6a.8",
+   "ambiguous": false,
+   "pick": "rabbi-yehudah-b-ilai",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "6a.8",
+    "6a.11",
+    "6a.14",
+    "6b.6",
+    "6b.14"
+   ],
+   "count": 5,
+   "first": "6a.8",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "שמואל",
+   "candidates": [
+    "shmuel-(amora)"
+   ],
+   "lines": [
+    "6a.8",
+    "6a.11",
+    "6a.14"
+   ],
+   "count": 3,
+   "first": "6a.8",
+   "ambiguous": false,
+   "pick": "shmuel-(amora)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אלעזר",
+   "candidates": [
+    "rabbi-elazar-b-pedat",
+    "rabbi-elazar-b-shamua"
+   ],
+   "lines": [
+    "6a.12"
+   ],
+   "count": 1,
+   "first": "6a.12",
+   "ambiguous": true,
+   "pick": "rabbi-elazar-b-shamua",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי אושעיא",
+   "candidates": [
+    "rabbi-oshaya"
+   ],
+   "lines": [
+    "6a.12"
+   ],
+   "count": 1,
+   "first": "6a.12",
+   "ambiguous": false,
+   "pick": "rabbi-oshaya",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אלעזר בר רבי שמעון",
+   "candidates": [
+    "rabbi-elazar-b-shimon"
+   ],
+   "lines": [
+    "6a.12"
+   ],
+   "count": 1,
+   "first": "6a.12",
+   "ambiguous": false,
+   "pick": "rabbi-elazar-b-shimon",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "6a.13",
+    "6b.7"
+   ],
+   "count": 2,
+   "first": "6a.13",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב יימר",
+   "candidates": [
+    "rav-yeimar"
+   ],
+   "lines": [
+    "6a.14"
+   ],
+   "count": 1,
+   "first": "6a.14",
+   "ambiguous": false,
+   "pick": "rav-yeimar",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב אשי",
+   "candidates": [
+    "rav-ashi"
+   ],
+   "lines": [
+    "6a.14",
+    "6b.3",
+    "6b.4",
+    "6b.5",
+    "6b.14"
+   ],
+   "count": 5,
+   "first": "6a.14",
+   "ambiguous": false,
+   "pick": "rav-ashi",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב הונא",
+   "candidates": [
+    "rav-huna"
+   ],
+   "lines": [
+    "6a.14",
+    "6b.14"
+   ],
+   "count": 2,
+   "first": "6a.14",
+   "ambiguous": false,
+   "pick": "rav-huna",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבינא",
+   "candidates": [
+    "ravina-(i)"
+   ],
+   "lines": [
+    "6b.3",
+    "6b.4"
+   ],
+   "count": 2,
+   "first": "6b.3",
+   "ambiguous": false,
+   "pick": "ravina-(i)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב נחמן",
+   "candidates": [
+    "rav-nachman-b-yaakov"
+   ],
+   "lines": [
+    "6b.5"
+   ],
+   "count": 1,
+   "first": "6b.5",
+   "ambiguous": false,
+   "pick": "rav-nachman-b-yaakov",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב חנין",
+   "candidates": [
+    "rebbi-hanin"
+   ],
+   "lines": [
+    "6b.5"
+   ],
+   "count": 1,
+   "first": "6b.5",
+   "ambiguous": false,
+   "pick": "rebbi-hanin",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבן שמעון בן גמליאל",
+   "candidates": [
+    "rabban-shimon-b-gamliel",
+    "rabban-shimon-b-gamliel-(ii)"
+   ],
+   "lines": [
+    "6b.6"
+   ],
+   "count": 1,
+   "first": "6b.6",
+   "ambiguous": true,
+   "pick": "rabban-shimon-b-gamliel-(ii)",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "6b.10",
+    "6b.12",
+    "6b.13",
+    "6b.14"
+   ],
+   "count": 4,
+   "first": "6b.10",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  }
+ ]
+}

@@ -1,0 +1,322 @@
+{
+  "daf": "Sanhedrin 6b",
+  "scope": {
+    "start": "6a: Rav Ashi's inference that peshara needs no kinyan, continuing directly from the previous daf's discussion of how many judges peshara requires",
+    "end": "6b: the open question of what Rabbi Yehoshua ben Korcha's 'mitzva livtzoa' actually requires of the judge"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Does Compromise (Peshara) Require a Kinyan?",
+      "amud": "6a",
+      "gist": "Rav Ashi infers from the judges-count debate that peshara needs no formal act of acquisition, but the Gemara rules that it does, and three judges remain necessary regardless.",
+      "bullets": [
+        {
+          "text": "Rav Ashi: from the very fact that some hold *bitzua* needs three judges, we may infer that *peshara* does not require a *kinyan* — otherwise two witness-judges plus a *kinyan* between the litigants would suffice.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "The Gemara concludes: nevertheless, the *halacha* is that *peshara* does require a *kinyan* to finalize its terms.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "Tosafot: three judges remain necessary even once a *kinyan* is made, because a *kinyan* enacted before an illegitimate panel would itself be a *kinyan* in error — the parties are committing to a genuine, responsible compromise, not an arbitrary result.",
+          "detail": 3,
+          "source": "shiur"
+        }
+      ],
+      "children": [],
+      "illustration": {
+        "caption": "Two litigants complete a kinyan to bind themselves to a peshara, while a panel of three judges is still required so that the agreement they are binding themselves to is a genuine, legitimate compromise (Sanhedrin 6a).",
+        "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two litigants complete a kinyan to finalize their peshara agreement, while a panel of three judges stands by, since Sanhedrin 6a-6b requires three judges for bitzua even when a kinyan is made.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"20\" width=\"420\" height=\"380\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"230\" y=\"55\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">The Kinyan</text><text x=\"230\" y=\"78\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#3A5692\">קניין</text><use href=\"#man\" x=\"90\" y=\"200\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"250\" y=\"200\" width=\"60\" height=\"120\" style=\"color:#5E7D4F\"/><rect x=\"175\" y=\"240\" width=\"60\" height=\"18\" rx=\"3\" fill=\"#C9A96E\"/><text x=\"230\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Litigants exchange a cloth</text><text x=\"230\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">to bind themselves to the peshara</text><rect x=\"460\" y=\"20\" width=\"420\" height=\"380\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"55\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">Three Judges</text><text x=\"670\" y=\"78\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#9A6212\">שלושה דיינים</text><rect x=\"560\" y=\"300\" width=\"230\" height=\"18\" fill=\"#8B6A4E\"/><use href=\"#sage\" x=\"540\" y=\"180\" width=\"56\" height=\"98\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"640\" y=\"170\" width=\"60\" height=\"105\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0\"/><use href=\"#sage\" x=\"740\" y=\"180\" width=\"56\" height=\"98\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><text x=\"670\" y=\"345\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#6B4A1A\">Still required, even with a kinyan</text><text x=\"670\" y=\"365\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">so the peshara is genuine, not arbitrary</text></svg>"
+      }
+    },
+    {
+      "id": "s2",
+      "title": "The Baraita on Bitzua: Three Judges, Gmar Din, and the Tannaitic Debate",
+      "amud": "6a–6b",
+      "gist": "A baraita equates bitzua with din for court size and bars it after the verdict, then a mnemonic introduces five tanna'im's positions on whether compromise is proper at all.",
+      "bullets": [
+        {
+          "text": "Baraita (*Tosefta*): just as *din* requires three judges, so too *bitzua* requires three.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "Once *gmar din* — the verdict — has been issued, *bitzua* is no longer permitted.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "The Gemara gives a mnemonic for the names of the *tanna'im* whose statements on *bitzua* and the term *botzea* follow.",
+          "detail": 3,
+          "source": "gemara"
+        }
+      ],
+      "children": [
+        {
+          "id": "s3",
+          "title": "R. Eliezer ben R. Yosei HaGelili: Compromise Is Forbidden",
+          "amud": "6b",
+          "gist": "Compromise perverts justice and praising it is tantamount to blasphemy; Moshe embodies strict judgment, and Rashi limits the prohibition to once a case has reached court.",
+          "bullets": [
+            {
+              "text": "It is forbidden to mediate (*assur livtzoa*); one who does so is a sinner, and one who praises the mediator is as one who blasphemes God — from \"*botzea berech ni'etz Hashem*\" (Tehillim 10:3).",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The judge must let the true judgment prevail at any cost — \"*yikov hadin et hahar*\", let the judgment pierce the mountain — since \"*ki hamishpat lElokim hu*\" (Devarim 1:17); this is Moshe's way.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Aharon, by contrast, was \"a lover of peace and a pursuer of peace\" who made peace between people (Malachi 2:6) — seemingly the very thing this position forbids.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Rashi resolves the tension: the prohibition applies only once the parties have come before the court seeking judgment; Aharon's peacemaking took place before disputes ever reached that stage.",
+              "detail": 2,
+              "source": "shiur"
+            }
+          ],
+          "children": [],
+          "illustration": {
+            "caption": "Moshe's unbending justice, \"let the judgment pierce the mountain,\" set against Aharon, who pursued peace before disputes ever reached the court (Sanhedrin 6b).",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Moshe's strict justice, \"let the judgment pierce the mountain,\" contrasted with Aharon, a lover and pursuer of peace who made peace between people before their disputes reached court.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"20\" width=\"420\" height=\"380\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"230\" y=\"55\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">Moshe</text><text x=\"230\" y=\"80\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#3A5692\">יקוב הדין את ההר</text><path d=\"M100 320 L230 130 L360 320 Z\" fill=\"#8E7F74\"/><path d=\"M230 130 L215 220 L245 240 L225 320\" fill=\"none\" stroke=\"#3A2A20\" stroke-width=\"6\" stroke-linecap=\"round\"/><text x=\"230\" y=\"360\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">The mountain is pierced</text><text x=\"230\" y=\"380\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">strict judgment yields to no obstacle</text><rect x=\"460\" y=\"20\" width=\"420\" height=\"380\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"670\" y=\"55\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#24592E\">Aharon</text><text x=\"670\" y=\"80\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#3C7446\">אוהב שלום ורודף שלום</text><use href=\"#man\" x=\"560\" y=\"200\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"700\" y=\"200\" width=\"60\" height=\"120\" style=\"color:#5E7D4F\"/><use href=\"#sage\" x=\"620\" y=\"175\" width=\"60\" height=\"105\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><text x=\"670\" y=\"360\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Peace made before litigation</text><text x=\"670\" y=\"380\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">not once the parties stand before a judge</text></svg>"
+          }
+        },
+        {
+          "id": "s4",
+          "title": "Other Readings of 'Botzea Berech Ni'etz Hashem'",
+          "amud": "6b",
+          "gist": "The same verse is applied to a thief who blesses over stolen challah, and to Yehuda's half-measure toward Yosef.",
+          "bullets": [
+            {
+              "text": "R. Eliezer: one who stole wheat, ground and baked it, and separated *challah* cannot truly recite a blessing over it — it is blasphemy, not blessing, since the mitzva comes through sin.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "R. Meir: the verse instead targets Yehuda's proposal about Yosef (\"*mah betza*...\"); praising Yehuda for merely selling Yosef, when he could have secured his full release, is itself \"blessing the *botzea*\".",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s5",
+          "title": "R. Yehoshua ben Korcha: Compromise Is a Mitzva",
+          "amud": "6b",
+          "gist": "A judgment that includes peace is precisely bitzua, since both sides accept the outcome.",
+          "bullets": [
+            {
+              "text": "It is a mitzva to mediate, from \"*emet umishpat shalom shiftu besha'areichem*\" (Zechariah 8:16): true peace and strict judgment do not naturally coexist, so the judgment that has peace within it must be *bitzua*.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "This is not a departure from justice but a form of it — both litigants accept the result.",
+              "detail": 3,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s6",
+          "title": "David's 'Mishpat U'Tzedakah': Two Readings of One Verse",
+          "amud": "6b",
+          "gist": "The same verse about David is read first as bitzua and then, to fit the forbidding view, as strict judgment plus a separate act of charity.",
+          "bullets": [
+            {
+              "text": "\"David executed *mishpat u'tzedakah* to all his people\" (II Shmuel 8:15) is read as describing *bitzua* — the judgment that has *tzedakah* within it.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "An alternative reading realigns with R. Eliezer ben R. Yosei HaGelili's forbidding view: David rendered strict judgment, and separately paid the losing party from his own pocket if that party was poor — two distinct acts.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Difficulty: if the personal payment only applied to a poor loser, why does the verse say \"to all his people\"? Rebbi answers: even without any payment, the ruling itself is *tzedakah* for the loser, since being compelled to return stolen property benefits him by removing him from wrongful possession.",
+              "detail": 3,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s7",
+          "title": "R. Shimon ben Menasya: Only Before the Verdict's Direction Is Known",
+          "amud": "6b",
+          "gist": "Compromise may be suggested before the judge senses which way the case is leaning, but not once it is clear.",
+          "bullets": [
+            {
+              "text": "Before hearing the litigants, or after hearing them but before the judgment's direction is clear, a judge may tell them to go and compromise.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Once the direction is clear, he may no longer do so — from \"*poter mayim reshit madon*\" (Mishlei 17:14): before the strife is revealed you may cast it off; once revealed, you may not.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        }
+      ],
+      "chart": {
+        "caption": "Three tannaitic positions on whether judicial compromise (bitzua) is proper",
+        "columns": ["Position", "View on bitzua", "Basis", "When permitted"],
+        "rows": [
+          ["R. Eliezer ben R. Yosei HaGelili", "Forbidden entirely once parties reach court", "\"*botzea berech ni'etz Hashem*\"; \"*yikov hadin et hahar*\"", "Never, once the case comes before judges (per Rashi)"],
+          ["R. Yehoshua ben Korcha", "A mitzva to offer", "\"*emet umishpat shalom shiftu*\"; David's *mishpat u'tzedakah*", "Any time up to *gmar din*"],
+          ["R. Shimon ben Menasya", "Permitted (not forbidden or obligatory)", "\"*poter mayim reshit madon*\"", "Only before the judgment's direction is clear"]
+        ]
+      },
+      "illustration": {
+        "caption": "The three tannaitic camps on compromise: forbidden, a mitzva, or permitted only before the verdict's direction is known (Sanhedrin 6b).",
+        "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three tannaitic positions on judicial compromise: Rabbi Eliezer ben Rabbi Yosei HaGelili forbids it, Rabbi Yehoshua ben Korcha calls it a mitzva, and Rabbi Shimon ben Menasya permits it only before the judgment's direction is known.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"16\" y=\"16\" width=\"277\" height=\"428\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"154\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">R. Eliezer ben</text><text x=\"154\" y=\"74\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">R. Yosei HaGelili</text><use href=\"#sage\" x=\"197\" y=\"110\" width=\"56\" height=\"98\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><path d=\"M60 320 L110 370 M110 320 L60 370\" stroke=\"#8A2A2A\" stroke-width=\"8\" stroke-linecap=\"round\"/><text x=\"154\" y=\"410\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Bitzua is forbidden</text><text x=\"154\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">once parties come before the court</text><rect x=\"311\" y=\"16\" width=\"277\" height=\"428\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"449\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">R. Yehoshua</text><text x=\"449\" y=\"74\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">ben Korcha</text><use href=\"#sage\" x=\"491\" y=\"110\" width=\"56\" height=\"98\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0\"/><path d=\"M355 340 l16 20 l30 -40\" stroke=\"#2E7D32\" stroke-width=\"8\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"449\" y=\"410\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Bitzua is a mitzva</text><text x=\"449\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">a judgment with peace within it</text><rect x=\"606\" y=\"16\" width=\"277\" height=\"428\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"744\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#24592E\">R. Shimon</text><text x=\"744\" y=\"74\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#24592E\">ben Menasya</text><use href=\"#sage\" x=\"786\" y=\"110\" width=\"56\" height=\"98\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><circle cx=\"680\" cy=\"345\" r=\"26\" fill=\"none\" stroke=\"#24592E\" stroke-width=\"5\"/><line x1=\"680\" y1=\"345\" x2=\"680\" y2=\"327\" stroke=\"#24592E\" stroke-width=\"4\" stroke-linecap=\"round\"/><line x1=\"680\" y1=\"345\" x2=\"694\" y2=\"352\" stroke=\"#24592E\" stroke-width=\"4\" stroke-linecap=\"round\"/><text x=\"744\" y=\"410\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Only before it is clear</text><text x=\"744\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">which way the judgment leans</text></svg>"
+      }
+    },
+    {
+      "id": "s8",
+      "title": "Lo Taguru Mipnei Ish: Recusal and the Duty to Speak",
+      "amud": "6b",
+      "gist": "The same verse that bars a judge from stepping away once the verdict is clear also obligates students, witnesses and judges never to withhold the truth out of fear.",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s9",
+          "title": "Reish Lakish: When a Judge May Recuse Himself",
+          "amud": "6b",
+          "gist": "A judge may decline a case between a gentle and a firm litigant early on, but not once he senses which way the judgment leans.",
+          "bullets": [
+            {
+              "text": "Two litigants come before a judge, one *rach* (gentle) and one *kasheh* (firm); the judge fears that if he rules against the firm one, he will be pursued afterward.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Before hearing them, or after hearing them but before the judgment's direction is clear, the judge may say, \"I will not take this case.\"",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Once he knows where the judgment leans, he may no longer step away — \"*lo taguru mipnei ish, ki hamishpat lElokim hu*\" (Devarim 1:17): fear of a person no longer justifies withdrawal.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": [],
+          "returns_to": [
+            {
+              "id": "s7",
+              "note": "Applies the same before/after-clarity timing that R. Shimon ben Menasya set for suggesting compromise, now to a judge's own recusal"
+            }
+          ],
+          "illustration": {
+            "caption": "A judge between a gentle litigant and a firm one may recuse himself before hearing their claims or before the judgment's direction is clear, but not once it is clear (Sanhedrin 6b).",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A judge between a gentle litigant and a firm one; he may recuse himself before hearing their claims or before the judgment's direction is clear, but not once it is clear, per lo taguru mipnei ish.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"120\" y=\"140\" width=\"60\" height=\"120\" style=\"color:#5E7D4F\"/><text x=\"150\" y=\"280\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Rach (gentle)</text><use href=\"#sage\" x=\"400\" y=\"110\" width=\"70\" height=\"123\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0\"/><text x=\"435\" y=\"255\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">The Judge</text><use href=\"#man\" x=\"700\" y=\"140\" width=\"60\" height=\"120\" style=\"color:#8A2A2A\"/><text x=\"730\" y=\"280\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Kasheh (firm)</text><line x1=\"60\" y1=\"330\" x2=\"840\" y2=\"330\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><rect x=\"60\" y=\"345\" width=\"230\" height=\"46\" rx=\"10\" fill=\"#E4EFE4\"/><text x=\"175\" y=\"365\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#24592E\">Before hearing claims</text><text x=\"175\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#24592E\">May recuse</text><rect x=\"335\" y=\"345\" width=\"230\" height=\"46\" rx=\"10\" fill=\"#E4EFE4\"/><text x=\"450\" y=\"365\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#24592E\">Heard, direction unclear</text><text x=\"450\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#24592E\">May recuse</text><rect x=\"610\" y=\"345\" width=\"230\" height=\"46\" rx=\"10\" fill=\"#F3E6D8\"/><text x=\"725\" y=\"365\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#8A2A2A\">Direction now clear</text><text x=\"725\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#8A2A2A\">May not recuse - lo taguru</text></svg>"
+          }
+        },
+        {
+          "id": "s10",
+          "title": "Extending the Verse: Students, Witnesses, and Judges",
+          "amud": "6b",
+          "gist": "The same 'lo taguru' obligates a silent student to speak, and reminds witnesses and judges that they stand before God.",
+          "bullets": [
+            {
+              "text": "R. Yehoshua ben Korcha: a student sitting before his teacher who sees merit for the poor party or fault in the rich one must not stay silent — from \"*lo taguru mipnei ish*\": fear neither teacher nor powerful litigant.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "R. Chanin: \"do not suppress your statement before any man\" — the same verse, read as a general obligation not to withhold relevant words.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Witnesses must know whom they testify for, before whom, and Who will ultimately exact payment — \"the two men... shall stand before Hashem\" (Devarim 19:17).",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Judges likewise must know whom they judge, before Whom, and Who exacts from them — \"*Elokim nitzav ba'adat El*\" (Tehillim 82:1), and Yehoshafat's charge: \"you judge not for man but for Hashem.\"",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Lest this awareness paralyze a judge, the assurance: \"He is with you in giving judgment\" — a judge is accountable only for what his own eyes see.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": [],
+          "illustration": {
+            "caption": "Witnesses stand before the judges, and the judges before God: \"Elokim nitzav ba'adat El,\" God stands in the congregation of judges (Sanhedrin 6b).",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Witnesses stand before the judges, and the judges before God: Elokim nitzav ba'adat El, God stands in the congregation of judges.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><path d=\"M400 20 L420 70 M450 15 L450 70 M500 20 L480 70\" stroke=\"#F3C94B\" stroke-width=\"6\" stroke-linecap=\"round\" opacity=\"0.8\"/><text x=\"450\" y=\"100\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" fill=\"#5A4A3A\">אֱלֹהִים נִצָּב בַּעֲדַת אֵל</text><rect x=\"260\" y=\"150\" width=\"380\" height=\"26\" fill=\"#8B6A4E\"/><use href=\"#sage\" x=\"290\" y=\"70\" width=\"60\" height=\"105\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"390\" y=\"60\" width=\"64\" height=\"112\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0\"/><use href=\"#sage\" x=\"500\" y=\"70\" width=\"60\" height=\"105\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><text x=\"450\" y=\"200\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">The judges</text><use href=\"#man\" x=\"200\" y=\"250\" width=\"50\" height=\"100\" style=\"color:#5E7D4F\"/><use href=\"#woman\" x=\"640\" y=\"255\" width=\"50\" height=\"100\" style=\"color:#A8436E\"/><text x=\"225\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Witnesses</text><text x=\"665\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">stand before them</text><text x=\"450\" y=\"405\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Both must know whom, before whom, and Who will exact payment</text></svg>"
+          }
+        }
+      ],
+      "chart": {
+        "caption": "Timing of the judge's own withdrawal versus his suggesting compromise to the litigants",
+        "columns": ["", "Before hearing claims", "Heard, direction unclear", "Heard, direction clear"],
+        "rows": [
+          ["R. Shimon ben Menasya (suggesting compromise)", "May direct them to compromise", "May direct them to compromise", "May not direct them to compromise"],
+          ["Reish Lakish (judge recusing himself)", "May recuse from the case", "May recuse from the case", "May not recuse — *lo taguru mipnei ish*"]
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "title": "Defining Gmar Din and Ruling the Halacha on Bitzua",
+      "amud": "6b",
+      "gist": "The Gemara pins down the moment bitzua becomes forbidden, rules like R. Yehoshua ben Korcha, and then questions what his 'mitzva' actually requires, given Rav Huna's evenhanded practice.",
+      "bullets": [
+        {
+          "text": "Rav Yehuda citing Rav: *gmar din* is when the judges declare, \"So-and-so, you are liable; so-and-so, you are exempt\" — at that point *bitzua* is barred under every view.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "Rav rules the *halacha* follows R. Yehoshua ben Korcha: it is a mitzva to mediate.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "The Gemara challenges this from Rav Huna's own practice: as Rav's student, he would ask litigants, \"Do you want *din*, or do you want *pshara*?\" — presenting both as equal options, not urging compromise.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "The Gemara then asks: what, then, does R. Yehoshua ben Korcha mean by calling *bitzua* a mitzva?",
+          "detail": 2,
+          "source": "gemara"
+        }
+      ],
+      "children": [],
+      "continues": "Continues on 7a: the Gemara answers that the mitzva is to offer din and pshara as equal options, and distinguishes R. Yehoshua ben Korcha from the tanna kamma and from R. Shimon ben Menasya on timing; the sugya then moves to R. Tanchum bar Chanilai's reading of the botzea verse as referring to Aharon's compromise at the Golden Calf, other tanna'im's reading of 'poter mayim' as Torah study, Shmuel's folk sayings matched to verses, Rav Huna's teaching on the contracting Shechina, and the sources for the meaning of 'lo taguru'."
+    }
+  ],
+  "judgment_calls": [
+    "Started the outline at Rav Ashi's kinyan inference (6a), which is textually on the previous amud, because the shiur's own first section opens there and it continues directly into the baraita that crosses onto 6b; an alternative would have been to start strictly at 6a.10 where the new Tosefta citation begins.",
+    "Grouped the opening baraita (three judges for bitzua; bar after gmar din) as the header of one large section together with the five tanna'im's positions, rather than as its own top-level section, since Sefaria presents them as one continuous Tosefta citation.",
+    "Placed the challah/Yehuda readings of 'botzea berech ni'etz Hashem' as their own child rather than folding them into R. Eliezer ben R. Yosei HaGelili's section, since one is said by R. Meir and both are independent homiletical readings rather than elaborations of his forbidding ruling.",
+    "Merged Reish Lakish's recusal ruling and the extension to students/witnesses/judges into one top-level section (both expound 'lo taguru mipnei ish'), rather than treating recusal as a stand-alone topic, since the verse-driven continuation ties them together.",
+    "Stopped the outline at the open question 'what does R. Yehoshua ben Korcha's mitzva mean?' and used continues, rather than importing the answer given in the 'next daf' context, since that answer is textually on 7a."
+  ],
+  "coverage_notes": [
+    "The shiur's later sections (Rabbi Tanchum bar Chanilai on the Golden Calf, the 'water = Torah' reading of poter mayim, Shmuel's folk sayings matched to verses, Rav Huna's teaching on the contracting Shechina, and the three sources for 'lo taguru') fall on 7a per the given Sefaria line numbers and are outside this daf's scope; noted only in the continues field.",
+    "The essay's 'Peshara Summary' material (three peshara views collapsing to two; two as witnesses) was already covered in the previous daf's tail and is not repeated here as a separate section.",
+    "The essay names 'Rabbi Chanina' for the teaching 'do not withhold your words'; the provided Sefaria text has 'Rabbi Ḥanin'. Followed the text.",
+    "The essay notes an alternate attribution 'Rabbi Yehoshua ben Lakish' for the recusal ruling; the provided Sefaria text has only 'Reish Lakish'. Followed the text.",
+    "Tosafot's explanation for why three judges remain necessary despite a kinyan is rishonic material introduced by the shiur; marked as source 'shiur' rather than attributed to the Gemara itself."
+  ]
+}

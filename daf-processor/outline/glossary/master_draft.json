@@ -1,0 +1,3140 @@
+{
+ "source_tag": "opus55",
+ "entries": [
+  {
+   "id": "asukin_beoto_inyan",
+   "term": "asukin be'oto inyan",
+   "hebrew": "עסוקין באותו ענין",
+   "variants": [
+    "asukin be'oto inyan",
+    "asukin be-oto inyan",
+    "continuous engagement",
+    "continuously engaged",
+    "continuously engaged in the matter"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "continuous engagement between writing and signing",
+     "candidates": [
+      {
+       "daf": "gittin_18",
+       "source": "opus55",
+       "definition": "The rule that a document written by day and signed at night is still valid if the scribe and witnesses stayed continuously occupied with that matter in between.",
+       "on_this_daf": "It explains why Rav said nothing when R. Chiya bar Rav's ketubah was signed at night, so his silence does not prove that he agrees with Shmuel."
+      },
+      {
+       "daf": "gittin_18_textonly",
+       "source": "opus55",
+       "definition": "A document written by day is normally invalid if it is signed that night. It remains valid if the scribe and witnesses were continuously occupied with it from the writing until the signing.",
+       "on_this_daf": "This explains Rav's silence when R. Chiyya bar Rav's ketubah was signed at night, so his silence does not show that he agrees with Shmuel. The source is a baraita of R. Elazar bar R. Tzadok."
+      }
+     ],
+     "dafim": [
+      "gittin_18",
+      "gittin_18_textonly"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "get_yashan",
+   "term": "get yashan",
+   "hebrew": "גט ישן",
+   "variants": [
+    "get yashan",
+    "outdated get"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": true,
+   "senses": [
+    {
+     "sense": "a get after which husband and wife were secluded",
+     "candidates": [
+      {
+       "daf": "gittin_18",
+       "source": "opus55",
+       "definition": "A get after whose writing the husband was secluded with his wife. The Sages disqualify it out of concern that he reconsidered, or that people will suspect a child was conceived after the writing.",
+       "on_this_daf": "Both baraitot on the three-month wait dismiss the get yashan concern, because the husband was not secluded with her while the get was delayed."
+      }
+     ],
+     "dafim": [
+      "gittin_18"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    },
+    {
+     "sense": "an outdated bill of divorce",
+     "candidates": [
+      {
+       "daf": "gittin_18_textonly",
+       "source": "opus55",
+       "definition": "A get written while the couple remained together, after which the husband was secluded with his wife before giving it. The Sages disqualify such a get because its date could mislead people about the timing of a child born afterward.",
+       "on_this_daf": "In both baraitot a delayed get is not considered outdated, because the husband was not secluded with his wife during the delay."
+      }
+     ],
+     "dafim": [
+      "gittin_18_textonly"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "havchanah",
+   "term": "havchanah",
+   "hebrew": "הבחנה",
+   "variants": [
+    "Three-Month Wait",
+    "havchanah",
+    "three months",
+    "three-month question",
+    "three-month wait"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "three-month wait before remarriage",
+     "candidates": [
+      {
+       "daf": "gittin_18",
+       "source": "opus55",
+       "definition": "The rabbinic requirement that a divorcee or widow wait three months before remarrying. The wait prevents doubt about the paternity of a child born soon after.",
+       "on_this_daf": "The dispute over whether the three months run from the writing or the giving of the get, with a baraita supporting each side."
+      },
+      {
+       "daf": "gittin_18_textonly",
+       "source": "opus55",
+       "definition": "The rabbinic rule that a divorcée or widow waits three months before remarrying. This ensures that the paternity of any child she bears will not be in doubt.",
+       "on_this_daf": "Rav counts the three months from the giving of the get and Shmuel from its writing. Each is supported by a baraita, and the halakha follows Shmuel."
+      }
+     ],
+     "dafim": [
+      "gittin_18",
+      "gittin_18_textonly"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kinyan_chatzer",
+   "term": "kinyan chatzer",
+   "hebrew": "קניין חצר",
+   "variants": [
+    "chatzer",
+    "chatzerah",
+    "courtyard acquisition",
+    "kinyan chatzer"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "kinyan_kesef",
+     "name": "Kinyan Kesef (Acquisition by Money)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "acquisition through one's property",
+     "candidates": [
+      {
+       "daf": "bava_batra_84",
+       "source": "opus55",
+       "definition": "A person's property acquires for him items that are placed in it, as though his own hand had taken them.",
+       "on_this_daf": "The perspicacious buyer rents the spot where the produce lies, so that the place becomes his and acquires the produce for him before the seller can retract."
+      },
+      {
+       "daf": "bava_metzia_11",
+       "source": "opus55",
+       "definition": "A person's courtyard or other property acquires items that come to rest in it on his behalf. It is debated whether the courtyard works as an extension of his hand (yad) or as his agent (shaliach).",
+       "on_this_daf": "Everyone agrees that a woman's courtyard counts as her hand for a get. The Gemara debates whether that law extends to found items and to a minor boy, and then applies courtyard acquisition to a field, to a forgotten sheaf and to Rabban Gamliel's tithes."
+      }
+     ],
+     "dafim": [
+      "bava_batra_84",
+      "bava_metzia_11"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "mishum_tenai",
+   "term": "mishum tenai",
+   "hebrew": "משום תנאי",
+   "variants": [
+    "mishum tenai",
+    "stipulation",
+    "stipulation view"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "meth_tnai_kaful",
+     "name": "Tenai Kaful (Double Condition)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "signing to fulfill a stipulation rather than as witness",
+     "candidates": [
+      {
+       "daf": "gittin_18",
+       "source": "opus55",
+       "definition": "A signature on a document that serves only to fulfill a condition the principal set, not as testimony. Rules that govern witnesses do not apply to it.",
+       "on_this_daf": "When a husband tells ten men that all of them should write a get, R. Yochanan holds that two sign as witnesses and the rest by stipulation, while Reish Lakish treats all ten as witnesses; this matters for delayed signatures and for a disqualified signer."
+      },
+      {
+       "daf": "gittin_18_textonly",
+       "source": "opus55",
+       "definition": "When a husband makes a get depend on additional people signing it, those extra signers may be only fulfilling his condition, not serving as witnesses. Only two of them then serve as the legal witnesses.",
+       "on_this_daf": "R. Yochanan holds that when ten are told \"all of you write,\" only two sign as witnesses and the rest sign for the stipulation, while Reish Lakish treats all ten as witnesses. They differ on late signers and on a relative among the ten."
+      }
+     ],
+     "dafim": [
+      "gittin_18",
+      "gittin_18_textonly"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "shemittat_kesafim",
+   "term": "shemittat kesafim",
+   "hebrew": "שמיטה",
+   "variants": [
+    "Sabbatical Year",
+    "Shemittah",
+    "shemittah",
+    "shemittat kesafim"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "shemitat_kesafim",
+     "name": "Shemitat Kesafim (Loan Cancellation in Sabbatical Year)",
+     "score": 6
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "cancellation of debts in the Sabbatical Year",
+     "candidates": [
+      {
+       "daf": "gittin_18",
+       "source": "opus55",
+       "definition": "The Torah law that outstanding loans are cancelled at the end of the Sabbatical Year. Obligations that are not loans, such as an uncollected ketubah, are not affected.",
+       "on_this_daf": "The Gemara asks at what point a widow's ketubah becomes an ordinary debt that shemittah cancels."
+      },
+      {
+       "daf": "gittin_18_textonly",
+       "source": "opus55",
+       "definition": "The Torah law that outstanding loans are canceled at the close of the Sabbatical Year. Obligations that are not yet loans are not affected.",
+       "on_this_daf": "Rav and Shmuel dispute at what point a widow's ketubah becomes a debt that the Sabbatical Year cancels."
+      }
+     ],
+     "dafim": [
+      "gittin_18",
+      "gittin_18_textonly"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "zav",
+   "term": "zav",
+   "hebrew": "זב",
+   "variants": [
+    "zav",
+    "zivah"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a man impure through a genital discharge",
+     "candidates": [
+      {
+       "daf": "hullin_88",
+       "source": "opus55",
+       "definition": "A man with an abnormal genital discharge who becomes a primary source of impurity. Certain of his bodily fluids are themselves primary sources of impurity.",
+       "on_this_daf": "The Sages decreed impurity on all a zav's liquids because people do not keep away from him. They made no such decree for a corpse, from which people naturally separate."
+      },
+      {
+       "daf": "kiddushin_2",
+       "source": "opus55",
+       "definition": "A man who has a gonorrhea-like discharge (zivah) and becomes a source of impurity. A discharge caused by an external factor does not render him a zav, so he is examined for such causes.",
+       "on_this_daf": "The mishnah \"one examines a zav in seven ways\" is contrasted with this mishnah's feminine wording and its use of \"ways.\" The Gemara explains that excessive eating and drinking are ways that lead to zivah."
+      }
+     ],
+     "dafim": [
+      "hullin_88",
+      "kiddushin_2"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "ad_she_tichleh_regel_min_ha_shuk",
+   "term": "ad she-tichleh regel min ha-shuk",
+   "hebrew": "עד שתכלה רגל מן השוק",
+   "variants": [
+    "ad she-tichleh regel min ha-shuk",
+    "until traffic ceases",
+    "until traffic in the marketplace ceases"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "time span of the Hanukkah mitzvah",
+     "candidates": [
+      {
+       "daf": "shabbat_21",
+       "source": "opus55",
+       "definition": "The period from sunset until people stop passing through the marketplace. It defines the time for kindling Hanukkah lights and how long they must be able to burn.",
+       "on_this_daf": "It is read either as the window for lighting or as the amount of oil required, and R. Yochanan dates its end by the departure of the Tadmor wood-sellers."
+      }
+     ],
+     "dafim": [
+      "shabbat_21"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "afar",
+   "term": "afar",
+   "hebrew": "עפר",
+   "variants": [
+    "afar",
+    "earth"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "earth as the required covering material",
+     "candidates": [
+      {
+       "daf": "hullin_88",
+       "source": "opus55",
+       "definition": "Earth or dust. In the laws of covering the blood, it is the material the verse \"cover it with earth\" requires, which defines what may be used.",
+       "on_this_daf": "Materials qualify either by being a kind of earth in which plants grow or by being called afar in Scripture, such as ashes and gold dust. Beit Shammai accept only actual earth."
+      }
+     ],
+     "dafim": [
+      "hullin_88"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "arba_amot_shel_tefillah",
+   "term": "arba amot shel tefillah",
+   "hebrew": "ארבע אמות של תפלה",
+   "variants": [
+    "arba amot shel tefillah",
+    "four cubits"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "arba_minim",
+     "name": "Arba Minim (Four Species)",
+     "score": 3
+    },
+    {
+     "id": "tefillah",
+     "name": "Tefillah (Prayer)",
+     "score": 3
+    },
+    {
+     "id": "kos_shel_berachah",
+     "name": "Kos Shel Berachah (Cup of Blessing)",
+     "score": 2
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the space around one who is praying",
+     "candidates": [
+      {
+       "daf": "berakhot_31b",
+       "source": "opus55",
+       "definition": "The four-cubit area around a person reciting the Amidah, within which others are forbidden to sit.",
+       "on_this_daf": "R. Yehoshua ben Levi derives the prohibition from \"who stood here with you\", which shows that Eli stood beside Hannah while she prayed."
+      }
+     ],
+     "dafim": [
+      "berakhot_31b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "av_ha_tumah",
+   "term": "av ha-tumah",
+   "hebrew": "אב הטומאה",
+   "variants": [
+    "av ha-tumah",
+    "av hatumah"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "avot_nezikin_tumah",
+     "name": "Avot HaTumah (Primary Sources of Impurity)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a primary source of impurity",
+     "candidates": [
+      {
+       "daf": "hullin_88",
+       "source": "opus55",
+       "definition": "An item impure at the primary level, which renders what it touches impure in the first degree (rishon).",
+       "on_this_daf": "The Tevul Yom Mishnah treats liquids issuing from impure sources as rishon, except liquids that are themselves an av ha-tumah, such as the saliva, urine and semen of a zav."
+      }
+     ],
+     "dafim": [
+      "hullin_88"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "baal_mum",
+   "term": "ba'al mum",
+   "hebrew": "בעל מום",
+   "variants": [
+    "ba'al mum"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "baal_mum",
+     "name": "Baal Mum (Blemished Priest)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a blemished priest barred from service",
+     "candidates": [
+      {
+       "daf": "yevamot_33",
+       "source": "opus55",
+       "definition": "A kohen with a physical blemish. He may eat sacred food but is forbidden to perform the Temple service.",
+       "on_this_daf": "His case is paired with tumah: his becoming tamei adds a prohibition to his service, or the two arise together when he cuts off his finger with a tamei knife."
+      }
+     ],
+     "dafim": [
+      "yevamot_33"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "biah",
+   "term": "bi'ah",
+   "hebrew": "ביאה",
+   "variants": [
+    "Bi'ah",
+    "bi'ah",
+    "intercourse"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "betrothal through intercourse",
+     "candidates": [
+      {
+       "daf": "kiddushin_2",
+       "source": "opus55",
+       "definition": "One of the three means of betrothal: a single act of intercourse performed before witnesses with the intent to effect kiddushin. For a yevamah, intercourse with the yavam is the only way he acquires her.",
+       "on_this_daf": "It explains the mishnah's choice of the word \"ways,\" since Mishlei calls intercourse a derech. Money and document are also said to serve the purpose of intercourse."
+      }
+     ],
+     "dafim": [
+      "kiddushin_2"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "bitzua",
+   "term": "bitzua",
+   "hebrew": "ביצוע",
+   "variants": [
+    "bitzua",
+    "compromise",
+    "mediate",
+    "mediation",
+    "peshara"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "judicial compromise between litigants",
+     "candidates": [
+      {
+       "daf": "sanhedrin_6b",
+       "source": "opus55",
+       "definition": "Settling a monetary dispute by a compromise both parties accept, instead of a strict ruling according to Torah law. It is also called peshara.",
+       "on_this_daf": "The Tosefta records four views on compromise: it requires three judges and is barred after the verdict; it is forbidden; it is a mitzva; or it is allowed only until the judge knows where the judgment leans. Rav rules that it is a mitzva, but Rav Huna's practice of offering litigants a choice raises the question of what \"mitzva\" means."
+      }
+     ],
+     "dafim": [
+      "sanhedrin_6b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "chalifin",
+   "term": "chalifin",
+   "hebrew": "חליפין",
+   "variants": [
+    "chalifin"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "acquisition by symbolic exchange",
+     "candidates": [
+      {
+       "daf": "bava_metzia_11",
+       "source": "opus55",
+       "definition": "A mode of acquisition in which the buyer gives an object, typically a cloth, to the seller, and in return the seller's item passes to the buyer.",
+       "on_this_daf": "Rava asks why Rabban Gamliel did not simply use a cloth. The Gemara answers that chalifin is a form of sale and so is unsuitable for tithes, which the Torah requires to be given."
+      }
+     ],
+     "dafim": [
+      "bava_metzia_11"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "chatzer_ha_mishtameret",
+   "term": "chatzer ha-mishtameret",
+   "hebrew": "חצר המשתמרת",
+   "variants": [
+    "chatzer ha-mishtameret",
+    "chatzer hamishtameret",
+    "secured courtyard",
+    "unsecured courtyard"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "secured versus unsecured courtyard",
+     "candidates": [
+      {
+       "daf": "bava_metzia_11",
+       "source": "opus55",
+       "definition": "A secured courtyard is property where items stay safely without the owner watching over them. Only such a courtyard acquires for its owner in his absence; an unsecured one, such as an open field, is more limited.",
+       "on_this_daf": "The Gemara answers the principle that a courtyard acquires without the owner's knowledge by limiting it to a secured courtyard. An open field is unsecured and acquires only when the owner stands beside it."
+      }
+     ],
+     "dafim": [
+      "bava_metzia_11"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "chazarah",
+   "term": "chazarah",
+   "hebrew": "חזרה",
+   "variants": [
+    "Chazarah",
+    "chazarah",
+    "returning"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "returning a pot to the stove on Shabbat",
+     "candidates": [
+      {
+       "daf": "shabbat_38",
+       "source": "opus55",
+       "definition": "Putting a pot that was taken off the fire back onto a heat source on Shabbat. This is permitted only under stricter conditions than leaving the pot there.",
+       "on_this_daf": "Rav Sheshet permits it even on Shabbat. The amora'im dispute whether a pot set down on the ground may be returned, and how the owner's original intention to return it affects this."
+      }
+     ],
+     "dafim": [
+      "shabbat_38"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "chinuch",
+   "term": "chinuch",
+   "hebrew": "חינוך",
+   "variants": [
+    "chinuch"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "training a minor in mitzvot",
+     "candidates": [
+      {
+       "daf": "chagigah_6",
+       "source": "author example",
+       "definition": "The rabbinic obligation to train a child in the mitzvot he will owe as an adult, starting once he is capable of performing them.",
+       "on_this_daf": "Abaye: chinuch follows what an adult in the child's present condition would owe, so a lame or blind child who may yet heal is exempt now."
+      }
+     ],
+     "dafim": [
+      "chagigah_6"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "daat_acheret_makneh",
+   "term": "da'at acheret makneh",
+   "hebrew": "דעת אחרת מקנה",
+   "variants": [
+    "When Another Mind Transfers Ownership",
+    "another mind",
+    "da'at acheret",
+    "da'at acheret makneh"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "transfer by a giver's intent",
+     "candidates": [
+      {
+       "daf": "bava_metzia_11",
+       "source": "opus55",
+       "definition": "Acquisition in which another person actively transfers ownership, as opposed to acquiring an ownerless item. The giver's intent can make a weaker act of acquisition sufficient.",
+       "on_this_daf": "Rav Pappa uses it to exempt Rabban Gamliel's transfer from the standing-beside requirement, citing the gift of animals as support. Rav Shimi challenges him from a get, and a kal vachomer defeats Rav Pappa's answer."
+      }
+     ],
+     "dafim": [
+      "bava_metzia_11"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "dam_ha_nefesh",
+   "term": "dam ha-nefesh",
+   "hebrew": "דם הנפש",
+   "variants": [
+    "blood of the soul",
+    "dam ha-nefesh",
+    "dam hanefesh"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the life-blood that flows at slaughter",
+     "candidates": [
+      {
+       "daf": "hullin_88",
+       "source": "opus55",
+       "definition": "The main flow of blood that pours out as the animal dies from slaughter. It is distinguished from blood that spurts aside or clings to the knife or the neck.",
+       "on_this_daf": "Rabban Shimon ben Gamliel reads \"its blood\" as the blood of the soul, so once it is covered one is exempt from covering the rest. The Rabbis require all the blood and R. Yehuda even part of it."
+      }
+     ],
+     "dafim": [
+      "hullin_88"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "dam_tohar",
+   "term": "dam tohar",
+   "hebrew": "דם טוהר",
+   "variants": [
+    "dam tohar",
+    "days of pure blood"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the postpartum days of pure blood",
+     "candidates": [
+      {
+       "daf": "niddah_60",
+       "source": "opus55",
+       "definition": "The period after childbirth and its initial impurity during which, by Torah law, blood a woman sees does not make her impure.",
+       "on_this_daf": "Attributing a stain to a woman in these days costs her nothing, so all agree it is allowed. Ravina reads the baraita's \"woman keeping days\" as such a woman."
+      }
+     ],
+     "dafim": [
+      "niddah_60"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "dan_lechaf_zechut",
+   "term": "dan lechaf zechut",
+   "hebrew": "דן לכף זכות",
+   "variants": [
+    "dan lechaf zechut",
+    "judge her favorably",
+    "judge others favorably",
+    "lechaf zechut"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "eth_dan_lekaf_zechut",
+     "name": "Judging Others Favorably (Dan leKaf Zechut)",
+     "score": 2
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "judging others favorably",
+     "candidates": [
+      {
+       "daf": "berakhot_31b",
+       "source": "opus55",
+       "definition": "The obligation to interpret another person's ambiguous conduct in a favorable light and not to assume wrongdoing.",
+       "on_this_daf": "In one reading, Hannah reproaches Eli for judging her guilty (lechaf chovah) and not innocent, when he should have seen she was a woman of distressed spirit."
+      }
+     ],
+     "dafim": [
+      "berakhot_31b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "dibrah_torah_kilshon_benei_adam",
+   "term": "dibrah Torah kilshon benei adam",
+   "hebrew": "דברה תורה כלשון בני אדם",
+   "variants": [
+    "Dibrah Torah kilshon benei adam",
+    "dibrah Torah kilshon benei adam"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "meth_dibrah_torah",
+     "name": "Dibrah Torah k'Lshon Bnei Adam",
+     "score": 10
+    },
+    {
+     "id": "sefer_torah",
+     "name": "Sefer Torah (Torah Scroll)",
+     "score": 3
+    },
+    {
+     "id": "torah_min_hashamayim",
+     "name": "Torah from Heaven",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the Torah speaks in ordinary human idiom",
+     "candidates": [
+      {
+       "daf": "berakhot_31b",
+       "source": "opus55",
+       "definition": "The interpretive principle that the Torah uses ordinary human speech patterns, such as doubled verbs, so that no separate law is derived from such repetitions.",
+       "on_this_daf": "For R. Akiva, the doubled verb im ra'o tireh is ordinary speech and teaches nothing, so it cannot be read as Hannah's sotah threat."
+      }
+     ],
+     "dafim": [
+      "berakhot_31b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "ein_lahem_shiur",
+   "term": "ein lahem shiur",
+   "hebrew": "אין להם שיעור",
+   "variants": [
+    "ein lahem shiur",
+    "no fixed measure",
+    "no measure"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "mitzvot with no fixed measure",
+     "candidates": [
+      {
+       "daf": "chagigah_6",
+       "source": "author example",
+       "definition": "Mitzvot for which the Torah sets no required amount, listed in the Mishnah at the opening of Pe'ah: pe'ah, bikkurim, re'ayon, acts of kindness and Torah study.",
+       "on_this_daf": "The Gemara asks whether \"no measure\" for re'ayon rules out a minimum, a maximum, or both."
+      }
+     ],
+     "dafim": [
+      "chagigah_6"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "eino_mekabel_tumah_eino_mekabel_ketamim",
+   "term": "eino mekabel tum'ah eino mekabel ketamim",
+   "hebrew": "כל דבר שאינו מקבל טומאה אינו מקבל כתמים",
+   "variants": [
+    "eino mekabel tum'ah eino mekabel ketamim",
+    "kol davar she'eino mekabel tum'ah eino mekabel ketamim"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "tumah_general",
+     "name": "Tumah (Ritual Impurity — General)",
+     "score": 3
+    },
+    {
+     "id": "tumah_hutrah_betzubbur",
+     "name": "Tumah Hutrah b'Tzibbur (Impurity Permitted for Communal Offering)",
+     "score": 3
+    },
+    {
+     "id": "hechsher_lekabel_tumah",
+     "name": "Hechsher l'Kabel Tumah (Preparing Food for Impurity)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "no stain impurity on non-susceptible objects",
+     "candidates": [
+      {
+       "daf": "niddah_60",
+       "source": "opus55",
+       "definition": "R. Nechemia's rule that a blood stain found on an object that cannot become ritually impure, such as stone, earth or a tiny rag, does not make the woman impure.",
+       "on_this_daf": "Rav Mattana derives it from \"clean she shall sit upon the ground\". It is extended to the outside of an earthenware vessel and to small rags, and the halacha follows R. Nechemia despite the olive-leaf incident."
+      }
+     ],
+     "dafim": [
+      "niddah_60"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "eshet_ish",
+   "term": "eshet ish",
+   "hebrew": "אשת איש",
+   "variants": [
+    "eshet ish"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a married or betrothed woman as a forbidden relation",
+     "candidates": [
+      {
+       "daf": "yevamot_33",
+       "source": "opus55",
+       "definition": "A woman who is married or even only betrothed is forbidden to all other men, and relations with her are a capital transgression.",
+       "on_this_daf": "Each man whose bride was switched at the chuppah is liable for eshet ish, because betrothal alone makes the woman forbidden to other men."
+      }
+     ],
+     "dafim": [
+      "yevamot_33"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "gerufah_u_ketumah",
+   "term": "gerufah u-ketumah",
+   "hebrew": "גרופה וקטומה",
+   "variants": [
+    "gerufah u-ketumah",
+    "swept",
+    "swept and covered with ashes",
+    "swept or covered with ashes"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a stove swept of coals or covered with ashes",
+     "candidates": [
+      {
+       "daf": "shabbat_38",
+       "source": "opus55",
+       "definition": "A stove whose coals have been removed (swept) or covered with ashes (banked), so that there is no concern one will stoke it. Leaving food on such a stove is permitted where it otherwise would not be.",
+       "on_this_daf": "It reconciles R. Yehuda's two rulings. Rav Adda bar Ahava uses it to deflect Abaye's objection by setting the Mishnah on a swept kupach and a swept oven."
+      }
+     ],
+     "dafim": [
+      "shabbat_38"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "gezeirah_le_gezeirah",
+   "term": "gezeirah le-gezeirah",
+   "hebrew": "גזירה לגזירה",
+   "variants": [
+    "decree on a decree",
+    "gezeirah le-gezeirah"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "meth_gezeirah_lgezeirah",
+     "name": "Gezeirah l'Gezeirah (Double Rabbinic Fence)",
+     "score": 4
+    },
+    {
+     "id": "meth_gezeirah",
+     "name": "Gezeirah (Rabbinic Protective Fence)",
+     "score": 3
+    },
+    {
+     "id": "herm_gezerah_shavah",
+     "name": "Gezerah Shavah (Verbal Analogy)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a decree to protect another decree",
+     "candidates": [
+      {
+       "daf": "shabbat_21",
+       "source": "opus55",
+       "definition": "The principle that the Sages do not enact a rabbinic decree whose only purpose is to safeguard another rabbinic decree.",
+       "on_this_daf": "Molten fat and dissolved fish innards are banned only by decree, so the Sages would not add a further decree banning them once fit oil is mixed in."
+      }
+     ],
+     "dafim": [
+      "shabbat_21"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "gezerah_shavah",
+   "term": "gezerah shavah",
+   "hebrew": "גזירה שוה",
+   "variants": [
+    "Kicha–Kicha",
+    "gezerah shavah",
+    "kicha–kicha"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "herm_gezerah_shavah",
+     "name": "Gezerah Shavah (Verbal Analogy)",
+     "score": 5
+    },
+    {
+     "id": "meth_gezeirah",
+     "name": "Gezeirah (Rabbinic Protective Fence)",
+     "score": 3
+    },
+    {
+     "id": "meth_gezeirah_lgezeirah",
+     "name": "Gezeirah l'Gezeirah (Double Rabbinic Fence)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "verbal analogy between verses",
+     "candidates": [
+      {
+       "daf": "kiddushin_2",
+       "source": "opus55",
+       "definition": "A hermeneutic principle by which a law stated in one context is applied to another because the same word appears in both passages.",
+       "on_this_daf": "\"Kicha–kicha\" links \"ki yikach ish isha\" to Avraham's purchase of Efron's field, teaching that a woman is betrothed with money. Tosafot question why the analogy is needed and note its imperfection."
+      }
+     ],
+     "dafim": [
+      "kiddushin_2"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "gmar_din",
+   "term": "gmar din",
+   "hebrew": "גמר דין",
+   "variants": [
+    "gmar din",
+    "verdict"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the formal issuing of the verdict",
+     "candidates": [
+      {
+       "daf": "sanhedrin_6b",
+       "source": "opus55",
+       "definition": "The point at which a court formally concludes a case by pronouncing its ruling. Certain procedural options end at that point.",
+       "on_this_daf": "Once the verdict is issued, compromise is no longer allowed. Rav defines the verdict as the declaration \"So-and-so, you are liable; so-and-so, you are exonerated.\""
+      }
+     ],
+     "dafim": [
+      "sanhedrin_6b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "hagbahah",
+   "term": "hagbahah",
+   "hebrew": "הגבהה",
+   "variants": [
+    "hagbahah",
+    "lifting"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "acquiring movables by lifting",
+     "candidates": [
+      {
+       "daf": "bava_batra_84",
+       "source": "opus55",
+       "definition": "A mode of acquiring movable property in which the buyer lifts the item. It is effective in every place, even in the seller's domain.",
+       "on_this_daf": "Flax, which is usually carried, is acquired only when the buyer carries it from place to place. Abaye and Rava state that lifting acquires everywhere."
+      }
+     ],
+     "dafim": [
+      "bava_batra_84"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "hefshet_ve_nituach",
+   "term": "hefshet ve-nitu'ach",
+   "hebrew": "הפשט וניתוח",
+   "variants": [
+    "hefshet ve-nitu'ach",
+    "hefshet venitu'ach"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "flaying and cutting up a burnt offering",
+     "candidates": [
+      {
+       "daf": "chagigah_6",
+       "source": "author example",
+       "definition": "Removing the hide of an olah and cutting it into its prescribed pieces before it is burned on the altar.",
+       "on_this_daf": "For R. Yishmael these procedures were taught only at the Ohel Mo'ed. So an olah offered at Sinai, without them, could not have been the tamid, which requires them."
+      }
+     ],
+     "dafim": [
+      "chagigah_6"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "issur_bevat_achat",
+   "term": "issur bevat achat",
+   "hebrew": "איסור בבת אחת",
+   "variants": [
+    "bevat achat",
+    "issur bevat achat"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "herm_issur_chal_al_issur",
+     "name": "Ein Issur Chal al Issur",
+     "score": 3
+    },
+    {
+     "id": "herm_issur_kolel",
+     "name": "Issur Kolel (Encompassing Prohibition)",
+     "score": 3
+    },
+    {
+     "id": "herm_issur_mosif",
+     "name": "Issur Mosif (Adding Prohibition)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "two prohibitions arising simultaneously",
+     "candidates": [
+      {
+       "daf": "yevamot_33",
+       "source": "opus55",
+       "definition": "A case where two prohibitions take effect on the same act or object at the same instant, so that neither one precedes the other.",
+       "on_this_daf": "The melikah case can only be simultaneous. The Gemara concludes from the baraita that even R. Shimon imposes liability on both counts in such a case, which refutes bar Kappara."
+      }
+     ],
+     "dafim": [
+      "yevamot_33"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "issur_chal_al_issur",
+   "term": "issur chal al issur",
+   "hebrew": "איסור חל על איסור",
+   "variants": [
+    "issur chal al issur"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "herm_issur_chal_al_issur",
+     "name": "Ein Issur Chal al Issur",
+     "score": 5
+    },
+    {
+     "id": "herm_issur_kolel",
+     "name": "Issur Kolel (Encompassing Prohibition)",
+     "score": 3
+    },
+    {
+     "id": "herm_issur_mosif",
+     "name": "Issur Mosif (Adding Prohibition)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a second prohibition taking effect on an existing one",
+     "candidates": [
+      {
+       "daf": "yevamot_33",
+       "source": "opus55",
+       "definition": "The question whether a new prohibition can take legal effect on an act or object that is already forbidden by another prohibition, so that a violator is liable on both counts. R. Shimon generally holds it cannot. R. Yosei holds it can in certain configurations.",
+       "on_this_daf": "The three cases disputed by R. Chiyya and bar Kappara all turn on this principle. The Gemara tries to identify which configuration of it they are arguing about."
+      }
+     ],
+     "dafim": [
+      "yevamot_33"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "issur_hishtamshut_be_ner_chanukah",
+   "term": "issur hishtamshut be-ner chanukah",
+   "hebrew": "אסור להשתמש לאורה",
+   "variants": [
+    "forbidden to use the Hanukkah lights",
+    "issur hishtamshut be-ner chanukah",
+    "its light may be used",
+    "its light may not be used"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "herm_issur_chal_al_issur",
+     "name": "Ein Issur Chal al Issur",
+     "score": 3
+    },
+    {
+     "id": "herm_issur_kolel",
+     "name": "Issur Kolel (Encompassing Prohibition)",
+     "score": 3
+    },
+    {
+     "id": "herm_issur_mosif",
+     "name": "Issur Mosif (Adding Prohibition)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "prohibition of using the Hanukkah light",
+     "candidates": [
+      {
+       "daf": "shabbat_21",
+       "source": "opus55",
+       "definition": "The rule that one may not make practical use of the light of the Hanukkah lights. Their purpose is only to publicize the miracle.",
+       "on_this_daf": "Whether using the light is permitted decides, together with the question of relighting, whether unfit wicks may be used on Shabbat. Rava requires an additional light for use because of this prohibition."
+      }
+     ],
+     "dafim": [
+      "shabbat_21"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "issur_kolel",
+   "term": "issur kolel",
+   "hebrew": "איסור כולל",
+   "variants": [
+    "issur kolel",
+    "kolel"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "herm_issur_kolel",
+     "name": "Issur Kolel (Encompassing Prohibition)",
+     "score": 6
+    },
+    {
+     "id": "herm_issur_chal_al_issur",
+     "name": "Ein Issur Chal al Issur",
+     "score": 3
+    },
+    {
+     "id": "herm_issur_mosif",
+     "name": "Issur Mosif (Adding Prohibition)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a broader prohibition that includes an already-forbidden case",
+     "candidates": [
+      {
+       "daf": "yevamot_33",
+       "source": "opus55",
+       "definition": "A prohibition that takes effect on an already-forbidden act because it widens the prohibition to cover more items or acts, sweeping the forbidden case in along with the rest. R. Yosei holds it takes effect.",
+       "on_this_daf": "The zar on Shabbat and the ba'al mum who became tamei are cases of issur kolel. The baraita shows that R. Shimon exempts from the second count in such cases."
+      }
+     ],
+     "dafim": [
+      "yevamot_33"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kala_it_lehu",
+   "term": "kala it lehu",
+   "hebrew": "קלא אית להו",
+   "variants": [
+    "kala it lehu"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "meth_ibaya_lehu",
+     "name": "Ibaya Lehu (The Question Was Raised)",
+     "score": 2
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "public knowledge as a safeguard",
+     "candidates": [
+      {
+       "daf": "gittin_18",
+       "source": "opus55",
+       "definition": "The principle that some matters become generally known, so there is no need to fear that they happened secretly or will mislead people.",
+       "on_this_daf": "It explains why gittin from overseas mislead no one about their effective date. R. Yochanan also uses it to allow a ten-day delay in signing, since a reconciliation would become known."
+      }
+     ],
+     "dafim": [
+      "gittin_18"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kavanah",
+   "term": "kavanah",
+   "hebrew": "כוונה",
+   "variants": [
+    "focus the heart",
+    "kavanah"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "kavvanah",
+     "name": "Kavvanah (Intention in Prayer/Mitzvot)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "focus of the heart in prayer",
+     "candidates": [
+      {
+       "daf": "berakhot_31b",
+       "source": "opus55",
+       "definition": "The mental focus and intent a person must bring to prayer, directing the heart toward God and the meaning of the words being said.",
+       "on_this_daf": "Rav Hamnuna learns from \"Hannah spoke in her heart\" that one who prays must focus his heart. From the same verse he learns that the lips must still form the words, though the voice must stay inaudible."
+      }
+     ],
+     "dafim": [
+      "berakhot_31b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kavta_zakuk_lah",
+   "term": "kavta zakuk lah",
+   "hebrew": "כבתה זקוק לה",
+   "variants": [
+    "kavta zakuk lah",
+    "must be relit",
+    "need not be relit"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "duty to relight an extinguished Hanukkah light",
+     "candidates": [
+      {
+       "daf": "shabbat_21",
+       "source": "opus55",
+       "definition": "The question of whether a Hanukkah light that goes out after proper kindling must be relit. The accepted halakha is that it need not be, provided it could burn for the required time when it was lit.",
+       "on_this_daf": "Rav Huna holds it must be relit, while Rav Chisda and Rav hold it need not be. The baraita on the time from sunset until traffic ceases is read so that it does not require relighting."
+      }
+     ],
+     "dafim": [
+      "shabbat_21"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kelalot_u_feratot",
+   "term": "kelalot u-feratot",
+   "hebrew": "כללות ופרטות",
+   "variants": [
+    "kelalot",
+    "kelalot ne'emru beSinai",
+    "kelalot u-feratot"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "general rules versus details of the Torah's laws",
+     "candidates": [
+      {
+       "daf": "chagigah_6",
+       "source": "author example",
+       "definition": "The question of which parts of the Torah's laws were given at Sinai: the general rules only (with the details taught later, at the Ohel Mo'ed), or the details as well.",
+       "on_this_daf": "R. Yishmael: the general rules came at Sinai and the details later. R. Akiva: both were given at Sinai, and repeated at the Ohel Mo'ed and at Arvot Mo'av."
+      }
+     ],
+     "dafim": [
+      "chagigah_6"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kenas",
+   "term": "kenas",
+   "hebrew": "קנס",
+   "variants": [
+    "kenas",
+    "penalized",
+    "penalizing"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "rabbinic penalty forbidding the food",
+     "candidates": [
+      {
+       "daf": "shabbat_38",
+       "source": "opus55",
+       "definition": "A rabbinic penalty that forbids benefiting from the result of a transgression. It is imposed to deter wrongdoing, and sometimes applies even to one who acted innocently.",
+       "on_this_daf": "Once people left pots on purpose and claimed they had forgotten, the Sages penalized even one who truly forgot. The Gemara leaves open whether one who deliberately left a pot is penalized on that same Shabbat."
+      }
+     ],
+     "dafim": [
+      "shabbat_38"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kesef",
+   "term": "kesef",
+   "hebrew": "כסף",
+   "variants": [
+    "Kesef",
+    "kesef"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "kinyan_kesef",
+     "name": "Kinyan Kesef (Acquisition by Money)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "betrothal by giving money or its value",
+     "candidates": [
+      {
+       "daf": "kiddushin_2",
+       "source": "opus55",
+       "definition": "One of the three means of betrothal: the man gives the woman money or an object of value before witnesses, stating that she is betrothed to him.",
+       "on_this_daf": "The mishnah disputes its minimum value, and the Gemara derives it from Efron's field, which is why the mishnah uses the language of acquisition."
+      }
+     ],
+     "dafim": [
+      "kiddushin_2"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "ketem",
+   "term": "ketem",
+   "hebrew": "כתם",
+   "variants": [
+    "Ketem b'Ketem",
+    "ein tolin ketem beketem",
+    "kesamim",
+    "ketamim",
+    "ketem",
+    "stain"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "ketem",
+     "name": "Ketem (Stain)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "rabbinic impurity from a blood stain",
+     "candidates": [
+      {
+       "daf": "niddah_60",
+       "source": "opus55",
+       "definition": "A blood stain a woman finds on her body, clothing or an object without having felt a discharge. By rabbinic law it renders her impure as a niddah, subject to a number of leniencies.",
+       "on_this_daf": "R. Yehuda bar Livai rules that one may not attribute a stain to a woman who is impure only from a stain of her own (ein tolin ketem beketem), and Ravina rereads a baraita to preserve this rule."
+      }
+     ],
+     "dafim": [
+      "niddah_60"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "ketivah_and_netinah",
+   "term": "ketivah and netinah",
+   "hebrew": "כתיבה ונתינה",
+   "variants": [
+    "ketivah",
+    "ketivah and netinah",
+    "netinah"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "time of writing versus time of giving a get",
+     "candidates": [
+      {
+       "daf": "gittin_18",
+       "source": "opus55",
+       "definition": "A get is written, and signed, at one time and handed to the wife at another. Halakhot that turn on timing may be measured from either the writing or the delivery.",
+       "on_this_daf": "Rav counts the divorcee's waiting period from the giving and Shmuel from the writing; the halakha follows the writing, and the gap between writing and signing recurs in R. Shimon's ruling."
+      }
+     ],
+     "dafim": [
+      "gittin_18"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kiddushin",
+   "term": "kiddushin",
+   "hebrew": "קידושין",
+   "variants": [
+    "Kiddushin",
+    "kiddushin"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "betrothal creating married status",
+     "candidates": [
+      {
+       "daf": "kiddushin_2",
+       "source": "opus55",
+       "definition": "The first stage of Jewish marriage, by which a woman becomes legally married to a man. Relations with another man are then adultery, and only a get or the husband's death can end the bond.",
+       "on_this_daf": "The Gemara explains that the Sages call betrothal kiddushin because the husband makes her forbidden to everyone like hekdesh, in contrast to the Torah's language of acquisition used in this mishnah."
+      }
+     ],
+     "dafim": [
+      "kiddushin_2"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kinyan_agav",
+   "term": "kinyan agav",
+   "hebrew": "מטלטלין אגב קרקע",
+   "variants": [
+    "Kinyan agav",
+    "Movables Acquired Along with Land",
+    "agav",
+    "kinyan agav",
+    "metaltelin agav karka"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "kinyan_kesef",
+     "name": "Kinyan Kesef (Acquisition by Money)",
+     "score": 2
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "movables acquired along with land",
+     "candidates": [
+      {
+       "daf": "bava_metzia_11",
+       "source": "opus55",
+       "definition": "When land is conveyed, movable property the owner bundles with the transaction passes together with it, even if the movables are not located on that land.",
+       "on_this_daf": "A Sage in Sura explains that Rabban Gamliel gave the tithes along with the rented land, not through courtyard acquisition. Rava rejects this answer, and the Gemara defends it as a strong form of giving."
+      }
+     ],
+     "dafim": [
+      "bava_metzia_11"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kinyan_kli",
+   "term": "kinyan kli",
+   "hebrew": "קניין כלי",
+   "variants": [
+    "buyer's basket",
+    "kinyan kli"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "kinyan_kesef",
+     "name": "Kinyan Kesef (Acquisition by Money)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "acquisition through the buyer's vessel",
+     "candidates": [
+      {
+       "daf": "bava_batra_84",
+       "source": "opus55",
+       "definition": "A person's vessel acquires for him items placed into it, much as his courtyard does, when it rests in a place where it can serve him.",
+       "on_this_daf": "R. Zeira limits R. Yochanan's alleyway ruling to produce measured into the buyer's basket. The Gemara upholds this reading and applies it to the partners' courtyard as well."
+      }
+     ],
+     "dafim": [
+      "bava_batra_84"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kisui_ha_dam",
+   "term": "kisui ha-dam",
+   "hebrew": "כיסוי הדם",
+   "variants": [
+    "Covering the Blood",
+    "Covering the blood",
+    "cover the blood",
+    "covering the blood",
+    "kisui ha-dam"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "kabbalat_hadam",
+     "name": "Kabbalat HaDam (Blood Reception)",
+     "score": 3
+    },
+    {
+     "id": "zerikat_hadam",
+     "name": "Zerikat HaDam (Blood Sprinkling)",
+     "score": 3
+    },
+    {
+     "id": "kisuy_hadam",
+     "name": "Kisuy HaDam (Covering the Blood)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "covering the blood of a slaughtered wild animal or bird",
+     "candidates": [
+      {
+       "daf": "hullin_88",
+       "source": "opus55",
+       "definition": "The Torah commandment to cover with earth the blood of an undomesticated animal or bird after slaughtering it.",
+       "on_this_daf": "The Gemara disputes how much of the blood must be covered and which materials may be used to cover it. It also explains why the earth used for this mitzva is not counted among Abraham's rewards."
+      }
+     ],
+     "dafim": [
+      "hullin_88"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "klal_ha_tzarich_li_frat",
+   "term": "klal ha-tzarich li-frat",
+   "hebrew": "כלל הצריך לפרט",
+   "variants": [
+    "klal ha-tzarich li-frat",
+    "klal hatzarich lifrat"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "herm_kelal_tzarich_liperat",
+     "name": "Kelal shehu Tzarich liPerat",
+     "score": 2
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a generalization that needs its detail for clarity",
+     "candidates": [
+      {
+       "daf": "hullin_88",
+       "source": "opus55",
+       "definition": "A hermeneutical principle: when a general term cannot be understood without the detail that follows it, the verse is not read by the limiting rule of klal u-frat (generalization and detail).",
+       "on_this_daf": "Rav Mari invokes it to explain why \"with earth\" does not restrict \"and cover it\" to earth alone, since the detail is needed to show what kind of covering is meant."
+      }
+     ],
+     "dafim": [
+      "hullin_88"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "kupach",
+   "term": "kupach",
+   "hebrew": "כופח",
+   "variants": [
+    "kupach"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "single-pot cooking range",
+     "candidates": [
+      {
+       "daf": "shabbat_38",
+       "source": "opus55",
+       "definition": "A small cooking range with room for only one pot. Its heat is greater than a stove's and less than an oven's.",
+       "on_this_daf": "It is treated like a stove when lit with straw and like an oven when lit with pomace or wood. The Gemara explains its intermediate heat and shows from the laws of purity how it differs from a two-pot stove."
+      }
+     ],
+     "dafim": [
+      "shabbat_38"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "leheichan_ha_din_noteh",
+   "term": "le'heichan ha-din noteh",
+   "hebrew": "להיכן הדין נוטה",
+   "variants": [
+    "le'heichan ha-din noteh",
+    "where the judgment leans"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "meth_lifnim_mishurat_hadin",
+     "name": "Lifnim miShurat haDin (Beyond the Letter of the Law)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the point at which the judgment's direction becomes clear",
+     "candidates": [
+      {
+       "daf": "sanhedrin_6b",
+       "source": "opus55",
+       "definition": "The stage in a case when the judge, having heard the claims, can tell which side is in the right, even though he has not yet ruled.",
+       "on_this_daf": "Up to this point a judge may send the litigants to compromise (R. Shimon ben Menasya) or decline the case (Reish Lakish). After it, he may do neither."
+      }
+     ],
+     "dafim": [
+      "sanhedrin_6b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "lo_taguru_mipnei_ish",
+   "term": "lo taguru mipnei ish",
+   "hebrew": "לא תגורו מפני איש",
+   "variants": [
+    "Taguru",
+    "You shall not be afraid before any man",
+    "lo taguru mipnei ish"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the ban on fear in judgment",
+     "candidates": [
+      {
+       "daf": "sanhedrin_6b",
+       "source": "opus55",
+       "definition": "The Torah's command that judges must not let fear of any person influence how they handle or decide a case.",
+       "on_this_daf": "Once a judge knows where the judgment leans, this verse bars him from dropping a case for fear of a strong litigant. It also obliges a student to speak up for the poor or against the rich before his teacher, and R. Chanin reads it as \"do not suppress your words.\""
+      }
+     ],
+     "dafim": [
+      "sanhedrin_6b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "maalin_ba_kodesh_ve_ein_moridin",
+   "term": "ma'alin ba-kodesh ve-ein moridin",
+   "hebrew": "מעלין בקדש ואין מורידין",
+   "variants": [
+    "ma'alin ba-kodesh ve-ein moridin",
+    "rises in holiness",
+    "rises in holiness and does not descend",
+    "rising in holiness"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "one ascends in holiness and does not descend",
+     "candidates": [
+      {
+       "daf": "shabbat_21",
+       "source": "opus55",
+       "definition": "The principle that matters of sanctity are raised to a higher level and never lowered.",
+       "on_this_daf": "It is one explanation of Beit Hillel's increasing count, set against Beit Shammai's model of the diminishing Sukkot bulls, and it is the reason given by the elder in Sidon who followed Beit Hillel."
+      }
+     ],
+     "dafim": [
+      "shabbat_21"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "maaseh_rav",
+   "term": "ma'aseh rav",
+   "hebrew": "מעשה רב",
+   "variants": [
+    "ma'aseh rav"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a practical precedent carries weight",
+     "candidates": [
+      {
+       "daf": "shabbat_21",
+       "source": "opus55",
+       "definition": "The principle that a report of what an authority actually did is strong evidence for the halakha, weightier than a theoretical statement.",
+       "on_this_daf": "It explains why Abaye challenges Rabba from Rabban Shimon ben Gamliel's report of practice in his father's house, not from the first tanna."
+      }
+     ],
+     "dafim": [
+      "shabbat_21"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "mehadrin",
+   "term": "mehadrin",
+   "hebrew": "מהדרין",
+   "variants": [
+    "mehadrin",
+    "mehadrin min hamehadrin"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "beautified performance of the Hanukkah mitzvah",
+     "candidates": [
+      {
+       "daf": "shabbat_21",
+       "source": "opus55",
+       "definition": "Those who perform a mitzvah in an enhanced, beautified way beyond the basic requirement. For Hanukkah, the mehadrin light one light for each household member, and the mehadrin min hamehadrin also vary the number of lights nightly.",
+       "on_this_daf": "At the highest level, Beit Shammai count down from eight and Beit Hillel up from one. Rishonim dispute whether the household then returns to a single set of lights."
+      }
+     ],
+     "dafim": [
+      "shabbat_21"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "mei_sotah",
+   "term": "mei sotah",
+   "hebrew": "מי סוטה",
+   "variants": [
+    "mei sotah",
+    "sotah",
+    "sotah water",
+    "sotah waters"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "minchat_sotah",
+     "name": "Minchat Sotah",
+     "score": 3
+    },
+    {
+     "id": "mar_sotah",
+     "name": "Sotah (Suspected Adulteress)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the waters testing a suspected adulteress",
+     "candidates": [
+      {
+       "daf": "berakhot_31b",
+       "source": "opus55",
+       "definition": "The bitter waters a wife suspected of adultery drinks after being warned by her husband and secluding herself with another man. If she is innocent, the Torah promises that she will be unharmed and blessed with offspring.",
+       "on_this_daf": "Hannah threatens to become a sotah so that, once found innocent, she must conceive. The Gemara asks how this fits R. Akiva's view that the blessing only eases childbirth and does not cure barrenness."
+      }
+     ],
+     "dafim": [
+      "berakhot_31b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "melikah",
+   "term": "melikah",
+   "hebrew": "מליקה",
+   "variants": [
+    "melikah"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "melikah",
+     "name": "Melikah (Nipping Bird Offerings)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "killing a bird offering by pinching its neck",
+     "candidates": [
+      {
+       "daf": "yevamot_33",
+       "source": "opus55",
+       "definition": "The method of killing a bird offering, in which the priest pinches its neck with his thumbnail instead of slaughtering it. A bird killed this way outside a valid offering has the status of an unslaughtered carcass (neveilah).",
+       "on_this_daf": "A zar who eats a melikah bird transgresses the prohibition on kodashim and the prohibition on neveilah at the same moment, so the case can only be bevat achat."
+      }
+     ],
+     "dafim": [
+      "yevamot_33"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "meshicha",
+   "term": "meshicha",
+   "hebrew": "משיכה",
+   "variants": [
+    "meshicha",
+    "pulling"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "acquiring movables by pulling",
+     "candidates": [
+      {
+       "daf": "bava_batra_84",
+       "source": "opus55",
+       "definition": "A mode of acquiring movable property in which the buyer pulls or draws the item toward himself. It is effective only in a place such as an alleyway or a courtyard shared by both parties, not in the public domain.",
+       "on_this_daf": "The Mishnah rules that pulling acquires produce and measuring does not. To fit Abaye and Rava's rule, the Gemara reads the Mishnah's \"pulled\" as pulled from the public domain into an alleyway."
+      }
+     ],
+     "dafim": [
+      "bava_batra_84"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "min",
+   "term": "min",
+   "hebrew": "מין",
+   "variants": [
+    "min",
+    "one type",
+    "two types"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "same species for separating terumah",
+     "candidates": [
+      {
+       "daf": "bava_batra_84",
+       "source": "opus55",
+       "definition": "Terumah and tithes must be separated from produce of the same kind (min) as the produce they exempt. Separating from a different kind for another is ineffective.",
+       "on_this_daf": "The Rabbis count wine and vinegar as one type for terumah, following R. Ela that inferior produce may be separated for superior. For buying and selling, everyone agrees they are two types."
+      }
+     ],
+     "dafim": [
+      "bava_batra_84"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "mishpat_u_tzedakah",
+   "term": "mishpat u-tzedakah",
+   "hebrew": "משפט וצדקה",
+   "variants": [
+    "justice and charity",
+    "mishpat",
+    "mishpat u-tzedakah",
+    "tzedakah"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "justice combined with charity in judging",
+     "candidates": [
+      {
+       "daf": "sanhedrin_6b",
+       "source": "opus55",
+       "definition": "The pairing of strict justice with charity or kindness that Scripture ascribes to David's way of judging. It is read as a model of how a judge should combine the two.",
+       "on_this_daf": "R. Yehoshua ben Korcha reads it as compromise. The view that forbids compromise reads it as a strict ruling followed by the judge paying for the poor litigant. Rebbi finds the charity in the ruling itself, which removes stolen property from the loser's possession."
+      }
+     ],
+     "dafim": [
+      "sanhedrin_6b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "mitztamek_ve_yafeh_lo",
+   "term": "mitztamek ve-yafeh lo",
+   "hebrew": "מצטמק ויפה לו",
+   "variants": [
+    "mitztamek ve-yafeh lo",
+    "mitztamek vera lo",
+    "mitztamek veyafeh lo",
+    "shrivels and deteriorates",
+    "shrivels and improves"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "food that improves as it shrivels on the fire",
+     "candidates": [
+      {
+       "daf": "shabbat_38",
+       "source": "opus55",
+       "definition": "Food that gets better the longer it cooks down. Because the owner benefits from more heat, there is concern he will stoke the fire. The contrasting category is mitztamek ve-ra lo, food that deteriorates as it cooks down.",
+       "on_this_daf": "R. Yehuda forbids fully cooked food that improves, such as cabbage, beans and cut meat, but permits water that deteriorates. The Gemara shows that shriveled eggs belong to the category that improves."
+      }
+     ],
+     "dafim": [
+      "shabbat_38"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "moreh_halakhah_bifnei_rabbo",
+   "term": "moreh halakhah bifnei rabbo",
+   "hebrew": "מורה הלכה לפני רבו",
+   "variants": [
+    "moreh halakhah bifnei rabbo",
+    "ruled before your teacher",
+    "ruling before his teacher",
+    "taught halakha in the presence of his teacher"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "four_cubits_of_halakha",
+     "name": "The Four Cubits of Halakha",
+     "score": 3
+    },
+    {
+     "id": "meth_halacha_lemoshe_misinai",
+     "name": "Halachah leMoshe miSinai",
+     "score": 3
+    },
+    {
+     "id": "fam_pregnancy",
+     "name": "Pregnancy in Halakha",
+     "score": 2
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "issuing a ruling in one's teacher's presence",
+     "candidates": [
+      {
+       "daf": "berakhot_31b",
+       "source": "opus55",
+       "definition": "The prohibition on a student issuing a halakhic ruling in the presence of his teacher. It is treated as disrespect for the teacher and carries liability to death at the hand of Heaven.",
+       "on_this_daf": "The child Samuel rules correctly in front of Eli, and Eli declares him liable to death until Hannah intercedes: \"For this youth I prayed.\""
+      }
+     ],
+     "dafim": [
+      "berakhot_31b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "ner_ish_u_veito",
+   "term": "ner ish u-veito",
+   "hebrew": "נר איש וביתו",
+   "variants": [
+    "ner ish u-veito",
+    "ner ish uveito"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "basic Hanukkah obligation",
+     "candidates": [
+      {
+       "daf": "shabbat_21",
+       "source": "opus55",
+       "definition": "The basic mitzvah of Hanukkah is one light each night for a person and his household together.",
+       "on_this_daf": "The baraita presents it as the first of three levels of performing the mitzvah."
+      }
+     ],
+     "dafim": [
+      "shabbat_21"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "nisuin",
+   "term": "nisu'in",
+   "hebrew": "נישואין",
+   "variants": [
+    "Nisu'in",
+    "nisu'in"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "full marriage following betrothal",
+     "candidates": [
+      {
+       "daf": "kiddushin_2",
+       "source": "opus55",
+       "definition": "The second stage of marriage, effected through chuppah, when the couple begin to live together and the husband's and wife's mutual financial and marital obligations take effect.",
+       "on_this_daf": "It is distinguished from kiddushin: the ketubah and yichud belong to nisu'in. Tosafot note that the Torah's word for \"taking\" a woman, from which kiddushin is derived, plainly describes nisu'in."
+      }
+     ],
+     "dafim": [
+      "kiddushin_2"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "olat_reiyah",
+   "term": "olat re'iyah",
+   "hebrew": "עולת ראייה",
+   "variants": [
+    "olat re'iyah",
+    "re'ayon",
+    "re'iyah"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the pilgrim's festival burnt offering",
+     "candidates": [
+      {
+       "daf": "chagigah_6",
+       "source": "author example",
+       "definition": "The burnt offering a man brings when he \"appears\" in the Temple on a pilgrimage festival. Like every olah it is burned entirely on the altar; none of it is eaten.",
+       "on_this_daf": "One of the two festival offerings whose minimum value Beit Shammai and Beit Hillel dispute, and a candidate for the olah offered at Sinai."
+      }
+     ],
+     "dafim": [
+      "chagigah_6"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "olat_tamid",
+   "term": "olat tamid",
+   "hebrew": "עולת תמיד",
+   "variants": [
+    "olat tamid",
+    "tamid"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "korban_tamid",
+     "name": "Korban Tamid (Daily Offering)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the daily communal burnt offering",
+     "candidates": [
+      {
+       "daf": "chagigah_6",
+       "source": "author example",
+       "definition": "The communal burnt offering of a lamb, brought every morning and every afternoon in the Temple.",
+       "on_this_daf": "Beit Hillel, R. Akiva and R. Yosi HaGlili identify the olah of Shemot 24:5 as the tamid. The debate is whether it began at Sinai or only in the Mishkan."
+      }
+     ],
+     "dafim": [
+      "chagigah_6"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "omed_be_tzad_sadehu",
+   "term": "omed be-tzad sadehu",
+   "hebrew": "עומד בצד שדהו",
+   "variants": [
+    "Omed Betzad Sadehu",
+    "omed be-tzad sadehu",
+    "stand beside her house",
+    "stand beside his field",
+    "standing beside Rabban Gamliel's field",
+    "standing beside his field",
+    "standing beside the field",
+    "stands beside his field",
+    "vehu she'omed betzad sadehu"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "owner's presence beside his field",
+     "candidates": [
+      {
+       "daf": "bava_metzia_11",
+       "source": "opus55",
+       "definition": "The condition that an owner stand next to his unsecured property for it to acquire items on his behalf.",
+       "on_this_daf": "Shmuel, Ulla and Rabba bar bar Chana require it. It is derived from the forgotten-sheaf baraita, challenged from Rabban Gamliel's tithes on the ship, and applied by Ulla to a get as well."
+      }
+     ],
+     "dafim": [
+      "bava_metzia_11"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "onaah",
+   "term": "ona'ah",
+   "hebrew": "אונאה",
+   "variants": [
+    "ona'ah"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "onaah",
+     "name": "Onaah (Overcharging)",
+     "score": 3
+    },
+    {
+     "id": "onaah_mammon",
+     "name": "Onaah Mammon (Monetary Overcharging)",
+     "score": 2
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "overcharging or undercharging in a sale",
+     "candidates": [
+      {
+       "daf": "bava_batra_84",
+       "source": "opus55",
+       "definition": "The prohibition against selling an item for more, or buying it for less, than its market value. A discrepancy of a sixth gives the wronged party a claim, which he may raise within the time needed to show the item to a merchant or relative.",
+       "on_this_daf": "Rav Chisda rules that when prices shift after an ona'ah sale, only the exploited party may cancel it, and not the party who exploited him, even though he now loses."
+      }
+     ],
+     "dafim": [
+      "bava_batra_84"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "oneg_shabbat",
+   "term": "oneg Shabbat",
+   "hebrew": "עונג שבת",
+   "variants": [
+    "oneg Shabbat"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "oneg_shabbat",
+     "name": "Oneg Shabbat (Shabbat Delight)",
+     "score": 6
+    },
+    {
+     "id": "shabbat_holidays",
+     "name": "Shabbat and Holidays",
+     "score": 3
+    },
+    {
+     "id": "shabbat",
+     "name": "Shabbat",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the obligation to delight in Shabbat",
+     "candidates": [
+      {
+       "daf": "berakhot_31b",
+       "source": "opus55",
+       "definition": "The obligation to honor Shabbat through physical enjoyment, especially festive meals.",
+       "on_this_daf": "One who fasts on Shabbat has his seventy-year sentence torn up, but he is still held accountable for missing oneg Shabbat and repairs it with a further weekday fast."
+      }
+     ],
+     "dafim": [
+      "berakhot_31b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "pegimah_u_zekifah",
+   "term": "pegimah u-zekifah",
+   "hebrew": "פגמה וזקפה",
+   "variants": [
+    "established as a loan",
+    "pagmah vezakfah",
+    "pegimah u-zekifah"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "partial collection and establishing a claim as a loan",
+     "candidates": [
+      {
+       "daf": "gittin_18",
+       "source": "opus55",
+       "definition": "Pegimah is collecting part of a claim. Zekifah is having a court turn the remaining obligation into a fixed loan. Either step can change a special obligation into an ordinary debt.",
+       "on_this_daf": "Rav requires both steps before shemittah cancels a ketubah, while Shmuel holds that either one suffices; Shmuel's baraita dates zekifah from standing trial."
+      }
+     ],
+     "dafim": [
+      "gittin_18"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "peirot",
+   "term": "peirot",
+   "hebrew": "פירות",
+   "variants": [
+    "Rights to Produce",
+    "peirot",
+    "produce",
+    "rights to the produce"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "biur_peirot_shviit",
+     "name": "Biur Peirot Shvi'it (Removal of Sabbatical Year Produce)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the husband's right to the produce of his wife's property",
+     "candidates": [
+      {
+       "daf": "gittin_18_textonly",
+       "source": "opus55",
+       "definition": "During the marriage the husband is entitled to the produce of his wife's property. Once the divorce takes effect, this right ends.",
+       "on_this_daf": "Disputes over produce the husband sold explain why the get's date matters. Rava explains that R. Shimon ends the husband's rights to the produce once he decides to divorce, which is shown by the writing of the get."
+      }
+     ],
+     "dafim": [
+      "gittin_18_textonly"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "perutah",
+   "term": "perutah",
+   "hebrew": "פרוטה",
+   "variants": [
+    "perutah"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "minimum value for monetary transactions",
+     "candidates": [
+      {
+       "daf": "kiddushin_2",
+       "source": "opus55",
+       "definition": "The smallest copper coin, one-eighth of an Italian issar. It serves as the halachic minimum of monetary value in many laws.",
+       "on_this_daf": "Beit Hillel set a perutah or its equivalent as the minimum for kiddushei kesef, against Beit Shammai's dinar."
+      }
+     ],
+     "dafim": [
+      "kiddushin_2"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "pituy_ketanah_ones",
+   "term": "pituy ketanah ones",
+   "hebrew": "פיתוי קטנה אונס",
+   "variants": [
+    "pituy ketanah ones",
+    "pituy ketanah ones hu"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "meth_oness_rachmana",
+     "name": "Oness Rachmana Patreih (The Merciful One Exempts the Compelled)",
+     "score": 3
+    },
+    {
+     "id": "inst_sanhedrin_ketanah",
+     "name": "Sanhedrin Ketanah (Small Sanhedrin of 23)",
+     "score": 3
+    },
+    {
+     "id": "shabbat_uvanimalim",
+     "name": "Shabbat and One's Animals",
+     "score": 2
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a minor's consent counts as coercion",
+     "candidates": [
+      {
+       "daf": "yevamot_33",
+       "source": "opus55",
+       "definition": "The seduction of a minor girl is treated legally as rape, because her consent has no legal weight. As a result, she is not forbidden to her Israelite husband afterward.",
+       "on_this_daf": "This principle deflects the proof from the minors who return to their husbands at once. Their return does not show that the switch was accidental."
+      }
+     ],
+     "dafim": [
+      "yevamot_33"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "reuyah_lirot",
+   "term": "re'uyah lirot",
+   "hebrew": "ראויה לראות",
+   "variants": [
+    "fit to menstruate",
+    "fit to see",
+    "re'uyah lirot"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a woman fit to menstruate",
+     "candidates": [
+      {
+       "daf": "niddah_60",
+       "source": "opus55",
+       "definition": "A woman whose age and physical state allow menstrual bleeding, as opposed to one who is pregnant, nursing, elderly or too young, whose bleeding is presumed suppressed.",
+       "on_this_daf": "The first tanna and R. Meir dispute whether one may blame a gentile only if she has actually seen blood or also if she is merely fit to see. Women sleeping in one bed who are unfit to see may blame one who is fit."
+      }
+     ],
+     "dafim": [
+      "niddah_60"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "shalmei_chagigah",
+   "term": "shalmei chagigah",
+   "hebrew": "שלמי חגיגה",
+   "variants": [
+    "chagigah",
+    "shalmei chagigah"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "chagigah_offering",
+     "name": "Chagigah (Festival Offering)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the pilgrim's festival peace offering",
+     "candidates": [
+      {
+       "daf": "chagigah_6",
+       "source": "author example",
+       "definition": "The peace offering (shelamim) brought on a pilgrimage festival. Parts go on the altar and the owners eat the rest, so it is shared between God and the people.",
+       "on_this_daf": "Beit Hillel make it the costlier festival offering, and argue that it is the offering type that already existed before Sinai."
+      }
+     ],
+     "dafim": [
+      "chagigah_6"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "shalmei_simchah",
+   "term": "shalmei simchah",
+   "hebrew": "שלמי שמחה",
+   "variants": [
+    "shalmei simchah",
+    "simchah"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the festival obligation to rejoice",
+     "candidates": [
+      {
+       "daf": "chagigah_6",
+       "source": "author example",
+       "definition": "Additional peace offerings eaten in rejoicing on the festival, fulfilling the command to rejoice (simchah). Women are obligated in simchah as well as men.",
+       "on_this_daf": "The mother's obligation in simchah explains how a child reaches Jerusalem at all. R. Yosi HaGlili counts it as the third pilgrimage offering, each with its own distinctive feature."
+      }
+     ],
+     "dafim": [
+      "chagigah_6"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "shechitah_be_zar_kesherah",
+   "term": "shechitah be-zar kesherah",
+   "hebrew": "שחיטה בזר כשרה",
+   "variants": [
+    "Slaughter by a non-priest",
+    "non-priest may slaughter",
+    "shechitah be-zar kesherah"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "shechitah",
+     "name": "Shechitah (Ritual Slaughter)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "slaughter of an offering by a non-priest",
+     "candidates": [
+      {
+       "daf": "berakhot_31b",
+       "source": "opus55",
+       "definition": "The rule that slaughtering a sacrifice is valid even when done by a non-priest, because the priestly service begins only with receiving the blood.",
+       "on_this_daf": "Samuel derives the rule from \"the priests shall offer\", noting that the Torah does not say \"the priest shall slaughter\". It is the ruling he issued in Eli's presence."
+      }
+     ],
+     "dafim": [
+      "berakhot_31b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "shehiyah",
+   "term": "shehiyah",
+   "hebrew": "שהייה",
+   "variants": [
+    "shehiyah"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "leaving food on a heat source into Shabbat",
+     "candidates": [
+      {
+       "daf": "shabbat_38",
+       "source": "opus55",
+       "definition": "Leaving a pot on a stove or other heat source from before Shabbat so that it stays on the fire during Shabbat. The Sages restricted it out of concern that one might stoke the coals on Shabbat.",
+       "on_this_daf": "The Gemara asks whether food left on the stove may be eaten, how this differs between unwitting and intentional cases, and whether one who violated the rules of shehiyah is penalized."
+      }
+     ],
+     "dafim": [
+      "shabbat_38"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "shikhechah",
+   "term": "shikhechah",
+   "hebrew": "שכחה",
+   "variants": [
+    "forgotten sheaf",
+    "shikhechah"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the forgotten sheaf left for the poor",
+     "candidates": [
+      {
+       "daf": "bava_metzia_11",
+       "source": "opus55",
+       "definition": "A sheaf forgotten in the field during the harvest must be left for the poor, and the owner may not go back to take it.",
+       "on_this_daf": "A sheaf the owner remembered and later forgot is not shikhechah if he was in the field, since his field acquired it for him, but it is shikhechah if he was in the town. Verses are cited to show that this is not a bare Torah edict."
+      }
+     ],
+     "dafim": [
+      "bava_metzia_11"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "shiur_veset",
+   "term": "shiur veset",
+   "hebrew": "שיעור וסת",
+   "variants": [
+    "shiur veset",
+    "time for bleeding to begin"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "veset",
+     "name": "Veset (Menstrual Cycle Pattern)",
+     "score": 2
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the brief time for bleeding to begin",
+     "candidates": [
+      {
+       "daf": "niddah_60",
+       "source": "opus55",
+       "definition": "The minimal span of time needed for the onset of menstrual bleeding. Blood found within it is treated as having been present at the moment the span began.",
+       "on_this_daf": "Rav requires the woman to check within this span for the others to be cleared, following Bar Padda's three periods linking the husband's offering to her taharot."
+      }
+     ],
+     "dafim": [
+      "niddah_60"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "shomeret_yom_keneged_yom",
+   "term": "shomeret yom keneged yom",
+   "hebrew": "שומרת יום כנגד יום",
+   "variants": [
+    "shomeret yom",
+    "shomeret yom keneged yom"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a minor zavah awaiting one clean day",
+     "candidates": [
+      {
+       "daf": "niddah_60",
+       "source": "opus55",
+       "definition": "A woman who has a discharge on one or two days outside her menstrual period. She must observe one clean day for each day of discharge before immersing to become pure.",
+       "on_this_daf": "Rabban Shimon ben Gamliel lets the lender blame her on her second day, R. Yehuda HaNasi forbids it, and both allow it on her first day, when she loses nothing."
+      }
+     ],
+     "dafim": [
+      "niddah_60"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "simta",
+   "term": "simta",
+   "hebrew": "סימטא",
+   "variants": [
+    "alleyway",
+    "simta"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "alleyway as a domain for acquisition",
+     "candidates": [
+      {
+       "daf": "bava_batra_84",
+       "source": "opus55",
+       "definition": "A side area off the public thoroughfare that is neither fully public nor anyone's private property. People may leave their belongings there, and pulling acquires there.",
+       "on_this_daf": "R. Asi and R. Ya'akov give conflicting reports of R. Yochanan's ruling on produce measured into an alleyway. The reports are reconciled as the buyer's basket, which acquires, versus the ground, which does not."
+      }
+     ],
+     "dafim": [
+      "bava_batra_84"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "tanur",
+   "term": "tanur",
+   "hebrew": "תנור",
+   "variants": [
+    "oven",
+    "tanur"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "oven, a heat source hotter than a stove",
+     "candidates": [
+      {
+       "daf": "shabbat_38",
+       "source": "opus55",
+       "definition": "An enclosed oven that holds intense heat. On Shabbat one may not place a pot inside it or on top of it, even when it is lit with light fuel.",
+       "on_this_daf": "Rav Yosef and Abaye dispute whether one may lean a pot against an oven, and a baraita forbids even that, supporting Abaye."
+      }
+     ],
+     "dafim": [
+      "shabbat_38"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "tliyah",
+   "term": "tliyah",
+   "hebrew": "תולה",
+   "variants": [
+    "tliyah",
+    "tolah bah",
+    "tolot zo bazo"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "attributing a found blood stain to another source",
+     "candidates": [
+      {
+       "daf": "niddah_60",
+       "source": "opus55",
+       "definition": "The principle that a woman who finds a blood stain may attribute it to another plausible source, such as another woman or an injury, and so remain pure herself.",
+       "on_this_daf": "The Gemara sets its limits: how likely the other woman must be to bleed, whether she may lose anything by it, and how women sharing a bed attribute blood to one another."
+      }
+     ],
+     "dafim": [
+      "niddah_60"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "tovat_hanaah",
+   "term": "tovat hana'ah",
+   "hebrew": "טובת הנאה",
+   "variants": [
+    "Tovat hana'ah einah mamon",
+    "tovat hana'ah"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "issurei_hanaah",
+     "name": "Issurei Hanaah (Forbidden Benefit)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "owner's right to choose the recipient of gifts",
+     "candidates": [
+      {
+       "daf": "bava_metzia_11",
+       "source": "opus55",
+       "definition": "The benefit an owner of priestly or tithe gifts has in choosing which kohen, Levite or poor person receives them. It is generally held not to be monetary property.",
+       "on_this_daf": "Rava argues that Rabban Gamliel owned only tovat hana'ah, which can be conveyed neither by chalifin nor along with land, so the transfer must have been by courtyard."
+      }
+     ],
+     "dafim": [
+      "bava_metzia_11"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "tumat_ohel",
+   "term": "tumat ohel",
+   "hebrew": "טומאת אהל",
+   "variants": [
+    "tent impurity",
+    "tumat ohel"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "tumat_ohel",
+     "name": "Tumat Ohel (Tent Impurity)",
+     "score": 6
+    },
+    {
+     "id": "tumat_met",
+     "name": "Tumat Met (Corpse Impurity)",
+     "score": 3
+    },
+    {
+     "id": "tumat_keri",
+     "name": "Tumat Keri (Seminal Impurity)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "corpse impurity conveyed under a roof",
+     "candidates": [
+      {
+       "daf": "hullin_88",
+       "source": "opus55",
+       "definition": "The impurity a corpse or its parts convey to people and objects under the same roof or overhang, without any contact.",
+       "on_this_daf": "Reddish plasma from a corpse conveys tent impurity only if a revi'it of actual blood is present. The corpse's other liquids are pure."
+      }
+     ],
+     "dafim": [
+      "hullin_88"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "yevamah",
+   "term": "yevamah",
+   "hebrew": "יבמה",
+   "variants": [
+    "Yevamah",
+    "yevamah"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "widow bound to her late husband's brother",
+     "candidates": [
+      {
+       "daf": "kiddushin_2",
+       "source": "opus55",
+       "definition": "A widow whose husband died childless, who is bound to his brother (the yavam) for levirate marriage. The bond ends through levirate union or through chalitzah.",
+       "on_this_daf": "The mishnah states that the yavam acquires her only through intercourse, and that she goes free through chalitzah or the yavam's death."
+      }
+     ],
+     "dafim": [
+      "kiddushin_2"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "yikov_ha_din_et_ha_har",
+   "term": "yikov ha-din et ha-har",
+   "hebrew": "יקוב הדין את ההר",
+   "variants": [
+    "Let the Judgment Pierce the Mountain",
+    "yikov ha-din et ha-har",
+    "yikov hadin et hahar"
+   ],
+   "taxonomy_candidates": [
+    {
+     "id": "meth_lifnim_mishurat_hadin",
+     "name": "Lifnim miShurat haDin (Beyond the Letter of the Law)",
+     "score": 3
+    }
+   ],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "strict justice must prevail at all costs",
+     "candidates": [
+      {
+       "daf": "sanhedrin_6b",
+       "source": "opus55",
+       "definition": "The principle that a judge must rule according to the true law without bending toward compromise, whatever the consequences, because judgment belongs to God.",
+       "on_this_daf": "R. Eliezer b. R. Yosei HaGelili bases his ban on compromise on this principle and attributes it to Moshe. He contrasts Moshe with Aharon, who pursued peace."
+      }
+     ],
+     "dafim": [
+      "sanhedrin_6b"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "zar",
+   "term": "zar",
+   "hebrew": "זר",
+   "variants": [
+    "zar"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "a non-priest performing Temple service or eating sacred food",
+     "candidates": [
+      {
+       "daf": "yevamot_33",
+       "source": "opus55",
+       "definition": "A non-kohen, who is forbidden to perform the priestly Temple service and to eat kodashim reserved for priests.",
+       "on_this_daf": "One of the prohibitions in the disputed cases. Rav Acha bar Yaakov stretches the term to mean anyone other than the High Priest in the case of the High Priest's bull."
+      }
+     ],
+     "dafim": [
+      "yevamot_33"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "zekifah_be_milveh",
+   "term": "zekifah be-milveh",
+   "hebrew": "זקיפה במלוה",
+   "variants": [
+    "established as a loan",
+    "partial payment",
+    "zekifah be-milveh"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "converting an obligation into a formal loan",
+     "candidates": [
+      {
+       "daf": "gittin_18_textonly",
+       "source": "opus55",
+       "definition": "Turning a payment obligation, such as a ketubah or a fine, into a standing debt, typically through a court ruling that it must be paid. From then on it is treated like a loan.",
+       "on_this_daf": "Rav requires both partial payment (pegimah) and establishing the debt in court before a ketubah is canceled by the Sabbatical Year, while Shmuel requires only one of them. Shmuel's baraita dates the establishment of the debt from the time of standing trial."
+      }
+     ],
+     "dafim": [
+      "gittin_18_textonly"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  },
+  {
+   "id": "zeman_ha_get",
+   "term": "zeman ha-get",
+   "hebrew": "זמן הגט",
+   "variants": [
+    "Dating Ordinance",
+    "ordinance to date a get",
+    "zeman ha-get"
+   ],
+   "taxonomy_candidates": [],
+   "needs_sense_review": false,
+   "senses": [
+    {
+     "sense": "the rabbinic requirement to date a bill of divorce",
+     "candidates": [
+      {
+       "daf": "gittin_18_textonly",
+       "source": "opus55",
+       "definition": "The Sages required that a get carry the date it was written. The date fixes when the husband's rights to the produce of his wife's property ended, so that his sales of that produce after the divorce can be identified.",
+       "on_this_daf": "Ravina tests the ordinance on a get kept in the pocket and on gittin that arrive from overseas. Abaye relies on each get's date to show whether that woman may already remarry."
+      }
+     ],
+     "dafim": [
+      "gittin_18_textonly"
+     ],
+     "core_definition": null,
+     "status": "draft"
+    }
+   ]
+  }
+ ]
+}

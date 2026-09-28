@@ -1,0 +1,563 @@
+{
+ "daf": "Shabbat 38",
+ "scope": {
+  "start": "37b (end): the dilemma raised before Rabbi Chiyya bar Abba, answered at the top of 38a",
+  "end": "38b: the dilemma over liability for slightly roasting an egg near a hot urn, continuing onto 39a"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Forgotten Pot Cooked on Shabbat: Unwitting or Intentional",
+   "amud": "38a",
+   "gist": "A dilemma about a pot forgotten on the stove before Shabbat that then cooked opens a chain of questions about intent, an anti-deception decree, and whether foods that improve with cooking may ever be left out.",
+   "bullets": [],
+   "illustration": {
+    "caption": "A pot left forgotten on the stove raises the core question of the sugya: is it treated leniently because it was left unwittingly, or strictly because it was left intentionally?",
+    "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A pot forgotten on a stove: if left unwittingly it may be eaten, if left intentionally it may not.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"330\" y=\"260\" width=\"240\" height=\"70\" fill=\"#A8927A\"/><rect x=\"330\" y=\"246\" width=\"240\" height=\"14\" fill=\"#8A7560\"/><path d=\"M400 260 C390 230 410 240 412 210 C424 236 434 222 434 206 C448 232 460 234 460 260 Z\" fill=\"url(#fire)\"/><ellipse cx=\"450\" cy=\"230\" rx=\"70\" ry=\"18\" fill=\"#C9BFA9\"/><rect x=\"405\" y=\"196\" width=\"90\" height=\"40\" rx=\"8\" fill=\"#8A7560\"/><text x=\"450\" y=\"360\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Forgotten pot, cooked on Shabbat</text><use href=\"#sage\" x=\"120\" y=\"230\" width=\"60\" height=\"105\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><rect x=\"60\" y=\"340\" width=\"200\" height=\"40\" rx=\"20\" fill=\"#1B3A8A\"/><text x=\"160\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#FFFFFF\">Unwitting — may eat</text><use href=\"#sage\" x=\"700\" y=\"230\" width=\"60\" height=\"105\" style=\"color:#7A4A55;--beard:#4A3A2E;--wrap:#E4D8C0\"/><rect x=\"620\" y=\"340\" width=\"220\" height=\"40\" rx=\"20\" fill=\"#9A6212\"/><text x=\"730\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#FFFFFF\">Intentional — may not eat</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "Rabbi Chiyya bar Abba's Ruling and Its Two Readings",
+     "amud": "38a",
+     "gist": "Rabbi Chiyya bar Abba rules that unwitting cooking is permitted and intentional cooking forbidden, but his added phrase \"it is no different\" is read in opposite directions by later Sages.",
+     "bullets": [
+      {
+       "text": "Asked about a pot forgotten atop a stove before Shabbat that then cooked on Shabbat, Rabbi Chiyya bar Abba is silent at first.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The next day he teaches publicly: one who cooks on Shabbat may eat it if unwitting, may not if intentional — \"and it is no different.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabba and Rav Yosef read the qualifier leniently: intent matters only for one who actively cooks; one who merely left a pot performed no action, so even if he left it intentionally he may eat the result.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Nachman bar Yitzchak reads it restrictively: true cooking arouses no suspicion of deceit and is always judged by intent, but leaving a pot and claiming \"I forgot\" is suspect, so the Sages penalize even one who genuinely forgot.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "A Baraita's Distinction: Not-Yet-Cooked versus Fully Cooked",
+     "amud": "38a",
+     "gist": "A baraita on the same case limits the unwitting/intentional distinction to food not yet fully cooked; once fully cooked, Rabbi Meir permits it outright and Rabbi Yehuda distinguishes by whether more time helps or harms it.",
+     "bullets": [
+      {
+       "text": "The baraita: a forgotten pot that cooked on Shabbat is permitted if unwitting, forbidden if intentional — but only when the food or water was not yet fully cooked or heated.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If it was already fully heated or cooked, Rabbi Meir permits eating it whether it was left unwittingly or intentionally.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabbi Yehuda distinguishes: fully heated water is permitted since further time only makes it evaporate and worsen, so no one is tempted to stoke the fire; fully cooked food is forbidden since further time improves it, inviting one to stoke the coals.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "General principle stated by Rabbi Yehuda: anything that shrivels and improves (cabbage, beans, finely cut meat) is forbidden; anything that shrivels and worsens is permitted.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Squaring the Baraita with the Two Readings — Left Difficult",
+     "amud": "38a",
+     "gist": "The baraita's leniency for unwitting cooking of not-yet-finished food fits Rav Nachman bar Yitzchak if dated before a later decree, but contradicts Rabba and Rav Yosef under either dating, and the Gemara leaves this unresolved.",
+     "bullets": [
+      {
+       "text": "For Rav Nachman bar Yitzchak, the baraita can be dated before the decree that later forbade even unwitting forgetting, resolving the apparent conflict.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "For Rabba and Rav Yosef, who permit a forgotten pot in every case, the baraita is difficult either way: if dated before the decree, its \"intentional — forbidden\" clause is wrong for them; if after, its \"unwitting — permitted\" clause adds nothing since they permit it regardless.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara concludes: it is indeed difficult, and no answer is found.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "The Decree Against Deceivers, and Harmonizing Two Statements Each",
+     "amud": "38a",
+     "gist": "Rav traces the decree to abuse by false claimants of \"I forgot,\" and the Gemara then reconciles Rabbi Meir's and Rabbi Yehuda's apparently contradictory statements from earlier in the chapter.",
+     "bullets": [
+      {
+       "text": "Rav Yehuda bar Shmuel, citing Rabbi Abba, citing Rav Kahana, citing Rav: originally unwitting cooking or forgetting was always permitted; once many people left pots intentionally and falsely claimed they forgot, the Sages penalized even genuine forgetting.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Objection: in the mishna from the start of the chapter, Rabbi Meir forbids leaving cooked food on the stove even ab initio for Beit Hillel, while Rabbi Yehuda says Beit Hillel permit it — seemingly contradicting their statements here.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Resolved: Rabbi Meir's earlier ban is ab initio, his later leniency is after the fact; Rabbi Yehuda's earlier leniency refers to a stove swept and covered with ashes, his later ban to an unswept stove.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "Reconciling each tanna's two statements about leaving food on the stove",
+      "columns": [
+       "",
+       "Earlier statement (Ch. 1 mishna)",
+       "Later statement (this baraita)"
+      ],
+      "rows": [
+       [
+        "Rabbi Meir",
+        "Cooked food may never be left on the stove, even ab initio, even per Beit Hillel",
+        "Once fully cooked, may be eaten even if left intentionally — after the fact"
+       ],
+       [
+        "Rabbi Yehuda",
+        "Beit Hillel permit leaving food on a stove that is swept and covered with ashes",
+        "Fully heated water is permitted, fully cooked food forbidden — on an unswept stove"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s6",
+     "title": "Is a Deliberate Transgressor Penalized? The Tzippori Story",
+     "amud": "38a",
+     "gist": "A dilemma over whether an intentional transgressor is penalized is tested against Rabbi Yosei's ruling at Tzippori, where the Gemara concludes his prohibition applied only going forward, not to that Shabbat.",
+     "bullets": [
+      {
+       "text": "Dilemma: did the Sages penalize one who transgressed and intentionally left his pot on the fire, forbidding the food, or not?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Shmuel bar Natan, citing Rabbi Chanina: at Tzippori, Rabbi Yosei found hot water left on a stove and did not forbid it, but found shriveled eggs left on a stove and forbade them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If this concerned that same Shabbat, it would prove that an intentional transgressor is penalized even for eggs left unwittingly.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara rejects this: Rabbi Yosei forbade the eggs only for future Shabbatot, not eating them on that Shabbat itself.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s7",
+     "title": "Do Eggs Improve with Long Cooking? Rebbi's Meal of Shriveled Eggs",
+     "amud": "38a",
+     "gist": "The Gemara infers from Rabbi Yosei's distinction that eggs, unlike water, improve with extended cooking, confirmed by Rav Chama bar Chanina's story of eating eggs shriveled to the size of crab-apples together with Rabbi Yehuda HaNasi.",
+     "bullets": [
+      {
+       "text": "Question: Rabbi Yosei permitted hot water but forbade eggs — does this show that eggs shrivel and improve while water shrivels and worsens?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: yes. Rav Chama bar Chanina recounts that he and Rabbi Yehuda HaNasi were once served eggs so overcooked they had shriveled to the size of crab-apples, and they ate many of them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Since extended cooking improves eggs, there is concern one might stoke the coals to shrivel them further, justifying the prohibition on leaving them out.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rabbi Yehuda HaNasi and Rav Chama bar Chanina eat eggs that had shriveled by long cooking down to the size of crab-apples, proof that extended heat improves eggs (38a).",
+      "svg": "<svg viewBox=\"0 0 900 400\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Rabbi Yehuda HaNasi and Rav Chama bar Chanina eat eggs shriveled by long cooking down to the size of crab-apples.</title><rect width=\"900\" height=\"400\" fill=\"#FBF8F1\"/><rect x=\"300\" y=\"260\" width=\"300\" height=\"16\" rx=\"6\" fill=\"#8B6A4E\"/><rect x=\"330\" y=\"276\" width=\"10\" height=\"50\" fill=\"#8B6A4E\"/><rect x=\"560\" y=\"276\" width=\"10\" height=\"50\" fill=\"#8B6A4E\"/><ellipse cx=\"450\" cy=\"254\" rx=\"90\" ry=\"14\" fill=\"#F1ECE0\" stroke=\"#C9BFA9\"/><circle cx=\"410\" cy=\"248\" r=\"12\" fill=\"#D9C08A\"/><circle cx=\"440\" cy=\"250\" r=\"11\" fill=\"#D9C08A\"/><circle cx=\"470\" cy=\"248\" r=\"12\" fill=\"#D9C08A\"/><circle cx=\"495\" cy=\"250\" r=\"10\" fill=\"#D9C08A\"/><use href=\"#sage\" x=\"220\" y=\"150\" width=\"70\" height=\"122\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0\"/><text x=\"255\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Rabbi Yehuda HaNasi</text><use href=\"#sage\" x=\"600\" y=\"150\" width=\"70\" height=\"122\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><text x=\"635\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Rav Chama bar Chanina</text><text x=\"450\" y=\"350\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Eggs shriveled to the size of crab-apples</text></svg>"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "Returning a Pot to the Stove (Chazara)",
+   "amud": "38a–38b",
+   "gist": "Building on the mishna's leniency to return a removed pot, the Gemara asks whether this holds on Shabbat itself and exactly how much handling disqualifies the return.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s9",
+     "title": "Beit Hillel's Leniency Applies Even on Shabbat Itself",
+     "amud": "38a–38b",
+     "gist": "Rav Sheshet's inference and a story about Rav Oshaya both show that returning a pot to the stove is permitted not only before Shabbat but on Shabbat itself.",
+     "bullets": [
+      {
+       "text": "Mishna: Beit Hillel say one may even return a pot taken off the stove back onto the stove on Shabbat.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Sheshet: according to the view permitting return, it is permitted even on Shabbat itself, not only Shabbat eve.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Oshaya reports: while standing before Rabbi Chiya the Great on Shabbat, they passed a kettle of hot water up from the lower floor, poured a cup, and returned it to the stove, and he said nothing — proof that this too is permitted even on Shabbat.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rav Oshaya's story: a kettle of hot water is passed up from the lower floor to Rabbi Chiya the Great, poured, and returned to the stove — all on Shabbat itself (38a–38b).",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Rav Oshaya passes a kettle of hot water up from the lower floor to Rabbi Chiya the Great on the upper floor, pours a cup, and returns it to the stove.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"150\" y=\"40\" width=\"600\" height=\"180\" fill=\"#E3EAF3\"/><rect x=\"150\" y=\"220\" width=\"600\" height=\"200\" fill=\"#F3E6D8\"/><rect x=\"150\" y=\"210\" width=\"600\" height=\"12\" fill=\"#BFAE8E\"/><text x=\"770\" y=\"130\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Upper floor</text><text x=\"770\" y=\"330\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Lower floor</text><use href=\"#sage\" x=\"260\" y=\"70\" width=\"60\" height=\"105\" style=\"color:#50706E;--beard:#A8A39C;--wrap:#E4D8C0\"/><text x=\"290\" y=\"200\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Rabbi Chiya the Great</text><use href=\"#sage\" x=\"260\" y=\"260\" width=\"60\" height=\"105\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\"/><text x=\"290\" y=\"390\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Rav Oshaya</text><rect x=\"340\" y=\"280\" width=\"60\" height=\"40\" rx=\"8\" fill=\"#8A7560\"/><path d=\"M370 280 C420 220 420 140 370 100\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"4\" stroke-dasharray=\"6 6\"/><rect x=\"340\" y=\"90\" width=\"60\" height=\"30\" rx=\"6\" fill=\"#8A7560\"/><rect x=\"330\" y=\"340\" width=\"80\" height=\"60\" fill=\"#A8927A\"/><path d=\"M340 340 C332 316 350 322 352 300\" fill=\"none\" stroke=\"url(#fire)\" stroke-width=\"8\"/></svg>"
+     }
+    },
+    {
+     "id": "s10",
+     "title": "Must the Pot Still Be in Hand? Rabbi Tadai's View Rejected",
+     "amud": "38b",
+     "gist": "Rabbi Tadai limits the leniency to a pot still in one's hand, but Rabbi Ami reports this was his own unaccepted view; the accepted ruling, from Rabbi Yochanan, permits returning it even from the ground.",
+     "bullets": [
+      {
+       "text": "Rabbi Zerika, citing Rabbi Abba, citing Rabbi Tadai: return is permitted only while the pot is still in one's hand; once placed on the ground, it shows he had second thoughts and it may not be returned.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabbi Ami: this was Rabbi Tadai's own view, not the accepted halakha.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rather, Rabbi Chiya, citing Rabbi Yochanan: even if one placed the pot on the ground, it may still be returned to the stove.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "Rav Dimi and Rav Shmuel bar Yehuda Dispute Rabbi Elazar's Version",
+     "amud": "38b",
+     "gist": "The same two positions — permitted only in hand, or even from the ground — are each attributed to Rabbi Elazar by different transmitters, without resolving which is correct.",
+     "bullets": [
+      {
+       "text": "Rav Dimi and Rav Shmuel bar Yehuda disagree, each citing Rabbi Elazar for one side: one says return is permitted only while still in hand, the other says it is permitted even from the ground.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "Chizkiya's Refinement: Did He Originally Intend to Return It?",
+     "amud": "38b",
+     "gist": "Chizkiya, citing Abaye, adds that even the \"in hand\" leniency depends on original intent to return the pot; a second version of the same statement instead attaches this condition to the \"from the ground\" leniency.",
+     "bullets": [
+      {
+       "text": "One version: Chizkiya, citing Abaye — \"in hand\" is permitted only if one's original intent was to return the pot; if he merely reconsidered afterward, it is forbidden. By inference, from the ground it would be forbidden even with such intent.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A second version reverses this: \"from the ground\" is permitted only if his original intent was to return it; if not, it is forbidden. By inference, in hand it is permitted even without original intent.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "Unresolved: Hung on a Stick, on a Bed, or Poured Between Urns",
+     "amud": "38b",
+     "gist": "Rabbi Yirmeya and Rav Ashi raise intermediate cases that fit neither \"in hand\" nor \"on the ground,\" and the Gemara leaves all of them unresolved.",
+     "bullets": [
+      {
+       "text": "Rabbi Yirmeya asks about a pot neither held nor placed on the ground but hung on a stick, or placed atop a bed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Ashi asks about transferring contents from one urn to another urn.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara: these dilemmas stand unresolved.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "title": "Mishna: Oven, Kupach, and Stove Compared",
+   "amud": "38b",
+   "gist": "A new mishna sets stricter rules for an oven and introduces an intermediate apparatus, the kupach, prompting the Gemara to work out precisely what contact with each is forbidden.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The three heating apparatuses of the mishna: an oven (strictest), a kupach (intermediate, varying with its fuel), and a stove (most lenient) (38b).",
+    "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three heating apparatuses compared: an oven, a kupach, and a stove, with what may be placed where.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"30\" y=\"60\" width=\"260\" height=\"300\" rx=\"12\" fill=\"#F3E6D8\"/><text x=\"160\" y=\"96\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#5A2A12\">Oven (tanur)</text><rect x=\"80\" y=\"140\" width=\"160\" height=\"160\" rx=\"10\" fill=\"#8A6A50\"/><rect x=\"110\" y=\"170\" width=\"100\" height=\"100\" fill=\"#5A3A24\"/><text x=\"160\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5A2A12\">Nothing atop, inside, or leaning</text><rect x=\"330\" y=\"60\" width=\"240\" height=\"300\" rx=\"12\" fill=\"#E3EAF3\"/><text x=\"450\" y=\"96\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">Kupach</text><rect x=\"370\" y=\"180\" width=\"140\" height=\"100\" rx=\"10\" fill=\"#7A8FA8\"/><ellipse cx=\"440\" cy=\"180\" rx=\"70\" ry=\"14\" fill=\"#C9D5B8\"/><text x=\"450\" y=\"310\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">Straw: lean yes, atop no</text><text x=\"450\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">Wood: lean no, atop no</text><rect x=\"610\" y=\"60\" width=\"260\" height=\"300\" rx=\"12\" fill=\"#E4EFE4\"/><text x=\"740\" y=\"96\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#24592E\">Stove (kirah)</text><rect x=\"650\" y=\"220\" width=\"180\" height=\"60\" rx=\"10\" fill=\"#9AA7BD\"/><ellipse cx=\"700\" cy=\"220\" rx=\"34\" ry=\"10\" fill=\"#F1ECE0\"/><ellipse cx=\"780\" cy=\"220\" rx=\"34\" ry=\"10\" fill=\"#F1ECE0\"/><text x=\"740\" y=\"310\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">Two pot-holes; pots may sit atop</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s15",
+     "title": "The Mishna's Text: Oven, Kupach, and Their Fuel",
+     "amud": "38b",
+     "gist": "An oven lit with any fuel bars placing a pot inside or atop it; a kupach lit with light fuel is like a stove, but lit with heavy fuel it is like an oven.",
+     "bullets": [
+      {
+       "text": "An oven lit even with straw or rakings: one may place a pot neither inside it nor atop it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A kupach lit with straw or rakings has the status of a stove, so a pot may be placed atop it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A kupach lit with pomace or wood has the status of an oven, so a pot may not be placed atop it.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s16",
+     "title": "May One Lean a Pot Against a Hot Oven? Rav Yosef vs. Abaye",
+     "amud": "38b",
+     "gist": "Rav Yosef reads the mishna's ban as literal — inside or atop only — leaving leaning permitted, but Abaye objects from the mishna's own wording about the kupach.",
+     "bullets": [
+      {
+       "text": "Rav Yosef: the mishna's \"inside it\" and \"atop it\" mean literally that; leaning a pot against the oven's outside is permitted.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye objects from the mishna's kupach clause: since an unswept stove itself does not permit placing a pot atop it, the mishna's case of a stove-status kupach being \"permitted\" must mean leaning, not placing atop — and for an oven-status kupach the mishna forbids exactly that, contradicting Rav Yosef.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s17",
+     "title": "Rav Adda bar Ahava's Resolution, Confirmed by a Baraita",
+     "amud": "38b",
+     "gist": "Rav Adda bar Ahava reads the mishna as speaking of a swept, ash-covered kupach and oven, and a supporting baraita spells out the full grid of what is permitted for each.",
+     "bullets": [
+      {
+       "text": "Rav Adda bar Ahava: the mishna's kupach and oven are both swept and covered with ashes; \"like an oven\" means that even when swept, leaning against it is forbidden, whereas a stove-status kupach, when swept, would permit even placing atop it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A baraita supports Abaye's reading: for an oven lit with straw or rakings, one may not lean a pot against it, and certainly not place it atop or inside it, and all the more so with pomace or wood; for a kupach lit with straw or rakings, one may lean a pot against it but not place it atop it, while lit with pomace or wood, one may not even lean a pot against it.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "The baraita's grid: what contact is permitted with an oven versus a kupach, by fuel",
+      "columns": [
+       "Apparatus (fuel)",
+       "Lean pot against",
+       "Place pot atop"
+      ],
+      "rows": [
+       [
+        "Oven — straw/rakings",
+        "Forbidden",
+        "Forbidden"
+       ],
+       [
+        "Oven — pomace/wood",
+        "Forbidden (all the more so)",
+        "Forbidden"
+       ],
+       [
+        "Kupach — straw/rakings",
+        "Permitted",
+        "Forbidden"
+       ],
+       [
+        "Kupach — pomace/wood",
+        "Forbidden",
+        "Forbidden"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s18",
+     "title": "What Exactly Is a Kupach? An Intermediate Level of Heat",
+     "amud": "38b",
+     "gist": "Rav Aha challenges Rav Ashi that a kupach's status should be fixed regardless of fuel; Rav Ashi answers that it genuinely occupies a middle heat level between stove and oven.",
+     "bullets": [
+      {
+       "text": "Rav Aha, son of Rava, to Rav Ashi: if a kupach is like a stove it should stay lenient even with heavy fuel, and if like an oven it should stay strict even with light fuel — why does its status shift with the fuel?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Ashi: a kupach is halakhically intermediate — hotter than a stove but cooler than an oven — so light fuel keeps it stove-like and heavy fuel pushes it to oven-like.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "The Physical Difference Between a Kupach and a Stove",
+     "amud": "38b",
+     "gist": "Rabbi Yosei bar Chanina defines a kupach as a single-pot vessel and a stove as a double kupach for two pots, confirmed by the laws of ritual purity for a broken stove.",
+     "bullets": [
+      {
+       "text": "Rabbi Yosei bar Chanina: a kupach is a small vessel like a stove but with only one hole for a single pot; a stove is like a double kupach, with room for two pots.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye, or Rabbi Yirmeya: a purity-law mishna confirms this — a stove split lengthwise is pure as a broken vessel, but split widthwise between the two pot-spaces it remains impure since it becomes two small stoves; a kupach, split either way, is pure, since neither half can hold even one pot.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s20",
+   "title": "Mishna: Heating Without Fire — Eggs, Sun, and the Tiberias Conduit",
+   "amud": "38b",
+   "gist": "A further mishna forbids roasting an egg near hot water or by sun-warmed materials, and records how the people of Tiberias tried to bypass the cooking laws by piping cold water through their hot springs.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s21",
+     "title": "The Mishna's Cases: Egg by an Urn, Sun-Warmed Cloths and Sand",
+     "amud": "38b",
+     "gist": "One may not roast an egg next to a hot urn, wrap it in sun-warmed cloths (though Rabbi Yosei permits this), or bury it in sun-warmed sand or dust.",
+     "bullets": [
+      {
+       "text": "One may not place a raw egg next to a hot-water urn so that it will roast slightly.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "One may not wrap an egg in cloths heated by the sun to warm it, but Rabbi Yosei permits this.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Similarly, one may not insulate an egg in sun-heated sand or road dust so that it will roast.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s22",
+     "title": "The Tiberias Water-Pipe: Cold Water Through Hot Springs",
+     "amud": "38b",
+     "gist": "The people of Tiberias piped cold water through their hot springs to heat it passively on Shabbat; the Rabbis rule the heated water forbidden for bathing and drinking on Shabbat, but only for bathing on a Festival.",
+     "bullets": [
+      {
+       "text": "The people of Tiberias ran a pipe of cold water through a channel of their hot springs, hoping to heat the cold water passively.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Rabbis: if the water passed through on Shabbat, it is treated as water heated on Shabbat itself and is forbidden for both bathing and drinking.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If it passed through on a Festival, it is forbidden for bathing but permitted for drinking, since one may even boil water directly on a fire for eating and drinking on a Festival.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The people of Tiberias run a pipe of cold drinking water through a channel of their hot springs, hoping to heat it without lighting a fire on Shabbat (38b).",
+      "svg": "<svg viewBox=\"0 0 900 400\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>The people of Tiberias run a pipe of cold water through a channel of their hot springs, hoping to heat it passively on Shabbat.</title><rect width=\"900\" height=\"400\" fill=\"#FBF8F1\"/><path d=\"M40 260 C220 220 340 300 460 260 C600 220 700 300 860 260\" fill=\"none\" stroke=\"#E4572E\" stroke-width=\"46\" stroke-linecap=\"round\" opacity=\"0.55\"/><path d=\"M40 260 C220 220 340 300 460 260 C600 220 700 300 860 260\" fill=\"none\" stroke=\"#6FA3C8\" stroke-width=\"16\" stroke-linecap=\"round\"/><text x=\"450\" y=\"150\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Tiberias hot springs</text><text x=\"450\" y=\"176\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5B6478\">outer channel: natural hot water</text><text x=\"450\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#3A5692\">inner pipe: cold drinking water</text><rect x=\"330\" y=\"356\" width=\"240\" height=\"34\" rx=\"17\" fill=\"#9A6212\"/><text x=\"450\" y=\"378\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Heated on Shabbat: forbidden to bathe or drink</text></svg>"
+     }
+    },
+    {
+     "id": "s23",
+     "title": "Liability for Slightly Roasting an Egg",
+     "amud": "38b → 39a",
+     "gist": "Asked about the law for one who violated the mishna and roasted an egg by a hot urn, Rav Yosef rules he is liable to a sin-offering, and Mar, son of Ravina, finds support from a related mishna.",
+     "bullets": [
+      {
+       "text": "Dilemma: one who violated the mishna and slightly roasted an egg next to an urn — what is the ruling?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yosef: he is liable to bring a sin-offering, since he performed the biblically forbidden labor of cooking.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Mar, son of Ravina: we learned something similar in a mishna, cited as support.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "continues": "Continues on 39a: the mishna about salted and old-salted fish, where rinsing alone completes the 'cooking,' is brought to support treating a slight change of state as full cooking; the Gemara then turns to Rabbi Yosei's leniency for sun-warmed cloths and the dispute over 'derivatives of the sun' versus 'derivatives of fire.'"
+    }
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "Grouped 38a.1–38a.9 (the forgotten-pot sugya) into one top-level section with six children (ruling, baraita objection, reconciliation, decree/harmonizing, penalty dilemma, egg-improvement) rather than splitting into several top-level sections, since all six turn on the single question of intent for a forgotten pot.",
+  "Combined 'what was the decree' and 'harmonizing Rabbi Meir's/Rabbi Yehuda's two statements' into one section (s5) because both are the Gemara's single move of dating and re-reading earlier statements; an alternative would split them into two sections.",
+  "Started the outline at 38a.1 rather than reconstructing the truncated question from the end of 37b, since the question and answer appear together there and the preceding daf's tail did not include this exchange.",
+  "The mishna comparing oven/kupach/stove (38b.5) and the mishna on egg-roasting/Tiberias (38b.10) were each kept as their own top-level section, following the daf's own mishna breaks, rather than merging all of 38b into one large section."
+ ],
+ "coverage_notes": [
+  "No shiur exists for this daf; the entire outline is built directly from the Gemara text, so no 'Gemara text only' flags are used, per the instructions for shiur-less dafim.",
+  "The dilemma 'raised before Rabbi Chiyya bar Abba' begins at the very end of 37b (cut off in the provided text) but its content and answer appear only at the start of 38a; treated 38a.1 as the start of this unit.",
+  "The final section (liability for roasting an egg) is left mid-argument; Mar, son of Ravina's proof and the Gemara's further discussion of Rabbi Yosei's leniency continue onto 39a, noted via the 'continues' field."
+ ]
+}

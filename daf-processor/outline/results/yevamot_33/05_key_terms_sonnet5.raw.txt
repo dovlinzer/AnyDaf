@@ -1,0 +1,74 @@
+{"daf": "Yevamot 33", "key_terms": [
+  {
+    "term": "issur chal al issur",
+    "hebrew": "איסור חל על איסור",
+    "sense": "whether a second prohibition can take effect on something already forbidden",
+    "definition": "A principle discussing whether a new prohibition can attach to an item or person already under an existing prohibition, and if so, whether one is then liable on two separate counts.",
+    "on_this_daf": "All three disputed cases (zar on Shabbat, tamei ba'al mum, zar eating melikah) turn on whether the second prohibition takes effect alongside the first, generating the R. Chiyya/bar Kappara dispute.",
+    "aliases": ["issur chal al issur"],
+    "sections": ["s1","s2","s3","s4","s5","s6","s7","s8","s9"]
+  },
+  {
+    "term": "issur kolel",
+    "hebrew": "איסור כולל",
+    "sense": "a more inclusive prohibition added to an existing narrower one",
+    "definition": "A case where a new prohibition takes effect on an already-forbidden item or person because the new prohibition is broader, sweeping in other items/people as well as the one already forbidden.",
+    "on_this_daf": "Proposed to explain the zar-on-Shabbat and tamei-ba'al-mum cases, where Shabbat or tumah adds a wider prohibition onto the narrower existing one; ultimately the baraita shows R. Shimon exempts here but not in bevat achat.",
+    "aliases": ["איסור כולל", "issur kolel"],
+    "sections": ["s2","s8","s9"]
+  },
+  {
+    "term": "issur bevat achat",
+    "hebrew": "איסור בבת אחת",
+    "sense": "two prohibitions arising simultaneously",
+    "definition": "A case where two prohibitions take effect on a person or item at the very same moment, rather than one being added to a pre-existing one.",
+    "on_this_daf": "The melikah case is inherently bevat achat; the Gemara reworks the other two cases into simultaneous scenarios and ultimately shows via the baraita that even R. Shimon concedes liability on two counts here.",
+    "aliases": ["issur bevat achat", "בבת אחת", "בת אחת"],
+    "sections": ["s2","s3","s4","s6","s7","s8","s9"]
+  },
+  {
+    "term": "issur mosif",
+    "hebrew": "איסור מוסיף",
+    "sense": "a prohibition that extends an existing one to additional people",
+    "definition": "A case where a new prohibition takes effect on someone already forbidden because the new prohibition extends the scope of who is forbidden, rather than what is forbidden.",
+    "on_this_daf": "Named as one of three ways a prohibition can attach to another, alongside issur kolel and bevat achat, in the resolution of bar Kappara's error.",
+    "aliases": ["issur mosif"],
+    "sections": ["s8"]
+  },
+  {
+    "term": "zar performing avodah",
+    "hebrew": "זר ששימש",
+    "sense": "a non-priest who performs Temple service",
+    "definition": "A non-priest (zar) is forbidden to perform the Temple service; doing so is a punishable transgression, though acts like slaughter that are valid even from a zar are excluded.",
+    "on_this_daf": "The recurring case of a zar serving on Shabbat drives the whole issur-kolel/bevat-achat analysis, and later the Gemara asks which specific act of service could actually create Shabbat liability for such a zar.",
+    "aliases": ["זר ששימש בשבת", "זר"],
+    "sections": ["s1","s2","s3","s4","s5","s9","s10","s11","s12","s13"]
+  },
+  {
+    "term": "melikah",
+    "hebrew": "מליקה",
+    "sense": "pinching the neck of a bird offering",
+    "definition": "The method of killing a bird brought as a sacrifice, done by pinching its neck with a fingernail rather than slaughtering it with a knife; a zar who eats such a bird violates the prohibitions against a non-priest eating consecrated food and against eating an unslaughtered carcass.",
+    "on_this_daf": "The zar-who-ate-melikah case is the paradigm of simultaneous prohibitions, since both violations arise the instant the neck is pinched, and its omission from a baraita is used to refute bar Kappara.",
+    "aliases": ["מליקה", "melikah"],
+    "sections": ["s1","s2","s4","s8","s9"]
+  },
+  {
+    "term": "eshet ish",
+    "hebrew": "אשת איש",
+    "sense": "a married (or betrothed) woman forbidden to other men",
+    "definition": "A woman who is betrothed or married is forbidden to all men other than her husband; relations with her constitute a severe arayot violation.",
+    "on_this_daf": "Both switched men are liable for eshet ish since betrothal alone renders each woman forbidden to every other man, forming the base violation in the mishnah's scenario.",
+    "aliases": ["אשת איש", "eshet ish"],
+    "sections": ["s14","s15","s16"]
+  },
+  {
+    "term": "chatat",
+    "hebrew": "חטאת",
+    "sense": "sin-offering brought only for an unwitting transgression",
+    "definition": "A sacrifice brought to atone for certain transgressions committed unintentionally; it is not brought for a deliberate violation.",
+    "on_this_daf": "R. Chiyya's count of sixteen sin-offerings for the switched couples, and the requirement that sin-offerings apply only to unwitting acts, is the basis for reading the mishnah's switch as accidental (huchlafu).",
+    "aliases": ["חטאות", "חטאת"],
+    "sections": ["s16"]
+  }
+]}

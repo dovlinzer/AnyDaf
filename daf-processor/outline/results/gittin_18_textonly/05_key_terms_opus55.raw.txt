@@ -1,0 +1,101 @@
+```json
+{
+  "daf": "Gittin 18a-18b",
+  "key_terms": [
+    {
+      "term": "zeman ha-get",
+      "hebrew": "זמן הגט",
+      "sense": "the rabbinic requirement to date a bill of divorce",
+      "definition": "The Sages required that a get carry the date it was written. The date fixes when the husband's rights to the produce of his wife's property ended, so that his sales of that produce after the divorce can be identified.",
+      "on_this_daf": "Ravina tests the ordinance on a get kept in the pocket and on gittin that arrive from overseas. Abaye relies on each get's date to show whether that woman may already remarry.",
+      "aliases": [
+        "ordinance to date a get",
+        "Dating Ordinance"
+      ],
+      "sections": ["s1", "s2", "s3", "s5"]
+    },
+    {
+      "term": "havchanah",
+      "hebrew": "הבחנה",
+      "sense": "three-month wait before a divorcée or widow remarries",
+      "definition": "The rabbinic rule that a divorcée or widow waits three months before remarrying. This ensures that the paternity of any child she bears will not be in doubt.",
+      "on_this_daf": "Rav counts the three months from the giving of the get and Shmuel from its writing. Each is supported by a baraita, and the halakha follows Shmuel.",
+      "aliases": [
+        "three-month wait",
+        "Three-Month Wait"
+      ],
+      "sections": ["s4", "s5", "s6", "s7"]
+    },
+    {
+      "term": "get yashan",
+      "hebrew": "גט ישן",
+      "sense": "an outdated bill of divorce",
+      "definition": "A get written while the couple remained together, after which the husband was secluded with his wife before giving it. The Sages disqualify such a get because its date could mislead people about the timing of a child born afterward.",
+      "on_this_daf": "In both baraitot a delayed get is not considered outdated, because the husband was not secluded with his wife during the delay.",
+      "aliases": [
+        "outdated get"
+      ],
+      "sections": ["s6"]
+    },
+    {
+      "term": "peirot",
+      "hebrew": "פירות",
+      "sense": "the husband's right to the produce of his wife's property",
+      "definition": "During the marriage the husband is entitled to the produce of his wife's property. Once the divorce takes effect, this right ends.",
+      "on_this_daf": "Disputes over produce the husband sold explain why the get's date matters. Rava explains that R. Shimon ends the husband's rights to the produce once he decides to divorce, which is shown by the writing of the get.",
+      "aliases": [
+        "rights to the produce",
+        "Rights to Produce",
+        "produce"
+      ],
+      "sections": ["s3", "s11"]
+    },
+    {
+      "term": "shemittat kesafim",
+      "hebrew": "שמיטת כספים",
+      "sense": "cancellation of debts by the Sabbatical Year",
+      "definition": "The Torah law that outstanding loans are canceled at the close of the Sabbatical Year. Obligations that are not yet loans are not affected.",
+      "on_this_daf": "Rav and Shmuel dispute at what point a widow's ketubah becomes a debt that the Sabbatical Year cancels.",
+      "aliases": [
+        "Sabbatical Year",
+        "Shemittah"
+      ],
+      "sections": ["s8"]
+    },
+    {
+      "term": "zekifah be-milveh",
+      "hebrew": "זקיפה במלוה",
+      "sense": "converting an obligation into a formal loan",
+      "definition": "Turning a payment obligation, such as a ketubah or a fine, into a standing debt, typically through a court ruling that it must be paid. From then on it is treated like a loan.",
+      "on_this_daf": "Rav requires both partial payment (pegimah) and establishing the debt in court before a ketubah is canceled by the Sabbatical Year, while Shmuel requires only one of them. Shmuel's baraita dates the establishment of the debt from the time of standing trial.",
+      "aliases": [
+        "established as a loan",
+        "partial payment"
+      ],
+      "sections": ["s8"]
+    },
+    {
+      "term": "asukin be-oto inyan",
+      "hebrew": "עסוקין באותו ענין",
+      "sense": "continuous engagement between writing and signing a document",
+      "definition": "A document written by day is normally invalid if it is signed that night. It remains valid if the scribe and witnesses were continuously occupied with it from the writing until the signing.",
+      "on_this_daf": "This explains Rav's silence when R. Chiyya bar Rav's ketubah was signed at night, so his silence does not show that he agrees with Shmuel. The source is a baraita of R. Elazar bar R. Tzadok.",
+      "aliases": [
+        "continuously engaged in the matter"
+      ],
+      "sections": ["s9"]
+    },
+    {
+      "term": "mishum tenai",
+      "hebrew": "משום תנאי",
+      "sense": "extra signers who sign to fulfill a stipulation rather than as witnesses",
+      "definition": "When a husband makes a get depend on additional people signing it, those extra signers may be only fulfilling his condition, not serving as witnesses. Only two of them then serve as the legal witnesses.",
+      "on_this_daf": "R. Yochanan holds that when ten are told \"all of you write,\" only two sign as witnesses and the rest sign for the stipulation, while Reish Lakish treats all ten as witnesses. They differ on late signers and on a relative among the ten.",
+      "aliases": [
+        "stipulation"
+      ],
+      "sections": ["s13", "s14", "s15", "s16"]
+    }
+  ]
+}
+```

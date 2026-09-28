@@ -1450,6 +1450,475 @@ These 5 look like they should also be full dapim by the same coverage rule, but 
 
 **Punch-list item, after the Menachot investigation above is resolved:** rerun `upload_to_supabase.py` for the affected tractates (Hullin, Nazir, Niddah, Bekhorot, and Menachot once fixed) so Supabase's `shiur_content` rows pick up the corrected `.0`/`.5` daf numbers from the new directory names — not done automatically by the rename itself.
 
+### Study outline pass (`outline_pass.py`) — prototype, 2026-09-23/24
+
+**Running checklist: `TODO.md` (repo root).** Keep it current: tick items off and add new ones
+as this work moves, in the same session.
+
+**Status (2026-09-27): prompt essentially final, model chosen (Opus 5.5), effort level awaiting the
+testers' blind A/B votes; 71 outlines exist (12 test dafim + a continuous 30-daf batch at Medium and
+High); nothing in the apps yet. The plan to the full run, and every open decision, is at the top of
+`TODO.md` ("Where we are, and the plan to the full run") — read that first.** Decided 2026-09-27:
+the outline pass names its sages (done, see "Sages panel pilot") and will also generate the section
+summaries and quizzes the app now makes on demand (not built; design questions in TODO.md).
+A nested per-daf study outline (sections → subsections → sub-subsections, bullets at two detail
+levels, optional charts, 4–5 SVG illustrations, `returns_to` links when the Gemara circles back).
+
+| File | Role |
+|---|---|
+| `outline_pass.py` | Batch API pass (one batch per model). `--dafim x y:textonly`; `--dry-run`. Writes `outline/results/<key>/04_outline_<model>.json` |
+| `outline/example_chagigah_6.json` | The author-approved worked example embedded in the prompt. **Never include Chagigah 6 in a test set** |
+| `outline/sprite.svg` | Shared SVG symbols (sage, man, woman, child, lamb, ram, goat, bull, gradients) the illustrations reference by id |
+| `outline/textonly/<daf>/` | Hand-assembled `sefaria*.md` for dafim with no output dir (e.g. `shabbat_38`) |
+| `build_outline_review.py` | Bundles results into one side-by-side review page; sanitizes model-written SVG |
+
+Author's rules baked into the prompt (don't loosen without asking): hierarchy from the sugya's
+logic, not the segmentation; Gemara order, never reorder; text beats essay on facts, and the
+discrepancy log (`coverage_notes`) is editorial only, never shown to learners; chart rows =
+parties/positions, columns = cases; sages drawn plainly (no waving, no tallit/tzitzit).
+
+**Cost, measured (batch pricing, with illustrations, effort `high`):** Sonnet 5 $0.28/daf,
+Opus 5 $0.59, Opus 5.5 $0.59 — about double the pre-run estimate, because adaptive thinking was
+65–78% of billed output tokens. One Sonnet 5 request (bava_metzia_11) hit `max_tokens=64000`
+and truncated. Try lower effort before any corpus run. *(Superseded by the revised prompt's
+effort test below: Medium $0.64–0.72/daf, High $0.75–0.97/daf; in the 30-daf batch a Medium daf
+used a median 44.5K output tokens, ~17K of them the outline itself, and the ~34K-token system
+prompt was cache-read on only 13 of 60 requests — see TODO.md on a 1-hour cache.)*
+
+**Test-run verdict (author, 2026-09-24, preliminary):** Opus 5.5 is the clear winner on nesting,
+logical organization, detail and illustrations; Opus 5 is close on illustrations. Full review
+report pending. Review page: https://claude.ai/artifact/Er6eCeed7H8dEUTef61RPH
+
+**Author's review findings, in progress (2026-09-24) — apply to the prompt together when the review ends:**
+- *Bava Batra 84:* Opus 5 distilled the 83b Mishnah (four scenarios) and the 84b Mishnah into
+  one picture each; Opus 5.5 has nothing comparable.
+- *Bava Metzia 11:* Opus 5.5 wins with Shmuel's condition / the unsecured courtyard (one of the
+  sugya's central distinctions; missing in Opus 5) and, subtly, field vs. town. Opus 5 wins with
+  Rav Pappa's distinction (absent in 5.5 — likely because 5.5 made it a subsection, 5.0 a
+  top-level section).
+- *Charts, Bava Metzia 11:* Opus 5 **broke the row/column rule** in its first chart ("chatzer as
+  hand") even though the rule was in the prompt for this run. Author prefers Opus 5's R. Abba
+  chart: more conceptual, less a replay of the Gemara's back-and-forth (Opus 5.5's). On R.
+  Yaakov's contrary report both distill the back-and-forth, but 5.5 picks the better information.
+  Opus 5.5 has an important Abaye/Rava chart at the end, missing in 5.0, even though it sits
+  three levels deep: 5.5 recognized chart-worthy material regardless of nesting.
+- *Charts, Bava Batra 84:* Opus 5 again wins by charting the Mishnah.
+- *More cases where Opus 5 chose better (author, 2026-09-24), all already covered by the
+  revised rules below:* Niddah 60, Opus 5's last chart on Bar Padda's time periods (an important
+  debate with several scenarios; missing in 5.5); Shabbat 38, Opus 5's last chart "Ketzad Tolot"
+  (missing in 5.5); Shabbat 38, Opus 5's first chart "Two Readings of Ve-lo Shanah" is conceptual,
+  where 5.5's "Reconciling R. Meir" replays the back-and-forth.
+- *Niddah 60, nesting depth (author, open question):* Opus 5 makes "Unequal Loss", "Two Paths" and
+  "Attributing a Stain to a Woman Who Has a Stain" top-level sections; Opus 5.5 nests them under
+  "To Whom May She Attribute the Stain?" — logically right, but major Gemara discussions then read
+  as sub-discussions, and that one section holds about half the daf. Measured across the 12 dafim
+  (share of all bullets in the largest top-level section): Opus 5.5 has fewer top-level sections
+  on 8 of 12 dafim, and its largest section passes half the daf on 5 (BM 11 75%, Yevamot 33 59%,
+  Sanhedrin 6b 59%, Hullin 88 51%, Niddah 60 49%) against 2 for Opus 5. So it is a consistent
+  5.5 tendency, not a one-off. **Decided (author):** keep the logic-first rule and fix visibility:
+  (1) a two-level "at a glance" contents list at the top of the outline (in the shared renderer),
+  and (2) prompt rule: a large parent's gist names its main sub-discussions. Revisit a structural
+  rule only if the 50-daf run shows one section swallowing most of the daf often.
+- *Sanhedrin 6b, headings (author: "quite important"):* Opus 5's headings are better: concrete,
+  laying out the items or issues, and using the key terms ("Bitzua: Sin, Mitzva, or a Window That
+  Closes"; "'Lo Taguru': Fear, Recusal and Speech in Court") where 5.5 has "Compromise in Court:
+  The Tosefta's Four Positions" and "No Fear and Full Accountability in Court". The author wants
+  headings that are small summaries in themselves and carry key terms. Measured over the top two
+  levels of all 12 dafim: Opus 5 median 8 words, 40% name the options/issues, 25% contain a key
+  term; Opus 5.5: 7 words, 36%, 23%. So a small model gap, and both well short of the goal.
+  **Proposed heading rule:** a heading names the options, positions or issues its section lays
+  out, not only its topic; uses the section's key term when it turns on one; up to ~12 words, at
+  most three or four items ("Term: A, B or C", or a question the section answers). **Also
+  proposed: revise the Chagigah 6 example's topic-only headings** (the model imitates the example
+  more than the rules) — **applied 2026-09-24 with the
+  author's edits** (and s5 split into s5 + s5a); record in `outline/example_heading_proposals.md`.
+- *Count check (2026-09-24):* both models drew **exactly 5 pictures on every one of the 12
+  dafim**, and made about as many charts (Opus 5: 32, Opus 5.5: 30). So the gap is in *which*
+  material gets the slots, not how many: the "4–5" target is acting as a hard ceiling. The
+  priority order and the scaled 4–7 range below address both; check after the rerun that the
+  number now varies with the daf.
+- *Chart count (author, end of review 2026-09-24):* sometimes Opus 5 has a helpful chart 5.5
+  lacks, and sometimes the reverse — a judgment call, no rule. The prompt says "Most dafim have
+  zero to two charts", yet both models averaged ~2.5 (distribution 1–4 per daf), so the stated
+  norm acts as a brake on exactly the borderline charts. **Proposed:** "Most dafim have two to four
+  charts; fewer is right when the daf has little grid-shaped material", keeping "Never force one"
+  and the 2×2 real-content minimum as noise guards; plus chart runners-up (considered, not drawn,
+  one-line reason) in the editorial notes, to calibrate after the rerun.
+- **Revised chart rules to add:** (a) when a chart could go either way, lean conceptual (the
+  principles and distinctions at stake) over replaying the Gemara's back-and-forth, without
+  becoming abstract; (b) a Mishnah with some complexity gets a chart or an illustration, but not a
+  simple one; this is a judgment, not an iron rule; (c) the row/column rule needs more weight
+  (say it again at the output step), and a cheap local check could flag charts whose column
+  headers look like rabbis' names.
+- *Shabbat 38:* Opus 5 drew the Mishnah's oven, kupach and stove left to right in the Mishnah's
+  order; Opus 5.5 drew them reversed. Opus 5 also had a very helpful chart under "Unresolved
+  Cases: Stick, Bed…" summarizing all four scenarios, which 5.5 lacks. The author notes it matters
+  partly because it is practical Shabbat halakha.
+- **Left-to-right rule to add:** pictures read left to right (the page is in English): a sequence,
+  list or set of compared items runs left to right in the order the text gives it. Exception: a
+  picture of a real physical layout (the Temple, a courtyard with directions) follows the real
+  arrangement and labels the directions. Hebrew labels still read right to left within themselves.
+- *Berakhot 31b (Opus 5):* Hebrew labels ending in "?" showed it at the right end (כל סעודה…,
+  שלש בדקי מיתה); Opus 5's Hullin 88 verse citations in parentheses had the same problem. Cause:
+  SVG lays text out left to right unless told otherwise. **Fixed locally, 2026-09-24:**
+  `fix_hebrew_direction()` in `build_outline_review.py`, called by `clean_svg()` (so the review
+  page, `upload_study_aids.py` and the web prototype all get it), marks mostly-Hebrew `<text>`
+  labels `direction="rtl"` and swaps `text-anchor` start/end so each label stays where it was
+  drawn (verified visually; label positions unchanged). No prompt change needed, though the prompt
+  may also ask for `direction="rtl"` on Hebrew labels.
+- **Practical-halakha weighting — dropped (author, 2026-09-24):** not added to the prompt. The
+  author expects the wider 4–7 picture range to make room for such cases on its own, and doesn't
+  want a rule that could skew the distribution. The related outcome-chart rule (cases × ruling)
+  is dropped too.
+- **Revised illustration-selection rules to add** (currently the prompt leaves selection mostly to
+  judgment): (1) a Mishnah with some complexity gets a picture distilling its cases (not a simple
+  one: judgment, not an iron rule); (2) the pivotal
+  distinctions/debates that become running themes get one wherever they sit — importance
+  decides, not nesting depth; (3) then any main discussion still unillustrated, then the steps
+  hardest to picture from the text; (4) revisiting a scene is good when it shows something new
+  (another opinion's layout, a changed arrangement, a later case) — only a repeat that adds
+  nothing is ruled out; (5) 4–7 per daf, scaled to the daf; list the runners-up (considered but
+  not drawn, with a reason) in the editorial notes.
+
+**"Dilemma" rule (author's pet peeve, 2026-09-24):** Sefaria's translation says "dilemma" loosely;
+the prompt's Bullets section now asks for challenge/objection (*kushya*, *meitivei*) or question
+(*ba'ya*), keeping "dilemma" for a real choice between two equal options, and `check_output()` flags
+every "dilemma". The old outlines use it 5 times (Shabbat 38, Shabbat 21's "Abaye's Dilemma"), all
+for a *ba'ya*.
+
+**Prompt revised 2026-09-24 with all the review findings** (see TODO.md for the list; old version
+`outline_pass.before_review.py`). New: `key_terms` and editorial `runners_up` in the output schema
+(example merged at load time from `example_chagigah_6.json` + `key_terms_example_chagigah_6.json` +
+`EXAMPLE_RUNNERS_UP`); `{EXCEPTIONS}` filled from `transliteration_exceptions.json`; the key-term
+rules are spliced from `key_terms_pass.py` so the two never drift; `--efforts` runs tag results
+`opus55_<effort>`; `check_output()` flags sages as chart column headers (verified: catches Opus 5's
+transposed BM 11 chart; 2 flags across all 36 old outlines), picture count outside 4–7, key-term
+problems, and exception-list spellings. `upload_study_aids.py` must also drop `runners_up`.
+**Effort test, 2026-09-24** (revised prompt, Opus 5.5, batch; comparison page
+https://claude.ai/artifact/1gpH815jJnVCTTFnDFQM6K): total $3.13.
+
+| Effort | Cost, 2 dafim | Bava Metzia 11 | Shabbat 38 (no shiur) |
+|---|---|---|---|
+| high | $1.45 | **hit max_tokens 64,000** — cut off before key terms/notes | 24 sections, 56 bullets, 4 charts, 6 pictures |
+| medium | $1.28 | 16 sections, 53 bullets, 3 charts, 5 pictures, 8 terms | 21 sections, 55 bullets, 4 charts, 6 pictures |
+| low | $0.40 | 15 sections, 48 bullets, 2 charts, 3 pictures | 12 sections, 38 bullets, 4 charts, 3 pictures |
+
+Medium costs nearly as much as high here (~$0.64/daf; both used ~56K output tokens), because the
+revised prompt asks for more (4–7 pictures, key terms, runners-up). Low is a third of the cost but
+under-delivers (3 pictures on both, Shabbat 38 half the sections). **Second round, 2026-09-24** (author: Medium as good as High, sometimes better, notably its
+green/red use in pictures; prompt then gained the ruling colors, `#mark-ok`/`#mark-no` in the
+sprite, "forbidden" not "prohibited", and the "dilemma" rule): Shabbat 21, Niddah 60, Bava Batra 84
+at Medium and High, $4.71 in all. Medium $0.64–0.72/daf, High $0.75–0.97/daf; none hit the cap.
+All six use the marks, none says "prohibited" or "dilemma". Niddah 60 Medium puts the whole daf
+under 2 top-level sections (High: 4). Two Medium charts flagged for readings/rulings as columns. `max_tokens` raised to 128,000
+(Opus 5.5's ceiling) after the truncation. Author's verdict pending.
+
+**Round 3 rules (author, 2026-09-24; previous prompt kept as `outline_pass.before_round3.py`):**
+(1) Hebrew/Aramaic only for terms of art; ordinary things in English ("one kind", not *min echad*;
+"wax", not *sha'avah*), and never both for one thing in a heading. (2) A section opening a new
+Mishnah has a heading starting "Mishnah:"; `check_output()` flags any Sefaria line starting
+"MISHNA" whose opening section lacks it (catches BB 84 Medium). (3) No label may run over a
+drawing or another label. (4) **Daf boundaries are computed, not left to the model:**
+`daf_scope()` uses each shiur's verbatim Gemara quotes (03_final.md): a daf ends at its own last
+quote or just before the next shiur's first quote, whichever is later, the next starts on the
+following line, and a daf always keeps its own amud's opening lines (Chagigah 6's first quote is
+6a.15). The prompt then says "Outline from [X] through [Y]" and `check_anchors()` checks the
+outline starts and ends there. Consecutive test pairs meet with no gap or overlap; 100 of 2,363
+dafim fall back to page boundaries (half are "Xb" half-daf folders or their pairs; several are
+known wrong-audio dafim). (5) **Fix-ups:** the effort comparison page has a Flag button on every
+section, chart and picture (kind + note, stored in the page's `flags` collection); save them with
+ArtifactData (`list`, `out_dir`), `fixup_pass.py --from-flags DIR --tag T` writes
+`outline/fixups/<daf>__<tag>.json`, and `fixup_pass.py --dafim ... --tag T` (Batch, Opus 5.5
+medium, ~$0.10–0.15/daf) returns edit operations only (set / insert / move / delete), applied
+locally with the original kept as `04_outline_<tag>.before_fixups.json` and every check re-run.
+Mark applied flags `status: "applied"` in the page's store afterwards.
+
+**Effort round 3: a continuous 30-daf batch (2026-09-24, Opus 5.5, batch, Medium + High = 60
+requests, all succeeded; log `outline/effort_run3.log`).** Bekhorot 10–19, Bava Metzia 2–11,
+Kiddushin 3–12, chosen by the author so daf yomi testers can read straight through and so gaps,
+overlaps and running concepts across dafim show. Blind A/B page for the testers: `build_ab_review.py`
+(https://claude.ai/artifact/PouYt4zKeJaESnUXUKrap2). A/B is shuffled per daf (seeded), editorial
+fields are dropped, and the build asserts no tag name reaches the page; the key is only in
+`outline/ab_key_round3.json`. Votes (overall / structure / charts / pictures + notes) stay in each
+tester's browser, and "Copy my results" gives text to send back. The page declares no runtime
+capabilities, so it can be shared with testers outside YCT (a `db` store would make it org-only). BM 11's first-round results are kept
+as `04_outline_opus55_{medium,high}.round1.json`. Found and fixed while running it:
+- **Dafim with no shiur** (Bekhorot 12 and 19) are text-only folders under `outline/textonly/`,
+  assembled from the neighbours' cached `sefaria*.md`. `textonly_scope()` gives such a daf the gap
+  between its neighbours' outlines (the line after the previous daf's end to the line before the
+  next daf's start), instead of its own two amudim, which would overlap. `prev_dir`/`next_dir` now
+  also look in `outline/textonly/`.
+- **The prompt showed only 4 lines of the next daf, but a scope can end further in.** On BM 3
+  (10 lines), Kiddushin 7 (5), Kiddushin 10 and Bekhorot 17 (1 each) the model was told to outline
+  through lines it never saw. `edge_items()` now widens the next-daf lines to the scope end (plus
+  two lines of context) for both the prompt and `label_pool()`; the neighbours' earlier lines were
+  already widened. BM 3 and Kiddushin 7 are worth rerunning (4 requests, ~$3; not yet authorized).
+- **An extra closing bracket** at the end of `sections` (BM 2 Medium) ended the JSON root before
+  `key_terms`; `parse_outline()` now drops the fewest closers that make it one object
+  (`_drop_extra_closers`).
+- **Parents narrower than their children** (Bekhorot 10, Kiddushin 8 Medium): the harvest step now
+  runs `anchor_pass.widen_parents()` on every outline and prints what it widened.
+- **The "prohibited" check matched "prohibition"**; it now counts only the word "prohibited". None
+  of the 60 outlines uses it.
+
+#### Transliteration standard (author-approved 2026-09-24)
+
+`daf-processor/outline/transliteration.md` + `transliteration_exceptions.json`. Kaf without dagesh
+= **kh** (chinukh), chet = **ch**, final ה = **-ah**, tz, t (never s), apostrophe for א/ע between
+vowels only where they would otherwise run together (re'iyah, but nituach), and an apostrophe
+for prefixes, never a dash (ve'nituach, be'Sinai: the author finds dashes academic and off-putting). Conventional spellings override via the exceptions
+list (first entry: *halakha*, not halakhah), plus tractate names as the app lists them and sages'
+names in common usage. Why a standard was needed: with no rule the model copies whatever source
+it is reading — the shiur essays mostly write kaf as "ch" (halacha 5,945 vs halakha 926; chinuch
+232 vs 0), Sefaria writes "kh" and "ḥ" (halakha 18,789 vs 0). The Chagigah 6 example was respelled
+(chinuch → chinukh, mehacha → mehakha, venitu'ach → ve'nituach, u-feratot → u'feratot,
+beSinai → be'Sinai); the rules go into the prompts with the other queued
+changes. Shiur essays: later, not urgent (TODO.md).
+
+#### Key conceptual terms (glossary) — pilot built 2026-09-24, not yet run
+
+| File | Role |
+|---|---|
+| `key_terms_pass.py` | Pilot pass: per-daf key terms from the daf text + an existing outline (default: Opus 5.5's). One batch per model; `--dry-run`, `--check-only`. Writes `outline/results/<key>/05_key_terms_<model>.json`. Local checks: section ids exist, aliases occur in the outline, Hebrew occurs in the daf text (warning only — a term like *chinuch* can be key without appearing verbatim) |
+| `outline/key_terms_example_chagigah_6.json` | Hand-drafted worked example (8 terms), **awaiting author review** — its definitions set the model's standard |
+| `build_master_glossary.py` | Local clustering into `outline/glossary/master_draft.json`: groups spellings by Hebrew skeleton + folded transliteration, splits senses by the `sense` line, keeps every candidate definition with its daf, suggests related AskAnyDaf taxonomy topics (suggestions only: the taxonomy is coarser, e.g. *olat tamid* → Korban Tamid, and Hebrew homographs collide, e.g. חינוך/חנוך) |
+
+The pilot is a separate pass so it can reuse the 12 existing outlines; in production the same
+instructions fold into the outline call.
+
+**Pilot run 2026-09-24** (12 dafim × Sonnet 5 and Opus 5.5, effort `medium`, batch): **$1.30
+total** ($0.37 Sonnet, $0.93 Opus 5.5). Both gave 6–8 terms per daf; half of Opus 5.5's 90 terms
+were also Sonnet's. Local checks: Opus 5.5 clean on aliases and fields; Sonnet 5 put Hebrew
+spellings into `aliases` 52 times (against the instructions) and left 2 fields empty. On BM 11,
+Sonnet listed *yad* and *shaliach* as separate terms and attached *kinyan chatzer* to nearly every
+section; Opus 5.5 folded yad/shaliach into the *kinyan chatzer* definition and added *omed be-tzad
+sadehu* and *shikhechah*. Author review pending: https://claude.ai/artifact/Xqa5a7rhaK7EFUg6THCHz9
+(built by `build_key_terms_review.py`). `build_master_glossary.py --tag opus55`: 98 terms → 91
+entries, 1 flagged for sense review.
+
+Design (agreed 2026-09-24):
+
+Not a vocabulary list of hard Aramaic words: the legal categories and principles a sugya turns
+on (*chatzer*, *yad*, *shaliach*, *ona'a*, *garuf ve-katum*, *mitztamek ve-yafeh lo*), 3–8 per daf.
+- **Per daf (easy, a few cents):** add `key_terms` to the outline call: term (Hebrew +
+  transliteration), short definition, one line on how it's used on this daf, ids of the sections
+  where it matters. UI: list at the top of the outline + highlighted in bullets, tap to define.
+- **Consistency across Shas (the hard part):** (1) a sharp selection rule so it doesn't drift
+  into vocabulary; (2) sense disambiguation — *chatzer* as kinyan (Bava Metzia) vs. courtyard
+  (Eruvin), *yad* as acquiring hand vs. *yadot nedarim* — each sense its own entry;
+  (3) a **master glossary**: one reviewed core definition per concept + a daf-specific usage
+  line, which also normalizes spellings (chatzer/chatzeir/hatzer); (4) definitions are halakhic
+  statements, so the author reviews the few hundred core concepts once; rarer terms may ship
+  marked as drafts.
+- **Head start:** the AskAnyDaf taxonomy (`topic_analysis/taxonomy/seed_taxonomy.json`, 1,222
+  entries / 30 categories) and the 28,982 canonical corpus terms seed the master list, and let
+  key terms link into AskAnyDaf's topic browsing later.
+- **Plan:** pilot on the 12 test dafim → cluster by sense into the master glossary (seeded from
+  the taxonomy), draft core definitions for author review → per-daf terms link to master entries.
+
+#### Saved Bavli text (`build_daf_text.py`, 2026-09-24)
+
+Our own copy of the whole Bavli text for the web app (and later the apps), so the Gemara shown
+always matches the outline's anchors. `daf_text/<Tractate>.json` holds **5,407 amudim**: 5,165
+collected from the pipeline's cached `sefaria*.md` files, 242 fetched from Sefaria (of 260 tried) with the
+pipeline's own `sefaria._fetch_amud` (verified to number segments identically to the cache on
+three amudim, including a Shekalim Yerushalmi ref). The 18 amudim with no text are tractate ends
+on amud a, plus Nazir 33b, which Sefaria itself has as empty. Zero API cost; `--dry-run` counts,
+reruns are resumable. `daf_text/` is gitignored (77 MB, regenerable in ~3 min).
+`--upload` loads the Supabase table `daf_text` (one row per amud; created by
+`daf-text-migration.sql`, repo root). **Loaded 2026-09-24: 5,407 rows**, publicly readable. The English is CC BY-NC
+(William Davidson): pages showing it need a credit line.
+
+#### Live-text daf image (`page_layout/`, 2026-09-24)
+
+Word boxes on the apps' own Vilna scans (the Drive files in `pages.json`, fetched full size; BM /
+Kiddushin / Bekhorot are 3468-3544px wide, Yevamot 2617px), from the author's POC (Claude Chat).
+Aligns known Sefaria text (Gemara: "Wikisource Talmud Bavli"; Rashi/Tosafot: "Vilna Edition",
+same segment numbering as our labels) to printed words by width with a DP — no OCR, no API.
+`python -m page_layout.run Tractate 2a-11b` → `page_layout/out/<Tractate>/<amud>.json` (words with
+refs; `segments`: one box per printed line per Gemara segment or comment). Run ranges in order:
+each amud records `carry_out` (comment words left for the next amud) and the next one must place
+exactly those. Before chaining, a free carry-in plus a free carry-out let a whole column shift by
+four lines at almost no cost (Bekhorot 13a). Other rules learned: type sizes are measured per page (histogram peaks),
+never fixed (Bekhorot's glyphs are ~10% smaller, and its Tosafot is smaller than its Rashi); look
+for the margin gutters in the upper-middle band (bottom notes can span the full width); full-width
+lines above and below the Gemara each try both owners; overlapping line boxes are merged until none remain (otherwise shared glyphs are read twice); lines thinner than half the commentary type are ornament (BM 2a's decorated opening word was cut into slivers that ate Rashi's words; found by the author). `page_layout.viewer` builds a review page,
+`page_layout.report` the QC summary. Status and open items: TODO.md "Live-text daf image".
+
+#### AnyDafWeb — design + prototype (2026-09-24)
+
+`AnyDafWeb/DESIGN.md` is the design doc (stack, data tables, routes, sync, pop-outs, renderer
+contract, open questions, milestones). Built so far, no Next.js scaffold yet:
+- `AnyDafWeb/renderer/outline-renderer.{js,css}` — **the shared renderer** (framework-free,
+  scoped under `.ado`): outline, charts, pictures, key-term highlighting, glossary list, and an
+  "At a glance" list of section titles, 1–5 levels deep with its own depth control (inline at the top by default, `glance:false` to
+  hide; or `AnyDafOutline.glance(el, outline)` for a panel of its own, which is what the web page
+  uses on screens ≥1100px wide so the list stays in view while scrolling; highlights and scrolls to
+  the entry you're reading). Safe to re-render in place (one click listener per container).
+- `AnyDafWeb/prototype/app.html` + `build_prototype.py` — bundles one daf into a single page:
+  a text pane (Daf / Gemara / Shiur, default Gemara, right of the outline by default with a
+  swap control, language pill א/אA/A) scrolling in step through the `text` anchors; the shiur's
+  Gemara quotes map to labels by exact Hebrew match. Pop-out glossary.
+  Author decisions 2026-09-24: saved copy of the Bavli text (a `daf_text` table), not live
+  Sefaria; link-only access for now.
+- Multi-daf version (2026-09-24): `build_prototype.py --out DIR [--source local|supabase]` writes
+  `index.html` + `data/<key>.json` (fetched on demand by the picker) + `img/<key>_<amud>.jpg`
+  (Vilna pages from AnyTorahWeb's `public/pages.json` Drive ids, resized to 1300px q45, cached in
+  `daf-processor/outline/.page_cache/`). Artifacts can't load outside images or call Supabase from
+  the viewer's browser, so the images ship as published files and `--source supabase` pulls from
+  Supabase at build time (verified identical to the local build).
+- `daf-processor/anchor_pass.py` (2026-09-24) added `text` anchors to the 11 test outlines after the
+  fact: Sonnet 5, effort medium, batch, $0.26 for 11. Original outlines kept as
+  `04_outline_opus55.pre_anchors.json`. The model tended to end a parent on its own first line when
+  children followed (4 cases in 2 dafim); `widen_parents()` stretches parents to span their
+  children at merge, after which all 11 pass the local checks. Future outlines carry anchors from
+  the outline pass itself.
+- Contents depth 1–5 (default 2) in the "At a glance" list's own header; it changes only the list,
+  never the outline (author: a depth control on the outline itself was confusing). One shared
+  setting for both copies of the list (`glanceDepth` / `onGlanceDepth`, `g.setDepth`).
+- Reading controls (2026-09-24), all remembered per viewer: AnyTorah-style size sliders at the
+  foot of each side (same six steps, Smallest–Largest; the outline's also sizes the contents
+  column; the text side's sizes Gemara + shiur, and becomes a Fit–250% zoom for the daf page,
+  centered on what is in view; drag the page to pan),
+  done with CSS `zoom` on the content, so pane scrolling uses on-screen positions (`posIn`), not
+  `offsetTop`; draggable dividers on both edges of the outline column (`--gemw` 22–70% of the
+  page, `--railw` 160–420px; double-click resets); Contents button filled when on and placed over
+  its column.
+- `daf-processor/upload_study_aids.py` loads outlines + key terms into `daf_study_aids`
+  (`study-aids-migration.sql`); sanitizes SVG and drops the editorial `judgment_calls` /
+  `coverage_notes`.
+  Chagigah 6 only, since it is the one outline with anchors so far. Run with daf-processor's
+  venv. Published: https://claude.ai/artifact/VyEhmmkY9siDtWvA6F2WbH
+
+#### Outline preview site + reader feedback (2026-09-25) — https://anydaf-outlines.vercel.app
+
+For readers outside YCT (the claude.ai prototype can't take their notes: a page's own store is
+org-only, and pages can't call Supabase). `build_prototype.py` takes `key@tag=MARK` entries
+(`kiddushin_3@opus55_medium=M` -> menu "Kiddushin 3 (M)", data file `kiddushin_3_M`; M and H
+share one set of page images) and `--feedback`, which writes the public anon key (read from the
+gitignored `AnyDaf/Secrets.swift`; the build checks it is the anon role, never the service key)
+and the Supabase URL into the page, adds noindex, and writes `vercel.json`. The page puts a Flag
+button on every section heading (plus "Note on the whole daf") and POSTs to `outline_feedback`
+(`outline-feedback-migration.sql`: RLS insert-only for anon, status forced to 'open', size
+limits). Without `--feedback` the same page keeps notes in the browser with "Copy my notes".
+`daf-processor/fetch_feedback.py` reads the notes with the service key and, with `--write`, turns
+them into files for `fixup_pass.py --from-flags` (M/H -> `opus55_medium`/`opus55_high`). Output
+`AnyDafWeb/site/` and `outline/feedback/` are gitignored (the latter holds reader names).
+Pages written for claude.ai lean on the base rules its page wrapper adds (`[hidden]{display:none!important}`, `body{margin:0}`, `img{max-width:100%}`); `app.html` now states them itself, since on Vercel the Glossary and Sages windows wouldn't close without them (their `display:flex` beat the `hidden` attribute). Found while building it: `_drop_extra_closers` also has to add closers (Bekhorot 10 and
+Kiddushin 8 Medium had one too few, which hid their key terms inside the last section) and allow
+whitespace before `"key_terms"`.
+
+#### Key terms in the original (author, 2026-09-25) and the local repair
+
+The outlines wrote many key terms in English ("oven", "firstborn donkey", "stain", "swept"), and the
+key-term instructions allowed an English rendering as an alias, so the glossary linked "swept" to a
+definition of "swept". Not caused by the round-3 Hebrew rule alone: the 11 original test outlines
+(before that rule) did it too. **Rules now** (`outline_pass.py` "Hebrew and Aramaic words: key terms in
+the original", `key_terms_pass.py`): anything that merits a key-term entry is written transliterated
+every time, with its English once in parentheses at first mention; aliases are transliterations
+only; opposites are separate entries (*mitztamek ve'yafeh lo* / *ve'ra lo*, *chatzer ha'mishtameret* /
+*she'einah mishtameret*), or one entry names both and defines each. Previous prompt kept as
+`outline_pass.before_terms_rule.py`.
+**Repair of the 71 existing outlines, no API:** `fix_key_term_english.py` (RULES = 110 English->term
+pairs reviewed by hand from 220; applies only where that daf's own glossary listed the English;
+skips quotes, italics, existing glosses, SVG labels; glosses the first mention; fixes a/an), 1,030
+changes, originals kept as `*.before_termfix.json`. Then English aliases dropped, transliterations
+added (`add_translit_aliases`), Shabbat 38 hand-edited (swept / returning / penalized / shrivels),
+*mitztamek ve'ra lo* and *chatzer she'einah mishtameret* (BM 11, all three versions) added as their
+own entries, opposite aliases dropped on Shabbat 21, Kiddushin 9 and 10, and "prohibited" ->
+"forbidden", "dilemma" -> "question" on the 11 older test outlines. The renderer now always matches
+the term itself, tries dash and apostrophe spellings, and never links a term right after a negation
+(*shelo lishmah*).
+Chart colors: the outline pass now marks each cell itself (`chart.tones`, same shape as `rows`, "ok" / "no" / null, validated by `check_output()`), and the renderer uses that when present. The word-reading below (`cellTone()`: a cell stating one ruling is colored whole, else only its ruling words; quotes, "that he may", "the answer fails" ignored) is only the fallback for outlines made before `tones`. Also 2026-09-25 (author's list): chart cells color rulings (permitted / valid / acquired / succeeds /
+takes effect / betrothed green; the negatives red; liable/exempt deliberately not, since which is
+the good outcome depends on the case); glossary order "As they appear" / A–Z (`glossary(..., {order})`,
+`setOrder`); Sages box has a larger-size button and a divider to size the timeline.
+
+#### Blind A/B test on Vercel (2026-09-25) — https://anydaf-outline-test.vercel.app
+
+`build_ab_review.py --hosted ../AnyDafWeb/ab-site` writes a stand-alone copy whose votes are saved
+per daf ("Save verdict" / "Save and next daf") to Supabase `outline_ab_votes`
+(`outline-ab-votes-migration.sql`, insert-only for the public key; a random tester id in the browser
+groups one tester's votes, and the latest row per tester and daf counts). The key stays in
+`outline/ab_key_round3.json`; `fetch_ab_votes.py` tallies and unblinds. Vercel project
+`dovlinzers-projects/anydaf-outline-test`; rebuild into `ab-site/` without deleting `.vercel/`.
+
+#### Sages panel pilot (`build_sages.py`, 2026-09-24)
+
+No API cost. `fetch` caches Sefaria's people topics ("talmudic-people" + "talmudic-figures", then
+everyone they name as teacher/student/colleague: 1,032) and Hebrew Wikipedia's category trees
+(אמוראי ארץ ישראל / אמוראי בבל / תנאים, by generation) under `outline/sages/cache/` (gitignored);
+`build` merges them into `outline/sages/sages.json` (Sefaria has generation codes like A2, T4,
+A3/A4, TA, but no region; region comes from Wikipedia via Sefaria's heWikiLink, or a unique
+Hebrew-title match, then `authorities_taxonomy.json`, then `outline/sages/overrides.json`, which is
+for the author to confirm); `mentions KEY...` matches Hebrew names in `daf_text/` (nikud stripped;
+title + name, a few one-word names, and "רב"/"לוי" only after אמר). Names shared by several sages
+get a guess from the era of unambiguous sages within two lines (restricted to tanna'im when every
+candidate is a tanna, and likewise for amora'im), shown with a "?"; it is often wrong. **Since
+2026-09-27 the outline pass names its sages** (previous prompt kept as
+`outline_pass.before_sages.py`): `sage_candidates()` puts the names `find_names()` finds in the
+lines to outline into each prompt, with every candidate's id and description; the model returns
+`sages: [{id, name, full_name?, hebrew, sections}]`, `id` null (with `full_name`) for a sage the
+list missed (bare "רבי" = Rebbi isn't matched locally) or one named only from the shiur; biblical
+figures (Shmuel the prophet), schools, anonymous voices and rishonim are left out. `resolve()`
+maps an entry to its sages.json slug; `check_sages()` runs at harvest; `panel(key, outline)`
+prefers the outline's list (no "?") and falls back to the guesses for older outlines. The Chagigah
+6 example's sages are `EXAMPLE_SAGES` in `outline_pass.py`. `panel(key)` shapes the list for the prototype,
+which shows it as a pop-out ("Sages" button). The shared renderer highlights the sages' names in
+the outline (`sages: [{aliases}]`, `onSage`): spellings are compared by a folded skeleton (R./Rabbi,
+ch/h, a final h, doubled letters, vowels dropped except a final one, "son of"/"bar R." -> "b"), and
+a trimmed match may drop a trailing ordinary word but never a patronymic or the name after a bare
+title (so "Rav Nachman bar Yitzchak" never links to Rav). A sage links once per daf, at the first
+mention (author's call, 2026-09-24; key terms too); Detailed and shiur bullets can hide, so
+a mention there links without using up the first one. `mentions` scans the lines the outline's
+anchors cover, which often start on the previous amud (Chagigah 6 opens on 5b). Line labels (e.g. 11a.6) are the sync
+key only and are hidden from readers (author: too technical). The pop-out (`AnyDafWeb/prototype/
+app.html`, `#swin`): order As they appear / A–Z / By era; the timeline stays pinned at the top
+(row labels sticky, the EY/Bavel bands reach the panel's left edge) and follows the card list as
+it scrolls, highlighting and scrolling to the sage whose card is in view. After a jump
+(`showSage`), following is held until `scrollend`, or the smooth scroll drags the highlight
+through every card in between. Each card's "In the outline" pills jump the outline to that
+section.
+
+#### Delivery: two parallel tracks (author's direction, 2026-09-24)
+1. Implement the study aids (outline, charts, illustrations, key terms) in the AnyDaf app.
+2. A standalone web app for this audience, which doesn't need most of AnyDaf's features and has
+   room for more (e.g. text beside outline, the extended-sugya / mind-map view, glossary browsing).
+   **Location: with AnyDaf, NOT with AskAnyDaf** (AskAnyDaf is shelved). Mirror AnyTorah's layout,
+   where the web app lives in the same repo as `AnyTorah/AnyTorahWeb/` — i.e. `AnyDaf/AnyDafWeb/`.
+   Don't reuse the existing `AnyDaf/web/` folder: that holds the WordPress widget, episode/page
+   builders and the proxy worker, a different job. (An Ask AnyYCTorah web app is also expected,
+   following the same app + web pattern.)
+Architecture intent: generate once (daf-processor batch pass) → store per-daf JSON in Supabase →
+both surfaces read the same data. **Decided (author, 2026-09-24): one shared HTML/JS renderer —
+the prototypes' — used by the web app and embedded in both apps via WKWebView / Android WebView
+(the apps already do this for articles, `ArticleReaderView`/`ArticleReaderScreen`). Reasons:
+SwiftUI/Compose don't render SVG natively; the nesting/toggle/chart/link UI already exists;
+and one renderer gives iOS/Android parity for free instead of a third and fourth copy to sync.
+Cost: less native feel, and offline caching of the JSON needs its own handling.
+
+**Web app, first features (author, 2026-09-24):** a parallel pane beside the outline showing the
+Gemara text (Hebrew/Aramaic + English, from the cached Sefaria files) or the daf image, scrolling
+in step with the outline; and pop-out windows (glossary list first; charts, illustrations and the
+mind-map view are natural candidates).
+- **Sync anchors:** every outline section now carries `"text": {"from": "6a.8", "to": "6a.15"}`,
+  the Sefaria line labels the model was shown (`outline_pass.py` prompt + worked example;
+  `check_anchors()` validates labels exist, run forward, nest inside the parent and follow text
+  order, and prints problems at harvest — free, local). The 2026-09-24 test outputs predate this
+  and have no anchors.
+- **Written shiur pane (planned):** the shiur (`03_final.md`) can scroll in sync too, at zero API
+  cost. Its Gemara blockquotes are verbatim Sefaria text (v10 assembly), so each maps to Sefaria
+  labels by the same matching `find_sefaria_indices.py` already does; outline `text` ranges use
+  the same labels. Same approach as the phone app's Shiur↔Text sync (see "Text View Segment
+  Navigation", including its four fixed bugs — reuse that range/owning-segment logic). Known
+  limits: ~23% of a daf's Sefaria lines aren't quoted (fall back to the nearest earlier quote);
+  commentary rides with the quote before it; where the shiur departs from text order (reviewing
+  the previous daf, a back-reference), keep the sync monotonic. Optional later: have the outline
+  pass also cite the essay section each `shiur` bullet draws on.
+- **Daf image:** anchors can flip the image to the right amud, but not point at a line — there is
+  no line-position data for the page images (`pages.json` is Google Drive thumbnails). Line-level
+  highlighting on the image would need a separate source of page-layout coordinates.
+
 ### upload_to_supabase.py
 
 Uploads to two Supabase tables. **Always uploads `shiur_content`; only uploads `shiur_sections` when `--sections` is passed.**

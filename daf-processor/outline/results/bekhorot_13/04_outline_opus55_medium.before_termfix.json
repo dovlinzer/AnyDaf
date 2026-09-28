@@ -1,0 +1,1108 @@
+{
+ "daf": "Bekhorot 13",
+ "scope": {
+  "start": "12b: redeeming a firstborn donkey with an animal bought with *Shevi'it* produce (12b.2)",
+  "end": "13b: Ameimar, R. Yochanan and robbing a gentile (13b.6)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Shevi'it Animal: Redeeming a Donkey, Its Own Bekhorah, and Challah",
+   "amud": "12b",
+   "text": {
+    "from": "12b.2",
+    "to": "12b.13"
+   },
+   "gist": "Three steps: whether an animal bought with *Shevi'it* produce may redeem a firstborn donkey, Rav Chisda's ruling that it is exempt from *bekhorah* but owes the priestly gifts, and the challenge from *challah*.",
+   "bullets": [],
+   "chart": {
+    "caption": "An animal bought with *Shevi'it* produce: what it may be used for and what it owes",
+    "columns": [
+     "Case",
+     "Ruling",
+     "Reason"
+    ],
+    "rows": [
+     [
+      "Redeeming a definite firstborn donkey",
+      "Forbidden",
+      "The lamb goes to the kohen in exchange for the donkey, which is commerce"
+     ],
+     [
+      "Redeeming a doubtful firstborn donkey (R. Yehuda)",
+      "Permitted",
+      "The owner keeps the lamb and eats it"
+     ],
+     [
+      "Its own firstborn offspring",
+      "Exempt from *bekhorah*",
+      "A firstborn's portions are burned on the altar, and *Shevi'it* is for eating"
+     ],
+     [
+      "Gifts of the priesthood",
+      "Obligated",
+      "The kohen eats them"
+     ],
+     [
+      "*Shevi'it* dough: *challah*",
+      "Obligated",
+      "\"Throughout your generations\"; dough is burned only if it becomes impure"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "Commerce or Consumption: Definite vs. Doubtful Firstborn Donkey",
+     "amud": "12b",
+     "text": {
+      "from": "12b.2",
+      "to": "12b.6"
+     },
+     "gist": "Using a *Shevi'it* lamb for a definite firstborn is commerce; for a doubtful one, which the owner keeps, Rav Chisda permits it.",
+     "bullets": [
+      {
+       "text": "Question: may one redeem a firstborn donkey with an animal bought with *Shevi'it* produce, which carries that produce's sanctity?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Not for a definite firstborn. The owner in effect acquires his donkey in exchange for the lamb he gives the kohen, and \"the rest of the land shall be for you for consumption\" (Vayikra 25:6) allows eating, not commerce.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Shimon requires no redemption for a doubtful firstborn donkey, so the question arises only for R. Yehuda: the owner designates a lamb to lift the donkey's forbidden status, but he need not give it to a kohen.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Two sides. The lamb stays his, so the act counts as \"consumption\". Or: until the lamb is designated the donkey may not be used, so designating it in the donkey's place is like trading with it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Chisda: one may not redeem a definite firstborn donkey with such an animal, but one may redeem a doubtful one.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "What decides the matter is the handing over. As long as the lamb never reaches the kohen, the act is not treated as a trade.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rav Chisda's ruling (12b): a *Shevi'it* lamb may not redeem a definite firstborn donkey, since it goes to the kohen in exchange, but it may redeem a doubtful one, which the owner keeps.",
+      "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>Two panels. Left: an owner, a firstborn donkey, a lamb bought with Shevi'it produce and a kohen receiving it, marked forbidden. Right: for a doubtful firstborn donkey the owner keeps the lamb, marked permitted.</title><rect width='900' height='420' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='372' rx='14' fill='#F3E6D8'/><rect x='460' y='14' width='425' height='372' rx='14' fill='#E3EAF3'/><text x='227' y='50' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#5A2A12'>A definite firstborn donkey</text><text x='227' y='74' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>the lamb goes to the kohen</text><use href='#man' x='45' y='140' width='60' height='120' style='color:#4B5E8C'/><g transform='translate(115,175)'><path d='M12 36 L2 58' stroke='#6E6C68' stroke-width='4' stroke-linecap='round'/><rect x='24' y='50' width='8' height='38' rx='3' fill='#6E6C68'/><rect x='40' y='52' width='8' height='38' rx='3' fill='#6E6C68'/><rect x='72' y='52' width='8' height='38' rx='3' fill='#6E6C68'/><rect x='86' y='50' width='8' height='38' rx='3' fill='#6E6C68'/><ellipse cx='58' cy='44' rx='46' ry='20' fill='#9A968F'/><path d='M92 36 L104 14' stroke='#9A968F' stroke-width='14' stroke-linecap='round'/><ellipse cx='110' cy='18' rx='9' ry='13' fill='#8A857E'/><ellipse cx='104' cy='2' rx='3.5' ry='9' fill='#8A857E'/><ellipse cx='112' cy='2' rx='3.5' ry='9' fill='#8A857E'/><circle cx='112' cy='15' r='1.8' fill='#2E2A26'/></g><use href='#lamb' x='255' y='185' width='96' height='67'/><use href='#man' x='365' y='140' width='60' height='120' style='color:#7A4A55'/><line x1='262' y1='172' x2='350' y2='172' stroke='#5A2A12' stroke-width='2.5'/><path d='M356 172 l-10 -6 v12 z' fill='#5A2A12'/><text x='303' y='160' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5A2A12'>to the kohen</text><text x='75' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>owner</text><text x='175' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>firstborn donkey</text><text x='303' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>Shevi'it lamb</text><text x='395' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>kohen</text><use href='#mark-no' x='34' y='318' width='36' height='36'/><text x='80' y='332' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Forbidden: the lamb is traded for the donkey,</text><text x='80' y='352' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#8C2F2F'>like commerce with Shevi'it produce</text><text x='672' y='50' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1B3A8A'>A doubtful firstborn donkey</text><text x='672' y='74' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>R. Yehuda: the owner designates the lamb and keeps it</text><use href='#man' x='490' y='140' width='60' height='120' style='color:#4B5E8C'/><g transform='translate(560,175)'><path d='M12 36 L2 58' stroke='#6E6C68' stroke-width='4' stroke-linecap='round'/><rect x='24' y='50' width='8' height='38' rx='3' fill='#6E6C68'/><rect x='40' y='52' width='8' height='38' rx='3' fill='#6E6C68'/><rect x='72' y='52' width='8' height='38' rx='3' fill='#6E6C68'/><rect x='86' y='50' width='8' height='38' rx='3' fill='#6E6C68'/><ellipse cx='58' cy='44' rx='46' ry='20' fill='#9A968F'/><path d='M92 36 L104 14' stroke='#9A968F' stroke-width='14' stroke-linecap='round'/><ellipse cx='110' cy='18' rx='9' ry='13' fill='#8A857E'/><ellipse cx='104' cy='2' rx='3.5' ry='9' fill='#8A857E'/><ellipse cx='112' cy='2' rx='3.5' ry='9' fill='#8A857E'/><circle cx='112' cy='15' r='1.8' fill='#2E2A26'/></g><use href='#lamb' x='720' y='185' width='96' height='67'/><text x='768' y='170' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1B3A8A'>stays with the owner</text><text x='520' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>owner</text><text x='620' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>doubtful firstborn</text><text x='768' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>Shevi'it lamb</text><use href='#mark-ok' x='479' y='318' width='36' height='36'/><text x='525' y='332' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Permitted: the owner keeps and eats it,</text><text x='525' y='352' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#24592E'>so it counts as consumption</text><text x='450' y='408' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Rav Chisda · Bekhorot 12b · “The rest of the land shall be for you for consumption” (Vayikra 25:6)</text></svg>"
+     }
+    },
+    {
+     "id": "s3",
+     "title": "Rav Chisda: No Bekhorah, but Priestly Gifts — Burning vs. Eating",
+     "amud": "12b",
+     "text": {
+      "from": "12b.7",
+      "to": "12b.8"
+     },
+     "gist": "A *Shevi'it* animal's firstborn is exempt because a firstborn is partly burned, while the priestly gifts are eaten and so are still owed.",
+     "bullets": [
+      {
+       "text": "Rav Chisda: an animal bought with *Shevi'it* produce is exempt from *bekhorah* (its offspring is not counted a firstborn), but the gifts of the priesthood are taken from it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Reason: *Shevi'it* is \"for consumption\", not for burning, and portions of a kosher firstborn are burned on the altar. The gifts count as \"consumption\", since the kohen eats them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A firstborn is by its nature an offering whose portions go up on the altar, so it clashes directly with *Shevi'it*'s demand that the animal be eaten.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Challenge from Challah: \"Throughout Your Generations\" and Primary Use",
+     "amud": "12b",
+     "text": {
+      "from": "12b.9",
+      "to": "12b.13"
+     },
+     "gist": "*Shevi'it* dough owes *challah* even though impure *challah* is burned: a verse includes it, and burning is not dough's main use.",
+     "bullets": [
+      {
+       "text": "Objection from the Mishnah (Shevi'it 9:9): one who eats *Shevi'it* dough before its *challah* is separated incurs death at the hands of Heaven, so such dough owes *challah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Yet *challah* that becomes impure must be burned. By Rav Chisda's reasoning, *Shevi'it* dough should be exempt, as its firstborn is.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: *challah* is different, since \"throughout your generations\" (Bamidbar 15:21) takes in all dough, *Shevi'it* dough too.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A baraita teaches the same derivation and adds that the phrase does not appear for a firstborn, so the *Shevi'it* animal stays exempt.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Why not learn the firstborn from *challah*? Dough is meant mainly for eating and is burned only if it becomes impure. A firstborn's altar portions are meant mainly for burning.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The line runs between what is primary and what is incidental. An incidental chance of burning does not undermine *Shevi'it*; a mitzvah whose core act is burning does.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Handing the Donkey to a Kohen: Redeem in Front of the Owner, Every Kohen Suspect",
+   "amud": "12b",
+   "text": {
+    "from": "12b.14",
+    "to": "12b.15"
+   },
+   "gist": "A baraita spells out the previous Mishnah: the kohen must redeem the donkey in the owner's presence, and Rav Nachman concludes that every kohen is suspect, not only one known to do it.",
+   "bullets": [
+    {
+     "text": "The Mishnah taught that if the owner gave the firstborn donkey itself to a kohen, the kohen may keep it only after designating a lamb in its place.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Baraita: if a kohen says \"give it to me and I will redeem it\", the owner may not give it to him unless he redeems it in the owner's presence.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rav Nachman in the name of Rabba bar Avuh: so kohanim are suspect of using firstborn donkeys without redeeming them.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Isn't that obvious? It teaches that the concern covers every kohen, not only one known to do it, since a kohen will tell himself that the lamb would be his anyway.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Torah gives the kohen a lamb, not the donkey, so handing him the donkey fits the mitzvah only loosely. A dead unredeemed donkey could not go to him at all, since it is forbidden in benefit. An acharon raised this, and it is left open.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": []
+  },
+  {
+   "id": "s6",
+   "title": "Mishnah: Designated Lamb or Donkey Dies — Firstborn Son or Ma'aser Sheni?",
+   "amud": "12b",
+   "text": {
+    "from": "12b.16",
+    "to": "12b.22"
+   },
+   "gist": "The Mishnah's dispute over whether designating the lamb completes the redemption, and the Gemara's question of how far R. Eliezer compares the donkey to a firstborn son.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s7",
+     "title": "Lamb Dies, Donkey Dies: R. Eliezer vs. the Rabbis",
+     "amud": "12b",
+     "text": {
+      "from": "12b.16",
+      "to": "12b.17"
+     },
+     "gist": "R. Eliezer holds the owner responsible until the lamb reaches the kohen; the Rabbis hold that designating it completes the redemption.",
+     "bullets": [
+      {
+       "text": "The designated lamb dies. R. Eliezer: the owner bears *achrayut* and gives another, as with a firstborn son's five *sela* lost before reaching the kohen. The Rabbis: no *achrayut*, as with money designated to redeem *ma'aser sheni*, which desanctifies the produce once designated.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yehoshua and R. Tzadok testified about a designated lamb that died: the kohen has nothing, as the Rabbis say.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The donkey dies after the lamb is designated. R. Eliezer: the donkey is buried, and the owner may benefit from the lamb. The Rabbis: it need not be buried, and the lamb goes to the kohen.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Each view is consistent. For R. Eliezer the redemption is not done until the lamb reaches the kohen, so the donkey died unredeemed and the lamb stays with the owner. For the Rabbis the donkey was redeemed the moment the lamb was designated.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: since the halakha follows the Rabbis, the *berakhah* over redeeming a firstborn donkey is said at designation, unlike redeeming a firstborn son, where it is said when the money is handed over.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "When the redemption of a firstborn donkey is complete",
+      "columns": [
+       "",
+       "Model",
+       "The designated lamb dies",
+       "The donkey dies after designation"
+      ],
+      "rows": [
+       [
+        "R. Eliezer",
+        "A firstborn son's five *sela*",
+        "Owner bears *achrayut*: gives another lamb",
+        "Donkey is buried; owner keeps the lamb"
+       ],
+       [
+        "The Rabbis (with R. Yehoshua and R. Tzadok on the lamb)",
+        "Money redeeming *ma'aser sheni*",
+        "No *achrayut*: the kohen gets nothing",
+        "No burial needed; the lamb goes to the kohen"
+       ]
+      ]
+     },
+     "children": [],
+     "illustration": {
+      "caption": "The Mishnah's two cases under each view (12b): the designated lamb dies, or the donkey dies after the lamb was designated.",
+      "svg": "<svg viewBox='0 0 900 480' xmlns='http://www.w3.org/2000/svg' role='img'><title>A grid: columns for the designated lamb dying and the donkey dying; rows for R. Eliezer and the Rabbis, each cell giving the ruling.</title><rect width='900' height='480' fill='#FBF8F1'/><use href='#lamb' x='328' y='30' width='84' height='59' opacity='0.55'/><text x='370' y='120' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#1A1F2E'>The designated lamb dies</text><g transform='translate(672,34) scale(0.75)' opacity='0.55'><path d='M12 36 L2 58' stroke='#6E6C68' stroke-width='4' stroke-linecap='round'/><rect x='24' y='50' width='8' height='38' rx='3' fill='#6E6C68'/><rect x='40' y='52' width='8' height='38' rx='3' fill='#6E6C68'/><rect x='72' y='52' width='8' height='38' rx='3' fill='#6E6C68'/><rect x='86' y='50' width='8' height='38' rx='3' fill='#6E6C68'/><ellipse cx='58' cy='44' rx='46' ry='20' fill='#9A968F'/><path d='M92 36 L104 14' stroke='#9A968F' stroke-width='14' stroke-linecap='round'/><ellipse cx='110' cy='18' rx='9' ry='13' fill='#8A857E'/><ellipse cx='104' cy='2' rx='3.5' ry='9' fill='#8A857E'/><ellipse cx='112' cy='2' rx='3.5' ry='9' fill='#8A857E'/></g><text x='720' y='120' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#1A1F2E'>The donkey dies</text><use href='#sage' x='36' y='160' width='56' height='98' style='color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0'/><text x='102' y='200' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>R. Eliezer</text><text x='102' y='222' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>compares it to</text><text x='102' y='238' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>a firstborn son</text><rect x='200' y='140' width='340' height='140' rx='12' fill='#F3E6D8'/><text x='370' y='186' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#5A2A12'>Owner bears achrayut</text><text x='370' y='212' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>he gives the kohen another lamb</text><text x='370' y='240' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>like a firstborn son’s five sela</text><rect x='560' y='140' width='320' height='140' rx='12' fill='#F3E6D8'/><text x='720' y='186' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#5A2A12'>The donkey is buried</text><text x='720' y='212' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>the owner may keep the lamb</text><text x='720' y='240' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>the redemption was never completed</text><use href='#sage' x='36' y='320' width='56' height='98' style='color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0'/><text x='102' y='360' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>The Rabbis</text><text x='102' y='382' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>compare it to</text><text x='102' y='398' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>ma'aser sheni</text><rect x='200' y='300' width='340' height='140' rx='12' fill='#E3EAF3'/><text x='370' y='346' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>No achrayut</text><text x='370' y='372' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>the kohen gets nothing</text><text x='370' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>like money redeeming ma'aser sheni</text><rect x='560' y='300' width='320' height='140' rx='12' fill='#E3EAF3'/><text x='720' y='346' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>No burial needed</text><text x='720' y='372' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>the lamb goes to the kohen</text><text x='720' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>redeemed once the lamb was designated</text><text x='450' y='466' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>R. Yehoshua and R. Tzadok testified about a designated lamb that died: the kohen has nothing</text></svg>"
+     }
+    },
+    {
+     "id": "s8",
+     "title": "R. Eliezer's Comparison to a Firstborn Son: Redemption Only, Not Benefit",
+     "amud": "12b",
+     "text": {
+      "from": "12b.18",
+      "to": "12b.22"
+     },
+     "gist": "Rav Yosef grounds R. Eliezer in the verse pairing man and donkey; Abaye asks why benefit isn't then permitted, and Rava limits the comparison to redemption.",
+     "bullets": [
+      {
+       "text": "Rav Yosef: R. Eliezer's source is Bamidbar 18:15, which pairs the firstborn of man with the firstborn of a non-kosher animal. The father bears the loss of the five *sela*, so the owner bears the loss of the lamb.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye objects: then just as one may benefit from an unredeemed firstborn son, one should be allowed to shear and work the donkey. Yet R. Eliezer requires a dead donkey to be buried, which implies it is forbidden in benefit.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yosef: it is buried as a firstborn son is buried. Rejected: every person who dies is buried, firstborn or not, so there is no such distinction to carry over.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A baraita shows that R. Eliezer does forbid benefit: he concedes that for a doubtful firstborn donkey one designates a lamb and keeps it. That designation serves only to lift the ban on benefit.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava: the doubled verb \"*pado tifdeh*\" makes the comparison for redemption alone, including *achrayut* for the lamb, and not for any other matter.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "Firstborn Donkey: Redeem Immediately or After Thirty Days?",
+   "amud": "12b–13a",
+   "text": {
+    "from": "12b.23",
+    "to": "13a.3"
+   },
+   "gist": "Two baraitot conflict. Rav Nachman reads \"immediately\" as valid after the fact; Rav Sheshet makes day thirty the point where delay becomes a transgression and is refuted; Rava assigns the baraitot to R. Eliezer and the Rabbis.",
+   "bullets": [],
+   "chart": {
+    "caption": "The firstborn donkey's thirty days: how each resolution reads the two baraitot",
+    "columns": [
+     "",
+     "When the obligation starts",
+     "What day thirty marks",
+     "Basis"
+    ],
+    "rows": [
+     [
+      "Rav Nachman",
+      "Properly after thirty days; early redemption valid after the fact",
+      "The proper time to redeem",
+      "Harmonizes the two baraitot"
+     ],
+     [
+      "Rav Sheshet",
+      "At birth",
+      "After it, delay is a transgression",
+      "Refuted from Rami bar Chama's baraita"
+     ],
+     [
+      "R. Eliezer (per Rava)",
+      "At thirty days",
+      "The start of the obligation, as for a son",
+      "Compares the donkey to a firstborn son"
+     ],
+     [
+      "The Rabbis (per Rava)",
+      "At birth: redeem immediately",
+      "Nothing; the thirty days come from the son",
+      "No comparison to a firstborn son"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "A timeline from birth to day thirty and beyond, showing how Rav Nachman, Rav Sheshet and Rava's two tanna'im treat the firstborn donkey's first month (12b–13a).",
+    "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>Timeline from birth through day thirty and onward, with four bars: Rav Nachman, Rav Sheshet, R. Eliezer per Rava, and the Rabbis per Rava.</title><rect width='900' height='460' fill='#FBF8F1'/><text x='450' y='34' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>When must a firstborn donkey be redeemed?</text><line x1='220' y1='84' x2='866' y2='84' stroke='#9A8F80' stroke-width='2'/><path d='M874 84 l-10 -6 v12 z' fill='#9A8F80'/><line x1='220' y1='78' x2='220' y2='90' stroke='#9A8F80' stroke-width='2'/><line x1='540' y1='84' x2='540' y2='404' stroke='#9A8F80' stroke-width='1.5' stroke-dasharray='5 5'/><text x='222' y='70' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#5B6478'>Birth</text><text x='540' y='70' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#5B6478'>Day 30</text><text x='866' y='70' text-anchor='end' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#5B6478'>and onward</text><text x='20' y='126' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Rav Nachman</text><text x='20' y='144' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>after the fact vs. ideal</text><rect x='222' y='104' width='316' height='50' rx='8' fill='#EEF1F6' stroke='#8A9BB8' stroke-dasharray='5 4'/><text x='380' y='134' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Valid if done, after the fact</text><rect x='542' y='104' width='326' height='50' rx='8' fill='#C9D6EA'/><text x='705' y='134' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>The proper time to redeem</text><text x='20' y='206' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Rav Sheshet</text><text x='20' y='224' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>refuted by Rami bar Chama</text><rect x='222' y='184' width='316' height='50' rx='8' fill='#C9D6EA'/><text x='380' y='214' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Obligation in force; no transgression yet</text><rect x='542' y='184' width='326' height='50' rx='8' fill='#F7E1E1' stroke='#8C2F2F'/><text x='705' y='214' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#8C2F2F'>Delay is a transgression</text><text x='20' y='286' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>R. Eliezer</text><text x='20' y='304' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>per Rava: like a son</text><rect x='222' y='264' width='316' height='50' rx='8' fill='none' stroke='#C9C1B2' stroke-dasharray='5 5'/><text x='380' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>No obligation yet</text><rect x='542' y='264' width='326' height='50' rx='8' fill='#C9D6EA'/><text x='705' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Obligation begins, as for a son</text><text x='20' y='366' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>The Rabbis</text><text x='20' y='384' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>per Rava: no comparison</text><rect x='222' y='344' width='646' height='50' rx='8' fill='#C9D6EA'/><text x='545' y='374' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Obligation from birth: redeem immediately</text><text x='450' y='438' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Bekhorot 12b–13a · two baraitot: “immediately” and “not less than thirty days”</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s10",
+     "title": "Two Baraitot: \"Immediately\" vs. \"Not Less Than Thirty Days\"",
+     "amud": "12b",
+     "text": {
+      "from": "12b.23",
+      "to": "12b.25"
+     },
+     "gist": "One baraita has the firstborn donkey redeemed immediately; another groups it with the thirty-day laws of valuations, a firstborn son and naziriteship.",
+     "bullets": [
+      {
+       "text": "Baraita: valuations follow the time of the vow, so an infant under a month has none; a firstborn son is redeemed after thirty days (\"from a month old shall you redeem them\", Bamidbar 18:16); a firstborn donkey is redeemed immediately.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A second baraita: valuations, redeeming a firstborn son, nazirite vows and the firstborn donkey do not apply to less than thirty days, but one may add to that forever. So the donkey is redeemed only after thirty days.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"Add forever\": valuations apply at any age past thirty days; a firstborn son or donkey may be redeemed even years later; a nazirite term may run any length beyond thirty days.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "Rav Nachman: \"Immediately\" Means Valid After the Fact; the Firstborn Son Contrast",
+     "amud": "12b",
+     "text": {
+      "from": "12b.26",
+      "to": "12b.27"
+     },
+     "gist": "The donkey should be redeemed after thirty days but early redemption holds, while a son cannot be redeemed early even after the fact.",
+     "bullets": [
+      {
+       "text": "Rav Nachman: the proper time is after thirty days, but a donkey redeemed immediately is redeemed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: by implication a son redeemed before thirty days is not redeemed, yet Rav ruled that he is.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava explained Rav's ruling: everyone agrees that redeeming a son \"from now\" within thirty days fails. Rav meant money given on condition that the redemption take effect after thirty days.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So a firstborn son can never be redeemed before thirty days, even after the fact; a firstborn donkey can.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "Rav Sheshet: Obligation at Birth, Transgression After Thirty Days — Refuted",
+     "amud": "13a",
+     "text": {
+      "from": "13a.1",
+      "to": "13a.3"
+     },
+     "gist": "Rav Sheshet reads the thirty days as the grace period before delay is a transgression; Rami bar Chama's baraita, which offers a choice after thirty days, refutes him.",
+     "bullets": [
+      {
+       "text": "Rav Sheshet: the mitzvah applies right after birth. \"Thirty days\" means one does not transgress by waiting until then; after that, one transgresses.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rami bar Chama objects from a baraita: the mitzvah of a firstborn donkey runs all thirty days; from then on one must either redeem it or break its neck. Doesn't that mean a mitzvah to wait the thirty days?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Deflection: it means a mitzvah to redeem it throughout the thirty days, after which one has transgressed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rejoinder: then it should say \"from then on, either he redeems it or he transgresses\", not \"redeem it or break its neck\".",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "Rava: Thirty Days for R. Eliezer, Immediately for the Rabbis",
+     "amud": "13a",
+     "text": {
+      "from": "13a.3",
+      "to": "13a.3"
+     },
+     "gist": "Rava ties the two baraitot to the Mishnah's dispute: whoever compares the donkey to a firstborn son also takes on the son's thirty days.",
+     "bullets": [
+      {
+       "text": "Rava: the thirty-day baraita follows R. Eliezer, who compares the firstborn donkey to a firstborn son (\"from a month old shall you redeem them\"). The \"immediately\" baraita follows the Rabbis, who don't compare them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rambam adopts this and reads the baraita (a mitzvah all thirty days, then redeem or break its neck) as the Rabbis' view. There is no Torah deadline at thirty days. After that the owner is pressed to decide, and further delay is postponing a mitzvah, not a transgression.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Some acharonim ask about the Gemara's language of \"transgressing\". On Rambam's reading that language belongs only to Rav Sheshet's rejected view.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "returns_to": [
+      {
+       "id": "s8",
+       "note": "Rava links the timing question back to R. Eliezer's comparison of the donkey to a firstborn son"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "title": "Mishnah: What Comes First — Redemption Before Arifah, Yi'ud, Yibum, the Owner",
+   "amud": "13a",
+   "text": {
+    "from": "13a.4",
+    "to": "13a.7"
+   },
+   "gist": "An owner who won't redeem breaks the donkey's neck, but redemption comes first. The Mishnah adds three more pairs where one mitzvah takes precedence, with *yibum* later yielding to *chalitzah*.",
+   "bullets": [
+    {
+     "text": "If the owner does not wish to redeem, he breaks its neck from behind and buries it. The mitzvah of redemption takes precedence over *arifah*: \"If you will not redeem it, then you shall break its neck\" (Shemot 13:13).",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "*Arifah* is a fallback, not an equal option. Rambam still counts it as a separate mitzvah in Sefer HaMitzvot, since the Mishnah calls it \"the mitzvah of *arifah*\". The Ra'avad objects that the result of failing to redeem is no mitzvah. Some answer that a mitzvah can prescribe the proper way to do a less-than-ideal act, like divorce.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "*Yi'ud*, the master designating a Hebrew maidservant as his wife, takes precedence over redeeming her: \"who has not designated her... then he shall let her be redeemed\" (Shemot 21:8).",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "*Yibum* takes precedence over *chalitzah*: \"And if the man does not wish to take his brother's wife\" (Devarim 25:7). That held at first, when men intended the mitzvah. Now that they marry the *yevamah* for her beauty or for money, the Sages said *chalitzah* takes precedence.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Gemara in Yevamot treats *yibum* without the right intent as close to a forbidden relationship. Sefardim still rule that *yibum* comes first and practice it.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "A consecrated non-kosher animal: the owner's redemption takes precedence over anyone else's: \"and if it is not redeemed, it shall be sold according to your valuation\" (Vayikra 27:27).",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Temple gains when the owner redeems, since he adds a fifth, and he has the first claim to what was his. With this the Gemara's treatment of *peter chamor* closes.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [],
+   "illustration": {
+    "caption": "The Mishnah's four pairs, in its order (13a): in each, the upper mitzvah comes first and the lower applies only if it is not done. For *yibum* the order was later reversed.",
+    "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>Four columns: firstborn donkey, Hebrew maidservant, yevamah, consecrated non-kosher animal. Each shows the preferred mitzvah above and the fallback below, with the verse in Hebrew.</title><rect width='900' height='460' fill='#FBF8F1'/><text x='450' y='32' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>Which mitzvah comes first</text><rect x='15' y='50' width='204' height='360' rx='12' fill='#F3EFE6'/><rect x='237' y='50' width='204' height='360' rx='12' fill='#EEF1F6'/><rect x='459' y='50' width='204' height='360' rx='12' fill='#F3EFE6'/><rect x='681' y='50' width='204' height='360' rx='12' fill='#EEF1F6'/><text x='117' y='84' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='16' font-weight='600' fill='#1A1F2E'>Firstborn donkey</text><text x='339' y='84' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='16' font-weight='600' fill='#1A1F2E'>Hebrew maidservant</text><text x='561' y='84' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='16' font-weight='600' fill='#1A1F2E'>Yevamah</text><text x='783' y='78' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='16' font-weight='600' fill='#1A1F2E'>Consecrated</text><text x='783' y='98' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='16' font-weight='600' fill='#1A1F2E'>non-kosher animal</text><rect x='29' y='115' width='176' height='56' rx='10' fill='#1B3A8A'/><text x='117' y='139' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#FFFFFF'>Redeem it</text><text x='117' y='157' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#FFFFFF'>with a lamb</text><rect x='251' y='115' width='176' height='56' rx='10' fill='#1B3A8A'/><text x='339' y='139' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#FFFFFF'>Master designates</text><text x='339' y='157' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#FFFFFF'>her (yi'ud)</text><rect x='473' y='115' width='176' height='56' rx='10' fill='#1B3A8A'/><text x='561' y='148' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#FFFFFF'>Yibum</text><rect x='695' y='115' width='176' height='56' rx='10' fill='#1B3A8A'/><text x='783' y='139' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#FFFFFF'>The owner</text><text x='783' y='157' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#FFFFFF'>redeems it</text><g stroke='#9A8F80' stroke-width='2'><line x1='117' y1='173' x2='117' y2='205'/><line x1='339' y1='173' x2='339' y2='205'/><line x1='561' y1='173' x2='561' y2='205'/><line x1='783' y1='173' x2='783' y2='205'/></g><g fill='#9A8F80'><path d='M117 213 l-6 -10 h12 z'/><path d='M339 213 l-6 -10 h12 z'/><path d='M561 213 l-6 -10 h12 z'/><path d='M783 213 l-6 -10 h12 z'/></g><g font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'><text x='127' y='196'>if not</text><text x='349' y='196'>if not</text><text x='571' y='196'>if not</text><text x='793' y='196'>if not</text></g><rect x='29' y='215' width='176' height='56' rx='10' fill='#F3E6D0' stroke='#9A6212'/><text x='117' y='239' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>Break its neck</text><text x='117' y='257' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>(arifah), bury it</text><rect x='251' y='215' width='176' height='56' rx='10' fill='#F3E6D0' stroke='#9A6212'/><text x='339' y='239' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>She is redeemed</text><text x='339' y='257' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>with money</text><rect x='473' y='215' width='176' height='56' rx='10' fill='#F3E6D0' stroke='#9A6212'/><text x='561' y='248' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>Chalitzah</text><rect x='695' y='215' width='176' height='56' rx='10' fill='#F3E6D0' stroke='#9A6212'/><text x='783' y='239' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>Another person</text><text x='783' y='257' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>redeems it</text><g font-family='Frank Ruhl Libre, serif' font-size='15' fill='#4A3A2E' text-anchor='middle'><text x='117' y='302' direction='rtl'>אם לא תפדה וערפתו</text><text x='339' y='302' direction='rtl'>אשר לא יעדה והפדה</text><text x='561' y='302' direction='rtl'>ואם לא יחפץ האיש</text><text x='783' y='302' direction='rtl'>ואם לא יגאל ונמכר</text></g><g font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#1A1F2E' text-anchor='middle'><text x='561' y='336'>Later, when yibum was no</text><text x='561' y='354'>longer for the mitzvah’s sake:</text><text x='561' y='372' font-weight='600'>chalitzah comes first</text></g><text x='450' y='440' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Dark: takes precedence · Light: only if the first is not done · Mishnah, Bekhorot 13a</text></svg>"
+   }
+  },
+  {
+   "id": "s15",
+   "title": "Mishnah: A Gentile's Share Exempts from Bekhorah; Kohanim and Levi'im Obligated",
+   "amud": "13a",
+   "text": {
+    "from": "13a.9",
+    "to": "13a.10"
+   },
+   "gist": "Five arrangements that give a gentile a share in the cow or its offspring, all exempt from *bekhorah*, and the ruling that kohanim and Levi'im are not exempt.",
+   "bullets": [
+    {
+     "text": "Exempt from *bekhorah*: buying the fetus of a gentile's cow; selling one's cow's fetus to a gentile (even though selling a large animal to a gentile is forbidden); a partnership with a gentile in a cow or its fetus; taking a gentile's cow to tend for a share of its offspring; giving one's cow to a gentile to tend on those terms.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Source: \"I sanctified to Me all the firstborn in Israel, both man and animal\" (Bamidbar 3:13): in Israel, not among others. Even partial gentile ownership removes the firstborn's sanctity.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Kohanim and Levi'im are obligated. They were exempted only from redeeming a firstborn son and a firstborn donkey, not from the firstborn of a kosher animal.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Their exemption from the redemptions comes from the exchange in the wilderness, the Levi'im and their animals taking the place of Israel's firstborn. A kosher firstborn is not redeemed at all: it has inherent sanctity and is brought as an offering.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [],
+   "illustration": {
+    "caption": "The Mishnah's five arrangements (13a), in its order, showing who owns the cow and who owns the offspring. In every one a gentile holds a share, so all are exempt from *bekhorah*.",
+    "svg": "<svg viewBox='0 0 900 450' xmlns='http://www.w3.org/2000/svg' role='img'><title>Five columns, each with a cow and two tags naming the owner of the cow and of the offspring: a Jew, a gentile, or shared. A band below states that all five are exempt from bekhorah.</title><rect width='900' height='450' fill='#FBF8F1'/><text x='450' y='32' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>A gentile’s share in the cow or its offspring</text><g fill='#F3EFE6'><rect x='24' y='46' width='164' height='216' rx='12'/><rect x='196' y='46' width='164' height='216' rx='12'/><rect x='368' y='46' width='164' height='216' rx='12'/><rect x='540' y='46' width='164' height='216' rx='12'/><rect x='712' y='46' width='164' height='216' rx='12'/></g><g font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E' text-anchor='middle'><text x='106' y='70'>Buys the fetus of</text><text x='106' y='88'>a gentile’s cow</text><text x='278' y='70'>Sells his cow’s</text><text x='278' y='88'>fetus to a gentile</text><text x='450' y='70'>Partnership</text><text x='450' y='88'>with a gentile</text><text x='622' y='70'>Tends a gentile’s</text><text x='622' y='88'>cow for a share</text><text x='794' y='70'>Gives his cow to</text><text x='794' y='88'>a gentile to tend</text></g><use href='#bull' x='61' y='100' width='90' height='58'/><use href='#bull' x='233' y='100' width='90' height='58'/><use href='#bull' x='405' y='100' width='90' height='58'/><use href='#bull' x='577' y='100' width='90' height='58'/><use href='#bull' x='749' y='100' width='90' height='58'/><rect x='34' y='172' width='144' height='30' rx='15' fill='#F6E3C4'/><rect x='34' y='212' width='144' height='30' rx='15' fill='#DCE6F5'/><rect x='206' y='172' width='144' height='30' rx='15' fill='#DCE6F5'/><rect x='206' y='212' width='144' height='30' rx='15' fill='#F6E3C4'/><rect x='378' y='172' width='144' height='30' rx='15' fill='#E9E0F0'/><rect x='378' y='212' width='144' height='30' rx='15' fill='#E9E0F0'/><rect x='550' y='172' width='144' height='30' rx='15' fill='#F6E3C4'/><rect x='550' y='212' width='144' height='30' rx='15' fill='#E9E0F0'/><rect x='722' y='172' width='144' height='30' rx='15' fill='#DCE6F5'/><rect x='722' y='212' width='144' height='30' rx='15' fill='#E9E0F0'/><g font-family='Public Sans, system-ui, sans-serif' font-size='12.5' text-anchor='middle'><text x='106' y='192' fill='#7A4E12'>Cow: gentile</text><text x='106' y='232' fill='#1B3A8A'>Offspring: Jew</text><text x='278' y='192' fill='#1B3A8A'>Cow: Jew</text><text x='278' y='232' fill='#7A4E12'>Offspring: gentile</text><text x='450' y='192' fill='#4E3A6A'>Share in the cow</text><text x='450' y='232' fill='#4E3A6A'>or in the fetus</text><text x='622' y='192' fill='#7A4E12'>Cow: gentile</text><text x='622' y='232' fill='#4E3A6A'>Offspring: shared</text><text x='794' y='192' fill='#1B3A8A'>Cow: Jew</text><text x='794' y='232' fill='#4E3A6A'>Offspring: shared</text></g><rect x='250' y='274' width='14' height='14' fill='#DCE6F5' stroke='#1B3A8A'/><text x='270' y='286' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#1A1F2E'>a Jew</text><rect x='400' y='274' width='14' height='14' fill='#F6E3C4' stroke='#7A4E12'/><text x='420' y='286' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#1A1F2E'>a gentile</text><rect x='560' y='274' width='14' height='14' fill='#E9E0F0' stroke='#4E3A6A'/><text x='580' y='286' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#1A1F2E'>shared</text><rect x='20' y='302' width='860' height='66' rx='12' fill='#E3EAF3'/><text x='450' y='330' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#1B3A8A'>All five: exempt from bekhorah</text><text x='450' y='354' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>“I sanctified to Me all the firstborn in Israel” (Bamidbar 3:13): in Israel, not among others</text><text x='450' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Kohanim and Levi'im: obligated in bekhorah; exempt only from redeeming a firstborn son and a firstborn donkey</text><text x='450' y='432' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Mishnah, Bekhorot 13a</text></svg>"
+   }
+  },
+  {
+   "id": "s16",
+   "title": "Why the Donkey Comes First: Dear to the Tanna, or Fewer Laws",
+   "amud": "13a",
+   "text": {
+    "from": "13a.11",
+    "to": "13a.12"
+   },
+   "gist": "Why the tractate opens with the firstborn donkey, whose sanctity is only in its value, before the kosher firstborn, whose sanctity is inherent: two answers from the West.",
+   "flag": "Gemara text only",
+   "bullets": [
+    {
+     "text": "Question: the kosher firstborn has inherent sanctity and is offered on the altar, while the firstborn donkey's sanctity is only in its value. Why teach the donkey first?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "In the West (Eretz Yisrael) they said: it is dear to the tanna, following R. Chanina (5b), because donkeys carried Israel's gold and silver out of Egypt.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Or: the laws of a non-kosher animal are few, so the tanna finishes them and sets the topic aside.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "children": []
+  },
+  {
+   "id": "s17",
+   "title": "Acquiring from a Gentile: Money (Kesef) or Pulling (Meshikhah)?",
+   "amud": "13a–13b",
+   "text": {
+    "from": "13a.13",
+    "to": "13b.6"
+   },
+   "gist": "R. Oshaya rules that money alone acquires between a Jew and a gentile in either direction. The Gemara derives this from \"your counterpart's hand\" for buying and for selling, then asks how Ameimar, who says pulling acquires from a gentile, reads the verse.",
+   "bullets": [],
+   "chart": {
+    "caption": "Readings of \"your counterpart\" (Vayikra 25:14) for dealings with a gentile, and how each is settled",
+    "columns": [
+     "Reading",
+     "A Jew buys from a gentile",
+     "A gentile buys from a Jew"
+    ],
+    "rows": [
+     [
+      "No acquisition at all",
+      "Rejected: a Jew can buy a gentile's person as a slave, so all the more his property",
+      "Rejected: a gentile can buy a Jew's person, so all the more his property"
+     ],
+     [
+      "Both pulling and money",
+      "Rejected: his person takes one act, so his property can't need two",
+      "Rejected: a Jew's person takes one act, so his property can't need two"
+     ],
+     [
+      "Either pulling or money",
+      "Rejected: like \"your counterpart\", only one act",
+      "Rejected: like \"your counterpart\", only one act"
+     ],
+     [
+      "Money only (Abaye)",
+      "Adopted: pulling from a Jew, so money from a gentile",
+      "Adopted: pulling to a Jew, so money to a gentile"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "R. Oshaya's rule as Abaye derives it from \"your counterpart's hand\" (13a): from a Jew one acquires an animal by pulling it, from a gentile by paying. Ameimar (13b) holds that pulling acquires from a gentile too.",
+    "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Left: a buyer pulls a lamb by a rope from a Jewish seller. Right: a buyer pays coins to a gentile seller while the lamb stands between them.</title><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='290' rx='14' fill='#E3EAF3'/><rect x='460' y='14' width='425' height='290' rx='14' fill='#F3E6D8'/><text x='227' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#1B3A8A'>From your counterpart (a Jew)</text><text x='227' y='72' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>acquired by pulling (meshikhah)</text><use href='#man' x='50' y='140' width='60' height='120' style='color:#6B6F3A'/><use href='#lamb' x='165' y='190' width='110' height='77'/><use href='#man' x='330' y='140' width='60' height='120' style='color:#4B5E8C'/><line x1='344' y1='205' x2='268' y2='218' stroke='#7A5A3A' stroke-width='3'/><line x1='190' y1='176' x2='296' y2='176' stroke='#1B3A8A' stroke-width='2.5'/><path d='M304 176 l-10 -6 v12 z' fill='#1B3A8A'/><text x='245' y='164' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1B3A8A'>pulled toward the buyer</text><text x='80' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>seller</text><text x='360' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>buyer</text><text x='672' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#9A6212'>From a gentile</text><text x='672' y='72' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>acquired by money (kesef)</text><use href='#person' x='490' y='140' width='60' height='120' style='color:#8C5A3C'/><use href='#lamb' x='590' y='200' width='110' height='77'/><use href='#man' x='770' y='140' width='60' height='120' style='color:#4B5E8C'/><line x1='760' y1='180' x2='574' y2='180' stroke='#9A6212' stroke-width='2.5'/><path d='M566 180 l10 -6 v12 z' fill='#9A6212'/><g fill='#D9B24C' stroke='#9A7A2A' stroke-width='1.5'><circle cx='652' cy='180' r='7'/><circle cx='668' cy='180' r='7'/><circle cx='684' cy='180' r='7'/></g><text x='668' y='162' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#9A6212'>money paid to the seller</text><text x='520' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>gentile seller</text><text x='800' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>buyer</text><text x='450' y='340' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='19' fill='#4A3A2E'>או קנה מיד עמיתך</text><text x='450' y='366' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>“Or buy of your counterpart’s hand” (Vayikra 25:14) · R. Oshaya, as Abaye explains it</text><text x='450' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Ameimar: from a gentile too, pulling acquires</text><text x='450' y='426' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Bekhorot 13a–13b</text></svg>"
+   },
+   "continues": "Continues on 13b: an objection from a baraita about broken gold and silver vessels bought from gentiles with an idol among them.",
+   "children": [
+    {
+     "id": "s18",
+     "title": "R. Oshaya: Money Without Pulling Acquires, Both Ways",
+     "amud": "13a",
+     "text": {
+      "from": "13a.13",
+      "to": "13a.13"
+     },
+     "gist": "Money \"according to their laws\" acquires without pulling, deciding whether the firstborn is Jewish-owned and subject to *bekhorah*.",
+     "bullets": [
+      {
+       "text": "R. Yitzchak bar Nachmani said that Reish Lakish said in the name of R. Oshaya: a Jew who paid a gentile for his animal \"according to their laws\" acquires it without pulling, and its firstborn is subject to *bekhorah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A gentile who paid a Jew for his animal likewise acquires it without pulling, and the Jew is exempt from its firstborn.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The practical stakes are large: selling a share of an animal to a gentile to exempt its firstborn, selling *chametz*, and *heter mekhirah* all depend on how one acquires from or sells to a gentile.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "Jew Buying from a Gentile: Slave Analogy Rejected, \"Your Counterpart's Hand\"",
+     "amud": "13a",
+     "text": {
+      "from": "13a.14",
+      "to": "13a.21"
+     },
+     "gist": "\"Their laws\" is not a *kal va'chomer* from buying a gentile slave; Abaye derives it from \"your counterpart's hand\", and three other readings of the verse are ruled out.",
+     "bullets": [
+      {
+       "text": "First suggestion: \"their laws\" means the law for buying a gentile's person. A Canaanite slave is acquired with money, since Vayikra 25:46 likens him to an ancestral holding, which is acquired by money, deed or taking possession. By *kal va'chomer*, so is his property.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rejected: then deed or taking possession should also acquire his property, and they don't. Besides, a Jew's person is acquired with money but his property only by pulling, so person tells us nothing about property.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: the laws the Torah set for them, in \"or buy of your counterpart's hand\" (Vayikra 25:14). From a Jew one acquires by pulling, so from a gentile, by money.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "No acquisition from a gentile at all? A *kal va'chomer* rules it out: one can buy his very person. Both acts? His person takes one act, so his property can't need two. Either act? Like \"your counterpart\", only one act, and here that is money.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot: a sale has two basic acts, the buyer paying and the buyer taking the item. When the verse assigns pulling to dealings with a Jew, money is what remains for a gentile.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s20",
+     "title": "Gentile Buying from a Jew: The Same Derivation in Reverse",
+     "amud": "13a–13b",
+     "text": {
+      "from": "13a.22",
+      "to": "13b.1"
+     },
+     "gist": "The Hebrew-slave analogy fails the same way, and Abaye derives money from \"if you sell to your counterpart\", ruling out the same three alternatives.",
+     "bullets": [
+      {
+       "text": "Suggestion: a gentile buys a Jew's person with money (\"from the money of his purchase\", Vayikra 25:51), so all the more his property. Rejected: a Jew buys a Hebrew slave with money but a Jew's property only by pulling.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: \"and if you sell a sale item to your counterpart\" (Vayikra 25:14). To a Jew one sells by pulling, to a gentile by money.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The same three alternatives fall: none at all (a gentile can buy a Jew's person), two acts (his person takes one), either act (like \"your counterpart\", one act only).",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s21",
+     "title": "Ameimar: Pulling Acquires from a Gentile — R. Yochanan or Reish Lakish?",
+     "amud": "13b",
+     "text": {
+      "from": "13b.2",
+      "to": "13b.6"
+     },
+     "gist": "Ameimar fits R. Yochanan's view that money acquires by Torah law. Under Reish Lakish, \"your counterpart\" must teach something else, which leads through *ona'ah* to the question of robbing a gentile.",
+     "bullets": [
+      {
+       "text": "Practice follows Ameimar, with most rishonim: one acquires from a gentile by pulling. Many *poskim* advise doing both money and pulling in such sales to satisfy every view.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "How Ameimar (pulling acquires from a gentile) reads \"your counterpart\" under each view of Torah-law acquisition",
+      "columns": [
+       "",
+       "Torah-law acquisition between Jews",
+       "What \"your counterpart\" teaches",
+       "Fits Ameimar?"
+      ],
+      "rows": [
+       [
+        "R. Yochanan",
+        "Money",
+        "Money with a Jew, so pulling with a gentile",
+        "Yes, directly"
+       ],
+       [
+        "Reish Lakish",
+        "Pulling",
+        "Not the mode of acquisition: *ona'ah*, excluding a gentile (with \"his brother\" excluding *hekdesh*)",
+        "Only if robbing a gentile is forbidden"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s22",
+       "title": "Money or Pulling by Torah Law: What \"Your Counterpart\" Would Teach",
+       "amud": "13b",
+       "text": {
+        "from": "13b.2",
+        "to": "13b.3"
+       },
+       "gist": "With R. Yochanan the verse sets money for Jews and pulling for gentiles; with Reish Lakish both would be pulling, and the phrase seems pointless.",
+       "bullets": [
+        {
+         "text": "Ameimar: pulling acquires in dealings with a gentile.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "That fits R. Yochanan, who holds that by Torah law money acquires and pulling doesn't. \"Your counterpart\" then means money with a Jew and pulling with a gentile.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Per Reish Lakish, pulling is explicit in the Torah, so Jew and gentile would both acquire by pulling. Why then does the verse need \"your counterpart\"?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "For R. Yochanan, the Sages later required pulling between Jews too, so in practice both acquire by pulling: Jews by rabbinic enactment, gentiles by Torah law.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s23",
+       "title": "\"Your Counterpart\" for Ona'ah: Excluding a Gentile and Hekdesh",
+       "amud": "13b",
+       "text": {
+        "from": "13b.4",
+        "to": "13b.5"
+       },
+       "gist": "The phrase instead limits the return of *ona'ah*: with \"his brother\" in the same verse, one exclusion is for a gentile and one for *hekdesh*.",
+       "bullets": [
+        {
+         "text": "Suggestion: the phrase goes with the verse's end, \"a man shall not exploit his brother\". *Ona'ah* is returned to a Jew, not to a gentile.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Objection: \"his brother\" already excludes a gentile, so \"your counterpart\" is still extra.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: one phrase excludes a gentile and the other excludes *hekdesh*. Both are needed, since from one alone we might have thought only a gentile is excluded and *hekdesh* is covered.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The printed Gemara often reads \"Canaanite\" or *akum* in such passages, where manuscripts and rishonim had *goy*. The change was self-censorship in the face of medieval Church burnings of the Talmud.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s24",
+       "title": "Robbing a Gentile, Forbidden or Permitted: Then Ameimar Holds Like R. Yochanan",
+       "amud": "13b",
+       "text": {
+        "from": "13b.6",
+        "to": "13b.6"
+       },
+       "gist": "The *ona'ah* reading needs robbing a gentile to be forbidden. If Ameimar holds it permitted, he must follow R. Yochanan.",
+       "bullets": [
+        {
+         "text": "The *ona'ah* reading works for one who holds that robbing a gentile is forbidden: then a verse is needed to let one keep what was overcharged.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "If Ameimar holds that robbing a gentile is permitted, no verse is needed for *ona'ah*. So perforce he holds like R. Yochanan that money acquires by Torah law, and the difficulty doesn't arise.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Many rishonim, not only the Meiri, held that these distinctions don't apply to law-abiding non-Jews of today, and the conclusion in Bava Kamma is that robbing a gentile is forbidden. These rulings reflect real legal and moral reasoning.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "peter chamor",
+   "hebrew": "פטר חמור",
+   "sense": "the firstborn male of a donkey",
+   "definition": "The firstborn male of a donkey, which the owner must redeem by giving a kohen a lamb, or else break its neck. Until it is redeemed, benefit from it is forbidden.",
+   "on_this_daf": "The daf asks what may redeem it, when its redemption is complete, and whether it must be redeemed immediately or only after thirty days.",
+   "aliases": [
+    "firstborn donkey",
+    "peter chamor"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s12",
+    "s13",
+    "s14",
+    "s16"
+   ]
+  },
+  {
+   "term": "arifah",
+   "hebrew": "עריפה",
+   "sense": "breaking the neck of an unredeemed firstborn donkey",
+   "definition": "Killing a firstborn donkey by breaking its neck from behind when the owner does not redeem it; the carcass is then buried.",
+   "on_this_daf": "The Mishnah rules that redemption takes precedence over it, and a baraita on the thirty days offers the choice to redeem or break its neck.",
+   "aliases": [
+    "arifah",
+    "break its neck",
+    "breaks its neck"
+   ],
+   "sections": [
+    "s12",
+    "s14"
+   ]
+  },
+  {
+   "term": "Shevi'it",
+   "hebrew": "שביעית",
+   "sense": "the sanctity of Sabbatical-year produce",
+   "definition": "Produce of the Sabbatical Year carries a sanctity that passes to whatever is bought with it. It is meant to be eaten, not used for trade or destroyed.",
+   "on_this_daf": "An animal bought with such produce may not redeem a definite firstborn donkey, and it is exempt from bekhorah because a firstborn is partly burned, not eaten.",
+   "aliases": [
+    "Shevi'it"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ]
+  },
+  {
+   "term": "bekhorah",
+   "hebrew": "בכורה",
+   "sense": "firstborn sanctity of a kosher animal",
+   "definition": "The sanctity of a kosher animal's firstborn male, which belongs to a kohen and is brought as an offering, with portions burned on the altar.",
+   "on_this_daf": "It does not apply to the offspring of an animal bought with Shevi'it produce or to an animal a gentile partly owns, and a sale with a gentile decides whether it applies.",
+   "aliases": [
+    "bekhorah"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s4",
+    "s15",
+    "s17",
+    "s18"
+   ]
+  },
+  {
+   "term": "achrayut",
+   "hebrew": "אחריות",
+   "sense": "responsibility for loss of a designated item",
+   "definition": "The duty to replace an item set aside for an obligation if it is lost or dies before it reaches the one entitled to it.",
+   "on_this_daf": "R. Eliezer imposes it on a lamb designated for a firstborn donkey, as with a firstborn son's five sela; the Rabbis don't, as with money redeeming ma'aser sheni.",
+   "aliases": [
+    "achrayut"
+   ],
+   "sections": [
+    "s6",
+    "s7",
+    "s8"
+   ]
+  },
+  {
+   "term": "meshikhah",
+   "hebrew": "משיכה",
+   "sense": "acquisition by pulling",
+   "definition": "Acquiring movable property by pulling it into one's possession. Between Jews it is the operative act for movables, by Torah law according to Reish Lakish and by rabbinic enactment according to R. Yochanan.",
+   "on_this_daf": "R. Oshaya holds it is not needed when dealing with a gentile, since money acquires; Ameimar holds pulling is what acquires from a gentile.",
+   "aliases": [
+    "meshikhah",
+    "pulling"
+   ],
+   "sections": [
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22"
+   ]
+  },
+  {
+   "term": "kinyan kesef",
+   "hebrew": "קנין כסף",
+   "sense": "acquisition by payment of money",
+   "definition": "Acquiring property through the payment of money itself, without a physical act of taking possession.",
+   "on_this_daf": "According to R. Oshaya and Abaye it is the way a Jew and a gentile acquire from each other; R. Yochanan holds it is the Torah-law mode between Jews.",
+   "aliases": [
+    "kesef"
+   ],
+   "sections": [
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21",
+    "s22"
+   ]
+  },
+  {
+   "term": "ona'ah",
+   "hebrew": "אונאה",
+   "sense": "overcharging or underpaying in a sale",
+   "definition": "The prohibition against selling above or buying below market value; beyond a set margin the excess must be returned.",
+   "on_this_daf": "\"Your counterpart\" and \"his brother\" in Vayikra 25:14 exclude a gentile and hekdesh from it, which bears on how Ameimar reads the verse.",
+   "aliases": [
+    "ona'ah"
+   ],
+   "sections": [
+    "s21",
+    "s23",
+    "s24"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "Rav Chisda's two rulings and the challah challenge are grouped under one Shevi'it parent; the kohen-suspicion passage (12b.14–15) could be a child too, but it concludes the previous Mishnah on a different question, so it stands as its own top-level section.",
+  "Rava's resolution (13a.3) is kept inside the thirty-days discussion with a returns_to link to R. Eliezer's comparison, rather than moved under the Mishnah of the dead lamb/donkey.",
+  "Line 13a.3 holds both the final rejoinder against Rav Sheshet and Rava's resolution; the Rav Sheshet section runs through 13a.3 and Rava's section is anchored to 13a.3 alone, so the two share a line.",
+  "The precedence Mishnah (13a.4–7) is one section without children for each pair; each pair is a single ruling with a verse, and the illustration carries the comparison.",
+  "The question of why the donkey is taught first (13a.11–12) is its own short top-level section rather than a child of the gentile-ownership Mishnah, since it concerns the chapter's order, not that Mishnah.",
+  "Ameimar's discussion is nested under the acquisition question as one child with three sub-steps; it could be a separate top-level section, but it answers the same question of how one acquires from a gentile.",
+  "The readings chart covering both directions sits on the parent acquisition section rather than being split between the two derivation sections."
+ ],
+ "coverage_notes": [
+  "The Gemara on why the firstborn donkey is taught before the kosher firstborn (13a.11–12) is not discussed in the shiur; outlined from the text only. No previous-daf essay tail was provided.",
+  "The essay cites the source that Shevi'it dough owes challah as a baraita; the text brings it as a mishna (Shevi'it 9:9), with a baraita cited afterward for the verse. Followed the text.",
+  "The essay attributes 'kohanim are suspect' to Rav Nachman alone; the text has Rav Nachman in the name of Rabba bar Avuh. Followed the text.",
+  "The essay says R. Yehoshua and R. Tzadok testified about a donkey that died; the text says they testified about a designated lamb that died. Followed the text.",
+  "The essay presents R. Eliezer's reasoning anonymously; the text gives it to Rav Yosef, whom Abaye challenges and who answers about burial. Followed the text.",
+  "The essay reads the baraita on R. Eliezer's concession about a doubtful firstborn as showing he doesn't always require handing over the lamb; the text brings it to prove that R. Eliezer forbids benefit from the donkey. Followed the text.",
+  "The essay calls the source on valuations/'immediately' a mishna; the text calls it a baraita. Followed the text.",
+  "The essay says the objection to Rav Sheshet is from a Tosefta and that the Gemara reads it as 'a mitzvah to wait'; the text has Rami bar Chama objecting from a baraita, the 'wait' reading as the objection, a deflection, and then the rejoinder. Followed the text.",
+  "The essay attributes the acquisition ruling to a baraita cited by Rav Gidel in the name of Rav (or Resh Lakish in the name of bar Kappara); the text has R. Yitzchak bar Nachmani citing Reish Lakish in the name of R. Oshaya, and later calls it R. Oshaya's statement. Followed the text.",
+  "The essay says the slave kal va'chomer fails because different property is acquired differently; the text rejects it because deed and taking possession would then also acquire, and because a Jew's person and property differ. Followed the text.",
+  "The essay concludes that if Ameimar holds robbing a gentile forbidden he must follow R. Yochanan; the text says that if Ameimar holds robbing a gentile permitted, perforce he follows R. Yochanan. Followed the text.",
+  "The essay says the printed text reads 'Canaanite' in the ona'ah passage; the Sefaria translation renders it 'gentile'. Kept the lecturer's remark on censorship as shiur material.",
+  "The shiur says the practical discussion of acquisition from a gentile continues in following shiurim; 13b.7 onward (the baraita on broken vessels with an idol) is outside this scope."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s14",
+    "subject": "The four precedence pairs with their verses",
+    "why_not": "Illustrated instead; a chart would repeat the picture and the bullets."
+   },
+   {
+    "section": "s15",
+    "subject": "The five arrangements of gentile ownership",
+    "why_not": "All share one ruling; the illustration shows the ownership differences better than a grid."
+   },
+   {
+    "section": "s8",
+    "subject": "Rav Yosef vs. Abaye on how far the comparison to a firstborn son goes",
+    "why_not": "A linear exchange ending in Rava's single answer; the bullets carry it."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s5",
+    "subject": "A kohen asking for the donkey and redeeming it in the owner's presence",
+    "why_not": "One simple rule with little to show beyond the bullets."
+   },
+   {
+    "section": "s16",
+    "subject": "Donkeys carrying Israel's gold and silver out of Egypt",
+    "why_not": "A brief side remark in a short flagged section; other subjects were more central."
+   },
+   {
+    "section": "s21",
+    "subject": "R. Yochanan vs. Reish Lakish on Torah-law acquisition",
+    "why_not": "Abstract reasoning about a verse; the chart sets it out more clearly than a scene could."
+   }
+  ]
+ }
+}

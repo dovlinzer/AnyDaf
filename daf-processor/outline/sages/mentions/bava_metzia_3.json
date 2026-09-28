@@ -1,0 +1,119 @@
+{
+ "key": "bava_metzia_3",
+ "tractate": "Bava Metzia",
+ "sages": [
+  {
+   "name": "רבי יוחנן",
+   "candidates": [
+    "rabbi-yochanan-b-napacha"
+   ],
+   "lines": [
+    "3a.2"
+   ],
+   "count": 1,
+   "first": "3a.2",
+   "ambiguous": false,
+   "pick": "rabbi-yochanan-b-napacha",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוסי",
+   "candidates": [
+    "rabbi-yose-b-chalafta",
+    "rabbi-yose-b-zevida"
+   ],
+   "lines": [
+    "3a.3",
+    "3a.6",
+    "3a.7",
+    "3a.8",
+    "3a.10"
+   ],
+   "count": 5,
+   "first": "3a.3",
+   "ambiguous": true,
+   "pick": "rabbi-yose-b-zevida",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי חייא",
+   "candidates": [
+    "rabbi-chiyya"
+   ],
+   "lines": [
+    "3a.14",
+    "3b.7",
+    "3b.11",
+    "4a.10",
+    "4a.11",
+    "4a.12"
+   ],
+   "count": 6,
+   "first": "3a.14",
+   "ambiguous": false,
+   "pick": "rabbi-chiyya",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבה",
+   "candidates": [
+    "rabbah-b-nachmani"
+   ],
+   "lines": [
+    "3a.18"
+   ],
+   "count": 1,
+   "first": "3a.18",
+   "ambiguous": false,
+   "pick": "rabbah-b-nachmani",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי מאיר",
+   "candidates": [
+    "rabbi-meir"
+   ],
+   "lines": [
+    "3b.7",
+    "3b.8",
+    "3b.9",
+    "3b.11"
+   ],
+   "count": 4,
+   "first": "3b.7",
+   "ambiguous": false,
+   "pick": "rabbi-meir",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "4a.2",
+    "4a.8"
+   ],
+   "count": 2,
+   "first": "4a.2",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב אידי בר אבין",
+   "candidates": [
+    "rav-idi-b-avin-(i)",
+    "rav-idi-b-avin-(ii)"
+   ],
+   "lines": [
+    "4a.8"
+   ],
+   "count": 1,
+   "first": "4a.8",
+   "ambiguous": true,
+   "pick": "rav-idi-b-avin-(i)",
+   "pick_by": "context"
+  }
+ ]
+}

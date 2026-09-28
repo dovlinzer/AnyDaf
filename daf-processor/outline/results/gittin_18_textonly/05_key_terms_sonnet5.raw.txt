@@ -1,0 +1,65 @@
+{"daf": "Gittin 18a-18b", "key_terms": [
+  {
+    "term": "tikkun ha-get",
+    "hebrew": "תקנת חכמים לתארך את הגט",
+    "sense": "the rabbinic ordinance requiring a get to be dated",
+    "definition": "A rabbinic enactment requiring every bill of divorce to bear the date on which it was written, so that disputes over the wife's property and its produce can be resolved by reference to that date.",
+    "on_this_daf": "Ravina raises two cases (a get held back in the husband's pocket, and gittin sent from overseas) that seem to defeat the purpose of the dating ordinance, and Rava and Rav Ashi each explain why the ordinance still functions.",
+    "aliases": ["ordinance", "dating ordinance", "dated"],
+    "sections": ["s1", "s2", "s3"]
+  },
+  {
+    "term": "get yashan",
+    "hebrew": "גט ישן",
+    "sense": "an outdated get, suspected of concealing later seclusion",
+    "definition": "A bill of divorce whose date is earlier than the time it is actually given, raising concern that the husband and wife were secluded together after it was written, which would retroactively cast doubt on the get's validity.",
+    "on_this_daf": "The baraitot supporting Rav and Shmuel on when the three-month count begins each stress that there is no concern of an outdated get, since the husband was never secluded with his wife in the interim; the same concern also underlies Reish Lakish's limit on how long the signing of a get validated by R. Shimon may be delayed.",
+    "aliases": ["outdated get", "לגט ישן"],
+    "sections": ["s6", "s7", "s12"]
+  },
+  {
+    "term": "havchanah",
+    "hebrew": "המתנת שלשה חדשים",
+    "sense": "the three-month waiting period before a divorcée or widow may remarry",
+    "definition": "A rabbinic requirement that a divorced woman or widow wait three months before remarrying, so that if she is already pregnant there will be no doubt as to whether the child's father is the first or second husband.",
+    "on_this_daf": "Rav counts the three months from when the get is given to the wife, while Shmuel counts from when it is written; each view is supported by a baraita, and the halakha follows Shmuel that it begins from the writing.",
+    "aliases": ["three months", "three-month wait", "waiting period"],
+    "sections": ["s4", "s5", "s6", "s7"]
+  },
+  {
+    "term": "pegimah u-zekifah",
+    "hebrew": "פגימה וזקיפה",
+    "sense": "partial collection and formal establishment of a ketubah as a court debt",
+    "definition": "Pegimah is a widow's collection of partial payment of her ketubah; zekifah is the formal establishment of the remaining ketubah sum as a debt through a court ruling. Together (or, per Shmuel, either alone) they turn the ketubah into an ordinary loan-like debt.",
+    "on_this_daf": "Rav requires both pegimah and zekifah before the Sabbatical Year can cancel the ketubah debt, while Shmuel says either one suffices; a baraita is cited supporting each position.",
+    "aliases": ["תפגום ותזקוף", "פגמה", "זקפה"],
+    "sections": ["s8"]
+  },
+  {
+    "term": "shemitat kesafim",
+    "hebrew": "שמיטת כספים",
+    "sense": "cancellation of monetary debts at the end of the Sabbatical Year",
+    "definition": "A Torah law by which all outstanding loans and comparable debts are cancelled at the close of the Sabbatical Year, unless removed from its effect (e.g. via a prosbul) or not yet legally established as a debt.",
+    "on_this_daf": "The Gemara asks at what point a widow's ketubah, and similarly fines like those for rape, false claims of non-virginity, or seduction, become an established debt subject to cancellation by the Sabbatical Year.",
+    "aliases": ["Sabbatical Year", "meshamet", "משמטת"],
+    "sections": ["s8"]
+  },
+  {
+    "term": "perot",
+    "hebrew": "פירות",
+    "sense": "a husband's usufruct rights to the produce of his wife's property",
+    "definition": "During marriage a husband has rights to consume the produce (income) of property his wife owns, in exchange for his obligation to redeem her if captured; these rights end when the marriage ends.",
+    "on_this_daf": "Rava explains R. Shimon's ruling by saying that once the husband decides to divorce his wife (shown by his writing the get), he immediately loses his rights to the produce of her property, even before the get is signed.",
+    "aliases": ["פירות", "produce"],
+    "sections": ["s11"]
+  },
+  {
+    "term": "tenai",
+    "hebrew": "תנאי",
+    "sense": "a stipulation making an act's validity depend on a condition",
+    "definition": "A condition attached to a legal act (such as a document's execution) that must be fulfilled for the act to take effect, as distinct from a substantive requirement of the act itself.",
+    "on_this_daf": "R. Yochanan holds that when a husband tells ten men to write his wife's get, only two of them function as halakhically necessary witnesses while the rest sign merely to fulfill his stipulation that all ten sign, in contrast to Reish Lakish who treats all ten as witnesses.",
+    "aliases": ["תנאי", "stipulation"],
+    "sections": ["s13", "s14", "s15", "s16", "s17"]
+  }
+]}

@@ -1,0 +1,937 @@
+{
+ "daf": "Kiddushin 10",
+ "scope": {
+  "start": "9b: how Rebbi learns from *u've'alah* that an *amah ivriyah* is not acquired through intercourse (opens mid-exchange)",
+  "end": "11a: the question of what separates ben Bag Bag and R. Yehuda ben Beteira (continues)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "*U've'alah* and *Be'ulat Ba'al*: Who Learns What from Each Verse",
+   "amud": "9b–10a",
+   "text": {
+    "from": "9b.17",
+    "to": "10a.3"
+   },
+   "gist": "Continuing the question of how each sage uses the verses behind *kiddushei bi'ah*: Rebbi's and Rava's readings of *u've'alah*, Rebbi's *be'ulat ba'al* and the ten-men *baraita*, and R. Yochanan's double reading.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "*U've'alah*: A Wife Is Betrothed by Intercourse, an *Amah Ivriyah* Isn't",
+     "amud": "9b",
+     "text": {
+      "from": "9b.17",
+      "to": "9b.19"
+     },
+     "gist": "Rebbi and Rava each read the verse's fuller wording as teaching several rules at once, and Rava adds that betrothal must be *mesurin le'vi'ah*.",
+     "bullets": [
+      {
+       "text": "Rebbi also learns from *u've'alah* that a wife can be betrothed through intercourse while an *amah ivriyah* cannot be acquired that way. Had the verse taught only one rule, it would have said simply “and he engages in intercourse”. The fuller “and he engages in intercourse with her” teaches both.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [
+      {
+       "id": "s3",
+       "title": "Rava: Betrothal Must Be *Mesurin Le'vi'ah*",
+       "amud": "9b",
+       "text": {
+        "from": "9b.18",
+        "to": "9b.19"
+       },
+       "gist": "Rava reads the verse as requiring that betrothal be open to permitted intercourse, and still finds in it the source for *kiddushei bi'ah*.",
+       "bullets": [
+        {
+         "text": "Rava, citing Bar Ahina, reads “When a man takes a woman and engages in intercourse with her” (Devarim 24:1) as teaching *kiddushin ha'mesurin le'vi'ah*. Betrothal made when intercourse between them would be permitted is valid. Betrothal that cannot lead to permitted intercourse is not.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Then where does Rava learn that intercourse betroths, and that it does not acquire an *amah ivriyah*? The verse could have said “takes a woman or engages in intercourse”. Saying “and” teaches all of these rules.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rashi (on 51a): *kiddushin she'einan mesurin le'vi'ah* are betrothals with one of the *arayot*, where betrothal does not take hold at all.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Tosafot disagree: the *arayot* are excluded in any case. The rule covers a case where the prohibition on intercourse is created by the betrothal itself. An example is betrothing one of two sisters without saying which: each is then forbidden because of the other.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "The Ran (on the Rif, Ketubot) asks from the opening Mishnah of Yoma, which readies a second wife for the Kohen Gadol in case his wife dies on Yom Kippur. Intercourse is forbidden that day, so such a betrothal seems not *mesurin le'vi'ah*. The answer must be that fitness for intercourse is judged prospectively: it becomes permitted as soon as the fast ends.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s4",
+     "title": "*Be'ulat Ba'al*: Only a Husband Makes Her a *Be'ulah Shelo Ke'darkah*",
+     "amud": "9b–10a",
+     "text": {
+      "from": "9b.20",
+      "to": "10a.2"
+     },
+     "gist": "Rebbi's use of *be'ulat ba'al*, the ten-men *baraita* that seems to contradict it, R. Zeira's answer from *levado*, and how the Rabbis use that word.",
+     "bullets": [
+      {
+       "text": "Rebbi, who learns *kiddushei bi'ah* from *u've'alah*, uses *be'ulat ba'al* (Devarim 22:22) for another rule. A husband makes his wife a *be'ulah* even through atypical intercourse (*shelo ke'darkah*). No other man makes her a *be'ulah* that way.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The rule bears on the *na'arah me'orasah*, a betrothed girl still a virgin, whose violator is stoned rather than strangled.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [
+      {
+       "id": "s5",
+       "title": "Ten Men and a *Na'arah Me'orasah*: Stoning, Strangulation, the Fine",
+       "amud": "9b–10a",
+       "text": {
+        "from": "9b.21",
+        "to": "10a.1"
+       },
+       "gist": "Rebbi stones only the first of ten men, which seems to mean the first made her a non-virgin. R. Zeira answers that all ten pay the virgin's fine: the limit on stoning comes from “the man only”.",
+       "bullets": [
+        {
+         "text": "Challenge: does Rebbi really hold this? A *baraita* says that if ten men had intercourse with a *na'arah me'orasah* and she is still a virgin, all are stoned. Rebbi says: “I say the first is stoned, and all the others strangled.” This seems to show that another man can make her a non-virgin through atypical intercourse.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The *baraita*'s case is atypical intercourse, which leaves her physically a virgin. Stoning is counted the harsher death, within the scheme of choosing a “fitting death” (*beror lo mitah yafah*) for the condemned.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "*Omer ani*, “I say”, is a phrasing used by Rebbi. Acharonim read it as humility: the editor of the Mishnah presents his own views as personal opinion.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "R. Zeira: Rebbi agrees that all ten pay the fine (*knas*) of a rapist or seducer. They are not exempt as though the woman were no longer a virgin.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Then why the difference for the death penalty? “Then the man only who lay with her shall die” (Devarim 22:25): only one man is executed for intercourse with a virgin. The others are strangled because of that verse, not because she has stopped being a virgin.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rambam (Hilkhot Na'arah Betulah 1) rules that the fine is paid only for vaginal intercourse. Ra'avad objects that this Gemara has all ten pay the fine even for atypical intercourse.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Tosafot Rid, which in Kiddushin likely comes from R. Avraham Min HaHar, a defender of the Rambam, explains his view. The crime may be tied to the change in her status as a virgin, and another man's atypical act does not bring that change about.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "chart": {
+        "caption": "Ten men and a *na'arah me'orasah* who is still a virgin",
+        "columns": [
+         "",
+         "The first man",
+         "The other nine",
+         "The fine (*knas*)"
+        ],
+        "rows": [
+         [
+          "Tanna kamma",
+          "Stoning",
+          "Stoning: she is still a virgin",
+          "All pay"
+         ],
+         [
+          "Rebbi",
+          "Stoning",
+          "Strangulation: “the man only” limits stoning to one",
+          "All pay (R. Zeira)"
+         ]
+        ]
+       },
+       "illustration": {
+        "caption": "The *baraita* of ten men: the tanna kamma stones all ten, Rebbi only the first. R. Zeira adds that on Rebbi's view all ten still pay the fine (Kiddushin 9b–10a).",
+        "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two rows of ten men. In the top row, per the tanna kamma, all ten are stoned. In the bottom row, per Rebbi, the first is stoned and the other nine strangled. A band says all ten pay the fine.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"870\" height=\"172\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"35\" y=\"45\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">Tanna kamma: “she is still a virgin”, so all ten are stoned</text><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"80\" y=\"68\">1</text><text x=\"160\" y=\"68\">2</text><text x=\"240\" y=\"68\">3</text><text x=\"320\" y=\"68\">4</text><text x=\"400\" y=\"68\">5</text><text x=\"480\" y=\"68\">6</text><text x=\"560\" y=\"68\">7</text><text x=\"640\" y=\"68\">8</text><text x=\"720\" y=\"68\">9</text><text x=\"800\" y=\"68\">10</text></g><use href=\"#man\" x=\"60\" y=\"74\" width=\"40\" height=\"80\" style=\"color:#6E7B8C\"/><use href=\"#man\" x=\"140\" y=\"74\" width=\"40\" height=\"80\" style=\"color:#7A6A58\"/><use href=\"#man\" x=\"220\" y=\"74\" width=\"40\" height=\"80\" style=\"color:#5E7D4F\"/><use href=\"#man\" x=\"300\" y=\"74\" width=\"40\" height=\"80\" style=\"color:#8C6A4E\"/><use href=\"#man\" x=\"380\" y=\"74\" width=\"40\" height=\"80\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"460\" y=\"74\" width=\"40\" height=\"80\" style=\"color:#6B6F3A\"/><use href=\"#man\" x=\"540\" y=\"74\" width=\"40\" height=\"80\" style=\"color:#7A4A55\"/><use href=\"#man\" x=\"620\" y=\"74\" width=\"40\" height=\"80\" style=\"color:#50706E\"/><use href=\"#man\" x=\"700\" y=\"74\" width=\"40\" height=\"80\" style=\"color:#8C5A3C\"/><use href=\"#man\" x=\"780\" y=\"74\" width=\"40\" height=\"80\" style=\"color:#6A4F7A\"/><text x=\"450\" y=\"178\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">All ten: stoning</text><rect x=\"15\" y=\"200\" width=\"870\" height=\"196\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"35\" y=\"230\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">Rebbi: “I say the first is stoned, and all the others strangled”</text><rect x=\"52\" y=\"240\" width=\"56\" height=\"102\" rx=\"8\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"2\"/><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"80\" y=\"253\">1</text><text x=\"160\" y=\"253\">2</text><text x=\"240\" y=\"253\">3</text><text x=\"320\" y=\"253\">4</text><text x=\"400\" y=\"253\">5</text><text x=\"480\" y=\"253\">6</text><text x=\"560\" y=\"253\">7</text><text x=\"640\" y=\"253\">8</text><text x=\"720\" y=\"253\">9</text><text x=\"800\" y=\"253\">10</text></g><use href=\"#man\" x=\"60\" y=\"258\" width=\"40\" height=\"80\" style=\"color:#6E7B8C\"/><use href=\"#man\" x=\"140\" y=\"258\" width=\"40\" height=\"80\" style=\"color:#7A6A58\"/><use href=\"#man\" x=\"220\" y=\"258\" width=\"40\" height=\"80\" style=\"color:#5E7D4F\"/><use href=\"#man\" x=\"300\" y=\"258\" width=\"40\" height=\"80\" style=\"color:#8C6A4E\"/><use href=\"#man\" x=\"380\" y=\"258\" width=\"40\" height=\"80\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"460\" y=\"258\" width=\"40\" height=\"80\" style=\"color:#6B6F3A\"/><use href=\"#man\" x=\"540\" y=\"258\" width=\"40\" height=\"80\" style=\"color:#7A4A55\"/><use href=\"#man\" x=\"620\" y=\"258\" width=\"40\" height=\"80\" style=\"color:#50706E\"/><use href=\"#man\" x=\"700\" y=\"258\" width=\"40\" height=\"80\" style=\"color:#8C5A3C\"/><use href=\"#man\" x=\"780\" y=\"258\" width=\"40\" height=\"80\" style=\"color:#6A4F7A\"/><path d=\"M140 348 V354 H820 V348\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"80\" y=\"368\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#6B4A1A\">stoning</text><text x=\"80\" y=\"387\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"14\" fill=\"#6B4A1A\">סקילה</text><text x=\"480\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#6B4A1A\">The other nine: strangulation</text><text x=\"480\" y=\"388\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"14\" fill=\"#6B4A1A\">חנק</text><rect x=\"15\" y=\"408\" width=\"870\" height=\"40\" rx=\"20\" fill=\"#1B3A8A\"/><text x=\"450\" y=\"433\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">R. Zeira: all ten pay the fine; only one is stoned, from “the man only” (Devarim 22:25)</text></svg>"
+       }
+      },
+      {
+       "id": "s6",
+       "title": "*Levado* for the Rabbis: R. Oshaya and R. Yonatan on “Both of Them”",
+       "amud": "10a",
+       "text": {
+        "from": "10a.2",
+        "to": "10a.2"
+       },
+       "gist": "The Rabbis, who stone all ten, need “only” for a *baraita* on whether one party can be executed when the other cannot.",
+       "bullets": [
+        {
+         "text": "The Rabbis use the word for a *baraita*. “Then they shall both of them die” (Devarim 22:22) applies only when the two are equal. If one of them cannot be punished, e.g. a minor, the other is not executed either. So says R. Oshaya.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Yonatan: “Then the man only who lay with her shall die” shows that sometimes only one of them is liable.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s7",
+     "title": "R. Yochanan: Why *Be'ulat Ba'al* and Not *Be'ulat Ish*",
+     "amud": "10a",
+     "text": {
+      "from": "10a.3",
+      "to": "10a.3"
+     },
+     "gist": "R. Yochanan, who takes *kiddushei bi'ah* from *be'ulat ba'al*, gets the husband-only rule from the same words.",
+     "bullets": [
+      {
+       "text": "Question: R. Yochanan uses *be'ulat ba'al* as his source for *kiddushei bi'ah*. From where does he learn that only a husband makes her a *be'ulah* through atypical intercourse?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: the verse could have said *be'ulat ish*, “one who had intercourse with a man”. Saying *be'ulat ba'al*, “with a husband”, teaches both rules.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "returns_to": [
+      {
+       "id": "s4",
+       "note": "Asks how R. Yochanan gets the rule Rebbi drew from *be'ulat ba'al*"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "*Techilat Bi'ah* or *Sof Bi'ah*: When Does Intercourse Betroth?",
+   "amud": "10a",
+   "text": {
+    "from": "10a.4",
+    "to": "10a.5"
+   },
+   "gist": "Does the beginning or the completion of the act betroth? It matters for a rival betrothal and for a High Priest. Ameimar rules for the completion, and Tosafot reconcile this with Yevamot in four ways.",
+   "bullets": [
+    {
+     "text": "The Sages ask: intercourse has stages. Does its beginning acquire, or its completion?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "First practical difference: he began the act, and meanwhile she accepted betrothal from another man. If the beginning acquires, the other's betrothal means nothing. If the completion acquires, she is betrothed to the other man.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Second: a High Priest, who must marry a virgin (Vayikra 21:14). If only the completion acquires, she is no longer a virgin at the moment of betrothal, so he could not betroth through intercourse.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Ameimar in the name of Rava: anyone who has intercourse has its completion in mind (*kol ha'bo'el da'ato al gemar bi'ah*). So the acquisition takes effect at the end.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Tosafot find this hard: in Yevamot the initial penetration (*ha'ara'ah*) counts as the act of intercourse. They record four answers.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "The Rashba of Shantz: *ha'ara'ah* acquires only where nothing more was done. Once the act is completed, the intent attaches to its end.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "The Rivam: the man's intent decides. If he meant to acquire through *ha'ara'ah*, that stage acquires; otherwise the completion does.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Rabbeinu Tam: *bi'ah* always means *ha'ara'ah*. The question is whether the start or the end of the *ha'ara'ah* itself acquires.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Rabbeinu Nissim Gaon: Yevamot concerns a *yevamah*, already bound to the *yavam* (*zekukah ve'omedet*), where *ha'ara'ah* only has to work like *chuppah*. In *kiddushei bi'ah*, which must do more, the intent is on *gemar bi'ah*.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "The High Priest case is theoretical, since by the time of the amora'im *kiddushei bi'ah* was already avoided in practice.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "Tosafot's four answers: *gemar bi'ah* here, *ha'ara'ah* in Yevamot",
+    "columns": [
+     "",
+     "What fixes the moment of acquisition",
+     "Why Yevamot counts *ha'ara'ah*"
+    ],
+    "rows": [
+     [
+      "Rashba of Shantz",
+      "What was actually done: a completed act acquires at its end",
+      "It speaks of a case where only *ha'ara'ah* took place"
+     ],
+     [
+      "Rivam",
+      "The man's intent: he may intend either stage",
+      "There he intended to acquire through *ha'ara'ah*"
+     ],
+     [
+      "Rabbeinu Tam",
+      "*Bi'ah* always means *ha'ara'ah*; the question is its start or its end",
+      "No conflict: the act is *ha'ara'ah* in both places"
+     ],
+     [
+      "Rabbeinu Nissim Gaon",
+      "The context: in *kiddushin* the intent is on *gemar bi'ah*",
+      "A *yevamah* is already bound, so *ha'ara'ah* suffices, like *chuppah*"
+     ]
+    ]
+   },
+   "children": [],
+   "illustration": {
+    "caption": "The two practical differences the Gemara gives for the question of *techilat bi'ah* or *sof bi'ah*, and Ameimar's ruling (Kiddushin 10a).",
+    "svg": "<svg viewBox=\"0 0 900 520\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A timeline from the beginning to the completion of intercourse. In between, a woman accepts a coin of betrothal from another man. Below, two panels: the rival betrothal, and a High Priest who must marry a virgin. A band gives Ameimar's ruling.</title><rect width=\"900\" height=\"520\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Techilat bi’ah or sof bi’ah?</text><use href=\"#woman\" x=\"414\" y=\"58\" width=\"44\" height=\"88\" style=\"color:#8C4A60\"/><circle cx=\"474\" cy=\"104\" r=\"8\" fill=\"#D9B24C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#man\" x=\"490\" y=\"62\" width=\"42\" height=\"84\" style=\"color:#4B5E8C\"/><rect x=\"100\" y=\"150\" width=\"700\" height=\"14\" rx=\"7\" fill=\"#C9C1B2\"/><circle cx=\"100\" cy=\"157\" r=\"12\" fill=\"#1B3A8A\"/><circle cx=\"450\" cy=\"157\" r=\"7\" fill=\"#5B6478\"/><circle cx=\"800\" cy=\"157\" r=\"12\" fill=\"#9A6212\"/><text x=\"100\" y=\"192\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Beginning of intercourse</text><text x=\"100\" y=\"212\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#1B3A8A\">תחילת ביאה</text><text x=\"450\" y=\"192\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">In between, she accepts</text><text x=\"450\" y=\"210\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">betrothal from another man</text><text x=\"800\" y=\"192\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Completion of intercourse</text><text x=\"800\" y=\"212\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#9A6212\">סוף ביאה</text><rect x=\"15\" y=\"235\" width=\"425\" height=\"210\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"35\" y=\"268\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">The other man’s betrothal</text><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\"><text x=\"35\" y=\"300\" font-weight=\"600\">If the beginning acquires:</text><text x=\"35\" y=\"320\">she is already his; the other man’s</text><text x=\"35\" y=\"340\">betrothal is meaningless</text><text x=\"35\" y=\"372\" font-weight=\"600\">If the completion acquires:</text><text x=\"35\" y=\"392\">she is betrothed to the other man</text></g><rect x=\"460\" y=\"235\" width=\"425\" height=\"210\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"480\" y=\"268\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">A High Priest</text><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\"><text x=\"480\" y=\"300\">He must marry a virgin (Vayikra 21:14).</text><text x=\"480\" y=\"332\" font-weight=\"600\">If only the completion acquires:</text><text x=\"480\" y=\"352\">she is no longer a virgin at the</text><text x=\"480\" y=\"372\">moment of betrothal, so he could</text><text x=\"480\" y=\"392\">not betroth through intercourse</text></g><rect x=\"15\" y=\"460\" width=\"870\" height=\"40\" rx=\"20\" fill=\"#9A6212\"/><text x=\"450\" y=\"486\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Ameimar in the name of Rava: anyone who has intercourse has its completion in mind</text></svg>"
+   }
+  },
+  {
+   "id": "s9",
+   "title": "*Bi'ah Nisu'in Osah*: Does Intercourse Betroth or Fully Marry?",
+   "amud": "10a–11a",
+   "text": {
+    "from": "10a.6",
+    "to": "11a.5"
+   },
+   "gist": "Whether betrothal through intercourse also effects *nisu'in*. The Gemara sets out what depends on it and deflects the proofs of Abaye and Rava. It then turns to the exchange between Yochanan ben Bag Bag and R. Yehuda ben Beteira, which ends in the question of *simpon*.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The two stages of marriage. With money or a document, *eirusin* comes first and *chuppah* completes the *nisu'in*. The Gemara asks which path intercourse takes, and what depends on the answer (Kiddushin 10a).",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Top row: money or document leads to eirusin, then chuppah, then nisu'in. Bottom row: intercourse forks into two possibilities, eirusin only or eirusin and nisu'in at once. A panel lists what depends on the question.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Does intercourse effect betrothal only, or marriage too?</text><rect x=\"30\" y=\"80\" width=\"170\" height=\"46\" rx=\"10\" fill=\"#E3EAF3\" stroke=\"#1B3A8A\"/><text x=\"115\" y=\"108\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Money or document</text><rect x=\"250\" y=\"80\" width=\"170\" height=\"46\" rx=\"10\" fill=\"#1B3A8A\"/><text x=\"335\" y=\"108\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Eirusin (betrothal)</text><rect x=\"470\" y=\"80\" width=\"170\" height=\"46\" rx=\"10\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\"/><text x=\"555\" y=\"108\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A4A3A\">Chuppah</text><rect x=\"690\" y=\"80\" width=\"180\" height=\"46\" rx=\"10\" fill=\"#9A6212\"/><text x=\"780\" y=\"108\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Nisu’in (marriage)</text><g stroke=\"#5B6478\" stroke-width=\"2\"><line x1=\"200\" y1=\"103\" x2=\"242\" y2=\"103\"/><line x1=\"420\" y1=\"103\" x2=\"462\" y2=\"103\"/><line x1=\"640\" y1=\"103\" x2=\"682\" y2=\"103\"/></g><g fill=\"#5B6478\"><path d=\"M240 97 L250 103 L240 109 Z\"/><path d=\"M460 97 L470 103 L460 109 Z\"/><path d=\"M680 97 L690 103 L680 109 Z\"/></g><g font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"115\" y=\"148\" direction=\"rtl\">כסף / שטר</text><text x=\"335\" y=\"148\" direction=\"rtl\">אירוסין</text><text x=\"555\" y=\"148\" direction=\"rtl\">חופה</text><text x=\"780\" y=\"148\" direction=\"rtl\">נישואין</text></g><rect x=\"30\" y=\"232\" width=\"170\" height=\"46\" rx=\"10\" fill=\"#F3E6D8\" stroke=\"#9A6212\"/><text x=\"115\" y=\"260\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#6B4A1A\">Intercourse</text><text x=\"115\" y=\"300\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#5B6478\">ביאה</text><path d=\"M200 255 H240 M240 215 V301 M240 215 H282 M240 301 H282\" fill=\"none\" stroke=\"#5B6478\" stroke-width=\"2\"/><g fill=\"#5B6478\"><path d=\"M282 209 L292 215 L282 221 Z\"/><path d=\"M282 295 L292 301 L282 307 Z\"/></g><rect x=\"292\" y=\"192\" width=\"270\" height=\"46\" rx=\"10\" fill=\"#E3EAF3\" stroke=\"#1B3A8A\"/><text x=\"427\" y=\"220\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Only eirusin: chuppah still needed?</text><rect x=\"292\" y=\"278\" width=\"270\" height=\"46\" rx=\"10\" fill=\"#F3E6D8\" stroke=\"#9A6212\"/><text x=\"427\" y=\"306\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#6B4A1A\">Eirusin and nisu’in at once?</text><rect x=\"590\" y=\"180\" width=\"290\" height=\"150\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"610\" y=\"208\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#24592E\">What depends on it</text><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\"><text x=\"610\" y=\"238\">Does he inherit from her?</text><text x=\"610\" y=\"263\">Does a priest become impure</text><text x=\"610\" y=\"281\">to bury her?</text><text x=\"610\" y=\"306\">Does he annul her vows alone?</text></g><text x=\"450\" y=\"390\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Abaye (the Mishnah in Ketubot) and Rava (a girl of three years and a day)</text><text x=\"450\" y=\"410\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">bring sources that seem to separate the two stages; the Gemara deflects both</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s10",
+     "title": "The Stakes: Inheritance, Impurity for Burial, Annulling Vows",
+     "amud": "10a",
+     "text": {
+      "from": "10a.6",
+      "to": "10a.7"
+     },
+     "gist": "If intercourse effects *nisu'in*, the husband gains a married man's rights at once. If it effects only *eirusin*, he does not.",
+     "bullets": [
+      {
+       "text": "The Sages ask: does intercourse that betroths also effect *nisu'in*, or only *eirusin*?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "It matters wherever betrothal and marriage differ. Does he inherit her property? If he is a priest, does he become impure to bury her? Does he annul her vows alone, without her father?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "With money or a document, the betrothal is only the first stage, and *chuppah* completes the marriage. The question is whether intercourse skips that two-stage structure.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "What turns on whether intercourse effects *nisu'in*",
+      "columns": [
+       "",
+       "Inherits her",
+       "A priest becomes impure to bury her",
+       "Annuls her vows alone"
+      ],
+      "rows": [
+       [
+        "If intercourse effects *nisu'in*",
+        "Yes",
+        "Yes",
+        "Yes"
+       ],
+       [
+        "If it effects only *eirusin*",
+        "No",
+        "No",
+        "No"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "Abaye's Proof from Ketubot: “If She Married”, Deflected",
+     "amud": "10a",
+     "text": {
+      "from": "10a.8",
+      "to": "10a.9"
+     },
+     "gist": "A Mishnah lists betrothal through intercourse and then, separately, marriage. The Gemara answers that the marriage clause refers only to money and document.",
+     "bullets": [
+      {
+       "text": "Abaye brings the Mishnah (Ketubot 46b): a father controls his daughter's betrothal, by money, document or intercourse. He has her finds and her earnings, annuls her vows, and receives her *get*. He inherits her, but does not eat the produce of her property in her lifetime. “If she married”, the husband has more: he eats that produce in her lifetime.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Mishnah lists betrothal through intercourse and then, separately, “if she married”, which suggests that intercourse effects only *eirusin*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rejected: “if she married” refers to the other modes, money and document, where betrothal and marriage are separate. Intercourse may effect *nisu'in* at once.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "Rava's Proof: A Girl of Three Years and a Day, Deflected",
+     "amud": "10a–10b",
+     "text": {
+      "from": "10a.10",
+      "to": "10b.3"
+     },
+     "gist": "A *baraita* on the consequences of intercourse with a girl from age three separately mentions her marrying a priest. The Gemara reads that clause as describing the same act.",
+     "bullets": [
+      {
+       "text": "Rava brings a *baraita*: a girl of three years and one day can be betrothed through intercourse. If her *yavam* has intercourse with her, he acquires her. If she is married, a man who has intercourse with her is liable for adultery with a married woman.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If she is a *niddah*, she makes the man who has intercourse with her impure for seven days, and he makes the bedding beneath him impure “like the upper one”.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If she marries a priest, she may eat *terumah*. If a man forbidden to her as an *ervah* has intercourse with her, he is executed and she, a minor, is exempt. A man of unfit lineage who has intercourse with her disqualifies her from marrying a priest.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The proof: the *baraita* says “betrothed through intercourse” and then, separately, “if she marries a priest”, so intercourse does not effect *nisu'in*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rejected: the *baraita* means that if this betrothal through intercourse is to a priest, she may eat *terumah*. There may be one act here, not two stages.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: below this age, intercourse is like putting a finger into the eye; it does not count as intercourse at all. The subject touches on the abuse of children, which Tosafot here already address.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The man who has intercourse with a *niddah* becomes an *av ha'tum'ah* like her, but a weaker one. Her bedding can defile people and utensils, while his bedding only takes on the lesser impurity of the “upper” layer.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "Ben Bag Bag and R. Yehuda ben Beteira: May an *Arusah* Eat *Terumah*?",
+     "amud": "10b–11a",
+     "text": {
+      "from": "10b.4",
+      "to": "11a.5"
+     },
+     "gist": "A third proof: R. Yehuda ben Beteira's *kal va'chomer* from a Canaanite maidservant seems to assume that intercourse effects *nisu'in*. Rav Nachman bar Yitzchak and Ravina reread it, and Ravina's reading turns it into a question of *simpon*.",
+     "bullets": [],
+     "chart": {
+      "caption": "Three readings of R. Yehuda ben Beteira's *kal va'chomer*",
+      "columns": [
+       "Reading",
+       "Maidservant",
+       "Betrothed woman",
+       "Level of law",
+       "Bearing on *bi'ah nisu'in osah*"
+      ],
+      "rows": [
+       [
+        "The Gemara's reading (neither with *chuppah*)",
+        "Intercourse: no · money: yes",
+        "Intercourse alone: obviously yes · money alone: derived",
+        "Torah law",
+        "Intercourse is stronger than money only if it effects *nisu'in*"
+       ],
+       [
+        "Rav Nachman bar Yitzchak",
+        "Intercourse, even with *chuppah*: no · money without *chuppah*: yes",
+        "Intercourse with *chuppah*: yes · money without *chuppah*: derived",
+        "Torah law",
+        "No proof: the inference holds even with two stages against one"
+       ],
+       [
+        "Ravina",
+        "Money: yes, with no concern for *simpon*",
+        "Intercourse: yes · money: derived, without concern for *simpon*",
+        "Rabbinic law",
+        "No proof: ben Bag Bag already took the Torah-law point as obvious"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s14",
+       "title": "The *Kal Va'chomer*: From Canaanite Maidservant to Betrothed Woman",
+       "amud": "10b",
+       "text": {
+        "from": "10b.4",
+        "to": "10b.5"
+       },
+       "gist": "If money lets a maidservant eat *terumah* though intercourse doesn't, surely it lets a wife eat when intercourse does. Yet the Sages forbid it until *chuppah*.",
+       "bullets": [
+        {
+         "text": "A *baraita*: Yochanan ben Bag Bag sent to R. Yehuda ben Beteira in Netzivin: “I heard that you say an *arusah*, a non-priest's daughter betrothed to a priest, may eat *terumah*.”",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Yehuda ben Beteira replied: “And do you not say so? I know you are an expert in many areas of Torah. Can't you draw a *kal va'chomer*?”",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A Canaanite maidservant's intercourse with a priest does not let her eat *terumah*, yet his money does. A betrothed woman's intercourse with a priest does let her eat. Surely his betrothal money should let her eat too.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "“But what can I do? The Sages said that by rabbinic law she may not eat *terumah* until she enters the *chuppah*.”",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Why should a logical inference call for expertise across the Torah? Because only one who knows the whole system can tell where a *kal va'chomer* applies and whether something elsewhere undercuts it.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "illustration": {
+        "caption": "R. Yehuda ben Beteira's *kal va'chomer* (Kiddushin 10b): what lets each woman eat *terumah*, and the Sages' rabbinic decree that holds the betrothed woman back until *chuppah*.",
+        "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A grid comparing a Canaanite maidservant and a betrothed woman: intercourse with a priest and money from a priest, with marks for whether each may eat terumah.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"32\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\">May she eat terumah? R. Yehuda ben Beteira’s kal va’chomer</text><use href=\"#woman\" x=\"372\" y=\"46\" width=\"36\" height=\"72\" style=\"color:#7A6A58\"/><use href=\"#woman\" x=\"697\" y=\"46\" width=\"36\" height=\"72\" style=\"color:#8C4A60\"/><text x=\"390\" y=\"142\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Canaanite maidservant</text><text x=\"715\" y=\"142\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Betrothed woman</text><text x=\"30\" y=\"207\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Intercourse with a priest</text><text x=\"30\" y=\"322\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Money from a priest</text><rect x=\"250\" y=\"160\" width=\"280\" height=\"85\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><rect x=\"560\" y=\"160\" width=\"310\" height=\"85\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><rect x=\"250\" y=\"265\" width=\"280\" height=\"115\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><rect x=\"560\" y=\"265\" width=\"310\" height=\"115\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><use href=\"#mark-no\" x=\"268\" y=\"183\" width=\"36\" height=\"36\"/><text x=\"316\" y=\"198\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">May not eat terumah</text><text x=\"316\" y=\"218\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">she is not betrothed to him</text><use href=\"#mark-ok\" x=\"578\" y=\"183\" width=\"36\" height=\"36\"/><text x=\"626\" y=\"198\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">May eat terumah</text><text x=\"626\" y=\"218\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">her intercourse with him allows it</text><use href=\"#mark-ok\" x=\"268\" y=\"300\" width=\"36\" height=\"36\"/><text x=\"316\" y=\"315\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">May eat terumah</text><text x=\"316\" y=\"335\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">acquired with his money</text><use href=\"#mark-ok\" x=\"578\" y=\"280\" width=\"32\" height=\"32\"/><text x=\"620\" y=\"301\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Kal va’chomer: she may eat</text><use href=\"#mark-no\" x=\"578\" y=\"330\" width=\"32\" height=\"32\"/><text x=\"620\" y=\"351\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">Sages: not until chuppah</text><text x=\"620\" y=\"369\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">rabbinic law (Ulla’s reason)</text><rect x=\"15\" y=\"398\" width=\"870\" height=\"44\" rx=\"22\" fill=\"#1B3A8A\"/><text x=\"450\" y=\"425\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">If money works where intercourse does not, surely it works where intercourse does</text></svg>"
+       }
+      },
+      {
+       "id": "s15",
+       "title": "With or Without *Chuppah*? The Gemara's Proof That Intercourse Effects *Nisu'in*",
+       "amud": "10b",
+       "text": {
+        "from": "10b.6",
+        "to": "10b.8"
+       },
+       "gist": "Only a comparison of intercourse and money, both without *chuppah*, makes a valid inference, and then intercourse is obviously stronger only if it effects *nisu'in*.",
+       "bullets": [
+        {
+         "text": "What is being compared? If intercourse and money are both followed by *chuppah*, she eats in either case, even by rabbinic law, as a full wife.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "If intercourse with *chuppah* is compared with money without it, the inference fails: there are two stages here and only one there.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So the comparison must be intercourse without *chuppah* against money without *chuppah*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "If intercourse effects *nisu'in*, it is obvious to R. Yehuda ben Beteira that it is stronger than money. If both effect only *eirusin*, why is intercourse obvious while money needs a *kal va'chomer*? In both she is only betrothed.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s16",
+       "title": "Rav Nachman bar Yitzchak: Intercourse with *Chuppah*, Money Without",
+       "amud": "10b",
+       "text": {
+        "from": "10b.9",
+        "to": "10b.11"
+       },
+       "gist": "The *kal va'chomer* stands even comparing two stages against one, because the maidservant's intercourse fails even with *chuppah*. So the proof falls away.",
+       "bullets": [
+        {
+         "text": "Rav Nachman bar Yitzchak: it does compare intercourse with *chuppah* and money without it. Despite two stages against one, the *kal va'chomer* stands.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Restated: a Canaanite maidservant's intercourse does not let her eat even with *chuppah*, yet money lets her eat without *chuppah*. A betrothed woman's intercourse lets her eat with *chuppah*. Surely money should let her eat without it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "But by rabbinic law she may not eat until *chuppah*, for Ulla's reason: while still in her father's house, she might give the *terumah* to her siblings or family.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Whether the decree applies when her family are themselves priests is left open.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s17",
+       "title": "Ben Bag Bag's Reply: A Buyer Leaves Nothing Out, a Groom Does",
+       "amud": "10b",
+       "text": {
+        "from": "10b.12",
+        "to": "10b.12"
+       },
+       "gist": "Ben Bag Bag rejects the *kal va'chomer*: purchase with money completes a maidservant's acquisition, while betrothal leaves the *nisu'in* still to come.",
+       "bullets": [
+        {
+         "text": "Ben Bag Bag rejects the *kal va'chomer*. One who buys a maidservant with money leaves nothing out of the acquisition. One who betroths leaves part of it, the *nisu'in*, still undone.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Money plays two different roles: it completes a one-stage purchase of a slave, but only opens a two-stage marriage. The analogy the inference needs breaks down there.",
+         "detail": 2,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s18",
+       "title": "Ravina: The Question Was Rabbinic, a Concern for *Simpon*",
+       "amud": "10b–11a",
+       "text": {
+        "from": "10b.13",
+        "to": "11a.1"
+       },
+       "gist": "Ravina: by Torah law money plainly lets her eat. The exchange was about whether the Sages worry that a hidden blemish will void the betrothal.",
+       "bullets": [
+        {
+         "text": "Ravina: by Torah law it is obvious to Yochanan ben Bag Bag that money alone lets her eat, since she is acquired with the priest's money. His question concerned rabbinic law.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "What he asked: “I heard you say she may eat in practice, and that we are not concerned about *simpon*.” The concern is that the husband might find a blemish that voids the betrothal retroactively, and she would have eaten *terumah* without right.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The *kal va'chomer* in this version: a maidservant bought with money eats *terumah* with no concern for *simpon*. Surely a betrothed woman, whose intercourse lets her eat, should eat on her betrothal money without concern for *simpon*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Yet R. Yehuda ben Beteira concedes that the Sages forbade her until *chuppah*, for Ulla's reason, lest she feed her non-priestly family.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rashi: anything that undoes a transaction is called *simpon*. Here it is a blemish that would make the betrothal *kiddushei ta'ut*, a betrothal made in error.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Voiding a marriage as *kiddushei ta'ut* over defects found later, especially psychological or behavioral ones, is central to present-day discussion of *agunot*.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s19",
+       "title": "No *Simpon* for Slaves: Exposed, Hidden, Thief, Bandit",
+       "amud": "11a",
+       "text": {
+        "from": "11a.2",
+        "to": "11a.3"
+       },
+       "gist": "Ben Bag Bag explains why a slave's sale is never undone for a blemish, so the maidservant cannot teach about a wife.",
+       "bullets": [
+        {
+         "text": "Ben Bag Bag holds that there is no claim of *simpon* in buying slaves, so the *kal va'chomer* fails.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "An exposed blemish: the master saw it and bought the slave anyway. A hidden blemish: it makes no difference, since he wants the slave only for labor.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Even if the slave turns out to be a thief or a gambler (*kuvyustus*), the sale stands. The buyer should expect such behavior, which is common among slaves.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "And an armed bandit, or one sentenced to death by the government? That is no claim either: such matters become public, so the buyer took the risk knowingly.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A wife's betrothal is still open to being undone before the marriage is completed. A slave's purchase is complete in one step and leaves no such opening.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Does the rule on a thief cover a behavioral defect that is not publicly known, like petty theft? Rashi links it to the ruling that one who sells a slave found to be a thief or gambler has made a binding sale, but the question needs care.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s20",
+       "title": "Both Forbid by Decree: Where Do They Differ?",
+       "amud": "11a",
+       "text": {
+        "from": "11a.4",
+        "to": "11a.5"
+       },
+       "gist": "Since both sages agree that the rabbinic decree bars her from *terumah*, the Gemara asks what their dispute changes in practice.",
+       "flag": "Gemara text only",
+       "bullets": [
+        {
+         "text": "Both Yochanan ben Bag Bag and R. Yehuda ben Beteira agree that by rabbinic decree an *arusah* may not eat *terumah*. So what is the difference between them?",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "continues": "The Gemara's answer follows on 11a."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "kiddushei bi'ah",
+   "hebrew": "קידושי ביאה",
+   "sense": "betrothal through intercourse",
+   "definition": "Betrothal effected by the man having intercourse with the woman for the sake of betrothal, before witnesses. It is one of the three modes of kiddushin, alongside money and a document.",
+   "on_this_daf": "The Gemara asks whether it takes effect at the beginning or the completion of the act, and whether it effects nisu'in as well as betrothal.",
+   "aliases": [
+    "kiddushei bi'ah"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s4",
+    "s7",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "term": "na'arah me'orasah",
+   "hebrew": "נערה המאורסה",
+   "sense": "a betrothed girl who is still a virgin",
+   "definition": "A betrothed girl in the stage of na'arut who is still a virgin. A man who has intercourse with her is punished by stoning, not the strangulation that applies to other married women.",
+   "on_this_daf": "The baraita of ten men asks whether the men after the first are still stoned; Rebbi limits stoning to the first on the strength of “the man only”.",
+   "aliases": [
+    "Na'arah Me'orasah",
+    "na'arah me'orasah"
+   ],
+   "sections": [
+    "s4",
+    "s5"
+   ]
+  },
+  {
+   "term": "be'ulah",
+   "hebrew": "בעולה",
+   "sense": "legal status of a non-virgin",
+   "definition": "A woman who has had intercourse and so no longer has the legal status of a virgin. The status affects the death penalty for adultery, the fine for rape or seduction, and fitness to marry a High Priest.",
+   "on_this_daf": "From be'ulat ba'al the Gemara learns that a husband makes his wife a be'ulah even through atypical intercourse, but no other man does.",
+   "aliases": [
+    "Be'ulah",
+    "be'ulah"
+   ],
+   "sections": [
+    "s4",
+    "s5",
+    "s7",
+    "s8"
+   ]
+  },
+  {
+   "term": "kiddushin ha'mesurin le'vi'ah",
+   "hebrew": "קידושין המסורין לביאה",
+   "sense": "betrothal open to permitted intercourse",
+   "definition": "The rule that a betrothal is valid only if intercourse between the couple would be permitted. A betrothal that can never lead to permitted intercourse does not take effect.",
+   "on_this_daf": "Rava derives the rule from “and he engages in intercourse with her” and still finds in the same verse the source for betrothal through intercourse.",
+   "aliases": [
+    "kiddushin ha'mesurin le'vi'ah",
+    "Mesurin Le'vi'ah",
+    "mesurin le'vi'ah"
+   ],
+   "sections": [
+    "s3"
+   ]
+  },
+  {
+   "term": "nisu'in",
+   "hebrew": "נישואין",
+   "sense": "the second stage of marriage",
+   "definition": "The completion of marriage, normally through chuppah after betrothal (eirusin). With it come rights such as inheriting the wife, a priest's duty to become impure to bury her, and annulling her vows alone.",
+   "on_this_daf": "The Gemara asks whether betrothal through intercourse effects nisu'in at once, and deflects the proofs from Abaye's Mishnah, Rava's baraita and the ben Bag Bag exchange.",
+   "aliases": [
+    "Nisu'in",
+    "nisu'in"
+   ],
+   "sections": [
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s15",
+    "s17"
+   ]
+  },
+  {
+   "term": "kal va'chomer",
+   "hebrew": "קל וחומר",
+   "sense": "a fortiori inference",
+   "definition": "An inference from a lenient case to a stricter one: if a rule holds where it is less expected, it holds all the more where it is more expected. It is refuted by showing a feature of the first case that the second lacks.",
+   "on_this_daf": "R. Yehuda ben Beteira argues from a Canaanite maidservant, acquired by money, to a betrothed woman; ben Bag Bag rejects the comparison, and the Gemara reads the argument three ways.",
+   "aliases": [
+    "Kal Va'chomer",
+    "kal va'chomer"
+   ],
+   "sections": [
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19"
+   ]
+  },
+  {
+   "term": "simpon",
+   "hebrew": "סימפון",
+   "sense": "a factor that voids a transaction retroactively",
+   "definition": "A defect or other factor discovered later that undoes a transaction from the start, such as a hidden blemish that turns a sale or a betrothal into one made in error.",
+   "on_this_daf": "Per Ravina, the exchange between ben Bag Bag and R. Yehuda ben Beteira concerns whether the Sages worry about simpon in a betrothed woman eating terumah; ben Bag Bag holds there is no simpon with slaves.",
+   "aliases": [
+    "Simpon",
+    "simpon"
+   ],
+   "sections": [
+    "s13",
+    "s18",
+    "s19"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The ben Bag Bag exchange (10b.4–11a.5) is placed under the question of *bi'ah nisu'in osah*, because the Gemara introduces it as a “come and hear” proof for that question. It could instead be its own top-level section on an *arusah* eating *terumah*, since from Ravina on it no longer bears on *nisu'in*.",
+  "Ravina's *simpon* reading and ben Bag Bag's reasons on slaves are kept as children of the ben Bag Bag section rather than a separate top-level *simpon* section, since they reinterpret the same exchange.",
+  "R. Yochanan's *be'ulat ish* reading (10a.3) is a sibling of Rebbi's *be'ulat ba'al* section with a returns_to link, rather than a child of it, because it asks about a different sage's derivation of the same rule.",
+  "Rava's principle of *kiddushin ha'mesurin le'vi'ah* is nested under the *u've'alah* section as a child; it could stand as a sibling, but both answer how each sage uses that verse.",
+  "The Rambam–Ra'avad dispute on the fine for atypical intercourse, which the lecture treats at its end, is placed with R. Zeira's statement about the fine (10a.1), the line it discusses."
+ ],
+ "coverage_notes": [
+  "The essay names the tanna of the *baraita* on “both of them” as R. Yoshiyah; the Sefaria text has R. Oshaya. Followed the text.",
+  "The essay attributes the *be'ulat ish* / *be'ulat ba'al* “learn two” reading to Rebbi; the text gives it as R. Yochanan's (10a.3). Followed the text.",
+  "The essay gives Rebbi's reason for stoning only the first as his standing in the husband's place; the text gives *levado* (“the man only”). The outline follows the text and omits that reason.",
+  "The essay inserts the ben Bag Bag exchange into its discussion of *techilat bi'ah*; in the text it comes at 10b.4, after Rava's *baraita*. Followed the text's order.",
+  "The essay calls Abaye's source a *baraita*; the text calls it a mishnah (Ketubot 46b). Followed the text.",
+  "The essay has ben Bag Bag saying “I considered you an expert… a *kal va'chomer*”; in the text this is R. Yehuda ben Beteira's reply. Followed the text.",
+  "The essay attributes the “what are the circumstances… two stages against one” objection to ben Bag Bag; in the text it is the Gemara's own analysis (10b.6–7), and ben Bag Bag's reply (10b.12) is that a buyer leaves nothing out of the acquisition. Followed the text.",
+  "The essay says the Torah-law point was obvious to Ravina; the text has Ravina say it was obvious to Yochanan ben Bag Bag. Followed the text.",
+  "The essay renders *kuvyustus* as a kidnapper or violent criminal and ties the thief case to public records; the text has thief or gambler, whose sale stands because the buyer should expect it, and a separate case of an armed bandit, dismissed because it becomes public. Followed the text.",
+  "Line 11a.5 falls within the assigned scope but its text was not provided; the last section is anchored to it without stating its content, and the lecture does not discuss 11a.4–11a.5.",
+  "The essay's opening remark on the ‘additional heh’ in *u've'alah* is not reflected in the text, which contrasts the phrasing with a shorter form; outlined from the text."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s12",
+    "subject": "The consequences of intercourse with a girl of three years and a day",
+    "why_not": "A list with one consequence per case; the bullets carry it without a grid."
+   },
+   {
+    "section": "s19",
+    "subject": "Kinds of slave blemish and why none voids the sale",
+    "why_not": "Four cases with one reason each; bullets suffice, and the daf already has four charts."
+   },
+   {
+    "section": "s3",
+    "subject": "Rashi vs. Tosafot on *kiddushin she'einan mesurin le'vi'ah*",
+    "why_not": "Two views on a single question; a chart would only repeat the bullets."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s19",
+    "subject": "The four kinds of slave blemish, left to right",
+    "why_not": "Mostly text with no scene to draw; the bullets are clearer."
+   },
+   {
+    "section": "s12",
+    "subject": "The list of consequences for a girl of three",
+    "why_not": "A text-heavy list and a sensitive subject; nothing gained by picturing it."
+   },
+   {
+    "section": "s4",
+    "subject": "Husband vs. another man on atypical intercourse",
+    "why_not": "Abstract and delicate; the ten-men picture already shows the practical stakes."
+   },
+   {
+    "section": "s10",
+    "subject": "The three consequences of *nisu'in*",
+    "why_not": "Already shown in the panel of the two-stage marriage picture."
+   }
+  ]
+ }
+}

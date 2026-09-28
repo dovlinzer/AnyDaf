@@ -1,0 +1,908 @@
+{
+ "daf": "Bava Metzia 9",
+ "scope": {
+  "start": "8b: the baraita of two people pulling a camel or driving a donkey (mid-exchange on whether riding acquires)",
+  "end": "10a: Ulla's answer to Rav Nachman, that the pedestrian meant to acquire for himself from the outset"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Rokhev: Does Sitting on an Animal Acquire It? Three Baraitot",
+   "amud": "8b–9b",
+   "text": {
+    "from": "8b.13",
+    "to": "9b.1"
+   },
+   "gist": "Continuing the search for whether *rokhev* acquires an animal, the Gemara tests three *baraitot*: pulling and driving a camel or donkey, a rider and a rein-holder, and R. Eliezer's field and city. Each is deflected.",
+   "bullets": [
+    {
+     "text": "*Rokhev* here means sitting on the animal while holding the reins, without making it move. Driving it with one's feet is a form of leading, and everyone agrees it acquires.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "Every proof is turned aside the same way: the rider in the *baraita* may be driving with his feet. So the question of *rokhev* stays open.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "children": [
+    {
+     "id": "s2",
+     "title": "Camel and Donkey: Natural Method, Reverse Method, R. Yehuda",
+     "amud": "8b–9a",
+     "text": {
+      "from": "8b.13",
+      "to": "9a.7"
+     },
+     "gist": "A *baraita* on pulling (*meshikhah*) and driving leads to a dispute over whether the reverse method acquires. It is told in two versions, and neither proves anything about *rokhev*.",
+     "bullets": [],
+     "chart": {
+      "caption": "Which ways of moving each animal acquire it",
+      "columns": [
+       "",
+       "Pulling a camel",
+       "Driving a camel",
+       "Pulling a donkey",
+       "Driving a donkey"
+      ],
+      "rows": [
+       [
+        "Tanna kamma (first view)",
+        "Acquires",
+        "Acquires",
+        "Does not acquire",
+        "Acquires"
+       ],
+       [
+        "Tanna kamma (second view)",
+        "Acquires",
+        "Does not acquire",
+        "Acquires",
+        "Acquires"
+       ],
+       [
+        "R. Yehuda",
+        "Acquires",
+        "Does not acquire",
+        "Does not acquire",
+        "Acquires"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "The four ways of moving the two animals in the baraita, with the rulings of the tanna kamma and R. Yehuda (8b–9a). For the tanna kamma, one of the reverse ways fails, and the Gemara records both views of which one.",
+      "svg": "<svg viewBox=\"0 0 900 430\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Four panels: pulling a camel, driving a camel, pulling a donkey, driving a donkey, each with rulings for the tanna kamma and R. Yehuda.</title><rect width=\"900\" height=\"430\" fill=\"#FBF8F1\"/><text x=\"20\" y=\"50\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Who acquires?</text><rect x=\"135\" y=\"20\" width=\"180\" height=\"360\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"324\" y=\"20\" width=\"180\" height=\"360\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"513\" y=\"20\" width=\"180\" height=\"360\" rx=\"12\" fill=\"#EDE7F3\"/><rect x=\"702\" y=\"20\" width=\"180\" height=\"360\" rx=\"12\" fill=\"#EDE7F3\"/><g font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"225\" y=\"50\">Pulling a camel</text><text x=\"414\" y=\"50\">Driving a camel</text><text x=\"603\" y=\"50\">Pulling a donkey</text><text x=\"792\" y=\"50\">Driving a donkey</text></g><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"225\" y=\"72\">the camel’s usual way</text><text x=\"414\" y=\"72\">the reverse</text><text x=\"603\" y=\"72\">the reverse</text><text x=\"792\" y=\"72\">the donkey’s usual way</text></g><g transform=\"translate(143,125) scale(0.75)\" fill=\"#C49A62\"><rect x=\"30\" y=\"72\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"45\" y=\"74\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"90\" y=\"74\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"103\" y=\"72\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><ellipse cx=\"70\" cy=\"66\" rx=\"48\" ry=\"20\"/><path d=\"M40 58 Q62 16 90 54 Z\"/><path d=\"M108 60 Q126 42 122 24 L134 22 Q140 46 116 74 Z\"/><ellipse cx=\"134\" cy=\"22\" rx=\"12\" ry=\"7\" fill=\"#B88C56\"/><circle cx=\"137\" cy=\"20\" r=\"1.6\" fill=\"#3B3431\"/></g><use href=\"#man\" x=\"265\" y=\"140\" width=\"36\" height=\"72\" style=\"color:#6B6F3A\"/><line x1=\"246\" y1=\"143\" x2=\"270\" y2=\"178\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><g transform=\"translate(374,125) scale(0.75)\" fill=\"#C49A62\"><rect x=\"30\" y=\"72\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"45\" y=\"74\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"90\" y=\"74\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"103\" y=\"72\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><ellipse cx=\"70\" cy=\"66\" rx=\"48\" ry=\"20\"/><path d=\"M40 58 Q62 16 90 54 Z\"/><path d=\"M108 60 Q126 42 122 24 L134 22 Q140 46 116 74 Z\"/><ellipse cx=\"134\" cy=\"22\" rx=\"12\" ry=\"7\" fill=\"#B88C56\"/><circle cx=\"137\" cy=\"20\" r=\"1.6\" fill=\"#3B3431\"/></g><use href=\"#man\" x=\"332\" y=\"140\" width=\"36\" height=\"72\" style=\"color:#6B6F3A\"/><line x1=\"364\" y1=\"176\" x2=\"392\" y2=\"166\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><g transform=\"translate(521,138) scale(0.75)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><use href=\"#man\" x=\"643\" y=\"140\" width=\"36\" height=\"72\" style=\"color:#6B6F3A\"/><line x1=\"624\" y1=\"168\" x2=\"648\" y2=\"178\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><g transform=\"translate(752,138) scale(0.75)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><use href=\"#man\" x=\"710\" y=\"140\" width=\"36\" height=\"72\" style=\"color:#6B6F3A\"/><line x1=\"742\" y1=\"176\" x2=\"774\" y2=\"174\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><g stroke=\"#BFAE8E\" stroke-width=\"2\"><line x1=\"145\" y1=\"216\" x2=\"305\" y2=\"216\"/><line x1=\"334\" y1=\"216\" x2=\"494\" y2=\"216\"/><line x1=\"523\" y1=\"216\" x2=\"683\" y2=\"216\"/><line x1=\"712\" y1=\"216\" x2=\"872\" y2=\"216\"/></g><text x=\"20\" y=\"260\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Tanna kamma</text><text x=\"20\" y=\"330\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">R. Yehuda</text><use href=\"#mark-ok\" x=\"208\" y=\"238\" width=\"34\" height=\"34\"/><circle cx=\"414\" cy=\"255\" r=\"17\" fill=\"#F6E7C8\" stroke=\"#9A6212\" stroke-width=\"2.5\"/><text x=\"414\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"18\" font-weight=\"700\" fill=\"#9A6212\">?</text><text x=\"414\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#6B4A1A\">some say this fails</text><circle cx=\"603\" cy=\"255\" r=\"17\" fill=\"#F6E7C8\" stroke=\"#9A6212\" stroke-width=\"2.5\"/><text x=\"603\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"18\" font-weight=\"700\" fill=\"#9A6212\">?</text><text x=\"603\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#6B4A1A\">some say this fails</text><use href=\"#mark-ok\" x=\"775\" y=\"238\" width=\"34\" height=\"34\"/><use href=\"#mark-ok\" x=\"208\" y=\"308\" width=\"34\" height=\"34\"/><use href=\"#mark-no\" x=\"397\" y=\"308\" width=\"34\" height=\"34\"/><use href=\"#mark-no\" x=\"586\" y=\"308\" width=\"34\" height=\"34\"/><use href=\"#mark-ok\" x=\"775\" y=\"308\" width=\"34\" height=\"34\"/><text x=\"450\" y=\"412\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Tanna kamma: both ways acquire, except one reverse way (pulling a donkey or driving a camel, on the two views)</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s3",
+       "title": "First Version: Why List Pulling and Driving Separately?",
+       "amud": "8b–9a",
+       "text": {
+        "from": "8b.13",
+        "to": "9a.5"
+       },
+       "gist": "The listing of pulling and driving seems to exclude riding. It is explained instead as a reply to R. Yehuda, with one reverse method failing even for the tanna kamma.",
+       "bullets": [
+        {
+         "text": "*Baraita*: two people pulling a camel or driving a donkey, or one pulling and one driving, both acquire in that manner. R. Yehuda: a camel is acquired only by pulling and a donkey only by driving, the way each is normally directed.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Inference: the *baraita* names pulling and driving, so sitting in riding position does not acquire.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rejection: riding may acquire too. The tanna kamma names pulling and driving only to reject R. Yehuda: even the reverse method (pulling a donkey, driving a camel) acquires by *meshikhah*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: then the *baraita* should have said \"pulling or driving, a camel or a donkey\". Listing them separately shows the tanna kamma does not disagree entirely.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: there is one method that even the tanna kamma rejects, and it is unclear which. Some say pulling a donkey, since donkeys won't move when pulled. Others say driving a camel, which is not the common way.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Why naturalness matters at all: a *kinyan* must show ownership. Making an animal lurch forward in an odd way shows no real control, like someone who jolts a scooter briefly and then loses control of it.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s4",
+       "title": "Alternative Version: What Does \"In That Manner\" Exclude?",
+       "amud": "9a",
+       "text": {
+        "from": "9a.6",
+        "to": "9a.7"
+       },
+       "gist": "In a second version, the challenge comes from the phrase \"in that manner\". It is explained as excluding a reverse method, not riding.",
+       "bullets": [
+        {
+         "text": "Challenge: \"they acquire in that manner\". Does that exclude one sitting in riding position?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "No: it excludes the reverse cases, driving a camel or pulling a donkey.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Then the tanna kamma is identical to R. Yehuda? No: they differ over one method. Some say the tanna kamma rejects only pulling a donkey, others only driving a camel.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Neither version sheds any light on *rokhev*.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s5",
+     "title": "Rider and Rein-Holder: Who Gets the Donkey, Who Gets the Reins?",
+     "amud": "9a",
+     "text": {
+      "from": "9a.8",
+      "to": "9a.15"
+     },
+     "gist": "A *baraita* gives the donkey to the rider and the reins to the one holding them. To deflect the proof for *rokhev*, the Gemara reads the rider as driving, then tries two emendations, Rav Ashi's emendation, and R. Abbahu's defense of the text as taught.",
+     "bullets": [],
+     "chart": {
+      "caption": "Readings of the baraita of the rider and the rein-holder",
+      "columns": [
+       "",
+       "Rider",
+       "Holder",
+       "Difficulty or outcome"
+      ],
+      "rows": [
+       [
+        "Baraita as taught",
+        "The donkey",
+        "The reins",
+        "A rider who is driving should get part of the reins"
+       ],
+       [
+        "First emendation",
+        "The donkey and half the reins",
+        "Half the reins",
+        "How does the holder acquire, when the other end is on a donkey he doesn't acquire?"
+       ],
+       [
+        "Second emendation",
+        "The donkey and almost all the reins",
+        "Only what is in his hand",
+        "He lifted for himself, not for the rider"
+       ],
+       [
+        "Rav Ashi",
+        "The donkey and its halter",
+        "Only what is in his hand",
+        "The middle of the reins is acquired by neither; no challenge follows"
+       ],
+       [
+        "R. Abbahu (no emendation)",
+        "The donkey",
+        "All the reins, since he could pull them to himself",
+        "Called an error, from the garment case"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s6",
+       "title": "Emending the Baraita: Half the Reins, or Almost All?",
+       "amud": "9a",
+       "text": {
+        "from": "9a.8",
+        "to": "9a.12"
+       },
+       "gist": "If the rider is driving, he should get some of the reins. Two emendations fail: one can't explain the holder's half, the other makes the holder acquire for the rider while lifting for himself.",
+       "bullets": [
+        {
+         "text": "*Baraita*: one sits on a donkey and another holds the reins. This one acquires the donkey, that one the reins. It seems to prove that *rokhev* acquires.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Deflection: the rider is also driving the donkey with his feet.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: then the rider should acquire part of the reins too.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "First emendation: the rider acquires the donkey and half the reins, the holder the other half.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: the rider gets his half because a competent person, the holder, lifted it for him. But how does the holder acquire his half, when its other end is attached to a donkey he does not acquire?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Second emendation: the rider acquires the donkey and almost all the reins, and the holder only the part in his hand.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: even if *magbiah metziah la'chaveiro* works, that is only when one lifts for another. The holder is lifting for himself, and since he doesn't acquire, how can he acquire for someone else?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The holder's *hagbahah* covers only part of an object whose far end hangs from the donkey and was never lifted by him. Moving that far end sideways, as the donkey does, is not lifting it.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The Gemara seems to assume the holder's lifting can help the rider, but the rider's driving can't help the holder. Why the help runs only one way is hard to state precisely.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s7",
+       "title": "Rav Ashi: Donkey and Halter, the Hand's Portion, a Middle No One Owns",
+       "amud": "9a",
+       "text": {
+        "from": "9a.13",
+        "to": "9a.13"
+       },
+       "gist": "Rav Ashi gives each party only what lies within his own act of acquisition: the halter goes with the donkey, the holder gets what is in his hand, and the middle stays unowned.",
+       "bullets": [
+        {
+         "text": "Rav Ashi: the rider, sitting and driving, acquires the donkey and its halter, which is attached to its head. The holder acquires only the part in his hand. The rest, neither attached to the head nor in the hand, neither of them acquires.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Neither party relies on the other. The halter is part of the donkey, and the holder gets no help from the rider, so the middle could be taken by anyone.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "Rav Ashi's emendation (9a): the rider acquires the donkey and its halter, the holder only what is in his hand, and the middle of the reins neither.",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A man sits on a donkey; a second man on the ground holds the reins. The halter is colored blue, the middle of the reins gray and dashed, the part in the holder's hand amber.</title><rect width=\"900\" height=\"440\" fill=\"url(#sky)\"/><rect x=\"0\" y=\"385\" width=\"900\" height=\"55\" fill=\"#D9C9A8\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Rav Ashi: the donkey, the reins and the one holding them</text><use href=\"#man\" x=\"352\" y=\"168\" width=\"64\" height=\"128\" style=\"color:#4B5E8C\"/><g transform=\"translate(250,200) scale(1.8)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><ellipse cx=\"492\" cy=\"276\" rx=\"16\" ry=\"12\" fill=\"none\" stroke=\"#1B3A8A\" stroke-width=\"5\"/><line x1=\"504\" y1=\"284\" x2=\"540\" y2=\"304\" stroke=\"#1B3A8A\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M540 304 Q590 350 640 334\" fill=\"none\" stroke=\"#9AA0AA\" stroke-width=\"5\" stroke-dasharray=\"8 6\"/><line x1=\"640\" y1=\"334\" x2=\"700\" y2=\"322\" stroke=\"#9A6212\" stroke-width=\"7\" stroke-linecap=\"round\"/><use href=\"#man\" x=\"690\" y=\"248\" width=\"70\" height=\"140\" style=\"color:#8C5A3C\"/><text x=\"40\" y=\"118\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">Rider, sitting and driving with his feet:</text><text x=\"40\" y=\"140\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" fill=\"#1B3A8A\">acquires the donkey and its halter</text><text x=\"590\" y=\"230\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5B6478\">The rest of the reins:</text><text x=\"590\" y=\"250\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" fill=\"#5B6478\">neither acquires</text><text x=\"740\" y=\"180\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">One holding the reins:</text><text x=\"740\" y=\"200\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" fill=\"#9A6212\">acquires only what is in his hand</text><text x=\"450\" y=\"420\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5A4A3A\">Bava Metzia 9a · Rav Ashi’s emendation of the baraita</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s8",
+       "title": "R. Abbahu: \"He Could Pull It to Himself\", Refuted by the Garment",
+       "amud": "9a",
+       "text": {
+        "from": "9a.14",
+        "to": "9a.15"
+       },
+       "gist": "R. Abbahu keeps the text as taught: the holder acquires all the reins because he could pull them to himself. The Gemara calls this an error, from a garment lying half on the ground and half on a pillar.",
+       "bullets": [
+        {
+         "text": "R. Abbahu: don't emend. The holder acquires the reins because he can detach them from the donkey and bring them to himself.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rashi reads it broadly: lifting part of an object, when a yank would bring the rest aloft, counts as lifting it all. That is all the more so when the rest already hangs in the air.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The Gemara calls it an error. Take a garment half on the ground and half on a pillar: one person lifts the ground half and another lifts the pillar half. Should the first acquire and the second not, since the first could pull it all to himself? Certainly not the *halakha*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Tosafot find the refutation less obvious than it looks: how do we know R. Abbahu wouldn't say the same about the garment? Lifting the ground half of such a garment sounds like a reasonable *hagbahah*.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The question whether *rokhev* acquires remains unresolved.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "illustration": {
+        "caption": "The Gemara's case against R. Abbahu (9a): a garment half on the ground and half on a pillar, lifted from both ends. The first person could pull it all to himself, yet no one says he alone acquires it.",
+        "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A garment lies half on the ground and half over a pillar. One person lifts the end on the ground; another lifts the end over the pillar.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">A garment half on the ground, half on a pillar</text><text x=\"450\" y=\"86\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" fill=\"#1A1F2E\">R. Abbahu’s reasoning: since the first could pull the whole garment to himself,</text><text x=\"450\" y=\"108\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" fill=\"#1A1F2E\">should he acquire it and the second not?</text><text x=\"450\" y=\"144\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Certainly not the halakha, so R. Abbahu’s statement is an error</text><rect x=\"0\" y=\"390\" width=\"900\" height=\"30\" fill=\"#E6DCC8\"/><rect x=\"538\" y=\"252\" width=\"56\" height=\"138\" fill=\"#CFC6B6\" stroke=\"#A89E8C\"/><rect x=\"526\" y=\"240\" width=\"80\" height=\"12\" fill=\"#BDB3A1\"/><polyline points=\"330,383 525,383 525,232 616,232 616,270\" fill=\"none\" stroke=\"#5E7FB0\" stroke-width=\"12\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><use href=\"#man\" x=\"250\" y=\"268\" width=\"60\" height=\"120\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"632\" y=\"268\" width=\"60\" height=\"120\" style=\"color:#50706E\"/><text x=\"250\" y=\"220\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">First person:</text><text x=\"250\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">lifts the half on the ground</text><text x=\"740\" y=\"186\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Second person:</text><text x=\"740\" y=\"206\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">lifts the half on the pillar</text></svg>"
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s9",
+     "title": "R. Eliezer: Riding in the Field, Leading in the City",
+     "amud": "9a–9b",
+     "text": {
+      "from": "9a.16",
+      "to": "9b.1"
+     },
+     "gist": "R. Eliezer's *baraita* is also read as driving with the feet, so it proves nothing about *rokhev*. The Gemara explains why riding fails in the city (normal practice, in a sale only) and lists who acquires by riding even there.",
+     "bullets": [],
+     "illustration": {
+      "caption": "R. Eliezer's baraita (9a–9b): riding in the field and leading in the city acquire, riding in the city does not. The last lines list the cases where riding in the city acquires after all.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a man riding a donkey in a field. Right: in a city, a man leading a donkey and a man riding one, with the exceptions listed below.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"415\" height=\"430\" rx=\"14\" fill=\"#EEF0E4\"/><rect x=\"450\" y=\"15\" width=\"435\" height=\"430\" rx=\"14\" fill=\"#EDE6DA\"/><text x=\"222\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">In the field</text><text x=\"222\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">R. Eliezer: one who rides in the field acquires</text><use href=\"#man\" x=\"185\" y=\"170\" width=\"52\" height=\"104\" style=\"color:#4B5E8C\"/><g transform=\"translate(110,200) scale(1.3)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><line x1=\"30\" y1=\"336\" x2=\"415\" y2=\"336\" stroke=\"#A9B48E\" stroke-width=\"3\"/><path d=\"M50 336 l4 -10 l4 10 M340 336 l4 -10 l4 10 M380 336 l4 -10 l4 10\" stroke=\"#7E9A5E\" stroke-width=\"2\" fill=\"none\"/><use href=\"#mark-ok\" x=\"60\" y=\"355\" width=\"30\" height=\"30\"/><text x=\"98\" y=\"375\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">One riding in the field acquires</text><text x=\"222\" y=\"410\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">The city rule: a sale where the seller said,</text><text x=\"222\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">“Acquire it the way people normally acquire”</text><text x=\"667\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">In the city</text><text x=\"667\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rav Kahana: people do not normally ride in the city</text><g fill=\"#E2D6C2\" stroke=\"#BFAE8E\"><rect x=\"470\" y=\"100\" width=\"50\" height=\"40\"/><rect x=\"530\" y=\"92\" width=\"40\" height=\"48\"/><rect x=\"580\" y=\"104\" width=\"60\" height=\"36\"/><rect x=\"650\" y=\"96\" width=\"45\" height=\"44\"/><rect x=\"705\" y=\"102\" width=\"55\" height=\"38\"/><rect x=\"770\" y=\"94\" width=\"45\" height=\"46\"/><rect x=\"825\" y=\"104\" width=\"45\" height=\"36\"/></g><g transform=\"translate(470,195) scale(0.9)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><use href=\"#man\" x=\"612\" y=\"208\" width=\"40\" height=\"80\" style=\"color:#6B6F3A\"/><line x1=\"592\" y1=\"232\" x2=\"618\" y2=\"250\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><use href=\"#man\" x=\"718\" y=\"180\" width=\"40\" height=\"80\" style=\"color:#4B5E8C\"/><g transform=\"translate(680,195) scale(0.9)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><line x1=\"460\" y1=\"290\" x2=\"875\" y2=\"290\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"470\" y=\"300\" width=\"26\" height=\"26\"/><text x=\"502\" y=\"314\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">Leading in the city:</text><text x=\"502\" y=\"332\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" fill=\"#24592E\">acquires</text><use href=\"#mark-no\" x=\"682\" y=\"300\" width=\"26\" height=\"26\"/><text x=\"714\" y=\"314\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">Riding in the city:</text><text x=\"714\" y=\"332\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" fill=\"#8C2F2F\">does not acquire</text><text x=\"470\" y=\"365\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">Riding in the city does acquire:</text><use href=\"#mark-ok\" x=\"470\" y=\"376\" width=\"20\" height=\"20\"/><text x=\"496\" y=\"391\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">in the public domain</text><use href=\"#mark-ok\" x=\"680\" y=\"376\" width=\"20\" height=\"20\"/><text x=\"706\" y=\"391\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">for an important person</text><use href=\"#mark-ok\" x=\"470\" y=\"408\" width=\"20\" height=\"20\"/><text x=\"496\" y=\"423\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">for a woman</text><use href=\"#mark-ok\" x=\"680\" y=\"408\" width=\"20\" height=\"20\"/><text x=\"706\" y=\"423\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">for a detestable person</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s10",
+       "title": "Why Not in the City? Normal Practice, the Shabbat Purse, a Seller's Terms",
+       "amud": "9a",
+       "text": {
+        "from": "9a.16",
+        "to": "9a.19"
+       },
+       "gist": "Rav Kahana: people don't ride in the city. Rav Ashi objects that an unusual act still acquires (a purse lifted on Shabbat), so the rule is confined to a sale on the seller's terms.",
+       "bullets": [
+        {
+         "text": "*Baraita*, R. Eliezer: one who sits on an animal in the field, or leads it in the city, acquires it. That seems to prove *rokhev*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Deflection: he is driving with his feet. Why then list it separately from leading? The *baraita* teaches two types of leading.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Why doesn't riding in the city acquire? Rav Kahana: people do not normally ride in the city.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Ashi objects: then one who lifts a purse he found on Shabbat, which people don't normally do because it is *muktzeh*, wouldn't acquire either. Rather, \"what he did, he did\", and he acquires. So too one who rides in the city.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Resolution: the *baraita* is not about a found animal, which is acquired even by riding in the city. It is about a sale where the seller said, \"Acquire it the way people normally acquire.\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The answer is forced, since the *baraita* mentions no such stipulation. But the distinction holds: with a found item any act works, and only the terms of a sale can require the normal way.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Tosafot ask why the setting matters if the rider is really driving the animal. The answer must be that an act outside normal practice no longer shows ownership, even though the animal moves.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s11",
+       "title": "Riding in the City After All: Public Domain, Important Person, Woman, Detestable Person",
+       "amud": "9b",
+       "text": {
+        "from": "9b.1",
+        "to": "9b.1"
+       },
+       "gist": "Where riding is the normal way for that place or that person, it acquires even in the city.",
+       "bullets": [
+        {
+         "text": "In the public domain he acquires, since people commonly ride there.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "An important person, who always rides rather than leads, acquires even in an alleyway.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A woman acquires by riding, since women do not normally lead animals.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A detestable person, who rides even where others don't, acquires too.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The city rule is a default about normal behavior, not a fixed disqualification. The person or the place can override it. Rashi on the woman: she controls the animal better from on top of it.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "title": "Pulling an Animal to Acquire Its Load: Chatzer Mehalekhet",
+   "amud": "9b",
+   "text": {
+    "from": "9b.2",
+    "to": "9b.8"
+   },
+   "gist": "R. Elazar asks whether pulling an animal acquires the vessels on it. Rava answers that even selling both would fail, since an animal is a *chatzer mehalekhet* unless it is bound, and he defends the rule against a boat and a woman's basket.",
+   "bullets": [],
+   "chart": {
+    "caption": "What can acquire as a courtyard, and why",
+    "columns": [
+     "",
+     "Acquires what is placed in it?",
+     "Reason"
+    ],
+    "rows": [
+     [
+      "Animal walking",
+      "No",
+      "A *chatzer mehalekhet*"
+     ],
+     [
+      "Animal standing or sitting",
+      "No",
+      "What doesn't acquire when moving doesn't acquire when standing or sitting"
+     ],
+     [
+      "Bound animal",
+      "Yes",
+      "It serves as the buyer's courtyard"
+     ],
+     [
+      "Boat",
+      "Yes",
+      "The boat sits idle; the water moves it"
+     ],
+     [
+      "Woman's basket",
+      "Yes",
+      "The basket sits idle; she walks beneath it"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The courtyard cases of 9b in the Gemara's order: a free animal, walking or standing, does not acquire the vessels on it; a bound animal, a boat and a woman's basket do.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Four panels: a donkey carrying jars, a bound donkey carrying jars, a boat with a fish jumping in, and a woman with a basket on her head into which a get is thrown.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">What acquires as a courtyard?</text><text x=\"450\" y=\"60\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#5B6478\">חצר מהלכת</text><rect x=\"15\" y=\"72\" width=\"204\" height=\"355\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"237\" y=\"72\" width=\"204\" height=\"355\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"459\" y=\"72\" width=\"204\" height=\"355\" rx=\"12\" fill=\"#E3EAF3\"/><rect x=\"681\" y=\"72\" width=\"204\" height=\"355\" rx=\"12\" fill=\"#EDE7F3\"/><g transform=\"translate(45,190) scale(0.9)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><rect x=\"95\" y=\"206\" width=\"14\" height=\"20\" rx=\"3\" fill=\"#9A7440\"/><rect x=\"115\" y=\"204\" width=\"14\" height=\"22\" rx=\"3\" fill=\"#7A5A3A\"/><path d=\"M28 240 h14 M24 252 h18\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><line x1=\"25\" y1=\"286\" x2=\"209\" y2=\"286\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><g transform=\"translate(267,190) scale(0.9)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><rect x=\"317\" y=\"206\" width=\"14\" height=\"20\" rx=\"3\" fill=\"#9A7440\"/><rect x=\"337\" y=\"204\" width=\"14\" height=\"22\" rx=\"3\" fill=\"#7A5A3A\"/><line x1=\"294\" y1=\"271\" x2=\"372\" y2=\"271\" stroke=\"#8A6A3A\" stroke-width=\"3\"/><line x1=\"372\" y1=\"271\" x2=\"410\" y2=\"258\" stroke=\"#8A6A3A\" stroke-width=\"3\"/><rect x=\"410\" y=\"246\" width=\"6\" height=\"40\" fill=\"#6E5B46\"/><line x1=\"247\" y1=\"286\" x2=\"431\" y2=\"286\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"469\" y=\"268\" width=\"184\" height=\"20\" rx=\"4\" fill=\"#BFD7E6\"/><path d=\"M475 268 q10 -6 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0\" fill=\"none\" stroke=\"#8FB4CC\" stroke-width=\"2\"/><path d=\"M499 246 L623 246 L607 272 L515 272 Z\" fill=\"#8B6A4E\"/><line x1=\"561\" y1=\"246\" x2=\"561\" y2=\"176\" stroke=\"#6E5B46\" stroke-width=\"3\"/><path d=\"M565 182 L565 240 L604 240 Z\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\"/><path d=\"M490 266 Q498 222 520 214\" fill=\"none\" stroke=\"#6F8FA8\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><ellipse cx=\"530\" cy=\"214\" rx=\"11\" ry=\"5\" fill=\"#6F8FA8\"/><path d=\"M519 214 l-7 -5 v10 z\" fill=\"#6F8FA8\"/><use href=\"#woman\" x=\"752\" y=\"176\" width=\"58\" height=\"116\" style=\"color:#8C4A60\"/><path d=\"M763 176 L799 176 L795 196 L767 196 Z\" fill=\"#A8824A\"/><rect x=\"835\" y=\"128\" width=\"24\" height=\"16\" fill=\"#FFFFFF\" stroke=\"#8A7560\" transform=\"rotate(-12 847 136)\"/><text x=\"847\" y=\"118\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">get</text><path d=\"M835 146 Q815 152 800 174\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><line x1=\"691\" y1=\"293\" x2=\"875\" y2=\"293\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><g font-family=\"Newsreader, Georgia, serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"117\" y=\"314\">An animal, walking</text><text x=\"117\" y=\"332\">or standing still</text><text x=\"339\" y=\"324\">A bound animal</text><text x=\"561\" y=\"324\">A boat</text><text x=\"783\" y=\"324\">A woman’s basket</text></g><use href=\"#mark-no\" x=\"101\" y=\"342\" width=\"32\" height=\"32\"/><use href=\"#mark-ok\" x=\"323\" y=\"342\" width=\"32\" height=\"32\"/><use href=\"#mark-ok\" x=\"545\" y=\"342\" width=\"32\" height=\"32\"/><use href=\"#mark-ok\" x=\"767\" y=\"342\" width=\"32\" height=\"32\"/><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"117\" y=\"394\">a mobile courtyard:</text><text x=\"117\" y=\"412\" fill=\"#8C2F2F\">does not acquire</text><text x=\"339\" y=\"394\">his courtyard:</text><text x=\"339\" y=\"412\" fill=\"#24592E\">acquires the vessels</text><text x=\"561\" y=\"394\">the boat sits idle;</text><text x=\"561\" y=\"412\">the water moves it</text><text x=\"783\" y=\"394\">the basket sits idle;</text><text x=\"783\" y=\"412\">she walks beneath it</text></g></svg>"
+   },
+   "children": [
+    {
+     "id": "s13",
+     "title": "R. Elazar's Question: \"In Order to Acquire\" or \"Acquire\"?",
+     "amud": "9b",
+     "text": {
+      "from": "9b.2",
+      "to": "9b.3"
+     },
+     "gist": "The question is first reworded so that the seller actually tells the buyer to acquire. Then it asks whether pulling the animal acquires the vessels on it.",
+     "bullets": [
+      {
+       "text": "R. Elazar asks: one says to a buyer, \"Pull this animal in order to acquire the vessels on it.\" What is the law?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"In order that you acquire\" is not an instruction to acquire, so the buyer could not acquire that way. The question must be about \"Pull this animal and acquire the vessels on it.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot: pulling an animal doesn't drag it by force. It walks under its own power, and the load moves because the animal carries it. Is that *meshikhah* of the vessels?",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s14",
+     "title": "Rava: A *chatzer mehalekhet* Acquires Nothing, Moving or Still, Unless Bound",
+     "amud": "9b",
+     "text": {
+      "from": "9b.4",
+      "to": "9b.6"
+     },
+     "gist": "Rava rejects even the combined sale, since a free animal is a *chatzer mehalekhet* (mobile courtyard) at all times. The *halakha*: the load is acquired through the animal only when it is bound.",
+     "bullets": [
+      {
+       "text": "Rava: clearly not. Even \"acquire the animal and acquire the vessels\" wouldn't work. One's animal is like his courtyard for *kinyan chatzer*, but it is a *chatzer mehalekhet*, and a *chatzer mehalekhet* does not acquire.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "What if the animal is standing still while being pulled? What does not acquire when moving does not acquire when standing or sitting.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Halakha*: the buyer acquires the vessels on the animal only when it is bound. Then the animal counts as his courtyard.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Kinyan chatzer* extends a person's hand, so it needs full control. A living being with its own will can walk away, so the capacity to move, not actual motion, disqualifies it.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "R. Elazar's own question, whether pulling the animal is *meshikhah* of its load, is never answered.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "Boat and Basket: Moved by Something Else, Not by Themselves",
+     "amud": "9b",
+     "text": {
+      "from": "9b.7",
+      "to": "9b.8"
+     },
+     "gist": "Two challenges to the rule of the *chatzer mehalekhet*: a sailing boat and a woman's basket. Neither is mobile in the relevant sense.",
+     "bullets": [
+      {
+       "text": "Rav Pappa and Rav Huna son of Rav Yehoshua to Rava: fish jump into a boat under sail. Is the boat a *chatzer mehalekhet* that doesn't acquire them? Rava: the boat sits idle, and the water moves it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Ravina to Rav Ashi: a husband throws a *get* into the lap of a woman walking in the public domain, or into the basket on her head. Is she not divorced? Rav Ashi: the basket sits idle, and she walks beneath it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The rule of the *chatzer mehalekhet* applies only to what moves by its own will: animals and people. Boats, carts and carried baskets remain valid for *kinyan chatzer*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "title": "Mishnah: \"Give It to Me\": Rider, Pedestrian and a Found Item",
+   "amud": "9b",
+   "text": {
+    "from": "9b.9",
+    "to": "9b.9"
+   },
+   "gist": "A rider asks a pedestrian to hand him a found item. The pedestrian keeps it if he claims it before handing it over, but not after.",
+   "bullets": [
+    {
+     "text": "A rider sees a found item and tells a pedestrian, \"Give it to me.\" If the pedestrian took it and said, \"I have acquired it,\" he acquires it by lifting it, even though he did not see it first.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "If after giving it to the rider he said, \"I acquired it at the outset,\" he has said nothing, and the rider keeps it.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Mishnah seems to imply that had he lifted it for the rider, the rider would acquire it. Whether *magbiah metziah la'chaveiro* works is exactly what the Gemara now debates.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "illustration": {
+    "caption": "The Mishnah (9b): while the pedestrian still holds the item, his claim \"I have acquired it\" stands; once he has handed it to the rider, his claim to have acquired it at the outset counts for nothing.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two scenes. Left: a rider asks a pedestrian for a found purse; the pedestrian holds it and says he has acquired it. Right: the rider holds the purse and the pedestrian says he acquired it at the outset.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">Mishnah: “Give it to me”</text><rect x=\"15\" y=\"50\" width=\"425\" height=\"375\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"460\" y=\"50\" width=\"425\" height=\"375\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"227\" y=\"78\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Before he hands it over</text><text x=\"672\" y=\"78\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">After he has handed it over</text><rect x=\"40\" y=\"92\" width=\"150\" height=\"34\" rx=\"17\" fill=\"#FFFFFF\" stroke=\"#4B5E8C\"/><text x=\"115\" y=\"114\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">“Give it to me”</text><use href=\"#man\" x=\"112\" y=\"176\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><g transform=\"translate(60,210) scale(1.1)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><use href=\"#man\" x=\"280\" y=\"206\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><rect x=\"332\" y=\"262\" width=\"18\" height=\"14\" rx=\"3\" fill=\"#9A7440\"/><rect x=\"245\" y=\"140\" width=\"180\" height=\"34\" rx=\"17\" fill=\"#FFFFFF\" stroke=\"#6B6F3A\"/><text x=\"335\" y=\"162\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">“I have acquired it”</text><line x1=\"30\" y1=\"326\" x2=\"425\" y2=\"326\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"40\" y=\"344\" width=\"32\" height=\"32\"/><text x=\"82\" y=\"358\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">He acquires it by lifting it,</text><text x=\"82\" y=\"378\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">though he did not see it first</text><use href=\"#man\" x=\"557\" y=\"176\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><g transform=\"translate(505,210) scale(1.1)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><rect x=\"604\" y=\"232\" width=\"18\" height=\"14\" rx=\"3\" fill=\"#9A7440\"/><use href=\"#man\" x=\"725\" y=\"206\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><rect x=\"662\" y=\"140\" width=\"214\" height=\"34\" rx=\"17\" fill=\"#FFFFFF\" stroke=\"#6B6F3A\"/><text x=\"769\" y=\"162\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" fill=\"#1A1F2E\">“I acquired it at the outset”</text><line x1=\"475\" y1=\"326\" x2=\"870\" y2=\"326\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"485\" y=\"344\" width=\"32\" height=\"32\"/><text x=\"527\" y=\"358\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">He has said nothing:</text><text x=\"527\" y=\"378\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">the rider keeps the item</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s17",
+   "title": "Acquiring for Another: Pe'ah, Two Migos, and Reading the Mishnah",
+   "amud": "9b → 10a",
+   "text": {
+    "from": "9b.10",
+    "to": "10a.2"
+   },
+   "gist": "The *pe'ah* dispute between R. Eliezer and the Rabbis: Ulla limits it to a rich person gleaning for a poor one (one *migo* against two). Rav Nachman extends it to poor for poor and cites our Mishnah as proof.",
+   "bullets": [],
+   "chart": {
+    "caption": "Ulla vs. Rav Nachman on the dispute over gleaning pe'ah for another",
+    "columns": [
+     "",
+     "Where R. Eliezer and the Rabbis disagree",
+     "Poor person gleaning for a poor person",
+     "Our Mishnah"
+    ],
+    "rows": [
+     [
+      "Ulla",
+      "Only a rich person gleaning for a poor one: one *migo* or two",
+      "All agree he acquires for the other",
+      "The pedestrian meant it for himself from the outset"
+     ],
+     [
+      "Rav Nachman",
+      "Even a poor person gleaning for a poor one",
+      "Disputed: can one acquire for another at all?",
+      "Follows the Rabbis: lifting for another doesn't acquire for him"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s18",
+     "title": "Ulla: A Rich Man Gleaning for a Poor Man, One Migo or Two",
+     "amud": "9b",
+     "text": {
+      "from": "9b.10",
+      "to": "9b.13"
+     },
+     "gist": "R. Eliezer builds a chain of two *migos*. The Rabbis accept only one, and when a poor person gleans for a poor person, one suffices and all agree.",
+     "bullets": [
+      {
+       "text": "Mishnah in Pe'ah 4:9: one gleaned *pe'ah* and said, \"This is for so-and-so, a poor person.\" R. Eliezer: he acquired it for him. The Rabbis: he must give it to the first poor person he meets.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Ulla in the name of R. Yehoshua ben Levi: the dispute is where a rich person gleaned for a poor one.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Eliezer: *migo* he could renounce his property and be poor, the *pe'ah* is fit for him now. And *migo* he can acquire it for himself, he can acquire it for another.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Rabbis: we say *migo* once, not twice.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A poor person gleaning for a poor person: all agree he acquires for him, since it takes only one *migo*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: the field owner himself may not take his own *pe'ah*, so the gleaner is a third party.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "Rav Nachman: Even Poor for Poor, Proved from Our Mishnah",
+     "amud": "9b → 10a",
+     "text": {
+      "from": "9b.14",
+      "to": "10a.2"
+     },
+     "gist": "With a found item everyone counts as poor, so our Mishnah fits only if the dispute includes poor for poor. Ulla answers by reading the pedestrian's claim as intent from the outset.",
+     "bullets": [
+      {
+       "text": "Rav Nachman to Ulla: the dispute is even where a poor person gleans for a poor person.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Proof: with a found item everyone is like a poor person with *pe'ah*. Yet our Mishnah lets the pedestrian who was told \"Give it to me\" keep the item by saying \"I have acquired it.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If poor-for-poor is disputed, the Mishnah follows the Rabbis, for whom one can't acquire for another this way. If all agree that poor-for-poor works, the Mishnah fits neither R. Eliezer nor the Rabbis.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The underlying question for Rav Nachman is simply whether *magbiah metziah la'chaveiro* works.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Ulla: the Mishnah is where the pedestrian said he intended to acquire it for himself from the outset, never for the rider.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "It all turns on \"I have acquired it\". Is it a claim that he lifted it for himself from the start, or a retraction after lifting it for the rider?",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "continues": "Continues on 10a: the Gemara supports Ulla from the words \"at the outset\" in the Mishnah's last clause, and Rav Nachman explains that clause differently.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "rokhev",
+   "hebrew": "רוכב",
+   "sense": "sitting on an animal as a mode of acquisition",
+   "definition": "Sitting on an animal in riding position, as a possible act of acquiring it, as distinct from pulling it or driving it so that it moves.",
+   "on_this_daf": "Three baraitot are brought to prove that rokhev acquires; each is deflected by reading the rider as driving with his feet, and the question stays open.",
+   "aliases": [
+    "rokhev"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "term": "meshikhah",
+   "hebrew": "משיכה",
+   "sense": "pulling as a mode of acquisition",
+   "definition": "Acquiring movable property by pulling it or otherwise causing it to move; an animal is acquired this way by leading or driving it so that it walks.",
+   "on_this_daf": "The camel-and-donkey baraita asks whether pulling or driving must match the animal's natural way, and R. Elazar asks whether pulling an animal counts as pulling the vessels it carries.",
+   "aliases": [
+    "meshikhah"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s13",
+    "s14"
+   ]
+  },
+  {
+   "term": "hagbahah",
+   "hebrew": "הגבהה",
+   "sense": "lifting as a mode of acquisition",
+   "definition": "Acquiring movable property by lifting it off the ground.",
+   "on_this_daf": "The rein-holder lifts only part of reins whose other end hangs from the donkey; R. Abbahu's claim that he could pull the rest to himself is called an error, from the garment case.",
+   "aliases": [
+    "hagbahah"
+   ],
+   "sections": [
+    "s6",
+    "s8"
+   ]
+  },
+  {
+   "term": "kinyan chatzer",
+   "hebrew": "קנין חצר",
+   "sense": "acquisition through one's property",
+   "definition": "A person's property acquires items that come into it on his behalf, as though his own hand had taken them.",
+   "on_this_daf": "Rava rules that one's animal can serve as his courtyard for its load only when it is bound.",
+   "aliases": [
+    "kinyan chatzer"
+   ],
+   "sections": [
+    "s14",
+    "s15"
+   ]
+  },
+  {
+   "term": "chatzer mehalekhet",
+   "hebrew": "חצר מהלכת",
+   "sense": "a moving courtyard",
+   "definition": "A 'courtyard' that moves, such as a living animal, which cannot acquire items placed in it.",
+   "on_this_daf": "A free animal is a mobile courtyard even when standing still, while a boat moved by water and a basket carried by a woman are not.",
+   "aliases": [
+    "chatzer mehalekhet"
+   ],
+   "sections": [
+    "s12",
+    "s14",
+    "s15"
+   ]
+  },
+  {
+   "term": "magbiah metziah la'chaveiro",
+   "hebrew": "מגביה מציאה לחבירו",
+   "sense": "lifting a found item on another's behalf",
+   "definition": "The question whether one who lifts an ownerless item intending it for another person thereby acquires it for that person.",
+   "on_this_daf": "It blocks the second emendation of the reins baraita, and Rav Nachman sees it as the real issue in the pe'ah dispute and in our Mishnah.",
+   "aliases": [
+    "magbiah metziah la'chaveiro"
+   ],
+   "sections": [
+    "s6",
+    "s16",
+    "s19"
+   ]
+  },
+  {
+   "term": "migo",
+   "hebrew": "מיגו",
+   "sense": "'since he could...' reasoning",
+   "definition": "An inference that because a person has the power to do one thing, he is granted a related power or claim.",
+   "on_this_daf": "For Ulla, R. Eliezer lets a rich man glean pe'ah for a poor one through two migos, while the Rabbis accept only one.",
+   "aliases": [
+    "migo"
+   ],
+   "sections": [
+    "s17",
+    "s18"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The three baraitot on riding (camel and donkey, rider and rein-holder, R. Eliezer's field and city) are grouped under one parent because all serve the single question of whether rokhev acquires; each could instead be its own top-level section.",
+  "The two versions of the camel-and-donkey exchange are sibling children; the second could be treated as a single bullet ('others say') inside the first, but it has its own challenge and answer.",
+  "R. Abbahu's view and its refutation by the garment case form one section; the garment case could be its own child, but it exists only to refute R. Abbahu.",
+  "Rava's boat and basket replies sit under the chatzer mehalekhet section, although they begin with a new pair of questioners; they defend Rava's rule, so they belong with it.",
+  "The pe'ah dispute is a separate top-level section after the Mishnah, not a child of it. The Gemara opens with a different Mishnah and returns to ours only as Rav Nachman's proof; nesting it under the Mishnah would also be reasonable."
+ ],
+ "coverage_notes": [
+  "The essay opens with a recap of 8b (the definition of rokhev and driving with the feet), which lies before this daf's scope; it is used only as framing in s1.",
+  "The essay says that in the first emendation the rider's movement helps the ground-holder. The text says the rider acquires his half because the holder, a competent person, lifted it for him, and the difficulty is how the holder acquires his own half. Followed the text.",
+  "The essay says Rav Ashi gives the rider the 'bit'; the text has the halter attached to the donkey's head. Followed the text.",
+  "The essay calls him 'Rav Abbahu'; the text has R. Abbahu. Followed the text.",
+  "The essay garbles the boat question ('Rav Pappa l'Rav Huna brei d'Rav Yehoshua l'Rava'); the text has Rav Pappa and Rav Huna son of Rav Yehoshua asking Rava. Followed the text.",
+  "The essay presents the bound-animal line as a partial answer along the way; the text states it as the halakha. Followed the text.",
+  "The essay has the get thrown into the woman's basket 'or cloak'; the text has her lap or her basket. Followed the text.",
+  "The essay introduces the final answer with an unattributed 'Amar lei'; the text has Ulla answering Rav Nachman. Followed the text.",
+  "The essay's account of Rav Nachman's proof does not state its second half (if poor-for-poor works for all, the Mishnah fits neither side); the text does (9b.15–10a.1), and it is included.",
+  "The Gemara after 10a.2 (support for Ulla from 'at the outset', and Rav Nachman's reply) is outside this daf's scope; the shiur does not reach it."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s11",
+    "subject": "Cases where riding in the city acquires",
+    "why_not": "A simple list with one reason each; the bullets and the field-and-city picture cover it."
+   },
+   {
+    "section": "s18",
+    "subject": "R. Eliezer's two-step migo chain",
+    "why_not": "A single chain of reasoning, not a grid; the Ulla vs. Rav Nachman chart already sets out the positions."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s18",
+    "subject": "The migo chain: rich man, renounces property, becomes poor, gleans for himself, gleans for another",
+    "why_not": "Abstract reasoning better served by the chart than by a drawing."
+   },
+   {
+    "section": "s17",
+    "subject": "A man gleaning pe'ah and naming a poor recipient",
+    "why_not": "The scene adds little; the dispute is about who may acquire, which the chart shows."
+   },
+   {
+    "section": "s14",
+    "subject": "The bound animal as a separate picture",
+    "why_not": "Already a panel in the courtyard picture on s12."
+   },
+   {
+    "section": "s6",
+    "subject": "The first two emendations of the reins",
+    "why_not": "Rav Ashi's picture shows the same scene; the chart compares all the readings."
+   }
+  ]
+ }
+}

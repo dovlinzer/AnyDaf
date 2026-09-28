@@ -1,0 +1,122 @@
+{
+ "key": "bava_metzia_5",
+ "tractate": "Bava Metzia",
+ "sages": [
+  {
+   "name": "מר זוטרא בריה דרב נחמן",
+   "candidates": [
+    "mar-zutra-b-rav-nachman"
+   ],
+   "lines": [
+    "4b.11"
+   ],
+   "count": 1,
+   "first": "4b.11",
+   "ambiguous": false,
+   "pick": "mar-zutra-b-rav-nachman",
+   "pick_by": "only"
+  },
+  {
+   "name": "רמי בר חמא",
+   "candidates": [
+    "rami-b-hama"
+   ],
+   "lines": [
+    "5a.4"
+   ],
+   "count": 1,
+   "first": "5a.4",
+   "ambiguous": false,
+   "pick": "rami-b-hama",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי חייא",
+   "candidates": [
+    "rabbi-chiyya"
+   ],
+   "lines": [
+    "5a.9"
+   ],
+   "count": 1,
+   "first": "5a.9",
+   "ambiguous": false,
+   "pick": "rabbi-chiyya",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבן גמליאל",
+   "candidates": [
+    "rabban-gamliel",
+    "rabban-gamliel-b-rabbi-(iii)",
+    "rabban-gamliel-hazaken-(i)"
+   ],
+   "lines": [
+    "5a.13"
+   ],
+   "count": 1,
+   "first": "5a.13",
+   "ambiguous": true,
+   "pick": "rabban-gamliel-b-rabbi-(iii)",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי זירא",
+   "candidates": [
+    "rav-zera"
+   ],
+   "lines": [
+    "5a.14"
+   ],
+   "count": 1,
+   "first": "5a.14",
+   "ambiguous": false,
+   "pick": "rav-zera",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "5a.15"
+   ],
+   "count": 1,
+   "first": "5a.15",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "5a.17",
+    "5b.2",
+    "5b.4"
+   ],
+   "count": 3,
+   "first": "5a.17",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב נחמן",
+   "candidates": [
+    "rav-nachman-b-yaakov"
+   ],
+   "lines": [
+    "5a.18"
+   ],
+   "count": 1,
+   "first": "5a.18",
+   "ambiguous": false,
+   "pick": "rav-nachman-b-yaakov",
+   "pick_by": "only"
+  }
+ ]
+}

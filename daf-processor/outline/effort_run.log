@@ -1,0 +1,49 @@
+2 dafim x 3 runs (opus55_high, opus55_medium, opus55_low) = 6 requests; system prompt 70,560 chars (cached)
+  bava_metzia_11           user prompt 67,856 chars
+  shabbat_38               TEXT ONLY user prompt 31,083 chars
+Submitted opus55_high batch msgbatch_01F2NQj2MjZuNGLuzJgG9vW8 (2 requests)
+Submitted opus55_medium batch msgbatch_01QmrLF6q8H1SLGRhiUzULHq (2 requests)
+Submitted opus55_low batch msgbatch_01UARAJGs5XJJoQBv7HtnTvY (2 requests)
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_low     in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_low     in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_low     in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_low     in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_low     ended: succeeded=2 processing=0 errored=0
+  wrote outline/results/shabbat_38/04_outline_opus55_low.json
+    check: 3 illustrations (target 4-7)
+  wrote outline/results/bava_metzia_11/04_outline_opus55_low.json
+    check: 3 illustrations (target 4-7)
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_high    ended: succeeded=2 processing=0 errored=0
+  bava_metzia_11__opus55_high: stop_reason=max_tokens
+  wrote outline/results/bava_metzia_11/04_outline_opus55_high.json
+  wrote outline/results/shabbat_38/04_outline_opus55_high.json
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=2 errored=0
+  opus55_medium  ended: succeeded=2 processing=0 errored=0
+  wrote outline/results/shabbat_38/04_outline_opus55_medium.json
+  wrote outline/results/bava_metzia_11/04_outline_opus55_medium.json
+    check: chart in 'Tithes Given from a Ship: Chatzer, Agav or Da'at Acheret?' has sages as column headers ["Ulla's rule"]: check the orientation

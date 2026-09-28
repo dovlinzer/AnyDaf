@@ -1,0 +1,465 @@
+{
+ "daf": "Niddah 60",
+ "scope": {
+  "start": "59b: Rav's opening ruling that a stain may be attributed to a gentile woman only if she has already menstruated (continues onto 60a)",
+  "end": "60b→61a: the Mishnah's rule for *tolot zo b'zo* when all three bedmates share the same status"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Attribution to a Gentile Woman: How Much of a Track Record Is Needed",
+   "amud": "59b–60a",
+   "gist": "Rav restricts the Mishnah's leniency for a gentile borrower to one who has already menstruated, and the Gemara sorts out who is really strict between the first tanna and Rabbi Meir.",
+   "bullets": [
+    {
+     "text": "Rav: the Mishnah's ruling applies only to a gentile borrower who is old enough and has already had a menstrual flow, since the mishnah likens her to a *niddah*, \"one who sees.\"",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rav Sheshet objects that Rav \"was dozing,\" since a *baraita* permits attributing to *any* gentile woman, with Rabbi Meir requiring only that she be old enough to see blood (*re'uyah lirot*) — not that she has ever actually bled — which would make the anonymous first *tanna* more lenient than Rav's ruling allows.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rava rejects reading Rabbi Meir as the stricter voice: rather, the first *tanna* requires a woman who has actually seen blood, while Rabbi Meir is the lenient one, requiring only that she be of an age fit to see it.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "A second *baraita* confirms this: the majority forbid attributing to a gentile woman at all, while Rabbi Meir permits it — so Rabbi Meir is indeed the lenient position, and Rav's ruling matches the stricter majority.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The dispute reflects a general principle of *tliyah*: attribution requires not only that no one loses, but that the attribution be plausible; the debate here is only over how much of a bleeding history establishes that plausibility.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": []
+  },
+  {
+   "id": "s2",
+   "title": "Attribution Despite Unequal Loss: Rabbi vs. Rabban Shimon ben Gamliel",
+   "amud": "60a–60b",
+   "gist": "Beyond costless attribution, the Gemara asks whether one may attribute a stain to a party who does lose something by it, provided her loss is smaller — a dispute tested through several escalating cases.",
+   "bullets": [],
+   "chart": {
+    "caption": "Rabbi vs. Rabban Shimon ben Gamliel across the escalating test cases",
+    "columns": [
+     "",
+     "Shomeret yom (2nd day) / soferet shivah lo tavlah",
+     "Two roads: tamei & tahor",
+     "Two roads: tahor & talui"
+    ],
+    "rows": [
+     [
+      "Rabban Shimon ben Gamliel",
+      "Attribute to the one who loses less; the other is spared entirely",
+      "Attribute the tamei path to the already-tamei person",
+      "Attribute the tamei path to the talui — agreed by all"
+     ],
+     [
+      "Rabbi",
+      "Any real loss blocks attribution; both women become teme'ot",
+      "Same dispute: the tamei person still loses by added tumah",
+      "Agrees here too — no added loss to the talui"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s3",
+     "title": "Shomeret Yom vs. Soferet Shivah: The Core Dispute",
+     "amud": "60a",
+     "gist": "A baraita presents the base case of unequal loss and the Rabbi/Rabban Shimon ben Gamliel dispute over whether to attribute.",
+     "bullets": [
+      {
+       "text": "A *baraita*: one who lent her garment may attribute a stain to a *shomeret yom k'neged yom* (a lesser *zavah*) found on her clean \"watch day,\" since her uterus is considered open even without a fixed presumption of bleeding.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Likewise she may attribute it to a woman who completed her seven clean days but has not yet immersed — though this forces that woman to restart her count of seven.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabban Shimon ben Gamliel: since one party loses far less than the lender would (a full seven-day count), attribute to her; the lender stays fixed and only the borrower's status is spoiled.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabbi disagrees: any real loss, however small compared to the alternative, blocks attribution — therefore both women's statuses are ruined.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Both agree wherever attribution is truly costless: the borrower's very first day of discharge, a woman in her post-childbirth *dam tohor* period, or a bride whose bleeding is presumed hymenal.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara explains why each ruling states \"therefore\": Rabban Shimon ben Gamliel's excludes assuming this is self-evident; Rabbi's excludes crediting the impurity to whichever woman held the garment when the stain was found, rather than declaring both impure.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "The Two Roads: Extending the Debate to Tumat Met",
+     "amud": "60a",
+     "gist": "Rav Chisda applies the same dispute to a tamei and a tahor person who walked unknown paths, and Rav Adda questions whether the analogy holds.",
+     "bullets": [
+      {
+       "text": "Rav Chisda: two people, one *tamei* and one *tahor*, walked down two paths — one passing over a hidden corpse — and cannot recall which; Rabban Shimon ben Gamliel would attribute the impure path to the one already *tamei*, sparing the *tahor* person entirely, while Rabbi would not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Adda objects: the *shomeret yom* case may differ, since she is nearly pure and needs only to immerse, essentially equivalent to the lender — perhaps Rabbi's stringency rests only on that equivalence, not on any loss whatsoever, so in the genuinely unequal two-roads case Rabbi might permit attribution.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Chisda answers: the *shomeret yom* also still requires immersion and is not fully pure, yet Rabbi still rejects attribution to her — proving his position is a blanket refusal of any incremental loss, so the two-roads case remains subject to the same debate.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "Doubtful Tamei (Talui): A Case Where All Agree",
+     "amud": "60a",
+     "gist": "When one party is only doubtfully impure, attribution is unanimous, since the doubtful party loses nothing by it.",
+     "bullets": [
+      {
+       "text": "Rabbi Yosi berabbi Chanina: where one traveler is definitely *tahor* and the other only doubtfully *tamei* (*talui*), one may attribute the impure path to the *talui* and the pure path to the *tahor* one.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is agreed by all, including Rabbi, since the *talui* must treat himself as *tamei* regardless of which path he is assigned — the attribution costs him nothing.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara notes this unanimous ruling supports Rav Adda's reading of the underlying dispute rather than Rav Chisda's.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s6",
+     "title": "Ketem B'Ketem: May a Stain Be Attributed to a Woman Who Has a Stain?",
+     "amud": "60a–60b",
+     "gist": "The debate is tested on a woman whose only impurity is a stain of her own, raising a query, an answer, and a contradictory baraita that needs several resolutions.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s7",
+       "title": "R. Yochanan's Query and R. Yehuda bar Livai's Answer",
+       "amud": "60a",
+       "gist": "R. Yochanan asks whether one may attribute to a woman impure only from her own prior stain; the answer is no.",
+       "bullets": [
+        {
+         "text": "Rabbi Yochanan asks Rabbi Yehuda bar Livai whether a stain may be attributed to a woman who is herself impure only because she found a stain on another garment, specifying that the question does not apply according to Rabbi — since even where a woman demonstrably bled from her own body (the *shomeret yom*), Rabbi rejected attribution once it costs her, all the more so where her impurity rests only on an external stain.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rather the dilemma is posed according to Rabban Shimon ben Gamliel: perhaps he permits attribution only to a woman known to bleed from her own body, or perhaps it makes no difference.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rabbi Yehuda bar Livai answers: one may *not* attribute a stain to a woman impure only from a prior stain — both women remain impure, since a stain cannot be attributed to a mere stain.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s8",
+       "title": "A Baraita's Internal Contradiction and Its Resolutions",
+       "amud": "60a–60b",
+       "gist": "A baraita seems to both forbid and permit ketem-to-ketem attribution; the Gemara offers three resolutions, the last from Ravina.",
+       "bullets": [
+        {
+         "text": "Rabbi Yochanan objects from a *baraita* that first forbids attributing to a woman impure from a prior stain, but then permits attributing if she lent her garment to a gentile woman or to a woman observing days of impurity from a stain — an apparent self-contradiction.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "First resolution: the forbidding clause follows Rabbi, the permitting clause follows Rabban Shimon ben Gamliel.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Alternative: both clauses follow Rabbi, distinguishing the stain-woman's second day (a real loss, so no attribution) from her first day (no loss, so attribution is fine).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Ashi: both clauses follow Rabban Shimon ben Gamliel; the difference is retroactive versus forward-looking determination — a pre-existing stain known before the first stain was assessed may ground attribution, but one discovered only afterward cannot retroactively revise an already-fixed ruling.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The Gemara presses: on any of these readings Rabban Shimon ben Gamliel would sometimes permit attributing to a woman impure from a stain, contradicting Rabbi Yehuda bar Livai's flat denial.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Ravina resolves: the clause's mention of lending to a \"gentile woman\" establishes only the *lender's* own status as one who has seen a stain, not that the new stain is attributed onto the gentile's body.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Pressed further on the clause's mention of \"a woman observing days of impurity from a stain,\" Ravina reinterprets this as a woman in her post-childbirth *dam tohor* period — again defining only the lender's status, so the *baraita* never actually licenses attributing a stain to a woman impure from a mere stain.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "Rabbi Nechemia's Principle: Objects Not Susceptible to Tumah",
+   "amud": "60b",
+   "gist": "The Gemara grounds and extends Rabbi Nechemia's rule that a stain on an object incapable of receiving tumah cannot render the woman impure, then tests it against a conflicting historical precedent.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s10",
+     "title": "The Verse Behind the Ruling, and Its Extensions",
+     "amud": "60b",
+     "gist": "A scriptural source grounds the principle, which is then extended to a pottery vessel's outer surface and to undersized rags.",
+     "bullets": [
+      {
+       "text": "Rav Matna: the source is Isaiah 3:26, \"*veniketa la'aretz teshev*\" — sitting on the ground, which cannot become *tamei*, leaves her clean.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Huna, citing Rabbi Chanina: the principle extends even to the outer side of an inverted earthenware vessel, since a pottery vessel becomes impure only through its interior airspace — the question is whether this specific surface can receive *tumah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara notes this could have been thought obvious, but a rabbinic decree assimilating the outside to the inside (lest people grow lenient about stains found inside too) might have been expected; none was made.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: Rabbi Nechemia likewise rules pure a stain found on a rag smaller than three by three fingerbreadths, since so small a rag is useless to poor and rich alike and so cannot function as a vessel susceptible to *tumah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot: this shows the whole framework of *kesamim* is built inside the categories of *tumah* and *taharah* — the woman's status is derived from whether the object itself could become impure, not assessed independently.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The same principle carries into contemporary practice: a stain on a garment of plastic or synthetic fiber not susceptible to *tumah*, even rabbinically, would not render the wearer impure under Rabbi Nechemia's rule.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Rabbi Nechemia's ruling extended: three objects that cannot receive tumah",
+      "columns": [
+       "Object",
+       "Why not *mekabel tumah*"
+      ],
+      "rows": [
+       [
+        "Stone bench / bathhouse bench (Mishnah)",
+        "Stone, or attached to the ground"
+       ],
+       [
+        "Outer side of an earthenware vessel",
+        "Pottery becomes impure only through its interior airspace"
+       ],
+       [
+        "Rag smaller than 3x3 fingerbreadths",
+        "Too small to be useful to rich or poor, so not a vessel"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "Testing the Ruling Against Precedent",
+     "amud": "60b",
+     "gist": "A recorded incident where the Sages ruled impure on such objects seems to contradict Rabbi Nechemia, until the conflict is resolved as a tannaitic dispute.",
+     "bullets": [
+      {
+       "text": "Rav Chiya bar Rav Mattana taught in Rav's name that the *halacha* follows Rabbi Nechemia.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Nachman objects from his father's *baraita*: an actual incident came before the Sages in which they declared women impure even though the stain was on an object not susceptible to *tumah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "That *baraita*: two women grinding at a hand mill — blood found beneath the inner woman renders both impure (since the outer one also pushes inward), blood beneath the outer woman renders only her impure, and blood found between them renders both impure; blood on a bathtub's rim or an olive leaf while heating an oven likewise led the Sages to declare both women impure.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Resolution: this is a dispute among *tanna'im* — another *baraita* has Rabbi Ya'akov ruling impure and Rabbi Nechemia ruling pure, with the Sages explicitly ruling like Rabbi Nechemia, so the *halacha* stands with him after all.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Two women grinding grain at a hand mill: the inner woman stands close to the millstone, the outer woman farther away but sometimes pushing in, and blood is found beneath the inner woman.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two women grinding grain at a hand mill: the inner woman stands close to the millstone, the outer woman farther away, and blood is found beneath the inner woman.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"60\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Rechayim shel Yad</text><ellipse cx=\"450\" cy=\"260\" rx=\"120\" ry=\"40\" fill=\"#B8A88E\"/><ellipse cx=\"450\" cy=\"250\" rx=\"90\" ry=\"30\" fill=\"#CDBB98\"/><rect x=\"430\" y=\"220\" width=\"20\" height=\"40\" fill=\"#8A7560\"/><use href=\"#woman\" x=\"330\" y=\"150\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><text x=\"365\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Inner (pnimit)</text><ellipse cx=\"400\" cy=\"300\" rx=\"20\" ry=\"8\" fill=\"#7A2E2E\" opacity=\"0.8\"/><text x=\"400\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#7A2E2E\">blood found here</text><use href=\"#woman\" x=\"500\" y=\"150\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><text x=\"535\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Outer (chitzonah)</text></svg>"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "title": "Mishnah: Three Women Sleeping in One Bed",
+   "amud": "60b–61a",
+   "gist": "A new mishnah addresses attribution among bedmates: whether they moved during sleep, whether one checks herself, and relative likelihood of bleeding.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s13",
+     "title": "The Mishnah's Rulings",
+     "amud": "60b",
+     "gist": "Blood found under one sleeping woman implicates all three, unless a self-check or unequal likelihood narrows it down.",
+     "bullets": [
+      {
+       "text": "Three women sleeping in one bed, blood found beneath one of them: all three are *teme'ot*, since they may have shifted position during sleep and the blood could have come from any of them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If one examines herself and finds she is a *niddah*, she alone is *teme'ah* and the other two are *tehorot*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If none checked, or all checked and were found pure, they may attribute the blood to one another according to relative likelihood of menstruating (*tolot zo b'zo*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If all three are equally unfit to menstruate (e.g., all pregnant), they are nonetheless treated as fit, and all three become *teme'ot*, since the blood must have originated from one of them.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Three women lying in one bed; a blood stain is found beneath one of them, and the Mishnah asks whom to attribute it to.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three women lying in one bed; a blood stain is found beneath one of them.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"60\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Shalosh Nashim B'Mita Achat</text><rect x=\"120\" y=\"220\" width=\"660\" height=\"140\" rx=\"14\" fill=\"#E7DCC4\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><rect x=\"100\" y=\"340\" width=\"700\" height=\"30\" fill=\"#8A7560\"/><use href=\"#woman\" x=\"180\" y=\"140\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><use href=\"#woman\" x=\"410\" y=\"140\" width=\"70\" height=\"140\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"640\" y=\"140\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><ellipse cx=\"445\" cy=\"330\" rx=\"24\" ry=\"9\" fill=\"#7A2E2E\" opacity=\"0.8\"/><text x=\"445\" y=\"356\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#7A2E2E\">blood found here</text></svg>"
+     }
+    },
+    {
+     "id": "s14",
+     "title": "Timing of the Self-Check: Only an Immediate Check Frees the Others",
+     "amud": "60b",
+     "gist": "A woman's self-examination clears her bedmates only if performed instantly, following Bar Pada's timing framework and its physiological basis in relations.",
+     "bullets": [
+      {
+       "text": "Rav Yehuda, in Rav's name: the other two are exempted by one woman's self-check only if she checked within the brief interval needed for the onset of menstruation (*shiur veset*); a delayed check leaves all three in doubt even if she is found *niddah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This follows Bar Pada's three-tier timing framework: within the *shiur veset* after intercourse, the husband brings a *chatat* and pure foods she handled in that window are burned; within a longer interval producing doubt, he brings an *asham talui* and her handling is only suspended; beyond that, he is exempt and her handling remains pure.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabbi Oshaya challenges the parallel to *terumah*: even where the husband must bring a *chatat*, *terumah* she handled outside of relations remains only suspended, since intercourse itself physically held the blood back — giving grounds to say it was present throughout — while nothing analogous restrains blood during ordinary activity.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Illustrating the difference: Rabbi Yirmeya's parable of a child pacing an elder along the road, then running ahead once they reach the city gate; Abaye's parable of a finger pressed against the eye holding back tears, which flow the instant it is withdrawn.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Two parables for why blood appears immediately after relations: a child pacing an elder on the road then running ahead at the city gate, and a finger pressed against an eye holding back tears until removed.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two parables: a child pacing an elder on the road then running ahead at the city gate; a finger pressed against an eye holding back tears until removed.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"20\" width=\"420\" height=\"380\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"230\" y=\"60\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Child and Elder</text><path d=\"M40 340 L420 340\" stroke=\"#C9B48E\" stroke-width=\"16\"/><rect x=\"330\" y=\"120\" width=\"60\" height=\"220\" fill=\"#CDBB98\"/><rect x=\"345\" y=\"90\" width=\"30\" height=\"40\" fill=\"#A8927A\"/><use href=\"#sage\" x=\"150\" y=\"220\" width=\"46\" height=\"100\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\"/><use href=\"#child\" x=\"210\" y=\"270\" width=\"28\" height=\"56\" style=\"color:#4E7A8C\"/><text x=\"230\" y=\"380\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">restrained on the road, runs ahead at the gate</text><rect x=\"460\" y=\"20\" width=\"420\" height=\"380\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"60\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Finger and Eye</text><circle cx=\"670\" cy=\"180\" r=\"60\" fill=\"#F1E4D2\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><circle cx=\"670\" cy=\"180\" r=\"22\" fill=\"#FFFFFF\" stroke=\"#9A6212\"/><circle cx=\"670\" cy=\"180\" r=\"9\" fill=\"#4A3A2E\"/><rect x=\"640\" y=\"140\" width=\"14\" height=\"60\" rx=\"6\" fill=\"#D8B38E\"/><text x=\"670\" y=\"280\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">tears held back while the finger presses</text><text x=\"670\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">and rush the instant it is removed</text></svg>"
+     }
+    },
+    {
+     "id": "s15",
+     "title": "Tolot Zo B'Zo: Criteria for Attributing Among Bedmates",
+     "amud": "60b→61a",
+     "gist": "A baraita lists which bedmate is the more plausible source in four pairings, and confirms that equal status leaves all three impure.",
+     "bullets": [
+      {
+       "text": "Pregnant and non-pregnant: the pregnant woman may attribute the blood to the non-pregnant one, since pregnancy suppresses uterine bleeding.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Nursing and non-nursing: the nursing woman may attribute to the non-nursing one, for the same reason.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Old (no longer expecting a cycle) and not old: the older woman may attribute to the younger one.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Pre-menarche and post-menarche (\"*betulah*\" here meaning one who has not yet begun to see blood): the pre-menarche woman may attribute to the one who already bleeds.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If both women share the same status in a given pairing, the case reduces to the Mishnah's rule for shared unsuitability: both are treated as fit to menstruate, and all three remain *teme'ot*.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Four pairs of bedmates and which one may attribute the blood to the other, per the baraita on tolot zo b'zo.",
+      "svg": "<svg viewBox=\"0 0 900 380\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Four pairs of bedmates and which one the other may attribute the blood to: pregnant to non-pregnant, nursing to non-nursing, old to young, pre-menarche to post-menarche.</title><rect width=\"900\" height=\"380\" fill=\"#FBF8F1\"/><use href=\"#woman\" x=\"40\" y=\"40\" width=\"50\" height=\"100\" style=\"color:#8C4A60\"/><text x=\"65\" y=\"160\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Pregnant</text><path d=\"M110 90 L190 90\" stroke=\"#5B6478\" stroke-width=\"3\"/><text x=\"150\" y=\"80\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">attributes to</text><use href=\"#woman\" x=\"200\" y=\"40\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><text x=\"225\" y=\"160\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Non-pregnant</text><use href=\"#woman\" x=\"40\" y=\"180\" width=\"50\" height=\"100\" style=\"color:#6B6F3A\"/><text x=\"65\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Nursing</text><path d=\"M110 230 L190 230\" stroke=\"#5B6478\" stroke-width=\"3\"/><use href=\"#woman\" x=\"200\" y=\"180\" width=\"50\" height=\"100\" style=\"color:#9A6212\"/><text x=\"225\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Non-nursing</text><use href=\"#woman\" x=\"480\" y=\"40\" width=\"50\" height=\"100\" style=\"color:#7A4A3A\"/><text x=\"505\" y=\"160\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Old</text><path d=\"M550 90 L630 90\" stroke=\"#5B6478\" stroke-width=\"3\"/><use href=\"#woman\" x=\"640\" y=\"40\" width=\"50\" height=\"100\" style=\"color:#4E7A8C\"/><text x=\"665\" y=\"160\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Not old</text><use href=\"#woman\" x=\"480\" y=\"180\" width=\"50\" height=\"100\" style=\"color:#A8436E\"/><text x=\"505\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Pre-menarche</text><path d=\"M550 230 L630 230\" stroke=\"#5B6478\" stroke-width=\"3\"/><use href=\"#woman\" x=\"640\" y=\"180\" width=\"50\" height=\"100\" style=\"color:#3E6FA8\"/><text x=\"665\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Post-menarche</text><text x=\"450\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5B6478\">If both share the same status, neither can attribute — all three remain teme'ot</text></svg>"
+     }
+    }
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "Grouped the shomeret-yom baraita, the two-roads case, the talui case, and ketem-b'ketem under one top-level section since all four serve as tests of the single Rabbi/Rabban Shimon ben Gamliel dispute over unequal loss; an alternative would have made each its own top-level section.",
+  "Nested the ketem-b'ketem query and its baraita-contradiction-resolution as two children of one subsection, since the query+answer and the baraita's contradiction+resolutions are two distinct steps within one continuous problem.",
+  "Kept 'Attribution to a Gentile Woman' as a separate top-level section from the unequal-loss debate, since it turns on plausibility of the source rather than loss to the other party.",
+  "Placed Rabbi Nechemia's scriptural source with its extensions (pottery, rags) and the later challenge from historical precedent as two children of one top-level section, since together they establish and then defend the scope of the same ruling."
+ ],
+ "coverage_notes": [
+  "The essay attributes the final reframing of the ketem-b'ketem baraita's permissive clause to Abaye ('Amar Abaye lo kashya'), and frames it as the gentile/dam-tohor woman herself having an independent basis; the text attributes this resolution to Ravina, framed as defining the lender's own status. Followed the text.",
+  "The essay's 'Kesamim Criteria' discussion (the geris/mekabel-tumah/colored-garment triad and its parallel to tum'at nega'im) is shiur analysis anticipating a later Mishnah on colored garments not present in this daf's Gemara text; left out of the outline as outside scope.",
+  "The essay's material on contemporary applications (plastic, polyester, nylon) and the ongoing relevance of Taharot is shiur commentary; included briefly as shiur-sourced bullets attached to Rabbi Nechemia's principle, since it explains that Gemara step directly."
+ ]
+}

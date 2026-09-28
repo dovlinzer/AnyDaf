@@ -1,0 +1,165 @@
+{
+ "key": "bava_batra_84",
+ "tractate": "Bava Batra",
+ "sages": [
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "83b.8",
+    "84a.2",
+    "84a.5"
+   ],
+   "count": 3,
+   "first": "83b.8",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב חסדא",
+   "candidates": [
+    "rav-chisda"
+   ],
+   "lines": [
+    "84a.3"
+   ],
+   "count": 1,
+   "first": "84a.3",
+   "ambiguous": false,
+   "pick": "rav-chisda",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אסי",
+   "candidates": [
+    "rabbi-assi"
+   ],
+   "lines": [
+    "84b.7",
+    "84b.8"
+   ],
+   "count": 2,
+   "first": "84b.7",
+   "ambiguous": false,
+   "pick": "rabbi-assi",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוחנן",
+   "candidates": [
+    "rabbi-yochanan-b-napacha"
+   ],
+   "lines": [
+    "84b.7",
+    "84b.10",
+    "85a.1"
+   ],
+   "count": 3,
+   "first": "84b.7",
+   "ambiguous": false,
+   "pick": "rabbi-yochanan-b-napacha",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי זירא",
+   "candidates": [
+    "rav-zera"
+   ],
+   "lines": [
+    "84b.8"
+   ],
+   "count": 1,
+   "first": "84b.8",
+   "ambiguous": false,
+   "pick": "rav-zera",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי ינאי",
+   "candidates": [
+    "rabbi-yannai"
+   ],
+   "lines": [
+    "84b.9"
+   ],
+   "count": 1,
+   "first": "84b.9",
+   "ambiguous": false,
+   "pick": "rabbi-yannai",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יעקב",
+   "candidates": [
+    "rabbi-yaakov-b-qorshai"
+   ],
+   "lines": [
+    "84b.10"
+   ],
+   "count": 1,
+   "first": "84b.10",
+   "ambiguous": false,
+   "pick": "rabbi-yaakov-b-qorshai",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "84b.12"
+   ],
+   "count": 1,
+   "first": "84b.12",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "84b.12"
+   ],
+   "count": 1,
+   "first": "84b.12",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  },
+  {
+   "name": "שמואל",
+   "candidates": [
+    "shmuel-(amora)"
+   ],
+   "lines": [
+    "84b.14"
+   ],
+   "count": 1,
+   "first": "84b.14",
+   "ambiguous": false,
+   "pick": "shmuel-(amora)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי שמעון בן לקיש",
+   "candidates": [
+    "rabbi-shimon-b-lakish"
+   ],
+   "lines": [
+    "85a.1"
+   ],
+   "count": 1,
+   "first": "85a.1",
+   "ambiguous": false,
+   "pick": "rabbi-shimon-b-lakish",
+   "pick_by": "only"
+  }
+ ]
+}

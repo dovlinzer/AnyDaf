@@ -1,0 +1,179 @@
+{
+ "key": "kiddushin_10",
+ "tractate": "Kiddushin",
+ "sages": [
+  {
+   "name": "רבי זירא",
+   "candidates": [
+    "rav-zera"
+   ],
+   "lines": [
+    "10a.1"
+   ],
+   "count": 1,
+   "first": "10a.1",
+   "ambiguous": false,
+   "pick": "rav-zera",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אושעיא",
+   "candidates": [
+    "rabbi-oshaya"
+   ],
+   "lines": [
+    "10a.2"
+   ],
+   "count": 1,
+   "first": "10a.2",
+   "ambiguous": false,
+   "pick": "rabbi-oshaya",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יונתן",
+   "candidates": [
+    "rabbi-yonatan"
+   ],
+   "lines": [
+    "10a.2"
+   ],
+   "count": 1,
+   "first": "10a.2",
+   "ambiguous": false,
+   "pick": "rabbi-yonatan",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוחנן",
+   "candidates": [
+    "rabbi-yochanan-b-napacha"
+   ],
+   "lines": [
+    "10a.3"
+   ],
+   "count": 1,
+   "first": "10a.3",
+   "ambiguous": false,
+   "pick": "rabbi-yochanan-b-napacha",
+   "pick_by": "only"
+  },
+  {
+   "name": "אמימר",
+   "candidates": [
+    "amemar"
+   ],
+   "lines": [
+    "10a.5"
+   ],
+   "count": 1,
+   "first": "10a.5",
+   "ambiguous": false,
+   "pick": "amemar",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "10a.5",
+    "10a.10"
+   ],
+   "count": 2,
+   "first": "10a.5",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "10a.8"
+   ],
+   "count": 1,
+   "first": "10a.8",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "בן בג בג",
+   "candidates": [
+    "yochanan-ben-bag-bag"
+   ],
+   "lines": [
+    "10b.4",
+    "10b.12",
+    "11a.2"
+   ],
+   "count": 3,
+   "first": "10b.4",
+   "ambiguous": false,
+   "pick": "yochanan-ben-bag-bag",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יהודה בן בתירה",
+   "candidates": [
+    "rabbi-yehudah-b-betera-(i)",
+    "rabbi-yehudah-b-betera-(ii)"
+   ],
+   "lines": [
+    "10b.4"
+   ],
+   "count": 1,
+   "first": "10b.4",
+   "ambiguous": true,
+   "pick": "rabbi-yehudah-b-betera-(i)",
+   "pick_by": "context"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "10b.9"
+   ],
+   "count": 1,
+   "first": "10b.9",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "עולא",
+   "candidates": [
+    "ulla"
+   ],
+   "lines": [
+    "10b.11",
+    "11a.1"
+   ],
+   "count": 2,
+   "first": "10b.11",
+   "ambiguous": false,
+   "pick": "ulla",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבינא",
+   "candidates": [
+    "ravina-(i)"
+   ],
+   "lines": [
+    "10b.13"
+   ],
+   "count": 1,
+   "first": "10b.13",
+   "ambiguous": false,
+   "pick": "ravina-(i)",
+   "pick_by": "only"
+  }
+ ]
+}

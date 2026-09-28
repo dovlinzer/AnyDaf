@@ -1,0 +1,542 @@
+[
+ {
+  "id": "bava_metzia_8__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 19499,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 47046
+ },
+ {
+  "id": "bava_metzia_7__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 21276,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 50636
+ },
+ {
+  "id": "bekhorot_10__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 26772,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 39244
+ },
+ {
+  "id": "bekhorot_12__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 12948,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 28953
+ },
+ {
+  "id": "bekhorot_13__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 29298,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 61392
+ },
+ {
+  "id": "bekhorot_19__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 7662,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 22842
+ },
+ {
+  "id": "kiddushin_11__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 20294,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 30864
+ },
+ {
+  "id": "kiddushin_3__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 20884,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 45503
+ },
+ {
+  "id": "kiddushin_12__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 22639,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 41131
+ },
+ {
+  "id": "kiddushin_4__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 25551,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 44559
+ },
+ {
+  "id": "bava_metzia_5__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 19150,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 36133
+ },
+ {
+  "id": "kiddushin_10__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24365,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 43345
+ },
+ {
+  "id": "bava_metzia_10__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24609,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 46016
+ },
+ {
+  "id": "kiddushin_6__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 19055,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 48549
+ },
+ {
+  "id": "bava_metzia_2__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 16994,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 36822
+ },
+ {
+  "id": "bava_metzia_6__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24140,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 42274
+ },
+ {
+  "id": "bekhorot_18__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24042,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 44533
+ },
+ {
+  "id": "bekhorot_15__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 25150,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 49909
+ },
+ {
+  "id": "kiddushin_9__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 22739,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 39738
+ },
+ {
+  "id": "bava_metzia_9__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 21990,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 58211
+ },
+ {
+  "id": "bekhorot_17__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 21393,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 58808
+ },
+ {
+  "id": "kiddushin_8__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 21686,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 55837
+ },
+ {
+  "id": "kiddushin_5__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 27729,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 54074
+ },
+ {
+  "id": "bekhorot_14__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 25086,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 46273
+ },
+ {
+  "id": "bava_metzia_3__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 22638,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 41008
+ },
+ {
+  "id": "bava_metzia_11__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24438,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 48750
+ },
+ {
+  "id": "bava_metzia_4__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 22271,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 29088
+ },
+ {
+  "id": "kiddushin_7__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 20791,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 41427
+ },
+ {
+  "id": "bekhorot_11__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 27977,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 42989
+ },
+ {
+  "id": "bekhorot_16__opus55_medium",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24020,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 50326
+ },
+ {
+  "id": "kiddushin_7__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 20791,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 51833
+ },
+ {
+  "id": "kiddushin_10__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24365,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 56865
+ },
+ {
+  "id": "kiddushin_12__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 22639,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 59769
+ },
+ {
+  "id": "bekhorot_17__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 21393,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 57985
+ },
+ {
+  "id": "bekhorot_18__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24042,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 67081
+ },
+ {
+  "id": "kiddushin_6__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 19055,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 54988
+ },
+ {
+  "id": "bekhorot_15__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 25150,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 59457
+ },
+ {
+  "id": "bekhorot_11__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 27977,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 63912
+ },
+ {
+  "id": "bekhorot_19__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 7662,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 40617
+ },
+ {
+  "id": "bava_metzia_8__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 19499,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 63454
+ },
+ {
+  "id": "bekhorot_10__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 26772,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 68441
+ },
+ {
+  "id": "bava_metzia_7__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 21276,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 59860
+ },
+ {
+  "id": "bekhorot_14__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 25086,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 61282
+ },
+ {
+  "id": "bava_metzia_5__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 19150,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 47993
+ },
+ {
+  "id": "bava_metzia_10__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24609,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 72211
+ },
+ {
+  "id": "bekhorot_16__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24020,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 67249
+ },
+ {
+  "id": "kiddushin_4__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 25551,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 53987
+ },
+ {
+  "id": "kiddushin_8__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 21686,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 62736
+ },
+ {
+  "id": "bekhorot_12__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 12948,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 40974
+ },
+ {
+  "id": "bekhorot_13__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 29298,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 76755
+ },
+ {
+  "id": "bava_metzia_3__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 22638,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 44868
+ },
+ {
+  "id": "kiddushin_5__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 27729,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 64009
+ },
+ {
+  "id": "bava_metzia_6__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24140,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 61142
+ },
+ {
+  "id": "bava_metzia_11__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 24438,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 65114
+ },
+ {
+  "id": "kiddushin_3__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 20884,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 48293
+ },
+ {
+  "id": "kiddushin_9__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 22739,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 56860
+ },
+ {
+  "id": "bava_metzia_4__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 22271,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 36167
+ },
+ {
+  "id": "bava_metzia_9__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 21990,
+  "cache_read": 0,
+  "cache_write": 34336,
+  "out": 60746
+ },
+ {
+  "id": "bava_metzia_2__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 16994,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 50578
+ },
+ {
+  "id": "kiddushin_11__opus55_high",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 20294,
+  "cache_read": 34336,
+  "cache_write": 0,
+  "out": 45796
+ }
+]

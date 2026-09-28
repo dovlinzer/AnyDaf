@@ -1,0 +1,871 @@
+{
+ "daf": "Kiddushin 9",
+ "scope": {
+  "start": "8b.14: \"Give it to a poor person\" (after the dog cases on 8b)",
+  "end": "9b.16: R. Yochanan's use of *u've'alah* to exclude the Hebrew maidservant (continues on 9b)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Redirecting or Brushing Off the Gift: Poor Person, 'Give, Give', Single Word",
+   "amud": "8b–9a",
+   "text": {
+    "from": "8b.14",
+    "to": "9a.4"
+   },
+   "gist": "Following the dog cases, three kinds of reply that do not accept *kiddushin*: sending the bread to a poor person, a doubled 'Give, give', and the disputed single 'Give'.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "'Give It to a Poor Person': A Shared Duty of Charity, Not Acceptance",
+     "amud": "8b",
+     "text": {
+      "from": "8b.14",
+      "to": "8b.14"
+     },
+     "gist": "She is not betrothed even when the poor person depends on her, since his duty of charity equals hers.",
+     "bullets": [
+      {
+       "text": "He says: \"Be betrothed to me with this loaf.\" She answers: \"Give it to a poor person.\" She is not betrothed, even if the poor person regularly depends on her for food.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The reason: she can say, \"Just as I am obligated to support him, so are you.\" His giving discharges his own duty and is no benefit to her.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The halakha gives some priority to a poor person who regularly relies on a particular giver, almost an obligation. Even that bond does not turn her redirection into acceptance.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Doubled Replies: 'Give, Give', 'Give to Drink', 'Throw, Throw'",
+     "amud": "8b–9a",
+     "text": {
+      "from": "8b.15",
+      "to": "9a.3"
+     },
+     "gist": "Three incidents in which the woman asks first and answers his proposal with a doubled word; each time she is not betrothed.",
+     "bullets": [
+      {
+       "text": "A man was selling glass beads. A woman asked for one string. He: \"If I give it, will you be betrothed to me with it?\" She: \"Give, give.\" Rav Chama: any \"Give, give\" is nothing.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A man drinking wine in a store. A woman asked for a cup; he made the same offer; she said: \"Give to drink, give it to me to drink.\" Rav Chama: this too is nothing.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A man picking dates. A woman asked: \"Throw me two.\" He made the offer; she said: \"Throw, throw.\" Rav Zevid: any \"Throw, throw\" is nothing.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The doubled word shows she is brushing him off and insisting on the item, not agreeing to his condition.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Why two dates and not one? Perhaps because one date might not be worth a *perutah*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The three incidents of 9a, in the Gemara's order, each ending with a doubled word and the ruling that she is not betrothed; below, the question of a single word (9a.4).",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Three scenes: a man selling glass beads, a man drinking wine in a store, and a man picking dates. In each a woman asks for the item, he asks whether she will be betrothed by it, and she answers with a doubled word; she is not betrothed. Below, the dispute over a single word.</title><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='14' width='275' height='330' rx='14' fill='#E3EAF3'/><text x='152' y='44' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1B3A8A'>Glass beads</text><use href='#man' x='35' y='70' width='55' height='110' style='color:#4B5E8C'/><use href='#woman' x='215' y='70' width='55' height='110' style='color:#8C4A60'/><rect x='100' y='150' width='105' height='10' rx='3' fill='#8B6A4E'/><rect x='108' y='160' width='6' height='22' fill='#8B6A4E'/><rect x='191' y='160' width='6' height='22' fill='#8B6A4E'/><path d='M112 140 Q152 118 192 140' fill='none' stroke='#5B6478' stroke-width='2'/><g fill='#7FB3C8' stroke='#4E7A8C'><circle cx='118' cy='136' r='5'/><circle cx='132' cy='131' r='5'/><circle cx='146' cy='129' r='5'/><circle cx='160' cy='129' r='5'/><circle cx='174' cy='131' r='5'/><circle cx='188' cy='136' r='5'/></g><text x='152' y='210' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>She: “Give me one string.”</text><text x='152' y='232' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>He: “If I give it — betrothed?”</text><text x='152' y='264' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>“Give, give.”</text><text x='152' y='300' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>Rav Chama: “nothing”</text><text x='152' y='322' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1B3A8A'>she is not betrothed</text><rect x='312' y='14' width='275' height='330' rx='14' fill='#F3E6D8'/><text x='449' y='44' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#9A6212'>Wine in a store</text><use href='#man' x='332' y='70' width='55' height='110' style='color:#6B6F3A'/><use href='#woman' x='512' y='70' width='55' height='110' style='color:#6A4F7A'/><rect x='397' y='150' width='105' height='10' rx='3' fill='#8B6A4E'/><rect x='405' y='160' width='6' height='22' fill='#8B6A4E'/><rect x='488' y='160' width='6' height='22' fill='#8B6A4E'/><path d='M430 132 L448 132 L444 148 L434 148 Z' fill='#7E2A3A'/><rect x='462' y='126' width='14' height='24' rx='3' fill='#8C5A3C'/><text x='449' y='210' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>She: “Give me one cup.”</text><text x='449' y='232' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>He: “If I give it — betrothed?”</text><text x='449' y='258' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>“Give to drink,</text><text x='449' y='278' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>give it to me to drink.”</text><text x='449' y='304' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>Rav Chama: “nothing”</text><text x='449' y='326' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#9A6212'>she is not betrothed</text><rect x='609' y='14' width='276' height='330' rx='14' fill='#E4EFE4'/><text x='760' y='44' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#3C5A2E'>Dates from a palm</text><path d='M650 182 Q646 130 656 80' stroke='#7A5A3A' stroke-width='10' fill='none'/><path d='M656 80 q-26 -4 -40 12 M656 80 q26 -6 40 8 M656 80 q-14 -18 -34 -16 M656 80 q12 -16 30 -14' stroke='#4E7A3E' stroke-width='4' fill='none' stroke-linecap='round'/><g fill='#9A5A2A'><circle cx='660' cy='92' r='4'/><circle cx='668' cy='96' r='4'/><circle cx='762' cy='112' r='5'/><circle cx='776' cy='136' r='5'/></g><use href='#man' x='676' y='70' width='55' height='110' style='color:#50706E'/><use href='#woman' x='815' y='70' width='55' height='110' style='color:#A8436E'/><text x='747' y='210' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>She: “Throw me two.”</text><text x='747' y='232' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>He: “If I throw them — betrothed?”</text><text x='747' y='264' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>“Throw, throw.”</text><text x='747' y='300' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#3C5A2E'>Rav Zevid: “nothing”</text><text x='747' y='322' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#3C5A2E'>she is not betrothed</text><rect x='15' y='356' width='870' height='70' rx='12' fill='#EFE6D2'/><text x='450' y='382' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>Only a single word — “Give,” “Give to drink,” “Throw”?</text><text x='450' y='406' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Ravina: betrothed · Rav Sama bar Rakta, “By the king’s crown!”: not betrothed · halakha: not betrothed</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "A Single 'Give': Ravina vs. Rav Sama bar Rakta",
+     "amud": "9a",
+     "text": {
+      "from": "9a.4",
+      "to": "9a.4"
+     },
+     "gist": "If she answered with one word, Ravina says she is betrothed and Rav Sama bar Rakta swears she is not; the halakha follows him.",
+     "bullets": [
+      {
+       "text": "Question: what if she said only \"Give\", \"Give to drink\" or \"Throw\", without repeating it?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Ravina: she is betrothed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Sama bar Rakta, with an oath, \"By the king's crown!\": she is not betrothed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The halakha: she is not betrothed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Chananel (cited by the Rashba) reads the oath as: even had he given her the king's crown, she would not be betrothed, because her reply only demands the item and never accepts his condition.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The doubled word makes the rejection unmistakable; the single word is where the dispute lies.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Closing Rulings: Silk Needs No Appraisal, the Promised Hundred, Collateral",
+   "amud": "9a",
+   "text": {
+    "from": "9a.5",
+    "to": "9a.5"
+   },
+   "gist": "Three rulings on the earlier money-*kiddushin* cases, and the Tosafot behind betrothing with a plain ring.",
+   "bullets": [
+    {
+     "text": "Silk garments worth more than a *perutah* need no appraisal before a woman is betrothed with them.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The halakha follows R. Elazar: he promised a hundred dinars and gave one dinar, and she is betrothed.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The halakha follows Rava in the name of Rav Nachman: he promised a hundred and gave only collateral, and this is not a valid betrothal.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The silk ruling settles the earlier dispute in favor of Rabba over Rav Yosef.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Tosafot (the Ri): silk's value is familiar and people do not err much about it. Precious stones are different: a stone that looks magnificent may be nearly worthless, and she may have accepted only on an assumed value.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "This Tosafot is the source of the custom to betroth with a plain band rather than a stone-set ring. An object of clear value above a *perutah*, given before witnesses, poses no intrinsic problem.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": []
+  },
+  {
+   "id": "s6",
+   "title": "Shtar Kiddushin: Who Writes It, For Whom, and With Whose Consent",
+   "amud": "9a–9b",
+   "text": {
+    "from": "9a.6",
+    "to": "9b.6"
+   },
+   "gist": "*Kiddushin* by document: the baraita's formula, why the husband writes unlike a sale, the minor and adult cases, the *lishma* question, and consent to the writing.",
+   "bullets": [
+    {
+     "text": "*Shtar kiddushin* was probably rarely practiced, so many of its laws remain undeveloped and unresolved.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [
+    {
+     "id": "s7",
+     "title": "The Baraita: 'Your Daughter Is Betrothed to Me', Even on a Worthless Shard",
+     "amud": "9a",
+     "text": {
+      "from": "9a.6",
+      "to": "9a.6"
+     },
+     "gist": "The husband writes to the father on paper or earthenware worth less than a *perutah*, since she is betrothed by the writing, not the material.",
+     "bullets": [
+      {
+       "text": "How is betrothal done with a document? He writes to her father, on paper or earthenware, \"Your daughter is betrothed (*mekudeshet*) to me\", \"…betrothed (*me'oreset*) to me\", or \"…is to me as a wife\", and she is betrothed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The material need not be worth a *perutah*, since she is not betrothed through its value.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Unlike the money baraita, which spoke to the woman herself, this one addresses the father of a young daughter.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Minimal content: the Rashba requires names and date like any document; the Ritva and many rishonim hold that the words \"you are betrothed to me\" suffice. Whether he must also say the words aloud is debated.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "Why Does the Husband Write? Sale vs. Kiddushin: Verse or Tradition",
+     "amud": "9a",
+     "text": {
+      "from": "9a.7",
+      "to": "9a.10"
+     },
+     "gist": "R. Zeira bar Memel notes that in a sale the seller writes but here the acquirer does; Rava's verse-based answer is undermined, so he calls both rules received tradition, or else finds the seller's role in Yirmiyahu.",
+     "bullets": [
+      {
+       "text": "R. Zeira bar Memel objects: this is unlike a bill of sale, where the seller writes \"My field is sold to you\". Here the husband, akin to the buyer, writes \"Your daughter is betrothed to me\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava: each follows its verse. \"And sells of his ancestral land\" (Vayikra 25:25) makes the sale depend on the seller; \"If a man takes a woman\" (Devarim 22:13) makes betrothal depend on the husband.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: \"Men shall buy fields for money\" (Yirmiyahu 32:44) points to the buyer. Answer: read *yikkanu*, \"shall be sold\", to match the Torah's verse.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Then by the same logic read *ki yikach* as *ki yakiach*, \"when he is given\", to match \"I gave my daughter to this man\" (Devarim 22:16). The verse argument collapses.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava therefore retracts: there is no proof from the verses. These are received halakhot, and the Sages attached them to the verses.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Alternatively, in Yirmiyahu too: \"And I took the deed of purchase\" (Yirmiyahu 32:11) shows that the buyer receives and the seller writes.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot: the sale needs no tradition, since its verse works; only the rule that the husband writes the *shtar kiddushin* is received tradition.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The Rambam distinguishes *halakha le'Moshe mi'Sinai*, laws that cannot be derived from the text at all (a *kezayit*, forty *se'ah*), from received interpretations that could in principle be recovered. Many rishonim treat any proof from the Prophets as only an *asmakhta*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "R. Zeira bar Memel's objection (9a.7): in a sale the seller writes and hands the deed to the buyer, while in betrothal the husband, who acquires, writes and hands the document to the father.",
+      "svg": "<svg viewBox='0 0 900 430' xmlns='http://www.w3.org/2000/svg' role='img'><title>Two panels. Left: a seller writes 'My field is sold to you' and hands it to the buyer. Right: a husband writes 'Your daughter is betrothed to me' and hands it to the father.</title><rect width='900' height='430' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='322' rx='14' fill='#E3EAF3'/><text x='227' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1B3A8A'>Bill of sale</text><use href='#man' x='35' y='90' width='60' height='120' style='color:#4B5E8C'/><text x='65' y='232' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Seller</text><rect x='160' y='120' width='135' height='70' fill='#FFFFFF' stroke='#BFAE8E' stroke-width='2'/><text x='227' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>My field is</text><text x='227' y='170' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>sold to you</text><path d='M100 155 L150 155' stroke='#1B3A8A' stroke-width='3'/><path d='M154 155 l-10 -6 v12 z' fill='#1B3A8A'/><path d='M300 155 L350 155' stroke='#1B3A8A' stroke-width='3'/><path d='M354 155 l-10 -6 v12 z' fill='#1B3A8A'/><use href='#man' x='360' y='90' width='60' height='120' style='color:#6B6F3A'/><text x='390' y='232' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Buyer</text><text x='227' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>The seller writes and gives</text><text x='227' y='296' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>“And sells of his ancestral land” (Vayikra 25:25)</text><rect x='460' y='14' width='425' height='322' rx='14' fill='#F3E6D8'/><text x='672' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#9A6212'>Document of betrothal</text><use href='#man' x='480' y='90' width='60' height='120' style='color:#50706E'/><text x='510' y='232' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Husband</text><rect x='605' y='120' width='135' height='70' fill='#FFFFFF' stroke='#BFAE8E' stroke-width='2'/><text x='672' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Your daughter is</text><text x='672' y='170' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>betrothed to me</text><path d='M545 155 L595 155' stroke='#9A6212' stroke-width='3'/><path d='M599 155 l-10 -6 v12 z' fill='#9A6212'/><path d='M745 155 L795 155' stroke='#9A6212' stroke-width='3'/><path d='M799 155 l-10 -6 v12 z' fill='#9A6212'/><use href='#man' x='805' y='90' width='60' height='120' style='color:#8C5A3C'/><text x='835' y='232' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Father</text><text x='672' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>The husband writes and gives</text><text x='672' y='296' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>“If a man takes a woman” (Devarim 22:13)</text><rect x='15' y='348' width='870' height='70' rx='12' fill='#EFE6D2'/><text x='450' y='374' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>R. Zeira bar Memel: in a sale the seller writes — why does the husband write here?</text><text x='450' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Rava: each follows its own verse · or rather: received halakhot the Sages attached to the verses</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s9",
+     "title": "Minor or Adult: Handed to Father or Daughter, With Whose Consent",
+     "amud": "9a",
+     "text": {
+      "from": "9a.11",
+      "to": "9a.12"
+     },
+     "gist": "Rava in Rav Nachman's name: for a minor the document says 'your daughter' and works by the father's consent; for an adult it says 'you' and works by hers.",
+     "bullets": [
+      {
+       "text": "Written \"Your daughter is betrothed to me\" (in any of the three wordings) on paper or earthenware worth less than a *perutah*: whether handed to her father or to her, she is betrothed with her father's consent, provided she has not reached majority.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Written \"You are betrothed to me\": whether handed to her father or to her, she is betrothed with her own consent, provided she has reached majority and is under her own authority.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "For a minor the father is not merely her proxy: *kiddushin* works through his own standing.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "A father has no authority over an adult daughter's *kiddushin*, so the rishonim explain that handing it to him works only where she appointed him her agent to receive it.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Rava in the name of Rav Nachman: the document for a minor and for an adult",
+      "columns": [
+       "",
+       "Wording",
+       "May be handed to",
+       "Whose consent",
+       "Condition"
+      ],
+      "rows": [
+       [
+        "Minor daughter",
+        "\"Your daughter is betrothed to me\"",
+        "Her father or her",
+        "Her father's",
+        "Not yet reached majority"
+       ],
+       [
+        "Adult woman",
+        "\"You are betrothed to me\"",
+        "Her father or her",
+        "Her own",
+        "Reached majority"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s10",
+     "title": "Written Not for Her Sake: Lishma Like a Get, or None Like Money?",
+     "amud": "9a–9b",
+     "text": {
+      "from": "9a.13",
+      "to": "9b.2"
+     },
+     "gist": "Reish Lakish asks whether a betrothal document is compared to a bill of divorce, which must be *lishma*, or to betrothal money, which cannot be; he resolves it from 'she departs… and becomes'.",
+     "bullets": [
+      {
+       "text": "Reish Lakish asks: a betrothal document written *shelo lishma*, not for this woman. What is the law?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Option one, *havayah le'yetziah*: compare becoming betrothed to leaving a marriage. Just as a bill of divorce must be written for her sake, so must the betrothal document.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Option two: compare the modes of betrothal to each other. Betrothal money need not be coins minted for her sake, so the document need not be written for her sake either.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "He resolves it himself: we compare becoming to leaving, from \"And she departs out of his house, and goes and becomes\" (Devarim 24:2). The document must be *lishma*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The picture of *shelo lishma*: a scribe writes fifty blank \"you are betrothed to me\" forms and sells them off the shelf.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Reish Lakish champions *havayah le'yetziah* throughout the tractate; on 44a, against R. Yochanan's narrower view, he cries it out \"like a crane\". At stake is whether divorce mirrors betrothal, when a divorcee in fact gains a new status of her own (forbidden to a kohen).",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The Rif cites a Yerushalmi: this derivation applies only to a document worth less than a *perutah*. One worth a *perutah* works as money anyway, which leaves the open questions little practical weight.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Reish Lakish's question (9a.13–9b.2): is the betrothal document compared to the bill of divorce, which must be written for her sake, or to betrothal money, which never is? He compares it to divorce.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>A bill of divorce on the left, a betrothal document in the middle, and coins on the right. A solid arrow links the divorce to the betrothal document; a dashed arrow links the coins to it.</title><rect width='900' height='440' fill='#FBF8F1'/><text x='450' y='40' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>A betrothal document written not for her sake?</text><text x='450' y='72' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='18' fill='#4A3A2E'>וְיָצְאָה מִבֵּיתוֹ וְהָלְכָה וְהָיְתָה</text><text x='450' y='96' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>“And she departs out of his house, and goes and becomes” (Devarim 24:2)</text><rect x='75' y='130' width='155' height='110' fill='#FFFFFF' stroke='#1B3A8A' stroke-width='2'/><path d='M92 160 h120 M92 180 h120 M92 200 h120 M92 220 h80' stroke='#C9C1B2' stroke-width='2'/><text x='152' y='266' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>Bill of divorce (leaving)</text><text x='152' y='286' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>must be written for her sake</text><rect x='372' y='130' width='156' height='110' fill='#FFFFFF' stroke='#9A6212' stroke-width='2'/><text x='450' y='192' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#6B4A1A'>הרי את מקודשת לי</text><text x='450' y='266' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>Document of betrothal</text><text x='450' y='286' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>written not for her sake?</text><g fill='#E0C070' stroke='#9A7440' stroke-width='2'><circle cx='712' cy='185' r='24'/><circle cx='752' cy='185' r='24'/><circle cx='792' cy='185' r='24'/></g><text x='752' y='266' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>Betrothal money</text><text x='752' y='286' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>no coins minted for her sake</text><line x1='236' y1='185' x2='356' y2='185' stroke='#1B3A8A' stroke-width='4'/><path d='M366 185 l-12 -7 v14 z' fill='#1B3A8A'/><text x='300' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='600' fill='#1B3A8A'>Reish Lakish:</text><text x='300' y='168' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#1B3A8A'>becoming like leaving</text><line x1='684' y1='185' x2='546' y2='185' stroke='#8A7560' stroke-width='3' stroke-dasharray='7 6'/><path d='M534 185 l12 -7 v14 z' fill='#8A7560'/><text x='610' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>Or: compare the</text><text x='610' y='168' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>modes of betrothal?</text><rect x='15' y='320' width='870' height='100' rx='12' fill='#E3EAF3'/><text x='450' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>Reish Lakish resolves: we juxtapose becoming betrothed to leaving a marriage</text><text x='450' y='380' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>So a betrothal document, like a bill of divorce, must be written for her sake.</text><text x='450' y='404' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Kiddushin 9a–9b</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "Lishma but Without Her Knowledge: Two Readings of the Get Analogy",
+     "amud": "9b",
+     "text": {
+      "from": "9b.3",
+      "to": "9b.6"
+     },
+     "gist": "Rava and Ravina validate it and Rav Pappa and Rav Sherevya do not; Rav Pappa explains both from the same verse, and a Mishnah requiring both parties' consent is read as referring to dowry agreements.",
+     "bullets": [
+      {
+       "text": "A document written for her sake but without her knowledge (she accepted it later): Rava and Ravina say she is betrothed; Rav Pappa and Rav Sherevya say she is not.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "A betrothal document written *lishma* but without her knowledge",
+      "columns": [
+       "",
+       "Ruling",
+       "What the bill of divorce teaches",
+       "Applied to the betrothal document"
+      ],
+      "rows": [
+       [
+        "Rava and Ravina",
+        "Betrothed",
+        "It must be *lishma*, but may be written without her consent",
+        "*Lishma* is needed; her knowledge at the writing is not"
+       ],
+       [
+        "Rav Pappa and Rav Sherevya",
+        "Not betrothed",
+        "It needs the consent of the one transferring: the husband",
+        "The one transferring is the woman, so her consent is needed"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s12",
+       "title": "Rav Pappa: Lishma Without Consent, or Da'at Makneh?",
+       "amud": "9b",
+       "text": {
+        "from": "9b.3",
+        "to": "9b.4"
+       },
+       "gist": "Both sides read 'she departs… and becomes'; they differ on which feature of divorce carries over.",
+       "bullets": [
+        {
+         "text": "Their reason: *havayah le'yetziah*. A bill of divorce must be *lishma* but may be written without her consent, so a betrothal document written *lishma* works without her consent.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "His reason: the same verse, but divorce requires *da'at makneh*, the consent of the husband, who transfers her to herself. In betrothal the one transferring is the woman, so her consent is required.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "This argument has no bearing on betrothal by money, which is not built on the structure of divorce.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s13",
+       "title": "Objection from Bava Batra: Stipulation Documents and Rav Giddel's Rule",
+       "amud": "9b",
+       "text": {
+        "from": "9b.5",
+        "to": "9b.6"
+       },
+       "gist": "A Mishnah requires both parties' consent to write betrothal documents, but it refers to dowry stipulations, which are binding by speech when the couple betroth.",
+       "bullets": [
+        {
+         "text": "Objection from a Mishnah (Bava Batra 167b): documents of betrothal and marriage are written only with the consent of both. Isn't that the betrothal document itself?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "No: it means documents of stipulation, recording the dowry.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Giddel in Rav's name: one father asks, \"How much will you give your son?\", the other, \"How much will you give your daughter?\" If the couple then betroth, they acquire what was promised. These are matters acquired through speech alone.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rashi: these are the *tena'im* between the families and the money each pledges; any monetary contract needs both sides' consent.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "In Talmudic times *kiddushin* was performed months before the wedding, close to an engagement, yet required a *get* to dissolve; by Rav's time prior family agreements already preceded it.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "title": "Kiddushei Bi'ah: The Source, the *na'arah ha'me'orasah*, the Maidservant",
+   "amud": "9b",
+   "text": {
+    "from": "9b.7",
+    "to": "9b.16"
+   },
+   "gist": "Where betrothal by intercourse comes from, how a *betrothed young virgin* could exist if money and intercourse were both needed, and what R. Yochanan learns from *u've'alah*.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s15",
+     "title": "Be'ulat Ba'al or U've'alah? Why Rebbi's Verse Is Not Enough",
+     "amud": "9b",
+     "text": {
+      "from": "9b.7",
+      "to": "9b.8"
+     },
+     "gist": "R. Yochanan derives *kiddushei bi'ah* from *be'ulat ba'al*; Rebbi's verse alone could mean that money and intercourse are both required.",
+     "bullets": [
+      {
+       "text": "R. Abbahu in R. Yochanan's name: \"lying with a woman *be'ulat ba'al*\" (Devarim 22:22) teaches that he becomes her husband through intercourse.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Zeira to R. Abbahu (some say Reish Lakish to R. Yochanan): why not Rebbi's proof, \"When a man takes a woman and has intercourse with her (*u've'alah*)\" (Devarim 24:1)?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "From that verse alone one might think he must first betroth with money (\"takes\") and then have intercourse. *Be'ulat ba'al* teaches that intercourse alone suffices.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s16",
+     "title": "Money Then Intercourse? How a *na'arah ha'me'orasah* Could Exist",
+     "amud": "9b",
+     "text": {
+      "from": "9b.9",
+      "to": "9b.13"
+     },
+     "gist": "R. Abba bar Memel argues that if both were required there could be no *betrothed young virgin* liable to stoning; two answers: atypical intercourse by the betrothed man (rejected by Abaye) and betrothal by document.",
+     "bullets": [
+      {
+       "text": "R. Abba bar Memel objects to that reading: the Torah punishes one who has intercourse with a *na'arah ha'me'orasah* by stoning (Devarim 22:23–24). How could that case arise?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If he betrothed with money and then had intercourse, she is no longer a virgin, and stoning applies only to a virgin. If he betrothed with money without intercourse, \"this is nothing\": the betrothal is incomplete.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "R. Abba bar Memel's objection and the two answers (9b.9–9b.13): if betrothal needed both money and intercourse, which scenario leaves a betrothed young woman who is still a virgin?",
+      "svg": "<svg viewBox='0 0 900 470' xmlns='http://www.w3.org/2000/svg' role='img'><title>Four cards: money then intercourse leaves her a non-virgin; money alone is incomplete; money then atypical intercourse by the betrothed man, which Abaye says makes her a non-virgin; betrothal by document leaves her fully betrothed and still a virgin.</title><rect width='900' height='470' fill='#FBF8F1'/><text x='450' y='38' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>If betrothal needed money and then intercourse…</text><text x='450' y='62' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>R. Abba bar Memel: when could a betrothed young virgin ever exist?</text><rect x='15' y='82' width='204' height='300' rx='12' fill='#EEEAE2'/><text x='117' y='116' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Money, then intercourse</text><rect x='35' y='150' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><text x='117' y='172' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#6B4A1A'>Money</text><rect x='35' y='196' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><text x='117' y='218' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#6B4A1A'>Intercourse</text><text x='117' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#5B6478'>Not a virgin</text><text x='117' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>no stoning case</text><rect x='237' y='82' width='204' height='300' rx='12' fill='#EEEAE2'/><text x='339' y='116' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Money only</text><rect x='257' y='150' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><text x='339' y='172' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#6B4A1A'>Money</text><rect x='257' y='196' width='164' height='34' rx='17' fill='none' stroke='#9A6212' stroke-dasharray='5 5'/><text x='339' y='218' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#6B4A1A'>no intercourse</text><text x='339' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#5B6478'>Betrothal incomplete</text><text x='339' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>“this is nothing”</text><rect x='459' y='82' width='204' height='300' rx='12' fill='#EEEAE2'/><text x='561' y='108' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Money, then atypical</text><text x='561' y='126' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>intercourse by him</text><rect x='479' y='150' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><text x='561' y='172' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#6B4A1A'>Money</text><rect x='479' y='196' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><text x='561' y='218' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#6B4A1A'>Atypical intercourse</text><text x='561' y='250' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Rabbis before Abaye:</text><text x='561' y='268' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>she stays a virgin</text><text x='561' y='300' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Abaye: by the husband,</text><text x='561' y='320' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>she is a non-virgin</text><rect x='681' y='82' width='204' height='300' rx='12' fill='#E3EAF3'/><text x='783' y='116' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>Betrothal by document</text><rect x='701' y='150' width='164' height='34' rx='17' fill='#1B3A8A'/><text x='783' y='172' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#FFFFFF'>Document</text><text x='783' y='252' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>Fully betrothed,</text><text x='783' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>still a virgin</text><text x='783' y='302' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>Rav Nachman bar Yitzchak</text><text x='783' y='322' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#1A1F2E'>as a get fully removes her,</text><text x='783' y='340' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#1A1F2E'>a document fully betroths her</text><rect x='15' y='396' width='870' height='62' rx='12' fill='#F3E6D8'/><text x='450' y='420' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>Stoning applies only to a betrothed young woman who is a virgin (Devarim 22:23–24)</text><text x='450' y='442' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Ten men baraita: the Rabbis — all stoned; Rebbi — the first stoned, the rest strangled</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s17",
+       "title": "Atypical Intercourse by the Betrothed Man: Abaye's Rebuttal",
+       "amud": "9b",
+       "text": {
+        "from": "9b.10",
+        "to": "9b.12"
+       },
+       "gist": "The Rabbis before Abaye suggest the betrothed man had anal intercourse with her; Abaye answers that a husband's atypical intercourse makes her a non-virgin by all views.",
+       "bullets": [
+        {
+         "text": "The Rabbis before Abaye: the case arises when the betrothed man had atypical (anal) intercourse with her. She remains a virgin, and the betrothal is complete.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Abaye: Rebbi and the Rabbis disagree only about another man. For the husband, all agree that atypical intercourse renders her a non-virgin.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The dispute (Tosefta Sanhedrin 10:4): ten men had anal intercourse with a *na'arah ha'me'orasah*, who remains a virgin. The Rabbis: all are stoned. Rebbi: the first is stoned and the rest strangled, since after the first she is no longer a virgin.",
+         "detail": 3,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s18",
+       "title": "Rav Nachman bar Yitzchak: A Document Betroths Her and Leaves Her a Virgin",
+       "amud": "9b",
+       "text": {
+        "from": "9b.13",
+        "to": "9b.13"
+       },
+       "gist": "The *betrothed young virgin* is one betrothed by document, which needs no further act.",
+       "bullets": [
+        {
+         "text": "Rav Nachman bar Yitzchak: the case arises when he betrothed her with a document.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "All agree: since a bill of divorce removes a woman completely with no further act, a document also brings her completely into betrothal, and she remains a virgin.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s19",
+     "title": "'U've'alah' for R. Yochanan: A Wife, Not an *amah ivriyah*",
+     "amud": "9b",
+     "text": {
+      "from": "9b.14",
+      "to": "9b.16"
+     },
+     "gist": "R. Yochanan uses Rebbi's verse to teach that an *amah ivriyah* (hebrew maidservant) is not acquired by intercourse, which might have been learned from a *yevamah* or from 'another wife'.",
+     "bullets": [
+      {
+       "text": "What does R. Yochanan do with *u've'alah*? It teaches that a wife is acquired through intercourse, but an *amah ivriyah* is not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *amah ivriyah* is a girl whose father sold her into service; her master may designate her as a wife.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "One might argue *a fortiori* from a *yevamah*: she cannot be acquired with money yet is acquired by intercourse. Surely an *amah ivriyah*, acquired with money, is acquired by intercourse too.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rejected: a *yevamah* is special, since she is already bound to and waiting for the *yavam*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rather, one might learn from \"If he take himself another wife\" (Shemot 21:10): the verse juxtaposes the *amah ivriyah* with his other wife, who is acquired by intercourse. *U've'alah* teaches otherwise.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "Acquisition by money and by intercourse: three cases",
+      "columns": [
+       "",
+       "Acquired with money?",
+       "Acquired by intercourse?",
+       "Why"
+      ],
+      "rows": [
+       [
+        "*Yevamah*",
+        "No",
+        "Yes",
+        "Already bound to the *yavam*, so she cannot serve as a model"
+       ],
+       [
+        "Wife",
+        "Yes",
+        "Yes",
+        "*Be'ulat ba'al* (for R. Yochanan)"
+       ],
+       [
+        "*Amah ivriyah*",
+        "Yes",
+        "No",
+        "*U've'alah* excludes her, despite \"another wife\""
+       ]
+      ]
+     },
+     "children": [],
+     "continues": "Continues on 9b: Rebbi's source for excluding the maidservant, Rava and Bar Ahina's 'betrothal given to consummation', and Rebbi's use of *be'ulat ba'al*, leading into the ten men baraita and 10a."
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "shtar kiddushin",
+   "hebrew": "שטר קידושין",
+   "sense": "betrothal by document",
+   "definition": "One of the three modes of betrothal, in which the man hands the woman (or her father) a document stating that she is betrothed to him; the document works by its content, not its value.",
+   "on_this_daf": "The Gemara asks why the husband writes it, unlike a bill of sale, whose consent it needs, and whether it must be written for her sake.",
+   "aliases": [
+    "Shtar Kiddushin",
+    "shtar kiddushin"
+   ],
+   "sections": [
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s18"
+   ]
+  },
+  {
+   "term": "lishma",
+   "hebrew": "לשמה",
+   "sense": "written for this specific woman",
+   "definition": "The requirement that a document such as a bill of divorce be written specifically for the named woman and purpose; a document prepared in advance for anyone is written *shelo lishma*.",
+   "on_this_daf": "Reish Lakish rules that a betrothal document, like a bill of divorce, must be *lishma*; the amora'im then debate whether it also needs her knowledge.",
+   "aliases": [
+    "Lishma",
+    "lishma"
+   ],
+   "sections": [
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "term": "hekesh havayah le'yetziah",
+   "hebrew": "הקש הויה ליציאה",
+   "sense": "comparing betrothal to divorce",
+   "definition": "The analogy, drawn from \"she departs… and becomes\" (Devarim 24:2), by which laws of divorce are applied to entering a marriage.",
+   "on_this_daf": "Reish Lakish uses it to require *lishma*; Rav Pappa shows that the same analogy supports both sides of the dispute over her knowledge.",
+   "aliases": [
+    "havayah le'yetziah"
+   ],
+   "sections": [
+    "s10",
+    "s12"
+   ]
+  },
+  {
+   "term": "da'at makneh",
+   "hebrew": "דעת מקנה",
+   "sense": "consent of the transferring party",
+   "definition": "The consent of the party who transfers ownership or status in a transaction, as opposed to the party who acquires.",
+   "on_this_daf": "Rav Pappa argues that just as divorce needs the husband's consent as transferrer, a betrothal document needs the woman's.",
+   "aliases": [
+    "da'at makneh"
+   ],
+   "sections": [
+    "s12"
+   ]
+  },
+  {
+   "term": "kiddushei bi'ah",
+   "hebrew": "קידושי ביאה",
+   "sense": "betrothal by intercourse",
+   "definition": "One of the three modes of betrothal, in which intercourse performed for the sake of betrothal creates the marital bond.",
+   "on_this_daf": "R. Yochanan derives it from *be'ulat ba'al*, since Rebbi's verse could have meant that money and intercourse are both required.",
+   "aliases": [
+    "Kiddushei Bi'ah",
+    "kiddushei bi'ah"
+   ],
+   "sections": [
+    "s14",
+    "s15",
+    "s16",
+    "s19"
+   ]
+  },
+  {
+   "term": "na'arah ha'me'orasah",
+   "hebrew": "נערה המאורסה",
+   "sense": "the betrothed young virgin",
+   "definition": "A betrothed young woman who is still a virgin; one who has intercourse with her is punished by stoning rather than strangulation.",
+   "on_this_daf": "R. Abba bar Memel argues that such a case could not exist if betrothal required intercourse; the answers invoke atypical intercourse and betrothal by document.",
+   "aliases": [
+    "na'arah ha'me'orasah"
+   ],
+   "sections": [
+    "s14",
+    "s16",
+    "s17",
+    "s18"
+   ]
+  },
+  {
+   "term": "amah ivriyah",
+   "hebrew": "אמה עבריה",
+   "sense": "the Hebrew maidservant",
+   "definition": "A minor girl sold by her father into service, whom her master or his son may designate as a wife.",
+   "on_this_daf": "R. Yochanan learns from *u've'alah* that, unlike a wife, she is not acquired through intercourse.",
+   "aliases": [
+    "amah ivriyah"
+   ],
+   "sections": [
+    "s19"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The closing rulings (9a.5) could be a child of the rejection cases, since the first ruling ('she is not betrothed') ends the single-word dispute; kept the silk / hundred / collateral rulings as their own top-level section because they reach back to the money cases of 8a–8b, and left 'the halakha is she is not betrothed' in s4 where it answers the question.",
+  "The minor/adult rulings of Rava in Rav Nachman's name (9a.11–12) could stand as a separate top-level section; nested under the document discussion because they complete the baraita's formula.",
+  "Rav Giddel's rule (9b.6) is conceptually about verbal commitments and could be its own section; kept as the answer to the Bava Batra objection, which is how the Gemara uses it.",
+  "R. Yochanan's use of u've'alah (9b.14–16) begins a new line of inquiry on the verses and could be top-level; kept inside the bi'ah section since it answers what R. Yochanan does with Rebbi's verse from s15.",
+  "The two answers to R. Abba bar Memel are children of his objection rather than siblings, since both exist only to answer it."
+ ],
+ "coverage_notes": [
+  "Rav Mari's unresolved question about the chasing dog (8b.12–13) precedes this scope and belongs to the previous outline.",
+  "The essay says the halakha follows 'R. Eliezer' on the promised hundred; the text has R. Elazar. Followed the text.",
+  "The essay attributes the minor/adult rulings to 'Rav Amram in the name of Rav Nachman'; the text has Rava in the name of Rav Nachman. Followed the text.",
+  "The essay names the challenger on the document's direction as 'Rabbi Zeira'; the text has R. Zeira bar Memel. Followed the text.",
+  "The essay says the rereading of the kiddushin verse is rejected by 'I gave my daughter to this man'; in the text that verse supports rereading ki yikach as ki yakiach, undermining Rava's first answer and leading to his second. Followed the text.",
+  "The essay says the Yirmiyahu verse ('And I took the deed of purchase') supports the buyer writing; the text says it shows the seller writes. Followed the text.",
+  "The essay calls the source requiring both parties' consent a braita; the text cites a Mishnah (Bava Batra 167b). Followed the text.",
+  "The essay describes 'tin buttons' and a man drinking 'in the market'; the text has glass beads and a store. Followed the text.",
+  "The essay renders Rava's 'hilkheta ninhu' as halakha le'Moshe mi'Sinai; the outline gives the text's 'received halakhot' as Gemara and keeps the Tosafot / Rambam framing as shiur.",
+  "The essay describes Reish Lakish on 44a as squawking 'like a goose'; the outline says 'like a crane' (kerukhya) but this is only in a shiur bullet about another daf; the author may prefer to omit it.",
+  "The shiur's discussion of rings, diamonds and the Ri/Rabbeinu Tam is shiur-only analysis attached to the silk ruling."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s8",
+    "subject": "Sale vs. kiddushin: who writes, formula, verse, counter-verse",
+    "why_not": "The illustration shows the same two-way contrast; a chart would duplicate it."
+   },
+   {
+    "section": "s10",
+    "subject": "The two comparisons (to divorce, to money) and their results",
+    "why_not": "Only two rows with one consequence each; the illustration carries it better."
+   },
+   {
+    "section": "s17",
+    "subject": "Rabbis vs. Rebbi on the ten men",
+    "why_not": "A single two-way difference, stated in one bullet and in the illustration's footer."
+   },
+   {
+    "section": "s3",
+    "subject": "The three doubled-reply incidents",
+    "why_not": "Identical structure and ruling in each; the illustration shows them side by side."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s9",
+    "subject": "Document handed to father or daughter, minor vs. adult",
+    "why_not": "The chart sets out the two cases clearly; a picture would add little."
+   },
+   {
+    "section": "s19",
+    "subject": "Yevamah, wife and Hebrew maidservant by money and intercourse",
+    "why_not": "A grid, better served by the chart than a scene."
+   },
+   {
+    "section": "s13",
+    "subject": "Two fathers pledging dowry amounts",
+    "why_not": "A side point answering an objection; not a pivot of the sugya."
+   },
+   {
+    "section": "s5",
+    "subject": "Silk garment vs. a stone-set ring",
+    "why_not": "The ring question is shiur material, not the Gemara's; the silk ruling alone is simple."
+   }
+  ]
+ }
+}

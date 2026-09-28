@@ -1,0 +1,126 @@
+{
+ "key": "kiddushin_5",
+ "tractate": "Kiddushin",
+ "sages": [
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "4b.12",
+    "5a.16",
+    "5b.11"
+   ],
+   "count": 3,
+   "first": "4b.12",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "5a.4",
+    "5b.8",
+    "5b.16"
+   ],
+   "count": 3,
+   "first": "5a.4",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "5a.6",
+    "5b.6"
+   ],
+   "count": 2,
+   "first": "5a.6",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוסי הגלילי",
+   "candidates": [
+    "rabbi-yose-hagelili"
+   ],
+   "lines": [
+    "5a.11"
+   ],
+   "count": 1,
+   "first": "5a.11",
+   "ambiguous": false,
+   "pick": "rabbi-yose-hagelili",
+   "pick_by": "only"
+  },
+  {
+   "name": "עולא",
+   "candidates": [
+    "ulla"
+   ],
+   "lines": [
+    "5a.17"
+   ],
+   "count": 1,
+   "first": "5a.17",
+   "ambiguous": false,
+   "pick": "ulla",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב הונא",
+   "candidates": [
+    "rav-huna"
+   ],
+   "lines": [
+    "5b.5",
+    "5b.9"
+   ],
+   "count": 2,
+   "first": "5b.5",
+   "ambiguous": false,
+   "pick": "rav-huna",
+   "pick_by": "only"
+  },
+  {
+   "name": "שמואל",
+   "candidates": [
+    "shmuel-(amora)"
+   ],
+   "lines": [
+    "5b.14",
+    "5b.16",
+    "5b.17"
+   ],
+   "count": 3,
+   "first": "5b.14",
+   "ambiguous": false,
+   "pick": "shmuel-(amora)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב פפא",
+   "candidates": [
+    "rav-pappa"
+   ],
+   "lines": [
+    "5b.16"
+   ],
+   "count": 1,
+   "first": "5b.16",
+   "ambiguous": false,
+   "pick": "rav-pappa",
+   "pick_by": "only"
+  }
+ ]
+}

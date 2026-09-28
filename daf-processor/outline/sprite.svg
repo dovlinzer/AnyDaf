@@ -1,0 +1,63 @@
+<svg class="sprite" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><defs>
+ <symbol id="lamb" viewBox="0 0 150 105">
+  <rect x="36" y="60" width="9" height="36" rx="3" fill="#3B3431"/><rect x="56" y="62" width="9" height="36" rx="3" fill="#3B3431"/>
+  <rect x="90" y="62" width="9" height="36" rx="3" fill="#3B3431"/><rect x="108" y="60" width="9" height="36" rx="3" fill="#3B3431"/>
+  <g fill="#F6F1E7" stroke="#D9CFBD" stroke-width="2"><circle cx="32" cy="46" r="10"/><circle cx="50" cy="50" r="22"/><circle cx="72" cy="42" r="23"/><circle cx="94" cy="46" r="22"/><circle cx="108" cy="56" r="17"/><circle cx="60" cy="64" r="18"/><circle cx="88" cy="64" r="18"/></g>
+  <ellipse cx="128" cy="40" rx="14" ry="19" transform="rotate(20 128 40)" fill="#3B3431"/>
+  <ellipse cx="114" cy="28" rx="10" ry="4.5" transform="rotate(-15 114 28)" fill="#3B3431"/>
+  <circle cx="131" cy="35" r="2.2" fill="#F6F1E7"/>
+ </symbol>
+ <symbol id="ram" viewBox="0 0 150 105"><use href="#lamb" width="150" height="105"/>
+  <path d="M121 26 C104 16 94 34 106 42 C114 47 120 38 113 34" fill="none" stroke="#9A7440" stroke-width="7" stroke-linecap="round"/></symbol>
+ <symbol id="goat" viewBox="0 0 150 105">
+  <rect x="38" y="60" width="8" height="38" rx="3" fill="#3B3431"/><rect x="56" y="62" width="8" height="38" rx="3" fill="#3B3431"/>
+  <rect x="92" y="62" width="8" height="38" rx="3" fill="#3B3431"/><rect x="108" y="60" width="8" height="38" rx="3" fill="#3B3431"/>
+  <ellipse cx="76" cy="52" rx="52" ry="24" fill="#6F5E4C"/><path d="M26 42 l-10 -10" stroke="#6F5E4C" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="128" cy="40" rx="13" ry="17" transform="rotate(20 128 40)" fill="#5E4E3E"/>
+  <path d="M120 26 q-4 -18 -18 -22" fill="none" stroke="#D2C6B0" stroke-width="5" stroke-linecap="round"/>
+  <path d="M130 55 l3 16 l-9 -8 z" fill="#4A3C30"/><circle cx="132" cy="36" r="2.2" fill="#EDE3CF"/>
+ </symbol>
+ <symbol id="bull" viewBox="0 0 170 110">
+  <rect x="34" y="64" width="12" height="40" rx="4" fill="#4A2E1F"/><rect x="56" y="66" width="12" height="40" rx="4" fill="#4A2E1F"/>
+  <rect x="108" y="66" width="12" height="40" rx="4" fill="#4A2E1F"/><rect x="128" y="64" width="12" height="40" rx="4" fill="#4A2E1F"/>
+  <ellipse cx="86" cy="54" rx="62" ry="30" fill="#7A4B30"/><path d="M24 44 q-14 10 -8 30" stroke="#7A4B30" stroke-width="5" fill="none"/>
+  <ellipse cx="148" cy="46" rx="18" ry="20" fill="#6A3E27"/>
+  <path d="M138 30 q-4 -14 -14 -16 M158 30 q4 -14 14 -16" stroke="#EDE3CF" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <circle cx="154" cy="42" r="2.5" fill="#EDE3CF"/>
+ </symbol>
+ <!-- a tanna / amora: same simple figure as the villager by the bull, a little larger; robe colour, beard and head-cloth vary per sage -->
+ <symbol id="sage" viewBox="0 0 80 140">
+  <path d="M18 58 Q40 50 62 58 L72 138 H8 Z" fill="currentColor"/>
+  <circle cx="40" cy="36" r="14" fill="#D6AE86"/>
+  <path d="M28 39 Q29 60 40 63 Q51 60 52 39 Q46 47 40 47 Q34 47 28 39 Z" fill="var(--beard,#4A3A2E)"/>
+  <path d="M25 33 Q24 16 40 15 Q56 16 55 33 Q48 24 40 24 Q32 24 25 33 Z" fill="var(--wrap,#E4D8C0)"/>
+ </symbol>
+ <symbol id="person" viewBox="0 0 60 120">
+  <path d="M14 50 Q30 42 46 50 L54 118 H6 Z" fill="currentColor"/>
+  <circle cx="30" cy="30" r="13" fill="#D8B38E"/>
+  <path d="M16 26 Q30 8 44 26 Q30 20 16 26Z" fill="#4A3A2E"/>
+ </symbol>
+ <symbol id="man" viewBox="0 0 60 120">
+  <path d="M14 50 Q30 42 46 50 L54 118 H6 Z" fill="currentColor"/>
+  <circle cx="30" cy="30" r="12" fill="#D6AE86"/>
+  <path d="M20 33 Q21 50 30 52 Q39 50 40 33 Q35 40 30 40 Q25 40 20 33 Z" fill="#4A3A2E"/>
+  <path d="M18 28 Q17 14 30 13 Q43 14 42 28 Q36 21 30 21 Q24 21 18 28 Z" fill="#E4D8C0"/>
+ </symbol>
+ <symbol id="woman" viewBox="0 0 60 120">
+  <path d="M16 30 Q30 6 44 30 L50 60 Q30 52 10 60 Z" fill="#C9A15C"/>
+  <path d="M14 52 Q30 44 46 52 L54 118 H6 Z" fill="currentColor"/>
+  <circle cx="30" cy="31" r="11.5" fill="#D8B38E"/>
+  <path d="M17 30 Q30 10 43 30 Q30 22 17 30 Z" fill="#C9A15C"/>
+ </symbol>
+ <symbol id="child" viewBox="0 0 30 60">
+  <path d="M8 26 Q15 22 22 26 L26 58 H4 Z" fill="currentColor"/>
+  <circle cx="15" cy="15" r="8" fill="#D8B38E"/><path d="M7 13 Q15 3 23 13 Q15 9 7 13Z" fill="#5A4030"/>
+ </symbol>
+ <!-- rulings: a green check for permitted, a red x for forbidden (draw at any square size) -->
+ <symbol id="mark-ok" viewBox="0 0 40 40"><circle cx="20" cy="20" r="18" fill="#E3F1E5" stroke="#24592E" stroke-width="2.5"/>
+  <path d="M11.5 20.5 L17.5 26.5 L29 13.5" fill="none" stroke="#24592E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+ <symbol id="mark-no" viewBox="0 0 40 40"><circle cx="20" cy="20" r="18" fill="#F7E1E1" stroke="#8C2F2F" stroke-width="2.5"/>
+  <path d="M13 13 L27 27 M27 13 L13 27" fill="none" stroke="#8C2F2F" stroke-width="4" stroke-linecap="round"/></symbol>
+ <linearGradient id="fire" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#E4572E"/><stop offset=".6" stop-color="#F3A712"/><stop offset="1" stop-color="#FFE08A"/></linearGradient>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient>
+</defs></svg>

@@ -1,0 +1,477 @@
+{
+  "daf": "Yevamot 33",
+  "scope": {
+    "start": "33a: the Gemara asks what principle underlies Rabbi Ḥiyya and Bar Kappara's three disputes carried over from 32b",
+    "end": "33b: the Gemara establishes that the Mishnah's switched wives were mixed up accidentally, not intentionally"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Untangling Two Oaths: Rabbi Chiya and Bar Kappara on Rebbi's Ruling",
+      "amud": "33a–33b",
+      "gist": "The Gemara searches for the technical mechanism—and then the interpretive key—that lets Rabbi Chiya and Bar Kappara both swear accurately to opposite rulings of Rebbi.",
+      "bullets": [],
+      "illustration": {
+        "caption": "The three Temple scenarios carried over from 32b, with Rabbi Chiya's count of two violations against Bar Kappara's count of one for each.",
+        "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three Temple scenarios debated by Rabbi Chiya and Bar Kappara: a non-priest performing the Temple service on Shabbat, a blemished priest serving while impure, and a non-priest eating a bird offering slaughtered by pinching.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#1A1F2E\">Three Cases: One Violation or Two?</text><rect x=\"24\" y=\"66\" width=\"272\" height=\"330\" rx=\"16\" fill=\"#E3EAF3\"/><text x=\"160\" y=\"100\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">Zar on Shabbat</text><use href=\"#man\" x=\"120\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><rect x=\"90\" y=\"250\" width=\"140\" height=\"18\" fill=\"#8A7560\"/><text x=\"160\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Non-priest serves</text><text x=\"160\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">in the Temple on Shabbat</text><rect x=\"60\" y=\"330\" width=\"90\" height=\"30\" rx=\"15\" fill=\"#1B3A8A\"/><text x=\"105\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Chiya: 2</text><rect x=\"160\" y=\"330\" width=\"120\" height=\"30\" rx=\"15\" fill=\"#9A6212\"/><text x=\"220\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Bar Kappara: 1</text><rect x=\"314\" y=\"66\" width=\"272\" height=\"330\" rx=\"16\" fill=\"#F3E6D8\"/><text x=\"450\" y=\"100\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5A2A12\">Baal Mum in Tumah</text><use href=\"#sage\" x=\"410\" y=\"120\" width=\"60\" height=\"105\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><text x=\"450\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Blemished priest serves</text><text x=\"450\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">while ritually impure</text><rect x=\"350\" y=\"330\" width=\"90\" height=\"30\" rx=\"15\" fill=\"#1B3A8A\"/><text x=\"395\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Chiya: 2</text><rect x=\"450\" y=\"330\" width=\"120\" height=\"30\" rx=\"15\" fill=\"#9A6212\"/><text x=\"510\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Bar Kappara: 1</text><rect x=\"604\" y=\"66\" width=\"272\" height=\"330\" rx=\"16\" fill=\"#E4EFE4\"/><text x=\"740\" y=\"100\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#24592E\">Melikah Bird</text><ellipse cx=\"740\" cy=\"190\" rx=\"46\" ry=\"30\" fill=\"#D9CBB0\"/><path d=\"M786 190 L810 178 L806 198 Z\" fill=\"#B5673E\"/><circle cx=\"700\" cy=\"180\" r=\"5\" fill=\"#3B3431\"/><text x=\"740\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Non-priest eats a bird</text><text x=\"740\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">offering killed by pinching</text><rect x=\"640\" y=\"330\" width=\"90\" height=\"30\" rx=\"15\" fill=\"#1B3A8A\"/><text x=\"685\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Chiya: 2</text><rect x=\"740\" y=\"330\" width=\"120\" height=\"30\" rx=\"15\" fill=\"#9A6212\"/><text x=\"800\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Bar Kappara: 1</text><text x=\"450\" y=\"425\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Both sages swear they heard their count directly from Rebbi</text></svg>"
+      },
+      "children": [
+        {
+          "id": "s2",
+          "title": "Mechanism: Sequential Issur Kolel, Then Simultaneous Bevas Achas",
+          "amud": "33a",
+          "gist": "Two of the three cases fit sequential *issur kolel*, but the *melikah* case must be simultaneous, so the debate is reframed around *bevas achas*.",
+          "bullets": [
+            {
+              "text": "The Gemara first suggests the dispute concerns a *more inclusive prohibition* (*issur kolel*) specifically according to Rabbi Yosei: Rabbi Chiya holds Rabbi Yosei imposes two liabilities, Bar Kappara holds only one.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "*Zar* on Shabbat: before Shabbat he was forbidden only from the Temple service; when Shabbat arrives, the broader prohibition on *melacha* also covers that same service — a more inclusive prohibition.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "*Baal mum* in *tumah*: he was already forbidden the *avodah* but permitted to eat consecrated food; once *tamei*, the broader prohibition on eating any consecrated item also covers this case.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The *melikah* case does not fit: the prohibition on a non-priest eating consecrated food and the prohibition on eating an unslaughtered carcass arise at the very same instant, with no earlier prohibition for the second to expand — so it must be *bevas achas*.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The Gemara therefore proposes instead that the true dispute is whether Rabbi Yosei extends *issur chal al issur* to cases where two prohibitions take effect simultaneously.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": [],
+          "illustration": {
+            "caption": "Sequential *issur kolel* (a broader prohibition arrives after an earlier one) contrasted with simultaneous *bevas achas*, as in the *melikah* case.",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two mechanisms: issur kolel, where a broader prohibition arrives after an earlier one, and bevas achas, where two prohibitions arrive at the same instant, as in the melikah case.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Sequential vs. Simultaneous Prohibitions</text><text x=\"40\" y=\"95\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Zar on Shabbat</text><line x1=\"220\" y1=\"90\" x2=\"740\" y2=\"90\" stroke=\"#C9C1B2\" stroke-width=\"3\"/><circle cx=\"260\" cy=\"90\" r=\"10\" fill=\"#1B3A8A\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">forbidden as zar</text><circle cx=\"620\" cy=\"90\" r=\"10\" fill=\"#1B3A8A\"/><text x=\"620\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">+ Shabbat arrives</text><text x=\"800\" y=\"95\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">issur kolel</text><text x=\"40\" y=\"165\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Baal Mum in Tumah</text><line x1=\"220\" y1=\"160\" x2=\"740\" y2=\"160\" stroke=\"#C9C1B2\" stroke-width=\"3\"/><circle cx=\"260\" cy=\"160\" r=\"10\" fill=\"#9A6212\"/><text x=\"260\" y=\"140\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">forbidden as baal mum</text><circle cx=\"620\" cy=\"160\" r=\"10\" fill=\"#9A6212\"/><text x=\"620\" y=\"140\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">+ tumah arrives</text><text x=\"800\" y=\"165\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">issur kolel</text><line x1=\"40\" y1=\"210\" x2=\"860\" y2=\"210\" stroke=\"#D9CFBD\" stroke-width=\"1\"/><text x=\"40\" y=\"255\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Melikah</text><circle cx=\"440\" cy=\"250\" r=\"14\" fill=\"#24592E\"/><text x=\"440\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">forbidden as zar</text><text x=\"440\" y=\"306\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">and unslaughtered — same instant</text><text x=\"800\" y=\"255\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">bevas achas</text><text x=\"40\" y=\"345\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-style=\"italic\" fill=\"#5B6478\">Recast: minor grows two hairs on Shabbat, or is cut by a tamei knife</text><circle cx=\"440\" cy=\"365\" r=\"14\" fill=\"#6A4F7A\"/><text x=\"440\" y=\"400\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">both statuses land together — also bevas achas</text></svg>"
+          }
+        },
+        {
+          "id": "s3",
+          "title": "Recasting the First Two Cases as Simultaneous",
+          "amud": "33a",
+          "gist": "The first two cases are recast as simultaneous too, via a minor reaching majority mid-violation or a cut from a *tamei* knife.",
+          "bullets": [
+            {
+              "text": "Challenge: in the first two cases the prohibitions plainly arose one after the other, not simultaneously — so how can the debate be about *bevas achas*?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Answer: they too can be read as simultaneous — a minor who grows two pubic hairs (reaching majority) exactly while serving on Shabbat has the zar-prohibition and the Shabbat-prohibition take effect at the same instant.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Likewise for *baal mum*/*tumah*: a minor becoming an adult (and thus blemished) at the very moment he also becomes *tamei*; or, alternatively, one who cuts his finger with a *tamei* knife, becoming blemished and impure simultaneously.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "This is not the plain reading of the three original cases, which seem to raise a broader question about *issur chal al issur*; the point of the construction is to engineer a scenario where all three genuinely converge at one instant.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s4",
+          "title": "First Attempt: Different Tannaim Behind Each Oath",
+          "amud": "33a",
+          "gist": "Rabbi Chiya first suggests Rebbi taught him and Bar Kappara according to different Tannaim, but the explanation only works in one direction.",
+          "bullets": [
+            {
+              "text": "Rabbi Chiya's proposal: Rebbi taught him according to Rabbi Yosei (who allows a second prohibition), and taught Bar Kappara according to Rabbi Shimon (who categorically rejects *issur chal al issur*) — so Bar Kappara's report of \"one\" is understandable.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "But the reverse direction fails: according to Bar Kappara, who assumes Rebbi never departs from Rabbi Shimon's rejection, Rabbi Chiya's oath of \"two\" would mean Rabbi Chiya swore to something Rebbi never said — an unacceptable conclusion given the oaths.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s5",
+          "title": "Reframe: Does Rabbi Shimon Himself Concede in Bevas Achas?",
+          "amud": "33a",
+          "gist": "The dispute is reframed as being about Rabbi Shimon's own position on simultaneous prohibitions, which explains one oath but leaves the other unmotivated.",
+          "bullets": [
+            {
+              "text": "New proposal: both sages are debating Rabbi Shimon's own view of *bevas achas* — whether even he, who rejects *issur chal al issur* generally, would concede when two prohibitions arrive at the identical instant.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "This explains Rabbi Chiya's oath: he swears specifically to exclude the default assumption that Rabbi Shimon's rejection also covers *bevas achas*, insisting Rabbi Shimon concedes there.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "But it leaves Bar Kappara's oath unmotivated: if he is only repeating Rabbi Shimon's well-known default position (one violation), that claim would not be controversial enough to require an oath. The Gemara leaves this a difficulty (*kashya*).",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The insistence on finding a reading where both oaths reflect something Rebbi actually said reflects the Gemara's refusal to treat either sage's sworn testimony as fabricated.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s6",
+          "title": "A Sharper Difficulty from the Reverse Angle",
+          "amud": "33a",
+          "gist": "Pressed further, Bar Kappara's testimony of \"one\" cannot be reconciled with either sage's actual position once Rabbi Chiya's own view is taken into account.",
+          "flag": "Gemara text only",
+          "bullets": [
+            {
+              "text": "Granted, according to Bar Kappara, Rebbi taught him following Rabbi Shimon (who says \"one\" even in *bevas achas*, on Bar Kappara's understanding) and taught Rabbi Chiya following Rabbi Yosei (who says \"two\").",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "But according to Rabbi Chiya's own position — that even Rabbi Shimon concedes \"two\" in a *bevas achas* case — Bar Kappara's report of \"one\" matches neither Rabbi Shimon's actual view nor Rabbi Yosei's, since both would say \"two.\"",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s7",
+          "title": "Resolution: Bar Kappara Merged the Melikah Case Into the Others",
+          "amud": "33a–33b",
+          "gist": "Rabbi Chiya's final answer: Rebbi taught Bar Kappara only the two sequential cases as exempt, and Bar Kappara later folded in the *melikah* case by mistake.",
+          "bullets": [
+            {
+              "text": "Rabbi Chiya's answer: Rebbi taught Bar Kappara only the first two cases — the sequential *zar*/Shabbat and *baal mum*/*tumah* scenarios — as instances where Rabbi Shimon exempts, since Rabbi Shimon rejects a second prohibition specifically for *issur kolel* (though he concedes for *bevas achas*).",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Bar Kappara later encountered the *melikah* case; because it resembled the other two structurally (a non-priest doing something ordinarily permitted), he mentally merged all three into what he took to be a single teaching of Rebbi's.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Once merged, the only shared feature across the three was simultaneity, so Bar Kappara concluded that Rebbi's exemption applied to *bevas achas* generally — mistakenly extending the *kolel* ruling to the *melikah* case as well.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "On this account Bar Kappara did not knowingly lie: he genuinely, if mistakenly, believed he had heard all three cases together from Rebbi.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s8",
+          "title": "Three Mechanisms of Issur Chal Al Issur Named",
+          "amud": "33a–33b",
+          "gist": "The sugya's discussion yields three named mechanisms by which a second prohibition can take effect: *issur mosif*, *issur kolel*, and *bevas achas*.",
+          "bullets": [
+            {
+              "text": "*Issur mosif* extends the forbidden status to a wider circle of people or uses; *issur kolel* keeps the same circle of people but sweeps in more items within the same class; *bevas achas* is when both prohibitions arrive at the identical instant.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "*Bevas achas* is conceptually the simplest of the three: since neither prohibition preceded the other, there is no prior prohibition whose exclusive claim would be challenged, which is why even Rabbi Shimon is argued to concede there.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "chart": {
+            "caption": "The three mechanisms discussed in this sugya, and where each appears among the cases",
+            "columns": ["Mechanism", "What it means", "Where it appears here"],
+            "rows": [
+              ["Issur Mosif", "The prohibition extends to a wider circle of people or activities", "Not among these three cases; illustrated elsewhere"],
+              ["Issur Kolel", "The object was already forbidden to everyone; a later prohibition sweeps in more items of the same class", "Zar on Shabbat; Baal Mum in Tumah (sequential)"],
+              ["Bevas Achas", "Two prohibitions arrive at the very same instant, so neither preceded the other", "Melikah — a non-priest eating a just-pinched bird"]
+            ]
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Beraita Proof That Rabbi Shimon Concedes in Bevas Achas",
+      "amud": "33b",
+      "gist": "A *beraita* distinguishing Rabbi Yosei and Rabbi Shimon on the same two cases is read to prove that Rabbi Shimon concedes liability for two in a *bevas achas* case, refuting Bar Kappara.",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s10",
+          "title": "The Beraita's Two Cases: Rabbi Yosei vs. Rabbi Shimon",
+          "amud": "33b",
+          "gist": "The *beraita* records Rabbi Yosei imposing two liabilities and Rabbi Shimon only one, for the *zar*-on-Shabbat and *baal-mum*-in-*tumah* cases.",
+          "bullets": [
+            {
+              "text": "A *beraita*: for a non-priest who served on Shabbat, and a blemished priest who served while impure, Rabbi Yosei holds liability on two counts each (zar/baal mum, and Shabbat/tumah).",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Rabbi Shimon disagrees: liability is only for the original status (zar or baal mum); the later-arriving Shabbat or tumah prohibition does not create a second violation.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "chart": {
+            "caption": "The beraita's ruling for the two sequential cases, according to Rabbi Yosei and Rabbi Shimon",
+            "columns": ["", "Zar on Shabbat", "Baal Mum in Tumah"],
+            "rows": [
+              ["Rabbi Yosei", "Liable for zar + Shabbat (two)", "Liable for baal mum + tumah (two)"],
+              ["Rabbi Shimon", "Liable for zar alone (one)", "Liable for baal mum alone (one)"]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "s11",
+          "title": "Melikah's Omission Is the Proof",
+          "amud": "33b",
+          "gist": "The *beraita*'s silence about the *melikah* case is read as proof that Rabbi Shimon rules differently there, refuting Bar Kappara.",
+          "bullets": [
+            {
+              "text": "The *beraita* conspicuously omits the third case — the non-priest who ate from the *melikah* bird.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "If omitted from Rabbi Yosei's perspective, that makes no sense: he already imposes two liabilities in the sequential (*kolel*) cases, so all the more so he would in the simultaneous case — nothing new to state.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The omission must instead be from Rabbi Shimon's perspective: he rules differently for *melikah*, since there he concedes liability for two, unlike his exemption in the sequential *kolel* cases.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The Gemara concludes: this is a *tiyuvta*, a conclusive refutation, of Bar Kappara's position that Rabbi Shimon holds only one liability even in *bevas achas*.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "title": "What Violation Did the Zar Actually Commit on Shabbat?",
+      "amud": "33b",
+      "gist": "A technical aside asks which act actually constitutes the *zar*'s Shabbat violation, since slaughter by a non-priest is normally valid.",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s13",
+          "title": "The Difficulty: No Obvious Shabbat Violation",
+          "amud": "33b",
+          "gist": "Ordinary avodah acts don't yield a real Shabbat violation for a *zar*: slaughter is valid, blood-service is mere carrying, and burning is only a *lav*.",
+          "bullets": [
+            {
+              "text": "If the *zar* performed *shechita* (slaughter), there is no violation at all, since slaughter by a non-priest is *kasher*.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "If he performed *kabbalah* (collecting the blood) or *holachah* (carrying it to the altar), that is merely moving an object within an enclosed area, not a genuine forbidden labor.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "If he performed *haktarah* (burning the sacrificial parts), that follows Rabbi Yosei's own view — but Rabbi Yosei holds that kindling a fire on Shabbat is only a *lav*, not a labor carrying the usual death penalty or sin-offering. Why then would he count it as a second violation?",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s14",
+          "title": "Rav Acha bar Yaakov: The High Priest's Bull on Yom Kippur",
+          "amud": "33b",
+          "gist": "Rav Acha bar Yaakov relocates the case to the Kohen Gadol's Yom Kippur bull, whose slaughter by anyone else is invalid and thus a genuine forbidden labor.",
+          "bullets": [
+            {
+              "text": "Resolution: the case is the slaughter of the High Priest's bull on Yom Kippur, following the view that this slaughter is invalid unless performed by the Kohen Gadol himself.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "On that view, anyone else performing that specific *shechita* genuinely violates a forbidden labor with respect to that service.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Challenge: why then specify a \"*zar*\"? Even an ordinary *kohen* would be disqualified from this service. Answer: \"*zar*\" here means anyone other than the Kohen Gadol, since the service is \"foreign\" to a common priest too — an admittedly stretched reading.",
+              "detail": 3,
+              "source": "gemara"
+            }
+          ],
+          "children": [],
+          "illustration": {
+            "caption": "Only the Kohen Gadol may slaughter his own bull on Yom Kippur; on this view, anyone else performing that slaughter commits a genuine forbidden labor.",
+            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>On Yom Kippur, only the Kohen Gadol may slaughter his own bull; anyone else performing that slaughter, even an ordinary priest, commits a forbidden Shabbat labor when Yom Kippur falls on Shabbat.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">The Kohen Gadol's Bull on Yom Kippur</text><rect x=\"60\" y=\"80\" width=\"360\" height=\"300\" rx=\"16\" fill=\"#E3EAF3\"/><text x=\"240\" y=\"115\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1B3A8A\">Permitted</text><use href=\"#sage\" x=\"150\" y=\"140\" width=\"80\" height=\"140\" style=\"color:#7A4A55;--beard:#4A3A2E;--wrap:#F5EEDD\"/><use href=\"#bull\" x=\"250\" y=\"230\" width=\"140\" height=\"88\"/><text x=\"240\" y=\"360\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Kohen Gadol slaughters</text><rect x=\"480\" y=\"80\" width=\"360\" height=\"300\" rx=\"16\" fill=\"#F3E6D8\"/><text x=\"660\" y=\"115\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#7A2A2A\">Forbidden (zar to this service)</text><use href=\"#man\" x=\"560\" y=\"150\" width=\"70\" height=\"140\" style=\"color:#8C5A3C\"/><line x1=\"565\" y1=\"160\" x2=\"625\" y2=\"280\" stroke=\"#7A2A2A\" stroke-width=\"5\"/><line x1=\"625\" y1=\"160\" x2=\"565\" y2=\"280\" stroke=\"#7A2A2A\" stroke-width=\"5\"/><use href=\"#bull\" x=\"670\" y=\"230\" width=\"140\" height=\"88\"/><text x=\"660\" y=\"360\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Anyone else — even a common priest</text><text x=\"450\" y=\"420\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rav Acha bar Yaakov: this makes the shechita itself a forbidden Shabbat labor</text></svg>"
+          }
+        },
+        {
+          "id": "s15",
+          "title": "Rav Ashi: Counting Violations, Not Penalties",
+          "amud": "33b",
+          "gist": "Rav Ashi cuts through the difficulty: the *beraita* only counts violated prohibitions, not their penalties, so *haktarah*'s lesser status as a *lav* is irrelevant.",
+          "bullets": [
+            {
+              "text": "Rav Ashi objects: did the *beraita* ever specify how many sin-offerings or how many sets of lashes are owed? It did not — it merely counts how many prohibitions were violated.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Once reframed this way, there is no problem with *haktarah* being only a *lav*: the count of \"two\" is simply about the number of wrongs committed.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The practical difference in how many prohibitions were violated affects whether the person is buried among the fully wicked.",
+              "detail": 3,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "title": "Mishnah: Two Betrothed Couples' Wives Are Switched at the Chuppah",
+      "amud": "33b",
+      "gist": "The Mishnah presents two betrothed couples whose wives are switched at the chuppah, compounding up to four sexual prohibitions per act, and the Gemara confirms the mix-up was unintentional.",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s17",
+          "title": "The Case and Its Compounding Prohibitions",
+          "amud": "33b",
+          "gist": "Each man is liable for relations with a married woman, plus a brother's wife, a wife's sister, and *niddah* if those conditions apply.",
+          "bullets": [
+            {
+              "text": "Two unrelated men betroth two unrelated women; at the *chuppah* the wives are switched, so each man unknowingly consummates with the other's wife.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Both men are liable for *eishet ish* (a married woman), since betrothal alone forbids a woman to all other men.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "If the men were brothers, add *eishet ach* (a brother's wife); if the women were sisters, add *achot ishah* (a wife's sister); if the women were *niddot*, add the *niddah* prohibition — up to four transgressions in the worst case.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "chart": {
+            "caption": "How the Mishnah's transgressions compound depending on the couples' relationships",
+            "columns": ["Condition", "Additional transgression"],
+            "rows": [
+              ["Men unrelated, women unrelated", "Eishet ish (married woman) only"],
+              ["Men are brothers", "+ Eishet ach (brother's wife)"],
+              ["Women are sisters", "+ Achot ishah (wife's sister)"],
+              ["Women are niddot", "+ Niddah"]
+            ]
+          },
+          "children": [],
+          "illustration": {
+            "caption": "The Mishnah's two intended couples are switched at the chuppah, so each groom unknowingly enters marital relations with the other's bride.",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two intended couples are switched at the chuppah: each groom unknowingly enters marital relations with the other's bride.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">The Mishnah's Switch at the Chuppah</text><rect x=\"80\" y=\"90\" width=\"300\" height=\"14\" fill=\"#8B6A4E\"/><rect x=\"86\" y=\"80\" width=\"10\" height=\"120\" fill=\"#8B6A4E\"/><rect x=\"364\" y=\"80\" width=\"10\" height=\"120\" fill=\"#8B6A4E\"/><text x=\"230\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Intended: man 1 &amp; woman 1</text><use href=\"#man\" x=\"150\" y=\"110\" width=\"56\" height=\"112\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"260\" y=\"112\" width=\"56\" height=\"112\" style=\"color:#A8436E\"/><text x=\"180\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">Man 1</text><text x=\"290\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#A8436E\">Woman 1</text><rect x=\"520\" y=\"90\" width=\"300\" height=\"14\" fill=\"#8B6A4E\"/><rect x=\"526\" y=\"80\" width=\"10\" height=\"120\" fill=\"#8B6A4E\"/><rect x=\"804\" y=\"80\" width=\"10\" height=\"120\" fill=\"#8B6A4E\"/><text x=\"670\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Intended: man 2 &amp; woman 2</text><use href=\"#man\" x=\"590\" y=\"110\" width=\"56\" height=\"112\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"700\" y=\"112\" width=\"56\" height=\"112\" style=\"color:#9A6212\"/><text x=\"620\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#6B6F3A\">Man 2</text><text x=\"730\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">Woman 2</text><path d=\"M180 260 C 350 320 550 320 730 260\" fill=\"none\" stroke=\"#7A2A2A\" stroke-width=\"3\" stroke-dasharray=\"6 6\"/><path d=\"M620 260 C 450 340 260 340 290 260\" fill=\"none\" stroke=\"#7A2A2A\" stroke-width=\"3\" stroke-dasharray=\"6 6\"/><text x=\"450\" y=\"375\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#7A2A2A\">Actual: man 1 with woman 2, man 2 with woman 1</text></svg>"
+          }
+        },
+        {
+          "id": "s18",
+          "title": "Separation for Pregnancy, and the Return of Minors",
+          "amud": "33b",
+          "gist": "The women are separated three months to rule out pregnancy, with minors returned immediately and priests' daughters barred from *terumah*.",
+          "bullets": [
+            {
+              "text": "After discovery, the women are separated from their husbands for three months, so as to determine whether they were made pregnant by the forbidden act, since a resulting child's status as a *mamzer* would need to be known.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Minor girls incapable of conceiving are returned to their husbands immediately; daughters of priests are disqualified from eating *terumah* because of the illicit relations.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s19",
+          "title": "Proving the Switch Was Accidental, Not Willful",
+          "amud": "33b",
+          "gist": "The Gemara proves the switch was unwitting from the sin-offerings owed and from the Mishnah's provision for the women's return.",
+          "bullets": [
+            {
+              "text": "Question: were these men so wicked as to switch wives intentionally? Rabbi Chiya teaches that sixteen sin-offerings result (four transgressions for each of the two men and two women), but sacrifices are brought only for unintentional sins.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Rav Yehuda: read the Mishnah as \"they were switched\" (passive), indicating the mix-up was accidental rather than \"they switched.\"",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "A further support was sought from the ruling that incapable minors are \"returned immediately\" — implying no willful adultery, since a woman who commits adultery willingly becomes forbidden to her husband. This proof is deflected: even if willful, seduction of a minor is legally rape, so she would still be permitted to return.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The decisive proof comes instead from the three-month separation itself: once no pregnancy is confirmed, the women simply return to their husbands — impossible if the relations had been willful adultery. The Gemara concludes the case is indeed accidental.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Although the prohibitions of forbidden relations are formulated from the man's perspective throughout the Torah, the woman is a full participant in the same transgression, which is why she too owes a sin-offering rather than merely facilitating the man's sin.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        }
+      ],
+      "continues": "Continues on 34a: the Gemara asks which Tanna holds that a prohibition can take effect in all three forms — issur kolel, issur mosif, and bevas achas — as required to yield the Mishnah's full count of transgressions, and identifies this as Rabbi Meir's position via the case of one who eats tamei cheilev that is notar on Yom Kippur."
+    }
+  ],
+  "judgment_calls": [
+    "Treated 33a.1–33a.9 as continuous with this daf's own shiur coverage (which recaps the mechanism and the initial puzzle) rather than flagging any of it, since the previous daf's essay tail explicitly covers this same material through the first kashya (33a.8); only 33a.9, which neither essay discusses, is flagged 'Gemara text only'.",
+    "Split the 'perspective' discussion (33a.7–33a.10) into four small sections (s4–s7) rather than one large section, because each step (first attempt, reframe, sharper difficulty, resolution) is a distinct move the Gemara makes and rejects or accepts in turn; a single combined section was the alternative but would obscure the step-by-step logic.",
+    "Added 'Three Mechanisms Named' (s8) as its own child summarizing issur mosif/kolel/bevas achas, following the shiur's synthesis, even though issur mosif does not appear among this daf's three original cases; an alternative was to fold this into the resolution bullets (s7) instead of giving it its own section.",
+    "Kept the Mishnah's case, the pregnancy/minors ruling, and the accidental-vs-willful proof as three children of one top-level Mishnah section (s16) rather than as separate top-level sections, since all serve the single question of what the Mishnah's scenario is and why offerings are owed."
+  ],
+  "coverage_notes": [
+    "The shiur's essay for this daf covers 'Rabbi Meir Position,' 'Eliezer/Yehoshua,' 'Bevas Achas Reconcile,' 'Pregnancy/Tamar,' and 'Zera Levatala Debate,' but the Sefaria text provided for this daf ends at 33b.13 (establishing the wife-switch was accidental); those topics begin at 34a.1 and are outside this daf's scope, so they are left out here and flagged via `continues`.",
+    "The previous daf's essay tail (yevamot_32b) covers material corresponding to 33a.1–33a.8 (the issur kolel/bevas achas mechanism, the two-hairs/knife recastings, and the first 'Rabbi Shimon Focus' attempt ending in a kashya); that material was used for sections s2–s5 without the 'Gemara text only' flag, per instructions, since it was already taught in the previous shiur.",
+    "The essay's 'Bar Kappara's Error' section phrases the initial puzzle as 'according to Rabbi Chiya, is Bar Kappara lying,' but the Gemara text (33a.7) poses it in the opposite direction — 'according to Bar Kappara, is Rabbi Chiya lying.' Followed the text's direction in s4.",
+    "33a.9, a further difficulty from the reverse angle not discussed in either the current shiur's essay or the previous daf's tail, is outlined from the Gemara text alone and flagged 'Gemara text only' (s6)."
+  ]
+}

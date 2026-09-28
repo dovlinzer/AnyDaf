@@ -1,0 +1,94 @@
+{
+ "key": "kiddushin_4",
+ "tractate": "Kiddushin",
+ "sages": [
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "3b.8",
+    "4b.6"
+   ],
+   "count": 2,
+   "first": "3b.8",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבה",
+   "candidates": [
+    "rabbah-b-nachmani"
+   ],
+   "lines": [
+    "3b.8",
+    "4a.12"
+   ],
+   "count": 2,
+   "first": "3b.8",
+   "ambiguous": false,
+   "pick": "rabbah-b-nachmani",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבינא",
+   "candidates": [
+    "ravina-(i)"
+   ],
+   "lines": [
+    "4a.4"
+   ],
+   "count": 1,
+   "first": "4a.4",
+   "ambiguous": false,
+   "pick": "ravina-(i)",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "4a.16",
+    "4a.18"
+   ],
+   "count": 2,
+   "first": "4a.16",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "מר בר רב אשי",
+   "candidates": [
+    "mar-b-rav-ashi"
+   ],
+   "lines": [
+    "4a.20",
+    "4a.21"
+   ],
+   "count": 2,
+   "first": "4a.20",
+   "ambiguous": false,
+   "pick": "mar-b-rav-ashi",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב אשי",
+   "candidates": [
+    "rav-ashi"
+   ],
+   "lines": [
+    "4b.2"
+   ],
+   "count": 1,
+   "first": "4b.2",
+   "ambiguous": false,
+   "pick": "rav-ashi",
+   "pick_by": "only"
+  }
+ ]
+}

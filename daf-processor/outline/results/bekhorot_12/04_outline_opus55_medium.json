@@ -1,0 +1,525 @@
+{
+ "daf": "Bekhorot 12",
+ "scope": {
+  "start": "12a: the Mishnah on animals that may not be used to redeem a firstborn donkey",
+  "end": "12b: the Gemara extends Rav Mari's 'like the gazelle and the hart' to R. Shimon (12b.1)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Mishnah: Which Animals Cannot Redeem a Peter Chamor, and R. Eliezer's Hybrid",
+   "amud": "12a",
+   "text": {
+    "from": "12a.1",
+    "to": "12a.1"
+   },
+   "gist": "A list of animals unfit to redeem a *peter chamor* (firstborn donkey). R. Eliezer allows the sheep-goat hybrid but not the *koy*, and a *kohen* given the donkey itself may keep it only after designating a lamb in its place.",
+   "bullets": [
+    {
+     "text": "A *peter chamor* (firstborn donkey) may not be redeemed with a calf, a wild animal, a slaughtered animal, a *tereifah*, a sheep-goat hybrid (*kil'ayim*), or a *koy*, an animal of uncertain domestic or wild status.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "R. Eliezer permits the hybrid, because it is a lamb (*seh*). He forbids the *koy*, because its status is uncertain.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "If the owner gave the *peter chamor* itself to a *kohen*, the *kohen* may not keep it until he designates a lamb in its place.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "chart": {
+    "caption": "Mishnah: which animals may redeem a *peter chamor*",
+    "columns": [
+     "",
+     "Calf",
+     "Wild animal",
+     "Slaughtered",
+     "Tereifah",
+     "Sheep-goat hybrid",
+     "Koy"
+    ],
+    "rows": [
+     [
+      "Tanna kamma (the Rabbis)",
+      "Forbidden",
+      "Forbidden",
+      "Forbidden",
+      "Forbidden",
+      "Forbidden",
+      "Forbidden"
+     ],
+     [
+      "R. Eliezer",
+      "Forbidden (no dispute)",
+      "Forbidden (no dispute)",
+      "Forbidden (no dispute)",
+      "Forbidden (no dispute)",
+      "Permitted: it is a *seh*",
+      "Forbidden: its status is uncertain"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The Mishnah's list of animals that cannot redeem a *peter chamor*, set beside the lamb the Torah requires. The hybrid is the one case in dispute (Bekhorot 12a).",
+    "svg": "<svg viewBox='0 0 900 450' xmlns='http://www.w3.org/2000/svg' role='img'><title>Seven panels in a row: a lamb, which redeems a firstborn donkey, then a calf, a wild animal, a slaughtered animal, a tereifah, a sheep-goat hybrid and a koy. All but the lamb are ruled out; the hybrid is disputed.</title><rect width='900' height='450' fill='#FBF8F1'/><text x='450' y='42' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>What may redeem a firstborn donkey?</text><rect x='15' y='62' width='118' height='290' rx='12' fill='#E4EFE4'/><rect x='141' y='62' width='118' height='290' rx='12' fill='#F3E6D8'/><rect x='267' y='62' width='118' height='290' rx='12' fill='#F3E6D8'/><rect x='393' y='62' width='118' height='290' rx='12' fill='#F3E6D8'/><rect x='519' y='62' width='118' height='290' rx='12' fill='#F3E6D8'/><rect x='645' y='62' width='118' height='290' rx='12' fill='#E3EAF3'/><rect x='771' y='62' width='118' height='290' rx='12' fill='#F3E6D8'/><g font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E' text-anchor='middle'><text x='74' y='92'>Lamb</text><text x='200' y='92'>Calf</text><text x='326' y='92'>Wild animal</text><text x='452' y='92'>Slaughtered</text><text x='578' y='92'>Tereifah</text><text x='704' y='92'>Hybrid</text><text x='830' y='92'>Koy</text></g><g font-family='Frank Ruhl Libre, serif' font-size='17' fill='#5B6478' text-anchor='middle'><text x='74' y='118' direction='rtl'>שה</text><text x='200' y='118' direction='rtl'>עגל</text><text x='326' y='118' direction='rtl'>חיה</text><text x='452' y='118' direction='rtl'>שחוטה</text><text x='578' y='118' direction='rtl'>טרפה</text><text x='704' y='118' direction='rtl'>כלאים</text><text x='830' y='118' direction='rtl'>כוי</text></g><use href='#lamb' x='26' y='150' width='96' height='67'/><use href='#bull' x='150' y='152' width='100' height='65'/><rect x='292' y='196' width='5' height='34' fill='#6E4B2E'/><rect x='304' y='198' width='5' height='32' fill='#6E4B2E'/><rect x='326' y='198' width='5' height='32' fill='#6E4B2E'/><rect x='338' y='196' width='5' height='34' fill='#6E4B2E'/><ellipse cx='318' cy='190' rx='34' ry='15' fill='#A0703F'/><path d='M285 184 l-7 -6' stroke='#A0703F' stroke-width='5' stroke-linecap='round'/><path d='M344 186 L356 166' stroke='#A0703F' stroke-width='9' stroke-linecap='round'/><ellipse cx='361' cy='162' rx='10' ry='7' fill='#8E6036'/><path d='M357 156 l-6 -16 M354 147 l-8 -4 M364 156 l6 -16 M367 147 l8 -4' stroke='#7A5A3A' stroke-width='3' fill='none' stroke-linecap='round'/><use href='#lamb' x='404' y='150' width='96' height='67'/><rect x='428' y='232' width='34' height='6' rx='2' fill='#B8BEC6'/><rect x='462' y='231' width='16' height='8' rx='2' fill='#6E4B2E'/><use href='#lamb' x='530' y='150' width='96' height='67'/><circle cx='574' cy='182' r='14' fill='none' stroke='#B5673E' stroke-width='3' stroke-dasharray='4 3'/><use href='#lamb' x='650' y='160' width='48' height='34'/><text x='704' y='184' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='16' fill='#5B6478'>×</text><use href='#goat' x='710' y='160' width='48' height='34'/><text x='830' y='160' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='28' font-weight='600' fill='#5B6478'>?</text><use href='#goat' x='790' y='170' width='80' height='56'/><use href='#mark-ok' x='54' y='250' width='40' height='40'/><use href='#mark-no' x='180' y='250' width='40' height='40'/><use href='#mark-no' x='306' y='250' width='40' height='40'/><use href='#mark-no' x='432' y='250' width='40' height='40'/><use href='#mark-no' x='558' y='250' width='40' height='40'/><use href='#mark-no' x='657' y='245' width='30' height='30'/><use href='#mark-ok' x='715' y='245' width='30' height='30'/><use href='#mark-no' x='810' y='250' width='40' height='40'/><g font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' text-anchor='middle'><text x='74' y='318' fill='#24592E'>Permitted</text><text x='200' y='318' fill='#8C2F2F'>Forbidden</text><text x='326' y='318' fill='#8C2F2F'>Forbidden</text><text x='452' y='318' fill='#8C2F2F'>Forbidden</text><text x='578' y='318' fill='#8C2F2F'>Forbidden</text><text x='704' y='322' fill='#5B6478'>Disputed</text><text x='830' y='318' fill='#8C2F2F'>Forbidden</text></g><g font-family='Public Sans, system-ui, sans-serif' font-size='12' text-anchor='middle'><text x='672' y='292' fill='#8C2F2F'>Rabbis</text><text x='730' y='292' fill='#24592E'>R. Eliezer</text><text x='830' y='338' fill='#5B6478'>(both agree)</text></g><text x='20' y='390' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>R. Eliezer: a hybrid is still a seh, but a koy is of uncertain status.</text><text x='20' y='414' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>If the donkey itself is given to a kohen, he may keep it only after designating a lamb in its place.</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s2",
+   "title": "Ben Bag Bag's Seh–Seh from the Pesach, Limited by 'Tifdeh, Tifdeh'",
+   "amud": "12a",
+   "text": {
+    "from": "12a.2",
+    "to": "12a.4"
+   },
+   "gist": "The Mishnah's exclusions follow ben Bag Bag's *gezeirah shavah* from the Pesach, while the doubled 'you shall redeem' admits female, blemished and older lambs.",
+   "bullets": [
+    {
+     "text": "The first clause of the Mishnah is ben Bag Bag's. \"*Seh*\" is said of redeeming the *peter chamor* (Shemot 13:13) and of the Pesach (Shemot 12:3). Just as the Pesach excludes all the animals on the list, so does redemption.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Challenge: then, like the Pesach, the lamb should also have to be male, unblemished and in its first year (Shemot 12:5).",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Answer: \"*tifdeh*\" (Shemot 13:13) and \"*tifdeh*\" (Shemot 34:20). The repetition includes a female, a blemished lamb and one past its first year.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Challenge: if the repetition includes, it should include the Mishnah's list as well. Answer: then the *gezeirah shavah* of *seh–seh* would serve no purpose.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "illustration": {
+    "caption": "Ben Bag Bag's *gezeirah shavah*: the Pesach lamb sets the list of excluded animals, while the doubled 'you shall redeem' relaxes the Pesach's other requirements (Bekhorot 12a).",
+    "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>Two panels linked by the word seh: the Pesach lamb on the left, with the animals it excludes and its requirements; the redemption lamb on the right, which shares the exclusions but may be female, blemished or older.</title><rect width='900' height='420' fill='#FBF8F1'/><text x='450' y='34' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>Ben Bag Bag: “seh” … “seh”</text><rect x='15' y='56' width='400' height='300' rx='14' fill='#F3E6D8'/><rect x='485' y='56' width='400' height='300' rx='14' fill='#E3EAF3'/><text x='215' y='86' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#9A6212'>Korban Pesach</text><text x='215' y='108' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>“a lamb” (Shemot 12:3)</text><use href='#lamb' x='165' y='116' width='100' height='70'/><use href='#mark-no' x='32' y='206' width='28' height='28'/><text x='70' y='221' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Unfit: calf, wild animal, slaughtered,</text><text x='70' y='241' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>tereifah, hybrid, koy</text><text x='70' y='286' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Must be male, unblemished,</text><text x='70' y='306' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>and in its first year (Shemot 12:5)</text><text x='685' y='86' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#1B3A8A'>Redeeming the firstborn donkey</text><text x='685' y='108' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>“with a lamb” (Shemot 13:13)</text><use href='#lamb' x='635' y='116' width='100' height='70'/><use href='#mark-no' x='502' y='206' width='28' height='28'/><text x='540' y='221' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#8C2F2F'>The same list is forbidden,</text><text x='540' y='241' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>learned from the Pesach</text><use href='#mark-ok' x='502' y='270' width='28' height='28'/><text x='540' y='286' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#24592E'>Female, blemished, older: permitted</text><text x='540' y='306' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>“tifdeh … tifdeh” (13:13; 34:20)</text><text x='450' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>seh = seh</text><line x1='424' y1='162' x2='476' y2='162' stroke='#5B6478' stroke-width='2'/><path d='M420 162 l9 -5 v10 z M480 162 l-9 -5 v10 z' fill='#5B6478'/><text x='450' y='392' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Challenge: then “tifdeh” should include the Mishnah’s list too. Answer: then the seh–seh analogy would teach nothing.</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s3",
+   "title": "Borderline Lambs: Ben Pekua, a Lookalike, Redeemed Pesulei Ha'mukdashin",
+   "amud": "12a–12b",
+   "text": {
+    "from": "12a.5",
+    "to": "12b.1"
+   },
+   "gist": "Three questions on what else may redeem a *peter chamor*, each framed by one tanna's view: a *ben pekua*, a lamb that resembles another species, and a redeemed disqualified consecrated animal.",
+   "bullets": [
+    {
+     "text": "Each question opens by setting aside the view on which there is nothing to ask, then asks according to the other view.",
+     "detail": 3,
+     "source": "gemara"
+    }
+   ],
+   "chart": {
+    "caption": "The three questions about borderline lambs",
+    "columns": [
+     "Case",
+     "Asked according to",
+     "No question according to",
+     "The two sides",
+     "Outcome here"
+    ],
+    "rows": [
+     [
+      "*Ben pekua*",
+      "The Rabbis: its mother's *shechitah* permits it",
+      "R. Meir: it needs its own *shechitah*, so it is a full lamb",
+      "Meat in the pot, or a lamb that runs about",
+      "Mar Zutra: may not redeem. Rav Ashi: may"
+     ],
+     [
+      "Lamb resembling another species (*nidmeh*)",
+      "The Rabbis, who forbid a hybrid",
+      "R. Eliezer, who permits even a hybrid",
+      "Only a true hybrid is excluded, or a *nidmeh* too",
+      "Two *baraitot* brought; both deflected"
+     ],
+     [
+      "Redeemed *pesulei ha'mukdashin*",
+      "R. Yehuda: benefit from a *peter chamor* is forbidden",
+      "R. Shimon: benefit is permitted, so nothing passes to the lamb",
+      "The donkey's status cannot take hold (*ein issur chal al issur*), or redemption merely removes it",
+      "Rav Mari: \"like the gazelle and the hart\" excludes them, even for R. Shimon"
+     ]
+    ]
+   },
+   "continues": "The series of questions continues on 12b with an animal bought with *Shevi'it* produce.",
+   "children": [
+    {
+     "id": "s4",
+     "title": "Ben Pekua: Meat in the Pot or a Running Lamb? Mar Zutra vs. Rav Ashi",
+     "amud": "12a",
+     "text": {
+      "from": "12a.5",
+      "to": "12a.9"
+     },
+     "gist": "For the Rabbis, a fetus permitted by its mother's *shechitah* might count as slaughtered. Mar Zutra forbids it and Rav Ashi permits it, and they argue over how far ben Bag Bag's derivation reaches.",
+     "bullets": [
+      {
+       "text": "Question: may one redeem with a *ben pekua*? R. Meir requires its own *shechitah*, so for him it is a full lamb. The question is for the Rabbis, for whom its mother's *shechitah* permits it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Is it like meat placed in a pot, and so a slaughtered animal? Or, since it now runs about, is it called a lamb?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Mar Zutra: one may not redeem with it. Rav Ashi: one may.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Ashi: if your reason is the analogy to the Pesach, for which a *ben pekua* is unfit, then require a male, unblemished, first-year lamb as well. Mar Zutra: \"*tifdeh, tifdeh*\" includes those.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Ashi: then \"*tifdeh, tifdeh*\" includes a *ben pekua* too. Mar Zutra: then what would the *seh–seh* analogy be for?",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "The question about a *ben pekua* for the Rabbis: is it meat in the pot or a live lamb? Mar Zutra and Rav Ashi disagree (Bekhorot 12a).",
+      "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>Mar Zutra on the left beside a pot of meat, ruling one may not redeem with a ben pekua; Rav Ashi on the right beside a running lamb, ruling one may.</title><rect width='900' height='420' fill='#FBF8F1'/><text x='450' y='40' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>Ben pekua: meat in the pot, or a lamb that runs about?</text><text x='450' y='70' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#5B6478'>For the Rabbis, its mother’s shechitah permits the fetus</text><use href='#sage' x='40' y='140' width='80' height='140' style='color:#4B5E8C;--beard:#5A4636;--wrap:#E4D8C0'/><text x='80' y='305' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Mar Zutra</text><use href='#mark-no' x='20' y='322' width='22' height='22'/><text x='50' y='338' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>May not redeem</text><text x='50' y='358' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>(it counts as slaughtered)</text><path d='M270 185 q-8 -14 0 -28 M300 182 q-8 -14 0 -28 M330 185 q-8 -14 0 -28' fill='none' stroke='#B9A89A' stroke-width='3' stroke-linecap='round'/><ellipse cx='282' cy='203' rx='14' ry='8' fill='#B5673E'/><ellipse cx='314' cy='201' rx='13' ry='8' fill='#A55A34'/><rect x='238' y='206' width='124' height='10' rx='3' fill='#5A4E46'/><path d='M245 216 h110 v50 q0 20 -20 20 h-70 q-20 0 -20 -20 z' fill='#6E6259'/><text x='300' y='318' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Meat in the pot?</text><text x='440' y='250' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-style='italic' fill='#5B6478'>or</text><path d='M490 225 h20 M486 245 h24 M490 265 h20' stroke='#C9C1B2' stroke-width='3' stroke-linecap='round'/><use href='#lamb' x='520' y='200' width='120' height='84'/><text x='580' y='318' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Runs about: a lamb?</text><use href='#sage' x='780' y='140' width='80' height='140' style='color:#8C5A3C;--beard:#6A5646;--wrap:#D9CBB0'/><text x='820' y='305' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Rav Ashi</text><use href='#mark-ok' x='740' y='322' width='22' height='22'/><text x='770' y='338' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>May redeem</text><text x='770' y='358' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>(called a lamb)</text><text x='450' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>R. Meir: a ben pekua needs its own shechitah, so it is plainly a lamb and there is no question.</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "A Nidmeh: Is a Lookalike Lamb Like a Hybrid for the Rabbis?",
+     "amud": "12a",
+     "text": {
+      "from": "12a.10",
+      "to": "12a.19"
+     },
+     "gist": "For the Rabbis, who forbid a hybrid, does a lamb born of sheep but resembling another species count as one too? Two *baraitot* are tested, a cow's goat-like offspring and Rabba bar Shmuel's definition, and neither settles it.",
+     "bullets": [
+      {
+       "text": "For R. Eliezer there is no question: he permits even a true hybrid, so all the more a sheep's offspring that merely looks like a goat.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "For the Rabbis: do they forbid only a hybrid and permit a *nidmeh*, or is there no difference between them?",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [
+      {
+       "id": "s6",
+       "title": "A Cow's Goat-Like Offspring: Rabbis' View, or Follow the Mother?",
+       "amud": "12a",
+       "text": {
+        "from": "12a.12",
+        "to": "12a.13"
+       },
+       "gist": "A *baraita* bars a cow's goat-like offspring, implying a ewe's is allowed. The Gemara assigns it to R. Eliezer, teaching that one follows the mother.",
+       "bullets": [
+        {
+         "text": "*Baraita*: a cow that gave birth to a goat of sorts: one may not redeem with it. By inference, a ewe's goat-like offspring may be used.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "That inference is useless for R. Eliezer, who permits even a hybrid, so the *baraita* must be the Rabbis'. They would then permit a *nidmeh*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Deflected: it is R. Eliezer's, and it teaches that one does not follow the offspring's appearance but its mother. The cow's offspring is a calf, which cannot redeem.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "illustration": {
+        "caption": "The *baraita* on a goat-like offspring, read as R. Eliezer's: the offspring follows its mother, so a cow's is a calf and a ewe's is a lamb (Bekhorot 12a).",
+        "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Left: a cow gives birth to a goat-like offspring, which counts as a calf and may not redeem. Right: a ewe gives birth to a goat-like offspring, which R. Eliezer permits; for the Rabbis the question stays open.</title><rect width='900' height='440' fill='#FBF8F1'/><text x='450' y='38' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>A goat-like offspring: follow the mother</text><rect x='15' y='58' width='425' height='320' rx='14' fill='#F3E6D8'/><rect x='460' y='58' width='425' height='320' rx='14' fill='#E3EAF3'/><use href='#bull' x='40' y='130' width='130' height='84'/><text x='105' y='245' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Cow (mother)</text><path d='M185 175 H232' stroke='#5B6478' stroke-width='3'/><path d='M242 175 l-11 -6 v12 z' fill='#5B6478'/><use href='#goat' x='255' y='135' width='130' height='91'/><text x='320' y='250' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Goat-like offspring</text><use href='#mark-no' x='40' y='282' width='32' height='32'/><text x='82' y='300' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Follow the mother: a calf</text><text x='82' y='322' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>May not redeem the donkey</text><use href='#lamb' x='485' y='130' width='130' height='91'/><text x='550' y='250' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Ewe (mother)</text><path d='M630 175 H677' stroke='#5B6478' stroke-width='3'/><path d='M687 175 l-11 -6 v12 z' fill='#5B6478'/><use href='#goat' x='700' y='135' width='130' height='91'/><text x='765' y='250' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Goat-like offspring</text><use href='#mark-ok' x='485' y='282' width='32' height='32'/><text x='527' y='300' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#24592E'>R. Eliezer: may redeem</text><text x='527' y='322' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>(he permits even a hybrid)</text><text x='527' y='352' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>For the Rabbis: the baraita settles nothing</text><text x='450' y='412' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Baraita (12a): “a cow that gave birth to a goat of sorts” may not be used; it follows its mother.</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s7",
+       "title": "Rabba bar Shmuel's Baraita: Offerings, Bekhor, Ma'aser or Redemption?",
+       "amud": "12a",
+       "text": {
+        "from": "12a.14",
+        "to": "12a.19"
+       },
+       "gist": "A *baraita* treats a *nidmeh* like a hybrid. Offerings, firstborn status and tithe seem already covered, so it seems to be about redemption, until the Gemara finds it a point about tithe.",
+       "bullets": [
+        {
+         "text": "Rabba bar Shmuel's *baraita*: what is a hybrid? A ewe that bore a goat of sorts, whose father is a lamb. The Gemara: with a lamb for a father it is only a *nidmeh*. So read: what is like a hybrid, and was equated with one by the Rabbis?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "For which law? Not offerings: Vayikra 22:27 already excludes a *nidmeh* (\"or a goat\") in the same verse that excludes a hybrid.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Not firstborn status: \"But the firstborn of an ox\" (Bamidbar 18:17) requires an ox whose firstborn is an ox.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Not animal tithe: the *gezeirah shavah* of \"under\" (Vayikra 22:27 and 27:32) already applies the offerings rule. So it must mean redeeming the *peter chamor*, and a *nidmeh* is unfit.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Deflected: it is about tithe, for a *nidmeh* with some features of its mother. One might have learned from \"passing\", said of both tithe and the firstborn, that just as such an animal is a firstborn (see 16b), it is tithed. The *baraita* teaches that \"under\" governs instead.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So the *baraita* proves nothing about redeeming the donkey.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "chart": {
+        "caption": "Where could Rabba bar Shmuel's *baraita* apply?",
+        "columns": [
+         "Law",
+         "Already taught by",
+         "Could the *baraita* be about it?"
+        ],
+        "rows": [
+         [
+          "Offerings",
+          "\"Or a goat\" (Vayikra 22:27) excludes a *nidmeh*",
+          "No: it would add nothing"
+         ],
+         [
+          "Firstborn status",
+          "\"But the firstborn of an ox\" (Bamidbar 18:17)",
+          "No: it would add nothing"
+         ],
+         [
+          "Animal tithe",
+          "*Gezeirah shavah* of \"under\" (Vayikra 22:27; 27:32)",
+          "Yes, in the end: a *nidmeh* with some of its mother's features, which \"passing\" might have included"
+         ],
+         [
+          "Redeeming the *peter chamor*",
+          "No verse",
+          "The proposed reading; set aside"
+         ]
+        ]
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s8",
+     "title": "Redeemed Pesulei Ha'mukdashin: Ein Issur Chal Al Issur, or 'Like the Gazelle'?",
+     "amud": "12a–12b",
+     "text": {
+      "from": "12a.20",
+      "to": "12b.1"
+     },
+     "gist": "For R. Yehuda, can the donkey's forbidden status pass to a lamb already forbidden for shearing and work? Rav Mari answers from 'like the gazelle and the hart', which excludes such animals even for R. Shimon.",
+     "bullets": [
+      {
+       "text": "Question: may one redeem with *pesulei ha'mukdashin* that were redeemed? Such animals remain forbidden for shearing and work. Does *ein issur chal al issur* apply?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "For R. Shimon there is no question: he permits benefit from a *peter chamor*, so it is non-sacred and no forbidden status passes to the lamb. The question is for R. Yehuda, who forbids benefit from it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "One side: redemption must transfer the donkey's forbidden status to the lamb. It cannot take hold on a lamb that is already forbidden.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Other side: the lamb is permitted after redemption anyway. So redemption merely removes the donkey's status and transfers nothing, and the principle does not apply.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Mari, son of Rav Kahana: the Torah calls these animals \"like the gazelle and like the hart\" (Devarim 12:15, *ka'tzvi ve'kha'ayal*). A gazelle or hart cannot redeem a *peter chamor*, so neither can they.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara: on this reasoning, even R. Shimon would bar them, for the same verse applies to him.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "peter chamor",
+   "hebrew": "פטר חמור",
+   "sense": "the firstborn male donkey",
+   "definition": "The firstborn male of a donkey, which its owner must redeem by giving a lamb (seh) to a kohen, or else break its neck.",
+   "on_this_daf": "The daf asks which animals may serve as the lamb that redeems it, and what the kohen may do if given the donkey itself.",
+   "aliases": [
+    "peter chamor"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8"
+   ]
+  },
+  {
+   "term": "gezeirah shavah",
+   "hebrew": "גזירה שוה",
+   "sense": "verbal analogy between two passages",
+   "definition": "A method of derivation that applies a law from one passage to another because the same word appears in both.",
+   "on_this_daf": "Ben Bag Bag's seh–seh analogy to the Pesach rules out the Mishnah's list, and \"under\" and \"passing\" are weighed for the animal tithe.",
+   "aliases": [
+    "gezeirah shavah"
+   ],
+   "sections": [
+    "s2",
+    "s4",
+    "s7"
+   ]
+  },
+  {
+   "term": "kil'ayim",
+   "hebrew": "כלאים",
+   "sense": "a sheep-goat hybrid animal",
+   "definition": "An animal born of two different species, here a cross between a sheep and a goat.",
+   "on_this_daf": "The Rabbis forbid redeeming a firstborn donkey with it; R. Eliezer permits it as a seh.",
+   "aliases": [
+    "kil'ayim"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s5",
+    "s6",
+    "s7"
+   ]
+  },
+  {
+   "term": "ben pekua",
+   "hebrew": "בן פקועה",
+   "sense": "a fetus found alive in a slaughtered animal",
+   "definition": "A live fetus taken from its mother after she was ritually slaughtered. The Rabbis hold that the mother's shechitah permits it; R. Meir requires it to be slaughtered on its own.",
+   "on_this_daf": "Mar Zutra forbids redeeming with it, treating it as slaughtered meat; Rav Ashi permits it, since it runs about as a lamb.",
+   "aliases": [
+    "ben pekua"
+   ],
+   "sections": [
+    "s3",
+    "s4"
+   ]
+  },
+  {
+   "term": "nidmeh",
+   "hebrew": "נדמה",
+   "sense": "an animal resembling another species",
+   "definition": "An animal born of parents of one species whose appearance is that of a different species.",
+   "on_this_daf": "The Gemara asks whether the Rabbis, who bar a hybrid, bar a nidmeh too; two baraitot are tested and deflected.",
+   "aliases": [
+    "nidmeh"
+   ],
+   "sections": [
+    "s3",
+    "s5",
+    "s7"
+   ]
+  },
+  {
+   "term": "pesulei ha'mukdashin",
+   "hebrew": "פסולי המוקדשין",
+   "sense": "blemished consecrated animals that were redeemed",
+   "definition": "Consecrated animals that became disqualified, usually by a blemish, and were redeemed. They may be eaten like non-sacred meat, but shearing and working them remain forbidden.",
+   "on_this_daf": "Rav Mari learns from \"like the gazelle and the hart\" that they cannot redeem a firstborn donkey.",
+   "aliases": [
+    "pesulei ha'mukdashin"
+   ],
+   "sections": [
+    "s3",
+    "s8"
+   ]
+  },
+  {
+   "term": "ein issur chal al issur",
+   "hebrew": "אין איסור חל על איסור",
+   "sense": "one prohibition cannot take hold where another exists",
+   "definition": "The principle that a second prohibition does not take effect on an object or act already subject to an existing prohibition.",
+   "on_this_daf": "The question is whether it blocks the donkey's forbidden status from passing to an already-forbidden redeemed consecrated lamb.",
+   "aliases": [
+    "ein issur chal al issur"
+   ],
+   "sections": [
+    "s3",
+    "s8"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The three questions (ben pekua, nidmeh, redeemed pesulei ha'mukdashin) are grouped under one parent because they share the question of what else may redeem; each could have stood as its own top-level section.",
+  "The ben Bag Bag derivation (s2) is kept separate from the Mishnah rather than nested under it, since it is the Gemara's source discussion and its terms recur in the ben pekua debate.",
+  "Rabba bar Shmuel's baraita (s7) could have been split into two children, the four-way elimination and the deflection about tithe; kept as one because the deflection simply answers the elimination."
+ ],
+ "coverage_notes": [
+  "No shiur for this daf; the whole outline is built from the Gemara text.",
+  "The previous daf's essay tail covers the final Mishnah of the previous perek (11b), which lies before this outline's scope.",
+  "Scope ends at 12b.1, the close of the pesulei ha'mukdashin question. The rest of 12b (the Shevi'it-produce question, Rav Chisda, the kohen given the donkey, the Mishnah on the lamb that died, and redemption timing) belongs to the next outline.",
+  "Sefaria's 'prohibits' and 'permitted' in the Mishnah are rendered as 'forbidden' and 'permitted' throughout."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s4",
+    "subject": "Mar Zutra vs. Rav Ashi exchange",
+    "why_not": "Two positions and one back-and-forth; the bullets and the illustration carry it, and it also appears as a row in the s3 chart."
+   },
+   {
+    "section": "s2",
+    "subject": "Pesach requirements vs. redemption requirements",
+    "why_not": "Covered by the illustration; a chart would duplicate it."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s8",
+    "subject": "'Like the gazelle and the hart': a redeemed consecrated lamb beside a gazelle and a hart",
+    "why_not": "The argument turns on a verbal comparison and a principle, not a scene; four pictures suit this one-amud scope."
+   },
+   {
+    "section": "s7",
+    "subject": "The four laws the baraita might address",
+    "why_not": "Better served by the chart."
+   }
+  ]
+ }
+}

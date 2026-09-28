@@ -1,0 +1,167 @@
+{
+ "key": "hullin_88",
+ "tractate": "Hullin",
+ "sages": [
+  {
+   "name": "רבי אסי",
+   "candidates": [
+    "rabbi-assi"
+   ],
+   "lines": [
+    "87b.9"
+   ],
+   "count": 1,
+   "first": "87b.9",
+   "ambiguous": false,
+   "pick": "rabbi-assi",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי ירמיה",
+   "candidates": [
+    "rabbi-yirmeyah"
+   ],
+   "lines": [
+    "87b.9"
+   ],
+   "count": 1,
+   "first": "87b.9",
+   "ambiguous": false,
+   "pick": "rabbi-yirmeyah",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יהודה",
+   "candidates": [
+    "rabbi-yehudah-b-ilai"
+   ],
+   "lines": [
+    "88a.4",
+    "88a.6"
+   ],
+   "count": 2,
+   "first": "88a.4",
+   "ambiguous": false,
+   "pick": "rabbi-yehudah-b-ilai",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבן שמעון בן גמליאל",
+   "candidates": [
+    "rabban-shimon-b-gamliel",
+    "rabban-shimon-b-gamliel-(ii)"
+   ],
+   "lines": [
+    "88a.5",
+    "88a.6",
+    "88a.7"
+   ],
+   "count": 3,
+   "first": "88a.5",
+   "ambiguous": true,
+   "pick": "rabban-shimon-b-gamliel-(ii)",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבה בר בר חנה",
+   "candidates": [
+    "rabbah-bar-bar-chanah"
+   ],
+   "lines": [
+    "88a.8"
+   ],
+   "count": 1,
+   "first": "88a.8",
+   "ambiguous": false,
+   "pick": "rabbah-bar-bar-chanah",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוחנן",
+   "candidates": [
+    "rabbi-yochanan-b-napacha"
+   ],
+   "lines": [
+    "88a.8"
+   ],
+   "count": 1,
+   "first": "88a.8",
+   "ambiguous": false,
+   "pick": "rabbi-yochanan-b-napacha",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "88b.4"
+   ],
+   "count": 1,
+   "first": "88b.4",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב נחמן בר רב חסדא",
+   "candidates": [
+    "rav-nahman-b-hisda"
+   ],
+   "lines": [
+    "88b.5"
+   ],
+   "count": 1,
+   "first": "88b.5",
+   "ambiguous": false,
+   "pick": "rav-nahman-b-hisda",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "88b.5",
+    "88b.6",
+    "88b.10",
+    "88b.12"
+   ],
+   "count": 4,
+   "first": "88b.5",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב נחמן בר יצחק",
+   "candidates": [
+    "rav-nahman-b-yitzhak"
+   ],
+   "lines": [
+    "88b.6"
+   ],
+   "count": 1,
+   "first": "88b.6",
+   "ambiguous": false,
+   "pick": "rav-nahman-b-yitzhak",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי זירא",
+   "candidates": [
+    "rav-zera"
+   ],
+   "lines": [
+    "88b.7"
+   ],
+   "count": 1,
+   "first": "88b.7",
+   "ambiguous": false,
+   "pick": "rav-zera",
+   "pick_by": "only"
+  }
+ ]
+}

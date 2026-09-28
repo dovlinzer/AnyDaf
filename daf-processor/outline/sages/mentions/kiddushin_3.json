@@ -1,0 +1,48 @@
+{
+ "key": "kiddushin_3",
+ "tractate": "Kiddushin",
+ "sages": [
+  {
+   "name": "רבי שמעון",
+   "candidates": [
+    "shimon-bar-yochai"
+   ],
+   "lines": [
+    "2b.13"
+   ],
+   "count": 1,
+   "first": "2b.13",
+   "ambiguous": false,
+   "pick": "shimon-bar-yochai",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אליעזר",
+   "candidates": [
+    "rabbi-eliezer-b-hyrcanus"
+   ],
+   "lines": [
+    "3a.3"
+   ],
+   "count": 1,
+   "first": "3a.3",
+   "ambiguous": false,
+   "pick": "rabbi-eliezer-b-hyrcanus",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "3b.5"
+   ],
+   "count": 1,
+   "first": "3b.5",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  }
+ ]
+}

@@ -1,0 +1,666 @@
+{
+ "daf": "Berakhot 31b",
+ "scope": {
+  "start": "31a (end): Rav Hamnuna's statement that many *halakhot* derive from Hannah's verses, and R. Elazar's law of rebuke (31b opens mid-sentence)",
+  "end": "31b: R. Shmuel bar R. Yitzchak asks whence we know that God conceded to Elijah — the answer appears on 32a"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Rav Hamnuna: Halakhot Drawn from Hannah's Verses",
+   "amud": "31a–31b",
+   "gist": "From a few verses of Hannah's prayer the Gemara extracts a chain of laws — three rules of prayer, the ban on praying drunk, and a series of obligations between people.",
+   "bullets": [
+    {
+     "text": "Rav Hamnuna: *kamah hilkheta gavraveta ika lemishma mehanei kerai deChanah* — how many significant *halakhot* can be derived from these verses of Hannah (I Samuel 1:13–17).",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Strikingly, only the first few derivations concern prayer itself; the majority are interpersonal — to rebuke, to judge favorably, to clear a false suspicion, to appease and to bless. Ethics between people is drawn out of a narrative about standing before God.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "The passage follows directly on the description of R. Akiva's prayer: communal prayer is clipped and restrained, private prayer is the arena of *kavanah* — and Hannah is the model for the private mode.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "Each phrase of the Hannah narrative and the law derived from it",
+    "columns": [
+     "Phrase",
+     "Law derived",
+     "Who derives it"
+    ],
+    "rows": [
+     [
+      "*Vechanah hi medaberet al libah*",
+      "One who prays must focus his heart",
+      "Rav Hamnuna"
+     ],
+     [
+      "*Rak sefateha na'ot*",
+      "One must enunciate the words with the lips",
+      "Rav Hamnuna"
+     ],
+     [
+      "*Vekolah lo yishama*",
+      "One may not raise his voice in the *Amidah*",
+      "Rav Hamnuna"
+     ],
+     [
+      "*Vayachshveha Eli leshikorah*",
+      "A drunk person may not pray",
+      "Rav Hamnuna"
+     ],
+     [
+      "*Ad matai tishtakarin*",
+      "One who sees unseemly behavior must reprimand",
+      "R. Elazar"
+     ],
+     [
+      "*Yayin veshekhar lo shatiti*",
+      "One wrongly suspected must clear himself",
+      "R. Elazar"
+     ],
+     [
+      "*Al titen et amatkha lifnei bat beliya'al*",
+      "Praying drunk is like idol worship",
+      "R. Elazar"
+     ],
+     [
+      "*Lekhi leshalom*",
+      "One who wrongly suspected must appease — and bless",
+      "R. Elazar"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "Heart, Lips, Silence — and the Drunk Who May Not Pray",
+     "amud": "31a–31b",
+     "gist": "Four derivations from a single verse define prayer as inward, articulated with the lips, inaudible to others, and impossible for one who is drunk.",
+     "bullets": [
+      {
+       "text": "\"And Hannah spoke in her heart\" — one who prays must direct his heart to his prayer.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"Only her lips moved\" — one must enunciate the words with his lips, not merely contemplate them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"And her voice could not be heard\" — it is forbidden to raise one's voice in the *Amidah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The balance is unusual: *halakhah* generally wants speech to be audible (as in the discussion of *Shema*), yet prayer is precisely an almost-silent speech — lips moving, no voice. Some *Acharonim* even ask whether thought alone might suffice for *avodah shebalev*; the accepted assumption is that it does not.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "\"So Eli thought her to be drunk\" — from here, that a drunk person is forbidden to pray; that is why Eli rebuked her.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"And Eli said to her: How long will you remain drunk? Remove your wine\" — R. Elazar: one who sees an unseemly matter in another must reprimand him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Tosafot*: this obligation applies *af al gav deleika issura* — even where the behavior is not technically a violation. Caring about another obliges gentle rebuke.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Hannah's posture in prayer — heart, moving lips, no audible voice — and Eli's conclusion that she was drunk (I Samuel 1:13–14), the verses from which Rav Hamnuna and R. Elazar draw their laws.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Hannah standing in prayer with her lips moving but no voice heard, and Eli watching her and suspecting drunkenness</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"20\" width=\"410\" height=\"420\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"225\" y=\"56\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">Hannah in prayer</text><use href=\"#woman\" x=\"60\" y=\"150\" width=\"90\" height=\"180\" style=\"color:#6A4F7A\"/><path d=\"M132 198 q14 -6 26 0 M132 214 q14 -6 26 0\" stroke=\"#1B3A8A\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"105\" y=\"356\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Hannah</text><text x=\"185\" y=\"200\" text-anchor=\"start\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#1A1F2E\">וְחַנָּה מְדַבֶּרֶת עַל לִבָּהּ</text><text x=\"185\" y=\"222\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1B3A8A\">must focus his heart</text><text x=\"185\" y=\"264\" text-anchor=\"start\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#1A1F2E\">רַק שְׂפָתֶיהָ נָּעוֹת</text><text x=\"185\" y=\"286\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1B3A8A\">must enunciate with the lips</text><text x=\"185\" y=\"328\" text-anchor=\"start\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#1A1F2E\">וְקוֹלָהּ לֹא יִשָּׁמֵעַ</text><text x=\"185\" y=\"350\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1B3A8A\">may not raise his voice</text><rect x=\"450\" y=\"20\" width=\"430\" height=\"420\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"665\" y=\"56\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">Eli’s suspicion</text><use href=\"#sage\" x=\"480\" y=\"210\" width=\"80\" height=\"140\" style=\"color:#8C5A3C;--beard:#9C9892;--wrap:#E4D8C0\"/><text x=\"520\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Eli</text><circle cx=\"572\" cy=\"228\" r=\"8\" fill=\"#FFFFFF\" stroke=\"#9A6212\"/><circle cx=\"592\" cy=\"212\" r=\"11\" fill=\"#FFFFFF\" stroke=\"#9A6212\"/><ellipse cx=\"720\" cy=\"172\" rx=\"140\" ry=\"60\" fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"720\" y=\"166\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#6B4A1A\">וַיַּחְשְׁבֶהָ עֵלִי לְשִׁכֹּרָה</text><text x=\"720\" y=\"192\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">a drunk person may not pray</text><text x=\"665\" y=\"402\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#1A1F2E\">עַד מָתַי תִּשְׁתַּכָּרִין</text><text x=\"665\" y=\"426\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">R. Elazar: seeing unseemly behavior, one must reprimand</text></svg>"
+     }
+    },
+    {
+     "id": "s3",
+     "title": "\"Lo Adoni\": Hannah's Reply and Judging Favorably",
+     "amud": "31b",
+     "gist": "Two versions of Hannah's retort read her \"no, my master\" as a rebuke of Eli for judging her to guilt rather than to merit.",
+     "bullets": [
+      {
+       "text": "\"And Hannah answered and said: No, my master... I pour out my soul before the Lord\" (I Samuel 1:15).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Ulla, and some say R. Yosei son of R. Chanina: she hinted to him — in this matter you are no master, and the Divine Spirit does not rest upon you, since you falsely suspect me.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Another version of her words: are you not a master? Are the *Shekhinah* and the Divine Spirit not with you — that you judged me guilty and did not judge me innocent?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The second version turns the exchange into the obligation to judge another *lekhaf zekhut*: when you see a person acting, tip the scale toward the innocent reading.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "A well-known gloss of the Vilna Gaon on how the *kohen gadol* could err: the *urim vetumim* raised the letters *shin, kaf, reish, heh* before Eli, and he read *shikorah*, \"drunk,\" when the message was *kesheirah* — or that she was like Sarah, a barren woman at prayer.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Clearing Oneself of Suspicion; Drunken Prayer as Idolatry",
+     "amud": "31b",
+     "gist": "Hannah's denial teaches that the innocent must dispel suspicion, and her phrase *bat beliya'al* yields a verbal analogy equating drunken prayer with idol worship.",
+     "bullets": [
+      {
+       "text": "\"I have drunk neither wine nor liquor\" — R. Elazar: one suspected of something of which he is innocent may not rest on his own knowledge; he must inform the suspecter and clear himself.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"Do not take your maidservant as a *bat beliya'al*\" (I Samuel 1:16) — R. Elazar: one who prays drunk is as if he engaged in idol worship.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The derivation is a *gezerah shavah*: *beliya'al* here, and *benei beliya'al* in the idolatrous city — \"*benei beliya'al* have gone out from your midst\" (Devarim 13:14).",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Conceptually the link runs deeper: pagan worship often worked through intoxication and induced religious frenzy, so approaching God drunk mimics precisely that distortion of standing before Him.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "Eli Must Appease Her — and Bless Her",
+     "amud": "31b",
+     "gist": "Eli's \"go in peace\" and his blessing become the twin obligations of one whose suspicion proved false.",
+     "bullets": [
+      {
+       "text": "\"And Eli answered and said: May you go in peace\" (I Samuel 1:17) — R. Elazar: one who suspected another of something he did not do must appease him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "And not only that: he must also bless him — \"And may the God of Israel grant your request that you have asked of Him.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Eli does not merely retract; the wrong of a false suspicion is repaired by reconciliation and blessing together.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "Hannah's Bold Demand: *Tzeva'ot* and the Sotah Threat",
+   "amud": "31b",
+   "gist": "Hannah's vow is read as a daring petition — she coins a divine name, presses in like a beggar before a king, and threatens to force God's hand through the *sotah* waters.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s7",
+     "title": "The First to Call God *Tzeva'ot*, and the Parable of the Poor Man",
+     "amud": "31b",
+     "gist": "Hannah invents the name \"Lord of Hosts\" to argue that one son is nothing beside all the hosts God created — like a beggar who forces his way to the king's table.",
+     "bullets": [
+      {
+       "text": "\"And she swore an oath and said, Lord of Hosts [*Tzeva'ot*]...\" (I Samuel 1:11). R. Elazar: from the day God created His world, no person called Him *Tzeva'ot* until Hannah came and called Him so.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Hannah said before Him: Master of the Universe, of all the hosts and hosts of creations You created in Your world, is it difficult in Your eyes to grant me one son?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Parable: a king made a feast for his servants. A poor man stood at the door and asked for one slice of bread, and they paid him no attention. He pushed in before the king and said: from this whole feast you prepared, is one slice so difficult?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The force of the parable is in the pushing in — the servants would not help, so he went past them straight to the king. That is the posture the Gemara attributes to Hannah's prayer.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The parable the Gemara offers for Hannah's argument: the servants at the king's feast ignore the poor man, so he pushes past them and puts his request to the king himself.",
+      "svg": "<svg viewBox=\"0 0 900 470\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A poor man at the doorway of a king's feast, servants at a laden table ignoring him, and the poor man standing before the enthroned king</title><rect width=\"900\" height=\"470\" fill=\"#F6EFE2\"/><rect y=\"340\" width=\"900\" height=\"130\" fill=\"#DCCFB2\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#5A4A3A\">The parable of the poor man at the king’s feast</text><rect x=\"40\" y=\"140\" width=\"120\" height=\"200\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><use href=\"#person\" x=\"65\" y=\"215\" width=\"60\" height=\"120\" style=\"color:#7A6A55\"/><text x=\"100\" y=\"368\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">a poor man at the door</text><rect x=\"250\" y=\"280\" width=\"250\" height=\"14\" rx=\"4\" fill=\"#8B6A4E\"/><rect x=\"262\" y=\"294\" width=\"10\" height=\"46\" fill=\"#8B6A4E\"/><rect x=\"478\" y=\"294\" width=\"10\" height=\"46\" fill=\"#8B6A4E\"/><ellipse cx=\"300\" cy=\"274\" rx=\"24\" ry=\"8\" fill=\"#F1ECE0\" stroke=\"#C9BFA9\"/><ellipse cx=\"375\" cy=\"274\" rx=\"24\" ry=\"8\" fill=\"#F1ECE0\" stroke=\"#C9BFA9\"/><ellipse cx=\"450\" cy=\"274\" rx=\"24\" ry=\"8\" fill=\"#F1ECE0\" stroke=\"#C9BFA9\"/><path d=\"M358 272 q17 -14 34 0\" fill=\"#B5673E\"/><use href=\"#man\" x=\"280\" y=\"165\" width=\"55\" height=\"110\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"420\" y=\"165\" width=\"55\" height=\"110\" style=\"color:#5E7D4F\"/><text x=\"375\" y=\"368\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">the servants pay him no attention</text><path d=\"M175 235 C320 105, 520 105, 608 218\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"3\" stroke-dasharray=\"8 6\"/><path d=\"M610 220 l-16 -6 l4 15 z\" fill=\"#9A6212\"/><text x=\"392\" y=\"96\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#6B4A1A\">דָּחַק וְנִכְנַס אֵצֶל הַמֶּלֶךְ</text><text x=\"392\" y=\"118\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">he pushed past and entered before the king</text><rect x=\"700\" y=\"150\" width=\"110\" height=\"50\" fill=\"#7A4A2A\"/><rect x=\"700\" y=\"190\" width=\"110\" height=\"150\" fill=\"#8C5A3C\"/><use href=\"#man\" x=\"725\" y=\"195\" width=\"60\" height=\"120\" style=\"color:#A8436E\"/><path d=\"M737 210 l5 -16 l6 9 l6 -16 l6 9 l6 -16 l5 30 z\" fill=\"#D9A85F\"/><text x=\"755\" y=\"368\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">the king</text><use href=\"#person\" x=\"618\" y=\"220\" width=\"55\" height=\"110\" style=\"color:#7A6A55\"/><text x=\"450\" y=\"418\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#1A1F2E\">כָּל סְעוּדָה שֶׁעָשִׂיתָ, קָשֶׁה בְּעֵינֶיךָ לִתֵּן לִי פְּרוּסָה אַחַת?</text><text x=\"450\" y=\"444\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">Hannah: of all the hosts You created, is one son so difficult?</text></svg>"
+     }
+    },
+    {
+     "id": "s8",
+     "title": "\"Im ra'oh tireh\": Hannah Threatens the Sotah Waters",
+     "amud": "31b",
+     "gist": "R. Elazar reads the doubled verb as a threat: if You do not look now, You will be made to see — for I will seclude myself and be vindicated by the *sotah* waters.",
+     "bullets": [
+      {
+       "text": "On the doubled \"*im ra'oh tireh*\" — R. Elazar: Hannah said, if You will look upon me now, fine; and if not, in any case You will see.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Her threat: I will go and seclude myself with another man before Elkanah my husband; since I secluded myself they will make me drink the *sotah* water; I will be found innocent, and since You will not make Your Torah false [*pelaster*], I will bear children.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The verse she leans on: \"And if the woman was not defiled, but was pure, then she shall be acquitted and she shall conceive\" (Bamidbar 5:28).",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "*Pelaster* derives from the Greek *plastos*, molded or counterfeit: she is saying You will not allow Your own Torah to be exposed as a forgery — and so You will have to give me a child.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s9",
+     "title": "R. Yishmael vs. R. Akiva: What the Sotah Waters Grant",
+     "amud": "31b",
+     "gist": "The threat only works if the waters make a barren woman conceive — a point disputed in a *baraita*, and per R. Akiva the doubled verb is merely ordinary speech.",
+     "bullets": [
+      {
+       "text": "The Gemara objects: R. Elazar's reading works for the one who holds that a barren woman is remembered and granted children — but what of the one who holds that the verse promises only easier and better childbearing?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Baraita*: \"then she shall be acquitted and she shall conceive\" teaches that if she was barren she will be remembered and granted children — the words of R. Yishmael.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Akiva objects: if so, all barren women will go and seclude themselves with other men, and any one who did not in fact sin would be granted children.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Akiva therefore reads it as a promise of improved childbirth: pain becomes ease, short children become tall, black become fair, one child becomes two.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "According to R. Akiva, what then of Hannah's doubled \"*im ra'oh tireh*\"? *Dibberah Torah kilshon benei adam* — the Torah speaks in ordinary human idiom, and nothing is derived from the doubling.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Akiva's benefits are real but evidently not tempting enough, in his view, to make women manipulate the *sotah* procedure — which is exactly why he rejects R. Yishmael's reading.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "The two *tanna'im* on \"*veniktah venizre'ah zara*\"",
+      "columns": [
+       "",
+       "What the waters grant an innocent woman",
+       "Reasoning",
+       "Hannah's doubled *im ra'oh tireh*"
+      ],
+      "rows": [
+       [
+        "R. Yishmael",
+        "A barren woman is remembered and bears children",
+        "Plain reading of the verse",
+        "Can function as a real threat"
+       ],
+       [
+        "R. Akiva",
+        "Easier birth; short→tall, black→fair, one→two",
+        "Otherwise every barren woman would seclude herself to exploit the procedure",
+        "Mere idiom — *dibberah Torah kilshon benei adam*"
+       ]
+      ]
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "title": "The Wording of Hannah's Vow",
+   "amud": "31b",
+   "gist": "Two phrases in the vow are mined: the threefold \"Your maidservant\" and the request for \"an offspring of men.\"",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s11",
+     "title": "Three Times \"Your Maidservant\": the Three Mitzvot of Women",
+     "amud": "31b",
+     "gist": "R. Yosei son of R. Chanina hears in the three *amatekha* Hannah's claim that she never violated the three mitzvot on which a woman's life hangs.",
+     "bullets": [
+      {
+       "text": "Hannah calls herself \"Your maidservant\" three times in the vow: \"the affliction of Your maidservant... not forget Your maidservant... will give Your maidservant\" (I Samuel 1:11).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yosei son of R. Chanina: she said before Him — Master of the Universe, You created three crucibles of death in a woman (some say: three accelerants of death): the *halakhot* of *niddah*, separating *challah*, and lighting the Shabbat lamp.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Her claim: have I ever violated one of them? The word *amatekha* is linked to *mitah*, death.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "These three are the mitzvot enumerated as women's in *Bameh Madlikin*, and they map the domestic sphere: the food of the home, the light of the home, and bodily sanctity — with the Mishnah there warning of danger at the hour of childbirth.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The three mitzvot behind Hannah's three uses of \"Your maidservant,\" and her claim that she never transgressed any of them (Berakhot 31b).",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three panels showing niddah, separating challah, and lighting the Shabbat lamp</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"46\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"23\" font-weight=\"400\" fill=\"#1A1F2E\">שָׁלֹשׁ בִּדְקֵי מִיתָה בָּאִשָּׁה</text><text x=\"450\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5B6478\">three crucibles of death — the mitzvot Hannah invokes as “Your maidservant”</text><rect x=\"30\" y=\"96\" width=\"260\" height=\"290\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"160\" y=\"138\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"24\" font-weight=\"400\" fill=\"#1B3A8A\">נִדָּה</text><text x=\"160\" y=\"162\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">the laws of the menstruant</text><path d=\"M98 330 L112 232 H208 L222 330 Z\" fill=\"#CFE0EE\" stroke=\"#7FA6C6\" stroke-width=\"2\"/><path d=\"M118 262 q12 -8 24 0 t24 0 t24 0\" fill=\"none\" stroke=\"#4E7A8C\" stroke-width=\"3\"/><path d=\"M120 288 q12 -8 24 0 t24 0 t24 0\" fill=\"none\" stroke=\"#4E7A8C\" stroke-width=\"3\"/><text x=\"160\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#1A1F2E\">purity of the body</text><rect x=\"320\" y=\"96\" width=\"260\" height=\"290\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"450\" y=\"138\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"24\" font-weight=\"400\" fill=\"#9A6212\">חַלָּה</text><text x=\"450\" y=\"162\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">separating challah from the dough</text><ellipse cx=\"440\" cy=\"290\" rx=\"72\" ry=\"40\" fill=\"#D9A85F\" stroke=\"#B0803A\" stroke-width=\"2\"/><circle cx=\"516\" cy=\"244\" r=\"19\" fill=\"#E2B877\" stroke=\"#B0803A\" stroke-width=\"2\"/><text x=\"450\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#1A1F2E\">the bread of the home</text><rect x=\"610\" y=\"96\" width=\"260\" height=\"290\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"740\" y=\"138\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"23\" font-weight=\"400\" fill=\"#24592E\">הַדְלָקַת הַנֵּר</text><text x=\"740\" y=\"162\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">lighting the Shabbat lamp</text><rect x=\"730\" y=\"250\" width=\"20\" height=\"72\" fill=\"#C9A96E\"/><path d=\"M706 330 h68 l-10 -14 h-48 z\" fill=\"#C9A96E\"/><path d=\"M740 248 C726 230 744 222 738 206 C754 218 758 238 748 248 Z\" fill=\"url(#fire)\"/><text x=\"740\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#1A1F2E\">the light of the home</text><text x=\"450\" y=\"418\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#1A1F2E\">כְּלוּם עָבַרְתִּי עַל אַחַת מֵהֶן?</text></svg>"
+     }
+    },
+    {
+     "id": "s12",
+     "title": "\"An Offspring of Men\": Four Readings",
+     "amud": "31b",
+     "gist": "Rav, Shmuel, R. Yochanan and the Rabbis read *zera anashim* as outstanding, as the anointer of two kings, as the equal of two greats, or as utterly ordinary.",
+     "bullets": [
+      {
+       "text": "\"And You will grant Your maidservant an offspring of men\" — what is *zera anashim*?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav: a man among men — a son who would be outstanding and exceptional.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Shmuel: offspring who will anoint two men to royalty — Saul and David.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yochanan: offspring equivalent to two of the world's greatest — Moses and Aaron, as it is stated \"Moses and Aaron among His priests, and Samuel among those who call His name\" (Tehillim 99:6).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Rabbis: offspring inconspicuous among men, who would not stand out at all. When Rav Dimi came he explained: neither too tall nor too short, neither too small nor too fat, neither too white nor too red, neither too smart nor too stupid.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi explains the request for ordinariness as avoiding the evil eye; one may also hear in it Hannah's poignancy — I am not asking for anything special, just a child.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Four readings of *zera anashim*",
+      "columns": [
+       "",
+       "Reading",
+       "Whom it points to"
+      ],
+      "rows": [
+       [
+        "Rav",
+        "A man among men — outstanding",
+        "—"
+       ],
+       [
+        "Shmuel",
+        "One who will anoint two men",
+        "Saul and David"
+       ],
+       [
+        "R. Yochanan",
+        "Equal in worth to two great men",
+        "Moses and Aaron (Tehillim 99:6)"
+       ],
+       [
+        "The Rabbis (and Rav Dimi)",
+        "Absorbed among people — average in every way",
+        "No one in particular"
+       ]
+      ]
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "title": "Hannah Returns with Samuel",
+   "amud": "31b",
+   "gist": "Her words to Eli a year later yield a law of prayer space, and a startling account of why she had to plead for her son's life.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s14",
+     "title": "\"Who Stood Here with You\": Four Cubits of Prayer",
+     "amud": "31b",
+     "gist": "R. Yehoshua ben Levi derives from Eli's standing beside Hannah that one may not sit within four cubits of someone praying.",
+     "bullets": [
+      {
+       "text": "\"My lord, as your soul lives, my lord, I am the woman who stood here with you to pray to the Lord\" (I Samuel 1:26).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yehoshua ben Levi: from here, that it is forbidden to sit within four cubits of one who is praying — \"who stood here with you\" indicates that Eli stood alongside her because she was praying.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Tosafot*: *imakh* is written full, with a *heh*, implying one may sit from the fifth *amah*; and the prohibition applies at the sides, not only in front.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "*Tosafot* cites the *Geonim*: the problem is one who sits idle; one occupied with *Shema*, blessings or the like may sit. Practically, in a crowded synagogue, sitting while engaged in *chazarat hashatz* is not the problematic case — sitting oblivious is.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "Samuel Ruled Before His Teacher — and Hannah Refuses a Replacement",
+     "amud": "31b",
+     "gist": "R. Elazar reads \"for this youth I prayed\" as Hannah shielding Samuel from death at the hand of Heaven for ruling on slaughter in Eli's presence.",
+     "bullets": [
+      {
+       "text": "R. Elazar: Samuel was one who taught *halakhah* in the presence of his teacher; Hannah's \"for this youth I prayed\" was to protect him from punishment.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The proof text is puzzling: \"And they slaughtered the cow and they brought the youth to Eli\" (I Samuel 1:25) — what has the one to do with the other?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "What happened: Eli told them to call a priest to slaughter the offering. Samuel, seeing them searching, said — why look for a priest? Slaughter by a non-priest is valid.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "They brought him before Eli, who asked how he knew. Samuel: is it written \"and the priest shall slaughter\"? It says \"and the priests shall offer\" — only from receiving the blood onward is it a priestly mitzvah.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Eli: you have spoken well, but you ruled in your teacher's presence, and anyone who does so — even when the ruling is correct — is liable for death at the hand of Heaven.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara elsewhere counts this sin among those of Nadav and Avihu, who ruled in the presence of Moses.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Hannah came and shouted before him: \"I am the woman who stood here with you\" — do not punish the child born of my prayers. Eli: let me punish him, and I will pray that you be granted a son greater than this one. She answered: \"For this youth I prayed\" — and I want no other.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Tosafot* asks how Eli was already Samuel's teacher: though the child had not yet studied before him, Eli was the *gadol hador* and Samuel was coming to learn from him, which suffices for the status.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Hannah's refusal of a substitute echoes her earlier request for nothing special: it is this child, irreplaceable — foreshadowing the boy who will hear God's voice while Eli does not.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Young Samuel tells those bringing the offering that slaughter by a non-priest is valid; Eli concedes the ruling is right but calls it ruling before one's teacher, and Hannah pleads for the child (I Samuel 1:25–27 as read on 31b).",
+      "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A cow brought for slaughter, a man searching for a priest, the child Samuel ruling that slaughter by a non-priest is valid, and Eli responding</title><rect width=\"900\" height=\"480\" fill=\"#F6EFE2\"/><rect y=\"330\" width=\"900\" height=\"150\" fill=\"#DCCFB2\"/><use href=\"#bull\" x=\"40\" y=\"250\" width=\"170\" height=\"110\"/><text x=\"125\" y=\"388\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#1A1F2E\">the cow brought for slaughter</text><use href=\"#man\" x=\"220\" y=\"245\" width=\"55\" height=\"110\" style=\"color:#5E7D4F\"/><text x=\"248\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#1A1F2E\">“call a priest”</text><rect x=\"300\" y=\"150\" width=\"250\" height=\"78\" rx=\"16\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><path d=\"M398 226 L392 254 L426 226 Z\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><text x=\"425\" y=\"184\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#1B3A8A\">שְׁחִיטָה בְּזָר כְּשֵׁרָה</text><text x=\"425\" y=\"208\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">slaughter by a non-priest is valid</text><use href=\"#child\" x=\"390\" y=\"270\" width=\"45\" height=\"90\" style=\"color:#4E7A8C\"/><text x=\"412\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Samuel</text><rect x=\"570\" y=\"58\" width=\"300\" height=\"92\" rx=\"16\" fill=\"#FFF5E6\" stroke=\"#9A6212\" stroke-width=\"2\"/><path d=\"M690 150 L688 202 L722 150 Z\" fill=\"#FFF5E6\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"720\" y=\"92\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#6B4A1A\">מֵימַר שַׁפִּיר קָאָמְרַתְּ</text><text x=\"720\" y=\"116\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">but you ruled in the presence of your teacher</text><text x=\"720\" y=\"140\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#6B4A1A\">חַיָּב מִיתָה</text><use href=\"#sage\" x=\"660\" y=\"212\" width=\"80\" height=\"140\" style=\"color:#8C5A3C;--beard:#9C9892;--wrap:#E4D8C0\"/><text x=\"700\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Eli</text><rect x=\"40\" y=\"404\" width=\"820\" height=\"58\" rx=\"12\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\"/><text x=\"450\" y=\"430\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#1A1F2E\">אֶל הַנַּעַר הַזֶּה הִתְפַּלָּלְתִּי</text><text x=\"450\" y=\"452\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Hannah: “For this youth I prayed” — and I want no other</text></svg>"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "title": "\"On Her Heart\": Hannah's Argument from Her Own Body",
+   "amud": "31b",
+   "gist": "R. Elazar in the name of R. Yosei ben Zimra reads the odd phrase as Hannah arguing that no organ was created in vain — so why these?",
+   "bullets": [
+    {
+     "text": "\"And Hannah spoke *on* her heart\" — R. Elazar in the name of R. Yosei ben Zimra: she spoke concerning matters of her heart.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "She said before Him: Master of the Universe, of all the organs You created in a woman You created not one in vain — eyes to see, ears to hear, a nose to smell, a mouth to speak, hands to do work, feet to walk, breasts to nurse.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "If so, these breasts You placed upon my heart — for what purpose, if not to nurse with them? Grant me a son and I will nurse with them.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The reading takes *al libah*, \"on her heart,\" in its anatomical sense, which is what gives the argument its force: the body You gave me is built for motherhood.",
+     "detail": 2,
+     "source": "shiur"
+    }
+   ],
+   "children": []
+  },
+  {
+   "id": "s17",
+   "title": "Tangent: Fasting on Shabbat",
+   "amud": "31b",
+   "gist": "The Gemara appends a second teaching of R. Elazar in the name of R. Yosei ben Zimra — a fast on Shabbat tears up a decree, yet itself requires repair.",
+   "bullets": [
+    {
+     "text": "R. Elazar in the name of R. Yosei ben Zimra: whoever observes a fast on Shabbat, they tear up and repeal his sentence of seventy years — fasting is harder on Shabbat, when everyone else is feasting.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Nevertheless, he is held accountable for failing to fulfill *oneg Shabbat*.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "What is his remedy? Rav Nachman bar Yitzchak: he must observe another fast to atone for the fast on Shabbat.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The practical setting is a *ta'anit chalom*, a fast after a disturbing dream, which the *Geonim* hold should be kept at once even on Shabbat; Rashi grounds the efficacy in the sheer difficulty of fasting while others feast.",
+     "detail": 2,
+     "source": "shiur"
+    }
+   ],
+   "children": []
+  },
+  {
+   "id": "s18",
+   "title": "Hannah and Elijah: Words Cast Toward Heaven",
+   "amud": "31b → 32a",
+   "gist": "R. Elazar reads Hannah's prayer as spoken impertinently *against* God, and pairs her with Elijah, who blamed God for Israel's sin.",
+   "bullets": [
+    {
+     "text": "R. Elazar: Hannah spoke impertinently toward God on High — *hetichah devarim kelapei ma'alah* — as it says \"and she prayed *al* the Lord,\" rather than the usual \"*el* the Lord.\"",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "R. Elazar likewise: Elijah spoke impertinently toward Heaven at Mount Carmel — \"Answer me, Lord, answer me... and You have turned their hearts backward\" (I Kings 18:37), claiming God caused Israel to sin.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "R. Shmuel bar R. Yitzchak asks: from where do we know that the Holy One ultimately conceded to Elijah that he was right?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "This crystallizes the model of prayer the *sugya* has been building through Hannah: not self-effacing begging but prayer with a *ta'anah*, a claim pressed upon God — the mode later embodied by figures such as R. Levi Yitzchak of Berditchev.",
+     "detail": 2,
+     "source": "shiur"
+    }
+   ],
+   "children": [],
+   "continues": "Continues on 32a: the verse showing that God conceded to Elijah, R. Chama son of R. Chanina's three verses without which Israel could not stand, and Moses speaking impertinently toward Heaven.",
+   "illustration": {
+    "caption": "Hannah and Elijah as the two models of prayer flung upward — \"*al* the Lord,\" not \"*el* the Lord,\" and \"You have turned their hearts backward.\"",
+    "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Hannah and Elijah standing beneath clouds, each with the phrase of their prayer rising above them toward Heaven</title><rect width=\"900\" height=\"420\" fill=\"url(#sky)\"/><ellipse cx=\"120\" cy=\"58\" rx=\"92\" ry=\"26\" fill=\"#FFFFFF\" opacity=\".85\"/><ellipse cx=\"790\" cy=\"66\" rx=\"96\" ry=\"26\" fill=\"#FFFFFF\" opacity=\".85\"/><text x=\"450\" y=\"52\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"23\" font-weight=\"400\" fill=\"#1A1F2E\">הֵטִיחָה דְּבָרִים כְּלַפֵּי מַעְלָה</text><text x=\"450\" y=\"78\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5B6478\">speaking impertinently toward Heaven</text><rect x=\"110\" y=\"148\" width=\"200\" height=\"36\" rx=\"18\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><text x=\"210\" y=\"173\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#1B3A8A\">וַתִּתְפַּלֵּל עַל ה׳</text><text x=\"210\" y=\"206\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#1A1F2E\">not “el Hashem” but “al Hashem”</text><path d=\"M215 232 L212 192\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><path d=\"M212 188 l-7 13 l14 0 z\" fill=\"#1B3A8A\"/><use href=\"#woman\" x=\"175\" y=\"232\" width=\"80\" height=\"160\" style=\"color:#6A4F7A\"/><text x=\"215\" y=\"410\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Hannah</text><rect x=\"548\" y=\"118\" width=\"316\" height=\"36\" rx=\"18\" fill=\"#FFFFFF\" stroke=\"#24592E\" stroke-width=\"2\"/><text x=\"706\" y=\"143\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#24592E\">וְאַתָּה הֲסִבֹּתָ אֶת לִבָּם אֲחֹרַנִּית</text><text x=\"706\" y=\"176\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#1A1F2E\">You caused Israel to sin</text><path d=\"M666 222 L663 190\" stroke=\"#24592E\" stroke-width=\"3\"/><path d=\"M663 186 l-7 13 l14 0 z\" fill=\"#24592E\"/><use href=\"#sage\" x=\"622\" y=\"222\" width=\"86\" height=\"150\" style=\"color:#50706E;--beard:#8E8A84;--wrap:#E4D8C0\"/><text x=\"665\" y=\"410\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Elijah</text><text x=\"440\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">R. Shmuel bar R. Yitzchak: whence do we know</text><text x=\"440\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">that the Holy One conceded to Elijah?</text><text x=\"440\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">— the answer comes on the next daf</text></svg>"
+   }
+  }
+ ],
+ "judgment_calls": [
+  "The daf opens mid-sentence inside R. Elazar's law of rebuke, so the outline begins with Rav Hamnuna's framing statement at the end of 31a; an alternative was to start at 31b.1 itself, but the derivations are unintelligible without Rav Hamnuna's opening.",
+  "The *sotah* dispute of R. Yishmael and R. Akiva could stand as its own top-level section (it is a full tannaitic *machloket* about Bamidbar 5:28); kept under Hannah's bold demand because the Gemara raises it only to test R. Elazar's reading of *im ra'oh tireh*.",
+  "The fasting-on-Shabbat teaching is a pure tangent, attached only by the transmission chain R. Elazar in the name of R. Yosei ben Zimra; made a separate top-level section rather than a child of the 'al libah' section, since it shares none of its question.",
+  "The four-cubits law and the Samuel story are grouped under 'Hannah returns with Samuel' because both are derived from her two sentences to Eli in I Samuel 1:26–27; they could equally have been split, since one is a law of prayer and the other an aggadah.",
+  "The three readings of divine names, the parable and the sotah threat were kept as one top-level bucket ('Hannah's bold demand') because the Gemara presents them as one continuous expansion of her vow."
+ ],
+ "coverage_notes": [
+  "Most of the shiur's second half treats material that appears on 32a — R. Chama son of R. Chanina's three verses, Rav Pappa's fourth verse, Moses's *hetiach devarim kelapei ma'alah*, *lekh red*, the parables of the cow and the spoiled son, *vayechal*, releasing God from His vow, the oath to the patriarchs, *salachti kidvarekha*, and Rav Simai on praise before petition. All of that is outside this daf's scope and is not outlined here.",
+  "The shiur opens by reviewing the R. Akiva passage on 31a (swaying, communal vs. private prayer); used only as framing in s1, since it belongs to the previous amud.",
+  "The essay says the remedy for fasting on Shabbat is to undergo another fast on a subsequent Shabbat; the Sefaria text has Rav Nachman bar Yitzchak requiring a further fast (on a weekday) to atone for the Shabbat fast. Followed the text.",
+  "Rav Dimi's list in the essay reads 'not too thin and not too fat, not too fair and not too swarthy'; the text has 'neither too small nor too fat; neither too white nor too red; neither too smart nor too stupid.' Followed the text.",
+  "The essay attributes the three-*amatot* teaching to 'R. Yosi bar Chanina'; the text has R. Yosei son of R. Chanina — same sage, text spelling used.",
+  "The final unit of the daf (R. Shmuel bar R. Yitzchak's question about God conceding to Elijah) is left open here; the essay supplies the 32a answer, which is recorded only in the 'continues' note."
+ ]
+}

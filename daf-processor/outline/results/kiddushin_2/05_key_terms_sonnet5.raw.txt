@@ -1,0 +1,74 @@
+{"daf": "Kiddushin 2", "key_terms": [
+  {
+    "term": "kesef",
+    "hebrew": "כסף",
+    "sense": "betrothal through payment of money",
+    "definition": "One of the three modes by which a man betroths a woman: giving her an object of monetary value while declaring that she is thereby betrothed to him, before witnesses.",
+    "on_this_daf": "The mishnah opens with kesef as the first mode of kiddushin, and the Gemara derives it via a gezerah shavah from Avraham's purchase of Efron's field, explaining why the mishnah uses the language of acquisition (nikneit) rather than betrothal.",
+    "aliases": ["כסף", "kesef"],
+    "sections": ["s2", "s4", "s7", "s8"]
+  },
+  {
+    "term": "shtar",
+    "hebrew": "שטר",
+    "sense": "betrothal through a written document",
+    "definition": "One of the three modes of kiddushin: a document stating that the woman is betrothed to the man, given to her before witnesses.",
+    "on_this_daf": "Listed by the mishnah as the second mode of betrothal, distinct from the ketubah, which belongs to nisu'in rather than kiddushin.",
+    "aliases": ["שטר", "shtar"],
+    "sections": ["s2"]
+  },
+  {
+    "term": "bi'ah",
+    "hebrew": "ביאה",
+    "sense": "betrothal (or levirate acquisition) through intercourse",
+    "definition": "A single act of intercourse performed with explicit intent to create a legal bond (kiddushin, or in the case of a yevamah, the levirate bond), as opposed to intercourse for its own sake.",
+    "on_this_daf": "The mishnah's third mode of betrothal, and the sole means by which a yevamah is acquired by the yavam; the Gemara explains that Proverbs' use of derech for intercourse shapes the mishnah's choice of the word derachim.",
+    "aliases": ["ביאה", "bi'ah"],
+    "sections": ["s2", "s5", "s18"]
+  },
+  {
+    "term": "kiddushin",
+    "hebrew": "קידושין",
+    "sense": "the legal status of betrothal",
+    "definition": "The first stage of Jewish marriage, created by kesef, shtar or bi'ah, which forbids the woman to all other men and requires a get (or the husband's death) to dissolve, but does not yet establish the shared household obligations of full marriage.",
+    "on_this_daf": "The Gemara explains why the Sages later called this act kiddushin (from hekdesh, consecration) rather than the Torah's own language of kinyan/kicha, reflecting a shift from a pure acquisition model to a status of exclusivity.",
+    "aliases": ["kiddushin", "Kiddushin"],
+    "sections": ["s3", "s4", "s10", "s11"]
+  },
+  {
+    "term": "nisu'in",
+    "hebrew": "נישואין",
+    "sense": "full marriage following betrothal",
+    "definition": "The second stage of Jewish marriage, effected through chuppah, which brings the couple to live together and creates the mutual obligations of she'er, kesut ve-onah and the husband's right to her earnings.",
+    "on_this_daf": "Distinguished from kiddushin as the outline explains why this mishnah's terse language about the woman's freedom omits the obligations (vows, earnings) that only begin with nisu'in.",
+    "aliases": ["nisu'in", "Nisu'in"],
+    "sections": ["s3"]
+  },
+  {
+    "term": "yevamah",
+    "hebrew": "יבמה",
+    "sense": "a childless widow bound to levirate marriage",
+    "definition": "A woman whose husband died without children, who becomes bound to his brother (the yavam) either to be acquired via intercourse (yibum) or released via chalitzah.",
+    "on_this_daf": "The mishnah applies the same in/out framework to the yevamah, who is acquired only through bi'ah and released only through chalitzah or the yavam's death.",
+    "aliases": ["yevamah", "Yevamah"],
+    "sections": ["s2", "s5"]
+  },
+  {
+    "term": "chalitzah",
+    "hebrew": "חליצה",
+    "sense": "the ceremony releasing a yevamah from the levirate bond",
+    "definition": "A ritual ceremony that releases a yevamah from her bond to the yavam when he does not wish to perform yibum, freeing her to marry others.",
+    "on_this_daf": "Listed by the mishnah as one of the two ways a yevamah acquires herself, alongside the yavam's death.",
+    "aliases": ["chalitzah", "חליצה"],
+    "sections": ["s5"]
+  },
+  {
+    "term": "perutah",
+    "hebrew": "פרוטה",
+    "sense": "the minimal coin value sufficient for kiddushin",
+    "definition": "A small copper coin representing the smallest unit of monetary value recognized in halakha, used as the minimum amount for certain transactions.",
+    "on_this_daf": "Beit Hillel set the minimum value for betrothal via kesef at one perutah (against Beit Shammai's dinar), and the mishnah fixes its worth as one-eighth of the Italian issar.",
+    "aliases": ["perutah", "פרוטה"],
+    "sections": ["s4"]
+  }
+]}

@@ -1,0 +1,1025 @@
+{
+ "daf": "Bekhorot 14",
+ "scope": {
+  "start": "13b: the baraita of the idol found among broken vessels bought from gentiles (mid-exchange on whether money or *meshikhah* acquires from a gentile)",
+  "end": "14b: the school of R. Yishmael's source for blemished offspring, which leaves Devarim 17:1 for the *bamat yachid*"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "The Idol in the Scrap: Money, Meshikhah, or Both from a Gentile?",
+   "amud": "13b",
+   "text": {
+    "from": "13b.7",
+    "to": "13b.14"
+   },
+   "gist": "Continuing the question of whether money or *meshikhah* acquires from a gentile, the Gemara tests a baraita that seems to need both. It reads the baraita four ways: Abaye's mistaken purchase, Rava's appearance of an idol in a Jew's hands, Rav Ashi's money-only reading and Ravina's *meshikhah*-only reading.",
+   "bullets": [
+    {
+     "text": "The discussion matters for the chapter's theme: a gentile's share in an animal exempts it from the firstborn obligation, so it matters how a gentile's ownership is transferred.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Rashi rules like the reading that money acquires from a gentile. Most Rishonim, Tosafot among them, rule that *meshikhah* does (as Ameimar held), and do not take this sugya's working-through of the money view as decisive.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "In practice this governs the sale of *chametz*, the transfer of land for *shemitah*, and selling part of an animal to a gentile to exempt it from the firstborn obligation. Common practice does both, money and *meshikhah*. It also adds a rental of the place where the item stands, since all agree a gentile acquires land with money.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "Whether *chalipin* (a symbolic barter, such as with a kerchief) works with a gentile is a further debate among the authorities.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "Four readings of the baraita of the idol among the broken vessels",
+    "columns": [
+     "",
+     "What acquires in the baraita",
+     "First clause: why he may return it",
+     "Latter clause: why he may not"
+    ],
+    "rows": [
+     [
+      "Abaye",
+      "*Meshikhah* (the gentile accepted Jewish law)",
+      "*Mekach ta'ut*: he didn't want the idol, and hadn't yet paid, so he hadn't inspected",
+      "No *mekach ta'ut* claim: once he paid, he should have inspected before pulling"
+     ],
+     [
+      "Rava",
+      "*Meshikhah* (the gentile accepted Jewish law)",
+      "Also a *mekach ta'ut*, and with no payment it doesn't look as if a Jew holds an idol",
+      "Also a *mekach ta'ut*, but once paid it looks as if a Jew holds an idol, so he casts it away"
+     ],
+     [
+      "Rav Ashi",
+      "Money (gentile law)",
+      "No money paid, so no sale; \"pulled\" is repeated wording",
+      "Money paid, so the idol is his"
+     ],
+     [
+      "Ravina",
+      "*Meshikhah* (the gentile accepted Jewish law)",
+      "He neither paid nor pulled; \"returns\" means reneging on his word",
+      "He pulled, so the idol is his"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The baraita's two cases (13b): pulled before paying, the buyer may return the idol; paid and then pulled, he may not return it and must cast it into the Dead Sea.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two scenes of a Jew buying broken gold and silver vessels from a gentile with an idol among them. Left: he pulled before paying and may return the idol. Right: he paid, then pulled, and may not return it but casts it into the Dead Sea.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Broken gold and silver vessels bought from a gentile, with an idol among them</text><rect x=\"15\" y=\"56\" width=\"425\" height=\"334\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"90\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">Pulled before paying</text><use href=\"#man\" x=\"40\" y=\"118\" width=\"60\" height=\"120\" style=\"color:#6A4F7A\"/><path d=\"M140 250 L160 224 L186 234 L208 216 L244 228 L266 218 L290 250 Z\" fill=\"#BFC5CC\"/><path d=\"M160 246 L176 232 L190 246 Z\" fill=\"#D4A94A\"/><path d=\"M252 246 L262 230 L276 246 Z\" fill=\"#D4A94A\"/><rect x=\"206\" y=\"214\" width=\"22\" height=\"6\" fill=\"#7A5A3A\"/><path d=\"M211 214 L211 194 Q217 186 223 194 L223 214 Z\" fill=\"#9A7440\"/><circle cx=\"217\" cy=\"186\" r=\"6\" fill=\"#9A7440\"/><text x=\"234\" y=\"196\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">idol</text><path d=\"M294 236 H318\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M318 230 L328 236 L318 242 Z\" fill=\"#5B6478\"/><use href=\"#man\" x=\"330\" y=\"118\" width=\"60\" height=\"120\" style=\"color:#3E6FA8\"/><text x=\"70\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Gentile seller</text><text x=\"215\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">broken vessels</text><text x=\"360\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Buyer</text><use href=\"#mark-ok\" x=\"40\" y=\"298\" width=\"32\" height=\"32\"/><text x=\"84\" y=\"312\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">He may return the idol</text><text x=\"84\" y=\"331\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#24592E\">to the gentile</text><text x=\"227\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Pulled, but no money has changed hands</text><rect x=\"460\" y=\"56\" width=\"425\" height=\"334\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"90\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">Paid, then pulled</text><use href=\"#man\" x=\"485\" y=\"118\" width=\"60\" height=\"120\" style=\"color:#6A4F7A\"/><text x=\"622\" y=\"140\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">dinars paid</text><g fill=\"#E0B94A\" stroke=\"#9A7440\" stroke-width=\"2\"><circle cx=\"600\" cy=\"160\" r=\"9\"/><circle cx=\"622\" cy=\"160\" r=\"9\"/><circle cx=\"644\" cy=\"160\" r=\"9\"/></g><path d=\"M585 250 L605 224 L631 234 L653 216 L689 228 L711 218 L735 250 Z\" fill=\"#BFC5CC\"/><path d=\"M605 246 L621 232 L635 246 Z\" fill=\"#D4A94A\"/><path d=\"M697 246 L707 230 L721 246 Z\" fill=\"#D4A94A\"/><rect x=\"651\" y=\"214\" width=\"22\" height=\"6\" fill=\"#7A5A3A\"/><path d=\"M656 214 L656 194 Q662 186 668 194 L668 214 Z\" fill=\"#9A7440\"/><circle cx=\"662\" cy=\"186\" r=\"6\" fill=\"#9A7440\"/><text x=\"679\" y=\"196\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">idol</text><path d=\"M739 236 H763\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M763 230 L773 236 L763 242 Z\" fill=\"#5B6478\"/><use href=\"#man\" x=\"775\" y=\"118\" width=\"60\" height=\"120\" style=\"color:#3E6FA8\"/><text x=\"515\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Gentile seller</text><text x=\"660\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">broken vessels</text><text x=\"805\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Buyer</text><use href=\"#mark-no\" x=\"485\" y=\"298\" width=\"32\" height=\"32\"/><text x=\"529\" y=\"312\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">He may not return it:</text><text x=\"529\" y=\"331\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#8C2F2F\">he casts it into the Dead Sea</text><text x=\"672\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Money paid before he pulled</text><text x=\"450\" y=\"420\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Bekhorot 13b · the baraita that Abaye, Rava, Rav Ashi and Ravina each explain</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "The Baraita: Pulled Before or After Paying, and a Jewish-Law Stipulation",
+     "amud": "13b",
+     "text": {
+      "from": "13b.7",
+      "to": "13b.8"
+     },
+     "gist": "A baraita about an idol found among broken vessels bought from gentiles seems to need both money and *meshikhah*. The Gemara first explains it as a gentile who accepted Jewish law, so that pulling decides.",
+     "bullets": [
+      {
+       "text": "The Gemara brings an objection to the view that money acquires from a gentile. Baraita: one who buys broken gold or silver vessels from gentiles finds an idol among them. If he pulled it before paying, he may return it. If he pulled after paying, he may not return it, and must cast it into the Dead Sea.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Once the idol is his, he may not profit from it, so it must be destroyed rather than returned for his money.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "If money acquires, why mention pulling? Answer: the gentile had accepted that the transaction be judged by Jewish law.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Then why mention money, since pulling alone should suffice? Answer: the baraita means that even though he paid, it depends on pulling. If he pulled, he acquired; if not, he didn't.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The difficulty is that the baraita seems to require both payment and *meshikhah*, which fits neither simple view.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "First Clause: Why May He Return What He Pulled?",
+     "amud": "13b",
+     "text": {
+      "from": "13b.9",
+      "to": "13b.11"
+     },
+     "gist": "In the first clause the buyer pulled without paying and may still return the idol. Abaye calls it a *mekach ta'ut*, Rava places the difference in how it looks, and Abaye defends his line.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s4",
+       "title": "Abaye: A Mekach Ta'ut, and Rava's Objection",
+       "amud": "13b",
+       "text": {
+        "from": "13b.9",
+        "to": "13b.9"
+       },
+       "gist": "Abaye explains the return as a mistaken purchase; Rava objects that the latter clause is just as mistaken.",
+       "bullets": [
+        {
+         "text": "The difficulty: in the first clause he pulled before paying and may still return the idol, so pulling alone seems not to acquire.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Abaye: the first clause is a *mekach ta'ut*, since the buyer never wanted to buy the idol.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rava objects: then the latter clause is a *mekach ta'ut* too, since he doesn't want the idol in either case.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s5",
+       "title": "Rava: Both Mistaken; Payment Makes It Look Like a Jew's Idol",
+       "amud": "13b",
+       "text": {
+        "from": "13b.10",
+        "to": "13b.10"
+       },
+       "gist": "For Rava both clauses are mistaken purchases. What differs is whether it appears that an idol is in a Jew's possession.",
+       "bullets": [
+        {
+         "text": "Rava: both clauses are a *mekach ta'ut*. Where he hasn't paid the dinars, it doesn't look as if an idol is in a Jew's possession, so he may return it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Where he has paid, it looks as if an idol is in a Jew's possession, so he must cast it away rather than return it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "For Rava, *meshikhah* acquires in both clauses. Money only decides how returning the idol looks: handing back a paid-for idol for a refund would look like selling an idol.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "A bystander could see the return in the first clause too. But with no payment, onlookers understand the deal was never completed. The Sages set a general rule aimed at the likeliest misreading.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s6",
+       "title": "Abaye's Reply: Having Paid, He Should Have Inspected",
+       "amud": "13b",
+       "text": {
+        "from": "13b.11",
+        "to": "13b.11"
+       },
+       "gist": "Abaye can keep his distinction: a buyer who has already paid is expected to inspect before pulling, so only the first clause is a mistaken purchase.",
+       "bullets": [
+        {
+         "text": "Abaye could answer: in the first clause he hadn't paid and so hadn't yet inspected, and the sale is mistaken.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "In the latter clause, once he paid he should have inspected before pulling. Since he didn't, the sale stands.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Tosafot: ordinarily, payment doesn't create a duty to inspect. Buying from a gentile is different, because the buyer should have considered that an idol might be among the goods. His claim of surprise is already weak, and payment tips it.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "If the risk were common and well known, there would be no *mekach ta'ut* claim at all, paid or not.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s7",
+     "title": "Rav Ashi vs. Ravina: One Mode of Acquisition in Both Clauses",
+     "amud": "13b",
+     "text": {
+      "from": "13b.12",
+      "to": "13b.14"
+     },
+     "gist": "Two more readings make the clauses consistent. For Rav Ashi only money acquires (gentile law). For Ravina only *meshikhah* does (Jewish law), and \"returns\" means reneging on a verbal commitment.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s8",
+       "title": "Rav Ashi: Money Acquires; 'Pulled' Is Repeated Wording",
+       "amud": "13b",
+       "text": {
+        "from": "13b.12",
+        "to": "13b.12"
+       },
+       "gist": "Under gentile law only money acquires. The latter clause mentions pulling only because the first clause did.",
+       "bullets": [
+        {
+         "text": "Rav Ashi: the baraita is a transaction under gentile law, where only money acquires. As for the difficulty raised against R. Oshaya's view (why mention pulling?), pulling is not in fact needed.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Pulling doesn't acquire in the first clause, and so it doesn't in the latter clause either. The first clause said \"pulled\" to show that it is ineffective, so the latter clause repeated the word.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "This is the simplest reading of the baraita, and it fits the view that money acquires between a Jew and a gentile.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s9",
+       "title": "Ravina: Meshikhah Acquires; 'Returns' Means Reneging on His Word",
+       "amud": "13b",
+       "text": {
+        "from": "13b.13",
+        "to": "13b.14"
+       },
+       "gist": "Under Jewish law pulling acquires in both clauses. The first clause is a buyer who did neither, and who may back out because *mechusar amanah* doesn't apply between a Jew and a gentile.",
+       "bullets": [
+        {
+         "text": "Ravina: the transaction is under Jewish law. Since pulling acquires in the latter clause, it does in the first clause too.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The first clause means he neither paid nor pulled. \"He returns\" means he reneges on his verbal commitment and need not complete the purchase.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The tanna had to say so because he holds that reneging on a verbal commitment is *mechusar amanah* (bad faith). That applies between Jews, who are assumed to keep their word.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "It doesn't apply when a Jew buys from gentiles: they are not assumed to keep their word, so neither side relies on the other's commitment.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "This assessment reflects the fraught relationship between Jewish communities and the surrounding authorities of that era. It is not a timeless claim about interpersonal ethics.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "title": "Mishnah: Blemished Before or After Consecration: Kedushat Damim or Kedushat Ha'guf",
+   "amud": "14a",
+   "text": {
+    "from": "14a.1",
+    "to": "14a.4"
+   },
+   "gist": "If the permanent blemish came first, only the animal's value is consecrated, and redemption frees it completely. If it was consecrated first, it keeps its restrictions even after redemption. Firstborn and animal tithe follow the stricter rule.",
+   "bullets": [],
+   "chart": {
+    "caption": "The Mishnah's two cases and their consequences",
+    "columns": [
+     "",
+     "Firstborn and priestly gifts after redemption",
+     "Shearing and labor after redemption",
+     "Offspring and milk after redemption",
+     "Slaughter outside the courtyard",
+     "*Temurah*",
+     "Died before redemption"
+    ],
+    "rows": [
+     [
+      "Blemish before consecration (*kedushat damim*)",
+      "Obligated",
+      "Permitted",
+      "Permitted",
+      "Exempt from *karet*",
+      "Does not take effect",
+      "Redeemed and fed to dogs"
+     ],
+     [
+      "Consecration before blemish (*kedushat ha'guf*)",
+      "Exempt",
+      "Forbidden",
+      "Forbidden (if conceived before redemption)",
+      "Liable to *karet*",
+      "Takes effect",
+      "Must be buried"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The Mishnah's two orders of events (14a): a blemish before consecration leaves only *kedushat damim*, which redemption removes entirely; consecration before the blemish gives *kedushat ha'guf*, which leaves restrictions after redemption.",
+    "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two timelines. Top: a permanent blemish, then consecration, then redemption, after which shearing, labor, offspring and milk are permitted. Bottom: consecration while unblemished, then a permanent blemish, then redemption, after which shearing, labor, offspring and milk remain forbidden.</title><rect width=\"900\" height=\"480\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"870\" height=\"200\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"35\" y=\"46\" text-anchor=\"start\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#5A2A12\">Blemished before consecration</text><text x=\"440\" y=\"46\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#7A4A2A\">קדם מום קבוע להקדשן</text><text x=\"580\" y=\"46\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5B6478\">After redemption:</text><rect x=\"35\" y=\"64\" width=\"155\" height=\"48\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#BFAE8E\"/><text x=\"112\" y=\"93\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Permanent blemish</text><path d=\"M192 88 H206\" stroke=\"#8A7560\" stroke-width=\"3\"/><path d=\"M206 83 L214 88 L206 93 Z\" fill=\"#8A7560\"/><rect x=\"214\" y=\"64\" width=\"155\" height=\"48\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#BFAE8E\"/><text x=\"291\" y=\"93\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Consecrated</text><path d=\"M371 88 H385\" stroke=\"#8A7560\" stroke-width=\"3\"/><path d=\"M385 83 L393 88 L385 93 Z\" fill=\"#8A7560\"/><rect x=\"393\" y=\"64\" width=\"155\" height=\"48\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#BFAE8E\"/><text x=\"470\" y=\"93\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Redeemed</text><text x=\"291\" y=\"140\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Only its value is consecrated: kedushat damim</text><text x=\"291\" y=\"166\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Slaughter outside: exempt from karet · temurah: no effect</text><text x=\"291\" y=\"186\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Died before redemption: redeemed and fed to dogs</text><use href=\"#mark-ok\" x=\"580\" y=\"62\" width=\"26\" height=\"26\"/><text x=\"614\" y=\"81\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Shearing and labor permitted</text><use href=\"#mark-ok\" x=\"580\" y=\"100\" width=\"26\" height=\"26\"/><text x=\"614\" y=\"119\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Offspring and milk permitted</text><text x=\"580\" y=\"160\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Its offspring can be a firstborn;</text><text x=\"580\" y=\"180\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">priestly gifts are owed</text><rect x=\"15\" y=\"235\" width=\"870\" height=\"200\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"35\" y=\"266\" text-anchor=\"start\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">Consecrated before the blemish</text><text x=\"440\" y=\"266\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#3A5692\">קדם הקדשן את מומן</text><text x=\"580\" y=\"266\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5B6478\">After redemption:</text><rect x=\"35\" y=\"284\" width=\"155\" height=\"48\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#9AA7BD\"/><text x=\"112\" y=\"305\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Consecrated</text><text x=\"112\" y=\"322\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">unblemished</text><path d=\"M192 308 H206\" stroke=\"#6A7890\" stroke-width=\"3\"/><path d=\"M206 303 L214 308 L206 313 Z\" fill=\"#6A7890\"/><rect x=\"214\" y=\"284\" width=\"155\" height=\"48\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#9AA7BD\"/><text x=\"291\" y=\"313\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Permanent blemish</text><path d=\"M371 308 H385\" stroke=\"#6A7890\" stroke-width=\"3\"/><path d=\"M385 303 L393 308 L385 313 Z\" fill=\"#6A7890\"/><rect x=\"393\" y=\"284\" width=\"155\" height=\"48\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#9AA7BD\"/><text x=\"470\" y=\"313\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Redeemed</text><text x=\"291\" y=\"360\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Its body is consecrated: kedushat ha’guf</text><text x=\"291\" y=\"386\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Slaughter outside: liable to karet · temurah takes effect</text><text x=\"291\" y=\"406\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Died before redemption: must be buried</text><use href=\"#mark-no\" x=\"580\" y=\"282\" width=\"26\" height=\"26\"/><text x=\"614\" y=\"301\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">Shearing and labor forbidden</text><use href=\"#mark-no\" x=\"580\" y=\"320\" width=\"26\" height=\"26\"/><text x=\"614\" y=\"339\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">Offspring and milk forbidden</text><text x=\"580\" y=\"380\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Its offspring is not a firstborn;</text><text x=\"580\" y=\"400\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">no priestly gifts</text><text x=\"450\" y=\"462\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Firstborn and animal tithe take the lower line’s sanctity even when the blemish came first</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s11",
+     "title": "First Case: Blemished First, Fully Freed by Redemption",
+     "amud": "14a",
+     "text": {
+      "from": "14a.1",
+      "to": "14a.2"
+     },
+     "gist": "A permanent blemish before consecration means only the value is consecrated. Once redeemed, the animal is entirely non-sacred, except that a firstborn or tithe animal is sanctified in its body even so.",
+     "bullets": [
+      {
+       "text": "Animals with a permanent blemish before consecration take only *kedushat damim*. Once redeemed, their offspring can be a firstborn, and the priestly gifts (foreleg, jaw and maw) are owed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "After redemption they become fully non-sacred: shearing and labor are permitted, and their offspring and milk are permitted.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "One who slaughters them outside the courtyard is exempt from *karet*, and *temurah* doesn't take effect with them. If they die before redemption, they are redeemed and fed to dogs, and need no burial.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Except the firstborn and the animal tithe: even if blemished before they became sacred, they take *kedushat ha'guf*, like offerings that became blemished after consecration.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This *kedushat damim* is for the altar: the proceeds must buy an offering. That sets it apart from a plain consecration for Temple maintenance.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Firstborn and tithe differ because their sanctity comes from a fact, birth or being counted tenth, not from a declaration. The Torah says the tenth is holy whether \"good or bad\".",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "Second Case: Consecrated First, Restricted Even After Redemption",
+     "amud": "14a",
+     "text": {
+      "from": "14a.3",
+      "to": "14a.4"
+     },
+     "gist": "An animal consecrated before its permanent blemish held *kedushat ha'guf*, so even after redemption it stays exempt from firstborn and gifts, barred from shearing and labor, and its offspring and milk are forbidden.",
+     "bullets": [
+      {
+       "text": "Animals consecrated before their permanent blemish, or with only a temporary blemish at consecration: after redemption their offspring is not a firstborn and no priestly gifts are owed. They are not freed for shearing and labor.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Their offspring conceived before redemption, and their milk, are forbidden after redemption.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "One who slaughters them outside the courtyard is liable to *karet*, and *temurah* takes effect with them. If they die before redemption, they may not be redeemed and fed to dogs; they must be buried.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The shearing and labor ban comes from \"*tizbach ve'lo gizah, ve'akhalta ve'lo avodah*\": slaughter and eat, but don't shear or work. The Sages read it as referring to redeemed, blemished offerings.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Liability for slaughter outside applies where the blemish is one, such as a cataract, that would not be removed from the altar once brought up. *Temurah* works only before redemption.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "title": "Before Redemption: Kedushat Damim Exempts from Firstborn and Bars Shearing",
+   "amud": "14a",
+   "text": {
+    "from": "14a.5",
+    "to": "14a.7"
+   },
+   "gist": "Two inferences from \"once they were redeemed\": until then the animal is exempt from firstborn and gifts, and it may not be shorn or worked. The second either supports R. Eliezer or reflects a narrower decree.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s14",
+     "title": "Firstborn and Priestly Gifts: Kedushat Damim Suffices to Exempt",
+     "amud": "14a",
+     "text": {
+      "from": "14a.5",
+      "to": "14a.5"
+     },
+     "gist": "Since the obligation starts only at redemption, the tanna holds that even *kedushat damim* exempts from firstborn and gifts.",
+     "bullets": [
+      {
+       "text": "The obligations of firstborn and gifts apply because the animals were redeemed. Before redemption they are exempt.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the tanna holds that *kedushat damim* exempts from the firstborn obligation and from the priestly gifts.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The exemption doesn't depend on *kedushat ha'guf*; any sanctity still in place suffices.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Compare a donkey consecrated to Temple maintenance: its foal is exempt from *peter chamor*, though its sanctity has nothing to do with the altar.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "Shearing Before Redemption: Proof for R. Eliezer, or a Decree for Altar Animals?",
+     "amud": "14a",
+     "text": {
+      "from": "14a.6",
+      "to": "14a.7"
+     },
+     "gist": "The shearing ban seems to support R. Eliezer's view on Temple maintenance animals. The Sages answer that it may be a decree limited to altar animals, which can be confused with real offerings.",
+     "bullets": [
+      {
+       "text": "Redemption frees them for shearing and labor, so before redemption shearing and labor are forbidden.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This seems to support R. Eliezer: animals consecrated for Temple maintenance are forbidden for shearing and labor, and *kedushat damim* is like Temple maintenance sanctity.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Sages reject the proof. An altar animal with *kedushat damim* can be mistaken for an altar animal with *kedushat ha'guf*, so the Sages decreed against shearing and labor, lest one come to violate a Torah prohibition. For Temple maintenance animals no such decree was issued.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why forbid shearing at all? The ban comes from the verse about offerings, and this animal isn't one; the Temple could even profit from its wool.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The owner tried to make it an offering, and its proceeds must buy one. *Kedushat damim* for the altar is a middle ground, far likelier to be confused with an offering than a plain Temple maintenance gift.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The Sages' reply to the proof for R. Eliezer (14a): an altar animal with *kedushat damim* looks like a real offering, so shearing and labor were forbidden by decree; no such decree was issued for Temple maintenance animals.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a lamb blemished before consecration beside an unblemished offering, which can be confused with each other, so shearing and labor are forbidden by decree. Right: a lamb consecrated for Temple maintenance, for which no such decree was issued.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"560\" height=\"370\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"295\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#5A2A12\">Consecrated for the altar</text><use href=\"#lamb\" x=\"50\" y=\"100\" width=\"150\" height=\"105\"/><use href=\"#lamb\" x=\"380\" y=\"100\" width=\"150\" height=\"105\"/><text x=\"290\" y=\"140\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">can be confused</text><path d=\"M212 160 H368\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M212 154 L202 160 L212 166 Z\" fill=\"#5B6478\"/><path d=\"M368 154 L378 160 L368 166 Z\" fill=\"#5B6478\"/><text x=\"125\" y=\"228\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Blemished before</text><text x=\"125\" y=\"246\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">consecration</text><text x=\"125\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" font-style=\"italic\" fill=\"#5B6478\">kedushat damim</text><text x=\"455\" y=\"228\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Unblemished offering</text><text x=\"455\" y=\"246\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" font-style=\"italic\" fill=\"#5B6478\">kedushat ha’guf</text><use href=\"#mark-no\" x=\"60\" y=\"300\" width=\"30\" height=\"30\"/><text x=\"102\" y=\"314\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">The Sages’ decree: no shearing or labor</text><text x=\"102\" y=\"334\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#8C2F2F\">before redemption, lest one confuse the two</text><rect x=\"590\" y=\"15\" width=\"295\" height=\"370\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"737\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">For Temple maintenance</text><use href=\"#lamb\" x=\"662\" y=\"100\" width=\"150\" height=\"105\"/><text x=\"737\" y=\"228\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Consecrated for</text><text x=\"737\" y=\"246\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Temple maintenance</text><text x=\"737\" y=\"314\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5B6478\">No such decree</text><text x=\"737\" y=\"334\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">so the Mishnah is no proof</text><text x=\"737\" y=\"352\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">for R. Eliezer’s view</text><text x=\"450\" y=\"406\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Bekhorot 14a · why an unredeemed animal blemished before consecration may not be shorn</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "title": "Offspring and Milk: When Conceived, When Born, Redeemed Without a Blemish?",
+   "amud": "14a–14b",
+   "text": {
+    "from": "14a.8",
+    "to": "14b.3"
+   },
+   "gist": "Three steps: the Mishnah's case is an offspring conceived before redemption and born after; one born before is redeemed without needing a blemish; and by contrast an unblemished male consecrated for its value takes *kedushat ha'guf* (Rava).",
+   "bullets": [],
+   "illustration": {
+    "caption": "The offspring of a mother blemished before consecration (14a): conceived and born after redemption is obviously permitted; conceived before and born after is the Mishnah's case; born before redemption, it is forbidden until redeemed.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A vertical line marks the mother's redemption. Three offspring are shown by when they were conceived and born: both after, permitted; conceived before and born after, permitted; both before, forbidden until redeemed.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\">A mother blemished before consecration: when may her offspring be used?</text><text x=\"260\" y=\"76\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5B6478\">Before redemption</text><text x=\"585\" y=\"76\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5B6478\">After redemption</text><text x=\"790\" y=\"76\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5B6478\">Offspring</text><line x1=\"470\" y1=\"88\" x2=\"470\" y2=\"350\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><text x=\"470\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Redemption</text><line x1=\"700\" y1=\"88\" x2=\"700\" y2=\"350\" stroke=\"#C9C1B2\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><line x1=\"540\" y1=\"140\" x2=\"650\" y2=\"140\" stroke=\"#9A6212\" stroke-width=\"3\"/><circle cx=\"540\" cy=\"140\" r=\"7\" fill=\"#FBF8F1\" stroke=\"#9A6212\" stroke-width=\"3\"/><circle cx=\"650\" cy=\"140\" r=\"7\" fill=\"#9A6212\"/><text x=\"540\" y=\"124\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">conceived</text><text x=\"650\" y=\"124\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">born</text><use href=\"#mark-ok\" x=\"722\" y=\"124\" width=\"28\" height=\"28\"/><text x=\"758\" y=\"138\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Permitted</text><text x=\"758\" y=\"156\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">obvious</text><line x1=\"330\" y1=\"230\" x2=\"620\" y2=\"230\" stroke=\"#9A6212\" stroke-width=\"3\"/><circle cx=\"330\" cy=\"230\" r=\"7\" fill=\"#FBF8F1\" stroke=\"#9A6212\" stroke-width=\"3\"/><circle cx=\"620\" cy=\"230\" r=\"7\" fill=\"#9A6212\"/><text x=\"330\" y=\"214\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">conceived</text><text x=\"620\" y=\"214\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">born</text><use href=\"#mark-ok\" x=\"722\" y=\"214\" width=\"28\" height=\"28\"/><text x=\"758\" y=\"228\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Permitted</text><text x=\"758\" y=\"246\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">the Mishnah’s case</text><line x1=\"180\" y1=\"320\" x2=\"380\" y2=\"320\" stroke=\"#9A6212\" stroke-width=\"3\"/><circle cx=\"180\" cy=\"320\" r=\"7\" fill=\"#FBF8F1\" stroke=\"#9A6212\" stroke-width=\"3\"/><circle cx=\"380\" cy=\"320\" r=\"7\" fill=\"#9A6212\"/><text x=\"180\" y=\"304\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">conceived</text><text x=\"380\" y=\"304\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">born</text><use href=\"#mark-no\" x=\"722\" y=\"304\" width=\"28\" height=\"28\"/><text x=\"758\" y=\"318\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Forbidden</text><text x=\"758\" y=\"336\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#8C2F2F\">until redeemed</text><text x=\"450\" y=\"398\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Born before redemption, it is redeemed without a blemish, like its mother:</text><text x=\"450\" y=\"416\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">the subsidiary sanctity may not be stricter than the primary</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s17",
+     "title": "Conceived Before Redemption, Born After",
+     "amud": "14a",
+     "text": {
+      "from": "14a.8",
+      "to": "14a.9"
+     },
+     "gist": "Offspring conceived and born after redemption are obviously permitted, so the Mishnah means conceived before and born after. By inference, one born before redemption is forbidden until redeemed.",
+     "bullets": [
+      {
+       "text": "If the mother conceived and gave birth after redemption, the offspring is obviously permitted, since it was non-sacred from conception.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the Mishnah means conceived before redemption and born after: the offspring is permitted though conceived while its mother was consecrated.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Inference: if born before the redemption, the offspring is forbidden until it is redeemed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Redeeming the mother removes the sanctity from the fetus along with her.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s18",
+     "title": "Redeeming the Offspring of Kedushat Damim: No Blemish Needed",
+     "amud": "14b",
+     "text": {
+      "from": "14b.1",
+      "to": "14b.2"
+     },
+     "gist": "Offspring of a *kedushat ha'guf* animal need a blemish before redemption. A baraita rules that offspring of an animal with *kedushat damim* need none, since the subsidiary is not stricter than the primary.",
+     "bullets": [
+      {
+       "text": "The offspring of an animal with *kedushat ha'guf* is born sanctified and can't be redeemed until it develops a blemish. The Gemara asks about the offspring of an animal with *kedushat damim*: may it be redeemed unblemished?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Baraita: one who consecrates permanently blemished animals for the altar, and they gave birth: the offspring are sold without needing a blemish.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The reason: sanctity does not take effect on them, and the subsidiary should not be stricter than the primary. The mother can be redeemed at once, so the offspring can too.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "Unblemished Male Consecrated for Its Value: Rava's Kedushat Ha'guf",
+     "amud": "14b",
+     "text": {
+      "from": "14b.3",
+      "to": "14b.3"
+     },
+     "gist": "The offspring escape altar sanctity only because theirs derives from a blemished mother. Without such a limit, an unblemished male consecrated for its value takes *kedushat ha'guf*, as Rava says.",
+     "bullets": [
+      {
+       "text": "The baraita's reason implies that the offspring lack altar sanctity only because theirs derives from the mother. Where there is no such derived sanctity, as when one consecrates an unblemished male for its value, it takes *kedushat ha'guf*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This supports Rava: one who consecrates a male animal for its value, it is sanctified with *kedushat ha'guf*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The animal is fit for the altar and nothing limits its sanctity, so it becomes an offering itself rather than being sold to buy one.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Rashi limits the rule to value consecrated for the altar, where the aim is to buy an offering. A consecration purely for Temple maintenance would not become *kedushat ha'guf*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s20",
+   "title": "Slaughter Outside: R. Elazar Reads 'Liable,' on a Bamat Yachid",
+   "amud": "14b",
+   "text": {
+    "from": "14b.4",
+    "to": "14b.13"
+   },
+   "gist": "R. Elazar reads the Mishnah as imposing liability for offering a blemished animal on a *bamat yachid*, based on Devarim 17:1. The Gemara tests the verse against four other possible uses: firstborn, animal tithe, *temurah* and offspring.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The Gemara's search for the teaching of Devarim 17:1 (14b): regular offerings, firstborn, animal tithe, *temurah* and offspring each already have a source barring them from the altar when blemished, so the verse teaches R. Elazar's *bamat yachid*.",
+    "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>The verse Devarim 17:1 at the top, connected to six cases. Five, regular offerings, firstborn, animal tithe, temurah and offspring, are already taught elsewhere. The sixth, the bamat yachid, is what the verse teaches: a blemished animal is forbidden there.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"250\" y=\"20\" width=\"400\" height=\"86\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"450\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">Devarim 17:1</text><text x=\"450\" y=\"86\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#3A5692\">לא תזבח לה׳ אלהיך שור ושה אשר יהיה בו מום</text><g stroke=\"#B8B0A0\" stroke-width=\"2\" stroke-dasharray=\"5 5\" fill=\"none\"><path d=\"M450 106 L82 160\"/><path d=\"M450 106 L229 160\"/><path d=\"M450 106 L376 160\"/><path d=\"M450 106 L523 160\"/><path d=\"M450 106 L670 160\"/></g><path d=\"M450 106 L817 160\" stroke=\"#1B3A8A\" stroke-width=\"3\" fill=\"none\"/><g fill=\"#FFFFFF\" stroke=\"#D9CFBD\" stroke-width=\"2\"><rect x=\"15\" y=\"160\" width=\"135\" height=\"140\" rx=\"10\"/><rect x=\"162\" y=\"160\" width=\"135\" height=\"140\" rx=\"10\"/><rect x=\"309\" y=\"160\" width=\"135\" height=\"140\" rx=\"10\"/><rect x=\"456\" y=\"160\" width=\"135\" height=\"140\" rx=\"10\"/><rect x=\"603\" y=\"160\" width=\"135\" height=\"140\" rx=\"10\"/></g><rect x=\"750\" y=\"160\" width=\"135\" height=\"140\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"82\" y=\"188\">Regular</text><text x=\"82\" y=\"206\">offerings</text><text x=\"229\" y=\"188\">Firstborn</text><text x=\"376\" y=\"188\">Animal tithe</text><text x=\"523\" y=\"188\">Temurah</text><text x=\"670\" y=\"188\">Offspring</text><text x=\"817\" y=\"188\" fill=\"#1B3A8A\">Bamat yachid</text></g><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"82\" y=\"232\">Vayikra 22:22</text><text x=\"229\" y=\"232\">Devarim 15:19–21</text><text x=\"376\" y=\"232\">gezerah shavah:</text><text x=\"376\" y=\"250\">“passing”</text><text x=\"523\" y=\"232\">“it and its</text><text x=\"523\" y=\"250\">substitute”</text><text x=\"523\" y=\"268\">Vayikra 27:10</text><text x=\"670\" y=\"232\">school of</text><text x=\"670\" y=\"250\">R. Yishmael</text><text x=\"670\" y=\"268\">Devarim 12:26</text><text x=\"817\" y=\"218\">a blemished</text><text x=\"817\" y=\"236\">animal there is</text></g><use href=\"#mark-no\" x=\"772\" y=\"254\" width=\"24\" height=\"24\"/><text x=\"802\" y=\"271\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">forbidden</text><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"82\" y=\"324\">already taught</text><text x=\"229\" y=\"324\">already taught</text><text x=\"376\" y=\"324\">already taught</text><text x=\"523\" y=\"324\">already taught</text><text x=\"670\" y=\"324\">already taught</text></g><text x=\"817\" y=\"324\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">the verse’s case</text><text x=\"670\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">R. Zeira asks; Rava answers</text><text x=\"450\" y=\"398\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Each alternative already has its own source, so the verse is left for R. Elazar’s bamat yachid</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s21",
+     "title": "R. Elazar: Devarim 17:1 Speaks of the Bamat Yachid",
+     "amud": "14b",
+     "text": {
+      "from": "14b.4",
+      "to": "14b.5"
+     },
+     "gist": "Where the Mishnah says \"exempt,\" R. Elazar teaches \"liable\": lashes for offering a blemished animal on a *bamat yachid*, since the public altar is covered by a different verse.",
+     "bullets": [
+      {
+       "text": "The Mishnah says one who slaughters them outside is exempt. R. Elazar teaches \"liable\" instead, and refers the Mishnah to a *bamat yachid*, a private altar: not *karet* for slaughter outside, but lashes for offering a blemished animal there.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Elazar's source: \"You shall not sacrifice to the Lord an ox or a sheep in which is a blemish\" (Devarim 17:1). The great public altar is already covered by \"Blind or broken… you shall not sacrifice these\" (Vayikra 22:22). So the verse applies to a *bamat yachid*, at a time when such altars were permitted.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s22",
+     "title": "Four Other Uses for the Verse: Firstborn, Animal Tithe, Temurah, Offspring",
+     "amud": "14b",
+     "text": {
+      "from": "14b.6",
+      "to": "14b.13"
+     },
+     "gist": "Each proposed alternative is a sanctity that takes hold despite a blemish, so one might think it can be offered blemished. Each turns out to have its own source keeping it off the altar.",
+     "bullets": [
+      {
+       "text": "Across all four cases the same principle emerges: sanctity that takes hold despite a blemish still can't be offered while the animal is blemished. Being holy and being fit to offer are separate questions.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s11",
+       "note": "Builds on the Mishnah's exception: firstborn and animal tithe are sanctified even when blemished first."
+      }
+     ],
+     "chart": {
+      "caption": "Why each case might have needed Devarim 17:1, and where it is already taught",
+      "columns": [
+       "Case",
+       "Raised by",
+       "Why one might think it may be offered blemished",
+       "Where its exclusion is already taught"
+      ],
+      "rows": [
+       [
+        "Firstborn",
+        "The Gemara",
+        "Sanctified even with a permanent blemish",
+        "Explicit: \"lameness or blindness… you shall not sacrifice it\" (Devarim 15:19–21)"
+       ],
+       [
+        "Animal tithe",
+        "The Gemara",
+        "Sacred even blemished: \"he shall not inquire whether it be good or bad\" (Vayikra 27:33)",
+        "*Gezerah shavah* on \"passing\" from the firstborn"
+       ],
+       [
+        "*Temurah*",
+        "The Gemara",
+        "Takes sanctity even when blemished (Vayikra 27:10)",
+        "\"It and its substitute shall be holy\": compared to the original"
+       ],
+       [
+        "Offspring of offerings",
+        "R. Zeira (answered by Rava)",
+        "Sacred even blemished, on account of the mother",
+        "School of R. Yishmael: \"your sacred items… and your vows\" (Devarim 12:26)"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s23",
+       "title": "Firstborn: Its Own Explicit Verse",
+       "amud": "14b",
+       "text": {
+        "from": "14b.6",
+        "to": "14b.7"
+       },
+       "gist": "A firstborn is sanctified even when blemished, but Devarim 15 already says a blemished firstborn is not offered.",
+       "bullets": [
+        {
+         "text": "Objection: apply the verse to a firstborn. Since it is sanctified even when permanently blemished, one might think it may also be offered blemished.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: for the firstborn it is explicit: \"if there be any blemish therein, lameness or blindness… you shall not sacrifice it\" (Devarim 15:19–21).",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s24",
+       "title": "Animal Tithe: A Gezerah Shavah from the Firstborn",
+       "amud": "14b",
+       "text": {
+        "from": "14b.8",
+        "to": "14b.9"
+       },
+       "gist": "The tithe is holy \"good or bad,\" but \"passing\" links it to the firstborn, which is not offered blemished.",
+       "bullets": [
+        {
+         "text": "Objection: apply it to the animal tithe, which is sacred even when blemished: \"he shall not inquire whether it be good or bad\" (Vayikra 27:33).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: a *gezerah shavah* links \"passing\" said of the tithe (Vayikra 27:32) with \"passing\" said of the firstborn (Shemot 13:12). As a blemished firstborn isn't offered, neither is a blemished tithe animal.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s25",
+       "title": "Temurah: Compared to the Original",
+       "amud": "14b",
+       "text": {
+        "from": "14b.10",
+        "to": "14b.11"
+       },
+       "gist": "A *temurah* becomes sacred even when blemished, but \"it and its substitute\" puts it on a par with the original offering.",
+       "bullets": [
+        {
+         "text": "Objection: apply it to a *temurah*, which becomes sacred even when blemished: \"a good for a bad, or a bad for a good… both it and that for which it is substituted shall be holy\" (Vayikra 27:10).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: \"it and that for which it is substituted\" compares the *temurah* to the original. As the original isn't offered blemished, neither is the *temurah*.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s26",
+       "title": "Offspring: R. Zeira's Objection, Rava's Answer from the School of R. Yishmael",
+       "amud": "14b",
+       "text": {
+        "from": "14b.12",
+        "to": "14b.13"
+       },
+       "gist": "R. Zeira proposes blemished offspring of offerings. Rava answers from Devarim 12:26, which equates them with vowed offerings, so Devarim 17:1 is left for the *bamat yachid*.",
+       "bullets": [
+        {
+         "text": "R. Zeira objects: apply the verse to offspring of offerings. They are sacred even when blemished, on account of their mother, so one might think they may be offered blemished.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rava: the school of R. Yishmael derived it from \"Only your sacred items which you have, and your vows\" (Devarim 12:26). \"Your sacred items\" are *temurot*, \"which you have\" are offspring, and \"your vows\" likens them to a vowed offering, which is not offered blemished.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So Devarim 17:1 must refer to the *bamat yachid*, as R. Elazar says.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ],
+   "continues": "The Gemara continues through the Mishnah's clauses on 14b: why an animal blemished before consecration doesn't make a *temurah* sacred, and why it may be redeemed after death (Rav: this is R. Shimon's view)."
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "meshikhah",
+   "hebrew": "משיכה",
+   "sense": "acquisition by pulling a movable object",
+   "definition": "A formal act of acquisition in which the buyer pulls or draws a movable object into his possession. Under rabbinic law it, rather than payment, completes a sale of movables between Jews.",
+   "on_this_daf": "The Gemara asks whether *meshikhah* or money acquires between a Jew and a gentile, reading a baraita about an idol found among broken vessels four ways.",
+   "aliases": [
+    "Meshikhah",
+    "meshikhah"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s5",
+    "s7",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "term": "mekach ta'ut",
+   "hebrew": "מקח טעות",
+   "sense": "a sale voidable for error",
+   "definition": "A transaction made under a basic mistake about what was sold, which the aggrieved party may cancel.",
+   "on_this_daf": "Abaye explains why the buyer may return the idol as a *mekach ta'ut*; Rava holds that both clauses are mistaken purchases, and Abaye replies that a buyer who has paid is expected to inspect.",
+   "aliases": [
+    "Mekach Ta'ut",
+    "mekach ta'ut"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "term": "mechusar amanah",
+   "hebrew": "מחוסר אמנה",
+   "sense": "bad faith in reneging on a verbal commitment",
+   "definition": "The moral fault of backing out of a verbal agreement that has no binding act of acquisition behind it. It is legally allowed but considered a breach of faith.",
+   "on_this_daf": "Ravina reads \"he returns\" as reneging on a verbal commitment, which the tanna counts as bad faith between Jews but not toward a gentile.",
+   "aliases": [
+    "mechusar amanah"
+   ],
+   "sections": [
+    "s9"
+   ]
+  },
+  {
+   "term": "kedushat damim",
+   "hebrew": "קדושת דמים",
+   "sense": "sanctity of an animal's monetary value",
+   "definition": "A consecration that attaches to an animal's value rather than to its body. The animal itself is not offered; it is redeemed or sold and the money goes to its sacred purpose.",
+   "on_this_daf": "An animal blemished before consecration takes only *kedushat damim*. Before redemption this still exempts it from the firstborn obligation and bars shearing, and its offspring may be redeemed without a blemish.",
+   "aliases": [
+    "Kedushat Damim",
+    "kedushat damim"
+   ],
+   "sections": [
+    "s10",
+    "s11",
+    "s13",
+    "s14",
+    "s15",
+    "s16",
+    "s18",
+    "s19"
+   ]
+  },
+  {
+   "term": "kedushat ha'guf",
+   "hebrew": "קדושת הגוף",
+   "sense": "inherent sanctity of the animal's body",
+   "definition": "A consecration that attaches to the animal itself, making it an offering for the altar. It is not removed by redemption alone, which requires a blemish and leaves residual restrictions.",
+   "on_this_daf": "An animal consecrated before its blemish, and a firstborn or tithe animal even if blemished first, has *kedushat ha'guf*. Rava holds that an unblemished male consecrated for its value takes it too.",
+   "aliases": [
+    "Kedushat Ha'guf",
+    "kedushat ha'guf"
+   ],
+   "sections": [
+    "s10",
+    "s11",
+    "s12",
+    "s14",
+    "s15",
+    "s18",
+    "s19"
+   ]
+  },
+  {
+   "term": "temurah",
+   "hebrew": "תמורה",
+   "sense": "substituting one animal for a consecrated one",
+   "definition": "Declaring an unconsecrated animal a substitute for a consecrated one. It is forbidden, yet the substitute becomes sacred along with the original.",
+   "on_this_daf": "*Temurah* does not take effect with an animal blemished before consecration, but does with one consecrated first. A blemished *temurah* can't be offered, because the verse compares it to the original.",
+   "aliases": [
+    "Temurah",
+    "temurah"
+   ],
+   "sections": [
+    "s10",
+    "s11",
+    "s12",
+    "s20",
+    "s22",
+    "s25"
+   ]
+  },
+  {
+   "term": "bamat yachid",
+   "hebrew": "במת יחיד",
+   "sense": "a private altar",
+   "definition": "An altar built by an individual for his own offerings, permitted in the periods before the Temple when private altars were allowed.",
+   "on_this_daf": "R. Elazar reads the Mishnah as imposing lashes for offering a blemished animal on a *bamat yachid*, based on Devarim 17:1, and the Gemara defends that reading of the verse.",
+   "aliases": [
+    "Bamat Yachid",
+    "bamat yachid"
+   ],
+   "sections": [
+    "s20",
+    "s21",
+    "s22",
+    "s26"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The four readings of the baraita are grouped in two: the first-clause debate between Abaye and Rava (s3) and the two consistency readings of Rav Ashi and Ravina (s7). A flat list of four sibling readings was also reasonable. The grouping follows the text, where Abaye's reply (13b.11) belongs to the Abaye–Rava exchange.",
+  "The shiur's halakhic summary (Rashi vs. most Rishonim, chametz/shemitah/firstborn practice) has no corresponding Gemara line, so it is placed as shiur bullets on the parent section s1 rather than as a separate section.",
+  "The Mishnah is split into its two cases (s11, s12). The firstborn and tithe exception stays in the first case, where it falls in the text, rather than getting its own child.",
+  "14a.5 and 14a.6–7 are grouped as the two 'before redemption' inferences (s13). The alternative was a separate top-level section for each Mishnah clause the Gemara analyzes.",
+  "Rava's ruling on an unblemished male consecrated for its value (14b.3) is kept under the offspring discussion, because the Gemara derives it by contrast with the baraita's reasoning. It could stand as its own top-level section.",
+  "The four challenges to R. Elazar's verse are nested as children of s22 under s20, with a chart. Flattening them into bullets of s20 was also possible, but each has its own challenge and source.",
+  "s22 carries a returns_to link to the Mishnah's firstborn/tithe exception (s11). That is a thematic link rather than an explicit return, and it could be omitted."
+ ],
+ "coverage_notes": [
+  "Lines 13b.7–13b.14 are covered at the start of this shiur (the previous essay tail ended with Ameimar and ona'ah); the essay material is used there, so no section is flagged Gemara text only.",
+  "The essay calls the scrap-metal source a mishnah in Avodah Zarah; the text calls it a baraita. Followed the text.",
+  "The essay's account of 13b.8 is garbled: it says 'even the beginning involves meshicha… the transaction takes effect but the buyer may still withdraw.' The text: the gentile accepted Jewish law; even though money was paid, acquisition depends on pulling; then the first clause is difficult (13b.9). Followed the text.",
+  "The essay attributes the view that Temple maintenance animals are forbidden in shearing and labor to 'Rabbi Elazar'; the text (14a.6) has R. Eliezer. Followed the text.",
+  "The essay attributes the private-altar reading to 'Rabbi Eliezer' and frames it as a dissent from the Mishnah's majority. The text (14b.4–5) has R. Elazar, who teaches the Mishnah itself as 'liable' and refers it to a private altar. Followed the text.",
+  "The essay says 'Rav Zevid' raises the offspring case and 'the Gemara responds.' The text: R. Zeira objects and Rava answers from the school of R. Yishmael. Followed the text.",
+  "The essay's halakhic summary is internally inconsistent about which mode most Rishonim adopt and why (it also says the sugya acknowledged Abaye as a minority view). The outline gives only the consistent core: Rashi follows money, most Rishonim including Tosafot follow meshikhah (as Ameimar held, in line with the previous shiur), and practice does both.",
+  "The donkey/peter chamor example, Tosafot on inspection, and Rashi's limit on Rava are the lecturer's material and are marked as shiur.",
+  "The essay's Mishnah overview discusses the temurah and died-before-redemption rulings in detail; the Gemara's treatment of those clauses (14b.14–14b.19 and into 15a) falls outside this outline's scope.",
+  "The essay's remark that this Mishnah also appears in Chullin and is treated at length in Temurah is not included."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s15",
+    "subject": "R. Eliezer vs. the Sages' reply on shearing Temple maintenance animals",
+    "why_not": "The Sages only deflect the proof without ruling otherwise, so a grid would overstate a disagreement."
+   },
+   {
+    "section": "s16",
+    "subject": "Offspring by time of conception and birth relative to redemption",
+    "why_not": "Three simple cases on a single timeline; drawn as an illustration instead."
+   },
+   {
+    "section": "s21",
+    "subject": "The Mishnah's 'exempt' vs. R. Elazar's 'liable'",
+    "why_not": "Only two readings along one dimension; the bullets carry it."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s22",
+    "subject": "The four challenges and their sources",
+    "why_not": "Already shown in the s20 picture of Devarim 17:1 and its candidate cases."
+   },
+   {
+    "section": "s9",
+    "subject": "Reneging on a verbal commitment between Jews vs. with a gentile",
+    "why_not": "An abstract distinction with no physical scene; a picture would add nothing."
+   },
+   {
+    "section": "s19",
+    "subject": "An unblemished male consecrated for its value becoming an offering",
+    "why_not": "Hard to show beyond a labeled animal; the contrast is conceptual."
+   },
+   {
+    "section": "s6",
+    "subject": "Inspecting the goods after paying",
+    "why_not": "Would largely repeat the s1 scene of the two cases."
+   }
+  ]
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "daf": "Sanhedrin 6b",
+ "key_terms": [
+  {
+   "term": "peshara / bitzua",
+   "hebrew": "פשרה / ביצוע",
+   "sense": "judicial mediation/compromise between litigants",
+   "definition": "A settlement between litigants that splits the difference or otherwise satisfies both sides, arranged by a judge instead of, or alongside, a strict legal verdict.",
+   "on_this_daf": "The Tosefta records four tannaitic positions on whether mediation is forbidden, a mitzva, permitted only before the verdict's direction is clear, or a form of judgment requiring three judges like din.",
+   "aliases": [
+    "bitzua",
+    "peshara",
+    "compromise",
+    "mediate",
+    "mediation"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s5",
+    "s6",
+    "s9",
+    "s15",
+    "s16",
+    "s17"
+   ]
+  },
+  {
+   "term": "gmar din",
+   "hebrew": "גמר דין",
+   "sense": "the finalized verdict that ends the possibility of mediation",
+   "definition": "The point at which a court's judgment is formally concluded and pronounced, after which the ruling is binding and cannot be altered or replaced by settlement.",
+   "on_this_daf": "The Gemara defines gmar din as the judge's declaration 'you are liable, you are exonerated,' the moment after which no view permits mediation.",
+   "aliases": [
+    "gmar din",
+    "verdict",
+    "Nigmar HaDin"
+   ],
+   "sections": [
+    "s2",
+    "s9",
+    "s15",
+    "s16"
+   ]
+  },
+  {
+   "term": "yikov hadin et hahar",
+   "hebrew": "יקוב הדין את ההר",
+   "sense": "the principle that strict law must prevail regardless of consequences",
+   "definition": "A maxim meaning that the correct legal verdict must be carried out even at great cost, since judgment belongs to God and may not be compromised for the sake of convenience or peace.",
+   "on_this_daf": "R. Eliezer b. R. Yosei HaGelili attributes this position to Moshe as the reason mediation is forbidden, contrasted with Aharon's pursuit of peace.",
+   "aliases": [
+    "yikov hadin et hahar"
+   ],
+   "sections": [
+    "s3"
+   ]
+  },
+  {
+   "term": "shikul ha-da'at",
+   "hebrew": "שיקול הדעת",
+   "sense": "an error in judicial deliberation between unsettled opinions",
+   "definition": "A mistaken ruling that results not from ignorance of a clear, settled halakha (which invalidates the ruling and requires retrial) but from following one of two disputed opinions against the accepted practice.",
+   "on_this_daf": "Rav Safra and Rav Pappa define this category to explain why a single judge's erroneous ruling still stands, though he must pay from his own pocket.",
+   "aliases": [
+    "shikul hada'at",
+    "שיקול הדעת"
+   ],
+   "sections": []
+  },
+  {
+   "term": "din bishlosha",
+   "hebrew": "דין בשלושה",
+   "sense": "the requirement of a three-judge court for monetary judgment",
+   "definition": "The rule that adjudication of monetary cases requires a panel of at least three judges; a smaller court's ruling is invalid unless the litigants accepted it upon themselves.",
+   "on_this_daf": "The dispute over whether peshara requires three judges, two, or even one turns on whether mediation is equated to formal judgment, which itself requires three.",
+   "aliases": [
+    "דין בשלושה",
+    "three judges"
+   ],
+   "sections": [
+    "s2"
+   ]
+  },
+  {
+   "term": "kinyan (for peshara)",
+   "hebrew": "קניין",
+   "sense": "formal act of acquisition finalizing a compromise",
+   "definition": "A formal transactional act (such as kinyan sudar) that transfers rights or obligations and gives binding legal force to an agreement.",
+   "on_this_daf": "Rav Ashi concludes that although the number of judges needed for peshara shows it need not require a kinyan, the halakha nonetheless is that a compromise does require one to take effect.",
+   "aliases": [
+    "קניין",
+    "act of acquisition"
+   ],
+   "sections": []
+  },
+  {
+   "term": "lo tagoru mipnei ish",
+   "hebrew": "לא תגורו מפני איש",
+   "sense": "the prohibition on a judge or witness withholding truth from fear",
+   "definition": "The Torah's command (Devarim 1:17) that a judge not fear any litigant when rendering judgment; it is extended to require witnesses and students to speak the truth without suppression.",
+   "on_this_daf": "This verse grounds Reish Lakish's rule that a judge may decline a difficult case only before its direction is clear, and grounds the student's and witness's duty to speak up.",
+   "aliases": [
+    "You shall not be afraid before any man",
+    "לא תגורו"
+   ],
+   "sections": [
+    "s10",
+    "s11",
+    "s12",
+    "s13"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,943 @@
+{
+ "daf": "Bekhorot 11",
+ "scope": {
+  "start": "10b: R. Yosei bar Yehuda's shekel minimum for the redemption lamb (opens mid-exchange, after the baraita on the doubled \"you shall redeem\")",
+  "end": "11b: the redemption lamb that dies stands in the priest's possession from the moment it is designated"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "The Redemption Lamb's Value: A Shekel Floor, Any Amount, or a *Ragya*",
+   "amud": "10b–11a",
+   "text": {
+    "from": "10b.31",
+    "to": "11a.6"
+   },
+   "gist": "Continuing the baraita on the doubled “you shall redeem”: three steps. R. Yosei bar Yehuda's shekel minimum and its source, the ruling that any amount works (even a lean lamb worth a *ma'a*), and R. Tarfon's scale of *sela*, *ragya* and shekel for one who asks.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The values the daf names for the lamb that redeems a *peter chamor*, from least to most. Rav Yosef's lean lamb is valid for one who acts on his own, and R. Tarfon's scale is the advice for one who consults (Bekhorot 10b–11a).",
+    "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Redemption lambs set out by value from left to right: a lean lamb worth a ma’a, then lambs worth a shekel, a ragya and a sela.</title><rect width='900' height='440' fill='#FBF8F1'/><text x='450' y='40' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='22' font-weight='600' fill='#1A1F2E'>How much must the redemption lamb be worth?</text><text x='450' y='64' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>Bekhorot 11a · Rav Yosef’s lean lamb and R. Tarfon’s scale</text><path d='M262 172 V160 H878 V172' fill='none' stroke='#9A6212' stroke-width='2'/><text x='570' y='148' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>R. Tarfon’s scale: advice for one who comes to consult</text><use href='#mark-ok' x='112' y='160' width='36' height='36'/><use href='#lamb' x='88' y='220' width='84' height='59'/><use href='#lamb' x='290' y='196' width='120' height='84'/><use href='#lamb' x='510' y='196' width='120' height='84'/><use href='#lamb' x='730' y='196' width='120' height='84'/><path d='M40 300 H860' stroke='#C9C1B2' stroke-width='2'/><path d='M874 300 l-14 -7 v14 z' fill='#C9C1B2'/><g fill='#8A7560'><circle cx='130' cy='300' r='5'/><circle cx='350' cy='300' r='5'/><circle cx='570' cy='300' r='5'/><circle cx='790' cy='300' r='5'/></g><text x='130' y='330' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Lean lamb, worth a ma’a</text><text x='130' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#5B6478'>Rav Yosef</text><text x='130' y='376' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>valid for one who acts</text><text x='130' y='394' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>on his own</text><text x='350' y='330' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Shekel · 2 dinars</text><text x='350' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#5B6478'>miserly disposition</text><text x='350' y='376' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>R. Yosei bar Yehuda:</text><text x='350' y='394' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1B3A8A'>the minimum</text><text x='570' y='330' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Ragya · 3 dinars</text><text x='570' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#5B6478'>intermediate disposition</text><text x='570' y='376' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>Rava: the halakha</text><text x='570' y='394' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#9A6212'>for one who consults</text><text x='790' y='330' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Sela · 4 dinars</text><text x='790' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#5B6478'>generous disposition</text><text x='450' y='426' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>Rav Nachman: the halakha follows the Rabbis, so even a lamb worth less than a shekel redeems</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "R. Yosei bar Yehuda's Shekel: From the Firstborn Son, or “All Your Valuations”?",
+     "amud": "10b–11a",
+     "text": {
+      "from": "10b.31",
+      "to": "11a.1"
+     },
+     "gist": "The Gemara presses R. Yosei bar Yehuda from both sides. Rava grounds his shekel in Vayikra 27:25, which the Rabbis confine to one who cannot afford a vowed valuation.",
+     "bullets": [
+      {
+       "text": "R. Yosei bar Yehuda, against the baraita's ruling that a *peter chamor* (firstborn donkey) may be redeemed for any amount: there is no redemption for less than a shekel.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge (*mima nafshakh*): if the verse compares the *peter chamor* to a woman's firstborn son, he should require a lamb worth five *sela*. If it doesn't compare them, where does a shekel come from?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The comparison to the firstborn son is exactly what the baraita's two derivations exclude. Otherwise one might have required waiting thirty days and paying five *sela*.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Answer: there is no comparison. Rava cites “And all your valuations shall be with the shekel of the Sanctuary” (Vayikra 27:25): no valuation you assess may be less than a shekel.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The fit is imperfect. A valuation goes to the Temple, while the lamb goes to a priest and has no sanctity. R. Yosei bar Yehuda sees enough of a shared structure of assessment and redemption.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The Rabbis: the verse is about affordability. One who vowed a person's valuation and can't pay it must still pay at least a shekel. It says nothing about other matters.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "R. Yosei bar Yehuda vs. the Rabbis: the lamb's minimum value",
+      "columns": [
+       "",
+       "Minimum for the lamb",
+       "“All your valuations shall be with the shekel” (Vayikra 27:25)",
+       "Halakha"
+      ],
+      "rows": [
+       [
+        "R. Yosei bar Yehuda",
+        "A shekel",
+        "A floor for every valuation one assesses",
+        "Not followed"
+       ],
+       [
+        "The Rabbis",
+        "Any amount",
+        "Only the floor for one who can't afford a vowed valuation",
+        "Followed (Rav Nachman)"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Any Amount: Rav Yosef's Lean Lamb Worth a *Ma'a*",
+     "amud": "11a",
+     "text": {
+      "from": "11a.2",
+      "to": "11a.3"
+     },
+     "gist": "Rav Nachman rules with the Rabbis, and Rav Yosef allows even a lean lamb worth a *ma'a*. The Gemara explains why that needed saying: neither low value nor poor condition disqualifies.",
+     "bullets": [
+      {
+       "text": "Rav Nachman: the halakha follows the Rabbis. A lamb worth less than a shekel redeems.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "How little may it be worth? Rav Yosef: even a lean lamb (*patruza*) worth only a *ma'a*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava: the Mishnah (9a) teaches this too, since it allows a big or a small lamb.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Isn't it obvious, since the baraita allows any amount? Rav Yosef was needed for two reasons. One might have thought so little value can't redeem, or that a lean lamb is disqualified by its physical state.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A *ma'a* is a sixth of a dinar. The point is that neither value nor quality sets any floor for the lamb.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "R. Tarfon's Scale: *Sela*, *Ragya* or Shekel by Disposition",
+     "amud": "11a",
+     "text": {
+      "from": "11a.4",
+      "to": "11a.6"
+     },
+     "gist": "Asked by R. Yehuda Nesia, R. Tarfon grades the lamb by generosity, and Rava sets the halakha at a *ragya*. The Gemara reconciles this with “any amount”: advice for one who asks, validity for one who acts alone.",
+     "bullets": [
+      {
+       "text": "R. Yehuda Nesia had a *peter chamor*. He sent it to R. Tarfon and asked how much he must give the priest.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Tarfon: the Sages said that the generous redeem with a lamb worth a *sela*, the miserly with one worth a shekel, and the intermediate with one worth a *ragya*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Tarfon was himself a priest, which may be why he offered a range rather than a figure. Sending the donkey along may reflect a thought that the answer depends on its value.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Rava: the halakha is a *ragya*, worth three dinars. It is so named because it is close to (*ragil*) both ends, between the *sela* (four dinars) and the shekel (two).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This seems to contradict Rav Nachman's “any amount”. Answer: one who comes to consult is told three dinars. One who acts on his own has fulfilled his obligation even with a lamb worth a *ma'a*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Compare *terumah*: a single grain exempts a whole pile, but one who asks the Sages is told to give between a fortieth and a sixtieth.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Redeeming with the Donkey's Value: R. Shimon Only, or R. Yehuda Too?",
+   "amud": "11a",
+   "text": {
+    "from": "11a.7",
+    "to": "11a.10"
+   },
+   "gist": "Reish Lakish lets one without a lamb redeem with the donkey's value. Rav Acha assigns this to R. Shimon, and Ravina shows it holds for R. Yehuda too: the donkey is no stricter than hekdesh, and the lamb is a leniency.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s6",
+     "title": "Reish Lakish's Ruling Assigned to R. Shimon, and Ravina's Two Objections",
+     "amud": "11a",
+     "text": {
+      "from": "11a.7",
+      "to": "11a.9"
+     },
+     "gist": "Since R. Yehuda insists on a lamb, Rav Acha taught the ruling as R. Shimon's. Ravina objects that the halakha follows R. Yehuda, as the unattributed Mishnah does.",
+     "bullets": [
+      {
+       "text": "R. Yitzchak citing Reish Lakish: one who has a *peter chamor* but no lamb redeems it with money equal to the donkey's value and gives it to a priest.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Whose view is this? R. Yehuda says the Torah is particular that the donkey be redeemed with a lamb (9a), so it must be R. Shimon's. Rav Acha taught it that way.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Ravina objects: wherever R. Yehuda and R. Shimon disagree, the halakha follows R. Yehuda.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "And the unattributed Mishnah (9a) follows R. Yehuda. A donkey of doubtful firstborn status is redeemed with a lamb to remove its forbidden status, and the owner keeps the lamb. The Gemara on 9b tied this to R. Yehuda's view that the donkey is *asur be'hana'ah* (forbidden in benefit).",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "The ruling stands out because the Mishnayot and baraitot speak only of a lamb. The lamb may be worth any amount, but a substitute must match the donkey's full value.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s7",
+     "title": "Ravina: No Stricter Than Hekdesh, and the Lamb Is a Leniency",
+     "amud": "11a",
+     "text": {
+      "from": "11a.10",
+      "to": "11a.10"
+     },
+     "gist": "Even for R. Yehuda a *peter chamor* can be redeemed with its value, as hekdesh can. The Torah named a lamb to ease the owner's burden, and Rav Nachman son of Rav Yosef redeemed one with boiled vegetables.",
+     "bullets": [
+      {
+       "text": "Ravina: Reish Lakish holds even for R. Yehuda. A *peter chamor* should be no stricter than hekdesh, which is redeemed with any movable property worth its value.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Torah said “lamb” not to be strict with the owner but to be lenient: he need not pay the donkey's full value, since a lamb is worth less.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Nachman son of Rav Yosef redeemed a *peter chamor* with boiled vegetables worth its value.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The hekdesh comparison is limited to what the Gemara draws from it. No one requires the added fifth (*chomesh*) that redeeming hekdesh demands.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "Another Man Redeems the Donkey: Does It Go to the Redeemer or the Owner?",
+   "amud": "11a",
+   "text": {
+    "from": "11a.11",
+    "to": "11a.16"
+   },
+   "gist": "Rav Huna validates a stranger's redemption. The Gemara asks who keeps the donkey, frames the question as whether it is like hekdesh for R. Yehuda, and Rav Nachman proves from the thief's *kefel* (double payment) that it stays with the owner.",
+   "bullets": [],
+   "chart": {
+    "caption": "R. Yehuda and R. Shimon on the *peter chamor*, across the daf",
+    "columns": [
+     "",
+     "Before redemption",
+     "Redeeming with its value (Reish Lakish)",
+     "Donkey redeemed by another man",
+     "The double-payment baraita"
+    ],
+    "rows": [
+     [
+      "R. Yehuda",
+      "*Asur be'hana'ah*",
+      "Valid: no stricter than hekdesh, and the lamb is a leniency (Ravina)",
+      "The question arises; resolved that the owner keeps it",
+      "Follows him: no rights now, rights after redemption"
+     ],
+     [
+      "R. Shimon",
+      "Permitted: the owner may work it or rent it out",
+      "Valid (Rav Acha's attribution)",
+      "No question: it was the owner's all along",
+      "Can't be his: the owner has rights even now"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "Rav Huna's case: a stranger gives his own lamb to the priest for another man's *peter chamor*. The two possibilities the Gemara raises, and Rav Nachman's proof from *kefel* that decides for the owner (Bekhorot 11a).",
+    "svg": "<svg viewBox='0 0 900 520' xmlns='http://www.w3.org/2000/svg' role='img'><title>A redeemer brings his lamb to a priest while the owner stands beside his firstborn donkey. Below, three panels: like hekdesh, the redeemer keeps it; the owner owns the difference, so the owner keeps it; Rav Nachman’s proof from double payment.</title><rect width='900' height='520' fill='#FBF8F1'/><text x='30' y='40' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Rav Huna: one who redeems another’s firstborn donkey, it is redeemed</text><use href='#man' x='50' y='108' width='60' height='120' style='color:#5E7D4F'/><use href='#lamb' x='118' y='170' width='80' height='56'/><path d='M206 196 H280' stroke='#5B6478' stroke-width='3'/><path d='M292 196 l-12 -7 v14 z' fill='#5B6478'/><use href='#man' x='300' y='108' width='60' height='120' style='color:#7B8FA8'/><g transform='translate(440 122) scale(0.9)'><path d='M26 46 L12 82' stroke='#6E655D' stroke-width='4' stroke-linecap='round'/><rect x='32' y='58' width='10' height='46' rx='3' fill='#5A5048'/><rect x='50' y='60' width='10' height='44' rx='3' fill='#5A5048'/><rect x='96' y='60' width='10' height='44' rx='3' fill='#5A5048'/><rect x='112' y='58' width='10' height='46' rx='3' fill='#5A5048'/><ellipse cx='76' cy='52' rx='52' ry='24' fill='#8C8279'/><path d='M110 40 L126 10 L144 18 L128 56 Z' fill='#8C8279'/><ellipse cx='142' cy='26' rx='11' ry='18' transform='rotate(-30 142 26)' fill='#8C8279'/><ellipse cx='150' cy='36' rx='7' ry='6' fill='#6E655D'/><ellipse cx='128' cy='-2' rx='4' ry='14' transform='rotate(-15 128 -2)' fill='#7A7068'/><ellipse cx='138' cy='-2' rx='4' ry='14' transform='rotate(10 138 -2)' fill='#7A7068'/><circle cx='140' cy='20' r='2' fill='#2E2A26'/></g><text x='516' y='90' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#1A1F2E'>Redeemed, but whose?</text><use href='#man' x='660' y='108' width='60' height='120' style='color:#8C5A3C'/><text x='80' y='252' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>The redeemer</text><text x='80' y='270' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>brings his own lamb</text><text x='330' y='252' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>The priest</text><text x='330' y='270' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>receives the lamb</text><text x='516' y='252' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>The firstborn donkey</text><text x='690' y='252' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>The owner</text><text x='690' y='270' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>did not redeem it</text><rect x='20' y='290' width='280' height='215' rx='12' fill='#E3EAF3'/><text x='160' y='322' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#1B3A8A'>Like hekdesh?</text><text x='160' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>Whoever pays acquires it:</text><text x='160' y='378' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' font-weight='400' fill='#1B3A8A'>ונתן הכסף וקם לו</text><text x='160' y='404' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>“he will give the money and</text><text x='160' y='424' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>it will be assured to him”</text><text x='160' y='464' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>→ the redeemer</text><rect x='310' y='290' width='280' height='215' rx='12' fill='#F3E6D8' stroke='#9A6212' stroke-width='2.5'/><text x='450' y='322' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#9A6212'>Or the owner’s difference?</text><text x='450' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>He may redeem with a lamb</text><text x='450' y='374' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>worth less than the donkey,</text><text x='450' y='396' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>so he owns the difference</text><text x='450' y='464' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>→ the owner</text><text x='450' y='486' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>the Gemara’s conclusion</text><rect x='600' y='290' width='280' height='215' rx='12' fill='#EDE7F3'/><text x='740' y='322' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#5A3E7A'>Rav Nachman’s proof</text><text x='740' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>A thief of a firstborn donkey</text><text x='740' y='374' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>owes double payment,</text><text x='740' y='400' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' font-weight='400' fill='#5A3E7A'>מבית האיש</text><text x='740' y='424' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>owed only “from the man’s house”,</text><text x='740' y='444' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>never from hekdesh</text><text x='740' y='474' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#5A3E7A'>So: not hekdesh</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s9",
+     "title": "Rav Huna's Ruling and the Question: Like Hekdesh, or the Owner's Retained Difference?",
+     "amud": "11a",
+     "text": {
+      "from": "11a.11",
+      "to": "11a.13"
+     },
+     "gist": "The question arises only for R. Yehuda. If the donkey is like hekdesh, whoever pays acquires it; if the owner owns the gap between the donkey and a cheap lamb, it is his.",
+     "bullets": [
+      {
+       "text": "Rav Sheizevi citing Rav Huna: if one redeems another man's *peter chamor*, the donkey is redeemed, even though its owner didn't redeem it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Question (*ba'ya*): does the redeemed donkey belong to the redeemer or to the owner?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "For R. Shimon there is no question. The owner may work the donkey or rent it out before redemption, so it is his, and the lamb the priest receives changes nothing.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "For R. Yehuda the donkey is *asur be'hana'ah* before redemption. So it seems not to be the owner's until the lamb is given.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Two options. Either it is like hekdesh, where “he will give the money and it will be assured to him” gives the item to whoever pays. Or it is not, since the owner may redeem with a cheaper lamb and so owns the difference, unlike one who consecrated his property.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Huna's ruling itself rests on the hekdesh comparison, since another man may redeem my hekdesh. The redeemer here is not the owner's agent. And if he could keep the donkey, anyone with a cheap lamb could claim valuable donkeys.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s7",
+       "note": "Presses Ravina's hekdesh comparison further, now over who owns the donkey"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s10",
+     "title": "Rav Nachman's Proof: The Thief of a *peter chamor* Pays Double",
+     "amud": "11a",
+     "text": {
+      "from": "11a.14",
+      "to": "11a.16"
+     },
+     "gist": "A baraita requires a thief to make *kefel* to the owner of a stolen *peter chamor*. Since it must follow R. Yehuda, and *kefel* never applies to hekdesh, the donkey is the owner's.",
+     "bullets": [
+      {
+       "text": "Rav Nachman cites a baraita: one who steals another's *peter chamor* before redemption owes *kefel* to the owner. Though the owner has no rights in it now, he will have them after the redemption.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Whose view? Not R. Shimon's, for whom the owner has rights even now. So it is R. Yehuda's, who holds the donkey *asur be'hana'ah* before redemption.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If the donkey were like hekdesh, there would be no *kefel*: “and it be stolen from the man's house” (Shemot 22:6) excludes the Temple treasury. So it is not hekdesh, and a donkey another man redeemed stays with its owner.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara: nothing more remains to be said; this is a clear proof.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "The hekdesh comparison has now gone far, allowing redemption by value and by another man, but it stops at taking the donkey from its owner. The donkey has no sanctity, the Temple doesn't own it, and the lamb acquires no special status.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "title": "Separate but Keep: Doubtful Donkeys, a Priest's Estate, a Gentile Seller",
+   "amud": "11a–11b",
+   "text": {
+    "from": "11a.17",
+    "to": "11b.9"
+   },
+   "gist": "Three settings where one must redeem or separate yet keeps what was set aside: lambs for doubtful *pitrei chamor* (firstborn donkeys), *pitrei chamor* and *tevel* inherited through a priest grandfather, and *tevel* bought from a gentile, which a Mishnah on deposits seems to contradict.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s12",
+     "title": "The Mishnah's Tithed Lamb: A Priest's Gift or the Owner's Own?",
+     "amud": "11a",
+     "text": {
+      "from": "11a.17",
+      "to": "11a.19"
+     },
+     "gist": "The lamb for a doubtful firstborn can't be tithed once a priest has it, since gifts are exempt. The baraita speaks of an Israelite who keeps ten lambs for ten doubtful donkeys, as Rabba bar Avuh ruled.",
+     "bullets": [
+      {
+       "text": "The Mishnah (9a): two donkeys, one that had given birth before and one that hadn't, bear a male and a female, and it is unknown which bore the male. The owner designates one lamb for the doubt, and that lamb is tithed with his other animals.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A baraita asks when this lamb enters the pen for *ma'aser behemah*. Not once a priest has it: an animal that was bought or given as a present is exempt (Mishnah 55b), and the priest received it as a present.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rather: an Israelite with ten doubtful *pitrei chamor* designates ten lambs to redeem them, separates *ma'aser behemah* from those lambs, and they are his.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This supports Rav Nachman citing Rabba bar Avuh, who said the same: all ten lambs are the owner's, since a priest can't prove his claim to any of them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The lambs remain his by monetary law. Using them to redeem out of doubt doesn't make them any less his for *ma'aser behemah*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "Inherited Through a Priest Grandfather: *Pitrei chamor* and Smoothed *Tevel*",
+     "amud": "11a",
+     "text": {
+      "from": "11a.20",
+      "to": "11a.25"
+     },
+     "gist": "Rabba bar Avuh: an Israelite who inherits certain *pitrei chamor* or smoothed *tevel* through his mother's father, a priest, redeems or separates but keeps. The Gemara explains why both cases are needed.",
+     "bullets": [],
+     "illustration": {
+      "caption": "Rabba bar Avuh's two inheritance cases: an Israelite leaves the items to his daughter's son, a priest, who leaves them to his own daughter's son, an Israelite. What each owner must do with the *pitrei chamor* and with the smoothed *tevel* (Bekhorot 11a).",
+      "svg": "<svg viewBox='0 0 900 480' xmlns='http://www.w3.org/2000/svg' role='img'><title>Three generations left to right: an Israelite, a priest, and an Israelite grandson, each inheriting from his mother’s father. Below, what each does with the firstborn donkeys and with the smoothed piles of tevel.</title><rect width='900' height='480' fill='#FBF8F1'/><text x='450' y='36' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>Inherited through a priest grandfather</text><text x='450' y='58' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>Rabba bar Avuh’s two cases · each owner leaves them to his daughter’s son</text><use href='#man' x='120' y='74' width='60' height='120' style='color:#4B5E8C'/><use href='#man' x='420' y='74' width='60' height='120' style='color:#A8927A'/><use href='#man' x='720' y='74' width='60' height='120' style='color:#6B6F3A'/><path d='M200 134 H386' stroke='#9A6212' stroke-width='3'/><path d='M400 134 l-14 -7 v14 z' fill='#9A6212'/><path d='M500 134 H686' stroke='#9A6212' stroke-width='3'/><path d='M700 134 l-14 -7 v14 z' fill='#9A6212'/><text x='294' y='120' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#9A6212'>left to his daughter’s son</text><text x='594' y='120' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#9A6212'>left to his daughter’s son</text><text x='150' y='214' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>An Israelite</text><text x='450' y='214' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>A priest</text><text x='750' y='214' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>An Israelite</text><text x='150' y='232' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>the priest’s mother’s father</text><text x='450' y='232' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>the heir’s mother’s father</text><text x='750' y='232' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>the heir today</text><text x='40' y='262' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>Ten certain firstborn donkeys</text><rect x='40' y='270' width='220' height='70' rx='10' fill='#E3EAF3'/><rect x='340' y='270' width='220' height='70' rx='10' fill='#E3EAF3'/><rect x='640' y='270' width='220' height='70' rx='10' fill='#E3EAF3'/><text x='150' y='298' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>Must redeem; the lamb</text><text x='150' y='320' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>goes to a priest</text><text x='450' y='298' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>Must redeem with lambs,</text><text x='450' y='320' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>but may keep them</text><text x='750' y='298' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>Designates lambs, tithes</text><text x='750' y='320' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>them: they are his</text><text x='40' y='372' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>Smoothed piles of tevel</text><rect x='40' y='380' width='220' height='70' rx='10' fill='#F3E6D8'/><rect x='340' y='380' width='220' height='70' rx='10' fill='#F3E6D8'/><rect x='640' y='380' width='220' height='70' rx='10' fill='#F3E6D8'/><text x='150' y='408' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>Separates; the gifts go</text><text x='150' y='430' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>to priest and Levite</text><text x='450' y='408' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>Must separate, but may</text><text x='450' y='430' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>keep the gifts</text><text x='750' y='408' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>Separates, and they are his:</text><text x='750' y='430' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>as if grandfather had tithed</text><text x='450' y='470' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>The grandson stands in his priest grandfather’s place: as if the grandfather had set them aside and left them to him</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s14",
+       "title": "Ten Certain *pitrei chamor*: As If Grandfather Designated the Lambs",
+       "amud": "11a",
+       "text": {
+        "from": "11a.20",
+        "to": "11a.21"
+       },
+       "gist": "The priest grandfather had to redeem the inherited *pitrei chamor* but could keep the lambs, so the Israelite grandson redeems and keeps them too.",
+       "bullets": [
+        {
+         "text": "Rav Nachman citing Rabba bar Avuh: an Israelite has ten certain *pitrei chamor*, left to him by his mother's father, a priest. That priest had inherited them from his own mother's father, an Israelite.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The donkeys needed redemption from the start, since they were born to an Israelite, whose lamb would go to a priest. The priest grandfather also had to redeem them with lambs, but he could keep the lambs.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So the grandson designates ten lambs, separates *ma'aser behemah* from them, and they are his, as if his grandfather had designated them and left them to him.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The exemption from giving travels with the inheritance. The redemption is still needed to lift the donkeys' status, but the duty to give the lamb to a priest does not return.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s15",
+       "title": "Smoothed *Tevel*: As If Grandfather Separated and Acquired",
+       "amud": "11a",
+       "text": {
+        "from": "11a.22",
+        "to": "11a.22"
+       },
+       "gist": "The same inheritance chain with smoothed piles of *tevel*: the grandson separates *terumah* and tithes and keeps them.",
+       "bullets": [
+        {
+         "text": "Rav Nachman citing Rabba bar Avuh: an Israelite has smoothed piles of *tevel*, inherited in the same way, from an Israelite through a priest grandfather. He separates *terumah* and tithes and they are his, as if his priest grandfather had tithed the produce, acquired the gifts, and left them to him.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Smoothing the pile is what makes the grain obligated. Even the priest had to separate to remove its *tevel* status, but he could keep the gifts.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s16",
+       "title": "Why Both Cases: A Lamb Stands Apart, Produce Holds Its Gifts Within",
+       "amud": "11a",
+       "text": {
+        "from": "11a.23",
+        "to": "11a.25"
+       },
+       "gist": "Each case has a feature that makes “as if the grandfather set it aside” easier, and a feature that might have blocked it, so neither can be learned from the other.",
+       "bullets": [
+        {
+         "text": "Had only the *pitrei chamor* been taught: there the lambs stand separate already. The priest could simply have declared his own lambs to be the redemption, with no act of separation.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "But with *tevel*, *terumah* must be separated and declared before a priest acquires it. Perhaps gifts not yet separated count as unseparated, even in a priest's hands.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Had only the *tevel* been taught: there one can tithe the produce from itself, since the produce and its gifts lie together. With a *peter chamor* the lamb must come from elsewhere, so perhaps it isn't regarded as already standing separate.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So both cases are needed.",
+         "detail": 3,
+         "source": "gemara"
+        }
+       ],
+       "chart": {
+        "caption": "Why Rabba bar Avuh needed both inheritance cases",
+        "columns": [
+         "Case",
+         "What makes “as if grandfather set it aside” easy",
+         "What might have blocked it"
+        ],
+        "rows": [
+         [
+          "*Pitrei chamor*",
+          "The lambs stand separate; the priest could just declare his own lambs the redemption",
+          "The lamb must be brought from elsewhere"
+         ],
+         [
+          "Smoothed *tevel*",
+          "The gifts lie within the produce itself",
+          "*Terumah* must be separated and declared before a priest acquires it"
+         ]
+        ]
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s17",
+     "title": "Smoothed *Tevel* Bought from a Gentile: Separate, but Give?",
+     "amud": "11a–11b",
+     "text": {
+      "from": "11a.26",
+      "to": "11b.9"
+     },
+     "gist": "R. Chanina: the buyer separates but keeps. A Mishnah on produce deposited with a gentile seems to require giving, so Rav Dimi limits R. Chanina to *terumat ma'aser*, which R. Yehoshua ben Levi derives from a verse.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s18",
+       "title": "R. Chanina: “I Came Through a Man You Can't Sue”",
+       "amud": "11a–11b",
+       "text": {
+        "from": "11a.26",
+        "to": "11b.3"
+       },
+       "gist": "A Jew must have smoothed the piles. The land's obligation survives gentile ownership, but the buyer keeps the gifts, since the priest had no claim against the gentile seller.",
+       "bullets": [
+        {
+         "text": "R. Shmuel bar Natan citing R. Chanina: one who buys smoothed piles of *tevel* from a gentile separates *terumah* and tithes, but they are his; he needn't give them to a priest or a Levite.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Who smoothed the piles? Not the gentile: “your grain” (Devarim 12:17, 18:4) excludes grain whose processing a gentile completed.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So a Jew smoothed them while they were still the gentile's. He must separate, because a gentile's ownership of land in Eretz Yisrael doesn't free its produce from tithes.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Yet he keeps them, telling the priest: I came to own this produce through a man you cannot litigate against, the gentile.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A bold claim: an obligation that could never be enforced against the seller lapses for the buyer, even though it existed in principle. The Gemara soon grounds the exemption in a verse instead.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s19",
+       "title": "Produce Left with a Gentile: Exchanged for Certain, or *Demai*?",
+       "amud": "11b",
+       "text": {
+        "from": "11b.4",
+        "to": "11b.6"
+       },
+       "gist": "Mishnah Demai: produce left with a Samaritan or *am ha'aretz* keeps its status, but produce left with a gentile is treated as his own, or as *demai* per R. Shimon. R. Elazar: all agree one separates, and they dispute giving.",
+       "bullets": [
+        {
+         "text": "Mishnah (Demai 3:4): produce deposited with a Samaritan or an *am ha'aretz* keeps its presumptive status for tithes and *shevi'it*. They aren't suspected of exchanging it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Produce deposited with a gentile is treated as the gentile's own produce, since he presumably exchanged it. R. Shimon: it is *demai*, since it is uncertain whether he exchanged it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Elazar: all agree one must separate *terumah* and tithes. They disagree about giving. The first tanna holds it was certainly exchanged, so the *terumah* goes to the priest; R. Shimon treats it as *demai*, so the priest must bring proof to receive it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "One separates even in doubt because of the severity of eating *tevel*. The first tanna's presumption that the gentile certainly exchanged it is itself remarkable.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "chart": {
+        "caption": "Produce returned by a gentile depositary (with R. Elazar's reading)",
+        "columns": [
+         "",
+         "Was it exchanged?",
+         "Status of the returned produce",
+         "Separate *terumah* and tithes?",
+         "Give the *terumah* to the priest?"
+        ],
+        "rows": [
+         [
+          "First tanna",
+          "Certainly",
+          "Like the gentile's own produce",
+          "Yes",
+          "Yes"
+         ],
+         [
+          "R. Shimon",
+          "Uncertain",
+          "*Demai*",
+          "Yes",
+          "Only if the priest brings proof"
+         ]
+        ]
+       },
+       "illustration": {
+        "caption": "Mishnah Demai 3:4 as cited on 11b: produce left with a Samaritan or an *am ha'aretz* comes back with its status intact; produce left with a gentile is presumed exchanged, or doubtful per R. Shimon.",
+        "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>Left panel: a Samaritan and an am ha’aretz holding deposited sacks, whose produce keeps its status. Right panel: a gentile with the depositor’s sack and his own, with an arrow asking whether he exchanged them.</title><rect width='900' height='460' fill='#FBF8F1'/><rect x='20' y='20' width='440' height='340' rx='14' fill='#E3EAF3'/><rect x='480' y='20' width='400' height='340' rx='14' fill='#F3E6D8'/><text x='240' y='54' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#1B3A8A'>Left with a Samaritan or an am ha’aretz</text><text x='680' y='54' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#9A6212'>Left with a gentile</text><use href='#man' x='70' y='80' width='60' height='120' style='color:#50706E'/><g transform='translate(140 125) scale(0.9)'><path d='M10 20 Q0 60 8 80 Q30 90 52 80 Q60 60 50 20 Q30 26 10 20 Z' fill='#C9A96E'/><path d='M16 22 Q30 6 44 22' fill='none' stroke='#8A7040' stroke-width='3'/></g><use href='#man' x='260' y='80' width='60' height='120' style='color:#6A4F7A'/><g transform='translate(330 125) scale(0.9)'><path d='M10 20 Q0 60 8 80 Q30 90 52 80 Q60 60 50 20 Q30 26 10 20 Z' fill='#C9A96E'/><path d='M16 22 Q30 6 44 22' fill='none' stroke='#8A7040' stroke-width='3'/></g><text x='130' y='228' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Samaritan</text><text x='320' y='228' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Am ha’aretz</text><text x='240' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>Returned produce keeps its status</text><text x='240' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>for tithes and shevi’it:</text><text x='240' y='316' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>not suspected of exchanging it</text><use href='#person' x='530' y='80' width='60' height='120' style='color:#8C4A3C'/><g transform='translate(610 140) scale(0.9)'><path d='M10 20 Q0 60 8 80 Q30 90 52 80 Q60 60 50 20 Q30 26 10 20 Z' fill='#C9A96E'/><path d='M16 22 Q30 6 44 22' fill='none' stroke='#8A7040' stroke-width='3'/></g><g transform='translate(740 140) scale(0.9)'><path d='M10 20 Q0 60 8 80 Q30 90 52 80 Q60 60 50 20 Q30 26 10 20 Z' fill='#A8864E'/><path d='M16 22 Q30 6 44 22' fill='none' stroke='#6E5630' stroke-width='3'/></g><path d='M668 152 Q704 118 740 152' fill='none' stroke='#9A6212' stroke-width='2.5'/><path d='M668 152 l2 -12 l9 8 z' fill='#9A6212'/><path d='M740 152 l-11 -4 l9 -8 z' fill='#9A6212'/><text x='704' y='112' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>exchanged?</text><text x='560' y='228' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Gentile</text><text x='637' y='238' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>yours</text><text x='767' y='238' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>his</text><text x='680' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>First tanna: treated as his own</text><text x='680' y='292' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>produce, certainly exchanged</text><text x='680' y='318' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#6B4A1A'>R. Shimon: demai, since it is</text><text x='680' y='338' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>uncertain he exchanged it</text><rect x='20' y='378' width='860' height='62' rx='12' fill='#EFE8DA'/><text x='450' y='404' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>R. Elazar: all agree one separates terumah and tithes;</text><text x='450' y='426' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>they disagree only about giving the terumah to the priest</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s20",
+       "title": "Abaye's Challenge, Rav Dimi's Answer: *Terumah Gedolah* vs. *Terumat Ma'aser*",
+       "amud": "11b",
+       "text": {
+        "from": "11b.7",
+        "to": "11b.9"
+       },
+       "gist": "If a certain exchange requires giving, R. Chanina's “they are his” seems contradicted. Rav Dimi confines R. Chanina to *terumat ma'aser*, and Abaye recalls R. Yehoshua ben Levi's derivation from “from the children of Israel”.",
+       "bullets": [
+        {
+         "text": "Rav Dimi taught R. Elazar's reading. Abaye: so R. Shimon disputes only because the exchange is uncertain; were it certain, all agree one gives *terumah* and tithes to a priest. Yet R. Chanina said the buyer of smoothed *tevel* from a gentile keeps them!",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Dimi: perhaps the Mishnah, which requires giving, refers to *terumah gedolah*, while R. Chanina's “they are his” refers to *terumat ma'aser*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Abaye: you have reminded me of R. Yehoshua ben Levi. One who buys smoothed *tevel* from a gentile is exempt from *terumat ma'aser*: “When you take the tithe from the children of Israel... a tithe of the tithe” (Bamidbar 18:26). From Israelites one separates *terumat ma'aser* and gives it to a priest; from a gentile, not.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Tosafot: the plain sense of the verse concerns a gentile who gave his tithe to a Levite, who then needn't separate *terumat ma'aser* from it.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The thread through these cases: separating or redeeming removes the forbidden status, while the duty to give can lapse depending on how the owner came to hold the item.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "returns_to": [
+        {
+         "id": "s18",
+         "note": "Narrows R. Chanina's “they are his” to terumat ma'aser"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s21",
+   "title": "The Redemption Lamb That Dies: The Priest's from Designation",
+   "amud": "11b",
+   "text": {
+    "from": "11b.10",
+    "to": "11b.11"
+   },
+   "gist": "The Mishnah lets the priest benefit from a redemption lamb that died even before reaching him, because from the moment the Israelite designated it, it stands in the priest's possession.",
+   "bullets": [
+    {
+     "text": "The Mishnah: if the lamb dies, one may derive benefit from it. Where did it die? If in the priest's house, that is obvious, since it is his. If in the owner's house before delivery, that the priest may benefit seems obvious too.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Answer: one might have thought the priest acquires the lamb only once it reaches him. The Mishnah teaches that from the time the Israelite separated it, it stands in the priest's possession.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "So the owner's redemption is complete and he needn't redeem again. The lamb died as the priesthood's property.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Tosafot: the blessing over redeeming a *peter chamor* is said at the designation, not at delivery. Compare the end of Hullin, where priestly gifts belong to the priesthood before they reach any one priest.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "illustration": {
+    "caption": "The Mishnah's case as the Gemara explains it on 11b: the lamb dies in the owner's house before delivery, yet the priest may benefit from it, because it became his when it was designated.",
+    "svg": "<svg viewBox='0 0 900 400' xmlns='http://www.w3.org/2000/svg' role='img'><title>Three steps left to right: an Israelite designates a lamb; the lamb dies in his house; a priest may derive benefit from it.</title><rect width='900' height='400' fill='#FBF8F1'/><text x='450' y='34' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>The redemption lamb that dies before it reaches the priest</text><use href='#man' x='70' y='90' width='60' height='120' style='color:#8C5A3C'/><use href='#lamb' x='140' y='150' width='100' height='70'/><path d='M262 160 H336' stroke='#5B6478' stroke-width='3'/><path d='M348 160 l-12 -7 v14 z' fill='#5B6478'/><path d='M352 92 L450 48 L548 92 Z' fill='#CDBB98'/><rect x='362' y='92' width='176' height='132' fill='#EFE6D2' stroke='#BFAE8E' stroke-width='2'/><use href='#lamb' x='390' y='128' width='120' height='84' transform='rotate(180 450 170)'/><path d='M556 160 H672' stroke='#5B6478' stroke-width='3'/><path d='M684 160 l-12 -7 v14 z' fill='#5B6478'/><use href='#man' x='700' y='90' width='60' height='120' style='color:#7B8FA8'/><use href='#mark-ok' x='774' y='110' width='40' height='40'/><text x='155' y='252' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>1. The Israelite designates</text><text x='155' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>a lamb for the firstborn donkey</text><text x='450' y='252' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>2. It dies in his house,</text><text x='450' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>before reaching the priest</text><text x='750' y='252' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>3. The priest may derive</text><text x='750' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#24592E'>benefit from it</text><rect x='100' y='305' width='700' height='64' rx='14' fill='#F3E6D0' stroke='#9A6212'/><text x='450' y='332' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='16' font-weight='600' fill='#6B4A1A'>From the time the Israelite separated it,</text><text x='450' y='354' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='16' font-weight='600' fill='#6B4A1A'>it stands in the priest’s possession</text></svg>"
+   },
+   "children": []
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "peter chamor",
+   "hebrew": "פטר חמור",
+   "sense": "the firstborn donkey that must be redeemed",
+   "definition": "The firstborn male of an Israelite's donkey, which must be redeemed by giving a lamb to a priest; if it is not redeemed, its neck is broken.",
+   "on_this_daf": "The daf sets how little the redemption lamb may be worth, allows redemption with the donkey's full value, and rules that a donkey another man redeemed stays with its owner.",
+   "aliases": [
+    "pitrei chamor",
+    "peter chamor"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s12",
+    "s14",
+    "s21"
+   ]
+  },
+  {
+   "term": "asur be'hana'ah",
+   "hebrew": "אסור בהנאה",
+   "sense": "forbidden to derive any benefit",
+   "definition": "The status of an item from which no benefit at all may be derived, whether by use, sale or gift, and not only by eating.",
+   "on_this_daf": "R. Yehuda holds an unredeemed firstborn donkey forbidden in benefit and R. Shimon permits it; the Gemara tests each ruling on redemption against both views.",
+   "aliases": [
+    "asur be'hana'ah"
+   ],
+   "sections": [
+    "s6",
+    "s8",
+    "s9",
+    "s10"
+   ]
+  },
+  {
+   "term": "hekdesh",
+   "hebrew": "הקדש",
+   "sense": "property consecrated to the Temple",
+   "definition": "Property consecrated to the Temple treasury. It is forbidden for private benefit and can be redeemed by paying its value.",
+   "on_this_daf": "Ravina: a firstborn donkey is no stricter than hekdesh, so it can be redeemed with its value. But it is not hekdesh as to ownership, since a thief of it owes double payment.",
+   "aliases": [
+    "hekdesh"
+   ],
+   "sections": [
+    "s5",
+    "s7",
+    "s8",
+    "s9",
+    "s10"
+   ]
+  },
+  {
+   "term": "kefel",
+   "hebrew": "כפל",
+   "sense": "a thief's double payment",
+   "definition": "The penalty by which a thief convicted in court pays the owner twice the value of what he stole.",
+   "on_this_daf": "Double payment applies only to what is stolen “from the man's house”, so its application to a stolen firstborn donkey proves the donkey is not hekdesh.",
+   "aliases": [
+    "kefel"
+   ],
+   "sections": [
+    "s8",
+    "s10"
+   ]
+  },
+  {
+   "term": "ma'aser behemah",
+   "hebrew": "מעשר בהמה",
+   "sense": "the tithe of animals born in one's flock",
+   "definition": "The obligation to set aside every tenth newborn of one's cattle, sheep or goats each year as an offering. Animals acquired by purchase or as a gift are exempt.",
+   "on_this_daf": "The lambs designated for doubtful or inherited firstborn donkeys are tithed only because the Israelite keeps them; in a priest's hands they would be an exempt gift.",
+   "aliases": [
+    "ma'aser behemah"
+   ],
+   "sections": [
+    "s12",
+    "s14"
+   ]
+  },
+  {
+   "term": "tevel",
+   "hebrew": "טבל",
+   "sense": "produce from which the gifts have not been separated",
+   "definition": "Produce whose processing is complete and from which *terumah* and tithes have not yet been separated; it may not be eaten until they are.",
+   "on_this_daf": "Smoothed piles of tevel inherited through a priest grandfather, or bought from a gentile, must be tithed, but the gifts are kept.",
+   "aliases": [
+    "tevel"
+   ],
+   "sections": [
+    "s11",
+    "s13",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s20"
+   ]
+  },
+  {
+   "term": "terumat ma'aser",
+   "hebrew": "תרומת מעשר",
+   "sense": "the tithe of the Levite's tithe, given to a priest",
+   "definition": "The tenth of the first tithe that a Levite separates and gives to a priest.",
+   "on_this_daf": "Rav Dimi limits R. Chanina's “they are his” to terumat ma'aser, and R. Yehoshua ben Levi derives the exemption for produce bought from a gentile from “from the children of Israel”.",
+   "aliases": [
+    "terumat ma'aser"
+   ],
+   "sections": [
+    "s17",
+    "s20"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "Grouped the doubtful-donkey lambs, the priest-grandfather inheritance and the gentile purchase under one parent (s11), because all turn on separating or redeeming while keeping what is set aside and the Gemara links them by association (Rav Nachman's 'and in addition', R. Chanina's variation). The alternative was three separate top-level sections, which would hide the common theme.",
+  "The Demai deposit Mishnah (s19) is nested under R. Chanina's section (s17) rather than standing on its own, since the Gemara brings it only to challenge R. Chanina.",
+  "Reish Lakish's value redemption (s5) and Rav Huna's third-party redemption (s8) are kept as separate top-level sections, though both test the hekdesh comparison; linked with returns_to from s9 to s7 instead of merging.",
+  "The R. Yehuda / R. Shimon chart spans s5 and s8; placed on s8, where the Gemara lays out both views side by side, rather than on s5.",
+  "s12 and s21 comment on clauses of the Mishnah on 9a rather than opening a new Mishnah, so their headings don't begin with 'Mishnah:'; the next Mishnah opens on 12a.",
+  "The first section begins at 10b.31 mid-baraita; R. Yosei bar Yehuda's shekel is treated as the start of the value discussion rather than as a tail of the previous daf's betrothal sugya."
+ ],
+ "coverage_notes": [
+  "Scope begins at 10b.31. The shiur's recap of the 10b betrothal discussion and of the 'you shall redeem' derivations (10b.30) falls outside it and is used only as framing in the first gist.",
+  "The essay attributes the Vayikra 27:25 derivation to 'Rabba'; the text has Rava. Followed the text.",
+  "The essay has 'Rav Tarfon' and 'Rav Yehuda Nesia'; the text has R. Tarfon and R. Yehuda Nesia. Followed the text.",
+  "The essay calls the middle coin 'bargaya/birgiya'; the text has ragya. Followed the text.",
+  "The essay names 'Rav Nachman b'Rav Yitzchak' redeeming with herbs; the text has Rav Nachman son of Rav Yosef, with boiled vegetables. Followed the text.",
+  "The essay has 'Rav Shizbi', 'Rabbah bar Avuha' and 'Rav Yitzchak'; the text has Rav Sheizevi, Rabba bar Avuh and R. Yitzchak. Followed the text.",
+  "The essay mentions R. Yannai Mi-Si'ah in connection with R. Tarfon's answer; he does not appear in the text. Omitted.",
+  "The essay presents the ten-doubtful-donkeys teaching as the Mishnah itself; the text has a baraita explaining the Mishnah's tithing clause, which supports Rav Nachman citing Rabba bar Avuh. Followed the text.",
+  "The essay attributes the resolution of Reish Lakish's ruling to 'the Gemara'; the text gives it to Ravina. It attributes the terumah gedolah / terumat ma'aser distinction to 'the Gemara'; the text has Rav Dimi answering Abaye's challenge, with Abaye then recalling R. Yehoshua ben Levi. Followed the text.",
+  "The essay says that with produce from a gentile one separates terumat ma'aser and keeps it; the text's R. Yehoshua ben Levi says the buyer is exempt from terumat ma'aser and does not separate and give it. Followed the text's wording.",
+  "The essay calls the dead-lamb clause the final Mishnah of the chapter; in the text it is a clause of the Mishnah on 9a, and a new Mishnah begins on 12a. Followed the text.",
+  "The essay's 'chefel' is transliterated as kefel by the standard.",
+  "All of the Gemara in scope is covered in the shiur; no section is flagged as Gemara text only."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s4",
+    "subject": "R. Tarfon's three dispositions and their coin values",
+    "why_not": "A single scale of three values; the value-line illustration on s1 shows it more clearly."
+   },
+   {
+    "section": "s20",
+    "subject": "Terumah gedolah vs. terumat ma'aser in the deposit and purchase cases",
+    "why_not": "The text doesn't state every cell, so the grid would need filler."
+   },
+   {
+    "section": "s12",
+    "subject": "The redemption lamb in a priest's hands vs. the Israelite's",
+    "why_not": "Two cases turning on one reason; the bullets carry it."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s18",
+    "subject": "Who smoothed the piles: the gentile or a Jew",
+    "why_not": "One inference from 'your grain'; little to picture beyond a pile."
+   },
+   {
+    "section": "s16",
+    "subject": "Lamb standing apart vs. gifts within the produce",
+    "why_not": "The chart already sets out the two sides conceptually."
+   },
+   {
+    "section": "s7",
+    "subject": "Rav Nachman son of Rav Yosef redeeming with boiled vegetables",
+    "why_not": "A one-line report; the ownership scene on s8 is the more pivotal picture."
+   },
+   {
+    "section": "s4",
+    "subject": "R. Yehuda Nesia sending his firstborn donkey to R. Tarfon",
+    "why_not": "The value scale on s1 already shows R. Tarfon's answer, which is the substance of the story."
+   }
+  ]
+ }
+}

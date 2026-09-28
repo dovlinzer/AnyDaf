@@ -1,0 +1,186 @@
+{
+ "key": "kiddushin_7",
+ "tractate": "Kiddushin",
+ "sages": [
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "6b.15",
+    "7a.6",
+    "7a.8",
+    "7a.11",
+    "7b.3",
+    "7b.7"
+   ],
+   "count": 6,
+   "first": "6b.15",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  },
+  {
+   "name": "מר זוטרא",
+   "candidates": [
+    "mar-zutra"
+   ],
+   "lines": [
+    "7a.6",
+    "7a.13"
+   ],
+   "count": 2,
+   "first": "7a.6",
+   "ambiguous": false,
+   "pick": "mar-zutra",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב פפא",
+   "candidates": [
+    "rav-pappa"
+   ],
+   "lines": [
+    "7a.6",
+    "7b.8"
+   ],
+   "count": 2,
+   "first": "7a.6",
+   "ambiguous": false,
+   "pick": "rav-pappa",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב אשי",
+   "candidates": [
+    "rav-ashi"
+   ],
+   "lines": [
+    "7a.6",
+    "7b.9"
+   ],
+   "count": 2,
+   "first": "7a.6",
+   "ambiguous": false,
+   "pick": "rav-ashi",
+   "pick_by": "only"
+  },
+  {
+   "name": "ריש לקיש",
+   "candidates": [
+    "rabbi-shimon-b-lakish"
+   ],
+   "lines": [
+    "7a.9"
+   ],
+   "count": 1,
+   "first": "7a.9",
+   "ambiguous": false,
+   "pick": "rabbi-shimon-b-lakish",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "7a.11"
+   ],
+   "count": 1,
+   "first": "7a.11",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב מרי",
+   "candidates": [
+    "rav-mari-b-rachel"
+   ],
+   "lines": [
+    "7a.13"
+   ],
+   "count": 1,
+   "first": "7a.13",
+   "ambiguous": false,
+   "pick": "rav-mari-b-rachel",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבינא",
+   "candidates": [
+    "ravina-(i)"
+   ],
+   "lines": [
+    "7a.13"
+   ],
+   "count": 1,
+   "first": "7a.13",
+   "ambiguous": false,
+   "pick": "ravina-(i)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוחנן",
+   "candidates": [
+    "rabbi-yochanan-b-napacha"
+   ],
+   "lines": [
+    "7a.16"
+   ],
+   "count": 1,
+   "first": "7a.16",
+   "ambiguous": false,
+   "pick": "rabbi-yochanan-b-napacha",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבה",
+   "candidates": [
+    "rabbah-b-nachmani"
+   ],
+   "lines": [
+    "7b.10",
+    "7b.11"
+   ],
+   "count": 2,
+   "first": "7b.10",
+   "ambiguous": false,
+   "pick": "rabbah-b-nachmani",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב יוסף",
+   "candidates": [
+    "rav-yosef-b-chiyya"
+   ],
+   "lines": [
+    "7b.10",
+    "7b.11",
+    "7b.12"
+   ],
+   "count": 3,
+   "first": "7b.10",
+   "ambiguous": false,
+   "pick": "rav-yosef-b-chiyya",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "8a.2",
+    "8a.8"
+   ],
+   "count": 2,
+   "first": "8a.2",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  }
+ ]
+}

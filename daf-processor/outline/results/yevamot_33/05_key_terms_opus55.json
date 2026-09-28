@@ -1,0 +1,134 @@
+{
+ "daf": "Yevamot 33a-33b",
+ "key_terms": [
+  {
+   "term": "issur chal al issur",
+   "hebrew": "איסור חל על איסור",
+   "sense": "a second prohibition taking effect on an existing one",
+   "definition": "The question whether a new prohibition can take legal effect on an act or object that is already forbidden by another prohibition, so that a violator is liable on both counts. R. Shimon generally holds it cannot. R. Yosei holds it can in certain configurations.",
+   "on_this_daf": "The three cases disputed by R. Chiyya and bar Kappara all turn on this principle. The Gemara tries to identify which configuration of it they are arguing about.",
+   "aliases": [
+    "issur chal al issur"
+   ],
+   "sections": [
+    "s1",
+    "s4"
+   ]
+  },
+  {
+   "term": "issur kolel",
+   "hebrew": "איסור כולל",
+   "sense": "a broader prohibition that includes an already-forbidden case",
+   "definition": "A prohibition that takes effect on an already-forbidden act because it widens the prohibition to cover more items or acts, sweeping the forbidden case in along with the rest. R. Yosei holds it takes effect.",
+   "on_this_daf": "The zar on Shabbat and the ba'al mum who became tamei are cases of issur kolel. The baraita shows that R. Shimon exempts from the second count in such cases.",
+   "aliases": [
+    "issur kolel",
+    "kolel"
+   ],
+   "sections": [
+    "s2",
+    "s8",
+    "s9",
+    "s13"
+   ]
+  },
+  {
+   "term": "issur bevat achat",
+   "hebrew": "איסור בבת אחת",
+   "sense": "two prohibitions arising simultaneously",
+   "definition": "A case where two prohibitions take effect on the same act or object at the same instant, so that neither one precedes the other.",
+   "on_this_daf": "The melikah case can only be simultaneous. The Gemara concludes from the baraita that even R. Shimon imposes liability on both counts in such a case, which refutes bar Kappara.",
+   "aliases": [
+    "issur bevat achat",
+    "bevat achat"
+   ],
+   "sections": [
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9",
+    "s13"
+   ]
+  },
+  {
+   "term": "zar",
+   "hebrew": "זר",
+   "sense": "a non-priest performing Temple service or eating sacred food",
+   "definition": "A non-kohen, who is forbidden to perform the priestly Temple service and to eat kodashim reserved for priests.",
+   "on_this_daf": "One of the prohibitions in the disputed cases. Rav Acha bar Yaakov stretches the term to mean anyone other than the High Priest in the case of the High Priest's bull.",
+   "aliases": [
+    "zar"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s4",
+    "s9",
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "term": "ba'al mum",
+   "hebrew": "בעל מום",
+   "sense": "a blemished priest barred from service",
+   "definition": "A kohen with a physical blemish. He may eat sacred food but is forbidden to perform the Temple service.",
+   "on_this_daf": "His case is paired with tumah: his becoming tamei adds a prohibition to his service, or the two arise together when he cuts off his finger with a tamei knife.",
+   "aliases": [
+    "ba'al mum"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s4",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "term": "melikah",
+   "hebrew": "מליקה",
+   "sense": "killing a bird offering by pinching its neck",
+   "definition": "The method of killing a bird offering, in which the priest pinches its neck with his thumbnail instead of slaughtering it. A bird killed this way outside a valid offering has the status of an unslaughtered carcass (neveilah).",
+   "on_this_daf": "A zar who eats a melikah bird transgresses the prohibition on kodashim and the prohibition on neveilah at the same moment, so the case can only be bevat achat.",
+   "aliases": [
+    "melikah"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "term": "eshet ish",
+   "hebrew": "אשת איש",
+   "sense": "a married or betrothed woman as a forbidden relation",
+   "definition": "A woman who is married or even only betrothed is forbidden to all other men, and relations with her are a capital transgression.",
+   "on_this_daf": "Each man whose bride was switched at the chuppah is liable for eshet ish, because betrothal alone makes the woman forbidden to other men.",
+   "aliases": [
+    "eshet ish"
+   ],
+   "sections": [
+    "s15"
+   ]
+  },
+  {
+   "term": "pituy ketanah ones",
+   "hebrew": "פיתוי קטנה אונס",
+   "sense": "a minor's consent counts as coercion",
+   "definition": "The seduction of a minor girl is treated legally as rape, because her consent has no legal weight. As a result, she is not forbidden to her Israelite husband afterward.",
+   "on_this_daf": "This principle deflects the proof from the minors who return to their husbands at once. Their return does not show that the switch was accidental.",
+   "aliases": [
+    "pituy ketanah ones hu"
+   ],
+   "sections": [
+    "s16"
+   ]
+  }
+ ]
+}

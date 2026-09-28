@@ -1,0 +1,853 @@
+{
+ "daf": "Bava Metzia 8",
+ "scope": {
+  "start": "8a: Rami bar Chama's inference from the Mishnah that lifting a found item for another acquires it for him (after the discussion of dividing by monetary value)",
+  "end": "8b: the Mishnah's riders as a second type of leading (the baraita on pulling and driving follows on 8b–9a)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Lifting a Found Item for Another: Rami bar Chama's Rule or Rava's *Migo*",
+   "amud": "8a",
+   "text": {
+    "from": "8a.4",
+    "to": "8a.13"
+   },
+   "gist": "Rami bar Chama infers that lifting a found item for someone else acquires it for him. Rava limits this to *migo*, proves it from partners who stole, and applies it to a deaf-mute and a competent person lifting together.",
+   "bullets": [],
+   "chart": {
+    "caption": "Rami bar Chama vs. Rava: what the Mishnah's joint lifting shows",
+    "columns": [
+     "",
+     "Lifting solely for another",
+     "Two who lift together",
+     "Evidence"
+    ],
+    "rows": [
+     [
+      "Rami bar Chama",
+      "The other person acquires",
+      "Each lifts the other's part for his fellow",
+      "Otherwise neither party in the Mishnah's garment case acquires"
+     ],
+     [
+      "Rava",
+      "The other person need not acquire",
+      "*Migo*: acquiring his part for himself, each acquires the other part for his fellow",
+      "Partners who stole are both liable, though an agent sent to steal does not make the sender liable"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "Rami bar Chama: Otherwise Each Part Lies 'As Though on the Ground'",
+     "amud": "8a",
+     "text": {
+      "from": "8a.4",
+      "to": "8a.5"
+     },
+     "gist": "From the Mishnah's two litigants who divide a garment, Rami bar Chama infers that one who lifts a found item for another acquires it for him.",
+     "bullets": [
+      {
+       "text": "Rami bar Chama infers from the Mishnah: one who lifts a found item on behalf of another acquires it for him (*ha'magbia metziah la'chaveiro kanah chaveiro*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "His reasoning: if lifting for another didn't work, each litigant's part of the garment would count as though it were still lying on the ground. Neither would acquire, and a third party could take it. Yet the Mishnah has the two divide it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why this is new despite *zakhin le'adam she'lo be'fanav*: taking a found item for one person shuts everyone else out. One might think a person may do that for himself but not on another's behalf.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Neither litigant means to be generous. But since the acquisition works only if each lifts for the other as well, we assume that is what each is doing.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Rami bar Chama's inference (8a): two people hold one lifted garment. Unless each lifts the other's part for his fellow, each part counts as still lying on the ground.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two people hold opposite sides of a lifted garment. Below, two panels: without Rami bar Chama's rule each part would count as lying on the ground and neither acquires; with it, each lifts the other part for his fellow and both acquire.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">Two people lift one found garment together</text><text x=\"450\" y=\"64\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#5B6478\">המגביה מציאה לחבירו קנה חבירו</text><line x1=\"60\" y1=\"282\" x2=\"840\" y2=\"282\" stroke=\"#D9CFBD\" stroke-width=\"3\"/><use href=\"#man\" x=\"130\" y=\"120\" width=\"80\" height=\"160\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"690\" y=\"120\" width=\"80\" height=\"160\" style=\"color:#8C5A3C\"/><rect x=\"200\" y=\"172\" width=\"500\" height=\"62\" rx=\"6\" fill=\"#C9A96E\" stroke=\"#9A7440\" stroke-width=\"2\"/><line x1=\"450\" y1=\"164\" x2=\"450\" y2=\"242\" stroke=\"#6B4A1A\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><text x=\"325\" y=\"156\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">one litigant’s part</text><text x=\"575\" y=\"156\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">the other’s part</text><rect x=\"30\" y=\"300\" width=\"410\" height=\"100\" rx=\"12\" fill=\"#F3E6D8\"/><text x=\"50\" y=\"328\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#6B4A1A\">If lifting for another did not acquire:</text><text x=\"50\" y=\"350\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">each part would lie “as though on the ground”;</text><text x=\"50\" y=\"370\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">neither acquires, and a third party may take it</text><rect x=\"460\" y=\"300\" width=\"410\" height=\"100\" rx=\"12\" fill=\"#E3EAF3\"/><text x=\"480\" y=\"328\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Rami bar Chama:</text><text x=\"480\" y=\"350\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">each lifts the other’s part for his fellow,</text><text x=\"480\" y=\"370\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">so both acquire and they divide</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Rava's *Migo*: Proof from Partners Who Stole",
+     "amud": "8a",
+     "text": {
+      "from": "8a.6",
+      "to": "8a.7"
+     },
+     "gist": "Rava: the Mishnah proves only that one who acquires for himself also acquires for his fellow, and theft by partners shows that this principle holds.",
+     "bullets": [
+      {
+       "text": "Rava: this is no proof. Lifting a found item solely for another may not acquire it for him. In the Mishnah, since each acquires his part for himself, he also acquires the other part for his fellow (*migo*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Proof: if one tells an agent to steal for him and the agent does, the sender is exempt, since there is no agency for sin (*ein shaliach li'devar aveirah*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Yet partners who steal together are both liable, even if only one of them lifted the item. The reason must be that since the lifter acquires part for himself, he acquires the other part for his partner. The Gemara concludes the principle is correct.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The contrast is the point. An agent acting purely for another cannot make the sender liable, but a partner acting for himself carries his partner's share along with his own.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Deaf-Mute and Competent Person Lift Together: Both, One or Neither?",
+     "amud": "8a",
+     "text": {
+      "from": "8a.8",
+      "to": "8a.13"
+     },
+     "gist": "Rava applies *migo* to a joint lifting by a deaf-mute and a competent person. The Gemara revises his statement twice, concludes that neither acquires, and explains why two deaf-mutes are different.",
+     "bullets": [],
+     "chart": {
+      "caption": "A deaf-mute and a competent person lift a found item together: three formulations",
+      "columns": [
+       "",
+       "Deaf-mute",
+       "Competent person",
+       "Reasoning",
+       "Objection or answer"
+      ],
+      "rows": [
+       [
+        "Rava's first version",
+        "Acquires",
+        "Acquires",
+        "*Migo*: each acquires for himself, so he lifts for the other too",
+        "A deaf-mute cannot acquire for another"
+       ],
+       [
+        "Revised version",
+        "Acquires",
+        "Does not acquire",
+        "*Migo* of two deaf-mutes, who acquire when they lift together",
+        "The competent person lifted only for himself"
+       ],
+       [
+        "Conclusion",
+        "Does not acquire",
+        "Does not acquire",
+        "A competent person who gains nothing lifted for no one",
+        "Two deaf-mutes differ: their ordinance prevents quarrels, and here there is none"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "The three formulations of the case of a deaf-mute and a competent person lifting a found item together (8a), each with the reasoning and the objection that follows.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three panels, each showing a deaf-mute and a competent person holding one found item: in the first both acquire, in the second only the deaf-mute, in the conclusion neither.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">A deaf-mute and a competent person lift a found item together</text><rect x=\"15\" y=\"56\" width=\"280\" height=\"350\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"310\" y=\"56\" width=\"280\" height=\"350\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"605\" y=\"56\" width=\"280\" height=\"350\" rx=\"14\" fill=\"#EDE7F2\"/><text x=\"155\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">Rava’s first version</text><text x=\"450\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">Revised version</text><text x=\"745\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5A3A6A\">Conclusion</text><use href=\"#man\" x=\"60\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"195\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#4B5E8C\"/><rect x=\"110\" y=\"160\" width=\"90\" height=\"26\" rx=\"4\" fill=\"#C9A96E\"/><use href=\"#man\" x=\"355\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"490\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#4B5E8C\"/><rect x=\"405\" y=\"160\" width=\"90\" height=\"26\" rx=\"4\" fill=\"#C9A96E\"/><use href=\"#man\" x=\"650\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"785\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#4B5E8C\"/><rect x=\"700\" y=\"160\" width=\"90\" height=\"26\" rx=\"4\" fill=\"#C9A96E\"/><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1A1F2E\"><text x=\"87\" y=\"242\">Deaf-mute</text><text x=\"223\" y=\"242\">Competent person</text><text x=\"382\" y=\"242\">Deaf-mute</text><text x=\"518\" y=\"242\">Competent person</text><text x=\"677\" y=\"242\">Deaf-mute</text><text x=\"813\" y=\"242\">Competent person</text></g><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" text-anchor=\"middle\"><text x=\"87\" y=\"264\" fill=\"#1B3A8A\">acquires</text><text x=\"223\" y=\"264\" fill=\"#1B3A8A\">acquires</text><text x=\"382\" y=\"264\" fill=\"#1B3A8A\">acquires</text><text x=\"518\" y=\"264\" fill=\"#5B6478\">does not acquire</text><text x=\"677\" y=\"264\" fill=\"#5B6478\">does not acquire</text><text x=\"813\" y=\"264\" fill=\"#5B6478\">does not acquire</text></g><line x1=\"30\" y1=\"282\" x2=\"280\" y2=\"282\" stroke=\"#C9C1B2\"/><line x1=\"325\" y1=\"282\" x2=\"575\" y2=\"282\" stroke=\"#C9C1B2\"/><line x1=\"620\" y1=\"282\" x2=\"870\" y2=\"282\" stroke=\"#C9C1B2\"/><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" text-anchor=\"start\" fill=\"#1A1F2E\"><text x=\"31\" y=\"306\">Migo: each acquires for himself,</text><text x=\"31\" y=\"326\">so each lifts for the other too.</text><text x=\"31\" y=\"346\" fill=\"#5B6478\">Objection: a deaf-mute cannot</text><text x=\"31\" y=\"366\" fill=\"#5B6478\">acquire for another, so the</text><text x=\"31\" y=\"386\" fill=\"#5B6478\">competent person has only half.</text><text x=\"326\" y=\"306\">Migo: two deaf-mutes lifting</text><text x=\"326\" y=\"326\">together acquire, so here too.</text><text x=\"326\" y=\"346\" fill=\"#5B6478\">Objection: the competent person</text><text x=\"326\" y=\"366\" fill=\"#5B6478\">lifted only for himself; if he gains</text><text x=\"326\" y=\"386\" fill=\"#5B6478\">nothing, will he lift for another?</text><text x=\"621\" y=\"306\">So neither acquires.</text><text x=\"621\" y=\"326\">Two deaf-mutes differ: the Sages</text><text x=\"621\" y=\"346\">ruled for them so they would not</text><text x=\"621\" y=\"366\">quarrel; here the deaf-mute says,</text><text x=\"621\" y=\"386\">“if he does not acquire, can I?”</text></g></svg>"
+     },
+     "children": [
+      {
+       "id": "s5",
+       "title": "First Version: Both Acquire by *Migo*",
+       "amud": "8a",
+       "text": {
+        "from": "8a.8",
+        "to": "8a.9"
+       },
+       "gist": "Rava: since *migo* applies, when a deaf-mute and a competent person lift together, both acquire; the Gemara objects that a deaf-mute cannot acquire for another.",
+       "bullets": [
+        {
+         "text": "Rava: now that *migo* applies, if a deaf-mute and a competent person lift a found item together, the competent person also acquires, since the deaf-mute acquires.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Objection: the deaf-mute acquires, since the competent person lifted for him along with himself. But the competent person needs the deaf-mute to acquire for him, and a deaf-mute cannot acquire for another.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A deaf-mute lacks legal capacity by Torah law. His acquisition of a found item rests on a rabbinic ordinance made for his own sake, which gives him no power to acquire for others.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s6",
+       "title": "Revised: Only the Deaf-Mute, by the *Migo* of Two Deaf-Mutes",
+       "amud": "8a",
+       "text": {
+        "from": "8a.10",
+        "to": "8a.11"
+       },
+       "gist": "Rava's statement is recast: the deaf-mute acquires because two deaf-mutes lifting together would, but this too falls, since the competent person never meant to lift for him.",
+       "bullets": [
+        {
+         "text": "Restated: the deaf-mute acquires and the competent person does not. The *migo* is different: since two deaf-mutes who lift an item together acquire it, this deaf-mute acquires too.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Objection: even granting Rami bar Chama, lifting for another works only when one intends the other to acquire. The competent person lifted for himself. If he doesn't acquire for himself, will he acquire for others?",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s7",
+       "title": "Conclusion: Neither Acquires, Unlike Two Deaf-Mutes",
+       "amud": "8a",
+       "text": {
+        "from": "8a.12",
+        "to": "8a.13"
+       },
+       "gist": "Since the competent person doesn't acquire, the deaf-mute doesn't either; the ordinance for two deaf-mutes exists to prevent quarrels, and here none will arise.",
+       "bullets": [
+        {
+         "text": "Final formulation: since the competent person does not acquire, the deaf-mute does not acquire either.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Two deaf-mutes do acquire, because the Sages ordained it so they won't quarrel with others who would take the item.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Here the deaf-mute tells himself: if even the competent person doesn't acquire, can I? So he won't quarrel, and no ordinance is needed.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The difference is one of fairness. Two deaf-mutes robbed of what they found would see an injustice. Here the deaf-mute is in the same position as his competent partner, so he has no grievance.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "Which Clause Is Rami bar Chama's Source? Four Deflected, One Stands",
+   "amud": "8a",
+   "text": {
+    "from": "8a.14",
+    "to": "8a.23"
+   },
+   "gist": "Rav Acha son of Rav Adda asks Rav Ashi. The garment clause, the two \"all mine\" claims, \"all mine\" against \"half mine\" and the two riders are each deflected. The clause on admission or witnesses stands, though Rava reads it as *migo*.",
+   "bullets": [],
+   "chart": {
+    "caption": "The Mishnah's clauses tested as the source of Rami bar Chama's inference",
+    "columns": [
+     "Clause of the Mishnah",
+     "Proposed as source because…",
+     "Outcome"
+    ],
+    "rows": [
+     [
+      "Two hold a garment",
+      "They divide it",
+      "Deflected: each claims he lifted the whole garment himself"
+     ],
+     [
+      "\"All mine\" / \"all mine\"",
+      "It seems superfluous",
+      "Deflected: the first clause is a found item, this one a purchase"
+     ],
+     [
+      "\"All mine\" / \"half mine\"",
+      "It seems superfluous",
+      "Deflected: it may be a purchase, teaching that the one claiming half still takes an oath, since he may be using artifice"
+     ],
+     [
+      "Two sitting on an animal",
+      "It seems superfluous",
+      "Deflected: it may teach that *rakhuv* acquires"
+     ],
+     [
+      "Admission or witnesses: divide without an oath",
+      "For a purchase it would be obvious, so it is a found item lifted together",
+      "Stands; Rava attributes it to *migo*"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s9",
+     "title": "Opening Clause: Each Claims He Lifted the Whole Garment",
+     "amud": "8a",
+     "text": {
+      "from": "8a.14",
+      "to": "8a.14"
+     },
+     "gist": "The garment clause can't be the source, since each litigant claims to have lifted all of it himself.",
+     "bullets": [
+      {
+       "text": "Rav Acha son of Rav Adda asks Rav Ashi where Rami bar Chama's inference comes from. It can't be the opening clause: there each says \"all of it is mine, and I lifted all of it\", so no one is lifting for another.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s10",
+     "title": "'All Mine' vs. 'All Mine': Superfluous, or a Purchase?",
+     "amud": "8a",
+     "text": {
+      "from": "8a.15",
+      "to": "8a.16"
+     },
+     "gist": "The repeated \"all mine\" clause looks superfluous, but it was already explained as a case of purchase.",
+     "bullets": [
+      {
+       "text": "Proposal: the later clause where both say \"all of it is mine\" seems superfluous after \"I found it\". It would teach that even when they lifted it together they divide, and a third party can't take it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Deflected: on 2a the Gemara already explained that the first clause is a found item and the later one a purchase, with each saying he bought it. So the clause is needed.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "'All Mine' vs. 'Half Mine': Or a Guard Against Artifice",
+     "amud": "8a",
+     "text": {
+      "from": "8a.17",
+      "to": "8a.19"
+     },
+     "gist": "The \"half mine\" clause may concern a purchase, and is needed to teach that the one claiming half still takes an oath.",
+     "bullets": [
+      {
+       "text": "Proposal: the clause \"this one says all of it is mine and that one says half\" adds nothing, so it must teach that lifting for another acquires.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Deflected: it may concern a purchase. It is needed because one might have thought the one claiming half is like one returning a lost item, who could have claimed it all, and so is exempt from an oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Mishnah teaches that he is not exempt: he may be using artifice (*arumei ka'arim*), claiming half precisely to look like one returning a lost item and escape the oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The ploy is plain. A claim to all of it would force him to swear, so he claims less and hopes to avoid the oath by looking generous.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "Two Sitting on an Animal: Or That *Rakhuv* Acquires",
+     "amud": "8a",
+     "text": {
+      "from": "8a.20",
+      "to": "8a.21"
+     },
+     "gist": "The riders' clause could be the source, unless it teaches that sitting on an animal is itself a mode of acquisition.",
+     "bullets": [
+      {
+       "text": "Proposal: the clause of two people sitting on an animal, who swear and divide, adds nothing to the garment case, so it teaches that lifting for another acquires.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Deflected: it may teach that one who sits on an animal (*rakhuv*) acquires it, even though he has not made it move.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "Admission or Witnesses: The Source Stands, but Rava Reads *Migo*",
+     "amud": "8a",
+     "text": {
+      "from": "8a.22",
+      "to": "8a.23"
+     },
+     "gist": "Dividing without an oath would be obvious for a purchase, so the clause concerns a found item lifted together; Rava explains it by *migo*.",
+     "bullets": [
+      {
+       "text": "The last clause: when they admit each other's claim or have witnesses, they divide without an oath. For a purchase this would go without saying.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So it concerns a found item that they knowingly lifted together, meaning it for both of them. Hence lifting a found item for another acquires it for him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava explains this clause by his own principle: since each acquires for himself, he acquires part for the other as well.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava accepts that joint lifting works. He denies only that it proves one can lift purely for another at the expense of other finders.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s3",
+       "note": "Rava's *migo* reading of the joint lifting, now applied to the clause identified as the source"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "title": "*Rakhuv* or *Manhig*: Sitting on an Animal vs. Leading It",
+   "amud": "8a–8b",
+   "text": {
+    "from": "8a.24",
+    "to": "8b.12"
+   },
+   "gist": "Rav Yehuda forgot which of Shmuel's two rulings went with which. The Gemara makes it a contest between a rider and a leader and tries a proof from *kilayim*. It defends that proof against the reins objection, defines when reins acquire, and reads the Mishnah's riders as a second kind of leading.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s15",
+     "title": "Shmuel's Lost Rulings: Rider's Grip or Leader's Pull?",
+     "amud": "8a–8b",
+     "text": {
+      "from": "8a.24",
+      "to": "8b.3"
+     },
+     "gist": "Since leading alone surely acquires, Rav Yehuda's doubt must concern one person sitting on an animal while another leads it.",
+     "bullets": [
+      {
+       "text": "The Mishnah: two sitting on an animal, or one sitting and one leading, each take an oath and divide.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yosef: Rav Yehuda told me he heard from Shmuel two rulings, on *rakhuv* and on *manhig*: one acquires and one does not, but he didn't know which was which.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "It can't mean each alone: no one says that leading an animal alone fails to acquire, since pulling is a standard mode of acquisition. So there would have been nothing to forget.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the question is one sitting while another leads. Does the rider prevail, since the animal is in his grasp (his legs grip its sides), or the leader, since it walks because of him?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Rakhuv* is simply being seated on the animal. *Manhig* is a form of *meshikhah*, pulling, which acquires animals.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Rav Yehuda's question as the Gemara frames it (8b): one person sits on the animal while another leads it. The rider has it in his grasp; the leader makes it walk.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A donkey with one man seated on it and another man in front leading it by a rope, with a panel on each side giving each one's claim.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"0\" y=\"350\" width=\"900\" height=\"90\" fill=\"#D9C9A8\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">One sits on the animal, another leads it: who acquires?</text><g transform=\"translate(430,300)\"><path d=\"M-55 -6 q-14 8 -10 30\" stroke=\"#6E6A65\" stroke-width=\"4\" fill=\"none\"/><rect x=\"-42\" y=\"8\" width=\"9\" height=\"42\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"-24\" y=\"10\" width=\"9\" height=\"40\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"18\" y=\"10\" width=\"9\" height=\"40\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"34\" y=\"8\" width=\"9\" height=\"42\" rx=\"3\" fill=\"#5E5A56\"/><ellipse cx=\"0\" cy=\"0\" rx=\"55\" ry=\"24\" fill=\"#8E8A85\"/><path d=\"M38 -12 L60 -44 L76 -36 L54 6 Z\" fill=\"#8E8A85\"/><ellipse cx=\"72\" cy=\"-40\" rx=\"11\" ry=\"18\" transform=\"rotate(35 72 -40)\" fill=\"#7E7A75\"/><ellipse cx=\"62\" cy=\"-62\" rx=\"4\" ry=\"12\" transform=\"rotate(-10 62 -62)\" fill=\"#7E7A75\"/><ellipse cx=\"71\" cy=\"-63\" rx=\"4\" ry=\"12\" transform=\"rotate(10 71 -63)\" fill=\"#7E7A75\"/><circle cx=\"74\" cy=\"-44\" r=\"2\" fill=\"#EDE3CF\"/></g><use href=\"#man\" x=\"405\" y=\"190\" width=\"50\" height=\"100\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"560\" y=\"222\" width=\"64\" height=\"128\" style=\"color:#4B5E8C\"/><line x1=\"510\" y1=\"262\" x2=\"574\" y2=\"290\" stroke=\"#3B3431\" stroke-width=\"3\"/><rect x=\"30\" y=\"150\" width=\"300\" height=\"100\" rx=\"12\" fill=\"#E3EAF3\"/><text x=\"50\" y=\"180\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">The one sitting on it</text><text x=\"50\" y=\"204\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">the animal is in his grasp:</text><text x=\"50\" y=\"226\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">his legs grip its sides</text><line x1=\"330\" y1=\"215\" x2=\"400\" y2=\"240\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><rect x=\"650\" y=\"150\" width=\"230\" height=\"100\" rx=\"12\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"180\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">The one leading it</text><text x=\"670\" y=\"204\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">it walks because</text><text x=\"670\" y=\"226\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">of him</text><line x1=\"650\" y1=\"215\" x2=\"622\" y2=\"238\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"450\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Rav Yehuda heard from Shmuel that one of the two acquires and one does not,</text><text x=\"450\" y=\"404\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">but did not remember which</text><text x=\"450\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Bava Metzia 8b · Rav Yosef in the name of Rav Yehuda</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s16",
+     "title": "Proof from *Kilayim*: Shmuel Makes the Wagon-Sitter Exempt",
+     "amud": "8b",
+     "text": {
+      "from": "8b.4",
+      "to": "8b.5"
+     },
+     "gist": "Shmuel's version of the Mishnah in Kilayim has the Rabbis exempt one who sits in a wagon, so sitting is no act and *rakhuv* doesn't acquire.",
+     "bullets": [
+      {
+       "text": "Rav Yehuda tries to work it out from the Mishnah in Kilayim 8:3. Animals of diverse kinds are harnessed to one wagon (\"You shall not plow with an ox and a donkey together\"). The one leading them gets lashes, and so does the one sitting in the wagon. R. Meir exempts the one sitting.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Shmuel reversed the opinions in his version: the Rabbis exempt the one sitting in the wagon. Since the halakha follows the Rabbis against R. Meir, Shmuel holds that sitting in a wagon is not an action.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Conclusion: *rakhuv* alone does not acquire, and all the more so when another person is leading.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why *kilayim* bears on acquisition, following Tosafot: the rider makes the animal move a little, which could count as *meshikhah*. If making the animals move slightly doesn't count as driving them for *kilayim*, it doesn't count as pulling them for acquisition.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The proof changes the question. It is no longer which of two valid modes prevails; *rakhuv* turns out not to acquire at all.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Mishnah Kilayim 8:3 in two versions: an ox and a donkey drawing one wagon",
+      "columns": [
+       "",
+       "The one leading",
+       "The one sitting in the wagon",
+       "Who exempts the sitter"
+      ],
+      "rows": [
+       [
+        "Standard version",
+        "Liable to lashes",
+        "Liable, per the first opinion",
+        "R. Meir"
+       ],
+       [
+        "Shmuel's version",
+        "Liable to lashes",
+        "Liable, per R. Meir",
+        "The Rabbis, whom the halakha follows"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "The case in Kilayim 8:3 (8b): two kinds of animal drawing one wagon, with one person sitting in the wagon and another leading. In Shmuel's version the Rabbis exempt the sitter.",
+      "svg": "<svg viewBox=\"0 0 900 500\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A wagon drawn by an ox and a donkey, a man sitting in the wagon and a man leading the animals, above a panel comparing the standard version of the Mishnah with Shmuel's version.</title><rect width=\"900\" height=\"500\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">Kilayim 8:3: an ox and a donkey drawing one wagon</text><text x=\"450\" y=\"62\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#5B6478\">לא תחרש בשור ובחמור יחדו</text><line x1=\"40\" y1=\"331\" x2=\"860\" y2=\"331\" stroke=\"#D9CFBD\" stroke-width=\"3\"/><use href=\"#man\" x=\"140\" y=\"150\" width=\"55\" height=\"110\" style=\"color:#6A4F7A\"/><rect x=\"80\" y=\"240\" width=\"190\" height=\"55\" rx=\"4\" fill=\"#9A7440\" stroke=\"#6E5B46\" stroke-width=\"2\"/><circle cx=\"115\" cy=\"305\" r=\"24\" fill=\"#6E5B46\" stroke=\"#3B3431\" stroke-width=\"2\"/><circle cx=\"115\" cy=\"305\" r=\"6\" fill=\"#3B3431\"/><circle cx=\"235\" cy=\"305\" r=\"24\" fill=\"#6E5B46\" stroke=\"#3B3431\" stroke-width=\"2\"/><circle cx=\"235\" cy=\"305\" r=\"6\" fill=\"#3B3431\"/><line x1=\"270\" y1=\"262\" x2=\"580\" y2=\"262\" stroke=\"#6E5B46\" stroke-width=\"5\"/><use href=\"#bull\" x=\"300\" y=\"220\" width=\"170\" height=\"110\"/><g transform=\"translate(610,280)\"><path d=\"M-55 -6 q-14 8 -10 30\" stroke=\"#6E6A65\" stroke-width=\"4\" fill=\"none\"/><rect x=\"-42\" y=\"8\" width=\"9\" height=\"42\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"-24\" y=\"10\" width=\"9\" height=\"40\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"18\" y=\"10\" width=\"9\" height=\"40\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"34\" y=\"8\" width=\"9\" height=\"42\" rx=\"3\" fill=\"#5E5A56\"/><ellipse cx=\"0\" cy=\"0\" rx=\"55\" ry=\"24\" fill=\"#8E8A85\"/><path d=\"M38 -12 L60 -44 L76 -36 L54 6 Z\" fill=\"#8E8A85\"/><ellipse cx=\"72\" cy=\"-40\" rx=\"11\" ry=\"18\" transform=\"rotate(35 72 -40)\" fill=\"#7E7A75\"/><ellipse cx=\"62\" cy=\"-62\" rx=\"4\" ry=\"12\" transform=\"rotate(-10 62 -62)\" fill=\"#7E7A75\"/><ellipse cx=\"71\" cy=\"-63\" rx=\"4\" ry=\"12\" transform=\"rotate(10 71 -63)\" fill=\"#7E7A75\"/><circle cx=\"74\" cy=\"-44\" r=\"2\" fill=\"#EDE3CF\"/></g><use href=\"#man\" x=\"730\" y=\"206\" width=\"62\" height=\"124\" style=\"color:#4B5E8C\"/><line x1=\"690\" y1=\"242\" x2=\"744\" y2=\"266\" stroke=\"#3B3431\" stroke-width=\"3\"/><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1A1F2E\"><text x=\"175\" y=\"352\">the one sitting in the wagon</text><text x=\"385\" y=\"350\">ox</text><text x=\"615\" y=\"350\">donkey</text><text x=\"761\" y=\"350\">the one leading</text></g><rect x=\"40\" y=\"370\" width=\"820\" height=\"94\" rx=\"10\" fill=\"#EDE7F2\"/><text x=\"60\" y=\"396\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Standard version:</text><text x=\"230\" y=\"396\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">leader and sitter get lashes; R. Meir exempts the sitter</text><text x=\"60\" y=\"422\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A3A6A\">Shmuel’s version:</text><text x=\"230\" y=\"422\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">the Rabbis exempt the sitter, and the halakha follows the Rabbis</text><text x=\"60\" y=\"450\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" font-style=\"italic\" fill=\"#1A1F2E\">So sitting is no act: a rider alone does not acquire, still less against a leader</text><text x=\"450\" y=\"488\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Bava Metzia 8b · Rav Yehuda’s proof</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s17",
+     "title": "The Reins Objection: Two Versions of the Exchange",
+     "amud": "8b",
+     "text": {
+      "from": "8b.6",
+      "to": "8b.8"
+     },
+     "gist": "A rider holds the reins while a wagon-sitter doesn't, but holding the reins of an ownerless animal does not acquire. The answer is reported in two versions: from Rav and Shmuel, or from Idi's baraita.",
+     "bullets": [
+      {
+       "text": "First version: Abaye tells Rav Yosef that he had often given this proof as his own reasoning, without citing Rav Yehuda. Rav Yosef had an illness that affected his memory, and Abaye suspected he had misattributed it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yosef: I do remember that Rav Yehuda gave it, and that I objected to him: how can you learn one sitting on an animal from one sitting in a wagon? The wagon-sitter doesn't hold the reins; the rider does.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yehuda answered: Rav and Shmuel both say that holding the reins of an ownerless animal does not acquire it. So sitting on the animal is no different from sitting in the wagon.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Second version: Abaye himself raised the reins objection to Rav Yosef, who answered from Idi's baraita: holding the reins of an ownerless animal does not acquire it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Sitting adds nothing, and the reins alone add nothing, so together they still add nothing. The proof from the wagon stands.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s18",
+     "title": "When Reins Acquire: From a Seller, Not a Found Animal",
+     "amud": "8b",
+     "text": {
+      "from": "8b.9",
+      "to": "8b.10"
+     },
+     "gist": "Reins acquire an animal from another person but not a found animal or a convert's estate, because the word means handing over.",
+     "bullets": [
+      {
+       "text": "R. Chelbo in the name of Rav Huna: taking the reins acquires an animal from another person. It does not acquire a found animal, or the property of a convert who died without heirs.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava, as Idi explained to him: the reins (*moseira*) are like a person handing (*moser*) an item to another. From a seller, he hands them over; with a found animal or a convert's property, who is handing them to him?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "What acquires is the transfer, not the grip. Where there is no one to transfer, holding the reins is only holding.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "R. Chelbo in the name of Rav Huna, as Rava explains it (8b): reins acquire when a seller hands them over, but a finder of an ownerless animal has no one to hand them to him.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two panels. Left: a seller hands a donkey's reins to a buyer. Right: a finder holds a donkey's reins with an empty dashed outline where a giver would stand.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">Reins: handed over, or merely taken up?</text><rect x=\"15\" y=\"56\" width=\"425\" height=\"350\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"460\" y=\"56\" width=\"425\" height=\"350\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"227\" y=\"88\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">From another person</text><text x=\"672\" y=\"88\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">A found animal or a convert’s property</text><line x1=\"30\" y1=\"311\" x2=\"425\" y2=\"311\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><line x1=\"475\" y1=\"311\" x2=\"870\" y2=\"311\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><g transform=\"translate(170,260)\"><path d=\"M-55 -6 q-14 8 -10 30\" stroke=\"#6E6A65\" stroke-width=\"4\" fill=\"none\"/><rect x=\"-42\" y=\"8\" width=\"9\" height=\"42\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"-24\" y=\"10\" width=\"9\" height=\"40\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"18\" y=\"10\" width=\"9\" height=\"40\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"34\" y=\"8\" width=\"9\" height=\"42\" rx=\"3\" fill=\"#5E5A56\"/><ellipse cx=\"0\" cy=\"0\" rx=\"55\" ry=\"24\" fill=\"#8E8A85\"/><path d=\"M38 -12 L60 -44 L76 -36 L54 6 Z\" fill=\"#8E8A85\"/><ellipse cx=\"72\" cy=\"-40\" rx=\"11\" ry=\"18\" transform=\"rotate(35 72 -40)\" fill=\"#7E7A75\"/><ellipse cx=\"62\" cy=\"-62\" rx=\"4\" ry=\"12\" transform=\"rotate(-10 62 -62)\" fill=\"#7E7A75\"/><ellipse cx=\"71\" cy=\"-63\" rx=\"4\" ry=\"12\" transform=\"rotate(10 71 -63)\" fill=\"#7E7A75\"/><circle cx=\"74\" cy=\"-44\" r=\"2\" fill=\"#EDE3CF\"/></g><use href=\"#man\" x=\"262\" y=\"196\" width=\"57\" height=\"114\" style=\"color:#8C5A3C\"/><use href=\"#man\" x=\"345\" y=\"196\" width=\"57\" height=\"114\" style=\"color:#4B5E8C\"/><path d=\"M246 222 Q268 236 290 248\" stroke=\"#3B3431\" stroke-width=\"3\" fill=\"none\"/><path d=\"M300 188 Q335 150 370 186\" stroke=\"#1B3A8A\" stroke-width=\"3\" fill=\"none\"/><path d=\"M370 186 l-11 -3 l6 -9 z\" fill=\"#1B3A8A\"/><text x=\"335\" y=\"140\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">hands over (moser)</text><text x=\"290\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">seller</text><text x=\"373\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">buyer</text><text x=\"227\" y=\"368\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">the reins pass from one to the other</text><text x=\"227\" y=\"394\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">he acquires</text><g transform=\"translate(600,260)\"><path d=\"M-55 -6 q-14 8 -10 30\" stroke=\"#6E6A65\" stroke-width=\"4\" fill=\"none\"/><rect x=\"-42\" y=\"8\" width=\"9\" height=\"42\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"-24\" y=\"10\" width=\"9\" height=\"40\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"18\" y=\"10\" width=\"9\" height=\"40\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"34\" y=\"8\" width=\"9\" height=\"42\" rx=\"3\" fill=\"#5E5A56\"/><ellipse cx=\"0\" cy=\"0\" rx=\"55\" ry=\"24\" fill=\"#8E8A85\"/><path d=\"M38 -12 L60 -44 L76 -36 L54 6 Z\" fill=\"#8E8A85\"/><ellipse cx=\"72\" cy=\"-40\" rx=\"11\" ry=\"18\" transform=\"rotate(35 72 -40)\" fill=\"#7E7A75\"/><ellipse cx=\"62\" cy=\"-62\" rx=\"4\" ry=\"12\" transform=\"rotate(-10 62 -62)\" fill=\"#7E7A75\"/><ellipse cx=\"71\" cy=\"-63\" rx=\"4\" ry=\"12\" transform=\"rotate(10 71 -63)\" fill=\"#7E7A75\"/><circle cx=\"74\" cy=\"-44\" r=\"2\" fill=\"#EDE3CF\"/></g><use href=\"#man\" x=\"700\" y=\"196\" width=\"57\" height=\"114\" style=\"color:#6B6F3A\"/><path d=\"M676 222 Q700 236 722 248\" stroke=\"#3B3431\" stroke-width=\"3\" fill=\"none\"/><rect x=\"790\" y=\"206\" width=\"55\" height=\"104\" rx=\"20\" fill=\"none\" stroke=\"#9A8A7A\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><text x=\"817\" y=\"268\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"30\" font-weight=\"600\" fill=\"#9A8A7A\">?</text><text x=\"728\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">finder</text><text x=\"817\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">no one</text><text x=\"817\" y=\"346\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">hands them</text><text x=\"672\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">who is handing them to him?</text><text x=\"672\" y=\"396\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5B6478\">he does not acquire</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "The Mishnah's Riders: Two Types of *Manhig*",
+     "amud": "8b",
+     "text": {
+      "from": "8b.11",
+      "to": "8b.12"
+     },
+     "gist": "The Mishnah seems to show that *rakhuv* acquires. The Gemara answers that its rider drives the animal with his legs, and he and the leader are equal, so they divide.",
+     "bullets": [
+      {
+       "text": "Objection from the Mishnah (two sitting, or one sitting and one leading, divide): whose view is it? If R. Meir's, then even one sitting in a wagon acquires, so why state riding? So it must be the Rabbis, and *rakhuv* acquires.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: the Mishnah's rider also leads, driving the animal by squeezing or kicking it with his legs.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If so, that is just leading. The Gemara answers that the *tanna* teaches two types of *manhig*, pulling by the reins and driving from the saddle.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "One might think the rider prevails, since he both leads the animal and holds it by the reins. The Mishnah teaches that his claim is no stronger than the leader's.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This answers Shmuel's original question for this case: two equal forms of leading over one animal, so each takes an oath and they divide.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s15",
+       "note": "Returns to whether the rider prevails over the leader"
+      }
+     ],
+     "illustration": {
+      "caption": "The Gemara's answer on the Mishnah (8b): the rider drives the animal with his legs, a second type of leading. Neither claim is stronger, so they divide.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A donkey with a rider kicking its flanks with his legs and another man leading it by a rope in front, labeled as two types of leading.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"0\" y=\"340\" width=\"900\" height=\"80\" fill=\"#D9C9A8\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">The Mishnah’s riders: two types of leading</text><g transform=\"translate(420,290)\"><path d=\"M-55 -6 q-14 8 -10 30\" stroke=\"#6E6A65\" stroke-width=\"4\" fill=\"none\"/><rect x=\"-42\" y=\"8\" width=\"9\" height=\"42\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"-24\" y=\"10\" width=\"9\" height=\"40\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"18\" y=\"10\" width=\"9\" height=\"40\" rx=\"3\" fill=\"#5E5A56\"/><rect x=\"34\" y=\"8\" width=\"9\" height=\"42\" rx=\"3\" fill=\"#5E5A56\"/><ellipse cx=\"0\" cy=\"0\" rx=\"55\" ry=\"24\" fill=\"#8E8A85\"/><path d=\"M38 -12 L60 -44 L76 -36 L54 6 Z\" fill=\"#8E8A85\"/><ellipse cx=\"72\" cy=\"-40\" rx=\"11\" ry=\"18\" transform=\"rotate(35 72 -40)\" fill=\"#7E7A75\"/><ellipse cx=\"62\" cy=\"-62\" rx=\"4\" ry=\"12\" transform=\"rotate(-10 62 -62)\" fill=\"#7E7A75\"/><ellipse cx=\"71\" cy=\"-63\" rx=\"4\" ry=\"12\" transform=\"rotate(10 71 -63)\" fill=\"#7E7A75\"/><circle cx=\"74\" cy=\"-44\" r=\"2\" fill=\"#EDE3CF\"/></g><use href=\"#man\" x=\"395\" y=\"180\" width=\"50\" height=\"100\" style=\"color:#6A4F7A\"/><path d=\"M396 296 l-16 10 M400 308 l-18 7\" stroke=\"#8C4A2A\" stroke-width=\"3\" stroke-linecap=\"round\"/><use href=\"#man\" x=\"555\" y=\"212\" width=\"64\" height=\"128\" style=\"color:#4B5E8C\"/><line x1=\"500\" y1=\"252\" x2=\"568\" y2=\"280\" stroke=\"#3B3431\" stroke-width=\"3\"/><rect x=\"30\" y=\"140\" width=\"300\" height=\"100\" rx=\"12\" fill=\"#E3EAF3\"/><text x=\"50\" y=\"170\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">Leading from the saddle</text><text x=\"50\" y=\"194\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">drives it by kicking</text><text x=\"50\" y=\"216\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">with his legs</text><line x1=\"330\" y1=\"215\" x2=\"378\" y2=\"292\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><rect x=\"650\" y=\"140\" width=\"230\" height=\"100\" rx=\"12\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"170\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">Leading by the reins</text><text x=\"670\" y=\"194\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">pulls it along</text><line x1=\"650\" y1=\"215\" x2=\"618\" y2=\"236\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"450\" y=\"378\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Neither claim is stronger: each takes an oath and they divide</text><text x=\"450\" y=\"402\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Bava Metzia 8b · the rider also leads it with his legs</text></svg>"
+     },
+     "continues": "Continues on 8b–9a: a baraita on two people pulling a camel or driving a donkey, and R. Yehuda's view, tested for whether *rakhuv* acquires.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "hagbahah",
+   "hebrew": "הגבהה",
+   "sense": "lifting as a mode of acquisition",
+   "definition": "Acquiring a movable item by lifting it. It is the standard way to take possession of an ownerless item such as a lost object.",
+   "on_this_daf": "Two people who lift a garment together each lift only part of it, which raises the question of whether either has lifted it.",
+   "aliases": [
+    "hagbahah"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s8"
+   ]
+  },
+  {
+   "term": "ha'magbia metziah la'chaveiro",
+   "hebrew": "המגביה מציאה לחבירו",
+   "sense": "lifting a found item on another's behalf",
+   "definition": "The question of whether a person who lifts an ownerless found item for someone else acquires it for that person, even though doing so keeps other finders from taking it.",
+   "on_this_daf": "Rami bar Chama derives from the Mishnah that the other person acquires. Rava holds that the Mishnah shows only acquisition by *migo*, and the Gemara searches for the clause Rami bar Chama relies on.",
+   "aliases": [
+    "ha'magbia metziah la'chaveiro kanah chaveiro"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s6",
+    "s8",
+    "s13"
+   ]
+  },
+  {
+   "term": "migo",
+   "hebrew": "מגו",
+   "sense": "acquiring for another along with oneself",
+   "definition": "Reasoning of the form \"since this is effective in one respect, it is effective in a related one\". In acquisition: one who acquires an item for himself can, by the same act, acquire part of it for another.",
+   "on_this_daf": "Rava explains the Mishnah's joint lifting and theft by partners through it, and applies it to a deaf-mute and a competent person lifting together.",
+   "aliases": [
+    "migo"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s13"
+   ]
+  },
+  {
+   "term": "cheresh",
+   "hebrew": "חרש",
+   "sense": "deaf-mute lacking legal capacity",
+   "definition": "A deaf-mute, classed in halakha among those without legal understanding. By Torah law he cannot perform most legal acts, though the Sages granted him some capacities.",
+   "on_this_daf": "A deaf-mute lifting a found item with a competent person does not acquire. Two deaf-mutes do, by an ordinance meant to prevent quarrels.",
+   "aliases": [
+    "deaf-mutes",
+    "deaf-mute"
+   ],
+   "sections": [
+    "s4",
+    "s5",
+    "s6",
+    "s7"
+   ]
+  },
+  {
+   "term": "rakhuv",
+   "hebrew": "רכוב",
+   "sense": "sitting on an animal as acquisition",
+   "definition": "Sitting on an animal in a riding position, considered as a possible way of acquiring it without making it move.",
+   "on_this_daf": "Shmuel's version of the Mishnah in Kilayim suggests that sitting is no act and does not acquire. The Mishnah's riders are read as driving the animal with their legs.",
+   "aliases": [
+    "rakhuv"
+   ],
+   "sections": [
+    "s12",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s19"
+   ]
+  },
+  {
+   "term": "manhig",
+   "hebrew": "מנהיג",
+   "sense": "leading an animal as acquisition",
+   "definition": "Leading or driving an animal so that it moves because of the person, a form of pulling (meshikhah) that acquires animals.",
+   "on_this_daf": "Leading alone surely acquires; the Gemara asks whether it prevails over a rider, and counts driving from the saddle as a second type of leading.",
+   "aliases": [
+    "manhig"
+   ],
+   "sections": [
+    "s14",
+    "s15",
+    "s19"
+   ]
+  },
+  {
+   "term": "moseira",
+   "hebrew": "מוסירא",
+   "sense": "acquiring an animal by its reins",
+   "definition": "Taking hold of an animal's reins as a way of acquiring it. It works when the reins are handed over by an owner.",
+   "on_this_daf": "Holding the reins of an ownerless animal does not acquire it, which rescues the proof from Kilayim; Rava ties the word to handing over (*moser*).",
+   "aliases": [
+    "moseira",
+    "reins"
+   ],
+   "sections": [
+    "s17",
+    "s18",
+    "s19"
+   ]
+  },
+  {
+   "term": "kilayim",
+   "hebrew": "כלאים",
+   "sense": "working with animals of diverse kinds",
+   "definition": "The prohibition of working two species together, as in plowing with an ox and a donkey (Devarim 22:10).",
+   "on_this_daf": "Whether one sitting in a wagon drawn by such animals is liable serves as the test of whether sitting counts as an action.",
+   "aliases": [
+    "kilayim",
+    "Kilayim"
+   ],
+   "sections": [
+    "s16",
+    "s17"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The deaf-mute case (s4) could stand as its own top-level section; kept under Rami bar Chama vs. Rava because Rava introduces it as a consequence of his *migo* principle.",
+  "The search for Rami bar Chama's source (s8) could nest under s1, since it serves his inference; made top-level because it is a self-contained survey of the Mishnah's clauses, opened by a new questioner.",
+  "The three formulations of the deaf-mute case were made children, not bullets of one section, since each has its own statement and objection.",
+  "The two versions of the reins exchange (s17) and R. Chelbo's ruling on reins (s18) could be one section; split because s18 is a separate statement defining when reins acquire, not part of the exchange.",
+  "The admission-or-witnesses clause (s13) is linked back to Rava's *migo* (s3) rather than moved beside it."
+ ],
+ "coverage_notes": [
+  "The division by monetary value (8a.1–8a.3), which the essay treats at the end of the previous shiur, lies outside this scope and is left out.",
+  "The essay describes partners who steal as each carrying part of the item; the text says both are liable even if only one lifted it. Followed the text.",
+  "The essay explains the revised deaf-mute formulation as the competent person lifting for the deaf-mute; the text gives the *migo* as 'since two deaf-mutes who lift together acquire'. Followed the text.",
+  "In the first version of the reins exchange, the essay has Abaye raising the reins objection and Idi answering. The text has Abaye questioning the attribution to Rav Yehuda (Rav Yosef's memory loss). Rav Yosef then recalls that he himself put the objection to Rav Yehuda, who answered from Rav and Shmuel. Idi's baraita is the answer only in the second version. Followed the text.",
+  "The essay calls the questioner 'Rav Acha the son of Rav Ada'; the text has Rav Acha son of Rav Adda. Followed the text.",
+  "The essay speaks of an ox and a donkey in Kilayim 8:3; the translation gives a horse and a donkey as the example of diverse kinds. The outline keeps to diverse kinds and the verse, and the illustration uses the verse's ox and donkey."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s17",
+    "subject": "The two versions of the reins exchange (who asks, who answers, source)",
+    "why_not": "Two versions that differ mainly in attribution; the bullets set them out clearly."
+   },
+   {
+    "section": "s18",
+    "subject": "Reins from a seller vs. from ownerless property",
+    "why_not": "Only two cases and one reason; the illustration carries it better."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s3",
+    "subject": "An agent sent to steal vs. partners who steal together",
+    "why_not": "The contrast is conceptual (agency for sin vs. *migo*), and liable/exempt would need colors reserved for permitted/forbidden."
+   },
+   {
+    "section": "s8",
+    "subject": "The Mishnah's five clauses as candidate sources",
+    "why_not": "A list of textual clauses, already charted; no scene to draw."
+   },
+   {
+    "section": "s11",
+    "subject": "The litigant claiming half to escape an oath",
+    "why_not": "A single strategic point that the bullets state plainly."
+   }
+  ]
+ }
+}

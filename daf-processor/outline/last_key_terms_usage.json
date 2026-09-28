@@ -1,0 +1,218 @@
+[
+ {
+  "id": "sanhedrin_6b__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 16542,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 2406
+ },
+ {
+  "id": "gittin_18_textonly__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 11916,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 3601
+ },
+ {
+  "id": "niddah_60__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 22224,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 3146
+ },
+ {
+  "id": "berakhot_31b__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 27875,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 3087
+ },
+ {
+  "id": "bava_metzia_11__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 15895,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 3328
+ },
+ {
+  "id": "shabbat_38__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 18633,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 2780
+ },
+ {
+  "id": "bava_batra_84__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 13817,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 2442
+ },
+ {
+  "id": "gittin_18__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 12939,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 3416
+ },
+ {
+  "id": "kiddushin_2__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 14060,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 3076
+ },
+ {
+  "id": "yevamot_33__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 15468,
+  "cache_read": 6008,
+  "cache_write": 0,
+  "out": 2152
+ },
+ {
+  "id": "shabbat_21__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 21307,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 2832
+ },
+ {
+  "id": "hullin_88__opus55",
+  "model": "claude-opus-5-5",
+  "stop": "end_turn",
+  "in": 15302,
+  "cache_read": 0,
+  "cache_write": 6008,
+  "out": 3160
+ },
+ {
+  "id": "gittin_18__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 12936,
+  "cache_read": 0,
+  "cache_write": 6009,
+  "out": 2854
+ },
+ {
+  "id": "berakhot_31b__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 27872,
+  "cache_read": 6009,
+  "cache_write": 0,
+  "out": 2493
+ },
+ {
+  "id": "bava_metzia_11__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 15892,
+  "cache_read": 6009,
+  "cache_write": 0,
+  "out": 2354
+ },
+ {
+  "id": "sanhedrin_6b__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 16539,
+  "cache_read": 6009,
+  "cache_write": 0,
+  "out": 1887
+ },
+ {
+  "id": "niddah_60__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 22221,
+  "cache_read": 6009,
+  "cache_write": 0,
+  "out": 2527
+ },
+ {
+  "id": "shabbat_38__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 18630,
+  "cache_read": 6009,
+  "cache_write": 0,
+  "out": 2130
+ },
+ {
+  "id": "bava_batra_84__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 13814,
+  "cache_read": 6009,
+  "cache_write": 0,
+  "out": 2115
+ },
+ {
+  "id": "shabbat_21__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 21304,
+  "cache_read": 6009,
+  "cache_write": 0,
+  "out": 2409
+ },
+ {
+  "id": "hullin_88__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 15299,
+  "cache_read": 0,
+  "cache_write": 6009,
+  "out": 1865
+ },
+ {
+  "id": "yevamot_33__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 15465,
+  "cache_read": 6009,
+  "cache_write": 0,
+  "out": 2435
+ },
+ {
+  "id": "gittin_18_textonly__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 11913,
+  "cache_read": 6009,
+  "cache_write": 0,
+  "out": 2488
+ },
+ {
+  "id": "kiddushin_2__sonnet5",
+  "model": "claude-sonnet-5",
+  "stop": "end_turn",
+  "in": 14057,
+  "cache_read": 6009,
+  "cache_write": 0,
+  "out": 2264
+ }
+]

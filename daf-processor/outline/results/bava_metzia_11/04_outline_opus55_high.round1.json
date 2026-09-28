@@ -1,0 +1,576 @@
+{
+ "daf": "Bava Metzia 11",
+ "scope": {
+  "start": "10b: the challenge to Abba Kohen Bardela from the *get* baraita (11a opens mid-answer)",
+  "end": "11b: Rav Ashi's distinction between a gift and a *get*, continuing on 12a"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Chatzer Mishum Yad: A Get, a Girl's Find, or a Boy's?",
+   "amud": "10b–11a",
+   "text": {
+    "from": "10b.17",
+    "to": "11a.4"
+   },
+   "gist": "The *get* baraita shows that a *chatzer* works as a *yad*, so the Gemara reframes the dispute of R. Yannai and Abba Kohen Bardela three ways: *get* vs. found item, girl vs. boy, or no dispute at all.",
+   "bullets": [
+    {
+     "text": "The question under the whole passage: is a *chatzer* an extension of the person (*yad*) or his agent (*shaliach*)? If it is *yad*, it should work for minors as their own hand does. Minors cannot appoint agents.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "The question of whether *chatzer* is *yad* or *shaliach* runs through the rest of the daf and the next Mishnah's discussion.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "Three ways to read the dispute of R. Yannai and Abba Kohen Bardela",
+    "columns": [
+     "",
+     "Common ground",
+     "The point in dispute"
+    ],
+    "rows": [
+     [
+      "First answer",
+      "A *chatzer* acts as her *yad* for a *get*",
+      "Is a found item in her *chatzer* learned from *get*? R. Yannai: yes; Abba Kohen Bardela: no"
+     ],
+     [
+      "Second answer",
+      "A *ketanah* acquires a found item in her *chatzer*",
+      "Is a *katan* learned from a *ketanah*? R. Yannai: yes; Abba Kohen Bardela: no"
+     ],
+     [
+      "Third answer",
+      "No disagreement at all",
+      "None: one statement concerns a girl's *get*, the other a minor's found item"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The three cases the Gemara weighs, in order: a *get* in a minor girl's *chatzer*, a found item in hers, and a found item in a minor boy's. The bands show where each of the three answers (10b–11a) places agreement and dispute.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three cases side by side: a get in a minor girl's courtyard, a found item in a minor girl's courtyard, and a found item in a minor boy's courtyard. Beneath them, three bands show where each of the Gemara's three answers places agreement and dispute.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"220\" y=\"16\" width=\"212\" height=\"170\" rx=\"12\" fill=\"#E3EAF3\"/><rect x=\"448\" y=\"16\" width=\"212\" height=\"170\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"676\" y=\"16\" width=\"212\" height=\"170\" rx=\"12\" fill=\"#E4EFE4\"/><rect x=\"246\" y=\"40\" width=\"160\" height=\"78\" fill=\"#EFE6D2\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><use href=\"#child\" x=\"262\" y=\"52\" width=\"30\" height=\"60\" style=\"color:#A8436E\"/><rect x=\"330\" y=\"72\" width=\"44\" height=\"32\" fill=\"#FFFFFF\" stroke=\"#8A7560\"/><path d=\"M336 82 h32 M336 90 h32 M336 98 h22\" stroke=\"#8A7560\" stroke-width=\"2\"/><text x=\"352\" y=\"64\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"14\" fill=\"#5A4A3A\">גט</text><text x=\"326\" y=\"146\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">A get</text><text x=\"326\" y=\"166\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">in a ketanah’s chatzer</text><rect x=\"474\" y=\"40\" width=\"160\" height=\"78\" fill=\"#EFE6D2\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><use href=\"#child\" x=\"490\" y=\"52\" width=\"30\" height=\"60\" style=\"color:#A8436E\"/><path d=\"M580 78 C566 84 564 110 586 112 C608 110 606 84 592 78 Z\" fill=\"#9A7440\"/><path d=\"M580 78 L586 70 L592 78\" stroke=\"#6B4A1A\" stroke-width=\"3\" fill=\"none\"/><text x=\"554\" y=\"146\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">A found item</text><text x=\"554\" y=\"166\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">in a ketanah’s chatzer</text><rect x=\"702\" y=\"40\" width=\"160\" height=\"78\" fill=\"#EFE6D2\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><use href=\"#child\" x=\"718\" y=\"52\" width=\"30\" height=\"60\" style=\"color:#4E7A8C\"/><path d=\"M808 78 C794 84 792 110 814 112 C836 110 834 84 820 78 Z\" fill=\"#9A7440\"/><path d=\"M808 78 L814 70 L820 78\" stroke=\"#6B4A1A\" stroke-width=\"3\" fill=\"none\"/><text x=\"782\" y=\"146\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">A found item</text><text x=\"782\" y=\"166\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">in a katan’s chatzer</text><text x=\"20\" y=\"230\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">First answer</text><text x=\"20\" y=\"248\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">get vs. found item</text><rect x=\"226\" y=\"208\" width=\"200\" height=\"50\" rx=\"10\" fill=\"#E4EFE4\" stroke=\"#3C7446\"/><text x=\"326\" y=\"238\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">Agreed: chatzer is her yad</text><rect x=\"454\" y=\"208\" width=\"200\" height=\"50\" rx=\"10\" fill=\"#F3E6D0\" stroke=\"#9A6212\"/><text x=\"554\" y=\"238\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#6B4A1A\">Disputed: learn from get?</text><text x=\"20\" y=\"300\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Second answer</text><text x=\"20\" y=\"318\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">girl vs. boy</text><rect x=\"226\" y=\"278\" width=\"200\" height=\"50\" rx=\"10\" fill=\"#E4EFE4\" stroke=\"#3C7446\"/><text x=\"326\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">Agreed: chatzer is her yad</text><rect x=\"454\" y=\"278\" width=\"200\" height=\"50\" rx=\"10\" fill=\"#E4EFE4\" stroke=\"#3C7446\"/><text x=\"554\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">Agreed: she acquires</text><rect x=\"682\" y=\"278\" width=\"200\" height=\"50\" rx=\"10\" fill=\"#F3E6D0\" stroke=\"#9A6212\"/><text x=\"782\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#6B4A1A\">Disputed: learn from girl?</text><text x=\"20\" y=\"370\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Third answer</text><text x=\"20\" y=\"388\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">no dispute</text><rect x=\"226\" y=\"348\" width=\"200\" height=\"50\" rx=\"10\" fill=\"#E4EFE4\" stroke=\"#3C7446\"/><text x=\"326\" y=\"378\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">One Sage: a valid get</text><rect x=\"454\" y=\"348\" width=\"428\" height=\"50\" rx=\"10\" fill=\"#ECE7DF\" stroke=\"#8E8A84\"/><text x=\"668\" y=\"378\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#4A3A2E\">The other Sage: a minor does not acquire it</text><text x=\"450\" y=\"426\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">R. Yannai and Abba Kohen Bardela · Bava Metzia 10b–11a</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "'Ve'natan': A Get on Her Roof, Chatzer or Karpef",
+     "amud": "10b",
+     "text": {
+      "from": "10b.17",
+      "to": "10b.17"
+     },
+     "gist": "A baraita derives from \"*ve'natan*\" that a *get* placed on her roof, in her *chatzer* or in her *karpef* divorces her, so how can anyone deny that a *chatzer* works as a *yad*?",
+     "bullets": [
+      {
+       "text": "The Gemara challenges Abba Kohen Bardela's position as it was explained: does anyone really deny that a *chatzer* is included because it acts as her *yad*?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Baraita on Devarim 24:1: \"*ve'natan be'yadah*\" alone would teach only her hand. From where do we know her roof, her *chatzer* or her *karpef*? \"*Ve'natan*\": she is divorced in any case. So a *chatzer* serves as an extension of her hand.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: the verb comes before its object, and this extends the giving beyond the literal hand.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: a *ketanah* too can receive a *get*, and the verse grounds her *chatzer* in her *yad*. So a minor girl's *chatzer* works as *yad*, not as *shaliach*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "First Answer: Does a Found Item Follow the Get?",
+     "amud": "10b–11a",
+     "text": {
+      "from": "10b.18",
+      "to": "11a.1"
+     },
+     "gist": "All agree that a *chatzer* acts as her *yad* for a *get*. R. Yannai learns found items from this and Abba Kohen Bardela does not.",
+     "bullets": [
+      {
+       "text": "For a *get*, everyone agrees that the *chatzer* is included because it acts as her *yad*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "They disagree about a found item (*metziah*) in her *chatzer*. R. Yannai derives *metziah* from *get*; Abba Kohen Bardela does not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why the two might differ: a *get* may need only to be placed on her, not acquired by her, and a *chatzer* counts as \"on her person.\" A *metziah* needs a real *kinyan*, and being in her domain may not supply one.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "So the *get* ruling proves that a *chatzer* is *yad* for placement. It leaves open whether, for acquisitions, it is *yad* or *shaliach*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Second Answer: A Ketanah's Chatzer vs. a Katan's",
+     "amud": "11a",
+     "text": {
+      "from": "11a.2",
+      "to": "11a.3"
+     },
+     "gist": "Alternatively, all agree that a minor girl acquires a found item in her *chatzer*. The dispute is whether a minor boy is learned from her.",
+     "bullets": [
+      {
+       "text": "For a *ketanah*, everyone derives *metziah* from *get*: she acquires an ownerless item found in her *chatzer*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yannai derives a *katan* from a *ketanah*, since the laws of acquisition should not differ between them. Abba Kohen Bardela does not: only a girl acquires through her *chatzer*, because the Torah included it for a *get*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A boy has no *get* for the verse to work through. The only way to treat his *chatzer* as *yad* is by analogy to the girl.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "Third Answer: No Dispute, Two Different Statements",
+     "amud": "11a",
+     "text": {
+      "from": "11a.4",
+      "to": "11a.4"
+     },
+     "gist": "Perhaps each Sage spoke of a different case: a girl divorced by a *get* in her *chatzer*, and minors who do not acquire a found item there.",
+     "bullets": [
+      {
+       "text": "There is no dispute. One statement was that a *ketanah* is divorced by a *get* placed in her *chatzer*. The other was that a minor boy or girl does not acquire an item found in his or her *chatzer*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is surprising. Once the Torah shows that a *chatzer* can act as *yad*, why should that hold for a *get* and not for a find? The answer must lie in what *yad* means in each context.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: a minor cannot acquire a *metziah* by Torah law, because he lacks *da'at*. If an adult actively places an item in a minor's *chatzer* to give it to him, *da'at acheret* may make it work even for a *katan*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "'Zakhtah Li Sadi': Crippled Deer and Fledglings vs. Runners and Flyers",
+   "amud": "11a",
+   "text": {
+    "from": "11a.5",
+    "to": "11a.5"
+   },
+   "gist": "A field acquires an ownerless animal that others are chasing only if the animal cannot escape: a deer with a broken leg or pigeons that cannot yet fly, not a running deer or flying birds.",
+   "bullets": [
+    {
+     "text": "Mishnah: one saw people running after a found animal, such as a deer with a broken leg or young pigeons (*gozalot*) that cannot yet fly. He said \"*zakhtah li sadi*\" (my field has acquired it for me), and his field acquires it for him.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "If the deer was running normally or the pigeons were flying, his declaration is nothing: a *chatzer* cannot acquire what will not stay in it.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Mishnah draws its line at containment: *kinyan chatzer* works only on what the field can actually hold.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "The others were chasing it first, yet the first valid *kinyan* is his, made through his field.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "illustration": {
+    "caption": "The Mishnah's two sets of cases (11a): a deer with a broken leg and pigeons too young to fly stay in the field, so it acquires them; a running deer and flying pigeons do not, so his declaration is nothing.",
+    "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two fields. In the left one, a deer with a broken leg and young pigeons on the ground; the owner says zakhtah li sadi and acquires them. In the right one, a deer running and pigeons flying; the same declaration achieves nothing.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"425\" height=\"430\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"460\" y=\"15\" width=\"425\" height=\"430\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"227\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#24592E\">His field acquires it</text><text x=\"227\" y=\"76\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#3C7446\">זכתה לו</text><rect x=\"35\" y=\"232\" width=\"385\" height=\"140\" rx=\"8\" fill=\"#CFDDB6\"/><text x=\"410\" y=\"252\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3C5A2E\">his field</text><text x=\"36\" y=\"150\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">people chasing it</text><use href=\"#person\" x=\"36\" y=\"160\" width=\"34\" height=\"68\" style=\"color:#8C5A3C\"/><use href=\"#person\" x=\"74\" y=\"162\" width=\"34\" height=\"68\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"356\" y=\"96\" width=\"54\" height=\"108\" style=\"color:#4B5E8C\"/><rect x=\"196\" y=\"104\" width=\"150\" height=\"40\" rx=\"20\" fill=\"#FFFFFF\" stroke=\"#24592E\" stroke-width=\"2\"/><text x=\"271\" y=\"129\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">“Zakhtah li sadi”</text><text x=\"271\" y=\"166\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#3C7446\">זכתה לי שדי</text><path d=\"M117 276 l-8 -4\" stroke=\"#A8744A\" stroke-width=\"4\" stroke-linecap=\"round\"/><ellipse cx=\"160\" cy=\"282\" rx=\"44\" ry=\"18\" fill=\"#A8744A\"/><path d=\"M130 296 V326 M146 298 V326 M178 298 V326\" stroke=\"#7A5234\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><path d=\"M192 296 L200 310 L188 322\" stroke=\"#7A5234\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/><path d=\"M194 274 L212 250\" stroke=\"#A8744A\" stroke-width=\"10\" stroke-linecap=\"round\"/><ellipse cx=\"218\" cy=\"246\" rx=\"13\" ry=\"9\" fill=\"#A8744A\"/><path d=\"M213 238 L207 222 M210 230 L202 226 M222 238 L226 222 M224 230 L232 226\" stroke=\"#6B4A1A\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"/><circle cx=\"222\" cy=\"244\" r=\"1.8\" fill=\"#3B3431\"/><text x=\"208\" y=\"328\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">broken leg</text><ellipse cx=\"300\" cy=\"326\" rx=\"11\" ry=\"7\" fill=\"#9AA7BD\"/><circle cx=\"310\" cy=\"320\" r=\"5\" fill=\"#9AA7BD\"/><path d=\"M315 319 l5 1 l-5 2 z\" fill=\"#C98A3A\"/><ellipse cx=\"332\" cy=\"332\" rx=\"11\" ry=\"7\" fill=\"#9AA7BD\"/><circle cx=\"342\" cy=\"326\" r=\"5\" fill=\"#9AA7BD\"/><path d=\"M347 325 l5 1 l-5 2 z\" fill=\"#C98A3A\"/><ellipse cx=\"364\" cy=\"326\" rx=\"11\" ry=\"7\" fill=\"#9AA7BD\"/><circle cx=\"374\" cy=\"320\" r=\"5\" fill=\"#9AA7BD\"/><path d=\"M379 319 l5 1 l-5 2 z\" fill=\"#C98A3A\"/><text x=\"334\" y=\"358\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">young pigeons, not yet flying</text><text x=\"227\" y=\"402\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">It cannot get away, so the field holds it</text><text x=\"227\" y=\"422\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">a deer with a broken leg · pigeons that cannot fly</text><text x=\"672\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">He has said nothing</text><text x=\"672\" y=\"76\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">לא אמר כלום</text><rect x=\"480\" y=\"232\" width=\"385\" height=\"140\" rx=\"8\" fill=\"#CFDDB6\"/><text x=\"855\" y=\"252\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3C5A2E\">his field</text><text x=\"481\" y=\"150\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">people chasing it</text><use href=\"#person\" x=\"481\" y=\"160\" width=\"34\" height=\"68\" style=\"color:#8C5A3C\"/><use href=\"#person\" x=\"519\" y=\"162\" width=\"34\" height=\"68\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"801\" y=\"96\" width=\"54\" height=\"108\" style=\"color:#4B5E8C\"/><rect x=\"641\" y=\"104\" width=\"150\" height=\"40\" rx=\"20\" fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"716\" y=\"129\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">“Zakhtah li sadi”</text><text x=\"716\" y=\"166\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#7A4A2A\">זכתה לי שדי</text><path d=\"M548 266 h-22 M552 280 h-30 M548 294 h-22\" stroke=\"#8A7560\" stroke-width=\"2\" stroke-linecap=\"round\"/><ellipse cx=\"610\" cy=\"278\" rx=\"44\" ry=\"17\" fill=\"#A8744A\" transform=\"rotate(-8 610 278)\"/><path d=\"M580 288 L556 312 M592 290 L572 318 M632 284 L660 304 M642 280 L672 294\" stroke=\"#7A5234\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><path d=\"M646 266 L664 244\" stroke=\"#A8744A\" stroke-width=\"10\" stroke-linecap=\"round\"/><ellipse cx=\"672\" cy=\"240\" rx=\"13\" ry=\"9\" fill=\"#A8744A\"/><path d=\"M667 232 L661 216 M664 224 L656 220 M676 232 L680 216 M678 224 L686 220\" stroke=\"#6B4A1A\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"/><circle cx=\"676\" cy=\"238\" r=\"1.8\" fill=\"#3B3431\"/><text x=\"610\" y=\"346\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">running normally</text><ellipse cx=\"760\" cy=\"300\" rx=\"9\" ry=\"5\" fill=\"#9AA7BD\"/><path d=\"M746 290 Q754 298 760 300 Q766 298 774 290\" stroke=\"#6F7C92\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><ellipse cx=\"800\" cy=\"284\" rx=\"9\" ry=\"5\" fill=\"#9AA7BD\"/><path d=\"M786 274 Q794 282 800 284 Q806 282 814 274\" stroke=\"#6F7C92\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><ellipse cx=\"836\" cy=\"306\" rx=\"9\" ry=\"5\" fill=\"#9AA7BD\"/><path d=\"M822 296 Q830 304 836 306 Q842 304 850 296\" stroke=\"#6F7C92\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"800\" y=\"346\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">pigeons in flight</text><text x=\"672\" y=\"402\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">It will not stay, so the field cannot hold it</text><text x=\"672\" y=\"422\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">a running deer · pigeons that fly</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s7",
+   "title": "Omed Be'tzad Sadehu: Standing by an Unsecured Field",
+   "amud": "11a",
+   "text": {
+    "from": "11a.6",
+    "to": "11a.21"
+   },
+   "gist": "Shmuel requires the owner to stand beside his field. The Gemara explains this as the rule for an unsecured *chatzer*, proves it from *shikhchah*, and cites Ulla and Rabba bar bar Chana in agreement.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s8",
+     "title": "Why Stand There? Chatzer Ha'mishtameret vs. an Open Field",
+     "amud": "11a",
+     "text": {
+      "from": "11a.6",
+      "to": "11a.8"
+     },
+     "gist": "Shmuel's condition seems to clash with R. Yosei b. R. Chanina's rule that a *chatzer* acquires even without its owner's knowledge. The answer: that rule is for a secured *chatzer*, and an open field acquires only while its owner stands by it.",
+     "bullets": [
+      {
+       "text": "Rav Yehuda in Shmuel's name: the Mishnah's acquisition works only when the owner is *omed be'tzad sadehu*, standing next to his field.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "At first this looks like the same axis as the Mishnah. The broken leg keeps the animal from escaping by itself, and the owner's presence keeps it from getting away. Together they make the field hold it.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Difficulty: R. Yosei b. R. Chanina says that a person's *chatzer* acquires for him even without his knowledge.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot likewise: the Mishnah's declaration \"*zakhtah li sadi*\" is *lav davka*, not required. The field would acquire without it.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Answer: that rule concerns a *chatzer ha'mishtameret*, where items stay put unattended. A *chatzer she'einah mishtameret* acquires only if the owner is standing beside it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A field is the typical unsecured domain: open land with no fence. The owner's presence does for it what a wall does for a yard.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "When a *chatzer* acquires an ownerless item",
+      "columns": [
+       "",
+       "Owner standing beside it",
+       "Owner away"
+      ],
+      "rows": [
+       [
+        "*Chatzer ha'mishtameret* (secured)",
+        "Acquires",
+        "Acquires, even without his knowledge"
+       ],
+       [
+        "*Chatzer she'einah mishtameret* (an open field)",
+        "Acquires",
+        "Does not acquire"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "R. Yosei b. R. Chanina's rule and Shmuel's condition side by side (11a): a secured courtyard acquires even in the owner's absence, while an open field acquires only while he stands beside it.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three panels: a walled courtyard with a found item and no owner, which acquires; an open field with the owner standing beside it, which acquires; the same field with the owner absent, which does not acquire.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"280\" height=\"380\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"310\" y=\"15\" width=\"280\" height=\"380\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"605\" y=\"15\" width=\"280\" height=\"380\" rx=\"14\" fill=\"#ECE7DF\"/><text x=\"155\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5A2A12\">Secured courtyard</text><text x=\"155\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#7A4A2A\">חצר המשתמרת</text><rect x=\"55\" y=\"110\" width=\"200\" height=\"170\" fill=\"#EFE6D2\" stroke=\"#8A7560\" stroke-width=\"7\"/><rect x=\"140\" y=\"275\" width=\"30\" height=\"10\" fill=\"#6E5B46\"/><rect x=\"65\" y=\"120\" width=\"60\" height=\"50\" fill=\"#D9C9A8\" stroke=\"#8A7560\"/><path d=\"M184 206 C170 212 168 238 190 240 C212 238 210 212 196 206 Z\" fill=\"#9A7440\"/><path d=\"M184 206 L190 198 L196 206\" stroke=\"#6B4A1A\" stroke-width=\"3\" fill=\"none\"/><text x=\"190\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">found item</text><text x=\"155\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#24592E\">Acquires</text><text x=\"155\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">even without his knowledge</text><text x=\"155\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">(R. Yosei b. R. Chanina)</text><text x=\"450\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#24592E\">Open field, owner beside it</text><text x=\"450\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#3C7446\">חצר שאינה משתמרת</text><rect x=\"335\" y=\"150\" width=\"230\" height=\"130\" rx=\"6\" fill=\"#CFDDB6\"/><path d=\"M415 166 v14 M445 174 v14 M475 168 v14 M505 172 v14 M535 168 v14 M360 250 v14 M400 256 v14 M440 250 v14 M548 250 v14\" stroke=\"#8FA876\" stroke-width=\"2\"/><use href=\"#man\" x=\"340\" y=\"96\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><path d=\"M494 206 C480 212 478 238 500 240 C522 238 520 212 506 206 Z\" fill=\"#9A7440\"/><path d=\"M494 206 L500 198 L506 206\" stroke=\"#6B4A1A\" stroke-width=\"3\" fill=\"none\"/><text x=\"500\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">found item</text><text x=\"450\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#24592E\">Acquires</text><text x=\"450\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">while he stands beside it</text><text x=\"450\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">(Shmuel)</text><text x=\"745\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#8A2A2A\">Open field, owner away</text><text x=\"745\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#7A4A2A\">חצר שאינה משתמרת</text><rect x=\"630\" y=\"150\" width=\"230\" height=\"130\" rx=\"6\" fill=\"#CFDDB6\"/><path d=\"M710 166 v14 M740 174 v14 M770 168 v14 M800 172 v14 M830 168 v14 M655 250 v14 M695 256 v14 M735 250 v14 M843 250 v14\" stroke=\"#8FA876\" stroke-width=\"2\"/><use href=\"#man\" x=\"635\" y=\"96\" width=\"50\" height=\"100\" style=\"color:#8E8A84\" opacity=\"0.25\"/><text x=\"692\" y=\"140\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">not there</text><path d=\"M789 206 C775 212 773 238 795 240 C817 238 815 212 801 206 Z\" fill=\"#9A7440\"/><path d=\"M789 206 L795 198 L801 206\" stroke=\"#6B4A1A\" stroke-width=\"3\" fill=\"none\"/><text x=\"795\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">found item</text><text x=\"745\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#8A2A2A\">Does not acquire</text><text x=\"745\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">when he is not beside it</text><text x=\"745\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">(Shmuel)</text><text x=\"450\" y=\"422\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Rav Yehuda in Shmuel’s name, and the Gemara’s answer (11a)</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s9",
+     "title": "The Source: Shikhchah, the Owner in the Field or in Town",
+     "amud": "11a",
+     "text": {
+      "from": "11a.9",
+      "to": "11a.20"
+     },
+     "gist": "A baraita on the forgotten sheaf, once untangled, shows that a field acquires a sheaf for its owner only while he stands there. The Gemara then defends this reading against the alternative that the rule is a Torah edict.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s10",
+       "title": "The Owner in Town Who 'Remembers': A Baraita at Odds with Itself",
+       "amud": "11a",
+       "text": {
+        "from": "11a.9",
+        "to": "11a.11"
+       },
+       "gist": "The baraita asks whether a sheaf the owner remembered from town and later forgot is *shikhchah*, then derives \"in the field, not in the town,\" and seems to answer both ways.",
+       "bullets": [
+        {
+         "text": "The Gemara asks for the source of the rule that an unsecured *chatzer* acquires only while its owner stands beside it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Baraita: an owner standing in town says, \"I know my laborers forgot a sheaf, but since I remember it, it shall not be *shikhchah*.\" Then he himself forgot it. One might think it is not *shikhchah*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The verse (Devarim 24:19) says \"and you forget a sheaf in the field\": in the field, and not in the town.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The difficulty: \"one might think it is not *shikhchah*\" implies that it is. \"In the field, not in the town\" implies that a sheaf forgotten from town is not.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s11",
+       "title": "Forgotten at the Outset vs. Remembered, Then Forgotten",
+       "amud": "11a",
+       "text": {
+        "from": "11a.12",
+        "to": "11a.13"
+       },
+       "gist": "In the field, a sheaf remembered and then forgotten is not *shikhchah*, because his field acquires it for him while he stands there. From town, even a remembered sheaf becomes *shikhchah*.",
+       "bullets": [
+        {
+         "text": "The owner in the field: a sheaf forgotten from the outset is *shikhchah*. One he remembered and later forgot is not.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The reason: since he stands beside it, his field is like his *chatzer*, and it acquires the sheaf for him once he remembers it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The owner in town: even a sheaf remembered and then forgotten is *shikhchah*, because he is not beside it for his *chatzer* to acquire it. So an item in a person's *chatzer* is acquired only if he stands next to it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A more intuitive reason would be supervision: while the owner is present and aware, the gathering has not been abandoned. The Gemara frames it as possession instead.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "The field cannot acquire the sheaf after it has become *shikhchah*, since by then it belongs to the poor. His standing there must mean he never lost hold of it.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The formal rule has sharp edges. Suppose he steps twenty feet away to a neighbor's door just as the laborers forget. The sheaf is *shikhchah*, though he remembers it and will be back in a moment.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "chart": {
+        "caption": "The forgotten sheaf, by where the owner is",
+        "columns": [
+         "",
+         "Forgotten at the outset",
+         "Remembered, then forgotten"
+        ],
+        "rows": [
+         [
+          "Owner in the field",
+          "*Shikhchah*",
+          "Not *shikhchah*: his field acquires it for him"
+         ],
+         [
+          "Owner in the town",
+          "*Shikhchah*",
+          "*Shikhchah*: he is not beside it"
+         ]
+        ]
+       },
+       "illustration": {
+        "caption": "The Gemara's reading of the baraita (11a): the same remembered-then-forgotten sheaf stays the owner's if he is standing in the field, but becomes *shikhchah* for the poor if he is in town.",
+        "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: an owner stands in his field beside a sheaf that he remembered and then forgot, while the laborers move on; it is not shikhchah. Right: the owner is in town and the sheaf in the field goes to the poor; it is shikhchah.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"425\" height=\"430\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"460\" y=\"15\" width=\"425\" height=\"430\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"227\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#24592E\">Owner in the field</text><text x=\"227\" y=\"74\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#3C7446\">בשדה</text><rect x=\"35\" y=\"100\" width=\"385\" height=\"240\" rx=\"8\" fill=\"#E8DDB5\"/><path d=\"M88 300 L96 266 L104 266 L112 300 Z\" fill=\"#C9A15C\"/><rect x=\"92\" y=\"280\" width=\"16\" height=\"4\" fill=\"#8A6A2E\"/><path d=\"M96 266 l-6 -10 M100 266 v-12 M104 266 l6 -10\" stroke=\"#C9A15C\" stroke-width=\"3\" stroke-linecap=\"round\"/><text x=\"155\" y=\"192\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">owner</text><use href=\"#man\" x=\"130\" y=\"196\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#person\" x=\"290\" y=\"160\" width=\"40\" height=\"80\" style=\"color:#8C5A3C\"/><use href=\"#person\" x=\"340\" y=\"164\" width=\"40\" height=\"80\" style=\"color:#6A4F7A\"/><text x=\"335\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">laborers, moving on</text><text x=\"100\" y=\"318\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">remembered,</text><text x=\"100\" y=\"334\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">then forgotten</text><text x=\"227\" y=\"374\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#24592E\">Not shikhchah</text><text x=\"227\" y=\"398\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">his field acquires it for him</text><text x=\"227\" y=\"418\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">while he stands beside it</text><text x=\"672\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">Owner in the town</text><text x=\"672\" y=\"74\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">בעיר</text><rect x=\"486\" y=\"180\" width=\"52\" height=\"60\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"544\" y=\"164\" width=\"58\" height=\"76\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"504\" y=\"196\" width=\"12\" height=\"12\" fill=\"#6E5B46\"/><rect x=\"566\" y=\"212\" width=\"14\" height=\"28\" fill=\"#6E5B46\"/><text x=\"627\" y=\"162\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">owner</text><use href=\"#man\" x=\"604\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#4B5E8C\"/><text x=\"545\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#1A1F2E\">town</text><path d=\"M662 100 V340\" stroke=\"#8A7560\" stroke-width=\"2\" stroke-dasharray=\"6 6\"/><rect x=\"672\" y=\"100\" width=\"193\" height=\"240\" rx=\"8\" fill=\"#E8DDB5\"/><text x=\"768\" y=\"124\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5A4A3A\">his field</text><path d=\"M708 300 L716 266 L724 266 L732 300 Z\" fill=\"#C9A15C\"/><rect x=\"712\" y=\"280\" width=\"16\" height=\"4\" fill=\"#8A6A2E\"/><path d=\"M716 266 l-6 -10 M720 266 v-12 M724 266 l6 -10\" stroke=\"#C9A15C\" stroke-width=\"3\" stroke-linecap=\"round\"/><use href=\"#person\" x=\"780\" y=\"216\" width=\"40\" height=\"80\" style=\"color:#6B6F3A\"/><text x=\"800\" y=\"314\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">the poor</text><text x=\"720\" y=\"318\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">remembered,</text><text x=\"720\" y=\"334\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#3B3431\">then forgotten</text><text x=\"672\" y=\"374\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">Shikhchah</text><text x=\"672\" y=\"398\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">even though he remembered it</text><text x=\"672\" y=\"418\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">he was not beside it</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s12",
+       "title": "Torah Edict or Kinyan Chatzer? 'Lo Tashuv' and 'Yihyeh'",
+       "amud": "11a",
+       "text": {
+        "from": "11a.14",
+        "to": "11a.20"
+       },
+       "gist": "Perhaps the field/town distinction is only a Torah edict. The Gemara shows that the Torah includes sheaves forgotten from town, first from \"*lo tashuv*\" and, when that phrase is needed elsewhere, from Rav Ashi's \"*yihyeh*.\"",
+       "flag": "Gemara text only",
+       "bullets": [
+        {
+         "text": "Rejection: perhaps it is a *gezeirat ha'katuv*. In the field it is *shikhchah* and in town it is not, with no connection to acquisition.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Reply: \"*lo tashuv lekachto*\" (you shall not go back to take it) includes sheaves forgotten from town. So town and field do not differ in principle, and the difference must come from *kinyan chatzer*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Objection: the phrase is needed to prohibit taking the forgotten sheaf. Reply: then the verse should say \"do not take it\"; \"go back\" is extra.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Objection: \"*lo tashuv*\" is needed for Pe'ah 7:4. A sheaf still ahead of the harvester is not *shikhchah*, one already behind him is, and the rule is whatever falls under \"do not go back.\"",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Ashi: the inclusion comes from \"*yihyeh*\" (it shall be). So the first reading stands: the difference rests on the owner standing beside his *chatzer*, as Shmuel said.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s13",
+     "title": "Ulla and Rabba bar bar Chana: The Same Condition",
+     "amud": "11a",
+     "text": {
+      "from": "11a.21",
+      "to": "11a.21"
+     },
+     "gist": "Two more amora'im also require the owner to stand beside his field.",
+     "bullets": [
+      {
+       "text": "Ulla says the Mishnah's acquisition works only when he is *omed be'tzad sadehu*, and Rabba bar bar Chana says so too.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the requirement is not Shmuel's alone but widely held.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "title": "Rabban Gamliel's Tithes at Sea: Chatzer, Agav or Da'at Acheret?",
+   "amud": "11a–11b → 12a",
+   "text": {
+    "from": "11a.22",
+    "to": "11b.11"
+   },
+   "gist": "R. Abba challenges Ulla from tithes transferred through rented land far away. The Gemara answers with *kinyan agav*, defended against Rava's *tovat hana'ah* objection, and with Rav Pappa's *da'at acheret*, which Rav Shimi tests against a *get*.",
+   "bullets": [],
+   "chart": {
+    "caption": "How Rabban Gamliel's tithes passed, and what that means for Ulla's rule",
+    "columns": [
+     "",
+     "How the tithes passed",
+     "Key reasoning",
+     "Effect on Ulla's rule"
+    ],
+    "rows": [
+     [
+      "R. Abba",
+      "Through the rented place, as their *chatzer*",
+      "The recipients were on the ship, not beside the field",
+      "Contradicts it"
+     ],
+     [
+      "Sage in Sura",
+      "*Kinyan agav*: movables along with the rented land",
+      "Not a *chatzer* acquisition at all",
+      "No difficulty"
+     ],
+     [
+      "Rava",
+      "Through the *chatzer*",
+      "*Tovat hana'ah* is not property: neither *chalifin* nor land can transfer it",
+      "R. Abba was right"
+     ],
+     [
+      "The Gemara, rejecting Rava",
+      "*Kinyan agav*",
+      "Tithes must be given; *chalifin* is a sale, *agav* is a form of giving",
+      "No difficulty"
+     ],
+     [
+      "Rav Pappa",
+      "Even through a *chatzer*",
+      "*Da'at acheret makneh*: a transfer from a giver needs less",
+      "No difficulty"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s15",
+     "title": "The Incident on the Ship, and Ulla's Brush-Off",
+     "amud": "11a–11b",
+     "text": {
+      "from": "11a.22",
+      "to": "11b.3"
+     },
+     "gist": "Rabban Gamliel gave tithes still in his fields to R. Yehoshua and R. Akiva by renting them the place, though none of them stood by the field. Ulla dismissed the question.",
+     "bullets": [
+      {
+       "text": "Ma'aser Sheni 5:9: Rabban Gamliel and the Elders were traveling on a ship. He said: the tenth I will measure out is given to Yehoshua ben Chananya, a Levi, and its place is rented to him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The other tenth, the *ma'aser ani*, is given to Akiva ben Yosef to acquire for the poor, and its place is rented to him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: he had left home without tithing and wanted to keep his household from eating *tevel*, so he separated the tithes from afar. Tosafot: \"which I will measure out\" does not sound like separating now. The tithes had already been separated and had to be given away, at the end-of-three-years deadline.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "R. Abba: were R. Yehoshua and R. Akiva standing next to Rabban Gamliel's field? They were all on the ship. So a *chatzer* acquires without its owner standing beside it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot presses further: was the place even *mishtameret*? Grain in an open field is not. Even in a house, the household did not know which portion was now theirs and could take it.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Ulla: \"This one seems like a Sage who has not studied *halakha*.\" He dismissed the question without answering it.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "The incident from Ma'aser Sheni 5:9 as R. Abba presents it (11a–11b): Rabban Gamliel, at sea, gives the tithes and rents their place in his fields to R. Yehoshua and R. Akiva, who are with him on the ship.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A ship at sea carrying Rabban Gamliel, R. Yehoshua and R. Akiva. Rabban Gamliel declares the tithes given and their places rented. Far off on shore are his fields, with two plots rented to R. Yehoshua and R. Akiva. R. Abba asks whether they were standing next to the field.</title><rect width=\"900\" height=\"460\" fill=\"url(#sky)\"/><rect x=\"0\" y=\"300\" width=\"900\" height=\"160\" fill=\"#9DBBD3\"/><path d=\"M30 444 q15 -8 30 0 t30 0 t30 0 M740 330 q15 -8 30 0 t30 0 t30 0 M740 440 q15 -8 30 0 t30 0 t30 0\" stroke=\"#EAF2F8\" stroke-width=\"3\" fill=\"none\"/><path d=\"M560 300 L570 250 Q700 232 900 238 L900 300 Z\" fill=\"#D9C9A8\"/><rect x=\"610\" y=\"252\" width=\"90\" height=\"32\" fill=\"#CFDDB6\" stroke=\"#8FA876\" stroke-width=\"2\"/><rect x=\"745\" y=\"250\" width=\"90\" height=\"32\" fill=\"#CFDDB6\" stroke=\"#8FA876\" stroke-width=\"2\"/><text x=\"655\" y=\"200\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#1A1F2E\">place of the tithe,</text><text x=\"655\" y=\"216\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#1A1F2E\">rented to R. Yehoshua</text><path d=\"M655 222 V252\" stroke=\"#5B6478\" stroke-width=\"1.5\"/><text x=\"790\" y=\"160\" text-an"
+     }
+    }
+   ]
+  }
+ ]
+}

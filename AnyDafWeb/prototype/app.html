@@ -1,0 +1,648 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>__TITLE__</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;1,6..72,500&family=Public+Sans:wght@400;500;600&family=Frank+Ruhl+Libre:wght@400;500;700&display=swap">
+<style>
+:root{--ground:#F4F5F9;--panel:#FFFFFF;--ink:#1A1F2E;--muted:#5B6478;--line:#DCE0EA;--blue:#1B3A8A;--teal:#2C6A6E;--teal-line:#B9D3D4;--amber:#9A6212;--amber-soft:#FBF1DF;--grey-soft:#EEF0F4;--link:#6B4FA0;--term:#E4EAF8;--current:#1B3A8A;--range:#EAF0FB;--range-edge:#1B3A8A;--shadow:0 12px 40px rgba(20,30,60,.18);
+--serif:"Newsreader",Georgia,"Times New Roman",serif;--sans:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--hebrew:"Frank Ruhl Libre","Times New Roman",serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--ok:#7CC48A;--no:#EE8F8F}}
+:root[data-theme="dark"]{color-scheme:dark;--ok:#7CC48A;--no:#EE8F8F;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5)}
+html,body{height:100%}
+/* the base rules claude.ai adds to every page, repeated here so the page also works on its own (Vercel) */
+[hidden]{display:none!important}
+body{margin:0}
+img{max-width:100%}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+body{background:var(--ground);color:var(--ink);font:15px/1.55 var(--sans);display:flex;flex-direction:column;overflow:hidden}
+__RENDERER_CSS__
+.bar{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--line);background:var(--panel)}
+.bar h1{font:600 1.25rem/1.2 var(--serif);margin:0 8px 0 0;white-space:nowrap}
+.bar h1 small{font:500 12px var(--sans);color:var(--muted);margin-left:8px;letter-spacing:.02em}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;background:var(--ground);padding:2px}
+.seg button{font:500 12.5px var(--sans);border:0;background:none;color:var(--muted);padding:5px 11px;border-radius:999px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--blue);color:var(--panel)}
+.tog{display:inline-flex;align-items:center;gap:5px;font-size:12.5px;color:var(--muted);cursor:pointer}
+.tog input{accent-color:var(--blue)}
+.btn{font:500 12.5px var(--sans);border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:5px 12px;border-radius:999px;cursor:pointer}
+.btn[aria-pressed="true"]{background:var(--blue);border-color:var(--blue);color:var(--panel)}
+/* Contents sits above its column: far left by default, far right when the sides are swapped;
+   hidden where the column itself doesn't show. */
+#railBtn{order:-1}
+body.textleft #railBtn{order:99}
+@media (max-width:1099px){#railBtn{display:none}}
+.spacer{flex:1}
+button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+/* Column widths come from --gemw (the text side, % of the page) and --railw (the contents
+   column), both set by dragging the dividers. */
+.main{--gemw:46%;--railw:230px;flex:1;min-height:0;display:grid;grid-template-columns:minmax(0,1fr) var(--gemw)}
+.main.textleft{grid-template-columns:var(--gemw) minmax(0,1fr)}
+.main.textleft .gem{order:-1;border-left:0;border-right:1px solid var(--line)}
+/* "At a glance" in its own column on wide screens, so it stays in view; inline at the top of the
+   outline otherwise. It sits on the outline's outer side, whichever side the text pane is on. */
+.railp{display:none;overflow-y:auto;min-height:0;border-right:1px solid var(--line);background:var(--panel);padding:14px 12px 30px;overscroll-behavior:contain}
+@media (min-width:1100px){
+ .main.rail{grid-template-columns:var(--railw) minmax(0,1fr) var(--gemw)}
+ .main.rail.textleft{grid-template-columns:var(--gemw) minmax(0,1fr) var(--railw)}
+ .main.rail .railp{display:block}
+ .main.rail.textleft .railp{order:1;border-right:0;border-left:1px solid var(--line)}
+ .main.rail #outline .ado-glance{display:none}
+}
+.pane{overflow-y:auto;min-height:0;overscroll-behavior:contain;position:relative}
+.out{padding:18px 28px 40vh}
+.terms{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 6px;padding-bottom:14px;border-bottom:1px solid var(--line)}
+.terms .lbl{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-right:4px}
+.terms button{font:500 13px var(--sans);background:var(--term);color:var(--ink);border:0;border-radius:999px;padding:3px 10px;cursor:pointer}
+.terms button span{font-family:var(--hebrew);margin-left:6px;color:var(--muted)}
+.gem{border-left:1px solid var(--line);background:var(--panel);display:flex;flex-direction:column;min-height:0}
+.gemhead{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;padding:10px 18px;border-bottom:1px solid var(--line)}
+.now{flex-basis:100%;font-size:12.5px;color:var(--muted);min-height:1.4em}
+.now b{color:var(--ink);font-weight:600}
+.now code{font:500 11.5px var(--sans);font-variant-numeric:tabular-nums;color:var(--blue)}
+.text{padding:8px 18px 40vh}
+.item{display:grid;grid-template-columns:minmax(0,1fr);gap:0 10px;padding:10px 8px;border-radius:6px;cursor:pointer;border-left:3px solid transparent;scroll-margin-top:8px}
+.item:hover{background:var(--grey-soft)}
+.item.in{background:var(--range);border-left-color:var(--range-edge)}
+.item.ctx{opacity:.55}
+.item .lab,.quote .q-lab{display:none}
+.item .he{font:400 1.12rem/1.75 var(--hebrew);direction:rtl;text-align:right;margin:0}
+.item .en{margin:4px 0 0;font-size:14px;color:var(--muted)}
+.item .en b{color:var(--ink);font-weight:600}
+.item .note{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+.gem[data-lang="he"] .en,.gem[data-lang="en"] .he,.gem[data-lang="he"] .q-en,.gem[data-lang="en"] .q-he{display:none}
+.gem[data-lang="en"] .en{margin-top:0}
+.seg.lang button{font-family:var(--hebrew),var(--sans);font-size:13.5px;min-width:2.4em}
+.iconbtn{font:500 12.5px var(--sans);border:1px solid var(--line);background:var(--panel);color:var(--muted);padding:5px 10px;border-radius:999px;cursor:pointer}
+.shiur{padding:10px 22px 40vh;max-width:70ch}
+.shiur h2{font:600 1.2rem/1.3 var(--serif);color:var(--blue);margin:26px 0 4px;text-wrap:balance}
+.shiur h3{font:italic 500 1.05rem/1.35 var(--serif);margin:18px 0 4px;text-wrap:balance}
+.shiur p{margin:8px 0}
+.shiur hr{border:0;border-top:1px solid var(--line);margin:22px 0}
+.shiur .amudbreak{padding-inline:0}
+.quote{margin:10px 0;padding:8px 12px;border-left:3px solid var(--line);background:var(--ground);border-radius:0 6px 6px 0;cursor:pointer}
+.quote.in{border-left-color:var(--range-edge);background:var(--range)}
+.quote .q-he{font:400 1.08rem/1.75 var(--hebrew);direction:rtl;text-align:right;margin:4px 0}
+.quote .q-en{font-size:14px;color:var(--muted);margin:2px 0 6px}
+.quote .q-en b{color:var(--ink);font-weight:600}
+.quote .q-lab{font:600 10.5px var(--sans);color:var(--muted);font-variant-numeric:tabular-nums}
+.amudbreak{font:600 12px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:18px 8px 6px;display:flex;gap:10px;align-items:center}
+.amudbreak::after{content:"";flex:1;height:1px;background:var(--line)}
+.page{padding:12px 14px 12px;display:flex;flex-direction:column;gap:10px;height:100%;box-sizing:border-box}
+#pagePane{overflow:hidden}
+.pagebar{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center}
+.pagebar .folio{font:500 1.05rem var(--hebrew)}
+.pageimg{flex:1;min-height:0;border:1px solid var(--line);border-radius:4px;overflow:auto;background:#FFF;overscroll-behavior:contain;touch-action:none}
+.pageimg.pan{cursor:grab}.pageimg.pan.grabbing{cursor:grabbing}
+.pageimg img{-webkit-user-drag:none;user-select:none;pointer-events:none}
+.pageimg img{display:block;width:calc(100% * var(--pz,1));max-width:none;height:auto}
+/* Size sliders at the foot of each side, as in AnyTorah web: the outline's also sizes the
+   contents column; the text side's sizes the Gemara and shiur, and zooms the daf page. Text sizes
+   use CSS zoom on the content, so the renderer's own proportions (headings, charts, pictures)
+   scale together. */
+.col{display:flex;flex-direction:column;min-height:0;min-width:0;position:relative}
+/* Drag handles on the outline column's two edges: one toward the text side, one toward the
+   contents column. Double-click resets. */
+.gutter{position:absolute;top:0;bottom:0;width:9px;z-index:4;cursor:col-resize;touch-action:none}
+.gutter::after{content:"";position:absolute;top:0;bottom:0;left:4px;width:1px;background:transparent;transition:background .15s}
+.gutter:hover::after,.gutter.drag::after{background:var(--blue);width:2px}
+.g-gem{right:-5px}.g-rail{left:-5px}
+.main.textleft .g-gem{right:auto;left:-5px}.main.textleft .g-rail{left:auto;right:-5px}
+.g-rail{display:none}
+@media (min-width:1100px){.main.rail .g-rail{display:block}}
+body.dragging{cursor:col-resize;user-select:none}
+.col>.pane{flex:1}
+.foot{display:flex;align-items:center;justify-content:flex-end;gap:6px;padding:6px 14px;border-top:1px solid var(--line);background:var(--panel);font-size:11px;color:var(--muted)}
+.foot .fa{opacity:.6;line-height:1}
+.foot .fa.sm{font-size:10px}.foot .fa.lg{font-size:14px}
+.foot input{width:88px;accent-color:var(--blue)}
+.foot .fl{min-width:4.6em;opacity:.8}
+.zoomable{zoom:var(--fz,1)}
+.page p{font-size:12.5px;color:var(--muted);margin:0;max-width:60ch}
+.pick{font:600 1.2rem/1.2 var(--serif);color:var(--ink);background:var(--ground);border:1px solid var(--line);border-radius:6px;padding:4px 8px}
+.bar .sub{font:500 12px var(--sans);color:var(--muted)}
+.approx{display:block;font-size:12px;color:var(--amber);margin-top:2px}
+.loading{padding:40px 28px;color:var(--muted)}
+.credit{font-size:11.5px;color:var(--muted);padding:14px 8px 0}
+.gwin{position:fixed;z-index:20;right:24px;top:84px;width:min(380px,calc(100vw - 32px));height:min(560px,calc(100% - 120px));background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);display:flex;flex-direction:column;resize:both;overflow:hidden;min-width:260px;min-height:220px}
+.gwin header{display:flex;align-items:center;gap:8px;padding:8px 8px 8px 14px;border-bottom:1px solid var(--line);cursor:move;user-select:none;touch-action:none}
+.gwin header h2{font:600 13px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin:0;flex:1}
+.gwin header button{font:500 18px/1 var(--sans);border:0;background:none;color:var(--muted);width:28px;height:28px;border-radius:6px;cursor:pointer}
+.gwin header button:hover{background:var(--grey-soft)}
+.gwin .search{padding:8px 14px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.gwin .search input{flex:1 1 160px}
+.gwin input{width:100%;box-sizing:border-box;font:14px var(--sans);padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--ground);color:var(--ink)}
+.gwin .glist{overflow-y:auto;padding:0 14px 14px;flex:1}
+/* sages pop-out */
+#swin{width:min(560px,calc(100vw - 32px));height:min(640px,calc(100% - 120px));right:48px;top:108px}
+.swtools{display:flex;align-items:center;gap:10px;padding:8px 14px;border-bottom:1px solid var(--line);font-size:12px;color:var(--muted)}
+.slist{overflow-y:auto;flex:1;padding:0 14px 14px}
+/* the timeline stays put above the cards, with its own scrolling */
+.stl{flex:0 0 auto;max-height:42%;overflow:auto;padding:8px 14px 6px 0;border-bottom:1px solid var(--line);position:relative}
+.stl:empty,.stl:empty+.sgrip{display:none}
+.stl.sized{max-height:none}
+.sgrip{flex:0 0 auto;height:9px;cursor:row-resize;touch-action:none;position:relative;margin-top:-5px;z-index:1}
+.sgrip::after{content:"";position:absolute;left:50%;top:3px;width:36px;height:3px;margin-left:-18px;border-radius:2px;background:var(--line)}
+.sgrip:hover::after,.sgrip.drag::after{background:var(--blue)}
+#swin.big{width:min(1180px,calc(100vw - 32px));height:calc(100% - 96px);left:16px;right:auto;top:80px}
+#swin::after{content:"";position:absolute;right:3px;bottom:3px;width:10px;height:10px;border-right:2px solid var(--line);border-bottom:2px solid var(--line);pointer-events:none}
+.tlg button.on{background:var(--blue);color:var(--panel)}
+/* the Eretz Yisrael / Bavel labels stay in view while the timeline scrolls sideways */
+/* no padding on the scroller's left, so the pinned labels reach the panel's edge; the labels
+   carry the indent themselves */
+.tlg .rh,.tlg .corner{position:sticky;left:0;background:var(--panel);z-index:1;padding-left:14px}
+.tlnote{padding-left:14px}
+.tlnote{font-size:11px;color:var(--muted);margin:4px 0 0;position:sticky;left:0}
+.tlg{display:grid;grid-template-columns:calc(5.2rem + 14px) repeat(14,minmax(58px,1fr));min-width:880px;font-size:11px}
+.tlg>div{border-left:1px solid var(--line);padding:3px 3px;display:flex;flex-direction:column;gap:2px;align-items:flex-start}
+.tlg .hd{font:600 10.5px var(--sans);color:var(--muted);letter-spacing:.04em;border-left-color:transparent;padding-bottom:4px}
+.tlg .hd.era{grid-column:span 6;border-left:1px solid var(--line);text-transform:uppercase}
+.tlg .hd.era.am{grid-column:span 8}
+.tlg .rh{font:600 10.5px var(--sans);color:var(--muted);text-transform:uppercase;letter-spacing:.04em;border-left:0;justify-content:center}
+.tlg .row2{border-top:1px dashed var(--line)}
+.tlg button{font:500 11px/1.25 var(--sans);text-align:left;border:0;border-radius:4px;padding:1px 5px;background:var(--term);color:var(--ink);cursor:pointer;max-width:100%}
+.tlg button.moved{background:var(--amber-soft)}
+.tlg button:hover{outline:1px solid var(--blue)}
+.sage{padding:12px 4px 14px;border-top:1px solid var(--line);scroll-margin-top:6px;border-radius:4px}
+.sage:first-child{border-top:0}
+.sage.hit{background:var(--term);padding-inline:10px}
+.sage h3{margin:0;display:flex;justify-content:space-between;gap:12px;align-items:baseline;font:600 1.05rem/1.3 var(--serif);color:var(--blue)}
+.sage h3 span{font:500 1.05rem var(--hebrew);color:var(--ink)}
+.sage .meta{font-size:12.5px;color:var(--muted);margin:2px 0 0}
+.sage .meta b{font-weight:600;color:var(--ink)}
+.sage .guess{font-size:12px;color:var(--amber);margin:3px 0 0}
+.sage .row{display:flex;flex-wrap:wrap;gap:5px;align-items:baseline;margin-top:7px;font-size:12.5px}
+.sage .row>span:first-child{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);min-width:4.8rem}
+.sage .row button{font:500 12px var(--sans);text-align:left;border:0;border-radius:999px;padding:2px 9px;cursor:pointer;background:var(--grey-soft);color:var(--link)}
+.sage .row .p{color:var(--muted);font-size:12px}
+.sage details{margin-top:7px;font-size:13.5px}
+.sage summary{font:500 12px var(--sans);color:var(--link);cursor:pointer}
+.sage details p{margin:4px 0 0;max-width:62ch}
+.sage .links{font-size:12px;margin-top:6px}.sage .links a{color:var(--link);margin-right:12px}
+
+@media (max-width:860px){
+ .main{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1.2fr) minmax(0,1fr)}
+ .gutter{display:none!important}
+ .gem,.main.textleft .gem{border-left:0;border-right:0;border-top:1px solid var(--line)}
+ .main.textleft .gem{border-top:0;border-bottom:1px solid var(--line)}
+ .main.textleft{grid-template-columns:minmax(0,1fr)}
+ .out{padding:14px 16px 30vh}.text{padding:6px 10px 30vh}
+ .bar h1{flex-basis:100%}
+ .gwin{left:0;right:0;top:auto;bottom:0;width:auto;height:60%;border-radius:12px 12px 0 0;resize:none;padding-bottom:env(safe-area-inset-bottom,0px)}
+ .gwin header{cursor:default}
+}
+
+/* reader feedback: a Flag on every section, notes saved to the site's feedback table */
+.fl{font:500 11px var(--sans);color:var(--muted);background:none;border:1px solid var(--line);border-radius:999px;padding:1px 8px;cursor:pointer;margin-left:6px;vertical-align:middle}
+.fl:hover,.fl:focus-visible{color:var(--blue);border-color:var(--blue)}
+.fl.has{background:var(--amber-soft);border-color:var(--amber);color:var(--amber)}
+dialog.fb{border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink);padding:18px;width:min(480px,calc(100vw - 32px));box-shadow:var(--shadow)}
+dialog.fb::backdrop{background:rgba(16,19,27,.35)}
+dialog.fb h3{margin:0 0 4px;font:600 1.05rem/1.3 var(--serif)}
+dialog.fb .where{font-size:12.5px;color:var(--muted);margin:0 0 10px}
+dialog.fb label{display:block;font:600 12px var(--sans);color:var(--muted);margin:10px 0 4px}
+dialog.fb select,dialog.fb textarea,dialog.fb input{width:100%;box-sizing:border-box;font:14px var(--sans);padding:7px 9px;border:1px solid var(--line);border-radius:6px;background:var(--ground);color:var(--ink)}
+dialog.fb textarea{min-height:96px;resize:vertical}
+dialog.fb .two{display:grid;grid-template-columns:1fr 1fr;gap:0 10px}
+dialog.fb .row{display:flex;gap:8px;justify-content:flex-end;flex-wrap:wrap;margin-top:14px}
+dialog.fb .msg{font-size:13px;margin:10px 0 0;color:var(--muted)}
+dialog.fb .msg.err{color:var(--amber)}
+dialog.fb ul{margin:8px 0 0;padding:0;list-style:none;display:grid;gap:6px;max-height:50vh;overflow:auto}
+dialog.fb li{font-size:13px;background:var(--ground);border-radius:6px;padding:6px 8px}
+dialog.fb li b{font-weight:600}
+dialog.fb .fine{font-size:12px;color:var(--muted);margin:8px 0 0}
+#fbText{min-height:140px;font:12.5px/1.45 ui-monospace,Menlo,monospace}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+__SPRITE__
+<div class="bar">
+ <label class="sr" for="dafPick" hidden>Daf</label>
+ <select class="pick" id="dafPick" aria-label="Daf"></select><span class="sub">Study outline</span>
+ <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
+ <label class="tog"><input type="checkbox" id="optShiur" checked> Shiur insights</label>
+ <label class="tog"><input type="checkbox" id="optCharts" checked> Charts</label>
+ <label class="tog"><input type="checkbox" id="optPictures" checked> Pictures</label>
+ <label class="tog"><input type="checkbox" id="optSages" checked> Sages</label>
+ <span class="spacer"></span>
+ <button class="btn" id="railBtn" aria-pressed="true" title="Show the contents beside the outline (wide screens)">Contents</button>
+ <button class="btn" id="glossBtn" aria-pressed="false">Glossary</button>
+ <button class="btn" id="sagesBtn" aria-pressed="false">Sages</button>
+ <button class="btn" id="notesBtn" type="button" title="Notes you've sent on this daf">Feedback</button>
+ <div class="seg" id="paneSeg" role="group" aria-label="Beside the outline"><button data-p="page">Daf</button><button data-p="text" aria-pressed="true">Gemara</button><button data-p="shiur">Shiur</button></div>
+ <button class="iconbtn" id="sideBtn" type="button" aria-label="Move the text to the other side">⇄ Swap sides</button>
+</div>
+<div class="main rail" id="main">
+ <nav class="railp" aria-label="At a glance"><div class="zoomable" id="rail"></div></nav>
+ <div class="col" id="outCol">
+  <div class="pane" id="outPane"><div class="out zoomable" id="outZoom"><div class="terms" id="terms"></div><div id="outline"><p class="loading">Loading…</p></div></div></div>
+  <div class="foot" id="outFoot"></div>
+  <div class="gutter g-gem" id="gGem" role="separator" aria-orientation="vertical" aria-label="Resize the text side" title="Drag to resize · double-click to reset"></div>
+  <div class="gutter g-rail" id="gRail" role="separator" aria-orientation="vertical" aria-label="Resize the contents column" title="Drag to resize · double-click to reset"></div>
+ </div>
+ <aside class="gem" id="gem" data-lang="both" aria-label="Gemara">
+  <div class="gemhead">
+   <div class="seg lang" id="langSeg" role="group" aria-label="Language"><button data-l="he" aria-label="Hebrew only">א</button><button data-l="both" aria-pressed="true" aria-label="Hebrew and English">אA</button><button data-l="en" aria-label="English only">A</button></div>
+   <label class="tog"><input type="checkbox" id="syncTog" checked> Follow the outline</label>
+   <div class="now" id="now" aria-live="polite"></div>
+  </div>
+  <div class="pane" id="textPane"><div class="text zoomable" id="text"></div></div>
+  <div class="pane" id="shiurPane" hidden><div class="shiur zoomable" id="shiur"></div></div>
+  <div class="pane" id="pagePane" hidden><div class="page">
+   <div class="pagebar"><span class="folio" id="folio"></span><div class="seg" id="amudSeg" role="group" aria-label="Amud"></div></div>
+   <div class="pageimg" id="pageImg"><img id="pageEl" alt=""></div>
+   <p>Turns to the amud of the section you're reading. Zoom with the slider below, then drag the page (or scroll) to move around it.</p>
+  </div></div>
+  <div class="foot" id="gemFoot"></div>
+ </aside>
+</div>
+<div class="gwin" id="gwin" hidden role="dialog" aria-labelledby="gwinTitle">
+ <header id="gwinBar"><h2 id="gwinTitle">Key terms</h2><button type="button" id="gwinClose" aria-label="Close glossary">×</button></header>
+ <div class="search"><input id="gq" type="search" placeholder="Filter terms" aria-label="Filter terms">
+  <div class="seg" id="gOrder" role="group" aria-label="Order"><button data-o="daf" aria-pressed="true">As they appear</button><button data-o="alpha">A–Z</button></div></div>
+ <div class="glist" id="glist"></div>
+</div>
+<div class="gwin" id="swin" hidden role="dialog" aria-labelledby="swinTitle">
+ <header id="swinBar"><h2 id="swinTitle">Sages</h2><button type="button" id="swinBig" aria-pressed="false" aria-label="Make the box larger" title="Larger / smaller">⤢</button><button type="button" id="swinClose" aria-label="Close sages">×</button></header>
+ <div class="swtools"><span>Order</span><div class="seg" id="sOrder" role="group" aria-label="Order"><button data-o="daf" aria-pressed="true">As they appear</button><button data-o="alpha">A–Z</button><button data-o="era">By era</button></div></div>
+ <div class="stl" id="stl"></div>
+ <div class="sgrip" id="sgrip" role="separator" aria-orientation="horizontal" aria-label="Resize the timeline" title="Drag to show more or less of the timeline · double-click to reset"></div>
+ <div class="slist" id="slist"></div>
+</div>
+<dialog class="fb" id="fbDlg"><form method="dialog" id="fbForm">
+ <h3>Send a note on this outline</h3><p class="where" id="fbWhere"></p>
+ <label for="fbKind">What kind of note</label>
+ <select id="fbKind">
+  <option value="content">Content: something wrong, unclear or missing</option>
+  <option value="heading">A better heading</option><option value="gist">A better summary line</option>
+  <option value="structure">Structure: should be a subsection, moved, merged or split</option>
+  <option value="add_chart">A chart would help here</option><option value="fix_chart">Fix this chart</option>
+  <option value="add_picture">A picture would help here</option><option value="fix_picture">Fix this picture</option>
+  <option value="praise">This works well</option><option value="other">Other</option>
+ </select>
+ <label for="fbNote">Your note</label>
+ <textarea id="fbNote" required maxlength="4000"></textarea>
+ <div class="two"><div><label for="fbName">Your name (optional)</label><input id="fbName" maxlength="120" autocomplete="name"></div>
+ <div><label for="fbEmail">Email, if you'd like a reply</label><input id="fbEmail" type="email" maxlength="200" autocomplete="email"></div></div>
+ <p class="msg" id="fbMsg" hidden></p>
+ <div class="row"><button class="btn" value="cancel" formnovalidate>Cancel</button><button class="btn" id="fbSend" value="send" aria-pressed="true">Send note</button></div>
+</form></dialog>
+<dialog class="fb" id="fbList"><h3>Your notes</h3><p class="where" id="fbListWhere"></p>
+ <ul id="fbItems"></ul>
+ <textarea id="fbText" readonly hidden aria-label="Your notes as text"></textarea>
+ <p class="msg" id="fbListMsg" hidden></p>
+ <div class="row"><button class="btn" type="button" id="fbWhole">Note on the whole daf</button><button class="btn" type="button" id="fbCopy" hidden>Copy my notes</button><button class="btn" type="button" id="fbClose">Close</button></div>
+ <p class="fine" id="fbFine"></p>
+</dialog>
+<script>__RENDERER_JS__</script>
+<script>
+const DAFIM=__DAFIM__;
+const $=id=>document.getElementById(id);
+const {md,esc}=AnyDafOutline;
+const prefs=(()=>{try{return JSON.parse(localStorage.getItem('adw')||'{}')}catch(e){return {}}})();
+function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch(e){}}
+const outPane=$('outPane'),textPane=$('textPane'),shiurPane=$('shiurPane');
+
+// ---------- state for the daf on screen ----------
+let D=null,view=null,railView=null,secs=[],itemEls=[],itemOrd=[],quoteEls=[],gloss=null,current=null,mode='text',amudShown=null;
+let textHold=0,outHold=0,raf=0;
+
+// Section -> first amud it covers ("37b–38a" -> 37b); used when a section has no line anchors.
+const firstAmud=s=>(String(s.amud||'').match(/\d+[ab]/)||[''])[0];
+
+function renderDaf(d){
+ D=d;current=null;
+ // Gemara
+ let last='';
+ $('text').innerHTML=d.items.map((it,i)=>{const am=it.l.split('.')[0];
+  const brk=am!==last?`<div class="amudbreak" data-amud="${esc(am)}">${esc(d.tractate)} ${esc(am)}</div>`:'';last=am;
+  return `${brk}<div class="item${it.ctx?' ctx':''}" data-i="${i}"><span class="lab" hidden>${esc(it.l)}</span><div>${it.ctx?`<div class="note">${esc(it.ctx)}</div>`:''}<p class="he" lang="he">${esc(it.he)}</p><p class="en">${md(it.en)}</p></div></div>`}).join('')
+  +`<p class="credit">English: The William Davidson Talmud, Sefaria (CC BY-NC).</p>`;
+ itemEls=[...document.querySelectorAll('#text .item')];itemOrd=d.items.map(it=>d.order[it.l]);
+ // Shiur
+ $('shiur').innerHTML=d.shiur.length?d.shiur.map(b=>{
+  if(b.t==='amud')return `<div class="amudbreak">${esc(d.tractate)} ${esc(b.x)}</div>`;
+  if(b.t==='h2')return `<h2>${md(b.x)}</h2>`;if(b.t==='h3')return `<h3>${md(b.x)}</h3>`;if(b.t==='hr')return '<hr>';
+  if(b.t==='q')return b.pairs.map(q=>`<div class="quote" data-o="${q.o??-1}"><span class="q-lab">${esc(q.l||'')}</span><p class="q-he" lang="he">${esc(q.he)}</p><p class="q-en">${md(q.en)}</p></div>`).join('');
+  return `<p>${md(b.x)}</p>`}).join(''):'<p>There is no written shiur for this daf yet.</p>';
+ quoteEls=[...document.querySelectorAll('#shiur .quote')].filter(q=>+q.dataset.o>=0);
+ // Outline
+ const terms=d.keyTerms||[];
+ // The contents list's depth is one setting shared by its two copies (side column, top of outline).
+ const gd=prefs.glanceDepth||2,onDepth=n=>{prefs.glanceDepth=n;savePrefs();view&&view.setGlanceDepth(n);railView&&railView.setDepth(n)};
+ view=AnyDafOutline.render($('outline'),{outline:d.outline,keyTerms:terms,onTerm:i=>openGloss(i),onSection:id=>setCurrent(id,true),glanceDepth:gd,onGlanceDepth:onDepth,
+  sages:d.sages||[],onSage:i=>openSage(i)});
+ railView=AnyDafOutline.glance($('rail'),d.outline,{onSection:id=>setCurrent(id,true),depth:gd,onDepth});
+ applyOptions();
+ secs=view.sections.map(s=>({...s,a:d.order[s.from],b:d.order[s.to],am:firstAmud(s)}));
+ refreshFlags();
+ const titles=Object.fromEntries(secs.map(s=>[s.id,s.title]));
+ $('terms').innerHTML=terms.length?`<span class="lbl">Key terms</span>${terms.map((t,i)=>`<button type="button" data-t="${i}">${esc(t.term)}<span lang="he">${esc(t.hebrew)}</span></button>`).join('')}`:'';
+ gloss=AnyDafOutline.glossary($('glist'),terms,{titles,onSection:id=>setCurrent(id,true),order:prefs.gOrder||'daf'});$('gq').value='';
+ $('gwinTitle').textContent=`Key terms · ${d.title}`;
+ // Page images
+ $('amudSeg').innerHTML=d.amudim.filter(a=>d.images[a]).map(a=>`<button data-a="${esc(a)}">${esc(d.amudHe[a]||a)}</button>`).join('');
+ $('amudSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>showAmud(b.dataset.a,true));
+ amudShown=null;showAmud(d.amudim.find(a=>d.images[a]));
+ outPane.scrollTop=0;textPane.scrollTop=0;shiurPane.scrollTop=0;
+ renderSages(d.sages||[]);$('sagesBtn').hidden=!(d.sages||[]).length;
+ if(secs.length)setCurrent(secs[0].id);
+}
+
+function showAmud(a,manual){
+ if(!a||!D.images[a]||a===amudShown)return;amudShown=a;
+ $('pageEl').src=D.images[a];$('pageEl').alt=`${D.tractate} ${a}, Vilna page`;
+ $('folio').textContent=`${D.tractateHe} ${D.amudHe[a]||a}`;
+ $('amudSeg').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.a===a)));
+ if(manual)textHold=Date.now()+4000;
+}
+
+// ---------- sync ----------
+function setCurrent(id,fromClick){
+ const s=secs.find(x=>x.id===id);if(!s||(current===id&&!fromClick))return;
+ current=id;view.markCurrent(id);railView&&railView.mark(id);
+ const ranged=s.a!=null&&s.b!=null;
+ itemEls.forEach((el,i)=>el.classList.toggle('in',ranged&&itemOrd[i]>=s.a&&itemOrd[i]<=s.b));
+ quoteEls.forEach(q=>q.classList.toggle('in',ranged&&+q.dataset.o>=s.a&&+q.dataset.o<=s.b));
+ $('now').innerHTML=`Reading <b>${md(s.title)}</b> · ${esc(s.amud||'')}`
+  +(ranged?'':`<span class="approx">This outline predates line links, so the text follows by amud only.</span>`);
+ if(fromClick){outHold=Date.now()+900;view.scrollToSection(id)}
+ if(!$('syncTog').checked||Date.now()<textHold)return;
+ if(mode==='page'){showAmud(ranged?s.from.split('.')[0]:s.am);return}
+ if(mode==='text'){let top=null;
+  if(ranged){const i=itemOrd.findIndex(o=>o>=s.a);if(i>=0)top=posIn(textPane,itemEls[i])}
+  else{const b=$('text').querySelector(`.amudbreak[data-amud="${CSS.escape(s.am)}"]`);if(b)top=posIn(textPane,b)}
+  if(top!=null)textPane.scrollTo({top:top-8,behavior:'smooth'})}
+ if(mode==='shiur'&&ranged){const q=shiurTarget(s);if(q)shiurPane.scrollTo({top:posIn(shiurPane,q)-12,behavior:'smooth'})}
+}
+// Where el sits inside a scrolling pane, from on-screen positions (correct under CSS zoom).
+const posIn=(pane,el)=>el.getBoundingClientRect().top-pane.getBoundingClientRect().top+pane.scrollTop;
+function shiurTarget(s){let inRange=null,before=null;
+ for(const q of quoteEls){const o=+q.dataset.o;if(o>=s.a&&o<=s.b){inRange=q;break}if(o<s.a&&(!before||o>=+before.dataset.o))before=q}
+ return inRange||before}
+function sectionForOrder(o){let best=null;for(const s of secs)if(s.a!=null&&o>=s.a&&o<=s.b)best=s;return best}
+function sectionAtLine(){const line=outPane.getBoundingClientRect().top+110;let best=null;
+ for(const s of secs){const r=s.el.getBoundingClientRect();if(r.top<=line&&r.bottom>line)best=s}
+ return best||secs[0]}
+outPane.addEventListener('scroll',()=>{if(raf||Date.now()<outHold||!secs.length)return;raf=requestAnimationFrame(()=>{raf=0;setCurrent(sectionAtLine().id)})},{passive:true});
+['wheel','touchmove','keydown'].forEach(ev=>[textPane,shiurPane].forEach(p=>p.addEventListener(ev,()=>textHold=Date.now()+1500,{passive:true})));
+$('text').onclick=e=>{const it=e.target.closest('.item');if(!it)return;const s=sectionForOrder(itemOrd[+it.dataset.i]);if(s){textHold=Date.now()+1500;setCurrent(s.id,true)}};
+$('shiur').onclick=e=>{const q=e.target.closest('.quote');if(!q)return;const s=sectionForOrder(+q.dataset.o);if(s){textHold=Date.now()+1500;setCurrent(s.id,true)}};
+
+// ---------- size sliders (AnyTorah web's six steps) ----------
+const FONT_LEVELS=[-2,-1,0,2,4,6],FONT_LABELS={'-2':'Smallest','-1':'Small','0':'Default','2':'Large','4':'Larger','6':'Largest'};
+const ZOOMS=[1,1.25,1.5,1.75,2,2.5];
+const fontScale=l=>(15+2*l)/15;   // AnyTorah: px = base + 2 × level
+function slider(foot,{label,steps,names,value,onInput}){
+ foot.innerHTML=`<span class="fa sm" aria-hidden="true">A</span><input type="range" min="0" max="${steps.length-1}" step="1" aria-label="${label}"><span class="fa lg" aria-hidden="true">A</span><span class="fl"></span>`;
+ const r=foot.querySelector('input'),lab=foot.querySelector('.fl');
+ const show=()=>{const v=steps[+r.value];lab.textContent=names(v);r.title=names(v);r.setAttribute('aria-valuetext',names(v))};
+ r.oninput=()=>{show();onInput(steps[+r.value])};
+ return{set(v,lbl){foot.querySelector('input').setAttribute('aria-label',lbl||label);const i=steps.indexOf(v);r.value=i<0?steps.indexOf(steps.find(x=>x===0||x===1)):i;show()}};
+}
+function applyOut(l){[$('outZoom'),$('rail')].forEach(el=>el.style.setProperty('--fz',fontScale(l)))}
+function applyText(l){[$('text'),$('shiur')].forEach(el=>el.style.setProperty('--fz',fontScale(l)))}
+// Zoom around the middle of what's in view, so the part you were reading stays put.
+function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyValue('--pz'))||1;
+ const cx=(b.scrollLeft+b.clientWidth/2)/old,cy=(b.scrollTop+b.clientHeight/2)/old;
+ b.style.setProperty('--pz',z);b.classList.toggle('pan',z>1);
+ b.scrollLeft=cx*z-b.clientWidth/2;b.scrollTop=cy*z-b.clientHeight/2}
+// Drag to move the page inside its frame (mouse, pen or touch).
+(function pan(){const b=$('pageImg');let st=null;
+ b.addEventListener('pointerdown',e=>{if(e.button!==0)return;st={x:e.clientX,y:e.clientY,l:b.scrollLeft,t:b.scrollTop};b.setPointerCapture(e.pointerId);b.classList.add('grabbing')});
+ b.addEventListener('pointermove',e=>{if(!st)return;b.scrollLeft=st.l-(e.clientX-st.x);b.scrollTop=st.t-(e.clientY-st.y)});
+ const end=()=>{st=null;b.classList.remove('grabbing')};
+ b.addEventListener('pointerup',end);b.addEventListener('pointercancel',end)})();
+const outSlider=slider($('outFoot'),{label:'Outline text size',steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.outSize=l;savePrefs();applyOut(l)}});
+// The text side's slider is font size for Gemara and shiur, zoom for the daf page (kept separately).
+let gemSlider=null;
+function setupGemSlider(){
+ if(mode==='page'){gemSlider=slider($('gemFoot'),{label:'Daf page zoom',steps:ZOOMS,names:z=>z===1?'Fit':Math.round(z*100)+'%',onInput:z=>{prefs.pageZoom=z;savePrefs();applyPage(z)}});gemSlider.set(prefs.pageZoom??1)}
+ else{gemSlider=slider($('gemFoot'),{label:'Text size',steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.textSize=l;savePrefs();applyText(l)}});gemSlider.set(prefs.textSize??0)}
+}
+outSlider.set(prefs.outSize??0);applyOut(prefs.outSize??0);applyText(prefs.textSize??0);applyPage(prefs.pageZoom??1);
+
+// ---------- controls ----------
+function applyOptions(){if(!view)return;view.setLevel(prefs.level||2);
+ [['optShiur','shiur'],['optCharts','charts'],['optPictures','pictures'],['optSages','sages']].forEach(([id,k])=>view.setOption(k,$(id).checked))}
+document.querySelectorAll('#levels button').forEach(b=>b.onclick=()=>{prefs.level=+b.dataset.lv;savePrefs();applyOptions();
+ document.querySelectorAll('#levels button').forEach(x=>x.setAttribute('aria-pressed',x===b))});
+['optShiur','optCharts','optPictures','optSages'].forEach(id=>$(id).onchange=applyOptions);
+function setLang(l){$('gem').dataset.lang=l;document.querySelectorAll('#langSeg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.l===l)));prefs.lang=l;savePrefs()}
+document.querySelectorAll('#langSeg button').forEach(b=>b.onclick=()=>setLang(b.dataset.l));
+function setPane(p){mode=p;
+ document.querySelectorAll('#paneSeg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.p===p)));
+ $('textPane').hidden=p!=='text';$('shiurPane').hidden=p!=='shiur';$('pagePane').hidden=p!=='page';$('langSeg').hidden=p==='page';
+ prefs.pane=p;savePrefs();setupGemSlider();if(current){const c=current;current=null;setCurrent(c)}}
+document.querySelectorAll('#paneSeg button').forEach(b=>b.onclick=()=>setPane(b.dataset.p));
+function setRail(on){$('main').classList.toggle('rail',on);$('railBtn').setAttribute('aria-pressed',String(on));prefs.rail=on;savePrefs()}
+$('railBtn').onclick=()=>setRail(!$('main').classList.contains('rail'));
+function setSide(left){$('main').classList.toggle('textleft',left);document.body.classList.toggle('textleft',left);prefs.left=left;savePrefs()}
+$('sideBtn').onclick=()=>setSide(!$('main').classList.contains('textleft'));
+
+// ---------- glossary pop-out ----------
+function openGloss(i){$('gwin').hidden=false;$('glossBtn').setAttribute('aria-pressed','true');if(i!=null&&gloss)gloss.focus(i)}
+$('terms').onclick=e=>{const b=e.target.closest('[data-t]');if(b)openGloss(+b.dataset.t)};
+$('glossBtn').onclick=()=>{const open=$('gwin').hidden;$('gwin').hidden=!open;$('glossBtn').setAttribute('aria-pressed',String(open))};
+$('gwinClose').onclick=()=>{$('gwin').hidden=true;$('glossBtn').setAttribute('aria-pressed','false')};
+$('gq').oninput=e=>gloss&&gloss.filter(e.target.value);
+function setGOrder(o){prefs.gOrder=o;savePrefs();document.querySelectorAll('#gOrder button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.o===o)));gloss&&gloss.setOrder(o)}
+$('gOrder').onclick=e=>{const b=e.target.closest('[data-o]');if(b)setGOrder(b.dataset.o)};
+if(prefs.gOrder)document.querySelectorAll('#gOrder button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.o===prefs.gOrder)));
+[['gwin','gwinBar'],['swin','swinBar']].forEach(([wid,hid])=>{const w=$(wid),h=$(hid);let s=null;
+ h.addEventListener('pointerdown',e=>{if(e.target.closest('button')||matchMedia('(max-width:860px)').matches)return;const r=w.getBoundingClientRect();s={x:e.clientX-r.left,y:e.clientY-r.top};h.setPointerCapture(e.pointerId)});
+ h.addEventListener('pointermove',e=>{if(!s)return;w.style.left=Math.max(0,Math.min(innerWidth-80,e.clientX-s.x))+'px';w.style.top=Math.max(0,Math.min(innerHeight-40,e.clientY-s.y))+'px';w.style.right='auto'});
+ h.addEventListener('pointerup',()=>s=null)});
+// Sages box: a larger size, and a divider to give the timeline more or less of the box.
+$('swinBig').onclick=()=>{const big=!$('swin').classList.contains('big');$('swin').classList.toggle('big',big);
+ $('swinBig').setAttribute('aria-pressed',String(big));$('swin').style.left=$('swin').style.top='';$('swin').style.right='';
+ const i=$('slist').querySelector('.sage.hit');if(i)markChip(+i.id.slice(2),false)};
+function setStlH(h){const t=$('stl');if(h){t.style.height=h+'px';t.classList.add('sized')}else{t.style.height='';t.classList.remove('sized')}}
+{const g=$('sgrip');let y0=null,h0=0;
+ g.addEventListener('pointerdown',e=>{e.preventDefault();y0=e.clientY;h0=$('stl').getBoundingClientRect().height;g.setPointerCapture(e.pointerId);g.classList.add('drag')});
+ g.addEventListener('pointermove',e=>{if(y0==null)return;const box=$('swin').getBoundingClientRect().height;
+  prefs.stlh=Math.round(Math.max(60,Math.min(box-160,h0+e.clientY-y0)));setStlH(prefs.stlh)});
+ const end=()=>{if(y0==null)return;y0=null;g.classList.remove('drag');savePrefs()};
+ g.addEventListener('pointerup',end);g.addEventListener('pointercancel',end);
+ g.ondblclick=()=>{delete prefs.stlh;savePrefs();setStlH(0)};
+ if(prefs.stlh)setStlH(prefs.stlh)}
+// ---------- sages pop-out ----------
+const ORD=n=>n+(['th','st','nd','rd'][(n%100>10&&n%100<14)?0:n%10]||'th');
+const eraOf=x=>x.gen==null?null:x.kind==='tanna'?x.gen:x.kind==='amora'?6+x.gen:x.kind==='zug'?0:null;
+const shortName=en=>en.replace(/^Rabbi /,'R. ').replace(/ b\. .*/,'').replace(/ \((.*)\)$/,'');
+function sageMeta(x){
+ const kind={tanna:'Tanna',amora:'Amora',zug:'Zugot'}[x.kind];
+ const gen=x.gen==null?'':x.gen===0?', transitional generation':`, ${ORD(x.gen)} generation`;
+ return kind?`<b>${kind}</b>${gen}${x.region?` · ${esc(x.region)}`:''}`:'Era not listed in our sources';
+}
+function renderSages(list){
+ $('swinTitle').textContent=`Sages · ${D.title}`;
+ const by=prefs.sOrder||'daf';
+ document.querySelectorAll('#sOrder button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.o===by)));
+ if(!list.length){$('stl').innerHTML='';$('slist').innerHTML='<p class="credit">No named sages found on this daf.</p>';return}
+ // Timeline: a column per generation, Eretz Yisrael above and Bavel below.
+ const cell={},unplaced=[];
+ list.forEach((x,i)=>{const e=eraOf(x);if(e==null||e<1){unplaced.push(i);return}
+  const r=x.region||'',ey=r.includes('Eretz'),bv=r.includes('Bavel'),row=bv&&!ey?1:0;
+  (cell[row+':'+e]=cell[row+':'+e]||[]).push(i)});
+ const chip=i=>{const x=list[i],moved=(x.region||'').includes('/');
+  return `<button data-s="${i}" class="${moved?'moved':''}" title="${esc(x.en)}${moved?' · '+esc(x.region):''}">${esc(shortName(x.en))}${x.guess?'?':''}</button>`};
+ let g=`<div class="hd h1 corner"></div><div class="hd h1 era">Tanna'im</div><div class="hd h1 era am">Amora'im</div><div class="hd h2 corner"></div>`;
+ for(let e=1;e<=14;e++)g+=`<div class="hd h2">${e<=6?e:e-6}</div>`;
+ ['Eretz Yisrael','Bavel'].forEach((name,row)=>{g+=`<div class="rh${row?' row2':''}">${name}</div>`;
+  for(let e=1;e<=14;e++)g+=`<div class="${row?'row2':''}">${(cell[row+':'+e]||[]).map(chip).join('')}</div>`});
+ $('stl').innerHTML=`<div class="tlg">${g}</div><p class="tlnote">Amber: moved between Bavel and Eretz Yisrael · “?”: the name fits more than one sage, a best guess</p>`;
+ const unplacedNote=unplaced.length?`<p class="credit">Not on the timeline (era unknown): ${unplaced.map(i=>esc(list[i].en)).join(', ')}.</p>`:'';
+ const idx=list.map((_,i)=>i);
+ // A–Z by the name itself, not the title: R. Akiva under A, Rav Pappa under P.
+ const sortName=x=>x.en.replace(/^(Rabbi|Rebbi|Rav|Rabban|Mar|R\.)\s+/,'');
+ if(by==='era')idx.sort((a,b)=>(eraOf(list[a])??99)-(eraOf(list[b])??99));
+ if(by==='alpha')idx.sort((a,b)=>sortName(list[a]).localeCompare(sortName(list[b])));
+ const here=Object.fromEntries(list.map((x,i)=>[x.id,i]));
+ const ppl=(label,arr)=>arr.length?`<div class="row"><span>${label}</span>${arr.map(p=>p.here?`<button data-s="${here[p.id]}">${esc(p.en)}</button>`:`<span class="p">${esc(p.en)}</span>`).join('<span class="p">·</span>')}</div>`:'';
+ const cards=idx.map(i=>{const x=list[i];
+  return `<article class="sage" id="sg${i}"><h3>${esc(x.en)}<span lang="he" dir="rtl">${esc(x.he)}</span></h3>
+  <p class="meta">${sageMeta(x)}${x.unchecked.length?' <span class="p">(region from our notes, to confirm)</span>':''}</p>
+  ${x.guess?`<p class="guess">Best guess from the sages around it. Could also be: ${x.alts.map(esc).join('; ')}.</p>`:''}
+  ${where(i,x).length?`<div class="row"><span>In the outline</span>${where(i,x).map(s=>`<button data-sec="${esc(s.id)}">${md(s.title)}</button>`).join('')}</div>`:''}
+  ${ppl('Teachers',x.teachers)}${ppl('Students',x.students)}${ppl('Colleagues',x.colleagues)}
+  ${x.bio?`<details><summary>About</summary><p>${esc(x.bio)}</p></details>`:''}
+  <p class="links"><a href="${esc(x.url)}" target="_blank" rel="noopener">Sefaria</a>${x.wiki?`<a href="${esc(x.wiki)}" target="_blank" rel="noopener">Wikipedia</a>`:''}</p></article>`}).join('');
+ $('slist').innerHTML=cards+unplacedNote+`<p class="credit">Sources: Sefaria's topic pages (names, generation, teachers and students, bio); Hebrew Wikipedia's categories (Eretz Yisrael / Bavel). Found on the daf by name matching: a pilot, not yet reviewed.</p>`;
+}
+// Sections where a sage turns up: the outline names them there, or the section covers a line of
+// Gemara that does (the deepest such section). In outline order.
+function where(i,x){const ids=new Set();
+ document.querySelectorAll(`#outline .ado-sage[data-sage="${i}"]`).forEach(b=>{const n=b.closest('.ado-node');if(n)ids.add(n.dataset.id)});
+ (x.sections||[]).forEach(id=>ids.add(id));
+ x.lines.forEach(l=>{const o=D.order[l];if(o==null)return;let best=null;
+  for(const s of secs)if(s.a!=null&&o>=s.a&&o<=s.b&&(!best||s.depth>=best.depth))best=s;if(best)ids.add(best.id)});
+ return secs.filter(s=>ids.has(s.id))}
+function openSage(i){$('swin').hidden=false;$('sagesBtn').setAttribute('aria-pressed','true');front($('swin'));showSage(i)}
+// Jumping to a sage: the card goes to the top of the list, highlighted, and the timeline scrolls
+// to that sage's name and highlights it, so the neighbours in time and place are in view.
+function markChip(i,smooth){const box=$('stl');box.querySelectorAll('button.on').forEach(b=>b.classList.remove('on'));
+ const c=box.querySelector(`button[data-s="${i}"]`);if(!c)return;c.classList.add('on');
+ const bb=box.getBoundingClientRect(),cb=c.getBoundingClientRect(),head=90;   // leave the row labels in view
+ const left=box.scrollLeft+cb.left-bb.left-Math.max(head,(bb.width-cb.width)/2),top=box.scrollTop+cb.top-bb.top-(bb.height-cb.height)/2;
+ box.scrollTo({left:Math.max(0,left),top:Math.max(0,top),behavior:smooth?'smooth':'auto'})}
+// While a jump's smooth scroll runs, the timeline keeps the chosen sage rather than following
+// the cards flying past; it resumes following when the scroll ends.
+let sageJump=0;
+$('slist').addEventListener('scrollend',()=>{sageJump=0});
+function showSage(i){const el=$('sg'+i);if(!el)return;const L=$('slist');sageJump=Date.now()+2000;
+ L.scrollTo({top:L.scrollTop+el.getBoundingClientRect().top-L.getBoundingClientRect().top,behavior:'smooth'});
+ document.querySelectorAll('.sage.hit').forEach(x=>x.classList.remove('hit'));el.classList.add('hit');markChip(i,true)}
+// Scrolling the cards by hand: the timeline follows the card at the top.
+$('slist').addEventListener('scroll',()=>{if(Date.now()<sageJump)return;const L=$('slist'),top=L.getBoundingClientRect().top+8;
+ const card=[...L.querySelectorAll('.sage')].find(c=>c.getBoundingClientRect().bottom>top);
+ if(card)markChip(+card.id.slice(2),false)},{passive:true});
+$('stl').onclick=e=>{const s=e.target.closest('[data-s]');if(s)showSage(+s.dataset.s)};
+$('slist').onclick=e=>{const s=e.target.closest('[data-s]'),c=e.target.closest('[data-sec]');
+ if(s)showSage(+s.dataset.s);else if(c)setCurrent(c.dataset.sec,true)};
+$('sOrder').onclick=e=>{const b=e.target.closest('[data-o]');if(!b)return;prefs.sOrder=b.dataset.o;savePrefs();renderSages(D.sages||[])};
+$('sagesBtn').onclick=()=>{const open=$('swin').hidden;$('swin').hidden=!open;$('sagesBtn').setAttribute('aria-pressed',String(open));if(open)front($('swin'))};
+$('swinClose').onclick=()=>{$('swin').hidden=true;$('sagesBtn').setAttribute('aria-pressed','false')};
+// The last window touched sits on top.
+let zTop=20;function front(w){w.style.zIndex=++zTop}
+['gwin','swin'].forEach(id=>$(id).addEventListener('pointerdown',()=>front($(id))));
+
+
+
+// ---------- reader feedback ----------
+// FEEDBACK = {url, key}: notes are sent to Supabase's outline_feedback table (insert only).
+// Without it (the claude.ai copy), notes stay in this browser and can be copied out as text.
+const FEEDBACK=__FEEDBACK__;
+const FB_KIND={content:'Content',heading:'Heading',gist:'Summary line',structure:'Structure',add_chart:'Add a chart',fix_chart:'Fix chart',
+ add_picture:'Add a picture',fix_picture:'Fix picture',praise:'Works well',other:'Other'};
+let myNotes=[];try{myNotes=JSON.parse(localStorage.getItem('ado-notes')||'[]')}catch(e){}
+const saveMine=()=>{try{localStorage.setItem('ado-notes',JSON.stringify(myNotes))}catch(e){}};
+let fbCtx=null;
+function notesHere(id){return myNotes.filter(n=>n.key===D.key&&(id===undefined||n.section_id===id))}
+function addFlags(){
+ for(const s of view.sections){if(!s.head)continue;const k=notesHere(s.id).length;
+  const b=document.createElement('button');b.type='button';b.className='fl'+(k?' has':'');b.dataset.fb=s.id;
+  b.textContent=k?`${k} note${k>1?'s':''}`:'Flag';b.title='Send a note on this section';b.setAttribute('aria-label',`Send a note on “${s.title}”`);
+  s.head.appendChild(b)}}
+// Capture phase, so a Flag click doesn't also count as a click on the heading.
+$('outline').addEventListener('click',e=>{const b=e.target.closest('[data-fb]');if(!b)return;e.stopPropagation();
+ const s=view.sections.find(x=>x.id===b.dataset.fb);openNote(s)},true);
+function openNote(s){fbCtx=s||null;
+ $('fbWhere').innerHTML=`${esc(D.title)} · <b>${s?md(s.title):'The whole daf'}</b>`;
+ $('fbKind').value='content';$('fbNote').value='';$('fbMsg').hidden=true;$('fbSend').disabled=false;
+ try{$('fbName').value=localStorage.getItem('ado-name')||'';$('fbEmail').value=localStorage.getItem('ado-email')||''}catch(e){}
+ $('fbDlg').showModal()}
+function fbMsg(el,t,err){el.hidden=false;el.textContent=t;el.classList.toggle('err',!!err)}
+$('fbForm').addEventListener('submit',async e=>{
+ if(e.submitter&&e.submitter.value!=='send')return;e.preventDefault();
+ const note=$('fbNote').value.trim();if(!note)return;
+ const row={daf:D.base||D.key,version:D.version||null,section_id:fbCtx?fbCtx.id:null,section_title:fbCtx?fbCtx.title:null,
+  kind:$('fbKind').value,note,reader_name:$('fbName').value.trim()||null,reader_email:$('fbEmail').value.trim()||null};
+ try{localStorage.setItem('ado-name',$('fbName').value.trim());localStorage.setItem('ado-email',$('fbEmail').value.trim())}catch(e){}
+ $('fbSend').disabled=true;
+ if(FEEDBACK){
+  try{const r=await fetch(FEEDBACK.url+'/rest/v1/outline_feedback',{method:'POST',
+    headers:{apikey:FEEDBACK.key,Authorization:'Bearer '+FEEDBACK.key,'Content-Type':'application/json',Prefer:'return=minimal'},body:JSON.stringify(row)});
+   if(!r.ok)throw new Error(r.status)}
+  catch(err){$('fbSend').disabled=false;fbMsg($('fbMsg'),"Your note didn't go through. Check your connection and press Send again; your text is still here.",true);return}}
+ myNotes.push({...row,key:D.key,title:D.title,at:new Date().toISOString(),sent:!!FEEDBACK});saveMine();
+ $('fbDlg').close();refreshFlags()});
+function refreshFlags(){document.querySelectorAll('#outline .fl').forEach(b=>b.remove());addFlags();
+ const n=notesHere().length;$('notesBtn').textContent=n?`Feedback (${n})`:'Feedback'}
+function notesText(){return ['Outline notes'+(myNotes[0]&&myNotes[0].reader_name?' from '+myNotes[0].reader_name:''),'',
+ ...myNotes.map(n=>`${n.title} · ${n.section_title||'whole daf'} · ${FB_KIND[n.kind]||n.kind}\n  ${n.note.replace(/\s+/g,' ')}`),'',
+ 'data: '+JSON.stringify(myNotes.map(({key,title,at,sent,...r})=>r))].join('\n')}
+$('notesBtn').onclick=()=>{const here=notesHere();
+ $('fbListWhere').textContent=D.title;
+ $('fbItems').innerHTML=here.length?here.map(n=>`<li><b>${esc(FB_KIND[n.kind]||n.kind)}</b> · ${md(n.section_title||'The whole daf')}<br>${esc(n.note)}</li>`).join(''):'<li>No notes on this daf yet. Use the Flag button beside any heading, or send a note on the whole daf.</li>';
+ $('fbCopy').hidden=!!FEEDBACK;$('fbText').hidden=true;$('fbListMsg').hidden=true;
+ $('fbFine').textContent=FEEDBACK?'Notes are sent to the AnyDaf team as soon as you press Send. This list shows the ones you sent from this browser.'
+  :"Notes are kept in this browser only. When you're done, press Copy my notes and send the text to the AnyDaf team.";
+ $('fbList').showModal()};
+$('fbWhole').onclick=()=>{$('fbList').close();openNote(null)};
+$('fbClose').onclick=()=>$('fbList').close();
+$('fbCopy').onclick=async()=>{const t=notesText();try{await navigator.clipboard.writeText(t);fbMsg($('fbListMsg'),'Copied. Paste it into an email or message.')}
+ catch(e){$('fbText').hidden=false;$('fbText').value=t;$('fbText').select();fbMsg($('fbListMsg'),'Select the text above and copy it.')}};
+
+// ---------- daf picker: each daf's data is its own file, fetched when chosen ----------
+const pick=$('dafPick');
+{const groups=[];DAFIM.forEach(d=>{const g=d.group||'';let G=groups.find(x=>x.g===g);if(!G)groups.push(G={g,items:[]});G.items.push(d)});
+ const opt=d=>`<option value="${esc(d.key)}">${esc(d.title)}</option>`;
+ pick.innerHTML=groups.length>1?groups.map(G=>`<optgroup label="${esc(G.g)}">${G.items.map(opt).join('')}</optgroup>`).join(''):DAFIM.map(opt).join('')}
+const cache={};
+async function load(key){
+ prefs.daf=key;savePrefs();
+ try{const d=cache[key]||(cache[key]=await fetch(`data/${key}.json`).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}));
+  if(pick.value===key)renderDaf(d)}
+ catch(e){$('outline').innerHTML=`<p class="loading">Couldn't load this daf (${esc(e.message)}). Reload the page to try again.</p>`}
+}
+pick.onchange=()=>load(pick.value);
+if(prefs.left===true)setSide(true);
+if(prefs.rail===false)setRail(false);
+if(prefs.lang)setLang(prefs.lang);
+if(prefs.level){const b=document.querySelector(`#levels button[data-lv="${prefs.level}"]`);if(b)document.querySelectorAll('#levels button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)))}
+if(prefs.pane)setPane(prefs.pane);
+setupGemSlider();
+
+// ---------- adjustable dividers ----------
+const main=$('main');
+function setWidths(){if(prefs.gemw)main.style.setProperty('--gemw',prefs.gemw+'%');else main.style.removeProperty('--gemw');
+ if(prefs.railw)main.style.setProperty('--railw',prefs.railw+'px');else main.style.removeProperty('--railw')}
+function dragger(el,apply){
+ el.addEventListener('pointerdown',e=>{e.preventDefault();el.setPointerCapture(e.pointerId);el.classList.add('drag');document.body.classList.add('dragging')});
+ el.addEventListener('pointermove',e=>{if(!el.hasPointerCapture(e.pointerId))return;const r=main.getBoundingClientRect();apply(e.clientX,r);setWidths()});
+ const end=e=>{if(!el.classList.contains('drag'))return;el.classList.remove('drag');document.body.classList.remove('dragging');savePrefs()};
+ el.addEventListener('pointerup',end);el.addEventListener('pointercancel',end);
+}
+const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
+// Text side: 22–70% of the page, leaving the outline at least ~320px.
+dragger($('gGem'),(x,r)=>{const left=main.classList.contains('textleft');
+ const px=left?x-r.left:r.right-x;const rail=main.classList.contains('rail')&&innerWidth>=1100?(prefs.railw||230):0;
+ prefs.gemw=+clamp(100*px/r.width,22,Math.min(70,100*(r.width-rail-320)/r.width)).toFixed(1)});
+// Contents column: 160–420px.
+dragger($('gRail'),(x,r)=>{const left=main.classList.contains('textleft');prefs.railw=Math.round(clamp(left?r.right-x:x-r.left,160,420))});
+$('gGem').ondblclick=()=>{delete prefs.gemw;savePrefs();setWidths()};
+$('gRail').ondblclick=()=>{delete prefs.railw;savePrefs();setWidths()};
+setWidths();
+pick.value=DAFIM.some(d=>d.key===prefs.daf)?prefs.daf:DAFIM[0].key;
+load(pick.value);
+</script>

@@ -1,0 +1,118 @@
+{
+ "daf": "Bava Batra 84",
+ "key_terms": [
+  {
+   "term": "ona'ah",
+   "hebrew": "אונאה",
+   "sense": "overcharging/underpaying beyond the permitted margin in a sale",
+   "definition": "The law forbidding a seller from charging, or a buyer from paying, significantly more or less than an item's true market value; when this happens within a certain window, the wronged party may cancel the sale or claim the difference.",
+   "on_this_daf": "Rav Chisda's rulings and the Mishnah both establish that only the party who was exploited by the original price may later cancel the sale, even if market shifts make the other party want to renege.",
+   "aliases": [
+    "ona'ah",
+    "exploited"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ]
+  },
+  {
+   "term": "ta'ut",
+   "hebrew": "טעות",
+   "sense": "mistaken sale where the item differs from its description",
+   "definition": "A sale that is voidable because the item delivered is not what was described or agreed upon, as opposed to being correctly described but priced unfairly.",
+   "on_this_daf": "The Gemara distinguishes ona'ah (correct description, wrong price) from ta'ut (wrong description, as with wheat sold as good that is bad), explaining that the Mishnah's wheat case teaches that misdescribed quality counts as a basis to renege in its own right.",
+   "aliases": [
+    "ta'ut"
+   ],
+   "sections": [
+    "s4"
+   ]
+  },
+  {
+   "term": "meshicha",
+   "hebrew": "משיכה",
+   "sense": "acquisition of movable goods by pulling",
+   "definition": "A method of acquiring movable property whereby the buyer pulls or draws the item toward himself, effective in certain domains but not in the public domain.",
+   "on_this_daf": "The Mishnah says pulling produce (without measuring) effects acquisition, and the Gemara works out in which domains (alleyway vs. public domain) pulling actually works, per Abaye and Rava's rule.",
+   "aliases": [
+    "meshicha",
+    "pulled",
+    "pulling"
+   ],
+   "sections": [
+    "s13",
+    "s14",
+    "s15",
+    "s19",
+    "s20"
+   ]
+  },
+  {
+   "term": "hagbahah",
+   "hebrew": "הגבהה",
+   "sense": "acquisition of movable goods by lifting",
+   "definition": "A method of acquiring movable property by physically lifting it off the ground, effective in any domain including the seller's own property.",
+   "on_this_daf": "The Mishnah requires hagbahah (carrying from place to place) to acquire flax, since flax is normally carried, and Abaye and Rava state that lifting acquires everywhere.",
+   "aliases": [
+    "hagbahah"
+   ],
+   "sections": [
+    "s13",
+    "s19"
+   ]
+  },
+  {
+   "term": "kinyan chatzer",
+   "hebrew": "קניין חצר",
+   "sense": "acquisition through one's rented or owned domain",
+   "definition": "A person's courtyard or possessed space acquires items placed in it on his behalf, functioning like an extension of his hands.",
+   "on_this_daf": "A shrewd buyer renting the spot where produce lies acquires it through kinyan chatzer, and the Gemara reads the Mishnah's final clause as describing this in a domain that has an owner.",
+   "aliases": [
+    "chatzer",
+    "rents its place",
+    "kinyan chatzer"
+   ],
+   "sections": [
+    "s13",
+    "s20"
+   ]
+  },
+  {
+   "term": "simta",
+   "hebrew": "סימטא",
+   "sense": "an alleyway domain, neither public nor private",
+   "definition": "A quasi-public space, such as a side alley, that is not the public thoroughfare and not anyone's exclusive property, but where people may leave belongings; certain acquisitions (like pulling) are effective there that are not effective in the public domain.",
+   "on_this_daf": "The central dispute between R. Asi and R. Zeira is whether R. Yochanan's ruling that produce measured and placed in a simta is acquired refers to the floor of the alleyway or only to the buyer's basket there.",
+   "aliases": [
+    "simta",
+    "alleyway"
+   ],
+   "sections": [
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20"
+   ]
+  },
+  {
+   "term": "mesirah",
+   "hebrew": "מסירה",
+   "sense": "acquisition by handing over/passing",
+   "definition": "A method of acquiring movable property by the seller physically handing or passing it to the buyer, used especially in the public domain or in a courtyard belonging to neither party.",
+   "on_this_daf": "Abaye and Rava's rule cited to explain domain-dependent acquisition states that mesirah, not meshicha, is what effects acquisition in the public domain.",
+   "aliases": [
+    "mesirah",
+    "passing"
+   ],
+   "sections": [
+    "s19"
+   ]
+  }
+ ]
+}

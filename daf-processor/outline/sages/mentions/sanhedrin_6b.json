@@ -1,0 +1,136 @@
+{
+ "key": "sanhedrin_6b",
+ "tractate": "Sanhedrin",
+ "sages": [
+  {
+   "name": "רבי אליעזר בנו של רבי יוסי הגלילי",
+   "candidates": [
+    "rabbi-eliezer-b-r-yose-hagelili"
+   ],
+   "lines": [
+    "6b.2"
+   ],
+   "count": 1,
+   "first": "6b.2",
+   "ambiguous": false,
+   "pick": "rabbi-eliezer-b-r-yose-hagelili",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אליעזר",
+   "candidates": [
+    "rabbi-eliezer-b-hyrcanus"
+   ],
+   "lines": [
+    "6b.4"
+   ],
+   "count": 1,
+   "first": "6b.4",
+   "ambiguous": false,
+   "pick": "rabbi-eliezer-b-hyrcanus",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי מאיר",
+   "candidates": [
+    "rabbi-meir"
+   ],
+   "lines": [
+    "6b.5"
+   ],
+   "count": 1,
+   "first": "6b.5",
+   "ambiguous": false,
+   "pick": "rabbi-meir",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יהושע בן קרחה",
+   "candidates": [
+    "rabbi-yehoshua-b-korha"
+   ],
+   "lines": [
+    "6b.6",
+    "6b.13",
+    "6b.15",
+    "7a.1"
+   ],
+   "count": 4,
+   "first": "6b.6",
+   "ambiguous": false,
+   "pick": "rabbi-yehoshua-b-korha",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי שמעון בן מנסיא",
+   "candidates": [
+    "rabbi-shimon-b-menasya"
+   ],
+   "lines": [
+    "6b.11",
+    "7a.2"
+   ],
+   "count": 2,
+   "first": "6b.11",
+   "ambiguous": false,
+   "pick": "rabbi-shimon-b-menasya",
+   "pick_by": "only"
+  },
+  {
+   "name": "ריש לקיש",
+   "candidates": [
+    "rabbi-shimon-b-lakish"
+   ],
+   "lines": [
+    "6b.12"
+   ],
+   "count": 1,
+   "first": "6b.12",
+   "ambiguous": false,
+   "pick": "rabbi-shimon-b-lakish",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי חנין",
+   "candidates": [
+    "rebbi-hanin"
+   ],
+   "lines": [
+    "6b.13"
+   ],
+   "count": 1,
+   "first": "6b.13",
+   "ambiguous": false,
+   "pick": "rebbi-hanin",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "6b.15"
+   ],
+   "count": 1,
+   "first": "6b.15",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב הונא",
+   "candidates": [
+    "rav-huna"
+   ],
+   "lines": [
+    "6b.15"
+   ],
+   "count": 1,
+   "first": "6b.15",
+   "ambiguous": false,
+   "pick": "rav-huna",
+   "pick_by": "only"
+  }
+ ]
+}

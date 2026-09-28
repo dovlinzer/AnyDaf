@@ -1,0 +1,263 @@
+{
+  "daf": "Bava Metzia 11",
+  "scope": {
+    "start": "10b: the Gemara's question of what practically distinguishes Ravina's and Rav Samma's reasons for *ein shaliach l'dvar aveirah* (mid-exchange, continuing from the previous daf)",
+    "end": "11b: Rav Ashi's opening line distinguishing a gift from a *get*, continuing onto 12a"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "title": "Mai Beinaihu: Testing the Two Reasons for Ein Shaliach L'Dvar Aveirah",
+      "amud": "10b",
+      "gist": "Having given two reasons why a *chatzer* escapes *ein shaliach l'dvar aveirah*, the Gemara asks what practically distinguishes them, using cases where the human agent bears no personal prohibition.",
+      "bullets": [
+        {
+          "text": "The Gemara asks what practical difference follows between Ravina's reason (the agent must himself be bound by the prohibition, *bar chiyuva*) and Rav Samma's reason (the agent must have a genuine free choice) for why *ein shaliach l'dvar aveirah* applies.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "Case: a *kohen* tells a non-*kohen* to betroth a divorced woman on his behalf; the agent himself is not prohibited from marrying a divorcée.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "Case: a man tells a woman to round the corners of a minor boy's hair (*payot*); a woman is not herself bound by that prohibition.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "Resolution: on Rav Samma's free-choice view, the sender is not liable in either case, since the agent could have refused; on Ravina's *bar chiyuva* view, since the agent bears no personal prohibition, the sender is liable in both cases.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "Shiur: this raises a further question — does *yesh shaliach l'dvar aveirah* here mean the sender is treated as having physically performed the act itself (e.g., liable for cutting the *payot*), or only that he bears some lesser liability, since ordinary *shlichut* usually governs legal effects, not physical acts.",
+          "detail": 3,
+          "source": "shiur"
+        },
+        {
+          "text": "Shiur (Tosafot): a further open question is whether *ein shaliach l'dvar aveirah* only exempts the sender from liability while the agency remains legally valid, or voids the agency entirely — relevant to whether a *get* delivered in violation of *cherem Rabbeinu Gershom* is nonetheless valid; the *Noda BiYehuda* takes up this question.",
+          "detail": 3,
+          "source": "shiur"
+        }
+      ],
+      "chart": {
+        "caption": "The two reasons for *ein shaliach l'dvar aveirah*, tested against two cases where the agent has no personal prohibition.",
+        "columns": ["", "Kohen tells an Israelite to betroth a divorcée", "Man tells a woman to cut a minor's *payot*"],
+        "rows": [
+          ["Ravina (agent must be *bar chiyuva*)", "Israelite is not *bar chiyuva* → the *kohen* is liable", "Woman is not *bar chiyuva* → the man is liable"],
+          ["Rav Samma (agent must have free choice)", "Israelite could have refused → sender not liable", "Woman could have refused → sender not liable"]
+        ]
+      },
+      "children": []
+    },
+    {
+      "id": "s2",
+      "title": "Chatzer as Yad: From a Get to Metziah, and to a Minor Boy",
+      "amud": "10b–11a",
+      "gist": "The Torah's inclusion of a courtyard as an extension of the hand for delivering a *get* raises the question whether the same idea extends to acquiring a found object, and to a minor boy as well as a minor girl.",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s3",
+          "title": "Universal Agreement: Chatzer as Yad for a Get",
+          "amud": "10b",
+          "gist": "A *baraita* on divorce shows that a *get* placed on a woman's roof, courtyard, or enclosure is as valid as one placed in her hand; here all agree the courtyard is an extension of her hand.",
+          "bullets": [
+            {
+              "text": "The Gemara challenges Abba Kohen Bardela: is there really anyone who holds that placing an item in a courtyard is not a valid means of acquisition, since a courtyard acts as one's hand?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "A *baraita* is cited: the Torah says the husband must place the *get* \"in her hand\" (Devarim 24:1); how do we know a *get* placed on her roof (*gagah*), in her courtyard (*chatzerah*), or in her enclosure (*karpifah*) also divorces her? The verse's phrasing (\"and he gives\") teaches she is divorced \"in any case\" (*mikol makom*).",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The Gemara concludes: regarding a *get*, all agree the courtyard is included as a valid means of delivery because it functions as an extension of her hand; the dispute that follows concerns only acquiring a found item in her courtyard.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": [],
+          "illustration": {
+            "caption": "A *get* placed directly in a wife's hand, or on her roof, in her courtyard, or in her enclosure — all count, per the *baraita*, as delivered \"in her hand.\"",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A get delivered directly into a wife's hand, or placed on her roof, in her courtyard, or in her enclosure — all count as \"in her hand.\"</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#1A1F2E\">Delivering a Get: \"In Her Hand\"</text><use href=\"#woman\" x=\"60\" y=\"140\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><text x=\"95\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Yadah (her hand)</text><rect x=\"128\" y=\"205\" width=\"26\" height=\"10\" rx=\"4\" fill=\"#C9A96E\" stroke=\"#8A7550\"/><circle cx=\"128\" cy=\"210\" r=\"6\" fill=\"#C9A96E\"/><circle cx=\"154\" cy=\"210\" r=\"6\" fill=\"#C9A96E\"/><path d=\"M210 210 L330 210\" stroke=\"#8A7550\" stroke-width=\"2\" stroke-dasharray=\"6 6\"/><path d=\"M320 202 L332 210 L320 218\" fill=\"none\" stroke=\"#8A7550\" stroke-width=\"2\"/><text x=\"270\" y=\"195\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">mikol makom — in every case</text><rect x=\"350\" y=\"150\" width=\"150\" height=\"120\" fill=\"#EFE6D2\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><path d=\"M340 150 L425 90 L510 150 Z\" fill=\"#B08F63\"/><rect x=\"405\" y=\"100\" width=\"26\" height=\"10\" rx=\"4\" fill=\"#C9A96E\" stroke=\"#8A7550\"/><circle cx=\"405\" cy=\"105\" r=\"6\" fill=\"#C9A96E\"/><circle cx=\"431\" cy=\"105\" r=\"6\" fill=\"#C9A96E\"/><text x=\"425\" y=\"80\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Gagah (her roof)</text><rect x=\"540\" y=\"220\" width=\"140\" height=\"90\" fill=\"#DCE8D2\" stroke=\"#9DB98C\" stroke-width=\"2\"/><rect x=\"595\" y=\"255\" width=\"26\" height=\"10\" rx=\"4\" fill=\"#C9A96E\" stroke=\"#8A7550\"/><circle cx=\"595\" cy=\"260\" r=\"6\" fill=\"#C9A96E\"/><circle cx=\"621\" cy=\"260\" r=\"6\" fill=\"#C9A96E\"/><text x=\"610\" y=\"200\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Chatzerah (her courtyard)</text><rect x=\"710\" y=\"180\" width=\"150\" height=\"150\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"6\" stroke-dasharray=\"10 6\"/><rect x=\"775\" y=\"245\" width=\"26\" height=\"10\" rx=\"4\" fill=\"#C9A96E\" stroke=\"#8A7550\"/><circle cx=\"775\" cy=\"250\" r=\"6\" fill=\"#C9A96E\"/><circle cx=\"801\" cy=\"250\" r=\"6\" fill=\"#C9A96E\"/><text x=\"785\" y=\"165\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Karpifah (her enclosure)</text><text x=\"450\" y=\"390\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#4A3A2E\">וְנָתַן בְּיָדָהּ — מִכָּל מָקוֹם</text></svg>"
+          }
+        },
+        {
+          "id": "s4",
+          "title": "The Dispute: Does the Yad-Status Extend to Metziah, and to a Boy?",
+          "amud": "11a",
+          "gist": "Rabbi Yannai and Abba Kohen Bardela disagree, in two successive framings, whether the *get*'s *yad*-principle for a courtyard extends to found objects and to a minor boy.",
+          "bullets": [
+            {
+              "text": "First framing: Rabbi Yannai holds we derive *metziah* from *get* — since *chatzer* is *yad* for a *get*, it is *yad* for all *kinyanim*, so a *ketana*'s courtyard acquires a found item for her. Abba Kohen Bardela holds we do not derive *metziah* from *get* — the *chiddush* of *chatzer* as *yad* is limited to divorce.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Alternative framing: perhaps all agree a *ketana*'s courtyard works for *metziah* too; the real dispute concerns a *katan* (minor boy), who is not addressed by the *get* verse at all.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "On this framing, Rabbi Yannai derives *katan* from *ketana* — there should be no difference between them for the laws of acquisition — while Abba Kohen Bardela holds no such derivation is made, since the Torah's *chiddush* was rooted specifically in the *get* context.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "A further possibility: perhaps there is no dispute at all — Abba Kohen Bardela's statement addressed only a *get* for a *ketana*, and Rabbi Yannai's statement addressed only that a minor boy or girl does not acquire a found item in his or her courtyard; two separate rulings on different questions.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s5",
+          "title": "Why the Get/Metziah Distinction Makes Sense",
+          "amud": "11a",
+          "gist": "The lecturer suggests a *get* may require only placement on the woman's person, while *metziah* requires genuine acquisition, explaining why *chatzer* could work as *yad* for one but not automatically for the other.",
+          "bullets": [
+            {
+              "text": "Shiur: a *get*'s requirement may not be true ownership-transfer at all, but simply placement on her person; *chatzer* as an extension of her person suffices for that.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "Shiur: *metziah* requires a genuine *kinyan*; *chatzer* functioning merely as \"placement\" may not be strong enough there, which is why one could hold it works for *get* but not for *metziah*.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "Shiur: left open are whether *chatzer* is *yad* or *shliach* for *kinyanim* generally, whether a minor (who cannot appoint an agent) could still benefit from *chatzer* as *shliach*, and whether an item actively given into a minor's courtyard (rather than found there) might work even for a *katan*, since an active giver's *da'at* could supply what the minor himself lacks.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "Metziah in One's Field: Must the Owner Be Standing Beside It?",
+      "amud": "11a–11b",
+      "gist": "A new Mishnah lets one's field acquire a containable animal on one's behalf; the Gemara then debates whether this works only when the owner stands beside the field, testing the rule against the laws of forgotten sheaves and a story of Rabban Gamliel on a ship.",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s7",
+          "title": "The Mishnah: A Field Acquires a Containable Animal",
+          "amud": "11a",
+          "gist": "The Mishnah rules that a declaration works for a crippled deer or flightless young pigeons in one's field, but not for animals that could escape on their own.",
+          "bullets": [
+            {
+              "text": "Mishnah: seeing others running after a deer with a broken leg, or young pigeons not yet able to fly, one who declares \"my field has acquired this for me\" (*zachta li sadi*) succeeds in acquiring it.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "If the deer was running normally, or the pigeons could already fly, the declaration accomplishes nothing, since a courtyard cannot effect acquisition of an item that will not remain there on its own.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": [],
+          "illustration": {
+            "caption": "The Mishnah's two examples: a deer with a broken leg and young pigeons unable to fly can be acquired by the field, but a deer running normally or pigeons already in flight cannot.",
+            "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>The Mishnah's two examples: a deer with a broken leg and young pigeons that cannot yet fly can be acquired by the field; a deer running normally or pigeons already in flight cannot.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">\"My Field Has Acquired This for Me\"</text><rect x=\"20\" y=\"60\" width=\"420\" height=\"180\" rx=\"12\" fill=\"#E4EFE4\"/><rect x=\"460\" y=\"60\" width=\"420\" height=\"180\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"20\" y=\"256\" width=\"420\" height=\"180\" rx=\"12\" fill=\"#E4EFE4\"/><rect x=\"460\" y=\"256\" width=\"420\" height=\"180\" rx=\"12\" fill=\"#F3E6D8\"/><text x=\"230\" y=\"88\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Tzvi shavur — broken leg</text><text x=\"670\" y=\"88\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Running normally</text><text x=\"230\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Gozalot not yet flying</text><text x=\"670\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Already flying</text><g transform=\"translate(160,120)\"><ellipse cx=\"60\" cy=\"60\" rx=\"55\" ry=\"26\" fill=\"#A8785A\"/><path d=\"M100 45 L130 15\" stroke=\"#A8785A\" stroke-width=\"14\" stroke-linecap=\"round\"/><circle cx=\"132\" cy=\"12\" r=\"14\" fill=\"#A8785A\"/><path d=\"M138 2 q10 -12 20 -6 M138 2 q-4 -14 8 -18\" stroke=\"#6E4A32\" stroke-width=\"3\" fill=\"none\"/><rect x=\"20\" y=\"80\" width=\"8\" height=\"26\" fill=\"#5A3B26\"/><rect x=\"45\" y=\"82\" width=\"8\" height=\"24\" fill=\"#5A3B26\"/><path d=\"M75 82 l-4 14 l10 -4 z\" fill=\"#5A3B26\"/><rect x=\"95\" y=\"80\" width=\"8\" height=\"26\" fill=\"#5A3B26\"/></g><text x=\"230\" y=\"230\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#24592E\">stays in the field → acquired</text><g transform=\"translate(600,110)\"><ellipse cx=\"60\" cy=\"60\" rx=\"55\" ry=\"26\" fill=\"#A8785A\"/><path d=\"M100 45 L130 15\" stroke=\"#A8785A\" stroke-width=\"14\" stroke-linecap=\"round\"/><circle cx=\"132\" cy=\"12\" r=\"14\" fill=\"#A8785A\"/><path d=\"M138 2 q10 -12 20 -6 M138 2 q-4 -14 8 -18\" stroke=\"#6E4A32\" stroke-width=\"3\" fill=\"none\"/><rect x=\"15\" y=\"75\" width=\"8\" height=\"26\" transform=\"rotate(25 19 88)\" fill=\"#5A3B26\"/><rect x=\"40\" y=\"80\" width=\"8\" height=\"24\" transform=\"rotate(-20 44 92)\" fill=\"#5A3B26\"/><rect x=\"75\" y=\"78\" width=\"8\" height=\"24\" transform=\"rotate(20 79 90)\" fill=\"#5A3B26\"/><rect x=\"98\" y=\"75\" width=\"8\" height=\"26\" transform=\"rotate(-25 102 88)\" fill=\"#5A3B26\"/><path d=\"M150 60 h30 M150 40 h40 M150 80 h20\" stroke=\"#C9BFA9\" stroke-width=\"4\" stroke-linecap=\"round\"/></g><text x=\"670\" y=\"230\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#9A6212\">runs off → not acquired</text><g transform=\"translate(150,320)\"><ellipse cx=\"0\" cy=\"60\" rx=\"26\" ry=\"16\" fill=\"#B9A98E\"/><path d=\"M-20 55 l-10 -8 M-20 60 l-14 0\" stroke=\"#8A7560\" stroke-width=\"3\"/><ellipse cx=\"60\" cy=\"66\" rx=\"26\" ry=\"16\" fill=\"#B9A98E\"/><path d=\"M40 60 l-10 -8 M40 66 l-14 0\" stroke=\"#8A7560\" stroke-width=\"3\"/><ellipse cx=\"120\" cy=\"58\" rx=\"26\" ry=\"16\" fill=\"#B9A98E\"/><path d=\"M100 52 l-10 -8 M100 58 l-14 0\" stroke=\"#8A7560\" stroke-width=\"3\"/></g><text x=\"230\" y=\"426\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#24592E\">stay put → acquired</text><g transform=\"translate(590,300)\"><path d=\"M0 60 q14 -20 28 0 q14 -20 28 0\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M60 40 q14 -20 28 0 q14 -20 28 0\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M120 20 q14 -20 28 0 q14 -20 28 0\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"4\" stroke-linecap=\"round\"/></g><text x=\"670\" y=\"426\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#9A6212\">fly off → not acquired</text></svg>"
+          }
+        },
+        {
+          "id": "s8",
+          "title": "Rav Yehuda/Shmuel: The Owner Must Stand Beside the Field",
+          "amud": "11a",
+          "gist": "Shmuel adds that the Mishnah's ruling requires the owner to be standing beside his field, prompting a question about why presence should matter, resolved by distinguishing a secured from an unsecured courtyard.",
+          "bullets": [
+            {
+              "text": "Rav Yehuda in the name of Shmuel: the Mishnah's acquisition works only when the owner is standing beside his field (*omed b'tzad sadehu*), giving it the status of a secured courtyard.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Challenge: doesn't a person's courtyard acquire for him even without his knowledge, per Rabbi Yosei son of Rabbi Chanina's principle, *chatzero shel adam konah lo shelo mida'ato*?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Resolution: that principle applies to a secured courtyard (*chatzer hamishtameret*); an unsecured field (*chatzer she'eina mishtameret*) acquires on the owner's behalf only if he is standing beside it.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Shiur (Tosafot): the Mishnah's declaration \"*zachta li sadi*\" is not strictly required (*lav davka*) — the field would acquire even without an explicit statement, consistent with Rabbi Yosei's principle that a courtyard acquires without the owner's awareness.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": [],
+          "illustration": {
+            "caption": "A fenced courtyard acquires for its owner even without him present, but an open field acquires an item only while the owner stands beside it.",
+            "svg": "<svg viewBox=\"0 0 900 400\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A fenced courtyard acquires for its owner even without him present, but an open field acquires an item only while the owner stands beside it.</title><rect width=\"900\" height=\"400\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Chatzer Mishtameret vs. Chatzer She'eina Mishtameret</text><rect x=\"30\" y=\"70\" width=\"400\" height=\"280\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"470\" y=\"70\" width=\"400\" height=\"280\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"230\" y=\"100\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">Fenced Courtyard (secured)</text><text x=\"670\" y=\"100\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">Open Field (unsecured)</text><rect x=\"90\" y=\"150\" width=\"280\" height=\"150\" fill=\"none\" stroke=\"#5B6478\" stroke-width=\"8\"/><rect x=\"200\" y=\"210\" width=\"30\" height=\"30\" fill=\"#C9A96E\"/><text x=\"230\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Acquires the item even if no one is nearby</text><path d=\"M540 160 L800 160 L800 300 L540 300 Z\" fill=\"#D9C9A8\"/><rect x=\"650\" y=\"215\" width=\"30\" height=\"30\" fill=\"#C9A96E\"/><use href=\"#man\" x=\"700\" y=\"200\" width=\"46\" height=\"92\" style=\"color:#4B5E8C\"/><text x=\"670\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Works only while the owner stands beside it</text><use href=\"#man\" x=\"560\" y=\"108\" width=\"36\" height=\"72\" style=\"color:#8C8C8C\" opacity=\"0.45\"/><text x=\"590\" y=\"105\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#8C8C8C\">walks away → no acquisition</text></svg>"
+          }
+        },
+        {
+          "id": "s9",
+          "title": "Proof from the Laws of the Forgotten Sheaf (Shichcha)",
+          "amud": "11a",
+          "gist": "A *baraita* about a sheaf forgotten in the field is parsed to show that only the owner's presence in the field, not mere awareness, can prevent it from becoming *shichcha*.",
+          "bullets": [
+            {
+              "text": "The Gemara asks: from where is the mishtameret/eina mishtameret distinction derived?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "*Baraita*: an owner standing in town, aware his workers will forget a sheaf, wants his awareness to prevent it becoming *shichcha*; the verse \"you shall forget a sheaf in the field\" is cited, interpreted as \"in the field, not in town\" (*basadeh velo ba'ir*).",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The Gemara flags an internal tension in the *baraita*: its opening implies the tanna wants to prove the sheaf IS considered forgotten, but the verse-derivation seems to exclude the town case from that status.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Resolution: the *baraita* distinguishes a sheaf forgotten from the outset (always *shichcha*) from one first remembered and then forgotten. In the field, if the owner still remembers even though the workers forgot, there is no *shichcha*; in town, even if the owner remembered and later forgot, it is *shichcha*.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "The reason: since the owner is standing in the field, it is as though his courtyard has reacquired the sheaf for him; an owner in town, not beside the field, cannot benefit from this.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "Several further exchanges test exactly which phrase in the verse teaches the town-exclusion — an attempt via \"you shall not go back to take it\" is rejected since that phrase is needed for the Mishnah's rule about sheaves ahead of versus behind the gatherer; Rav Ashi ultimately derives it from the word \"it shall be\" (*yihyeh*).",
+              "detail": 3,
+              "source": "gemara"
+            },
+            {
+              "text": "Shiur critique: a more intuitive account might tie the rule to who is actively supervising the gathering rather than to formal possession; the Gemara's own image — the courtyard \"reacquiring\" the sheaf — is better understood as meaning presence prevents *shichcha* from ever taking hold, not that it reacquires it afterward, since once *shichcha* takes effect the sheaf belongs to the poor.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "Shiur: the deeper point is that an open field is the paradigm of a *chatzer she'eina mishtameret*, and the owner's bodily presence substitutes for a fence — showing that presence alone can make an unenclosed space function as \"secured\" for *kinyan* purposes.",
+              "detail": 2,
+              "source": "shiur"
+            }
+          ],
+          "children": [],
+          "illustration": {
+            "caption": "A sheaf left in the field: if the owner stands there and remembers it even though the workers forgot, it is not *shichcha*; if the owner is in town, it is *shichcha* and belongs to the poor.",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A sheaf left in the field: if the owner stands there and remembers it even though the workers forgot, it is not shichcha; if the owner is in town, it is shichcha and belongs to the poor.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">The Forgotten Sheaf</text><rect x=\"30\" y=\"66\" width=\"400\" height=\"300\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"470\" y=\"66\" width=\"400\" height=\"300\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"230\" y=\"96\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Owner Standing in the Field</text><text x=\"670\" y=\"96\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">Owner in the Town</text><rect x=\"90\" y=\"160\" width=\"280\" height=\"140\" fill=\"#D9C9A8\"/><rect x=\"200\" y=\"200\" width=\"40\" height=\"60\" fill=\"#C9A96E\" stroke=\"#8A7550\"/><use href=\"#man\" x=\"250\" y=\"180\" width=\"46\" height=\"92\" style=\"color:#5E7D4F\"/><use href=\"#person\" x=\"120\" y=\"200\" width=\"36\" height=\"72\" style=\"color:#8C6A4E\"/><text x=\"230\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#24592E\">He remembers → no shichcha</text><rect x=\"540\" y=\"160\" width=\"280\" height=\"140\" fill=\"#D9C9A8\"/><rect x=\"620\" y=\"200\" width=\"40\" height=\"60\" fill=\"#C9A96E\" stroke=\"#8A7550\"/><use href=\"#person\" x=\"560\" y=\"200\" width=\"36\" height=\"72\" style=\"color:#8C6A4E\"/><rect x=\"540\" y=\"330\" width=\"280\" height=\"20\" rx=\"10\" fill=\"#9A6212\"/><text x=\"680\" y=\"345\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#FFFFFF\">left for the poor</text><use href=\"#man\" x=\"740\" y=\"60\" width=\"40\" height=\"80\" style=\"color:#6B5E8C\"/><text x=\"760\" y=\"50\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">owner, in town</text></svg>"
+          }
+        },
+        {
+          "id": "s10",
+          "title": "Ulla and Rabbah

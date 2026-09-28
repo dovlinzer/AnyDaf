@@ -1,0 +1,887 @@
+{
+ "daf": "Bekhorot 16",
+ "scope": {
+  "start": "15b: what the baraita's two 'principle of the matter' clauses add (16a opens mid-sentence)",
+  "end": "16b: Rava's explanation that the gentile's hand is in the middle"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "The Blemish-Timing Baraita: Milk, Offspring, Outside Slaughter, Substitutes",
+   "amud": "15b–16a",
+   "text": {
+    "from": "15b.13",
+    "to": "16a.14"
+   },
+   "gist": "Continuing the analysis of 15b's baraita on animals blemished before or after consecration, the Gemara covers four points: what its two 'principles' add, whether the offspring can be redeemed, liability for slaughtering outside, and why a substitute made after redemption must die.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "*Kelalo Shel Davar*: Exempt Outside Slaughter, Forbidden Milk",
+     "amud": "15b–16a",
+     "text": {
+      "from": "15b.13",
+      "to": "16a.1"
+     },
+     "gist": "Each 'principle of the matter' clause adds a case: slaughtering a blemished-before-consecration animal outside is exempt, and the milk of a redeemed disqualified animal is forbidden.",
+     "bullets": [
+      {
+       "text": "Whenever a tanna says “the principle of the matter”, he is adding cases one might have thought were excluded.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "First principle (blemish before consecration, “like non-sacred animals in all matters”): it adds that one who slaughters such an animal outside the Temple courtyard is exempt.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Second principle (consecration before blemish, “like redeemed sacrificial animals in all matters”): it adds that the milk of a redeemed disqualified consecrated animal is forbidden.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The first addition looks self-evident, since that animal never had altar sanctity. The Gemara still reads the clause as adding a case, on the assumption that “this is the rule” always teaches something not yet stated.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The milk is forbidden on the same footing as offspring born after redemption: both flow from the residual sanctity that survives redemption.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Offspring After Redemption: Redeemable Once Blemished, or Left to Die?",
+     "amud": "16a",
+     "text": {
+      "from": "16a.2",
+      "to": "16a.4"
+     },
+     "gist": "Two inferences from the baraita's wording seem to allow dedicating the unborn offspring as the mother's offering and redeeming it once blemished, against Rav Huna, who answers that the wording only mirrors the first clause.",
+     "bullets": [
+      {
+       "text": "The baraita: the offspring of animals consecrated before their blemish are sacred. They may not be redeemed unblemished, and they may not be dedicated as any offering the owner desires.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why they seem stuck: they can't be redeemed without a blemish, and the sanctity they inherit is *kedushah dechuyah*, pushed off from the altar, so they can't be offered either.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Inferences: only unblemished offspring may not be redeemed, so blemished ones may. Only “any offering he desires” is ruled out, so the mother's own offering is allowed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Both inferences fit one case. The owner dedicates the unborn offspring as the same offering as its mother, and once it develops a blemish it is redeemed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is the in-utero sanctification discussed on 15b. The dedication gives the offspring an independent sanctity of the same type, and that sanctity can be redeemed once the animal is blemished.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Is this a conclusive refutation of Rav Huna, who holds that the offspring cannot be redeemed and are left to die?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Huna: the inferences are false, and even blemished offspring cannot be redeemed. The latter clause says “unblemished” and “any offering he desires” only because the former clause used those words.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi suggests that Rav Huna resists the in-utero solution for fear that generations of such animals would multiply and lead to transgression.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "The baraita's clause on offspring: the inference from its wording vs. Rav Huna",
+      "columns": [
+       "",
+       "“May not be redeemed unblemished”",
+       "“May not be dedicated as any offering he desires”",
+       "Fate of the offspring"
+      ],
+      "rows": [
+       [
+        "Inference from the wording",
+        "Blemished offspring may be redeemed",
+        "The mother's own offering may be designated",
+        "Dedicated unborn as the mother's offering, then redeemed once blemished"
+       ],
+       [
+        "Rav Huna",
+        "Mirrors the first clause; even blemished offspring cannot be redeemed",
+        "Mirrors the first clause; nothing is implied",
+        "Left to die"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "The path from consecration to offspring born after redemption, and the two readings of the baraita's clause on those offspring (16a).",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>An animal is consecrated, becomes permanently blemished, is redeemed and gives birth. Left: reading the baraita's wording, the unborn offspring is dedicated as the mother's offering and redeemed once blemished. Right: Rav Huna holds that even blemished offspring cannot be redeemed and are left to die.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"20\" width=\"180\" height=\"80\" rx=\"12\" fill=\"#EFE6D2\" stroke=\"#BFAE8E\"/><text x=\"110\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Consecrated</text><text x=\"110\" y=\"80\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">as an offering</text><path d=\"M204 60 H236\" stroke=\"#9A8E7E\" stroke-width=\"3\"/><path d=\"M245 60 l-9 -6 v12 z\" fill=\"#9A8E7E\"/><rect x=\"247\" y=\"20\" width=\"180\" height=\"80\" rx=\"12\" fill=\"#EFE6D2\" stroke=\"#BFAE8E\"/><text x=\"337\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Permanent blemish</text><text x=\"337\" y=\"80\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">after consecration</text><path d=\"M431 60 H463\" stroke=\"#9A8E7E\" stroke-width=\"3\"/><path d=\"M472 60 l-9 -6 v12 z\" fill=\"#9A8E7E\"/><rect x=\"474\" y=\"20\" width=\"180\" height=\"80\" rx=\"12\" fill=\"#EFE6D2\" stroke=\"#BFAE8E\"/><text x=\"564\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Redeemed</text><text x=\"564\" y=\"80\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">the mother may be eaten</text><path d=\"M658 60 H689\" stroke=\"#9A8E7E\" stroke-width=\"3\"/><path d=\"M698 60 l-9 -6 v12 z\" fill=\"#9A8E7E\"/><rect x=\"700\" y=\"20\" width=\"180\" height=\"80\" rx=\"12\" fill=\"#EFE6D2\" stroke=\"#BFAE8E\"/><text x=\"790\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">Offspring born</text><text x=\"790\" y=\"80\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">sacred, unblemished</text><rect x=\"20\" y=\"124\" width=\"420\" height=\"296\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"230\" y=\"158\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">Inferring from the wording</text><text x=\"40\" y=\"190\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">“May not be redeemed unblemished”</text><text x=\"40\" y=\"208\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">→ so blemished offspring may be redeemed</text><text x=\"40\" y=\"236\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">“Not as any offering he desires”</text><text x=\"40\" y=\"254\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">→ so the mother’s own offering is allowed</text><use href=\"#lamb\" x=\"48\" y=\"278\" width=\"120\" height=\"84\"/><text x=\"188\" y=\"296\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">Dedicated while unborn</text><text x=\"188\" y=\"316\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">as the mother’s offering;</text><text x=\"188\" y=\"344\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">once blemished,</text><text x=\"188\" y=\"366\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14.5\" font-weight=\"600\" fill=\"#24592E\">it may be redeemed</text><use href=\"#mark-ok\" x=\"346\" y=\"348\" width=\"26\" height=\"26\"/><text x=\"230\" y=\"404\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Both inferences fit this one case</text><rect x=\"460\" y=\"124\" width=\"420\" height=\"296\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"158\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">Rav Huna</text><use href=\"#sage\" x=\"486\" y=\"184\" width=\"64\" height=\"112\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><text x=\"572\" y=\"200\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">The wording only mirrors</text><text x=\"572\" y=\"218\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">the first clause, where</text><text x=\"572\" y=\"236\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">offspring may be redeemed</text><text x=\"572\" y=\"254\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">unblemished and dedicated</text><text x=\"572\" y=\"272\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">as any offering desired</text><text x=\"572\" y=\"324\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14.5\" font-weight=\"600\" fill=\"#8C2F2F\">Even blemished offspring</text><text x=\"572\" y=\"344\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14.5\" font-weight=\"600\" fill=\"#8C2F2F\">cannot be redeemed</text><use href=\"#mark-no\" x=\"792\" y=\"310\" width=\"26\" height=\"26\"/><text x=\"572\" y=\"380\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">They are left to die</text><text x=\"450\" y=\"446\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Bekhorot 16a · the baraita’s clause on offspring born after the mother’s redemption</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Slaughtering Outside: Exempt, or Liable for a Blemish on the Cornea?",
+     "amud": "16a",
+     "text": {
+      "from": "16a.5",
+      "to": "16a.5"
+     },
+     "gist": "A teaching exempts one who slaughters blemished consecrated animals outside from *karet*. Rav Huna reads 'liable' and limits it to a minor blemish, following R. Akiva.",
+     "bullets": [
+      {
+       "text": "It is taught: one who slaughters them outside the Temple courtyard is exempt from *karet*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Huna taught it as “liable to *karet*” and applies it to an animal with a minor blemish on the cornea of the eye (*dukin she'ba'ayin*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This follows R. Akiva: such an animal may not be offered in the first place, but if it went up on the altar it does not come down. Since it is potentially fit for the altar, slaughtering it outside incurs *karet*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The underlying principle: liability for slaughtering outside attaches only to an animal that could in principle be offered inside. A blemish that disqualifies it outright removes the liability, even though the animal remains sacred in other respects.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "*Temurah* After Redemption: Not Offered, Redeemed or Eaten, So It Dies",
+     "amud": "16a",
+     "text": {
+      "from": "16a.6",
+      "to": "16a.14"
+     },
+     "gist": "Three steps: Rav Nachman rules that a *temurah* made after redemption must die; Abaye answers Rav Amram's comparison with a firstborn's substitute; and a baraita derives the rule from Vayikra 11:4, which leads to the five sin offerings left to die.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s6",
+       "title": "Rav Nachman: No Altar, No Redemption, So the Substitute Dies",
+       "amud": "16a",
+       "text": {
+        "from": "16a.6",
+        "to": "16a.6"
+       },
+       "gist": "Even after redemption the animal can create a *temurah*, and Rav Nachman in the name of Rabba bar Avuh rules that such a substitute must die.",
+       "bullets": [
+        {
+         "text": "The baraita: whether before or after its redemption, an animal consecrated before its blemish renders its substitute sacred.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "This is striking: the redeemed animal has only residual sanctity, yet that is enough to set *temurah* in motion.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Rav Nachman in the name of Rabba bar Avuh: a substitute made after the redemption must die.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Offer it? It draws its status from the *kedushah dechuyah* of the redeemed blemished animal, so it is unfit for the altar. Redeem it? Its sanctity is too weak to transfer to money. So it dies.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Tosafot: a *temurah* also carries a sanctity of its own, from the owner's declaration, and does not simply derive from the original. That mix is why it cannot follow the redeemed original, which may simply be slaughtered and eaten.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s7",
+       "title": "Eat It Blemished, Like *Temurat Bekhor*? Each Bears Its Mother's Name",
+       "amud": "16a",
+       "text": {
+        "from": "16a.7",
+        "to": "16a.9"
+       },
+       "gist": "Rav Amram cites the Mishnah that a firstborn's or tithe's substitute is eaten blemished by its owners. Abaye answers that each substitute follows its source, and a consecrated animal's substitute is eaten only through redemption.",
+       "bullets": [
+        {
+         "text": "Rav Amram: let it be eaten in its blemished state by the owners, like the substitute of a *bekhor* or *ma'aser behemah*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Mishnah Temurah 21a: the substitutes of a *bekhor* and of *ma'aser*, their offspring and their offspring's offspring forever, are like *bekhor* and *ma'aser*, and are eaten blemished by the owners.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Abaye: each one bears its mother's name (*zeh shem imo alav*). A firstborn's substitute is wholly “the substitute of a firstborn”, so it is eaten blemished, just as the firstborn is.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "This one is called a substitute of sacrificial animals. Those are eaten only through redemption, so the substitute is too, and its sanctity is too weak to be redeemed. So it may not be eaten.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "illustration": {
+        "caption": "Abaye's answer to Rav Amram: a firstborn's substitute follows the firstborn and is eaten blemished, while the substitute of a redeemed consecrated animal needs redemption it cannot undergo, so every way out is closed (16a).",
+        "svg": "<svg viewBox=\"0 0 900 470\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two chains. Top: a firstborn or tithe, its substitute, eaten blemished by the owners. Bottom: a redeemed consecrated animal, its substitute made after redemption, which may be eaten only through redemption; offering it, redeeming it and eating it blemished are all ruled out, so it must die.</title><rect width=\"900\" height=\"470\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Each substitute bears its mother’s name (Abaye)</text><text x=\"450\" y=\"62\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#4A3A2E\">זה שם אמו עליו וזה שם אמו עליו</text><rect x=\"20\" y=\"80\" width=\"860\" height=\"130\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"40\" y=\"106\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Rav Amram’s model: the substitute of a firstborn or animal tithe</text><rect x=\"40\" y=\"120\" width=\"220\" height=\"70\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#C9B48E\"/><text x=\"150\" y=\"150\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Firstborn or tithe</text><text x=\"150\" y=\"172\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">eaten blemished by owners</text><path d=\"M264 155 H288\" stroke=\"#9A8E7E\" stroke-width=\"3\"/><path d=\"M297 155 l-9 -6 v12 z\" fill=\"#9A8E7E\"/><rect x=\"300\" y=\"120\" width=\"220\" height=\"70\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#C9B48E\"/><text x=\"410\" y=\"150\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Its substitute</text><text x=\"410\" y=\"172\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">and its offspring, forever</text><path d=\"M524 155 H548\" stroke=\"#9A8E7E\" stroke-width=\"3\"/><path d=\"M557 155 l-9 -6 v12 z\" fill=\"#9A8E7E\"/><rect x=\"560\" y=\"120\" width=\"300\" height=\"70\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#C9B48E\"/><text x=\"680\" y=\"150\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Also eaten blemished</text><text x=\"680\" y=\"172\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#24592E\">by the owners</text><use href=\"#mark-ok\" x=\"812\" y=\"139\" width=\"32\" height=\"32\"/><rect x=\"20\" y=\"226\" width=\"860\" height=\"226\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"40\" y=\"252\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Rav Nachman’s case: the substitute of a redeemed consecrated animal</text><rect x=\"40\" y=\"266\" width=\"220\" height=\"70\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#9AA7BD\"/><text x=\"150\" y=\"296\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Redeemed animal</text><text x=\"150\" y=\"318\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">consecrated, then blemished</text><path d=\"M264 301 H288\" stroke=\"#9A8E7E\" stroke-width=\"3\"/><path d=\"M297 301 l-9 -6 v12 z\" fill=\"#9A8E7E\"/><rect x=\"300\" y=\"266\" width=\"220\" height=\"70\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#9AA7BD\"/><text x=\"410\" y=\"296\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Its substitute</text><text x=\"410\" y=\"318\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">made after redemption</text><path d=\"M524 301 H548\" stroke=\"#9A8E7E\" stroke-width=\"3\"/><path d=\"M557 301 l-9 -6 v12 z\" fill=\"#9A8E7E\"/><rect x=\"560\" y=\"266\" width=\"300\" height=\"70\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#9AA7BD\"/><text x=\"710\" y=\"296\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Like any offering:</text><text x=\"710\" y=\"318\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">eaten only through redemption</text><rect x=\"40\" y=\"352\" width=\"260\" height=\"54\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#D9B8B8\"/><text x=\"150\" y=\"374\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Offer it?</text><text x=\"150\" y=\"394\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">its source is deferred sanctity</text><use href=\"#mark-no\" x=\"262\" y=\"366\" width=\"26\" height=\"26\"/><rect x=\"320\" y=\"352\" width=\"260\" height=\"54\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#D9B8B8\"/><text x=\"430\" y=\"374\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Redeem it?</text><text x=\"430\" y=\"394\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">too weak to pass to money</text><use href=\"#mark-no\" x=\"542\" y=\"366\" width=\"26\" height=\"26\"/><rect x=\"600\" y=\"352\" width=\"260\" height=\"54\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#D9B8B8\"/><text x=\"710\" y=\"374\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Eat it blemished?</text><text x=\"710\" y=\"394\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">only after redemption</text><use href=\"#mark-no\" x=\"822\" y=\"366\" width=\"26\" height=\"26\"/><text x=\"450\" y=\"434\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">So it must die</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s8",
+       "title": "'Impure to You' (Vayikra 11:4): Substitutes, Five Sin Offerings, *Temurat Asham*",
+       "amud": "16a",
+       "text": {
+        "from": "16a.10",
+        "to": "16a.14"
+       },
+       "gist": "A baraita derives Rav Nachman's rule from Vayikra 11:4. The Gemara then asks what the verse's parallel phrase teaches, given that the five sin offerings left to die and the *asham*'s substitute are both known by tradition, and gives two answers.",
+       "bullets": [],
+       "illustration": {
+        "caption": "How the baraitot read Vayikra 11:4: the cud-chewing phrase for the substitute of disqualified consecrated animals, and the split-hoof phrase for the five sin offerings left to die, with the Gemara's second answer linking the two (16a).",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two panels for the two phrases of Vayikra 11:4. Left, the cud-chewers: the substitute of disqualified consecrated animals, forbidden to eat. Right, the split hoof: the five sin offerings left to die, forbidden to eat. A band below links them: as the sin offerings die, so do the substitutes.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Vayikra 11:4: two phrases, two animals that may not be eaten</text><text x=\"450\" y=\"62\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#4A3A2E\">ממעלי הגרה וממפריסי הפרסה … טמא הוא לכם</text><rect x=\"20\" y=\"80\" width=\"420\" height=\"270\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"230\" y=\"112\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1B3A8A\">Of them that only chew the cud</text><text x=\"230\" y=\"136\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#3A5692\">ממעלי הגרה</text><use href=\"#lamb\" x=\"44\" y=\"160\" width=\"120\" height=\"84\"/><text x=\"184\" y=\"178\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">“It is impure to you”</text><text x=\"184\" y=\"208\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">The substitute of</text><text x=\"184\" y=\"228\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">disqualified consecrated</text><text x=\"184\" y=\"248\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">animals</text><use href=\"#mark-no\" x=\"184\" y=\"268\" width=\"24\" height=\"24\"/><text x=\"216\" y=\"286\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">Forbidden to eat</text><text x=\"230\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Rav Nachman’s rule: it must die</text><rect x=\"460\" y=\"80\" width=\"420\" height=\"270\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"112\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#9A6212\">Of them that only have a split hoof</text><text x=\"670\" y=\"136\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#7A4A2A\">ממפריסי הפרסה</text><use href=\"#lamb\" x=\"484\" y=\"160\" width=\"120\" height=\"84\"/><text x=\"624\" y=\"178\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">“Is impure”</text><text x=\"624\" y=\"208\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">The five sin offerings</text><text x=\"624\" y=\"228\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">left to die</text><use href=\"#mark-no\" x=\"624\" y=\"268\" width=\"24\" height=\"24\"/><text x=\"656\" y=\"286\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">Forbidden to eat</text><text x=\"670\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Also known by tradition</text><rect x=\"20\" y=\"366\" width=\"860\" height=\"56\" rx=\"12\" fill=\"#EFE6D2\"/><text x=\"450\" y=\"390\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Second answer: the verse juxtaposes the two groups</text><text x=\"450\" y=\"410\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Just as the five sin offerings die, so do the substitutes</text></svg>"
+       },
+       "children": [
+        {
+         "id": "s9",
+         "title": "A Kosher-Signed Animal That May Not Be Eaten",
+         "amud": "16a",
+         "text": {
+          "from": "16a.10",
+          "to": "16a.10"
+         },
+         "gist": "A baraita reads 'impure to you' as the substitute of *pesulei ha'mukdashin*, and assigns the five sin offerings to the split-hoof phrase instead.",
+         "bullets": [
+          {
+           "text": "A baraita supports Rav Nachman: the substitute of *pesulei ha'mukdashin* must die, from “…of them that only chew the cud, or of them that only have a split hoof… it is impure to you” (Vayikra 11:4).",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "The extra “impure to you” points to an animal with kosher signs that is still forbidden to eat: the substitute of disqualified consecrated animals.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "Isn't that phrase needed for the five sin offerings left to die? No: they come from “of them that only have a split hoof… is impure”.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "The five (*chamesh chata'ot metot*, from Mishnah Temurah): the substitute of a *chatat*, a *chatat* whose owner died, one whose owner atoned with another animal, the offspring of a *chatat*, and one past its first year.",
+           "detail": 3,
+           "source": "shiur"
+          }
+         ],
+         "children": []
+        },
+        {
+         "id": "s10",
+         "title": "Tradition, Not Verse? The *Asham*'s Substitute Grazes",
+         "amud": "16a",
+         "text": {
+          "from": "16a.11",
+          "to": "16a.12"
+         },
+         "gist": "A second baraita derives the five sin offerings from the verse. Since they are known by tradition, the Gemara moves the verse to the *asham*'s substitute, which grazes until blemished, but that too is a tradition.",
+         "bullets": [
+          {
+           "text": "A baraita: the five sin offerings left to die come from “of them that have a split hoof… is impure to you”, a second category of kosher-signed animals that may not be eaten.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "Objection: the five sin offerings are a *halakha* known by tradition (*halakha le'Moshe mi'Sinai*), not from a verse.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "Rather, the verse teaches that the substitute of an *asham* is not offered, and is left to graze until it develops a blemish.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "Objection: that too is a tradition, by the rule “wherever a *chatat* is left to die, an *asham* is left to graze”. The *chatat*'s substitute dies, so the *asham*'s substitute grazes.",
+           "detail": 2,
+           "source": "gemara"
+          }
+         ],
+         "children": []
+        },
+        {
+         "id": "s11",
+         "title": "Verse and Tradition Both Needed, or a Juxtaposition",
+         "amud": "16a",
+         "text": {
+          "from": "16a.13",
+          "to": "16a.14"
+         },
+         "gist": "Two answers: the verse and the tradition each teach something about the five sin offerings (their fate, and a *lav* for eating them), or the verse links the substitutes to the five sin offerings so that both die.",
+         "bullets": [
+          {
+           "text": "First answer: the verse really is about the five sin offerings, and both the verse and the tradition are needed.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "From the verse alone, one would think they are left to graze; the tradition teaches that they die.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "From the tradition (*halakha le'Moshe mi'Sinai*) alone, one who ate of them would violate a general *issur* but not a *lav* carrying lashes; the verse teaches that there is a *lav*.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "It isn't obvious why eating them wouldn't already fall under the ban on consecrated property. The Gemara leaves that open but insists that the verse adds a distinct *lav*.",
+           "detail": 3,
+           "source": "shiur"
+          },
+          {
+           "text": "Second answer: the five sin offerings are known by tradition. The verse juxtaposes what comes from the cud-chewers (the substitutes of *pesulei ha'mukdashin*) with what comes from the split hoof (the five sin offerings): just as those die, so do these.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "Confining an animal until it dies raises the question of *tza'ar ba'alei chayim* for ritual ends. The Gemara offers no alternative. By its time the laws of offerings were largely theoretical, but it states the ruling as normative law.",
+           "detail": 2,
+           "source": "shiur"
+          },
+          {
+           "text": "Later halakha permits animal suffering for genuine human need, such as medicine or food. The lecturer argues that discomfort with this ruling should extend to industrial meat production, and that not every convenience or taste counts as “need”.",
+           "detail": 3,
+           "source": "shiur"
+          }
+         ],
+         "chart": {
+          "caption": "First answer: why both the verse and the tradition are needed for the five sin offerings",
+          "columns": [
+           "",
+           "What it would teach",
+           "What it would leave open"
+          ],
+          "rows": [
+           [
+            "The verse alone",
+            "The five sin offerings may not be eaten",
+            "Their fate: one might think they are left to graze"
+           ],
+           [
+            "The tradition alone",
+            "They are left to die",
+            "Eating one: only an *issur*, not a *lav* carrying lashes"
+           ]
+          ]
+         },
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "title": "Mishnah: *Tzon Barzel* From a Gentile, and a Ewe Bearing a Goat-Like Lamb",
+   "amud": "16a–16b",
+   "text": {
+    "from": "16a.15",
+    "to": "16b.2"
+   },
+   "gist": "Two clauses: how many generations of a gentile's guaranteed flock are exempt from *bekhor* (the first tanna's two cases and Rabban Shimon ben Gamliel's ten generations), and a ewe or goat whose young looks like the other species.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s13",
+     "title": "*Tzon Barzel*: One Generation, Two, or Ten?",
+     "amud": "16a–16b",
+     "text": {
+      "from": "16a.15",
+      "to": "16b.1"
+     },
+     "gist": "The direct offspring are exempt and the next generation obligated; if the offspring were set in place of their mothers, the exemption moves down a generation; Rabban Shimon ben Gamliel exempts even ten generations.",
+     "bullets": [
+      {
+       "text": "The case: a Jew receives a gentile's flock to raise and commits to pay a fixed value later, even if the animals die or lose value. The offspring born meanwhile are divided between them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "“Receiving” here means a sharecropping contract. It is called “iron” because the principal is guaranteed; the same term describes a wife's guaranteed property (*nikhsei tzon barzel*).",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The direct offspring are exempt from *bekhor*; the offspring of the direct offspring are obligated.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If the Jew set the offspring in place of their mothers (for collection if the mothers die), the offspring of the direct offspring are exempt, and the generation after them is obligated.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabban Shimon ben Gamliel: even to ten generations they are exempt, since all serve as the gentile's guarantee. If he is not paid, he collects from any offspring or its offspring.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Jew's guarantee gives the gentile a right to seize the offspring if the originals are gone, so they carry a gentile interest. Rashi: even if the mothers haven't died, explicitly designating the offspring as security shifts the exemption down a generation.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The lecturer reads “their offspring are exempt” as the offspring in their role as mothers, so the first generation's young are exempt too. The Gemara goes on to debate how many generations the first clause covers.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "*Tzon barzel* from a gentile: whose firstborn is exempt",
+      "columns": [
+       "",
+       "Direct offspring",
+       "Their offspring",
+       "Later generations"
+      ],
+      "rows": [
+       [
+        "First tanna, offspring not set in place of mothers",
+        "Exempt",
+        "Obligated",
+        "Obligated"
+       ],
+       [
+        "First tanna, offspring set in place of mothers",
+        "Exempt",
+        "Exempt",
+        "Obligated from the next generation"
+       ],
+       [
+        "Rabban Shimon ben Gamliel",
+        "Exempt",
+        "Exempt",
+        "Exempt, even to ten generations"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "The Mishnah's three rulings, generation by generation, for a flock a Jew receives as a guaranteed investment from a gentile (16a–16b).",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three rows of lambs, one per ruling, running from the gentile's flock through successive generations. First tanna: direct offspring exempt, next generation obligated. With offspring set in place of mothers: two generations exempt, the third obligated. Rabban Shimon ben Gamliel: exempt even to ten generations.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Tzon barzel from a gentile: whose firstborn is exempt?</text><text x=\"290\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5B6478\">Flock received</text><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5B6478\">Direct offspring</text><text x=\"570\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5B6478\">Their offspring</text><text x=\"710\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5B6478\">Next generation</text><text x=\"840\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5B6478\">Later</text><text x=\"30\" y=\"112\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">First tanna</text><text x=\"30\" y=\"130\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">no substitution</text><use href=\"#lamb\" x=\"248\" y=\"88\" width=\"84\" height=\"59\"/><rect x=\"235\" y=\"152\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#EFE6D2\"/><text x=\"290\" y=\"167\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#5A4A3A\">gentile’s flock</text><path d=\"M336 118 H376\" stroke=\"#9A8E7E\" stroke-width=\"2.5\"/><path d=\"M384 118 l-8 -5 v10 z\" fill=\"#9A8E7E\"/><use href=\"#lamb\" x=\"388\" y=\"88\" width=\"84\" height=\"59\"/><rect x=\"375\" y=\"152\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#1B3A8A\"/><text x=\"430\" y=\"167\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">exempt</text><path d=\"M476 118 H516\" stroke=\"#9A8E7E\" stroke-width=\"2.5\"/><path d=\"M524 118 l-8 -5 v10 z\" fill=\"#9A8E7E\"/><use href=\"#lamb\" x=\"528\" y=\"88\" width=\"84\" height=\"59\"/><rect x=\"515\" y=\"152\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#9A6212\"/><text x=\"570\" y=\"167\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">obligated</text><path d=\"M616 118 H656\" stroke=\"#9A8E7E\" stroke-width=\"2.5\" opacity=\"0.5\"/><path d=\"M664 118 l-8 -5 v10 z\" fill=\"#9A8E7E\" opacity=\"0.5\"/><use href=\"#lamb\" x=\"668\" y=\"88\" width=\"84\" height=\"59\" opacity=\"0.45\"/><rect x=\"655\" y=\"152\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#9A6212\" opacity=\"0.6\"/><text x=\"710\" y=\"167\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">obligated</text><line x1=\"20\" y1=\"186\" x2=\"880\" y2=\"186\" stroke=\"#E6DFD2\"/><text x=\"30\" y=\"214\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">First tanna,</text><text x=\"30\" y=\"232\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">offspring set in</text><text x=\"30\" y=\"250\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">place of mothers</text><use href=\"#lamb\" x=\"248\" y=\"196\" width=\"84\" height=\"59\"/><rect x=\"235\" y=\"260\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#EFE6D2\"/><text x=\"290\" y=\"275\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#5A4A3A\">gentile’s flock</text><path d=\"M336 226 H376\" stroke=\"#9A8E7E\" stroke-width=\"2.5\"/><path d=\"M384 226 l-8 -5 v10 z\" fill=\"#9A8E7E\"/><use href=\"#lamb\" x=\"388\" y=\"196\" width=\"84\" height=\"59\"/><rect x=\"375\" y=\"260\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#1B3A8A\"/><text x=\"430\" y=\"275\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">exempt</text><path d=\"M476 226 H516\" stroke=\"#9A8E7E\" stroke-width=\"2.5\"/><path d=\"M524 226 l-8 -5 v10 z\" fill=\"#9A8E7E\"/><use href=\"#lamb\" x=\"528\" y=\"196\" width=\"84\" height=\"59\"/><rect x=\"515\" y=\"260\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#1B3A8A\"/><text x=\"570\" y=\"275\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">exempt</text><path d=\"M616 226 H656\" stroke=\"#9A8E7E\" stroke-width=\"2.5\"/><path d=\"M664 226 l-8 -5 v10 z\" fill=\"#9A8E7E\"/><use href=\"#lamb\" x=\"668\" y=\"196\" width=\"84\" height=\"59\"/><rect x=\"655\" y=\"260\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#9A6212\"/><text x=\"710\" y=\"275\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">obligated</text><line x1=\"20\" y1=\"294\" x2=\"880\" y2=\"294\" stroke=\"#E6DFD2\"/><text x=\"30\" y=\"322\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Rabban Shimon</text><text x=\"30\" y=\"340\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">ben Gamliel</text><use href=\"#lamb\" x=\"248\" y=\"304\" width=\"84\" height=\"59\"/><rect x=\"235\" y=\"368\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#EFE6D2\"/><text x=\"290\" y=\"383\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#5A4A3A\">gentile’s flock</text><path d=\"M336 334 H376\" stroke=\"#9A8E7E\" stroke-width=\"2.5\"/><path d=\"M384 334 l-8 -5 v10 z\" fill=\"#9A8E7E\"/><use href=\"#lamb\" x=\"388\" y=\"304\" width=\"84\" height=\"59\"/><rect x=\"375\" y=\"368\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#1B3A8A\"/><text x=\"430\" y=\"383\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">exempt</text><path d=\"M476 334 H516\" stroke=\"#9A8E7E\" stroke-width=\"2.5\"/><path d=\"M524 334 l-8 -5 v10 z\" fill=\"#9A8E7E\"/><use href=\"#lamb\" x=\"528\" y=\"304\" width=\"84\" height=\"59\"/><rect x=\"515\" y=\"368\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#1B3A8A\"/><text x=\"570\" y=\"383\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">exempt</text><path d=\"M616 334 H656\" stroke=\"#9A8E7E\" stroke-width=\"2.5\"/><path d=\"M664 334 l-8 -5 v10 z\" fill=\"#9A8E7E\"/><use href=\"#lamb\" x=\"668\" y=\"304\" width=\"84\" height=\"59\"/><rect x=\"655\" y=\"368\" width=\"110\" height=\"22\" rx=\"11\" fill=\"#1B3A8A\"/><text x=\"710\" y=\"383\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">exempt</text><path d=\"M756 334 H790\" stroke=\"#9A8E7E\" stroke-width=\"2.5\" stroke-dasharray=\"5 4\"/><path d=\"M798 334 l-8 -5 v10 z\" fill=\"#9A8E7E\"/><text x=\"840\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">up to ten</text><text x=\"840\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">generations</text><rect x=\"790\" y=\"368\" width=\"100\" height=\"22\" rx=\"11\" fill=\"#1B3A8A\"/><text x=\"840\" y=\"383\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">exempt</text><text x=\"450\" y=\"420\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Rabban Shimon ben Gamliel: all serve as the gentile’s guarantee, since he may collect from any offspring or its offspring</text><text x=\"450\" y=\"440\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Set in place of mothers: the offspring stand as security if the mothers die</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s14",
+     "title": "A Ewe Bearing a Goat-Like Lamb, a Goat Bearing a Ewe-Like Kid",
+     "amud": "16b",
+     "text": {
+      "from": "16b.2",
+      "to": "16b.2"
+     },
+     "gist": "A ewe that bore something goat-like, or a goat that bore something ewe-like, is exempt from *bekhor*; if the young shares some of its mother's features, it is obligated.",
+     "flag": "Gemara text only",
+     "bullets": [
+      {
+       "text": "A ewe that gave birth to a goat of sorts, or a goat that gave birth to a ewe of sorts, is exempt from *bekhor*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If the offspring has some of its mother's characteristics, it is obligated.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "continues": "The Gemara takes up this clause on 17a: Rav Oshaya's baraita, where R. Meir obligates such an animal and the Rabbis exempt it.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s15",
+   "title": "Whose Flock Is It? *Ribbit* in Bava Metzia vs. the *Bekhor* Exemption",
+   "amud": "16b",
+   "text": {
+    "from": "16b.3",
+    "to": "16b.8"
+   },
+   "gist": "The Mishnah implies that the gentile still owns the flock, but Bava Metzia calls *tzon barzel* between Jews *ribbit*, so the recipient must own it; Abaye splits the cases by who bears losses, and Rava refutes him and grounds the exemption in the gentile's right to seize.",
+   "bullets": [],
+   "chart": {
+    "caption": "Abaye vs. Rava: reconciling the two mishnayot on *tzon barzel*",
+    "columns": [
+     "",
+     "Our Mishnah (from a gentile)",
+     "Bava Metzia (from a Jew)",
+     "Why the offspring are exempt from *bekhor*"
+    ],
+    "rows": [
+     [
+      "Abaye",
+      "The owner bears accident and depreciation, so the flock is still his",
+      "The owner bears nothing: a loan, hence *ribbit*",
+      "The gentile still owns the flock"
+     ],
+     [
+      "Rava",
+      "The owner bears nothing here either",
+      "The owner bears nothing: a loan, hence *ribbit*",
+      "The gentile can seize the animal or its offspring: his hand is in the middle"
+     ]
+    ]
+   },
+   "continues": "The Gemara next turns to the Mishnah's clause on offspring set in place of their mothers: Rav Huna and Rav Yehuda on how many generations are exempt (16b.9 onward).",
+   "children": [
+    {
+     "id": "s16",
+     "title": "The Contradiction: Owner's Flock Here, Borrower's in Bava Metzia",
+     "amud": "16b",
+     "text": {
+      "from": "16b.3",
+      "to": "16b.4"
+     },
+     "gist": "If the exemption means the gentile still owns the flock, how can Bava Metzia treat the same arrangement between Jews as a loan with interest?",
+     "bullets": [
+      {
+       "text": "The Mishnah exempts the offspring because the animals belong to the gentile. Is that because, until he takes his money, the flock stands in the owner's possession?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Contradiction from Bava Metzia 70b: one may not accept *tzon barzel* from a Jew, where the recipient takes full responsibility for depreciation and loss but receives only part of the profit. It is *ribbit*: the principal is fixed and always returned, and anything more is interest.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the flock stands in the recipient's possession; otherwise it would not be a loan.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Renting out an object leaves its depreciation on the owner. Guaranteeing its value turns the deal into a money loan in the form of sheep, and the owner's share of the offspring becomes interest.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s17",
+     "title": "Abaye: Who Bears Accident and Depreciation?",
+     "amud": "16b",
+     "text": {
+      "from": "16b.5",
+      "to": "16b.5"
+     },
+     "gist": "Abaye: in our Mishnah the gentile owner bears losses, so the flock is still his; in Bava Metzia he does not, so it is a loan.",
+     "bullets": [
+      {
+       "text": "Abaye: our Mishnah is where the gentile owner took on responsibility for accident and depreciation, and that is why the sheep are still considered his.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Bava Metzia is where the owner did not, so the flock stands in the recipient's possession, and the arrangement is a loan with *ribbit*.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s18",
+     "title": "Rava's Objections: Not *Tzon Barzel*, an Unqualified Term, the Wrong Contrast",
+     "amud": "16b",
+     "text": {
+      "from": "16b.6",
+      "to": "16b.7"
+     },
+     "gist": "Rava rejects Abaye three ways: an arrangement where the owner bears losses isn't *tzon barzel* at all, both mishnayot use the term without qualification, and Bava Metzia would have drawn the line within the Jewish case.",
+     "bullets": [
+      {
+       "text": "If the owner bears accident and depreciation, can you call it *tzon barzel*? He isn't guaranteed what he gave; it's a joint venture, permitted even between two Jews.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "And if the term covered two different arrangements, why do both mishnayot state it without qualification?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Further: rather than contrasting with gentiles (“but one may accept it from gentiles”), Bava Metzia should have distinguished within the Jewish case: forbidden where the owner bears nothing, permitted where he bears the losses.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "Rava: The Gentile's Hand Is in the Middle",
+     "amud": "16b",
+     "text": {
+      "from": "16b.8",
+      "to": "16b.8"
+     },
+     "gist": "Both mishnayot deal with an owner who bears no losses; the offspring are exempt because the gentile can seize the animal, or failing that its offspring.",
+     "bullets": [
+      {
+       "text": "Rava: both mishnayot deal with an owner who did not take on accident or depreciation. The flock stands in the recipient's possession.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The offspring are still exempt: if the gentile wants his money and isn't paid, he seizes the animal, and if he can't find it, he seizes its offspring.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the gentile's hand is in the middle, and wherever *yad oved kokhavim ba'emtza*, the animal is exempt from *bekhor*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The exemption rests not on the gentile's ownership but on his right of seizure. For the offspring that right is only secondary, yet it is a real monetary stake and suffices.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: a government's general right to tax or seize property would not exempt a flock. Here the gentile's right grows out of the very transaction over these animals, which he once owned, so it comes close to ownership.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Rava's explanation of the exemption: an unpaid gentile seizes the animal, or failing that its young, so his hand is in the middle (16b).",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three panels left to right. A gentile asks the Jewish recipient for his money; unpaid, he seizes the animal; if the animal is not found, he seizes its young. Below: the gentile's hand is in the middle, so the offspring are exempt from the firstborn obligation.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Tzon barzel: why the offspring are exempt</text><rect x=\"20\" y=\"60\" width=\"280\" height=\"260\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"160\" y=\"92\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">The gentile wants his money</text><use href=\"#man\" x=\"50\" y=\"130\" width=\"50\" height=\"100\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"210\" y=\"130\" width=\"50\" height=\"100\" style=\"color:#3E6FA8\"/><circle cx=\"135\" cy=\"190\" r=\"9\" fill=\"#D9B24C\" stroke=\"#9A7A2A\"/><circle cx=\"152\" cy=\"182\" r=\"9\" fill=\"#D9B24C\" stroke=\"#9A7A2A\"/><circle cx=\"169\" cy=\"190\" r=\"9\" fill=\"#D9B24C\" stroke=\"#9A7A2A\"/><text x=\"75\" y=\"256\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">gentile</text><text x=\"235\" y=\"256\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Jewish recipient</text><text x=\"160\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">the recipient owns the flock</text><rect x=\"310\" y=\"60\" width=\"280\" height=\"260\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"450\" y=\"92\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">Unpaid, he seizes the animal</text><use href=\"#man\" x=\"330\" y=\"130\" width=\"50\" height=\"100\" style=\"color:#6A4F7A\"/><path d=\"M372 186 L418 196\" stroke=\"#D6AE86\" stroke-width=\"4\" stroke-linecap=\"round\"/><use href=\"#lamb\" x=\"410\" y=\"160\" width=\"150\" height=\"105\"/><text x=\"355\" y=\"256\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">gentile</text><text x=\"485\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">the animal itself</text><rect x=\"600\" y=\"60\" width=\"280\" height=\"260\" rx=\"14\" fill=\"#EAE4F0\"/><text x=\"740\" y=\"92\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A3E6E\">No animal? He seizes its young</text><use href=\"#man\" x=\"620\" y=\"130\" width=\"50\" height=\"100\" style=\"color:#6A4F7A\"/><path d=\"M662 186 L704 206\" stroke=\"#D6AE86\" stroke-width=\"4\" stroke-linecap=\"round\"/><use href=\"#lamb\" x=\"700\" y=\"196\" width=\"80\" height=\"56\"/><use href=\"#lamb\" x=\"785\" y=\"200\" width=\"80\" height=\"56\"/><text x=\"645\" y=\"256\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">gentile</text><text x=\"782\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">its offspring</text><rect x=\"20\" y=\"336\" width=\"860\" height=\"84\" rx=\"12\" fill=\"#EFE6D2\"/><text x=\"450\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Rava: the gentile’s hand is in the middle, so the offspring are exempt from bekhor</text><text x=\"450\" y=\"400\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#4A3A2E\">יד עובד כוכבים באמצע פטור מן הבכורה</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "pesulei ha'mukdashin",
+   "hebrew": "פסולי המוקדשין",
+   "sense": "consecrated animals disqualified by a blemish",
+   "definition": "Animals consecrated as offerings that became unfit for the altar through a permanent blemish. They are redeemed and may then be eaten, but they keep some sanctity: they may not be shorn or worked.",
+   "on_this_daf": "The baraita's second category: after redemption their milk is forbidden, their offspring are sacred, and a substitute made after redemption must die.",
+   "aliases": [
+    "disqualified consecrated animal",
+    "pesulei ha'mukdashin"
+   ],
+   "sections": [
+    "s2",
+    "s9",
+    "s11"
+   ]
+  },
+  {
+   "term": "temurah",
+   "hebrew": "תמורה",
+   "sense": "substituting an animal for a consecrated one",
+   "definition": "Declaring an ordinary animal a substitute for a consecrated one. The declaration is forbidden, but it takes effect: both animals are sacred, and the substitute takes on the status of the original.",
+   "on_this_daf": "A redeemed animal consecrated before its blemish still creates a temurah. Its substitute can be neither offered nor redeemed, so it must die, unlike the substitute of a firstborn or tithe.",
+   "aliases": [
+    "Temurat Bekhor",
+    "Temurat Asham",
+    "Temurah",
+    "temurah"
+   ],
+   "sections": [
+    "s5",
+    "s6",
+    "s7",
+    "s8"
+   ]
+  },
+  {
+   "term": "kedushah dechuyah",
+   "hebrew": "קדושה דחויה",
+   "sense": "sanctity pushed off from the altar",
+   "definition": "The sanctity of an animal that has been permanently rejected from the altar, for example by a blemish. It remains sacred in some respects but can no longer be offered.",
+   "on_this_daf": "This is why neither the offspring born after redemption nor a substitute made after redemption can be offered.",
+   "aliases": [
+    "kedushah dechuyah"
+   ],
+   "sections": [
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "term": "chamesh chata'ot metot",
+   "hebrew": "חמש חטאות מתות",
+   "sense": "sin offerings left to die",
+   "definition": "Five kinds of sin offering that can be neither offered nor redeemed, and are confined until they die: the substitute of a chatat, its offspring, one whose owner died, one whose owner atoned with another animal, and one past its first year.",
+   "on_this_daf": "The Gemara debates whether Vayikra 11:4 is their source, since they are known by tradition, and uses them as the model for the substitute of pesulei ha'mukdashin.",
+   "aliases": [
+    "five sin offerings left to die",
+    "chamesh chata'ot metot",
+    "five sin offerings"
+   ],
+   "sections": [
+    "s8",
+    "s9",
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "term": "halakha le'Moshe mi'Sinai",
+   "hebrew": "הלכה למשה מסיני",
+   "sense": "law received by tradition from Sinai",
+   "definition": "A law transmitted orally from Moshe at Sinai, without a source in the written verses.",
+   "on_this_daf": "Both the five sin offerings and the rule that an asham grazes where a chatat dies are traditions, so the Gemara asks what the verse adds; one answer is a lav for eating them.",
+   "aliases": [
+    "halakha le'Moshe mi'Sinai"
+   ],
+   "sections": [
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "term": "tzon barzel",
+   "hebrew": "צאן ברזל",
+   "sense": "guaranteed-value investment",
+   "definition": "An arrangement in which one party receives property to manage and guarantees its full original value whatever happens to it, while the profits are shared.",
+   "on_this_daf": "A flock received this way from a gentile yields offspring exempt from bekhor for one or more generations, while Bava Metzia forbids the same arrangement between Jews as ribbit.",
+   "aliases": [
+    "Tzon Barzel",
+    "tzon barzel"
+   ],
+   "sections": [
+    "s12",
+    "s13",
+    "s15",
+    "s16",
+    "s18"
+   ]
+  },
+  {
+   "term": "ribbit",
+   "hebrew": "רבית",
+   "sense": "forbidden interest",
+   "definition": "Any payment beyond the principal in return for a loan, which the Torah forbids between Jews.",
+   "on_this_daf": "Tzon barzel between Jews counts as ribbit because the guaranteed principal makes it a loan, which implies that the recipient owns the flock.",
+   "aliases": [
+    "Ribbit",
+    "ribbit"
+   ],
+   "sections": [
+    "s15",
+    "s16",
+    "s17"
+   ]
+  },
+  {
+   "term": "yad oved kokhavim ba'emtza",
+   "hebrew": "יד עובד כוכבים באמצע",
+   "sense": "a gentile's stake exempting from bekhor",
+   "definition": "The principle that an animal in which a gentile holds any share or legal interest is exempt from the firstborn obligation.",
+   "on_this_daf": "Rava grounds the tzon barzel exemption in this principle: the gentile does not own the flock, but he can seize the animal or its offspring for his debt.",
+   "aliases": [
+    "yad oved kokhavim ba'emtza",
+    "hand is in the middle"
+   ],
+   "sections": [
+    "s19"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "15b.13–16a.14 is grouped as one top-level section, since the Gemara is working through clauses of the same baraita; each clause (principles, offspring, slaughter outside, substitutes) could instead have been its own top-level section.",
+  "The Vayikra 11:4 derivation (16a.10–14) is nested under the temurah section because the baraita is cited in support of Rav Nachman; it could stand as its own top-level section, since it turns mostly to the five sin offerings.",
+  "The lecturer's discussion of tza'ar ba'alei chayim has no Gemara lines of its own, so it appears as shiur bullets at the end of s11, where the 'left to die' conclusion falls, rather than as a separate section.",
+  "The ewe/goat clause (16b.2) is a child of the Mishnah section rather than a separate top-level section, since it is part of the same Mishnah.",
+  "The Gemara on tzon barzel (16b.3–8) is its own top-level section rather than a child of the Mishnah, since it is a self-contained discussion of ownership versus ribbit.",
+  "Rava's three objections are kept in one section (s18) rather than split, since each is brief and they share one target."
+ ],
+ "coverage_notes": [
+  "The essay attributes the in-utero solution to 'Rav Chanina' and says the Gemara judges it the superior method. On these lines the text names no Rav Chanina and makes no such judgment: it only derives the case from the inferences and deflects the refutation of Rav Huna. Followed the text; the link to 15b's in-utero sanctification appears as a shiur bullet.",
+  "The essay says Rabbah bar Avuha; the text has Rav Nachman in the name of Rabba bar Avuh. Followed the text.",
+  "The essay frames the slaughter-outside clause as a contradiction between 'our mishnah' (liable) and a baraita (exempt). The text states that one is exempt from karet and that Rav Huna taught it as liable, interpreting it as a cornea blemish per R. Akiva. Followed the text. The essay's 'cataract' is rendered as a blemish on the cornea (dukin she'ba'ayin), as in the text.",
+  "The essay says the baraita derives the temurah rule from 'mimafrisei ha-parsah tamei'. The text derives the substitute of pesulei ha'mukdashin from 'impure to you', and the five sin offerings from the split-hoof phrase. Followed the text.",
+  "The list of the five sin offerings and the TAMNU'E mnemonic are not in these lines; the list is marked as shiur and the mnemonic is omitted.",
+  "The essay says Rava raises two objections to Abaye; the text has three (it isn't tzon barzel but a joint venture; both mishnayot are unqualified; Bava Metzia should have distinguished within the Jewish case). Followed the text.",
+  "The essay says Rava concludes that gentiles differ because interest with them is permitted. The text's Rava says that in both mishnayot the owner bears no losses, and explains the exemption by the gentile's right of seizure (yad oved kokhavim ba'emtza). Followed the text.",
+  "The essay reads the Mishnah's first clause as exempting the first generation's young as well. The text states that the direct offspring are exempt and their offspring obligated; the essay's reading is the one Rav Yehuda defends from 16b.9. Outlined the text's wording and kept the lecturer's reading as a shiur bullet.",
+  "The ewe/goat clause of the Mishnah (16b.2) is not discussed in the shiur; outlined from the text only.",
+  "The Rav Huna/Rav Yehuda dispute on how many generations are exempt begins at 16b.9, outside this outline's scope.",
+  "The Tosafot on government taxation and Rashi on designating offspring as security are lecturer material from outside these lines; marked as shiur."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s2",
+    "subject": "The two 'principle of the matter' clauses and what each adds",
+    "why_not": "Only two items with one dimension each; the full baraita grid belongs to 15b's outline."
+   },
+   {
+    "section": "s7",
+    "subject": "Substitute of a firstborn vs. substitute of a redeemed consecrated animal",
+    "why_not": "Illustrated instead; a chart would repeat the picture."
+   },
+   {
+    "section": "s18",
+    "subject": "Rava's three objections",
+    "why_not": "A list of arguments with no shared dimensions to compare."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s4",
+    "subject": "An animal with a blemish on the cornea brought to the altar",
+    "why_not": "A fine point of one line; a picture of an eye adds little."
+   },
+   {
+    "section": "s6",
+    "subject": "The three closed exits for the substitute",
+    "why_not": "Folded into the s7 picture, which shows them beside the firstborn contrast."
+   },
+   {
+    "section": "s16",
+    "subject": "Object loan vs. money loan",
+    "why_not": "Abstract; the chart and bullets carry it better than a scene."
+   },
+   {
+    "section": "s14",
+    "subject": "A ewe beside its goat-like young",
+    "why_not": "The Gemara discusses the clause only on 17a, and its appearance would be guesswork."
+   }
+  ]
+ }
+}

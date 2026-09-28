@@ -1,0 +1,970 @@
+{
+ "daf": "Kiddushin 12",
+ "scope": {
+  "start": "12a: the answer to the challenge to Reish Lakish's derivation from the Hebrew maidservant (12a opens mid-exchange)",
+  "end": "12b: the Sages of Nehardea on Rav's floggings"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Beit Shammai's Dinar: The Maidservant's Deduction or Women's Dignity",
+   "amud": "12a",
+   "text": {
+    "from": "12a.1",
+    "to": "12a.4"
+   },
+   "gist": "Continuing Reish Lakish's derivation of Beit Shammai's dinar from the Hebrew maidservant. Three parts: why a sale that allows no deduction is void, why the figure lands on a dinar, and Rava's separate reason.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "Deduction Must Be Possible, Like Designation (*Yi'ud*)",
+     "amud": "12a",
+     "text": {
+      "from": "12a.1",
+      "to": "12a.2"
+     },
+     "gist": "The challenge was that a sale for one *perutah* might simply allow no deduction. The Gemara answers that deduction, like designation, must be possible for the sale to be valid, so a woman cannot be betrothed with a *perutah* either.",
+     "bullets": [
+      {
+       "text": "The Gemara rejects the suggestion that a sale for one *perutah* is valid but allows no deduction. Deduction is compared to designation (*yi'ud*), the master's option to designate the maidservant as a wife for himself or his son.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The master need not designate her. Yet wherever designation is impossible, for example when they are relatives forbidden to each other, the sale is not a valid sale.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So too with redemption: wherever she cannot deduct from her price, the sale is not valid. A *perutah* cannot be reduced, so a sale for a *perutah* fails.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The comparison is less obvious than it looks. Designation is the very reason the Torah allowed a father to sell his daughter, while deduction seems a side feature of the arrangement. The Gemara nonetheless treats both as preconditions of the sale.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Beit Shammai derive betrothal by money from the Hebrew maidservant. Just as she cannot be acquired with one *perutah*, a woman cannot be betrothed with one *perutah*.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "Reish Lakish's argument on 12a: a maidservant sold for a dinar can deduct the work she has performed, but one sold for a single *perutah* has nothing to deduct from, so, as with designation, that sale is not valid.",
+      "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>Two sales of a Hebrew maidservant. Sold for one dinar, she can deduct the work performed and the sale is valid. Sold for one perutah, there is nothing to deduct and the sale is not valid.</title><rect width='900' height='420' fill='#FBF8F1'/><text x='450' y='34' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>Deduction: her price must be reducible</text><text x='450' y='58' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#5B6478'>וְהֶפְדָּהּ</text><rect x='15' y='72' width='425' height='300' rx='14' fill='#E3EAF3'/><text x='227' y='106' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#1B3A8A'>Sold for one dinar</text><text x='227' y='128' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>1 dinar = 192 perutot</text><rect x='47' y='144' width='360' height='40' fill='#C9D6EA' stroke='#1B3A8A' stroke-width='2'/><rect x='47' y='144' width='180' height='40' fill='#8FA6CC'/><path d='M107 144 v40 M167 144 v40 M227 144 v40 M287 144 v40 M347 144 v40' stroke='#1B3A8A' stroke-width='1.5'/><text x='137' y='206' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>work performed</text><text x='317' y='206' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>what she still pays</text><use href='#mark-ok' x='207' y='224' width='40' height='40'/><text x='227' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='16' font-weight='600' fill='#24592E'>A valid sale</text><text x='227' y='318' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>she deducts, down to one perutah</text><rect x='460' y='72' width='425' height='300' rx='14' fill='#F3E6D8'/><text x='672' y='106' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#9A6212'>Sold for one perutah</text><text x='672' y='128' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>already the smallest sum of money</text><circle cx='672' cy='164' r='20' fill='#B87333' stroke='#8A5A2A' stroke-width='2'/><text x='672' y='206' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>1 perutah</text><use href='#mark-no' x='652' y='224' width='40' height='40'/><text x='672' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='16' font-weight='600' fill='#8C2F2F'>Not a valid sale</text><text x='672' y='318' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>nothing to deduct from</text><text x='450' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Like designation (yi'ud): wherever it cannot happen, the sale is not a valid sale</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Why a Dinar, Not Half a Dinar or Two *Perutot*?",
+     "amud": "12a",
+     "text": {
+      "from": "12a.3",
+      "to": "12a.3"
+     },
+     "gist": "Deduction would work with any sum above a *perutah*. The Gemara answers that once a *perutah* is excluded, the Sages set the minimum at a coin of real substance.",
+     "bullets": [
+      {
+       "text": "Challenge: the maidservant's deduction would work with half a dinar, or even with two *perutot*. Why does Beit Shammai require a full dinar?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: once the comparison excludes a *perutah* and shows that betrothal needs money of significant value, the Sages fixed the minimum at a dinar, a coin of substantial value.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "It is like ruling out a penny and going straight to a dollar: the jump is to the next serious denomination, not to the smallest sum that would technically work.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Rava: So Daughters of Israel Are Not Like *Hefker*",
+     "amud": "12a",
+     "text": {
+      "from": "12a.4",
+      "to": "12a.4"
+     },
+     "gist": "Rava gives an independent reason for Beit Shammai: betrothal for a *perutah* treats women as cheaply as ownerless property.",
+     "bullets": [
+      {
+       "text": "Rava: Beit Shammai's reason is that the daughters of Israel should not be treated like ownerless property (*hefker*). Betrothal with an amount as small as a *perutah* is disrespectful to them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: this is a rabbinic enactment. By Torah law a *perutah* would suffice, but the Rabbis made betrothal with less than a dinar ineffective.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "There is an irony here. *Kiddushin* is modeled on the sale of a maidservant, a frankly commercial framework, yet Rava's reason sets a minimum in order to protect women's dignity.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Beit Hillel's *Perutah*: Whatever Is Small, or a Fixed Value?",
+   "amud": "12a",
+   "text": {
+    "from": "12a.5",
+    "to": "12a.11"
+   },
+   "gist": "Three steps: Rav Yosef says a *perutah* is any small amount and Abaye says it has a fixed value; the baraita of 'more than two thousand' *perutot*; and why reports differ between one-eighth and one-sixth of an *issar*.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s6",
+     "title": "Rav Yosef vs. Abaye: Any Amount, or One-Eighth of an *Issar*?",
+     "amud": "12a",
+     "text": {
+      "from": "12a.5",
+      "to": "12a.6"
+     },
+     "gist": "Abaye answers Rav Yosef from the Mishnah's definition, and from later sages who still measured the *perutah* against the Italian *issar*.",
+     "bullets": [
+      {
+       "text": "Mishnah: Beit Hillel say a woman is betrothed with a *perutah* or with any item worth a *perutah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yosef thought a *perutah* means any amount: it has no defined value.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: the Mishnah itself defines it as one-eighth of the Italian *issar*, so it has a defined value.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Nor was that only its value in Moshe's generation. Rav Dimi reported that R. Simai estimated it in his own generation as one-eighth of the Italian *issar*. Ravin reported that R. Dostai, R. Yannai and R. Oshaya estimated it as one-sixth.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: R. Simai was assessing an actual betrothal made with a *perutah*. The Mishnah's definition served as a working standard, not a historical note.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Whether one-eighth or one-sixth, both reports measure against a fixed external standard, not against whatever coin is smallest locally.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s7",
+     "title": "Two *Sela'im*: 'More Than' or 'Close to' Two Thousand *Perutot*?",
+     "amud": "12a",
+     "text": {
+      "from": "12a.7",
+      "to": "12a.7"
+     },
+     "gist": "Rav Yosef's objection from a baraita that counts more than two thousand *perutot* in two *sela'im* is removed by an old man's reading, 'close to two thousand'.",
+     "bullets": [
+      {
+       "text": "Rav Yosef: a baraita says, 'Go and calculate how many *perutot* there are in two *sela'im*: more than two thousand.' At one-eighth of an *issar* there are not even two thousand, so the *perutah* must be worth less.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The arithmetic: a *sela* is 4 dinar, so two *sela'im* are 8 dinar, and 8 × 192 = 1,536 *perutot*.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The shiur places the baraita in the laws of *me'ilah*: a *perutah*'s worth of benefit from consecrated property requires an *asham* worth two *sela'im*, a vast sum by comparison.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "A certain old man: 'I teach it as \"close to two thousand\".'",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara objects that 1,536 is nowhere near two thousand, and answers that since it passes half of the second thousand, it is called close to two thousand.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "One-Eighth or One-Sixth: A Tannaitic Dispute or a Moving *Issar*?",
+     "amud": "12a",
+     "text": {
+      "from": "12a.8",
+      "to": "12a.11"
+     },
+     "gist": "Abaye asks whether Rav Dimi and Ravin disagree as the first *tanna* and Rabban Shimon ben Gamliel do over the coin table. Rav Dimi answers that both follow the first *tanna*, and the *issar* changed in value.",
+     "bullets": [],
+     "returns_to": [
+      {
+       "id": "s6",
+       "note": "Returns to Rav Dimi's and Ravin's reports of one-eighth and one-sixth"
+      }
+     ],
+     "children": [
+      {
+       "id": "s8a",
+       "title": "Two Coin Tables: The First *Tanna* vs. Rabban Shimon ben Gamliel",
+       "amud": "12a",
+       "text": {
+        "from": "12a.8",
+        "to": "12a.10"
+       },
+       "gist": "A baraita gives two ways of dividing the dinar, one yielding a *perutah* of one-eighth of an *issar*, the other one-sixth.",
+       "bullets": [
+        {
+         "text": "Abaye to Rav Dimi: shall we say that you and Ravin disagree as these *tanna'im* do?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "First *tanna*: 6 silver *ma'ah* to a dinar, 2 *pundeyon* to a *ma'ah*, 2 *issar* to a *pundeyon*, 2 *masmas* to an *issar*, 2 *kontrank* to a *masmas*, 2 *perutot* to a *kontrank*. So a *perutah* is one-eighth of the Italian *issar*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rabban Shimon ben Gamliel: 3 *hadrisin* to a *ma'ah*, 2 *hanetz* to a *hadris*, 2 *shamin* to a *hanetz*, 2 *perutot* to a *shamin*. So a *perutah* is one-sixth of the Italian *issar*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The totals: the first table gives 192 *perutot* to a dinar, the second 144. Reckoned against 24 *issar* to a dinar, that is 8 or 6 *perutot* to an *issar*.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "chart": {
+        "caption": "The baraita's two coin tables",
+        "columns": [
+         "",
+         "Subdivisions of the dinar",
+         "*Perutot* in a dinar",
+         "*Perutah* as part of an *issar*"
+        ],
+        "rows": [
+         [
+          "First *tanna*",
+          "6 *ma'ah* · 2 *pundeyon* · 2 *issar* · 2 *masmas* · 2 *kontrank* · 2 *perutot*",
+          "192",
+          "One-eighth"
+         ],
+         [
+          "Rabban Shimon ben Gamliel",
+          "6 *ma'ah* · 3 *hadrisin* · 2 *hanetz* · 2 *shamin* · 2 *perutot*",
+          "144",
+          "One-sixth"
+         ]
+        ]
+       },
+       "illustration": {
+        "caption": "The two coin tables in the baraita on 12a, each read left to right from the dinar down to the *perutah*.",
+        "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Two chains of coins from the dinar down to the perutah: the first tanna's chain of seven coins giving 192 perutot to a dinar, and Rabban Shimon ben Gamliel's chain of six coins giving 144.</title><rect width='900' height='440' fill='#FBF8F1'/><text x='450' y='36' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>How many perutot in a dinar?</text><text x='24' y='80' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>First tanna</text><g fill='#E3EAF3' stroke='#1B3A8A' stroke-width='1.5'><rect x='24' y='92' width='108' height='64' rx='8'/><rect x='148' y='92' width='108' height='64' rx='8'/><rect x='272' y='92' width='108' height='64' rx='8'/><rect x='396' y='92' width='108' height='64' rx='8'/><rect x='520' y='92' width='108' height='64' rx='8'/><rect x='644' y='92' width='108' height='64' rx='8'/><rect x='768' y='92' width='108' height='64' rx='8'/></g><path d='M134 124 h11 m-4 -4 l4 4 l-4 4 M258 124 h11 m-4 -4 l4 4 l-4 4 M382 124 h11 m-4 -4 l4 4 l-4 4 M506 124 h11 m-4 -4 l4 4 l-4 4 M630 124 h11 m-4 -4 l4 4 l-4 4 M754 124 h11 m-4 -4 l4 4 l-4 4' fill='none' stroke='#1B3A8A' stroke-width='2'/><g font-family='Public Sans, system-ui, sans-serif' text-anchor='middle' fill='#1A1F2E'><text x='78' y='120' font-size='15' font-weight='600'>dinar</text><text x='78' y='143' font-size='13'>1</text><text x='202' y='120' font-size='15' font-weight='600'>ma'ah</text><text x='202' y='143' font-size='13'>× 6</text><text x='326' y='120' font-size='15' font-weight='600'>pundeyon</text><text x='326' y='143' font-size='13'>× 2</text><text x='450' y='120' font-size='15' font-weight='600'>issar</text><text x='450' y='143' font-size='13'>× 2</text><text x='574' y='120' font-size='15' font-weight='600'>masmas</text><text x='574' y='143' font-size='13'>× 2</text><text x='698' y='120' font-size='15' font-weight='600'>kontrank</text><text x='698' y='143' font-size='13'>× 2</text><text x='822' y='120' font-size='15' font-weight='600'>perutah</text><text x='822' y='143' font-size='13'>× 2</text></g><text x='450' y='188' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>= 192 perutot in a dinar · 8 perutot in an issar: one-eighth</text><text x='24' y='236' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>Rabban Shimon ben Gamliel</text><g fill='#F3E6D8' stroke='#9A6212' stroke-width='1.5'><rect x='24' y='248' width='108' height='64' rx='8'/><rect x='148' y='248' width='108' height='64' rx='8'/><rect x='272' y='248' width='108' height='64' rx='8'/><rect x='396' y='248' width='108' height='64' rx='8'/><rect x='520' y='248' width='108' height='64' rx='8'/><rect x='644' y='248' width='108' height='64' rx='8'/></g><path d='M134 280 h11 m-4 -4 l4 4 l-4 4 M258 280 h11 m-4 -4 l4 4 l-4 4 M382 280 h11 m-4 -4 l4 4 l-4 4 M506 280 h11 m-4 -4 l4 4 l-4 4 M630 280 h11 m-4 -4 l4 4 l-4 4' fill='none' stroke='#9A6212' stroke-width='2'/><g font-family='Public Sans, system-ui, sans-serif' text-anchor='middle' fill='#1A1F2E'><text x='78' y='276' font-size='15' font-weight='600'>dinar</text><text x='78' y='299' font-size='13'>1</text><text x='202' y='276' font-size='15' font-weight='600'>ma'ah</text><text x='202' y='299' font-size='13'>× 6</text><text x='326' y='276' font-size='15' font-weight='600'>hadris</text><text x='326' y='299' font-size='13'>× 3</text><text x='450' y='276' font-size='15' font-weight='600'>hanetz</text><text x='450' y='299' font-size='13'>× 2</text><text x='574' y='276' font-size='15' font-weight='600'>shamin</text><text x='574' y='299' font-size='13'>× 2</text><text x='698' y='276' font-size='15' font-weight='600'>perutah</text><text x='698' y='299' font-size='13'>× 2</text></g><text x='450' y='344' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>= 144 perutot in a dinar · 6 perutot in an issar: one-sixth</text><text x='450' y='404' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#5B6478'>Abaye to Rav Dimi: do you and Ravin disagree as these tanna'im do?</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s8b",
+       "title": "Rav Dimi: The *Perutah* Is Fixed, the *Issar* Fluctuates",
+       "amud": "12a",
+       "text": {
+        "from": "12a.11",
+        "to": "12a.11"
+       },
+       "gist": "Both reports follow the first *tanna*: there are always 192 *perutot* in a dinar, but the copper *issar* was sometimes 24 to a dinar and sometimes 32.",
+       "bullets": [
+        {
+         "text": "Rav Dimi: my statement and Ravin's both follow the first *tanna*. Mine refers to when the *issar* rose in value against silver, Ravin's to when it fell.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "When the *issar* rose, 24 *issar* made a dinar; when it fell, 32 did. So an *issar* was sometimes worth 8 *perutot* and sometimes only 6.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The *perutah* has a set ratio to silver, 192 to a dinar. Only the copper *issar*'s ratio to the silver dinar fluctuates.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So wherever halakha requires a *perutah*, it means 1/192 of a silver dinar, reckoned by metal weight rather than purchasing power. With a dinar's silver worth about $3, a *perutah* is roughly two cents.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Devaluation is also why the *ketubah*'s 200 *zuz* lost its worth over time, and why it came to be written in the far heavier *zekukim*.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "chart": {
+        "caption": "Rav Dimi's answer: one *perutah*, two values of the *issar*",
+        "columns": [
+         "",
+         "Report",
+         "*Issar* in a dinar",
+         "*Perutot* in a dinar"
+        ],
+        "rows": [
+         [
+          "Rav Dimi (from R. Simai)",
+          "One-eighth of an *issar*",
+          "24 (the *issar* rose)",
+          "192"
+         ],
+         [
+          "Ravin (from R. Dostai, R. Yannai, R. Oshaya)",
+          "One-sixth of an *issar*",
+          "32 (the *issar* fell)",
+          "192"
+         ]
+        ]
+       },
+       "illustration": {
+        "caption": "Rav Dimi's answer on 12a: the dinar always holds 192 *perutot*, but when the *issar* rose there were 24 to a dinar (8 *perutot* each), and when it fell there were 32 (6 *perutot* each).",
+        "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>One dinar drawn as a bar of 192 perutot. Beneath it the same dinar is divided into 24 issar when the issar rose, and into 32 issar when it fell.</title><rect width='900' height='420' fill='#FBF8F1'/><text x='450' y='34' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>Rav Dimi: the perutah is fixed, the issar moves</text><text x='60' y='74' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>1 dinar = 192 perutot (always)</text><rect x='60' y='86' width='780' height='34' rx='4' fill='#1B3A8A'/><text x='60' y='166' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>When the issar rose: 24 issar to a dinar</text><rect x='60' y='178' width='780' height='32' fill='#F3E6D8' stroke='#9A6212' stroke-width='1.5'/><rect x='60' y='178' width='32.5' height='32' fill='#C99A4E'/><path d='M92.5 178 v32 M125 178 v32 M157.5 178 v32 M190 178 v32 M222.5 178 v32 M255 178 v32 M287.5 178 v32 M320 178 v32 M352.5 178 v32 M385 178 v32 M417.5 178 v32 M450 178 v32 M482.5 178 v32 M515 178 v32 M547.5 178 v32 M580 178 v32 M612.5 178 v32 M645 178 v32 M677.5 178 v32 M710 178 v32 M742.5 178 v32 M775 178 v32 M807.5 178 v32' stroke='#9A6212' stroke-width='1'/><text x='60' y='236' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>one issar = 8 perutot: a perutah is one-eighth (Rav Dimi, from R. Simai)</text><text x='60' y='280' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#9A6212'>When the issar fell: 32 issar to a dinar</text><rect x='60' y='292' width='780' height='32' fill='#F3E6D8' stroke='#9A6212' stroke-width='1.5'/><rect x='60' y='292' width='24.375' height='32' fill='#C99A4E'/><path d='M84.375 292 v32 M108.75 292 v32 M133.125 292 v32 M157.5 292 v32 M181.875 292 v32 M206.25 292 v32 M230.625 292 v32 M255 292 v32 M279.375 292 v32 M303.75 292 v32 M328.125 292 v32 M352.5 292 v32 M376.875 292 v32 M401.25 292 v32 M425.625 292 v32 M450 292 v32 M474.375 292 v32 M498.75 292 v32 M523.125 292 v32 M547.5 292 v32 M571.875 292 v32 M596.25 292 v32 M620.625 292 v32 M645 292 v32 M669.375 292 v32 M693.75 292 v32 M718.125 292 v32 M742.5 292 v32 M766.875 292 v32 M791.25 292 v32 M815.625 292 v32' stroke='#9A6212' stroke-width='1'/><text x='60' y='350' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>one issar = 6 perutot: a perutah is one-sixth (Ravin, from R. Dostai, R. Yannai, R. Oshaya)</text><text x='450' y='398' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Both follow the first tanna: 192 perutot in a dinar</text></svg>"
+       },
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "Items Worth Less Than a *Perutah*: Shmuel's Concern for Media",
+   "amud": "12a–12b",
+   "text": {
+    "from": "12a.12",
+    "to": "12b.6"
+   },
+   "gist": "Shmuel treats even a single date as possibly betrothing. The Gemara squares him with Beit Hillel as certain vs. uncertain betrothal, then tests him against four cases: a bundle of rags, a blue marble stone with witnesses in Idit, and a myrtle branch.",
+   "bullets": [],
+   "chart": {
+    "caption": "Betrothal with items that may be worth less than a *perutah*",
+    "columns": [
+     "Item",
+     "Who rules",
+     "If not worth a *perutah* here",
+     "How it squares with Shmuel"
+    ],
+    "rows": [
+     [
+      "A date",
+      "Shmuel",
+      "Possibly betrothed: it may be worth a *perutah* in Media",
+      "Shmuel's own ruling"
+     ],
+     [
+      "A bundle of rags",
+      "Rav Shimi bar Chiyya, before Rav",
+      "Not betrothed",
+      "He means certain betrothal"
+     ],
+     [
+      "A blue marble stone",
+      "Rav Chisda",
+      "Not betrothed; free to marry a later man",
+      "Rav Chisda does not hold like Shmuel"
+     ],
+     [
+      "A myrtle branch, in the marketplace",
+      "Rav Yosef",
+      "She requires a *get*",
+      "Follows Shmuel"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s10",
+     "title": "Shmuel's Date: *Kiddushei Vadai* vs. *Kiddushei Safek*",
+     "amud": "12a",
+     "text": {
+      "from": "12a.12",
+      "to": "12a.13"
+     },
+     "gist": "A date may be worth a *perutah* in a distant land, so betrothal with it is possibly valid. Beit Hillel's *perutah* is the threshold for certain betrothal.",
+     "bullets": [
+      {
+       "text": "Shmuel: a man who betroths a woman with a date has betrothed her, even if a *kor* of dates sells for a dinar, which puts one date far below a *perutah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The reason is concern that it may be worth a *perutah* in Media, or some other distant place where dates are expensive.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: Beit Hillel said a *perutah* or an item worth a *perutah*, and not less.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: the Mishnah refers to certain betrothal (*kiddushei vadai*); Shmuel refers to uncertain betrothal (*kiddushei safek*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The result is a sweeping stringency: almost any betrothal with an object of trivial value becomes at least an uncertain betrothal.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Shmuel on 12a: a date here is worth far less than a *perutah*, since a whole *kor* sells for a dinar, but in Media it may be worth a *perutah*, so betrothal with it is uncertain.",
+      "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>On the left, a sack of dates here, where a kor sells for a dinar and one date is far below a perutah. On the right, a date in distant Media, where it may be worth a perutah.</title><rect width='900' height='420' fill='#FBF8F1'/><rect x='15' y='20' width='415' height='310' rx='14' fill='#F3E6D8'/><text x='222' y='56' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#9A6212'>Here</text><path d='M120 150 Q108 250 130 262 H230 Q252 250 240 150 Q210 136 180 144 Q150 136 120 150 Z' fill='#C9A96E' stroke='#9A7440' stroke-width='2'/><g fill='#7A3E1E'><ellipse cx='150' cy='148' rx='10' ry='6'/><ellipse cx='174' cy='142' rx='10' ry='6'/><ellipse cx='198' cy='146' rx='10' ry='6'/><ellipse cx='220' cy='150' rx='10' ry='6'/></g><text x='180' y='290' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>a kor of dates</text><text x='180' y='310' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>sells for one dinar</text><ellipse cx='345' cy='205' rx='16' ry='10' fill='#7A3E1E'/><text x='345' y='245' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>one date:</text><text x='345' y='263' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>far less than a perutah</text><path d='M436 190 h24 m-6 -6 l6 6 l-6 6' fill='none' stroke='#9AA7BD' stroke-width='3'/><rect x='470' y='20' width='415' height='310' rx='14' fill='#E3EAF3'/><text x='677' y='56' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1B3A8A'>Media, a distant place</text><path d='M500 170 Q560 110 620 160 Q680 100 760 150 Q810 120 860 160 V172 H500 Z' fill='#C3CCDA'/><ellipse cx='677' cy='205' rx='22' ry='14' fill='#7A3E1E'/><text x='677' y='252' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>where dates are expensive,</text><text x='677' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>a date may be worth a perutah</text><rect x='15' y='346' width='870' height='62' rx='10' fill='#FFFFFF' stroke='#E6DFD2'/><text x='450' y='370' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Beit Hillel: worth a perutah here, a certain betrothal</text><text x='450' y='395' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Shmuel: worth less here, still an uncertain betrothal</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "Bundle of Rags: Rav Shimi bar Chiyya's Assessment",
+     "amud": "12a",
+     "text": {
+      "from": "12a.14",
+      "to": "12a.14"
+     },
+     "gist": "Rav Shimi bar Chiyya rules by whether the rags are worth a *perutah*; the Gemara reads this, like the Mishnah, as the test for certain betrothal.",
+     "bullets": [
+      {
+       "text": "A man betrothed a woman with a bundle of rags. Rav Shimi bar Chiyya, sitting before Rav, assessed it: if worth a *perutah*, she is betrothed; if not, she is not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge from Shmuel's concern for Media. Answer: Rav Shimi bar Chiyya means certain betrothal, and Shmuel uncertain betrothal.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "The Blue Marble Stone: Rav Chisda, the Mother and Witnesses in Idit",
+     "amud": "12a–12b",
+     "text": {
+      "from": "12a.15",
+      "to": "12b.5"
+     },
+     "gist": "Rav Chisda rejects Shmuel, dismisses the man's mother's claim and sets aside witnesses who are elsewhere. Abaye and Rava disagree, and the Sages in Sura avoided the family.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s13",
+       "title": "Rav Chisda Rejects Shmuel; the Mother's Claim and Yehudit",
+       "amud": "12a–12b",
+       "text": {
+        "from": "12a.15",
+        "to": "12b.1"
+       },
+       "gist": "Here the answer is not certain vs. uncertain betrothal: Rav Chisda simply does not hold like Shmuel, and a mother's word cannot forbid the woman to a later man.",
+       "bullets": [
+        {
+         "text": "A man betrothed a woman with a blue marble stone. Rav Chisda assessed it: if worth a *perutah*, she is betrothed; if not, she is not.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge from Shmuel. Answer: Rav Chisda does not hold like Shmuel. If the item is not worth a *perutah* where the betrothal took place, it is invalid.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The mother of the man who betrothed her said the stone had been worth a *perutah* on the day of the betrothal. Rav Chisda: it is not in your power to forbid her to a later man.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Chisda compares this to Yehudit, wife of R. Chiyya. Suffering painful childbirths, she said her mother had told her that her father accepted betrothal for her from another man when she was young. R. Chiyya: it is not in your mother's power to forbid you to me.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The underlying principle is that matters of marital status need two witnesses; a lone relative's word is insufficient, especially where it would affect a later husband. Rav Chisda is not hedging here: the first betrothal is simply void.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s14",
+       "title": "Witnesses in Idit: Rav Chisda and R. Chanina vs. Abaye and Rava",
+       "amud": "12b",
+       "text": {
+        "from": "12b.2",
+        "to": "12b.4"
+       },
+       "gist": "Rav Chisda disregards witnesses who are not present, citing R. Chanina on the captive woman. Abaye and Rava reject the comparison, since a married woman is a far more serious prohibition.",
+       "bullets": [
+        {
+         "text": "The Sages to Rav Chisda: there are witnesses in Idit who know the stone was worth a *perutah* that day. Rav Chisda: now, in any event, they are not here.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "His proof is R. Chanina. A woman who says she was captured but remained undefiled is believed when there are no witnesses to the capture. Even if such witnesses are far away, 'will she be forbidden?'",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Abaye and Rava do not accept this. The Sages were lenient with a captive, who makes herself repulsive to her captor so that it is believable she was not violated. Shall we be lenient with the serious prohibition of a married woman?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Tosafot: if the witnesses were pure conjecture, even Abaye and Rava would not require a *get*; if someone had actually heard them testify, even Rav Chisda would. So the case must be a report that witnesses exist elsewhere, and the dispute is over such an unverified report.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "The blue marble stone on 12b: witnesses in Idit are said to know it was worth a *perutah*. Rav Chisda disregards them because they are not present; Abaye and Rava take them into account.",
+        "svg": "<svg viewBox='0 0 900 480' xmlns='http://www.w3.org/2000/svg' role='img'><title>A blue marble stone, not worth a perutah here, and far away in Idit two witnesses who know it was worth a perutah. Below, Rav Chisda rules she is free to marry a later man, while Abaye and Rava allow no leniency.</title><rect width='900' height='480' fill='#FBF8F1'/><circle cx='200' cy='96' r='28' fill='#3E6FA8' stroke='#2A4E7A' stroke-width='2'/><ellipse cx='190' cy='86' rx='9' ry='6' fill='#A9C3E0'/><text x='200' y='148' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>blue marble stone</text><text x='200' y='168' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>not worth a perutah here</text><path d='M236 96 H556' stroke='#9AA7BD' stroke-width='3' stroke-dasharray='8 8'/><text x='396' y='84' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>far away</text><rect x='560' y='20' width='320' height='160' rx='12' fill='#EDE7F2'/><text x='720' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#4A3A5E'>Idit</text><use href='#man' x='660' y='56' width='40' height='80' style='color:#6A4F7A'/><use href='#man' x='740' y='56' width='40' height='80' style='color:#50706E'/><text x='720' y='162' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>witnesses: it was worth a perutah that day</text><rect x='15' y='196' width='425' height='264' rx='14' fill='#F3E6D8'/><use href='#sage' x='35' y='236' width='70' height='122.5' style='color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0'/><text x='125' y='250' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#1A1F2E'>Rav Chisda</text><text x='125' y='278' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>“Now, they are not here.”</text><text x='125' y='306' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Like R. Chanina: when her witnesses</text><text x='125' y='324' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>are far away, will she be forbidden?</text><use href='#mark-ok' x='125' y='378' width='32' height='32'/><text x='165' y='399' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#24592E'>Free to marry a later man</text><rect x='460' y='196' width='425' height='264' rx='14' fill='#E3EAF3'/><use href='#sage' x='475' y='236' width='60' height='105' style='color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0'/><use href='#sage' x='540' y='236' width='60' height='105' style='color:#6B6F3A;--beard:#4A3A2E;--wrap:#D9CBB0'/><text x='615' y='250' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#1A1F2E'>Abaye and Rava</text><text x='615' y='278' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>A captive makes herself repulsive;</text><text x='615' y='296' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>a married woman is a serious</text><text x='615' y='314' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>prohibition: take the witnesses</text><text x='615' y='332' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>into account</text><use href='#mark-no' x='615' y='362' width='32' height='32'/><text x='655' y='383' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>No leniency: possibly married</text><text x='615' y='432' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>The Sages in Sura avoided the family</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s15",
+       "title": "The Family in Sura: Avoided Because of Abaye and Rava, Not Shmuel",
+       "amud": "12b",
+       "text": {
+        "from": "12b.5",
+        "to": "12b.5"
+       },
+       "gist": "The woman remarried and her descendants lived in Sura; the Sages would not marry into the family, for Abaye and Rava's reason rather than Shmuel's.",
+       "bullets": [
+        {
+         "text": "After Rav Chisda's ruling, the woman married another man. Her descendants remained in Sura, and the Sages avoided marrying into the family for fear of *mamzerut*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "This was not because they held like Shmuel that any item may be worth a *perutah* elsewhere. It was because they held like Abaye and Rava: since there are witnesses in another place, one must take them into account.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "returns_to": [
+        {
+         "id": "s14",
+         "note": "Applies Abaye and Rava's position on witnesses elsewhere"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s16",
+     "title": "Myrtle Branch in the Marketplace: Flog Like Rav, *Get* Like Shmuel",
+     "amud": "12b",
+     "text": {
+      "from": "12b.6",
+      "to": "12b.6"
+     },
+     "gist": "Rav Yosef rules on a betrothal made in the marketplace with a myrtle branch: the man is flogged as Rav would, and she needs a *get* following Shmuel.",
+     "bullets": [
+      {
+       "text": "A man betrothed a woman with a myrtle branch in the marketplace. Rav Acha bar Huna sent the question to Rav Yosef.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yosef: flog him, following Rav, and require her to receive a *get*, following Shmuel, in case the branch is worth a *perutah* somewhere else.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s17",
+   "title": "Rav's Floggings: Improper Betrothal, Undermined Divorce, Contempt for the Sages",
+   "amud": "12b",
+   "text": {
+    "from": "12b.7",
+    "to": "12b.10"
+   },
+   "gist": "The list of acts for which Rav would flog: three improper ways of betrothing, four affronts to divorce and to rabbinic authority, and a son-in-law living in his father-in-law's house. The Sages of Nehardea narrow the list.",
+   "bullets": [],
+   "chart": {
+    "caption": "Rav's floggings, and the Sages of Nehardea's narrower version",
+    "columns": [
+     "Case",
+     "Reason given",
+     "Sages of Nehardea"
+    ],
+    "rows": [
+     [
+      "Betrothal in the marketplace",
+      "Disrespectful and crude",
+      "Not flogged"
+     ],
+     [
+      "Betrothal by intercourse",
+      "Unseemly to have witnesses watch them enter a room",
+      "Flogged if without *shiddukhin*; some say even with"
+     ],
+     [
+      "Betrothal without *shiddukhin*",
+      "Indecent behavior",
+      "Flogged only together with intercourse"
+     ],
+     [
+      "Nullifying a *get* already sent",
+      "She may remarry thinking she is divorced",
+      "Not flogged"
+     ],
+     [
+      "A *moda'ah* against a *get*",
+      "She may remarry thinking she is divorced",
+      "Not flogged"
+     ],
+     [
+      "Tormenting a messenger of the Sages",
+      "Disregard for the Sages",
+      "Not flogged"
+     ],
+     [
+      "Thirty days under *niddui* without seeking release",
+      "Disregard for the Sages",
+      "Not flogged"
+     ],
+     [
+      "A son-in-law living in his father-in-law's house",
+      "Concern that he may sin with his mother-in-law",
+      "Not flogged"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s18",
+     "title": "Betrothal in the Marketplace, by Intercourse, or Without *Shiddukhin*",
+     "amud": "12b",
+     "text": {
+      "from": "12b.7",
+      "to": "12b.7"
+     },
+     "gist": "Three ways of betrothing that Rav punished even though the betrothal is valid, each considered indecent behavior.",
+     "bullets": [
+      {
+       "text": "Rav would flog a man who betrothed in the marketplace, because it is disrespectful and crude.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "He would flog one who betrothed through intercourse, because it is unseemly to invite witnesses to watch a man and woman enter a room for intercourse.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "He would flog one who betrothed without *shiddukhin*, that is, without first discussing the betrothal with the woman.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Marriage should be a deliberate, planned step, not a spontaneous transaction like a market purchase. The two stages of *kiddushin* and *nisu'in* also teach that the bond comes before physical intimacy, and betrothal by intercourse reverses that order.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "Nullified *Get*, *Moda'ah*, a Tormented Messenger, Thirty Days of *Niddui*",
+     "amud": "12b",
+     "text": {
+      "from": "12b.8",
+      "to": "12b.8"
+     },
+     "gist": "Rav also flogged for undermining a divorce and for showing contempt toward the Sages and their censure.",
+     "bullets": [
+      {
+       "text": "Rav would flog a man who nullified a *get* he had already sent to his wife, and one who issued a *moda'ah*, announcing beforehand that he was divorcing under duress and so voiding the document.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Such conduct can lead to grave sin if the wife marries another man thinking she is divorced.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "He would flog one who tormented a messenger of the Sages, as a sign of disregard for them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "He would flog one who remained under *niddui* for thirty days without repenting or asking the Sages to annul it.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s20",
+     "title": "The Son-in-Law: Living in the House vs. Passing By",
+     "amud": "12b",
+     "text": {
+      "from": "12b.9",
+      "to": "12b.9"
+     },
+     "gist": "Rav flogged a son-in-law who lived in his father-in-law's house; Rav Sheshet's flogging of one who only passed by is explained by existing rumors.",
+     "bullets": [
+      {
+       "text": "Rav would flog a son-in-law who lives in his father-in-law's house, out of concern that he might sin with his mother-in-law.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The inference: one who lives there is flogged, but one who only passes by is not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Yet Rav Sheshet flogged a son-in-law who passed by the entrance of his father-in-law's house. Answer: there were already suspicions about him and his mother-in-law, and passing by fed them.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s21",
+     "title": "Nehardea: Only Intercourse Without *Shiddukhin*, or Even With?",
+     "amud": "12b",
+     "text": {
+      "from": "12b.10",
+      "to": "12b.10"
+     },
+     "gist": "The Sages of Nehardea say Rav flogged in only one case, betrothal by intercourse without *shiddukhin*; others say he flogged for betrothal by intercourse even with *shiddukhin*.",
+     "bullets": [
+      {
+       "text": "The Sages of Nehardea: Rav did not flog in all the listed cases, only for betrothal through intercourse without prior *shiddukhin*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Some say: even with prior *shiddukhin* he would flog for betrothal through intercourse, because of licentiousness, since it is indecent to have witnesses watch them enter a room.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot discuss what the licentiousness is. One view, in the name of Rabbeinu Tam, is the need for witnesses to the act. The Ri's view is that the very start of the marriage bond consists of intercourse, grounding the bond in sexuality rather than commitment.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s18",
+       "note": "Narrows Rav's list of floggings for improper betrothal"
+      }
+     ],
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "perutah",
+   "hebrew": "פרוטה",
+   "sense": "the minimum unit of monetary value",
+   "definition": "The smallest coin value in halakha: in the Mishnah's definition one-eighth of an Italian issar, or 1/192 of a silver dinar. Many monetary laws, including betrothal by money, require at least a perutah's worth.",
+   "on_this_daf": "Beit Shammai require more than a perutah for betrothal, and the Gemara establishes that Beit Hillel's perutah has a fixed value against the dinar even when the issar's value changes.",
+   "aliases": [
+    "perutot",
+    "perutah"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s8a",
+    "s8b",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s16"
+   ]
+  },
+  {
+   "term": "amah ivriyah",
+   "hebrew": "אמה עבריה",
+   "sense": "the Hebrew maidservant sold by her father",
+   "definition": "A girl below the age of majority whom her father sells into service. Her term of service ends early by several means, and she may be redeemed by paying her value less the work already performed.",
+   "on_this_daf": "Beit Shammai derive the minimum for betrothal by money from her sale, which must be for a price that can be reduced.",
+   "aliases": [
+    "Hebrew maidservant",
+    "maidservant"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "term": "gore'at",
+   "hebrew": "גורעת",
+   "sense": "deduction from a Hebrew maidservant's redemption price",
+   "definition": "The right of a Hebrew maidservant to redeem herself by paying her purchase price minus the value of the work she has already performed, derived from 've'hefdah' (Shemot 21:8).",
+   "on_this_daf": "Since a perutah cannot be reduced, and a sale that allows no deduction is void, the maidservant's price, and by analogy betrothal money, must exceed a perutah.",
+   "aliases": [
+    "deduction"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "term": "yi'ud",
+   "hebrew": "יעוד",
+   "sense": "designating a Hebrew maidservant as a wife",
+   "definition": "The master's option to designate his Hebrew maidservant as a wife for himself or his son, which turns her service into marriage.",
+   "on_this_daf": "Although designation is optional, a sale where it is impossible is void, and the Gemara applies the same rule to deduction.",
+   "aliases": [
+    "yi'ud",
+    "designation"
+   ],
+   "sections": [
+    "s2"
+   ]
+  },
+  {
+   "term": "kiddushei safek",
+   "hebrew": "קידושי ספק",
+   "sense": "betrothal of uncertain validity",
+   "definition": "A betrothal whose validity is in doubt. The woman is treated stringently as possibly married, so she cannot marry another man without a get.",
+   "on_this_daf": "Shmuel treats betrothal with an item worth less than a perutah locally as uncertain betrothal, since it may be worth a perutah elsewhere; the Mishnah's perutah marks certain betrothal.",
+   "aliases": [
+    "kiddushei safek",
+    "uncertain betrothal"
+   ],
+   "sections": [
+    "s9",
+    "s10",
+    "s11",
+    "s16"
+   ]
+  },
+  {
+   "term": "shiddukhin",
+   "hebrew": "שידוכין",
+   "sense": "a prior arrangement before betrothal",
+   "definition": "The prior discussion and agreement between the parties that precedes a betrothal.",
+   "on_this_daf": "Rav flogged one who betrothed without shiddukhin; the Sages of Nehardea limit his floggings to betrothal by intercourse without shiddukhin.",
+   "aliases": [
+    "shiddukhin"
+   ],
+   "sections": [
+    "s17",
+    "s18",
+    "s21"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The myrtle-branch case (12b.6) could open the section on Rav's floggings, since Rav Yosef's 'flog him like Rav' prompts the list. It is placed as the last application of Shmuel's concern, because its halakhic question is the item's value; the floggings section follows immediately.",
+  "Rava's reason for Beit Shammai (12a.4) could be its own top-level section, since it is independent of the maidservant derivation. It is kept as a sibling under the question of Beit Shammai's dinar, which both reasons answer.",
+  "Rav Dimi and Ravin's reports appear at 12a.6 inside Abaye's argument and return at 12a.8. They are split between s6 and s8 in Gemara order, with a returns_to link, rather than merged.",
+  "The coin tables (12a.9–10) and Rav Dimi's resolution (12a.11) are split into two children so that each gets its own chart and picture: first the dispute, then the fixed-perutah answer.",
+  "The blue marble stone is divided into three children: Rav Chisda's ruling and the mother, witnesses in Idit, and the family in Sura. The witnesses dispute could instead be a direct child of s9, but it only arises from this case."
+ ],
+ "coverage_notes": [
+  "The start of Reish Lakish's derivation (11b.9–10) was covered at the end of the previous shiur and lies outside this scope; the outline begins with the answer at 12a.1.",
+  "The essay names 'Rav Simi bar Chiya'; the text has Rav Shimi bar Chiyya. Followed the text.",
+  "The essay calls the source of 'more than two thousand perutot' the Sifra; the text calls it a baraita. Followed the text. The essay's arithmetic for two sela'im is confused; the text gives 1,536, which the outline uses.",
+  "The essay says Abaye and Rava distinguish the captive because her prohibition is rabbinic; the text says a captive makes herself repulsive to her captor, while a married woman is a serious prohibition. Followed the text.",
+  "The essay says R. Chanina's ruling concerned the daughters of Shmuel; the provided text doesn't say so. Omitted.",
+  "The essay describes the son-in-law living in his mother-in-law's home with no father-in-law present; the text says his father-in-law's house, out of concern about the mother-in-law. Followed the text.",
+  "The essay calls the mother who testified ambiguous; the text identifies her as the mother of the man who betrothed. Followed the text.",
+  "The essay grounds Rav's objection to betrothal by intercourse in separating marriage from sexuality; the text's stated reason is having witnesses watch them enter a room. Both are kept, the essay's reading marked as shiur.",
+  "The totals of 192 and 144 perutot per dinar in the s8a chart are computed from the baraita's tables (the text states 192 explicitly at 12a.11).",
+  "The mat-of-myrtle case at 12b.11 onward belongs to the next daf's outline; the shiur does not discuss it."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s14",
+    "subject": "Rav Chisda vs. Abaye and Rava on witnesses elsewhere",
+    "why_not": "Two positions with one proof and one rebuttal; the bullets and the illustration carry it."
+   },
+   {
+    "section": "s1",
+    "subject": "Reish Lakish's and Rava's reasons for Beit Shammai",
+    "why_not": "Two reasons with no shared dimensions to compare beyond the bullets."
+   },
+   {
+    "section": "s6",
+    "subject": "The three estimates of the perutah (Mishnah, R. Simai, R. Dostai and colleagues)",
+    "why_not": "Largely repeats the s8b chart, where the reports are explained."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s7",
+    "subject": "Number line showing 1,536 past the midpoint to 2,000",
+    "why_not": "A single simple number; the bullet states it clearly."
+   },
+   {
+    "section": "s17",
+    "subject": "Marketplace scene of a betrothal with a myrtle branch",
+    "why_not": "The list of floggings is better served by the chart than by one scene."
+   },
+   {
+    "section": "s4",
+    "subject": "Perutah vs. dinar as a symbol of dignity",
+    "why_not": "An abstract idea without a concrete scene to draw."
+   },
+   {
+    "section": "s13",
+    "subject": "Yehudit and R. Chiyya",
+    "why_not": "The ruling is carried by the stone picture in s14; a second scene would add little."
+   }
+  ]
+ }
+}

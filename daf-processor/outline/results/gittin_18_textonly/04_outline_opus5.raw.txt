@@ -1,0 +1,439 @@
+{
+ "daf": "Gittin 18",
+ "scope": {
+  "start": "17b: Ravina's question to Rava about a get written and kept in the husband's pocket (18a opens mid-question)",
+  "end": "18b: the case brought before Rabbi Yehoshua ben Levi, which is resolved on 19a"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Last Challenges to the Ordinance of Dating a Get",
+   "amud": "17b–18a",
+   "gist": "Two cases where the date on a get cannot reflect when it took effect — a get held back in the husband's pocket, and a get sent from overseas — and why the Sages' dating ordinance still stands.",
+   "bullets": [
+    {
+     "text": "Ravina asks Rava (question begun on 17b): a husband writes a get and puts it in his pocket, thinking that if his wife appeases him he will be appeased; when he eventually gives it, did the Sages rule such a get unusable, since its date no longer matches the giving?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rava: a person does not hasten a calamity upon himself and does not prepare a get in advance; since the case is unlikely, the Sages instituted nothing for it.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Ravina asks Rav Ashi: gittin from overseas are written, say, in Nisan and do not reach the wife until Tishrei — what have the Sages accomplished with their dating ordinance there?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rav Ashi: with such gittin it is public knowledge that they do not take effect from the date written in them, so in a dispute over produce the husband sold she must bring witnesses as to when she actually received the get.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "children": [],
+   "illustration": {
+    "caption": "Ravina's case of gittin that come from overseas: written in Nisan, reaching the wife only in Tishrei, with Rav Ashi's answer that everyone knows such gittin do not take effect from their date.",
+    "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A get written overseas in Nisan travels by ship and reaches the wife only in Tishrei</title><rect width=\"900\" height=\"420\" fill=\"url(#sky)\"/><rect y=\"250\" width=\"900\" height=\"170\" fill=\"#8FB4D0\"/><g fill=\"none\" stroke=\"#B6D0E4\" stroke-width=\"4\"><path d=\"M240 296 q25 -10 50 0 t50 0 t50 0\"/><path d=\"M540 334 q25 -10 50 0 t50 0 t50 0\"/><path d=\"M300 376 q25 -10 50 0 t50 0 t50 0\"/></g><path d=\"M0 250 H230 L190 420 H0 Z\" fill=\"#D9C9A8\"/><path d=\"M900 250 H670 L710 420 H900 Z\" fill=\"#D9C9A8\"/><text x=\"450\" y=\"42\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">A get that comes from overseas</text><rect x=\"150\" y=\"62\" width=\"600\" height=\"92\" rx=\"14\" fill=\"#FBF8F1\" stroke=\"#D8CBB0\"/><text x=\"450\" y=\"92\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Rav Ashi:</text><text x=\"450\" y=\"116\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">it is public knowledge that these gittin do not take effect</text><text x=\"450\" y=\"138\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">from the date on which they were written</text><path d=\"M200 196 H700\" stroke=\"#7A93AE\" stroke-width=\"3\"/><path d=\"M700 196 l-12 -7 v14 z\" fill=\"#7A93AE\"/><text x=\"450\" y=\"184\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">months pass on the way</text><text x=\"24\" y=\"234\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A4A3A\">Nisan — the get is written</text><text x=\"876\" y=\"234\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A4A3A\">Tishrei — it reaches her</text><use href=\"#man\" x=\"36\" y=\"286\" width=\"48\" height=\"96\" style=\"color:#6B6F3A\"/><rect x=\"100\" y=\"300\" width=\"58\" height=\"72\" rx=\"4\" fill=\"#F6F1E7\" stroke=\"#BFAE8E\"/><g stroke=\"#C4B79C\" stroke-width=\"3\"><path d=\"M110 318 h38\"/><path d=\"M110 332 h38\"/><path d=\"M110 346 h26\"/></g><text x=\"129\" y=\"368\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#4A3A2E\">גט</text><rect x=\"428\" y=\"250\" width=\"8\" height=\"80\" fill=\"#6E5B46\"/><path d=\"M436 254 L500 292 L436 308 Z\" fill=\"#F1ECE0\" stroke=\"#C9BFA9\"/><path d=\"M382 330 h110 l-20 28 h-70 z\" fill=\"#8B6A4E\"/><use href=\"#woman\" x=\"768\" y=\"286\" width=\"48\" height=\"96\" style=\"color:#8C4A60\"/></svg>"
+   }
+  },
+  {
+   "id": "s2",
+   "title": "The Three Months Before Remarriage: From the Writing or the Giving?",
+   "amud": "18a",
+   "gist": "Rav and Shmuel dispute whether a divorcee's three-month wait is counted from when her get was written or when it was given; an objection, a baraita for each side, and the practice of the amora'im follow.",
+   "bullets": [],
+   "chart": {
+    "caption": "Rav and Shmuel on when the three months begin",
+    "columns": [
+     "",
+     "Count begins",
+     "Supporting baraita",
+     "Practice"
+    ],
+    "rows": [
+     [
+      "Rav",
+      "From the giving of the get",
+      "Agent tarries three months on the way — she counts three months from when it reaches her hand",
+      "Rav Pappa and Rav Huna son of Rav Yehoshua counted from the giving"
+     ],
+     [
+      "Shmuel",
+      "From the writing of the get",
+      "Get deposited with a trustee to be given after three months — once given she may marry immediately",
+      "Rav Kahana, Rav Pappi and Rav Ashi counted from the writing; and the *halakha* is from the writing"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s3",
+     "title": "Rav vs. Shmuel, and Rav Natan bar Hoshaya's Objection",
+     "amud": "18a",
+     "gist": "Shmuel's count from the writing yields two women in one courtyard divorced on the same day with different remarriage dates; Abaye answers that each woman's own document proves her status.",
+     "bullets": [
+      {
+       "text": "The Sages decreed that a divorcee or widow may not remarry for three months, to avoid doubt about a child's paternity; the question is when the count begins for a get.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav: from the time of the giving of the get. Shmuel: from the time of the writing.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Natan bar Hoshaya objects to Shmuel: two women in one courtyard receive their gittin at the same moment, but one document was written then and the other earlier — so one is still forbidden and the other already permitted, which people will find unreasonable.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: no difficulty — for each woman the date written in her own get proves her status, one that she may not yet remarry and one that she may.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rav Natan bar Hoshaya's objection to Shmuel: two women in one courtyard, given their gittin on the same day, with different remarriage dates; Abaye answers that each woman's own date proves her status.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two women in one courtyard, each holding her bill of divorce; one may remarry now, the other must wait three months</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"44\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Two women in one courtyard, both given their gittin today</text><rect x=\"90\" y=\"66\" width=\"720\" height=\"250\" rx=\"12\" fill=\"#F1ECE0\" stroke=\"#D8CBB0\" stroke-width=\"2\"/><text x=\"450\" y=\"100\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5B6478\">Shmuel: the three months are counted from the writing</text><use href=\"#woman\" x=\"200\" y=\"150\" width=\"54\" height=\"108\" style=\"color:#8C4A60\"/><rect x=\"264\" y=\"166\" width=\"62\" height=\"78\" rx=\"4\" fill=\"#F6F1E7\" stroke=\"#BFAE8E\"/><g stroke=\"#C4B79C\" stroke-width=\"3\"><path d=\"M274 186 h42\"/><path d=\"M274 200 h42\"/><path d=\"M274 214 h28\"/></g><text x=\"295\" y=\"238\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#4A3A2E\">גט</text><text x=\"250\" y=\"286\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">her get was written months ago</text><use href=\"#woman\" x=\"590\" y=\"150\" width=\"54\" height=\"108\" style=\"color:#4E7A8C\"/><rect x=\"654\" y=\"166\" width=\"62\" height=\"78\" rx=\"4\" fill=\"#F6F1E7\" stroke=\"#BFAE8E\"/><g stroke=\"#C4B79C\" stroke-width=\"3\"><path d=\"M664 186 h42\"/><path d=\"M664 200 h42\"/><path d=\"M664 214 h28\"/></g><text x=\"685\" y=\"238\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#4A3A2E\">גט</text><text x=\"645\" y=\"286\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">her get was written today</text><rect x=\"130\" y=\"340\" width=\"240\" height=\"36\" rx=\"18\" fill=\"#3C7446\"/><text x=\"250\" y=\"364\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#FFFFFF\">may remarry now</text><rect x=\"525\" y=\"340\" width=\"240\" height=\"36\" rx=\"18\" fill=\"#9A6212\"/><text x=\"645\" y=\"364\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#FFFFFF\">must wait three months</text><text x=\"450\" y=\"418\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5B6478\">Abaye: for each woman, the date in her own get proves her status</text></svg>"
+     }
+    },
+    {
+     "id": "s4",
+     "title": "A Baraita for Rav and a Baraita for Shmuel",
+     "amud": "18a",
+     "gist": "One baraita has a woman count from the get reaching her hand, another lets her marry at once when a get deposited in advance is finally delivered.",
+     "bullets": [
+      {
+       "text": "Like Rav: one who sends a get and the agent tarries three months on the way — once it reaches her hand she waits three months before remarrying.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Like Shmuel: one who travels and deposits a get with a trustee, telling him to give it only after three months — when given, she may marry immediately.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Each baraita adds that there is no concern of an outdated get (*get yashan*), since the husband was not secluded with her during the interval.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "The Practice of the Amora'im and the Halakha",
+     "amud": "18a",
+     "gist": "Amora'im split in practice between the two counts, and the *halakha* is set as counting from the writing.",
+     "bullets": [
+      {
+       "text": "Rav Kahana, Rav Pappi and Rav Ashi acted in practice by counting from the writing; Rav Pappa and Rav Huna son of Rav Yehoshua counted from the giving.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *halakha*: the counting begins from the time of the writing.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "When a Ketubah Becomes a Debt Cancelled by Shemittah",
+   "amud": "18a",
+   "gist": "A second Rav–Shmuel dispute about documents: whether a marriage contract must both be partially collected and established as a debt in court before the Sabbatical Year cancels it, with a baraita supporting each view.",
+   "bullets": [
+    {
+     "text": "The question: from when is the debt of a ketubah cancelled by the Sabbatical Year?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rav: only once she has collected partial payment and established the remainder as a debt in court.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Shmuel: either alone suffices — she collected part without establishing a debt, or established the full ketubah as a debt in court without collecting anything.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "A baraita like Rav: if she collected but did not establish the debt, or established it but did not collect, it is not cancelled until both are done.",
+     "detail": 3,
+     "source": "gemara"
+    },
+    {
+     "text": "A baraita like Shmuel: the payments of the rapist, of one who falsely claims his wife was not a virgin, of the seducer, and a ketubah — if made into a loan, the Sabbatical Year cancels them; if not, it does not. From when are they a loan? From the time of standing trial.",
+     "detail": 3,
+     "source": "gemara"
+    }
+   ],
+   "chart": {
+    "caption": "Is the ketubah cancelled by the Sabbatical Year?",
+    "columns": [
+     "",
+     "Collected part, no court debt",
+     "Court debt, collected nothing",
+     "Both",
+     "Baraita cited in support"
+    ],
+    "rows": [
+     [
+      "Rav",
+      "Not cancelled",
+      "Not cancelled",
+      "Cancelled",
+      "Not cancelled until she both collects and establishes the debt"
+     ],
+     [
+      "Shmuel",
+      "Cancelled",
+      "Cancelled",
+      "Cancelled",
+      "Fines and a ketubah made into a loan are cancelled — from the time of standing trial"
+     ]
+    ]
+   },
+   "children": []
+  },
+  {
+   "id": "s7",
+   "title": "Documents Written by Day and Signed at Night",
+   "amud": "18a–18b",
+   "gist": "Shmuel's ruling on a ketubah written by day and signed at night, then Rabbi Shimon's parallel leniency for a get and how long a delay in signing it can tolerate.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s8",
+     "title": "Shmuel: A Ketubah Is Like a Court Enactment",
+     "amud": "18a",
+     "gist": "Shmuel allows a ketubah written by day and signed at night; the story of Rabbi Chiyya bar Rav's ketubah proves nothing, since the scribe and witnesses were continuously engaged in it.",
+     "bullets": [
+      {
+       "text": "Shmuel: a ketubah is like a court enactment (*ma'aseh beit din*) — just as those may be written by day and signed at night, so too a ketubah.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabbi Chiyya bar Rav's ketubah was written by day and signed at night, and Rav, who was present, said nothing — suggesting Rav agrees with Shmuel.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The proof is rejected: the scribe and witnesses were continuously engaged in that very matter from the writing until the signing at night.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Baraita of Rabbi Elazar bar Rabbi Tzadok: a document written by day and signed at night is invalid only when they were not continuously engaged in the matter; if they were engaged in it until nightfall, it is valid.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Shmuel's ruling and the story of Rabbi Chiyya bar Rav's ketubah: written by day, signed at night, with the qualification of Rabbi Elazar bar Rabbi Tzadok's baraita.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A document written by a scribe in daylight on the left, signed by two witnesses at night on the right</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"42\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Shmuel: a ketubah is like a court enactment</text><rect x=\"16\" y=\"64\" width=\"420\" height=\"276\" rx=\"14\" fill=\"#F5EDD9\"/><circle cx=\"78\" cy=\"114\" r=\"24\" fill=\"#F3A712\"/><g stroke=\"#F3A712\" stroke-width=\"4\" stroke-linecap=\"round\"><path d=\"M78 74 v-14\"/><path d=\"M78 154 v14\"/><path d=\"M38 114 h-14\"/><path d=\"M118 114 h14\"/><path d=\"M50 86 l-10 -10\"/><path d=\"M106 142 l10 10\"/></g><use href=\"#sage\" x=\"140\" y=\"170\" width=\"62\" height=\"108\" style=\"color:#6B6F3A;--beard:#4A3A2E;--wrap:#E4D8C0\"/><rect x=\"226\" y=\"246\" width=\"170\" height=\"10\" rx=\"4\" fill=\"#8B6A4E\"/><rect x=\"238\" y=\"256\" width=\"8\" height=\"32\" fill=\"#8B6A4E\"/><rect x=\"376\" y=\"256\" width=\"8\" height=\"32\" fill=\"#8B6A4E\"/><rect x=\"258\" y=\"192\" width=\"106\" height=\"54\" rx=\"4\" fill=\"#F6F1E7\" stroke=\"#BFAE8E\"/><g stroke=\"#C4B79C\" stroke-width=\"3\"><path d=\"M270 210 h80\"/><path d=\"M270 224 h80\"/><path d=\"M270 236 h54\"/></g><text x=\"226\" y=\"312\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A4A3A\">Written by day</text><text x=\"226\" y=\"332\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#5A4A3A\">נכתב ביום</text><rect x=\"464\" y=\"64\" width=\"420\" height=\"276\" rx=\"14\" fill=\"#DCE3EF\"/><path d=\"M826 96 a26 26 0 1 0 26 -30 a21 21 0 1 1 -26 30 Z\" fill=\"#F5EFD8\"/><circle cx=\"760\" cy=\"96\" r=\"3\" fill=\"#F5EFD8\"/><circle cx=\"792\" cy=\"128\" r=\"2.5\" fill=\"#F5EFD8\"/><circle cx=\"724\" cy=\"120\" r=\"2.5\" fill=\"#F5EFD8\"/><use href=\"#sage\" x=\"506\" y=\"170\" width=\"58\" height=\"102\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#D9CBB0\"/><use href=\"#sage\" x=\"572\" y=\"170\" width=\"58\" height=\"102\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#E4D8C0\"/><rect x=\"660\" y=\"190\" width=\"120\" height=\"82\" rx=\"4\" fill=\"#F6F1E7\" stroke=\"#BFAE8E\"/><g stroke=\"#C4B79C\" stroke-width=\"3\"><path d=\"M672 208 h96\"/><path d=\"M672 222 h96\"/></g><path d=\"M672 246 q14 -12 26 0 q12 12 24 -4\" fill=\"none\" stroke=\"#1A1F2E\" stroke-width=\"2\"/><path d=\"M672 264 q14 -12 26 0 q12 12 24 -4\" fill=\"none\" stroke=\"#1A1F2E\" stroke-width=\"2\"/><text x=\"674\" y=\"312\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">Signed at night</text><text x=\"674\" y=\"332\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#1B3A8A\">נחתם בלילה</text><text x=\"450\" y=\"374\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">R. Elazar bar R. Tzadok: valid only if the scribe and witnesses were</text><text x=\"450\" y=\"396\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">continuously engaged in that matter until nightfall</text></svg>"
+     }
+    },
+    {
+     "id": "s9",
+     "title": "Rava: Why Rabbi Shimon Validates Such a Get",
+     "amud": "18a",
+     "gist": "Rava explains the Mishnah's Rabbi Shimon: once the husband writes the get he has resolved to divorce and loses the rights to his wife's produce, so the get takes effect from its writing.",
+     "bullets": [
+      {
+       "text": "The Mishnah taught that Rabbi Shimon validates a get written by day and signed at night.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava: Rabbi Shimon holds that once the husband has decided to divorce her he no longer has rights to the produce of her property, and the writing of the get shows that he has decided.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Consequently the wife acquires the produce rights from the moment of writing, whenever the signing takes place.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s10",
+     "title": "How Long a Delay in Signing? Reish Lakish vs. Rabbi Yochanan",
+     "amud": "18a–18b",
+     "gist": "Reish Lakish limits Rabbi Shimon's leniency to a get signed that very night, fearing the husband appeased his wife; Rabbi Yochanan allows even a ten-day delay, since such a reconciliation would become public knowledge.",
+     "bullets": [
+      {
+       "text": "Reish Lakish: Rabbi Shimon validates it only when the witnesses signed immediately, that night; a delay of up to ten days he does not validate.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The reason for the concern: perhaps in the interim he appeased his wife and had relations with her, invalidating the get.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabbi Yochanan: Rabbi Shimon validates it even after a delay of up to ten days, for if he had appeased her the matter would have become public knowledge.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Reish Lakish and Rabbi Yochanan on how long Rabbi Shimon's get can wait for its signatures, and the concern that the husband reconciled with his wife in the interim.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A timeline: the get is written by day, signed that night, or signed only ten days later, with the rulings of Reish Lakish and Rabbi Yochanan</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"42\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">R. Shimon's get: written by day — signed when?</text><path d=\"M80 150 H820\" stroke=\"#C9C1B2\" stroke-width=\"3\"/><path d=\"M820 150 l-12 -7 v14 z\" fill=\"#C9C1B2\"/><circle cx=\"140\" cy=\"150\" r=\"8\" fill=\"#6B6F3A\"/><circle cx=\"300\" cy=\"150\" r=\"8\" fill=\"#1B3A8A\"/><circle cx=\"700\" cy=\"150\" r=\"8\" fill=\"#9A6212\"/><text x=\"140\" y=\"124\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5A4A3A\">get written (day)</text><text x=\"300\" y=\"124\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">signed that night</text><text x=\"700\" y=\"124\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">signed ten days later</text><use href=\"#sage\" x=\"30\" y=\"192\" width=\"46\" height=\"80\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><text x=\"86\" y=\"232\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Reish Lakish</text><rect x=\"240\" y=\"206\" width=\"120\" height=\"34\" rx=\"17\" fill=\"#3C7446\"/><text x=\"300\" y=\"229\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">valid</text><rect x=\"640\" y=\"206\" width=\"120\" height=\"34\" rx=\"17\" fill=\"#8A3A3A\"/><text x=\"700\" y=\"229\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">invalid</text><text x=\"700\" y=\"264\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">perhaps he appeased her in the interim</text><use href=\"#sage\" x=\"30\" y=\"310\" width=\"46\" height=\"80\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#D9CBB0\"/><text x=\"86\" y=\"350\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">R. Yochanan</text><rect x=\"240\" y=\"324\" width=\"120\" height=\"34\" rx=\"17\" fill=\"#3C7446\"/><text x=\"300\" y=\"347\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">valid</text><rect x=\"640\" y=\"324\" width=\"120\" height=\"34\" rx=\"17\" fill=\"#3C7446\"/><text x=\"700\" y=\"347\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">valid</text><text x=\"700\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">had he appeased her, it would be public knowledge</text><text x=\"450\" y=\"420\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Gittin 18a–18b</text></svg>"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "title": "\"All of You: Write a Get for My Wife\"",
+   "amud": "18b",
+   "gist": "When a husband instructs ten men to write his wife's get, Rabbi Yochanan and Reish Lakish dispute whether the extra signers are witnesses or merely fulfill his stipulation, with practical consequences and a case brought to Rabbi Yehoshua ben Levi.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s12",
+     "title": "Witnesses or a Stipulation? The Dispute and Its Case",
+     "amud": "18b",
+     "gist": "Rabbi Yochanan holds two of the ten are witnesses and the rest sign only because the husband stipulated it; Reish Lakish holds all ten are witnesses — and the case must be where he said \"all of you\".",
+     "bullets": [
+      {
+       "text": "A husband tells ten men: write a get for my wife. Rabbi Yochanan: all should sign, but only two serve as witnesses and the rest sign to fulfill his stipulation.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Reish Lakish: all of them function as witnesses.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Clarifying the case: if he did not say \"all of you\", a mishnah (66b) already teaches that one writes and two sign; so the dispute is where he said \"all of you write a get for my wife\", of which that mishnah teaches that one writes and all the rest sign.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "Two Practical Differences: Late Signatures and a Disqualified Signer",
+     "amud": "18b",
+     "gist": "The dispute matters when only two sign on the day of writing and the rest ten days later, and when one of the ten turns out to be a relative or otherwise disqualified.",
+     "bullets": [
+      {
+       "text": "First difference: two signed on the day the get was written and the rest only up to ten days later. For the stipulation view it is valid, since two witnesses signed that day and the stipulation was fulfilled; for the all-are-witnesses view it is invalid, since not all the witnesses signed on the day of writing.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Second difference: one of the ten is found to be a relative of the husband or wife, or otherwise disqualified. For the stipulation view the get is valid, since he only fulfilled the stipulation and two fit witnesses signed; for the all-are-witnesses view it is invalid, as when one of a group of witnesses is disqualified.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "Rabbi Yochanan vs. Reish Lakish on the ten signers",
+      "columns": [
+       "",
+       "Role of the extra signers",
+       "Two sign that day, the rest ten days later",
+       "One of the ten is disqualified"
+      ],
+      "rows": [
+       [
+        "R. Yochanan",
+        "Two are witnesses; the rest fulfill the husband's stipulation",
+        "Valid",
+        "Valid"
+       ],
+       [
+        "Reish Lakish",
+        "All ten function as witnesses",
+        "Invalid",
+        "Invalid"
+       ]
+      ]
+     },
+     "returns_to": [
+      {
+       "id": "s10",
+       "note": "Uses the same \"from now until ten days\" delay debated regarding Rabbi Shimon's get"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The first practical difference: of the ten men told to write the get, two signed on the day of writing and the others only up to ten days later.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Ten men signing a bill of divorce: two signed on the day it was written, the other eight up to ten days later, with the rulings of Rabbi Yochanan and Reish Lakish</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"42\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">\"All of you: write a get for my wife\"</text><use href=\"#man\" x=\"60\" y=\"70\" width=\"40\" height=\"80\" style=\"color:#3E6FA8\"/><use href=\"#man\" x=\"138\" y=\"70\" width=\"40\" height=\"80\" style=\"color:#3E6FA8\"/><use href=\"#man\" x=\"216\" y=\"70\" width=\"40\" height=\"80\" style=\"color:#9A9384\"/><use href=\"#man\" x=\"294\" y=\"70\" width=\"40\" height=\"80\" style=\"color:#9A9384\"/><use href=\"#man\" x=\"372\" y=\"70\" width=\"40\" height=\"80\" style=\"color:#9A9384\"/><use href=\"#man\" x=\"450\" y=\"70\" width=\"40\" height=\"80\" style=\"color:#9A9384\"/><use href=\"#man\" x=\"528\" y=\"70\" width=\"40\" height=\"80\" style=\"color:#9A9384\"/><use href=\"#man\" x=\"606\" y=\"70\" width=\"40\" height=\"80\" style=\"color:#9A9384\"/><use href=\"#man\" x=\"684\" y=\"70\" width=\"40\" height=\"80\" style=\"color:#9A9384\"/><use href=\"#man\" x=\"762\" y=\"70\" width=\"40\" height=\"80\" style=\"color:#9A9384\"/><path d=\"M60 164 v8 H178 v-8\" fill=\"none\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><text x=\"119\" y=\"194\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">two signed that day</text><path d=\"M216 164 v8 H802 v-8\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"509\" y=\"194\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">the rest signed up to ten days later</text><rect x=\"40\" y=\"224\" width=\"390\" height=\"186\" rx=\"12\" fill=\"#E3EAF3\"/><text x=\"235\" y=\"256\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">R. Yochanan</text><text x=\"235\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">two of them are the witnesses;</text><text x=\"235\" y=\"312\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">the rest sign to fulfill his stipulation</text><rect x=\"165\" y=\"340\" width=\"140\" height=\"34\" rx=\"17\" fill=\"#3C7446\"/><text x=\"235\" y=\"363\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">valid</text><rect x=\"470\" y=\"224\" width=\"390\" height=\"186\" rx=\"12\" fill=\"#F3E6D8\"/><text x=\"665\" y=\"256\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">Reish Lakish</text><text x=\"665\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">all ten function as witnesses,</text><text x=\"665\" y=\"312\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">so all must sign on the day of writing</text><rect x=\"595\" y=\"340\" width=\"140\" height=\"34\" rx=\"17\" fill=\"#8A3A3A\"/><text x=\"665\" y=\"363\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">invalid</text><text x=\"450\" y=\"440\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">The same split applies if one of the ten is a relative or otherwise disqualified</text></svg>"
+     }
+    },
+    {
+     "id": "s14",
+     "title": "A Disqualified Signer at the Beginning",
+     "amud": "18b",
+     "gist": "Even on Rabbi Yochanan's stipulation view, when the disqualified man signed before two valid witnesses, some validate the get and some invalidate it.",
+     "bullets": [
+      {
+       "text": "Some say valid: since the ten signatures are only a stipulation and not testimony, it makes no difference whether the disqualified man signed first or last.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Some say invalid: out of concern that courts will confuse it with ordinary documents and come to rely on disqualified witnesses there.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "The Case Brought Before Rabbi Yehoshua ben Levi",
+     "amud": "18b → 19a",
+     "gist": "A husband told ten men to write his wife's get; two signed that day and the rest only up to ten days later, and the case came before Rabbi Yehoshua ben Levi.",
+     "bullets": [
+      {
+       "text": "A certain man told ten men to write a get for his wife; two signed that day and the others after a delay of up to ten days.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "He came before Rabbi Yehoshua ben Levi to ask the *halakha*, and Rabbi Yehoshua ben Levi began to answer him.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "continues": "Continues on 19a: Rabbi Yehoshua ben Levi relies on Rabbi Shimon in exigent circumstances, and the Gemara shows he follows Rabbi Yochanan on the delay and Reish Lakish on the role of the signers."
+    }
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The three-month dispute (s2) and the ketubah–shemittah dispute (s6) share the same Rav-versus-Shmuel form and the same 'a baraita like Rav, a baraita like Shmuel' framing; they could have been grouped under one parent, but their subject matter is unrelated, so each is top-level.",
+  "Shmuel on a ketubah written by day and signed at night is grouped with Rabbi Shimon's get under one parent (s7), since the Gemara moves from one to the other on the shared day-write/night-sign problem; it could equally have stood alone as a short independent sugya.",
+  "The ten-signer dispute (s11) is top-level rather than a child of the day/night sugya, since it is its own Rabbi Yochanan–Reish Lakish dispute; the shared 'up to ten days' delay is marked with a returns_to link on s13.",
+  "The case before Rabbi Yehoshua ben Levi is kept as a child of the ten-signer sugya, with a continues note, rather than as a separate top-level stub."
+ ],
+ "coverage_notes": [
+  "No shiur for this daf; the entire outline is built from the Gemara text, so no section carries the 'Gemara text only' flag.",
+  "Scope begins with Ravina's question to Rava, whose opening words are on 17b, since 18a opens in the middle of it.",
+  "The Gemara's reference to the mishnah on 66b ('write a get for my wife' said to ten people) is noted where the text cites it, but that mishnah itself is outside this daf."
+ ]
+}

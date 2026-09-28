@@ -1,0 +1,200 @@
+{
+ "key": "kiddushin_8",
+ "tractate": "Kiddushin",
+ "sages": [
+  {
+   "name": "רב כהנא",
+   "candidates": [
+    "rav-kahana-(i)",
+    "rav-kahana-(ii)",
+    "rav-kahana-(iii)",
+    "rav-kahana-(iv)",
+    "rav-kahana-(v)"
+   ],
+   "lines": [
+    "8a.10",
+    "8a.11"
+   ],
+   "count": 2,
+   "first": "8a.10",
+   "ambiguous": true,
+   "pick": "rav-kahana-(iii)",
+   "pick_by": "context"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "8a.11",
+    "8a.13",
+    "8a.22",
+    "8a.23"
+   ],
+   "count": 4,
+   "first": "8a.11",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבה",
+   "candidates": [
+    "rabbah-b-nachmani"
+   ],
+   "lines": [
+    "8a.11"
+   ],
+   "count": 1,
+   "first": "8a.11",
+   "ambiguous": false,
+   "pick": "rabbah-b-nachmani",
+   "pick_by": "only"
+  },
+  {
+   "name": "מר בר רב אשי",
+   "candidates": [
+    "mar-b-rav-ashi"
+   ],
+   "lines": [
+    "8a.11"
+   ],
+   "count": 1,
+   "first": "8a.11",
+   "ambiguous": false,
+   "pick": "mar-b-rav-ashi",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "8a.11",
+    "8a.23",
+    "8b.1"
+   ],
+   "count": 3,
+   "first": "8a.11",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אלעזר",
+   "candidates": [
+    "rabbi-elazar-b-pedat",
+    "rabbi-elazar-b-shamua"
+   ],
+   "lines": [
+    "8a.12"
+   ],
+   "count": 1,
+   "first": "8a.12",
+   "ambiguous": true,
+   "pick": "rabbi-elazar-b-pedat",
+   "pick_by": "context"
+  },
+  {
+   "name": "רב אשי",
+   "candidates": [
+    "rav-ashi"
+   ],
+   "lines": [
+    "8a.20"
+   ],
+   "count": 1,
+   "first": "8a.20",
+   "ambiguous": false,
+   "pick": "rav-ashi",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב נחמן",
+   "candidates": [
+    "rav-nachman-b-yaakov"
+   ],
+   "lines": [
+    "8b.1"
+   ],
+   "count": 1,
+   "first": "8b.1",
+   "ambiguous": false,
+   "pick": "rav-nachman-b-yaakov",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יצחק",
+   "candidates": [
+    "rabbi-yitzhak"
+   ],
+   "lines": [
+    "8b.2"
+   ],
+   "count": 1,
+   "first": "8b.2",
+   "ambiguous": false,
+   "pick": "rabbi-yitzhak",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב הונא בר אבין",
+   "candidates": [
+    "rav-huna-b-avin"
+   ],
+   "lines": [
+    "8b.3"
+   ],
+   "count": 1,
+   "first": "8b.3",
+   "ambiguous": false,
+   "pick": "rav-huna-b-avin",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אמי",
+   "candidates": [
+    "rabbi-ammi",
+    "rebbi-immi"
+   ],
+   "lines": [
+    "8b.3"
+   ],
+   "count": 1,
+   "first": "8b.3",
+   "ambiguous": true,
+   "pick": "rabbi-ammi",
+   "pick_by": "context"
+  },
+  {
+   "name": "רב ביבי",
+   "candidates": [
+    "rav-bivi"
+   ],
+   "lines": [
+    "8b.11"
+   ],
+   "count": 1,
+   "first": "8b.11",
+   "ambiguous": false,
+   "pick": "rav-bivi",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב מרי",
+   "candidates": [
+    "rav-mari-b-rachel"
+   ],
+   "lines": [
+    "8b.12"
+   ],
+   "count": 1,
+   "first": "8b.12",
+   "ambiguous": false,
+   "pick": "rav-mari-b-rachel",
+   "pick_by": "only"
+  }
+ ]
+}

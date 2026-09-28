@@ -1,0 +1,686 @@
+{
+ "daf": "Chullin 88",
+ "scope": {
+  "start": "87b: R. Asi of Neharbil on blood plasma, which leads into the Tosefta that 88a's contradiction challenges (88a opens mid-exchange)",
+  "end": "88b: Rava's second teaching on Abraham's words to the king of Sodom, which continues on 89a"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Blood Plasma and the Liquids of a Corpse",
+   "amud": "87b–88a",
+   "gist": "When the watery, reddish part of blood still counts as blood, and why a corpse's other liquids are pure while a *zav*'s are impure.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "Plasma: R. Asi, R. Yirmeya of Difti and a Baraita",
+     "amud": "87b",
+     "gist": "Reddish plasma counts as blood in three ways: it renders food susceptible, it carries *karet*, and it imparts tent impurity. The last two apply only when a full measure of actual blood is present.",
+     "bullets": [
+      {
+       "text": "R. Asi of Neharbil: Rav Yehuda's ruling refers to blood plasma. If the plasma has a reddish hue, it has the status of blood and renders food susceptible to *tumah* (*machshir*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: when blood settles, the dense matter collects toward the center and the clearer, watery part pools at the edges. That clear part is the plasma meant here.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "R. Yirmeya of Difti: eating this plasma is punishable by *karet*, as with eating blood, provided there is at least a *kezayit* of actual blood.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The qualifier can be read two ways. For blood mixed with water it is the ordinary rule: one needs a *kezayit* of the blood itself, not of the whole mixture. For separated plasma it is more pointed: the plasma counts as blood for susceptibility, but only its red matter counts toward *karet*.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot applies the ruling to both the mixture and the separated serum, since the serum was originally all blood. The shiur suggests the serum may be what we call blood plasma today.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Baraita: reddish plasma that issues from a corpse imparts impurity in a tent (*tumat ohel*), provided there is at least a quarter-*log* (*revi'it*) of actual blood. That is the amount of a corpse's blood that imparts tent impurity.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The same two readings apply here. If the baraita speaks of separated serum, the clear serum alone does not convey tent impurity; only the red component counts.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Corpse Liquids Are Pure, Except Blood",
+     "amud": "87b–88a",
+     "gist": "The Tosefta rules a corpse's liquids pure except its blood. The Gemara defends that ruling against a Mishnah that seems to make them impure.",
+     "bullets": [
+      {
+       "text": "Tosefta Oholot 4:5: all liquids that issue from a corpse, such as tears or breastmilk, are pure, except its blood. Liquids from a corpse that contain a reddish hue of blood impart impurity in a tent.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"We learned elsewhere\" normally introduces a Mishnah, yet this passage is found in no Mishnah. R. Shimshon notes that the manuscripts read this way, and Tosafot acknowledges that the Gemara sometimes uses the phrase loosely.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [
+      {
+       "id": "s4",
+       "title": "Challenge from the Tevul Yom Mishnah",
+       "amud": "87b–88a",
+       "gist": "Mishnah Tevul Yom 2:1 makes the liquids of \"major sources\" impure, which seems to include a corpse. The Gemara reads \"major\" as a *zav*.",
+       "bullets": [
+        {
+         "text": "Contradiction from Tevul Yom 2:1: liquids that issue from a *tevul yom* have the same status as liquids he touches, and neither imparts impurity.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A *tevul yom* has the status of a *sheni* until nightfall. Normally even a *sheni* who touches a liquid makes it a *rishon*, a rabbinic stringency for liquids. The Sages were lenient with a *tevul yom*, who is already on his way out of impurity.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The same stringency explains drying the hands after *netilat yadayim*. Water on the hands that touches the hands becomes a *rishon*, and it would make the bread impure again.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The Mishnah continues: for all other sources of impurity, minor or major, liquids that issue from them have the status of liquids they touch. Both are *rishon* (*techilah*), since they touched a primary source on the way out. The exception is a liquid that is itself an *av hatumah*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Which liquids are themselves *av hatumah*? Those of a *zav*, *zavah* or *niddah*, derived from \"if the *zav* spits\": saliva, urine and semen, which collect in the body before they are expelled. Tears and sweat are not among them.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The Gemara asks: aren't the minor sources a creeping animal or a *zav*, and the major source a corpse? If so, the Mishnah makes a corpse's liquids impure, against the Tosefta.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: \"minor\" is a creeping animal (for example, urine found inside its body), and \"major\" is a *zav*, all of whose issuing liquids are impure. A corpse's liquids remain pure, except its blood.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s5",
+       "title": "Why the Sages Decreed for a Zav but Not a Corpse",
+       "amud": "88a",
+       "gist": "People don't keep away from a *zav*, so the Sages decreed impurity on all his liquids. People naturally keep away from a corpse, so no decree was needed.",
+       "bullets": [
+        {
+         "text": "The Gemara asks: why did the Sages decree that a *zav*'s liquids are impure, but not a corpse's?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The contrast is sharp: the corpse is the *avi avot hatumah*, the gravest source of impurity, yet its liquids are treated more leniently than those of a *zav*.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Answer: people do not naturally separate from a *zav*. So the Sages added restrictions, to keep people from contracting impurity from his liquids that are impure by Torah law. People naturally separate from a corpse, so no decree was needed.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rashi: no one can tell a *zav* or a *niddah* by looking at them, but a corpse is plainly identifiable.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Tosafot asks why the impurity of a *zav*'s liquids is only rabbinic, when they touch an *av hatumah* as they leave the body. First answer: the case is a liquid drawn off without touching the skin. Second answer: tears, urine and the like may not count as liquids at the Torah level at all.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The seven liquids (*yad shachat dam*) are wine, honey, oil, milk, dew, blood and water. Dew had to be listed separately, which shows that \"water\" is a narrow category, so tears are not *mayim* for this purpose.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "illustration": {
+        "caption": "Why the Sages decreed impurity for a *zav*'s liquids but not a corpse's (88a): people do not keep away from a *zav*, while they naturally keep their distance from a corpse.",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two panels. Left: a zav stands among other people, who do not keep away from him. Right: a covered corpse lies on a bier while people stand at a distance.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1B3A8A\">A Zav</text><text x=\"227\" y=\"76\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#3A5692\">זב</text><use href=\"#man\" x=\"95\" y=\"100\" width=\"60\" height=\"120\" style=\"color:#5E7D4F\"/><use href=\"#man\" x=\"197\" y=\"100\" width=\"60\" height=\"120\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"299\" y=\"100\" width=\"60\" height=\"120\" style=\"color:#8C5A3C\"/><text x=\"227\" y=\"244\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">the zav</text><text x=\"227\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">People do not naturally separate from him,</text><text x=\"227\" y=\"316\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">so the Sages decreed that all liquids</text><text x=\"227\" y=\"338\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">issuing from him are impure</text><text x=\"227\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">to guard against his liquids impure by Torah law</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#9A6212\">A Corpse</text><text x=\"672\" y=\"76\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#7A4A2A\">מת</text><use href=\"#man\" x=\"480\" y=\"100\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"804\" y=\"100\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><rect x=\"612\" y=\"168\" width=\"120\" height=\"30\" rx=\"14\" fill=\"#EDE6D8\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"600\" y=\"196\" width=\"144\" height=\"10\" rx=\"3\" fill=\"#8B6A4E\"/><rect x=\"610\" y=\"206\" width=\"8\" height=\"18\" fill=\"#8B6A4E\"/><rect x=\"726\" y=\"206\" width=\"8\" height=\"18\" fill=\"#8B6A4E\"/><path d=\"M548 190 H592 M752 190 H796\" stroke=\"#9A6212\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><text x=\"672\" y=\"250\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#7A5A44\">they keep their distance</text><text x=\"672\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">People naturally separate from it,</text><text x=\"672\" y=\"316\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">so the Sages made no decree:</text><text x=\"672\" y=\"338\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">its liquids are pure, except its blood</text><text x=\"672\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Tosefta Oholot 4:5</text><text x=\"450\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Chullin 88a · Mishnah Tevul Yom 2:1 and the Gemara’s answer</text></svg>"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "Spurted Blood and Blood on the Knife",
+   "amud": "88a",
+   "gist": "Two baraitot on \"and he shall cover it\" reveal a three-way dispute over how much of the blood must be covered.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s7",
+     "title": "Two Baraitot: R. Yehuda and Rabban Shimon ben Gamliel Limit the Rule",
+     "amud": "88a",
+     "gist": "Both baraitot require covering spurted blood. R. Yehuda exempts it when other blood is there, and Rabban Shimon ben Gamliel exempts it once the blood of the soul has been covered.",
+     "bullets": [
+      {
+       "text": "The Mishnah (87b) required covering blood that spurts outside the pit or onto the wall, and blood left on the knife.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "First baraita: \"and he shall cover it\" (Vayikra 17:13) teaches that spurted blood and blood on the knife must be covered.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yehuda: when is this so (*eimatai*)? When there is no blood but that blood. If other blood is there, one is exempt from covering it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Second baraita: \"and he shall cover it\" teaches that all the blood must be covered. So blood that spurts, and blood left on the sides of the throat where the animal was slaughtered, must be covered.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabban Shimon ben Gamliel: this applies only where one has not yet covered the blood of the soul (*dam hanefesh*), the blood that flows as the animal dies. Once that is covered, one is exempt from the rest.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "What They Dispute: The Meaning of \"Its Blood\"",
+     "amud": "88a",
+     "gist": "The Rabbis read *damo* as all of its blood, R. Yehuda as even part of it, and Rabban Shimon ben Gamliel as the special blood of the soul. The shiur then turns to how the *halakha* is decided.",
+     "bullets": [
+      {
+       "text": "The Rabbis: \"its blood\" means all of its blood, even what spurts. R. Yehuda: even a small part of its blood fulfills the mitzva. Rabban Shimon ben Gamliel: the special blood, the blood of the soul.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "When R. Yehuda opens with *eimatai*, he is usually taken to be clarifying the first opinion, not disputing it. Here, though, the Gemara frames a three-way dispute.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The Rambam and other *rishonim* treat R. Yehuda as clarifying and rule like him, and Tosafot seems to lean that way. The Ra'avad treats him as dissenting and rules like the *Chachamim*: cover all of the blood.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "In practice, covering every splatter in a slaughterhouse is nearly impossible. The ideal is to cover as much as one can. \"Part of its blood\" means that blood one cannot reach need not be pursued, not that a token covering is enough.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Current practice: the bulk of the blood is covered during the main flow at slaughter, and the knife is cleaned between slaughterings. Blood that goes down the drain is not gathered separately.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "How much of the blood must be covered?",
+      "columns": [
+       "",
+       "Reading of *damo*",
+       "Spurted blood and blood on the knife"
+      ],
+      "rows": [
+       [
+        "The Rabbis",
+        "All of its blood",
+        "Must always be covered"
+       ],
+       [
+        "R. Yehuda",
+        "Even part of its blood",
+        "Exempt when other blood is there"
+       ],
+       [
+        "Rabban Shimon ben Gamliel",
+        "The special blood: the blood of the soul",
+        "Exempt once the blood of the soul is covered"
+       ]
+      ]
+     },
+     "children": []
+    }
+   ],
+   "illustration": {
+    "caption": "The pit with the blood of the soul, blood that spurted outside it and blood left on the knife, beside the three positions on how much of it \"and he shall cover it\" requires (88a).",
+    "svg": "<svg viewBox=\"0 0 900 390\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A slaughtering pit with pooled blood, drops of blood that spurted outside it, and a knife with blood on its blade. On the right, three sages: the Rabbis, R. Yehuda and Rabban Shimon ben Gamliel, with their positions.</title><rect width=\"900\" height=\"390\" fill=\"#FBF8F1\"/><text x=\"30\" y=\"48\" text-anchor=\"start\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Which blood must be covered?</text><text x=\"260\" y=\"84\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"400\" fill=\"#4A3A2E\">וְשָׁפַךְ אֶת דָּמוֹ וְכִסָּהוּ בֶּעָפָר</text><text x=\"260\" y=\"106\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Vayikra 17:13</text><rect x=\"392\" y=\"150\" width=\"36\" height=\"16\" rx=\"4\" fill=\"#6E5B46\"/><path d=\"M428 150 L520 146 L532 156 L428 166 Z\" fill=\"#C9CED6\" stroke=\"#8A94A6\" stroke-width=\"1.5\"/><ellipse cx=\"505\" cy=\"155\" rx=\"12\" ry=\"4\" fill=\"#9B2226\"/><text x=\"462\" y=\"136\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A2A12\">blood on the knife</text><rect x=\"20\" y=\"190\" width=\"520\" height=\"130\" rx=\"12\" fill=\"#D9C9A8\"/><ellipse cx=\"190\" cy=\"235\" rx=\"95\" ry=\"28\" fill=\"#8A7560\"/><ellipse cx=\"190\" cy=\"237\" rx=\"64\" ry=\"16\" fill=\"#9B2226\"/><g fill=\"#9B2226\"><circle cx=\"322\" cy=\"222\" r=\"5\"/><circle cx=\"344\" cy=\"240\" r=\"5\"/><circle cx=\"366\" cy=\"216\" r=\"5\"/><circle cx=\"390\" cy=\"236\" r=\"5\"/><circle cx=\"410\" cy=\"222\" r=\"5\"/></g><text x=\"190\" y=\"294\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A2A12\">blood of the soul</text><text x=\"370\" y=\"294\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A2A12\">blood that spurted</text><line x1=\"560\" y1=\"20\" x2=\"560\" y2=\"330\" stroke=\"#E6DFD2\" stroke-width=\"2\"/><use href=\"#sage\" x=\"580\" y=\"28\" width=\"40\" height=\"70\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><text x=\"632\" y=\"50\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">The Rabbis</text><text x=\"632\" y=\"72\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">“its blood”: all of its blood</text><text x=\"632\" y=\"92\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">cover the spurts and the knife</text><use href=\"#sage\" x=\"580\" y=\"133\" width=\"40\" height=\"70\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\"/><text x=\"632\" y=\"155\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">R. Yehuda</text><text x=\"632\" y=\"177\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">even part of its blood</text><text x=\"632\" y=\"197\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">exempt if other blood is there</text><use href=\"#sage\" x=\"580\" y=\"238\" width=\"40\" height=\"70\" style=\"color:#7A4A55;--beard:#4A3A2E;--wrap:#E4D8C0\"/><text x=\"632\" y=\"260\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Rabban Shimon ben Gamliel</text><text x=\"632\" y=\"282\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">the blood of the soul alone</text><text x=\"632\" y=\"302\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">once it is covered, exempt</text><text x=\"450\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Chullin 88a · two baraitot on “and he shall cover it”</text></svg>"
+   }
+  },
+  {
+   "id": "s9",
+   "title": "Materials for Covering the Blood",
+   "amud": "88a–88b",
+   "gist": "The Mishnah's list of fit and unfit materials, the baraita's derivation from \"cover it with earth\", and how far the category of \"earth\" (*afar*) reaches.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s10",
+     "title": "Mishnah: Fine and Crushed, Not Clumped, and No Vessel",
+     "amud": "88a",
+     "gist": "Fine manure, fine sand, lime, crushed potsherd and crushed brick are fit; clumps, uncrushed brick and an overturned vessel are not. Rabban Shimon ben Gamliel sets the rule: whatever plants grow in.",
+     "bullets": [
+      {
+       "text": "Mishnah: one may cover with fine manure, fine sand, lime (*sid*), crushed potsherd, and a brick or the lid of an earthenware barrel that one crushed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "One may not cover with thick manure, thick clumped sand, or a brick or barrel lid that was not crushed. Nor may one simply turn a vessel over the blood.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabban Shimon ben Gamliel's principle: a substance in which plants grow may be used for covering; a substance in which plants do not grow may not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The opening \"*bameh mechasin*\" echoes \"*bameh madlikin*\" in the second chapter of Shabbat.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Rashi: a solid object merely rests on top of the blood and can be lifted off, while granular material settles over it and truly buries it.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Rabban Shimon ben Gamliel seems to be clarifying the first opinion, not disputing it. But plants grow in clumped earth too, so the shiur takes granularity and growth as two separate requirements.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "A student's suggestion: blood, a source of life, is covered with a medium that itself sustains life.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "A contrast: Hevel's blood cries out from the ground, and wrongly spilled blood is not to be covered. Blood that was lawfully spilled in *shechitah* must be put away in the earth.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The Mishnah's list of what may and may not be used to cover the blood, with Rabban Shimon ben Gamliel's principle below (88a).",
+      "svg": "<svg viewBox=\"0 0 900 470\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two panels. Left: five fine or crushed materials that may be used to cover blood. Right: thick clumps, an uncrushed brick, and a vessel turned over blood, which may not be used. Below: Rabban Shimon ben Gamliel's principle about plant growth.</title><rect width=\"900\" height=\"470\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"366\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"227\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#24592E\">One may cover with</text><text x=\"227\" y=\"74\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#3C7446\">מְכַסִּין</text><path d=\"M45 120 Q80 82 115 120 Z\" fill=\"#7A5A3A\"/><g fill=\"#5A4030\"><circle cx=\"65\" cy=\"113\" r=\"2\"/><circle cx=\"80\" cy=\"107\" r=\"2\"/><circle cx=\"95\" cy=\"114\" r=\"2\"/></g><text x=\"135\" y=\"112\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#1A1F2E\">Fine granulated manure</text><path d=\"M45 176 Q80 138 115 176 Z\" fill=\"#D9C08A\"/><g fill=\"#B89A5E\"><circle cx=\"65\" cy=\"169\" r=\"2\"/><circle cx=\"80\" cy=\"163\" r=\"2\"/><circle cx=\"95\" cy=\"170\" r=\"2\"/></g><text x=\"135\" y=\"168\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#1A1F2E\">Fine sand</text><path d=\"M45 232 Q80 194 115 232 Z\" fill=\"#EDEDE6\" stroke=\"#BDB6A6\" stroke-width=\"2\"/><text x=\"135\" y=\"224\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#1A1F2E\">Lime</text><path d=\"M45 288 Q80 250 115 288 Z\" fill=\"#B5673E\"/><g fill=\"#8A4A2A\"><circle cx=\"65\" cy=\"281\" r=\"2\"/><circle cx=\"80\" cy=\"275\" r=\"2\"/><circle cx=\"95\" cy=\"282\" r=\"2\"/></g><text x=\"135\" y=\"280\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#1A1F2E\">Crushed potsherd</text><path d=\"M45 344 Q80 306 115 344 Z\" fill=\"#A0522D\"/><g fill=\"#7A3E22\"><circle cx=\"65\" cy=\"337\" r=\"2\"/><circle cx=\"80\" cy=\"331\" r=\"2\"/><circle cx=\"95\" cy=\"338\" r=\"2\"/></g><text x=\"135\" y=\"336\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#1A1F2E\">A brick or barrel lid, crushed</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"366\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">One may not cover with</text><text x=\"672\" y=\"74\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#7A4A2A\">אֵין מְכַסִּין</text><ellipse cx=\"505\" cy=\"108\" rx=\"20\" ry=\"14\" fill=\"#7A5A3A\"/><ellipse cx=\"540\" cy=\"112\" rx=\"16\" ry=\"12\" fill=\"#6A4A2E\"/><text x=\"580\" y=\"116\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#1A1F2E\">Thick manure</text><ellipse cx=\"505\" cy=\"176\" rx=\"20\" ry=\"14\" fill=\"#D9C08A\" stroke=\"#B89A5E\" stroke-width=\"2\"/><ellipse cx=\"540\" cy=\"180\" rx=\"16\" ry=\"12\" fill=\"#D9C08A\" stroke=\"#B89A5E\" stroke-width=\"2\"/><text x=\"580\" y=\"184\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#1A1F2E\">Thick, clumped sand</text><rect x=\"488\" y=\"232\" width=\"66\" height=\"30\" rx=\"3\" fill=\"#A0522D\" stroke=\"#7A3E22\" stroke-width=\"2\"/><text x=\"580\" y=\"252\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#1A1F2E\">A brick or barrel lid, not crushed</text><ellipse cx=\"521\" cy=\"338\" rx=\"30\" ry=\"5\" fill=\"#9B2226\"/><path d=\"M494 338 Q521 294 548 338 Z\" fill=\"#B8A88E\" stroke=\"#8A7560\" stroke-width=\"2\"/><text x=\"580\" y=\"332\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#1A1F2E\">Turning a vessel over the blood</text><rect x=\"15\" y=\"392\" width=\"870\" height=\"64\" rx=\"14\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><path d=\"M50 444 V414\" stroke=\"#4E7A3E\" stroke-width=\"3\"/><path d=\"M50 422 q-14 -4 -18 -14 q14 0 18 14 Z M50 428 q14 -6 18 -16 q-14 2 -18 16 Z\" fill=\"#6FA35E\"/><text x=\"80\" y=\"418\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Rabban Shimon ben Gamliel’s principle:</text><text x=\"80\" y=\"442\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">where plants grow, one may cover with it; where plants do not grow, one may not.</text></svg>"
+     }
+    },
+    {
+     "id": "s11",
+     "title": "Fine Sand vs. Thick Sand: The Potter's Standard",
+     "amud": "88a",
+     "gist": "Rabba bar bar Chana, in R. Yochanan's name, defines sand by whether a potter must crush it. The two versions of his statement differ on sand that crumbles in the hand.",
+     "bullets": [
+      {
+       "text": "Rabba bar bar Chana in the name of R. Yochanan: fine sand is any sand that the potter does not need to crush before using it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Some teach the statement on the Mishnah's latter clause instead: thick sand is any sand that the potter must crush.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The difference is sand that needs some crushing but crumbles in the hand without a tool. By the first version it may be used, since it doesn't count as needing crushing. By the second version it may not, since it needs some crushing.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A recurring pattern: which end of a spectrum a definition anchors on decides where the borderline middle falls.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "The two versions of R. Yochanan's potter's standard",
+      "columns": [
+       "",
+       "Defines",
+       "Sand needing no crushing",
+       "Sand that crumbles by hand",
+       "Sand that must be crushed"
+      ],
+      "rows": [
+       [
+        "First version",
+        "Fine sand: the potter needn't crush it",
+        "May be used",
+        "May be used",
+        "May not be used"
+       ],
+       [
+        "Second version",
+        "Thick sand: the potter must crush it",
+        "May be used",
+        "May not be used",
+        "May not be used"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "The Baraita: \"And Cover It\" and \"With Earth\"",
+     "amud": "88a–88b",
+     "gist": "\"And cover it\" brings in other materials and \"with earth\" keeps some out. The line falls at substances that are a type of earth in which plants grow.",
+     "bullets": [
+      {
+       "text": "Baraita: \"and cover it\" might allow stones, or turning a vessel over the blood, so the verse says \"with earth\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Is only earth allowed, then? What includes fine manure, fine sand, crushed stones, crushed potsherd, fine flax chaff, carpenters' fine sawdust, lime, and crushed brick or barrel lid? \"And cover it\", with any substance.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Should one then include thick manure, thick sand, metal filings, uncrushed brick or lid, flour, bran and coarse bran? No: \"with earth\" shows that not every substance may be used.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why include these and exclude those? The verse both included and excluded. So one includes substances that are a type of earth in which plants grow, and excludes those that are not, since plants don't grow in them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Exactly why flax chaff and sawdust fall inside while flour and bran fall outside is not fully clear.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [
+      {
+       "id": "s13",
+       "title": "Why Not a Generalization and a Detail? Rav Mari",
+       "amud": "88b",
+       "gist": "The Gemara asks why \"with earth\" doesn't limit the verse to earth alone. Rav Mari answers that this generalization needs its detail in order to be understood.",
+       "bullets": [
+        {
+         "text": "Challenge: read \"and cover it\" as a generalization (*klal*) and \"with earth\" as a detail (*prat*). Then only what the detail names is included: only earth, not even other substances in which plants grow.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Mari: this is a generalization that needs a detail to clarify it (*klal hatzarich lifrat*), and such a verse is not read as *klal u'prat*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The verse needed \"with earth\" to show what the mitzva is: the blood must be covered with a substance that absorbs it. Placing a vessel over it is not enough.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rashi: the verb itself is unclear. \"Cover\" could mean overlaying, like a blanket or vessel, or burying under granular material. The detail tells us which kind of covering is meant.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Tosafot: \"with earth\" was needed for another teaching, that there must be earth both below and above the blood. Since it had to appear for that reason, it cannot act as a limiting detail.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "*Klal hatzarich lifrat* is itself one of the thirteen hermeneutical principles. One might have expected *ribui u'mi'ut* here; the Gemara instead works within *klal u'prat* and arrives at \"whatever resembles earth\".",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s14",
+     "title": "Rav Nachman bar Rav Chisda: Only Where Seed Sprouts",
+     "amud": "88b",
+     "gist": "Rav Nachman bar Rav Chisda requires a substance in which sown seed sprouts. Rava calls this absurd, and Rav Nachman bar Yitzchak defends it from a baraita about a desert traveler.",
+     "bullets": [
+      {
+       "text": "Rav Nachman bar Rav Chisda taught: the blood of an undomesticated animal or a bird may be covered only with a substance in which seed is sown and sprouts.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava: this is an absurdity (*burkha*). Both the Mishnah and the baraita allow substances in which seeds do not sprout.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Nachman bar Yitzchak: I am the one who told it to him, and I based it on a baraita about travelers in the desert and at sea.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The first clause of that baraita shows that desert sand, in which seeds do not sprout, may not be used to cover the blood.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"Plants grow in it\" is not the same as \"seed sown in it sprouts\". Desert sand may support some growth on its own, yet a seed planted in it will not come up.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s10",
+       "note": "Narrows Rabban Shimon ben Gamliel's plant-growth principle from the Mishnah"
+      }
+     ],
+     "children": [
+      {
+       "id": "s15",
+       "title": "The Desert and the Ship: Gold Dust and Ashes",
+       "amud": "88b",
+       "gist": "In the desert one grinds a gold dinar; at sea one burns a garment for its ashes. Ashes are called *afar*, and R. Zeira finds gold called dust in Iyov.",
+       "bullets": [
+        {
+         "text": "Baraita: one traveling in the desert with no earth to cover the blood grinds a gold dinar into powder and covers the blood with it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "One traveling on a ship with no earth burns his garment and covers the blood with the ashes.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The Gemara: the ashes are understood, since there is a source that ashes are called *afar* (shown shortly). But where do we learn that one may use a gold dinar?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rabbi Zeira: \"and it has dust of gold (*afrot zahav*)\" (Iyov 28:6). Gold is called dust.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Gold dust does not qualify by the qualities of earth, since metal filings were excluded. It qualifies because Scripture calls it dust. So there are two routes into the category: sharing earth's qualities, or being named *afar*.",
+         "detail": 2,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "illustration": {
+        "caption": "The baraita cited by Rav Nachman bar Yitzchak: a traveler in the desert grinds a gold dinar, and a traveler at sea burns his garment for its ashes. Gold is \"dust\" from Iyov 28:6 (Rabbi Zeira), and ashes are called *afar* in Bamidbar 19:17.",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a traveler in the desert beside a mortar, grinding a gold coin into dust. Right: a traveler on a ship beside a small fire burning his garment, with a pile of ashes on deck.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#F7ECD7\"/><text x=\"227\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">In the desert</text><text x=\"227\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">no earth to cover the blood</text><text x=\"227\" y=\"92\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">desert sand: sown seed does not sprout</text><path d=\"M15 290 Q120 250 230 285 Q330 315 440 275 L440 390 Q440 404 426 404 L29 404 Q15 404 15 390 Z\" fill=\"#E2C98F\"/><use href=\"#man\" x=\"90\" y=\"160\" width=\"60\" height=\"120\" style=\"color:#8C5A3C\"/><path d=\"M190 262 Q220 296 250 262 Z\" fill=\"#8A7560\"/><g fill=\"#E8C547\"><circle cx=\"206\" cy=\"258\" r=\"4\"/><circle cx=\"220\" cy=\"254\" r=\"4\"/><circle cx=\"234\" cy=\"258\" r=\"4\"/></g><circle cx=\"300\" cy=\"222\" r=\"18\" fill=\"#D4A017\" stroke=\"#9A7440\" stroke-width=\"3\"/><path d=\"M282 232 Q264 242 254 254\" fill=\"none\" stroke=\"#9A7440\" stroke-width=\"2\"/><text x=\"300\" y=\"196\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#7A5A20\">gold dinar</text><text x=\"227\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A2A12\">He grinds a gold dinar</text><text x=\"227\" y=\"358\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#5A2A12\">וְעַפְרֹת זָהָב לוֹ</text><text x=\"227\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5A4A3A\">“dust of gold” (Iyov 28:6) · Rabbi Zeira</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"672\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">On a ship</text><text x=\"672\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">no earth to cover the blood</text><path d=\"M460 270 H885 V390 Q885 404 871 404 H474 Q460 404 460 390 Z\" fill=\"#9EC1DA\"/><path d=\"M480 292 q15 -8 30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0 t30 0\" fill=\"none\" stroke=\"#6FA3C8\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M530 250 H840 L808 290 H562 Z\" fill=\"#8B6A4E\"/><rect x=\"700\" y=\"110\" width=\"6\" height=\"140\" fill=\"#6E5B46\"/><path d=\"M708 120 L708 236 L800 236 Z\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#man\" x=\"560\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#4E7A8C\"/><rect x=\"628\" y=\"236\" width=\"44\" height=\"14\" rx=\"3\" fill=\"#5A4A3A\"/><path d=\"M632 236 C632 214 644 222 646 204 C654 220 660 212 660 202 C670 220 668 228 668 236 Z\" fill=\"url(#fire)\"/><path d=\"M808 250 Q824 234 840 250 Z\" fill=\"#9C9892\"/><text x=\"672\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">He burns his garment</text><text x=\"672\" y=\"354\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">and covers the blood with the ashes</text><text x=\"672\" y=\"382\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#1A1F2E\">מֵעֲפַר שְׂרֵפַת הַחַטָּאת</text><text x=\"450\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Chullin 88b · the baraita cited by Rav Nachman bar Yitzchak</text></svg>"
+       }
+      }
+     ]
+    },
+    {
+     "id": "s16",
+     "title": "Beit Shammai vs. Beit Hillel: Are Ashes Called Afar?",
+     "amud": "88b",
+     "gist": "Beit Shammai allow only earth. Beit Hillel allow ashes, which Scripture calls *afar* at the red heifer, and Beit Shammai answer that ashes are only \"dust of the burning\".",
+     "bullets": [
+      {
+       "text": "Baraita: the blood of an undomesticated animal or a bird may be covered only with earth. So says Beit Shammai.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Beit Hillel: ashes are called *afar*, as at the red heifer: \"from the ashes (*me'afar*) of the burning of the purification from sin\" (Bamidbar 19:17).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Beit Shammai: ashes are called \"dust of the burning\" (*afar sereifah*), not plain *afar*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Two kinds of material qualify for covering: those with earth's qualities (granular, able to support plants) and those Scripture labels *afar* (ashes, gold dust). Beit Shammai accept only actual earth.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s15",
+       "note": "Supplies the source that ashes are called *afar*, assumed in the ship case"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s17",
+     "title": "Added Materials: Coal Dust, Kechol, Chisel Shavings",
+     "amud": "88b",
+     "gist": "The Sages added coal dust, stibium and chiseling shavings to the Mishnah's list, and some add even arsenic.",
+     "bullets": [
+      {
+       "text": "It is taught: the Sages added coal dust, stibium (*kechol*) and shavings from chiseling to the Mishnah's list. Some say they added even arsenic (*zarnikh*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "It is not clear whether these items belong under earth's qualities or under things called *afar*. *Zarnikh* is especially puzzling, since metal filings were excluded; the question is left open.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s18",
+   "title": "Rava: Abraham's Words Rewarded with Mitzvot",
+   "amud": "88b → 89a",
+   "gist": "Rava links two of Abraham's statements to mitzvot his descendants merited. The first is taught here; the second begins at the foot of the daf.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s19",
+     "title": "\"Dust and Ashes\": The Red Heifer and the Sotah",
+     "amud": "88b",
+     "gist": "Abraham's \"I am but dust and ashes\" earned the ashes of the red heifer and the dust of the *sotah*. Covering the blood is not counted, because its earth brings no benefit.",
+     "bullets": [
+      {
+       "text": "Rava: as a reward for Abraham's words \"and I am but dust and ashes\" (Bereishit 18:27), his children merited two mitzvot. These are the ashes of the red heifer and the dust of the *sotah*, earth from the floor of the Mishkan mixed into her water (Bamidbar 5:17).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Eifer* matches the red heifer's ashes, and *afar* matches the *sotah*'s dust.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Challenge: why not also count the earth used for covering the blood?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: there the earth is an accessory to the mitzva but gives no benefit. It comes after the slaughter and does not make the meat fit to eat. The red heifer's ashes purify the impure, and the *sotah*'s dust brings peace between husband and wife when she is shown innocent.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The rewards for Abraham's humility are mitzvot that accomplish something concrete. Covering the blood earns merit, but it does nothing beyond the act itself.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rava (88b): Abraham's \"I am but dust and ashes\" earned his children the ashes of the red heifer and the dust of the *sotah*. The earth for covering the blood is not counted, since it brings no benefit.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Abraham with a speech bubble saying I am but dust and ashes. Lines lead to two cards, the ashes of the red heifer and the dust of the sotah, and a faded third card, earth for covering the blood, which is not counted.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"24\" y=\"30\" width=\"290\" height=\"118\" rx=\"18\" fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\"/><path d=\"M150 146 L160 184 L178 146\" fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\" stroke-linejoin=\"round\"/><rect x=\"152\" y=\"142\" width=\"24\" height=\"6\" fill=\"#FFFFFF\"/><text x=\"169\" y=\"72\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#5A2A12\">“And I am but dust and ashes”</text><text x=\"169\" y=\"104\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"400\" fill=\"#5A2A12\">וְאָנֹכִי עָפָר וָאֵפֶר</text><text x=\"169\" y=\"130\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Bereishit 18:27</text><use href=\"#man\" x=\"120\" y=\"190\" width=\"90\" height=\"180\" style=\"color:#7A4A55\"/><text x=\"165\" y=\"394\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Our Patriarch Abraham</text><text x=\"165\" y=\"416\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Rava: his children merited two mitzvot</text><path d=\"M314 80 L366 80 M314 112 Q342 170 366 200\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"2\"/><path d=\"M314 134 Q334 280 366 330\" fill=\"none\" stroke=\"#C9C1B2\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><rect x=\"370\" y=\"24\" width=\"510\" height=\"112\" rx=\"14\" fill=\"#F3E6D8\"/><path d=\"M392 112 Q432 70 472 112 Z\" fill=\"#9C9892\"/><text x=\"492\" y=\"58\" text-anchor=\"start\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#5A2A12\">The ashes of the red heifer</text><text x=\"492\" y=\"82\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">purify one who became impure</text><text x=\"492\" y=\"112\" text-anchor=\"start\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#7A4A2A\">אֵפֶר פָּרָה</text><rect x=\"370\" y=\"152\" width=\"510\" height=\"112\" rx=\"14\" fill=\"#E3EAF3\"/><path d=\"M404 198 Q432 178 460 198 Z\" fill=\"#8A7560\"/><path d=\"M400 198 H464 L456 244 H408 Z\" fill=\"#B5673E\"/><text x=\"492\" y=\"186\" text-anchor=\"start\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1B3A8A\">The dust of the sotah</text><text x=\"492\" y=\"210\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#1A1F2E\">leads to peace between husband and wife</text><text x=\"492\" y=\"240\" text-anchor=\"start\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#3A5692\">עֲפַר סוֹטָה</text><rect x=\"370\" y=\"280\" width=\"510\" height=\"112\" rx=\"14\" fill=\"none\" stroke=\"#C9C1B2\" stroke-width=\"2\" stroke-dasharray=\"6 6\"/><ellipse cx=\"432\" cy=\"362\" rx=\"30\" ry=\"6\" fill=\"#9B2226\" opacity=\"0.6\"/><path d=\"M398 364 Q432 318 466 364 Z\" fill=\"#C9B48E\"/><text x=\"492\" y=\"314\" text-anchor=\"start\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#5B6478\">Earth for covering the blood?</text><text x=\"492\" y=\"338\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">an accessory to the mitzva, but no benefit</text><text x=\"492\" y=\"362\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">so it is not counted</text><text x=\"625\" y=\"424\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Chullin 88b · Rava</text></svg>"
+     }
+    },
+    {
+     "id": "s20",
+     "title": "Abraham and the King of Sodom",
+     "amud": "88b → 89a",
+     "gist": "Rava's second teaching, on what Abraham said to the king of Sodom, begins at the foot of the daf.",
+     "bullets": [
+      {
+       "text": "Rava: as a reward for what Abraham said to the king of Sodom... (the verse and its reward follow on 89a).",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "continues": "Continues on 89a: \"not a thread nor a shoe strap\" (Bereishit 14:23) earned the thread of *techelet* and the strap of *tefillin*. The Gemara then asks what benefit each one imparts."
+    }
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The scope starts at R. Asi on 87b rather than at the Tosefta alone (87b.10). The Tosefta's 'reddish hue' clause continues the plasma discussion, and the previous essay stops before R. Asi. Starting only at the contradiction would also be defensible.",
+  "Plasma (s2) and corpse liquids (s3) are placed under one top-level section, linked by the theme of reddish liquids and corpse impurity. They could instead be two top-level sections.",
+  "The minor/major-sources step is kept in the Tevul Yom challenge (s4), with the zav/corpse question as a sibling (s5). Both could be children of one 'contradiction' node without the Tosefta as parent.",
+  "The shiur's discussion of how the halakha is decided on covering all the blood is put as shiur bullets in the 'its blood' section (s8), not given a section of its own.",
+  "Rav Mari's challenge (s13) is nested under the baraita (s12) because it probes that derivation. It could also stand as a sibling.",
+  "Rav Nachman bar Rav Chisda (s14) stays under the materials section, with a returns_to link to the Mishnah's plant-growth principle. The desert/ship baraita is nested under him because it is cited as his source. It could also be a sibling section.",
+  "Beit Shammai vs. Beit Hillel (s16) is kept as a sibling in text order, with a returns_to link to the ship case whose premise it proves. It could instead be nested under s15.",
+  "Rava's two Abraham teachings are grouped under one top-level aggada section. The second begins on 88b and is marked as continuing on 89a."
+ ],
+ "coverage_notes": [
+  "The previous daf's essay ends with the rainwater discussion (87b.7–8). R. Asi (87b.9) onward is covered in this shiur, so the outline starts there.",
+  "The essay has R. Yirmeya of Difti saying 'ein bo karet' (no karet). The text says eating the plasma is punishable by karet, provided there is a kezayit of actual blood. Followed the text.",
+  "Names: the essay has 'Rabbi Assi from Naharville' and 'Rav Zeira'. The text has R. Asi of Neharbil and Rabbi Zeira. Followed the text.",
+  "The essay skips the Gemara's analysis of 'minor and major sources' (88a.2: is 'major' a corpse? No, a creeping animal and a zav). Outlined from the text.",
+  "The essay describes the Mishnah's 'all other impure persons'. The text has 'all other sources of impurity' (including a creeping animal). Followed the text.",
+  "The essay glosses agafayim as the walls of the slaughterhouse, citing Rashi. The text renders it as the sides of the animal's throat where it was slaughtered. Followed the text.",
+  "On the potter's standard, the essay says sand that crumbles by hand is permitted under both versions. The text says it is forbidden under the second version. Followed the text.",
+  "The essay omits Rav Nachman bar Rav Chisda's teaching, Rava's 'burkha' objection and Rav Nachman bar Yitzchak's reply. It attributes the 'sown and sprouts' wording to the baraita via Tosafot. The text gives it as Rav Nachman bar Rav Chisda's teaching, with the desert/ship baraita as its source. Followed the text; the shiur's distinction between growth and sprouting is kept as shiur analysis.",
+  "At the ashes step the essay cites Bamidbar 19 and 'dust and ashes' as the proof. The text defers the proof that ashes are called afar to the Beit Shammai / Beit Hillel baraita that follows. Followed the text's order.",
+  "The essay glosses sid as plaster, nikris pisulin as mill dust, and zarnich as possibly antimony. The text has lime, shavings from chiseling, and arsenic. Followed the text.",
+  "In the answer about covering the blood, the essay takes 'there' to mean the red heifer and sotah. In the text, 'there' is covering the blood: an accessory to the mitzva but with no benefit. The substance is the same; followed the text.",
+  "The essay says Rava's teaching concludes the perek. The text continues with Rava's second teaching (the king of Sodom) onto 89a. Followed the text and marked it as continuing.",
+  "Omitted the essay's aside that the blood of a zav, zavah or niddah is only a rishon, as it is not supported by the text and is doubtful. The bullet on liquids that are av hatumah lists only saliva, urine and semen, plus tears and sweat as non-examples."
+ ]
+}

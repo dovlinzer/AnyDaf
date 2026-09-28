@@ -36,3 +36,13 @@ _backup_*/
 *.bak_before_3way_split
 __pycache__/
 *.pyc
+
+# Saved Bavli text — rebuilt in minutes by build_daf_text.py; lives in Supabase daf_text
+daf-processor/daf_text/
+daf-processor/outline/sages/cache/
+daf-processor/page_layout/cache/
+AnyDafWeb/site/
+daf-processor/outline/feedback/
+AnyDafWeb/ab-site/
+daf-processor/outline/.page_cache/
+daf-processor/page_layout/out/

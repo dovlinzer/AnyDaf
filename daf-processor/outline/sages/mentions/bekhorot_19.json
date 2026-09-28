@@ -1,0 +1,79 @@
+{
+ "key": "bekhorot_19",
+ "tractate": "Bekhorot",
+ "sages": [
+  {
+   "name": "רבי טרפון",
+   "candidates": [
+    "rabbi-tarfon"
+   ],
+   "lines": [
+    "19a.2",
+    "19a.3"
+   ],
+   "count": 2,
+   "first": "19a.2",
+   "ambiguous": false,
+   "pick": "rabbi-tarfon",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי עקיבא",
+   "candidates": [
+    "rabbi-akiva"
+   ],
+   "lines": [
+    "19a.2",
+    "19a.3"
+   ],
+   "count": 2,
+   "first": "19a.2",
+   "ambiguous": false,
+   "pick": "rabbi-akiva",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "19a.6"
+   ],
+   "count": 1,
+   "first": "19a.6",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבינא",
+   "candidates": [
+    "ravina-(i)"
+   ],
+   "lines": [
+    "19a.8",
+    "19b.2"
+   ],
+   "count": 2,
+   "first": "19a.8",
+   "ambiguous": false,
+   "pick": "ravina-(i)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב אחא",
+   "candidates": [
+    "rav-aha"
+   ],
+   "lines": [
+    "19b.2"
+   ],
+   "count": 1,
+   "first": "19b.2",
+   "ambiguous": false,
+   "pick": "rav-aha",
+   "pick_by": "only"
+  }
+ ]
+}

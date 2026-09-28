@@ -1,0 +1,477 @@
+{
+ "daf": "Sanhedrin 6b",
+ "scope": {
+  "start": "6a: Rav Ashi's inference about *kinyan*, and the *Tosefta* on *bitzua* that begins at the foot of 6a (6b opens mid-*baraita*)",
+  "end": "6b: Rav's ruling like R. Yehoshua ben Korḥa, Rav Huna's practice, and the Gemara's question of what his \"mitzva\" means"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Does Peshara Require a Kinyan?",
+   "amud": "6a",
+   "gist": "Rav Ashi infers from the dispute over how many judges mediation needs that no formal act of acquisition is required — yet the Gemara rules that it is.",
+   "bullets": [
+    {
+     "text": "Rav Ashi: learn from that discussion that *peshara* does not require a *kinyan*.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "His reasoning: if a *kinyan* were needed, why demand a court of three? Two would suffice, with one litigant performing an act of acquisition with the other to bind them to the terms.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Gemara nevertheless concludes: *ve-hilchesa peshara tzricha kinyan* — the halakha is that compromise does require an act of acquisition.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Tosafot: three judges are still needed even with a *kinyan*, since a *kinyan* made before an illegitimate panel is a *kinyan* made in error. The parties are binding themselves to a genuine, responsible *peshara*, not to an arbitrary result.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "The question underneath: is *peshara* a form of adjudication that happens to be flexible, or a contractual arrangement between the litigants?",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [],
+   "illustration": {
+    "caption": "Rav Ashi's argument: if a *kinyan* already bound the parties, two judges plus the act of acquisition should be enough — so why insist on three? The Gemara nonetheless rules that compromise requires a *kinyan*, and Tosafot explains why three judges remain necessary.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left panel: two judges with two litigants performing a kinyan with a cloth. Right panel: three judges with the same kinyan, under the halachic conclusion that compromise requires a kinyan.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"16\" y=\"16\" width=\"425\" height=\"408\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"228\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1B3A8A\">Rav Ashi’s inference</text><text x=\"228\" y=\"76\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">If a kinyan bound them, two judges would be enough</text><use href=\"#sage\" x=\"128\" y=\"100\" width=\"60\" height=\"105\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"248\" y=\"100\" width=\"60\" height=\"105\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0\"/><text x=\"228\" y=\"228\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">two judges</text><use href=\"#man\" x=\"92\" y=\"252\" width=\"52\" height=\"104\" style=\"color:#7A4A55\"/><use href=\"#man\" x=\"292\" y=\"252\" width=\"52\" height=\"104\" style=\"color:#4E7A8C\"/><rect x=\"152\" y=\"292\" width=\"132\" height=\"14\" rx=\"7\" fill=\"#C9A15C\"/><text x=\"218\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">kinyan sudar</text><text x=\"118\" y=\"376\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">litigant</text><text x=\"318\" y=\"376\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">litigant</text><text x=\"228\" y=\"406\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">so why require a court of three?</text><rect x=\"460\" y=\"16\" width=\"424\" height=\"408\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#9A6212\">The halacha</text><text x=\"672\" y=\"78\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#6B4A1A\">והלכתא פשרה צריכה קנין</text><use href=\"#sage\" x=\"548\" y=\"104\" width=\"56\" height=\"98\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"644\" y=\"104\" width=\"56\" height=\"98\" style=\"color:#50706E;--beard:#A8A39C;--wrap:#D9CBB0\"/><use href=\"#sage\" x=\"740\" y=\"104\" width=\"56\" height=\"98\" style=\"color:#6B6F3A;--beard:#4A3A2E;--wrap:#E4D8C0\"/><text x=\"672\" y=\"228\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">three judges — and a kinyan</text><use href=\"#man\" x=\"534\" y=\"252\" width=\"52\" height=\"104\" style=\"color:#7A4A55\"/><use href=\"#man\" x=\"726\" y=\"252\" width=\"52\" height=\"104\" style=\"color:#4E7A8C\"/><rect x=\"594\" y=\"292\" width=\"132\" height=\"14\" rx=\"7\" fill=\"#C9A15C\"/><text x=\"660\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">kinyan sudar</text><text x=\"560\" y=\"376\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">litigant</text><text x=\"752\" y=\"376\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">litigant</text><text x=\"672\" y=\"400\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Tosafot: a kinyan before an invalid panel</text><text x=\"672\" y=\"418\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">is a kinyan made in error</text></svg>"
+   }
+  },
+  {
+   "id": "s2",
+   "title": "Bitzua: Sin, Mitzva, or a Window That Closes",
+   "amud": "6a–6b",
+   "gist": "A *Tosefta* on mediation generates a four-way tannaitic debate: whether compromise is forbidden, permitted or obligatory, and how late in a case it may still be offered.",
+   "bullets": [],
+   "chart": {
+    "caption": "The tannaitic positions on mediation and its deadline",
+    "columns": [
+     "",
+     "Status of *bitzua*",
+     "Latest moment it may be offered"
+    ],
+    "rows": [
+     [
+      "Opening *Tosefta* (first *tanna*)",
+      "Done, like *din*, by three judges",
+      "Until *gmar din* is pronounced"
+     ],
+     [
+      "R. Eliezer b. R. Yosei HaGelili",
+      "Prohibited; the mediator is a sinner and blessing him curses God",
+      "Not at all, once the case is before the court"
+     ],
+     [
+      "R. Yehoshua ben Korḥa",
+      "A *mitzva*; the judgment that has peace within it",
+      "Even after the claims have been heard"
+     ],
+     [
+      "R. Shimon ben Menasya",
+      "Permitted to tell them \"go out and mediate\"",
+      "Until you know where the judgment is leaning"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s3",
+     "title": "The Tosefta's Rule: Three Judges, and Nothing After the Verdict",
+     "amud": "6a–6b",
+     "gist": "Mediation, like judgment, is done by three; once the verdict has been issued, mediation is no longer available.",
+     "bullets": [
+      {
+       "text": "The Sages taught (*Tosefta* 1:2–8): just as judgment is performed by three judges, so too mediation is performed by three.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Once the verdict of the judgment has been issued, it is no longer permitted to mediate the dispute.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A mnemonic — *samekh*, *reish*, *mem*, *shin*; *beit*, *nun*, *kuf*, *shin* — marks the names of the *tanna'im* whose statements follow.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Procedurally this treats *peshara* as a form of adjudication rather than a private arrangement between the parties.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "R. Eliezer b. R. Yosei HaGelili: It Is Forbidden to Mediate",
+     "amud": "6b",
+     "gist": "The mediator is a sinner and whoever blesses him curses God; let the judgment pierce the mountain, as Moshe would say — while Aharon, who was no judge, pursued peace.",
+     "bullets": [
+      {
+       "text": "R. Eliezer, son of R. Yosei HaGelili: it is prohibited to mediate; one who mediates (*habotze'a*) is a sinner, and anyone who blesses the mediator is cursing God — \"*uvotze'a berech ni'etz Hashem*\" (Tehillim 10:3).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rather, the true judgment must prevail and pierce the mountain, \"for the judgment is God's\" (Devarim 1:17); and so Moshe would say: let the judgment pierce the mountain.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "By contrast Aharon, whose role was not that of a judge, loved peace and pursued peace and made peace between one person and another — \"the law of truth was in his mouth... he walked with Me in peace and uprightness\" (Malachi 2:6).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The tension: if compromise is forbidden, why is Aharon praised for exactly the behavior being condemned?",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Rashi resolves it: the prohibition applies to one who has already come to court for judgment. Aharon's peacemaking was *kodem she-yavo'u lefanav ledin* — he would run after disputing parties and make peace before the matter ever reached litigation.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The two models set opposite each other in the *Tosefta*: Moshe, for whom the law pierces the mountain (Devarim 1:17), and Aharon, lover and pursuer of peace between people (Malachi 2:6).",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a mountain with a line driven straight through it and Moshe standing beside it. Right: Aharon standing between two people joined by an arc of peace.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"16\" y=\"16\" width=\"425\" height=\"428\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"228\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"23\" font-weight=\"600\" fill=\"#1B3A8A\">Moshe</text><text x=\"228\" y=\"86\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" fill=\"#3A5692\">יקוב הדין את ההר</text><path d=\"M56 300 L168 132 L198 170 L238 110 L400 300 Z\" fill=\"#8E7F74\"/><path d=\"M238 110 L252 152 L238 190 L222 152 Z\" fill=\"#A89A8E\"/><path d=\"M62 236 H396\" stroke=\"#1B3A8A\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M396 226 l20 10 l-20 10 z\" fill=\"#1B3A8A\"/><use href=\"#sage\" x=\"36\" y=\"316\" width=\"48\" height=\"84\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><text x=\"240\" y=\"334\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">let the judgment pierce the mountain</text><text x=\"240\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">“For the judgment is God’s” (Devarim 1:17)</text><text x=\"240\" y=\"424\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">R. Eliezer b. R. Yosei HaGelili: it is prohibited to mediate</text><rect x=\"460\" y=\"16\" width=\"424\" height=\"428\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"672\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"23\" font-weight=\"600\" fill=\"#24592E\">Aharon</text><text x=\"672\" y=\"86\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" fill=\"#3C7446\">אוהב שלום ורודף שלום</text><path d=\"M534 214 Q672 122 812 214\" fill=\"none\" stroke=\"#3C7446\" stroke-width=\"4\" stroke-dasharray=\"8 6\"/><use href=\"#sage\" x=\"644\" y=\"200\" width=\"56\" height=\"98\" style=\"color:#6B6F3A;--beard:#6A5646;--wrap:#E4D8C0\"/><use href=\"#person\" x=\"506\" y=\"210\" width=\"48\" height=\"96\" style=\"color:#8C4A60\"/><use href=\"#person\" x=\"790\" y=\"210\" width=\"48\" height=\"96\" style=\"color:#4E7A8C\"/><text x=\"672\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Aharon</text><text x=\"530\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">one person</text><text x=\"812\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">the other</text><text x=\"672\" y=\"368\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">“The law of truth was in his mouth” (Malachi 2:6)</text><text x=\"672\" y=\"406\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">his role was not that of a judge —</text><text x=\"672\" y=\"426\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rashi: he made peace before they came to court</text></svg>"
+     }
+    },
+    {
+     "id": "s5",
+     "title": "Two More Readings of Botze'a: Stolen Wheat and Yehuda",
+     "amud": "6b",
+     "gist": "The same verse from Tehillim is turned in two other directions — a blessing recited over stolen dough, and the brothers' sale of Yosef.",
+     "bullets": [
+      {
+       "text": "R. Eliezer: one who stole a *se'ah* of wheat, ground it, baked it and separated *challah* — how can he recite the blessing? He is not blessing but cursing, reading *botze'a* as one who breaks bread.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is the classic case of *mitzvah haba'ah ba'aveirah*, a commandment performed through a transgression.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "R. Meir: the term *botze'a* was stated only about Yehuda — \"what profit (*betza*) is it if we slay our brother... let us sell him to the Ishmaelites\" (Bereishit 37:26–27). Anyone who blesses Yehuda for this is cursing God.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Yehuda had the standing to demand Yosef's release and return to their father; he settled instead for a half-measure. A position of moral authority obliges one to act on it fully rather than negotiate it away.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Three readings of \"*uvotze'a berech ni'etz Hashem*\" (Tehillim 10:3)",
+      "columns": [
+       "Sage",
+       "*Botze'a* read as",
+       "The act condemned"
+      ],
+      "rows": [
+       [
+        "R. Eliezer b. R. Yosei HaGelili",
+        "The judge who mediates a dispute",
+        "Praising the one who arranged the compromise"
+       ],
+       [
+        "R. Eliezer",
+        "One who breaks bread",
+        "Blessing over *challah* taken from stolen wheat"
+       ],
+       [
+        "R. Meir",
+        "The profiteer (*betza*)",
+        "Praising Yehuda for selling Yosef instead of saving him"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s6",
+     "title": "R. Yehoshua ben Korḥa: It Is a Mitzva to Mediate",
+     "amud": "6b",
+     "gist": "Compromise is the judgment that contains peace within it — proved from Zecharya and from David, whose verse the Gemara then rereads in the opposite direction.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s7",
+       "title": "Mishpat Shalom and David's Mishpat U'tzedakah",
+       "amud": "6b",
+       "gist": "Strict judgment and peace seem to exclude each other; the judgment that holds both is mediation, and the same is said of David's justice and charity.",
+       "bullets": [
+        {
+         "text": "R. Yehoshua ben Korḥa: it is a *mitzva* to mediate — \"Execute the judgment of truth and peace in your gates\" (Zecharya 8:16).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Where there is strict judgment there is no true peace, and where there is true peace there is no strict judgment. Which judgment has peace within it? Mediation, since both sides are satisfied with the result.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So too of David: \"And David executed justice and charity to all his people\" (II Shmuel 8:15). Which justice has charity within it? Mediation.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "For him compromise is not a departure from justice but *din berachamim* — which is why it properly requires three judges just as *din* does.",
+         "detail": 2,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s8",
+       "title": "David's Verse Reread: The Judge Pays from His Own House",
+       "amud": "6b",
+       "gist": "Following the first *tanna*, who forbids mediation, David's *mishpat* and *tzedakah* are two separate acts — until Rebbi objects from \"to all his people\".",
+       "bullets": [
+        {
+         "text": "An alternative reading, according to R. Eliezer b. R. Yosei HaGelili who prohibits mediation: the judge ruled correctly, exonerating the exempt party and obligating the liable one, then saw that a poor man was left liable beyond his means and paid for him from his own house.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "That is justice for this one — his money was restored to him — and charity for that one, since the judge paid on his behalf from his own pocket. Two distinct acts, not one integrated ruling.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rebbi finds this difficult: if \"charity\" means supporting poor defendants, the verse should say charity to the poor, not \"to all his people\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rebbi: even where he did not pay from his own house it is justice and charity — justice for the one whose money is restored, and charity for the other, in that the judge removed the stolen item from his possession.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Being compelled to give back what is not rightfully yours is itself a benefit to you; on this reading every litigant receives both, which is why the verse can say \"to all his people\".",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "illustration": {
+        "caption": "The two readings of \"And David executed justice and charity to all his people\" (II Shmuel 8:15): the judge paying the impoverished loser out of his own house, and Rebbi's reading, in which the charity is simply that the stolen property leaves the liable party's hand.",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: David, crowned, passing coins from his own house to a poor litigant. Right: a liable litigant handing back a sack marked gezeila to the winning party.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"16\" y=\"16\" width=\"425\" height=\"408\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"228\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">Justice, then charity</text><text x=\"228\" y=\"74\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">the reading that follows the first tanna</text><use href=\"#sage\" x=\"76\" y=\"112\" width=\"60\" height=\"105\" style=\"color:#7A4A55;--beard:#4A3A2E;--wrap:#E4D8C0\"/><path d=\"M92 128 L98 114 L106 123 L114 114 L120 128 Z\" fill=\"#C9A15C\"/><text x=\"106\" y=\"238\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">David</text><use href=\"#man\" x=\"286\" y=\"124\" width=\"52\" height=\"104\" style=\"color:#6F6257\"/><text x=\"312\" y=\"250\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">the poor litigant</text><path d=\"M150 190 H264\" stroke=\"#9A6212\" stroke-width=\"5\"/><path d=\"M264 182 l16 8 l-16 8 z\" fill=\"#9A6212\"/><circle cx=\"172\" cy=\"170\" r=\"8\" fill=\"#E0B84E\" stroke=\"#9A6212\" stroke-width=\"2\"/><circle cx=\"198\" cy=\"170\" r=\"8\" fill=\"#E0B84E\" stroke=\"#9A6212\" stroke-width=\"2\"/><circle cx=\"224\" cy=\"170\" r=\"8\" fill=\"#E0B84E\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"208\" y=\"146\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#7A5A44\">from his own house</text><text x=\"228\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">Mishpat: the winner’s money is restored</text><text x=\"228\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">Tzedakah: the judge pays for the poor man</text><text x=\"228\" y=\"364\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">two separate acts, not one ruling</text><text x=\"228\" y=\"398\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#8A4A2A\">Rebbi objects: then why “to all his people”?</text><rect x=\"460\" y=\"16\" width=\"424\" height=\"408\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"672\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">Rabbi Yehuda HaNasi</text><text x=\"672\" y=\"74\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">even without paying from his own house</text><use href=\"#man\" x=\"530\" y=\"124\" width=\"52\" height=\"104\" style=\"color:#7A4A55\"/><use href=\"#man\" x=\"770\" y=\"124\" width=\"52\" height=\"104\" style=\"color:#4E7A8C\"/><rect x=\"652\" y=\"152\" width=\"16\" height=\"12\" fill=\"#8B6A4E\"/><ellipse cx=\"660\" cy=\"180\" rx=\"22\" ry=\"24\" fill=\"#A67B4E\"/><text x=\"660\" y=\"134\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#6B4A1A\">גזילה</text><path d=\"M590 218 H752\" stroke=\"#1B3A8A\" stroke-width=\"5\"/><path d=\"M752 210 l16 8 l-16 8 z\" fill=\"#1B3A8A\"/><text x=\"556\" y=\"250\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">the liable party</text><text x=\"796\" y=\"250\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">the winner</text><text x=\"672\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">Mishpat: his money is restored</text><text x=\"672\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">Tzedakah: the stolen item leaves his hand</text><text x=\"672\" y=\"364\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">so both apply to every litigant</text><text x=\"672\" y=\"398\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#3A5692\">משפט וצדקה לכל עמו</text></svg>"
+       }
+      }
+     ]
+    },
+    {
+     "id": "s9",
+     "title": "R. Shimon ben Menasya: Only Before You See Where It Leans",
+     "amud": "6b",
+     "gist": "The judge may send litigants out to mediate until he can tell which way the case will go; after that the option is closed.",
+     "bullets": [
+      {
+       "text": "R. Shimon ben Menasya: before you have heard their claims, or after hearing them but before you know where the judgment is leaning, you are permitted to say to them: go out and mediate.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "But once you have heard their claims and you know where the judgment is leaning, you may not say to them: go out and mediate.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Proof: \"The beginning of strife is as when one releases water; therefore leave off contention before the quarrel breaks out\" (Mishlei 17:14) — before the resolution of the contention is revealed you can cast it off; once it is revealed you cannot.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi reads the verse as exempting oneself from the waters of judgment. The language here is of stepping back from the case rather than of exercising an alternative form of judgment.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Three positions now stand side by side: forbidden once the parties are in court (R. Eliezer b. R. Yosei HaGelili), a *mitzva* even at a late stage (R. Yehoshua ben Korḥa), and permitted only until the direction of the case is visible (R. Shimon ben Menasya).",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "title": "\"Lo Taguru\": Fear, Recusal and Speech in Court",
+   "amud": "6b",
+   "gist": "The same two-stage timing governs a judge's right to walk away, and \"do not be afraid before any man\" binds judges, students and witnesses alike.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s11",
+     "title": "Reish Lakish: When a Judge May Refuse the Case",
+     "amud": "6b",
+     "gist": "Facing a contentious litigant who may turn on him, the judge may decline the case — but only before he knows where the judgment is leaning.",
+     "bullets": [
+      {
+       "text": "Reish Lakish: where one litigant is flexible and agreeable and the other rigid and contentious, before you hear their claims, or after hearing them but before you know where the judgment is leaning, you may say: *eini nizkak lachem* — I will not submit to judging you.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The concern is explicit: perhaps the strong, contentious one will be found liable and will then pursue the judge with intent to harm him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "But once you have heard their claims and know where the judgment is leaning, you may not refuse — \"You shall not be afraid before any man\" (Devarim 1:17).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The novelty is the permission to recuse early. Once the judge has engaged the case and its trajectory is clear, personal fear is no longer a valid reason to step away.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "returns_to": [
+      {
+       "id": "s9",
+       "note": "Applies R. Shimon ben Menasya's two-stage timing to recusal rather than to mediation"
+      }
+     ],
+     "illustration": {
+      "caption": "The stages of a case, and where each position closes the door: mediation and recusal are available only while the direction of the judgment is still unclear; the opening *Tosefta* allows mediation until the verdict itself.",
+      "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A timeline of four stages of a case with four rows showing, for each position, when mediation or recusal is still permitted and when it is foreclosed.</title><rect width=\"900\" height=\"480\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"44\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">How late may the judge still turn aside?</text><path d=\"M210 200 H858\" stroke=\"#C9C1B2\" stroke-width=\"3\"/><path d=\"M858 192 l16 8 l-16 8 z\" fill=\"#C9C1B2\"/><circle cx=\"280\" cy=\"200\" r=\"7\" fill=\"#8A7560\"/><circle cx=\"440\" cy=\"200\" r=\"7\" fill=\"#8A7560\"/><circle cx=\"620\" cy=\"200\" r=\"7\" fill=\"#8A7560\"/><circle cx=\"800\" cy=\"200\" r=\"7\" fill=\"#8A7560\"/><text x=\"280\" y=\"128\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Before you hear</text><text x=\"280\" y=\"146\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">their claims</text><text x=\"440\" y=\"128\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Claims heard —</text><text x=\"440\" y=\"146\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">direction not yet clear</text><text x=\"620\" y=\"128\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">You know where</text><text x=\"620\" y=\"146\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">the judgment leans</text><text x=\"798\" y=\"128\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Gmar din</text><text x=\"798\" y=\"146\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">“you are liable / exempt”</text><path d=\"M620 212 V452\" stroke=\"#C9C1B2\" stroke-width=\"2\" stroke-dasharray=\"6 6\"/><path d=\"M800 212 V452\" stroke=\"#C9C1B2\" stroke-width=\"2\" stroke-dasharray=\"6 6\"/><text x=\"24\" y=\"252\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#1A1F2E\">R. Eliezer b. R. Yosei HaGelili</text><rect x=\"210\" y=\"232\" width=\"650\" height=\"30\" rx=\"15\" fill=\"#A8443A\"/><text x=\"535\" y=\"252\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#FFFFFF\">prohibited to mediate at all</text><text x=\"24\" y=\"308\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#1A1F2E\">R. Shimon ben Menasya</text><rect x=\"210\" y=\"288\" width=\"406\" height=\"30\" rx=\"15\" fill=\"#3C7446\"/><text x=\"413\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#FFFFFF\">“go out and mediate”</text><rect x=\"624\" y=\"288\" width=\"236\" height=\"30\" rx=\"15\" fill=\"#A8443A\"/><text x=\"742\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#FFFFFF\">no longer</text><text x=\"24\" y=\"364\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#1A1F2E\">Reish Lakish (recusal)</text><rect x=\"210\" y=\"344\" width=\"406\" height=\"30\" rx=\"15\" fill=\"#3C7446\"/><text x=\"413\" y=\"364\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#FFFFFF\">“I will not take your case”</text><rect x=\"624\" y=\"344\" width=\"236\" height=\"30\" rx=\"15\" fill=\"#A8443A\"/><text x=\"742\" y=\"365\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#FFFFFF\">לא תגורו מפני איש</text><text x=\"24\" y=\"420\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#1A1F2E\">The opening Tosefta</text><rect x=\"210\" y=\"400\" width=\"586\" height=\"30\" rx=\"15\" fill=\"#3C7446\"/><text x=\"503\" y=\"420\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"600\" fill=\"#FFFFFF\">mediation still possible</text><rect x=\"804\" y=\"400\" width=\"56\" height=\"30\" rx=\"15\" fill=\"#A8443A\"/><text x=\"450\" y=\"464\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Sanhedrin 6b · the stages of a case and when compromise is foreclosed</text></svg>"
+     }
+    },
+    {
+     "id": "s12",
+     "title": "The Student Who May Not Stay Silent",
+     "amud": "6b",
+     "gist": "Anyone in the courtroom who sees merit for the poor litigant or liability for the wealthy one must speak, fearing neither teacher nor litigant.",
+     "bullets": [
+      {
+       "text": "R. Yehoshua ben Korḥa: a student sitting before his teacher who sees a point of merit for a poor litigant or liability for a wealthy one must not remain silent — \"You shall not be afraid before any man\": neither his teacher nor the wealthy litigant.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Ḥanin: the verse intimates — do not suppress your statement before any man.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Taguru* is read from the root of gathering in: do not gather in and hoard your words. The duty to speak truth in court falls on everyone present who has relevant knowledge, not on the judges alone.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "Witnesses and Judges: Before Whom They Stand",
+     "amud": "6b",
+     "gist": "Witnesses and judges alike must know who will ultimately exact payment from them — balanced by the assurance that a judge is answerable only for what his eyes see.",
+     "bullets": [
+      {
+       "text": "The witnesses should know about whom they are testifying, before Whom they are testifying, and Who will ultimately exact payment from them — \"Then both the men, between whom the controversy is, shall stand before the Lord\" (Devarim 19:17).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi on \"about whom they testify\": false witnesses are in effect testifying against Heaven, since the wrong they cause must then be set right by other means rather than by the court.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "So too the judges should know whom they judge, before Whom they judge, and Who will exact payment from them — \"God stands in the congregation of God\" (Tehillim 82:1); and Yehoshafat told the judges: \"Consider what you do, for you judge not for man but for the Lord\" (II Divrei HaYamim 19:6).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Lest the judge say: what value is there for me in this suffering? — \"He is with you in giving judgment\": a judge has only what his eyes see.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The judge is not asked to transcend his human limits, only to bring integrity and rigor to the process; on that condition his ruling is legitimate even if imperfect — a principle R. Moshe Feinstein applied to *pesak halacha* generally.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The courtroom as the *Tosefta* describes it: judges on the bench and witnesses standing, each charged to know before Whom they stand and Who will exact payment from them (Devarim 19:17; Tehillim 82:1).",
+      "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three judges behind a bench, two witnesses standing before them, with the verses about standing before God written above and below.</title><rect width=\"900\" height=\"480\" fill=\"#FBF8F1\"/><rect x=\"40\" y=\"24\" width=\"820\" height=\"62\" rx=\"12\" fill=\"#E3EAF3\"/><text x=\"450\" y=\"54\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" fill=\"#1B3A8A\">אלהים נצב בעדת אל</text><text x=\"450\" y=\"76\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">“God stands in the congregation of God” (Tehillim 82:1)</text><text x=\"450\" y=\"114\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#8A2B2B\">לא תגורו מפני איש</text><use href=\"#sage\" x=\"300\" y=\"132\" width=\"58\" height=\"101\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"420\" y=\"132\" width=\"58\" height=\"101\" style=\"color:#6B6F3A;--beard:#5A4636;--wrap:#D9CBB0\"/><use href=\"#sage\" x=\"540\" y=\"132\" width=\"58\" height=\"101\" style=\"color:#7A4A55;--beard:#A8A39C;--wrap:#E4D8C0\"/><rect x=\"250\" y=\"230\" width=\"400\" height=\"18\" fill=\"#8B6A4E\"/><rect x=\"260\" y=\"248\" width=\"380\" height=\"60\" fill=\"#A8927A\"/><text x=\"450\" y=\"286\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">the judges</text><use href=\"#man\" x=\"140\" y=\"330\" width=\"54\" height=\"108\" style=\"color:#4E7A8C\"/><use href=\"#man\" x=\"700\" y=\"330\" width=\"54\" height=\"108\" style=\"color:#8C4A60\"/><text x=\"167\" y=\"456\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">witness</text><text x=\"727\" y=\"456\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">witness</text><text x=\"450\" y=\"348\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">“Both the men shall stand before the Lord” (Devarim 19:17)</text><text x=\"450\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">about whom · before Whom · Who will exact payment</text><text x=\"450\" y=\"414\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">“He is with you in giving judgment”</text><text x=\"450\" y=\"436\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">a judge has only what his eyes see</text></svg>"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s14",
+   "title": "Gmar Din Defined, and the Halacha on Mediation",
+   "amud": "6b → 7a",
+   "gist": "The verdict is the moment the judge says \"you are liable, you are exonerated\"; Rav rules like R. Yehoshua ben Korḥa, and Rav Huna's practice forces the Gemara to ask what his \"mitzva\" really means.",
+   "bullets": [
+    {
+     "text": "What are the circumstances of a verdict, after which mediation is barred? Rav Yehuda says that Rav says: when the judge declares, \"So-and-so, you are liable; so-and-so, you are exonerated.\"",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rav: the halakha is in accordance with R. Yehoshua ben Korḥa, who said it is a *mitzva* to mediate a dispute.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Gemara objects: Rav Huna was Rav's student, and when litigants came before him he would ask, \"Do you want a strict judgment, or do you want a compromise?\" — apparently not holding that one must specifically arrange a compromise.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Gemara therefore asks what R. Yehoshua ben Korḥa means when he calls it a *mitzva*.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The ruling *lema'aseh*: the judge discharges the *mitzva* by laying both paths out as genuine equals, not by steering the litigants toward compromise.",
+     "detail": 2,
+     "source": "shiur"
+    }
+   ],
+   "children": [],
+   "continues": "Continues on 7a: the *mitzva* is to offer them the choice of *din* or *peshara*; the first *tanna* holds it merely permitted, and differs from R. Shimon ben Menasya over how late mediation may be suggested; then R. Tanḥum bar Ḥanilai reads the *botze'a* verse as referring to Aharon and the Golden Calf."
+  }
+ ],
+ "judgment_calls": [
+  "Scope begins with Rav Ashi's *kinyan* inference at the foot of 6a rather than with the *Tosefta* line that literally opens 6b; Rav Ashi closes the *peshara*-vs-*din* question on which the whole daf rests and was not covered in the previous shiur, so it is included as the lead-in.",
+  "Reish Lakish's recusal rule is placed in a separate top-level 'lo taguru' section rather than inside the tannaitic *bitzua* debate, since the Gemara uses it to open the chain about fear and speech in court; a returns_to link marks that it reuses R. Shimon ben Menasya's two-stage timing. The alternative — keeping it as the last child of the *bitzua* debate — would have highlighted the shared structure instead.",
+  "The rereading of David's verse (the judge who pays from his own house, and Rebbi's answer) is kept as a child of R. Yehoshua ben Korḥa's section even though it expresses the first *tanna*'s view, because it is a rereading of the proof text R. Yehoshua ben Korḥa had just cited.",
+  "R. Eliezer's stolen-wheat *challah* case and R. Meir's reading about Yehuda are grouped in one subsection of readings of *botze'a* rather than given separate sections, since they share a single verse and a single homiletic move.",
+  "A chart of the timing positions sits on the parent section and the timeline illustration on Reish Lakish's section; the two overlap slightly but the chart compares status and deadline while the drawing shows the stages of a case."
+ ],
+ "coverage_notes": [
+  "Most of the second half of the shiur is 7a material and lies outside this daf: the *mitzva*-vs-*reshut* distinction between R. Yehoshua ben Korḥa and the first *tanna*, R. Tanḥum bar Ḥanilai on the Golden Calf and Ḥur, 'water = Torah' for *poter mayim*, Shmuel's folk sayings and verses, Rav Huna on the Shechina within ten *tefachim*, and the three derivations of the word *taguru*. Flagged only in the `continues` note on the last section.",
+  "The essay calls the sage who says 'do not suppress your statement before any man' Rabbi Chanina; the Sefaria text has Rabbi Ḥanin. Followed the text.",
+  "The essay presents the Gemara's answer about what 'mitzva' means (offering both options equally) as part of this daf; in the text the answer comes at the top of 7a. The bullet stating it is marked as shiur analysis and the Gemara's own resolution is left to the `continues` note.",
+  "The essay writes the *tanna* as 'Rabbi Eliezer ben Rabbi Yose HaGalili'; used the text's 'R. Eliezer b. R. Yosei HaGelili', and kept him distinct from the 'Rabbi Eliezer' of the stolen-wheat teaching, as the text has them.",
+  "6a.1–6a.8 (R. Abbahu on two judges, error in deliberation, and the three views on how many judges mediation needs) belong to 6a and were covered at the end of the previous shiur; they are outside this daf's scope.",
+  "The Gemara text identifies the mediation *baraita* as *Tosefta* 1:2–8; the essay calls it simply a *baraita*. Followed the text."
+ ]
+}

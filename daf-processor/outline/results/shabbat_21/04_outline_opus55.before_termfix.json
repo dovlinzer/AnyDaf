@@ -1,0 +1,925 @@
+{
+ "daf": "Shabbat 21",
+ "scope": {
+  "start": "20b: Rami bar Avin's definitions of tar and wax (21a opens with the Gemara's question about them)",
+  "end": "21b: the Hanukkah lamp and the camel's flax; Rav Kahana's ruling on the lamp's height begins here and continues on 22a"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Tar and Wax: Rami bar Avin's Definitions",
+   "amud": "20b–21a",
+   "gist": "Tar is the by-product of pitch and wax the by-product of honey; the definitions matter for buying and selling, and the wax rule is squared with today's candles.",
+   "bullets": [
+    {
+     "text": "Rami bar Avin (20b): *itran* (tar) is the by-product of pitch, and *sha'ava* (wax) is the by-product of honey.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "What practical difference do these definitions make? Buying and selling: one who buys tar can insist on receiving the by-product of pitch and nothing else, and the same holds for wax and honey.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Mishnah bars wax as a Shabbat fuel. Tosafot records a view that forbids wax candles but ultimately permits them, and the Shulchan Aruch rules that way.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "The Gemara's concern is wax sitting apart from the wick, which must melt before the wick can draw it up. In a candle the wax surrounds the wick, so the whole candle counts as one thick wick. Paraffin candles work the same way.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [],
+   "text": {
+    "from": "20b.15",
+    "to": "21a.1"
+   }
+  },
+  {
+   "id": "s2",
+   "title": "What the Wick and Oil Restrictions Cover",
+   "amud": "21a",
+   "gist": "The Tosefta limits the Mishnah's list to lamp wicks, the Gemara identifies *kik* oil, and Rabba gives the reason behind each half of the list.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s3",
+     "title": "Bonfires Permitted, Lamp Wicks Forbidden",
+     "amud": "21a",
+     "gist": "The unfit materials may fuel a bonfire; the Sages barred them only as wicks in an oil lamp.",
+     "bullets": [
+      {
+       "text": "Tosefta: the materials one may not light with on Shabbat may still be used to make a bonfire, whether to warm oneself or to use its light, and whether on the ground or on a stove.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Sages forbade them only as a wick for an oil lamp.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The restriction targets the one setting where quality matters: oil drawn up through a wick. Anyone who has used oil lamps knows how finicky that is.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "21a.2",
+      "to": "21a.2"
+     }
+    },
+    {
+     "id": "s4",
+     "title": "What Is Kik Oil?",
+     "amud": "21a",
+     "gist": "Three identifications (a bird, cotton, or a plant like Jonah's *kikayon*) and Rabba bar bar Chana's description of that plant.",
+     "bullets": [
+      {
+       "text": "Shmuel: I asked all the seafarers, and they said there is a bird called *kik* in the cities on the sea coast, and the oil comes from it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yitzchak son of Rav Yehuda: it is cotton oil.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: oil pressed from the seeds of the cotton plant.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Reish Lakish: oil from the seed of a plant like the *kikayon* of Jonah.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi stresses that this is a plant of that species, not the very plant Jonah sat under. The Steinsaltz edition identifies it as the castor plant.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Rabba bar bar Chana saw the species: it resembles the ricinus tree, grows in swamps, is placed at shop entrances for shade, yields oil from its seeds, and the sick of Eretz Yisrael rest beneath its branches.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The medicinal detail fits what is known of castor oil.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rabba bar bar Chana's description of the plant like Jonah's *kikayon* (21a), beside the three identifications of *kik* oil.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A castor plant growing by a swamp, its leafy branches shading the entrance of a shop, with two sick people resting on a mat beneath it; a side panel lists the identifications of kik oil.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"16\" y=\"16\" width=\"560\" height=\"428\" rx=\"14\" fill=\"url(#sky)\"/><path d=\"M16 330 H576 V430 Q576 444 562 444 H30 Q16 444 16 430 Z\" fill=\"#C9D5B8\"/><ellipse cx=\"470\" cy=\"410\" rx=\"90\" ry=\"14\" fill=\"#9CC3D5\"/><path d=\"M392 404 q6 -14 12 0 M540 404 q6 -14 12 0\" stroke=\"#4E7A3E\" stroke-width=\"3\" fill=\"none\"/><text x=\"40\" y=\"52\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#24592E\">A plant like Jonah’s kikayon</text><text x=\"40\" y=\"80\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#3C7446\">קיקיון</text><rect x=\"30\" y=\"156\" width=\"190\" height=\"16\" fill=\"#CDBB98\"/><rect x=\"40\" y=\"172\" width=\"170\" height=\"158\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"150\" y=\"240\" width=\"50\" height=\"90\" fill=\"#6E5B46\"/><rect x=\"60\" y=\"230\" width=\"70\" height=\"36\" fill=\"#F5EEDD\" stroke=\"#BFAE8E\"/><g fill=\"#B5673E\"><rect x=\"68\" y=\"244\" width=\"12\" height=\"18\" rx=\"4\"/><rect x=\"88\" y=\"240\" width=\"12\" height=\"22\" rx=\"4\"/><rect x=\"108\" y=\"246\" width=\"12\" height=\"16\" rx=\"4\"/></g><text x=\"95\" y=\"206\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#5A4A3A\">Shop</text><path d=\"M430 330 C425 280 420 240 410 200\" stroke=\"#7A5A3A\" stroke-width=\"9\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M412 210 C340 176 260 172 180 192\" stroke=\"#7A5A3A\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M410 200 C415 170 430 150 450 134\" stroke=\"#7A5A3A\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M416 212 C436 206 450 202 462 200\" stroke=\"#7A5A3A\" stroke-width=\"3\" fill=\"none\"/><g fill=\"#4E7A3E\"><path transform=\"translate(180 196) scale(1.3)\" d=\"M0 0 L-30 -10 L-14 -8 L-24 -30 L-6 -14 L0 -36 L6 -14 L24 -30 L14 -8 L30 -10 Z\"/><path transform=\"translate(235 186) scale(1.3)\" d=\"M0 0 L-30 -10 L-14 -8 L-24 -30 L-6 -14 L0 -36 L6 -14 L24 -30 L14 -8 L30 -10 Z\"/><path transform=\"translate(290 176) scale(1.3)\" d=\"M0 0 L-30 -10 L-14 -8 L-24 -30 L-6 -14 L0 -36 L6 -14 L24 -30 L14 -8 L30 -10 Z\"/><path transform=\"translate(345 178) scale(1.3)\" d=\"M0 0 L-30 -10 L-14 -8 L-24 -30 L-6 -14 L0 -36 L6 -14 L24 -30 L14 -8 L30 -10 Z\"/><path transform=\"translate(395 186) scale(1.3)\" d=\"M0 0 L-30 -10 L-14 -8 L-24 -30 L-6 -14 L0 -36 L6 -14 L24 -30 L14 -8 L30 -10 Z\"/><path transform=\"translate(420 152) scale(1.3)\" d=\"M0 0 L-30 -10 L-14 -8 L-24 -30 L-6 -14 L0 -36 L6 -14 L24 -30 L14 -8 L30 -10 Z\"/><path transform=\"translate(455 134) scale(1.3)\" d=\"M0 0 L-30 -10 L-14 -8 L-24 -30 L-6 -14 L0 -36 L6 -14 L24 -30 L14 -8 L30 -10 Z\"/></g><g fill=\"#8C5A3C\"><circle cx=\"460\" cy=\"198\" r=\"4\"/><circle cx=\"468\" cy=\"204\" r=\"4\"/><circle cx=\"472\" cy=\"195\" r=\"4\"/><circle cx=\"464\" cy=\"209\" r=\"4\"/></g><line x1=\"472\" y1=\"212\" x2=\"500\" y2=\"226\" stroke=\"#5B6478\" stroke-width=\"1.5\"/><text x=\"512\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">oil from</text><text x=\"512\" y=\"256\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">its seeds</text><rect x=\"226\" y=\"324\" width=\"170\" height=\"8\" rx=\"3\" fill=\"#C9A15C\"/><use href=\"#man\" x=\"0\" y=\"0\" width=\"40\" height=\"80\" transform=\"translate(308 286) rotate(90)\" style=\"color:#8C5A3C\"/><use href=\"#man\" x=\"0\" y=\"0\" width=\"40\" height=\"80\" transform=\"translate(392 286) rotate(90)\" style=\"color:#4E7A8C\"/><text x=\"310\" y=\"366\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">the sick of the West rest beneath it</text><text x=\"40\" y=\"394\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">placed at shop entrances for shade</text><text x=\"470\" y=\"438\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">grows in swamps</text><rect x=\"590\" y=\"16\" width=\"294\" height=\"428\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"737\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">What is kik oil?</text><ellipse cx=\"845\" cy=\"92\" rx=\"14\" ry=\"8\" fill=\"#6F5E4C\"/><circle cx=\"858\" cy=\"85\" r=\"5\" fill=\"#6F5E4C\"/><path d=\"M862 84 L870 86 L862 88 Z\" fill=\"#C9A15C\"/><text x=\"608\" y=\"92\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">Shmuel</text><text x=\"608\" y=\"112\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">a bird named kik, found in</text><text x=\"608\" y=\"130\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">the cities on the sea coast</text><line x1=\"608\" y1=\"146\" x2=\"866\" y2=\"146\" stroke=\"#C3CCDA\"/><text x=\"608\" y=\"168\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Rav Yitzchak son of Rav Yehuda</text><text x=\"608\" y=\"188\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">cotton oil</text><line x1=\"608\" y1=\"206\" x2=\"866\" y2=\"206\" stroke=\"#C3CCDA\"/><text x=\"608\" y=\"228\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">Reish Lakish</text><text x=\"608\" y=\"248\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">oil from the seed of a plant</text><text x=\"608\" y=\"266\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">like Jonah’s kikayon</text><line x1=\"608\" y1=\"282\" x2=\"866\" y2=\"282\" stroke=\"#C3CCDA\"/><text x=\"608\" y=\"304\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">Rabba bar bar Chana</text><text x=\"608\" y=\"324\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">“I have seen the species”:</text><text x=\"608\" y=\"342\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">it resembles the ricinus tree</text></svg>"
+     },
+     "text": {
+      "from": "21a.3",
+      "to": "21a.3"
+     }
+    },
+    {
+     "id": "s5",
+     "title": "Rabba: Why These Wicks and Oils Are Unfit",
+     "amud": "21a",
+     "gist": "The unfit wicks make the flame flicker, and the unfit oils are not drawn up by the wick.",
+     "bullets": [
+      {
+       "text": "Rabba: the wicks the Sages excluded are unfit because the fire flickers on them and does not burn well.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The oils they excluded are unfit because the wick does not draw them effectively.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Either way the lamp burns poorly, and one is likely to come and adjust it on Shabbat.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "21a.4",
+      "to": "21a.4"
+     }
+    }
+   ],
+   "text": {
+    "from": "21a.2",
+    "to": "21a.4"
+   }
+  },
+  {
+   "id": "s6",
+   "title": "Adding Permitted Oil to Unfit Oil",
+   "amud": "21a",
+   "gist": "Abaye asks whether a little good oil makes unfit oil usable. Rabba forbids it and defends his ruling against a baraita about a nut-wick and against Rav's ruling on molten fat.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s7",
+     "title": "Abaye's Dilemma and Rabba's Answer",
+     "amud": "21a",
+     "gist": "Do we decree against the mixture lest one light unfit oil alone? Rabba: one may not light it, because one may not light.",
+     "bullets": [
+      {
+       "text": "Abaye asks Rabba: may one add any amount of permitted oil to an unfit oil and light? Do we decree lest one come to light the unfit oil by itself, or is that no concern?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabba: one may not light the mixture, because one may not light (with those oils).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi reads the circular answer as *lo plug*: since the oils are forbidden alone, no distinction is made for a mixture. Another reading, *lefi she'einan nidlakin*, makes it a factual claim that even the mixture burns poorly.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "R. Akiva Eiger (Gilyon HaShas) cites similar self-referential phrasing, even in the Torah: a blemished *kohen* \"shall not approach... for any man with a blemish shall not approach\" (Vayikra 21).",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "All of this is rabbinic, and no mitzvah of Shabbat lights has yet been introduced. The concern is the one seen earlier with reading by lamplight: that one will tamper with the flame.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "21a.5",
+      "to": "21a.5"
+     }
+    },
+    {
+     "id": "s8",
+     "title": "Challenge: A Wick Wrapped Around a Nut",
+     "amud": "21a",
+     "gist": "A Tosefta forbids a fit wick wrapped around unfit material, yet R. Shimon ben Gamliel's family wrapped wicks around a nut. The Gemara reads the nut as a float only, so Rabba's ruling stands.",
+     "bullets": [
+      {
+       "text": "Abaye objects from a Tosefta: one who wraps a material fit for lighting around one that is unfit may not light with it. But Rabban Shimon ben Gamliel says: in my father's house they would wrap a wick around a nut and light. So combining fit and unfit seems allowed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabba: before objecting from Rabban Shimon ben Gamliel, support me from the first *tanna*, who forbids it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara: the objection from Rabban Shimon ben Gamliel is preferable, since it reports what was done in his father's house, and a practical precedent (*ma'aseh rav*) carries great weight.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "How much weight does a *ma'aseh rav* carry against a first *tanna*? Compare Rabban Gamliel's white garment in the previous chapter, a personal stringency that is not followed. A leniency actually practiced says more about the normative *halakha* than a private stringency does.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Still, isn't Rabban Shimon ben Gamliel combining wick and nut to light them together? No: he combined them only to float the wick on the oil.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Then why would the first *tanna* forbid it? The whole baraita is Rabban Shimon ben Gamliel's and is incomplete: wrapping is forbidden when the materials are combined to burn together, but using the unfit material only to float the wick is permitted, as his father's house did.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The nut works like the floating wicks familiar from Hanukkah lamps.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The Gemara's reading of the baraita (21a): an unfit material wrapped into the wick and burned with it is forbidden; a nut that only floats the wick is permitted, as in Rabban Shimon ben Gamliel's father's house.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two oil lamps. On the left, a wick wrapped around a core of unfit material burns together with it; on the right, a nut floats on the oil holding up a wick that burns alone.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\">“In my father’s house they would wrap a wick around a nut”</text><text x=\"450\" y=\"62\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rabban Shimon ben Gamliel</text><rect x=\"20\" y=\"84\" width=\"420\" height=\"300\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"460\" y=\"84\" width=\"420\" height=\"300\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"230\" y=\"118\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#5A2A12\">Wrapped to burn together</text><text x=\"230\" y=\"140\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A2A12\">may not light</text><path d=\"M140 282 Q230 362 320 282 Z\" fill=\"#B5673E\"/><path d=\"M316 284 L350 272 L344 290 Z\" fill=\"#B5673E\"/><ellipse cx=\"230\" cy=\"282\" rx=\"90\" ry=\"10\" fill=\"#D9B24C\"/><rect x=\"222\" y=\"200\" width=\"16\" height=\"86\" rx=\"3\" fill=\"#6F5E4C\"/><g stroke=\"#F6F1E7\" stroke-width=\"4\" stroke-linecap=\"round\"><line x1=\"219\" y1=\"212\" x2=\"241\" y2=\"222\"/><line x1=\"219\" y1=\"228\" x2=\"241\" y2=\"238\"/><line x1=\"219\" y1=\"244\" x2=\"241\" y2=\"254\"/><line x1=\"219\" y1=\"260\" x2=\"241\" y2=\"270\"/></g><path d=\"M212 204 C212 180 226 186 228 164 C238 182 248 176 248 204 Z\" fill=\"url(#fire)\"/><line x1=\"244\" y1=\"226\" x2=\"268\" y2=\"218\" stroke=\"#5B6478\" stroke-width=\"1.5\"/><text x=\"272\" y=\"222\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">wick (fit to light)</text><line x1=\"240\" y1=\"258\" x2=\"268\" y2=\"256\" stroke=\"#5B6478\" stroke-width=\"1.5\"/><text x=\"272\" y=\"260\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">unfit core</text><text x=\"230\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5A2A12\">the unfit material burns as part of the wick</text><text x=\"670\" y=\"118\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#24592E\">Used only to float the wick</text><text x=\"670\" y=\"140\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">permitted</text><path d=\"M580 282 Q670 362 760 282 Z\" fill=\"#B5673E\"/><path d=\"M756 284 L790 272 L784 290 Z\" fill=\"#B5673E\"/><ellipse cx=\"670\" cy=\"282\" rx=\"90\" ry=\"10\" fill=\"#D9B24C\"/><ellipse cx=\"670\" cy=\"279\" rx=\"24\" ry=\"12\" fill=\"#8C5A3C\"/><path d=\"M654 274 q16 -8 32 0\" stroke=\"#B08060\" stroke-width=\"2\" fill=\"none\"/><rect x=\"666\" y=\"236\" width=\"8\" height=\"40\" fill=\"#F6F1E7\" stroke=\"#D9CFBD\"/><path d=\"M660 240 C660 222 670 226 671 210 C678 224 682 222 682 240 Z\" fill=\"url(#fire)\"/><line x1=\"676\" y1=\"232\" x2=\"716\" y2=\"224\" stroke=\"#5B6478\" stroke-width=\"1.5\"/><text x=\"720\" y=\"226\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">wick burns alone</text><line x1=\"694\" y1=\"272\" x2=\"716\" y2=\"262\" stroke=\"#5B6478\" stroke-width=\"1.5\"/><text x=\"720\" y=\"262\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">nut: a float</text><text x=\"670\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#24592E\">the nut only holds the wick up</text><text x=\"450\" y=\"414\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">The whole baraita is Rabban Shimon ben Gamliel’s: lighting together is forbidden, floating is permitted</text></svg>"
+     },
+     "text": {
+      "from": "21a.6",
+      "to": "21a.7"
+     }
+    },
+    {
+     "id": "s9",
+     "title": "Challenge: Molten Fat and Dissolved Fish Innards",
+     "amud": "21a",
+     "gist": "Rav permits adding oil to molten fat or dissolved fish innards. Rabba answers that these do draw, and their ban is only a decree, which the Sages will not reinforce with another decree.",
+     "bullets": [
+      {
+       "text": "Rav Beruna citing Rav: molten fat, or fish innards that dissolved, may be lit once any amount of fit oil is added. So a mixture seems permitted.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabba: those are drawn by the wick even in their natural state, while the unfit oils are not. The Sages banned molten fat only because of unmolten fat, and dissolved innards only because of undissolved ones, and did not extend that ban to a mixture with fit oil.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Then decree against the mixture lest one light molten fat without oil? No: that ban is itself a decree, and the Sages do not issue one decree to protect another.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot: isn't the whole list of unfit oils already a decree on a decree, a fence around the fear of adjusting the lamp? Banning a mixture of good and bad oil is one step further removed still.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The Rivan gives another reason: the fear is not that one will adjust the lamp but that it will go out (*shema yichbeh*), leaving the home dark and harming *shalom bayit*. That treats the Shabbat light as a mitzvah in its own right, a concept the Gemara has not yet introduced.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot records a tradition that one fit lamp in the house frees the lamps in other rooms from these rules, and a second answer: unfit lamps may serve activities one could manage in the dark, since there is no reason to adjust them.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "21a.8",
+      "to": "21a.8"
+     }
+    }
+   ],
+   "text": {
+    "from": "21a.5",
+    "to": "21a.8"
+   }
+  },
+  {
+   "id": "s10",
+   "title": "Unfit Wicks and Oils in the Temple",
+   "amud": "21a",
+   "gist": "Rami bar Chama applies the Shabbat standard to the menorah, and two sources about priestly garments turned into wicks are reconciled with it.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s11",
+     "title": "Rami bar Chama: A Flame That Rises by Itself",
+     "amud": "21a",
+     "gist": "The menorah may not use the unfit wicks and oils, because its flame must rise on its own.",
+     "bullets": [
+      {
+       "text": "Rami bar Chama's baraita: the wicks and oils barred on Shabbat are barred in the Temple too, from \"*leha'alot ner tamid*\", \"to cause a lamp to burn continually\" (Shemot 27:20).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "His explanation: the flame must ascend by itself once kindled, not by means of something else, such as adjusting the wick after lighting.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi on the causative verb: you make the flame rise, but from then on it must sustain itself.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "21a.9",
+      "to": "21a.9"
+     }
+    },
+    {
+     "id": "s12",
+     "title": "Challenge: The Priests' Belts at Simchat Beit HaSho'evah",
+     "amud": "21a",
+     "gist": "Wicks from priests' trousers and wool-bearing belts lit the water-drawing celebration, but those lit special lanterns, not the menorah.",
+     "bullets": [
+      {
+       "text": "Mishnah: worn-out trousers and belts of the priests were unraveled into wicks for the lights of *Simchat Beit HaSho'evah*. The belts contained wool (*tekhelet*), which is unfit as a wick.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: *Simchat Beit HaSho'evah* is different. It lit special lanterns, not the menorah, and was not strict about their wicks.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "21a.10",
+      "to": "21a.10"
+     }
+    },
+    {
+     "id": "s13",
+     "title": "Challenge: Tattered Priestly Garments as Temple Wicks",
+     "amud": "21a",
+     "gist": "Rabba bar Mattana's baraita about garments made into Temple wicks refers only to linen garments.",
+     "bullets": [
+      {
+       "text": "Rabba bar Mattana taught: tattered priestly garments were unraveled into wicks for the Temple. Doesn't that include garments of mixed wool and linen, like the sashes?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "No: those wicks came from the linen garments alone.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "21a.11",
+      "to": "21a.11"
+     }
+    }
+   ],
+   "text": {
+    "from": "21a.9",
+    "to": "21a.11"
+   }
+  },
+  {
+   "id": "s14",
+   "title": "Unfit Wicks and Oils for Hanukkah",
+   "amud": "21a–21b",
+   "gist": "Three amoraic positions turn on two questions, whether an extinguished light must be relit and whether its light may be used; a baraita about the mitzvah's time frame then tests the view that it need not be relit.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s15",
+     "title": "Rav Huna, Rav Chisda and Rav: Three Positions",
+     "amud": "21a–21b",
+     "gist": "Rav Huna forbids the unfit materials on every night, Rav Chisda only on Shabbat, and Rav on none, each following from his view on relighting and on using the light.",
+     "bullets": [
+      {
+       "text": "Rav Huna: the Shabbat-unfit wicks and oils may not be used for Hanukkah, whether on Shabbat or on a weekday.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava explains: Rav Huna holds that an extinguished Hanukkah light must be relit (*kavta zakuk lah*), so it must burn well from the start. He also holds its light may be used, so on Shabbat one might come to adjust it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Chisda: permitted on weekdays but not on Shabbat. He holds an extinguished light need not be relit, but its light may be used, so on Shabbat one might adjust it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Zeira citing Rav Mattana (others: R. Zeira citing Rav): the unfit materials may be used for Hanukkah on weekdays and on Shabbat.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yirmeya explains: Rav holds the light need not be relit and its light may not be used, so there is no reason to adjust it even on Shabbat.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *halakha* follows this last view: an extinguished light need not be relit. At the moment of lighting it must be able to burn for the required time, with enough oil and a sheltered spot.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Some authorities question lighting outdoors in wind with the glass doors open. If the flame had no real chance of lasting at the moment of lighting, closing the doors right afterward may not help.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Unfit wicks and oils for Hanukkah: the three views and the premises behind them",
+      "columns": [
+       "",
+       "Weekday",
+       "Shabbat",
+       "If the light goes out",
+       "Using its light"
+      ],
+      "rows": [
+       [
+        "Rav Huna (explained by Rava)",
+        "Forbidden",
+        "Forbidden",
+        "Must relight",
+        "Permitted"
+       ],
+       [
+        "Rav Chisda",
+        "Permitted",
+        "Forbidden",
+        "Need not relight",
+        "Permitted"
+       ],
+       [
+        "Rav, per R. Zeira (explained by R. Yirmeya)",
+        "Permitted",
+        "Permitted",
+        "Need not relight",
+        "Forbidden"
+       ]
+      ]
+     },
+     "children": [],
+     "text": {
+      "from": "21a.12",
+      "to": "21b.1"
+     }
+    },
+    {
+     "id": "s16",
+     "title": "Abaye and the Tradition in R. Yochanan's Name",
+     "amud": "21b",
+     "gist": "Abaye rejected R. Yirmeya's explanation until Ravin brought it in R. Yochanan's name, and regretted not learning it the first time, because learning absorbed early is retained better.",
+     "bullets": [
+      {
+       "text": "Said before Abaye in R. Yirmeya's name, the explanation was rejected, since Abaye did not hold R. Yirmeya in high regard. When Ravin came and it was said in R. Yochanan's name, he accepted it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: had I merited, I would have learned it from the outset. What difference does it make? Knowledge acquired in one's youth is better remembered.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "21b.2",
+      "to": "21b.2"
+     }
+    },
+    {
+     "id": "s17",
+     "title": "Challenge: \"From Sunset Until Traffic Ceases\"",
+     "amud": "21b",
+     "gist": "A baraita seems to require the light to burn through that whole span. The Gemara reads it as the window for lighting, or as the amount of oil needed.",
+     "bullets": [
+      {
+       "text": "Baraita: the mitzvah is from sunset until traffic in the marketplace ceases. Doesn't that mean an extinguished light must be relit to last the whole time?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "No: one who did not light at sunset may still light until traffic ceases. Alternatively, it gives the measure: the wick and oil must be enough for that span, and if the light goes out early one need not relight.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rishonim dispute whether the window opens at sunset or at *tzeit hakochavim*.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The Shulchan Aruch's half hour is a practical standard reflecting its own time and place, not a fixed derivation. A rabbi in Jerusalem kept his menorah burning until midnight because he lived across from a cinema whose last show ended then.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s15",
+       "note": "Tests the view that an extinguished Hanukkah light need not be relit"
+      }
+     ],
+     "children": [
+      {
+       "id": "s18",
+       "title": "Until the Tadmor Merchants Leave",
+       "amud": "21b",
+       "gist": "R. Yochanan sets the end of traffic by the last merchants in the market, the sellers of kindling wood.",
+       "bullets": [
+        {
+         "text": "Rabba bar bar Chana citing R. Yochanan: until the traffic of the people of Tadmor (*tarmoda'ei*) ceases. They sold kindling wood and stayed in the market latest, for people who found at nightfall that their wood had run out.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rashi: these vendors were not Jews, which answers who would still be in the streets to see the lights while the Jews themselves were lighting.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "text": {
+        "from": "21b.4",
+        "to": "21b.4"
+       }
+      }
+     ],
+     "text": {
+      "from": "21b.3",
+      "to": "21b.4"
+     }
+    }
+   ],
+   "text": {
+    "from": "21a.12",
+    "to": "21b.4"
+   }
+  },
+  {
+   "id": "s19",
+   "title": "Practice of Hanukkah Lights: Number, Place, Extra Light",
+   "amud": "21b",
+   "gist": "Baraitot and Rava set out how many lights to kindle, where to place them, and why an additional light is needed.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s20",
+     "title": "Three Levels: Household, Each Person, Changing Nightly",
+     "amud": "21b",
+     "gist": "One light per household is the basic mitzvah. The *mehadrin* light for each person, and the *mehadrin min hamehadrin* change the number nightly: Beit Shammai count down from eight, Beit Hillel up from one.",
+     "bullets": [
+      {
+       "text": "Baraita: the basic mitzvah is one light each day for a person and his household (*ner ish uveito*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *mehadrin* kindle a light for each member of the household.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *mehadrin min hamehadrin* adjust the number daily. Beit Shammai: eight on the first day, decreasing to one. Beit Hillel: one on the first day, increasing to eight.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Mehadrin* comes from *hadar*, beautifying a mitzvah, not stringency in the sense of today's kashrut labels.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: at the top level the household returns to a single set of lights, so an onlooker can tell which night it is. Rambam: each person keeps lighting his own, counting the nights. Ashkenazim follow Rambam here, unusually.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The *mehadrin min hamehadrin* level (21b), night by night: Beit Shammai begin with eight lights and decrease, Beit Hillel begin with one and increase.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Eight nights of Hanukkah lights: Beit Shammai light eight on the first night and decrease to one; Beit Hillel light one and increase to eight.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Mehadrin min hamehadrin: the number changes each night</text><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"214\" y=\"80\">Night 1</text><text x=\"302\" y=\"80\">Night 2</text><text x=\"390\" y=\"80\">Night 3</text><text x=\"478\" y=\"80\">Night 4</text><text x=\"566\" y=\"80\">Night 5</text><text x=\"654\" y=\"80\">Night 6</text><text x=\"742\" y=\"80\">Night 7</text><text x=\"830\" y=\"80\">Night 8</text></g><rect x=\"16\" y=\"94\" width=\"868\" height=\"150\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"32\" y=\"160\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1B3A8A\">Beit Shammai</text><text x=\"32\" y=\"182\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1B3A8A\">8, then decreasing</text><g fill=\"#8A7560\"><rect x=\"176\" y=\"210\" width=\"76\" height=\"5\"/><rect x=\"264\" y=\"210\" width=\"76\" height=\"5\"/><rect x=\"352\" y=\"210\" width=\"76\" height=\"5\"/><rect x=\"440\" y=\"210\" width=\"76\" height=\"5\"/><rect x=\"528\" y=\"210\" width=\"76\" height=\"5\"/><rect x=\"616\" y=\"210\" width=\"76\" height=\"5\"/><rect x=\"704\" y=\"210\" width=\"76\" height=\"5\"/><rect x=\"792\" y=\"210\" width=\"76\" height=\"5\"/></g><g fill=\"#F4EFE4\" stroke=\"#BFAE8E\"><rect x=\"179.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"188.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"197.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"206.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"215.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"224.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"233.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"242.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"272\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"281\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"290\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"299\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"308\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"317\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"326\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"364.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"373.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"382.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"391.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"400.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"409.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"457\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"466\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"475\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"484\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"493\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"549.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"558.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"567.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"576.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"642\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"651\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"660\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"734.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"743.5\" y=\"174\" width=\"6\" height=\"36\"/><rect x=\"827\" y=\"174\" width=\"6\" height=\"36\"/></g><g fill=\"url(#fire)\"><ellipse cx=\"182.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"191.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"200.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"209.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"218.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"227.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"236.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"245.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"275\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"284\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"293\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"302\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"311\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"320\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"329\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"367.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"376.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"385.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"394.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"403.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"412.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"460\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"469\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"478\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"487\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"496\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"552.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"561.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"570.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"579.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"645\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"654\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"663\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"737.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"746.5\" cy=\"165\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"830\" cy=\"165\" rx=\"3.5\" ry=\"7\"/></g><rect x=\"16\" y=\"262\" width=\"868\" height=\"150\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"32\" y=\"328\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#9A6212\">Beit Hillel</text><text x=\"32\" y=\"350\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#9A6212\">1, then increasing</text><g fill=\"#8A7560\"><rect x=\"176\" y=\"378\" width=\"76\" height=\"5\"/><rect x=\"264\" y=\"378\" width=\"76\" height=\"5\"/><rect x=\"352\" y=\"378\" width=\"76\" height=\"5\"/><rect x=\"440\" y=\"378\" width=\"76\" height=\"5\"/><rect x=\"528\" y=\"378\" width=\"76\" height=\"5\"/><rect x=\"616\" y=\"378\" width=\"76\" height=\"5\"/><rect x=\"704\" y=\"378\" width=\"76\" height=\"5\"/><rect x=\"792\" y=\"378\" width=\"76\" height=\"5\"/></g><g fill=\"#F4EFE4\" stroke=\"#BFAE8E\"><rect x=\"211\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"294.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"303.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"378\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"387\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"396\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"461.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"470.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"479.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"488.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"545\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"554\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"563\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"572\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"581\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"628.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"637.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"646.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"655.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"664.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"673.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"712\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"721\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"730\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"739\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"748\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"757\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"766\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"795.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"804.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"813.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"822.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"831.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"840.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"849.5\" y=\"342\" width=\"6\" height=\"36\"/><rect x=\"858.5\" y=\"342\" width=\"6\" height=\"36\"/></g><g fill=\"url(#fire)\"><ellipse cx=\"214\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"297.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"306.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"381\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"390\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"399\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"464.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"473.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"482.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"491.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"548\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"557\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"566\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"575\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"584\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"631.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"640.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"649.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"658.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"667.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"676.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"715\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"724\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"733\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"742\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"751\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"760\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"769\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"798.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"807.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"816.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"825.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"834.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"843.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"852.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/><ellipse cx=\"861.5\" cy=\"333\" rx=\"3.5\" ry=\"7\"/></g><text x=\"450\" y=\"444\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Each row follows one school’s count; Ulla reports two explanations of the dispute (21b)</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s21",
+       "title": "Why Each School Counts as It Does",
+       "amud": "21b",
+       "gist": "Ulla reports two explanations from Eretz Yisrael: days to come versus days gone, or the Sukkot bulls versus rising in holiness.",
+       "bullets": [
+        {
+         "text": "Ulla: R. Yosei bar Avin and R. Yosei bar Zevida disagreed about the reasons.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "One: Beit Shammai count the days still to come, Beit Hillel the days already gone.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The other: Beit Shammai follow the bulls of Sukkot, thirteen on the first day and one fewer each day after (Bamidbar 29). Beit Hillel follow the rule that one rises in holiness and does not descend.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Maharal: counting down looks at potential, the days that remain; counting up looks at what is actual, the night one is in.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "A popular image: the descending count is a countdown to the end, the ascending count an openness to growing joy.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Rav Shlomo Zevin: is Hanukkah about eradicating evil or spreading good? Beit Shammai's count mirrors the diminishing Sukkot bulls, which represent the nations; Beit Hillel's spreads holiness. Fire destroys evil; light spreads good.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "chart": {
+        "caption": "Beit Shammai and Beit Hillel: the count and its two explanations",
+        "columns": [
+         "",
+         "Count",
+         "First explanation",
+         "Second explanation"
+        ],
+        "rows": [
+         [
+          "Beit Shammai",
+          "8 on the first night, then decreasing",
+          "The days still to come",
+          "The bulls of Sukkot, one fewer each day"
+         ],
+         [
+          "Beit Hillel",
+          "1 on the first night, then increasing",
+          "The days already gone",
+          "One rises in holiness and does not descend"
+         ]
+        ]
+       },
+       "children": [],
+       "text": {
+        "from": "21b.6",
+        "to": "21b.6"
+       }
+      },
+      {
+       "id": "s22",
+       "title": "Two Elders in Sidon",
+       "amud": "21b",
+       "gist": "R. Yochanan reports two elders who practiced each school's count, each citing the second explanation for his side.",
+       "bullets": [
+        {
+         "text": "Rabba bar bar Chana citing R. Yochanan: in Sidon one elder followed Beit Shammai and one followed Beit Hillel.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "One gave the bulls of the Festival as his reason; the other, that one rises in holiness and does not descend.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "text": {
+        "from": "21b.7",
+        "to": "21b.7"
+       }
+      }
+     ],
+     "text": {
+      "from": "21b.5",
+      "to": "21b.7"
+     }
+    },
+    {
+     "id": "s23",
+     "title": "Placing the Lamp: Doorway, Window, Table",
+     "amud": "21b",
+     "gist": "The lamp belongs outside the entrance, at a window facing the public domain for one who lives upstairs, and on the table in a time of danger.",
+     "bullets": [
+      {
+       "text": "Baraita: the mitzvah is to place the Hanukkah lamp at the entrance of one's house, on the outside.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "One who lives upstairs places it at the window adjacent to the public domain.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "In a time of danger one places it on his table, and that suffices.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: the entrance faces the courtyard, so those coming and going see it. The danger was a decree allowing fire only at the rulers' own sacred sites.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The move indoors shifted the publicizing of the miracle from passers-by to the household, and it eased the question of timing. With religious freedom today, many place the lamp in a window facing out, which should be encouraged.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "21b.8",
+      "to": "21b.8"
+     }
+    },
+    {
+     "id": "s24",
+     "title": "Rava: An Additional Light for Use",
+     "amud": "21b",
+     "gist": "Because the Hanukkah lights may not be used, another light is needed; a bonfire can serve, except for an important person.",
+     "bullets": [
+      {
+       "text": "Rava: one must kindle another light to use, since it is forbidden to use the Hanukkah lights.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If there is a bonfire, no extra light is needed. An important person, who does not use a bonfire's light, needs another light even so.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is the source of the *shamash*. Rashi adds that the extra light shows onlookers the Hanukkah lights are not there for illumination.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Today electric lighting plays the role of the bonfire.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "21b.9",
+      "to": "21b.9"
+     }
+    }
+   ],
+   "text": {
+    "from": "21b.5",
+    "to": "21b.9"
+   }
+  },
+  {
+   "id": "s25",
+   "title": "What Is Hanukkah? The Cruse of Oil",
+   "amud": "21b",
+   "gist": "*Megillat Ta'anit* fixes eight days from the 25th of Kislev, and the Gemara explains them: defiled oils, one sealed cruse, and a miracle of eight days.",
+   "bullets": [
+    {
+     "text": "The Gemara asks what Hanukkah is. *Megillat Ta'anit*: from the 25th of Kislev, the days of Hanukkah are eight, on which one may not eulogize or fast.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "When the Greeks entered the Sanctuary they defiled all its oils. When the Hasmonean kingdom defeated them, they searched and found only one cruse with the High Priest's seal.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "It held enough to light for one day. A miracle occurred and they lit from it for eight days.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The next year the Sages established these days as festivals, with *hallel* and thanksgiving.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "*Megillat Ta'anit* is among the earliest rabbinic texts, a bare list of days; the narrative is a Babylonian gloss on it.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Rashi: not a festival of forbidden labor, but *hallel* and *Al HaNissim*. Notably, the lighting itself is not mentioned as part of what was established.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "The Beit Yosef's question: oil for one day lasting eight is a miracle of only seven days. The Maharal's answer: each day only an eighth of the oil burned, so the miracle appeared all eight days.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "Maccabees, *Al HaNissim* and Josephus stress the victory and the rededication, with no oil miracle. For the Maharal, the small miracle revealed God's hand in the military victory.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "The graded levels of *mehadrin* may mirror a miracle that went beyond what was needed to make its point.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [],
+   "illustration": {
+    "caption": "The account in 21b: the Greeks defiled the Sanctuary's oils, and one sealed cruse, enough for a single day, kept the menorah lit for eight.",
+    "svg": "<svg viewBox=\"0 0 900 470\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Defiled oil jars on the left; on the right a single cruse sealed by the High Priest beside a lit seven-branched menorah; below, eight days of light.</title><rect width=\"900\" height=\"470\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">On the 25th of Kislev, the days of Hanukkah are eight</text><text x=\"450\" y=\"66\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#5B6478\">בכ״ה בכסליו יומי דחנוכה תמניא אינון</text><rect x=\"20\" y=\"86\" width=\"400\" height=\"270\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"220\" y=\"116\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#5A2A12\">The Greeks defiled the oils</text><g fill=\"#B7AEA4\" stroke=\"#8E857B\" stroke-width=\"2\"><rect x=\"82\" y=\"206\" width=\"16\" height=\"18\"/><rect x=\"78\" y=\"200\" width=\"24\" height=\"7\"/><ellipse cx=\"90\" cy=\"258\" rx=\"24\" ry=\"36\"/><rect x=\"152\" y=\"206\" width=\"16\" height=\"18\"/><rect x=\"148\" y=\"200\" width=\"24\" height=\"7\"/><ellipse cx=\"160\" cy=\"258\" rx=\"24\" ry=\"36\"/><rect x=\"222\" y=\"206\" width=\"16\" height=\"18\"/><rect x=\"218\" y=\"200\" width=\"24\" height=\"7\"/><ellipse cx=\"230\" cy=\"258\" rx=\"24\" ry=\"36\"/><rect x=\"292\" y=\"206\" width=\"16\" height=\"18\"/><rect x=\"288\" y=\"200\" width=\"24\" height=\"7\"/><ellipse cx=\"300\" cy=\"258\" rx=\"24\" ry=\"36\"/><rect x=\"362\" y=\"206\" width=\"16\" height=\"18\"/><rect x=\"358\" y=\"200\" width=\"24\" height=\"7\"/><ellipse cx=\"370\" cy=\"258\" rx=\"24\" ry=\"36\"/></g><text x=\"220\" y=\"322\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#5A2A12\">all the oils in the Sanctuary</text><text x=\"220\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5A2A12\">when the Greeks entered it</text><rect x=\"440\" y=\"86\" width=\"440\" height=\"270\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"660\" y=\"116\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1B3A8A\">One cruse with the High Priest’s seal</text><path d=\"M545 310 Q530 270 548 245 L552 225 L568 225 L572 245 Q590 270 575 310 Z\" fill=\"#C9A96E\" stroke=\"#9A7440\" stroke-width=\"2\"/><rect x=\"551\" y=\"216\" width=\"18\" height=\"10\" fill=\"#8A7560\"/><circle cx=\"560\" cy=\"221\" r=\"7\" fill=\"#7E2A3A\"/><line x1=\"568\" y1=\"221\" x2=\"596\" y2=\"218\" stroke=\"#5B6478\" stroke-width=\"1.5\"/><text x=\"600\" y=\"222\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">High Priest’s seal</text><text x=\"560\" y=\"336\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">oil for only one day</text><g fill=\"none\" stroke=\"#C9A96E\" stroke-width=\"6\" stroke-linecap=\"round\"><path d=\"M760 160 V310\"/><path d=\"M740 160 A20 20 0 0 0 780 160\"/><path d=\"M720 160 A40 40 0 0 0 800 160\"/><path d=\"M700 160 A60 60 0 0 0 820 160\"/></g><path d=\"M735 322 L745 310 H775 L785 322 Z\" fill=\"#C9A96E\"/><g fill=\"#C9A96E\"><rect x=\"694\" y=\"154\" width=\"12\" height=\"6\"/><rect x=\"714\" y=\"154\" width=\"12\" height=\"6\"/><rect x=\"734\" y=\"154\" width=\"12\" height=\"6\"/><rect x=\"754\" y=\"154\" width=\"12\" height=\"6\"/><rect x=\"774\" y=\"154\" width=\"12\" height=\"6\"/><rect x=\"794\" y=\"154\" width=\"12\" height=\"6\"/><rect x=\"814\" y=\"154\" width=\"12\" height=\"6\"/></g><g fill=\"url(#fire)\"><ellipse cx=\"700\" cy=\"146\" rx=\"4\" ry=\"9\"/><ellipse cx=\"720\" cy=\"146\" rx=\"4\" ry=\"9\"/><ellipse cx=\"740\" cy=\"146\" rx=\"4\" ry=\"9\"/><ellipse cx=\"760\" cy=\"146\" rx=\"4\" ry=\"9\"/><ellipse cx=\"780\" cy=\"146\" rx=\"4\" ry=\"9\"/><ellipse cx=\"800\" cy=\"146\" rx=\"4\" ry=\"9\"/><ellipse cx=\"820\" cy=\"146\" rx=\"4\" ry=\"9\"/></g><text x=\"760\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">the Hasmoneans light the menorah</text><text x=\"450\" y=\"386\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">A miracle occurred: they lit from it for eight days</text><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\" text-anchor=\"middle\"><rect x=\"60\" y=\"398\" width=\"80\" height=\"52\" rx=\"8\" fill=\"#F3E6D0\" stroke=\"#9A6212\"/><ellipse cx=\"84\" cy=\"424\" rx=\"6\" ry=\"12\" fill=\"url(#fire)\"/><text x=\"112\" y=\"429\">Day 1</text><rect x=\"160\" y=\"398\" width=\"80\" height=\"52\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><ellipse cx=\"184\" cy=\"424\" rx=\"6\" ry=\"12\" fill=\"url(#fire)\"/><text x=\"212\" y=\"429\">Day 2</text><rect x=\"260\" y=\"398\" width=\"80\" height=\"52\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><ellipse cx=\"284\" cy=\"424\" rx=\"6\" ry=\"12\" fill=\"url(#fire)\"/><text x=\"312\" y=\"429\">Day 3</text><rect x=\"360\" y=\"398\" width=\"80\" height=\"52\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><ellipse cx=\"384\" cy=\"424\" rx=\"6\" ry=\"12\" fill=\"url(#fire)\"/><text x=\"412\" y=\"429\">Day 4</text><rect x=\"460\" y=\"398\" width=\"80\" height=\"52\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><ellipse cx=\"484\" cy=\"424\" rx=\"6\" ry=\"12\" fill=\"url(#fire)\"/><text x=\"512\" y=\"429\">Day 5</text><rect x=\"560\" y=\"398\" width=\"80\" height=\"52\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><ellipse cx=\"584\" cy=\"424\" rx=\"6\" ry=\"12\" fill=\"url(#fire)\"/><text x=\"612\" y=\"429\">Day 6</text><rect x=\"660\" y=\"398\" width=\"80\" height=\"52\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><ellipse cx=\"684\" cy=\"424\" rx=\"6\" ry=\"12\" fill=\"url(#fire)\"/><text x=\"712\" y=\"429\">Day 7</text><rect x=\"760\" y=\"398\" width=\"80\" height=\"52\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><ellipse cx=\"784\" cy=\"424\" rx=\"6\" ry=\"12\" fill=\"url(#fire)\"/><text x=\"812\" y=\"429\">Day 8</text></g></svg>"
+   },
+   "text": {
+    "from": "21b.10",
+    "to": "21b.10"
+   }
+  },
+  {
+   "id": "s26",
+   "title": "The Hanukkah Lamp and the Camel's Flax",
+   "amud": "21b → 22a",
+   "gist": "A damages mishna exempts a storekeeper whose Hanukkah lamp outside the door set fire to passing flax. Ravina infers the lamp belongs within ten handbreadths, but the Gemara offers another reason for the exemption.",
+   "flag": "Gemara text only",
+   "bullets": [
+    {
+     "text": "Mishnah (damages): a spark from under a hammer that flies out and causes damage makes the one who struck liable. If a camel laden with flax passes in the public domain, its flax enters a store and catches fire from the storekeeper's lamp, the camel owner is liable.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "But if the storekeeper put his lamp outside the store, he is liable, since he had no right to place it there.",
+     "detail": 3,
+     "source": "gemara"
+    },
+    {
+     "text": "R. Yehuda: if it was a Hanukkah lamp, the storekeeper is exempt, since he is permitted to place it outside.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Ravina citing Rabba: this shows the Hanukkah lamp should be within ten handbreadths of the ground. Otherwise the camel owner could say: you should have put it above the height of a camel and its rider.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rejected: perhaps it may be higher, and R. Yehuda exempts him out of concern for the mitzvah. Burden a person too much and he will refrain from lighting; he placed it outside at the Sages' behest.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "returns_to": [
+    {
+     "id": "s23",
+     "note": "Returns to the lamp's place outside the entrance, now its height"
+    }
+   ],
+   "continues": "Continues on 22a: Rav Kahana, citing Rav Natan bar Manyumi in the name of R. Tanchum, rules that a Hanukkah lamp placed above twenty cubits is invalid.",
+   "children": [],
+   "illustration": {
+    "caption": "The case behind R. Yehuda's ruling (21b): a camel's flax catches fire from a Hanukkah lamp standing low outside a shop entrance. The dispute is whether the lamp belongs within ten handbreadths or may stand above a camel and its rider.",
+    "svg": "<svg viewBox=\"0 0 900 500\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A shop with a small Hanukkah lamp outside its entrance, low to the ground; a camel with a rider, laden with flax, passes in the street, and a bundle of flax catches fire from the lamp.</title><rect width=\"900\" height=\"500\" fill=\"url(#sky)\"/><rect x=\"0\" y=\"400\" width=\"900\" height=\"100\" fill=\"#D9C9A8\"/><text x=\"30\" y=\"40\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">R. Yehuda: if the flax caught fire from a Hanukkah lamp, the storekeeper is exempt</text><text x=\"30\" y=\"66\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1B3A8A\">Ravina, citing Rabba: so the lamp belongs within ten handbreadths of the ground</text><text x=\"30\" y=\"88\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#9A6212\">The Gemara: perhaps higher is allowed, and the exemption is so as not to discourage the mitzva</text><rect x=\"20\" y=\"156\" width=\"260\" height=\"16\" fill=\"#CDBB98\"/><rect x=\"30\" y=\"172\" width=\"240\" height=\"228\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"180\" y=\"270\" width=\"70\" height=\"130\" fill=\"#6E5B46\"/><text x=\"105\" y=\"215\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#5A4A3A\">The shop</text><line x1=\"150\" y1=\"400\" x2=\"150\" y2=\"342\" stroke=\"#9A6212\" stroke-width=\"2\"/><line x1=\"144\" y1=\"400\" x2=\"156\" y2=\"400\" stroke=\"#9A6212\" stroke-width=\"2\"/><line x1=\"144\" y1=\"342\" x2=\"156\" y2=\"342\" stroke=\"#9A6212\" stroke-width=\"2\"/><line x1=\"156\" y1=\"342\" x2=\"280\" y2=\"342\" stroke=\"#9A6212\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><text x=\"142\" y=\"375\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">10 handbreadths</text><rect x=\"259\" y=\"372\" width=\"6\" height=\"28\" fill=\"#8A7560\"/><path d=\"M248 372 Q262 386 276 372 Z\" fill=\"#B5673E\"/><path d=\"M258 372 C258 360 264 362 265 352 C270 362 272 362 272 372 Z\" fill=\"url(#fire)\"/><g fill=\"#A67C52\"><rect x=\"430\" y=\"320\" width=\"13\" height=\"80\"/><rect x=\"460\" y=\"322\" width=\"13\" height=\"78\"/><rect x=\"560\" y=\"322\" width=\"13\" height=\"78\"/><rect x=\"590\" y=\"320\" width=\"13\" height=\"80\"/></g><path d=\"M416 296 q-12 10 -8 30\" stroke=\"#A67C52\" stroke-width=\"5\" fill=\"none\"/><ellipse cx=\"515\" cy=\"300\" rx=\"100\" ry=\"42\" fill=\"#C49A6C\"/><ellipse cx=\"500\" cy=\"262\" rx=\"50\" ry=\"32\" fill=\"#C49A6C\"/><path d=\"M600 290 C630 280 640 240 640 205\" stroke=\"#C49A6C\" stroke-width=\"26\" stroke-linecap=\"round\" fill=\"none\"/><ellipse cx=\"658\" cy=\"196\" rx=\"24\" ry=\"13\" fill=\"#B58A5C\"/><circle cx=\"664\" cy=\"192\" r=\"2.5\" fill=\"#3B3431\"/><ellipse cx=\"560\" cy=\"270\" rx=\"34\" ry=\"20\" fill=\"#E6D69A\" stroke=\"#C9B070\" stroke-width=\"2\"/><use href=\"#man\" x=\"474\" y=\"168\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><line x1=\"370\" y1=\"318\" x2=\"425\" y2=\"290\" stroke=\"#7A5A3A\" stroke-width=\"3\"/><ellipse cx=\"330\" cy=\"340\" rx=\"42\" ry=\"26\" fill=\"#E6D69A\" stroke=\"#C9B070\" stroke-width=\"2\"/><g stroke=\"#C9B070\" stroke-width=\"2\"><line x1=\"300\" y1=\"332\" x2=\"362\" y2=\"330\"/><line x1=\"296\" y1=\"342\" x2=\"366\" y2=\"340\"/><line x1=\"300\" y1=\"352\" x2=\"362\" y2=\"350\"/></g><path d=\"M282 362 C282 346 290 350 292 336 C298 348 304 348 302 362 Z\" fill=\"url(#fire)\"/><line x1=\"300\" y1=\"156\" x2=\"880\" y2=\"156\" stroke=\"#5B6478\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><text x=\"880\" y=\"146\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">height of a camel and its rider</text><text x=\"262\" y=\"440\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Hanukkah lamp outside the entrance</text><text x=\"520\" y=\"440\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">camel laden with flax</text><text x=\"790\" y=\"472\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">public domain</text></svg>"
+   },
+   "text": {
+    "from": "21b.11",
+    "to": "22a.1"
+   }
+  }
+ ],
+ "judgment_calls": [
+  "The shiur's opening clarification about wax candles was placed with Rami bar Avin's definitions of tar and wax (s1), since both concern the Mishnah's *sha'ava*. It could have been a separate opening section.",
+  "The Tosefta on bonfires, the identification of *kik* oil and Rabba's reasons were grouped as one section on the scope of the Mishnah's list (s2). Each could stand as its own top-level section.",
+  "The Temple menorah discussion (s10) was made its own top-level section rather than a child of the mixing discussion, because it extends the Shabbat standard to a new setting and brings its own challenges.",
+  "The Tadmor merchants (s18) was nested under the challenge from the time-frame baraita, since it glosses that baraita's phrase. It could be a sibling within the Hanukkah wicks section.",
+  "Levels, placement and the additional light were grouped as the practice of Hanukkah lights (s19), with \"What is Hanukkah\" kept separate. An alternative puts all the Hanukkah material, including the wicks-and-oils debate, under a single top-level section.",
+  "The camel-and-flax mishna (s26) was kept as its own final section in text order, with a returns_to link to placement (s23), rather than moved beside the placement baraita.",
+  "The Tosafot material on decrees upon decrees, the Rivan and the single fit lamp was attached to the molten-fat challenge (s9), where the shiur raised it, rather than to Abaye's original dilemma."
+ ],
+ "coverage_notes": [
+  "The opening unit (Rami bar Avin on 20b and the practical difference on 21a) was covered at the end of the previous shiur; that material was used and the section is not flagged.",
+  "21b.11–12 (the damages mishna about the camel's flax, R. Yehuda's exemption for a Hanukkah lamp, and Ravina's inference about ten handbreadths) is not discussed in the shiur; it is outlined from the Gemara text only.",
+  "The essay places Shmuel's bird on the 'islands of the sea'; the text says 'the cities on the sea coast'. Followed the text.",
+  "The essay says the *kikayon* was draped over shop doorways to attract customers; the text says it was placed at shop entrances for shade. Followed the text.",
+  "The essay presents *ma'aseh rav* as Rabba's reply and concludes that one may therefore mix fit and unfit oil. In the text, Rabba says the objection should instead support him from the first *tanna*, and the Gemara cites *ma'aseh rav* only to explain why Rabban Shimon ben Gamliel is the stronger source for the objection. Rabba's prohibition stands. Followed the text.",
+  "The essay resolves the nut baraita by assigning the first clause to the first *tanna* and the second to Rabban Shimon ben Gamliel, in different cases. The text says the entire baraita is Rabban Shimon ben Gamliel's and is incomplete. Followed the text.",
+  "The essay merges the two priestly-garment sources and pairs the wrong answers. In the text, the Mishnah about trousers and belts is answered by 'Simchat Beit HaSho'evah is different' (special lanterns), and Rabba bar Mattana's baraita is then answered by 'linen garments alone'. Followed the text's order and answers.",
+  "Names follow the text: Rav Beruna (essay: Rav Bruna), Rabba (essay: Rabbah), Rav Mattana (essay: Rav Matna), R. Yosei bar Avin and R. Yosei bar Zevida (essay: Yose). The essay omits that the tradition reached Abaye through Ravin; the text's account is used.",
+  "The essay says the Gemara 'acknowledges the humor' of Rabba's circular answer; the text does not. That remark was left out.",
+  "All shiur material falls within this daf's scope; nothing from the shiur was excluded for scope."
+ ]
+}

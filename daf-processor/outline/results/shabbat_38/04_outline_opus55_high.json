@@ -1,0 +1,907 @@
+{
+ "daf": "Shabbat 38",
+ "scope": {
+  "start": "37b: the question put to R. Chiyya bar Abba about a pot forgotten on the stove that cooked on Shabbat (38a opens mid-exchange)",
+  "end": "38b: Rav Yosef's ruling on an egg roasted beside an urn, with Mar b. Ravina's supporting mishnah continuing on 39a"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Pot Forgotten on the Stove: Unwitting, Intentional, and the Decree",
+   "amud": "37b–38a",
+   "text": {
+    "from": "37b.9",
+    "to": "38a.7"
+   },
+   "gist": "Whether food from a forgotten pot may be eaten. The section covers R. Chiyya bar Abba's ruling, the two readings of \"it is no different\", R. Meir and R. Yehuda's baraita, the decree against those who pretended to forget, and a reconciliation of the two tanna'im.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "R. Chiyya bar Abba: Unwitting May Eat, Intentional May Not, 'No Different'",
+     "amud": "37b–38a",
+     "text": {
+      "from": "37b.9",
+      "to": "38a.1"
+     },
+     "gist": "Asked about a forgotten pot, R. Chiyya bar Abba stays silent. The next day he teaches publicly the rule for one who cooks on Shabbat and adds \"and it is no different\".",
+     "bullets": [
+      {
+       "text": "The question put to R. Chiyya bar Abba: one forgot a pot on a stove on Shabbat eve and it cooked on Shabbat. May the food be eaten?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "He was silent and gave no answer.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "The next day he taught publicly: one who cooks on Shabbat *be'shogeg* (unwittingly) may eat the food; *be'mezid* (intentionally) he may not. He added \"and it is no different\" (*ve'lo shaneh*).",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Ve'lo Shaneh: Forgetting Is No Act, or Forgetting Invites Deceit?",
+     "amud": "38a",
+     "text": {
+      "from": "38a.2",
+      "to": "38a.2"
+     },
+     "gist": "Rabba and Rav Yosef read \"no different\" leniently: forgetting a pot is no act. Rav Nachman bar Yitzchak reads it strictly: a forgotten pot invites the false claim \"I forgot\".",
+     "bullets": [
+      {
+       "text": "Rabba and Rav Yosef: one who cooks performs an action, so if he did it intentionally he may not eat. Forgetting a pot on the stove is no action, so he may eat even if he left it there intentionally.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Nachman bar Yitzchak: one who cooks will not come to deceive, so the unwitting cook may eat. One who leaves a pot might leave it on purpose and say \"I forgot\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the Sages penalized (*kenas*) the one who leaves a pot: he may not eat the food even if he truly left it unwittingly.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "Two readings of R. Chiyya bar Abba's \"and it is no different\"",
+      "columns": [
+       "",
+       "Reading",
+       "Pot forgotten unwittingly",
+       "Pot left intentionally",
+       "Against the baraita that follows"
+      ],
+      "rows": [
+       [
+        "Rabba and Rav Yosef",
+        "Lenient: forgetting a pot is not an act of cooking",
+        "May eat",
+        "May eat",
+        "A difficulty either way, left unanswered"
+       ],
+       [
+        "Rav Nachman bar Yitzchak",
+        "Restrictive: a pot left on the stove invites the claim \"I forgot\"",
+        "May not eat",
+        "May not eat",
+        "No difficulty: the baraita predates the decree"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "The Baraita: R. Meir Permits Fully Cooked, R. Yehuda Distinguishes Water from Food",
+     "amud": "38a",
+     "text": {
+      "from": "38a.3",
+      "to": "38a.4"
+     },
+     "gist": "On a forgotten pot, R. Meir permits anything fully done even if it was left intentionally. R. Yehuda permits water, which only loses as it shrivels, but forbids food that improves.",
+     "bullets": [
+      {
+       "text": "Baraita: one who forgot a pot and it cooked on Shabbat may eat it if this was unwitting, but not if it was intentional. This applies to water not yet fully heated and food not yet fully cooked.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Meir: water already fully heated or food already fully cooked may be eaten, whether the pot was left unwittingly or intentionally.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yehuda: fully heated water is permitted. It shrivels (evaporates) and deteriorates, so no one will add heat and lose more water.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Fully cooked food is forbidden, because it shrivels and improves and there is concern that he will stoke the coals.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yehuda's principle: whatever is *mitztamek ve'yafeh lo* (for example cabbage, beans and chopped meat) is forbidden; whatever is *mitztamek ve'ra lo* is permitted.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "Before or After the Decree? Rabba and Rav Yosef Left Unanswered",
+     "amud": "38a",
+     "text": {
+      "from": "38a.5",
+      "to": "38a.5"
+     },
+     "gist": "The baraita permits a pot left unwittingly. Rav Nachman bar Yitzchak can date the baraita before the decree, but Rabba and Rav Yosef face a difficulty whichever way it is dated.",
+     "bullets": [
+      {
+       "text": "The baraita permits food from a pot left unwittingly. That fits Rav Nachman bar Yitzchak: the baraita was taught before the *kenas*, and his ruling reflects the law after it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "For Rabba and Rav Yosef there is a difficulty either way. If the baraita predates the decree, its ban on the intentional case contradicts their leniency. If it came after the decree, its ruling on the unwitting case is difficult too.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "No answer is found: it is indeed difficult.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s3",
+       "note": "Tests the two readings of \"it is no different\" against the baraita"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s6",
+     "title": "The Decree: Too Many 'Forgot', So Even the Forgetful Are Penalized",
+     "amud": "38a",
+     "text": {
+      "from": "38a.6",
+      "to": "38a.6"
+     },
+     "gist": "Rav explains which decree is meant. Once many left pots on purpose and claimed they forgot, the Sages barred even one who truly forgot.",
+     "bullets": [
+      {
+       "text": "Rav Yehuda bar Shmuel, in the name of R. Abba, in the name of Rav Kahana, in the name of Rav: at first they said that one who cooks on Shabbat may eat the food if it was unwitting and not if it was intentional. The same held for one who forgot a pot on the stove.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "When those who left pots intentionally and said \"we forgot\" became many, the Sages penalized (*kenas*) the forgetful. Even one who forgot unwittingly may not eat.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "Rav's account of the decree (38a): at first only intentional cooking forbade the food. When many left pots on purpose and claimed they forgot, the Sages forbade even a pot that was truly forgotten.",
+      "svg": "<svg viewBox=\"0 0 900 400\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three stages: at first only intentional cooking forbade the food; then many left pots on purpose and claimed they forgot; so the Sages forbade even a pot that was truly forgotten.</title><rect width=\"900\" height=\"400\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"20\" width=\"280\" height=\"320\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"155\" y=\"56\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#24592E\">Initially</text><rect x=\"100\" y=\"170\" width=\"110\" height=\"60\" rx=\"4\" fill=\"#A8927A\"/><rect x=\"118\" y=\"198\" width=\"74\" height=\"24\" fill=\"#4A3A2E\"/><path d=\"M124 222 C124 208 136 214 138 202 C146 214 154 206 156 198 C164 212 186 212 186 222 Z\" fill=\"url(#fire)\"/><path d=\"M128 140 H182 V160 Q182 170 172 170 H138 Q128 170 128 160 Z\" fill=\"#5B5B5B\"/><rect x=\"124\" y=\"134\" width=\"62\" height=\"8\" rx=\"3\" fill=\"#3F3F3F\"/><text x=\"155\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Cooked unwittingly: may eat</text><text x=\"155\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Cooked intentionally: may not eat</text><text x=\"155\" y=\"306\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Forgot a pot: the same rule</text><rect x=\"310\" y=\"20\" width=\"280\" height=\"320\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"450\" y=\"56\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#9A6212\">Then</text><rect x=\"335\" y=\"72\" width=\"120\" height=\"34\" rx=\"17\" fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"395\" y=\"95\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">“We forgot!”</text><use href=\"#man\" x=\"335\" y=\"118\" width=\"60\" height=\"120\" style=\"color:#8C5A3C\"/><rect x=\"420\" y=\"170\" width=\"110\" height=\"60\" rx=\"4\" fill=\"#A8927A\"/><rect x=\"438\" y=\"198\" width=\"74\" height=\"24\" fill=\"#4A3A2E\"/><path d=\"M444 222 C444 208 456 214 458 202 C466 214 474 206 476 198 C484 212 506 212 506 222 Z\" fill=\"url(#fire)\"/><path d=\"M448 140 H502 V160 Q502 170 492 170 H458 Q448 170 448 160 Z\" fill=\"#5B5B5B\"/><rect x=\"444\" y=\"134\" width=\"62\" height=\"8\" rx=\"3\" fill=\"#3F3F3F\"/><text x=\"450\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Many left their pots on purpose</text><text x=\"450\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">and then claimed they had forgotten</text><rect x=\"605\" y=\"20\" width=\"280\" height=\"320\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"745\" y=\"56\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1B3A8A\">The decree</text><rect x=\"690\" y=\"170\" width=\"110\" height=\"60\" rx=\"4\" fill=\"#A8927A\"/><rect x=\"708\" y=\"198\" width=\"74\" height=\"24\" fill=\"#4A3A2E\"/><path d=\"M714 222 C714 208 726 214 728 202 C736 214 744 206 746 198 C754 212 776 212 776 222 Z\" fill=\"url(#fire)\"/><path d=\"M718 140 H772 V160 Q772 170 762 170 H728 Q718 170 718 160 Z\" fill=\"#5B5B5B\"/><rect x=\"714\" y=\"134\" width=\"62\" height=\"8\" rx=\"3\" fill=\"#3F3F3F\"/><path d=\"M705 118 L785 178 M785 118 L705 178\" stroke=\"#B03A2E\" stroke-width=\"6\" stroke-linecap=\"round\"/><text x=\"745\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">The Sages penalized the forgetful:</text><text x=\"745\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">even one who truly forgot</text><text x=\"745\" y=\"306\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">may not eat the food</text><path d=\"M40 362 H848\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><path d=\"M860 362 l-12 -6 v12 z\" fill=\"#C9C1B2\"/><text x=\"450\" y=\"388\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Rav, as transmitted by Rav Kahana, R. Abba and Rav Yehuda bar Shmuel (38a)</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s7",
+     "title": "R. Meir and R. Yehuda Reconciled: After the Fact, and an Unswept Stove",
+     "amud": "38a",
+     "text": {
+      "from": "38a.7",
+      "to": "38a.7"
+     },
+     "gist": "Each tanna's ruling in the baraita seems to contradict his view on *shehiyah* in the chapter's opening teaching. R. Meir is resolved by \"initially vs. after the fact\", R. Yehuda by \"a swept stove vs. an unswept one\".",
+     "bullets": [
+      {
+       "text": "In the baraita R. Meir is lenient and R. Yehuda strict. In the teaching at the chapter's start the reverse holds: R. Meir forbids *shehiyah* even for Beit Hillel, while R. Yehuda says Beit Hillel permit it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Meir: where he forbids, he means leaving food *lekhatchilah* (in the first place). Where he permits eating even food left intentionally, he means after the fact (*bedi'eved*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yehuda: where he permits, the stove is *garuf ve'katum*. Where he forbids, the stove is not swept or covered.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "R. Meir and R. Yehuda: two teachings reconciled",
+      "columns": [
+       "",
+       "Opening teaching: *shehiyah* per Beit Hillel",
+       "Baraita: forgotten pot, fully cooked",
+       "How the two fit"
+      ],
+      "rows": [
+       [
+        "R. Meir",
+        "Forbidden, even per Beit Hillel",
+        "May eat, even if left intentionally",
+        "There *lekhatchilah*; here after the fact"
+       ],
+       [
+        "R. Yehuda",
+        "Beit Hillel permit it",
+        "Water permitted; food that improves forbidden",
+        "There a stove *garuf ve'katum*; here an unswept stove"
+       ]
+      ]
+     },
+     "returns_to": [
+      {
+       "id": "s4",
+       "note": "Returns to R. Meir and R. Yehuda's baraita and sets it against the chapter's opening teaching"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "Shehiyah in Violation: Penalized? R. Yosei's Water and Eggs",
+   "amud": "38a",
+   "text": {
+    "from": "38a.8",
+    "to": "38a.9"
+   },
+   "gist": "Is one who wrongly left a pot on the stove barred from the food? A proof from R. Yosei in Tzippori is deflected, and the story shows why shriveled eggs count as food that improves.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s9",
+     "title": "Tzippori: Water Permitted, Shriveled Eggs Forbidden, but for Which Shabbat?",
+     "amud": "38a",
+     "text": {
+      "from": "38a.8",
+      "to": "38a.8"
+     },
+     "gist": "R. Yosei permitted hot water left on the stove but forbade shriveled eggs. The Gemara reads his ban as applying to the following Shabbat, so it proves nothing about a penalty.",
+     "bullets": [
+      {
+       "text": "The question: one who transgressed and left his pot on the stove. Did the Sages penalize him and forbid the food, or not?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Shmuel bar Natan, in the name of R. Chanina: when R. Yosei came to Tzippori, he found hot water left on the stove and did not forbid it. He found shriveled eggs left there and forbade them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If he forbade the eggs that same Shabbat, then food left in violation is forbidden. The Gemara deflects the proof: he forbade leaving them *lekhatchilah* on the following Shabbat, not eating them on that one.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s10",
+     "title": "Do Shriveled Eggs Improve? Rebbi's Eggs the Size of Crab Apples",
+     "amud": "38a",
+     "text": {
+      "from": "38a.9",
+      "to": "38a.9"
+     },
+     "gist": "R. Yosei's distinction implies that eggs improve as they shrivel. Rav Chama bar Chanina confirms it with a story of dining with Rebbi.",
+     "bullets": [
+      {
+       "text": "The Gemara infers that shriveled eggs are *mitztamek ve'yafeh lo*, which is why R. Yosei treated them differently from water. It confirms: yes.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Chama bar Chanina: he and Rebbi were once guests somewhere and were served eggs shriveled to the size of crab apples (*uzradin*), and they ate many of them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So eggs left on the fire raise the concern that one will stoke the coals to shrivel them further.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "R. Yosei in Tzippori permitted hot water left on the stove but forbade shriveled eggs (38a). Rav Chama bar Chanina's story of eating such eggs with Rebbi shows that eggs improve as they shrivel.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: on a stove, a kettle of hot water marked permitted and a bowl of shriveled eggs marked forbidden. Right: Rebbi and Rav Chama bar Chanina at a table with a plate of small shriveled eggs.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"420\" height=\"410\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"225\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1B3A8A\">R. Yosei in Tzippori</text><text x=\"225\" y=\"76\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">found on the stove on Shabbat</text><rect x=\"50\" y=\"230\" width=\"350\" height=\"44\" rx=\"4\" fill=\"#A8927A\"/><rect x=\"85\" y=\"246\" width=\"70\" height=\"20\" fill=\"#4A3A2E\"/><rect x=\"295\" y=\"246\" width=\"70\" height=\"20\" fill=\"#4A3A2E\"/><path d=\"M88 230 Q84 180 120 176 Q156 180 152 230 Z\" fill=\"#8A8F99\"/><path d=\"M150 204 Q172 198 178 182\" fill=\"none\" stroke=\"#8A8F99\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M100 178 Q120 150 140 178\" fill=\"none\" stroke=\"#6C717B\" stroke-width=\"5\"/><ellipse cx=\"120\" cy=\"177\" rx=\"18\" ry=\"5\" fill=\"#6C717B\"/><path d=\"M170 140 l10 12 l22 -26\" fill=\"none\" stroke=\"#2E7D4F\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M280 214 Q330 254 380 214 Z\" fill=\"#C9BFA9\"/><g fill=\"#B98A5E\"><ellipse cx=\"300\" cy=\"210\" rx=\"10\" ry=\"8\"/><ellipse cx=\"318\" cy=\"206\" rx=\"10\" ry=\"8\"/><ellipse cx=\"336\" cy=\"209\" rx=\"10\" ry=\"8\"/><ellipse cx=\"354\" cy=\"205\" rx=\"10\" ry=\"8\"/><ellipse cx=\"368\" cy=\"211\" rx=\"9\" ry=\"7\"/></g><path d=\"M350 130 L374 154 M374 130 L350 154\" stroke=\"#B03A2E\" stroke-width=\"6\" stroke-linecap=\"round\"/><text x=\"120\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Hot water: permitted</text><text x=\"330\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Shriveled eggs: forbidden</text><text x=\"330\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">for the next Shabbat</text><text x=\"225\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Water only deteriorates as it shrivels;</text><text x=\"225\" y=\"392\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">eggs improve, so one might stoke the coals</text><rect x=\"455\" y=\"15\" width=\"430\" height=\"410\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#9A6212\">Guests with Rebbi</text><text x=\"670\" y=\"76\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">as told by Rav Chama bar Chanina</text><use href=\"#sage\" x=\"490\" y=\"140\" width=\"64\" height=\"112\" style=\"color:#6A4F7A;--beard:#A8A39C;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"790\" y=\"140\" width=\"64\" height=\"112\" style=\"color:#50706E;--beard:#5A4636;--wrap:#D9CBB0\"/><rect x=\"570\" y=\"222\" width=\"200\" height=\"12\" rx=\"4\" fill=\"#8B6A4E\"/><rect x=\"582\" y=\"234\" width=\"8\" height=\"40\" fill=\"#8B6A4E\"/><rect x=\"750\" y=\"234\" width=\"8\" height=\"40\" fill=\"#8B6A4E\"/><ellipse cx=\"670\" cy=\"218\" rx=\"62\" ry=\"10\" fill=\"#F1ECE0\" stroke=\"#C9BFA9\"/><g fill=\"#B98A5E\"><ellipse cx=\"630\" cy=\"210\" rx=\"8\" ry=\"6\"/><ellipse cx=\"648\" cy=\"210\" rx=\"8\" ry=\"6\"/><ellipse cx=\"666\" cy=\"210\" rx=\"8\" ry=\"6\"/><ellipse cx=\"684\" cy=\"210\" rx=\"8\" ry=\"6\"/><ellipse cx=\"702\" cy=\"210\" rx=\"8\" ry=\"6\"/><ellipse cx=\"648\" cy=\"202\" rx=\"8\" ry=\"6\"/><ellipse cx=\"666\" cy=\"202\" rx=\"8\" ry=\"6\"/><ellipse cx=\"684\" cy=\"202\" rx=\"8\" ry=\"6\"/></g><text x=\"522\" y=\"285\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Rebbi</text><text x=\"822\" y=\"285\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Rav Chama</text><text x=\"822\" y=\"303\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">bar Chanina</text><text x=\"670\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Eggs shriveled to the size of crab apples</text><text x=\"670\" y=\"366\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#5A4A3A\">עוזרדין</text><text x=\"670\" y=\"396\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">and we ate many of them</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "title": "Chazarah on Shabbat: Even on Shabbat? In Hand or on the Ground? Intention?",
+   "amud": "38a–38b",
+   "text": {
+    "from": "38a.10",
+    "to": "38b.4"
+   },
+   "gist": "Beit Hillel's permission of chazarah covers Shabbat itself. The Gemara then asks whether the pot must still be in hand or may have been set on the ground, whether intention to return it matters, and what of in-between places.",
+   "bullets": [],
+   "chart": {
+    "caption": "Returning a pot to the stove on Shabbat. Rav Dimi and Rav Shmuel bar Yehuda each report R. Elazar with one of the first two positions.",
+    "columns": [
+     "",
+     "In hand, meant to return it",
+     "In hand, didn't mean to",
+     "On the ground, meant to return it",
+     "On the ground, didn't mean to"
+    ],
+    "rows": [
+     [
+      "R. Tadai (per R. Zerika and R. Abba)",
+      "Permitted",
+      "Permitted",
+      "Forbidden",
+      "Forbidden"
+     ],
+     [
+      "R. Yochanan (per R. Chiyya)",
+      "Permitted",
+      "Permitted",
+      "Permitted",
+      "Permitted"
+     ],
+     [
+      "Abaye, first version (per Chizkiya)",
+      "Permitted",
+      "Forbidden",
+      "Forbidden",
+      "Forbidden"
+     ],
+     [
+      "Abaye, second version",
+      "Permitted",
+      "Permitted",
+      "Permitted",
+      "Forbidden"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "Returning a pot to the stove on Shabbat (38b): R. Tadai and R. Yochanan disagree about a pot set on the ground, and Abaye's two versions weigh whether one meant to put it back.",
+    "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two scenes by a lit stove: a man still holding a pot he took off, and a man whose pot rests on the ground. Below each, the rulings of R. Tadai, R. Yochanan and Abaye's two versions.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Returning a pot to the stove on Shabbat</text><rect x=\"15\" y=\"56\" width=\"425\" height=\"340\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"460\" y=\"56\" width=\"425\" height=\"340\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"227\" y=\"90\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#24592E\">Still in his hand</text><text x=\"672\" y=\"90\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">Set down on the ground</text><path d=\"M30 262 H425 M475 262 H870\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><rect x=\"60\" y=\"200\" width=\"120\" height=\"62\" rx=\"4\" fill=\"#A8927A\"/><rect x=\"78\" y=\"228\" width=\"84\" height=\"24\" fill=\"#4A3A2E\"/><path d=\"M84 252 C84 238 96 244 98 232 C106 244 114 236 116 228 C124 242 156 242 156 252 Z\" fill=\"url(#fire)\"/><use href=\"#man\" x=\"230\" y=\"142\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><path d=\"M200 190 H250 V206 Q250 214 242 214 H208 Q200 214 200 206 Z\" fill=\"#5B5B5B\"/><rect x=\"196\" y=\"184\" width=\"58\" height=\"7\" rx=\"3\" fill=\"#3F3F3F\"/><circle cx=\"250\" cy=\"200\" r=\"5\" fill=\"#D6AE86\"/><rect x=\"505\" y=\"200\" width=\"120\" height=\"62\" rx=\"4\" fill=\"#A8927A\"/><rect x=\"523\" y=\"228\" width=\"84\" height=\"24\" fill=\"#4A3A2E\"/><path d=\"M529 252 C529 238 541 244 543 232 C551 244 559 236 561 228 C569 242 601 242 601 252 Z\" fill=\"url(#fire)\"/><use href=\"#man\" x=\"660\" y=\"142\" width=\"60\" height=\"120\" style=\"color:#8C5A3C\"/><path d=\"M735 238 H785 V254 Q785 262 777 262 H743 Q735 262 735 254 Z\" fill=\"#5B5B5B\"/><rect x=\"731\" y=\"232\" width=\"58\" height=\"7\" rx=\"3\" fill=\"#3F3F3F\"/><text x=\"227\" y=\"298\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">R. Tadai: may return it</text><text x=\"227\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">R. Yochanan: may return it</text><text x=\"227\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Abaye, 1st version: only if he meant to</text><text x=\"227\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Abaye, 2nd version: even if he didn’t</text><text x=\"672\" y=\"298\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">R. Tadai: may not return it</text><text x=\"672\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">R. Yochanan: may return it</text><text x=\"672\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Abaye, 1st version: not even if he meant to</text><text x=\"672\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Abaye, 2nd version: only if he meant to</text><text x=\"450\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Hung on a stick, set on a bed, moved to another urn? Left unresolved (teiku)</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s12",
+     "title": "Even on Shabbat Itself: Rav Sheshet, Rav Oshaya and R. Chiyya's Kettle",
+     "amud": "38a–38b",
+     "text": {
+      "from": "38a.10",
+      "to": "38b.1"
+     },
+     "gist": "Beit Hillel's \"one may even return\" applies on Shabbat itself. Rav Oshaya supports this from a kettle returned to the stove before R. Chiyya the Great.",
+     "bullets": [
+      {
+       "text": "Mishnah: Beit Hillel say one may even return (*af machazirin*) a pot to the stove. Rav Sheshet: according to this view, even on Shabbat itself.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Oshaya agrees. On Shabbat they brought R. Chiyya the Great a kettle (*kumkemos*) of hot water from the lower floor (*deyota*) to the upper floor, poured him a cup and put the kettle back on the stove, and he said nothing.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "Still in Hand vs. Set on the Ground: R. Tadai vs. R. Yochanan",
+     "amud": "38b",
+     "text": {
+      "from": "38b.2",
+      "to": "38b.3"
+     },
+     "gist": "R. Tadai allows returning a pot only while it is still in hand. R. Ami rejects him in favor of R. Yochanan, who allows it even from the ground, and two reports of R. Elazar split the same way.",
+     "bullets": [
+      {
+       "text": "R. Zerika, in the name of R. Abba, in the name of R. Tadai: one may return the pot only while it is still in his hand. Once he has set it on the ground, he has given it up and may not return it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Ami: R. Tadai acted and spoke on his own. R. Chiyya, in the name of R. Yochanan: even if he set it on the ground, he may return it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Dimi and Rav Shmuel bar Yehuda both report R. Elazar. One says \"in hand, yes; on the ground, no\". The other says even from the ground it is permitted.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s14",
+     "title": "Intending to Return It: Abaye's Two Versions",
+     "amud": "38b",
+     "text": {
+      "from": "38b.3",
+      "to": "38b.4"
+     },
+     "gist": "Chizkiya in the name of Abaye makes intention decisive, but the two versions disagree on where it matters: for a pot still in hand, or for one set on the ground.",
+     "bullets": [
+      {
+       "text": "First version: \"in hand, permitted\" holds only if he meant from the start to return it. If he decided to return it only afterwards, it is forbidden. It follows that on the ground it is forbidden even if he meant to return it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Second version: \"on the ground, forbidden\" holds only if he did not mean to return it. If he did, it is permitted. It follows that in hand it is permitted even without that intention.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "A Stick, a Bed, Another Urn: Teiku",
+     "amud": "38b",
+     "text": {
+      "from": "38b.4",
+      "to": "38b.4"
+     },
+     "gist": "R. Yirmeya and Rav Ashi ask about places that are neither the hand nor the ground, and the questions remain open.",
+     "bullets": [
+      {
+       "text": "R. Yirmeya: what if he hung the pot on a stick, neither holding it nor setting it on the ground? What if he set it on a bed?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Ashi: what if he emptied it from one urn into another?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Teiku*: the questions stand unresolved.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "title": "Mishnah: Oven and Kupach, by Fuel",
+   "amud": "38b",
+   "text": {
+    "from": "38b.5",
+    "to": "38b.9"
+   },
+   "gist": "The Mishnah sets rules for an oven and a *kupach*. The Gemara asks whether one may lean a pot on an oven, why the *kupach*'s status depends on its fuel, and what a *kupach* is compared with a *kirah*.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s17",
+     "title": "The Mishnah: Oven Always Forbidden, Kupach Depends on Its Fuel",
+     "amud": "38b",
+     "text": {
+      "from": "38b.5",
+      "to": "38b.5"
+     },
+     "gist": "An oven is forbidden even if lit with straw. A *kupach* lit with straw is like a *kirah*, and one lit with pomace or wood is like an oven.",
+     "bullets": [
+      {
+       "text": "An oven (*tanur*) lit even with straw or rakings: one may place a pot neither inside it nor atop it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A *kupach* lit with straw or rakings has the status of a *kirah* (stove). Lit with pomace (*gefet*) or wood, it has the status of an oven.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "The Mishnah's heating apparatuses (38b): the oven is forbidden whatever its fuel, and the *kupach* is like a *kirah* or like an oven depending on its fuel. The *kirah*, governed by the previous Mishnah, is the standard of comparison.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three heating apparatuses side by side: a tall oven, a small kupach with one opening, and a stove (kirah) with two openings, each with its ruling.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"16\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"154\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#5A2A12\">Oven</text><text x=\"154\" y=\"82\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"400\" fill=\"#7A4A2A\">תנור</text><path d=\"M104 290 L116 140 Q154 122 192 140 L204 290 Z\" fill=\"#B98A5E\"/><ellipse cx=\"154\" cy=\"139\" rx=\"34\" ry=\"8\" fill=\"#4A3A2E\"/><rect x=\"138\" y=\"250\" width=\"32\" height=\"40\" fill=\"#4A3A2E\"/><path d=\"M140 290 C140 276 148 280 150 268 C156 280 160 272 162 262 C166 276 170 280 170 290 Z\" fill=\"url(#fire)\"/><text x=\"154\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Lit even with straw or rakings:</text><text x=\"154\" y=\"352\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">no pot inside it</text><text x=\"154\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">and none atop it</text><rect x=\"311\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"449\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#24592E\">Kupach</text><text x=\"449\" y=\"82\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"400\" fill=\"#3C7446\">כופח</text><rect x=\"399\" y=\"210\" width=\"100\" height=\"80\" rx=\"6\" fill=\"#A8927A\"/><ellipse cx=\"449\" cy=\"212\" rx=\"28\" ry=\"7\" fill=\"#4A3A2E\"/><path d=\"M427 178 H471 V196 Q471 206 463 206 H435 Q427 206 427 196 Z\" fill=\"#5B5B5B\"/><rect x=\"423\" y=\"172\" width=\"52\" height=\"7\" rx=\"3\" fill=\"#3F3F3F\"/><rect x=\"429\" y=\"256\" width=\"40\" height=\"22\" fill=\"#4A3A2E\"/><path d=\"M433 278 C433 268 441 270 443 262 C449 270 453 264 455 258 C459 268 465 270 465 278 Z\" fill=\"url(#fire)\"/><text x=\"449\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Straw or rakings:</text><text x=\"449\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">like a kirah, a pot may go atop</text><text x=\"449\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Pomace or wood:</text><text x=\"449\" y=\"402\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">like an oven, forbidden</text><rect x=\"606\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"744\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#1B3A8A\">Kirah</text><text x=\"744\" y=\"82\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"400\" fill=\"#3A5692\">כירה</text><rect x=\"664\" y=\"210\" width=\"160\" height=\"80\" rx=\"6\" fill=\"#A8927A\"/><ellipse cx=\"704\" cy=\"212\" rx=\"26\" ry=\"7\" fill=\"#4A3A2E\"/><ellipse cx=\"784\" cy=\"212\" rx=\"26\" ry=\"7\" fill=\"#4A3A2E\"/><rect x=\"724\" y=\"256\" width=\"40\" height=\"22\" fill=\"#4A3A2E\"/><path d=\"M728 278 C728 268 736 270 738 262 C744 270 748 264 750 258 C754 268 760 270 760 278 Z\" fill=\"url(#fire)\"/><text x=\"744\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">The standard of comparison:</text><text x=\"744\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">its rules were set out</text><text x=\"744\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">in the previous Mishnah</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s18",
+     "title": "Leaning a Pot on an Oven: Rav Yosef Permits, Abaye Forbids",
+     "amud": "38b",
+     "text": {
+      "from": "38b.6",
+      "to": "38b.7"
+     },
+     "gist": "Rav Yosef reads \"inside or atop\" literally and permits leaning a pot against an oven. Abaye challenges him from the Mishnah, Rav Adda bar Ahava answers, and a baraita supports Abaye.",
+     "bullets": [
+      {
+       "text": "Rav Yosef: \"inside\" and \"atop\" mean exactly that, so one may lean a pot against an oven.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: \"a *kupach* lit with wood is like an oven\" implies that a *kupach* like a *kirah* would be permitted. If this means placing atop an unswept *kupach*, an unswept *kirah* would not be permitted either. So it must mean leaning, and leaning on an oven is forbidden.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Adda bar Ahava: the Mishnah deals with a *kupach* and an oven that are *garuf ve'katum*. \"Like an oven\" means that even swept, placing a pot atop is forbidden, whereas atop a swept *kirah* it is permitted.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A baraita supports Abaye. An oven lit with straw or rakings: one may not lean a pot against it, all the more so not place it atop or inside, and all the more so if it was lit with pomace or wood.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The same baraita: a *kupach* lit with straw or rakings may have a pot leaned against it but not placed atop it. Lit with pomace or wood, not even leaned against it.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "The baraita supporting Abaye: oven and *kupach* by fuel",
+      "columns": [
+       "",
+       "Lean a pot against it",
+       "Place a pot atop it"
+      ],
+      "rows": [
+       [
+        "Oven, lit with straw or rakings",
+        "Forbidden",
+        "Forbidden (and inside, all the more so)"
+       ],
+       [
+        "Oven, lit with pomace or wood",
+        "Forbidden",
+        "Forbidden"
+       ],
+       [
+        "*Kupach*, lit with straw or rakings",
+        "Permitted",
+        "Forbidden"
+       ],
+       [
+        "*Kupach*, lit with pomace or wood",
+        "Forbidden",
+        "Forbidden"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "Why the Kupach Depends on Fuel: Hotter Than a Kirah, Cooler Than an Oven",
+     "amud": "38b",
+     "text": {
+      "from": "38b.8",
+      "to": "38b.8"
+     },
+     "gist": "Rav Acha b. Rava asks why the *kupach* isn't simply a *kirah* or an oven. Rav Ashi explains that its heat lies between the two.",
+     "bullets": [
+      {
+       "text": "Rav Acha b. Rava to Rav Ashi: if a *kupach* is like a *kirah*, it should be permitted even with wood. If it is like an oven, it should be forbidden even with straw.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Ashi: it is intermediate. Its heat is greater than a *kirah*'s and less than an oven's.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s20",
+     "title": "Kupach vs. Kirah: One Pot or Two, Split Lengthwise or Widthwise",
+     "amud": "38b",
+     "text": {
+      "from": "38b.9",
+      "to": "38b.9"
+     },
+     "gist": "R. Yosei bar Chanina: a *kupach* holds one pot, a *kirah* two. A mishnah on purity confirms it through the case of a broken stove.",
+     "bullets": [
+      {
+       "text": "R. Yosei bar Chanina: a *kupach* is like a *kirah* but has room for only one pot. A *kirah* is like a double *kupach*, with room for two.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye (some say R. Yirmeya): so we learned about purity. An impure *kirah* split lengthwise becomes pure, being a broken vessel. Split widthwise, it remains impure, since it has become two small stoves.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A *kupach* split either way is pure: no room remains for even one pot.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "The purity mishnah Abaye cites (38b), seen from above: a *kirah* split widthwise becomes two small stoves and stays impure, while any split of a *kupach*, which holds a single pot, leaves no usable vessel.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Top-down views: a two-holed kirah split lengthwise through both holes (pure), the same kirah split widthwise between the holes (impure, two small stoves), and a one-holed kupach split both ways (pure).</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">Kirah and kupach: split lengthwise or widthwise</text><rect x=\"16\" y=\"56\" width=\"277\" height=\"300\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"154\" y=\"88\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1B3A8A\">Kirah split lengthwise</text><rect x=\"64\" y=\"120\" width=\"180\" height=\"90\" rx=\"8\" fill=\"#A8927A\"/><circle cx=\"109\" cy=\"165\" r=\"26\" fill=\"#4A3A2E\"/><circle cx=\"199\" cy=\"165\" r=\"26\" fill=\"#4A3A2E\"/><path d=\"M50 165 H258\" stroke=\"#B03A2E\" stroke-width=\"4\" stroke-dasharray=\"10 7\"/><text x=\"154\" y=\"256\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#24592E\">Pure</text><text x=\"154\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">a broken vessel</text><rect x=\"311\" y=\"56\" width=\"277\" height=\"300\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"449\" y=\"88\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#9A6212\">Kirah split widthwise</text><rect x=\"359\" y=\"120\" width=\"180\" height=\"90\" rx=\"8\" fill=\"#A8927A\"/><circle cx=\"404\" cy=\"165\" r=\"26\" fill=\"#4A3A2E\"/><circle cx=\"494\" cy=\"165\" r=\"26\" fill=\"#4A3A2E\"/><path d=\"M449 108 V222\" stroke=\"#B03A2E\" stroke-width=\"4\" stroke-dasharray=\"10 7\"/><text x=\"449\" y=\"256\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#8A2E2E\">Impure</text><text x=\"449\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">it becomes two small stoves</text><rect x=\"606\" y=\"56\" width=\"277\" height=\"300\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"744\" y=\"88\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#24592E\">Kupach split either way</text><rect x=\"699\" y=\"120\" width=\"90\" height=\"90\" rx=\"8\" fill=\"#A8927A\"/><circle cx=\"744\" cy=\"165\" r=\"26\" fill=\"#4A3A2E\"/><path d=\"M686 165 H802 M744 108 V222\" stroke=\"#B03A2E\" stroke-width=\"4\" stroke-dasharray=\"10 7\"/><text x=\"744\" y=\"256\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#24592E\">Pure</text><text x=\"744\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">no room left for even one pot</text><text x=\"450\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">R. Yosei bar Chanina: a kupach holds one pot; a kirah is like a double kupach</text><text x=\"450\" y=\"406\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Abaye (some say R. Yirmeya): as taught in a mishnah on purity</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s21",
+   "title": "Mishnah: Egg by the Urn, Sun-Heated Cloths and Sand, the Tiberias Pipe",
+   "amud": "38b → 39a",
+   "text": {
+    "from": "38b.10",
+    "to": "38b.12"
+   },
+   "gist": "Heating by means other than direct fire: an egg by an urn, in cloths or in sand, and the Tiberias hot-spring pipe. The Gemara opens with Rav Yosef's ruling that a roasted egg incurs a *chatat*.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The Mishnah's cases of heating without a direct fire (38b): an egg beside the urn, in sun-heated cloths (where R. Yosei permits) and in sun-heated sand, and the Tiberias pipe run through the hot-spring channel.",
+    "svg": "<svg viewBox=\"0 0 900 520\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Top row: an egg next to a hot urn, an egg wrapped in cloths under the sun, an egg buried in sun-heated sand. Bottom: a cold-water pipe running through a channel of hot spring water in Tiberias, with the rulings for Shabbat and for a Festival.</title><rect width=\"900\" height=\"520\" fill=\"#FBF8F1\"/><rect x=\"16\" y=\"16\" width=\"277\" height=\"236\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"154\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#5A2A12\">Next to the urn</text><path d=\"M130 96 q-8 -12 0 -24 M150 96 q8 -12 0 -24\" fill=\"none\" stroke=\"#B9A89A\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M104 190 Q96 120 140 110 Q184 120 176 190 Z\" fill=\"#8A8F99\"/><ellipse cx=\"140\" cy=\"110\" rx=\"22\" ry=\"6\" fill=\"#6C717B\"/><path d=\"M40 190 H270\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><ellipse cx=\"204\" cy=\"175\" rx=\"12\" ry=\"15\" fill=\"#F4EAD8\" stroke=\"#C9B89A\" stroke-width=\"2\"/><text x=\"154\" y=\"222\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8A2E2E\">Forbidden</text><rect x=\"311\" y=\"16\" width=\"277\" height=\"236\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"449\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">In sun-heated cloths</text><circle cx=\"530\" cy=\"88\" r=\"20\" fill=\"#F3C54A\"/><ellipse cx=\"449\" cy=\"138\" rx=\"11\" ry=\"13\" fill=\"#F4EAD8\" stroke=\"#C9B89A\" stroke-width=\"2\"/><ellipse cx=\"449\" cy=\"162\" rx=\"62\" ry=\"28\" fill=\"#C7B8D8\"/><path d=\"M400 156 q49 -20 98 0\" fill=\"none\" stroke=\"#A898BC\" stroke-width=\"3\"/><text x=\"449\" y=\"214\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8A2E2E\">First tanna: forbidden</text><text x=\"449\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">R. Yosei: permitted</text><rect x=\"606\" y=\"16\" width=\"277\" height=\"236\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"744\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#24592E\">In sun-heated sand or dust</text><circle cx=\"830\" cy=\"88\" r=\"20\" fill=\"#F3C54A\"/><ellipse cx=\"744\" cy=\"158\" rx=\"12\" ry=\"15\" fill=\"#F4EAD8\" stroke=\"#C9B89A\" stroke-width=\"2\"/><path d=\"M660 192 Q744 132 828 192 Z\" fill=\"#E2C98E\"/><text x=\"744\" y=\"222\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8A2E2E\">Forbidden</text><rect x=\"16\" y=\"268\" width=\"868\" height=\"236\" rx=\"14\" fill=\"#EEF2F4\"/><text x=\"450\" y=\"298\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\">Tiberias: a cold-water pipe through the hot-spring channel</text><path d=\"M120 338 q-6 -8 0 -16 M240 338 q-6 -8 0 -16 M360 338 q-6 -8 0 -16 M480 338 q-6 -8 0 -16\" fill=\"none\" stroke=\"#C9B0A0\" stroke-width=\"3\" stroke-linecap=\"round\"/><rect x=\"50\" y=\"345\" width=\"530\" height=\"50\" rx=\"8\" fill=\"#E8A07A\"/><rect x=\"30\" y=\"363\" width=\"570\" height=\"14\" rx=\"7\" fill=\"#7F8C99\"/><text x=\"315\" y=\"422\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#7A4A2A\">hot-spring channel</text><text x=\"315\" y=\"444\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">cold-water pipe (silon) running through it</text><text x=\"315\" y=\"474\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#5A4A3A\">סילון</text><text x=\"640\" y=\"350\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">On Shabbat:</text><text x=\"640\" y=\"372\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">forbidden for bathing</text><text x=\"640\" y=\"392\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">and for drinking</text><text x=\"640\" y=\"428\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">On a Festival:</text><text x=\"640\" y=\"450\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">forbidden for bathing,</text><text x=\"640\" y=\"470\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">permitted for drinking</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s22",
+     "title": "Egg Beside the Urn, in Cloths, in Sand: R. Yosei Permits Only Cloths",
+     "amud": "38b",
+     "text": {
+      "from": "38b.10",
+      "to": "38b.10"
+     },
+     "gist": "One may not roast an egg beside an urn or in sun-heated sand or dust. On wrapping it in cloths, R. Yosei permits against the first tanna.",
+     "bullets": [
+      {
+       "text": "One may not place an egg beside an urn so that it roasts slightly.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Nor may one wrap it in cloths to heat it. R. Yosei permits this.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Nor may one bury it in sand or road dust heated by the sun so that it roasts.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s23",
+     "title": "The Tiberias Pipe: Shabbat vs. Festival, Bathing vs. Drinking",
+     "amud": "38b",
+     "text": {
+      "from": "38b.11",
+      "to": "38b.11"
+     },
+     "gist": "Water piped through the hot-spring channel counts as water heated on that day. On Shabbat it is forbidden for bathing and drinking; on a Festival only for bathing.",
+     "bullets": [
+      {
+       "text": "The people of Tiberias ran a cold-water pipe (*silon*) through a channel of hot-spring water.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Sages: water that passed through on Shabbat is like hot water heated on Shabbat, forbidden both for bathing and for drinking.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "On a Festival it is forbidden for bathing but permitted for drinking.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s24",
+     "title": "Egg Roasted by the Urn: Rav Yosef Says Chatat",
+     "amud": "38b → 39a",
+     "text": {
+      "from": "38b.12",
+      "to": "38b.12"
+     },
+     "gist": "One who did roast an egg beside the urn is liable to a *chatat*, says Rav Yosef, and Mar b. Ravina begins a supporting proof from a mishnah.",
+     "bullets": [
+      {
+       "text": "The question: one who went ahead and roasted an egg beside an urn. What is the ruling?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yosef: he is liable to a *chatat*, having performed the Torah-level act of cooking on Shabbat.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Mar b. Ravina: we also learned this in a mishnah (the citation continues on 39a).",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "continues": "Continues on 39a: Mar b. Ravina's proof from the mishnah on salted fish and *kolyas ha'ispanin*, then R. Yosei and the Rabbis on sun-heated cloths and sand."
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "shehiyah",
+   "hebrew": "שהייה",
+   "sense": "leaving food on a heat source into Shabbat",
+   "definition": "Leaving a pot on a stove or other heat source from before Shabbat so that it stays there during Shabbat. The Sages restricted it out of concern that one will stoke the coals.",
+   "on_this_daf": "The Gemara asks what happens after the fact to food from a pot forgotten or wrongly left on the stove, and reconciles R. Meir's and R. Yehuda's views on shehiyah.",
+   "aliases": [
+    "shehiyah",
+    "Shehiyah"
+   ],
+   "sections": [
+    "s1",
+    "s7",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "term": "chazarah",
+   "hebrew": "חזרה",
+   "sense": "returning a pot to the heat on Shabbat",
+   "definition": "Putting a pot of cooked food back on a stove on Shabbat after it was removed. It is more restricted than leaving a pot in place, because it looks like placing food on the fire anew.",
+   "on_this_daf": "Beit Hillel's permission to return a pot applies on Shabbat itself. The amora'im debate whether the pot must still be in hand and whether one must have meant to return it.",
+   "aliases": [
+    "chazarah",
+    "Chazarah"
+   ],
+   "sections": [
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s15"
+   ]
+  },
+  {
+   "term": "mitztamek ve'yafeh lo",
+   "hebrew": "מצטמק ויפה לו",
+   "sense": "food that improves as it shrivels on the fire",
+   "definition": "Food that gets better the longer it cooks and shrinks, as opposed to food that deteriorates as it shrivels (mitztamek ve'ra lo). Leaving improving food on the fire raises the concern that one will stoke the coals.",
+   "on_this_daf": "R. Yehuda forbids fully cooked food that improves but permits water that deteriorates. Shriveled eggs are shown to improve from Rav Chama bar Chanina's story of dining with Rebbi.",
+   "aliases": [
+    "mitztamek ve'yafeh lo",
+    "mitztamek ve'ra lo"
+   ],
+   "sections": [
+    "s4",
+    "s9",
+    "s10"
+   ]
+  },
+  {
+   "term": "garuf ve'katum",
+   "hebrew": "גרוף וקטום",
+   "sense": "a stove swept of coals or covered with ash",
+   "definition": "A stove whose coals have been swept out or covered with ashes, reducing its heat. This removes the concern of stoking the coals, and so allows food to be left on it for Shabbat.",
+   "on_this_daf": "R. Yehuda's two rulings are reconciled by whether the stove was swept. Rav Adda bar Ahava reads the Mishnah as dealing with a swept oven and *kupach*.",
+   "aliases": [
+    "garuf ve'katum"
+   ],
+   "sections": [
+    "s7",
+    "s18"
+   ]
+  },
+  {
+   "term": "kupach",
+   "hebrew": "כופח",
+   "sense": "a small single-pot stove",
+   "definition": "A small stove with room for only one pot. Its heat is greater than that of an ordinary two-pot stove (kirah) and less than that of an oven.",
+   "on_this_daf": "The Mishnah gives it the status of a kirah or of an oven depending on its fuel, and the Gemara explains its intermediate heat and its form.",
+   "aliases": [
+    "Kupach",
+    "kupach"
+   ],
+   "sections": [
+    "s16",
+    "s17",
+    "s18",
+    "s19",
+    "s20"
+   ]
+  },
+  {
+   "term": "kenas",
+   "hebrew": "קנס",
+   "sense": "a rabbinic penalty to deter abuse",
+   "definition": "A penalty the Sages impose to prevent people from exploiting a leniency, sometimes reaching even those who acted innocently.",
+   "on_this_daf": "Because many left pots on purpose and claimed they forgot, the Sages forbade food even from a pot that was truly forgotten on the stove.",
+   "aliases": [
+    "kenas"
+   ],
+   "sections": [
+    "s3",
+    "s5",
+    "s6"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The question about one who wrongly left a pot (R. Yosei in Tzippori) could be the last child of the forgotten-pot section, since it also asks about a penalty. Made it its own top-level section because it concerns deliberate violation rather than forgetting, and it leads into the separate matter of shriveled eggs.",
+  "The explanation of the decree (s6) could nest under the before-or-after-the-decree section (s5), which it explains. Kept as a sibling because the Gemara opens it as a new question (\"with regard to the matter itself\").",
+  "The reconciliation of R. Meir and R. Yehuda (s7) could sit under the baraita (s4). Kept in text order after the decree discussion, with a returns_to link.",
+  "The chazarah chart and illustration are on the parent (s11) rather than on s13 or s14, because they combine R. Tadai / R. Yochanan with Abaye's versions.",
+  "Rav Yosef's ruling on the roasted egg (s24) could open a new top-level section, since it continues on 39a. Kept under the Mishnah it interprets."
+ ],
+ "coverage_notes": [
+  "No shiur for this daf; the entire outline is built from the Gemara text. The previous daf's essay tail ends with Rav Nachman's classification of foods (37b.8) and does not cover the question to R. Chiyya bar Abba.",
+  "Scope starts at 37b.9, where the question to R. Chiyya bar Abba begins; 38a opens mid-question.",
+  "The Sefaria translation calls the same source a baraita at 38a.3 and a Tosefta at 38a.7. The outline calls it a baraita throughout.",
+  "In the Sefaria translation the teller of the eggs story is \"Rav Chama bar Chanina\"; the outline follows that form.",
+  "The Mishnah discussions on sun-heated cloths and sand, and Mar b. Ravina's proof, continue on 39a and are outlined only as far as this daf goes."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s21",
+    "subject": "The Mishnah's egg and Tiberias cases by ruling",
+    "why_not": "The illustration already distills the cases with their rulings, and the bullets are short; a chart would duplicate both."
+   },
+   {
+    "section": "s9",
+    "subject": "R. Yosei in Tzippori: water vs. eggs",
+    "why_not": "Two items on one dimension; the bullets and the eggs illustration cover it."
+   },
+   {
+    "section": "s20",
+    "subject": "Kirah vs. kupach when split lengthwise or widthwise",
+    "why_not": "Spatial by nature, so the illustration shows it better than a grid."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s12",
+    "subject": "R. Chiyya the Great's kettle carried from the lower floor and returned to the stove",
+    "why_not": "A single anecdote that adds nothing beyond the chazarah scene already drawn."
+   },
+   {
+    "section": "s18",
+    "subject": "A pot leaned against an oven vs. placed atop it",
+    "why_not": "The baraita chart already sets out lean and atop by apparatus and fuel; the Mishnah illustration shows the apparatuses."
+   },
+   {
+    "section": "s15",
+    "subject": "R. Yirmeya's stick and bed and Rav Ashi's two urns",
+    "why_not": "Unresolved questions noted in the chazarah illustration's footer; a separate picture would add little."
+   }
+  ]
+ }
+}

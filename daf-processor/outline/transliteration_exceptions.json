@@ -1,0 +1,8 @@
+{
+  "_note": "Conventional spellings that override the transliteration rules (transliteration.md). Author-maintained; add entries as they come up. 'use' is the spelling to write; 'not' lists rule-generated or common variants a local check can flag or fix.",
+  "terms": [
+    {"use": "halakha", "not": ["halakhah", "halacha", "halachah"], "why": "author: conventional spelling"}
+  ],
+  "tractate_names": "as in AnyDaf/Tractate.swift",
+  "sage_names": "common English usage"
+}

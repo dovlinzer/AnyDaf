@@ -1,0 +1,148 @@
+{
+ "key": "yevamot_33",
+ "tractate": "Yevamot",
+ "sages": [
+  {
+   "name": "רבי יוסי",
+   "candidates": [
+    "rabbi-yose-b-chalafta",
+    "rabbi-yose-b-zevida"
+   ],
+   "lines": [
+    "33a.1",
+    "33a.4",
+    "33a.7",
+    "33a.9",
+    "33b.3",
+    "33b.4",
+    "33b.6"
+   ],
+   "count": 7,
+   "first": "33a.1",
+   "ambiguous": true,
+   "pick": "rabbi-yose-b-chalafta",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי חייא",
+   "candidates": [
+    "rabbi-chiyya"
+   ],
+   "lines": [
+    "33a.1",
+    "33a.4",
+    "33a.7",
+    "33a.8",
+    "33a.9",
+    "33a.10",
+    "33b.11"
+   ],
+   "count": 7,
+   "first": "33a.1",
+   "ambiguous": false,
+   "pick": "rabbi-chiyya",
+   "pick_by": "only"
+  },
+  {
+   "name": "בר קפרא",
+   "candidates": [
+    "bar-kappara"
+   ],
+   "lines": [
+    "33a.1",
+    "33a.4",
+    "33a.7",
+    "33a.8",
+    "33a.9",
+    "33b.1",
+    "33b.4"
+   ],
+   "count": 7,
+   "first": "33a.1",
+   "ambiguous": false,
+   "pick": "bar-kappara",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי שמעון",
+   "candidates": [
+    "shimon-bar-yochai"
+   ],
+   "lines": [
+    "33a.7",
+    "33a.8",
+    "33a.9",
+    "33b.1",
+    "33b.3",
+    "33b.4"
+   ],
+   "count": 6,
+   "first": "33a.7",
+   "ambiguous": false,
+   "pick": "shimon-bar-yochai",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "33b.7",
+    "33b.8",
+    "33b.11",
+    "34a.2"
+   ],
+   "count": 4,
+   "first": "33b.7",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי מאיר",
+   "candidates": [
+    "rabbi-meir"
+   ],
+   "lines": [
+    "34a.2",
+    "34a.4",
+    "34a.5"
+   ],
+   "count": 3,
+   "first": "34a.2",
+   "ambiguous": false,
+   "pick": "rabbi-meir",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יהושע",
+   "candidates": [
+    "rabbi-yehoshua-b-hananyah"
+   ],
+   "lines": [
+    "34a.5",
+    "34a.6"
+   ],
+   "count": 2,
+   "first": "34a.5",
+   "ambiguous": false,
+   "pick": "rabbi-yehoshua-b-hananyah",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אליעזר",
+   "candidates": [
+    "rabbi-eliezer-b-hyrcanus"
+   ],
+   "lines": [
+    "34a.5"
+   ],
+   "count": 1,
+   "first": "34a.5",
+   "ambiguous": false,
+   "pick": "rabbi-eliezer-b-hyrcanus",
+   "pick_by": "only"
+  }
+ ]
+}

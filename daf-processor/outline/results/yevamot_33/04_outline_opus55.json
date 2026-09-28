@@ -1,0 +1,596 @@
+{
+ "daf": "Yevamot 33",
+ "scope": {
+  "start": "33a: 'With regard to what principle do they disagree?', the Gemara's analysis of the three disputes between R. Chiyya and bar Kappara recorded on 32b",
+  "end": "33b: the Gemara on the Mishnah of the switched wives concludes that they were switched inadvertently (*huchlafu*)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "R. Chiyya vs. Bar Kappara: What Divides Them?",
+   "amud": "33a–33b",
+   "gist": "Each swore to an opposite ruling from Rebbi in three cases. The Gemara tries three ways of framing their dispute, and a baraita then refutes bar Kappara.",
+   "bullets": [
+    {
+     "text": "Background (32b): R. Chiyya and bar Kappara disagree about three cases. A *zar* who served on Shabbat. A *ba'al mum* who served while *tamei*, in a public offering that overrides *tumah*. A *zar* who ate a bird sin-offering killed by *melikah*. R. Chiyya says two counts and bar Kappara says one, and each swore he heard his ruling from Rebbi (R. Yehuda HaNasi).",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "All three cases turn on *issur chal al issur*: can a second prohibition take effect on something that is already forbidden?",
+     "detail": 2,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "Three attempts to pin down the dispute",
+    "columns": [
+     "",
+     "Proposed dispute",
+     "Difficulty",
+     "Outcome"
+    ],
+    "rows": [
+     [
+      "First attempt",
+      "*Issur kolel*, according to R. Yosei",
+      "The *melikah* case has no earlier prohibition",
+      "Rejected"
+     ],
+     [
+      "Second attempt",
+      "*Issur bevat achat*, according to R. Yosei",
+      "Bar Kappara could not account for R. Chiyya's oath",
+      "Rejected"
+     ],
+     [
+      "Third attempt",
+      "*Issur bevat achat*, according to R. Shimon",
+      "Why did bar Kappara need to swear? (*kashya*)",
+      "R. Chiyya can explain bar Kappara's error; a baraita then refutes bar Kappara"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "First Attempt: Issur Kolel According to R. Yosei",
+     "amud": "33a",
+     "gist": "The first two cases fit a broader prohibition added onto an existing one, but in the *melikah* case both prohibitions arise at once, so this framing fails.",
+     "bullets": [
+      {
+       "text": "Proposal: they dispute *issur kolel* according to R. Yosei. R. Chiyya says R. Yosei holds two counts; bar Kappara says R. Yosei holds one.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Zar* on Shabbat: before Shabbat he was barred from the service but free to do labor. Shabbat bars labor everywhere, so it adds a prohibition to his service as well.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Ba'al mum* who became *tamei*: he could eat *kodashim* but was barred from the service. *Tumah* bars him from eating *kodashim*, so it also bars him from the service.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Melikah*: the ban on a *zar* eating *kodashim* and the ban on an unslaughtered carcass take effect together. There is no earlier prohibition, so there is no *issur kolel* here. The proposal is rejected.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *melikah* case cannot be sequential. The moment the neck is pinched, the bird becomes a *korban* forbidden to non-*kohanim* and also meat that is forbidden as unslaughtered.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The Gemara's first attempt (33a): in the first two cases one prohibition already exists and a broader one is added later, but in the *melikah* case both prohibitions begin at the same moment.",
+      "svg": "<svg viewBox=\"0 0 900 470\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three timelines. For the zar serving on Shabbat and the blemished priest who became impure, the first prohibition runs from earlier and the second begins later. For the zar eating a melikah bird, both prohibitions begin at the same moment.</title><rect width=\"900\" height=\"470\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Did one prohibition come first?</text><text x=\"450\" y=\"64\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#5B6478\">איסור כולל · איסור בבת אחת</text><rect x=\"15\" y=\"80\" width=\"870\" height=\"100\" rx=\"12\" fill=\"#E3EAF3\"/><text x=\"32\" y=\"108\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">Zar serves</text><text x=\"32\" y=\"128\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">on Shabbat</text><text x=\"32\" y=\"156\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Issur kolel</text><rect x=\"250\" y=\"94\" width=\"620\" height=\"28\" rx=\"14\" fill=\"#1B3A8A\"/><text x=\"264\" y=\"113\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Barred from the service as a zar</text><rect x=\"560\" y=\"136\" width=\"310\" height=\"28\" rx=\"14\" fill=\"#9A6212\"/><text x=\"574\" y=\"155\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Shabbat: labor barred everywhere</text><rect x=\"15\" y=\"190\" width=\"870\" height=\"100\" rx=\"12\" fill=\"#F3E6D8\"/><text x=\"32\" y=\"218\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">Ba’al mum serves</text><text x=\"32\" y=\"238\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">while tamei</text><text x=\"32\" y=\"266\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Issur kolel</text><rect x=\"250\" y=\"204\" width=\"620\" height=\"28\" rx=\"14\" fill=\"#1B3A8A\"/><text x=\"264\" y=\"223\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Barred from the service as a ba’al mum</text><rect x=\"560\" y=\"246\" width=\"310\" height=\"28\" rx=\"14\" fill=\"#9A6212\"/><text x=\"574\" y=\"265\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Tumah: barred from kodashim</text><rect x=\"15\" y=\"300\" width=\"870\" height=\"100\" rx=\"12\" fill=\"#E4EFE4\"/><text x=\"32\" y=\"328\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Zar eats a</text><text x=\"32\" y=\"348\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">melikah bird</text><text x=\"32\" y=\"376\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Issur bevat achat</text><rect x=\"560\" y=\"314\" width=\"310\" height=\"28\" rx=\"14\" fill=\"#1B3A8A\"/><text x=\"574\" y=\"333\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Kodashim: forbidden to a zar</text><rect x=\"560\" y=\"356\" width=\"310\" height=\"28\" rx=\"14\" fill=\"#9A6212\"/><text x=\"574\" y=\"375\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Unslaughtered: forbidden to all</text><line x1=\"560\" y1=\"306\" x2=\"560\" y2=\"394\" stroke=\"#24592E\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"546\" y=\"344\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">the moment of melikah:</text><text x=\"546\" y=\"364\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#24592E\">both begin together</text><line x1=\"250\" y1=\"428\" x2=\"850\" y2=\"428\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><path d=\"M860 428 l-10 -6 v12 z\" fill=\"#C9C1B2\"/><text x=\"250\" y=\"452\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">earlier</text><text x=\"860\" y=\"452\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">later</text><text x=\"32\" y=\"452\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Yevamot 33a</text></svg>"
+     },
+     "children": [],
+     "text": {
+      "from": "33a.1",
+      "to": "33a.3"
+     }
+    },
+    {
+     "id": "s3",
+     "title": "Second Attempt: Simultaneous Prohibitions According to R. Yosei",
+     "amud": "33a",
+     "gist": "The dispute is recast as *issur bevat achat* according to R. Yosei. The first two cases can be made simultaneous, but the two oaths then leave bar Kappara calling R. Chiyya a liar.",
+     "bullets": [
+      {
+       "text": "New proposal: they dispute *issur bevat achat* according to R. Yosei. R. Chiyya says R. Yosei holds two counts when the prohibitions arise together; bar Kappara says one.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [
+      {
+       "id": "s4",
+       "title": "Making the First Two Cases Simultaneous",
+       "amud": "33a",
+       "gist": "In the first two cases the prohibitions came one after the other, so the Gemara constructs scenarios in which both arrive at the same instant.",
+       "bullets": [
+        {
+         "text": "Challenge: in the *zar* and *ba'al mum* cases the prohibitions came in sequence, not together.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "*Zar* on Shabbat: a minor grew two pubic hairs on Shabbat. Until then he was not liable, so the ban on a *zar* serving and the ban on desecrating Shabbat fell on him together.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "*Ba'al mum*: a blemished minor grew two hairs and was immediately rendered *tamei*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Alternatively, he cut off his finger with a *tamei* knife, which made him blemished and *tamei* at the same moment.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "These are not the plain sense of the cases, which seem to raise general questions of *issur chal al issur*. The point is to engineer all three cases into simultaneity, so that the whole dispute can be framed as one about *bevat achat*.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "The Gemara's constructions on 33a, which make the prohibitions in the first two cases arrive together: a minor who comes of age on Shabbat, a blemished minor who comes of age and at once becomes *tamei*, or one who cuts off his finger with a *tamei* knife.",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three panels. A young man comes of age on Shabbat beside Shabbat candles. A blemished young man comes of age and becomes impure at once. A man cuts his finger with an impure knife, becoming blemished and impure together.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"16\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"311\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"606\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"154\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">Zar and Shabbat</text><text x=\"449\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">Ba’al mum and tumah</text><text x=\"744\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#24592E\">Or: the tamei knife</text><text x=\"154\" y=\"80\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#5B6478\">הביא שתי שערות</text><text x=\"449\" y=\"80\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#5B6478\">הביא שתי שערות</text><text x=\"744\" y=\"80\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#5B6478\">שחתך אצבעו בסכין טמאה</text><use href=\"#man\" x=\"104\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><rect x=\"198\" y=\"244\" width=\"44\" height=\"6\" fill=\"#9A7440\"/><rect x=\"206\" y=\"204\" width=\"8\" height=\"40\" fill=\"#F1ECE0\" stroke=\"#C9BFA9\"/><rect x=\"226\" y=\"204\" width=\"8\" height=\"40\" fill=\"#F1ECE0\" stroke=\"#C9BFA9\"/><path d=\"M210 202 q-6 -8 0 -18 q6 10 0 18z\" fill=\"url(#fire)\"/><path d=\"M230 202 q-6 -8 0 -18 q6 10 0 18z\" fill=\"url(#fire)\"/><text x=\"220\" y=\"270\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Shabbat</text><use href=\"#man\" x=\"419\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#8C5A3C\"/><rect x=\"327\" y=\"160\" width=\"86\" height=\"26\" rx=\"13\" fill=\"#9A6212\"/><text x=\"370\" y=\"178\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">ba’al mum</text><rect x=\"486\" y=\"160\" width=\"86\" height=\"26\" rx=\"13\" fill=\"#5B6478\"/><text x=\"529\" y=\"178\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">tamei</text><use href=\"#man\" x=\"714\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#50706E\"/><path d=\"M772 214 L814 204 L816 212 L774 220 Z\" fill=\"#B8BCC4\" stroke=\"#8A8F98\"/><rect x=\"814\" y=\"202\" width=\"28\" height=\"12\" rx=\"3\" fill=\"#6E5B46\"/><circle cx=\"770\" cy=\"226\" r=\"4\" fill=\"#B03A2E\"/><text x=\"828\" y=\"192\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">tamei knife</text><text x=\"154\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">A minor grows two</text><text x=\"154\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">pubic hairs</text><text x=\"154\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">on Shabbat</text><text x=\"449\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">A blemished minor grows</text><text x=\"449\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">two hairs and at once</text><text x=\"449\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">becomes tamei</text><text x=\"744\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">He cuts off his finger</text><text x=\"744\" y=\"320\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">with a tamei knife</text><rect x=\"44\" y=\"372\" width=\"221\" height=\"32\" rx=\"16\" fill=\"#1B3A8A\"/><text x=\"154\" y=\"393\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">zar and Shabbat together</text><rect x=\"339\" y=\"372\" width=\"221\" height=\"32\" rx=\"16\" fill=\"#9A6212\"/><text x=\"449\" y=\"393\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">ba’al mum and tumah together</text><rect x=\"634\" y=\"372\" width=\"221\" height=\"32\" rx=\"16\" fill=\"#24592E\"/><text x=\"744\" y=\"393\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">blemish and tumah at once</text></svg>"
+       },
+       "children": [],
+       "text": {
+        "from": "33a.5",
+        "to": "33a.6"
+       }
+      },
+      {
+       "id": "s5",
+       "title": "The Oaths: Did Rebbi Teach Each a Different Tanna?",
+       "amud": "33a",
+       "gist": "R. Chiyya can explain bar Kappara's oath as a report of R. Shimon's view, but bar Kappara has no way to explain R. Chiyya's oath.",
+       "bullets": [
+        {
+         "text": "For R. Chiyya: Rebbi taught him according to R. Yosei, who holds that both prohibitions can take effect, and taught bar Kappara according to R. Shimon, who holds that a prohibition never takes effect where another exists. Bar Kappara reported accurately but did not realize the ruling was not R. Yosei's.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "For bar Kappara, however, R. Yosei himself holds one count in simultaneous cases, so no teaching of Rebbi's said two. Would R. Chiyya swear to words Rebbi never said?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The Gemara will not say that Rebbi changed his mind or that either sage lied under oath. A workable reading has to let each sage account for the other's testimony.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "text": {
+        "from": "33a.7",
+        "to": "33a.7"
+       }
+      }
+     ],
+     "text": {
+      "from": "33a.4",
+      "to": "33a.7"
+     }
+    },
+    {
+     "id": "s6",
+     "title": "Third Attempt: Does R. Shimon Concede Simultaneous Prohibitions?",
+     "amud": "33a–33b",
+     "gist": "Both sages are now taken to be reporting R. Shimon's view: does his rule that no prohibition takes effect on another give way when both arise together?",
+     "bullets": [
+      {
+       "text": "Proposal: they dispute simultaneous prohibitions according to R. Shimon. Perhaps he concedes that when two prohibitions arise together, both take effect.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "In a *bevat achat* case there is no first prohibition for the second to be laid upon, so even R. Shimon might concede.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": [
+      {
+       "id": "s7",
+       "title": "Why Did Bar Kappara Swear?",
+       "amud": "33a",
+       "gist": "R. Chiyya's oath makes sense as a new claim about R. Shimon, but bar Kappara only restated R. Shimon's known view. The difficulty stands.",
+       "bullets": [
+        {
+         "text": "R. Chiyya swore to rule out the default understanding of R. Shimon: in simultaneous cases, R. Shimon concedes two counts.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Bar Kappara's ruling simply matches R. Shimon's known position, so why did he need an oath? *Kashya*: the difficulty stands.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "text": {
+        "from": "33a.8",
+        "to": "33a.8"
+       }
+      },
+      {
+       "id": "s8",
+       "title": "Was Bar Kappara Lying? How He Merged the Melikah Case",
+       "amud": "33a–33b",
+       "gist": "R. Chiyya explains that Rebbi taught bar Kappara only the two sequential exemptions, and bar Kappara added the *melikah* case and wrongly generalized to simultaneous prohibitions.",
+       "bullets": [
+        {
+         "text": "For bar Kappara: Rebbi taught him according to R. Shimon, who holds one count even for simultaneous prohibitions, and taught R. Chiyya according to R. Yosei. R. Chiyya mistook which view he had heard.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "For R. Chiyya: R. Shimon concedes two counts in simultaneous cases, so bar Kappara's 'one count' fits neither R. Shimon nor R. Yosei. Was bar Kappara lying?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: Rebbi taught bar Kappara two exemptions, the *zar* on Shabbat and the *ba'al mum* while *tamei*. Both are *issur kolel*, where R. Shimon rules one count, since he accepts a second prohibition only when the two arise together.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Bar Kappara then saw the *melikah* case and, since it was similar, mixed it in with the other two. Later it seemed to him that he had heard all three from Rebbi.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The *melikah* case can occur only with simultaneous prohibitions, so he concluded that all three cases were simultaneous and that Rebbi's exemption covered simultaneous prohibitions. He merged cases in error; he did not knowingly lie.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Three ways a prohibition can take hold on another: *issur mosif* extends the prohibition to more people; *issur kolel* widens it to more items, sweeping this one in with the rest; *bevat achat* has no prior prohibition at all, and even R. Shimon concedes it.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "R. Chiyya's account of bar Kappara's mistake (33a–33b): Rebbi taught him only the two *kolel* cases, and bar Kappara merged in the *melikah* case and drew the wrong conclusion.",
+        "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three steps. Rabbi Yehuda HaNasi teaches two cases, the zar on Shabbat and the blemished priest while impure, as one count according to R. Shimon. Bar Kappara adds the melikah case. He concludes that all three are simultaneous and that the one-count ruling covers simultaneous prohibitions.</title><rect width=\"900\" height=\"480\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">How bar Kappara came to err, according to R. Chiyya</text><rect x=\"16\" y=\"52\" width=\"280\" height=\"268\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"156\" y=\"78\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1B3A8A\">1. What Rebbi taught</text><use href=\"#sage\" x=\"36\" y=\"94\" width=\"60\" height=\"105\" style=\"color:#4B5E8C;--beard:#A8A39C;--wrap:#E4D8C0\"/><text x=\"66\" y=\"216\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Rabbi Yehuda</text><text x=\"66\" y=\"232\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">HaNasi</text><rect x=\"116\" y=\"96\" width=\"166\" height=\"46\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\"/><text x=\"199\" y=\"115\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">Zar serves</text><text x=\"199\" y=\"132\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">on Shabbat</text><rect x=\"116\" y=\"150\" width=\"166\" height=\"46\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\"/><text x=\"199\" y=\"169\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">Ba’al mum serves</text><text x=\"199\" y=\"186\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">while tamei</text><text x=\"156\" y=\"270\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Both issur kolel:</text><text x=\"156\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1B3A8A\">R. Shimon: one count</text><rect x=\"310\" y=\"52\" width=\"280\" height=\"268\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"450\" y=\"78\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#9A6212\">2. What bar Kappara added</text><use href=\"#sage\" x=\"326\" y=\"94\" width=\"60\" height=\"105\" style=\"color:#7A4A55;--beard:#4A3A2E;--wrap:#D9CBB0\"/><text x=\"356\" y=\"216\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">bar Kappara</text><rect x=\"406\" y=\"96\" width=\"166\" height=\"46\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" opacity=\"0.75\"/><text x=\"489\" y=\"115\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">Zar serves</text><text x=\"489\" y=\"132\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">on Shabbat</text><rect x=\"406\" y=\"150\" width=\"166\" height=\"46\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" opacity=\"0.75\"/><text x=\"489\" y=\"169\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">Ba’al mum serves</text><text x=\"489\" y=\"186\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">while tamei</text><rect x=\"406\" y=\"204\" width=\"166\" height=\"46\" rx=\"8\" fill=\"#E4EFE4\" stroke=\"#24592E\" stroke-width=\"2\"/><text x=\"489\" y=\"223\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">Zar eats a</text><text x=\"489\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">melikah bird</text><text x=\"398\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"20\" font-weight=\"600\" fill=\"#24592E\">+</text><text x=\"450\" y=\"280\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Similar, so he mixed it in;</text><text x=\"450\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">later he thought Rebbi taught all three</text><rect x=\"604\" y=\"52\" width=\"280\" height=\"268\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"744\" y=\"78\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#24592E\">3. What he concluded</text><rect x=\"620\" y=\"92\" width=\"248\" height=\"52\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#24592E\"/><text x=\"744\" y=\"114\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">The melikah case can</text><text x=\"744\" y=\"132\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">only be simultaneous</text><path d=\"M744 146 v12\" stroke=\"#24592E\" stroke-width=\"2\"/><path d=\"M737 158 L751 158 L744 166 Z\" fill=\"#24592E\"/><rect x=\"620\" y=\"168\" width=\"248\" height=\"52\" rx=\"8\" fill=\"#FFFFFF\" stroke=\"#24592E\"/><text x=\"744\" y=\"190\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">So all three cases</text><text x=\"744\" y=\"208\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">must be simultaneous</text><path d=\"M744 222 v12\" stroke=\"#24592E\" stroke-width=\"2\"/><path d=\"M737 234 L751 234 L744 242 Z\" fill=\"#24592E\"/><rect x=\"620\" y=\"244\" width=\"248\" height=\"52\" rx=\"8\" fill=\"#FFF4E6\" stroke=\"#9A6212\"/><text x=\"744\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">So Rebbi’s one count</text><text x=\"744\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">covered simultaneous ones</text><rect x=\"16\" y=\"336\" width=\"868\" height=\"128\" rx=\"14\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><text x=\"450\" y=\"366\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">What R. Shimon holds, according to R. Chiyya</text><rect x=\"150\" y=\"384\" width=\"280\" height=\"40\" rx=\"20\" fill=\"#1B3A8A\"/><text x=\"290\" y=\"409\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#FFFFFF\">Issur kolel: one count</text><rect x=\"470\" y=\"384\" width=\"280\" height=\"40\" rx=\"20\" fill=\"#9A6212\"/><text x=\"610\" y=\"409\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#FFFFFF\">Issur bevat achat: two counts</text><text x=\"450\" y=\"448\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rebbi taught bar Kappara only the two kolel cases · Yevamot 33a–33b</text></svg>"
+       },
+       "children": [],
+       "text": {
+        "from": "33a.9",
+        "to": "33b.2"
+       }
+      }
+     ],
+     "text": {
+      "from": "33a.8",
+      "to": "33b.2"
+     }
+    },
+    {
+     "id": "s9",
+     "title": "The Baraita: R. Yosei vs. R. Shimon, Melikah Left Out",
+     "amud": "33b",
+     "gist": "A baraita lists only the two sequential cases in the dispute between R. Yosei and R. Shimon. The omission shows that R. Shimon holds two counts when prohibitions arise together, which refutes bar Kappara.",
+     "bullets": [
+      {
+       "text": "Baraita: for a *zar* who served on Shabbat and a *ba'al mum* who served while *tamei*, R. Yosei imposes liability for *zar*, for Shabbat, for *ba'al mum* and for *tumah*. R. Shimon: only for *zar* and for *ba'al mum*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The case of a *zar* who ate a *melikah* bird is left out. According to whom was it left out?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Not according to R. Yosei: he holds two counts even for *issur kolel*, so it would be obvious that he holds two when the prohibitions arise together.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So it was left out because of R. Shimon, who would concede two counts there. He exempts only in *issur kolel*; for simultaneous prohibitions he imposes liability on both counts.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Teyuvta*: bar Kappara is conclusively refuted.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Inferring from an omitted case is reasonable. The inference clearly shows that R. Shimon holds two counts for *bevat achat*, but whether it also shows exactly what R. Chiyya and bar Kappara disagreed about is less certain.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "The baraita, and what follows from the missing *melikah* case",
+      "columns": [
+       "",
+       "*Zar* serves on Shabbat",
+       "*Ba'al mum* serves while *tamei*",
+       "*Zar* eats a *melikah* bird (not in the baraita)"
+      ],
+      "rows": [
+       [
+        "R. Yosei",
+        "Liable for *zar* and for Shabbat",
+        "Liable for *ba'al mum* and for *tumah*",
+        "Two counts; too obvious to need stating"
+       ],
+       [
+        "R. Shimon",
+        "Liable only for *zar*",
+        "Liable only for *ba'al mum*",
+        "Concedes two counts, which is why the case was left out"
+       ]
+      ]
+     },
+     "returns_to": [
+      {
+       "id": "s2",
+       "note": "Relies on the point, first made there, that the *melikah* case can only be simultaneous"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "33b.3",
+      "to": "33b.4"
+     }
+    }
+   ],
+   "text": {
+    "from": "33a.1",
+    "to": "33b.4"
+   }
+  },
+  {
+   "id": "s10",
+   "title": "Which Service Did the Zar Perform on Shabbat?",
+   "amud": "33b",
+   "gist": "The baraita's *zar* on Shabbat seems to have no real Shabbat violation. Rav Acha bar Yaakov locates one on Yom Kippur, and Rav Ashi says the tanna is only counting prohibitions.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The Gemara's search on 33b for the service in which the *zar* violated Shabbat. Each ordinary service fails, Rav Acha bar Yaakov points to the High Priest's bull on Yom Kippur, and Rav Ashi explains that the tanna is only counting prohibitions.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Four panels: slaughtering, receiving and carrying the blood, burning the parts on the altar, and the High Priest's bull on Yom Kippur, each with the problem or answer the Gemara gives. Below, Rav Ashi's resolution.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">In what service did the zar violate Shabbat?</text><rect x=\"12\" y=\"56\" width=\"210\" height=\"300\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"234\" y=\"56\" width=\"210\" height=\"300\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"456\" y=\"56\" width=\"210\" height=\"300\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"678\" y=\"56\" width=\"210\" height=\"300\" rx=\"12\" fill=\"#E3EAF3\"/><text x=\"117\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#5A2A12\">Slaughtering</text><text x=\"339\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#5A2A12\">Receiving and</text><text x=\"339\" y=\"106\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#5A2A12\">carrying the blood</text><text x=\"561\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#5A2A12\">Burning the parts</text><text x=\"561\" y=\"106\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#5A2A12\">on the altar</text><text x=\"783\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1B3A8A\">The High Priest’s bull</text><text x=\"783\" y=\"106\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1B3A8A\">on Yom Kippur</text><use href=\"#bull\" x=\"47\" y=\"140\" width=\"140\" height=\"91\"/><path d=\"M299 196 Q339 246 379 196 Z\" fill=\"#C9A96E\"/><ellipse cx=\"339\" cy=\"196\" rx=\"40\" ry=\"8\" fill=\"#9E2B25\"/><rect x=\"511\" y=\"180\" width=\"100\" height=\"56\" fill=\"#A8927A\"/><path d=\"M511 198 h100 M511 216 h100 M536 180 v18 M586 180 v18 M561 198 v18\" stroke=\"#8A7560\" stroke-width=\"2\"/><path d=\"M523 180 C523 150 543 160 545 136 C557 158 563 146 563 132 C577 154 599 156 599 180 Z\" fill=\"url(#fire)\"/><use href=\"#bull\" x=\"713\" y=\"140\" width=\"140\" height=\"91\"/><text x=\"117\" y=\"264\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">A zar’s slaughter is valid:</text><text x=\"117\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">no prohibition at all</text><text x=\"339\" y=\"264\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Liable as a zar, but for</text><text x=\"339\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Shabbat only moving</text><text x=\"561\" y=\"264\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">R. Yosei: kindling was</text><text x=\"561\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">singled out as a mere lav</text><text x=\"783\" y=\"264\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Disqualified unless the</text><text x=\"783\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">High Priest slaughters</text><rect x=\"32\" y=\"306\" width=\"170\" height=\"30\" rx=\"15\" fill=\"#8A7560\"/><text x=\"117\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">No violation</text><rect x=\"254\" y=\"306\" width=\"170\" height=\"30\" rx=\"15\" fill=\"#8A7560\"/><text x=\"339\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">No Shabbat labor</text><rect x=\"476\" y=\"306\" width=\"170\" height=\"30\" rx=\"15\" fill=\"#9A6212\"/><text x=\"561\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Two sin-offerings?</text><rect x=\"698\" y=\"306\" width=\"170\" height=\"30\" rx=\"15\" fill=\"#1B3A8A\"/><text x=\"783\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\">Rav Acha bar Yaakov</text><rect x=\"12\" y=\"370\" width=\"876\" height=\"58\" rx=\"12\" fill=\"#E4EFE4\"/><text x=\"450\" y=\"393\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Rav Ashi: the tanna counts prohibitions, not sin-offerings</text><text x=\"450\" y=\"415\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#24592E\">so any Shabbat violation counts; the count decides whether he is buried among the completely wicked</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s11",
+     "title": "No Ordinary Service Seems to Fit",
+     "amud": "33b",
+     "gist": "Slaughter by a *zar* is valid, handling the blood is mere moving, and burning is only a *lav* for R. Yosei, so where is the Shabbat liability?",
+     "bullets": [
+      {
+       "text": "Slaughtering: slaughter by a *zar* is valid, so there is no prohibition at all.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Receiving the blood and carrying it to the altar: he is liable as a *zar*, but for Shabbat this is only moving, not a forbidden labor.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Burning the sacrificial portions: the baraita is R. Yosei's, and R. Yosei says kindling was singled out to teach that it is a mere prohibition (*lav*), not a labor that brings a sin-offering. So why would he impose two sin-offerings?",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "33b.5",
+      "to": "33b.6"
+     }
+    },
+    {
+     "id": "s12",
+     "title": "Rav Acha bar Yaakov: The High Priest's Bull on Yom Kippur",
+     "amud": "33b",
+     "gist": "The case is the slaughter of the High Priest's bull, which is disqualified if anyone else performs it, and *zar* means anyone other than the High Priest.",
+     "bullets": [
+      {
+       "text": "Rav Acha bar Yaakov: the case is the slaughter of the High Priest's bull on Yom Kippur. This follows the view that its slaughter is disqualified when done by a *zar*, since the service belongs to the High Priest alone.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "On that view the slaughter is not a valid act of *avodah*, so it is a genuine forbidden labor.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Challenge: then why say a *zar*? A common priest would be disqualified too.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: *zar* here means one who is 'foreign' relative to the High Priest, which includes a common priest.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is a strained reading of the word *zar*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "33b.7",
+      "to": "33b.7"
+     }
+    },
+    {
+     "id": "s13",
+     "title": "Rav Ashi: Counting Prohibitions, Not Sin-Offerings",
+     "amud": "33b",
+     "gist": "The tanna only lists the prohibitions violated, not their penalties, so burning on Shabbat counts. The count decides whether the man is buried among the completely wicked.",
+     "bullets": [
+      {
+       "text": "Rav Ashi: is the tanna teaching how many sin-offerings are owed, or how many *lavin* are violated? He only lists prohibitions without their severity, so any desecration of Shabbat in the service counts.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "What difference does the count make? Whether to bury him among the completely wicked: two violations make him wicked on two counts.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "There is some irony here. A long tannaitic dispute over *kolel*, *mosif* and *bevat achat* ends up measuring how culpable a person is, not what he concretely owes.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s11",
+       "note": "Removes the objection from burning on the altar raised there"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "33b.8",
+      "to": "33b.8"
+     }
+    }
+   ],
+   "text": {
+    "from": "33b.5",
+    "to": "33b.8"
+   }
+  },
+  {
+   "id": "s14",
+   "title": "Mishnah: Two Men, Two Women, Switched at the Wedding Canopy",
+   "amud": "33b → 34a",
+   "gist": "Two couples' brides are switched after betrothal. The Mishnah counts up to four prohibitions, and the Gemara establishes that the switch was an accident.",
+   "bullets": [],
+   "continues": "Continues on 34a: according to R. Chiyya's sixteen sin-offerings, which tanna lets a prohibition take effect as *kolel*, *mosif* and *bevat achat*? Rav Yehuda in Rav's name answers R. Meir, citing the baraita of one act of eating that brings four sin-offerings and a guilt-offering.",
+   "children": [
+    {
+     "id": "s15",
+     "title": "The Mishnah: Up to Four Prohibitions, Then Separation",
+     "amud": "33b",
+     "gist": "Each man is liable for a married woman, and possibly also for a brother's wife, a wife's sister and *niddah*. The women are then kept from their husbands for three months.",
+     "bullets": [
+      {
+       "text": "Two men betrothed two women, and at the wedding canopy the brides were switched. Each man is liable for *eshet ish*, since betrothal alone forbids a woman to all other men.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If the men were brothers, they are also liable for a brother's wife. If the women were sisters, also for a wife's sister. If the women were menstruating, also for *niddah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The women are separated from their husbands for three months in case they became pregnant, so that a child of the forbidden union can be identified as a *mamzer*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If they were minors unable to bear children, they are returned to their husbands at once. If they were daughters of *kohanim*, they are disqualified from eating *terumah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Mishnah's scenario is in a sense worse than Rachel and Leah: each man unknowingly lives with another man's wife. With no pregnancy tests, the only way to know is to wait three months.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The Mishnah on 33b: each bride stands under the canopy with the wrong man, and the prohibitions pile up depending on whether the men are brothers, the women are sisters or the women are *niddot*.",
+      "svg": "<svg viewBox=\"0 0 900 510\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two wedding canopies. Under each, a man stands with the woman betrothed to the other man, shown by matching robe colors. Below, the four possible prohibitions and the three-month separation.</title><rect width=\"900\" height=\"510\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Switched under the wedding canopy</text><text x=\"450\" y=\"62\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#5B6478\">הוחלפו</text><text x=\"450\" y=\"84\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rav Yehuda: read “they were switched”, by accident</text><rect x=\"86\" y=\"100\" width=\"308\" height=\"16\" rx=\"4\" fill=\"#E3EAF3\" stroke=\"#9AA7BD\"/><rect x=\"96\" y=\"116\" width=\"6\" height=\"172\" fill=\"#8B6A4E\"/><rect x=\"378\" y=\"116\" width=\"6\" height=\"172\" fill=\"#8B6A4E\"/><rect x=\"498\" y=\"100\" width=\"308\" height=\"16\" rx=\"4\" fill=\"#E3EAF3\" stroke=\"#9AA7BD\"/><rect x=\"508\" y=\"116\" width=\"6\" height=\"172\" fill=\"#8B6A4E\"/><rect x=\"790\" y=\"116\" width=\"6\" height=\"172\" fill=\"#8B6A4E\"/><use href=\"#man\" x=\"150\" y=\"168\" width=\"60\" height=\"120\" style=\"color:#3E5C9A\"/><use href=\"#woman\" x=\"290\" y=\"168\" width=\"60\" height=\"120\" style=\"color:#B07A2A\"/><use href=\"#man\" x=\"570\" y=\"168\" width=\"60\" height=\"120\" style=\"color:#B07A2A\"/><use href=\"#woman\" x=\"710\" y=\"168\" width=\"60\" height=\"120\" style=\"color:#3E5C9A\"/><text x=\"180\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#3E5C9A\">First man</text><text x=\"320\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#B07A2A\">Second man’s betrothed</text><text x=\"600\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#B07A2A\">Second man</text><text x=\"740\" y=\"308\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#3E5C9A\">First man’s betrothed</text><text x=\"450\" y=\"336\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Matching colors: a man and the woman betrothed to him</text><rect x=\"30\" y=\"356\" width=\"410\" height=\"40\" rx=\"20\" fill=\"#E3EAF3\" stroke=\"#1B3A8A\"/><text x=\"235\" y=\"381\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Married woman: always</text><rect x=\"460\" y=\"356\" width=\"410\" height=\"40\" rx=\"20\" fill=\"#F3E6D8\" stroke=\"#9A6212\"/><text x=\"665\" y=\"381\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Brother’s wife: if the men are brothers</text><rect x=\"30\" y=\"406\" width=\"410\" height=\"40\" rx=\"20\" fill=\"#E4EFE4\" stroke=\"#24592E\"/><text x=\"235\" y=\"431\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Wife’s sister: if the women are sisters</text><rect x=\"460\" y=\"406\" width=\"410\" height=\"40\" rx=\"20\" fill=\"#F3E6D8\" stroke=\"#7A4A55\"/><text x=\"665\" y=\"431\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#7A4A55\">Niddah: if they were menstruating</text><text x=\"450\" y=\"476\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">Then they are separated three months, lest they are pregnant; minors return at once</text><text x=\"450\" y=\"498\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">Yevamot 33b · the Mishnah</text></svg>"
+     },
+     "children": [],
+     "text": {
+      "from": "33b.9",
+      "to": "33b.10"
+     }
+    },
+    {
+     "id": "s16",
+     "title": "'They Were Switched': An Accidental Exchange",
+     "amud": "33b",
+     "gist": "Sin-offerings and the women's return to their husbands both require an unintentional act, so Rav Yehuda reads *huchlafu*. The proof from minors is deflected, and the proof from the three months stands.",
+     "bullets": [
+      {
+       "text": "The Mishnah says 'they switched.' Are we dealing with people so wicked that they would switch their wives on purpose?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "And R. Chiyya taught that there are sixteen sin-offerings here, four for each man and four for each woman. Sin-offerings come only for unintentional acts.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yehuda: read *huchlafu*, 'they were switched', meaning the brides were mixed up by accident.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Suggested support: minors are returned at once, which could not happen after willful adultery. Deflected: the seduction of a minor counts as rape (*pituy ketanah ones hu*), and after rape a woman may return to an Israelite husband.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Accepted proof: the three-month separation implies that the women may return if they are not pregnant, which would be impossible had they acted willfully. Conclusion: the switch was inadvertent.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why the count runs to four people: the *arayot* are framed from the man's side, yet the woman is a direct party to the same transgression and is liable for it herself, not for *lifnei iver*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "33b.11",
+      "to": "33b.13"
+     }
+    }
+   ],
+   "text": {
+    "from": "33b.9",
+    "to": "34a.6"
+   }
+  }
+ ],
+ "judgment_calls": [
+  "The daf opens with the Gemara's analysis of disputes recorded on 32b. Rather than outlining the 32b deliberations in full, I recapped the three cases and the two oaths as the opening bullet of s1. An alternative was to begin the scope on 32b with its own section.",
+  "The three framings (kolel per R. Yosei, bevat achat per R. Yosei, bevat achat per R. Shimon) are sibling children of s1. The oath analysis is nested under the framing it tests. An alternative was a flat sequence of steps.",
+  "The answer to 'Was bar Kappara lying?' (33a.9–33b.2) is nested under the R. Shimon framing, because the text presents it as a further angle on that framing after the kashya. It could instead stand as its own sibling.",
+  "The baraita that refutes bar Kappara is kept inside the R. Chiyya–bar Kappara section, since it answers the same question. The follow-up question about which service the *zar* performed on Shabbat became its own top-level section because it no longer concerns what divides the two sages, though it could sit under the baraita.",
+  "Rav Ashi's answer is linked back (returns_to) to the burning objection in s11. It was kept in text order after Rav Acha bar Yaakov.",
+  "The Mishnah and the Gemara's first discussion of it are split into two children. The continues note sits on the parent, since the Gemara on this Mishnah goes on into 34a."
+ ],
+ "coverage_notes": [
+  "The Gemara on 33a (the kolel and bevat achat framings, the simultaneous constructions, the oaths and the kashya) was largely covered at the end of the previous shiur, per the 32b essay tail. That material was used, so these sections are not flagged.",
+  "The shiur continues well past this daf: which tanna holds all three types (R. Meir's baraita), R. Eliezer vs. R. Yehoshua on one who errs in a mitzvah, the bevat achat construction with agents and girls who became niddot before age three, Tamar and the first act of intercourse, Er and Onan, and Tosafot, the Ri and the Rema on zera levatala. All of this falls on 34a–34b and is outside this outline's scope.",
+  "The essay says the dispute is picked up 'on 33b'. The disputes are recorded on 32b and analyzed on 33a. Followed the text.",
+  "The essay attributes 'kindling was singled out as a lav' to Rav Yosef. The text attributes it to R. Yosei. Followed the text.",
+  "The essay says the Gemara itself acknowledges that reading zar as 'foreign relative to the High Priest' is a stretch. The text makes no such comment, so this is kept as shiur analysis only.",
+  "The essay gives the purpose of Rav Ashi's count as 'likro rabbeinu rasha gamur', i.e., assessing blameworthiness. The text says it determines whether to bury him among the completely wicked. Followed the text.",
+  "The essay presents the three-month proof first and the minors point as a side exception. In the text, the proof from minors is offered first and deflected (seduction of a minor is rape), and only then is the three-month proof accepted. Followed the text's order and conclusions.",
+  "The 32b essay tail frames the kashya as 'according to Bar Kappara, R. Chiyya's oath makes sense... according to R. Chiyya, why would bar Kappara swear?'. The text says: granted, R. Chiyya swore to exclude the default view of R. Shimon; but bar Kappara, why did he need to swear? The substance is the same. Followed the text's wording.",
+  "The essay describes the Mishnah's men and women as unrelated to each other, but the Mishnah goes on to consider brothers and sisters. Followed the text.",
+  "The essay adds that R. Shimon, who rejects even issur mosif, certainly rejects issur kolel. The text says only that R. Shimon accepts a second prohibition solely when the two are simultaneous. That claim was omitted.",
+  "The Mishnah's clause about daughters of kohanim being disqualified from terumah is not discussed in the essay. It is included from the text."
+ ]
+}

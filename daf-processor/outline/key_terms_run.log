@@ -1,0 +1,159 @@
+12 dafim x 2 models = 24 requests; system prompt 14,880 chars (cached); effort medium
+  gittin_18                user prompt 30,354 chars
+  gittin_18_textonly       user prompt 27,382 chars
+  shabbat_38               user prompt 39,133 chars
+  berakhot_31b             user prompt 55,710 chars
+  bava_metzia_11           user prompt 36,683 chars
+  bava_batra_84            user prompt 31,671 chars
+  niddah_60                user prompt 52,316 chars
+  kiddushin_2              user prompt 31,477 chars
+  sanhedrin_6b             user prompt 34,041 chars
+  yevamot_33               user prompt 35,520 chars
+  hullin_88                user prompt 34,933 chars
+  shabbat_21               user prompt 46,495 chars
+Submitted claude-sonnet-5 batch msgbatch_01CYJWr3hCSRr5gwbZezhvU3 (12 requests)
+Submitted claude-opus-5-5 batch msgbatch_01Wqy9m5kERvpvPfA971yYtQ (12 requests)
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus55  in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  opus55  ended: succeeded=12 processing=0 errored=0
+  wrote outline/results/sanhedrin_6b/05_key_terms_opus55.json (6 terms)
+  wrote outline/results/gittin_18_textonly/05_key_terms_opus55.json (8 terms)
+    check: zeman ha-get: Hebrew 'זמן הגט' not found in the daf text (may be fine)
+    check: havchanah: Hebrew 'הבחנה' not found in the daf text (may be fine)
+    check: shemittat kesafim: Hebrew 'שמיטת כספים' not found in the daf text (may be fine)
+    check: zekifah be-milveh: Hebrew 'זקיפה במלוה' not found in the daf text (may be fine)
+  wrote outline/results/niddah_60/05_key_terms_opus55.json (7 terms)
+    check: eino mekabel tum'ah eino mekabel ketamim: Hebrew 'כל דבר שאינו מקבל טומאה אינו מקבל כתמים' not found in the daf text (may be fine)
+  wrote outline/results/berakhot_31b/05_key_terms_opus55.json (8 terms)
+    check: dan lechaf zechut: Hebrew 'דן לכף זכות' not found in the daf text (may be fine)
+  wrote outline/results/bava_metzia_11/05_key_terms_opus55.json (8 terms)
+    check: kinyan agav: Hebrew 'מטלטלין אגב קרקע' not found in the daf text (may be fine)
+  wrote outline/results/shabbat_38/05_key_terms_opus55.json (7 terms)
+    check: chazarah: Hebrew 'חזרה' not found in the daf text (may be fine)
+  wrote outline/results/bava_batra_84/05_key_terms_opus55.json (7 terms)
+    check: ona'ah: Hebrew 'אונאה' not found in the daf text (may be fine)
+    check: kinyan kli: Hebrew 'קניין כלי' not found in the daf text (may be fine)
+    check: kinyan chatzer: Hebrew 'קניין חצר' not found in the daf text (may be fine)
+  wrote outline/results/gittin_18/05_key_terms_opus55.json (8 terms)
+    check: ketivah and netinah: Hebrew 'כתיבה ונתינה' not found in the daf text (may be fine)
+    check: havchanah: Hebrew 'הבחנה' not found in the daf text (may be fine)
+    check: shemittat kesafim: Hebrew 'שמיטה' not found in the daf text (may be fine)
+    check: pegimah u-zekifah: Hebrew 'פגמה וזקפה' not found in the daf text (may be fine)
+  wrote outline/results/kiddushin_2/05_key_terms_opus55.json (8 terms)
+    check: kiddushin: Hebrew 'קידושין' not found in the daf text (may be fine)
+    check: nisu'in: Hebrew 'נישואין' not found in the daf text (may be fine)
+    check: gezerah shavah: Hebrew 'גזירה שוה' not found in the daf text (may be fine)
+  wrote outline/results/yevamot_33/05_key_terms_opus55.json (8 terms)
+    check: issur chal al issur: Hebrew 'איסור חל על איסור' not found in the daf text (may be fine)
+  wrote outline/results/shabbat_21/05_key_terms_opus55.json (8 terms)
+  wrote outline/results/hullin_88/05_key_terms_opus55.json (7 terms)
+    check: tumat ohel: Hebrew 'טומאת אהל' not found in the daf text (may be fine)
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 in_progress: succeeded=0 processing=12 errored=0
+  sonnet5 ended: succeeded=12 processing=0 errored=0
+  wrote outline/results/gittin_18/05_key_terms_sonnet5.json (7 terms)
+    check: zeman ha-get: Hebrew 'זמן הגט' not found in the daf text (may be fine)
+    check: tenai vs. edim: aliases not in outline ['edim']
+    check: tenai vs. edim: Hebrew 'תנאי / עדים' not found in the daf text (may be fine)
+    check: shemittat kesafim: aliases not in outline ['meshametet']
+    check: shemittat kesafim: Hebrew 'שמיטת כספים' not found in the daf text (may be fine)
+    check: pagmah vezakfah: aliases not in outline ['tzarichah lehamtin']
+    check: pagmah vezakfah: Hebrew 'פגמה וזקפה' not found in the daf text (may be fine)
+  wrote outline/results/berakhot_31b/05_key_terms_sonnet5.json (8 terms)
+    check: halakha pesukah: aliases not in outline ['הֲלָכָה פְּסוּקָה', 'halakha pesukah']
+    check: kavanat ha-lev: aliases not in outline ["she'yechaven et libo"]
+    check: kavanat ha-lev: Hebrew 'כוונת הלב' not found in the daf text (may be fine)
+    check: chovat ha-tochacha: Hebrew 'חובת התוכחה' not found in the daf text (may be fine)
+    check: nechshad be-davar she'ein bo: aliases not in outline ["nechshad bedavar she'ein bo"]
+    check: arba amot shel tefillah: aliases not in outline ['ארבע אמות']
+    check: moreh halakha bifnei rabbo: aliases not in outline ['מורה הלכה לפני רבו']
+    check: sotah waters and barrenness: aliases not in outline ['mei sotah']
+    check: hatachat devarim klapei ma'alah: aliases not in outline ['הטיחה דברים כלפי מעלה']
+    check: hatachat devarim klapei ma'alah: Hebrew 'הטחת דברים כלפי מעלה' not found in the daf text (may be fine)
+  wrote outline/results/bava_metzia_11/05_key_terms_sonnet5.json (8 terms)
+    check: kinyan chatzer: aliases not in outline ['chatzer kona', 'chatzero shel adam kona lo']
+    check: kinyan chatzer: Hebrew 'קנין חצר' not found in the daf text (may be fine)
+    check: shaliach: Hebrew 'שליח' not found in the daf text (may be fine)
+    check: chatzer hamishtameret: aliases not in outline ["chatzer she'eina mishtameret"]
+    check: kinyan agav: Hebrew 'קנין אגב' not found in the daf text (may be fine)
+  wrote outline/results/sanhedrin_6b/05_key_terms_sonnet5.json (7 terms)
+    check: peshara / bitzua: Hebrew 'פשרה / ביצוע' not found in the daf text (may be fine)
+    check: gmar din: aliases not in outline ['Nigmar HaDin']
+    check: shikul ha-da'at: missing sections
+    check: shikul ha-da'at: aliases not in outline ["shikul hada'at", 'שיקול הדעת']
+    check: din bishlosha: aliases not in outline ['דין בשלושה']
+    check: kinyan (for peshara): missing sections
+    check: kinyan (for peshara): aliases not in outline ['קניין', 'act of acquisition']
+    check: lo tagoru mipnei ish: aliases not in outline ['לא תגורו']
+  wrote outline/results/niddah_60/05_key_terms_sonnet5.json (7 terms)
+    check: tliyah: aliases not in outline ['תולה', 'תולין', 'תולות']
+    check: roeh / re'uyah lir'ot: aliases not in outline ['רואה', 'ראויה לראות']
+    check: roeh / re'uyah lir'ot: Hebrew 'רואה / ראויה לראות' not found in the daf text (may be fine)
+    check: shomeret yom keneged yom: aliases not in outline ['שומרת יום כנגד יום', 'שוֹמֶרֶת יוֹם כְּנֶגֶד יוֹם']
+    check: ketem b'ketem: aliases not in outline ['אין תולין כתם בכתם', 'לתלות כתם בכתם']
+    check: davar she'eino mekabel tum'ah: aliases not in outline ['שאינו מקבל טומאה']
+    check: davar she'eino mekabel tum'ah: Hebrew 'דבר שאינו מקבל טומאה' not found in the daf text (may be fine)
+    check: tolot zo bazo: aliases not in outline ['תולות זו בזו']
+  wrote outline/results/shabbat_38/05_key_terms_sonnet5.json (6 terms)
+    check: shehiyah: aliases not in outline ['leaving a pot']
+    check: mitztamek ve-yafeh lo / mitztamek ve-ra lo: Hebrew 'מצטמק ויפה לו / מצטמק ורע לו' not found in the daf text (may be fine)
+    check: garuf ve-katum: aliases not in outline ['גרופה וקטומה']
+    check: chazarah: Hebrew 'החזרה' not found in the daf text (may be fine)
+    check: kupach: aliases not in outline ['כופח']
+    check: chatat: aliases not in outline ['sin-offering']
+  wrote outline/results/bava_batra_84/05_key_terms_sonnet5.json (7 terms)
+    check: ona'ah: Hebrew 'אונאה' not found in the daf text (may be fine)
+    check: ta'ut: Hebrew 'טעות' not found in the daf text (may be fine)
+    check: kinyan chatzer: Hebrew 'קניין חצר' not found in the daf text (may be fine)
+  wrote outline/results/shabbat_21/05_key_terms_sonnet5.json (8 terms)
+    check: kik oil: aliases not in outline ['שמן קיק']
+    check: kavta zakuk lah: aliases not in outline ['כבתה זקוק לה']
+    check: assur lehishtamesh le-orah: aliases not in outline ['מותר להשתמש לאורה', 'אסור להשתמש לאורה']
+    check: mehadrin min ha-mehadrin: aliases not in outline ['מהדרין מן המהדרין', 'מהדרין']
+    check: ner ish u-veito: aliases not in outline ['נר איש וביתו']
+    check: gezeirah le-gezeirah: aliases not in outline ['גזירה לגזירה']
+    check: ma'aseh rav: aliases not in outline ['מעשה רב']
+    check: leha'alot ner tamid: aliases not in outline ['להעלות נר תמיד']
+  wrote outline/results/hullin_88/05_key_terms_sonnet5.json (6 terms)
+    check: tumat ohel: Hebrew 'טומאת אוהל' not found in the daf text (may be fine)
+  wrote outline/results/yevamot_33/05_key_terms_sonnet5.json (8 terms)
+    check: issur chal al issur: Hebrew 'איסור חל על איסור' not found in the daf text (may be fine)
+    check: issur kolel: aliases not in outline ['איסור כולל']
+    check: issur bevat achat: aliases not in outline ['בבת אחת', 'בת אחת']
+    check: issur mosif: Hebrew 'איסור מוסיף' not found in the daf text (may be fine)
+    check: zar performing avodah: aliases not in outline ['זר ששימש בשבת', 'זר']
+    check: melikah: aliases not in outline ['מליקה']
+    check: eshet ish: aliases not in outline ['אשת איש']
+    check: chatat: aliases not in outline ['חטאות', 'חטאת']
+  wrote outline/results/gittin_18_textonly/05_key_terms_sonnet5.json (7 terms)
+    check: tikkun ha-get: Hebrew 'תקנת חכמים לתארך את הגט' not found in the daf text (may be fine)
+    check: get yashan: aliases not in outline ['לגט ישן']
+    check: havchanah: aliases not in outline ['waiting period']
+    check: havchanah: Hebrew 'המתנת שלשה חדשים' not found in the daf text (may be fine)
+    check: pegimah u-zekifah: aliases not in outline ['תפגום ותזקוף', 'פגמה', 'זקפה']
+    check: pegimah u-zekifah: Hebrew 'פגימה וזקיפה' not found in the daf text (may be fine)
+    check: shemitat kesafim: aliases not in outline ['meshamet', 'משמטת']
+    check: shemitat kesafim: Hebrew 'שמיטת כספים' not found in the daf text (may be fine)
+    check: perot: aliases not in outline ['פירות']
+    check: tenai: aliases not in outline ['תנאי']
+  wrote outline/results/kiddushin_2/05_key_terms_sonnet5.json (8 terms)
+    check: kesef: aliases not in outline ['כסף']
+    check: shtar: aliases not in outline ['שטר']
+    check: bi'ah: aliases not in outline ['ביאה']
+    check: kiddushin: Hebrew 'קידושין' not found in the daf text (may be fine)
+    check: nisu'in: Hebrew 'נישואין' not found in the daf text (may be fine)
+    check: chalitzah: aliases not in outline ['חליצה']
+    check: perutah: aliases not in outline ['פרוטה']

@@ -1,0 +1,299 @@
+{
+ "key": "bava_metzia_11",
+ "tractate": "Bava Metzia",
+ "sages": [
+  {
+   "name": "ריש לקיש",
+   "candidates": [
+    "rabbi-shimon-b-lakish"
+   ],
+   "lines": [
+    "10b.7"
+   ],
+   "count": 1,
+   "first": "10b.7",
+   "ambiguous": false,
+   "pick": "rabbi-shimon-b-lakish",
+   "pick_by": "only"
+  },
+  {
+   "name": "אבא כהן ברדלא",
+   "candidates": [
+    "abba-cohen-b-delaiah"
+   ],
+   "lines": [
+    "10b.7"
+   ],
+   "count": 1,
+   "first": "10b.7",
+   "ambiguous": false,
+   "pick": "abba-cohen-b-delaiah",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוחנן",
+   "candidates": [
+    "rabbi-yochanan-b-napacha"
+   ],
+   "lines": [
+    "10b.7",
+    "11b.8"
+   ],
+   "count": 2,
+   "first": "10b.7",
+   "ambiguous": false,
+   "pick": "rabbi-yochanan-b-napacha",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי ינאי",
+   "candidates": [
+    "rabbi-yannai"
+   ],
+   "lines": [
+    "10b.7"
+   ],
+   "count": 1,
+   "first": "10b.7",
+   "ambiguous": false,
+   "pick": "rabbi-yannai",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבינא",
+   "candidates": [
+    "ravina-(i)"
+   ],
+   "lines": [
+    "10b.11"
+   ],
+   "count": 1,
+   "first": "10b.11",
+   "ambiguous": false,
+   "pick": "ravina-(i)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב סמא",
+   "candidates": [
+    "rav-sama"
+   ],
+   "lines": [
+    "10b.14"
+   ],
+   "count": 1,
+   "first": "10b.14",
+   "ambiguous": false,
+   "pick": "rav-sama",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "11a.6",
+    "11a.20",
+    "11b.10",
+    "11b.11"
+   ],
+   "count": 4,
+   "first": "11a.6",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "שמואל",
+   "candidates": [
+    "shmuel-(amora)"
+   ],
+   "lines": [
+    "11a.6"
+   ],
+   "count": 1,
+   "first": "11a.6",
+   "ambiguous": false,
+   "pick": "shmuel-(amora)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוסי ברבי חנינא",
+   "candidates": [
+    "rabbi-yose-b-chanina"
+   ],
+   "lines": [
+    "11a.7"
+   ],
+   "count": 1,
+   "first": "11a.7",
+   "ambiguous": false,
+   "pick": "rabbi-yose-b-chanina",
+   "pick_by": "only"
+  },
+  {
+   "name": "עולא",
+   "candidates": [
+    "ulla"
+   ],
+   "lines": [
+    "11a.21",
+    "11a.22",
+    "11b.4",
+    "11b.9"
+   ],
+   "count": 4,
+   "first": "11a.21",
+   "ambiguous": false,
+   "pick": "ulla",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבה בר בר חנה",
+   "candidates": [
+    "rabbah-bar-bar-chanah"
+   ],
+   "lines": [
+    "11a.21"
+   ],
+   "count": 1,
+   "first": "11a.21",
+   "ambiguous": false,
+   "pick": "rabbah-bar-bar-chanah",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אבא",
+   "candidates": [
+    "rabbi-abba"
+   ],
+   "lines": [
+    "11a.22",
+    "11b.4"
+   ],
+   "count": 2,
+   "first": "11a.22",
+   "ambiguous": false,
+   "pick": "rabbi-abba",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבן גמליאל",
+   "candidates": [
+    "rabban-gamliel",
+    "rabban-gamliel-b-rabbi-(iii)",
+    "rabban-gamliel-hazaken-(i)"
+   ],
+   "lines": [
+    "11a.22",
+    "11b.2",
+    "11b.4"
+   ],
+   "count": 3,
+   "first": "11a.22",
+   "ambiguous": true,
+   "pick": "rabban-gamliel",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי יהושע",
+   "candidates": [
+    "rabbi-yehoshua-b-hananyah"
+   ],
+   "lines": [
+    "11b.2"
+   ],
+   "count": 1,
+   "first": "11b.2",
+   "ambiguous": false,
+   "pick": "rabbi-yehoshua-b-hananyah",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי עקיבא",
+   "candidates": [
+    "rabbi-akiva"
+   ],
+   "lines": [
+    "11b.2"
+   ],
+   "count": 1,
+   "first": "11b.2",
+   "ambiguous": false,
+   "pick": "rabbi-akiva",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי זירא",
+   "candidates": [
+    "rav-zera"
+   ],
+   "lines": [
+    "11b.4"
+   ],
+   "count": 1,
+   "first": "11b.4",
+   "ambiguous": false,
+   "pick": "rav-zera",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "11b.5"
+   ],
+   "count": 1,
+   "first": "11b.5",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב פפא",
+   "candidates": [
+    "rav-pappa"
+   ],
+   "lines": [
+    "11b.7",
+    "11b.9"
+   ],
+   "count": 2,
+   "first": "11b.7",
+   "ambiguous": false,
+   "pick": "rav-pappa",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי ירמיה",
+   "candidates": [
+    "rabbi-yirmeyah"
+   ],
+   "lines": [
+    "11b.8"
+   ],
+   "count": 1,
+   "first": "11b.8",
+   "ambiguous": false,
+   "pick": "rabbi-yirmeyah",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אבא בר כהנא",
+   "candidates": [
+    "rebbi-abba-b-kahana"
+   ],
+   "lines": [
+    "11b.8"
+   ],
+   "count": 1,
+   "first": "11b.8",
+   "ambiguous": false,
+   "pick": "rebbi-abba-b-kahana",
+   "pick_by": "only"
+  }
+ ]
+}

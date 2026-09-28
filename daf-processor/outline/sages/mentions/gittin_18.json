@@ -1,0 +1,255 @@
+{
+ "key": "gittin_18",
+ "tractate": "Gittin",
+ "sages": [
+  {
+   "name": "רבינא",
+   "candidates": [
+    "ravina-(i)"
+   ],
+   "lines": [
+    "17b.13",
+    "18a.3"
+   ],
+   "count": 2,
+   "first": "17b.13",
+   "ambiguous": false,
+   "pick": "ravina-(i)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "17b.13",
+    "18a.15"
+   ],
+   "count": 2,
+   "first": "17b.13",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב אשי",
+   "candidates": [
+    "rav-ashi"
+   ],
+   "lines": [
+    "18a.3",
+    "18a.8"
+   ],
+   "count": 2,
+   "first": "18a.3",
+   "ambiguous": false,
+   "pick": "rav-ashi",
+   "pick_by": "only"
+  },
+  {
+   "name": "שמואל",
+   "candidates": [
+    "shmuel-(amora)"
+   ],
+   "lines": [
+    "18a.4",
+    "18a.5",
+    "18a.6",
+    "18a.7",
+    "18a.10",
+    "18a.11",
+    "18a.12",
+    "18a.13",
+    "18a.14"
+   ],
+   "count": 9,
+   "first": "18a.4",
+   "ambiguous": false,
+   "pick": "shmuel-(amora)",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "18a.5"
+   ],
+   "count": 1,
+   "first": "18a.5",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "18a.5"
+   ],
+   "count": 1,
+   "first": "18a.5",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב כהנא",
+   "candidates": [
+    "rav-kahana-(i)",
+    "rav-kahana-(ii)",
+    "rav-kahana-(iii)",
+    "rav-kahana-(iv)",
+    "rav-kahana-(v)"
+   ],
+   "lines": [
+    "18a.8"
+   ],
+   "count": 1,
+   "first": "18a.8",
+   "ambiguous": true,
+   "pick": "rav-kahana-(iv)",
+   "pick_by": "context"
+  },
+  {
+   "name": "רב פפי",
+   "candidates": [
+    "rav-pappi"
+   ],
+   "lines": [
+    "18a.8"
+   ],
+   "count": 1,
+   "first": "18a.8",
+   "ambiguous": false,
+   "pick": "rav-pappi",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב פפא",
+   "candidates": [
+    "rav-pappa"
+   ],
+   "lines": [
+    "18a.8"
+   ],
+   "count": 1,
+   "first": "18a.8",
+   "ambiguous": false,
+   "pick": "rav-pappa",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב הונא בריה דרב יהושע",
+   "candidates": [
+    "rav-huna-b-r-yehoshua"
+   ],
+   "lines": [
+    "18a.8"
+   ],
+   "count": 1,
+   "first": "18a.8",
+   "ambiguous": false,
+   "pick": "rav-huna-b-r-yehoshua",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי חייא בר רב",
+   "candidates": [
+    "rav-hiyya-b-rav"
+   ],
+   "lines": [
+    "18a.13"
+   ],
+   "count": 1,
+   "first": "18a.13",
+   "ambiguous": false,
+   "pick": "rav-hiyya-b-rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי אלעזר בר רבי צדוק",
+   "candidates": [
+    "rabbi-elazar-b-tzadok-(i)",
+    "rabbi-elazar-b-tzadok-(ii)"
+   ],
+   "lines": [
+    "18a.14"
+   ],
+   "count": 1,
+   "first": "18a.14",
+   "ambiguous": true,
+   "pick": "rabbi-elazar-b-tzadok-(ii)",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבי שמעון",
+   "candidates": [
+    "shimon-bar-yochai"
+   ],
+   "lines": [
+    "18a.15",
+    "18a.16",
+    "19a.1",
+    "19a.2"
+   ],
+   "count": 4,
+   "first": "18a.15",
+   "ambiguous": false,
+   "pick": "shimon-bar-yochai",
+   "pick_by": "only"
+  },
+  {
+   "name": "ריש לקיש",
+   "candidates": [
+    "rabbi-shimon-b-lakish"
+   ],
+   "lines": [
+    "18a.16",
+    "18b.2",
+    "19a.2",
+    "19a.3"
+   ],
+   "count": 4,
+   "first": "18a.16",
+   "ambiguous": false,
+   "pick": "rabbi-shimon-b-lakish",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יוחנן",
+   "candidates": [
+    "rabbi-yochanan-b-napacha"
+   ],
+   "lines": [
+    "18b.1",
+    "18b.2",
+    "19a.2",
+    "19a.3"
+   ],
+   "count": 4,
+   "first": "18b.1",
+   "ambiguous": false,
+   "pick": "rabbi-yochanan-b-napacha",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי יהושע בן לוי",
+   "candidates": [
+    "rabbi-yehoshua-b-levi"
+   ],
+   "lines": [
+    "18b.7"
+   ],
+   "count": 1,
+   "first": "18b.7",
+   "ambiguous": false,
+   "pick": "rabbi-yehoshua-b-levi",
+   "pick_by": "only"
+  }
+ ]
+}

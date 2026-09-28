@@ -1,0 +1,63 @@
+{
+ "key": "bava_metzia_2",
+ "tractate": "Bava Metzia",
+ "sages": [
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "2a.11"
+   ],
+   "count": 1,
+   "first": "2a.11",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב שימי בר אשי",
+   "candidates": [
+    "rav-shimi-b-ashi"
+   ],
+   "lines": [
+    "2a.11"
+   ],
+   "count": 1,
+   "first": "2a.11",
+   "ambiguous": false,
+   "pick": "rav-shimi-b-ashi",
+   "pick_by": "only"
+  },
+  {
+   "name": "בן ננס",
+   "candidates": [
+    "rabbi-shimon-b-nannas"
+   ],
+   "lines": [
+    "2b.4",
+    "2b.6"
+   ],
+   "count": 2,
+   "first": "2b.4",
+   "ambiguous": false,
+   "pick": "rabbi-shimon-b-nannas",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב הונא",
+   "candidates": [
+    "rav-huna"
+   ],
+   "lines": [
+    "2b.12"
+   ],
+   "count": 1,
+   "first": "2b.12",
+   "ambiguous": false,
+   "pick": "rav-huna",
+   "pick_by": "only"
+  }
+ ]
+}

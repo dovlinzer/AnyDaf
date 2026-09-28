@@ -1,0 +1,606 @@
+{
+ "daf": "Bava Metzia 4",
+ "scope": {
+  "start": "4a: the Gemara explains how the garment Mishnah supports R. Chiya's ruling on *heilakh* (mid-exchange)",
+  "end": "4b: the note supports him, or the lien on land, as the answer for R. Chiya"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "*Heilakh*: *Modeh be'miktzat* or *kofer ha'kol*? R. Chiya vs. Rav Sheshet",
+   "amud": "4a",
+   "text": {
+    "from": "4a.15",
+    "to": "4a.18"
+   },
+   "gist": "Continuing R. Chiya's ruling that one who admits fifty and says *heilakh* (here you are) must still swear on the rest. The section covers his proof from the garment Mishnah, Rav Sheshet's exemption, and whether a rabbinic oath needs a Torah model.",
+   "bullets": [],
+   "chart": {
+    "caption": "R. Chiya vs. Rav Sheshet on one who admits part and says *heilakh*",
+    "columns": [
+     "",
+     "One who says *heilakh*",
+     "The garment Mishnah's oath",
+     "Reasoning"
+    ],
+    "rows": [
+     [
+      "R. Chiya",
+      "Must swear on the rest, by Torah law",
+      "A *takkanat chakhamim*, modeled on the Torah oath of *heilakh*",
+      "Handing over the admitted part is still a *modeh be'miktzat*"
+     ],
+     [
+      "Rav Sheshet",
+      "Exempt from an oath",
+      "A *takkanat chakhamim* specific to that case",
+      "The money handed over counts as the lender's already, so the rest is a *kofer ha'kol*"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "R. Chiya's case (4a.12, explained at 4a.13–4a.16): a claim of 100, fifty admitted and handed over on the spot. R. Chiya and Rav Sheshet disagree about the other fifty.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A claimant and a defendant on either side of a bar representing 100 dinars; the defendant hands over 50 and denies 50. Below, R. Chiya and Rav Sheshet give their rulings on the denied 50.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">“Here you are”: a claim of 100, with fifty handed over</text><text x=\"450\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#1B3A8A\">Claimant: “I have 100 dinars in your possession.”</text><text x=\"450\" y=\"94\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"400\" fill=\"#9A6212\">Defendant: “Only 50, and here you are.”</text><use href=\"#man\" x=\"80\" y=\"70\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"750\" y=\"70\" width=\"70\" height=\"140\" style=\"color:#8C5A3C\"/><rect x=\"200\" y=\"110\" width=\"250\" height=\"50\" fill=\"#E3EAF3\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><rect x=\"450\" y=\"110\" width=\"250\" height=\"50\" fill=\"#F3E6D8\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"325\" y=\"141\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">50 · admitted, handed over</text><text x=\"575\" y=\"141\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">50 · denied</text><path d=\"M196 135 L162 135\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><path d=\"M158 135 l10 -6 v12 z\" fill=\"#1B3A8A\"/><text x=\"115\" y=\"234\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Claimant</text><text x=\"785\" y=\"234\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Defendant</text><text x=\"450\" y=\"200\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#5A4A3A\" direction=\"rtl\">הילך</text><rect x=\"40\" y=\"262\" width=\"820\" height=\"70\" rx=\"12\" fill=\"#E3EAF3\"/><use href=\"#sage\" x=\"52\" y=\"268\" width=\"34\" height=\"59.5\" style=\"color:#50706E;--beard:#A8A39C;--wrap:#E4D8C0\"/><text x=\"100\" y=\"290\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">R. Chiya</text><text x=\"100\" y=\"314\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Saying “here you are” is still a partial admission: he swears on the other 50.</text><rect x=\"40\" y=\"346\" width=\"820\" height=\"70\" rx=\"12\" fill=\"#F3E6D8\"/><use href=\"#sage\" x=\"52\" y=\"352\" width=\"34\" height=\"59.5\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0\"/><text x=\"100\" y=\"374\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">Rav Sheshet</text><text x=\"100\" y=\"398\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">The 50 handed over is as if the lender has it; he denies all the rest, so he is exempt.</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "The Garment Mishnah: Each Holder's Half as *heilakh*",
+     "amud": "4a",
+     "text": {
+      "from": "4a.15",
+      "to": "4a.15"
+     },
+     "gist": "R. Chiya's support: each holder of the garment effectively has his half handed to him, and the Mishnah still has him swear.",
+     "bullets": [
+      {
+       "text": "In the Mishnah of two holding a garment, each grasps half. What each holds is clearly his, as if the other had said to him \"here you are, I am giving it to you.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Mishnah still has each one take an oath. So a defendant who denies part of a claim and says *heilakh* about the rest must swear.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The lecturer notes that the garment case is really \"witnesses on half\": each side's evidence is his physical possession, and the two sides' evidence is exactly equal. That symmetry is why its oath cannot be a Torah-level *modeh be'miktzat* (partial admission), which is the opening Rav Sheshet will use.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The opening Mishnah of Bava Metzia as R. Chiya reads it (4a.15): each holder's half is as if the other had said *heilakh*, yet each swears.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two men each hold one half of a garment and each says all of it is his. Each half is labeled as held by that man, as if the other had handed it over.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Two holding a garment</text><text x=\"450\" y=\"66\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">The opening Mishnah of Bava Metzia, as R. Chiya reads it</text><text x=\"165\" y=\"118\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">“All of it is mine”</text><text x=\"165\" y=\"140\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#5A4A3A\" direction=\"rtl\">כולה שלי</text><text x=\"735\" y=\"118\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">“All of it is mine”</text><text x=\"735\" y=\"140\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#5A4A3A\" direction=\"rtl\">כולה שלי</text><use href=\"#man\" x=\"120\" y=\"150\" width=\"90\" height=\"180\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"690\" y=\"150\" width=\"90\" height=\"180\" style=\"color:#8C5A3C\"/><rect x=\"230\" y=\"200\" width=\"220\" height=\"90\" fill=\"#E3EAF3\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><rect x=\"450\" y=\"200\" width=\"220\" height=\"90\" fill=\"#F3E6D8\" stroke=\"#9A6212\" stroke-width=\"2\"/><path d=\"M450 196 V294\" stroke=\"#5B6478\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><path d=\"M196 232 L232 232\" stroke=\"#D6AE86\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M704 232 L668 232\" stroke=\"#D6AE86\" stroke-width=\"6\" stroke-linecap=\"round\"/><text x=\"340\" y=\"238\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">First holder's half</text><text x=\"340\" y=\"260\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1B3A8A\">as if handed to him</text><text x=\"560\" y=\"238\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Second holder's half</text><text x=\"560\" y=\"260\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#9A6212\">as if handed to him</text><text x=\"165\" y=\"356\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">First holder</text><text x=\"735\" y=\"356\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Second holder</text><rect x=\"40\" y=\"384\" width=\"820\" height=\"62\" rx=\"12\" fill=\"#EFE6D2\"/><text x=\"450\" y=\"408\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">R. Chiya: what each holds is as if the other said “here you are”,</text><text x=\"450\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">yet the Mishnah has each take an oath, so heilakh still requires an oath</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Rav Sheshet: The Handed-Over Money Is Already the Lender's, So a *kofer ha'kol*",
+     "amud": "4a",
+     "text": {
+      "from": "4a.16",
+      "to": "4a.16"
+     },
+     "gist": "Rav Sheshet exempts one who says *heilakh*: what he admits is already in the lender's hands, and all that is left is a denial.",
+     "bullets": [
+      {
+       "text": "Rav Sheshet: one who says *heilakh* about part of the claim and denies the rest is exempt from an oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "His reason: the dinars he admits are as if the creditor already has them. He did not admit owing the other fifty, so there is no *modeh be'miktzat* here.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "In effect the remaining dispute is a *kofer ha'kol* over fifty, and a full denial carries no Torah oath.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "The Garment Oath: *Takkanat Chakhamim*, but With or Without a Torah Model?",
+     "amud": "4a",
+     "text": {
+      "from": "4a.17",
+      "to": "4a.18"
+     },
+     "gist": "Rav Sheshet answers the garment Mishnah by calling its oath rabbinic. R. Chiya agrees that it is rabbinic, but asks whether the Sages would enact an oath that has no counterpart in Torah law.",
+     "bullets": [
+      {
+       "text": "Challenge to Rav Sheshet: the garment Mishnah looks like the same case, and it requires an oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Sheshet: that oath is a rabbinic ordinance for that case alone. In general, one who hands over what he admits is exempt.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The lecturer suggests the Sages enacted it to keep people from grabbing things and claiming them as their own.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "R. Chiya grants that the oath is rabbinic. But if *heilakh* obligates an oath by Torah law, the Sages modeled their oath on it. If it is exempt by Torah law, would the Sages have instituted an oath with no Torah counterpart?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A deeper edge to the argument: if *heilakh* is exempt, Torah logic applied to the garment case (each half already \"handed over\") would yield no oath at all. The rabbinic oath would then run against Torah reasoning, not merely lack a model.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "The Unspecified Note: Is the Documented Minimum Like *heilakh*?",
+   "amud": "4a–4b",
+   "text": {
+    "from": "4a.19",
+    "to": "4b.10"
+   },
+   "gist": "A baraita about a note with no amount is used against each side in turn: R. Shimon ben Elazar against R. Chiya, and R. Akiva against Rav Sheshet. Both challenges are deflected, and admitting the note's two dinars turns out to be exempt for reasons of its own.",
+   "bullets": [],
+   "chart": {
+    "caption": "The baraita used against each side of the *heilakh* dispute",
+    "columns": [
+     "Challenge",
+     "Inference from the baraita",
+     "Deflection tried",
+     "Outcome"
+    ],
+    "rows": [
+     [
+      "Against R. Chiya (from R. Shimon ben Elazar)",
+      "Only admitting three obligates; admitting two, which is like *heilakh*, is exempt",
+      "Two also obligates; three is named only to answer R. Akiva",
+      "The deflection fails on the wording. Two is exempt, but because the note supports him or because of the *shibud karka'ot*"
+     ],
+     [
+      "Against Rav Sheshet (from R. Akiva)",
+      "Only admitting three exempts; admitting two, which is like *heilakh*, obligates",
+      "Two is also exempt; three is named only to answer R. Shimon ben Elazar",
+      "The deflection holds, since otherwise the debtor could game the rule by saying three"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s6",
+     "title": "Baraita: Five Claimed, Three Admitted: *Modeh be'miktzat* or Returning a Lost Item?",
+     "amud": "4a–4b",
+     "text": {
+      "from": "4a.19",
+      "to": "4b.1"
+     },
+     "gist": "A note records a loan of unspecified *sela'im* or dinars. R. Shimon ben Elazar requires an oath of one who admits three, and R. Akiva exempts him as one returning a lost item.",
+     "bullets": [
+      {
+       "text": "The Gemara brings a baraita to object to R. Chiya. A promissory note says \"*sela'im*\" or \"dinars\" with no number. The creditor says five *sela*, the debtor says three.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Shimon ben Elazar: since he admitted part of the claim, he takes an oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Akiva: the note's plural wording proves only two, the minimum plural. By admitting three he is like one returning a lost item (*meshiv aveidah*), and he is exempt.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The logic of *meshiv aveidah*: he could have said two and nothing could contradict him. Imposing an oath for volunteering more would discourage honest admissions. The lecturer leaves open whether this is a policy of the Sages or a *migo*-type argument.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "The baraita of the unspecified note",
+      "columns": [
+       "",
+       "Admits three",
+       "Admits two (as the Gemara concludes)",
+       "Why"
+      ],
+      "rows": [
+       [
+        "R. Shimon ben Elazar",
+        "Takes an oath",
+        "Exempt",
+        "He admitted part of the claim"
+       ],
+       [
+        "R. Akiva",
+        "Exempt",
+        "Exempt",
+        "Admitting beyond the note's two is like returning a lost item"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "The baraita's case (4b.1): the note proves only the minimum plural, two. The debtor admits three and the creditor claims five.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A promissory note reading sela'im with the number missing, beside a number line marking two as proven by the note, three as the debtor's admission and five as the creditor's claim. Below, the rulings of R. Shimon ben Elazar and R. Akiva.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">A note with no amount</text><rect x=\"40\" y=\"64\" width=\"300\" height=\"250\" rx=\"6\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><text x=\"190\" y=\"108\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"400\" fill=\"#5A4A3A\" direction=\"rtl\">שטר חוב</text><text x=\"150\" y=\"182\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"24\" font-weight=\"400\" fill=\"#3A2E24\" direction=\"rtl\">סלעים</text><ellipse cx=\"250\" cy=\"174\" rx=\"42\" ry=\"15\" fill=\"#C9B99A\" opacity=\"0.7\"/><text x=\"250\" y=\"208\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">no number</text><g stroke=\"#D9CFBD\" stroke-width=\"2\"><line x1=\"70\" y1=\"240\" x2=\"310\" y2=\"240\"/><line x1=\"70\" y1=\"262\" x2=\"310\" y2=\"262\"/><line x1=\"70\" y1=\"284\" x2=\"250\" y2=\"284\"/></g><text x=\"190\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">“Sela'im”, but how many?</text><text x=\"190\" y=\"360\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">A plural: at least two</text><line x1=\"420\" y1=\"150\" x2=\"860\" y2=\"150\" stroke=\"#8A7F72\" stroke-width=\"3\"/><g stroke=\"#8A7F72\" stroke-width=\"2\"><line x1=\"440\" y1=\"142\" x2=\"440\" y2=\"158\"/><line x1=\"540\" y1=\"142\" x2=\"540\" y2=\"158\"/><line x1=\"640\" y1=\"142\" x2=\"640\" y2=\"158\"/><line x1=\"740\" y1=\"142\" x2=\"740\" y2=\"158\"/><line x1=\"840\" y1=\"142\" x2=\"840\" y2=\"158\"/></g><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"440\" y=\"178\">1</text><text x=\"540\" y=\"178\">2</text><text x=\"640\" y=\"178\">3</text><text x=\"740\" y=\"178\">4</text><text x=\"840\" y=\"178\">5</text></g><circle cx=\"540\" cy=\"150\" r=\"9\" fill=\"#5A4A3A\"/><circle cx=\"640\" cy=\"150\" r=\"9\" fill=\"#9A6212\"/><circle cx=\"840\" cy=\"150\" r=\"9\" fill=\"#1B3A8A\"/><text x=\"540\" y=\"124\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A4A3A\">Note proves 2</text><text x=\"640\" y=\"124\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Debtor: 3</text><text x=\"836\" y=\"124\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Creditor: 5</text><path d=\"M542 200 V208 H638 V200\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"590\" y=\"228\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#9A6212\">admitted beyond the note</text><path d=\"M642 200 V208 H838 V200\" fill=\"none\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><text x=\"740\" y=\"246\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1B3A8A\">denied</text><rect x=\"380\" y=\"260\" width=\"480\" height=\"80\" rx=\"12\" fill=\"#E3EAF3\"/><use href=\"#sage\" x=\"392\" y=\"268\" width=\"36\" height=\"63\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><text x=\"440\" y=\"292\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">R. Shimon ben Elazar</text><text x=\"440\" y=\"316\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">He admitted part of the claim: he takes an oath.</text><rect x=\"380\" y=\"352\" width=\"480\" height=\"80\" rx=\"12\" fill=\"#F3E6D8\"/><use href=\"#sage\" x=\"392\" y=\"360\" width=\"36\" height=\"63\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\"/><text x=\"440\" y=\"384\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">R. Akiva</text><text x=\"440\" y=\"408\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Admitting three is like returning a lost item: exempt.</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s7",
+     "title": "Challenge to R. Chiya: R. Shimon ben Elazar Implies Admitting Two Is Exempt",
+     "amud": "4b",
+     "text": {
+      "from": "4b.2",
+      "to": "4b.6"
+     },
+     "gist": "The inference that the note's two dinars are like *heilakh* and exempt, a failed attempt to deflect it, and the Gemara's answer that two is exempt for other reasons.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s8",
+       "title": "The Inference: The Note's Two Dinars Are Like *heilakh*",
+       "amud": "4b",
+       "text": {
+        "from": "4b.2",
+        "to": "4b.2"
+       },
+       "gist": "R. Shimon ben Elazar obligates because the debtor said three, which implies that admitting two, already in the note, would be exempt.",
+       "bullets": [
+        {
+         "text": "R. Shimon ben Elazar obligates \"since he admitted part\", that is, because he said three. Had he admitted only two, he would be exempt.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "An obligation already recorded in a note is like one about which the debtor says *heilakh*. So one who says *heilakh* is exempt, against R. Chiya.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Before a word is said in court, the note already proves two, so the only live dispute is above that minimum.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s9",
+       "title": "Deflection Rejected: The Baraita Would Have Said \"Even This One\"",
+       "amud": "4b",
+       "text": {
+        "from": "4b.3",
+        "to": "4b.4"
+       },
+       "gist": "Perhaps admitting two obligates too, and three is named only to answer R. Akiva; but then the baraita would have been worded \"even this one swears.\"",
+       "bullets": [
+        {
+         "text": "Proposal: even admitting two obligates an oath. The dispute is set at three only to reject R. Akiva's view of the debtor as one returning a lost item.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rejected: then R. Shimon ben Elazar should have said \"even this one, who admits three, swears\", not \"since he admitted part of the claim, he swears.\"",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s10",
+       "title": "Two Is Exempt, but Not as *Heilakh*: The Note's Support or the *shibud karka'ot*",
+       "amud": "4b",
+       "text": {
+        "from": "4b.5",
+        "to": "4b.6"
+       },
+       "gist": "Admitting two is exempt, yet *heilakh* still obligates. The two dinars are exempt either because the note supports the debtor or because a note creates a *shibud karka'ot* (lien on land).",
+       "bullets": [
+        {
+         "text": "Conclusion: admitting two is exempt, and still one who says *heilakh* must swear. This case is different because the note supports him: it shows he owes two.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Alternatively: a promissory note creates a lien on the debtor's land (*shibud karka'ot*), and no oath is taken over the denial of a debt secured by land. Oaths apply only to money and movables.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A note works like two witnesses: its plural wording proves two with the force of testimony, so the debtor's \"admission\" of two adds nothing.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The lien reaches exactly what the note proves, two. Admitting two admits only a land-lien obligation. Admitting three adds one dinar of plain money outside the lien, and that is a genuine *modeh be'miktzat*.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "The Gemara's two alternative reasons (4b.5–4b.6, repeated at 4b.10) why a debtor who admits only the note's two dinars takes no oath, even for R. Chiya.",
+        "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two panels. Left: a note showing the number two, which it already proves. Right: a note with an arrow to a field, showing that the note is a lien on the debtor's land.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">If he admits only two, why no oath?</text><text x=\"450\" y=\"58\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Two alternative answers</text><rect x=\"20\" y=\"76\" width=\"420\" height=\"326\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"230\" y=\"110\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">1. The note supports him</text><rect x=\"170\" y=\"134\" width=\"120\" height=\"150\" rx=\"5\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><text x=\"230\" y=\"226\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"44\" font-weight=\"600\" fill=\"#5A4A3A\">2</text><text x=\"230\" y=\"318\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">The two he admits are already proven</text><text x=\"230\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">by the note, so they add nothing</text><text x=\"230\" y=\"380\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#3A5692\" direction=\"rtl\">מסייע ליה שטרא</text><rect x=\"460\" y=\"76\" width=\"420\" height=\"326\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"110\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">2. The note is a lien on land</text><rect x=\"500\" y=\"150\" width=\"100\" height=\"130\" rx=\"5\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><text x=\"550\" y=\"226\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"36\" font-weight=\"600\" fill=\"#5A4A3A\">2</text><path d=\"M606 215 L650 230\" stroke=\"#9A6212\" stroke-width=\"3\"/><path d=\"M656 232 l-12 1 l4 -10 z\" fill=\"#9A6212\"/><rect x=\"662\" y=\"196\" width=\"190\" height=\"80\" fill=\"#D9C9A8\" stroke=\"#BFAE8E\"/><g stroke=\"#B8A47E\" stroke-width=\"2\"><line x1=\"672\" y1=\"216\" x2=\"842\" y2=\"216\"/><line x1=\"672\" y1=\"236\" x2=\"842\" y2=\"236\"/><line x1=\"672\" y1=\"256\" x2=\"842\" y2=\"256\"/></g><text x=\"757\" y=\"298\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">the debtor's land</text><text x=\"670\" y=\"326\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">No oath is taken over a debt</text><text x=\"670\" y=\"348\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">secured by a lien on land</text><text x=\"670\" y=\"384\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#7A4A2A\" direction=\"rtl\">שעבוד קרקעות</text></svg>"
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s11",
+     "title": "Challenge to Rav Sheshet: R. Akiva Implies Admitting Two Obligates",
+     "amud": "4b",
+     "text": {
+      "from": "4b.7",
+      "to": "4b.10"
+     },
+     "gist": "Some read R. Akiva as obligating one who admits two, against Rav Sheshet. The Gemara deflects this and proves the deflection from the debtor's possible ploy, which brings the answers for R. Chiya back.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s12",
+       "title": "The Inference: Only Three Is Returning a Lost Item",
+       "amud": "4b",
+       "text": {
+        "from": "4b.7",
+        "to": "4b.7"
+       },
+       "gist": "R. Akiva exempts because the debtor said three, which implies that admitting two, like *heilakh*, would obligate.",
+       "bullets": [
+        {
+         "text": "Some raise the challenge from the baraita's second half. R. Akiva exempts because the debtor said three, so had he said two he would have to swear.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The note's two dinars are like *heilakh*, so one who says *heilakh* must swear, against Rav Sheshet.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s13",
+       "title": "Deflection: Three Is Named Only to Answer R. Shimon ben Elazar",
+       "amud": "4b",
+       "text": {
+        "from": "4b.8",
+        "to": "4b.8"
+       },
+       "gist": "R. Akiva also exempts one who admits two. He speaks of three only to reject R. Shimon ben Elazar's partial-admission view.",
+       "bullets": [
+        {
+         "text": "The Gemara answers that admitting two is exempt for R. Akiva too. The dispute is set at three to reject R. Shimon ben Elazar, who treats that debtor as one who admits part of the claim.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Akiva's point is that admitting three makes the debtor like one returning a lost item, and so exempt.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s14",
+       "title": "Proof: Otherwise the Debtor Would Say Three to Escape the Oath",
+       "amud": "4b",
+       "text": {
+        "from": "4b.9",
+        "to": "4b.9"
+       },
+       "gist": "If admitting two obligated an oath, R. Akiva's exemption for three would invite a ploy, so admitting two must be exempt.",
+       "bullets": [
+        {
+         "text": "The Gemara supports this reading. If admitting two obligated an oath, how could R. Akiva exempt one who admits three?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The debtor might be scheming: \"If I say two, I must swear. I'll say three, count as returning a lost item, and be exempt.\" So even admitting two must be exempt.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The underlying assumption is that the Sages do not frame a rule that an informed litigant could easily game.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "The Gemara's proof (4b.9): if admitting two obligated an oath, a debtor could exploit R. Akiva's exemption by saying three.",
+        "svg": "<svg viewBox=\"0 0 900 400\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A debtor thinking through a ploy: saying two would bring an oath, so he says three to count as returning a lost item. A conclusion box says even one who admits two is exempt.</title><rect width=\"900\" height=\"400\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">Why R. Akiva must exempt two as well</text><use href=\"#man\" x=\"60\" y=\"150\" width=\"90\" height=\"180\" style=\"color:#8C5A3C\"/><circle cx=\"152\" cy=\"176\" r=\"5\" fill=\"#E3D6BE\"/><circle cx=\"174\" cy=\"152\" r=\"8\" fill=\"#E3D6BE\"/><text x=\"105\" y=\"354\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">The debtor</text><rect x=\"200\" y=\"72\" width=\"660\" height=\"84\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"530\" y=\"106\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">“If I say I owe two, I'll have to take an oath…”</text><text x=\"530\" y=\"134\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">(supposing that admitting two obligated an oath)</text><rect x=\"200\" y=\"178\" width=\"660\" height=\"84\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"530\" y=\"212\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">“…so I'll say three, count as returning a lost item, and be exempt.”</text><text x=\"530\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">the exemption for honesty would reward a ploy</text><rect x=\"200\" y=\"290\" width=\"660\" height=\"78\" rx=\"14\" fill=\"#EFE6D2\"/><text x=\"530\" y=\"322\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Conclusion: even one who admits only two is exempt,</text><text x=\"530\" y=\"348\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">so the baraita's dispute is only about three</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s15",
+       "title": "Back to R. Chiya: The Note's Support or the *shibud karka'ot* Again",
+       "amud": "4b",
+       "text": {
+        "from": "4b.10",
+        "to": "4b.10"
+       },
+       "gist": "Exempting one who admits two now seems to refute R. Chiya, and the same two answers apply: the note supports him, or the note is a *shibud karka'ot*.",
+       "bullets": [
+        {
+         "text": "Challenge: if one who admits two is exempt, this contradicts R. Chiya, who obligates one who says \"here you are.\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: that case is different because the note supports him. Alternatively, the note creates a *shibud karka'ot*, and no oath is taken over the denial of a debt secured by land.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "returns_to": [
+        {
+         "id": "s10",
+         "note": "The same two answers given earlier for R. Shimon ben Elazar's version"
+        }
+       ],
+       "continues": "The *heilakh* dispute continues: Mar Zutra, son of Rav Nachman, challenges Rav Sheshet from the Mishnah in Shevuot on a claim of vessels and land."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "heilakh",
+   "hebrew": "הילך",
+   "sense": "handing over the admitted part of a claim on the spot",
+   "definition": "A defendant who says \"here you are\" and immediately hands over the part of the claim he admits. The question is whether he still counts as admitting part of the claim.",
+   "on_this_daf": "R. Chiya holds that one who says heilakh must still swear on the rest. Rav Sheshet exempts him, since the money handed over counts as the lender's already.",
+   "aliases": [
+    "heilakh"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s8",
+    "s10",
+    "s12",
+    "s15"
+   ]
+  },
+  {
+   "term": "modeh be'miktzat",
+   "hebrew": "מודה במקצת",
+   "sense": "admitting part of a monetary claim",
+   "definition": "A defendant who admits part of a monetary claim and denies the rest. By Torah law he must take an oath on the part he denies.",
+   "on_this_daf": "The daf asks whether handing over the admitted part, or admitting only what a note already proves, still counts as a partial admission.",
+   "aliases": [
+    "modeh be'miktzat"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s6",
+    "s8"
+   ]
+  },
+  {
+   "term": "kofer ha'kol",
+   "hebrew": "כופר הכל",
+   "sense": "denying a claim entirely",
+   "definition": "A defendant who denies the whole claim against him. Without other evidence, Torah law imposes no oath on him.",
+   "on_this_daf": "For Rav Sheshet, once the admitted money is handed over, the defendant is a kofer ha'kol on what remains.",
+   "aliases": [
+    "kofer ha'kol"
+   ],
+   "sections": [
+    "s1",
+    "s3"
+   ]
+  },
+  {
+   "term": "takkanat chakhamim",
+   "hebrew": "תקנת חכמים",
+   "sense": "a rabbinic enactment",
+   "definition": "A law instituted by the Sages rather than derived from the Torah, often modeled on a Torah law.",
+   "on_this_daf": "Both sides call the garment Mishnah's oath a rabbinic ordinance. R. Chiya argues that it must have a Torah model, the oath of heilakh.",
+   "aliases": [
+    "Takkanat Chakhamim",
+    "takkanat chakhamim"
+   ],
+   "sections": [
+    "s1",
+    "s4"
+   ]
+  },
+  {
+   "term": "meshiv aveidah",
+   "hebrew": "משיב אבידה",
+   "sense": "one who volunteers what could not be proven against him",
+   "definition": "One who returns a lost item he could have kept. By extension, a litigant who admits more than could be proven against him is treated like him and exempt from an oath.",
+   "on_this_daf": "R. Akiva treats a debtor who admits three, when the note proves only two, as returning a lost item, and exempts him.",
+   "aliases": [
+    "meshiv aveidah"
+   ],
+   "sections": [
+    "s6",
+    "s9",
+    "s12",
+    "s13",
+    "s14"
+   ]
+  },
+  {
+   "term": "shibud karka'ot",
+   "hebrew": "שעבוד קרקעות",
+   "sense": "a debt secured by a lien on land",
+   "definition": "The lien that a written loan document creates on the debtor's real estate. Claims about land, including debts secured by it, are not subject to the oath of partial admission.",
+   "on_this_daf": "One reason a debtor who admits only the note's two dinars takes no oath: that obligation is secured by a lien on land.",
+   "aliases": [
+    "shibud karka'ot"
+   ],
+   "sections": [
+    "s10",
+    "s15"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The baraita of the unspecified note (4a.19–4b.10) could be nested under the heilakh dispute, since both challenges test R. Chiya and Rav Sheshet. Made it a separate top-level section because it is a self-contained source with its own case and machinery, tested against each side in turn.",
+  "The garment Mishnah's proof (4a.15) could be merged into the heilakh parent's bullets. Kept it as a child so that R. Chiya's proof, Rav Sheshet's view and the debate over the rabbinic oath read as three steps.",
+  "4b.10 repeats the two answers of 4b.5–4b.6. Kept it where it falls, under the challenge to Rav Sheshet, with a returns_to link, rather than merging it with the earlier section.",
+  "The two challenges from the baraita could be arranged as one section each for R. Shimon ben Elazar and R. Akiva, with the challenges beneath them. Followed the Gemara's order of challenge, deflection and answer instead."
+ ],
+ "coverage_notes": [
+  "The shiur material on 4a.1–4a.14 (the one-witness and gilgul inferences, the common-denominator argument, the concern that the defendant is a proven liar, conspiring witnesses, why the garment Mishnah doesn't match R. Chiya's two-witness ruling, and R. Chiya's statement of the heilakh ruling) is outside this outline's scope.",
+  "The Gemara from 4b.11 on (Mar Zutra's challenge from the Mishnah in Shevuot, the binding of a land claim to an oath, and the Mishnah in Kiddushin) is outside this outline's scope; the shiur doesn't reach it either.",
+  "The essay calls the tanna 'Rabban Shimon ben Elazar'; the text has Rabbi Shimon ben Elazar. Followed the text.",
+  "The essay describes the note as recording dinars, with claims of five and three dinars. The text says the note has an unspecified number of sela'im or dinars, the creditor claims five sela, and the debtor says three; R. Akiva speaks of two dinars as the minimum plural. Followed the text.",
+  "The essay presents the baraita as an analysis of the two positions. The text brings it first as an objection to R. Chiya (4a.19) and then, 'there are those who', as an objection to Rav Sheshet (4b.7). Followed the text's structure.",
+  "The essay lists three convergent grounds for exempting one who admits two, one of them heilakh. The text gives two alternative answers (the note supports him; a lien on land), and at 4b.5 explicitly keeps heilakh as obligating. Followed the text.",
+  "The essay's step at 4b.3–4b.4 (the deflection rejected on the wording 'even this one') is barely discussed in the shiur; outlined from the text.",
+  "The essay says R. Chiya 'emerges with his original position intact' after the rabbinic-oath argument. The text records no reply from Rav Sheshet and no ruling, so the outline doesn't state a resolution."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s10",
+    "subject": "The two reasons admitting two is exempt, compared",
+    "why_not": "Two alternative reasons with no shared dimensions; the bullets and the illustration carry them."
+   },
+   {
+    "section": "s4",
+    "subject": "The garment case vs. a standard partial admission",
+    "why_not": "The contrast is mostly from 4a.11, outside scope, and the heilakh chart already covers the rabbinic-oath point."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s4",
+    "subject": "The Sages' oath modeled on, or independent of, a Torah oath",
+    "why_not": "An abstract argument with no scene or counts; a diagram would only repeat the chart."
+   },
+   {
+    "section": "s9",
+    "subject": "The wording 'since he admitted' vs. 'even this one'",
+    "why_not": "A point about phrasing, not a scene; the bullets carry it."
+   }
+  ]
+ }
+}

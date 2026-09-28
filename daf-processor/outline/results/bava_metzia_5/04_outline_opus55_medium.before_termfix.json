@@ -1,0 +1,711 @@
+{
+ "daf": "Bava Metzia 5",
+ "scope": {
+  "start": "4b: Mar Zutra son of Rav Nachman's objection to Rav Sheshet from the Mishnah of vessels and land (the exchange on *heilakh* began on 4a)",
+  "end": "5b: Rav Huna's oath for the tallit, 'All of it is mine, but according to your statement…'"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "*Heilakh* and Land: Rav Sheshet Tested by the Mishnah of Vessels and Land",
+   "amud": "4b–5a",
+   "text": {
+    "from": "4b.11",
+    "to": "5a.3"
+   },
+   "gist": "Continuing Rav Sheshet's view that *heilakh* exempts from an oath, against R. Chiya's view that it obligates. Three steps: an inference from the Mishnah of vessels and land, which tractate is the main source for *zokekin*, and why a verse is needed to exempt land.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "Vessels and Vessels: Does the Mishnah Imply *Heilakh* Obligates?",
+     "amud": "4b",
+     "text": {
+      "from": "4b.11",
+      "to": "4b.13"
+     },
+     "gist": "The Mishnah seems to imply that a claim of two sets of vessels, like vessels and land, would obligate an oath even with *heilakh*. The Gemara answers that its real point is that the vessels bind the land into the oath.",
+     "bullets": [
+      {
+       "text": "Mar Zutra son of Rav Nachman objects to Rav Sheshet from the Mishnah in Shevuot 38b. The claim is for vessels and land. If the defendant admits the vessels and denies the land, or admits the land and denies the vessels, he is exempt. If he admits part of the land he is exempt. If he admits part of the vessels he must swear.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Inference: he is exempt only because a claim of land is not subject to an oath. So a claim of vessels and vessels, set out the same way, would obligate an oath. The case must be one where he says *heilakh* (\"here you are\"), so *heilakh* obligates, as R. Chiya holds.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Land has two features at once: the verse excludes it from oaths, and admitting it is always *heilakh*, since land stays where it is. The question is which of the two the Mishnah's exemption rests on.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Answer: vessels and vessels would in fact also be exempt. The Mishnah chose land to teach something else: a partial admission of the vessels obligates an oath, and that oath extends to the land he denied, even though land alone is never sworn on.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "The Mishnah (Shevuot 38b): a claim of vessels and land",
+      "columns": [
+       "Defendant's answer",
+       "Oath?",
+       "Why"
+      ],
+      "rows": [
+       [
+        "Admits the vessels, denies the land",
+        "Exempt",
+        "A claim of land is not subject to an oath"
+       ],
+       [
+        "Admits the land, denies the vessels",
+        "Exempt",
+        "His admission concerns land, which does not count toward partial admission"
+       ],
+       [
+        "Admits part of the land",
+        "Exempt",
+        "Land on both sides of the admission"
+       ],
+       [
+        "Admits part of the vessels",
+        "Swears, on the land too",
+        "Partial admission of the vessels, and the oath binds (*zokekin*) the land"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "*Zokekin* in Shevuot or Kiddushin: Main Source or Passing Mention?",
+     "amud": "4b",
+     "text": {
+      "from": "4b.14",
+      "to": "4b.15"
+     },
+     "gist": "The rule that an oath on movables binds land is already in Kiddushin. Shevuot is its main place; Kiddushin mentions it only in passing.",
+     "bullets": [
+      {
+       "text": "Objection: this binding was already taught in Kiddushin 26a. Property without a guarantee (movables) binds property that serves as a guarantee (land), so that he swears on the land too. Why repeat it in Shevuot?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: the Mishnah in Shevuot is the main source, since that tractate deals with the laws of oaths. Kiddushin cites the rule incidentally, within a survey of how the two kinds of property differ.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Kiddushin is about modes of acquisition. The oath rule came along there only as part of a list of the differences between movables and land.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Why a Verse to Exempt Land? Damaged Land, or Land Denied",
+     "amud": "5a",
+     "text": {
+      "from": "5a.1",
+      "to": "5a.3"
+     },
+     "gist": "If *heilakh* exempts, admitting land is always *heilakh*, so why exclude land by a verse? Either the land was damaged, or the land was denied rather than admitted.",
+     "bullets": [
+      {
+       "text": "Question for Rav Sheshet: why does the verse (Shemot 22:8) need to exclude land from the oath of partial admission? Admitting land is always *heilakh*, since land stays in its place.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "First answer: the defendant dug pits, ditches and caves in the land. The land is no longer in its prior state, so returning it is not *heilakh*, and the verse is still needed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Second answer: the claim is vessels and land, and he admits the vessels and denies the land. The land is denied, not handed over, so there is no *heilakh*, and the verse teaches that he does not swear on it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The second answer is the more straightforward one: *heilakh* belongs to what a person admits. The verse is needed for land that sits on the denial side of the claim.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Rami bar Chama's Four Bailees: *Heilakh*, or the Three Cows?",
+   "amud": "5a",
+   "text": {
+    "from": "5a.4",
+    "to": "5a.6"
+   },
+   "gist": "A baraita requiring partial denial and partial admission from all four bailees looks like proof that *heilakh* obligates. The Gemara reads it as a case of dead cows, where nothing is handed back.",
+   "bullets": [
+    {
+     "text": "Rami bar Chama's baraita: all four bailees (unpaid bailee, borrower, paid bailee, renter) are liable to an oath only if they deny part of the claim and admit part of it.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Proposed proof for R. Chiya: the case must be \"what I admit, here you are; the rest I never received.\" That is *heilakh*, and still he swears.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "A deposit is a physical object held for its owner, so admitting it naturally amounts to handing it back. A loan is different, since borrowed money is spent.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Rejection: the case is three cows given to an unpaid bailee, with the claim that all three died through his negligence. He answers: one was never given to me; one died by unavoidable accident; one died by my negligence, and I will pay for it.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "That is *modeh be'miktzat* but not *heilakh*: he is not returning the cow itself.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "illustration": {
+    "caption": "The case to which the Gemara assigns Rami bar Chama's baraita (5a): the bailee denies one cow, claims an accident for another and admits negligence for the third, so he admits part without handing anything back.",
+    "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three cows claimed from an unpaid bailee: he says one was never given, one died by accident, and one died by his negligence.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">“I gave you three cows, and all died through your negligence”</text><rect x=\"30\" y=\"60\" width=\"270\" height=\"300\" rx=\"14\" fill=\"#EFE9DF\"/><rect x=\"315\" y=\"60\" width=\"270\" height=\"300\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"600\" y=\"60\" width=\"270\" height=\"300\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"165\" y=\"92\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#5A4A3A\">Cow 1</text><text x=\"450\" y=\"92\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">Cow 2</text><text x=\"735\" y=\"92\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">Cow 3</text><use href=\"#bull\" x=\"80\" y=\"115\" width=\"170\" height=\"110\" opacity=\"0.3\"/><use href=\"#bull\" x=\"365\" y=\"115\" width=\"170\" height=\"110\"/><use href=\"#bull\" x=\"650\" y=\"115\" width=\"170\" height=\"110\"/><text x=\"165\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">“This never happened”</text><text x=\"165\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">I received only two</text><text x=\"165\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A4A3A\">Denied</text><text x=\"450\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Died by accident</text><text x=\"450\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">an unavoidable accident</text><text x=\"450\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Exempt from paying</text><text x=\"735\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Died by my negligence</text><text x=\"735\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">“for this one I must pay”</text><text x=\"735\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">Admitted</text><text x=\"450\" y=\"396\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">A partial admission, but not heilakh: he owes money for a dead cow and hands no cow back</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s6",
+   "title": "Witnesses to Part: R. Chiya vs. the Father of R. Aptoriki on '*Hu Zeh*'",
+   "amud": "5a",
+   "text": {
+    "from": "5a.7",
+    "to": "5a.13"
+   },
+   "gist": "A baraita excludes testimony from the oath of partial admission, against R. Chiya's first *halakha*. The Gemara answers that R. Chiya is a tanna, then shows how each side reads the two words \"*hu*\" and \"*zeh*\", which leads to the question of an admission of a different kind (wheat and barley).",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s7",
+     "title": "The Baraita: 'By His Mouth', Not by Witnesses; R. Chiya Is a Tanna",
+     "amud": "5a",
+     "text": {
+      "from": "5a.7",
+      "to": "5a.10"
+     },
+     "gist": "The father of R. Aptoriki derives from the verse that witnesses to part of a claim do not obligate an oath. R. Chiya, a tanna himself, may disagree, and he reads the verse as the source of partial admission itself.",
+     "bullets": [
+      {
+       "text": "Baraita of the father of R. Aptoriki: he claims 100 dinars, the other says \"nothing of yours is with me,\" and witnesses testify to 50. One might think he swears on the remainder.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The verse says \"about which one shall say: This is it\" (Shemot 22:8). You obligate an oath on the admission of his own mouth, not on the testimony of witnesses.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rejection: R. Chiya is himself a tanna and may dispute a baraita.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "But the baraita cites a verse! For R. Chiya, that verse teaches the basic rule that *modeh be'miktzat*, one who admits part of the claim, must swear.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Chiya then reaches witnesses by a *kal va'chomer*: if his own admission of part obligates an oath on the rest, witnesses, who have no stake in the case, should obligate it all the more.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "*Hu* and *Zeh*: Exclude Witnesses, or Require *Mi'min Ha'ta'anah*?",
+     "amud": "5a",
+     "text": {
+      "from": "5a.11",
+      "to": "5a.13"
+     },
+     "gist": "Both sides use one word for the basic rule of partial admission. For the second word, the father of R. Aptoriki excludes witnesses and R. Chiya requires an admission of the same kind, while the father of R. Aptoriki follows Rabban Gamliel on that question.",
+     "bullets": [
+      {
+       "text": "The father of R. Aptoriki: \"it\" and \"this\" are both written. One word teaches that partial admission obligates an oath; the other exempts a case of witnesses.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Chiya: one word teaches partial admission; the other teaches that he swears only if he admits something of the same kind as the claim (*mi'min ha'ta'anah*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The father of R. Aptoriki does not require the same kind; he holds like Rabban Gamliel. Mishnah Shevuot 38b: claimed wheat, admitted barley; the first tanna exempts, and Rabban Gamliel obligates an oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabban Gamliel's reasoning: the claim was worth a certain amount and the admission covered less of it, which is partial admission and partial denial whatever the item.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Two readings of \"This is it\" (*ki hu zeh*)",
+      "columns": [
+       "",
+       "One word teaches",
+       "The other word teaches",
+       "Witnesses testify to part",
+       "Claimed wheat, admits barley"
+      ],
+      "rows": [
+       [
+        "R. Chiya",
+        "Partial admission obligates an oath",
+        "The admission must be of the same kind as the claim",
+        "Swears on the rest (his first *halakha*)",
+        "Exempt"
+       ],
+       [
+        "Father of R. Aptoriki",
+        "Partial admission obligates an oath",
+        "Testimony of witnesses does not obligate",
+        "Exempt",
+        "Swears, like Rabban Gamliel"
+       ]
+      ]
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "The Shepherd Who Denied: Who Swears When a Robber Cannot?",
+   "amud": "5a–5b",
+   "text": {
+    "from": "5a.14",
+    "to": "5b.3"
+   },
+   "gist": "A case story applying R. Chiya's first *halakha*: R. Zeira and Abaye on whether the owners swear and collect, why Rav Nachman's oath of inducement would not produce the same result, and why the shepherd is not disqualified simply for being a shepherd.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s10",
+     "title": "R. Zeira and Abaye: *She'kenegdo Nishba Ve'notel*",
+     "amud": "5a",
+     "text": {
+      "from": "5a.14",
+      "to": "5a.15"
+     },
+     "gist": "The shepherd denies everything and witnesses see him eat two animals. R. Zeira: by R. Chiya, an oath is owed. Abaye: a proven robber cannot swear. R. Zeira: then the owners swear and collect.",
+     "bullets": [
+      {
+       "text": "A shepherd received animals every day before witnesses. One day they gave them without witnesses, and at day's end he said: \"This never happened.\" Witnesses testified that he ate two of them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Zeira: if R. Chiya's first *halakha* holds, he must swear about the rest or pay.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: he swears? He is a robber: the witnesses showed he took and ate the animals, so his oath is not credible.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Zeira: I meant that the opposing party swears and collects (*she'kenegdo nishba ve'notel*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot: the daily witnesses also served to prove the animals were received, so that he could not later claim he had returned them.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot on why the other side swears and collects here, when elsewhere one who cannot swear simply pays. A person permanently disqualified from oaths would otherwise be open to endless claims, so the claimant must swear first. And here the shepherd is willing to swear; the court is the one refusing his oath.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The shepherd case (5a), step by step: the daily handovers before witnesses, the one day without them, his denial, and the witnesses who saw him eat two, which leads to the exchange between R. Zeira and Abaye.",
+      "svg": "<svg viewBox=\"0 0 900 450\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Four scenes left to right: animals handed to a shepherd before witnesses; one day without witnesses; the shepherd denying he received them; two witnesses testifying he ate two.</title><rect width=\"900\" height=\"450\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"56\" width=\"200\" height=\"330\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"243\" y=\"56\" width=\"200\" height=\"330\" rx=\"14\" fill=\"#EFE9DF\"/><rect x=\"466\" y=\"56\" width=\"200\" height=\"330\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"689\" y=\"56\" width=\"200\" height=\"330\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">The shepherd and the missing witnesses</text><text x=\"120\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">Every day</text><text x=\"343\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5A4A3A\">One day</text><text x=\"566\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">End of the day</text><text x=\"789\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#24592E\">Witnesses come</text><use href=\"#man\" x=\"40\" y=\"140\" width=\"50\" height=\"100\" style=\"color:#6B6F3A\"/><text x=\"176\" y=\"160\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">witnesses</text><use href=\"#person\" x=\"140\" y=\"170\" width=\"35\" height=\"70\" style=\"color:#4B5E8C\"/><use href=\"#person\" x=\"178\" y=\"170\" width=\"35\" height=\"70\" style=\"color:#7A4A55\"/><use href=\"#lamb\" x=\"40\" y=\"262\" width=\"70\" height=\"49\"/><use href=\"#lamb\" x=\"125\" y=\"262\" width=\"70\" height=\"49\"/><text x=\"120\" y=\"345\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Animals handed over</text><text x=\"120\" y=\"365\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">before witnesses</text><use href=\"#man\" x=\"263\" y=\"140\" width=\"50\" height=\"100\" style=\"color:#6B6F3A\"/><use href=\"#lamb\" x=\"330\" y=\"190\" width=\"70\" height=\"49\"/><use href=\"#lamb\" x=\"280\" y=\"262\" width=\"70\" height=\"49\"/><use href=\"#lamb\" x=\"360\" y=\"262\" width=\"70\" height=\"49\"/><text x=\"343\" y=\"345\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Handed over</text><text x=\"343\" y=\"365\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">without witnesses</text><rect x=\"478\" y=\"102\" width=\"176\" height=\"46\" rx=\"16\" fill=\"#FFFFFF\" stroke=\"#8C5A3C\" stroke-width=\"2\"/><text x=\"566\" y=\"130\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A2A12\">“This never happened”</text><use href=\"#man\" x=\"540\" y=\"170\" width=\"55\" height=\"110\" style=\"color:#6B6F3A\"/><text x=\"566\" y=\"345\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">He denies receiving</text><text x=\"566\" y=\"365\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">any animals</text><use href=\"#person\" x=\"720\" y=\"150\" width=\"45\" height=\"90\" style=\"color:#4B5E8C\"/><use href=\"#person\" x=\"790\" y=\"150\" width=\"45\" height=\"90\" style=\"color:#7A4A55\"/><use href=\"#lamb\" x=\"710\" y=\"262\" width=\"65\" height=\"45\" opacity=\"0.6\"/><use href=\"#lamb\" x=\"790\" y=\"262\" width=\"65\" height=\"45\" opacity=\"0.6\"/><text x=\"789\" y=\"345\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">They testify he</text><text x=\"789\" y=\"365\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">ate two of them</text><text x=\"450\" y=\"412\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">R. Zeira: by R. Chiya’s first halakha, he must swear about the rest or pay</text><text x=\"450\" y=\"434\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Abaye: he is a robber and cannot swear · R. Zeira: then the owners swear and collect</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "Rav Nachman's *Shevuat Heset*: No Ordinance upon an Ordinance",
+     "amud": "5a–5b",
+     "text": {
+      "from": "5a.16",
+      "to": "5b.1"
+     },
+     "gist": "Even without R. Chiya, Rav Nachman's oath of inducement would seem to obligate the shepherd, and so the owners would swear and collect. The Gemara answers that both steps are rabbinic, and one rabbinic ordinance is not built on another.",
+     "bullets": [
+      {
+       "text": "Suggestion: even if the *halakha* is not like R. Chiya, the shepherd should be obligated by Rav Nachman's ordinance. Since his oath is not credible, the owners would swear and collect.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Mishnah Shevuot 38b: one who denies a claim of 100 entirely is exempt. Rav Nachman: the judges still administer a *shevuat heset*, an oath of inducement.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: Rav Nachman's oath is a rabbinic ordinance, not a Torah oath. The rule that the plaintiff swears and collects when the defendant is suspect is also a rabbinic ordinance. One ordinance is not instituted upon another, so no oath is administered.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *shevuat heset* is a deterrent against false denial. A Torah oath is how the defendant frees himself, so when he cannot take it, shifting it to the other side follows naturally; a deterrent oath carries no such logic.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Two possible grounds for the shepherd's oath",
+      "columns": [
+       "Ground",
+       "Level of the shepherd's oath",
+       "Do the owners swear and collect?"
+      ],
+      "rows": [
+       [
+        "R. Chiya's first *halakha*: witnesses to part",
+        "Torah oath of partial admission",
+        "Yes (R. Zeira): the proven robber cannot swear, so the owners swear and collect"
+       ],
+       [
+        "Rav Nachman's *shevuat heset* on total denial",
+        "Rabbinic ordinance",
+        "No: the owners' oath is itself rabbinic, and one ordinance is not built on another"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "Why Not Disqualify Him as a Shepherd? His Own Animals vs. Others'",
+     "amud": "5b",
+     "text": {
+      "from": "5b.2",
+      "to": "5b.3"
+     },
+     "gist": "Rav Yehuda disqualifies an ordinary shepherd, but only one grazing his own animals. A man hired for others' flocks gains nothing by trespassing, and otherwise no one could hire a shepherd.",
+     "bullets": [
+      {
+       "text": "Question: why rely on the witnesses' proof of theft? Rav Yehuda says an ordinary shepherd is disqualified from testifying, presumed a robber because he lets his animals graze in others' fields.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: Rav Yehuda means one who herds his own animals; this shepherd herds animals that belong to others.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Proof: otherwise, how could we give our animals to a shepherd? It would violate \"Do not put a stumbling block before the blind\" (Vayikra 19:14).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The presumption is that a person sins only for his own benefit, and he will not rob for animals that are not his.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the shepherd's disqualification here came only from the witnesses who saw him eat the animals, not from his occupation.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The distinction in 5b: Rav Yehuda's presumption applies to a shepherd grazing his own flock in others' fields, not to one herding others' animals, whom it is permitted to hire.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two panels. Left: a shepherd's own sheep grazing in someone else's field. Right: a shepherd with others' sheep, the neighboring field left untouched.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"20\" width=\"420\" height=\"360\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"460\" y=\"20\" width=\"420\" height=\"360\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"230\" y=\"55\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">His own animals</text><text x=\"670\" y=\"55\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">Others’ animals</text><text x=\"230\" y=\"80\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">he lets them graze in others’ fields</text><text x=\"670\" y=\"80\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">he gains nothing by trespassing</text><rect x=\"40\" y=\"110\" width=\"250\" height=\"200\" fill=\"#CFE0B8\" stroke=\"#8FA86E\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><text x=\"165\" y=\"134\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#3C5A2A\">Someone else’s field</text><use href=\"#lamb\" x=\"60\" y=\"170\" width=\"80\" height=\"56\"/><use href=\"#lamb\" x=\"160\" y=\"230\" width=\"80\" height=\"56\"/><use href=\"#man\" x=\"320\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><text x=\"230\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Presumed a robber</text><text x=\"230\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Rav Yehuda: unfit to testify</text><rect x=\"480\" y=\"110\" width=\"200\" height=\"200\" fill=\"#CFE0B8\" stroke=\"#8FA86E\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><text x=\"580\" y=\"134\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#3C5A2A\">Someone else’s field</text><use href=\"#man\" x=\"700\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#lamb\" x=\"772\" y=\"196\" width=\"80\" height=\"56\"/><use href=\"#lamb\" x=\"772\" y=\"256\" width=\"80\" height=\"56\"/><text x=\"640\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Not presumed a robber</text><text x=\"640\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">a person sins only for his own benefit</text><use href=\"#mark-ok\" x=\"250\" y=\"394\" width=\"28\" height=\"28\"/><text x=\"286\" y=\"414\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Permitted to give one’s animals to a shepherd (else: lifnei iver)</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "title": "The Tallit Oath: 'Not Less than Half', and Rav Huna's Wording",
+   "amud": "5b",
+   "text": {
+    "from": "5b.4",
+    "to": "5b.7"
+   },
+   "gist": "Returning to the chapter's opening Mishnah of two holding a tallit: Rav Huna adds \"I have a share in it,\" and the Gemara explains why neither \"all is mine\" nor \"half is mine\" will do.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The Mishnah's two claimants each hold the tallit and say \"All of it is mine\" (2a). The three wordings the Gemara weighs on 5b, in the order it raises them.",
+    "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two men each holding one side of a tallit, each saying all of it is his; below, three possible oath wordings.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"30\" y=\"30\" width=\"240\" height=\"46\" rx=\"18\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><text x=\"150\" y=\"59\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">“All of it is mine”</text><rect x=\"630\" y=\"30\" width=\"240\" height=\"46\" rx=\"18\" fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"750\" y=\"59\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">“All of it is mine”</text><text x=\"450\" y=\"60\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Two holding a tallit</text><text x=\"450\" y=\"150\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#5A4A3A\">Each swears, and they divide it</text><use href=\"#man\" x=\"240\" y=\"150\" width=\"75\" height=\"150\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"585\" y=\"150\" width=\"75\" height=\"150\" style=\"color:#8C5A3C\"/><rect x=\"320\" y=\"165\" width=\"260\" height=\"130\" fill=\"#F1ECE0\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"320\" y=\"183\" width=\"260\" height=\"8\" fill=\"#3E5C8A\"/><rect x=\"320\" y=\"269\" width=\"260\" height=\"8\" fill=\"#3E5C8A\"/><line x1=\"450\" y1=\"170\" x2=\"450\" y2=\"290\" stroke=\"#8A7560\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><text x=\"385\" y=\"240\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#5A4A3A\">½</text><text x=\"515\" y=\"240\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#5A4A3A\">½</text><rect x=\"20\" y=\"320\" width=\"270\" height=\"120\" rx=\"12\" fill=\"#E3EAF3\"/><rect x=\"315\" y=\"320\" width=\"270\" height=\"120\" rx=\"12\" fill=\"#EFE9DF\"/><rect x=\"610\" y=\"320\" width=\"270\" height=\"120\" rx=\"12\" fill=\"#EFE9DF\"/><text x=\"155\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">“I have a share in it,</text><text x=\"155\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">and not less than half”</text><text x=\"155\" y=\"406\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Rav Huna’s wording</text><text x=\"155\" y=\"426\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">“All is mine; by your ruling…”</text><text x=\"450\" y=\"355\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">“All of it is mine”</text><text x=\"450\" y=\"388\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">The court will not</text><text x=\"450\" y=\"406\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">award him all of it</text><text x=\"450\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#5A4A3A\">Not used</text><text x=\"745\" y=\"355\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">“Half of it is mine”</text><text x=\"745\" y=\"388\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">He would contradict</text><text x=\"745\" y=\"406\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">his own claim</text><text x=\"745\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#5A4A3A\">Not used</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s14",
+     "title": "'Not Less than Half': Rav Huna Adds 'I Have a Share in It'",
+     "amud": "5b",
+     "text": {
+      "from": "5b.4",
+      "to": "5b.4"
+     },
+     "gist": "Sworn alone, \"I do not have less than half\" could be said by someone with no share at all, so Rav Huna has him first swear that he has a share.",
+     "bullets": [
+      {
+       "text": "The Mishnah: each swears that he has no less than half of it, and they divide it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Question: does he swear about what he has, or about what he does not have? Worded as \"I do not have less than half,\" it could mean he has no claim at all.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Read literally, \"what I have is not less than half\" is true even of a man who owns nothing, since there is no share to fall short.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Rav Huna: he swears, \"I have a claim to it,\" and, \"I do not have a claim to less than half of it.\"",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "Why Not 'All Is Mine' or 'Half Is Mine'?",
+     "amud": "5b",
+     "text": {
+      "from": "5b.5",
+      "to": "5b.7"
+     },
+     "gist": "\"All is mine\" clashes with the court's award; \"half is mine\" contradicts his claim. Rav Huna's wording keeps his claim and swears only to what the court grants.",
+     "bullets": [
+      {
+       "text": "Why not swear \"all of it is mine,\" which is his claim? Would we then give him all of it? The court will not award him the whole, so it should not administer that oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why not swear \"half of it is mine\"? That would compromise his own statement that all of it is his.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: Rav Huna's wording also seems to concede half. Answer: he tells the court, \"All of it is mine; but according to your statement, I swear that I have a claim to it and not less than half.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"Not less than half\" sets a floor, not a ceiling. It fits both the court's award and his full claim.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Wordings for the tallit oath and what is wrong with each",
+      "columns": [
+       "Wording",
+       "Problem",
+       "Outcome"
+      ],
+      "rows": [
+       [
+        "\"I do not have less than half\" (alone)",
+        "Could be said by one with no share at all",
+        "Rav Huna adds \"I have a claim to it\""
+       ],
+       [
+        "\"All of it is mine\"",
+        "The court will not award him all of it",
+        "Not used"
+       ],
+       [
+        "\"Half of it is mine\"",
+        "Compromises his claim to the whole",
+        "Not used"
+       ],
+       [
+        "Rav Huna: \"I have a claim to it, and not less than half\"",
+        "Seems to concede half",
+        "No: \"All is mine; by your ruling, not less than half\""
+       ]
+      ]
+     },
+     "children": []
+    }
+   ],
+   "continues": "Continues on 5b: why the holders must swear at all when each keeps what he holds (R. Yochanan's ordinance), and whether one suspected of taking money is also suspected of swearing falsely."
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "heilakh",
+   "hebrew": "הילך",
+   "sense": "handing back the admitted item in court",
+   "definition": "A defendant who admits part of a claim and hands over the admitted part on the spot (\"here you are\"). It is disputed whether such an admission counts as a partial admission obligating an oath.",
+   "on_this_daf": "Rav Sheshet holds that *heilakh* exempts and R. Chiya that it obligates; the Gemara deflects proofs from the Mishnah of vessels and land and from Rami bar Chama's bailees, and asks why a verse is needed to exempt land.",
+   "aliases": [
+    "heilakh",
+    "Heilakh"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s4",
+    "s5"
+   ]
+  },
+  {
+   "term": "modeh be'miktzat",
+   "hebrew": "מודה במקצת",
+   "sense": "the Torah oath of partial admission",
+   "definition": "A defendant who admits part of a monetary claim and denies the rest must take a Torah oath on the part he denies.",
+   "on_this_daf": "The daf asks what triggers it: *heilakh*, bailees' claims, testimony of witnesses to part, and an admission of a different kind than claimed.",
+   "aliases": [
+    "modeh be'miktzat",
+    "partial admission"
+   ],
+   "sections": [
+    "s2",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s10"
+   ]
+  },
+  {
+   "term": "zokekin",
+   "hebrew": "זוקקין",
+   "sense": "binding an additional claim into an oath",
+   "definition": "Once a litigant must swear on one claim, the court may require the same oath to cover other claims against him, even ones that alone would not require an oath, such as land.",
+   "on_this_daf": "The Mishnah of vessels and land teaches that a partial admission of vessels binds the land into the oath; the Gemara explains why Shevuot repeats what Kiddushin teaches.",
+   "aliases": [
+    "zokekin",
+    "binding"
+   ],
+   "sections": [
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "term": "mi'min ha'ta'anah",
+   "hebrew": "ממין הטענה",
+   "sense": "admission of the same kind as the claim",
+   "definition": "The requirement that a partial admission concern the same kind of item as the claim (for example, wheat claimed and wheat admitted) in order to obligate an oath.",
+   "on_this_daf": "R. Chiya derives this requirement from one of the words \"*hu*\" and \"*zeh*\"; the father of R. Aptoriki does not require it, following Rabban Gamliel in the case of wheat and barley.",
+   "aliases": [
+    "mi'min ha'ta'anah",
+    "same kind"
+   ],
+   "sections": [
+    "s8"
+   ]
+  },
+  {
+   "term": "she'kenegdo nishba ve'notel",
+   "hebrew": "שכנגדו נשבע ונוטל",
+   "sense": "the opposing party swears and collects",
+   "definition": "When a defendant owes an oath but is disqualified from swearing because he is suspect, the claimant takes an oath instead and collects.",
+   "on_this_daf": "R. Zeira applies it to the shepherd proven a robber; the Gemara calls it a rabbinic ordinance that cannot be built on Rav Nachman's oath of inducement.",
+   "aliases": [
+    "she'kenegdo nishba ve'notel",
+    "swears and collects"
+   ],
+   "sections": [
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "term": "shevuat heset",
+   "hebrew": "שבועת היסת",
+   "sense": "rabbinic oath imposed on one who denies a claim entirely",
+   "definition": "An oath instituted by Rav Nachman for a defendant who denies a claim completely, who is exempt from any Torah oath.",
+   "on_this_daf": "It could have obligated the shepherd even without R. Chiya, but as a rabbinic oath it does not let the owners swear and collect.",
+   "aliases": [
+    "shevuat heset"
+   ],
+   "sections": [
+    "s11"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "4b.11–5a.3 is grouped as one top-level section (the Mishnah of vessels and land and the question of the verse excluding land), since each step tests Rav Sheshet's view of heilakh through the treatment of land. The question of the verse (5a.1) could stand as its own top-level section.",
+  "Rami bar Chama's baraita (s5) is its own top-level section. It could sit with s1 under a single 'heilakh: Rav Sheshet vs. R. Chiya' umbrella; kept separate because it is a new source with its own case, and the headlines read more clearly this way.",
+  "The shepherd story (s9) is a separate top-level section rather than a child of the witnesses dispute (s6). It applies R. Chiya's first halakha, but it raises independent questions (the robber's oath, Rav Nachman's ordinance, the shepherd's status).",
+  "The tallit section is not headed 'Mishnah:' because it returns to the chapter's opening Mishnah (2a) rather than opening a new one. There is no returns_to link, since that Mishnah lies outside this outline's scope.",
+  "The shepherd timeline illustration and the grazing panels use neutral colors for 'exempt' and 'presumed a robber', which are not permitted/forbidden rulings. The only green mark is for the implied permission to hire a shepherd."
+ ],
+ "coverage_notes": [
+  "The shiur covers the whole scope. Gemara from 5b.8 on (why the tallit oath is needed at all; whether one suspect about money is suspect about oaths) lies beyond this outline's end and belongs to the next outline.",
+  "The essay presents the vessels-and-land Mishnah as bearing on R. Chiya's teaching; the text has Mar Zutra son of Rav Nachman objecting to Rav Sheshet. Followed the text.",
+  "The essay ends the hu/zeh discussion by saying R. Chiya follows Rabban Gamliel; the text says the father of R. Aptoriki holds like Rabban Gamliel, while R. Chiya requires an admission of the same kind. Followed the text.",
+  "The essay's kal va'chomer for R. Chiya (witnesses a fortiori from admission) does not appear in the text; kept as shiur analysis.",
+  "In the discussion of the four bailees, the essay says that 'even in this scenario the Gemara holds the shevua to be valid'; the Gemara rejects the heilakh reading and substitutes the three-cows case. Followed the text.",
+  "The essay has the owners claim ten sheep and swear for ten; the text gives no number beyond the two eaten. Omitted the number.",
+  "The essay has R. Zeira say 'let him swear'; the text says 'he must swear about the remainder or pay'. Followed the text.",
+  "The essay says the rule that the plaintiff swears and collects applies only where the defendant's oath is Torah-level; the text says that rule is itself a rabbinic ordinance and one ordinance is not built on another. Followed the text for the Gemara step; kept the Torah/deterrent contrast as shiur.",
+  "The essay has Rav Yehuda disqualify a shepherd from oaths; the text says 'disqualified from testifying'. Followed the text."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s5",
+    "subject": "The three cows and the bailee's answer for each",
+    "why_not": "One case with three parts; the illustration shows it better than a grid."
+   },
+   {
+    "section": "s12",
+    "subject": "Shepherd with his own vs. others' animals",
+    "why_not": "Two cases and one principle; the bullets and the illustration carry it."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s2",
+    "subject": "The four answers to a claim of vessels and land",
+    "why_not": "The chart distills the Mishnah's cases; a picture would only repeat it."
+   },
+   {
+    "section": "s8",
+    "subject": "The words hu and zeh, split between two readings",
+    "why_not": "A verbal derivation; the chart shows it more clearly than a drawing."
+   },
+   {
+    "section": "s4",
+    "subject": "Land dug with pits, ditches and caves",
+    "why_not": "A secondary answer, easy to picture from the bullet."
+   }
+  ]
+ }
+}

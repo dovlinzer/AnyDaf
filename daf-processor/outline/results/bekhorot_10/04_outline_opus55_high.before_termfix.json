@@ -1,0 +1,1005 @@
+{
+ "daf": "Bekhorot 10",
+ "scope": {
+  "start": "10a: the *baraita* that R. Shimon permits benefit from meat cooked in milk (opens mid-exchange)",
+  "end": "10b: \"You shall redeem\": immediately and for any amount (before R. Yosei bar Yehuda's source for the shekel)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Rava's Proof from the Food List: Intent, Prohibition, or Practice Slaughter?",
+   "amud": "10a–10b",
+   "text": {
+    "from": "10a.2",
+    "to": "10b.8"
+   },
+   "gist": "Continuing Rava's proof that R. Shimon forbids the *peter chamor* after its neck is broken. The Gemara first explains why meat cooked in milk is R. Shimon's only exception. It then raises the deflection that no one intended to eat the donkey, tests whether prohibition serves as intent, and moves to a donkey slaughtered for practice, like the crow of Nimos and R. Eliezer.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "Meat Cooked in Milk: Fed to Others and a *She'at Ha'kosher*",
+     "amud": "10a",
+     "text": {
+      "from": "10a.2",
+      "to": "10a.3"
+     },
+     "gist": "Continuing the question of why R. Shimon needs a period of fitness to make meat cooked in milk food, when he permits benefit from it anyway: the Gemara answers that he gives both reasons.",
+     "bullets": [
+      {
+       "text": "*Baraita*: R. Shimon ben Yehuda in the name of R. Shimon: meat cooked in milk is forbidden to eat but permitted in benefit.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Source: \"a holy people\" appears beside cooking a kid in its mother's milk (Devarim 14:21), and \"holy men\" beside meat torn in the field (Shemot 22:30). A *tereifah* is forbidden to eat but permitted in benefit, and so is meat cooked in milk.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "The permission for a *tereifah* is explicit in that same verse: \"you shall cast it to the dogs.\"",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Answer: the *baraita* gives one reason and adds another. Meat cooked in milk is food one can feed to others. And even for a Jew it had a *she'at ha'kosher*, a time before the cooking when it was fit to eat.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Either reason alone would do. Every other item on R. Shimon's list fails both tests: it is forbidden in benefit, so it can't be fed to a gentile, and it never had a period of fitness as food.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The *eglah arufah* has no such period. A live calf that might have been slaughtered was never food, while meat and milk were food in their separate states.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "A practical echo: whether one may buy pet food containing meat cooked in milk turns on this dispute. The *halakha* follows the majority, who forbid benefit from it.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Why Isn't the *Peter Chamor* Listed Beside Meat in Milk?",
+     "amud": "10a",
+     "text": {
+      "from": "10a.4",
+      "to": "10a.4"
+     },
+     "gist": "Rava: if R. Shimon permitted the donkey after *arifah*, it would be food he could feed to others and would be listed as an exception, so it must be forbidden.",
+     "bullets": [
+      {
+       "text": "Rava: if R. Shimon permitted benefit from a *peter chamor* after its neck is broken, the *tanna* should have said, \"R. Shimon concedes regarding a *peter chamor* and meat cooked in milk.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The donkey isn't listed as an exception. So R. Shimon must hold that after *arifah* it is *asur be'hana'ah*, and therefore it is not food.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Rabbis of the food list look at physical edibility. R. Shimon looks at what the halakha allows one to do with the item: if it can't even be given to a gentile, it isn't food.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "R. Shimon's two tests for food, item by item",
+      "columns": [
+       "",
+       "Can it be fed to others (gentiles)?",
+       "Did it have a time when it was fit to eat?",
+       "Food for R. Shimon?"
+      ],
+      "rows": [
+       [
+        "Meat cooked in milk",
+        "Yes: R. Shimon permits benefit from it",
+        "Yes: meat and milk were each fit before the cooking",
+        "Yes, his stated exception"
+       ],
+       [
+        "*Orlah*, diverse kinds in a vineyard",
+        "No: forbidden in benefit",
+        "No",
+        "No"
+       ],
+       [
+        "Stoned ox, *eglah arufah*, leper's birds",
+        "No: forbidden in benefit",
+        "No",
+        "No"
+       ],
+       [
+        "*Peter chamor* after its neck is broken",
+        "Only if R. Shimon permits benefit from it",
+        "No",
+        "Not listed as an exception: Rava's proof that it is forbidden"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "No Intent to Eat, and the Rabbis' *Isuro Zehu Machshavto*",
+     "amud": "10a",
+     "text": {
+      "from": "10a.5",
+      "to": "10a.6"
+     },
+     "gist": "The Gemara deflects: the donkey isn't food because no one intended to eat it. The Rabbis still call it food, because for them its prohibition serves as intent.",
+     "bullets": [
+      {
+       "text": "Deflection: had the one who broke its neck intended it to be eaten, R. Shimon would indeed count it as food, since its benefit is permitted. The case is one with no intent to eat, since even gentiles don't usually eat donkey meat.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "In the laws of food impurity, an item counts as food either because people commonly eat it or because its owner has *machshavah*, intent to eat it.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Then why do the Rabbis call it food? The Sages said before Rav Sheshet: *isuro zehu machshavto*. Its prohibition serves as intent: being forbidden makes it significant enough to count as food.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "Does Prohibition Serve as Intent? Two Mishnayot and Rava's Answer",
+     "amud": "10a",
+     "text": {
+      "from": "10a.7",
+      "to": "10a.12"
+     },
+     "gist": "The Gemara tests the Rabbis' principle against two mishnayot. Teharot is assigned to R. Shimon, but Okatzin can't be, since its last clause names him, so Rava concludes that no one holds prohibition serves as intent.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s6",
+       "title": "Teharot 1:1: A Kosher Bird's Carcass Needs Intent, Not *Hekhsher*",
+       "amud": "10a",
+       "text": {
+        "from": "10a.7",
+        "to": "10a.8"
+       },
+       "gist": "A kosher bird's carcass needs intent before it can become impure as food; if prohibition served as intent, it wouldn't. The Gemara answers that the mishna is R. Shimon's.",
+       "bullets": [
+        {
+         "text": "Teharot 1:1: the Sages taught thirteen things about the carcass of a kosher bird. One is that it needs intent to become susceptible to *tum'at okhlin*, but no *hekhsher*, contact with liquid.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "It needs no *hekhsher* because the carcass is itself a source of impurity. It needs intent because people don't normally eat a bird that died on its own.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "If prohibition serves as intent, why is intent needed here? A carcass is forbidden to eat.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: the mishna follows R. Shimon, who doesn't accept that prohibition serves as intent.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The roles are inverted. In the food-list *baraita* the Rabbis looked at physical edibility and R. Shimon at halakhic status. Here the Rabbis would use halakhic status (the prohibition) to widen what counts as food, while R. Shimon insists on what people actually eat.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s7",
+       "title": "Okatzin 3:3: Villages, Marketplaces, and Animals with Kosher Indicators",
+       "amud": "10a",
+       "text": {
+        "from": "10a.9",
+        "to": "10a.11"
+       },
+       "gist": "Forbidden carcasses still need intent where people don't eat them. The last clause is R. Shimon's (the camel, hare, rock badger and pig have kosher indicators), so the earlier clauses are the Rabbis'.",
+       "bullets": [
+        {
+         "text": "Okatzin 3:3: a non-kosher animal's carcass (a horse or a donkey) anywhere, and a kosher bird's carcass or kosher animal fat in the villages, need intent but not contact with liquid.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "If prohibition serves as intent, why do these need intent? All are forbidden to a Jew. Answer again: the mishna is R. Shimon's.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The continuation: a kosher animal's carcass anywhere, and a kosher bird's carcass and fat in the marketplaces, where people do eat them, need neither intent nor liquid. By inference, a non-kosher animal's carcass does need intent.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "This clause can't be R. Shimon's, because the last clause names him: even the camel, the hare, the rock badger and the pig need neither intent nor liquid, since they have some kosher indicators.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So the unattributed clauses are the Rabbis'. The Rabbis too require intent for forbidden meat, so their dispute with R. Shimon can't rest on whether prohibition serves as intent.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Shimon adds a new variable: how far the halakha places an animal from the realm of food. A non-kosher species that is also a carcass is doubly removed. An animal with one kosher sign is close enough.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Tosafot: some non-kosher animals, the pig above all, are prized meat among gentiles.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "chart": {
+        "caption": "Okatzin 3:3: what counts as food without intent",
+        "columns": [
+         "Item",
+         "Where",
+         "Needs intent to eat?",
+         "Needs contact with liquid?"
+        ],
+        "rows": [
+         [
+          "Carcass of a non-kosher animal (horse, donkey)",
+          "Anywhere",
+          "Yes",
+          "No"
+         ],
+         [
+          "Kosher bird carcass; kosher animal fat",
+          "Villages",
+          "Yes",
+          "No"
+         ],
+         [
+          "Carcass of a kosher animal",
+          "Anywhere",
+          "No",
+          "No"
+         ],
+         [
+          "Kosher bird carcass; kosher animal fat",
+          "Marketplaces",
+          "No",
+          "No"
+         ],
+         [
+          "Camel, hare, rock badger, pig",
+          "R. Shimon's addition",
+          "No: they have some kosher indicators",
+          "No"
+         ]
+        ]
+       },
+       "illustration": {
+        "caption": "The mishna in Okatzin (3:3) sorted left to right: what needs intent before it counts as food, what doesn't, and R. Shimon's addition in the last clause, which shows the earlier clauses are the Rabbis'.",
+        "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>Three panels: carcasses and fat that need intent before they count as food, those that do not, and R. Shimon’s addition of the camel, hare, rock badger and pig.</title><rect width='900' height='460' fill='#FBF8F1'/><rect x='15' y='14' width='280' height='382' rx='14' fill='#E3EAF3'/><text x='155' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1B3A8A'>Intent needed</text><text x='155' y='70' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>First clause of the mishna</text><g fill='#5E554E'><rect x='54' y='138' width='5' height='24'/><rect x='66' y='140' width='5' height='22'/><rect x='92' y='140' width='5' height='22'/><rect x='104' y='138' width='5' height='24'/></g><ellipse cx='80' cy='132' rx='34' ry='15' fill='#8A8078'/><path d='M104 126 L116 108 L124 112 L112 134 Z' fill='#8A8078'/><ellipse cx='121' cy='110' rx='9' ry='6' fill='#7A706A'/><path d='M116 104 L112 88 L120 102 Z M121 103 L122 87 L126 103 Z' fill='#7A706A'/><path d='M46 128 q-8 6 -6 18' stroke='#8A8078' stroke-width='3' fill='none'/><text x='142' y='124' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Non-kosher animal</text><text x='142' y='144' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>carcass · anywhere</text><ellipse cx='78' cy='220' rx='22' ry='13' fill='#8E7F74'/><circle cx='101' cy='208' r='8' fill='#8E7F74'/><path d='M108 206 l10 3 l-10 3 z' fill='#C9A15C'/><path d='M56 218 l-12 -6 l2 12 z' fill='#8E7F74'/><path d='M74 232 v10 M84 232 v10' stroke='#5E554E' stroke-width='2'/><text x='142' y='214' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Kosher bird carcass</text><text x='142' y='234' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>in the villages</text><rect x='52' y='285' width='62' height='34' rx='8' fill='#F2E6C8' stroke='#D2C09A' stroke-width='2'/><text x='142' y='299' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Kosher animal fat</text><text x='142' y='319' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>in the villages</text><text x='155' y='362' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>People there don’t usually eat them</text><rect x='310' y='14' width='280' height='382' rx='14' fill='#F3E6D8'/><text x='450' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#9A6212'>No intent needed</text><text x='450' y='70' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Continuation of the mishna</text><use href='#lamb' x='322' y='100' width='100' height='70'/><text x='432' y='124' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Kosher animal</text><text x='432' y='144' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>carcass · anywhere</text><ellipse cx='345' cy='220' rx='22' ry='13' fill='#8E7F74'/><circle cx='368' cy='208' r='8' fill='#8E7F74'/><path d='M375 206 l8 3 l-8 3 z' fill='#C9A15C'/><path d='M323 218 l-10 -6 l2 12 z' fill='#8E7F74'/><path d='M341 232 v10 M351 232 v10' stroke='#5E554E' stroke-width='2'/><rect x='388' y='206' width='34' height='26' rx='7' fill='#F2E6C8' stroke='#D2C09A' stroke-width='2'/><text x='432' y='208' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Kosher bird carcass</text><text x='432' y='228' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>and kosher animal fat</text><text x='432' y='248' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>in the marketplaces</text><text x='450' y='362' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>People there do eat them</text><rect x='605' y='14' width='280' height='382' rx='14' fill='#EEE8F3'/><text x='745' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#5A3E7A'>R. Shimon adds</text><text x='745' y='70' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Last clause of the mishna</text><use href='#sage' x='625' y='96' width='60' height='105' style='color:#6A4F7A;--beard:#8E8A84;--wrap:#E4D8C0'/><text x='705' y='118' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Camel</text><text x='705' y='143' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Hare</text><text x='705' y='168' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Rock badger</text><text x='705' y='193' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Pig</text><text x='745' y='245' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#5A3E7A'>No intent needed:</text><text x='745' y='267' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#5A3E7A'>they have some</text><text x='745' y='287' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#5A3E7A'>kosher indicators</text><text x='745' y='335' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>So the first clause</text><text x='745' y='353' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>is not R. Shimon’s</text><text x='450' y='424' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>None of these needs contact with liquid to become susceptible</text><text x='450' y='446' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Forbidden items still need intent: prohibition does not serve as intent</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s8",
+       "title": "Rava: No One Says Prohibition Serves as Intent",
+       "amud": "10a",
+       "text": {
+        "from": "10a.12",
+        "to": "10a.12"
+       },
+       "gist": "Rava concludes that the Rabbis too reject the principle, so they too would not count a broken-necked donkey as food.",
+       "bullets": [
+        {
+         "text": "Rava: everyone, the Rabbis included, agrees that we do not say its prohibition serves as intent.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So for a *peter chamor* whose neck was broken, the Rabbis too hold that it isn't susceptible to food impurity, since no one intended to eat it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "That leaves the Rabbis of the food-list *baraita*, who do call the donkey food, in need of a case where they would be right.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "returns_to": [
+        {
+         "id": "s4",
+         "note": "Withdraws the reason the Sages gave before Rav Sheshet for the Rabbis"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s9",
+     "title": "Slaughtered for Practice: Intent, or the Crow's Kosher Indicators?",
+     "amud": "10b",
+     "text": {
+      "from": "10b.1",
+      "to": "10b.8"
+     },
+     "gist": "The Gemara places the Rabbis' case in a donkey slaughtered for practice, parallel to the dispute of Nimos and R. Eliezer over a crow. It then suggests that dispute may turn on the crow's kosher indicators instead.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s10",
+       "title": "Nimos vs. R. Eliezer: Does the Crow Itself Become Food?",
+       "amud": "10b",
+       "text": {
+        "from": "10b.1",
+        "to": "10b.5"
+       },
+       "gist": "Both agree that the blood of a crow slaughtered for practice makes foods susceptible. They differ on whether the crow itself needs intent, and the donkey dispute is the same.",
+       "bullets": [
+        {
+         "text": "Answer: the case is a *peter chamor* slaughtered to learn how to slaughter, not to eat it. There R. Shimon and the Rabbis do dispute whether prohibition serves as intent, just as Nimos and R. Eliezer did.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "*Baraita*: R. Yosei reports that Nimos, the brother of R. Yehoshua HaGarsi, told him that when one slaughters a crow for practice, its blood makes foods susceptible, since blood is one of the seven liquids. R. Eliezer: the blood of slaughter always makes foods susceptible.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Isn't that the same ruling? The difference must lie in the crow itself.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Nimos: the blood makes other foods susceptible, but the crow itself needs intent to eat before it counts as food, since people don't usually eat crows. R. Eliezer: the crow needs no intent, because its prohibition serves as intent.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The same applies to the donkey slaughtered for practice: R. Shimon requires intent, and the Rabbis treat the prohibition as intent.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The question becomes whether a valid act of slaughter, done only for practice, is enough to make the carcass food.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "R. Yosei's report of Nimos and R. Eliezer's reply (10b): both agree about the blood of a crow slaughtered for practice, and they differ on whether the crow itself counts as food without intent.",
+        "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>A crow slaughtered for practice, its blood dripping onto a loaf. Nimos stands on the left and R. Eliezer on the right, each with his ruling below.</title><rect width='900' height='460' fill='#FBF8F1'/><text x='450' y='40' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>A crow slaughtered to learn how to slaughter</text><text x='450' y='62' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>R. Yosei reports Nimos, the brother of R. Yehoshua HaGarsi</text><path d='M392 146 l-34 -12 l6 26 z' fill='#2E2A2A'/><ellipse cx='440' cy='150' rx='52' ry='26' fill='#2E2A2A'/><circle cx='498' cy='128' r='17' fill='#2E2A2A'/><path d='M513 124 l20 6 l-20 5 z' fill='#4A4442'/><circle cx='503' cy='124' r='2.5' fill='#EDE3CF'/><path d='M420 140 q30 -20 56 4' stroke='#4A4442' stroke-width='3' fill='none'/><path d='M430 175 v16 M452 175 v16' stroke='#3B3431' stroke-width='3'/><path d='M500 152 L540 176' stroke='#9AA0A6' stroke-width='5' stroke-linecap='round'/><path d='M540 176 L566 190' stroke='#6E5B46' stroke-width='8' stroke-linecap='round'/><g fill='#A83232'><circle cx='492' cy='198' r='4'/><circle cx='488' cy='216' r='4'/><circle cx='494' cy='232' r='4'/></g><ellipse cx='490' cy='258' rx='42' ry='14' fill='#D9A860'/><text x='470' y='292' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Its blood: one of the seven liquids</text><use href='#sage' x='70' y='110' width='80' height='140' style='color:#4B5E8C;--beard:#5A4636;--wrap:#E4D8C0'/><text x='110' y='274' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Nimos</text><use href='#sage' x='750' y='110' width='80' height='140' style='color:#8C5A3C;--beard:#9C9892;--wrap:#D9CBB0'/><text x='790' y='274' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>R. Eliezer</text><rect x='20' y='308' width='420' height='132' rx='12' fill='#E3EAF3'/><text x='40' y='336' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>Nimos (first tanna)</text><text x='40' y='362' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Blood: makes other foods susceptible</text><text x='40' y='386' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>The crow itself: needs intent to eat it</text><text x='40' y='410' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Its prohibition does not serve as intent</text><rect x='460' y='308' width='420' height='132' rx='12' fill='#F3E6D8'/><text x='480' y='336' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>R. Eliezer</text><text x='480' y='362' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Blood of slaughter always makes susceptible</text><text x='480' y='386' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>The crow itself: no intent needed</text><text x='480' y='410' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Its prohibition serves as intent</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s11",
+       "title": "Or Is the Crow Different? Kosher Indicators Without Slaughter",
+       "amud": "10b",
+       "text": {
+        "from": "10b.6",
+        "to": "10b.8"
+       },
+       "gist": "Perhaps R. Eliezer counts the crow as food only for its kosher indicators, which a donkey lacks. The practice-slaughter case is chosen only because of Nimos.",
+       "bullets": [
+        {
+         "text": "Challenge: how do we know that Nimos and R. Eliezer dispute prohibition serving as intent? Perhaps R. Eliezer counts the crow as food because it has some kosher indicators. A donkey has none, so slaughtering it for practice would not make it food.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Support that kosher indicators matter: R. Shimon's reason for the camel, hare, rock badger and pig.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "But if kosher indicators are R. Eliezer's reason, why dispute specifically about practice slaughter? Even a crow slaughtered unawares should be food for him.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Indeed so for R. Eliezer. The case of practice slaughter is chosen only because of Nimos, who holds that even a deliberate slaughter, if done for practice, leaves the crow unsusceptible.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The practice-slaughter answer loses its anchor in the tanna'im: the Nimos–R. Eliezer dispute may have nothing to do with prohibition serving as intent.",
+         "detail": 2,
+         "source": "shiur"
+        }
+       ],
+       "returns_to": [
+        {
+         "id": "s7",
+         "note": "Reuses R. Shimon's kosher-indicator reason from the Okatzin mishna"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "title": "After *Arifah*: The Cleaver Baraita, Rav Nachman's Proofs, and the Split",
+   "amud": "10b",
+   "text": {
+    "from": "10b.9",
+    "to": "10b.24"
+   },
+   "gist": "Does R. Shimon concede after neck-breaking? A *baraita* in which R. Shimon permits is read as speaking of the living donkey. Rav Nachman's two proofs, a *gezerah shavah* and Levi's \"his money shall be lost\", are both rebutted, and the amora'im stay split.",
+   "bullets": [],
+   "chart": {
+    "caption": "Benefit from a *peter chamor*, stage by stage",
+    "columns": [
+     "",
+     "Alive: benefit from its value (renting, selling)",
+     "Alive: the animal itself (shearing, labor)",
+     "After its neck is broken"
+    ],
+    "rows": [
+     [
+      "R. Yehuda",
+      "Forbidden",
+      "Forbidden",
+      "Forbidden (*arifah* does not release it, as Safra explains)"
+     ],
+     [
+      "R. Shimon, per Rabba, Rav Nachman and Reish Lakish",
+      "Permitted",
+      "Permitted",
+      "Forbidden: he concedes"
+     ],
+     [
+      "R. Shimon, per R. Yochanan (some say R. Elazar)",
+      "Permitted",
+      "Permitted",
+      "Permitted: still in dispute"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The amora'im on R. Shimon (10b.15–24): all agree he permits the living *peter chamor*, but Rabba, Rav Nachman and Reish Lakish hold he concedes after its neck is broken, while R. Yochanan (some say R. Elazar) holds the dispute continues.",
+    "svg": "<svg viewBox='0 0 900 480' xmlns='http://www.w3.org/2000/svg' role='img'><title>A living donkey and a donkey whose neck was broken. Below, two groups of sages: those who say R. Shimon concedes it is forbidden after its neck is broken, and those who say it is still in dispute.</title><rect width='900' height='480' fill='#FBF8F1'/><text x='450' y='32' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>R. Shimon and the peter chamor</text><g fill='#5E554E'><rect x='155' y='124' width='7' height='36'/><rect x='171' y='126' width='7' height='34'/><rect x='219' y='126' width='7' height='34'/><rect x='235' y='124' width='7' height='36'/></g><ellipse cx='200' cy='118' rx='55' ry='22' fill='#8A8078'/><path d='M243 108 L267 80 L281 88 L259 122 Z' fill='#8A8078'/><ellipse cx='277' cy='82' rx='14' ry='9' transform='rotate(-20 277 82)' fill='#7A706A'/><path d='M267 74 L260 54 L273 70 Z M275 72 L274 52 L283 70 Z' fill='#7A706A'/><path d='M146 112 q-10 8 -6 22' stroke='#8A8078' stroke-width='3' fill='none'/><line x1='120' y1='160' x2='320' y2='160' stroke='#D9C9A8' stroke-width='3'/><text x='200' y='182' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>While alive</text><use href='#mark-ok' x='140' y='188' width='22' height='22'/><text x='168' y='205' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>R. Shimon: permitted</text><text x='420' y='108' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>not redeemed</text><path d='M340 120 H500' stroke='#C9C1B2' stroke-width='3'/><path d='M500 120 l-10 -6 v12 z' fill='#C9C1B2'/><path d='M600 150 l-14 14 M616 152 l-8 16 M650 152 l8 16 M664 150 l14 14' stroke='#5E554E' stroke-width='6' stroke-linecap='round'/><ellipse cx='630' cy='138' rx='58' ry='18' fill='#8A8078'/><path d='M680 132 L698 142 L692 156 L676 146 Z' fill='#8A8078'/><ellipse cx='702' cy='150' rx='15' ry='9' fill='#7A706A'/><path d='M712 146 L736 140 L714 154 Z' fill='#7A706A'/><line x1='560' y1='168' x2='760' y2='168' stroke='#D9C9A8' stroke-width='3'/><text x='650' y='190' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>After its neck is broken</text><text x='650' y='210' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>R. Shimon: ?</text><rect x='15' y='222' width='425' height='248' rx='14' fill='#E3EAF3'/><text x='227' y='248' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#1B3A8A'>R. Shimon concedes</text><text x='227' y='272' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='16' fill='#3A5692'>מודה ר׳ שמעון לאחר עריפה</text><use href='#sage' x='44' y='282' width='52' height='91' style='color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0'/><use href='#sage' x='174' y='282' width='52' height='91' style='color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0'/><use href='#sage' x='304' y='282' width='52' height='91' style='color:#50706E;--beard:#4A3A2E;--wrap:#E4D8C0'/><text x='70' y='392' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Rabba</text><text x='200' y='392' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Rav Nachman</text><text x='200' y='410' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>(Rabba bar Avuh)</text><text x='330' y='392' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Reish Lakish</text><use href='#mark-no' x='74' y='429' width='24' height='24'/><text x='106' y='446' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Forbidden after its neck is broken</text><rect x='460' y='222' width='425' height='248' rx='14' fill='#F3E6D8'/><text x='672' y='248' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#9A6212'>Still in dispute</text><text x='672' y='272' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='16' fill='#7A4A2A'>עדיין היא מחלוקת</text><use href='#sage' x='646' y='282' width='52' height='91' style='color:#8C5A3C;--beard:#9C9892;--wrap:#E4D8C0'/><text x='672' y='392' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>R. Yochanan</text><text x='672' y='410' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>(some say R. Elazar)</text><use href='#mark-ok' x='520' y='429' width='24' height='24'/><text x='552' y='446' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Permitted even after its neck is broken</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s13",
+     "title": "The Cleaver Baraita: R. Shimon Permits, but At Which Stage?",
+     "amud": "10b",
+     "text": {
+      "from": "10b.9",
+      "to": "10b.14"
+     },
+     "gist": "An objection to Rabba from a *baraita* in which R. Shimon permits a donkey whose neck was broken and buried. The Gemara reads both clauses as the living donkey and explains why both kinds of benefit are taught.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s14",
+       "title": "After Death or While Alive? The Latter Clause on Shearing and Labor",
+       "amud": "10b",
+       "text": {
+        "from": "10b.9",
+        "to": "10b.12"
+       },
+       "gist": "Reading R. Shimon's permission as \"while alive\" seems impossible, since the latter clause is the one about the living donkey.",
+       "bullets": [
+        {
+         "text": "Objection to Rabba, who holds that even R. Shimon forbids the donkey after its neck is broken. *Baraita*: one who doesn't want to redeem breaks its neck from behind with a cleaver and buries it, and it is forbidden in benefit; so R. Yehuda. R. Shimon permits.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: read it as \"while it is alive it is forbidden in benefit\" (R. Yehuda), with R. Shimon permitting. After *arifah* he may agree that it is forbidden.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: the latter clause speaks of the living donkey, so the first clause must speak of the dead one.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The latter clause: one may not kill it with a reed, a sickle, an ax or a saw, nor shut it in a room to starve. Shearing it and working it are forbidden (R. Yehuda); R. Shimon permits.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Those methods are excluded because the Torah requires breaking its neck.",
+         "detail": 3,
+         "source": "gemara"
+        }
+       ],
+       "illustration": {
+        "caption": "The *baraita* of 10b.9–12: breaking the neck from behind with a cleaver is the Torah's way, the other methods are excluded, and R. Yehuda and R. Shimon dispute benefit in both clauses.",
+        "svg": "<svg viewBox='0 0 900 480' xmlns='http://www.w3.org/2000/svg' role='img'><title>A donkey with a cleaver behind its neck; beside it a reed, a sickle, an ax, a saw and a locked room, each crossed out; below, R. Yehuda forbids and R. Shimon permits in both clauses of the baraita.</title><rect width='900' height='480' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='210' rx='14' fill='#F3E6D8'/><text x='227' y='42' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#5A2A12'>If he does not redeem it</text><g fill='#5E554E'><rect x='100' y='128' width='7' height='40'/><rect x='116' y='130' width='7' height='38'/><rect x='164' y='130' width='7' height='38'/><rect x='180' y='128' width='7' height='40'/></g><ellipse cx='145' cy='122' rx='55' ry='24' fill='#8A8078'/><path d='M188 112 L212 82 L226 90 L204 126 Z' fill='#8A8078'/><ellipse cx='222' cy='84' rx='15' ry='9' transform='rotate(-20 222 84)' fill='#7A706A'/><path d='M212 76 L204 54 L218 72 Z M220 74 L218 52 L228 72 Z' fill='#7A706A'/><path d='M90 116 q-10 8 -6 22' stroke='#8A8078' stroke-width='3' fill='none'/><rect x='170' y='58' width='28' height='22' rx='2' fill='#9AA0A6'/><rect x='150' y='65' width='22' height='8' rx='3' fill='#6E5B46'/><line x1='60' y1='170' x2='240' y2='170' stroke='#D9C9A8' stroke-width='3'/><text x='262' y='90' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Breaks its neck</text><text x='262' y='110' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>from behind with</text><text x='262' y='130' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>a cleaver, and</text><text x='262' y='150' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>buries it</text><use href='#mark-ok' x='262' y='170' width='26' height='26'/><text x='296' y='189' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>The Torah’s way</text><rect x='460' y='14' width='425' height='210' rx='14' fill='#EFEAE2'/><text x='672' y='42' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#1A1F2E'>Not with these</text><path d='M502 150 L502 72' stroke='#7C8B4E' stroke-width='4'/><path d='M502 110 q-14 -8 -18 -24 M502 96 q12 -6 16 -22' stroke='#7C8B4E' stroke-width='3' fill='none'/><path d='M578 150 L590 118' stroke='#6E5B46' stroke-width='6' stroke-linecap='round'/><path d='M590 118 Q616 96 600 72 Q606 98 586 116 Z' fill='#9AA0A6'/><path d='M662 150 L682 76' stroke='#6E5B46' stroke-width='6' stroke-linecap='round'/><path d='M676 78 L700 70 L702 100 L678 96 Z' fill='#9AA0A6'/><rect x='727' y='104' width='56' height='18' fill='#9AA0A6'/><path d='M727 122 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8 l4 8 l4 -8' fill='none' stroke='#7A8088' stroke-width='2'/><rect x='783' y='100' width='16' height='26' rx='4' fill='#6E5B46'/><path d='M812 110 L842 84 L872 110 Z' fill='#B8A88E'/><rect x='816' y='110' width='52' height='42' fill='#EDE3CF' stroke='#BFAE8E' stroke-width='2'/><rect x='834' y='122' width='16' height='30' fill='#8A7560'/><circle cx='847' cy='138' r='2' fill='#EDE3CF'/><use href='#mark-no' x='489' y='162' width='26' height='26'/><use href='#mark-no' x='574' y='162' width='26' height='26'/><use href='#mark-no' x='659' y='162' width='26' height='26'/><use href='#mark-no' x='744' y='162' width='26' height='26'/><use href='#mark-no' x='829' y='162' width='26' height='26'/><text x='502' y='210' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Reed</text><text x='587' y='210' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Sickle</text><text x='672' y='210' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Ax</text><text x='757' y='210' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Saw</text><text x='842' y='210' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Locked room</text><rect x='15' y='238' width='870' height='200' rx='14' fill='#E3EAF3'/><text x='470' y='266' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>First clause: deriving benefit</text><text x='740' y='266' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1B3A8A'>Latter clause: shearing, labor</text><use href='#sage' x='40' y='276' width='44' height='77' style='color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0'/><text x='96' y='320' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>R. Yehuda</text><line x1='30' y1='354' x2='870' y2='354' stroke='#C9D2E0'/><use href='#sage' x='40' y='357' width='44' height='77' style='color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0'/><text x='96' y='400' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>R. Shimon</text><use href='#mark-no' x='410' y='300' width='28' height='28'/><text x='446' y='320' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Forbidden</text><use href='#mark-no' x='680' y='300' width='28' height='28'/><text x='716' y='320' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Forbidden</text><use href='#mark-ok' x='410' y='380' width='28' height='28'/><text x='446' y='400' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Permitted</text><use href='#mark-ok' x='680' y='380' width='28' height='28'/><text x='716' y='400' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Permitted</text><text x='450' y='464' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>The Gemara’s answer: both clauses concern the living donkey, its value (renting, selling) and the animal itself</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s15",
+       "title": "Two Kinds of Benefit: The Donkey's Value or the Donkey Itself",
+       "amud": "10b",
+       "text": {
+        "from": "10b.13",
+        "to": "10b.14"
+       },
+       "gist": "Both clauses concern the living donkey: the first covers benefit from its value, the latter the animal itself, and each is needed.",
+       "bullets": [
+        {
+         "text": "Answer: both clauses concern the living donkey. The first is benefit from its value, by renting or selling it. The latter is benefit from the animal itself, by shearing it or working it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Both are needed. From its value alone, one might think R. Shimon permits only that and concedes on the animal itself. From the animal itself alone, one might think R. Yehuda forbids only that and concedes on its value.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "These are two kinds of benefit: *hana'at damim*, indirect benefit through money, and *hana'at gufo*, direct use of the animal.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s16",
+     "title": "*Gezerah Shavah* to *Eglah Arufah*: R. Shimon's, or R. Yehuda's per Safra?",
+     "amud": "10b",
+     "text": {
+      "from": "10b.15",
+      "to": "10b.18"
+     },
+     "gist": "Rav Nachman: the *gezerah shavah* forbidding the donkey after *arifah* must be R. Shimon's. Safra reads it as R. Yehuda's: *arifah* does not permit the donkey the way redemption does.",
+     "bullets": [
+      {
+       "text": "Rav Nachman in the name of Rabba bar Avuh, like Rabba: R. Shimon concedes that after its neck is broken the donkey is forbidden in benefit.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Nachman's proof: a *baraita* links \"you shall break its neck\" (Shemot 13:13) to the *eglah arufah* (Devarim 21:4) by *gezerah shavah*. The heifer is forbidden after its rite, and so is the donkey after *arifah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Whose *baraita* is it? Not R. Yehuda's: for him the living donkey is already forbidden, so no verse is needed. It must be R. Shimon's.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Sheshet to Rav Nachman: Safra, your colleague, explained it as R. Yehuda's. Since *arifah* stands in place of redemption (\"if you do not redeem it, break its neck\"), one might think it permits the donkey as redemption does. The verse teaches that it doesn't.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s17",
+     "title": "Levi's \"His Money Shall Be Lost\": Forbidden, the Difference, or Death's Depreciation",
+     "amud": "10b",
+     "text": {
+      "from": "10b.19",
+      "to": "10b.23"
+     },
+     "gist": "Rav Nachman reads Levi's reason for *arifah* as proof that it makes the donkey forbidden. The Gemara explains the loss for either *tanna* without that.",
+     "bullets": [
+      {
+       "text": "Rav Nachman's second proof: Levi's *baraita* on why the neck is broken. The owner caused the priest a loss by not giving him a lamb, so his own money shall be lost.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Not R. Yehuda's view: for him the donkey was already of no value to its owner while alive. So it is R. Shimon's, and *arifah* makes the donkey forbidden.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rebuttal, for R. Yehuda: the loss is the difference between the living donkey's value and the cheaper lamb. He would have kept that difference had he redeemed it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rebuttal, for R. Shimon, even if he permits the carcass: the loss is the depreciation of death, since a dead donkey is worth less than a live one.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "For example, a donkey worth a hundred redeemed with a lamb worth fifty leaves the owner fifty. Breaking its neck forfeits that.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s18",
+     "title": "Reish Lakish vs. R. Yochanan: Concedes, or Still in Dispute?",
+     "amud": "10b",
+     "text": {
+      "from": "10b.24",
+      "to": "10b.24"
+     },
+     "gist": "Reish Lakish sides with Rabba and Rav Nachman. R. Yochanan (some say R. Elazar) holds that R. Shimon permits benefit even after the donkey's death.",
+     "bullets": [
+      {
+       "text": "Reish Lakish, like Rabba and Rav Nachman: R. Shimon concedes that after *arifah* the donkey is forbidden.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yochanan, and some say R. Elazar: it is still in dispute. R. Shimon permits benefit even after the donkey's death.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Neither the *baraitot* nor the proofs settle the question. For R. Shimon, is *arifah* an act that makes the donkey forbidden, or only the alternative to redemption, with no effect on its status?",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s19",
+   "title": "Betrothing with a *Peter Chamor*: After *Arifah* or Worth Only a Shekel?",
+   "amud": "10b → 11a",
+   "text": {
+    "from": "10b.25",
+    "to": "10b.30"
+   },
+   "gist": "The mishna in Kiddushin rules that betrothal with a *peter chamor* fails. It is read two ways, as after *arifah* (Rav Nachman) or as a donkey worth only a shekel (Rav), which leads into the derivations from \"You shall redeem.\"",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s20",
+     "title": "First Version: Rav Nachman, After the Neck Is Broken, All Agree",
+     "amud": "10b",
+     "text": {
+      "from": "10b.25",
+      "to": "10b.25"
+     },
+     "gist": "Some attach Rav Nachman's statement to the Kiddushin mishna: the betrothal is invalid after *arifah*, even for R. Shimon.",
+     "bullets": [
+      {
+       "text": "Some teach Rav Nachman's statement on the mishna in Kiddushin (56b): if one betroths a woman with a *peter chamor*, she is not betrothed, since it is forbidden in benefit.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Is the mishna then against R. Shimon, who permits benefit? Rav Nachman in the name of Rabba bar Avuh: it speaks of betrothal after *arifah*, when all agree, even R. Shimon, that it is forbidden.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s16",
+       "note": "The same statement of Rav Nachman, attached to a different source"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s21",
+     "title": "Second Version: A Shekel Donkey and R. Yosei bar Yehuda's Minimum",
+     "amud": "10b",
+     "text": {
+      "from": "10b.26",
+      "to": "10b.30"
+     },
+     "gist": "On either *tanna* the woman should be betrothed with something. Rav sets the mishna in a donkey worth a shekel, following R. Yosei bar Yehuda's minimum for the redemption lamb.",
+     "bullets": [
+      {
+       "text": "Others report the discussion differently. Whose view is the mishna? Not R. Shimon's, for she should be betrothed with the donkey's whole value. Not R. Yehuda's either, for she should be betrothed with the difference between the donkey's value and the lamb owed to the priest.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabba bar Avuh in the name of Rav: it is R. Yehuda's view, and the donkey is worth only a shekel, the value of a lamb fit for redemption. No difference remains.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yehuda holds like R. Yosei bar Yehuda. *Baraita*: \"You shall redeem\" means immediately, and for any amount. R. Yosei bar Yehuda says there is no redemption for less than a shekel.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A betrothal needs something worth at least a *perutah*, so any difference, however small, would have been enough.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Rav's reading of the Kiddushin mishna (10b.27): a donkey worth a shekel against a lamb that, for R. Yosei bar Yehuda, must be worth at least a shekel, so nothing is left to betroth with.",
+      "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>A balance scale, level: on the left pan a firstborn donkey worth a shekel, on the right pan a lamb for redemption worth at least a shekel.</title><rect width='900' height='420' fill='#FBF8F1'/><text x='450' y='42' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>Rav: the Kiddushin mishna follows R. Yehuda</text><text x='450' y='66' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>A firstborn donkey worth only a shekel</text><rect x='240' y='146' width='420' height='8' rx='4' fill='#8B6A4E'/><path d='M450 138 L440 158 L460 158 Z' fill='#6E5B46'/><rect x='446' y='154' width='8' height='176' fill='#8B6A4E'/><rect x='392' y='330' width='116' height='12' rx='4' fill='#6E5B46'/><path d='M250 150 L180 236 M250 150 L320 236' stroke='#8B6A4E' stroke-width='2'/><ellipse cx='250' cy='238' rx='74' ry='9' fill='#C9A96E'/><g fill='#5E554E'><rect x='226' y='216' width='5' height='20'/><rect x='236' y='218' width='5' height='18'/><rect x='258' y='218' width='5' height='18'/><rect x='268' y='216' width='5' height='20'/></g><ellipse cx='248' cy='212' rx='30' ry='13' fill='#8A8078'/><path d='M272 206 L284 190 L292 194 L280 214 Z' fill='#8A8078'/><ellipse cx='290' cy='190' rx='9' ry='6' fill='#7A706A'/><path d='M284 185 L280 172 L288 183 Z M290 184 L290 171 L295 183 Z' fill='#7A706A'/><path d='M650 150 L580 236 M650 150 L720 236' stroke='#8B6A4E' stroke-width='2'/><ellipse cx='650' cy='238' rx='74' ry='9' fill='#C9A96E'/><use href='#lamb' x='607' y='178' width='84' height='59'/><text x='250' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Firstborn donkey</text><text x='250' y='292' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>worth a shekel</text><text x='650' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Lamb for redemption</text><text x='650' y='292' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>at least a shekel</text><text x='450' y='372' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>No difference in value is left for the owner, so the woman is not betrothed</text><text x='450' y='398' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>R. Yosei bar Yehuda: no redemption for less than a shekel</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s22",
+       "title": "\"You Shall Redeem\": Immediately and for Any Amount, Not Like a Firstborn Son",
+       "amud": "10b → 11a",
+       "text": {
+        "from": "10b.28",
+        "to": "10b.30"
+       },
+       "gist": "The verse is needed because the firstborn donkey is set beside the firstborn son, who waits thirty days and is redeemed for five *sela*.",
+       "bullets": [
+        {
+         "text": "Isn't \"immediately, and for any amount\" obvious? Why is a verse needed?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "It was needed. Bamidbar 18:15 sets the firstborn donkey beside the firstborn son, who is redeemed at thirty days for five *sela* (18:16). One might have thought the donkey too waits thirty days and needs a lamb worth five *sela*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So \"You shall redeem\" teaches: immediately after birth, and for any amount.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "continues": "Continues: why R. Yosei bar Yehuda requires a lamb worth a shekel (\"all your valuations shall be with the shekel of the Sanctuary\", Vayikra 27:25), and how the Rabbis read that verse, into 11a.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "asur be'hana'ah",
+   "hebrew": "אסור בהנאה",
+   "sense": "forbidden in benefit",
+   "definition": "An item from which no benefit at all may be derived: not only eating it, but also selling it, using it, or giving it to a gentile.",
+   "on_this_daf": "The daf asks whether a *peter chamor* becomes forbidden in benefit after its neck is broken according to R. Shimon, who permits it while alive, and whether R. Shimon counts forbidden items as food.",
+   "aliases": [
+    "asur be'hana'ah",
+    "forbidden in benefit"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s12",
+    "s14",
+    "s16",
+    "s18",
+    "s20"
+   ]
+  },
+  {
+   "term": "tum'at okhlin",
+   "hebrew": "טומאת אוכלין",
+   "sense": "susceptibility of food to impurity",
+   "definition": "The ritual impurity that food can contract. An item is susceptible only once it has the halakhic status of food and, normally, has come into contact with one of the liquids that make it susceptible.",
+   "on_this_daf": "R. Shimon denies food status to items forbidden in benefit (except meat cooked in milk), and Rava builds his proof on this.",
+   "aliases": [
+    "tum'at okhlin",
+    "food impurity"
+   ],
+   "sections": [
+    "s3",
+    "s4",
+    "s6"
+   ]
+  },
+  {
+   "term": "machshavah",
+   "hebrew": "מחשבה",
+   "sense": "intent to eat, giving food status",
+   "definition": "An owner's intention to eat an item, which gives food status to something people do not ordinarily eat.",
+   "on_this_daf": "Carcasses that people don't usually eat need intent before they count as food; the deflection claims the broken-necked donkey had none.",
+   "aliases": [
+    "machshavah",
+    "intent to eat"
+   ],
+   "sections": [
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s10"
+   ]
+  },
+  {
+   "term": "hekhsher",
+   "hebrew": "הכשר",
+   "sense": "making food susceptible through liquid",
+   "definition": "Contact with one of the seven liquids (such as water or blood), which makes food susceptible to ritual impurity.",
+   "on_this_daf": "The carcasses in Teharot and Okatzin need no contact with liquid, and the blood of a crow slaughtered for practice counts as one of the liquids.",
+   "aliases": [
+    "hekhsher",
+    "contact with liquid"
+   ],
+   "sections": [
+    "s6",
+    "s7",
+    "s10"
+   ]
+  },
+  {
+   "term": "isuro zehu machshavto",
+   "hebrew": "איסורו זהו מחשבתו",
+   "sense": "a prohibition standing in for intent to eat",
+   "definition": "The principle that an item's being forbidden to eat marks it as significant food, so that it counts as food without explicit intent.",
+   "on_this_daf": "It is offered as the Rabbis' reason, tested against two mishnayot, rejected by Rava for everyone, and then revived only for a donkey slaughtered for practice, like the crow of Nimos and R. Eliezer.",
+   "aliases": [
+    "isuro zehu machshavto",
+    "prohibition serves as intent"
+   ],
+   "sections": [
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "term": "she'at ha'kosher",
+   "hebrew": "שעת הכושר",
+   "sense": "an earlier period of fitness",
+   "definition": "A time when an item that is now forbidden was still permitted and fit for its use. The item may keep a status it had then.",
+   "on_this_daf": "R. Shimon counts meat cooked in milk as food because each part was fit to eat before the cooking, alongside his view that its benefit is permitted.",
+   "aliases": [
+    "she'at ha'kosher",
+    "period of fitness"
+   ],
+   "sections": [
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "term": "arifah",
+   "hebrew": "עריפה",
+   "sense": "breaking the neck of an unredeemed firstborn donkey",
+   "definition": "Killing a firstborn donkey by breaking its neck, which the Torah requires when the owner does not redeem it with a lamb.",
+   "on_this_daf": "The amora'im dispute whether R. Shimon holds that *arifah* makes the donkey forbidden in benefit, drawing on a *gezerah shavah* to *eglah arufah* and on Levi's teaching.",
+   "aliases": [
+    "arifah",
+    "neck-breaking"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s12",
+    "s14",
+    "s16",
+    "s17",
+    "s18",
+    "s20"
+   ]
+  },
+  {
+   "term": "peter chamor",
+   "hebrew": "פטר חמור",
+   "sense": "the firstborn male donkey",
+   "definition": "The firstborn male of a donkey, which must be redeemed with a lamb given to a priest, or else have its neck broken.",
+   "on_this_daf": "R. Yehuda forbids benefit from it while alive and R. Shimon permits it. The daf debates R. Shimon's view after its neck is broken, and whether a woman can be betrothed with it.",
+   "aliases": [
+    "peter chamor",
+    "firstborn donkey"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s8",
+    "s10",
+    "s12",
+    "s13",
+    "s14",
+    "s16",
+    "s17",
+    "s19",
+    "s20",
+    "s21",
+    "s22"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The meat-and-milk exchange (10a.2–3) could be its own top-level section. It is kept as the first child of Rava's proof because it clarifies the very Tosefta list Rava's proof depends on, and 10a.4 explicitly resumes the proof.",
+  "Rava's 'no one says prohibition serves as intent' (10a.12) could open the practice-slaughter section. It is kept as the conclusion of the mishnayot test, with a returns_to link to the Sages' answer before Rav Sheshet.",
+  "The Okatzin mishna's first clause and its continuation are one section rather than two, since they are one mishna and the proof comes from comparing its clauses.",
+  "The cleaver baraita (10b.9–14) and the amoraic statements (10b.15–24) are combined under one top-level question, whether R. Shimon concedes after arifah. They could be two separate top-level sections.",
+  "The Kiddushin mishna is a separate top-level section, although its first version is Rav Nachman's statement again (linked by returns_to), because its second version develops an independent line on the shekel minimum.",
+  "'You shall redeem' (10b.28–30) is nested under the second version, which cites that baraita, rather than being made a sibling."
+ ],
+ "coverage_notes": [
+  "The first line (10a.2) picks up the question of 10a.1, which falls in the previous daf's outline. Lines 10b.31–33 (R. Yosei bar Yehuda's source and the Rabbis' reply) fall in the next daf's outline. The shiur's closing summary is folded into s18's shiur bullet.",
+  "The essay calls the Rabbis' principle 'issuro chishuvo'. The text's phrase is 'its prohibition serves as its intent' (isuro zehu machshavto). Followed the text.",
+  "The essay says the no-intent deflection is rejected. In the text it is sustained by the Sages' answer before Rav Sheshet (prohibition serves as intent), and only that answer is then tested against the mishnayot. Followed the text.",
+  "The essay calls Teharot 1:1 'a teaching' and Okatzin 3:3 a baraita. The text cites both as mishnayot. Followed the text.",
+  "The essay says the practice slaughter is of an ordinary donkey, not the peter chamor. The text says the firstborn donkey was slaughtered to learn. Followed the text.",
+  "The essay says 'raven' and 'Nimos told R. Yossi'. The text says a crow, with R. Yosei reporting Nimos. Followed the text.",
+  "The essay calls the cleaver baraita 'lo ratza lishchot' and lists a scythe. The text says one who does not want to redeem, and a sickle. Followed the text.",
+  "The essay says 'Rav Nachman in the name of Rabbah bar Avuha' and 'Rav Sheshet Safra challenges'. The text has Rabba bar Avuh, and Rav Sheshet telling Rav Nachman that Safra, his colleague, explained it. Followed the text.",
+  "The essay omits Reish Lakish and pairs 'Rava' with Rav Nachman. The text adds Reish Lakish. In 10b the text names 'Rabba' as the author of the view (10b.9, 15, 24), while 10a names Rava for the same proof. Each is kept as the text has it.",
+  "The essay treats the shekel explanation as a follow-up to Rav Nachman's reading. The text presents it as an alternative version ('there are those who say'), stated by Rabba bar Avuh in the name of Rav. Followed the text.",
+  "The essay says 'tifdeh' is written twice. The provided text doesn't say so, so this is omitted.",
+  "The essay ends by calling the question 'teku'. The text records a dispute among amora'im without teiku, so it is not called teiku.",
+  "The Sefaria translation of 10a.10 places the kosher bird carcass 'in any location', while 10a.9 lists it in the villages as needing intent. Following the contrast in 10a.9 (and the mishna), the outline groups the bird carcass with fat in the marketplaces."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s17",
+    "subject": "Rav Nachman's two proofs against their rebuttals",
+    "why_not": "Two proofs with two short rebuttals each; the bullets carry them clearly, and the stage-by-stage chart in s12 holds the positions."
+   },
+   {
+    "section": "s15",
+    "subject": "Value vs. the animal itself, by tanna",
+    "why_not": "Absorbed into the s12 chart's columns."
+   },
+   {
+    "section": "s22",
+    "subject": "Firstborn son vs. firstborn donkey: when and for how much",
+    "why_not": "Only two rows, and R. Yosei bar Yehuda's side would leave a filler cell."
+   },
+   {
+    "section": "s10",
+    "subject": "Nimos vs. R. Eliezer on blood and crow",
+    "why_not": "The illustration already sets the two positions side by side."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s3",
+    "subject": "R. Shimon's food list with meat in milk as the lone exception",
+    "why_not": "The chart already distills it; a picture would repeat the grid."
+   },
+   {
+    "section": "s17",
+    "subject": "Levi's loss: the redemption difference and the depreciation of death",
+    "why_not": "An arithmetic point the bullets make plainly; the shekel scale in s21 already pictures the redemption difference."
+   },
+   {
+    "section": "s16",
+    "subject": "The gezerah shavah between the peter chamor and the eglah arufah",
+    "why_not": "A verbal link with no scene or comparison beyond the two names."
+   },
+   {
+    "section": "s2",
+    "subject": "'Holy people' linking meat in milk to the tereifah",
+    "why_not": "A textual derivation, hard to picture meaningfully."
+   }
+  ]
+ }
+}

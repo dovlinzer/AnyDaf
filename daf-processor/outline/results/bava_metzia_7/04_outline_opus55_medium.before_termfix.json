@@ -1,0 +1,939 @@
+{
+ "daf": "Bava Metzia 7",
+ "scope": {
+  "start": "7a: Rav Acha of Difti asks which doubtful animals are tithed (continuing the proof that a kohen who seizes a doubtful animal must return it)",
+  "end": "8a: the animal two people are riding, which shows that 'they divide' means dividing value"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Which Doubtful Animals Are Tithed? Not a Safek Bekhor, but Its Redemption Lamb",
+   "amud": "7a",
+   "text": {
+    "from": "7a.2",
+    "to": "7a.3"
+   },
+   "gist": "Continuing the proof that a kohen who seizes a doubtful animal must return it: the 'doubtful animals' tithed in the Mishnah are lambs that redeemed possibly-firstborn donkeys, not possible firstborns.",
+   "bullets": [
+    {
+     "text": "Rav Acha of Difti asks Ravina: which doubtful animals does the Mishnah mean when it says they enter the pen for *ma'aser behemah*?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Not a *safek bekhor*. \"The tenth shall be sacred\" excludes an animal that is already sacred, and a possible firstborn is treated as sacred because of the doubt.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Mishnah means a lamb given to redeem a donkey that may be a firstborn (*safek pidyon peter chamor*).",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rav Nachman in the name of Rabba bar Avuh: an Israelite with ten such donkeys separates ten lambs to redeem them and tithes the lambs, and all of them are his, since the kohen cannot prove a claim to any of them.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The redemption lamb carries no sanctity either way. At most the kohen has a monetary claim to it, so the only open question is who owns it.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "The tithe works only if the owner's possession is a real ruling of ownership, not the court standing aside. That is why a kohen who seizes such a lamb must give it back.",
+     "detail": 2,
+     "source": "shiur"
+    }
+   ],
+   "children": []
+  },
+  {
+   "id": "s2",
+   "title": "The Bathhouse: No Consecration Without a Court Claim; Land vs. Movables",
+   "amud": "7a",
+   "text": {
+    "from": "7a.4",
+    "to": "7a.6"
+   },
+   "gist": "Returning to the disputed bathhouse raised on 6b: property one cannot win in court cannot be consecrated, and a bath dug into the ground counts as in its owner's possession once he can win it.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s3",
+     "title": "Rav Nachman: What You Can't Recover in Court, You Can't Consecrate",
+     "amud": "7a",
+     "text": {
+      "from": "7a.4",
+      "to": "7a.4"
+     },
+     "gist": "The bathhouse case goes from the school of Rav Chisda to Rav Huna, who resolves it with Rav Nachman's rule.",
+     "bullets": [
+      {
+       "text": "What was concluded about the bathhouse? R. Chiyya bar Avin: such a case came before the school of Rav Chisda, who brought it before the school of Rav Huna.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Huna ruled by Rav Nachman: property one cannot recover from the other party by legal process cannot be consecrated while it is in the other's hands.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the other party's silence in the face of the consecration proves nothing. There was no effective act for him to protest.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Challenge from R. Yochanan: Eino Bi'reshuto, and a Bath Dug in the Ground",
+     "amud": "7a",
+     "text": {
+      "from": "7a.5",
+      "to": "7a.6"
+     },
+     "gist": "If winnable property could be consecrated, that would contradict R. Yochanan on stolen goods; the answer is that land is always in its owner's possession.",
+     "bullets": [
+      {
+       "text": "The inference: if one can recover the property in court, may he consecrate it even before recovering it?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "But R. Yochanan: a stolen item whose owner has not despaired can be consecrated by neither. The robber can't, because it is not his; the owner can't, because it is not in his possession (*eino bi'reshuto*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: the bathhouse is dug into the ground, not a movable bath. Land that one can recover in court is already in one's possession, with no need to take hold of it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Land cannot be carried off, so another person's use of it does not take it out of the owner's domain.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Two Holding a Garment: What's in Each Hand, the Fringes, the Cloth, the Gold",
+   "amud": "7a",
+   "text": {
+    "from": "7a.7",
+    "to": "7a.14"
+   },
+   "gist": "Rav Tachlifa's baraita gives each holder what is in his hand; the Gemara squares it with the Mishnah, applies it to acquisition with a cloth (unlike a get on a string), and adds Rava's golden garment.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s6",
+     "title": "Rav Tachlifa's Baraita: Each Keeps His Grip, Unless Both Hold the Fringes",
+     "amud": "7a",
+     "text": {
+      "from": "7a.7",
+      "to": "7a.8"
+     },
+     "gist": "Each takes what his hand holds and they split the rest, with an oath; the Mishnah's plain equal division is where both hold only the fringes.",
+     "bullets": [
+      {
+       "text": "Rav Tachlifa of the West teaches before R. Abbahu: when two grasp a garment, each takes up to where his hand reaches and they divide the remainder equally.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Abbahu signals with a gesture that he should add: provided they take an oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: he pointed heavenward, meaning an oath. The oath is still needed so people won't grab others' garments and claim them.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Then where does the Mishnah's plain \"they divide\" apply? Rav Pappa: where neither grasps the garment itself, only its fringes (*karkashta*). So each swears and they divide it all.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rav Tachlifa's baraita (each keeps the part in his hand, and the rest is split) beside Rav Pappa's reading of the Mishnah, where both hold only the fringes (7a).",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: two men each grasp part of a garment; each keeps what is in his hand and the middle is split. Right: two men hold only the fringes, and the whole garment is split.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"412\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">Rav Tachlifa’s baraita</text><text x=\"227\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Each is grasping part of the garment</text><use href=\"#man\" x=\"25\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"352\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#8C5A3C\"/><rect x=\"100\" y=\"190\" width=\"240\" height=\"80\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\"/><rect x=\"100\" y=\"190\" width=\"50\" height=\"80\" fill=\"#B9C8E0\"/><rect x=\"290\" y=\"190\" width=\"50\" height=\"80\" fill=\"#EBCB9E\"/><line x1=\"220\" y1=\"190\" x2=\"220\" y2=\"270\" stroke=\"#9A8A70\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"125\" y=\"178\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1B3A8A\">his grip</text><text x=\"315\" y=\"178\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#9A6212\">his grip</text><text x=\"220\" y=\"178\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">remainder</text><text x=\"227\" y=\"318\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">Each takes up to where his hand reaches,</text><text x=\"227\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">and they divide the remainder equally.</text><text x=\"227\" y=\"374\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">R. Abbahu: provided they take an oath</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"412\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">Rav Pappa: the Mishnah’s case</text><text x=\"672\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Both hold only the fringes (karkashta)</text><use href=\"#man\" x=\"468\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#50706E\"/><use href=\"#man\" x=\"812\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#7A4A55\"/><rect x=\"560\" y=\"190\" width=\"220\" height=\"80\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\"/><g stroke=\"#9A8A70\" stroke-width=\"2\"><line x1=\"540\" y1=\"200\" x2=\"560\" y2=\"200\"/><line x1=\"540\" y1=\"215\" x2=\"560\" y2=\"215\"/><line x1=\"540\" y1=\"230\" x2=\"560\" y2=\"230\"/><line x1=\"540\" y1=\"245\" x2=\"560\" y2=\"245\"/><line x1=\"540\" y1=\"260\" x2=\"560\" y2=\"260\"/><line x1=\"780\" y1=\"200\" x2=\"800\" y2=\"200\"/><line x1=\"780\" y1=\"215\" x2=\"800\" y2=\"215\"/><line x1=\"780\" y1=\"230\" x2=\"800\" y2=\"230\"/><line x1=\"780\" y1=\"245\" x2=\"800\" y2=\"245\"/><line x1=\"780\" y1=\"260\" x2=\"800\" y2=\"260\"/></g><text x=\"670\" y=\"178\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">neither holds the garment itself</text><text x=\"672\" y=\"318\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">No one holds part of the garment itself,</text><text x=\"672\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">so the whole is divided equally,</text><text x=\"672\" y=\"374\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">each after taking an oath</text></svg>"
+     }
+    },
+    {
+     "id": "s7",
+     "title": "Kinyan Sudar: Three by Three Fingerbreadths, Unlike a Get on a String",
+     "amud": "7a",
+     "text": {
+      "from": "7a.9",
+      "to": "7a.12"
+     },
+     "gist": "Rav Mesharshiya: grasping three by three fingerbreadths of the cloth completes the acquisition; a get held by a string is different, because divorce requires complete severance.",
+     "bullets": [
+      {
+       "text": "Rav Mesharshiya learns from Rav Pappa: in *kinyan sudar* the whole cloth need not change hands. Once the recipient grasps three by three fingerbreadths, the minimum size of a cloth that counts as a utensil, the acquisition takes effect (Ruth 4:7, \"and gave it to his neighbor\").",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "That much cloth is treated as though it were cut off from the rest, even while the rest is still in the other party's hand.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge from Rav Chisda: a husband places a get in his wife's hand but keeps hold of an attached string. If he can pull the get back, she is not divorced; if he cannot, she is divorced.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: a get requires *keritut*, complete severance, which is missing while the husband keeps a hold on it. A cloth requires only an act of giving, and partial giving is still giving.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A partial grip counts as possession of that part. Whether that is enough depends on what the act has to achieve.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "A partial hold: acquisition with a cloth vs. a bill of divorce",
+      "columns": [
+       "",
+       "What the act requires",
+       "What the other side still holds",
+       "Result"
+      ],
+      "rows": [
+       [
+        "Cloth for acquisition (Rav Mesharshiya)",
+        "An act of giving",
+        "The giver holds the rest of the cloth",
+        "Acquisition takes effect once the recipient grasps 3 × 3 fingerbreadths"
+       ],
+       [
+        "Bill of divorce (Rav Chisda)",
+        "Complete severance (*keritut*)",
+        "The husband holds an attached string",
+        "Not divorced if he can pull it back; divorced if he cannot"
+       ]
+      ]
+     },
+     "children": [],
+     "illustration": {
+      "caption": "Rav Mesharshiya's cloth, which acquires once the recipient grasps three by three fingerbreadths, beside Rav Chisda's get held by a string (7a).",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a giver and a recipient hold a cloth; the recipient grasps a small square of it. Right: a husband holds a string tied to a bill of divorce in his wife's hand.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"412\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">Acquisition with a cloth</text><text x=\"227\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rav Mesharshiya · Ruth 4:7</text><use href=\"#man\" x=\"35\" y=\"150\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"335\" y=\"150\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><rect x=\"105\" y=\"185\" width=\"220\" height=\"60\" fill=\"#E8DCC4\" stroke=\"#BFAE8E\"/><rect x=\"293\" y=\"193\" width=\"28\" height=\"28\" fill=\"#1B3A8A\" fill-opacity=\"0.35\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><text x=\"325\" y=\"174\" text-anchor=\"end\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1B3A8A\">3 × 3 fingerbreadths</text><text x=\"105\" y=\"262\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">giver holds the rest</text><text x=\"227\" y=\"302\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">Grasping 3 × 3 fingerbreadths is as if</text><text x=\"227\" y=\"322\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">that piece were cut off from the rest</text><use href=\"#mark-ok\" x=\"70\" y=\"344\" width=\"30\" height=\"30\"/><text x=\"110\" y=\"365\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">The acquisition takes effect</text><text x=\"227\" y=\"402\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Needed: an act of giving</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"412\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">Bill of divorce on a string</text><text x=\"672\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rav Chisda</text><use href=\"#man\" x=\"480\" y=\"150\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"800\" y=\"150\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><path d=\"M540 222 Q640 252 730 222\" fill=\"none\" stroke=\"#7A5A3A\" stroke-width=\"2\"/><rect x=\"730\" y=\"195\" width=\"44\" height=\"54\" fill=\"#FFFFFF\" stroke=\"#8A7560\" stroke-width=\"2\"/><g stroke=\"#CFC6B4\" stroke-width=\"2\"><line x1=\"736\" y1=\"207\" x2=\"768\" y2=\"207\"/><line x1=\"736\" y1=\"217\" x2=\"768\" y2=\"217\"/><line x1=\"736\" y1=\"227\" x2=\"768\" y2=\"227\"/><line x1=\"736\" y1=\"237\" x2=\"768\" y2=\"237\"/></g><text x=\"630\" y=\"204\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">string in his hand</text><text x=\"752\" y=\"186\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#5A4A3A\">get</text><text x=\"672\" y=\"302\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Needed: complete severance (keritut)</text><use href=\"#mark-no\" x=\"490\" y=\"322\" width=\"30\" height=\"30\"/><text x=\"530\" y=\"343\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">He can still pull it back: not divorced</text><use href=\"#mark-ok\" x=\"490\" y=\"362\" width=\"30\" height=\"30\"/><text x=\"530\" y=\"383\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">He cannot pull it back: divorced</text></svg>"
+     }
+    },
+    {
+     "id": "s8",
+     "title": "Rava's Golden Garment: Divide It This Way or That Way?",
+     "amud": "7a",
+     "text": {
+      "from": "7a.13",
+      "to": "7a.14"
+     },
+     "gist": "Gold woven into the garment is split equally even when it lies nearer one holder, since the other can insist on dividing it the other way.",
+     "bullets": [
+      {
+       "text": "Rava: even a garment woven with gold is divided. Obvious? It is needed where the gold lies in the middle, in neither's hand.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "That too is obvious, since the remainder is divided. It is needed where the gold is closer to one of them, though not in his grasp.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "The nearer one might say: divide along the line between us, leaving most of the gold on my side. The other replies: why divide that way? Divide it the other way. So they divide the gold equally.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rava's case (7a): gold nearer one holder. His dividing line would give him the gold; the other's line splits it, so the gold is divided equally.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two men hold opposite ends of a garment with a band of gold nearer the right-hand man. A vertical dividing line would give him the gold; a horizontal one splits the gold in two.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"44\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Rava: a garment woven with gold</text><use href=\"#man\" x=\"70\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"770\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#8C5A3C\"/><rect x=\"150\" y=\"150\" width=\"600\" height=\"160\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"540\" y=\"150\" width=\"100\" height=\"160\" fill=\"#E8C45A\"/><g stroke=\"#C9A032\" stroke-width=\"2\"><line x1=\"555\" y1=\"150\" x2=\"555\" y2=\"310\"/><line x1=\"575\" y1=\"150\" x2=\"575\" y2=\"310\"/><line x1=\"595\" y1=\"150\" x2=\"595\" y2=\"310\"/><line x1=\"615\" y1=\"150\" x2=\"615\" y2=\"310\"/></g><line x1=\"450\" y1=\"132\" x2=\"450\" y2=\"328\" stroke=\"#1B3A8A\" stroke-width=\"3\" stroke-dasharray=\"8 6\"/><line x1=\"134\" y1=\"230\" x2=\"766\" y2=\"230\" stroke=\"#9A6212\" stroke-width=\"3\" stroke-dasharray=\"8 6\"/><text x=\"450\" y=\"118\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">Nearer one: “Divide here,” leaving the gold on my side</text><text x=\"590\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#9A6212\">gold thread</text><text x=\"450\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">The other: “Why that way? Divide it this way,” splitting the gold</text><text x=\"450\" y=\"396\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Rava: they divide the gold equally</text></svg>"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "Two Holding a Promissory Note: Ratify, Divide, or Keep It from Both?",
+   "amud": "7a–7b",
+   "text": {
+    "from": "7a.15",
+    "to": "7b.12"
+   },
+   "gist": "A baraita on a disputed note: Rebbi requires ratification, Rabban Shimon ben Gamliel divides, and a note in a judge's hands is never released, against R. Yosei's presumption. The Gemara then treats *modeh bi'shtar*, Rava's reading of the judge case, and R. Yosei's consistency on *pera'on*.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s10",
+     "title": "The Baraita: Rebbi, Rabban Shimon ben Gamliel and R. Yosei",
+     "amud": "7a",
+     "text": {
+      "from": "7a.15",
+      "to": "7a.17"
+     },
+     "gist": "The creditor says he dropped the note, the debtor says he paid and got it back: Rebbi requires ratification, Rabban Shimon ben Gamliel divides; a note in a judge's hands is never removed, while R. Yosei says it keeps its presumptive status.",
+     "bullets": [
+      {
+       "text": "Baraita (Tosefta 1:8): creditor and debtor both grasp a note. The creditor: it is mine, I dropped it and found it. The debtor: it was yours, but I repaid you and you gave it to me.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rebbi (R. Yehuda HaNasi): the note must be ratified through its signatories.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabban Shimon ben Gamliel: they divide.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A note that fell into a judge's hands is never removed from there until proof is brought. R. Yosei: it keeps its presumptive status, and they proceed by its contents.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "Modeh Bi'shtar She'katvo: Must a Conceded Note Be Ratified?",
+     "amud": "7a",
+     "text": {
+      "from": "7a.18",
+      "to": "7a.22"
+     },
+     "gist": "Rava in Rav Nachman's name: on a ratified note both agree they divide; the dispute is an unratified note, and whether a debtor's admission that he wrote it makes ratification unnecessary.",
+     "bullets": [
+      {
+       "text": "Question: does Rebbi mean that once the note is ratified the creditor collects everything? But Rebbi accepts the Mishnah's garment ruling that they divide.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava in the name of Rav Nachman: on a ratified note, all agree they divide. They disagree about a note that has not been ratified.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rebbi: even in a case of *modeh bi'shtar she'katvo*, the creditor must ratify it (*kiyum*). If he ratifies it, they divide; if not, he receives nothing.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "His reason: an unratified note is a mere shard (*chaspa*). Only the debtor gives it force, and the debtor says it was repaid.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The mouth that creates the obligation is the mouth that releases it (*ha'peh she'asar hu ha'peh she'hitir*). The creditor can't use the admission while ignoring the claim of payment.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Rabban Shimon ben Gamliel: a debtor who admits writing the note removes the need to ratify it. The note is valid, and they divide.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Signed witnesses count as if examined in court; ratification is a rabbinic safeguard. Once the debtor admits the note, the safeguard falls away, and he is no longer believed that he paid.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Rebbi vs. Rabban Shimon ben Gamliel, as Rav Nachman explains them",
+      "columns": [
+       "",
+       "Ratified note",
+       "Unratified note",
+       "Debtor admits he wrote it",
+       "Reason"
+      ],
+      "rows": [
+       [
+        "Rebbi",
+        "They divide",
+        "Creditor receives nothing",
+        "Must still be ratified",
+        "An unratified note is a shard; its only support is the debtor, who says he paid"
+       ],
+       [
+        "Rabban Shimon ben Gamliel",
+        "They divide",
+        "They divide",
+        "Need not be ratified",
+        "The debtor's admission makes the note valid"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "A Note in a Judge's Hands: Rava's Reading and the Fear of Pera'on",
+     "amud": "7a–7b",
+     "text": {
+      "from": "7a.23",
+      "to": "7b.2"
+     },
+     "gist": "Rava: the baraita means a third party found a note that already bears the court's ratification; it is still not returned to the creditor, for fear of *pera'on*.",
+     "bullets": [
+      {
+       "text": "What is special about a judge? Rava: the baraita means another person found a note that had already been \"in a judge's hands\", that is, the court had written its ratification on it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Without a ratification there would be nothing new: perhaps the debtor wrote it intending to borrow and never did.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Even with a ratification, the finder does not return it to the creditor. We suspect *pera'on*: the debtor may have repaid and then lost the note.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "R. Yosei and Pera'on: The Found Ketubah and Three Resolutions",
+     "amud": "7b",
+     "text": {
+      "from": "7b.3",
+      "to": "7b.12"
+     },
+     "gist": "R. Yosei's presumption seems to clash with his ruling on a found ketubah; the Gemara answers three ways: reversing the tanna'im, Rav Pappa's 'by your own view', and Ravina's two ketubot.",
+     "bullets": [],
+     "chart": {
+      "caption": "Three ways to reconcile R. Yosei's rulings on a found note and a found ketubah",
+      "columns": [
+       "",
+       "Who says the note is \"never removed\"",
+       "The Rabbis on a ketubah, still married",
+       "R. Yosei on a ketubah, still married"
+      ],
+      "rows": [
+       [
+        "Reverse the tanna'im",
+        "R. Yosei",
+        "Not in the baraita: the whole ketubah baraita is R. Yosei's",
+        "Return it to the wife; after widowhood or divorce, to neither"
+       ],
+       [
+        "Rav Pappa",
+        "The Rabbis",
+        "Keep it: he may have paid her in bundles of money",
+        "Return it, argued by the Rabbis' own view; he himself would return it even after divorce"
+       ],
+       [
+        "Ravina",
+        "R. Yosei (reversed)",
+        "Keep it: suspect a second ketubah was written",
+        "Return it: two ketubot are rare"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s14",
+       "title": "The Contradiction: A Ketubah Found in the Marketplace",
+       "amud": "7b",
+       "text": {
+        "from": "7b.3",
+        "to": "7b.5"
+       },
+       "gist": "R. Yosei ignores *pera'on* on a found note, yet on a found ketubah after widowhood or divorce he returns it to neither, suspecting she was paid.",
+       "bullets": [
+        {
+         "text": "R. Yosei: the note keeps its status; we don't suspect *pera'on*, since a debtor who paid would have destroyed the note at once.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "But a baraita: a ketubah found in the marketplace goes back to the wife if the husband admits he has not paid. If he claims he paid, it goes to neither.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Yosei there: if she is still married, return it to the wife, since he would not pay during the marriage. If she was widowed or divorced, return it to neither: perhaps she was paid.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So R. Yosei does suspect *pera'on*.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "illustration": {
+        "caption": "The baraita of the found ketubah (7b): who returns it to the wife and who to neither, by case. R. Yosei's last column is what seems to contradict his ruling on the found note.",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A grid: rows for the first opinion and R. Yosei; columns for husband admits he has not paid, claims he paid while still married, claims he paid after widowhood or divorce; each cell marked return to the wife or to neither.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"40\" y=\"16\" width=\"36\" height=\"46\" fill=\"#FFFFFF\" stroke=\"#8A7560\" stroke-width=\"2\"/><g stroke=\"#CFC6B4\" stroke-width=\"2\"><line x1=\"46\" y1=\"28\" x2=\"70\" y2=\"28\"/><line x1=\"46\" y1=\"37\" x2=\"70\" y2=\"37\"/><line x1=\"46\" y1=\"46\" x2=\"70\" y2=\"46\"/></g><text x=\"58\" y=\"82\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" fill=\"#5A4A3A\">כתובה</text><text x=\"470\" y=\"44\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">A marriage contract found in the marketplace</text><text x=\"380\" y=\"112\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Husband admits</text><text x=\"380\" y=\"132\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">he has not paid</text><text x=\"580\" y=\"112\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Claims he paid,</text><text x=\"580\" y=\"132\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">still married</text><text x=\"780\" y=\"112\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Claims he paid,</text><text x=\"780\" y=\"132\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">widowed or divorced</text><g stroke=\"#E0D8C8\" stroke-width=\"2\"><line x1=\"20\" y1=\"150\" x2=\"880\" y2=\"150\"/><line x1=\"20\" y1=\"285\" x2=\"880\" y2=\"285\"/><line x1=\"280\" y1=\"96\" x2=\"280\" y2=\"420\"/><line x1=\"480\" y1=\"96\" x2=\"480\" y2=\"420\"/><line x1=\"680\" y1=\"96\" x2=\"680\" y2=\"420\"/></g><use href=\"#sage\" x=\"30\" y=\"165\" width=\"60\" height=\"105\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><text x=\"105\" y=\"215\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">First opinion</text><text x=\"105\" y=\"235\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">(the Rabbis)</text><use href=\"#sage\" x=\"30\" y=\"300\" width=\"60\" height=\"105\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#D9CBB0\"/><text x=\"105\" y=\"355\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">R. Yosei</text><use href=\"#mark-ok\" x=\"364\" y=\"180\" width=\"32\" height=\"32\"/><text x=\"380\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">to the wife</text><use href=\"#mark-no\" x=\"564\" y=\"180\" width=\"32\" height=\"32\"/><text x=\"580\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">to neither</text><use href=\"#mark-no\" x=\"764\" y=\"180\" width=\"32\" height=\"32\"/><text x=\"780\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">to neither</text><use href=\"#mark-ok\" x=\"364\" y=\"315\" width=\"32\" height=\"32\"/><text x=\"380\" y=\"375\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">to the wife</text><use href=\"#mark-ok\" x=\"564\" y=\"315\" width=\"32\" height=\"32\"/><text x=\"580\" y=\"375\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">to the wife</text><text x=\"580\" y=\"397\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">not paid during a marriage</text><use href=\"#mark-no\" x=\"764\" y=\"315\" width=\"32\" height=\"32\"/><text x=\"780\" y=\"375\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">to neither</text><text x=\"780\" y=\"397\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">perhaps she was paid</text></svg>"
+       }
+      },
+      {
+       "id": "s15",
+       "title": "Reverse the Tanna'im, and Read the Ketubah Baraita as R. Yosei's Alone",
+       "amud": "7b",
+       "text": {
+        "from": "7b.6",
+        "to": "7b.8"
+       },
+       "gist": "Assign 'never removed' to R. Yosei; when that leaves the Rabbis contradicting themselves, the ketubah baraita is read as one abridged statement of R. Yosei.",
+       "bullets": [
+        {
+         "text": "Reverse the note baraita: \"never removed\" is R. Yosei's view, and the Rabbis say the note keeps its presumptive status.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Then the Rabbis contradict themselves: here they ignore repayment, yet on the ketubah they suspect it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The ketubah baraita is entirely R. Yosei's, with words missing: when the husband claims he paid, return it to neither, but only once she is widowed or divorced. While she is still married, return it to her.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "returns_to": [
+        {
+         "id": "s10",
+         "note": "Re-attributes the rulings of the note baraita"
+        }
+       ]
+      },
+      {
+       "id": "s16",
+       "title": "Rav Pappa: R. Yosei Arguing by the Rabbis' Own View",
+       "amud": "7b",
+       "text": {
+        "from": "7b.9",
+        "to": "7b.11"
+       },
+       "gist": "Without reversing: R. Yosei never suspects *pera'on* and only argues that, by the Rabbis' view, they should concede during a marriage; they answer that he may have paid her in bundles of money.",
+       "bullets": [
+        {
+         "text": "R. Yosei to the Rabbis: in my view I'd return it even after widowhood or divorce. But by your view, concede at least that while she is married it goes back to her, since the ketubah is not yet due.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The Rabbis: even during the marriage, say he gave her bundles of money (*tzerarei*) and she returned the ketubah. Returning it would let her collect twice.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s17",
+       "title": "Ravina: Reverse, and the Rabbis Fear Two Ketubot",
+       "amud": "7b",
+       "text": {
+        "from": "7b.12",
+        "to": "7b.12"
+       },
+       "gist": "Ravina reverses the note baraita; the Rabbis withhold a found ketubah not for fear of *pera'on* but because a replacement may have been written, which R. Yosei holds is rare.",
+       "bullets": [
+        {
+         "text": "Reverse the first baraita. The Rabbis withhold the found ketubah because we suspect the husband wrote a second one after the first was lost; returning the first would let her collect twice.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Yosei returns it to her: he does not suspect two ketubot, which he holds are rare.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "On this reading the Rabbis never suspect *pera'on*. The two sides differ over separate worries, repayment and a duplicate document, rather than over one.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s18",
+   "title": "Tofes or Toref: Does Which Part You Hold Change the Split?",
+   "amud": "7b",
+   "text": {
+    "from": "7b.13",
+    "to": "7b.18"
+   },
+   "gist": "R. Elazar limits Rabban Shimon ben Gamliel's equal division to holders of the same part, R. Yochanan says always equal, and Ravina explains what taking the *toref* is worth.",
+   "bullets": [],
+   "returns_to": [
+    {
+     "id": "s10",
+     "note": "Returns to Rabban Shimon ben Gamliel's ruling that they divide the note"
+    }
+   ],
+   "children": [
+    {
+     "id": "s19",
+     "title": "R. Elazar vs. R. Yochanan: The Toref in the Middle, Closer to One",
+     "amud": "7b",
+     "text": {
+      "from": "7b.13",
+      "to": "7b.15"
+     },
+     "gist": "R. Elazar: one holding the *tofes* and one the *toref* each take his part; R. Yochanan's 'always divide' is read as a *toref* lying between them, even nearer one side.",
+     "bullets": [
+      {
+       "text": "R. Elazar: Rabban Shimon ben Gamliel divides equally when both grasp the *tofes* or both the *toref*. If one grasps the *tofes* and the other the *toref*, each takes his part.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *tofes* is the standard formula of the note; the *toref* holds the names of creditor and debtor, the amount and the date.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yochanan: they always divide equally. Challenge: the garment baraita says each takes what his hand reaches.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: R. Yochanan speaks of a *toref* in the middle. Obvious? It is needed where the *toref* is closer to one side. The other can say, as with the golden garment: why divide that way? Divide the other way, so we share it.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "R. Elazar and R. Yochanan on dividing a disputed note",
+      "columns": [
+       "",
+       "Both hold the same part",
+       "One holds the *tofes*, the other the *toref*",
+       "The case each statement addresses"
+      ],
+      "rows": [
+       [
+        "R. Elazar",
+        "Divide equally",
+        "Each takes the part he holds",
+        "When Rabban Shimon ben Gamliel's equal division applies"
+       ],
+       [
+        "R. Yochanan",
+        "Divide equally",
+        "Each takes the part he holds (as the Gemara reads him)",
+        "*Toref* in the middle, even nearer one side: still divided equally"
+       ]
+      ]
+     },
+     "children": [],
+     "returns_to": [
+      {
+       "id": "s8",
+       "note": "Uses the same 'divide it the other way' reply as Rava's golden garment"
+      }
+     ]
+    },
+    {
+     "id": "s20",
+     "title": "What Is Half a Note Worth? The Date and Nekhasim Meshubadim",
+     "amud": "7b",
+     "text": {
+      "from": "7b.16",
+      "to": "7b.18"
+     },
+     "gist": "Rav Acha of Difti asks what use a piece of the note could be; Ravina: they divide value, and the *toref* holder receives what the date adds, the power to collect from liened property.",
+     "bullets": [
+      {
+       "text": "Rav Acha of Difti to Ravina: by R. Elazar, why does either need his piece? To stop up the mouth of his flask?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Ravina: the division is of the note's value, not of the parchment.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *toref* holds the date. With a date, the creditor can collect from *nekhasim meshubadim* sold after the loan; without one, he cannot. The *tofes* holder gives him the difference in value.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Illustration: a 1,000 note worth 950 with a date and 700 without. The *toref* holder takes the 250 difference plus half of 700, so 600; the other takes 350.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: every other part of the note is essential to its validity. Only the date can be missing without invalidating the note, so only it can be valued separately.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Ravina's answer to Rav Acha of Difti (7b): the *toref* holds the date, so its holder receives the extra value a dated note has, since it can collect from liened property.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A promissory note with a standard upper part and an essential lower part holding names, amount and date; beside it, bars compare the value of a note with a date and without one.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"60\" y=\"60\" width=\"240\" height=\"340\" fill=\"#FFFDF7\" stroke=\"#8A7560\" stroke-width=\"2\"/><text x=\"180\" y=\"96\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5B6478\">Tofes</text><text x=\"180\" y=\"114\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">standard text</text><g stroke=\"#CFC6B4\" stroke-width=\"2\"><line x1=\"84\" y1=\"134\" x2=\"276\" y2=\"134\"/><line x1=\"84\" y1=\"154\" x2=\"276\" y2=\"154\"/><line x1=\"84\" y1=\"174\" x2=\"276\" y2=\"174\"/><line x1=\"84\" y1=\"194\" x2=\"276\" y2=\"194\"/><line x1=\"84\" y1=\"214\" x2=\"276\" y2=\"214\"/><line x1=\"84\" y1=\"234\" x2=\"240\" y2=\"234\"/></g><rect x=\"72\" y=\"262\" width=\"216\" height=\"126\" fill=\"#F3E6D0\" stroke=\"#9A6212\" stroke-width=\"2\"/><text x=\"180\" y=\"290\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">Toref</text><g stroke=\"#D9BE92\" stroke-width=\"2\"><line x1=\"90\" y1=\"306\" x2=\"270\" y2=\"306\"/><line x1=\"90\" y1=\"322\" x2=\"270\" y2=\"322\"/><line x1=\"90\" y1=\"338\" x2=\"230\" y2=\"338\"/></g><text x=\"180\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#6B4A1A\">names · amount · date</text><text x=\"640\" y=\"60\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">The value of the date</text><text x=\"420\" y=\"110\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Note with a date: collects from liened property</text><rect x=\"420\" y=\"122\" width=\"440\" height=\"30\" fill=\"#1B3A8A\"/><text x=\"420\" y=\"190\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Note without a date: free property only</text><rect x=\"420\" y=\"202\" width=\"290\" height=\"30\" fill=\"#8DA0C8\"/><rect x=\"710\" y=\"202\" width=\"150\" height=\"30\" fill=\"#F3E6D0\" stroke=\"#9A6212\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"565\" y=\"254\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">the rest is divided</text><text x=\"785\" y=\"254\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">the difference</text><text x=\"785\" y=\"272\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#9A6212\">goes to the toref holder</text><text x=\"420\" y=\"330\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">Rav Acha of Difti: half a note, to stop a flask?</text><text x=\"420\" y=\"356\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Ravina: they divide its value, not the parchment.</text></svg>"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s21",
+   "title": "Does 'They Divide' Mean Cutting? Garment, Golden Garment, Animal",
+   "amud": "7b → 8a",
+   "text": {
+    "from": "7b.19",
+    "to": "8a.3"
+   },
+   "gist": "Every 'they divide' means dividing value: a garment or a golden garment could be cut into children's clothes, but an animal two people are riding could not.",
+   "bullets": [
+    {
+     "text": "Every 'they divide' refers to value, not to the object itself. Otherwise, would two holding a garment cut it in two and ruin it?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Deflected: they could cut it, since each half is fit to be made into a garment for small children.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rava's golden garment? Also deflected: each half is fit for the children of kings or the wealthy.",
+     "detail": 3,
+     "source": "gemara"
+    },
+    {
+     "text": "Proof from the Mishnah (2a), two on one animal who divide it: a kosher animal could be slaughtered and its meat split, but a non-kosher carcass would be worthless. So they divide its value, and the same holds in every such case.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "This fixes the meaning of 'they divide' throughout the chapter: an assessment of value, not a physical cut.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "returns_to": [
+    {
+     "id": "s5",
+     "note": "Applies to the garment cases, including Rava's golden garment"
+    }
+   ],
+   "children": [],
+   "illustration": {
+    "caption": "The Gemara's test of whether 'they divide' means cutting (7b–8a): a garment and a golden garment could be cut for children's clothes, but an animal two are riding could not, so the value is divided.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three panels: a garment cut into two children's garments; a gold-striped garment cut for kings' children; a donkey that cannot be cut up without losing its worth.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"280\" height=\"365\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"155\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">A garment</text><text x=\"155\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Cut it in two?</text><rect x=\"75\" y=\"100\" width=\"160\" height=\"100\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><line x1=\"155\" y1=\"92\" x2=\"155\" y2=\"208\" stroke=\"#1B3A8A\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><use href=\"#child\" x=\"95\" y=\"225\" width=\"40\" height=\"80\" style=\"color:#4E7A8C\"/><use href=\"#child\" x=\"175\" y=\"225\" width=\"40\" height=\"80\" style=\"color:#8C5A3C\"/><text x=\"155\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Each half fits a small child</text><text x=\"155\" y=\"360\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">so cutting is possible</text><rect x=\"310\" y=\"15\" width=\"280\" height=\"365\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"450\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">A garment with gold</text><text x=\"450\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rava’s case</text><rect x=\"370\" y=\"100\" width=\"160\" height=\"100\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><g fill=\"#E8C45A\"><rect x=\"390\" y=\"100\" width=\"12\" height=\"100\"/><rect x=\"420\" y=\"100\" width=\"12\" height=\"100\"/><rect x=\"468\" y=\"100\" width=\"12\" height=\"100\"/><rect x=\"498\" y=\"100\" width=\"12\" height=\"100\"/></g><line x1=\"450\" y1=\"92\" x2=\"450\" y2=\"208\" stroke=\"#9A6212\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><use href=\"#child\" x=\"390\" y=\"225\" width=\"40\" height=\"80\" style=\"color:#6A4F7A\"/><use href=\"#child\" x=\"470\" y=\"225\" width=\"40\" height=\"80\" style=\"color:#6A4F7A\"/><text x=\"450\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Fit for kings’ children</text><text x=\"450\" y=\"360\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">so cutting is still possible</text><rect x=\"605\" y=\"15\" width=\"280\" height=\"365\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"745\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#3C7446\">An animal both ride</text><text x=\"745\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">the Mishnah on 2a</text><path d=\"M677 165 q-12 10 -8 30\" fill=\"none\" stroke=\"#6E655E\" stroke-width=\"4\" stroke-linecap=\"round\"/><g fill=\"#6E655E\"><rect x=\"690\" y=\"185\" width=\"9\" height=\"50\" rx=\"3\"/><rect x=\"708\" y=\"188\" width=\"9\" height=\"47\" rx=\"3\"/><rect x=\"758\" y=\"188\" width=\"9\" height=\"47\" rx=\"3\"/><rect x=\"776\" y=\"185\" width=\"9\" height=\"50\" rx=\"3\"/></g><ellipse cx=\"735\" cy=\"170\" rx=\"58\" ry=\"26\" fill=\"#8A8078\"/><path d=\"M778 160 L805 128 L820 136 L795 174 Z\" fill=\"#8A8078\"/><ellipse cx=\"820\" cy=\"134\" rx=\"18\" ry=\"11\" fill=\"#7A716A\"/><ellipse cx=\"810\" cy=\"114\" rx=\"4\" ry=\"12\" fill=\"#7A716A\"/><ellipse cx=\"820\" cy=\"112\" rx=\"4\" ry=\"12\" fill=\"#7A716A\"/><circle cx=\"826\" cy=\"131\" r=\"2\" fill=\"#EDE3CF\"/><text x=\"745\" y=\"280\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Kosher: slaughter it, split the meat</text><text x=\"745\" y=\"302\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Non-kosher: cutting ruins it</text><text x=\"745\" y=\"345\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">So: divide its value</text><text x=\"450\" y=\"414\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Every “they divide” means dividing the value</text></svg>"
+   }
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "eino bi'reshuto",
+   "hebrew": "אינו ברשותו",
+   "sense": "property not in the owner's possession",
+   "definition": "Property that belongs to a person but is not currently under his control, such as a stolen item. Certain legal acts, such as consecrating it, cannot be performed on such property.",
+   "on_this_daf": "R. Yochanan's rule that an owner cannot consecrate stolen goods challenges Rav Nachman; land, which he can recover in court, is never considered out of his possession.",
+   "aliases": [
+    "Eino Bi'reshuto",
+    "eino bi'reshuto"
+   ],
+   "sections": [
+    "s2",
+    "s4"
+   ]
+  },
+  {
+   "term": "kinyan sudar",
+   "hebrew": "קנין סודר",
+   "sense": "acquisition by handing over a cloth",
+   "definition": "A symbolic act of acquisition (a form of chalipin) in which one party hands the other a cloth or similar article, and the transaction takes effect when it is received. It is based on the shoe exchange in Ruth 4:7.",
+   "on_this_daf": "Rav Mesharshiya rules that grasping three by three fingerbreadths of the cloth is enough, even while the rest is in the giver's hand.",
+   "aliases": [
+    "Kinyan Sudar",
+    "kinyan sudar"
+   ],
+   "sections": [
+    "s5",
+    "s7"
+   ]
+  },
+  {
+   "term": "keritut",
+   "hebrew": "כריתות",
+   "sense": "the complete severance a get must effect",
+   "definition": "The Torah calls a bill of divorce a document of 'cutting off', so it must fully sever the husband's connection to his wife. A get that leaves the husband some hold or control fails that requirement.",
+   "on_this_daf": "Explains why a get whose string the husband can still pull back does not divorce, while a partially handed cloth does acquire.",
+   "aliases": [
+    "keritut"
+   ],
+   "sections": [
+    "s7"
+   ]
+  },
+  {
+   "term": "kiyum",
+   "hebrew": "קיום שטרות",
+   "sense": "court ratification of a document",
+   "definition": "Authentication of a document by a court, which verifies the signatures of its witnesses; a note bearing the court's ratification can be used to collect.",
+   "on_this_daf": "Rebbi requires ratification of a disputed note even when the debtor admits writing it; the judge case concerns a note already bearing the court's ratification.",
+   "aliases": [
+    "ratification",
+    "kiyum"
+   ],
+   "sections": [
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "term": "modeh bi'shtar she'katvo",
+   "hebrew": "מודה בשטר שכתבו",
+   "sense": "debtor admitting he wrote a note",
+   "definition": "A debtor who concedes that a promissory note against him is genuine, typically while claiming he has repaid it. The question is whether his admission removes the need for the creditor to ratify the note.",
+   "on_this_daf": "Rav Nachman explains the dispute of Rebbi (ratification still needed) and Rabban Shimon ben Gamliel (not needed) as turning on this.",
+   "aliases": [
+    "Modeh Bi'shtar She'katvo",
+    "modeh bi'shtar she'katvo",
+    "modeh bi'shtar"
+   ],
+   "sections": [
+    "s9",
+    "s11"
+   ]
+  },
+  {
+   "term": "pera'on",
+   "hebrew": "פרעון",
+   "sense": "suspicion that a debt was already repaid",
+   "definition": "The concern that a debt recorded in a found or disputed document was paid and the document later lost, so returning it could let the creditor collect twice.",
+   "on_this_daf": "The baraita suspects it for a note found in a judge's hands; the Gemara asks whether R. Yosei suspects it, given his ruling on a found ketubah.",
+   "aliases": [
+    "Pera'on",
+    "pera'on"
+   ],
+   "sections": [
+    "s9",
+    "s12",
+    "s13",
+    "s14",
+    "s16",
+    "s17"
+   ]
+  },
+  {
+   "term": "tofes ve'toref",
+   "hebrew": "טופס ותורף",
+   "sense": "the standard and essential parts of a document",
+   "definition": "The tofes is the standard formula of a legal document; the toref is the part specific to the case, such as the parties' names, the amount and the date.",
+   "on_this_daf": "R. Elazar holds that when one holder grasps the tofes and the other the toref, each takes his part; the toref's value lies in the date.",
+   "aliases": [
+    "Tofes",
+    "Toref",
+    "tofes",
+    "toref"
+   ],
+   "sections": [
+    "s18",
+    "s19",
+    "s20"
+   ]
+  },
+  {
+   "term": "nekhasim meshubadim",
+   "hebrew": "נכסים משועבדים",
+   "sense": "liened property sold to third parties",
+   "definition": "Property the debtor owned when the debt arose and later sold, which remains subject to the creditor's lien. A dated note can be collected from it; an undated one cannot.",
+   "on_this_daf": "Ravina: the extra value of a note with a date is its power to collect from liened property, and that value goes to the one holding the toref.",
+   "aliases": [
+    "Nekhasim Meshubadim",
+    "nekhasim meshubadim",
+    "liened property"
+   ],
+   "sections": [
+    "s20"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The tofes/toref discussion (s18) could sit as a child of the promissory-note section, since R. Elazar explains Rabban Shimon ben Gamliel's ruling. It is made a separate top-level section because it opens a new amoraic dispute and its own sub-discussion about value, with a returns_to link to the baraita.",
+  "Rav Mesharshiya and Rav Chisda's get (s7) were kept as one section rather than a parent with a single child, since the get is only a challenge to Rav Mesharshiya.",
+  "'They divide means value' (s21) is its own top-level section, not a child of the tofes/toref discussion that prompts it, because it is a general principle covering the garment, the golden garment and the animal; linked back to s5.",
+  "The three reconciliations of R. Yosei (s15–s17) were nested under the contradiction section (s13) as siblings of the found-ketubah baraita, not given their own level, because they all answer that one contradiction.",
+  "The bathhouse (s2) was split into Rav Nachman's rule and R. Yochanan's challenge; a single flat section would also work."
+ ],
+ "coverage_notes": [
+  "The shiur's opening review of the hamotzi/takfo kohen question and the 'definite tenth' conclusion (7a.1) lie before this outline's scope and belong to the previous daf's outline.",
+  "The essay says the conclusion is 'takfo kohen ein motzi'in miyado'; the text (7a.1) concludes that the court removes the animal from the kohen. Followed the text.",
+  "The essay names 'Rav Achai mi-Difti'; the text has Rav Acha of Difti. Followed the text.",
+  "The essay has Rav Nachman citing 'Rabba bar Avuha'; the text has Rabba bar Avuh. Followed the text.",
+  "The essay says Rav Mesharshiya draws his rule from the baraita; the text says he learns it from Rav Pappa's statement. Followed the text.",
+  "The essay describes the found-ketubah baraita as the husband admitting 'it fell from the wife'; the text has the husband admitting he has not paid. Followed the text.",
+  "The essay's account of Ravina ends by saying R. Yosei would refuse to return the note and is implicitly concerned during marriage 'for other reasons'; the text says R. Yosei returns the ketubah because two ketubot are rare. Followed the text.",
+  "The essay assigns 'widthwise' and 'lengthwise' to the two sides in the golden garment differently from the Sefaria glosses; the outline says only 'one way / the other way', as the Gemara does.",
+  "The numerical example (950 / 700 / 600 / 350) is the lecturer's illustration and is marked as shiur."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s21",
+    "subject": "Garment, golden garment and animal: can each be cut?",
+    "why_not": "Illustrated instead; a chart would repeat the picture and the bullets."
+   },
+   {
+    "section": "s14",
+    "subject": "The found-ketubah baraita by case and opinion",
+    "why_not": "Drawn as a grid illustration; a second chart would duplicate it."
+   },
+   {
+    "section": "s4",
+    "subject": "Movable bath vs. bath in the ground",
+    "why_not": "Two cases and one principle; the bullets carry it."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s1",
+    "subject": "Ten doubtful donkeys redeemed with ten lambs, tithed by the owner",
+    "why_not": "The point is ownership reasoning, not a scene; the picture would add little."
+   },
+   {
+    "section": "s4",
+    "subject": "A movable bath beside a bath dug into the ground",
+    "why_not": "Lower priority than the garment, note and ketubah pictures; the distinction is simple in words."
+   },
+   {
+    "section": "s11",
+    "subject": "Rebbi and Rabban Shimon ben Gamliel on a ratified and an unratified note",
+    "why_not": "Handled by the chart; a picture would only restate it."
+   }
+  ]
+ }
+}

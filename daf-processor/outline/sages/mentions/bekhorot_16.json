@@ -1,0 +1,124 @@
+{
+ "key": "bekhorot_16",
+ "tractate": "Bekhorot",
+ "sages": [
+  {
+   "name": "רב הונא",
+   "candidates": [
+    "rav-huna"
+   ],
+   "lines": [
+    "16a.3",
+    "16a.4",
+    "16a.5"
+   ],
+   "count": 3,
+   "first": "16a.3",
+   "ambiguous": false,
+   "pick": "rav-huna",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבי עקיבא",
+   "candidates": [
+    "rabbi-akiva"
+   ],
+   "lines": [
+    "16a.5"
+   ],
+   "count": 1,
+   "first": "16a.5",
+   "ambiguous": false,
+   "pick": "rabbi-akiva",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב",
+   "candidates": [
+    "rav"
+   ],
+   "lines": [
+    "16a.6",
+    "16a.7"
+   ],
+   "count": 2,
+   "first": "16a.6",
+   "ambiguous": false,
+   "pick": "rav",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבה בר אבוה",
+   "candidates": [
+    "rabbah-b-avuha"
+   ],
+   "lines": [
+    "16a.6"
+   ],
+   "count": 1,
+   "first": "16a.6",
+   "ambiguous": false,
+   "pick": "rabbah-b-avuha",
+   "pick_by": "only"
+  },
+  {
+   "name": "אביי",
+   "candidates": [
+    "abaye"
+   ],
+   "lines": [
+    "16a.8",
+    "16b.5"
+   ],
+   "count": 2,
+   "first": "16a.8",
+   "ambiguous": false,
+   "pick": "abaye",
+   "pick_by": "only"
+  },
+  {
+   "name": "רב נחמן",
+   "candidates": [
+    "rav-nachman-b-yaakov"
+   ],
+   "lines": [
+    "16a.10"
+   ],
+   "count": 1,
+   "first": "16a.10",
+   "ambiguous": false,
+   "pick": "rav-nachman-b-yaakov",
+   "pick_by": "only"
+  },
+  {
+   "name": "רבן שמעון בן גמליאל",
+   "candidates": [
+    "rabban-shimon-b-gamliel",
+    "rabban-shimon-b-gamliel-(ii)"
+   ],
+   "lines": [
+    "16b.1"
+   ],
+   "count": 1,
+   "first": "16b.1",
+   "ambiguous": true,
+   "pick": "rabban-shimon-b-gamliel-(ii)",
+   "pick_by": "context"
+  },
+  {
+   "name": "רבא",
+   "candidates": [
+    "rava"
+   ],
+   "lines": [
+    "16b.6",
+    "16b.8"
+   ],
+   "count": 2,
+   "first": "16b.6",
+   "ambiguous": false,
+   "pick": "rava",
+   "pick_by": "only"
+  }
+ ]
+}

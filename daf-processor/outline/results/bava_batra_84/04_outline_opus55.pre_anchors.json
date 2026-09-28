@@ -1,0 +1,639 @@
+{
+ "daf": "Bava Batra 84",
+ "scope": {
+  "start": "83b: Rav Chisda's case of an item worth five sold for six (84a opens mid-statement)",
+  "end": "84b: Rav and Shmuel's joint statement on acquisition, which continues on 85a"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Rav Chisda: Only the Exploited Party May Renege",
+   "amud": "83b–84a",
+   "gist": "When prices shift after an *ona'ah* sale, only the party who was exploited may cancel it. Rav Chisda finds the same rule in the Mishnah's four cases, and the Gemara explains why he still needed to state it.",
+   "bullets": [],
+   "chart": {
+    "caption": "Rav Chisda's two cases",
+    "columns": [
+     "",
+     "Value and price",
+     "Later value",
+     "Who was exploited",
+     "Who may renege",
+     "Mishnah parallel"
+    ],
+    "rows": [
+     [
+      "Overcharge",
+      "Worth 5 dinars, sold for 6",
+      "Rose to 8",
+      "The buyer",
+      "The buyer, not the seller",
+      "Sold as good wheat, found bad"
+     ],
+     [
+      "Undercharge",
+      "Worth 6 dinars, sold for 5",
+      "Fell to 3",
+      "The seller",
+      "The seller, not the buyer",
+      "Sold as bad wheat, found good"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "Rav Chisda's two cases drawn as prices. In each, the market moves after the sale so that the party who exploited the other would now like to cancel, and the right to cancel stays with the one who was exploited (83b–84a).",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two bar charts. Left: an item worth 5 dinars sold for 6 and later worth 8; the buyer was exploited and may renege. Right: an item worth 6 sold for 5 and later worth 3; the seller was exploited and may renege.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"396\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">Worth 5, sold for 6</text><text x=\"227\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">then its value rose to 8</text><line x1=\"45\" y1=\"320\" x2=\"410\" y2=\"320\" stroke=\"#8E97A8\" stroke-width=\"2\"/><rect x=\"60\" y=\"195\" width=\"70\" height=\"125\" fill=\"#9AA7BD\"/><text x=\"95\" y=\"187\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">5</text><rect x=\"180\" y=\"170\" width=\"70\" height=\"150\" fill=\"#1B3A8A\"/><text x=\"215\" y=\"162\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">6</text><rect x=\"300\" y=\"120\" width=\"70\" height=\"200\" fill=\"#6FA3C8\"/><text x=\"335\" y=\"112\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">8</text><text x=\"95\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Value at sale</text><text x=\"215\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Price paid</text><text x=\"335\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Later value</text><text x=\"227\" y=\"374\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1B3A8A\">Exploited: the buyer</text><text x=\"227\" y=\"396\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">The buyer may renege, not the seller</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"396\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">Worth 6, sold for 5</text><text x=\"672\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">then its value fell to 3</text><line x1=\"490\" y1=\"320\" x2=\"855\" y2=\"320\" stroke=\"#B8A88E\" stroke-width=\"2\"/><rect x=\"505\" y=\"170\" width=\"70\" height=\"150\" fill=\"#D9B98A\"/><text x=\"540\" y=\"162\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">6</text><rect x=\"625\" y=\"195\" width=\"70\" height=\"125\" fill=\"#9A6212\"/><text x=\"660\" y=\"187\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">5</text><rect x=\"745\" y=\"245\" width=\"70\" height=\"75\" fill=\"#C9A96E\"/><text x=\"780\" y=\"237\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">3</text><text x=\"540\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Value at sale</text><text x=\"660\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Price paid</text><text x=\"780\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Later value</text><text x=\"672\" y=\"374\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#9A6212\">Exploited: the seller</text><text x=\"672\" y=\"396\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">The seller may renege, not the buyer</text><text x=\"450\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">Rav Chisda · amounts in dinars</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "Sold Five for Six, Then the Price Rose to Eight",
+     "amud": "83b–84a",
+     "gist": "The buyer was overcharged, so when the value rises only he, and not the seller, may cancel the sale.",
+     "bullets": [
+      {
+       "text": "Rav Chisda: an item worth 5 dinars was sold for 6. Its value then rose to 8, and the seller wants to return the money and cancel the sale.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Who was exploited? The buyer. So the buyer may renege and the seller may not, even though the seller loses by it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The buyer's argument: \"Had you not exploited me, you could not renege, and I would keep the profit. Now that you have exploited me, can you renege and benefit?\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The case plays out inside the window in which the buyer may still claim *ona'ah*, before he has had time to show the item to a merchant or to relatives.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The view Rav Chisda rejects treats that window as a period when the sale is not yet final for either side. His ruling treats it as a right that belongs to the wronged party alone.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The Mishnah says the same: if wheat sold as good is found to be bad, the buyer may renege. The implication is that the seller may not, even when he would want to, as when the price has risen.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Sold Six for Five, Then the Price Fell to Three",
+     "amud": "84a",
+     "gist": "The mirror case: the seller was undercharged, so when the value falls only he, and not the buyer, may cancel.",
+     "bullets": [
+      {
+       "text": "Rav Chisda: an item worth 6 dinars was sold for 5, and its value then fell to 3. The seller was exploited, so the seller may renege and the buyer may not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The seller's argument: \"Had you not exploited me, you could not renege. Now that you have exploited me, can you renege?\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Mishnah says the same: if wheat sold as bad is found to be good, the seller may renege and the buyer may not.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "What Does Rav Chisda Add to the Mishnah?",
+     "amud": "84a",
+     "gist": "From the Mishnah alone one might let both sides cancel an *ona'ah* sale, and the Mishnah itself is needed for a different point: that misdescribed quality counts as exploitation at all.",
+     "bullets": [
+      {
+       "text": "Objection: what is Rav Chisda teaching us? All of it is already in the Mishnah.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: from the Mishnah alone one might say that in *ona'ah* both sides may renege. As long as the buyer can cancel, the sale is not complete, so the seller, who is now losing, may cancel too.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Mishnah's case teaches something else: that \"good\" wheat turning out bad counts as exploitation at all.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "That had to be taught, because one might think it is not exploitation: \"It is bad, it is bad, says the buyer; but when he is gone his way, then he boasts\" (Mishlei 20:14). Sellers praise their goods and buyers run them down, so neither side's words are taken literally.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the Mishnah teaches that the buyer may renege when \"good\" wheat is bad, and the seller when \"bad\" wheat is good.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "*Ona'ah* and *ta'ut* are separate bodies of law. *Ona'ah* concerns the price of an item that is exactly as described. *Ta'ut* concerns an item that differs from its description.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Open questions follow from that distinction. Does the Mishnah apply when the gap between good and bad wheat is less than a sixth? Does the *ona'ah* time window apply to *ta'ut*?",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Reddish-Brown vs. White Wheat: Is the Sun Red?",
+   "amud": "84a",
+   "gist": "From the Mishnah's word *shechamtit*, Rav Pappa infers that the sun is red. The Gemara defends this against a verse on *tzara'at* and then explains the morning and evening redness on the opposite view.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The Gemara's explanation, on the assumption that the sun is white, of why it reddens at the start and end of the day: the roses of the Garden of Eden in the morning, the fires at the entrance of Gehenna in the evening. Some say the reverse (84a).",
+    "svg": "<svg viewBox=\"0 0 900 450\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two scenes. In the morning the sun rises over a bed of roses, the roses of the Garden of Eden. In the evening it sets beside a fiery gate, the entrance of Gehenna.</title><rect width=\"900\" height=\"450\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">If the sun is white, why does it redden?</text><rect x=\"15\" y=\"56\" width=\"425\" height=\"300\" rx=\"14\" fill=\"url(#sky)\"/><text x=\"227\" y=\"90\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">Morning</text><text x=\"227\" y=\"114\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#5B6478\">צפרא</text><circle cx=\"227\" cy=\"258\" r=\"44\" fill=\"#F08A5D\"/><path d=\"M15 262 H440 V342 Q440 356 426 356 H29 Q15 356 15 342 Z\" fill=\"#C9D5B8\"/><g stroke=\"#4E7A3E\" stroke-width=\"3\"><line x1=\"70\" y1=\"262\" x2=\"70\" y2=\"282\"/><line x1=\"110\" y1=\"262\" x2=\"110\" y2=\"282\"/><line x1=\"150\" y1=\"262\" x2=\"150\" y2=\"282\"/><line x1=\"304\" y1=\"262\" x2=\"304\" y2=\"282\"/><line x1=\"344\" y1=\"262\" x2=\"344\" y2=\"282\"/><line x1=\"384\" y1=\"262\" x2=\"384\" y2=\"282\"/></g><g fill=\"#C8385A\"><circle cx=\"70\" cy=\"256\" r=\"9\"/><circle cx=\"110\" cy=\"256\" r=\"9\"/><circle cx=\"150\" cy=\"256\" r=\"9\"/><circle cx=\"304\" cy=\"256\" r=\"9\"/><circle cx=\"344\" cy=\"256\" r=\"9\"/><circle cx=\"384\" cy=\"256\" r=\"9\"/></g><text x=\"227\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">passes over the roses of the Garden of Eden</text><text x=\"227\" y=\"322\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">whose reflection reddens its light</text><rect x=\"460\" y=\"56\" width=\"425\" height=\"300\" rx=\"14\" fill=\"url(#sky)\"/><text x=\"672\" y=\"90\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#8C3A2E\">Evening</text><text x=\"672\" y=\"114\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#5B6478\">פניא</text><circle cx=\"672\" cy=\"258\" r=\"44\" fill=\"#E4572E\"/><path d=\"M460 262 H885 V342 Q885 356 871 356 H474 Q460 356 460 342 Z\" fill=\"#D9C9A8\"/><path d=\"M505 262 V214 Q530 190 555 214 V262 Z\" fill=\"#4A3C30\"/><path d=\"M514 262 C514 240 526 246 528 228 C536 244 544 236 544 226 C552 244 548 252 548 262 Z\" fill=\"url(#fire)\"/><path d=\"M770 262 C770 236 786 244 790 222 C800 242 808 232 810 220 C822 240 830 246 830 262 Z\" fill=\"url(#fire)\"/><text x=\"672\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">passes over the entrance of Gehenna</text><text x=\"672\" y=\"322\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">whose fires redden its light</text><text x=\"450\" y=\"390\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Some say the opposite: morning over the entrance of Gehenna, evening over the roses of the Garden of Eden.</text><text x=\"450\" y=\"418\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Rav Pappa's view: the sun is red, but our eyesight is not strong enough to see it all day.</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s6",
+     "title": "Rav Pappa: Shechamtit Shows the Sun Is Red",
+     "amud": "84a",
+     "gist": "The Mishnah sets sun-colored wheat against white wheat, so the sun must be red. We see its color only at morning and evening.",
+     "bullets": [
+      {
+       "text": "The Mishnah's *shechamtit* (reddish-brown) is taken to mean the color of the sun (*chamah*). Since it contrasts with white, Rav Pappa concludes that the sun is red, not white.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Supporting evidence: the sun reddens in the morning and the evening. We don't see the red all day because our eyesight is not strong enough to make it out.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Compare an eclipse, when dimmed light lets one see what is normally hidden in the sun's glare.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s7",
+     "title": "Objection from Tzara'at: \"Deeper Than the Skin\"",
+     "amud": "84a",
+     "gist": "White *tzara'at* is likened to the sun. The Gemara answers that the comparison is to depth, not to color.",
+     "bullets": [
+      {
+       "text": "Vayikra 13:30: \"if its appearance is deeper than the skin.\" The Sages explain: like the sun, which looks deeper than the shadow. Yet *tzara'at* is white, and it is likened to the sun.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: the spot is like the sun in one respect only, in looking deeper than the shadow. It is not like the sun in color: the spot is white and the sun is red.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "If the Sun Is White: Gan Eden and Gehenna",
+     "amud": "84a",
+     "gist": "On the initial assumption that the sun is white, its morning and evening redness is a reflection of what it passes.",
+     "bullets": [
+      {
+       "text": "On the initial assumption that the sun is white, why does it redden in the morning and the evening?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "In the morning it passes over the roses of the Garden of Eden, whose reflection reddens it. In the evening it passes over the entrance of Gehenna, whose fires redden it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Some say the opposite: Gehenna in the morning and the roses of the Garden of Eden in the evening.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Garden of Eden is placed in the east (\"*gan be'Eden mikedem*\"). The shiur connects the reversed version to a different picture, in which the sun takes on the color of what lies opposite it rather than what it passes.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "Wine and Vinegar: Rebbi or the Rabbis?",
+   "amud": "84a–84b",
+   "gist": "Does the Mishnah, which treats wine and vinegar as different items, follow only Rabbi Yehuda HaNasi? No: the Rabbis call them one type only for *terumah*, and in commerce all agree they are two.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The baraita's dispute and the Gemara's resolution: for *terumah* the Rabbis count wine and vinegar as one type and Rabbi Yehuda HaNasi as two, but in buying and selling everyone treats them as two, because people prefer one or the other (84a–84b).",
+    "svg": "<svg viewBox=\"0 0 900 450\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: two sages, the Rabbis and Rabbi Yehuda HaNasi, disagree whether wine and vinegar are one type for teruma. Right: a jar of wine and a jar of vinegar, with one man who prefers wine and another who prefers vinegar.</title><rect width=\"900\" height=\"450\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"420\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1B3A8A\">Teruma</text><text x=\"227\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">separating from one for the other</text><use href=\"#sage\" x=\"70\" y=\"100\" width=\"70\" height=\"122.5\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"290\" y=\"100\" width=\"70\" height=\"122.5\" style=\"color:#6A4F7A;--beard:#A8A39C;--wrap:#D9CBB0\"/><text x=\"105\" y=\"250\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">The Rabbis</text><text x=\"105\" y=\"272\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1B3A8A\">one type</text><text x=\"325\" y=\"250\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Rabbi Yehuda HaNasi</text><text x=\"325\" y=\"272\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1B3A8A\">two types</text><text x=\"227\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">The Rabbis follow R. Ela: teruma separated</text><text x=\"227\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">from poor produce for superior produce is valid</text><text x=\"227\" y=\"390\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#4A3A2E\">וְלֹא תִשְׂאוּ עָלָיו חֵטְא</text><text x=\"227\" y=\"412\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">Bamidbar 18:32</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"420\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"672\" y=\"50\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#24592E\">Buying and selling</text><text x=\"672\" y=\"72\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Everyone agrees: two types</text><rect x=\"572\" y=\"104\" width=\"36\" height=\"8\" rx=\"3\" fill=\"#5A1E2A\"/><rect x=\"580\" y=\"110\" width=\"20\" height=\"22\" fill=\"#7E2A3A\"/><ellipse cx=\"590\" cy=\"168\" rx=\"34\" ry=\"40\" fill=\"#7E2A3A\"/><text x=\"590\" y=\"232\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Wine</text><rect x=\"736\" y=\"104\" width=\"36\" height=\"8\" rx=\"3\" fill=\"#8C7536\"/><rect x=\"744\" y=\"110\" width=\"20\" height=\"22\" fill=\"#B59A4E\"/><ellipse cx=\"754\" cy=\"168\" rx=\"34\" ry=\"40\" fill=\"#B59A4E\"/><text x=\"754\" y=\"232\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Vinegar</text><use href=\"#man\" x=\"562\" y=\"248\" width=\"56\" height=\"112\" style=\"color:#3E6FA8\"/><use href=\"#man\" x=\"726\" y=\"248\" width=\"56\" height=\"112\" style=\"color:#8C5A3C\"/><text x=\"590\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">prefers wine</text><text x=\"754\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">prefers vinegar</text><text x=\"672\" y=\"414\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#24592E\">Different uses, so either party may renege</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s10",
+     "title": "The Suggestion: A Baraita Makes Wine and Vinegar One Type",
+     "amud": "84a–84b",
+     "gist": "A baraita has the Rabbis call wine and vinegar one type, which seems to leave the Mishnah with Rabbi Yehuda HaNasi alone.",
+     "bullets": [
+      {
+       "text": "The Mishnah says that if wine was sold and found to be vinegar, or the reverse, both sides may renege. Shall we say this follows Rabbi Yehuda HaNasi and not the Rabbis?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Baraita: wine and vinegar are one type, so *terumah* separated from one to exempt the other is effective. Rabbi Yehuda HaNasi says they are two types.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The background: *terumah* must be taken from the same kind (*min*) as the produce it exempts.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "The Rabbis' Reason: R. Ela on Inferior Terumah",
+     "amud": "84b",
+     "gist": "The Rabbis disagree only about *terumah* and tithes, following R. Ela: *terumah* taken from poor produce for superior produce is valid.",
+     "bullets": [
+      {
+       "text": "Rejection: the Mishnah can follow the Rabbis too. They disagree with Rabbi Yehuda HaNasi only on separating tithes and *terumah* from one for the other, and they hold like R. Ela.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Ela: *terumah* separated from poor-quality produce for superior produce is valid. The source is \"And you shall bear no sin by reason of it, seeing as you have set apart from it its best\" (Bamidbar 18:32).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The reasoning: one who sets aside inferior produce has sinned. If it did not become *terumah*, what sin would there be? It would be as if he did nothing.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "So for the Rabbis, vinegar separated for wine is valid *terumah* despite the difference in quality, since the two are one type.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "In Buying and Selling, All Agree: Two Types",
+     "amud": "84b",
+     "gist": "In commerce even the Rabbis treat wine and vinegar as two items, because people want one or the other.",
+     "bullets": [
+      {
+       "text": "For buying and selling, everyone agrees that wine and vinegar are two types. Some people want wine and not vinegar, and others want vinegar and not wine.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Classification for *terumah* need not govern commerce. What matters there is what the buyer wanted: vinegar delivered for wine is a different item, not a worse version of the same one.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "title": "Mishnah: Acquiring Produce and Flax",
+   "amud": "84b",
+   "gist": "Pulling acquires produce and measuring does not; a shrewd buyer can rent the spot. Flax requires lifting, and attached flax is acquired by detaching any amount.",
+   "bullets": [
+    {
+     "text": "One who sells produce: if the buyer pulled it (*meshicha*) but did not measure it, he has acquired it. If it was measured but not pulled, he has not acquired it, and either side may retract.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rashbam: the price per unit was already agreed. Only the total quantity is still open, and that does not hold up the *kinyan*.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "A perspicacious buyer who wants to acquire before the seller can change his mind rents the place where the produce lies, and his property acquires it for him.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Flax is usually carried, so the buyer does not acquire it until he carries it from place to place (*hagbahah*). Pulling does not work.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "If the flax was still attached to the ground and he detached any amount, he has acquired it.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Mishnah does not say where these acts take place, and the domain determines which *kinyan* is available. The Gemara takes this up next.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": []
+  },
+  {
+   "id": "s14",
+   "title": "Measuring Into an Alleyway: What Did R. Yochanan Rule?",
+   "amud": "84b",
+   "gist": "R. Asi reports that produce measured and set down in an alleyway is acquired. R. Zeira limits this to the buyer's basket, and the Gemara ends up agreeing with him.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s15",
+     "title": "R. Asi's Report and R. Zeira's Challenge",
+     "amud": "84b",
+     "gist": "R. Asi says R. Yochanan's ruling covers produce on the alleyway floor. R. Zeira suggests it covered only the buyer's basket, and R. Asi rebukes him.",
+     "bullets": [
+      {
+       "text": "R. Asi in the name of R. Yochanan: if the seller measured the produce and placed it in an alleyway (*simta*), the buyer acquires it even without pulling.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A *simta* is neither the public domain nor the seller's private property. It is a place where people may keep their belongings, which is why *meshicha* works there.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "On R. Asi's reading this is a bold ruling. No classic *kinyan* is performed; the buyer in effect uses the alleyway as the place for his grain.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "R. Zeira: perhaps R. Yochanan said this only where the seller measured into the buyer's basket, whose vessel acquires for him. On the floor of the alleyway, the buyer would not acquire.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "On R. Zeira's reading, the ruling is an ordinary case of *kinyan kli* that happens to take place in an alleyway.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "R. Asi: \"This sage seems like one who has not studied *halakha*.\" Produce in the buyer's basket is obviously his wherever the basket is, so R. Yochanan must have meant the floor.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s16",
+     "title": "Did R. Zeira Accept It? The Partners' Courtyard",
+     "amud": "84b",
+     "gist": "A ruling that partners acquire from each other in a shared courtyard seems to support R. Asi, but it too can be read as a case of the buyer's basket.",
+     "flag": "Gemara text only",
+     "bullets": [
+      {
+       "text": "The Gemara asks: did R. Zeira accept R. Asi's argument or not?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Proposed proof: R. Yannai in the name of Rabbi Yehuda HaNasi: in a courtyard belonging to partners, which is like an alleyway, the partners acquire from one another. Presumably that holds even on the ground, as R. Asi says.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rejected: this too speaks of measuring into the buyer's basket.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s17",
+     "title": "R. Ya'akov's Contrary Report: Basket vs. Ground",
+     "amud": "84b",
+     "gist": "A second report of R. Yochanan says the produce is not acquired. The two reports are reconciled as basket versus ground, which supports R. Zeira.",
+     "bullets": [
+      {
+       "text": "R. Zeira's reading is reasonable, since R. Ya'akov reports in the name of R. Yochanan: if one measured and placed the produce in an alleyway, the buyer has not acquired it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The two reports in R. Yochanan's name contradict each other.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Resolution: R. Asi's report speaks of measuring into the buyer's basket, which acquires. R. Ya'akov's speaks of measuring onto the ground, which does not. \"Learn from it.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So despite R. Asi's rebuke, R. Zeira's reading stands: produce on the alleyway floor is not acquired, and R. Yochanan's ruling is *kinyan kli* in an alleyway.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "R. Yochanan on produce measured in an alleyway: the two reports",
+      "columns": [
+       "",
+       "Ruling",
+       "Resolved as speaking of"
+      ],
+      "rows": [
+       [
+        "R. Asi's report",
+        "The buyer acquires",
+        "Measuring into the buyer's basket"
+       ],
+       [
+        "R. Ya'akov's report",
+        "The buyer does not acquire",
+        "Measuring onto the ground"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "The two reports of R. Yochanan's ruling, as the Gemara reconciles them. Produce measured into the buyer's basket in an alleyway is acquired; produce measured onto the alleyway's ground is not (84b).",
+      "svg": "<svg viewBox=\"0 0 900 450\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two scenes in an alleyway. Left: a seller measures produce into the buyer's basket, and the buyer acquires it. Right: the seller measures produce onto the ground, and the buyer does not acquire it.</title><rect width=\"900\" height=\"450\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"396\" rx=\"14\" fill=\"#EFE6D2\"/><rect x=\"35\" y=\"100\" width=\"24\" height=\"198\" fill=\"#D6C8AE\"/><rect x=\"396\" y=\"100\" width=\"24\" height=\"198\" fill=\"#D6C8AE\"/><rect x=\"35\" y=\"298\" width=\"385\" height=\"10\" fill=\"#CDBB98\"/><text x=\"227\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#24592E\">R. Asi's report</text><text x=\"227\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">in the name of R. Yochanan</text><use href=\"#man\" x=\"90\" y=\"178\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><path d=\"M150 232 H186 L180 250 H156 Z\" fill=\"#8B6A4E\"/><g fill=\"#C9A96E\"><circle cx=\"180\" cy=\"256\" r=\"3\"/><circle cx=\"186\" cy=\"263\" r=\"3\"/></g><path d=\"M176 272 H242 L234 298 H184 Z\" fill=\"#B08850\"/><path d=\"M180 273 Q209 258 238 273 Z\" fill=\"#C9A96E\"/><use href=\"#man\" x=\"270\" y=\"178\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><text x=\"120\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">seller</text><text x=\"209\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">buyer's basket</text><text x=\"300\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">buyer</text><rect x=\"92\" y=\"346\" width=\"270\" height=\"34\" rx=\"17\" fill=\"#24592E\"/><text x=\"227\" y=\"368\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#FFFFFF\">The buyer acquires</text><text x=\"227\" y=\"400\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">measured into the buyer's basket</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"396\" rx=\"14\" fill=\"#EFE6D2\"/><rect x=\"480\" y=\"100\" width=\"24\" height=\"198\" fill=\"#D6C8AE\"/><rect x=\"841\" y=\"100\" width=\"24\" height=\"198\" fill=\"#D6C8AE\"/><rect x=\"480\" y=\"298\" width=\"385\" height=\"10\" fill=\"#CDBB98\"/><text x=\"672\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#8C3A2E\">R. Ya'akov's report</text><text x=\"672\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">in the name of R. Yochanan</text><use href=\"#man\" x=\"535\" y=\"178\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><path d=\"M595 232 H631 L625 250 H601 Z\" fill=\"#8B6A4E\"/><g fill=\"#C9A96E\"><circle cx=\"620\" cy=\"260\" r=\"3\"/><circle cx=\"624\" cy=\"271\" r=\"3\"/><circle cx=\"628\" cy=\"282\" r=\"3\"/></g><path d=\"M600 298 Q640 270 680 298 Z\" fill=\"#C9A96E\"/><use href=\"#man\" x=\"715\" y=\"178\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><text x=\"565\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">seller</text><text x=\"645\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">on the ground</text><text x=\"745\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">buyer</text><rect x=\"537\" y=\"346\" width=\"270\" height=\"34\" rx=\"17\" fill=\"#8C3A2E\"/><text x=\"672\" y=\"368\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#FFFFFF\">The buyer does not acquire</text><text x=\"672\" y=\"400\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">measured onto the alleyway's ground</text><text x=\"450\" y=\"436\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">Both rulings are R. Yochanan's: one speaks of the basket, the other of the ground</text></svg>"
+     },
+     "returns_to": [
+      {
+       "id": "s15",
+       "note": "Settles the dispute between R. Asi and R. Zeira in R. Zeira's favor"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s18",
+     "title": "Testing the Conclusion Against the Mishnah",
+     "amud": "84b",
+     "gist": "The Mishnah's \"measured but not pulled\" might prove R. Zeira, but the Gemara sets that clause in the public domain and reads the Mishnah's other clauses to fit.",
+     "bullets": [],
+     "returns_to": [
+      {
+       "id": "s13",
+       "note": "Returns to the Mishnah on acquiring produce to locate its clauses"
+      }
+     ],
+     "illustration": {
+      "caption": "How the Gemara reads the Mishnah once it sets it in the public domain: \"pulled\" means pulled from the public domain into an alleyway, and renting the place is a separate case in a domain that has an owner (84b).",
+      "svg": "<svg viewBox=\"0 0 900 470\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A street, an alleyway and a privately owned yard. A buyer standing in the alleyway pulls a sack of produce in from the street. In the owned yard, a buyer rents the spot where produce lies from its owner.</title><rect width=\"900\" height=\"470\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">How the Gemara locates the Mishnah's clauses</text><rect x=\"20\" y=\"52\" width=\"270\" height=\"330\" rx=\"10\" fill=\"#E6DFD2\"/><rect x=\"300\" y=\"52\" width=\"250\" height=\"330\" rx=\"10\" fill=\"#E3EAF3\"/><rect x=\"560\" y=\"52\" width=\"320\" height=\"330\" rx=\"10\" fill=\"#E4EFE4\"/><text x=\"155\" y=\"84\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">Public domain</text><text x=\"155\" y=\"106\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#5B6478\">רשות הרבים</text><text x=\"425\" y=\"84\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">Alleyway</text><text x=\"425\" y=\"106\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#5B6478\">סמטא</text><text x=\"720\" y=\"84\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">A domain with an owner</text><text x=\"720\" y=\"106\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#5B6478\">רשות בעלים</text><rect x=\"200\" y=\"246\" width=\"56\" height=\"52\" rx=\"14\" fill=\"#C9A96E\"/><path d=\"M214 250 Q228 236 242 250\" fill=\"none\" stroke=\"#8B6A4E\" stroke-width=\"4\"/><line x1=\"256\" y1=\"262\" x2=\"372\" y2=\"248\" stroke=\"#8B6A4E\" stroke-width=\"3\"/><use href=\"#man\" x=\"362\" y=\"182\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><line x1=\"180\" y1=\"330\" x2=\"430\" y2=\"330\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><path d=\"M440 330 l-12 -7 v14 z\" fill=\"#1B3A8A\"/><text x=\"300\" y=\"356\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">pulled from the public domain into the alleyway</text><text x=\"300\" y=\"374\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">so the buyer acquires</text><path d=\"M690 300 Q730 262 770 300 Z\" fill=\"#C9A96E\"/><use href=\"#man\" x=\"606\" y=\"180\" width=\"56\" height=\"112\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"800\" y=\"180\" width=\"56\" height=\"112\" style=\"color:#8C5A3C\"/><text x=\"634\" y=\"314\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">buyer</text><text x=\"730\" y=\"318\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">the produce</text><text x=\"828\" y=\"314\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">owner</text><text x=\"720\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">the perspicacious buyer</text><text x=\"720\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">rents its place from the owner</text><text x=\"450\" y=\"412\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Abaye and Rava: passing acquires in the public domain and in a courtyard belonging to neither;</text><text x=\"450\" y=\"432\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">pulling only in an alleyway or a courtyard belonging to both; lifting in every place.</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s19",
+       "title": "Is the Mishnah in the Public Domain? Abaye and Rava on Each Kinyan",
+       "amud": "84b",
+       "gist": "The Gemara deflects the proof by placing the Mishnah in the public domain. That runs into Abaye and Rava's rule that pulling does not acquire there.",
+       "bullets": [
+        {
+         "text": "Proof: \"measured but did not pull, he has not acquired.\" Isn't this in an alleyway? That would show produce on the ground of an alleyway is not acquired, as R. Zeira says.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rejected: the Mishnah speaks of the public domain.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Difficulty: then the first clause, \"pulled but did not measure, he has acquired,\" would have pulling acquire in the public domain.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Abaye and Rava: passing (*mesirah*) acquires in the public domain and in a courtyard belonging to neither party. Pulling acquires only in an alleyway or a courtyard belonging to both, not in the public domain. Lifting acquires everywhere, even in the seller's domain.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "chart": {
+        "caption": "Abaye and Rava: where each mode of acquisition works",
+        "columns": [
+         "Mode",
+         "Where it acquires"
+        ],
+        "rows": [
+         [
+          "Passing (*mesirah*)",
+          "In the public domain and in a courtyard belonging to neither party"
+         ],
+         [
+          "Pulling (*meshicha*)",
+          "Only in an alleyway or a courtyard belonging to both; not in the public domain"
+         ],
+         [
+          "Lifting (*hagbahah*)",
+          "In every place, even in the seller's domain"
+         ]
+        ]
+       },
+       "children": []
+      },
+      {
+       "id": "s20",
+       "title": "Pulled Into the Alleyway; Renting in an Owned Domain",
+       "amud": "84b",
+       "gist": "\"Pulled\" means pulled from the public domain into an alleyway, and the renting clause is a separate case in a domain that has an owner.",
+       "bullets": [
+        {
+         "text": "Answer: the Mishnah's \"pulled\" means he pulled the produce from the public domain into an alleyway.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Difficulty from the last clause: the perspicacious buyer rents its place. In the public domain, from whom could he rent it?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: the last clause is a separate case. If the produce is in a domain that has an owner, the perspicacious buyer rents its place from the owner.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The owner there is the seller. Renting the spot makes it the buyer's own domain, and he acquires through *kinyan chatzer*.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The natural reading sets the whole Mishnah in an alleyway, which would support R. Zeira. The Gemara's reading is strained but possible, and it keeps the Mishnah from serving as a decisive proof.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s21",
+   "title": "Rav and Shmuel: Where a Person's Vessels Acquire",
+   "amud": "84b → 85a",
+   "gist": "Still discussing how acquisition takes place, the Gemara begins a joint statement of Rav and Shmuel that continues on the next daf.",
+   "flag": "Gemara text only",
+   "bullets": [
+    {
+     "text": "The Gemara continues on how acquisition takes place and introduces a statement made jointly by Rav and Shmuel.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "continues": "Continues on 85a: Rav and Shmuel say a person's vessels acquire for him anywhere except the public domain, while R. Yochanan and Reish Lakish say even there. Rav Pappa reconciles them: the latter mean an alleyway.",
+   "children": []
+  }
+ ],
+ "judgment_calls": [
+  "Rav Chisda's two cases are separate children (s2, s3), with the Gemara's 'what does he add' as a third child (s4). One section covering both cases would also work; I split them because each is a full case with its own argument and Mishnah parallel, and the chart compares them side by side.",
+  "The discussion of what Rav Chisda adds (s4) could be its own top-level section. I kept it under Rav Chisda because it asks only whether his teaching is needed.",
+  "The sun digression (s5) and wine vs. vinegar (s9) could be joined under one parent, 'Comments on the Mishnah's fourth category.' I made them separate top-level sections because each is a self-contained discussion with its own question.",
+  "The partners' courtyard exchange (s16) is its own child rather than part of R. Asi vs. R. Zeira, because it is a distinct attempted proof that is rejected.",
+  "The test against the Mishnah (s18) could be a separate top-level section on interpreting the Mishnah. I kept it under R. Yochanan's ruling because the Gemara brings it as a proof for R. Zeira. It carries a returns_to link to the Mishnah section (s13).",
+  "Rav and Shmuel (s21) is top-level, not under s14, because it opens a new question about where vessels acquire. Its content is almost entirely on 85a."
+ ],
+ "coverage_notes": [
+  "The Mishnah of four cases (83b.6–7) was covered on the previous daf. This outline starts with Rav Chisda at 83b.8, and the shiur's opening summary of the Mishnah falls outside the scope.",
+  "In that out-of-scope summary, the essay says that when bad wheat is found to be good the buyer may reverse and the seller may not. The Mishnah, and Rav Chisda's parallel on 84a, say the seller may renege. Followed the text (s3).",
+  "The essay's summary also speaks of 'red wine versus white wine'. The Mishnah contrasts reddish-brown wheat with white wheat. Followed the text.",
+  "The essay presents 84a.3–4 as a hava amina about both sides or one side reversing in ta'ut because sellers overclaim. The text says that from the Mishnah alone one would think both sides may renege in ona'ah, and that the Mishnah is needed to teach that misdescribed quality counts as exploitation at all, since per Mishlei 20:14 sellers praise and buyers disparage. Followed the text; the essay does not cite the verse.",
+  "Names: the essay has 'Rav Assi', 'Rav Zeira', 'Rav Yaakov' and 'Rabbi Ilai'. The text has R. Asi, R. Zeira, R. Ya'akov and R. Ela. Followed the text.",
+  "The essay's order in the Mishnah on produce is meshicha, flax, attached, rental. The text's order is pulling and measuring, rental, then flax and attached flax. Followed the text's order. The essay's example of an apple on a tree is not in the Mishnah, whose attached case is flax; it was omitted.",
+  "84b.9 (did R. Zeira accept R. Asi's argument; R. Yannai citing Rabbi Yehuda HaNasi on a partners' courtyard) is not discussed in the shiur. Outlined from the text and flagged (s16).",
+  "The essay presents R. Ya'akov's report as a contradiction that is then resolved. The text introduces it as support for R. Zeira ('so too R. Zeira's statement is reasonable') and resolves the contradiction with 'learn from it.' Followed the text's framing.",
+  "The essay's account of the Mishnah test is garbled and omits Abaye and Rava's statement on passing, pulling and lifting. Outlined from the text: the proof, deflected to the public domain; the difficulty from the pulling clause (Abaye and Rava); the answer, pulled from the public domain into an alleyway; the difficulty from the renting clause; the answer, a separate case in a domain with an owner. The essay's identification of the owner as the seller is kept as a shiur bullet.",
+  "The essay's treatment of the reversed Gan Eden/Gehenna version is unclear: it places Gan Eden in the west yet speaks of the sun reflecting what is opposite it. The text says only 'some say the opposite.' A cautious shiur bullet was kept, and the Gemara bullet follows the text.",
+  "84b.14 (Rav and Shmuel) is not in the shiur. Outlined from the text and flagged, with continues pointing to 85a."
+ ]
+}

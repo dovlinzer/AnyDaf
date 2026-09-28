@@ -1,0 +1,534 @@
+{
+ "daf": "Kiddushin 11",
+ "scope": {
+  "start": "11a: the Gemara returns to the Mishnah and asks why Beit Shammai require a dinar",
+  "end": "11b: the Gemara's rejoinder to R. Shimon ben Lakish's Hebrew maidservant argument (continues on 12a)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Beit Shammai's Dinar: Dignity, *kesef Tzuri* or the *amah ivriyah*",
+   "amud": "11a–11b → 12a",
+   "text": {
+    "from": "11a.6",
+    "to": "11b.10"
+   },
+   "gist": "Three explanations of why Beit Shammai require a dinar for betrothal with money: R. Zeira's woman who is particular about herself, Rav Yosef's appeal to Rav Asi's rule on *kesef Tzuri* (tyrian coinage) (which the Gemara then tests and restates), and R. Shimon ben Lakish's derivation from the *amah ivriyah* (hebrew maidservant).",
+   "bullets": [
+    {
+     "text": "The Mishnah: for betrothal with money, Beit Shammai require at least a dinar, while Beit Hillel accept a *perutah* or anything worth a *perutah*. The Gemara asks for Beit Shammai's reasoning.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The question behind the question: if the money of *kiddushin* works as a symbolic act of transfer, why should the amount matter at all, and why a dinar in particular?",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "The gap is large. On the coin scale (*perutah*, *issar*, *pundion*, *ma'ah*, *istira*, dinar, *sela*), a dinar is about 192 *perutot*, and a *sela* (the Torah's sacred shekel) is four dinar.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "Three explanations of Beit Shammai's minimum of a dinar",
+    "columns": [
+     "",
+     "Source",
+     "Why more than a perutah",
+     "What happens to it on this daf"
+    ],
+    "rows": [
+     [
+      "R. Zeira",
+      "A woman is particular about herself (*makpedet al atzmah*)",
+      "She won't agree to be betrothed for less than a dinar",
+      "Abaye objects from R. Yannai's daughters; R. Zeira limits it to betrothal at night or through an agent"
+     ],
+     [
+      "Rav Yosef (citing Rav Yehuda in the name of Rav Asi)",
+      "Money in the Torah is *kesef Tzuri*",
+      "The smallest Tyrian silver coin is worth a dinar",
+      "Rav Asi's rule is challenged and restated to cover only *kesef katzuv*"
+     ],
+     [
+      "R. Shimon ben Lakish (following Chizkiyah)",
+      "The *amah ivriyah* deducts from her price (Shemot 21:8)",
+      "A price of one *perutah* leaves nothing to deduct",
+      "Rejoinder: perhaps a *perutah* sale simply has no deduction (continues on 12a)"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The three explanations the Gemara offers on 11a–11b for Beit Shammai's minimum of a dinar, set against Beit Hillel's *perutah*.",
+    "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three sages side by side, each with his explanation of why Beit Shammai require a dinar: R. Zeira, Rav Yosef and R. Shimon ben Lakish.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Why a dinar? Three explanations of Beit Shammai</text><rect x=\"15\" y=\"60\" width=\"280\" height=\"340\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"310\" y=\"60\" width=\"280\" height=\"340\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"605\" y=\"60\" width=\"280\" height=\"340\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#sage\" x=\"123\" y=\"80\" width=\"64\" height=\"112\" style=\"color:#50706E;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"418\" y=\"80\" width=\"64\" height=\"112\" style=\"color:#4B5E8C;--beard:#4A3A2E;--wrap:#D9CBB0\"/><use href=\"#sage\" x=\"713\" y=\"80\" width=\"64\" height=\"112\" style=\"color:#8C5A3C;--beard:#A8A39C;--wrap:#E4D8C0\"/><text x=\"155\" y=\"220\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#24592E\">R. Zeira</text><text x=\"450\" y=\"220\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">Rav Yosef</text><text x=\"745\" y=\"220\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">R. Shimon ben Lakish</text><text x=\"155\" y=\"246\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">A woman is particular</text><text x=\"155\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">about herself</text><text x=\"450\" y=\"246\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">Rav Asi: money in the Torah</text><text x=\"450\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">is Tyrian coinage</text><text x=\"745\" y=\"246\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">Chizkiyah: the Hebrew</text><text x=\"745\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">maidservant deducts</text><text x=\"155\" y=\"294\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#3C7446\">אשה מקפדת על עצמה</text><text x=\"450\" y=\"294\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#3A5692\">כסף צורי</text><text x=\"745\" y=\"294\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#7A4A2A\">והפדה</text><rect x=\"65\" y=\"314\" width=\"180\" height=\"32\" rx=\"16\" fill=\"#3C7446\"/><rect x=\"360\" y=\"314\" width=\"180\" height=\"32\" rx=\"16\" fill=\"#1B3A8A\"/><rect x=\"655\" y=\"314\" width=\"180\" height=\"32\" rx=\"16\" fill=\"#9A6212\"/><text x=\"155\" y=\"335\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Minimum: a dinar</text><text x=\"450\" y=\"335\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Minimum: a dinar</text><text x=\"745\" y=\"335\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Minimum: a dinar</text><text x=\"155\" y=\"378\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Abaye objects; R. Zeira narrows it</text><text x=\"450\" y=\"378\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Rav Asi’s rule is later restated</text><text x=\"745\" y=\"378\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Continues on 12a</text><text x=\"450\" y=\"436\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Beit Hillel: a perutah, or anything worth a perutah</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "*Makpedet al Atzmah*: R. Yannai's Daughters, Night or an Agent",
+     "amud": "11a",
+     "text": {
+      "from": "11a.6",
+      "to": "11a.8"
+     },
+     "gist": "R. Zeira: a woman won't accept betrothal for less than a dinar; Abaye objects that this would void even a willing acceptance, and R. Zeira limits the rule to cases where she can't see what she receives.",
+     "bullets": [
+      {
+       "text": "R. Zeira: Beit Shammai's reason is that a woman is particular about herself (*makpedet al atzmah*) and will not agree to be betrothed for less than a dinar.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye objects: R. Yannai's daughters, who are particular about their honor, would not agree to less than three *kav* of dinars. If one of them reaches out her hand and accepts a single dinar from a man, will you say she isn't betrothed?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Zeira: I never included a woman who reached out and accepted; she may give up her dignity. I meant a betrothal at night, when she couldn't see what she was given, or through an agent she appointed without naming a sum. There we presume she insists on at least a dinar.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Even a symbolic act needs a floor of seriousness: a gift too trivial signals contempt rather than commitment.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The weakness of this reason is that it is subjective. Dignity varies from woman to woman, and the rule needs qualifying as soon as she acts against it. Beit Hillel's *perutah* is an objective floor, the least the halakha counts as money, and the Gemara goes on to look for a more principled basis for Beit Shammai.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "R. Zeira's answer to Abaye (11a): a woman who reaches out and accepts is betrothed even for a dinar that is below her standing, but at night or through an agent with no stated sum, she is presumed to insist on at least a dinar.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three betrothal scenes: a woman accepting a coin with her own hand, a betrothal at night, and a betrothal through her agent.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"310\" y=\"15\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#DDE3EE\"/><rect x=\"605\" y=\"15\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"155\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">She reaches out and accepts</text><text x=\"155\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Abaye’s case: R. Yannai’s daughters</text><use href=\"#woman\" x=\"70\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"180\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><path d=\"M122 175 L143 180 M188 175 L167 180\" stroke=\"#D6AE86\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"155\" cy=\"180\" r=\"11\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><text x=\"155\" y=\"258\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">one dinar, from a man</text><use href=\"#mark-ok\" x=\"40\" y=\"300\" width=\"36\" height=\"36\"/><text x=\"86\" y=\"316\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">Betrothed: she may</text><text x=\"86\" y=\"336\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">waive her dignity</text><text x=\"450\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Betrothed at night</text><text x=\"450\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">she can’t see what she is given</text><circle cx=\"560\" cy=\"118\" r=\"16\" fill=\"#F3EBDD\"/><circle cx=\"567\" cy=\"112\" r=\"14\" fill=\"#DDE3EE\"/><use href=\"#woman\" x=\"365\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"475\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><path d=\"M417 175 L438 180 M483 175 L462 180\" stroke=\"#D6AE86\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"450\" cy=\"180\" r=\"11\" fill=\"#B5673E\" stroke=\"#8A4A2A\" stroke-width=\"2\"/><text x=\"450\" y=\"258\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">less than a dinar</text><use href=\"#mark-no\" x=\"335\" y=\"300\" width=\"36\" height=\"36\"/><text x=\"381\" y=\"316\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Not betrothed:</text><text x=\"381\" y=\"336\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">presumed particular</text><text x=\"745\" y=\"48\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Through an agent</text><text x=\"745\" y=\"70\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">who was not told a sum</text><use href=\"#woman\" x=\"620\" y=\"112\" width=\"54\" height=\"108\" style=\"color:#8C4A60\"/><use href=\"#person\" x=\"708\" y=\"112\" width=\"54\" height=\"108\" style=\"color:#6E6A60\"/><use href=\"#man\" x=\"800\" y=\"112\" width=\"54\" height=\"108\" style=\"color:#4B5E8C\"/><circle cx=\"781\" cy=\"172\" r=\"9\" fill=\"#B5673E\" stroke=\"#8A4A2A\" stroke-width=\"2\"/><text x=\"647\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">woman</text><text x=\"735\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">her agent</text><text x=\"827\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">man</text><text x=\"745\" y=\"258\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">less than a dinar</text><use href=\"#mark-no\" x=\"630\" y=\"300\" width=\"36\" height=\"36\"/><text x=\"676\" y=\"316\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Not betrothed:</text><text x=\"676\" y=\"336\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">presumed particular</text><text x=\"450\" y=\"418\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">R. Zeira, for Beit Shammai: a woman is particular about herself, so less than a dinar is presumed unacceptable</text></svg>"
+     }
+    },
+    {
+     "id": "s3",
+     "title": "Rav Yosef: Torah Money Is *kesef Tzuri*, and Rav Asi's Rule Tested",
+     "amud": "11a–11b",
+     "text": {
+      "from": "11a.9",
+      "to": "11b.8"
+     },
+     "gist": "Rav Yosef grounds Beit Shammai in Rav Asi's rule; the Gemara challenges the rule from four Torah 'money' cases, restates it to cover only *kesef katzuv*, and finds its novelty in the rabbinic half: *kesef medinah* (provincial coinage).",
+     "bullets": [],
+     "illustration": {
+      "caption": "Rav Asi's two coinages (11a–11b): the same coin names, but a provincial *sela* is worth half a dinar, one-eighth of a Tyrian *sela*.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two panels: a Tyrian sela equal to four dinar, and a provincial sela equal to half a dinar.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Same names, two coinages</text><rect x=\"15\" y=\"52\" width=\"425\" height=\"290\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"460\" y=\"52\" width=\"425\" height=\"290\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"227\" y=\"84\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">Tyrian coinage</text><text x=\"227\" y=\"108\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#3A5692\">כסף צורי</text><circle cx=\"105\" cy=\"196\" r=\"46\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"3\"/><text x=\"105\" y=\"202\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">sela</text><text x=\"183\" y=\"204\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"24\" fill=\"#1A1F2E\">=</text><circle cx=\"240\" cy=\"196\" r=\"20\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><circle cx=\"290\" cy=\"196\" r=\"20\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><circle cx=\"340\" cy=\"196\" r=\"20\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><circle cx=\"390\" cy=\"196\" r=\"20\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><text x=\"240\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">dinar</text><text x=\"290\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">dinar</text><text x=\"340\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">dinar</text><text x=\"390\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">dinar</text><text x=\"227\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">one sela = four dinar</text><text x=\"227\" y=\"316\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">the Torah’s set amounts</text><text x=\"672\" y=\"84\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">Provincial coinage</text><text x=\"672\" y=\"108\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">כסף מדינה</text><circle cx=\"580\" cy=\"196\" r=\"20\" fill=\"#E6D3B8\" stroke=\"#9A7440\" stroke-width=\"2\"/><text x=\"580\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">sela</text><text x=\"640\" y=\"204\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"24\" fill=\"#1A1F2E\">=</text><circle cx=\"710\" cy=\"196\" r=\"20\" fill=\"none\" stroke=\"#9A9488\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><path d=\"M710 176 A20 20 0 0 0 710 216 Z\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><text x=\"710\" y=\"236\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">half a dinar</text><text x=\"710\" y=\"252\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">(istira)</text><text x=\"672\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">one sela = half a dinar</text><text x=\"672\" y=\"316\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">amounts set by the Sages</text><text x=\"450\" y=\"374\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">The provincial sela is worth one-eighth of the Tyrian sela</text><text x=\"450\" y=\"400\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Example: the one-sela fine for striking another as an insult (a baraita)</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s4",
+       "title": "Beit Shammai and the Smallest Tyrian Silver Coin",
+       "amud": "11a",
+       "text": {
+        "from": "11a.9",
+        "to": "11a.9"
+       },
+       "gist": "Rav Yosef: Beit Shammai follow Rav Asi's rule that Torah money is *kesef Tzuri*, whose smallest silver coin is a dinar.",
+       "bullets": [
+        {
+         "text": "Rav Yosef cites Rav Yehuda in the name of Rav Asi: all money mentioned in the Torah is *kesef Tzuri*; any amount set by the Sages is *kesef medinah*, worth about one-eighth as much.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Betrothal money comes from the Torah, so Beit Shammai measure it in *kesef Tzuri*, and the smallest Tyrian silver coin is worth a dinar.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The two systems share coin names, so a *sela* or dinar in a legal text can mean values eight times apart, depending on whether the obligation is from the Torah or the Sages.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s5",
+       "title": "Is All Torah Money Tyrian? Partial Admission, Second Tithe, Consecrated Property, Kiddushin",
+       "amud": "11a–11b",
+       "text": {
+        "from": "11a.10",
+        "to": "11b.5"
+       },
+       "gist": "Four Torah laws that speak of 'money' accept less than a Tyrian dinar; the first three have their own derivations, but the fourth, Beit Hillel's *perutah*, seems to make Rav Asi follow Beit Shammai alone.",
+       "bullets": [
+        {
+         "text": "Challenge: for partial admission, the Torah says \"money or vessels\" (Shemot 22:6), yet the Mishnah in Shevuot sets the claim at two silver *ma'ah* and the admission at a *perutah*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: there money is paired with vessels. Just as \"vessels\" means at least two, \"money\" means at least two coins; and just as money is significant, the vessels must be significant.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: second tithe, \"and bind up the money\" (Devarim 14:25), yet Mishnah Ma'aser Sheni 2:8 lets copper coins of second-tithe money be exchanged. Answer: the verse says \"*the* money\", an amplification that includes any coinage, copper too.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: consecrated property, \"he will give the money\", yet Shmuel rules that property worth a hundred dinar redeemed for a *perutah*'s worth is redeemed. Answer: Shmuel learns \"money\" here from \"money\" of the tithe by verbal analogy, so any coin works.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: betrothal. Money for *kiddushin* is learned from \"taking\" in Devarim 24:1 and \"taking\" in Ephron's field, yet Beit Hillel accept a *perutah*. Must Rav Asi hold like Beit Shammai?",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "chart": {
+        "caption": "Torah laws that speak of \"money\" but accept less than a Tyrian coin",
+        "columns": [
+         "Case",
+         "Verse",
+         "What the halakha accepts",
+         "Answer"
+        ],
+        "rows": [
+         [
+          "Partial admission",
+          "Shemot 22:6",
+          "A claim of two silver *ma'ah*, an admission of a *perutah*",
+          "\"Money\" paired with \"vessels\": at least two coins"
+         ],
+         [
+          "Second tithe",
+          "Devarim 14:25",
+          "Copper coins",
+          "\"*The* money\" amplifies: any coinage"
+         ],
+         [
+          "Consecrated property",
+          "Vayikra 27:19",
+          "Redeemed for a *perutah* (Shmuel)",
+          "Verbal analogy with second-tithe money"
+         ],
+         [
+          "Betrothal",
+          "Devarim 24:1, via Ephron's field",
+          "A *perutah* (Beit Hillel)",
+          "Rav Asi's rule is restated"
+         ]
+        ]
+       },
+       "children": []
+      },
+      {
+       "id": "s6",
+       "title": "Restated: Only *Kesef Katzuv* Is Tyrian",
+       "amud": "11b",
+       "text": {
+        "from": "11b.6",
+        "to": "11b.6"
+       },
+       "gist": "The Gemara restates Rav Asi's rule: only a set amount of money in the Torah is *kesef Tzuri*; rabbinic amounts are provincial.",
+       "bullets": [
+        {
+         "text": "\"If this was stated, it was stated like this\": every set amount (*kesef katzuv*) in the Torah is *kesef Tzuri*, and every amount set by the Sages is *kesef medinah*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Where the Torah names a number, the coin meant is the valuable Tyrian one; where it simply says \"money\", any money will do, even copper.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Betrothal money has no set amount in the Torah, so the restated rule no longer yields a dinar, and Beit Shammai need a different source.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "returns_to": [
+        {
+         "id": "s4",
+         "note": "Restates the rule Rav Yosef cited for Beit Shammai"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s7",
+       "title": "What Rav Asi Adds: Rabbinic Sums in *kesef medinah*, the One-Sela Fine",
+       "amud": "11b",
+       "text": {
+        "from": "11b.7",
+        "to": "11b.8"
+       },
+       "gist": "The Torah's set sums are already taught in Bekhorot; Rav Asi's point is that rabbinic sums, like the *sela* fine for striking, are *kesef medinah*.",
+       "bullets": [
+        {
+         "text": "Objection: what does Rav Asi teach? The Mishnah (Bekhorot 49b) already says the five *sela* of the firstborn, thirty of the slave killed by an ox, fifty of the rapist and seducer, and a hundred of the defamer are all paid in the sacred shekel, *kesef Tzuri*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: the new part is that rabbinic amounts are *kesef medinah*, which that Mishnah doesn't teach.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A baraita: one who strikes another as an insult pays a *sela*. It is not a Tyrian *sela* of four dinar but a provincial one worth half a dinar, which people call an *istira*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Among fixed rabbinic sums are payments for damages, enactments for the social order, and compensation for injury.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "The *ketubah*'s 200 depends on the same question: if the *ketubah* is rabbinic, the 200 are provincial, worth 25 Tyrian dinar; if it is from the Torah, they are Tyrian. The Torah's fifty shekel for a virgin equal 200 dinar, the *ketubah* of a virgin.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "chart": {
+        "caption": "Fixed sums and their coinage under Rav Asi's restated rule",
+        "columns": [
+         "Payment",
+         "Amount",
+         "Set by",
+         "Coinage"
+        ],
+        "rows": [
+         [
+          "Redemption of a firstborn son",
+          "5 *sela*",
+          "Torah",
+          "Tyrian (sacred shekel)"
+         ],
+         [
+          "Slave killed by an ox",
+          "30 *sela*",
+          "Torah",
+          "Tyrian (sacred shekel)"
+         ],
+         [
+          "Rapist and seducer",
+          "50 *sela*",
+          "Torah",
+          "Tyrian (sacred shekel)"
+         ],
+         [
+          "Defamer of a virgin",
+          "100 *sela*",
+          "Torah",
+          "Tyrian (sacred shekel)"
+         ],
+         [
+          "Striking another as an insult",
+          "1 *sela*",
+          "Sages (baraita)",
+          "Provincial: half a dinar"
+         ]
+        ]
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s8",
+     "title": "R. Shimon ben Lakish via Chizkiyah: The *amah ivriyah* Who Deducts",
+     "amud": "11b → 12a",
+     "text": {
+      "from": "11b.9",
+      "to": "11b.10"
+     },
+     "gist": "Beit Shammai learn betrothal from the *amah ivriyah*, whose redemption means deducting from her price, impossible from a *perutah*; the Gemara replies that perhaps a *perutah* sale simply has no deduction.",
+     "bullets": [
+      {
+       "text": "R. Shimon ben Lakish: Beit Shammai follow Chizkiyah, who reads \"then he shall let her be redeemed\" (Shemot 21:8) as teaching that the *amah ivriyah* deducts from her price and leaves early (*megara'at ve'yotzet*): she pays her value less the work she has done.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Beit Shammai learn ordinary betrothal from the *amah ivriyah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If she was bought for a dinar, she deducts down to a *perutah*. But if she was bought for a *perutah*, can she deduct from it? It is already the smallest sum.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rejoinder: perhaps the Torah means that where he paid a dinar she deducts, and where he paid a *perutah* there is simply no deduction.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Even if the argument stands, it shows only that the price must exceed a *perutah*, not that it must be a dinar rather than, say, two *perutot*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "continues": "Continues on 12a: the Gemara answers the rejoinder from designation, then asks why the minimum is a dinar and not less.",
+     "illustration": {
+      "caption": "Chizkiyah's reading of \"then he shall let her be redeemed\" (11b): a price of a dinar can be worked down to a *perutah*, but a *perutah* leaves nothing to deduct, unless, as the Gemara replies, such a sale simply has no deduction.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Bars shrinking from a full dinar price down to a perutah as the Hebrew maidservant deducts for her work, and below, a single perutah with nothing to deduct.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Deducting from the Hebrew maidservant’s price</text><text x=\"450\" y=\"62\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">וְהֶפְדָּהּ</text><text x=\"450\" y=\"84\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Chizkiyah on Shemot 21:8</text><text x=\"30\" y=\"160\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Sold for a dinar</text><rect x=\"240\" y=\"100\" width=\"70\" height=\"100\" fill=\"#9A6212\"/><rect x=\"330\" y=\"120\" width=\"70\" height=\"80\" fill=\"#AE7A2E\"/><rect x=\"420\" y=\"140\" width=\"70\" height=\"60\" fill=\"#C0914A\"/><rect x=\"510\" y=\"160\" width=\"70\" height=\"40\" fill=\"#CFA766\"/><rect x=\"600\" y=\"180\" width=\"70\" height=\"20\" fill=\"#DDBD86\"/><rect x=\"690\" y=\"194\" width=\"70\" height=\"6\" fill=\"#B5673E\"/><text x=\"275\" y=\"222\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">full price</text><text x=\"465\" y=\"222\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">deducting for work done</text><text x=\"725\" y=\"222\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">down to a perutah</text><path d=\"M240 242 H800\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><path d=\"M800 242 l-10 -6 v12 z\" fill=\"#C9C1B2\"/><line x1=\"20\" y1=\"270\" x2=\"880\" y2=\"270\" stroke=\"#E6DFD2\"/><text x=\"30\" y=\"324\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">Sold for a perutah</text><circle cx=\"275\" cy=\"318\" r=\"8\" fill=\"#B5673E\" stroke=\"#8A4A2A\" stroke-width=\"2\"/><text x=\"310\" y=\"312\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" fill=\"#1A1F2E\">Can she deduct from a perutah? It is already the smallest sum.</text><text x=\"310\" y=\"340\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">The Gemara’s rejoinder: perhaps then she simply cannot deduct at all.</text><text x=\"450\" y=\"398\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">R. Shimon ben Lakish: Beit Shammai learn betrothal from the Hebrew maidservant</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "makpedet al atzmah",
+   "hebrew": "אשה מקפדת על עצמה",
+   "sense": "a woman's insistence on her own dignity",
+   "definition": "The presumption that a woman is particular about her honor and will not consent to an arrangement that demeans her, such as betrothal for a trivial sum.",
+   "on_this_daf": "R. Zeira's basis for Beit Shammai's dinar, limited after Abaye's objection to betrothal at night or through an agent who was not told a sum.",
+   "aliases": [
+    "makpedet al atzmah"
+   ],
+   "sections": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "term": "perutah",
+   "hebrew": "פרוטה",
+   "sense": "the minimum unit of monetary value",
+   "definition": "The smallest copper coin, and the least amount the halakha treats as having monetary value.",
+   "on_this_daf": "Beit Hillel's minimum for betrothal with money; the Gemara tests Rav Asi's rule and Chizkiyah's derivation against laws that accept a perutah.",
+   "aliases": [
+    "perutah"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s5",
+    "s8"
+   ]
+  },
+  {
+   "term": "kesef Tzuri",
+   "hebrew": "כסף צורי",
+   "sense": "Tyrian coinage for Torah sums",
+   "definition": "The high-value silver coinage of Tyre, in which sums fixed by the Torah (the sacred shekel) are measured.",
+   "on_this_daf": "Rav Asi says Torah money is Tyrian coinage, which Rav Yosef uses to explain Beit Shammai's dinar; the Gemara restricts this to set amounts.",
+   "aliases": [
+    "kesef Tzuri"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s4",
+    "s5",
+    "s7"
+   ]
+  },
+  {
+   "term": "kesef medinah",
+   "hebrew": "כסף מדינה",
+   "sense": "provincial coinage for rabbinic sums",
+   "definition": "The local coinage, bearing the same coin names but worth one-eighth of Tyrian coinage, in which amounts set by the Sages are measured.",
+   "on_this_daf": "Rav Asi's real novelty: the Sages' one-sela fine for striking another is a provincial sela, worth half a dinar.",
+   "aliases": [
+    "kesef medinah"
+   ],
+   "sections": [
+    "s3",
+    "s4",
+    "s6",
+    "s7"
+   ]
+  },
+  {
+   "term": "kesef katzuv",
+   "hebrew": "כסף קצוב",
+   "sense": "a specified sum of money",
+   "definition": "A monetary obligation stated as a fixed number, as opposed to an unspecified requirement of \"money\".",
+   "on_this_daf": "The Gemara restates Rav Asi's rule so that only kesef katzuv in the Torah is Tyrian, leaving unspecified \"money\" satisfied by any coin.",
+   "aliases": [
+    "kesef katzuv"
+   ],
+   "sections": [
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "term": "amah ivriyah",
+   "hebrew": "אמה עבריה",
+   "sense": "the Hebrew maidservant",
+   "definition": "A Jewish girl sold by her father into service, who goes free at maturity, after six years, or by redemption, and whom the master may designate as a wife.",
+   "on_this_daf": "R. Shimon ben Lakish derives Beit Shammai's minimum from her: betrothal is modeled on her acquisition.",
+   "aliases": [
+    "amah ivriyah"
+   ],
+   "sections": [
+    "s1",
+    "s8"
+   ]
+  },
+  {
+   "term": "megara'at ve'yotzet",
+   "hebrew": "מגרעת ויוצאת",
+   "sense": "redemption by deducting from the purchase price",
+   "definition": "The Hebrew maidservant's right to go free before her term by paying her purchase price less a proportion for the time already served.",
+   "on_this_daf": "Chizkiyah's reading: deduction presumes a price larger than a perutah, which is the basis of R. Shimon ben Lakish's explanation.",
+   "aliases": [
+    "megara'at ve'yotzet"
+   ],
+   "sections": [
+    "s8"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The Gemara's examination of Rav Asi's rule (11a.10–11b.8) could be a top-level section of its own, since the Gemara introduces it as 'the matter itself'. It is nested under Rav Yosef's explanation because it tests the very rule he relies on, and its restatement is what removes that support for Beit Shammai.",
+  "The restatement (11b.6) and the question of what Rav Asi adds (11b.7–11b.8) could be one section; split because the first changes the scope of the rule and the second defends its novelty.",
+  "The four challenges to Rav Asi could each be a child section; kept as bullets with a chart, since each is a short challenge-and-answer of the same shape.",
+  "All three explanations of Beit Shammai are kept under one parent even though R. Shimon ben Lakish's continues onto 12a, so the headlines view shows the three as alternatives to one question."
+ ],
+ "coverage_notes": [
+  "The shiur's opening material (a kohen's wife and terumah, simpon, Ula's reason, the slave comparison, kibeil and masar ve'halakh) covers 11a.1–11a.5, outside this outline's scope.",
+  "The shiur's discussion of kiddushei bi'ah (the Tosefta's 'le'shem kiddushin', common-law marriage, Rav Henkin vs. Rav Moshe Feinstein) does not correspond to lines 11a.6–11b.10 and is left out.",
+  "The essay says R. Yannai's daughters would demand 'a basketful of gold coins'; the text says three kav of dinars. Followed the text.",
+  "The essay attributes the objection from R. Yannai's daughters to 'the gemara'; the text gives it to Abaye, answered by R. Zeira. Followed the text.",
+  "The essay presents R. Shimon ben Lakish's argument without mentioning that he follows Chizkiyah, and without the Gemara's rejoinder in 11b.10 ('perhaps with a perutah she cannot deduct at all'). Followed the text, which includes both.",
+  "The essay writes 'Rav Assi' and speaks of zuz; the text has Rav Asi and dinar. Followed the text.",
+  "The essay's claim that a woman who knowingly accepts even a perutah is betrothed according to Beit Shammai goes beyond the text, whose case is a dinar accepted by R. Yannai's daughter; not included."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s2",
+    "subject": "R. Zeira's cases: her own hand, at night, through an agent",
+    "why_not": "Three cases with one variable; the illustration carries it better than a grid."
+   },
+   {
+    "section": "s3",
+    "subject": "Tyrian vs. provincial coinage values",
+    "why_not": "Only two rows with one dimension; shown in the illustration instead."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s5",
+    "subject": "The four Torah 'money' cases that accept copper or two ma'ah",
+    "why_not": "A list of textual derivations with no physical scene; the chart serves it."
+   },
+   {
+    "section": "s7",
+    "subject": "Bar graph of the fixed sums (5, 30, 50, 100 sela vs. the one-sela fine)",
+    "why_not": "Would repeat the chart and the coinage illustration."
+   }
+  ]
+ }
+}

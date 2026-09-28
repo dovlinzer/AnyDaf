@@ -1,0 +1,810 @@
+{
+ "daf": "Bekhorot 18",
+ "scope": {
+  "start": "18a.6: the Rabbis' ruling of one conditional heifer, mid-exchange on whether exact equality can be established in human hands",
+  "end": "19a.1: end of the Gemara's explanation of why each of the three twin cases was needed"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Human-Made Precision: Two Heifers, None, or One With a Stipulation",
+   "amud": "18a",
+   "text": {
+    "from": "18a.6",
+    "to": "18a.6"
+   },
+   "gist": "Continuing the question of whether the Rabbis allow exact equality in matters in human hands: their ruling of one heifer with a stipulation shows they do not.",
+   "bullets": [
+    {
+     "text": "Rav Amram's *baraita* (cited just before) on the *eglah arufah* of a corpse found exactly between two towns: R. Eliezer has the towns bring two heifers. The Rabbis have them bring one heifer in partnership, stipulating that it is for whichever town is actually nearer.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The Gemara reasons: if the Rabbis held that exact equality is possible in human hands and read “*kerova*” (nearest) as including several towns, they would require two heifers. If “*kerova*” excluded several towns, they would not require even one.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "So their single conditional heifer shows that they hold *i efshar le'tzamtzem* even for matters in human hands. The Gemara accepts this conclusion. R. Eliezer, as established just before, follows R. Yosei HaGelili.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "“Human hands” can mean two things: building a situation precisely (the altar's dividing line) or measuring it carefully after the fact. The corpse between two towns is the second kind, since no one placed it there.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "The real question is not whether two events are ever truly simultaneous, since at a fine enough scale some difference always appears. It is whether a measurement showing exact equality can be trusted.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "This is not general distrust of measuring: halakha goes by a measured *kezayit* or *tefach*. A claim of perfect equality is so rare that even after careful measurement the Rabbis assume there was an error.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "Tosafot considers ruling like the Rabbis for events in the hands of Heaven and like R. Yosei HaGelili for matters in human hands, or like the Rabbis in both.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "A corpse exactly between two towns: each ruling and what it implies",
+    "columns": [
+     "",
+     "Ruling",
+     "Can exact equality be established?",
+     "Does “kerova” include several towns?"
+    ],
+    "rows": [
+     [
+      "R. Eliezer",
+      "Two heifers, one from each town",
+      "Yes (he follows R. Yosei HaGelili)",
+      "Yes: several equally near towns"
+     ],
+     [
+      "First *tanna* (the earlier *baraita*)",
+      "No heifer at all",
+      "Yes",
+      "No: only a single nearest town"
+     ],
+     [
+      "The Rabbis (Rav Amram's *baraita*)",
+      "One heifer in partnership, with a stipulation",
+      "No, even in human hands",
+      "Not decided: one town is surely nearer"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "A corpse found exactly between two towns, with the three rulings the Gemara weighs. The Rabbis' single conditional heifer shows they hold that exact equality cannot be established (18a).",
+    "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A slain person lies exactly midway between two towns. Below are three rulings: R. Eliezer, two heifers; the first tanna, no heifer; the Rabbis, one heifer with a stipulation.</title><rect width=\"900\" height=\"480\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"870\" height=\"190\" rx=\"14\" fill=\"#EFE8DA\"/><text x=\"450\" y=\"44\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">A slain person found exactly between two towns</text><rect x=\"30\" y=\"150\" width=\"840\" height=\"4\" fill=\"#D9C9A8\"/><g fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"><rect x=\"40\" y=\"100\" width=\"40\" height=\"50\"/><rect x=\"84\" y=\"88\" width=\"46\" height=\"62\"/><rect x=\"134\" y=\"104\" width=\"36\" height=\"46\"/><rect x=\"730\" y=\"104\" width=\"36\" height=\"46\"/><rect x=\"770\" y=\"88\" width=\"46\" height=\"62\"/><rect x=\"820\" y=\"100\" width=\"40\" height=\"50\"/></g><text x=\"105\" y=\"180\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A4A3A\">Town A</text><text x=\"795\" y=\"180\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A4A3A\">Town B</text><ellipse cx=\"445\" cy=\"143\" rx=\"32\" ry=\"7\" fill=\"#7A6A5A\"/><circle cx=\"484\" cy=\"141\" r=\"7\" fill=\"#D6AE86\"/><text x=\"450\" y=\"180\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">the slain person</text><g stroke=\"#1B3A8A\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><line x1=\"188\" y1=\"112\" x2=\"397\" y2=\"112\"/><line x1=\"508\" y1=\"112\" x2=\"712\" y2=\"112\"/></g><g fill=\"#1B3A8A\"><path d=\"M180 112 l9 -5 v10 z\"/><path d=\"M405 112 l-9 -5 v10 z\"/><path d=\"M500 112 l9 -5 v10 z\"/><path d=\"M720 112 l-9 -5 v10 z\"/></g><text x=\"292\" y=\"100\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1B3A8A\">measured distance</text><text x=\"610\" y=\"100\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1B3A8A\">measured distance</text><text x=\"452\" y=\"117\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">equal?</text><rect x=\"15\" y=\"222\" width=\"280\" height=\"244\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"155\" y=\"254\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">R. Eliezer</text><text x=\"155\" y=\"276\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">follows R. Yosei HaGelili</text><text x=\"155\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Two heifers, one from each town</text><use href=\"#bull\" x=\"55\" y=\"312\" width=\"96\" height=\"62\"/><use href=\"#bull\" x=\"160\" y=\"312\" width=\"96\" height=\"62\"/><text x=\"155\" y=\"405\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Exact equality is possible;</text><text x=\"155\" y=\"425\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">kerova includes several towns</text><rect x=\"310\" y=\"222\" width=\"280\" height=\"244\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"450\" y=\"254\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">First tanna</text><text x=\"450\" y=\"276\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">(the earlier baraita)</text><text x=\"450\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">No heifer at all</text><rect x=\"400\" y=\"316\" width=\"100\" height=\"54\" rx=\"10\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"450\" y=\"348\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#9A6212\">none</text><text x=\"450\" y=\"405\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Exact equality is possible;</text><text x=\"450\" y=\"425\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">kerova means a single town</text><rect x=\"605\" y=\"222\" width=\"280\" height=\"244\" rx=\"14\" fill=\"#ECE6F2\"/><text x=\"745\" y=\"254\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#5A3E7A\">The Rabbis</text><text x=\"745\" y=\"276\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">(Rav Amram’s baraita)</text><text x=\"745\" y=\"300\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">One heifer in partnership</text><use href=\"#bull\" x=\"697\" y=\"312\" width=\"96\" height=\"62\"/><text x=\"745\" y=\"405\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">Stipulated for whichever town</text><text x=\"745\" y=\"425\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">is truly nearer</text><text x=\"745\" y=\"452\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#5A3E7A\">אי אפשר לצמצם</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s2",
+   "title": "The Better Twin: R. Tarfon's Presumption or R. Akiva's Meshammenin",
+   "amud": "18a",
+   "text": {
+    "from": "18a.7",
+    "to": "18a.9"
+   },
+   "gist": "Twin males whose heads emerged together are a *safek bekhor* (uncertain firstborn) case: R. Tarfon presumes the healthier lamb came out first, and R. Yochanan reads R. Akiva as giving the priest the leaner lamb.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s3",
+     "title": "R. Tarfon: The Healthier Lamb Came Out First",
+     "amud": "18a",
+     "text": {
+      "from": "18a.7",
+      "to": "18a.7"
+     },
+     "gist": "The priest chooses the better lamb because the healthier twin is presumed to have been born first.",
+     "bullets": [
+      {
+       "text": "The earlier Mishnah (17a): a ewe giving birth for the first time bore two males whose heads emerged together. R. Tarfon: the priest chooses the better of the two.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "His reason: the healthier and better lamb is presumed to have come out first, so it is the firstborn.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara does not say whether this presumption makes the better lamb a certain firstborn, fit for the altar, or only gives the priest a monetary claim to it. Perhaps this is left open because R. Tarfon later retracted.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Meshammenin: Dividing the Value, or the Priest Takes the Leaner?",
+     "amud": "18a",
+     "text": {
+      "from": "18a.8",
+      "to": "18a.9"
+     },
+     "gist": "R. Yochanan proves from the Mishnah's latter clause that for R. Akiva the priest takes the leaner lamb, and reads *meshammenin* as the extra fat that stays in dispute.",
+     "bullets": [
+      {
+       "text": "Mishnah: R. Akiva says *meshammenin beineihem*, “they assess between them.”",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Chiyya bar Abba in the name of R. Yochanan: according to R. Akiva, the priest takes the leaner lamb.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Chiyya bar Abba challenges: the phrase implies that priest and owner divide the value. R. Yochanan: “While you were eating dates in Babylonia, we in Eretz Yisrael explained it from the latter clause.”",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The latter clause: if one lamb died, R. Akiva leaves the survivor with the owner, since *ha'motzi me'chavero alav ha're'ayah*. If *meshammenin* meant dividing the value, they should divide there too.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So *meshammenin* is read from *shumman*, fat: the better lamb's extra fat is what they dispute. The owner tells the priest, “Bring proof that the better one is the firstborn, and take it.”",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The reading is strained, adopted under pressure from the latter clause. R. Tarfon also seems to shift between the clauses (the better one, then dividing), so the tension runs through the whole Mishnah. One might try to read the Mishnah on its own terms, as the Vilna Gaon sometimes does.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The earlier Mishnah's case (17a) as the Gemara explains it on 18a: R. Tarfon gives the priest the better lamb, while R. Akiva, as R. Yochanan reads him, gives the priest the leaner one unless he can prove the better one is the firstborn.",
+      "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Two panels, each with a better and a leaner lamb. For R. Tarfon the better lamb goes to the priest and the leaner to the owner; for R. Akiva the better lamb stays with the owner and the leaner goes to the priest.</title><rect width=\"900\" height=\"480\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Twin males, heads out together: which goes to the priest?</text><rect x=\"15\" y=\"56\" width=\"425\" height=\"384\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"88\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">R. Tarfon</text><text x=\"227\" y=\"110\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">the better lamb is presumed to have come out first</text><use href=\"#lamb\" x=\"55\" y=\"130\" width=\"160\" height=\"112\"/><use href=\"#lamb\" x=\"255\" y=\"160\" width=\"110\" height=\"77\"/><text x=\"135\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">the better one</text><text x=\"310\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">the leaner one</text><g stroke=\"#1B3A8A\" stroke-width=\"3\"><line x1=\"135\" y1=\"272\" x2=\"135\" y2=\"298\"/><line x1=\"310\" y1=\"272\" x2=\"310\" y2=\"298\"/></g><g fill=\"#1B3A8A\"><path d=\"M135 308 l-6 -10 h12 z\"/><path d=\"M310 308 l-6 -10 h12 z\"/></g><use href=\"#man\" x=\"110\" y=\"308\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"285\" y=\"308\" width=\"50\" height=\"100\" style=\"color:#6B6F3A\"/><text x=\"135\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">priest</text><text x=\"310\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">owner</text><rect x=\"460\" y=\"56\" width=\"425\" height=\"384\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"88\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">R. Akiva</text><text x=\"672\" y=\"110\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">meshammenin beineihem, as R. Yochanan reads it</text><use href=\"#lamb\" x=\"500\" y=\"130\" width=\"160\" height=\"112\"/><use href=\"#lamb\" x=\"700\" y=\"160\" width=\"110\" height=\"77\"/><text x=\"580\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">the better one</text><text x=\"755\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">the leaner one</text><g stroke=\"#9A6212\" stroke-width=\"3\"><line x1=\"580\" y1=\"272\" x2=\"580\" y2=\"298\"/><line x1=\"755\" y1=\"272\" x2=\"755\" y2=\"298\"/></g><g fill=\"#9A6212\"><path d=\"M580 308 l-6 -10 h12 z\"/><path d=\"M755 308 l-6 -10 h12 z\"/></g><use href=\"#man\" x=\"555\" y=\"308\" width=\"50\" height=\"100\" style=\"color:#6B6F3A\"/><use href=\"#man\" x=\"730\" y=\"308\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><text x=\"580\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">owner</text><text x=\"755\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">priest</text><text x=\"450\" y=\"464\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">R. Akiva, per R. Yochanan: the owner says, “Bring proof that the better one is the firstborn, and take it.”</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "*Matanot kehunah* from the Kept Lamb: R. Meir Obligates, R. Yosei Exempts",
+   "amud": "18a–18b",
+   "text": {
+    "from": "18a.10",
+    "to": "18b.6"
+   },
+   "gist": "Two reasons for the dispute (the priest's two-sided claim, and a sale the Sages treat as having happened), then R. Elazar on a case with no replacement and Rav Pappa on an animal of uncertain tithe status.",
+   "bullets": [],
+   "chart": {
+    "caption": "*Matanot kehunah* from the lamb the owner keeps",
+    "columns": [
+     "",
+     "*Safek bekhor*, the priest holds a replacement",
+     "*Safek bekhor*, the priest got nothing (male and female)",
+     "Uncertain tithe animal",
+     "Reason"
+    ],
+    "rows": [
+     [
+      "R. Meir",
+      "Obligated",
+      "Obligated",
+      "Exempt (Rav Pappa)",
+      "The priest comes from two sides: the whole animal, or at least the gifts"
+     ],
+     [
+      "R. Yosei",
+      "Exempt",
+      "Obligated (R. Elazar)",
+      "Exempt (Rav Pappa)",
+      "*Asu she'eino zokheh ke'zokheh*: as if the priest acquired it and sold it back blemished"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s6",
+     "title": "Two-Sided Claim vs. Asu She'eino Zokheh Ke'zokheh",
+     "amud": "18a",
+     "text": {
+      "from": "18a.10",
+      "to": "18a.11"
+     },
+     "gist": "R. Yochanan: for R. Meir the priest has a claim either way; Rava: for R. Yosei the kept lamb is treated as if the priest acquired it and sold it back blemished.",
+     "bullets": [
+      {
+       "text": "Mishnah: the second lamb must graze until it is blemished; then the owner may eat it, and he must give the *matanot kehunah* (priestly gifts) (foreleg, jaw and maw) from it. R. Yosei exempts. The first view is R. Meir's.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yochanan on R. Meir: the priest comes at the owner from two sides. “If it is the firstborn, it is all mine; if it is not, at least give me the gifts.”",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava on R. Yosei: here the Sages treated one who did not acquire as one who did (*asu she'eino zokheh ke'zokheh*). It is as if the kept lamb came into the priest's possession and he sold it to the owner, blemished, for the lamb he received.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the owner can say: perhaps this one is the firstborn, and I have already given it to the priest.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Why a legal fiction is needed: the priest's claim is not only to money but to a specific animal, and the better lamb may really be his. Treating it as sold to the owner turns it into a firstborn a priest sold to an Israelite, which owes no gifts.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Rashi: the lamb the priest takes also needs a blemish before it may be eaten; the Mishnah takes this for granted.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The two reasons for the gifts dispute over the lamb the owner keeps (18a): R. Yochanan's account of R. Meir, and Rava's account of R. Yosei.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: the owner's lamb with two branches, if it is the firstborn it is all the priest's, if not he gets the gifts. Right: four steps showing the lamb treated as if it passed to the priest and was sold back, so no gifts are owed.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"432\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"227\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">R. Meir: the priest comes from two sides</text><use href=\"#lamb\" x=\"157\" y=\"62\" width=\"140\" height=\"98\"/><text x=\"227\" y=\"184\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">the lamb the owner keeps</text><path d=\"M227 194 L116 234 M227 194 L338 234\" stroke=\"#1B3A8A\" stroke-width=\"2\" fill=\"none\"/><rect x=\"30\" y=\"236\" width=\"172\" height=\"92\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><text x=\"116\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">If it is the firstborn:</text><text x=\"116\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">“It is all mine.”</text><rect x=\"250\" y=\"236\" width=\"176\" height=\"92\" rx=\"10\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><text x=\"338\" y=\"266\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">If it is not:</text><text x=\"338\" y=\"290\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">“Give me the foreleg,</text><text x=\"338\" y=\"312\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">jaw and maw.”</text><text x=\"227\" y=\"372\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">Either way the priest has a claim,</text><text x=\"227\" y=\"394\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">so the owner must give the gifts</text><text x=\"227\" y=\"420\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">(R. Yochanan)</text><rect x=\"460\" y=\"14\" width=\"425\" height=\"432\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"672\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">R. Yosei: as though sold back</text><g fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\"><rect x=\"482\" y=\"64\" width=\"380\" height=\"44\" rx=\"10\"/><rect x=\"482\" y=\"132\" width=\"380\" height=\"60\" rx=\"10\"/><rect x=\"482\" y=\"216\" width=\"380\" height=\"60\" rx=\"10\"/><rect x=\"482\" y=\"300\" width=\"380\" height=\"60\" rx=\"10\"/></g><g stroke=\"#9A6212\" stroke-width=\"3\"><line x1=\"672\" y1=\"108\" x2=\"672\" y2=\"122\"/><line x1=\"672\" y1=\"192\" x2=\"672\" y2=\"206\"/><line x1=\"672\" y1=\"276\" x2=\"672\" y2=\"290\"/></g><g fill=\"#9A6212\"><path d=\"M672 132 l-6 -10 h12 z\"/><path d=\"M672 216 l-6 -10 h12 z\"/><path d=\"M672 300 l-6 -10 h12 z\"/></g><text x=\"672\" y=\"91\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">The priest takes the leaner lamb</text><text x=\"672\" y=\"156\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">The kept lamb is treated as if it had entered</text><text x=\"672\" y=\"176\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">the priest’s possession</text><text x=\"672\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">and as if he sold it back to the owner,</text><text x=\"672\" y=\"260\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">blemished, for the lamb he received</text><text x=\"672\" y=\"324\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1A1F2E\">A firstborn bought from a priest:</text><text x=\"672\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">no priestly gifts are owed</text><text x=\"672\" y=\"392\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" font-style=\"italic\" fill=\"#6B4A1A\">asu she’eino zokheh ke’zokheh (Rava)</text><text x=\"672\" y=\"424\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#6B4A1A\">עשו שאינו זוכה כזוכה</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s7",
+     "title": "R. Elazar, No Replacement: R. Yosei's Own Reason, Not a Safeguard",
+     "amud": "18a–18b",
+     "text": {
+      "from": "18a.12",
+      "to": "18b.2"
+     },
+     "gist": "R. Elazar: where the priest received nothing, R. Yosei too requires the gifts. The Gemara shows this rules out reading R. Yosei as a safeguard, or as a merely tactical argument against R. Meir.",
+     "bullets": [
+      {
+       "text": "R. Elazar: all agree that a *safek bekhor* whose replacement is not in the priest's possession owes the *matanot kehunah*, as when a male and a female are born together and the priest receives neither.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Isn't that obvious? R. Yosei exempts only where the priest holds a replacement, since his reason is *asu she'eino zokheh ke'zokheh*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "It is needed, lest you say R. Yosei's reason is a safeguard: if the owner gives gifts from it, he will think the animal is fully non-sacred and come to shear it or work it. R. Elazar teaches that R. Yosei does require the gifts here.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Objection: the later Mishnah (18b) has R. Yosei say, “any animal whose replacements are in the priest's possession is exempt.” So without a replacement he plainly does not exempt.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: it is still needed, lest you say R. Yosei was arguing on R. Meir's terms: “In my view it is exempt even without a replacement, lest he shear and work it; but at least concede where the priest holds a replacement.” R. Meir replied, “No.” R. Elazar teaches that the replacement is R. Yosei's own reason.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Without an exchange, the priest's two-sided claim returns in full: either the whole animal is his or its gifts are.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "Rav Pappa's Uncertain Tithe: Principle, or Keeping the Gifts Remembered?",
+     "amud": "18b",
+     "text": {
+      "from": "18b.3",
+      "to": "18b.6"
+     },
+     "gist": "Rav Pappa: all agree an animal of uncertain tithe status owes no gifts, which shows that R. Meir does not obligate merely so the gifts are not forgotten.",
+     "bullets": [
+      {
+       "text": "Rav Pappa: all agree that an animal whose tithe status is uncertain is exempt from the *matanot kehunah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The case: a tithe animal is mixed with others and both are eaten by the owner once blemished. If this is the tithe, the priest has no share in it, so he cannot claim from two sides.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Isn't that obvious? R. Meir obligates only for a *safek bekhor*, where the priest comes from two sides, and that reasoning doesn't apply to the tithe.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "It is needed, lest you say R. Meir obligates so that the gifts are not forgotten, which would apply to an uncertain tithe as well.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Objection: the later Mishnah shows the dispute turns on the replacement in the priest's possession, whether he is treated as having acquired, not on forgetting.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: one might still say R. Meir obligates even for the tithe, and that the Mishnah framed the dispute around a replacement only to show how far R. Yosei goes: he exempts even where the priest comes from two sides. Rav Pappa teaches that R. Meir exempts the tithe case.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The upshot: both sides argue from the law itself, not from protective concerns.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "One Twin Dies: Divide or Ha'motzi Me'chavero Alav Ha're'ayah?",
+   "amud": "18b",
+   "text": {
+    "from": "18b.7",
+    "to": "18b.12"
+   },
+   "gist": "R. Tarfon's switch to dividing, explained as a retraction; R. Chiyya's parables of the shepherd and the homeowner; and the case they really dispute, a priest shepherding in the owner's courtyard.",
+   "bullets": [],
+   "chart": {
+    "caption": "When one animal has died: each view across the parables and the actual case",
+    "columns": [
+     "",
+     "Two sheep deposited with a shepherd",
+     "A sheep deposited with a homeowner",
+     "Priest shepherding in the owner's courtyard",
+     "Why"
+    ],
+    "rows": [
+     [
+      "R. Tarfon",
+      "Divide",
+      "*Ha'motzi me'chavero alav ha're'ayah*",
+      "Divide",
+      "The owner grants the priest a share of the courtyard so he can acquire the firstborn; he wants the mitzvah done"
+     ],
+     [
+      "R. Akiva",
+      "Divide",
+      "*Ha'motzi me'chavero alav ha're'ayah*",
+      "The survivor stays with the owner; the priest must bring proof",
+      "Facing a possible loss, the owner grants the priest nothing"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s10",
+     "title": "R. Tarfon Retracted: From the Better One to Dividing",
+     "amud": "18b",
+     "text": {
+      "from": "18b.7",
+      "to": "18b.7"
+     },
+     "gist": "By his own presumption R. Tarfon could tell whose lamb died, so R. Ami explains that he retracted and rules to divide in every case.",
+     "bullets": [
+      {
+       "text": "Mishnah: if one of the twins died, R. Tarfon says the priest and owner divide the survivor.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why divide? If the better one is presumed first, then if the better one died it was the priest's and the survivor is the owner's; if the leaner died, the survivor is the priest's.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Ami: R. Tarfon retracted his ruling that the priest takes the better one and ruled that they divide in all cases. The Mishnah was not emended.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s3",
+       "note": "Tests R. Tarfon's presumption that the healthier lamb came out first"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "R. Chiyya's Parables: Shepherd with Two Depositors, Homeowner with One",
+     "amud": "18b",
+     "text": {
+      "from": "18b.8",
+      "to": "18b.9"
+     },
+     "gist": "R. Tarfon's ruling resembles a shepherd holding two people's sheep; R. Akiva's resembles a homeowner holding a deposited sheep among his own.",
+     "bullets": [
+      {
+       "text": "R. Tarfon's view is like two people who each deposited a sheep with a shepherd, and one sheep died, whose is unknown: the shepherd sets the survivor between them and withdraws, and they divide. So the live lamb is in neither party's possession.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Akiva's view is like one who deposited a sheep with a homeowner who has sheep of his own, and one died: *ha'motzi me'chavero alav ha're'ayah*, so the depositor must prove the survivor is his. So the live lamb is in the owner's possession and the burden is on the priest.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Mishnah's lambs are born and kept on the owner's property, which looks like the homeowner case. This raises the question of what R. Tarfon's basis for dividing could be.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "The Real Dispute: A Priest Shepherding in the Owner's Courtyard",
+     "amud": "18b",
+     "text": {
+      "from": "18b.10",
+      "to": "18b.12"
+     },
+     "gist": "Rava (some say Rav Pappa): both parables are agreed; the dispute is whether an owner whose shepherd is a priest grants him a share of the courtyard.",
+     "bullets": [
+      {
+       "text": "Does either sage reject the other's parable? Surely not. Rava, and some say Rav Pappa: all agree the shepherd case is divided, and all agree that in the homeowner case *ha'motzi me'chavero alav ha're'ayah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "They disagree where the lambs were born in the owner's courtyard and the shepherd is a priest to whom the owner gives his firstborn.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Tarfon: the owner transfers a share of his courtyard to the priest so he can acquire the firstborn there, since he wants the mitzvah of giving it to be done. The priest has partial possession, as in the shepherd case, so they divide.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Akiva: since the owner stands to lose in a case of doubt, he transfers nothing. The courtyard is his alone, as in the homeowner case, so the burden of proof is on the priest.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This reframes the Mishnah's case: it is speaking of a priest serving as the flock's shepherd. Otherwise everyone would agree that the priest bears the burden.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "R. Chiyya's two parables, and the case that Rava (or Rav Pappa) says R. Tarfon and R. Akiva actually dispute when one of the twins has died (18b).",
+      "svg": "<svg viewBox=\"0 0 900 500\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Three scenes. A shepherd between two depositors with one surviving sheep; a homeowner and a depositor with one surviving sheep; an owner and a priest-shepherd inside the owner's courtyard with one surviving lamb.</title><rect width=\"900\" height=\"500\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"280\" height=\"472\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"155\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">Two depositors,</text><text x=\"155\" y=\"62\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">one shepherd</text><use href=\"#man\" x=\"35\" y=\"76\" width=\"45\" height=\"90\" style=\"color:#8C5A3C\"/><use href=\"#man\" x=\"118\" y=\"70\" width=\"50\" height=\"100\" style=\"color:#5E7D4F\"/><path d=\"M170 96 L174 170\" stroke=\"#7A5A3A\" stroke-width=\"3\"/><use href=\"#man\" x=\"215\" y=\"76\" width=\"45\" height=\"90\" style=\"color:#6A4F7A\"/><text x=\"57\" y=\"188\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">depositor</text><text x=\"143\" y=\"188\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">shepherd</text><text x=\"237\" y=\"188\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">depositor</text><use href=\"#lamb\" x=\"60\" y=\"200\" width=\"90\" height=\"63\"/><use href=\"#lamb\" x=\"160\" y=\"200\" width=\"90\" height=\"63\" opacity=\"0.35\"/><text x=\"105\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">survivor</text><text x=\"205\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">died</text><text x=\"155\" y=\"312\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">One died; it is unknown whose.</text><text x=\"155\" y=\"338\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">The shepherd sets the survivor</text><text x=\"155\" y=\"356\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">between them and withdraws:</text><text x=\"155\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">they divide it</text><text x=\"155\" y=\"446\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#5B6478\">All agree</text><text x=\"155\" y=\"466\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">R. Chiyya’s parable for R. Tarfon</text><rect x=\"310\" y=\"14\" width=\"280\" height=\"472\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">One depositor,</text><text x=\"450\" y=\"62\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">a homeowner</text><use href=\"#man\" x=\"355\" y=\"70\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"490\" y=\"76\" width=\"45\" height=\"90\" style=\"color:#8C5A3C\"/><text x=\"380\" y=\"188\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">homeowner</text><text x=\"512\" y=\"188\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">depositor</text><use href=\"#lamb\" x=\"355\" y=\"200\" width=\"90\" height=\"63\"/><use href=\"#lamb\" x=\"455\" y=\"200\" width=\"90\" height=\"63\" opacity=\"0.35\"/><text x=\"400\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">survivor</text><text x=\"500\" y=\"282\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">died</text><text x=\"450\" y=\"312\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">The sheep is among the homeowner’s:</text><text x=\"450\" y=\"338\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">the depositor must prove</text><text x=\"450\" y=\"356\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">the survivor is his:</text><text x=\"450\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">burden on the claimant</text><text x=\"450\" y=\"446\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#5B6478\">All agree</text><text x=\"450\" y=\"466\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">R. Chiyya’s parable for R. Akiva</text><rect x=\"605\" y=\"14\" width=\"280\" height=\"472\" rx=\"14\" fill=\"#ECE6F2\"/><text x=\"745\" y=\"40\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5A3E7A\">A priest as shepherd,</text><text x=\"745\" y=\"62\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5A3E7A\">in the owner’s courtyard</text><rect x=\"622\" y=\"76\" width=\"246\" height=\"200\" rx=\"6\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"745\" y=\"96\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5A4A3A\">the owner’s courtyard</text><use href=\"#man\" x=\"640\" y=\"104\" width=\"45\" height=\"90\" style=\"color:#6B6F3A\"/><use href=\"#man\" x=\"790\" y=\"104\" width=\"45\" height=\"90\" style=\"color:#4B5E8C\"/><text x=\"662\" y=\"208\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">owner</text><text x=\"812\" y=\"208\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">priest (shepherd)</text><use href=\"#lamb\" x=\"680\" y=\"214\" width=\"80\" height=\"56\"/><use href=\"#lamb\" x=\"765\" y=\"214\" width=\"80\" height=\"56\" opacity=\"0.35\"/><text x=\"745\" y=\"304\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">R. Tarfon: he grants the priest</text><text x=\"745\" y=\"322\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1B3A8A\">a share of the courtyard: divide</text><text x=\"745\" y=\"352\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">R. Akiva: facing a possible loss,</text><text x=\"745\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#9A6212\">he grants nothing: the burden</text><text x=\"745\" y=\"388\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#9A6212\">of proof is on the priest</text><text x=\"745\" y=\"446\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#5B6478\">The case they actually dispute</text><text x=\"745\" y=\"466\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">(Rava, or some say Rav Pappa)</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "title": "Mishnah: Two Ewes — Both to the Priest, One, or Nothing",
+   "amud": "18b",
+   "text": {
+    "from": "18b.13",
+    "to": "18b.16"
+   },
+   "gist": "The Mishnah applies the same rules to two ewes, first where neither had given birth before and then where one had. In the second case R. Yosei states his rule about a replacement in the priest's possession.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The Mishnah's cases for two ewes, in its order (18b), and what the priest receives in each.",
+    "svg": "<svg viewBox=\"0 0 900 540\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Six rows of offspring born to two ewes, marked male or female, with what the priest receives in each case.</title><rect width=\"900\" height=\"540\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Two ewes giving birth: what goes to the priest?</text><text x=\"30\" y=\"64\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">Neither ewe had given birth before</text><rect x=\"20\" y=\"76\" width=\"860\" height=\"58\" rx=\"8\" fill=\"#E3EAF3\"/><rect x=\"20\" y=\"140\" width=\"860\" height=\"58\" rx=\"8\" fill=\"#F1F4F8\"/><rect x=\"20\" y=\"204\" width=\"860\" height=\"58\" rx=\"8\" fill=\"#E3EAF3\"/><rect x=\"20\" y=\"268\" width=\"860\" height=\"58\" rx=\"8\" fill=\"#F1F4F8\"/><text x=\"30\" y=\"356\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">One ewe had given birth before, one had not</text><rect x=\"20\" y=\"368\" width=\"860\" height=\"58\" rx=\"8\" fill=\"#F3E6D8\"/><rect x=\"20\" y=\"432\" width=\"860\" height=\"58\" rx=\"8\" fill=\"#F8EFE6\"/><g fill=\"#4B5E8C\"><rect x=\"36\" y=\"93\" width=\"48\" height=\"24\" rx=\"12\"/><rect x=\"88\" y=\"93\" width=\"48\" height=\"24\" rx=\"12\"/><rect x=\"36\" y=\"157\" width=\"48\" height=\"24\" rx=\"12\"/><rect x=\"36\" y=\"221\" width=\"48\" height=\"24\" rx=\"12\"/><rect x=\"88\" y=\"221\" width=\"48\" height=\"24\" rx=\"12\"/><rect x=\"160\" y=\"285\" width=\"48\" height=\"24\" rx=\"12\"/><rect x=\"246\" y=\"285\" width=\"48\" height=\"24\" rx=\"12\"/><rect x=\"298\" y=\"285\" width=\"48\" height=\"24\" rx=\"12\"/><rect x=\"36\" y=\"385\" width=\"48\" height=\"24\" rx=\"12\"/><rect x=\"88\" y=\"385\" width=\"48\" height=\"24\" rx=\"12\"/><rect x=\"36\" y=\"449\" width=\"48\" height=\"24\" rx=\"12\"/></g><g fill=\"#A8436E\"><rect x=\"88\" y=\"157\" width=\"58\" height=\"24\" rx=\"12\"/><rect x=\"140\" y=\"221\" width=\"58\" height=\"24\" rx=\"12\"/><rect x=\"36\" y=\"285\" width=\"58\" height=\"24\" rx=\"12\"/><rect x=\"98\" y=\"285\" width=\"58\" height=\"24\" rx=\"12\"/><rect x=\"350\" y=\"285\" width=\"58\" height=\"24\" rx=\"12\"/><rect x=\"412\" y=\"285\" width=\"58\" height=\"24\" rx=\"12\"/><rect x=\"88\" y=\"449\" width=\"58\" height=\"24\" rx=\"12\"/></g><g font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#FFFFFF\" text-anchor=\"middle\"><text x=\"60\" y=\"109\">male</text><text x=\"112\" y=\"109\">male</text><text x=\"60\" y=\"173\">male</text><text x=\"117\" y=\"173\">female</text><text x=\"60\" y=\"237\">male</text><text x=\"112\" y=\"237\">male</text><text x=\"169\" y=\"237\">female</text><text x=\"65\" y=\"301\">female</text><text x=\"127\" y=\"301\">female</text><text x=\"184\" y=\"301\">male</text><text x=\"270\" y=\"301\">male</text><text x=\"322\" y=\"301\">male</text><text x=\"379\" y=\"301\">female</text><text x=\"441\" y=\"301\">female</text><text x=\"60\" y=\"401\">male</text><text x=\"112\" y=\"401\">male</text><text x=\"60\" y=\"465\">male</text><text x=\"117\" y=\"465\">female</text></g><text x=\"221\" y=\"301\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">or</text><g font-family=\"Public Sans, system-ui, sans-serif\" fill=\"#1A1F2E\" text-anchor=\"start\"><text x=\"490\" y=\"100\" font-size=\"14\" font-weight=\"600\">Both go to the priest</text><text x=\"490\" y=\"120\" font-size=\"13\" font-weight=\"400\">each is its mother’s firstborn</text><text x=\"490\" y=\"164\" font-size=\"14\" font-weight=\"600\">The male goes to the priest</text><text x=\"490\" y=\"184\" font-size=\"13\" font-weight=\"400\">it is its mother’s firstborn</text><text x=\"490\" y=\"228\" font-size=\"14\" font-weight=\"600\">One male goes to the priest</text><text x=\"490\" y=\"248\" font-size=\"13\" font-weight=\"400\">R. Tarfon: the better; R. Akiva: the leaner</text><text x=\"490\" y=\"292\" font-size=\"14\" font-weight=\"600\">The priest gets nothing</text><text x=\"490\" y=\"312\" font-size=\"13\" font-weight=\"400\">perhaps both ewes bore a female first</text><text x=\"490\" y=\"392\" font-size=\"14\" font-weight=\"600\">One male goes to the priest</text><text x=\"490\" y=\"412\" font-size=\"13\" font-weight=\"400\">same disputes; R. Yosei exempts from the gifts</text><text x=\"490\" y=\"456\" font-size=\"14\" font-weight=\"600\">Everyone agrees: the priest gets nothing</text><text x=\"490\" y=\"476\" font-size=\"13\" font-weight=\"400\">perhaps the male came from the ewe that had given birth</text></g><text x=\"450\" y=\"522\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">Bekhorot 18b · the Mishnah’s cases, in its order</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s14",
+     "title": "Neither Ewe Had Given Birth Before",
+     "amud": "18b",
+     "text": {
+      "from": "18b.13",
+      "to": "18b.14"
+     },
+     "gist": "Two males or a male and a female give the priest certain firstborn; two males and a female bring back all the disputes; more females leave the priest nothing.",
+     "bullets": [
+      {
+       "text": "Two males: both go to the priest. A male and a female: the male goes to the priest. In each case the male is its mother's firstborn.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Two males and a female: one male is the owner's and one the priest's. R. Tarfon: the priest chooses the better; R. Akiva: they assess, and the priest takes the leaner. The other grazes until it is blemished.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "One of the ewes must have borne a male first, so one male is certainly a firstborn; which one is unknown.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The owner must give the *matanot kehunah* from the lamb he keeps; R. Yosei exempts. If one lamb died: R. Tarfon, they divide; R. Akiva, *ha'motzi me'chavero alav ha're'ayah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Two females and a male, or two males and two females: the priest gets nothing, since perhaps both ewes bore a female first.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "One Ewe Had Given Birth Before: R. Yosei States His Rule",
+     "amud": "18b",
+     "text": {
+      "from": "18b.15",
+      "to": "18b.16"
+     },
+     "gist": "Two males repeat every dispute, now with R. Yosei's explicit rule and R. Meir named; a male and a female give the priest nothing.",
+     "bullets": [
+      {
+       "text": "Two males: one is the owner's and one the priest's, with the same dispute of R. Tarfon and R. Akiva. The second lamb grazes until it is blemished.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Gifts: R. Yosei exempts, since “any animal whose replacements are in the priest's possession is exempt from the priestly gifts.” R. Meir obligates.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If one lamb died: R. Tarfon, they divide; R. Akiva, *ha'motzi me'chavero alav ha're'ayah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A male and a female: everyone agrees the priest gets nothing, since perhaps the ewe that had given birth bore the male.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is the clause the Gemara cited earlier to name R. Meir and to pin R. Yosei's reason to the replacement.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "title": "Why Three Cases? Size and Health Don't Prove Birth Order",
+   "amud": "18b–19a",
+   "text": {
+    "from": "18b.17",
+    "to": "19a.1"
+   },
+   "gist": "Each of the three twin cases is needed, because in each one might have thought R. Akiva concedes that the stronger male is the firstborn.",
+   "bullets": [
+    {
+     "text": "This Mishnah and the previous one give three cases where R. Akiva gives the priest the leaner lamb and R. Tarfon the better one.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "From the one-ewe case alone, one might say R. Akiva holds his view only there: both came from one womb, so there is no reason the better one came first.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Two first-time ewes with two males and a female: one might say R. Akiva concedes, since the superior male may be the one from the ewe that bore a single offspring.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "From that case alone, one might limit R. Akiva to two first-time ewes. Where one ewe had given birth before, he might concede that the offspring of the first-time ewe is the superior one. So each case is needed.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rashi: the R. Tarfon in view here is the one of the first clause (the better one), not the later “divide”; and a single birth is usually sturdier than a twin.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "Together the cases show that for R. Akiva, however suggestive the evidence, size and health never establish birth order.",
+     "detail": 2,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "The three twin cases, and why each might have seemed to favor R. Tarfon",
+    "columns": [
+     "Case",
+     "Where it appears",
+     "Why R. Akiva might have conceded"
+    ],
+    "rows": [
+     [
+      "One ewe, two males whose heads emerged together",
+      "The previous Mishnah (17a)",
+      "He wouldn't: one womb gives no reason to think the better came first"
+     ],
+     [
+      "Two first-time ewes: two males and a female",
+      "This Mishnah, first part",
+      "The better male may be the single offspring of one ewe"
+     ],
+     [
+      "One ewe had given birth, one had not: two males",
+      "This Mishnah, second part",
+      "The offspring of the first-time ewe may be the superior one"
+     ]
+    ]
+   },
+   "returns_to": [
+    {
+     "id": "s3",
+     "note": "Returns to R. Tarfon's presumption that the better lamb came out first"
+    }
+   ],
+   "children": []
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "efshar le'tzamtzem",
+   "hebrew": "אפשר לצמצם",
+   "sense": "whether two measures can coincide exactly",
+   "definition": "The question whether two events or measurements, such as two births at one instant or two equal distances, can be treated as exactly equal. Those who say i efshar le'tzamtzem hold that exact coincidence is never assumed.",
+   "on_this_daf": "The Rabbis' ruling of one conditional heifer shows they say i efshar le'tzamtzem even for matters in human hands.",
+   "aliases": [
+    "i efshar le'tzamtzem"
+   ],
+   "sections": [
+    "s1"
+   ]
+  },
+  {
+   "term": "eglah arufah",
+   "hebrew": "עגלה ערופה",
+   "sense": "the heifer whose neck is broken",
+   "definition": "The rite for an unsolved killing (Devarim 21): the elders of the town nearest the corpse break a heifer's neck and declare their innocence.",
+   "on_this_daf": "For a corpse exactly between two towns, R. Eliezer requires two heifers and the Rabbis one heifer with a stipulation.",
+   "aliases": [
+    "eglah arufah"
+   ],
+   "sections": [
+    "s1"
+   ]
+  },
+  {
+   "term": "safek bekhor",
+   "hebrew": "ספק בכור",
+   "sense": "an animal of uncertain firstborn status",
+   "definition": "An animal that may or may not be a firstborn. Because it may be sacred, it may not be shorn or worked, and its owner eats it only after it becomes blemished.",
+   "on_this_daf": "Twin males of unknown birth order raise who takes which lamb, and whether the owner's lamb owes the priestly gifts.",
+   "aliases": [
+    "safek bekhor"
+   ],
+   "sections": [
+    "s2",
+    "s5",
+    "s7",
+    "s8",
+    "s13",
+    "s16"
+   ]
+  },
+  {
+   "term": "matanot kehunah",
+   "hebrew": "מתנות כהונה",
+   "sense": "foreleg, jaw and maw given to a priest",
+   "definition": "The foreleg, the jaw and the maw of a non-sacred ox, sheep or goat slaughtered for food, which the owner gives to a priest (Devarim 18:3).",
+   "on_this_daf": "R. Meir obligates the owner to give them from the lamb he keeps; R. Yosei exempts where the priest holds a replacement.",
+   "aliases": [
+    "matanot kehunah"
+   ],
+   "sections": [
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "s14",
+    "s15"
+   ]
+  },
+  {
+   "term": "asu she'eino zokheh ke'zokheh",
+   "hebrew": "עשו שאינו זוכה כזוכה",
+   "sense": "treating one who did not acquire as having acquired",
+   "definition": "A rabbinic device by which the Sages treat a person as having acquired something he never actually took into his possession.",
+   "on_this_daf": "Rava explains R. Yosei: the kept lamb is treated as if it came to the priest and he sold it back blemished, so it owes no gifts.",
+   "aliases": [
+    "asu she'eino zokheh ke'zokheh",
+    "Asu she'eino zokheh ke'zokheh"
+   ],
+   "sections": [
+    "s6",
+    "s7"
+   ]
+  },
+  {
+   "term": "ha'motzi me'chavero alav ha're'ayah",
+   "hebrew": "המוציא מחבירו עליו הראיה",
+   "sense": "the burden of proof on the claimant",
+   "definition": "The rule that one who seeks to take money or property from another's possession must bring proof; without proof, the holder keeps it.",
+   "on_this_daf": "R. Akiva's basis for leaving the surviving lamb with the owner, and, as R. Yochanan reads him, for giving the priest the leaner lamb.",
+   "aliases": [
+    "ha'motzi me'chavero alav ha're'ayah",
+    "Ha'motzi Me'chavero Alav Ha're'ayah"
+   ],
+   "sections": [
+    "s4",
+    "s9",
+    "s11",
+    "s12",
+    "s14",
+    "s15"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The Gemara on the earlier Mishnah (18a.7–18b.12) is split into three top-level sections following the Mishnah's clauses: which lamb the priest takes, the gifts, and the death of one twin. One top-level section with three children would also work; each clause is a self-contained discussion, so each stands on its own.",
+  "R. Elazar and Rav Pappa are children of the gifts dispute, since both only clarify R. Meir's and R. Yosei's reasons. They could stand as separate top-level sections.",
+  "The death clause (s9) could sit under s2, because R. Yochanan already cited it there. It is kept where the Gemara takes it up, with R. Tarfon's retraction linked back to his presumption (s3).",
+  "The Gemara's 'why three cases' (18b.17–19a.1) is its own top-level section, not a child of the new Mishnah, because it also covers the previous Mishnah's case. It is linked back to R. Tarfon's presumption.",
+  "The new Mishnah is split into two children by whether a ewe had given birth before. A single section with bullets alone would also be reasonable."
+ ],
+ "coverage_notes": [
+  "18a.1–18a.5 (R. Eliezer following R. Yosei HaGelili; the first tanna's baraita and the kerova reading; Rav Amram's baraita) fall before this outline's scope, though the essay discusses them. They are referred to only as background in s1.",
+  "The essay leaves the Rabbis' view on human-hands precision framed as an open tannaitic dispute. The text (18a.6) concludes that the Rabbis hold it impossible even in human hands. Followed the text.",
+  "The essay says that when one twin dies R. Akiva gives the priest the dead animal, or the lesser one. The text says the surviving lamb remains with the owner, since the burden of proof is on the claimant. Followed the text.",
+  "The essay presents the objection from the later Mishnah (18a.15–18b.1) as the Gemara's final refutation of the safeguard reading of R. Yosei, and moves the 'R. Yosei argued on R. Meir's terms' answer into the Rav Pappa discussion. In the text that answer (18b.2) resolves the objection within R. Elazar's discussion. Followed the text's order and conclusion.",
+  "The essay says the Gemara rejects the 'so the gifts are not forgotten' reading of R. Meir on the basis of the latter clause. In the text that is an objection (18b.5), answered at 18b.6: the Mishnah framed the dispute to show how far R. Yosei goes, and Rav Pappa teaches that R. Meir exempts the uncertain tithe. Followed the text.",
+  "The essay attributes the shepherd and homeowner parables to 'the Gemara'; the text gives them in the name of R. Chiyya. Followed the text.",
+  "The essay has R. Yochanan acknowledge that his reading of meshammenin is forced. The text has him say only that it was explained from the latter clause. The forcedness is kept as shiur analysis."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s13",
+    "subject": "The Mishnah's cases by offspring and outcome",
+    "why_not": "The illustration already lays out every case and ruling; a chart would repeat it."
+   },
+   {
+    "section": "s7",
+    "subject": "The steps of R. Elazar's exchange",
+    "why_not": "A sequence of question, answer, objection and answer, not a grid."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s16",
+    "subject": "The three twin configurations side by side",
+    "why_not": "The chart carries the comparison, and the configurations are already drawn in the Mishnah picture."
+   },
+   {
+    "section": "s8",
+    "subject": "A tithe animal mixed into the flock",
+    "why_not": "The point is a legal argument about the priest's claim, with little to see."
+   },
+   {
+    "section": "s10",
+    "subject": "R. Tarfon's retraction",
+    "why_not": "No scene or comparison beyond what the bullets state."
+   }
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+3 dafim x 2 runs (opus55_medium, opus55_high) = 6 requests; system prompt 71,933 chars (cached)
+  shabbat_21               user prompt 70,473 chars
+  niddah_60                user prompt 91,580 chars
+  bava_batra_84            user prompt 55,132 chars
+Submitted opus55_medium batch msgbatch_017ZQ5QstngnBTy6KeiadsK3 (3 requests)
+Submitted opus55_high batch msgbatch_019zi9gfTWXN8XTnudvt9r24 (3 requests)
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    in_progress: succeeded=0 processing=3 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=3 errored=0
+  opus55_high    ended: succeeded=3 processing=0 errored=0
+  wrote outline/results/bava_batra_84/04_outline_opus55_high.json
+  wrote outline/results/niddah_60/04_outline_opus55_high.json
+  wrote outline/results/shabbat_21/04_outline_opus55_high.json
+  opus55_medium  ended: succeeded=3 processing=0 errored=0
+  wrote outline/results/shabbat_21/04_outline_opus55_medium.json
+  wrote outline/results/niddah_60/04_outline_opus55_medium.json
+    check: chart in 'Which Gentile? Seen Blood, Fit to See, or Any at All' has sages as column headers ["Rav Sheshet's reading", "Rava's reading"]: check the orientation
+  wrote outline/results/bava_batra_84/04_outline_opus55_medium.json
+    check: chart in 'R. Ya'akov's Report: Basket Acquires, Ground Does Not' has sages as column headers ["R. Yochanan's ruling"]: check the orientation
