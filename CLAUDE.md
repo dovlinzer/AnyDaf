@@ -1811,6 +1811,11 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   (e.g. after a tap on a line). The bar keeps the daf picker and that switch; the rest folds
   behind an Options button (`#more`, `display:contents` on wide screens). Testing in a collapsed browser pane: animation frames, scroll
   events and smooth scrolls don't run there, so the sync looks broken when it isn't.
+- Resources (2026-09-29): a pop-out listing the YCT Torah Library's items for the daf, the same
+  lookup as the apps' `ResourcesManager`/`YCTLibraryClient` (tractate term -> daf terms -> posts,
+  for library posts, psak posts and library `audio`), run in the reader's browser (the sites allow
+  it by CORS), grouped on this daf / within two dafim / elsewhere in the tractate, deduplicated by
+  title. Unlike the apps it pages past the first 100 posts. Items open on the library's site.
 - `daf-processor/upload_study_aids.py` loads outlines + key terms into `daf_study_aids`
   (`study-aids-migration.sql`); sanitizes SVG and drops the editorial `judgment_calls` /
   `coverage_notes`.

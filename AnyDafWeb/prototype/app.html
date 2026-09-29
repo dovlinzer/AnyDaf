@@ -201,6 +201,21 @@ body.dragging{cursor:col-resize;user-select:none}
 .sage details p{margin:4px 0 0;max-width:62ch}
 .sage .links{font-size:12px;margin-top:6px}.sage .links a{color:var(--link);margin-right:12px}
 
+/* resources pop-out */
+#rwin{width:min(460px,calc(100vw - 32px));right:72px;top:96px}
+.rlist{overflow-y:auto;flex:1;padding:4px 14px 14px}
+.rlist h3,.rlist summary{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:14px 0 4px}
+.rlist summary{cursor:pointer}
+.res{display:block;padding:10px 4px;border-top:1px solid var(--line);color:var(--ink);text-decoration:none}
+.res:hover .rt{text-decoration:underline}
+.res .rt{font:600 1rem/1.3 var(--serif);color:var(--blue);margin:3px 0 0}
+.res .rm{font-size:12px;color:var(--muted)}
+.res .rx{font-size:13.5px;color:var(--muted);margin:4px 0 0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.res .rs{font:600 10.5px var(--sans);letter-spacing:.04em;text-transform:uppercase;border-radius:999px;padding:1px 8px;background:var(--grey-soft);color:var(--muted)}
+.res .rs.audio{background:var(--amber-soft);color:var(--amber)}
+.res .rd{font:500 11.5px var(--sans);color:var(--teal);margin-left:6px}
+.rlist .none{color:var(--muted);font-size:13.5px;margin:12px 0}
+#resBtn .n{font-size:11px;opacity:.75;margin-left:4px}
 /* "Outline" joins the Daf / Gemara / Shiur switch only on a phone, where one side shows at a time. */
 .seg .ph{display:none}
 /* On wide screens the options sit in the bar as they always did; on a phone they fold behind
@@ -266,6 +281,7 @@ __SPRITE__
  <button class="btn" id="railBtn" aria-pressed="false" title="Show the contents beside the outline (wide screens)">Contents</button>
  <button class="btn" id="glossBtn" aria-pressed="false">Glossary</button>
  <button class="btn" id="sagesBtn" aria-pressed="false">Sages</button>
+ <button class="btn" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
  <button class="btn" id="notesBtn" type="button" title="Notes you've sent on this daf">Feedback</button>
  </div>
  <div class="seg" id="paneSeg" role="group" aria-label="Beside the outline"><button data-p="outline" class="ph">Outline</button><button data-p="page">Daf</button><button data-p="text" aria-pressed="true">Gemara</button><button data-p="shiur">Shiur</button></div>
@@ -309,6 +325,10 @@ __SPRITE__
  <div class="stl" id="stl"></div>
  <div class="sgrip" id="sgrip" role="separator" aria-orientation="horizontal" aria-label="Resize the timeline" title="Drag to show more or less of the timeline · double-click to reset"></div>
  <div class="slist" id="slist"></div>
+</div>
+<div class="gwin" id="rwin" hidden role="dialog" aria-labelledby="rwinTitle">
+ <header id="rwinBar"><h2 id="rwinTitle">Resources</h2><button type="button" id="rwinClose" aria-label="Close resources">×</button></header>
+ <div class="rlist" id="rlist" aria-live="polite"></div>
 </div>
 <dialog class="fb" id="fbDlg"><form method="dialog" id="fbForm">
  <h3>Send a note on this outline</h3><p class="where" id="fbWhere"></p>
@@ -388,6 +408,7 @@ function renderDaf(d){
  amudShown=null;showAmud(d.amudim.find(a=>d.images[a]));
  outPane.scrollTop=0;textPane.scrollTop=0;shiurPane.scrollTop=0;
  renderSages(d.sages||[]);$('sagesBtn').hidden=!(d.sages||[]).length;
+ countResources();if(!$('rwin').hidden)showResources();
  if(secs.length)setCurrent(secs[0].id);
 }
 
@@ -565,7 +586,7 @@ document.querySelectorAll('#paneSeg button').forEach(b=>b.onclick=()=>{const p=b
 // Phone options menu: opens and closes from its button, and closes after opening a window.
 function setMore(open){document.querySelector('.bar').classList.toggle('open',open);$('moreBtn').setAttribute('aria-expanded',String(open))}
 $('moreBtn').onclick=()=>setMore($('moreBtn').getAttribute('aria-expanded')!=='true');
-['glossBtn','sagesBtn','notesBtn'].forEach(id=>$(id).addEventListener('click',()=>{if(narrow.matches)setMore(false)}));
+['glossBtn','sagesBtn','resBtn','notesBtn'].forEach(id=>$(id).addEventListener('click',()=>{if(narrow.matches)setMore(false)}));
 narrow.addEventListener('change',()=>{markPaneSeg();if(current){const c=current;current=null;setCurrent(c)}});
 function setRail(on){$('main').classList.toggle('rail',on);$('railBtn').setAttribute('aria-pressed',String(on));prefs.rail=on;savePrefs()}
 $('railBtn').onclick=()=>setRail(!$('main').classList.contains('rail'));
@@ -581,7 +602,7 @@ $('gq').oninput=e=>gloss&&gloss.filter(e.target.value);
 function setGOrder(o){prefs.gOrder=o;savePrefs();document.querySelectorAll('#gOrder button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.o===o)));gloss&&gloss.setOrder(o)}
 $('gOrder').onclick=e=>{const b=e.target.closest('[data-o]');if(b)setGOrder(b.dataset.o)};
 if(prefs.gOrder)document.querySelectorAll('#gOrder button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.o===prefs.gOrder)));
-[['gwin','gwinBar'],['swin','swinBar']].forEach(([wid,hid])=>{const w=$(wid),h=$(hid);let s=null;
+[['gwin','gwinBar'],['swin','swinBar'],['rwin','rwinBar']].forEach(([wid,hid])=>{const w=$(wid),h=$(hid);let s=null;
  h.addEventListener('pointerdown',e=>{if(e.target.closest('button')||matchMedia('(max-width:860px)').matches)return;const r=w.getBoundingClientRect();s={x:e.clientX-r.left,y:e.clientY-r.top};h.setPointerCapture(e.pointerId)});
  h.addEventListener('pointermove',e=>{if(!s)return;w.style.left=Math.max(0,Math.min(innerWidth-80,e.clientX-s.x))+'px';w.style.top=Math.max(0,Math.min(innerHeight-40,e.clientY-s.y))+'px';w.style.right='auto'});
  h.addEventListener('pointerup',()=>s=null)});
@@ -680,6 +701,81 @@ let zTop=20;function front(w){w.style.zIndex=++zTop}
 ['gwin','swin'].forEach(id=>$(id).addEventListener('pointerdown',()=>front($(id))));
 
 
+
+// ---------- resources: the YCT Torah Library on this daf ----------
+// The same lookup as the apps (ResourcesManager / YCTLibraryClient): find the tractate's term in
+// each site's "reference" taxonomy, then its daf terms, then every post tagged with any of them,
+// and group by distance from this daf. The sites allow reads from this page (CORS), so this runs
+// in the reader's browser; one set of requests per tractate, kept for the visit.
+const RES_SOURCES=[
+ {id:'library',label:'Library',base:'https://library.yctorah.org/wp-json/wp/v2',rest:'posts',parent:1899,tractateLevel:false},
+ {id:'psak',label:'Rosh Yeshiva Responds',base:'https://psak.yctorah.org/wp-json/wp/v2',rest:'posts',parent:null,tractateLevel:true},
+ {id:'audio',label:'Audio',base:'https://library.yctorah.org/wp-json/wp/v2',rest:'audio',parent:1899,tractateLevel:true}];
+// AnyDaf's tractate names where the library's differ (anyDafToYCT in the apps).
+const YCT_NAME={'Eiruvin':'Eruvin','Ta’anit':'Taanit','Taanit':'Taanit','Hullin':'Chullin','Middos':'Middot','Beitzah':'Beitza','Zevachim':'Zevahim','Rosh Hashanah':'Rosh HaShanah','Shevuot':"Shevu'ot"};
+const NON_ENGLISH=['-he','-fr','-sp','-ar','-ru','-de','-pt'];
+const resCache={};
+const textOf=h=>{const d=document.createElement('div');d.innerHTML=h||'';return (d.textContent||'').replace(/\s+/g,' ').trim()};
+async function getJSON(u){const r=await fetch(u);if(!r.ok)throw new Error(r.status);return r.json()}
+async function fetchSource(src,tractate){
+ const name=YCT_NAME[tractate]||tractate;
+ const terms=await getJSON(`${src.base}/reference?search=${encodeURIComponent(name)}&per_page=10${src.parent?`&parent=${src.parent}`:''}`);
+ const t=terms.find(x=>String(x.name).toLowerCase()===name.toLowerCase());if(!t)return [];
+ const kids=await getJSON(`${src.base}/reference?parent=${t.id}&per_page=100`);
+ const termToDaf={};kids.forEach(k=>{const n=parseInt(String(k.name).split(' ').pop(),10);if(n)termToDaf[k.id]=n});
+ if(src.tractateLevel)termToDaf[t.id]=0;
+ const ids=Object.keys(termToDaf);if(!ids.length)return [];
+ const out=[];
+ for(let page=1;page<=5;page++){   // 100 a page; the apps stop at the first page
+  let posts;try{posts=await getJSON(`${src.base}/${src.rest}?reference=${ids.join(',')}&per_page=100&page=${page}&_fields=id,title,excerpt,content,date,link,slug,reference,_links,_embedded&_embed=author`)}catch(e){if(page>1)break;throw e}
+  for(const p of posts){if(NON_ENGLISH.some(s=>p.slug.endsWith(s)))continue;
+   const dafs=[...new Set((p.reference||[]).map(id=>termToDaf[id]).filter(d=>d!=null))];
+   const specific=dafs.filter(d=>d).sort((a,b)=>a-b);
+   const content=(p.content||{}).rendered||'',isAudio=/<audio/i.test(content)||src.id==='audio';
+   let ex=textOf((p.excerpt||{}).rendered).replace(/\s*(Continue Reading|Read More)\s*[»›…]*\s*$/i,'');
+   if(!ex&&content){const full=textOf(content.replace(/<div class="powerpress_player"[\s\S]*?<\/div>/g,'').replace(/<p class="powerpress_links[\s\S]*?<\/p>/g,''));ex=full.length>200?full.slice(0,200).trim()+'…':full}
+   if(src.id==='psak')ex=ex.replace(/^QUE[ST]{2}ION\s+[^,]{1,40},\s*[A-Z]{2}\s+/i,'');
+   const au=((p._embedded||{}).author||[])[0];
+   out.push({id:src.id+p.id,title:textOf(p.title.rendered),excerpt:ex,link:p.link,date:p.date,author:au&&au.name||'',
+    source:src,isAudio,daf:specific[0]||0,dafs:specific})}
+  if(posts.length<100)break}
+ return out}
+function loadResources(tractate){
+ if(!resCache[tractate])resCache[tractate]=Promise.all(RES_SOURCES.map(s=>fetchSource(s,tractate).catch(()=>null)))
+  .then(lists=>{const seen=new Map();   // one entry per title across sources, the newest kept
+   lists.flat().filter(Boolean).forEach(a=>{const k=a.title.toLowerCase().trim(),o=seen.get(k);
+    if(!o){seen.set(k,a);return}const dafs=[...new Set([...o.dafs,...a.dafs])].sort((x,y)=>x-y);
+    const keep=a.date>o.date?a:o;keep.dafs=dafs;keep.daf=keep.daf||dafs[0]||0;seen.set(k,keep)});
+   return {items:[...seen.values()],failed:lists.filter(l=>l===null).length}});
+ return resCache[tractate]}
+const dafNumOf=d=>parseInt((String(d.title).match(/\d+/)||['0'])[0],10);
+async function showResources(){if(!D)return;const d=D,daf=dafNumOf(d);
+ $('rwinTitle').textContent=`Resources · ${d.tractate} ${daf}`;
+ const L=$('rlist');L.innerHTML='<p class="none">Looking in the YCT Torah Library…</p>';
+ let r;try{r=await loadResources(d.tractate)}catch(e){r={items:[],failed:3}}
+ if(D!==d)return;
+ // near = within two dafim, the apps' rule; a teshuva tagged only to the tractate goes last
+ const on=[],near=[],rest=[];
+ r.items.forEach(a=>{const hit=a.dafs.includes(daf);if(hit)on.push(a);else if(a.dafs.some(x=>Math.abs(x-daf)<=2))near.push(a);else rest.push(a)});
+ const close=a=>a.dafs.reduce((m,x)=>Math.min(m,Math.abs(x-daf)),99);
+ near.sort((a,b)=>close(a)-close(b));rest.sort((a,b)=>(a.daf||1e4)-(b.daf||1e4));
+ const date=s=>{try{return new Date(s).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'numeric'})}catch(e){return ''}};
+ const card=a=>{const where=a.dafs.length?`${d.tractate} ${a.dafs.slice(0,4).join(', ')}${a.dafs.length>4?'…':''}`:`${d.tractate}, general`;
+  return `<a class="res" href="${esc(a.link)}" target="_blank" rel="noopener"><span class="rs${a.isAudio?' audio':''}">${a.isAudio?'🎧 ':''}${esc(a.isAudio&&a.source.id!=='audio'?'Audio':a.source.label)}</span><span class="rd">${esc(where)}</span>
+   <p class="rt">${esc(a.title)}</p><p class="rm">${esc([a.author,date(a.date)].filter(Boolean).join(' · '))}</p>${a.excerpt?`<p class="rx">${esc(a.excerpt)}</p>`:''}</a>`};
+ L.innerHTML=(on.length?`<h3>On this daf</h3>${on.map(card).join('')}`:`<p class="none">Nothing in the library is tagged to ${esc(d.tractate)} ${daf} yet.</p>`)
+  +(near.length?`<h3>Nearby dafim</h3>${near.map(card).join('')}`:'')
+  +(rest.length?`<details><summary>Elsewhere in ${esc(d.tractate)} (${rest.length})</summary>${rest.map(card).join('')}</details>`:'')
+  +(r.failed?`<p class="none">${r.failed===3?"Couldn't reach the library. Check your connection and open Resources again.":'One of the library sites didn\'t answer, so this list may be incomplete.'}</p>`:'')
+  +`<p class="credit">From library.yctorah.org and psak.yctorah.org. Items open on the library's site.</p>`;
+ if(r.failed===3)delete resCache[d.tractate]}
+// The button shows how many items are on this daf itself, once the tractate's list is in.
+function countResources(){const d=D;if(!d)return;$('resBtn').innerHTML='Resources';
+ loadResources(d.tractate).then(r=>{if(D!==d)return;const n=r.items.filter(a=>a.dafs.includes(dafNumOf(d))).length;
+  $('resBtn').innerHTML=`Resources${n?`<span class="n">${n}</span>`:''}`}).catch(()=>{})}
+$('resBtn').onclick=()=>{const open=$('rwin').hidden;$('rwin').hidden=!open;$('resBtn').setAttribute('aria-pressed',String(open));if(open){front($('rwin'));showResources()}};
+$('rwinClose').onclick=()=>{$('rwin').hidden=true;$('resBtn').setAttribute('aria-pressed','false')};
+$('rwin').addEventListener('pointerdown',()=>front($('rwin')));
 
 // ---------- reader feedback ----------
 // FEEDBACK = {url, key}: notes are sent to Supabase's outline_feedback table (insert only).
