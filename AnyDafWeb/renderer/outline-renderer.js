@@ -11,6 +11,7 @@
  *   // sages: [{aliases: [English spellings]}] -> each sage's first mention on the daf becomes a
  *   // button (.ado-sage, data-sage = index); onSage(i) opens the host's sages panel
  *   view.setGlanceDepth(1..5) // levels shown in the inline "At a glance" list (default 2)
+ *   // the inline list starts folded (glanceOpen: false); onGlanceOpen(bool) reports the reader's choice
  *   view.sections            // [{id, title, from, to, depth, el, head}] in document order
  *   view.scrollToSection(id)
  *   view.markCurrent(id)
@@ -183,7 +184,7 @@
    * depth control sits in the list's own header and changes only the list, never the outline.
    * Inline at the top of the outline it can fold away; in its own panel (which the host shows or
    * hides as a whole) it is always open. */
-  function glanceHTML(outline, foldable, depth) {
+  function glanceHTML(outline, foldable, depth, open) {
     const tops = outline.sections || [];
     if (tops.length < 2 && !(tops[0]?.children || []).length) return "";
     const max = outlineDepth(outline);
@@ -196,7 +197,7 @@
       `<button type="button" data-gd="${k}" aria-pressed="${k === d}"${k > max ? " disabled" : ""}>${k}</button>`).join("")}</div>`;
     const list = `<ol>${tops.map((n) => item(n, 1)).join("")}</ol>`;
     return foldable
-      ? `<nav class="ado-glance" aria-label="At a glance"><details open><summary>At a glance</summary>${ctl}${list}</details></nav>`
+      ? `<nav class="ado-glance" aria-label="At a glance"><details${open ? " open" : ""}><summary>At a glance</summary>${ctl}${list}</details></nav>`
       : `<nav class="ado-glance" aria-label="At a glance"><div class="ado-glhead"><h2 class="ado-glh">At a glance</h2>${ctl}</div>${list}</nav>`;
   }
 
@@ -219,11 +220,15 @@
     if (scroll && last) last.scrollIntoView({ block: "nearest" });
   }
 
-  function mountGlance(el, outline, { foldable, depth = 2, onSection, onDepth, scroll }) {
+  function mountGlance(el, outline, { foldable, depth = 2, open = false, onSection, onDepth, onOpen, scroll }) {
     const owners = glanceOwners(outline);
-    let d = depth, marked = null;
-    const draw = () => { el.innerHTML = glanceHTML(outline, foldable, d); if (marked) markGlance(el, owners, marked, false); };
+    let d = depth, marked = null, isOpen = open;
+    const draw = () => { el.innerHTML = glanceHTML(outline, foldable, d, isOpen); if (marked) markGlance(el, owners, marked, false); };
     draw();
+    // "toggle" doesn't bubble, so listen in the capture phase; the open state survives redraws.
+    if (el._adoToggle) el.removeEventListener("toggle", el._adoToggle, true);
+    el._adoToggle = (e) => { if (e.target.tagName !== "DETAILS") return; isOpen = e.target.open; onOpen && onOpen(isOpen); };
+    el.addEventListener("toggle", el._adoToggle, true);
     if (el._adoGlance) el.removeEventListener("click", el._adoGlance);
     el._adoGlance = (e) => {
       const k = e.target.closest("[data-gd]");
@@ -246,7 +251,7 @@
 
   function render(container, opts) {
     const { outline, keyTerms = [], onTerm, onSection, glance = true, glanceDepth = 2, onGlanceDepth,
-            sages = [], onSage } = opts;
+            glanceOpen = false, onGlanceOpen, sages = [], onSage } = opts;
     const markTerms = termMatcher(keyTerms), markSages = sageMatcher(sages);
     const mark = markTerms || markSages
       ? (html, seen, sageSeen) => { if (markTerms) html = markTerms(html, seen); return markSages ? markSages(html, sageSeen) : html; }
@@ -295,7 +300,7 @@
     });
     const byId = Object.fromEntries(sections.map((s) => [s.id, s]));
     const inline = glance ? mountGlance(container.querySelector(".ado-glwrap"), outline, {
-      foldable: true, depth: glanceDepth, onDepth: onGlanceDepth,
+      foldable: true, depth: glanceDepth, onDepth: onGlanceDepth, open: glanceOpen, onOpen: onGlanceOpen,
       onSection: (id) => { scrollToSection(id); onSection && onSection(id); } }) : null;
 
     function scrollToSection(id, behavior = "smooth") {

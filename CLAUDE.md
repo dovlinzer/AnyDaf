@@ -1800,7 +1800,17 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   done with CSS `zoom` on the content, so pane scrolling uses on-screen positions (`posIn`), not
   `offsetTop`; draggable dividers on both edges of the outline column (`--gemw` 22–70% of the
   page, `--railw` 160–420px; double-click resets); Contents button filled when on and placed over
-  its column.
+  its column. "At a glance" starts closed (author, 2026-09-29): the Contents column is off and
+  the inline list folded until the reader opens them, then remembered (`prefs.rail`,
+  `prefs.glanceOpen`; renderer `glanceOpen` / `onGlanceOpen`).
+- Phones (≤860px, 2026-09-29): one side at a time. The Daf / Gemara / Shiur switch gains an
+  "Outline" button (`.ph`), and `setView()` flips `#main[data-view]`. With "Follow the outline"
+  on, `setCurrent` leaves the hidden side alone and each side catches up when shown: to the text,
+  the current section's first line; back to the outline, the section of the Gemara/shiur line at
+  the top of the text if the reader scrolled it there (`textMoved`), else the current section
+  (e.g. after a tap on a line). The bar keeps the daf picker and that switch; the rest folds
+  behind an Options button (`#more`, `display:contents` on wide screens). Testing in a collapsed browser pane: animation frames, scroll
+  events and smooth scrolls don't run there, so the sync looks broken when it isn't.
 - `daf-processor/upload_study_aids.py` loads outlines + key terms into `daf_study_aids`
   (`study-aids-migration.sql`); sanitizes SVG and drops the editorial `judgment_calls` /
   `coverage_notes`.

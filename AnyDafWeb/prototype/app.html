@@ -201,12 +201,28 @@ body.dragging{cursor:col-resize;user-select:none}
 .sage details p{margin:4px 0 0;max-width:62ch}
 .sage .links{font-size:12px;margin-top:6px}.sage .links a{color:var(--link);margin-right:12px}
 
+/* "Outline" joins the Daf / Gemara / Shiur switch only on a phone, where one side shows at a time. */
+.seg .ph{display:none}
+/* On wide screens the options sit in the bar as they always did; on a phone they fold behind
+   an Options button, leaving the daf picker and the view switch. */
+.more{display:contents}
+#moreBtn{display:none}
 @media (max-width:860px){
- .main{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1.2fr) minmax(0,1fr)}
+ .seg .ph{display:inline-block}
+ .bar{gap:8px 10px;padding:8px 12px}
+ .bar .sub{display:none}
+ #moreBtn{display:inline-block}
+ #moreBtn[aria-expanded="true"]{background:var(--blue);border-color:var(--blue);color:var(--panel)}
+ #paneSeg{order:2}
+ .more{display:none;order:3;flex-basis:100%;flex-wrap:wrap;gap:8px 14px;align-items:center;padding-top:6px;border-top:1px solid var(--line)}
+ .bar.open .more{display:flex}
+ .more .spacer{display:none}
+ #sideBtn{display:none}
+ .main,.main.textleft{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1fr)}
+ .main[data-view="outline"] .gem{display:none}
+ .main[data-view="text"] #outCol{display:none}
  .gutter{display:none!important}
- .gem,.main.textleft .gem{border-left:0;border-right:0;border-top:1px solid var(--line)}
- .main.textleft .gem{border-top:0;border-bottom:1px solid var(--line)}
- .main.textleft{grid-template-columns:minmax(0,1fr)}
+ .gem,.main.textleft .gem{border:0}
  .out{padding:14px 16px 30vh}.text{padding:6px 10px 30vh}
  .bar h1{flex-basis:100%}
  .gwin{left:0;right:0;top:auto;bottom:0;width:auto;height:60%;border-radius:12px 12px 0 0;resize:none;padding-bottom:env(safe-area-inset-bottom,0px)}
@@ -239,20 +255,23 @@ __SPRITE__
 <div class="bar">
  <label class="sr" for="dafPick" hidden>Daf</label>
  <select class="pick" id="dafPick" aria-label="Daf"></select><span class="sub">Study outline</span>
+ <button class="btn" id="moreBtn" type="button" aria-expanded="false" aria-controls="more">Options</button>
+ <div class="more" id="more">
  <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
  <label class="tog"><input type="checkbox" id="optShiur" checked> Shiur insights</label>
  <label class="tog"><input type="checkbox" id="optCharts" checked> Charts</label>
  <label class="tog"><input type="checkbox" id="optPictures" checked> Pictures</label>
  <label class="tog"><input type="checkbox" id="optSages" checked> Sages</label>
  <span class="spacer"></span>
- <button class="btn" id="railBtn" aria-pressed="true" title="Show the contents beside the outline (wide screens)">Contents</button>
+ <button class="btn" id="railBtn" aria-pressed="false" title="Show the contents beside the outline (wide screens)">Contents</button>
  <button class="btn" id="glossBtn" aria-pressed="false">Glossary</button>
  <button class="btn" id="sagesBtn" aria-pressed="false">Sages</button>
  <button class="btn" id="notesBtn" type="button" title="Notes you've sent on this daf">Feedback</button>
- <div class="seg" id="paneSeg" role="group" aria-label="Beside the outline"><button data-p="page">Daf</button><button data-p="text" aria-pressed="true">Gemara</button><button data-p="shiur">Shiur</button></div>
+ </div>
+ <div class="seg" id="paneSeg" role="group" aria-label="Beside the outline"><button data-p="outline" class="ph">Outline</button><button data-p="page">Daf</button><button data-p="text" aria-pressed="true">Gemara</button><button data-p="shiur">Shiur</button></div>
  <button class="iconbtn" id="sideBtn" type="button" aria-label="Move the text to the other side">⇄ Swap sides</button>
 </div>
-<div class="main rail" id="main">
+<div class="main" id="main" data-view="outline">
  <nav class="railp" aria-label="At a glance"><div class="zoomable" id="rail"></div></nav>
  <div class="col" id="outCol">
   <div class="pane" id="outPane"><div class="out zoomable" id="outZoom"><div class="terms" id="terms"></div><div id="outline"><p class="loading">Loading…</p></div></div></div>
@@ -353,6 +372,7 @@ function renderDaf(d){
  // The contents list's depth is one setting shared by its two copies (side column, top of outline).
  const gd=prefs.glanceDepth||2,onDepth=n=>{prefs.glanceDepth=n;savePrefs();view&&view.setGlanceDepth(n);railView&&railView.setDepth(n)};
  view=AnyDafOutline.render($('outline'),{outline:d.outline,keyTerms:terms,onTerm:i=>openGloss(i),onSection:id=>setCurrent(id,true),glanceDepth:gd,onGlanceDepth:onDepth,
+  glanceOpen:prefs.glanceOpen===true,onGlanceOpen:o=>{prefs.glanceOpen=o;savePrefs()},
   sages:d.sages||[],onSage:i=>openSage(i)});
  railView=AnyDafOutline.glance($('rail'),d.outline,{onSection:id=>setCurrent(id,true),depth:gd,onDepth});
  applyOptions();
@@ -446,7 +466,8 @@ function setCurrent(id,fromClick){
  $('now').innerHTML=`Reading <b>${md(s.title)}</b> · ${esc(s.amud||'')}`
   +(ranged?'':`<span class="approx">This outline predates line links, so the text follows by amud only.</span>`);
  if(fromClick){outHold=Date.now()+900;view.scrollToSection(id)}
- if(!$('syncTog').checked||Date.now()<textHold)return;
+ if(!$('syncTog').checked||Date.now()<textHold||textHidden())return;   // a hidden side catches up when shown
+ textMoved=false;
  if(mode==='page'){showAmud(ranged?pageAmudFor(s):s.am);markLayout(s);if(Date.now()>pageTapHold)scrollPageTo();return}
  if(mode==='text'){let top=null;
   if(ranged){const i=itemOrd.findIndex(o=>o>=s.a);if(i>=0)top=posIn(textPane,itemEls[i])}
@@ -464,9 +485,9 @@ function sectionAtLine(){const line=outPane.getBoundingClientRect().top+110;let 
  for(const s of secs){const r=s.el.getBoundingClientRect();if(r.top<=line&&r.bottom>line)best=s}
  return best||secs[0]}
 outPane.addEventListener('scroll',()=>{if(raf||Date.now()<outHold||!secs.length)return;raf=requestAnimationFrame(()=>{raf=0;setCurrent(sectionAtLine().id)})},{passive:true});
-['wheel','touchmove','keydown'].forEach(ev=>[textPane,shiurPane].forEach(p=>p.addEventListener(ev,()=>textHold=Date.now()+1500,{passive:true})));
-$('text').onclick=e=>{const it=e.target.closest('.item');if(!it)return;const s=sectionForOrder(itemOrd[+it.dataset.i]);if(s){textHold=Date.now()+1500;setCurrent(s.id,true)}};
-$('shiur').onclick=e=>{const q=e.target.closest('.quote');if(!q)return;const s=sectionForOrder(+q.dataset.o);if(s){textHold=Date.now()+1500;setCurrent(s.id,true)}};
+['wheel','touchmove','keydown'].forEach(ev=>[textPane,shiurPane].forEach(p=>p.addEventListener(ev,()=>{textHold=Date.now()+1500;textMoved=true},{passive:true})));
+$('text').onclick=e=>{const it=e.target.closest('.item');if(!it)return;const s=sectionForOrder(itemOrd[+it.dataset.i]);if(s){textHold=Date.now()+1500;textMoved=false;setCurrent(s.id,true)}};
+$('shiur').onclick=e=>{const q=e.target.closest('.quote');if(!q)return;const s=sectionForOrder(+q.dataset.o);if(s){textHold=Date.now()+1500;textMoved=false;setCurrent(s.id,true)}};
 
 // ---------- size sliders (AnyTorah web's six steps) ----------
 const FONT_LEVELS=[-2,-1,0,2,4,6],FONT_LABELS={'-2':'Smallest','-1':'Small','0':'Default','2':'Large','4':'Larger','6':'Largest'};
@@ -516,10 +537,36 @@ document.querySelectorAll('#levels button').forEach(b=>b.onclick=()=>{prefs.leve
 function setLang(l){$('gem').dataset.lang=l;document.querySelectorAll('#langSeg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.l===l)));prefs.lang=l;savePrefs()}
 document.querySelectorAll('#langSeg button').forEach(b=>b.onclick=()=>setLang(b.dataset.l));
 function setPane(p){mode=p;
- document.querySelectorAll('#paneSeg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.p===p)));
  $('textPane').hidden=p!=='text';$('shiurPane').hidden=p!=='shiur';$('pagePane').hidden=p!=='page';$('langSeg').hidden=p==='page';
- prefs.pane=p;savePrefs();setupGemSlider();if(current){const c=current;current=null;setCurrent(c)}}
-document.querySelectorAll('#paneSeg button').forEach(b=>b.onclick=()=>setPane(b.dataset.p));
+ prefs.pane=p;savePrefs();markPaneSeg();setupGemSlider();if(current){const c=current;current=null;setCurrent(c)}}
+// On a phone the outline and the text side take turns on the screen; "Outline" in the same switch
+// flips between them. With "Follow the outline" on, each side opens where the other left off.
+const narrow=matchMedia('(max-width:860px)');
+let phoneView='outline',textMoved=false;
+const textHidden=()=>narrow.matches&&phoneView==='outline';
+function markPaneSeg(){document.querySelectorAll('#paneSeg button').forEach(x=>x.setAttribute('aria-pressed',String(
+ narrow.matches&&phoneView==='outline'?x.dataset.p==='outline':x.dataset.p===mode)))}
+// The section for the Gemara or shiur line at the top of the text side, when the reader scrolled it
+// there themselves; otherwise (or on the daf page) the section already current.
+function textSection(){const cur=secs.find(x=>x.id===current);if(!textMoved||mode==='page')return cur;
+ const pane=mode==='text'?textPane:shiurPane,top=pane.getBoundingClientRect().top+30;
+ const els=mode==='text'?itemEls:quoteEls,i=els.findIndex(el=>{const r=el.getBoundingClientRect();return r.height&&r.bottom>top});
+ if(i<0)return cur;const o=mode==='text'?itemOrd[i]:+els[i].dataset.o;
+ return cur&&cur.a!=null&&o>=cur.a&&o<=cur.b?cur:(sectionForOrder(o)||cur)}
+function setView(v){const was=phoneView,sync=$('syncTog').checked&&narrow.matches&&v!==was&&!!D;
+ const s=sync&&v==='outline'?textSection():null;   // read before the text side is hidden
+ phoneView=v;$('main').dataset.view=v;markPaneSeg();
+ if(!sync)return;
+ if(v==='text'){if(current){const c=current;current=null;textHold=0;requestAnimationFrame(()=>setCurrent(c))}}
+ else if(s){outHold=Date.now()+900;if(s.id!==current)setCurrent(s.id);requestAnimationFrame(()=>view.scrollToSection(s.id,'auto'))}}
+document.querySelectorAll('#paneSeg button').forEach(b=>b.onclick=()=>{const p=b.dataset.p;
+ if(p==='outline'){setView('outline');return}
+ if(p!==mode)setPane(p);if(narrow.matches)setView('text')});
+// Phone options menu: opens and closes from its button, and closes after opening a window.
+function setMore(open){document.querySelector('.bar').classList.toggle('open',open);$('moreBtn').setAttribute('aria-expanded',String(open))}
+$('moreBtn').onclick=()=>setMore($('moreBtn').getAttribute('aria-expanded')!=='true');
+['glossBtn','sagesBtn','notesBtn'].forEach(id=>$(id).addEventListener('click',()=>{if(narrow.matches)setMore(false)}));
+narrow.addEventListener('change',()=>{markPaneSeg();if(current){const c=current;current=null;setCurrent(c)}});
 function setRail(on){$('main').classList.toggle('rail',on);$('railBtn').setAttribute('aria-pressed',String(on));prefs.rail=on;savePrefs()}
 $('railBtn').onclick=()=>setRail(!$('main').classList.contains('rail'));
 function setSide(left){$('main').classList.toggle('textleft',left);document.body.classList.toggle('textleft',left);prefs.left=left;savePrefs()}
@@ -703,11 +750,11 @@ async function load(key){
 }
 pick.onchange=()=>load(pick.value);
 if(prefs.left===true)setSide(true);
-if(prefs.rail===false)setRail(false);
+if(prefs.rail===true)setRail(true);
 if(prefs.lang)setLang(prefs.lang);
 if(prefs.level){const b=document.querySelector(`#levels button[data-lv="${prefs.level}"]`);if(b)document.querySelectorAll('#levels button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)))}
 if(prefs.pane)setPane(prefs.pane);
-setupGemSlider();
+markPaneSeg();setupGemSlider();
 
 // ---------- adjustable dividers ----------
 const main=$('main');
