@@ -164,6 +164,18 @@ daf's terms link to master entries from the start. Not built; awaiting the autho
 - [ ] Pop-outs in their own window (BroadcastChannel sync); then charts, pictures, mind map.
 - [ ] Daf picker, glossary pages, link-only access.
 - [ ] Extended-sugya / mind-map view (the original third study aid).
+- [x] (2026-09-29) Prototype: navigation over all of Shas, Today's daf yomi, Resources pop-out,
+      shiur audio with outline/text following and play-from-a-line, phone layout.
+- [x] Section pills in the audio panel and the Gemara window; audio panel under the Gemara,
+      light blue (2026-09-29).
+- [ ] **Print** the outline with its pictures and charts (author, 2026-09-29): a print
+      stylesheet that lays out the outline at the chosen detail level, keeps charts and pictures
+      whole on a page, drops the controls and text side; maybe options for which parts to include.
+- [ ] **Export as a Google Doc** (author, 2026-09-29): the outline, charts as tables, pictures
+      as images. Needs a way to write to the reader's Google Drive (Google sign-in + Docs API, or
+      a .docx the reader uploads); decide which.
+- [ ] Niddah 60 / Berakhot 31: check by ear whether the SoundCloud audio has an intro that
+      throws the line timing off (their recordings run 28 s / 61 s longer than the transcripts).
 
 ## Phone apps (iOS + Android)
 

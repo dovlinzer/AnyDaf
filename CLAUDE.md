@@ -1856,6 +1856,15 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   "Go to it" / "Play this daf instead". Lock-screen controls via Media Session. Testing in a
   collapsed browser pane: the browser won't play media there (AbortError); fake `aud.paused`
   and dispatch `timeupdate` to test the following.
+- Audio panel and section pills (2026-09-29, author): the panel sits under the Gemara window on
+  wide screens (`placeAbar()` moves it; full width at the foot on a phone, where the sides take
+  turns), light blue (`--audio-bg`), the scrubber a strip across its top. Section pills as in the
+  apps, from the segmentation's macro segments (`shiur_sections()` in build_prototype.py, in each
+  sync file's `segs`: time, display_title, and the line where the section sits: the first line read
+  aloud from 30 s before it starts, since section times are approximate; not `sefaria_index`,
+  which carries forward). In the audio panel a pill plays from the section; in the Gemara window
+  it moves the Gemara / shiur (to the matching ## heading) / daf page there and the outline with
+  it. Lit pills follow the audio and the top of the text.
 - `daf-processor/upload_study_aids.py` loads outlines + key terms into `daf_study_aids`
   (`study-aids-migration.sql`); sanitizes SVG and drops the editorial `judgment_calls` /
   `coverage_notes`.

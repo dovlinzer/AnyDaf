@@ -323,6 +323,42 @@ def slug_t(name: str) -> str:
     return name.replace("’", "'").replace(" ", "_")
 
 
+def mmss(ts: str) -> float | None:
+    try:
+        parts = [float(x) for x in str(ts).split(":")]
+    except ValueError:
+        return None
+    return sum(v * 60 ** i for i, v in enumerate(reversed(parts)))
+
+
+def shiur_sections(dname: str | None, lines: dict) -> list[dict]:
+    """The shiur's sections, as the apps' chapter pills: [{t, title, l}] from the segmentation's
+    macro segments (display_title = the essay's ## heading). `l` is where the section sits in the
+    Gemara: the first line read aloud after it starts, else the last one before it. Not its stored
+    sefaria_index, which a section with no quote carries forward from the one before (Bava Metzia
+    11's first four sections all say line 1, though they teach 10b)."""
+    if not dname:
+        return []
+    try:
+        seg = json.loads((DP / "output" / dname / "01_segmentation.json").read_text(encoding="utf-8", errors="replace"))
+    except Exception:
+        return []
+    timed = sorted(lines.items(), key=lambda kv: kv[1])
+    macros = [(mmss(m.get("timestamp")), m.get("display_title") or m.get("title") or "") for m in seg.get("macro_segments") or []]
+    macros = [(t, title) for t, title in macros if t is not None and title]
+    out = []
+    for i, (t, title) in enumerate(macros):
+        nxt = macros[i + 1][0] if i + 1 < len(macros) else float("inf")
+        # section times are approximate: a line read up to 30 s before one still opens it
+        # (Omed B'Tzad Sadehu starts at 22:16; its line, 11a.6, is read at 22:00)
+        start = max(t - 30, macros[i - 1][0] if i else -1)
+        inside = [l for l, s in timed if start <= s < nxt]
+        before = [l for l, s in timed if s < start]
+        after = [l for l, s in timed if s >= t]
+        out.append({"t": t, "title": title, "l": inside[0] if inside else (before[-1] if before else (after[0] if after else None))})
+    return out
+
+
 def write_sync(out: Path, key: str) -> int:
     """Audio for every daf: sync/<Tractate>_<daf>.json = {episodes: [{daf, url, lines}]}, one
     episode per shiur (a daf can have one per amud: N and N.5), `lines` = {line label: seconds}
@@ -338,13 +374,16 @@ def write_sync(out: Path, key: str) -> int:
             break
         off += 1000
     times = json.loads(LINE_TIMES.read_text(encoding="utf-8")) if LINE_TIMES.exists() else {}
-    by_daf = {}
-    for t in times.values():
-        by_daf[(APP_NAME.get(t["tractate"], t["tractate"]), float(t["daf"]))] = t["lines"]
+    by_daf, dir_of = {}, {}
+    for dname, t in times.items():
+        k = (APP_NAME.get(t["tractate"], t["tractate"]), float(t["daf"]))
+        by_daf[k], dir_of[k] = t["lines"], dname
     eps = {}
     for r in rows:
         t, d = APP_NAME.get(r["tractate"], r["tractate"]), float(r["daf"])
-        eps.setdefault((t, int(d)), []).append({"daf": d, "url": r["audio_url"], "lines": by_daf.get((t, d), {})})
+        lines = by_daf.get((t, d), {})
+        eps.setdefault((t, int(d)), []).append({"daf": d, "url": r["audio_url"], "lines": lines,
+                                               "segs": shiur_sections(dir_of.get((t, d)), lines)})
     (out / "sync").mkdir(parents=True, exist_ok=True)
     for (t, n), e in eps.items():
         (out / "sync" / f"{slug_t(t)}_{n}.json").write_text(

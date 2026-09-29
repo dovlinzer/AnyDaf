@@ -5,10 +5,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;1,6..72,500&family=Public+Sans:wght@400;500;600&family=Frank+Ruhl+Libre:wght@400;500;700&display=swap">
 <style>
-:root{--ground:#F4F5F9;--panel:#FFFFFF;--ink:#1A1F2E;--muted:#5B6478;--line:#DCE0EA;--blue:#1B3A8A;--teal:#2C6A6E;--teal-line:#B9D3D4;--amber:#9A6212;--amber-soft:#FBF1DF;--grey-soft:#EEF0F4;--link:#6B4FA0;--term:#E4EAF8;--current:#1B3A8A;--range:#EAF0FB;--range-edge:#1B3A8A;--shadow:0 12px 40px rgba(20,30,60,.18);
+:root{--ground:#F4F5F9;--panel:#FFFFFF;--ink:#1A1F2E;--muted:#5B6478;--line:#DCE0EA;--blue:#1B3A8A;--teal:#2C6A6E;--teal-line:#B9D3D4;--amber:#9A6212;--amber-soft:#FBF1DF;--grey-soft:#EEF0F4;--link:#6B4FA0;--term:#E4EAF8;--current:#1B3A8A;--range:#EAF0FB;--range-edge:#1B3A8A;--shadow:0 12px 40px rgba(20,30,60,.18);--audio-bg:#E6EEFC;--audio-line:#C5D4F2;
 --serif:"Newsreader",Georgia,"Times New Roman",serif;--sans:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--hebrew:"Frank Ruhl Libre","Times New Roman",serif}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--ok:#7CC48A;--no:#EE8F8F}}
-:root[data-theme="dark"]{color-scheme:dark;--ok:#7CC48A;--no:#EE8F8F;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--ok:#7CC48A;--no:#EE8F8F;--audio-bg:#1A2744;--audio-line:#2C3D63}}
+:root[data-theme="dark"]{color-scheme:dark;--ok:#7CC48A;--no:#EE8F8F;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--audio-bg:#1A2744;--audio-line:#2C3D63}
 html,body{height:100%}
 /* the height Safari actually shows, toolbars and all, so the audio bar at the foot isn't hidden under them */
 @supports (height:100dvh){body{height:100dvh}}
@@ -211,11 +211,19 @@ body.dragging{cursor:col-resize;user-select:none}
 .sage .links{font-size:12px;margin-top:6px}.sage .links a{color:var(--link);margin-right:12px}
 
 /* audio bar: the day's shiur, and the sides following it */
-.abar{flex:none;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;padding:7px 14px calc(7px + env(safe-area-inset-bottom,0px));border-top:1px solid var(--line);background:var(--panel);font-size:12.5px;color:var(--muted)}
+.abar{flex:none;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;padding:7px 14px calc(7px + env(safe-area-inset-bottom,0px));border-top:1px solid var(--audio-line);background:var(--audio-bg);font-size:12.5px;color:var(--muted)}
+.abar .askip,.abar .seg{background:var(--panel)}
+/* section pills, as in the apps: the shiur's sections in the audio panel and the Gemara window */
+.pills{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:1px 0 2px;flex-basis:100%;min-width:0}
+.pills::-webkit-scrollbar{display:none}
+.pills button{flex:none;font:500 12px var(--sans);white-space:nowrap;border:1px solid var(--line);border-radius:999px;padding:3px 10px;background:var(--panel);color:var(--ink);cursor:pointer}
+.pills button.on{background:var(--blue);border-color:var(--blue);color:var(--panel)}
+.pills button:disabled{opacity:.4;cursor:default}
 .aplay{width:38px;height:38px;border-radius:50%;border:0;background:var(--blue);color:var(--panel);font-size:15px;cursor:pointer;flex:none}
 .askip{font:600 12px var(--sans);border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:999px;padding:4px 9px;cursor:pointer;font-variant-numeric:tabular-nums}
 .atime{font-variant-numeric:tabular-nums;min-width:3.2em;text-align:center}
-#aSeek{flex:1 1 160px;min-width:120px;accent-color:var(--blue)}
+/* the scrubber is a strip across the top of the panel, so the controls and Follow fit on one row */
+#aSeek{order:-1;flex:1 1 100%;margin:0;accent-color:var(--blue)}
 .afl{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase}
 .anote{flex-basis:100%;font-size:12px;color:var(--amber)}
 .anote:empty{display:none}
@@ -345,6 +353,7 @@ __SPRITE__
    <div class="seg lang" id="langSeg" role="group" aria-label="Language"><button data-l="he" aria-label="Hebrew only">א</button><button data-l="both" aria-pressed="true" aria-label="Hebrew and English">אA</button><button data-l="en" aria-label="English only">A</button></div>
    <label class="tog"><input type="checkbox" id="syncTog" checked> Follow the outline</label>
    <div class="now" id="now" aria-live="polite"></div>
+   <div class="pills" id="gPills" role="group" aria-label="Sections of the shiur: go to" hidden></div>
   </div>
   <div class="pane" id="textPane"><div class="text zoomable" id="text"></div></div>
   <div class="pane" id="shiurPane" hidden><div class="shiur zoomable" id="shiur"></div></div>
@@ -371,6 +380,7 @@ __SPRITE__
  <span class="afl">Follow</span><div class="seg" id="aFollow" role="group" aria-label="While the audio plays, follow it in">
   <button type="button" data-f="out" title="The outline moves to the section being taught">Outline</button><button type="button" data-f="text" title="The Gemara, shiur or daf page moves to the line being read">Text</button></div>
  <span class="anote" id="aNote" aria-live="polite"></span>
+ <div class="pills" id="aPills" role="group" aria-label="Sections of the shiur: play from" hidden></div>
  <audio id="aud" preload="none"></audio>
 </div>
 <div class="gwin" id="gwin" hidden role="dialog" aria-labelledby="gwinTitle">
@@ -909,7 +919,7 @@ function drawBar(){const bar=$('abar');
   $('aGo').onclick=()=>{const [t,n]=A.id.split('|');goDaf(t,+n)};if($('aThis'))$('aThis').onclick=()=>switchTo(S).then(play)}
  else note.textContent=A.tl[A.ep].length?'':'This shiur has no line timing yet, so only the audio plays.';
  if('mediaSession' in navigator)navigator.mediaSession.metadata=new MediaMetadata({title:A.title+(A.eps.length>1?` (${epLabel(A.eps[A.ep])})`:''),album:'AnyDaf'})}
-function switchTo(a){aud.pause();A=a;unskim();return setEp(0)}
+function switchTo(a){aud.pause();A=a;unskim();drawPills();return setEp(0)}
 async function play(){if(!A)return;if(!aud.getAttribute('src'))await setEp(A.ep);unskim();
  try{await aud.play()}catch(e){$('aNote').textContent="The audio didn't start. Check your connection and press play again."}}
 function unskim(){skim.out=skim.text=false;$('backOut').hidden=$('backText').hidden=true;lastLine=null}
@@ -919,7 +929,7 @@ async function audioForDaf(d){const sync=await loadSync(d);if(D!==d)return;
  if(A&&!aud.paused&&(!S||A.id!==S.id)){}               // another daf's shiur is playing: it keeps playing
  else if(A&&S&&A.id===S.id){A.tl=S.tl}                 // the same daf (another outline version): keep the place
  else{aud.pause();A=S;aud.removeAttribute('src');aud.load()}   // otherwise the bar offers this daf's shiur
- drawBar();addPlayButtons();tick()}
+ drawBar();drawPills();addPlayButtons();tick()}
 $('aPlay').onclick=()=>{if(aud.paused)play();else aud.pause()};
 $('aBack').onclick=()=>{aud.currentTime=Math.max(0,aud.currentTime-15);lastLine=null};
 $('aFwd').onclick=()=>{aud.currentTime=aud.currentTime+15;lastLine=null};
@@ -980,7 +990,7 @@ function timeFor(o){if(!S)return null;
  return null}
 function playFrom(o){const at=timeFor(o);
  if(!at){$('aNote').textContent=S?"This line isn't read in the shiur.":'There is no recorded shiur for this daf.';return}
- if(!A||A.id!==S.id){aud.pause();A=S;aud.removeAttribute('src')}
+ if(!A||A.id!==S.id){aud.pause();A=S;aud.removeAttribute('src');drawPills()}
  if(A.ep!==at.ep||!aud.getAttribute('src'))setEp(at.ep,Math.max(0,at.t-1)).then(play);
  else{aud.currentTime=Math.max(0,at.t-1);play()}}
 // ▶ on every outline heading: play from the section's first line.
@@ -998,6 +1008,53 @@ function lineTap(el,o){const now=Date.now(),dbl=lastTap.el===el&&now-lastTap.t<4
  if(S&&S.tl.some(t=>t.length)&&timeFor(o)){const b=document.createElement('button');b.type='button';b.className='pfh';b.textContent='▶ Play from here';
   b.onclick=ev=>{ev.stopPropagation();b.remove();playFrom(o)};(el.querySelector(':scope > div')||el).appendChild(b)}
  return false}
+
+// The audio panel sits under the Gemara window on wide screens; on a phone, where the Gemara and
+// the outline take turns, it spans the foot of the screen so it's there on both.
+function placeAbar(){const bar=$('abar');
+ if(narrow.matches){if(bar.previousElementSibling!==$('main'))$('main').after(bar)}
+ else if(bar.parentElement!==$('gem'))$('gem').appendChild(bar)}
+placeAbar();narrow.addEventListener('change',placeAbar);
+
+// ---------- section pills, as in the apps ----------
+// The shiur's own sections (the segmentation's macro segments: time, title, and the line where
+// each sits in the Gemara; build_prototype.shiur_sections). In the audio panel a pill plays from
+// that section; in the Gemara window it takes the text there (and the outline, as a tap on the
+// line does). The lit pill follows the audio, or what's at the top of the text.
+let aSegs=[],gSegs=[],pillsFor=[null,null];
+const segsOf=a=>a?a.eps.flatMap((e,ep)=>(e.segs||[]).map(s=>({...s,ep}))):[];
+function drawPills(){
+ if(pillsFor[0]!==A){pillsFor[0]=A;aSegs=segsOf(A);$('aPills').hidden=aSegs.length<2;
+  $('aPills').innerHTML=aSegs.map((s,i)=>`<button type="button" data-i="${i}" title="Play from ${fmtT(s.t)}${A.eps.length>1?` (${epLabel(A.eps[s.ep])})`:''}">${esc(s.title)}</button>`).join('')}
+ if(pillsFor[1]!==S||$('gPills').dataset.daf!==D.key){pillsFor[1]=S;$('gPills').dataset.daf=D.key;
+  gSegs=segsOf(S);$('gPills').hidden=gSegs.length<2;
+  $('gPills').innerHTML=gSegs.map((s,i)=>`<button type="button" data-i="${i}"${s.l&&D.order[s.l]!=null?'':' disabled'}>${esc(s.title)}</button>`).join('')}
+ markAPill();markGPill()}
+function lightPill(strip,i){const on=strip.querySelector('.on');if(on&&+on.dataset.i===i)return;if(on)on.classList.remove('on');
+ const b=strip.querySelector(`[data-i="${i}"]`);if(!b)return;b.classList.add('on');
+ const sr=strip.getBoundingClientRect(),br=b.getBoundingClientRect();
+ if(br.left<sr.left||br.right>sr.right)strip.scrollTo({left:strip.scrollLeft+br.left-sr.left-sr.width/2+br.width/2,behavior:'smooth'})}
+function markAPill(){if(!A||!aSegs.length)return;const t=aud.currentTime;let i=aSegs.findIndex(s=>s.ep===A.ep);
+ aSegs.forEach((s,k)=>{if(s.ep===A.ep&&s.t<=t)i=k});if(i>=0)lightPill($('aPills'),i)}
+// Gemara window: the section whose line is the last at or above the top of the text in view.
+function markGPill(){if(!gSegs.length||!D)return;let top=null;
+ if(mode==='text'){const pr=textPane.getBoundingClientRect().top+40,i=itemEls.findIndex(el=>el.getBoundingClientRect().bottom>pr);if(i>=0)top=itemOrd[i]}
+ else if(mode==='shiur'){const pr=shiurPane.getBoundingClientRect().top+40,q=quoteEls.find(el=>el.getBoundingClientRect().bottom>pr);if(q)top=+q.dataset.o}
+ else if(mode==='page'){const L=layOf(amudShown);if(L){const os=Object.keys(L.g).map(l=>D.order[l]).filter(o=>o!=null);if(os.length)top=Math.min(...os)}}
+ // sections sharing an opening line: the earlier one (Bava Metzia 11's first two both open on 10b.10)
+ if(top==null)return;let k=-1;gSegs.forEach((s,j)=>{const o=D.order[s.l];if(o!=null&&o<=top&&(k<0||o>D.order[gSegs[k].l]))k=j});lightPill($('gPills'),Math.max(0,k))}
+$('aPills').onclick=e=>{const b=e.target.closest('[data-i]');if(!b)return;const s=aSegs[+b.dataset.i];lastLine=null;
+ if(A.ep!==s.ep||!aud.getAttribute('src'))setEp(s.ep,s.t).then(play);else{aud.currentTime=s.t;play()}};
+$('gPills').onclick=e=>{const b=e.target.closest('[data-i]');if(!b||b.disabled)return;const s=gSegs[+b.dataset.i],o=D.order[s.l];
+ lightPill($('gPills'),+b.dataset.i);textHold=Date.now()+1500;skimmed('text');
+ const sec=sectionForOrder(o);if(sec&&view)setCurrent(sec.id,true);
+ if(mode==='text'){const i=itemOrd.indexOf(o);if(i>=0)textPane.scrollTo({top:posIn(textPane,itemEls[i])-8,behavior:'smooth'})}
+ else if(mode==='shiur'){const norm=x=>x.replace(/[*_]/g,'').trim().toLowerCase();
+  const h=[...$('shiur').querySelectorAll('h2,h3')].find(x=>norm(x.textContent)===norm(s.title))||audQuote(o);
+  if(h)shiurPane.scrollTo({top:posIn(shiurPane,h)-12,behavior:'smooth'})}
+ else if(mode==='page'){const a=s.l.split('.')[0];if(D.images[a])showAmud(a,true);if(!sec||!view)markLayout({a:o,b:o});scrollPageTo()}};
+let pillRaf=0;[textPane,shiurPane].forEach(p=>p.addEventListener('scroll',()=>{if(!pillRaf)pillRaf=requestAnimationFrame(()=>{pillRaf=0;markGPill()})},{passive:true}));
+aud.addEventListener('timeupdate',markAPill);
 
 // ---------- reader feedback ----------
 // FEEDBACK = {url, key}: notes are sent to Supabase's outline_feedback table (insert only).
