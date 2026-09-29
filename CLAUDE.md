@@ -1832,6 +1832,30 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).
+- Audio (2026-09-29): a bar at the foot of the page plays the daf's shiur (one, or one per amud,
+  N and N.5, playing on from the first to the second), with −15/+15, a scrubber, speed, and
+  "Follow: Outline / Text" (both on by default, remembered). Data: `sync/<Tractate>_<daf>.json`
+  per daf (`write_sync` in build_prototype.py), from episode_audio's links plus
+  `daf-processor/build_line_times.py`, which reruns v10 assembly's own line matching
+  (best_match_times -> guarded run -> head extension) and saves when each line is read aloud
+  (`outline/line_times.json`, gitignored, ~90 s for the corpus: 2,362 dafim, median 27 timed
+  lines). Lines named by exact Hebrew against daf_text, since the Sefaria cache numbers per file.
+  Lines read in one breath share a time; the page spreads them a few seconds apart. The MP3s run
+  on the transcripts' clock (checked: transistor within 1 s; SoundCloud within 3 s on 5 of 7,
+  but Berakhot 31 is 61 s longer and Niddah 60 28 s, unverified whether at the start).
+  332 shiurim are `soundcloud-track://<id>`: `api/track.js` resolves them as the apps'
+  AudioPlayer does and redirects; the page passes SoundCloud's client id from app_config.
+  Following: the line being read gets a teal edge in the Gemara, shiur and on the daf page, and
+  is kept a third of the way down; the outline moves to its section (and, while "Text" follows
+  the audio, the outline->text sync stands aside). Scrolling or dragging a side while listening
+  is skimming: that side stops following and shows "Back to the audio"; pressing play resets it.
+  Jumping: double-tap a Gemara line, a shiur quote or a line on the daf page; one tap offers
+  "▶ Play from here" (and the daf page's tap box has it); ▶ on every outline heading plays from
+  its first line. A line explained in English starts at the last line before it that is read.
+  The audio keeps playing when the reader turns to another daf; the bar says so and offers
+  "Go to it" / "Play this daf instead". Lock-screen controls via Media Session. Testing in a
+  collapsed browser pane: the browser won't play media there (AbortError); fake `aud.paused`
+  and dispatch `timeupdate` to test the following.
 - `daf-processor/upload_study_aids.py` loads outlines + key terms into `daf_study_aids`
   (`study-aids-migration.sql`); sanitizes SVG and drops the editorial `judgment_calls` /
   `coverage_notes`.

@@ -314,6 +314,46 @@ def tractates() -> list[dict]:
     return out
 
 
+LINE_TIMES = DP / "outline" / "line_times.json"   # daf-processor/build_line_times.py
+APP_NAME = {"Taanit": "Ta’anit", "Ta'anit": "Ta’anit"}  # daf-processor spellings -> the apps'
+
+
+def slug_t(name: str) -> str:
+    """The page's own tractate slug (app.html slugT): 'Bava Metzia' -> 'Bava_Metzia'."""
+    return name.replace("’", "'").replace(" ", "_")
+
+
+def write_sync(out: Path, key: str) -> int:
+    """Audio for every daf: sync/<Tractate>_<daf>.json = {episodes: [{daf, url, lines}]}, one
+    episode per shiur (a daf can have one per amud: N and N.5), `lines` = {line label: seconds}
+    when the lecturer reads it aloud (build_line_times.py). Audio links from episode_audio."""
+    h = {"apikey": key, "Authorization": f"Bearer {key}"}
+    rows, off = [], 0
+    while True:
+        r = requests.get(f"{SUPABASE_URL}/rest/v1/episode_audio", headers=h, timeout=60,
+                         params={"select": "tractate,daf,audio_url", "limit": 1000, "offset": off, "order": "tractate,daf"})
+        r.raise_for_status()
+        rows += r.json()
+        if len(r.json()) < 1000:
+            break
+        off += 1000
+    times = json.loads(LINE_TIMES.read_text(encoding="utf-8")) if LINE_TIMES.exists() else {}
+    by_daf = {}
+    for t in times.values():
+        by_daf[(APP_NAME.get(t["tractate"], t["tractate"]), float(t["daf"]))] = t["lines"]
+    eps = {}
+    for r in rows:
+        t, d = APP_NAME.get(r["tractate"], r["tractate"]), float(r["daf"])
+        eps.setdefault((t, int(d)), []).append({"daf": d, "url": r["audio_url"], "lines": by_daf.get((t, d), {})})
+    (out / "sync").mkdir(parents=True, exist_ok=True)
+    for (t, n), e in eps.items():
+        (out / "sync" / f"{slug_t(t)}_{n}.json").write_text(
+            json.dumps({"episodes": sorted(e, key=lambda x: x["daf"])}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    timed = sum(1 for e in eps.values() for x in e if x["lines"])
+    print(f"sync: {len(eps)} dafim with audio, {timed} of {sum(len(e) for e in eps.values())} shiurim with line times")
+    return len(eps)
+
+
 def pages_index(pages: dict) -> dict:
     """AnyTorah's page-image ids, keyed by the apps' tractate names (both spellings merged)."""
     out = {}
@@ -424,8 +464,11 @@ def main():
                 # Reading the Gemara and shiur of dafim without an outline (public tables, anon key).
                 .replace("__READ__", json.dumps({"url": SUPABASE_URL, "key": anon_key()}) if args.feedback else "null")
                 .replace("__FEEDBACK__", json.dumps({"url": SUPABASE_URL, "key": anon_key()}) if args.feedback else "null"))
-    (out / "api").mkdir(exist_ok=True)            # the page-scan proxy (Vercel function)
-    (out / "api" / "dafImage.js").write_text((HERE / "api" / "dafImage.js").read_text(encoding="utf-8"), encoding="utf-8")
+    if args.feedback:
+        write_sync(out, anon_key())
+    (out / "api").mkdir(exist_ok=True)            # Vercel functions: page scans, SoundCloud tracks
+    for f in (HERE / "api").glob("*.js"):
+        (out / "api" / f.name).write_text(f.read_text(encoding="utf-8"), encoding="utf-8")
     (out / "pages.json").write_text(json.dumps(pages_index(pages), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     if args.feedback:
         html = html.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex, nofollow">', 1)

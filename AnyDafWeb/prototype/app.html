@@ -208,6 +208,25 @@ body.dragging{cursor:col-resize;user-select:none}
 .sage details p{margin:4px 0 0;max-width:62ch}
 .sage .links{font-size:12px;margin-top:6px}.sage .links a{color:var(--link);margin-right:12px}
 
+/* audio bar: the day's shiur, and the sides following it */
+.abar{flex:none;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;padding:7px 14px calc(7px + env(safe-area-inset-bottom,0px));border-top:1px solid var(--line);background:var(--panel);font-size:12.5px;color:var(--muted)}
+.aplay{width:38px;height:38px;border-radius:50%;border:0;background:var(--blue);color:var(--panel);font-size:15px;cursor:pointer;flex:none}
+.askip{font:600 12px var(--sans);border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:999px;padding:4px 9px;cursor:pointer;font-variant-numeric:tabular-nums}
+.atime{font-variant-numeric:tabular-nums;min-width:3.2em;text-align:center}
+#aSeek{flex:1 1 160px;min-width:120px;accent-color:var(--blue)}
+.afl{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase}
+.anote{flex-basis:100%;font-size:12px;color:var(--amber)}
+.anote:empty{display:none}
+.anote a,.anote button{font:inherit;color:var(--link);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline}
+/* the line being read, in every view: a teal edge, apart from the section's blue */
+.item.aud{box-shadow:inset 4px 0 0 var(--teal);background:color-mix(in srgb,var(--teal) 10%,transparent)}
+.quote.aud{border-left-color:var(--teal);box-shadow:inset 3px 0 0 var(--teal)}
+.lay .g.aud{fill:rgba(44,106,110,.28);stroke:#2C6A6E;stroke-width:1.5}
+.text,.shiur{touch-action:manipulation}   /* double-tap is ours (play from here), not the browser's zoom */
+.pfh{font:600 11.5px var(--sans);border:1px solid var(--teal);color:var(--teal);background:var(--panel);border-radius:999px;padding:2px 10px;cursor:pointer;margin-top:6px}
+.pl{font:500 11px var(--sans);color:var(--teal);background:none;border:1px solid var(--teal-line);border-radius:999px;padding:1px 8px;cursor:pointer;margin-left:6px;vertical-align:middle}
+.backaud{position:absolute;left:50%;bottom:56px;transform:translateX(-50%);z-index:5;font:600 12.5px var(--sans);border:0;border-radius:999px;padding:8px 16px;background:var(--teal);color:#fff;box-shadow:var(--shadow);cursor:pointer}
+.gem{position:relative}
 /* resources pop-out */
 #rwin{width:min(460px,calc(100vw - 32px));right:72px;top:96px}
 .rlist{overflow-y:auto;flex:1;padding:4px 14px 14px}
@@ -307,6 +326,7 @@ __SPRITE__
  <div class="col" id="outCol">
   <div class="pane" id="outPane"><div class="out zoomable" id="outZoom"><div class="terms" id="terms"></div><div id="outline"><p class="loading">Loading…</p></div></div></div>
   <div class="foot" id="outFoot"></div>
+  <button class="backaud" id="backOut" type="button" hidden>↩ Back to the audio</button>
   <div class="gutter g-gem" id="gGem" role="separator" aria-orientation="vertical" aria-label="Resize the text side" title="Drag to resize · double-click to reset"></div>
   <div class="gutter g-rail" id="gRail" role="separator" aria-orientation="vertical" aria-label="Resize the contents column" title="Drag to resize · double-click to reset"></div>
  </div>
@@ -326,7 +346,22 @@ __SPRITE__
    <p>Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.</p>
   </div></div>
   <div class="foot" id="gemFoot"></div>
+  <button class="backaud" id="backText" type="button" hidden>↩ Back to the audio</button>
  </aside>
+</div>
+<div class="abar" id="abar" hidden>
+ <button class="aplay" id="aPlay" type="button" aria-label="Play the shiur">▶</button>
+ <button class="askip" id="aBack" type="button" aria-label="Back 15 seconds" title="Back 15 seconds">−15</button>
+ <button class="askip" id="aFwd" type="button" aria-label="Forward 15 seconds" title="Forward 15 seconds">+15</button>
+ <span class="atime" id="aTime">0:00</span>
+ <input type="range" id="aSeek" min="0" max="1000" value="0" step="1" aria-label="Position in the shiur">
+ <span class="atime" id="aDur"></span>
+ <div class="seg" id="aEp" role="group" aria-label="Shiur" hidden></div>
+ <button class="askip" id="aRate" type="button" aria-label="Playback speed" title="Playback speed">1×</button>
+ <span class="afl">Follow</span><div class="seg" id="aFollow" role="group" aria-label="While the audio plays, follow it in">
+  <button type="button" data-f="out" title="The outline moves to the section being taught">Outline</button><button type="button" data-f="text" title="The Gemara, shiur or daf page moves to the line being read">Text</button></div>
+ <span class="anote" id="aNote" aria-live="polite"></span>
+ <audio id="aud" preload="none"></audio>
 </div>
 <div class="gwin" id="gwin" hidden role="dialog" aria-labelledby="gwinTitle">
  <header id="gwinBar"><h2 id="gwinTitle">Key terms</h2><button type="button" id="gwinClose" aria-label="Close glossary">×</button></header>
@@ -435,6 +470,7 @@ function renderDaf(d){
  outPane.scrollTop=0;textPane.scrollTop=0;shiurPane.scrollTop=0;
  renderSages(d.sages||[]);$('sagesBtn').hidden=!(d.sages||[]).length;
  countResources();if(!$('rwin').hidden)showResources();
+ lastLine=null;audioForDaf(d);
  if(secs.length)setCurrent(secs[0].id);
 }
 
@@ -496,8 +532,9 @@ function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains(
  else{const c=L.c[h.c],it=line(c.on);go(c.on);
   html=`<p class="who">${esc(c.who)}</p><p class="he" lang="he">${c.dh?`<b>${esc(c.dh)}</b> `:''}${esc(c.text)}</p>`
    +(it?`<p class="en">On the Gemara: <span lang="he" dir="rtl">${esc(it.he.split(/\s+/).slice(0,6).join(' '))}…</span></p>`:'')}
- pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+html;pop.hidden=false;
- pop.querySelector('.x').onclick=closePop}
+ const po=D.order[h.l!=null?h.l:L.c[h.c].on],canPlay=po!=null&&S&&timeFor(po);
+ pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+html+(canPlay?'<button class="pfh" type="button" id="popPlay">▶ Play from here</button>':'');pop.hidden=false;
+ pop.querySelector('.x').onclick=closePop;if(canPlay)$('popPlay').onclick=()=>playFrom(po)}
 function closePop(){$('pagePop').hidden=true;$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
 $('layTog').onchange=()=>{$('pageLay').classList.toggle('off',!$('layTog').checked);prefs.lay=$('layTog').checked;savePrefs();if(!$('layTog').checked)closePop()};
 $('layTog').checked=prefs.lay!==false;$('pageLay').classList.toggle('off',prefs.lay===false);
@@ -513,7 +550,7 @@ function setCurrent(id,fromClick){
  $('now').innerHTML=`Reading <b>${md(s.title)}</b> · ${esc(s.amud||'')}`
   +(ranged?'':`<span class="approx">This outline predates line links, so the text follows by amud only.</span>`);
  if(fromClick){outHold=Date.now()+900;view.scrollToSection(id)}
- if(!$('syncTog').checked||Date.now()<textHold||textHidden())return;   // a hidden side catches up when shown
+ if(!$('syncTog').checked||Date.now()<textHold||textHidden()||(audioDriven&&follow.text))return;   // a hidden side catches up when shown; the audio moves the text itself
  textMoved=false;
  if(mode==='page'){showAmud(ranged?pageAmudFor(s):s.am);markLayout(s);if(Date.now()>pageTapHold)scrollPageTo();return}
  if(mode==='text'){let top=null;
@@ -539,8 +576,8 @@ function sectionAtLine(){const line=outPane.getBoundingClientRect().top+110;let 
  return best||passed||secs[0]}
 outPane.addEventListener('scroll',()=>{if(raf||Date.now()<outHold||!secs.length)return;raf=requestAnimationFrame(()=>{raf=0;setCurrent(sectionAtLine().id)})},{passive:true});
 ['wheel','touchmove','keydown'].forEach(ev=>[textPane,shiurPane].forEach(p=>p.addEventListener(ev,()=>{textHold=Date.now()+1500;textMoved=true},{passive:true})));
-$('text').onclick=e=>{const it=e.target.closest('.item');if(!it)return;const s=sectionForOrder(itemOrd[+it.dataset.i]);if(s){textHold=Date.now()+1500;textMoved=false;setCurrent(s.id,true)}};
-$('shiur').onclick=e=>{const q=e.target.closest('.quote');if(!q)return;const s=sectionForOrder(+q.dataset.o);if(s){textHold=Date.now()+1500;textMoved=false;setCurrent(s.id,true)}};
+$('text').onclick=e=>{const it=e.target.closest('.item');if(!it||e.target.closest('.pfh'))return;const o=itemOrd[+it.dataset.i];if(lineTap(it,o))return;const s=sectionForOrder(o);if(s){textHold=Date.now()+1500;textMoved=false;setCurrent(s.id,true)}};
+$('shiur').onclick=e=>{const q=e.target.closest('.quote');if(!q||e.target.closest('.pfh'))return;const o=+q.dataset.o;if(o>=0&&lineTap(q,o))return;const s=sectionForOrder(o);if(s){textHold=Date.now()+1500;textMoved=false;setCurrent(s.id,true)}};
 
 // ---------- size sliders (AnyTorah web's six steps) ----------
 const FONT_LEVELS=[-2,-1,0,2,4,6],FONT_LABELS={'-2':'Smallest','-1':'Small','0':'Default','2':'Large','4':'Larger','6':'Largest'};
@@ -567,7 +604,11 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
   if(!st.moved&&Math.hypot(e.clientX-st.x,e.clientY-st.y)>6){st.moved=true;b.classList.add('grabbing')}
   if(st.moved){b.scrollLeft=st.l-(e.clientX-st.x);b.scrollTop=st.t-(e.clientY-st.y)}});
  // A press that doesn't move is a tap on the page: read the line or comment under it.
- b.addEventListener('pointerup',e=>{const tap=st&&!st.moved;st=null;b.classList.remove('grabbing');if(tap)tapPage(e.clientX,e.clientY)});
+ let last={t:0,x:0,y:0};
+ b.addEventListener('pointerup',e=>{const tap=st&&!st.moved;if(st&&st.moved)skimmed('text');st=null;b.classList.remove('grabbing');if(!tap)return;
+  const now=Date.now(),dbl=now-last.t<400&&Math.hypot(e.clientX-last.x,e.clientY-last.y)<30;last={t:now,x:e.clientX,y:e.clientY};
+  if(dbl){const h=hitAt(e.clientX,e.clientY),L=layOf(amudShown);const l=h&&(h.l!=null?h.l:L.c[h.c].on);if(l&&D.order[l]!=null){playFrom(D.order[l]);return}}
+  tapPage(e.clientX,e.clientY)});
  b.addEventListener('pointercancel',()=>{st=null;b.classList.remove('grabbing')});
  b.addEventListener('pointerleave',()=>{if(!st){hovEl=null;$('pageLay').querySelectorAll('.hov').forEach(x=>x.classList.remove('hov'));b.style.cursor=''}});
  // wheel/trackpad scrolling of the page counts as the reader moving it
@@ -609,6 +650,8 @@ function textSection(){const cur=secs.find(x=>x.id===current);if(!textMoved||mod
 function setView(v){const was=phoneView,sync=$('syncTog').checked&&narrow.matches&&v!==was&&!!D;
  const s=sync&&v==='outline'?textSection():null;   // read before the text side is hidden
  phoneView=v;$('main').dataset.view=v;markPaneSeg();
+ // while the shiur plays, the side coming into view goes to the line being read
+ if(typeof A!=='undefined'&&A&&S&&A.id===S.id&&!aud.paused){requestAnimationFrame(()=>{lastLine=null;tick()});return}
  if(!sync)return;
  if(v==='text'){if(current){const c=current;current=null;textHold=0;requestAnimationFrame(()=>setCurrent(c))}}
  else if(s){outHold=Date.now()+900;if(s.id!==current)setCurrent(s.id);requestAnimationFrame(()=>view.scrollToSection(s.id,'auto'))}}
@@ -808,6 +851,143 @@ function countResources(){const d=D;if(!d)return;$('resBtn').innerHTML='Resource
 $('resBtn').onclick=()=>{const open=$('rwin').hidden;$('rwin').hidden=!open;$('resBtn').setAttribute('aria-pressed',String(open));if(open){front($('rwin'));showResources()}};
 $('rwinClose').onclick=()=>{$('rwin').hidden=true;$('resBtn').setAttribute('aria-pressed','false')};
 $('rwin').addEventListener('pointerdown',()=>front($('rwin')));
+
+// ---------- audio: the shiur, with the outline and the text following it ----------
+// sync/<Tractate>_<daf>.json (build_prototype.write_sync): the daf's shiurim (one, or one per
+// amud), each with {line label: seconds} for the lines read aloud (build_line_times.py). The audio
+// keeps playing when the reader turns to another daf, as in the apps; following applies only on
+// the daf that is playing.
+const aud=$('aud');
+const follow={out:prefs.followOut!==false,text:prefs.followText!==false};
+const skim={out:false,text:false};         // the reader moved that side themselves while listening
+let A=null,S=null,audioDriven=false,lastLine=null;   // A: the daf playing (or ready); S: the one on screen
+const fmtT=s=>{s=Math.max(0,Math.floor(s||0));const h=Math.floor(s/3600),m=Math.floor(s/60)%60,x=String(s%60).padStart(2,'0');return h?`${h}:${String(m).padStart(2,'0')}:${x}`:`${m}:${x}`};
+const dafIdOf=d=>d.tractate+'|'+dafNumOf(d);
+const syncCache={};
+function loadSync(d){const id=dafIdOf(d);if(!(id in syncCache)){const [t,n]=[d.tractate,dafNumOf(d)];
+  syncCache[id]=fetch(`sync/${slugT(t)}_${n}.json`).then(r=>r.ok?r.json():null).catch(()=>null)}
+ return syncCache[id]}
+// Lines read in one breath share a time (the transcript window where they start): spread them
+// out toward the next time, a few seconds apiece, so the highlight walks through them.
+function timeline(ep){const e=Object.entries(ep.lines||{}).map(([l,t])=>({l,t})).sort((a,b)=>a.t-b.t);
+ for(let i=0;i<e.length;){let j=i;while(j+1<e.length&&e[j+1].t===e[i].t)j++;
+  const next=j+1<e.length?e[j+1].t:e[i].t+8*(j-i+1),step=Math.min((next-e[i].t)/(j-i+1),8);
+  for(let k=i;k<=j;k++)e[k].t=e[i].t+step*(k-i);i=j+1}
+ return e}
+function makeA(d,sync){return {id:dafIdOf(d),title:d.title.replace(/ \([^)]*\)$/,''),eps:sync.episodes,ep:0,tl:sync.episodes.map(timeline),dafKey:d.key}}
+const epLabel=e=>{const n=Math.floor(e.daf);return e.daf%1?`${n}b`:`${n}a`};
+// Most shiurim are plain MP3 links; some are SoundCloud tracks ("soundcloud-track://<id>"),
+// played through api/track.js with SoundCloud's client id from app_config, as the apps do.
+let scClient=null;
+const scId=()=>scClient||(scClient=supa('app_config','key=eq.soundcloud_client_id&select=value').then(r=>(r[0]||{}).value||'').catch(()=>''));
+async function srcFor(url){const m=/^soundcloud-track:\/\/(\d+)/.exec(url);if(!m)return url;
+ return `api/track?id=${m[1]}&cid=${encodeURIComponent(await scId())}`}
+function setEp(i,at){A.ep=i;const e=A.eps[i];aud.playbackRate=prefs.rate||1;
+ const ready=srcFor(e.url).then(u=>{if(A.eps[A.ep]!==e)return;aud.src=u;aud.playbackRate=prefs.rate||1;
+  if(at!=null)aud.addEventListener('loadedmetadata',()=>{aud.currentTime=at},{once:true})});
+ aud.dataset.pending='1';ready.finally(()=>{delete aud.dataset.pending});
+ lastLine=null;drawBar();return ready}
+function drawBar(){const bar=$('abar');
+ if(!A){bar.hidden=true;return}bar.hidden=false;
+ $('aPlay').textContent=aud.paused?'▶':'❚❚';$('aPlay').setAttribute('aria-label',aud.paused?'Play the shiur':'Pause');
+ $('aEp').hidden=A.eps.length<2;
+ $('aEp').innerHTML=A.eps.length<2?'':A.eps.map((e,i)=>`<button type="button" data-ep="${i}" aria-pressed="${i===A.ep}">${esc(epLabel(e))}</button>`).join('');
+ $('aRate').textContent=(prefs.rate||1)+'×';
+ document.querySelectorAll('#aFollow button').forEach(b=>b.setAttribute('aria-pressed',String(follow[b.dataset.f])));
+ const here=S&&S.id===A.id,note=$('aNote');
+ if(!here&&D){note.innerHTML=`Playing ${esc(A.title)}. <button type="button" id="aGo">Go to it</button>${S?` · <button type="button" id="aThis">Play ${esc(S.title)} instead</button>`:''}`;
+  $('aGo').onclick=()=>{const [t,n]=A.id.split('|');goDaf(t,+n)};if($('aThis'))$('aThis').onclick=()=>switchTo(S).then(play)}
+ else note.textContent=A.tl[A.ep].length?'':'This shiur has no line timing yet, so only the audio plays.';
+ if('mediaSession' in navigator)navigator.mediaSession.metadata=new MediaMetadata({title:A.title+(A.eps.length>1?` (${epLabel(A.eps[A.ep])})`:''),album:'AnyDaf'})}
+function switchTo(a){aud.pause();A=a;unskim();return setEp(0)}
+async function play(){if(!A)return;if(!aud.getAttribute('src'))await setEp(A.ep);unskim();
+ try{await aud.play()}catch(e){$('aNote').textContent="The audio didn't start. Check your connection and press play again."}}
+function unskim(){skim.out=skim.text=false;$('backOut').hidden=$('backText').hidden=true;lastLine=null}
+// A daf comes on screen: offer its shiur, unless another daf's is playing (then it keeps playing).
+async function audioForDaf(d){const sync=await loadSync(d);if(D!==d)return;
+ S=sync&&sync.episodes&&sync.episodes.length?makeA(d,sync):null;
+ if(A&&!aud.paused&&(!S||A.id!==S.id)){}               // another daf's shiur is playing: it keeps playing
+ else if(A&&S&&A.id===S.id){A.tl=S.tl}                 // the same daf (another outline version): keep the place
+ else{aud.pause();A=S;aud.removeAttribute('src');aud.load()}   // otherwise the bar offers this daf's shiur
+ drawBar();addPlayButtons();tick()}
+$('aPlay').onclick=()=>{if(aud.paused)play();else aud.pause()};
+$('aBack').onclick=()=>{aud.currentTime=Math.max(0,aud.currentTime-15);lastLine=null};
+$('aFwd').onclick=()=>{aud.currentTime=aud.currentTime+15;lastLine=null};
+const RATES=[1,1.25,1.5,1.75,2,0.75];
+$('aRate').onclick=()=>{prefs.rate=RATES[(RATES.indexOf(prefs.rate||1)+1)%RATES.length];savePrefs();aud.playbackRate=prefs.rate;drawBar()};
+$('aEp').onclick=e=>{const b=e.target.closest('[data-ep]');if(!b)return;const was=!aud.paused;aud.pause();setEp(+b.dataset.ep).then(()=>{if(was)play()})};
+$('aFollow').onclick=e=>{const b=e.target.closest('[data-f]');if(!b)return;const f=b.dataset.f;follow[f]=!follow[f];
+ prefs[f==='out'?'followOut':'followText']=follow[f];savePrefs();skim[f]=false;$(f==='out'?'backOut':'backText').hidden=true;lastLine=null;drawBar();tick()};
+let seeking=false;
+$('aSeek').addEventListener('input',()=>{seeking=true;$('aTime').textContent=fmtT(+$('aSeek').value/1000*(aud.duration||0))});
+$('aSeek').addEventListener('change',()=>{if(aud.duration)aud.currentTime=+$('aSeek').value/1000*aud.duration;seeking=false;lastLine=null});
+['play','pause','ended','loadedmetadata'].forEach(ev=>aud.addEventListener(ev,drawBar));
+aud.addEventListener('ended',()=>{if(A&&A.ep<A.eps.length-1)setEp(A.ep+1).then(play)});   // on to the next amud's shiur
+aud.addEventListener('timeupdate',()=>{if(!seeking){$('aTime').textContent=fmtT(aud.currentTime);$('aDur').textContent=fmtT(aud.duration);
+ if(aud.duration)$('aSeek').value=Math.round(aud.currentTime/aud.duration*1000)}tick()});
+if('mediaSession' in navigator){const ms=navigator.mediaSession;
+ ms.setActionHandler('play',play);ms.setActionHandler('pause',()=>aud.pause());
+ ms.setActionHandler('seekbackward',()=>$('aBack').onclick());ms.setActionHandler('seekforward',()=>$('aFwd').onclick())}
+// The line being read now: the last timed line at or before the playhead.
+function lineNow(){if(!A)return null;const tl=A.tl[A.ep],t=aud.currentTime;let lo=0,hi=tl.length-1,best=null;
+ while(lo<=hi){const m=(lo+hi)>>1;if(tl[m].t<=t){best=tl[m];lo=m+1}else hi=m-1}return best}
+function tick(){if(!A||!S||A.id!==S.id||!D||(aud.paused&&lastLine))return;
+ const e=lineNow();if(!e||e.l===lastLine)return;lastLine=e.l;const o=D.order[e.l];if(o==null)return;
+ markAudio(e.l,o);
+ if(aud.paused)return;   // mark where the playhead is, but move nothing until it plays
+ if(follow.out&&!skim.out&&view){const s=sectionForOrder(o);if(s&&s.id!==current){audioDriven=true;setCurrent(s.id,true);audioDriven=false}}
+ if(follow.text&&!skim.text&&!textHidden())showLine(e.l,o)}
+function audQuote(o){return quoteEls.find(q=>+q.dataset.o===o)||null}
+function markAudio(l,o){document.querySelectorAll('.aud').forEach(x=>x.classList.remove('aud'));
+ const i=itemOrd.indexOf(o);if(i>=0)itemEls[i].classList.add('aud');
+ const q=audQuote(o);if(q)q.classList.add('aud');
+ $('pageLay').querySelectorAll(`rect.g[data-l="${CSS.escape(l)}"]`).forEach(r=>r.classList.add('aud'))}
+// Bring the line into the reading band of the side in view (a third of the way down), and leave
+// it alone while it's already there, so the text doesn't twitch with every line.
+function showLine(l,o){const band=(pane,el)=>{const pr=pane.getBoundingClientRect(),r=el.getBoundingClientRect();
+  if(r.top<pr.top+pane.clientHeight*.12||r.bottom>pr.top+pane.clientHeight*.75)pane.scrollTo({top:posIn(pane,el)-pane.clientHeight*.3,behavior:'smooth'})};
+ if(mode==='text'){const i=itemOrd.indexOf(o);if(i>=0)band(textPane,itemEls[i])}
+ else if(mode==='shiur'){const q=audQuote(o);if(q)band(shiurPane,q)}
+ else if(mode==='page'){const a=l.split('.')[0];if(D.images[a]&&a!==amudShown)showAmud(a);
+  const r=$('pageLay').querySelector(`rect.g[data-l="${CSS.escape(l)}"]`),b=$('pageImg');
+  if(r){const br=b.getBoundingClientRect(),rr=r.getBoundingClientRect();
+   if(rr.top<br.top+b.clientHeight*.1||rr.bottom>br.top+b.clientHeight*.8)b.scrollTo({top:Math.max(0,rr.top-br.top+b.scrollTop-b.clientHeight*.3),behavior:'smooth'})}}}
+// Moving a side by hand while listening is skimming: that side stops following, and a button
+// brings it back. A tap is not skimming; only scrolling, dragging or scroll keys.
+function skimmed(side){if(!A||aud.paused||!follow[side]||!S||A.id!==S.id)return;skim[side]=true;$(side==='out'?'backOut':'backText').hidden=false}
+['wheel','touchmove'].forEach(ev=>outPane.addEventListener(ev,()=>skimmed('out'),{passive:true}));
+outPane.addEventListener('keydown',e=>{if(/^(Arrow(Up|Down)|Page(Up|Down)|Home|End| )$/.test(e.key))skimmed('out')});
+['wheel','touchmove'].forEach(ev=>[textPane,shiurPane,$('pageImg')].forEach(p=>p.addEventListener(ev,()=>skimmed('text'),{passive:true})));
+$('backOut').onclick=()=>{skim.out=false;$('backOut').hidden=true;lastLine=null;tick()};
+$('backText').onclick=()=>{skim.text=false;$('backText').hidden=true;lastLine=null;tick()};
+// Play from a line: its own time when it is read aloud; else the last line before it (in text
+// order) that is, so a line explained in English starts where its passage is read.
+function timeFor(o){if(!S)return null;
+ for(let ei=0;ei<S.tl.length;ei++){const tl=S.tl[ei].map(e=>({...e,o:D.order[e.l]})).filter(e=>e.o!=null);if(!tl.length)continue;
+  const lo=Math.min(...tl.map(e=>e.o)),hi=Math.max(...tl.map(e=>e.o));if(o<lo-2||o>hi+2)continue;
+  const exact=tl.find(e=>e.o===o);if(exact)return{ep:ei,t:exact.t};
+  const before=tl.filter(e=>e.o<o).sort((a,b)=>b.o-a.o)[0]||tl.slice().sort((a,b)=>a.o-b.o)[0];return{ep:ei,t:before.t}}
+ return null}
+function playFrom(o){const at=timeFor(o);
+ if(!at){$('aNote').textContent=S?"This line isn't read in the shiur.":'There is no recorded shiur for this daf.';return}
+ if(!A||A.id!==S.id){aud.pause();A=S;aud.removeAttribute('src')}
+ if(A.ep!==at.ep||!aud.getAttribute('src'))setEp(at.ep,Math.max(0,at.t-1)).then(play);
+ else{aud.currentTime=Math.max(0,at.t-1);play()}}
+// ▶ on every outline heading: play from the section's first line.
+function addPlayButtons(){document.querySelectorAll('#outline .pl').forEach(b=>b.remove());if(!view||!S||!S.tl.some(t=>t.length))return;
+ for(const s of secs){if(!s.head||s.a==null)continue;const b=document.createElement('button');b.type='button';b.className='pl';b.dataset.play=s.id;
+  b.textContent='▶';b.title='Play the shiur from here';b.setAttribute('aria-label',`Play the shiur from “${s.title}”`);s.head.appendChild(b)}}
+$('outline').addEventListener('click',e=>{const b=e.target.closest('[data-play]');if(!b)return;e.stopPropagation();
+ const s=secs.find(x=>x.id===b.dataset.play);if(s){setCurrent(s.id,true);playFrom(s.a)}},true);
+// Double-tap (or double-click) a line of Gemara or a shiur quote to play from it; a single tap
+// also offers a "Play from here" button on the line.
+let lastTap={el:null,t:0};
+function lineTap(el,o){const now=Date.now(),dbl=lastTap.el===el&&now-lastTap.t<400;lastTap={el,t:now};
+ document.querySelectorAll('.pfh').forEach(b=>b.remove());
+ if(dbl){playFrom(o);return true}
+ if(S&&S.tl.some(t=>t.length)&&timeFor(o)){const b=document.createElement('button');b.type='button';b.className='pfh';b.textContent='▶ Play from here';
+  b.onclick=ev=>{ev.stopPropagation();b.remove();playFrom(o)};(el.querySelector(':scope > div')||el).appendChild(b)}
+ return false}
 
 // ---------- reader feedback ----------
 // FEEDBACK = {url, key}: notes are sent to Supabase's outline_feedback table (insert only).
