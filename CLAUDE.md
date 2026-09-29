@@ -1816,6 +1816,22 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   for library posts, psak posts and library `audio`), run in the reader's browser (the sites allow
   it by CORS), grouped on this daf / within two dafim / elsewhere in the tractate, deduplicated by
   title. Unlike the apps it pages past the first 100 posts. Items open on the library's site.
+- Navigation over all of Shas (2026-09-29): masechet + daf pickers (✦ marks dafim with an
+  outline), ‹ › and the arrow keys (running across tractates in the apps' order), a link per daf
+  (`#Bava_Metzia/11`, plus `/M`, `/H` when a daf has several outline versions; M first), and a
+  "Dafim with an outline" menu. The tractate list is read from the apps' `Tractate.swift` at build
+  (`tractates()`); spellings differ by source (`TEXT_NAME`, `SHIUR_NAMES`: shiur_content has
+  Ta'anit under both spellings; `PAGES_NAME`). A daf with an outline loads its built file; any
+  other daf is assembled in the browser (`runtimeDaf`): daf_text and shiur_content through the
+  public anon key (`__READ__`), both amudim's shiurim when a daf has one per amud (N and N.5), the
+  shiur's quotes tied to lines by exact Hebrew as in `parse_shiur`, and page scans through
+  `api/dafImage.js`, a Vercel function that fetches Drive's thumbnail server-side (as AnyTorahWeb
+  does: Drive loaded straight into <img> fails often). Such a daf says "No outline for this daf
+  yet" and on a phone opens on the text side. The local test server (python http.server) can't
+  run the function, so scans of those dafim show only on Vercel.
+- Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
+  line is in a gap between sections; taking the parent (which contains the gap) sent the text back
+  to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).
 - `daf-processor/upload_study_aids.py` loads outlines + key terms into `daf_study_aids`
   (`study-aids-migration.sql`); sanitizes SVG and drops the editorial `judgment_calls` /
   `coverage_notes`.

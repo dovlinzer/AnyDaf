@@ -141,6 +141,13 @@ body.dragging{cursor:col-resize;user-select:none}
 .zoomable{zoom:var(--fz,1)}
 .page p{font-size:12.5px;color:var(--muted);margin:0;max-width:60ch}
 .pick{font:600 1.2rem/1.2 var(--serif);color:var(--ink);background:var(--ground);border:1px solid var(--line);border-radius:6px;padding:4px 8px}
+.pick.small{font:500 12.5px var(--sans);padding:5px 8px;border-radius:999px;max-width:14rem}
+.nav{display:inline-flex;align-items:center;gap:4px}
+.navb{font:500 1.35rem/1 var(--serif);width:32px;height:32px;border:1px solid var(--line);border-radius:999px;background:var(--panel);color:var(--ink);cursor:pointer;padding:0 0 3px}
+.navb:disabled{opacity:.35;cursor:default}
+.nooutline{padding:36px 4px;max-width:34rem}
+.nooutline .t{font:600 1.3rem/1.3 var(--serif);margin:0 0 8px}
+.nooutline p{color:var(--muted);margin:0 0 12px}
 .bar .sub{font:500 12px var(--sans);color:var(--muted)}
 .approx{display:block;font-size:12px;color:var(--amber);margin-top:2px}
 .loading{padding:40px 28px;color:var(--muted)}
@@ -227,6 +234,8 @@ body.dragging{cursor:col-resize;user-select:none}
  .bar{gap:8px 10px;padding:8px 12px}
  .bar .sub{display:none}
  #moreBtn{display:inline-block}
+ .nav .pick{font-size:1.02rem;padding:4px 5px}
+ #tracPick{max-width:9.2rem}
  #moreBtn[aria-expanded="true"]{background:var(--blue);border-color:var(--blue);color:var(--panel)}
  #paneSeg{order:2}
  .more{display:none;order:3;flex-basis:100%;flex-wrap:wrap;gap:8px 14px;align-items:center;padding-top:6px;border-top:1px solid var(--line)}
@@ -268,10 +277,16 @@ dialog.fb .fine{font-size:12px;color:var(--muted);margin:8px 0 0}
 </style>
 __SPRITE__
 <div class="bar">
- <label class="sr" for="dafPick" hidden>Daf</label>
- <select class="pick" id="dafPick" aria-label="Daf"></select><span class="sub">Study outline</span>
+ <div class="nav" role="group" aria-label="Choose a daf">
+  <button class="navb" id="prevDaf" type="button" aria-label="Previous daf" title="Previous daf (←)">‹</button>
+  <select class="pick" id="tracPick" aria-label="Masechet"></select>
+  <select class="pick num" id="dafNum" aria-label="Daf"></select>
+  <button class="navb" id="nextDaf" type="button" aria-label="Next daf" title="Next daf (→)">›</button>
+ </div>
+ <div class="seg" id="verSeg" role="group" aria-label="Outline version" hidden></div>
  <button class="btn" id="moreBtn" type="button" aria-expanded="false" aria-controls="more">Options</button>
  <div class="more" id="more">
+ <select class="pick small" id="outPick" aria-label="Dafim with an outline"></select>
  <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
  <label class="tog"><input type="checkbox" id="optShiur" checked> Shiur insights</label>
  <label class="tog"><input type="checkbox" id="optCharts" checked> Charts</label>
@@ -391,12 +406,23 @@ function renderDaf(d){
  const terms=d.keyTerms||[];
  // The contents list's depth is one setting shared by its two copies (side column, top of outline).
  const gd=prefs.glanceDepth||2,onDepth=n=>{prefs.glanceDepth=n;savePrefs();view&&view.setGlanceDepth(n);railView&&railView.setDepth(n)};
- view=AnyDafOutline.render($('outline'),{outline:d.outline,keyTerms:terms,onTerm:i=>openGloss(i),onSection:id=>setCurrent(id,true),glanceDepth:gd,onGlanceDepth:onDepth,
-  glanceOpen:prefs.glanceOpen===true,onGlanceOpen:o=>{prefs.glanceOpen=o;savePrefs()},
-  sages:d.sages||[],onSage:i=>openSage(i)});
- railView=AnyDafOutline.glance($('rail'),d.outline,{onSection:id=>setCurrent(id,true),depth:gd,onDepth});
- applyOptions();
- secs=view.sections.map(s=>({...s,a:d.order[s.from],b:d.order[s.to],am:firstAmud(s)}));
+ if(d.outline){
+  view=AnyDafOutline.render($('outline'),{outline:d.outline,keyTerms:terms,onTerm:i=>openGloss(i),onSection:id=>setCurrent(id,true),glanceDepth:gd,onGlanceDepth:onDepth,
+   glanceOpen:prefs.glanceOpen===true,onGlanceOpen:o=>{prefs.glanceOpen=o;savePrefs()},
+   sages:d.sages||[],onSage:i=>openSage(i)});
+  railView=AnyDafOutline.glance($('rail'),d.outline,{onSection:id=>setCurrent(id,true),depth:gd,onDepth});
+  applyOptions();
+  secs=view.sections.map(s=>({...s,a:d.order[s.from],b:d.order[s.to],am:firstAmud(s)}));
+ }else{
+  // Every daf will get an outline; until then the text side is the whole page.
+  view=null;railView=null;secs=[];$('rail').innerHTML='';$('outline').classList.remove('ado');
+  $('outline').innerHTML=`<div class="nooutline"><p class="t">No outline for this daf yet.</p>
+   <p>The Gemara, the written shiur and the daf page are all here to read${narrow.matches?': choose Gemara, Shiur or Daf above':' beside this'}.</p>
+   ${narrow.matches?'<button class="btn" type="button" id="toText">Read the Gemara</button>':''}</div>`;
+  const tt=$('toText');if(tt)tt.onclick=()=>{if(mode==='page')setPane('text');setView('text')};
+  $('now').innerHTML=`<b>${esc(d.title)}</b>${d.shiur.length?'':' · no written shiur for this daf yet'}`;
+ }
+ $('notesBtn').hidden=!d.outline;
  refreshFlags();
  const titles=Object.fromEntries(secs.map(s=>[s.id,s.title]));
  $('terms').innerHTML=terms.length?`<span class="lbl">Key terms</span>${terms.map((t,i)=>`<button type="button" data-t="${i}">${esc(t.term)}<span lang="he">${esc(t.hebrew)}</span></button>`).join('')}`:'';
@@ -502,9 +528,15 @@ function shiurTarget(s){let inRange=null,before=null;
  for(const q of quoteEls){const o=+q.dataset.o;if(o>=s.a&&o<=s.b){inRange=q;break}if(o<s.a&&(!before||o>=+before.dataset.o))before=q}
  return inRange||before}
 function sectionForOrder(o){let best=null;for(const s of secs)if(s.a!=null&&o>=s.a&&o<=s.b)best=s;return best}
-function sectionAtLine(){const line=outPane.getBoundingClientRect().top+110;let best=null;
- for(const s of secs){const r=s.el.getBoundingClientRect();if(r.top<=line&&r.bottom>line)best=s}
- return best||secs[0]}
+// The section under a reading line near the top of the outline: the deepest one containing it.
+// In the gap between two sections (their margins) that is either nothing, or their parent, whose
+// own text comes before its subsections, so the line is past it. Either way the right one is the
+// section just scrolled past. (Taking the parent sent the text back to its first line, often the
+// Mishnah, between every two subsections: Bava Metzia 2, 2026-09-29.)
+function sectionAtLine(){const line=outPane.getBoundingClientRect().top+110;let best=null,passed=null;
+ for(const s of secs){const r=s.el.getBoundingClientRect();if(r.top<=line){passed=s;if(r.bottom>line)best=s}}
+ if(best&&passed&&passed!==best&&best.el.contains(passed.el))return passed;
+ return best||passed||secs[0]}
 outPane.addEventListener('scroll',()=>{if(raf||Date.now()<outHold||!secs.length)return;raf=requestAnimationFrame(()=>{raf=0;setCurrent(sectionAtLine().id)})},{passive:true});
 ['wheel','touchmove','keydown'].forEach(ev=>[textPane,shiurPane].forEach(p=>p.addEventListener(ev,()=>{textHold=Date.now()+1500;textMoved=true},{passive:true})));
 $('text').onclick=e=>{const it=e.target.closest('.item');if(!it)return;const s=sectionForOrder(itemOrd[+it.dataset.i]);if(s){textHold=Date.now()+1500;textMoved=false;setCurrent(s.id,true)}};
@@ -765,7 +797,7 @@ async function showResources(){if(!D)return;const d=D,daf=dafNumOf(d);
    <p class="rt">${esc(a.title)}</p><p class="rm">${esc([a.author,date(a.date)].filter(Boolean).join(' · '))}</p>${a.excerpt?`<p class="rx">${esc(a.excerpt)}</p>`:''}</a>`};
  L.innerHTML=(on.length?`<h3>On this daf</h3>${on.map(card).join('')}`:`<p class="none">Nothing in the library is tagged to ${esc(d.tractate)} ${daf} yet.</p>`)
   +(near.length?`<h3>Nearby dafim</h3>${near.map(card).join('')}`:'')
-  +(rest.length?`<details><summary>Elsewhere in ${esc(d.tractate)} (${rest.length})</summary>${rest.map(card).join('')}</details>`:'')
+  +(rest.length?`<h3>Elsewhere in ${esc(d.tractate)}</h3>${rest.map(card).join('')}`:'')
   +(r.failed?`<p class="none">${r.failed===3?"Couldn't reach the library. Check your connection and open Resources again.":'One of the library sites didn\'t answer, so this list may be incomplete.'}</p>`:'')
   +`<p class="credit">From library.yctorah.org and psak.yctorah.org. Items open on the library's site.</p>`;
  if(r.failed===3)delete resCache[d.tractate]}
@@ -815,7 +847,7 @@ $('fbForm').addEventListener('submit',async e=>{
   catch(err){$('fbSend').disabled=false;fbMsg($('fbMsg'),"Your note didn't go through. Check your connection and press Send again; your text is still here.",true);return}}
  myNotes.push({...row,key:D.key,title:D.title,at:new Date().toISOString(),sent:!!FEEDBACK});saveMine();
  $('fbDlg').close();refreshFlags()});
-function refreshFlags(){document.querySelectorAll('#outline .fl').forEach(b=>b.remove());addFlags();
+function refreshFlags(){document.querySelectorAll('#outline .fl').forEach(b=>b.remove());if(view)addFlags();
  const n=notesHere().length;$('notesBtn').textContent=n?`Feedback (${n})`:'Feedback'}
 function notesText(){return ['Outline notes'+(myNotes[0]&&myNotes[0].reader_name?' from '+myNotes[0].reader_name:''),'',
  ...myNotes.map(n=>`${n.title} · ${n.section_title||'whole daf'} · ${FB_KIND[n.kind]||n.kind}\n  ${n.note.replace(/\s+/g,' ')}`),'',
@@ -832,19 +864,114 @@ $('fbClose').onclick=()=>$('fbList').close();
 $('fbCopy').onclick=async()=>{const t=notesText();try{await navigator.clipboard.writeText(t);fbMsg($('fbListMsg'),'Copied. Paste it into an email or message.')}
  catch(e){$('fbText').hidden=false;$('fbText').value=t;$('fbText').select();fbMsg($('fbListMsg'),'Select the text above and copy it.')}};
 
-// ---------- daf picker: each daf's data is its own file, fetched when chosen ----------
-const pick=$('dafPick');
+// ---------- navigation: any daf in Shas ----------
+// A daf with an outline loads its built file (data/<key>.json: outline, text, shiur, pages, live
+// text). Any other daf is put together here from the public tables: daf_text (Gemara), and
+// shiur_content (the written shiur), with the page scans straight from Google Drive.
+const TRACTATES=__TRACTATES__,READ=__READ__;
+const TR=Object.fromEntries(TRACTATES.map(t=>[t.name,t]));
+const amudNum=a=>parseInt(a,10)*2+(a.endsWith('b')?1:0);
+const nbAmud=(a,s)=>{const i=amudNum(a)+s;return `${Math.floor(i/2)}${'ab'[i%2]}`};
+const inTr=(T,a)=>amudNum(a)>=amudNum(T.first)&&amudNum(a)<=amudNum(T.last);
+const dafsOf=T=>{const o=[];for(let n=parseInt(T.first,10);n<=parseInt(T.last,10);n++)o.push(n);return o};
+const HEB=[[100,'ק'],[90,'צ'],[80,'פ'],[70,'ע'],[60,'ס'],[50,'נ'],[40,'מ'],[30,'ל'],[20,'כ'],[10,'י'],[9,'ט'],[8,'ח'],[7,'ז'],[6,'ו'],[5,'ה'],[4,'ד'],[3,'ג'],[2,'ב'],[1,'א']];
+function hebNum(n){let o='';for(const [v,c] of HEB){if(n%100===15&&v===10){return o+'טו'}if(n%100===16&&v===10){return o+'טז'}while(n>=v){o+=c;n-=v}}return o}
+const amudHe=a=>hebNum(parseInt(a,10))+(a.endsWith('a')?'.':':');
+// Outlines by daf: several versions of one daf (the effort test's M and H, the first test run).
+const OUT_BY={};DAFIM.forEach(o=>{const k=o.tractate+'|'+Math.floor(o.daf);(OUT_BY[k]=OUT_BY[k]||[]).push(o)});
+const VER_ORDER={M:0,H:1};   // Medium first, then High, then the first test run
+Object.values(OUT_BY).forEach(l=>l.sort((a,b)=>(VER_ORDER[a.mark]??9)-(VER_ORDER[b.mark]??9)));
+const verLabel=o=>o.mark||'Test';
+// the written shiur: 03_final.md -> blocks, each quote tied to its line by exact Hebrew (as build_prototype.parse_shiur)
+const normHe=s=>s.replace(/[֑-ׇ]/g,'').replace(/[^א-ת]/g,'');
+function parseShiur(text,order,hebToLabel){if(!text)return [];const blocks=[];let para=[],quote=null;
+ const flush=()=>{if(para.length){blocks.push({t:'p',x:para.join(' ')});para=[]}if(quote){blocks.push({t:'q',pairs:quote});quote=null}};
+ for(const line of text.split('\n')){const st=line.trim();let m;
+  if((m=st.match(/^\[DAF:(\w+)\]$/))){flush();blocks.push({t:'amud',x:m[1]});continue}
+  if(st.startsWith('>')){if(para.length){blocks.push({t:'p',x:para.join(' ')});para=[]}quote=quote||[];const body=st.replace(/^[>\s]+/,'').trim();
+   if(body.startsWith('**Hebrew/Aramaic:**')){const he=body.slice(19).trim(),l=hebToLabel[normHe(he)]??null;quote.push({he,en:'',l,o:l==null?undefined:order[l]})}
+   else if(body.startsWith('**Translation:**')&&quote.length)quote[quote.length-1].en=body.slice(16).trim();continue}
+  if(!st){flush();continue}
+  if(st.startsWith('### ')){flush();blocks.push({t:'h3',x:st.slice(4)});continue}
+  if(st.startsWith('## ')){flush();blocks.push({t:'h2',x:st.slice(3)});continue}
+  if(st.startsWith('# ')){flush();continue}
+  if(st==='---'){flush();blocks.push({t:'hr'});continue}
+  if(quote)flush();para.push(st)}
+ flush();return blocks}
+async function supa(table,q){if(!READ)throw new Error('offline copy');
+ const r=await fetch(`${READ.url}/rest/v1/${table}?${q}`,{headers:{apikey:READ.key,Authorization:'Bearer '+READ.key}});
+ if(!r.ok)throw new Error(`${table} ${r.status}`);return r.json()}
+let PAGES=null;
+async function pageIds(){if(!PAGES)PAGES=fetch('pages.json').then(r=>r.ok?r.json():{}).catch(()=>({}));return PAGES}
+const inList=l=>`in.(${l.map(x=>`"${x}"`).join(',')})`;
+async function runtimeDaf(t,n){const T=TR[t];
+ const A=[`${n}a`,`${n}b`].filter(a=>inTr(T,a));
+ const around=[nbAmud(A[0],-1),...A,nbAmud(A[A.length-1],1)];
+ const [rows,sh,pages]=await Promise.all([
+  supa('daf_text',`tractate=eq.${encodeURIComponent(T.text)}&amud=${encodeURIComponent(inList(around))}&select=amud,segments`),
+  supa('shiur_content',`tractate=${encodeURIComponent(inList(T.shiur))}&daf=in.(${n},${n}.5)&select=daf,final&order=daf`),
+  pageIds()]);
+ const seg=Object.fromEntries(rows.map(r=>[r.amud,typeof r.segments==='string'?JSON.parse(r.segments):r.segments]));
+ const pool=around.flatMap(a=>(seg[a]||[]).map(s=>({l:`${a}.${s.n}`,he:s.he,en:s.en})));
+ const order=Object.fromEntries(pool.map((p,i)=>[p.l,i])),hebToLabel={};
+ pool.forEach(p=>{const k=normHe(p.he);if(!(k in hebToLabel))hebToLabel[k]=p.l});
+ const next=around[around.length-1];
+ const items=[...A.flatMap(a=>(seg[a]||[]).map(s=>({l:`${a}.${s.n}`,he:s.he,en:s.en}))),
+  ...(seg[next]||[]).slice(0,4).map(s=>({l:`${next}.${s.n}`,he:s.he,en:s.en,ctx:'Continues on the next daf'}))];
+ // one shiur per daf, or one per amud (N and N.5); Ta'anit has rows under two spellings
+ const finals=[...new Map(sh.map(r=>[r.daf,r.final])).values()].filter(Boolean);
+ const ids=pages[t]||{},images={};
+ A.forEach(a=>{const fid=ids[String((parseInt(a,10)-1)*2+(a.endsWith('b')?1:0))];if(fid)images[a]=`api/dafImage?id=${encodeURIComponent(fid)}`});   // our proxy (api/dafImage.js)
+ return {key:`${t}|${n}`,base:`${t}|${n}`,title:`${t} ${n}`,tractate:t,tractateHe:T.he,amudim:A,
+  amudHe:Object.fromEntries(A.map(a=>[a,amudHe(a)])),images,layouts:{},outline:null,keyTerms:[],sages:[],
+  items,order,shiur:parseShiur(finals.join('\n\n---\n\n'),order,hebToLabel)}}
+
+// where we are: tractate, daf number, outline version
+let navAt=null,navToken=0;const cache={};
+const slugT=t=>t.replace(/’/g,"'").replace(/ /g,'_');
+const unslugT=s=>{const x=decodeURIComponent(s).replace(/_/g,' ').replace(/'/g,'’').toLowerCase();return TRACTATES.find(t=>t.name.toLowerCase()===x||t.text.toLowerCase()===x)?.name};
+function hashFor(t,n,v){return `#${slugT(t)}/${n}${v?'/'+v:''}`}
+function parseHash(){const m=location.hash.match(/^#([^/]+)\/(\d+)(?:\/(\w+))?/);if(!m)return null;const t=unslugT(m[1]);return t?{t,n:+m[2],v:m[3]||null}:null}
+$('tracPick').innerHTML=TRACTATES.map(t=>`<option value="${esc(t.name)}">${esc(t.name)}</option>`).join('');
+function fillDafs(t){$('dafNum').innerHTML=dafsOf(TR[t]).map(n=>`<option value="${n}">${n}${OUT_BY[t+'|'+n]?' ✦':''}</option>`).join('')}
 {const groups=[];DAFIM.forEach(d=>{const g=d.group||'';let G=groups.find(x=>x.g===g);if(!G)groups.push(G={g,items:[]});G.items.push(d)});
- const opt=d=>`<option value="${esc(d.key)}">${esc(d.title)}</option>`;
- pick.innerHTML=groups.length>1?groups.map(G=>`<optgroup label="${esc(G.g)}">${G.items.map(opt).join('')}</optgroup>`).join(''):DAFIM.map(opt).join('')}
-const cache={};
-async function load(key){
- prefs.daf=key;savePrefs();
- try{const d=cache[key]||(cache[key]=await fetch(`data/${key}.json`).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}));
-  if(pick.value===key)renderDaf(d)}
- catch(e){$('outline').innerHTML=`<p class="loading">Couldn't load this daf (${esc(e.message)}). Reload the page to try again.</p>`}
+ $('outPick').innerHTML=`<option value="">Dafim with an outline…</option>`+groups.map(G=>`<optgroup label="${esc(G.g)}">${G.items.map(d=>`<option value="${esc(d.key)}">${esc(d.title)}</option>`).join('')}</optgroup>`).join('')}
+function goDaf(t,n,v,{push=true}={}){const T=TR[t];if(!T)return;
+ const ds=dafsOf(T);n=Math.max(ds[0],Math.min(ds[ds.length-1],n));
+ const outs=OUT_BY[t+'|'+n]||[],o=outs.find(x=>verLabel(x)===v)||outs[0]||null;v=o?verLabel(o):null;
+ navAt={t,n,v};prefs.nav=navAt;savePrefs();
+ const h=hashFor(t,n,outs.length>1?v:null);if(location.hash!==h)(push?history.pushState:history.replaceState).call(history,null,'',h);
+ if($('tracPick').value!==t||$('dafNum').options.length!==ds.length){$('tracPick').value=t;fillDafs(t)}
+ $('dafNum').value=String(n);
+ $('prevDaf').disabled=t===TRACTATES[0].name&&n===ds[0];$('nextDaf').disabled=t===TRACTATES[TRACTATES.length-1].name&&n===ds[ds.length-1];
+ $('verSeg').hidden=outs.length<2;
+ $('verSeg').innerHTML=outs.length<2?'':outs.map(x=>`<button type="button" data-v="${esc(verLabel(x))}" aria-pressed="${x===o}" title="${esc(x.title)}">${esc(verLabel(x))}</button>`).join('');
+ $('outPick').value=o?o.key:'';
+ document.title=`${t} ${n} · AnyDaf`;
+ load(o?o.key:null,t,n)}
+// previous / next run across tractates, in the apps' order
+function step(s){const i=TRACTATES.findIndex(t=>t.name===navAt.t),ds=dafsOf(TR[navAt.t]);let n=navAt.n+s;
+ if(n<ds[0]){if(i>0){const T=TRACTATES[i-1];return goDaf(T.name,parseInt(T.last,10))}return}
+ if(n>ds[ds.length-1]){if(i<TRACTATES.length-1){const T=TRACTATES[i+1];return goDaf(T.name,parseInt(T.first,10))}return}
+ goDaf(navAt.t,n)}
+$('prevDaf').onclick=()=>step(-1);$('nextDaf').onclick=()=>step(1);
+$('tracPick').onchange=()=>{fillDafs($('tracPick').value);goDaf($('tracPick').value,parseInt(TR[$('tracPick').value].first,10))};
+$('dafNum').onchange=()=>goDaf(navAt.t,+$('dafNum').value);
+$('verSeg').onclick=e=>{const b=e.target.closest('[data-v]');if(b)goDaf(navAt.t,navAt.n,b.dataset.v)};
+$('outPick').onchange=()=>{const o=DAFIM.find(x=>x.key===$('outPick').value);if(o){goDaf(o.tractate,Math.floor(o.daf),verLabel(o));if(narrow.matches)setMore(false)}};
+addEventListener('popstate',()=>{const h=parseHash();if(h)goDaf(h.t,h.n,h.v,{push:false})});
+// ← / → turn the daf, unless the reader is typing or using a slider
+addEventListener('keydown',e=>{if(e.altKey||e.ctrlKey||e.metaKey||e.target.closest('input,select,textarea,dialog'))return;
+ if(e.key==='ArrowLeft'){step(-1);e.preventDefault()}else if(e.key==='ArrowRight'){step(1);e.preventDefault()}});
+async function load(key,t,n){const tok=++navToken;
+ $('outline').innerHTML='<p class="loading">Loading…</p>';
+ try{const ck=key||`${t}|${n}`;
+  const d=cache[ck]||(cache[ck]=(key?fetch(`data/${key}.json`).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}):runtimeDaf(t,n)));
+  const data=await d;if(tok!==navToken)return;renderDaf(data);
+  if(!data.outline&&narrow.matches&&phoneView==='outline')setView('text')}
+ catch(e){delete cache[key||`${t}|${n}`];if(tok!==navToken)return;
+  $('outline').innerHTML=`<p class="loading">Couldn't load ${esc(t)} ${n} (${esc(e.message)}). Check your connection and choose the daf again.</p>`}
 }
-pick.onchange=()=>load(pick.value);
 if(prefs.left===true)setSide(true);
 if(prefs.rail===true)setRail(true);
 if(prefs.lang)setLang(prefs.lang);
@@ -872,6 +999,9 @@ dragger($('gRail'),(x,r)=>{const left=main.classList.contains('textleft');prefs.
 $('gGem').ondblclick=()=>{delete prefs.gemw;savePrefs();setWidths()};
 $('gRail').ondblclick=()=>{delete prefs.railw;savePrefs();setWidths()};
 setWidths();
-pick.value=DAFIM.some(d=>d.key===prefs.daf)?prefs.daf:DAFIM[0].key;
-load(pick.value);
+// Start at the daf in the link, else where this reader left off, else the first outline.
+{const h=parseHash(),p=prefs.nav,o=DAFIM[0];
+ if(h)goDaf(h.t,h.n,h.v,{push:false});
+ else if(p&&TR[p.t])goDaf(p.t,p.n,p.v,{push:false});
+ else goDaf(o.tractate,Math.floor(o.daf),verLabel(o),{push:false})}
 </script>

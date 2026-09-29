@@ -282,6 +282,45 @@ def page_layout(tractate: str, amud: str) -> dict | None:
 
 TRACTATE_GROUP = {}   # optional menu group per daf key; defaults to the tractate
 
+# Every tractate, for the page's masechet and daf pickers: the apps' own list (Tractate.swift),
+# so the two never drift. Names are the apps' spellings; `text` is daf_text's where it differs.
+TRACTATE_SWIFT = HERE.parent.parent / "AnyDaf" / "Tractate.swift"
+ALL_HE = {"Berakhot": "ברכות", "Shabbat": "שבת", "Eiruvin": "עירובין", "Pesachim": "פסחים", "Shekalim": "שקלים",
+          "Rosh Hashanah": "ראש השנה", "Yoma": "יומא", "Sukkah": "סוכה", "Beitzah": "ביצה", "Ta’anit": "תענית",
+          "Megillah": "מגילה", "Moed Katan": "מועד קטן", "Chagigah": "חגיגה", "Yevamot": "יבמות", "Ketubot": "כתובות",
+          "Nedarim": "נדרים", "Nazir": "נזיר", "Sotah": "סוטה", "Gittin": "גיטין", "Kiddushin": "קידושין",
+          "Bava Kamma": "בבא קמא", "Bava Metzia": "בבא מציעא", "Bava Batra": "בבא בתרא", "Sanhedrin": "סנהדרין",
+          "Makkot": "מכות", "Shevuot": "שבועות", "Avodah Zarah": "עבודה זרה", "Horayot": "הוריות",
+          "Zevachim": "זבחים", "Menachot": "מנחות", "Hullin": "חולין", "Bekhorot": "בכורות", "Arakhin": "ערכין",
+          "Temurah": "תמורה", "Keritot": "כריתות", "Meilah": "מעילה", "Kinnim": "קינים", "Tamid": "תמיד",
+          "Middot": "מדות", "Niddah": "נדה"}
+TEXT_NAME = {"Ta’anit": "Taanit"}                     # daf_text / daf-processor spelling
+SHIUR_NAMES = {"Ta’anit": ["Ta’anit", "Taanit"]}      # shiur_content has rows under both
+PAGES_NAME = {"Rosh HaShanah": "Rosh Hashanah", "Ta'anit": "Ta’anit", "Zevahim": "Zevachim"}
+
+
+def tractates() -> list[dict]:
+    src = TRACTATE_SWIFT.read_text(encoding="utf-8").replace("\\u{2019}", "’")
+    out = []
+    for name, start, end, sa in re.findall(
+            r'Tractate\(name:\s*"([^"]+)",\s*startDaf:\s*(\d+),\s*endDaf:\s*(\d+)(?:,\s*startAmud:\s*(\d+))?\)', src):
+        tname = TEXT_NAME.get(name, name)
+        am = json.loads((DP / "daf_text" / f"{tname}.json").read_text(encoding="utf-8"))["amudim"]
+        seq = amud_seq([a for a, v in am.items() if v.get("segments")])
+        out.append({"name": name, "he": ALL_HE.get(name, name), "start": int(start), "end": int(end),
+                    "first": seq[0] if seq else f"{start}{'b' if sa == '1' else 'a'}",
+                    "last": seq[-1] if seq else f"{end}b", "text": tname,
+                    "shiur": SHIUR_NAMES.get(name, [name])})
+    return out
+
+
+def pages_index(pages: dict) -> dict:
+    """AnyTorah's page-image ids, keyed by the apps' tractate names (both spellings merged)."""
+    out = {}
+    for k, v in pages.items():
+        out.setdefault(PAGES_NAME.get(k, k), {}).update(v)
+    return out
+
 
 def parse_spec(spec):
     """'kiddushin_3' -> the default outline; 'kiddushin_3@opus55_medium=M' -> that result tag,
@@ -344,7 +383,8 @@ def build_daf(spec, src, pages, out):
     print(f"  {dkey:18s} amudim {'/'.join(shown)}; {len(items)} lines; {len(terms)} terms; "
           f"shiur quotes {sum(q['l'] is not None for q in quotes)}/{len(quotes)}; "
           f"images {len(images)} (live text {len(layouts)}); {len(data['sages'])} sages; {'anchored' if anchored else 'amud-level sync'}")
-    return {"key": dkey, "title": title, "group": TRACTATE_GROUP.get(key) or tractate if mark else "Test dafim"}
+    return {"key": dkey, "title": title, "group": TRACTATE_GROUP.get(key) or tractate if mark else "Test dafim",
+            "tractate": tractate, "daf": daf, "mark": mark}
 
 
 def anon_key() -> str:
@@ -380,7 +420,13 @@ def main():
                 .replace("__RENDERER_JS__", (r / "outline-renderer.js").read_text(encoding="utf-8"))
                 .replace("__SPRITE__", (DP / "outline" / "sprite.svg").read_text(encoding="utf-8"))
                 .replace("__DAFIM__", json.dumps(index, ensure_ascii=False))
+                .replace("__TRACTATES__", json.dumps(tractates(), ensure_ascii=False))
+                # Reading the Gemara and shiur of dafim without an outline (public tables, anon key).
+                .replace("__READ__", json.dumps({"url": SUPABASE_URL, "key": anon_key()}) if args.feedback else "null")
                 .replace("__FEEDBACK__", json.dumps({"url": SUPABASE_URL, "key": anon_key()}) if args.feedback else "null"))
+    (out / "api").mkdir(exist_ok=True)            # the page-scan proxy (Vercel function)
+    (out / "api" / "dafImage.js").write_text((HERE / "api" / "dafImage.js").read_text(encoding="utf-8"), encoding="utf-8")
+    (out / "pages.json").write_text(json.dumps(pages_index(pages), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     if args.feedback:
         html = html.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex, nofollow">', 1)
         (out / "vercel.json").write_text(json.dumps({
