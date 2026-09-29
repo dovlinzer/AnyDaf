@@ -10,6 +10,8 @@
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--ok:#7CC48A;--no:#EE8F8F}}
 :root[data-theme="dark"]{color-scheme:dark;--ok:#7CC48A;--no:#EE8F8F;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5)}
 html,body{height:100%}
+/* the height Safari actually shows, toolbars and all, so the audio bar at the foot isn't hidden under them */
+@supports (height:100dvh){body{height:100dvh}}
 /* the base rules claude.ai adds to every page, repeated here so the page also works on its own (Vercel) */
 [hidden]{display:none!important}
 body{margin:0}
@@ -253,6 +255,13 @@ body.dragging{cursor:col-resize;user-select:none}
  .bar{gap:8px 10px;padding:8px 12px}
  .bar .sub{display:none}
  #moreBtn{display:inline-block}
+ /* audio bar in two rows: the scrubber as a strip on top, then the controls and Follow switches */
+ .abar{gap:6px;padding:4px 10px calc(6px + env(safe-area-inset-bottom,0px))}
+ #aSeek{order:-1;flex-basis:100%;margin:0}
+ .abar .afl,#aDur{display:none}
+ .aplay{width:34px;height:34px}
+ .askip{padding:4px 7px}
+ #aFollow button{padding:5px 9px}
  .nav .pick{font-size:1.02rem;padding:4px 5px}
  #tracPick{max-width:9.2rem}
  #moreBtn[aria-expanded="true"]{background:var(--blue);border-color:var(--blue);color:var(--panel)}
@@ -301,6 +310,7 @@ __SPRITE__
   <select class="pick" id="tracPick" aria-label="Masechet"></select>
   <select class="pick num" id="dafNum" aria-label="Daf"></select>
   <button class="navb" id="nextDaf" type="button" aria-label="Next daf" title="Next daf (→)">›</button>
+  <button class="btn" id="todayBtn" type="button" title="Go to today's daf yomi">Today</button>
  </div>
  <div class="seg" id="verSeg" role="group" aria-label="Outline version" hidden></div>
  <button class="btn" id="moreBtn" type="button" aria-expanded="false" aria-controls="more">Options</button>
@@ -1135,6 +1145,15 @@ function step(s){const i=TRACTATES.findIndex(t=>t.name===navAt.t),ds=dafsOf(TR[n
  if(n>ds[ds.length-1]){if(i<TRACTATES.length-1){const T=TRACTATES[i+1];return goDaf(T.name,parseInt(T.first,10))}return}
  goDaf(navAt.t,n)}
 $('prevDaf').onclick=()=>step(-1);$('nextDaf').onclick=()=>step(1);
+// Today's daf yomi, from Sefaria's calendar (as the apps' DafYomiService), for the reader's own date.
+const SEFARIA_NAME={Eruvin:'Eiruvin',Taanit:'Ta’anit',Chullin:'Hullin'};
+$('todayBtn').onclick=async()=>{const b=$('todayBtn'),d=new Date();b.disabled=true;
+ try{const j=await fetch(`https://www.sefaria.org/api/calendars?year=${d.getFullYear()}&month=${d.getMonth()+1}&day=${d.getDate()}`).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()});
+  const it=(j.calendar_items||[]).find(x=>x.title&&x.title.en==='Daf Yomi'),m=it&&/^(.*)\s(\d+)$/.exec(it.displayValue.en);
+  if(!m)throw new Error('not in the calendar');const t=SEFARIA_NAME[m[1]]||m[1];if(!TR[t])throw new Error(m[1]);
+  goDaf(t,+m[2]);b.title=`Today's daf yomi: ${t} ${m[2]}`}
+ catch(e){b.title="Couldn't reach Sefaria's calendar. Try again.";alert("Couldn't find today's daf yomi (Sefaria's calendar didn't answer). Try again in a moment.")}
+ finally{b.disabled=false}};
 $('tracPick').onchange=()=>{fillDafs($('tracPick').value);goDaf($('tracPick').value,parseInt(TR[$('tracPick').value].first,10))};
 $('dafNum').onchange=()=>goDaf(navAt.t,+$('dafNum').value);
 $('verSeg').onclick=e=>{const b=e.target.closest('[data-v]');if(b)goDaf(navAt.t,navAt.n,b.dataset.v)};
