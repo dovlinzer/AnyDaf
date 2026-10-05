@@ -1,0 +1,714 @@
+{
+ "daf": "חגיגה ו",
+ "lang": "he",
+ "scope": {
+  "start": "ה: – הגדרת קטן במשנה וקושיית רבי זירא (דף ו. נפתח באמצע הדיון)",
+  "end": "ו: – המשנה בפאה א, א"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "קטן בראייה: על כתפי אביו או אוחז בידו? ודין חינוך",
+   "amud": "ה:–ו.",
+   "text": {
+    "from": "5b.24",
+    "to": "6a.7"
+   },
+   "gist": "איזה קטן חייב לעלות לרגל – מי שיכול לרכוב על כתפי אביו או מי שיכול לעלות ברגליו – והאם מחנכים קטן חיגר או סומא.",
+   "flag": "על פי הגמרא בלבד",
+   "bullets": [
+    {
+     "text": "משנה (בית שמאי): קטן שאינו יכול לרכוב על כתפי אביו ולעלות מירושלים להר הבית – פטור מן הראייה.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "רבי זירא מקשה: ועד ירושלים, מי הביא אותו?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "אביי מתרץ: אמו הביאה אותו, שהרי היא חייבת בשמחה. המבחן מתחיל רק מירושלים. ולבית הלל – אם יכול לאחוז ביד אביו ולעלות ברגליו, חייב.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "רבי מביא ראיה לבית הלל מחנה: \"עַד יִגָּמֵל הַנַּעַר\" (שמואל א א, כב). שמואל כבר יכול היה לרכוב על הכתפיים, ובכל זאת חנה לא העלתה אותו.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "אביו של רבי דוחה את הראיה: חנה עצמה חייבת בשמחה ובכל זאת לא עלתה. סימן שהסיבה הייתה אישית – שמואל היה רך ולא היה יכול לעמוד בדרך.",
+     "detail": 3,
+     "source": "gemara"
+    },
+    {
+     "text": "רבי שמעון שואל על קטן חיגר שאפשר להרכיב אותו (לבית שמאי), ועל קטן סומא שאפשר להוליך אותו (לשני הבתים).",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "השאלה היא רק על קטן שעשוי להתרפא. קטן שמומו קבוע יהיה פטור גם כשיגדל, ואין למה לחנך אותו.",
+     "detail": 3,
+     "source": "gemara"
+    },
+    {
+     "text": "אביי: החינוך הולך אחר מה שגדול במצבו חייב עכשיו. גדול במצב כזה פטור, ולכן גם הקטן פטור – אף שעשוי להתרפא.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "children": [],
+   "illustration": {
+    "caption": "המבחן של המשנה לקטן, ותשובת אביי לרבי זירא: אמו מביאה אותו עד ירושלים, ולכן המבחן הוא רק העלייה משם להר הבית.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>דרך עולה מירושלים להר הבית. אם מביאה את בנה עד ירושלים; גבוה יותר אב נושא ילד על כתפיו; וגבוה עוד יותר ילד עולה ברגליו כשהוא אוחז ביד אביו.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"url(#sky)\"/><path d=\"M0 440 L0 340 C220 330 380 290 520 230 C660 170 780 130 900 120 L900 440 Z\" fill=\"#D9C9A8\"/><path d=\"M40 430 C260 400 360 350 440 300 C540 240 640 190 820 150\" fill=\"none\" stroke=\"#C9B48E\" stroke-width=\"26\" stroke-linecap=\"round\"/><g fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"><rect x=\"24\" y=\"352\" width=\"48\" height=\"48\"/><rect x=\"76\" y=\"338\" width=\"56\" height=\"62\"/><rect x=\"136\" y=\"356\" width=\"44\" height=\"44\"/><rect x=\"184\" y=\"344\" width=\"46\" height=\"56\"/></g><g fill=\"#6E5B46\"><rect x=\"40\" y=\"366\" width=\"10\" height=\"12\"/><rect x=\"96\" y=\"354\" width=\"10\" height=\"12\"/><rect x=\"112\" y=\"376\" width=\"12\" height=\"24\"/><rect x=\"152\" y=\"370\" width=\"10\" height=\"12\"/><rect x=\"200\" y=\"358\" width=\"10\" height=\"12\"/></g><use href=\"#woman\" x=\"238\" y=\"318\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#child\" x=\"280\" y=\"364\" width=\"24\" height=\"48\" style=\"color:#4E7A8C\"/><path d=\"M276 372 L286 380\" stroke=\"#D8B38E\" stroke-width=\"4\" stroke-linecap=\"round\"/><use href=\"#child\" x=\"407\" y=\"186\" width=\"30\" height=\"60\" style=\"color:#4E7A8C\"/><use href=\"#man\" x=\"392\" y=\"196\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"610\" y=\"88\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><use href=\"#child\" x=\"672\" y=\"148\" width=\"30\" height=\"60\" style=\"color:#4E7A8C\"/><path d=\"M662 170 L678 176\" stroke=\"#D8B38E\" stroke-width=\"4\" stroke-linecap=\"round\"/><rect x=\"740\" y=\"112\" width=\"150\" height=\"16\" fill=\"#CDBB98\"/><rect x=\"772\" y=\"52\" width=\"86\" height=\"60\" fill=\"#EFE6D2\" stroke=\"#BFAE8E\"/><rect x=\"800\" y=\"40\" width=\"30\" height=\"72\" fill=\"#F5EEDD\" stroke=\"#BFAE8E\"/><rect x=\"808\" y=\"84\" width=\"14\" height=\"28\" fill=\"#8A7560\"/></g><text x=\"772\" y=\"428\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#5A4A3A\" text-anchor=\"middle\">ירושלים</text><text x=\"876\" y=\"252\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"end\">אביי:</text><text x=\"876\" y=\"272\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" text-anchor=\"end\">אמו מביאה אותו עד ירושלים,</text><text x=\"876\" y=\"292\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" text-anchor=\"end\">שהרי היא עצמה חייבת בשמחה</text><text x=\"686\" y=\"116\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"end\">בית שמאי:</text><text x=\"686\" y=\"136\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1B3A8A\" text-anchor=\"end\">יכול לרכוב על כתפי אביו?</text><text x=\"500\" y=\"40\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"end\">בית הלל:</text><text x=\"500\" y=\"60\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#9A6212\" text-anchor=\"end\">יכול לעלות כשהוא אוחז ביד אביו?</text><text x=\"85\" y=\"150\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5A4A3A\" text-anchor=\"middle\">הר הבית</text><text x=\"20\" y=\"420\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"start\">המבחן מתחיל בירושלים: משם ועד הר הבית</text></svg>"
+   }
+  },
+  {
+   "id": "s2",
+   "title": "איזו גדולה יותר: עולת ראייה או שלמי חגיגה?",
+   "amud": "ו.–ו:",
+   "text": {
+    "from": "6a.8",
+    "to": "6b.14"
+   },
+   "gist": "איזה מקרבנות הרגל צריך להיות יקר יותר, ומתחת למחלוקת – מה הייתה העולה שהקריבו בסיני.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s3",
+     "title": "בית שמאי ובית הלל: מה שכולו לגבוה, או הקרבן המשותף",
+     "amud": "ו.",
+     "text": {
+      "from": "6a.8",
+      "to": "6a.15"
+     },
+     "gist": "לבית שמאי הראייה יקרה יותר, ולבית הלל החגיגה. לכל צד שני נימוקים, ותשובה לכל אחד מנימוקי חברו.",
+     "bullets": [
+      {
+       "text": "בית שמאי: עולת ראייה – לפחות שתי כסף, ושלמי חגיגה – לפחות מעה כסף. בית הלל הופכים.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "מתחת למספרים עומדת שאלה של דגש. בית שמאי מעדיפים את העולה, שכולה לגבוה. בית הלל מעדיפים את השלמים, שיש בהם חלק לגבוה וחלק לבעלים. השאלה היא כמה משקל יש לצד האנושי בעבודת ה'.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "בית הלל: \"וַיִּזְבְּחוּ זְבָחִים שְׁלָמִים\" (שמות כד, ה) – מכאן שסוג החגיגה היה קיים כבר לפני מתן תורה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "בית שמאי: באותו פסוק נאמר גם \"וַיַּעֲלוּ עֹלֹת\" – אם כן, גם העולה קדמה לסיני.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "המחלוקת עוברת אפוא לשאלה: מה היו העולות שבסיני? לבית הלל – עולת התמיד (קרבן ציבור); לבית שמאי – עולת ראייה (קרבן יחיד).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "מעניין ששני הצדדים רואים במה שנעשה לפני מתן תורה תקדים מחייב, אף שבדרך כלל למה שקדם למתן תורה אין משקל הלכתי.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "בית שמאי ובית הלל: איזה קרבן יקר יותר",
+      "columns": [
+       "",
+       "השיעורים",
+       "נימוק ראשון",
+       "נימוק שני",
+       "תשובה לנימוק הראשון של חברו",
+       "תשובה לנימוק השני של חברו"
+      ],
+      "rows": [
+       [
+        "בית שמאי",
+        "ראייה – שתי כסף · חגיגה – מעה",
+        "העולה כולה לגבוה",
+        "בקרבנות שבועות יש יותר עולות משלמים",
+        "גם העולה קדמה לדיבור",
+        "הנשיאים הקריבו פעם אחת; לומדים ממה שנוהג לדורות"
+       ],
+       [
+        "בית הלל",
+        "ראייה – מעה · חגיגה – שתי כסף",
+        "החגיגה קדמה לדיבור (שמות כד, ה)",
+        "הנשיאים הקריבו יותר שלמים מעולות",
+        "בשלמים יש שתי אכילות: למזבח ולבעלים",
+        "קרבנות שבועות הם קרבן ציבור; לומדים קרבן יחיד מקרבן יחיד"
+       ]
+      ]
+     },
+     "children": [],
+     "illustration": {
+      "caption": "המספרים שמאחורי הנימוק השני של כל צד. התשובות: בית הלל משיבים ששבועות הוא קרבן ציבור, ובית שמאי משיבים שהנשיאים הקריבו פעם אחת בלבד.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>קרבנות שבועות: עשר עולות ושני שלמים. קרבנות הנשיאים: שלוש עולות ושבעה עשר שלמים.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"386\" rx=\"14\" fill=\"#E3EAF3\"/><use href=\"#bull\" x=\"105\" y=\"100\" width=\"40\" height=\"26\"/><use href=\"#ram\" x=\"145\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#ram\" x=\"185\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"225\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"265\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"305\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"345\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"385\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"105\" y=\"132\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"145\" y=\"132\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"105\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"145\" y=\"182\" width=\"36\" height=\"25\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"386\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#bull\" x=\"550\" y=\"100\" width=\"40\" height=\"26\"/><use href=\"#ram\" x=\"590\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"630\" y=\"100\" width=\"36\" height=\"25\"/><use href=\"#bull\" x=\"550\" y=\"182\" width=\"40\" height=\"26\"/><use href=\"#bull\" x=\"590\" y=\"182\" width=\"40\" height=\"26\"/><use href=\"#ram\" x=\"630\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#ram\" x=\"670\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#ram\" x=\"710\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#ram\" x=\"750\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#ram\" x=\"790\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#goat\" x=\"830\" y=\"182\" width=\"36\" height=\"25\"/><use href=\"#goat\" x=\"550\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#goat\" x=\"590\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#goat\" x=\"630\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#goat\" x=\"670\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"710\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"750\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"790\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"830\" y=\"214\" width=\"36\" height=\"25\"/><use href=\"#lamb\" x=\"550\" y=\"246\" width=\"36\" height=\"25\"/><g><use href=\"#bull\" x=\"300\" y=\"408\" width=\"30\" height=\"21\"/><use href=\"#ram\" x=\"380\" y=\"408\" width=\"30\" height=\"21\"/><use href=\"#goat\" x=\"460\" y=\"408\" width=\"30\" height=\"21\"/><use href=\"#lamb\" x=\"540\" y=\"408\" width=\"30\" height=\"21\"/></g></g><text x=\"673\" y=\"50\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\">שבועות</text><text x=\"673\" y=\"72\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\">ויקרא כג, יח–יט · המקור של בית שמאי</text><text x=\"865\" y=\"118\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"end\">עולות</text><text x=\"865\" y=\"200\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"end\">שלמים</text><text x=\"673\" y=\"300\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\">10 עולות · 2 שלמים</text><text x=\"673\" y=\"328\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\">לכן העולה צריכה להיות יקרה יותר</text><text x=\"673\" y=\"362\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\">בית הלל משיבים: זה קרבן ציבור –</text><text x=\"673\" y=\"380\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\">לומדים קרבן יחיד מקרבן יחיד</text><text x=\"228\" y=\"50\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\">הנשיאים</text><text x=\"228\" y=\"72\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\">במדבר ז, טו–יז · המקור של בית הלל</text><text x=\"420\" y=\"118\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"end\">עולות</text><text x=\"420\" y=\"200\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"end\">שלמים</text><text x=\"228\" y=\"300\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\">3 עולות · 17 שלמים</text><text x=\"228\" y=\"328\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\">לכן השלמים צריכים להיות יקרים יותר</text><text x=\"228\" y=\"362\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\">בית שמאי משיבים: זה היה מעשה חד־פעמי –</text><text x=\"228\" y=\"380\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\">לומדים ממה שנוהג לדורות</text><text x=\"565\" y=\"423\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"end\">פר</text><text x=\"485\" y=\"423\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"end\">איל</text><text x=\"405\" y=\"423\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"end\">שעיר</text><text x=\"325\" y=\"423\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"end\">כבש</text></svg>"
+     }
+    },
+    {
+     "id": "s4",
+     "title": "העולה שבסיני: עולת ראייה או עולת תמיד?",
+     "amud": "ו.–ו:",
+     "text": {
+      "from": "6a.16",
+      "to": "6b.14"
+     },
+     "gist": "אביי מרחיב את השאלה לשישה תנאים, שלושה בכל צד. הגמרא בודקת את החלוקה שלו ומוציאה ממנה את רבי ישמעאל.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s5",
+       "title": "שישה תנאים, שני מחנות",
+       "amud": "ו.–ו:",
+       "text": {
+        "from": "6a.16",
+        "to": "6b.1"
+       },
+       "gist": "אביי מחלק שישה תנאים לשני מחנות: שלושה אומרים שהעולה שבסיני הייתה עולת ראייה, ושלושה – עולת תמיד.",
+       "bullets": [
+        {
+         "text": "בית שמאי, רבי אלעזר ורבי ישמעאל: העולה שבסיני הייתה עולת ראייה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "בית הלל, רבי עקיבא ורבי יוסי הגלילי: היא הייתה עולת תמיד.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "chart": {
+        "caption": "מה הייתה העולה שבסיני? (החלוקה של אביי)",
+        "columns": [
+         "התנא",
+         "העולה שבסיני",
+         "הנימוק"
+        ],
+        "rows": [
+         [
+          "בית שמאי",
+          "עולת ראייה",
+          "גם העולה קדמה לדיבור"
+         ],
+         [
+          "רבי אלעזר",
+          "עולת ראייה",
+          "התמיד נאמר בסיני אבל לא הוקרב שם"
+         ],
+         [
+          "רבי ישמעאל",
+          "עולת ראייה (הוצא אחר כך מהרשימה)",
+          "הפרטות נאמרו רק באהל מועד, ואין תמיד בלי הפשט וניתוח"
+         ],
+         [
+          "בית הלל",
+          "עולת תמיד",
+          "לא הייתה עולת יחיד לפני הדיבור"
+         ],
+         [
+          "רבי עקיבא",
+          "עולת תמיד",
+          "הוקרבה בסיני ולא פסקה"
+         ],
+         [
+          "רבי יוסי הגלילי",
+          "עולת תמיד",
+          "רק החגיגה קדמה לדיבור"
+         ]
+        ]
+       },
+       "children": [
+        {
+         "id": "s5a",
+         "title": "כללות בסיני ופרטות באהל מועד? רבי ישמעאל ורבי עקיבא",
+         "amud": "ו.–ו:",
+         "text": {
+          "from": "6a.17",
+          "to": "6b.1"
+         },
+         "gist": "שיטתו של רבי ישמעאל בנתינת התורה – הכללים קודם והפרטים אחר כך – היא שמשייכת אותו לבית שמאי. לרבי עקיבא, הכללים והפרטים נאמרו שניהם בסיני.",
+         "bullets": [
+          {
+           "text": "רבי ישמעאל: \"כללות נאמרו בסיני, ופרטות באהל מועד\". הכללים ניתנו בסיני והפרטים מאוחר יותר.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "אם כן, תמיד שהוקרב בסיני הוקרב בלי הפשט וניתוח, שנצטוו עליהם רק אחר כך – ונראה שזה בלתי אפשרי.",
+           "detail": 3,
+           "source": "gemara"
+          },
+          {
+           "text": "רבי עקיבא: כללות ופרטות נאמרו בסיני, נשנו באהל מועד ונשתלשו בערבות מואב.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "השיטות נראות הפוכות: רבי עקיבא דורש כל אות, ואילו רבי ישמעאל סובר \"דיברה תורה כלשון בני אדם\".",
+           "detail": 2,
+           "source": "shiur"
+          },
+          {
+           "text": "יישוב אפשרי: לרבי עקיבא, פרטים \"שניתנו בסיני\" הם פרטים הגנוזים בכתוב, וחכמים דורשים אותם. לרבי ישמעאל, פרט נחשב כניתן רק כשהוא נאמר במפורש.",
+           "detail": 3,
+           "source": "shiur"
+          }
+         ],
+         "illustration": {
+          "caption": "רבי ישמעאל ורבי עקיבא: מתי ניתנו פרטי המצוות. לרבי ישמעאל, תמיד שהוקרב בסיני היה קודם לדיני הפשט וניתוח.",
+          "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ציר זמן: הר סיני, אהל מועד וערבות מואב. לרבי ישמעאל – הכללות בסיני והפרטות באהל מועד. לרבי עקיבא – כללות ופרטות בסיני, נשנו באהל מועד ונשתלשו בערבות מואב.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><path d=\"M230 140 L276 72 L292 90 L310 60 L352 140 Z\" fill=\"#8E7F74\"/><ellipse cx=\"300\" cy=\"62\" rx=\"40\" ry=\"12\" fill=\"#FFFFFF\" stroke=\"#E1DACF\"/><rect x=\"470\" y=\"112\" width=\"120\" height=\"28\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\"/><g stroke=\"#BFAE8E\" stroke-width=\"2\"><line x1=\"480\" y1=\"112\" x2=\"480\" y2=\"140\"/><line x1=\"500\" y1=\"112\" x2=\"500\" y2=\"140\"/><line x1=\"520\" y1=\"112\" x2=\"520\" y2=\"140\"/><line x1=\"540\" y1=\"112\" x2=\"540\" y2=\"140\"/><line x1=\"560\" y1=\"112\" x2=\"560\" y2=\"140\"/><line x1=\"580\" y1=\"112\" x2=\"580\" y2=\"140\"/></g><rect x=\"502\" y=\"70\" width=\"56\" height=\"46\" fill=\"#7B4B3A\"/><rect x=\"522\" y=\"88\" width=\"16\" height=\"28\" fill=\"#C9A96E\"/><path d=\"M702 132 q14 -8 28 0 t28 0 t28 0 t28 0 t28 0\" fill=\"none\" stroke=\"#6FA3C8\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M718 122 L732 96 L746 122 Z M752 122 L764 100 L776 122 Z\" fill=\"#C9A96E\"/><path d=\"M806 124 q2 -22 -2 -40\" stroke=\"#7A5A3A\" stroke-width=\"4\" fill=\"none\"/><path d=\"M804 84 q-18 -2 -26 10 M804 84 q18 -4 26 8 M804 84 q-8 -14 -22 -14 M804 84 q10 -14 24 -12\" stroke=\"#4E7A3E\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M200 208 H860\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><path d=\"M860 208 l-10 -6 v12 z\" fill=\"#C9C1B2\"/><line x1=\"20\" y1=\"298\" x2=\"880\" y2=\"298\" stroke=\"#E6DFD2\"/><use href=\"#sage\" x=\"20\" y=\"218\" width=\"40\" height=\"70\" style=\"color:#50706E;--beard:#A8A39C;--wrap:#E4D8C0\" opacity=\"1\"/><use href=\"#sage\" x=\"20\" y=\"306\" width=\"40\" height=\"70\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\" opacity=\"1\"/><rect x=\"190\" y=\"232\" width=\"200\" height=\"44\" rx=\"22\" fill=\"#1B3A8A\"/><rect x=\"430\" y=\"232\" width=\"200\" height=\"44\" rx=\"22\" fill=\"#1B3A8A\"/><rect x=\"670\" y=\"232\" width=\"200\" height=\"44\" rx=\"22\" fill=\"none\" stroke=\"#C9C1B2\" stroke-dasharray=\"5 5\"/><rect x=\"190\" y=\"320\" width=\"200\" height=\"44\" rx=\"22\" fill=\"#9A6212\"/><rect x=\"430\" y=\"320\" width=\"200\" height=\"44\" rx=\"22\" fill=\"#F3E6D0\" stroke=\"#9A6212\"/><rect x=\"670\" y=\"320\" width=\"200\" height=\"44\" rx=\"22\" fill=\"#F3E6D0\" stroke=\"#9A6212\"/></g><text x=\"610\" y=\"170\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\">הר סיני</text><text x=\"370\" y=\"170\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\">אהל מועד</text><text x=\"130\" y=\"170\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\">ערבות מואב</text><text x=\"832\" y=\"260\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17.3\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"end\">רבי ישמעאל</text><text x=\"832\" y=\"348\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17.3\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"end\">רבי עקיבא</text><text x=\"610\" y=\"259\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\" text-anchor=\"middle\">הכללות</text><text x=\"370\" y=\"259\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\" text-anchor=\"middle\">הפרטות</text><text x=\"610\" y=\"347\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\" text-anchor=\"middle\">כללות ופרטות</text><text x=\"370\" y=\"347\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#6B4A1A\" text-anchor=\"middle\">נשנו</text><text x=\"130\" y=\"347\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#6B4A1A\" text-anchor=\"middle\">נשתלשו</text><text x=\"450\" y=\"400\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\">חגיגה ו. – ו: · ברייתא של רבי ישמעאל ורבי עקיבא</text></svg>"
+         },
+         "children": []
+        }
+       ]
+      },
+      {
+       "id": "s6",
+       "title": "הפשט וניתוח, ומתי התחיל התמיד",
+       "amud": "ו:",
+       "text": {
+        "from": "6b.2",
+        "to": "6b.5"
+       },
+       "gist": "מדוע רבי ישמעאל אינו יכול לקבל תמיד שדינו השתנה, ומה המקורות של רבי אלעזר ורבי עקיבא.",
+       "bullets": [
+        {
+         "text": "\"וכי יש לך דבר שבתחילה לא היה טעון הפשט וניתוח, ולבסוף טעון?\" לכן, לרבי ישמעאל, העולה שבסיני הייתה בהכרח עולת ראייה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תוספות: דין הפשט וניתוח כתוב בפרשת התמיד עצמה, ולכן קשה במיוחד לקבל תמיד שדינו השתנה. בעולת יחיד הקושי קטן יותר.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "רבי אלעזר על \"עֹלַת תָּמִיד הָעֲשֻׂיָה בְּהַר סִינַי\" (במדבר כח, ו): דיניה נאמרו בסיני, אבל היא לא הוקרבה עד המשכן. לכן העולה שבסיני הייתה עולת ראייה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "רבי עקיבא: היא הוקרבה בסיני ומאז לא פסקה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "קושיה מעמוס (ה, כה): \"הַזְּבָחִים וּמִנְחָה הִגַּשְׁתֶּם לִי בַמִּדְבָּר אַרְבָּעִים שָׁנָה\"?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תירוץ: שבט לוי, שלא עבד את העגל, הקריב אותה משלו – אבל כלל ישראל לא הקריבו.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "הפסוק קשה לכל השיטות: גם לרבי אלעזר, התמיד הוקרב מהשנה השנייה – כלומר שלושים ותשע שנים לפחות.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s7",
+       "title": "רבי יוסי הגלילי: עולה, חגיגה ושלמי שמחה",
+       "amud": "ו:",
+       "text": {
+        "from": "6b.6",
+        "to": "6b.8"
+       },
+       "gist": "שלושה קרבנות רגל, ולכל אחד מעלה משלו. מאחר שרק החגיגה קדמה לסיני, העולה שבסיני הייתה עולת התמיד.",
+       "bullets": [
+        {
+         "text": "ראייה, חגיגה ושמחה: בכל אחת יש מה שאין בשתיים האחרות.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "המעלה של החגיגה היא שהייתה קודם הדיבור. זו אותה עובדה שבית הלל נשענים עליה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אם הראייה לא קדמה לסיני, העולה שבשמות כד הייתה עולת התמיד.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "שאלה פתוחה: מדוע השלמים שבסיני נקראים חגיגה ולא שמחה? הגמרא אינה אומרת.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "chart": {
+        "caption": "רבי יוסי הגלילי: מה יש בכל קרבן רגל שאין בחבריו",
+        "columns": [
+         "הקרבן",
+         "המעלה המיוחדת"
+        ],
+        "rows": [
+         [
+          "עולת ראייה",
+          "כולה כליל לגבוה; השתיים האחרות נאכלות ברובן"
+         ],
+         [
+          "שלמי חגיגה",
+          "הייתה קודם הדיבור"
+         ],
+         [
+          "שלמי שמחה",
+          "נוהגת בנשים כמו באנשים"
+         ]
+        ]
+       },
+       "children": [],
+       "illustration": {
+        "caption": "כל קרבן מסומן במעלה האחת שלדברי רבי יוסי הגלילי יש רק לו (חגיגה ו:).",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שלושה קרבנות: עולת ראייה נשרפת כולה על המזבח; שלמי חגיגה למרגלות הר סיני; שלמי שמחה – איש ואישה ליד שולחן החג.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"16\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#F3E6D8\"/><path d=\"M150 210 C130 180 175 160 150 130 C130 110 170 100 155 95\" fill=\"none\" stroke=\"#B9A89A\" stroke-width=\"10\" stroke-linecap=\"round\" opacity=\".7\"/><rect x=\"92\" y=\"262\" width=\"124\" height=\"80\" fill=\"#A8927A\"/><path d=\"M92 290 h124 M92 316 h124 M122 262 v28 M170 262 v28 M146 290 v26 M196 290 v26 M110 316 v26 M160 316 v26\" stroke=\"#8A7560\" stroke-width=\"2\"/><rect x=\"86\" y=\"248\" width=\"16\" height=\"16\" fill=\"#A8927A\"/><rect x=\"206\" y=\"248\" width=\"16\" height=\"16\" fill=\"#A8927A\"/><path d=\"M112 262 C112 222 132 238 136 206 C150 234 160 214 160 196 C176 226 196 226 196 262 Z\" fill=\"url(#fire)\"/><rect x=\"311\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#E3EAF3\"/><path d=\"M330 300 L420 150 L452 190 L478 140 L570 300 Z\" fill=\"#9AA7BD\"/><path d=\"M420 150 L436 176 L452 190 L466 160 L478 140 L468 178 L452 204 L436 186 Z\" fill=\"#C3CCDA\"/><ellipse cx=\"462\" cy=\"132\" rx=\"48\" ry=\"16\" fill=\"#FFFFFF\" opacity=\".9\"/><rect x=\"330\" y=\"300\" width=\"240\" height=\"34\" fill=\"#C9D5B8\"/><use href=\"#lamb\" x=\"372\" y=\"226\" width=\"150\" height=\"105\"/><rect x=\"378\" y=\"344\" width=\"142\" height=\"26\" rx=\"13\" fill=\"#1B3A8A\"/><rect x=\"606\" y=\"16\" width=\"277\" height=\"408\" rx=\"14\" fill=\"#E4EFE4\"/><use href=\"#man\" x=\"640\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#3E6FA8\"/><use href=\"#woman\" x=\"788\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#A8436E\"/><rect x=\"682\" y=\"258\" width=\"124\" height=\"12\" rx=\"4\" fill=\"#8B6A4E\"/><rect x=\"692\" y=\"270\" width=\"8\" height=\"46\" fill=\"#8B6A4E\"/><rect x=\"788\" y=\"270\" width=\"8\" height=\"46\" fill=\"#8B6A4E\"/><ellipse cx=\"744\" cy=\"252\" rx=\"34\" ry=\"8\" fill=\"#F1ECE0\" stroke=\"#C9BFA9\"/><path d=\"M724 250 q20 -16 40 0\" fill=\"#B5673E\"/><rect x=\"700\" y=\"236\" width=\"10\" height=\"16\" rx=\"2\" fill=\"#7E2A3A\"/><rect x=\"780\" y=\"236\" width=\"10\" height=\"16\" rx=\"2\" fill=\"#7E2A3A\"/><use href=\"#lamb\" x=\"690\" y=\"290\" width=\"110\" height=\"77\"/></g><text x=\"746\" y=\"54\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#5A2A12\" text-anchor=\"middle\">עולת ראייה</text><text x=\"746\" y=\"378\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#5A2A12\" text-anchor=\"middle\">כולה כליל לגבוה</text><text x=\"746\" y=\"400\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#7A5A44\" text-anchor=\"middle\">השתיים האחרות נאכלות ברובן</text><text x=\"451\" y=\"54\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\">שלמי חגיגה</text><text x=\"451\" y=\"362\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#FFFFFF\" text-anchor=\"middle\">לפני סיני</text><text x=\"451\" y=\"398\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\">הייתה קודם הדיבור</text><text x=\"156\" y=\"54\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"middle\">שלמי שמחה</text><text x=\"156\" y=\"398\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"middle\">באנשים ובנשים</text></svg>"
+       }
+      },
+      {
+       "id": "s8",
+       "title": "רבי ישמעאל יוצא מהרשימה",
+       "amud": "ו:",
+       "text": {
+        "from": "6b.9",
+        "to": "6b.11"
+       },
+       "gist": "הברייתא של רבי יוסי הגלילי עצמה מערערת את הנימוק של אביי לגבי רבי ישמעאל, ולכן הגמרא מוחקת את רבי ישמעאל מהרשימה.",
+       "bullets": [
+        {
+         "text": "מדוע שייך אביי את רבי ישמעאל לבית שמאי? רק בגלל הנימוק של הפשט וניתוח.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אבל רבי יוסי הגלילי סובר שהעולה שבסיני הייתה עולת תמיד, וגם שלא הייתה טעונה הפשט וניתוח – חובה שהתחילה רק באהל מועד. אם כן, תמיד שדינו השתנה הוא שיטה אפשרית.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "שום דבר אינו מכריח את שיטת רבי ישמעאל, ולכן הגמרא מוחקת אותו מהרשימה של אביי (\"ומחקיה לרבי ישמעאל מהכא\").",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "לפי בית שמאי, סיני הוא רגע של מפגש (\"וַיֶּחֱזוּ אֶת הָאֱלֹהִים\"). לפי בית הלל, זהו התמיד השקט שבכל יום: עבודת ה' כשגרה קבועה.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "returns_to": [
+        {
+         "id": "s5",
+         "note": "חוזר לשיבוץ של רבי ישמעאל אצל אביי"
+        }
+       ]
+      },
+      {
+       "id": "s9",
+       "title": "שמות כד, ה: האם גם העולות היו פרים? תיקו",
+       "amud": "ו:",
+       "text": {
+        "from": "6b.12",
+        "to": "6b.14"
+       },
+       "gist": "רב חסדא: בשמות כד, ה, האם \"פרים\" נאמר על שני הקרבנות או רק על השלמים? השאלה נשארת בתיקו.",
+       "bullets": [
+        {
+         "text": "האם יש הפסק אחרי \"וַיַּעֲלוּ עֹלֹת\"? אם כן, העולות היו כבשים ורק השלמים היו פרים. או ש\"פרים\" נאמר על שניהם?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "מר זוטרא: הנפקא מינה היא היכן מפסיקים טעמי המקרא.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "רב אחא בריה דרבא: האומר \"הרי עלי עולה כעולה שהקריבו ישראל במדבר\" – האם מביא פר או כבש?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תיקו: השאלה נשארת במקומה.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "returns_to": [
+        {
+         "id": "s3",
+         "note": "חוזר לשמות כד, ה – הפסוק ששני הבתים הביאו"
+        }
+       ]
+      }
+     ],
+     "illustration": {
+      "caption": "שמות כד, ד–ה: מזבח ושתים עשרה מצבות למרגלות ההר, ו\"נערי בני ישראל\" מעלים את הקרבנות. שני המחנות לפי החלוקה של אביי, ורבי ישמעאל מחוק, כמסקנת הגמרא.",
+      "svg": "<svg viewBox=\"0 0 900 540\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>הר סיני, ולמרגלותיו מזבח ושתים עשרה מצבות. שלושה חכמים מימין אומרים שהעולה הייתה עולת ראייה; שלושה משמאל – שהייתה עולת התמיד.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"540\" fill=\"url(#sky)\"/><path d=\"M150 380 L380 110 L430 160 L470 90 L760 380 Z\" fill=\"#8E7F74\"/><path d=\"M380 110 L400 150 L430 160 L452 124 L470 90 L462 140 L430 190 L402 168 Z\" fill=\"#A89A8E\"/><g fill=\"#FFFFFF\" opacity=\".92\"><ellipse cx=\"450\" cy=\"92\" rx=\"90\" ry=\"26\"/><ellipse cx=\"400\" cy=\"104\" rx=\"60\" ry=\"20\"/><ellipse cx=\"510\" cy=\"106\" rx=\"62\" ry=\"18\"/></g><rect y=\"380\" width=\"900\" height=\"160\" fill=\"#D9C9A8\"/><g fill=\"#B8A88E\"><rect x=\"332\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"346\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/><rect x=\"360\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"374\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/><rect x=\"388\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"402\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/><rect x=\"488\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"502\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/><rect x=\"516\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"530\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/><rect x=\"544\" y=\"340\" width=\"11\" height=\"44\" rx=\"2\"/><rect x=\"558\" y=\"336\" width=\"11\" height=\"48\" rx=\"2\"/></g><path d=\"M450 300 C432 270 470 250 448 220 C432 200 466 190 452 180\" fill=\"none\" stroke=\"#B9A89A\" stroke-width=\"9\" stroke-linecap=\"round\" opacity=\".7\"/><rect x=\"414\" y=\"332\" width=\"72\" height=\"52\" fill=\"#A8927A\"/><path d=\"M414 350 h72 M414 366 h72 M438 332 v18 M462 350 v16 M430 366 v18\" stroke=\"#8A7560\" stroke-width=\"2\"/><path d=\"M426 332 C426 306 440 316 442 296 C452 314 458 302 458 290 C468 310 476 312 476 332 Z\" fill=\"url(#fire)\"/><rect x=\"496\" y=\"206\" width=\"170\" height=\"44\" rx=\"22\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><path d=\"M510 248 L494 266 L526 248 Z\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\" stroke-linejoin=\"round\"/><rect x=\"508\" y=\"244\" width=\"22\" height=\"6\" fill=\"#FFFFFF\"/><use href=\"#bull\" x=\"352\" y=\"410\" width=\"130\" height=\"84\"/><use href=\"#man\" x=\"484\" y=\"400\" width=\"46\" height=\"92\" style=\"color:#5E7D4F\"/><path d=\"M490 448 L470 446\" stroke=\"#5B4636\" stroke-width=\"3\"/><rect x=\"24\" y=\"398\" width=\"330\" height=\"36\" rx=\"18\" fill=\"#1B3A8A\"/><use href=\"#sage\" x=\"36\" y=\"262\" width=\"72\" height=\"126\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\" opacity=\"1\"/><use href=\"#sage\" x=\"146\" y=\"268\" width=\"68\" height=\"119\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0\" opacity=\"1\"/><use href=\"#sage\" x=\"252\" y=\"262\" width=\"72\" height=\"126\" style=\"color:#50706E;--beard:#A8A39C;--wrap:#E4D8C0\" opacity=\"0.5\"/><rect x=\"546\" y=\"440\" width=\"330\" height=\"36\" rx=\"18\" fill=\"#9A6212\"/><use href=\"#sage\" x=\"566\" y=\"302\" width=\"68\" height=\"119\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\" opacity=\"1\"/><use href=\"#sage\" x=\"674\" y=\"296\" width=\"72\" height=\"126\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\" opacity=\"1\"/><use href=\"#sage\" x=\"784\" y=\"302\" width=\"68\" height=\"119\" style=\"color:#7A4A55;--beard:#4A3A2E;--wrap:#E4D8C0\" opacity=\"1\"/></g><text x=\"319\" y=\"234\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\">איזו עולה?</text><text x=\"711\" y=\"422\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17.3\" font-weight=\"600\" fill=\"#FFFFFF\" text-anchor=\"middle\">עולת ראייה (קרבן יחיד)</text><text x=\"825\" y=\"458\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\">בית שמאי</text><text x=\"717\" y=\"458\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\">רבי אלעזר</text><text x=\"609\" y=\"458\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5B6478\" text-decoration=\"line-through\" text-anchor=\"middle\">רבי ישמעאל</text><text x=\"609\" y=\"476\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" font-weight=\"400\" fill=\"#5B6478\" text-anchor=\"middle\">הוצא מהרשימה</text><text x=\"189\" y=\"464\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17.3\" font-weight=\"600\" fill=\"#FFFFFF\" text-anchor=\"middle\">עולת תמיד (קרבן ציבור)</text><text x=\"296\" y=\"500\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\">בית הלל</text><text x=\"188\" y=\"500\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\">רבי עקיבא</text><text x=\"78\" y=\"500\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\">רבי יוסי הגלילי</text><text x=\"450\" y=\"526\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#4A3A2E\" text-anchor=\"middle\">וַיַּעֲלוּ עֹלֹת וַיִּזְבְּחוּ זְבָחִים שְׁלָמִים לַה׳ פָּרִים</text></svg>"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "title": "ראיון: אין לו שיעור – לא למטה ולא למעלה?",
+   "amud": "ו: ← ז.",
+   "text": {
+    "from": "6b.15",
+    "to": "6b.15"
+   },
+   "gist": "המשנה בפאה מונה מצוות שאין להן שיעור, ובהן הראיון. הדיון ממשיך בדף ז.",
+   "bullets": [
+    {
+     "text": "פאה א, א: \"אלו דברים שאין להם שיעור: הפאה והביכורים והראיון וגמילות חסדים ותלמוד תורה\".",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "האם \"אין להם שיעור\" שולל שיעור מינימום, מקסימום או שניהם? ראו את הירושלמי בפאה, ואת שיטת רבי יוחנן שאפשר לעשות את כל השדה ביכורים.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [],
+   "continues": "ממשיך בדף ז.: הקריאה הראשונה של רבי יוחנן, התיקון של רבי אושעיא, ומחלוקת רבי יוחנן וריש לקיש בראיון."
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "עולת ראייה",
+   "hebrew": "",
+   "sense": "עולת הרגל של העולה לרגל",
+   "definition": "העולה שאדם מביא כשהוא \"נראה\" בעזרה ברגל. ככל עולה, היא נשרפת כולה על המזבח ואין אוכלים ממנה דבר.",
+   "on_this_daf": "אחד משני קרבנות הרגל שבית שמאי ובית הלל נחלקו בשיעור המינימלי שלהם, ומועמדת להיות העולה שהוקרבה בסיני.",
+   "aliases": [
+    "ראייה",
+    "ראיון"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s7",
+    "s10"
+   ]
+  },
+  {
+   "term": "שלמי חגיגה",
+   "hebrew": "",
+   "sense": "שלמים שמביאים ברגל",
+   "definition": "קרבן שלמים שמביאים ברגל. חלקים ממנו עולים על המזבח והבעלים אוכלים את השאר, כך שיש בו חלק לגבוה וחלק לבעלים.",
+   "on_this_daf": "לבית הלל זהו קרבן הרגל היקר יותר, והם מוכיחים שסוג הקרבן הזה היה קיים כבר לפני סיני.",
+   "aliases": [
+    "חגיגה"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s7"
+   ]
+  },
+  {
+   "term": "שלמי שמחה",
+   "hebrew": "",
+   "sense": "מצוות השמחה ברגל",
+   "definition": "שלמים נוספים שנאכלים בשמחת החג, לקיום מצוות \"ושמחת בחגך\". גם נשים חייבות בשמחה.",
+   "on_this_daf": "חובת השמחה של האם מסבירה איך הקטן מגיע לירושלים בכלל. רבי יוסי הגלילי מונה אותם כקרבן הרגל השלישי, שלכל אחד מהם מעלה משלו.",
+   "aliases": [
+    "שמחה"
+   ],
+   "sections": [
+    "s1",
+    "s7"
+   ]
+  },
+  {
+   "term": "חינוך",
+   "hebrew": "",
+   "sense": "הרגלת קטן במצוות",
+   "definition": "החובה מדרבנן להרגיל ילד במצוות שיהיה חייב בהן כשיגדל, מן הזמן שהוא מסוגל לקיים אותן.",
+   "on_this_daf": "אביי: החינוך הולך אחר מה שגדול במצבו של הילד חייב עכשיו, ולכן קטן חיגר או סומא שעשוי להתרפא פטור כעת.",
+   "aliases": [],
+   "sections": [
+    "s1"
+   ]
+  },
+  {
+   "term": "עולת תמיד",
+   "hebrew": "",
+   "sense": "עולת הציבור היומית",
+   "definition": "עולת ציבור של כבש, שהוקרבה בכל בוקר ובכל בין הערביים במקדש.",
+   "on_this_daf": "בית הלל, רבי עקיבא ורבי יוסי הגלילי מזהים את העולה שבשמות כד, ה עם התמיד. המחלוקת היא אם התמיד התחיל בסיני או רק במשכן.",
+   "aliases": [
+    "תמיד"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8"
+   ]
+  },
+  {
+   "term": "הפשט וניתוח",
+   "hebrew": "",
+   "sense": "הפשטת העולה וחיתוכה לאברים",
+   "definition": "הסרת העור של העולה וחיתוכה לנתחים הקבועים לפני שהיא נשרפת על המזבח.",
+   "on_this_daf": "לרבי ישמעאל, דינים אלה נאמרו רק באהל מועד. לכן עולה שהוקרבה בסיני בלעדיהם לא הייתה יכולה להיות התמיד, שטעון אותם.",
+   "aliases": [],
+   "sections": [
+    "s5a",
+    "s6",
+    "s8"
+   ]
+  },
+  {
+   "term": "כללות ופרטות",
+   "hebrew": "",
+   "sense": "הכללים והפרטים של מצוות התורה",
+   "definition": "השאלה אילו חלקים מדיני התורה ניתנו בסיני: הכללים בלבד (והפרטים נלמדו אחר כך, באהל מועד), או גם הפרטים.",
+   "on_this_daf": "לרבי ישמעאל, הכללות נאמרו בסיני והפרטות אחר כך. לרבי עקיבא, שתיהן נאמרו בסיני, ונשנו באהל מועד ובערבות מואב.",
+   "aliases": [
+    "כללות נאמרו בסיני",
+    "כללות"
+   ],
+   "sections": [
+    "s5a",
+    "s8"
+   ]
+  },
+  {
+   "term": "אין להם שיעור",
+   "hebrew": "",
+   "sense": "מצוות שאין להן כמות קבועה",
+   "definition": "מצוות שהתורה לא קבעה להן כמות מחייבת, ונמנו במשנה בתחילת פאה: הפאה, הביכורים, הראיון, גמילות חסדים ותלמוד תורה.",
+   "on_this_daf": "הגמרא שואלת אם \"אין לו שיעור\" בראיון שולל שיעור מינימום, מקסימום או שניהם.",
+   "aliases": [
+    "אין לו שיעור",
+    "אין לה שיעור"
+   ],
+   "sections": [
+    "s10"
+   ]
+  }
+ ],
+ "sages": [
+  {
+   "id": "rav-zera",
+   "name": "רבי זירא",
+   "hebrew": "רבי זירא",
+   "sections": [
+    "s1"
+   ]
+  },
+  {
+   "id": "abaye",
+   "name": "אביי",
+   "hebrew": "אביי",
+   "sections": [
+    "s1",
+    "s4",
+    "s5",
+    "s8"
+   ]
+  },
+  {
+   "id": "shimon-bar-yochai",
+   "name": "רבי שמעון",
+   "hebrew": "רבי שמעון",
+   "sections": [
+    "s1"
+   ]
+  },
+  {
+   "id": "rabbi-yishmael-b-elisha",
+   "name": "רבי ישמעאל",
+   "hebrew": "רבי ישמעאל",
+   "sections": [
+    "s4",
+    "s5",
+    "s5a",
+    "s6",
+    "s8"
+   ]
+  },
+  {
+   "id": "rabbi-elazar-b-shamua",
+   "name": "רבי אלעזר",
+   "hebrew": "רבי אלעזר",
+   "sections": [
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "id": "rabbi-akiva",
+   "name": "רבי עקיבא",
+   "hebrew": "רבי עקיבא",
+   "sections": [
+    "s5",
+    "s5a",
+    "s6"
+   ]
+  },
+  {
+   "id": "rabbi-yose-hagelili",
+   "name": "רבי יוסי הגלילי",
+   "hebrew": "רבי יוסי הגלילי",
+   "sections": [
+    "s5",
+    "s7",
+    "s8"
+   ]
+  },
+  {
+   "id": "rav-chisda",
+   "name": "רב חסדא",
+   "hebrew": "רב חסדא",
+   "sections": [
+    "s9"
+   ]
+  },
+  {
+   "id": "mar-zutra",
+   "name": "מר זוטרא",
+   "hebrew": "מר זוטרא",
+   "sections": [
+    "s9"
+   ]
+  },
+  {
+   "id": "rav-aha-b-rava",
+   "name": "רב אחא בריה דרבא",
+   "hebrew": "רב אחא בריה דרבא",
+   "sections": [
+    "s9"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "שלושת הקרבנות של רבי יוסי הגלילי הם נושא שעומד בפני עצמו ויכול היה להיות סעיף ראשי; הושאר תחת הדיון על סיני, כי הגמרא מביאה אותו כמקור לשיטתו שם.",
+  "\"רבי ישמעאל יוצא מהרשימה\" חוזר לחלוקה של אביי; נשאר בסדר הגמרא, עם קישור returns_to, ולא הועבר.",
+  "השאלה על פיסוק הפסוק יכולה הייתה לשבת תחת נימוקי בית שמאי ובית הלל (היא חוזרת לפסוק שלהם); נשארה כשלב האחרון בדיון על סיני, היכן שהיא בגמרא."
+ ],
+ "coverage_notes": [
+  "הדיון על חיוב קטן (ה:–ו.) אינו נידון בשיעור; נכתב על פי הגמרא בלבד.",
+  "החיבור אומר שהגמרא 'מעבירה את רבי ישמעאל לבית הלל'; בגמרא הוא רק נמחק מהרשימה של אביי. הלכנו אחר הגמרא.",
+  "השיעור ממשיך לדף ז. (ראיון שאין לו שיעור; רבי יוחנן וריש לקיש) – מחוץ לתחום הדף."
+ ]
+}

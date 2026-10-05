@@ -1880,6 +1880,24 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   Chagigah 6 only, since it is the one outline with anchors so far. Run with daf-processor's
   venv. Published: https://claude.ai/artifact/VyEhmmkY9siDtWvA6F2WbH
 
+#### Hebrew outlines (2026-10-05) — model outline in review
+
+For Israeli readers, mainly mamlachti-dati high schools (author's call; midrasha register: plain
+modern Hebrew in full sentences, the Gemara's own terms in Aramaic, no unexplained abbreviations).
+`daf-processor/outline/example_chagigah_6_he.json` is a hand-written Hebrew Chagigah 6, written
+fresh rather than translated, with the same structure as the English example: `lang: "he"`, key
+terms and sages inside, shiur insights translated. Its five pictures are the English ones
+mirrored (shapes in a `matrix(-1 0 0 1 W 0)` group, labels unmirrored and placed at W−x), so
+sequences, camps and timelines run right to left; `fix_hebrew_direction()` then marks the labels
+rtl. The renderer lays out any outline with `lang: "he"` right to left (`dir="rtl"`, CSS logical
+properties throughout, Hebrew interface words in `WORDS`, Frank Ruhl Libre and Assistant type),
+matches Hebrew key terms with the prefix letters ו ה ב ל מ ש כ, and skips a term after a Hebrew
+negation; `hebSageMatcher` matches sages' Hebrew names (רבי / ר'). Charts start from the right
+because the table is rtl. On the preview site it is "Chagigah 6 (HE)" (`chagigah_6@he=HE`;
+`Local.aids` reads the file for tag `he`). The site's own interface is still English. Next, once
+the author and an Israeli reader approve it: a Hebrew outline pass on 10 dafim (Batch, about $7–8;
+needs authorization).
+
 #### Outline preview site + reader feedback (2026-09-25) — https://anydaf-outlines.vercel.app
 
 For readers outside YCT (the claude.ai prototype can't take their notes: a page's own store is

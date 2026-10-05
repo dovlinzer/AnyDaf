@@ -34,6 +34,19 @@
   const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
   const md = (s) => esc(s).replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>").replace(/\*([^*]+)\*/g, "<i>$1</i>");
 
+  // Interface words, by the outline's language (outline.lang: "he" lays the outline out right to left).
+  const WORDS = {
+    en: { glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", noTerms: "No key terms for this daf." },
+    he: { glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", noTerms: "אין מושגי מפתח לדף זה." },
+  };
+  const words = (lang) => WORDS[lang] || WORDS.en;
+  const isHe = (o) => (o && o.lang) === "he";
+  function setDir(container, lang) {
+    if (lang === "he") { container.setAttribute("dir", "rtl"); container.setAttribute("lang", "he"); }
+    else { container.removeAttribute("dir"); container.removeAttribute("lang"); }
+  }
+  const HEB = /[\u05D0-\u05EA]/;
+
   function flat(nodes, depth = 1, out = []) {
     (nodes || []).forEach((n) => { out.push({ n, depth }); flat(n.children, depth + 1, out); });
     return out;
@@ -53,16 +66,25 @@
     if (!pairs.length) return null;
     pairs.sort((x, y) => y[0].length - x[0].length);
     const byAlias = new Map(pairs.map(([a, i]) => [a.toLowerCase(), i]));
-    const alt = pairs.map(([a]) => a.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|");
-    const re = new RegExp(`(?<![\\w'’])(${alt})(?![\\w'’])`, "gi");
+    const q = (a) => a.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const lat = pairs.filter(([a]) => !HEB.test(a)), heb = pairs.filter(([a]) => HEB.test(a));
+    const parts = [];
+    if (lat.length) parts.push(`(?<![\\w'’])(?:${lat.map(([a]) => q(a)).join("|")})(?![\\w'’])`);
+    if (heb.length) parts.push(`(?<![\\u05D0-\\u05EA])(?:[ובלמשכה]{0,2})(?:${heb.map(([a]) => q(a)).join("|")})(?![\\u05D0-\\u05EA])`);
+    const re = new RegExp(`(${parts.join("|")})`, "gi");
+    const HE_NEG = /(?:^|[\s(])(?:שלא|לא|אין|שאין|אינו|אינה|שאינו|שאינה)\s+[ובלמשכה]{0,2}$/;
+    const strip = (m) => (HEB.test(m) && !byAlias.has(m) ? m.replace(/^[ובלמשכה]{1,2}/, (pre) => {
+      for (let k = pre.length; k >= 1; k--) if (byAlias.has(m.slice(k))) return pre.slice(0, k); return ""; }) : "");
     return function mark(html, seen) {
       return html.split(/(<[^>]+>)/).map((part) => part.startsWith("<") ? part : part.replace(re, (m, _g, off, whole) => {
-        const i = byAlias.get(m.toLowerCase());
+        const pre = strip(m), core = m.slice(pre.length);
+        const i = byAlias.get(core.toLowerCase());
         if (i === undefined || seen.has(i)) return m;
+        if (HEB.test(core) && HE_NEG.test(whole.slice(Math.max(0, off - 12), off) + pre)) return m;
         // a term right after a negation is its opposite (shelo lishmah, she'ein mesurin): not this entry
         if (/(?:^|[\s(*])(?:shelo|she['’]lo|she['’]ein|she['’]eino|she['’]einah|lo|ein|eino|einah)\s+$/i.test(whole.slice(Math.max(0, off - 12), off))) return m;
         seen.add(i);
-        return `<button type="button" class="ado-term" data-term="${i}">${m}</button>`;
+        return `${pre}<button type="button" class="ado-term" data-term="${i}">${core}</button>`;
       })).join("");
     };
   }
@@ -86,6 +108,30 @@
   const foldName = (name) => name.replace(/[’']s$/, "").replace(/\bson of\b/g, "b").replace(/^#/, "")
     .split(/\s+/).filter(Boolean).map(foldWord).join(" ").replace(/\bb r\b/g, "b");
   const NAME_RE = /(?<![\w'’])(?:R\.|Rabbi|Rebbi|Rav|Rabban|Rabbah|Rabba|Mar|Bar|Reish)(?:\s+(?:b\.|ben|bar|son of|[A-Z][\w'’-]*)){1,6}|(?<![\w'’])[A-Z][a-z'’-]{2,}/g;
+  function hebSageMatcher(sages) {
+    const byName = new Map();
+    (sages || []).forEach((sg, i) => [sg.he, ...(sg.aliases || [])].forEach((a) => {
+      if (!a || !HEB.test(a)) return;
+      [a, a.replace(/^רבי /, "ר' "), a.replace(/^ר' /, "רבי ")].forEach((v) => byName.has(v) || byName.set(v, i));
+    }));
+    if (!byName.size) return null;
+    const names = [...byName.keys()].sort((x, y) => y.length - x.length).map((a) => a.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+    const re = new RegExp(`(?<![\\u05D0-\\u05EA'])([ובלמשכה]?)(${names.join("|")})(?![\\u05D0-\\u05EA])`, "g");
+    return function markSages(html, seen) {
+      let inButton = 0;
+      return html.split(/(<[^>]+>)/).map((part) => {
+        if (part.startsWith("<")) { if (/^<button/.test(part)) inButton++; else if (/^<\/button/.test(part)) inButton--; return part; }
+        if (inButton) return part;
+        return part.replace(re, (m, pre, name) => {
+          const i = byName.get(name);
+          if (i === undefined || seen.has("s" + i)) return m;
+          seen.add("s" + i);
+          return `${pre}<button type="button" class="ado-sage" data-sage="${i}">${name}</button>`;
+        });
+      }).join("");
+    };
+  }
+
   function sageMatcher(sages) {
     const byFold = new Map();
     (sages || []).forEach((sg, i) => (sg.aliases || []).forEach((a) => {
@@ -185,6 +231,7 @@
    * Inline at the top of the outline it can fold away; in its own panel (which the host shows or
    * hides as a whole) it is always open. */
   function glanceHTML(outline, foldable, depth, open) {
+    const W = words(outline.lang);
     const tops = outline.sections || [];
     if (tops.length < 2 && !(tops[0]?.children || []).length) return "";
     const max = outlineDepth(outline);
@@ -193,12 +240,12 @@
     const item = (n, lv) => `<li><button type="button" class="${cls(lv)}" data-goto="${esc(n.id)}">${md(n.title)}</button>` +
       `${lv === 1 ? `<span class="ado-glam">${esc(n.amud)}</span>` : ""}` +
       `${lv < d && (n.children || []).length ? `<ol>${n.children.map((c) => item(c, lv + 1)).join("")}</ol>` : ""}</li>`;
-    const ctl = `<div class="ado-gldepth" role="group" aria-label="Contents depth"><span>Depth</span>${[1, 2, 3, 4, 5].map((k) =>
+    const ctl = `<div class="ado-gldepth" role="group" aria-label="${W.depthLabel}"><span>${W.depth}</span>${[1, 2, 3, 4, 5].map((k) =>
       `<button type="button" data-gd="${k}" aria-pressed="${k === d}"${k > max ? " disabled" : ""}>${k}</button>`).join("")}</div>`;
     const list = `<ol>${tops.map((n) => item(n, 1)).join("")}</ol>`;
     return foldable
-      ? `<nav class="ado-glance" aria-label="At a glance"><details${open ? " open" : ""}><summary>At a glance</summary>${ctl}${list}</details></nav>`
-      : `<nav class="ado-glance" aria-label="At a glance"><div class="ado-glhead"><h2 class="ado-glh">At a glance</h2>${ctl}</div>${list}</nav>`;
+      ? `<nav class="ado-glance" aria-label="${W.glance}"><details${open ? " open" : ""}><summary>${W.glance}</summary>${ctl}${list}</details></nav>`
+      : `<nav class="ado-glance" aria-label="${W.glance}"><div class="ado-glhead"><h2 class="ado-glh">${W.glance}</h2>${ctl}</div>${list}</nav>`;
   }
 
   // For each section id: itself and all its ancestors; whichever are listed get highlighted.
@@ -246,13 +293,15 @@
   /* The glance in a panel of its own (web: a side column that stays in view). */
   function glance(container, outline, { onSection, depth, onDepth } = {}) {
     container.classList.add("ado", "ado-glance-panel");
+    setDir(container, outline.lang);
     return mountGlance(container, outline, { foldable: false, depth, onSection, onDepth, scroll: true });
   }
 
   function render(container, opts) {
     const { outline, keyTerms = [], onTerm, onSection, glance = true, glanceDepth = 2, onGlanceDepth,
             glanceOpen = false, onGlanceOpen, sages = [], onSage } = opts;
-    const markTerms = termMatcher(keyTerms), markSages = sageMatcher(sages);
+    const W = words(outline.lang);
+    const markTerms = termMatcher(keyTerms), markSages = isHe(outline) ? hebSageMatcher(sages) : sageMatcher(sages);
     const mark = markTerms || markSages
       ? (html, seen, sageSeen) => { if (markTerms) html = markTerms(html, seen); return markSages ? markSages(html, sageSeen) : html; }
       : null;
@@ -267,7 +316,7 @@
       const m = (s, hideable) => (mark ? mark(md(s), hideable ? new Set(termsSeen) : termsSeen,
                                                hideable ? new Set(sagesSeen) : sagesSeen) : md(s));
       const ret = (n.returns_to || []).map((x) =>
-        `<button type="button" class="ado-ret" data-goto="${esc(x.id)}">↩ Returns to ${md(titles[x.id] || x.id)}${x.note ? ` — ${md(x.note)}` : ""}</button>`).join("");
+        `<button type="button" class="ado-ret" data-goto="${esc(x.id)}">↩ ${W.returns} ${md(titles[x.id] || x.id)}${x.note ? ` — ${md(x.note)}` : ""}</button>`).join("");
       // The gist is marked before the bullets: a name or term links where the reader meets it first.
       const gist = n.gist ? `<p class="ado-gist">${m(n.gist)}</p>` : "";
       const bullets = (n.bullets || []).length
@@ -290,6 +339,7 @@
     }
 
     container.classList.add("ado");
+    setDir(container, outline.lang);
     container.dataset.level = container.dataset.level || "2";
     container.innerHTML = (glance ? `<div class="ado-glwrap"></div>` : "") + (outline.sections || []).map((n) => nodeHTML(n, 1)).join("");
 
@@ -338,27 +388,29 @@
   }
 
   /* The glossary list: used in a pop-out panel on the web and a bottom sheet in the apps. */
-  function glossary(container, keyTerms, { titles = {}, onSection, order = "daf" } = {}) {
+  function glossary(container, keyTerms, { titles = {}, onSection, order = "daf", lang } = {}) {
     container.classList.add("ado", "ado-gloss");
+    setDir(container, lang);
+    const W = words(lang);
     // "daf": in the order the terms first come up in the outline; "alpha": A–Z by transliteration.
     const secOrder = Object.keys(titles);
     const firstAt = (t) => Math.min(...(t.sections || []).map((id) => { const k = secOrder.indexOf(id); return k < 0 ? 1e9 : k; }), 1e9);
-    const alphaKey = (t) => String(t.term || "").normalize("NFKD").replace(/[^A-Za-z ]/g, "").toLowerCase();
+    const alphaKey = (t) => String(t.term || "").normalize("NFKD").replace(/[^A-Za-z \u05D0-\u05EA]/g, "").toLowerCase();
     const items = (keyTerms || []).map((t, i) => `
       <article class="ado-gterm" data-i="${i}" tabindex="-1">
-        <h3><span class="ado-gname">${esc(t.term)}</span><span class="ado-heb" lang="he" dir="rtl">${esc(t.hebrew)}</span></h3>
+        <h3><span class="ado-gname">${esc(t.term)}</span>${t.hebrew && t.hebrew !== t.term ? `<span class="ado-heb" lang="he" dir="rtl">${esc(t.hebrew)}</span>` : ""}</h3>
         <p class="ado-gsense">${esc(t.sense)}</p>
         <p>${md(t.definition)}</p>
-        <p class="ado-gdaf"><span>On this daf</span>${md(t.on_this_daf)}</p>
+        <p class="ado-gdaf"><span>${W.onDaf}</span>${md(t.on_this_daf)}</p>
         <p class="ado-gsecs">${(t.sections || []).map((id) =>
           `<button type="button" data-goto="${esc(id)}">${md(titles[id] || id)}</button>`).join("")}</p>
       </article>`).join("");
-    container.innerHTML = items || `<p class="ado-none">No key terms for this daf.</p>`;
+    container.innerHTML = items || `<p class="ado-none">${W.noTerms}</p>`;
     function sortBy(o) {
       const els = [...container.querySelectorAll(".ado-gterm")];
       const key = (el) => { const t = keyTerms[+el.dataset.i]; return o === "alpha" ? alphaKey(t) : [firstAt(t), +el.dataset.i]; };
       els.sort((a, b) => { const x = key(a), y = key(b);
-        return o === "alpha" ? x.localeCompare(y) : (x[0] - y[0]) || (x[1] - y[1]); });
+        return o === "alpha" ? x.localeCompare(y, lang === "he" ? "he" : "en") : (x[0] - y[0]) || (x[1] - y[1]); });
       els.forEach((el) => container.appendChild(el));
     }
     sortBy(order);

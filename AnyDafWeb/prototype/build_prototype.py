@@ -134,12 +134,16 @@ def neighbor(amud: str, step: int) -> str:
 
 
 def outline_amudim(outline: dict) -> list[str]:
-    """Amudim the outline covers, from its sections' amud fields ("37b–38a", "38b → 39a")."""
+    """Amudim the outline covers, from its sections' amud fields ("37b–38a", "38b → 39a") and text anchors."""
     found = set()
 
     def walk(ns):
         for n in ns or []:
             found.update(re.findall(r"\d+[ab]", str(n.get("amud", "")).split("→")[0]))
+            # the text anchors too: a Hebrew outline writes its amud labels in Hebrew ("ו.–ו:")
+            for k in ("from", "to"):
+                if (n.get("text") or {}).get(k):
+                    found.add(n["text"][k].split(".")[0])
             walk(n.get("children"))
 
     walk(outline.get("sections"))
@@ -159,6 +163,9 @@ class Local:
         self.books = {}
 
     def aids(self, key, tractate, daf, tag="opus55"):
+        if key == "chagigah_6" and tag == "he":     # the hand-written Hebrew model outline
+            o = json.loads((DP / "outline" / "example_chagigah_6_he.json").read_text(encoding="utf-8"))
+            return o, o["key_terms"]
         if key == "chagigah_6":
             o = json.loads((DP / "outline" / "example_chagigah_6.json").read_text(encoding="utf-8"))
             t = json.loads((DP / "outline" / "key_terms_example_chagigah_6.json").read_text(encoding="utf-8"))
