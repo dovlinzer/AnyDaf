@@ -1811,6 +1811,13 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   (e.g. after a tap on a line). The bar keeps the daf picker and that switch; the rest folds
   behind an Options button (`#more`, `display:contents` on wide screens). Testing in a collapsed browser pane: animation frames, scroll
   events and smooth scrolls don't run there, so the sync looks broken when it isn't.
+- Simpler screen (2026-10-05, author: "too complicated and overwhelming for most people"): a
+  Show switch (Outline / Both / Text, remembered as `prefs.layout`) on screens wider than a phone;
+  `curView()` gives what's on screen (a daf with no outline shows its text) and `setView()` serves
+  both the phone flip and this switch, with the same catch-up sync. With the outline alone the
+  audio panel moves to the foot of the page and Daf / Gemara / Shiur hides. Everything else
+  (detail level, show toggles, Glossary / Sages / Resources, Contents, Swap sides, the outline
+  menu, Feedback) folds behind Options on every screen, in labelled groups; Esc closes it.
 - Resources (2026-09-29): a pop-out listing the YCT Torah Library's items for the daf, the same
   lookup as the apps' `ResourcesManager`/`YCTLibraryClient` (tractate term -> daf terms -> posts,
   for library posts, psak posts and library `audio`), run in the reader's browser (the sites allow

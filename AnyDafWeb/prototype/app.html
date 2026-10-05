@@ -31,8 +31,6 @@ __RENDERER_CSS__
 .btn[aria-pressed="true"]{background:var(--blue);border-color:var(--blue);color:var(--panel)}
 /* Contents sits above its column: far left by default, far right when the sides are swapped;
    hidden where the column itself doesn't show. */
-#railBtn{order:-1}
-body.textleft #railBtn{order:99}
 @media (max-width:1099px){#railBtn{display:none}}
 .spacer{flex:1}
 button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
@@ -256,13 +254,33 @@ body.dragging{cursor:col-resize;user-select:none}
 .seg .ph{display:none}
 /* On wide screens the options sit in the bar as they always did; on a phone they fold behind
    an Options button, leaving the daf picker and the view switch. */
-.more{display:contents}
-#moreBtn{display:none}
+.more{display:none;flex-basis:100%;flex-wrap:wrap;gap:8px 14px;align-items:center;padding-top:8px;border-top:1px solid var(--line)}
+.bar.open .more{display:flex}
+#moreBtn[aria-expanded="true"]{background:var(--blue);border-color:var(--blue);color:var(--panel)}
+.more .grp{display:inline-flex;flex-wrap:wrap;align-items:center;gap:8px 12px}
+.more .grp+.grp{padding-left:14px;border-left:1px solid var(--line)}
+.more .gl{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+/* What to show: the outline, the text side, or both. On a phone only one at a time. */
+#showSeg .w{display:inline-block}
+@media (min-width:861px){
+ .main[data-view="outline"],.main.textleft[data-view="outline"]{grid-template-columns:minmax(0,1fr)}
+ .main[data-view="outline"] .gem,.main[data-view="outline"] #gGem{display:none}
+ .main[data-view="text"],.main.textleft[data-view="text"],.main.rail[data-view="text"],.main.rail.textleft[data-view="text"]{grid-template-columns:minmax(0,1fr)}
+ .main[data-view="text"] #outCol,.main[data-view="text"] .railp{display:none!important}
+ .main[data-view="outline"] #outZoom{max-width:920px;margin:0 auto}
+ .main[data-view="text"] .text{max-width:1000px;margin:0 auto}
+ body.oneside #sideBtn{display:none}
+ body.outonly #paneSeg{display:none}
+}
+@media (min-width:1100px){
+ .main.rail[data-view="outline"]{grid-template-columns:var(--railw) minmax(0,1fr)}
+ .main.rail.textleft[data-view="outline"]{grid-template-columns:minmax(0,1fr) var(--railw)}
+}
 @media (max-width:860px){
+ #showSeg{display:none}
  .seg .ph{display:inline-block}
  .bar{gap:8px 10px;padding:8px 12px}
  .bar .sub{display:none}
- #moreBtn{display:inline-block}
  /* audio bar in two rows: the scrubber as a strip on top, then the controls and Follow switches */
  .abar{gap:6px;padding:4px 10px calc(6px + env(safe-area-inset-bottom,0px))}
  #aSeek{order:-1;flex-basis:100%;margin:0}
@@ -272,11 +290,11 @@ body.dragging{cursor:col-resize;user-select:none}
  #aFollow button{padding:5px 9px}
  .nav .pick{font-size:1.02rem;padding:4px 5px}
  #tracPick{max-width:9.2rem}
- #moreBtn[aria-expanded="true"]{background:var(--blue);border-color:var(--blue);color:var(--panel)}
  #paneSeg{order:2}
- .more{display:none;order:3;flex-basis:100%;flex-wrap:wrap;gap:8px 14px;align-items:center;padding-top:6px;border-top:1px solid var(--line)}
- .bar.open .more{display:flex}
- .more .spacer{display:none}
+ #moreBtn{order:1}
+ .more{order:3;padding-top:6px}
+ .more .grp+.grp{padding-left:0;border-left:0}
+ .more .lay{display:none}
  #sideBtn{display:none}
  .main,.main.textleft{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1fr)}
  .main[data-view="outline"] .gem{display:none}
@@ -321,25 +339,34 @@ __SPRITE__
   <button class="btn" id="todayBtn" type="button" title="Go to today's daf yomi">Today</button>
  </div>
  <div class="seg" id="verSeg" role="group" aria-label="Outline version" hidden></div>
+ <span class="spacer"></span>
+ <div class="seg" id="showSeg" role="group" aria-label="Show"><button data-s="outline" title="Only the outline">Outline</button><button data-s="both" title="The outline with the text beside it">Both</button><button data-s="text" title="Only the Gemara, shiur or daf page">Text</button></div>
+ <div class="seg" id="paneSeg" role="group" aria-label="Beside the outline"><button data-p="outline" class="ph">Outline</button><button data-p="page">Daf</button><button data-p="text" aria-pressed="true">Gemara</button><button data-p="shiur">Shiur</button></div>
  <button class="btn" id="moreBtn" type="button" aria-expanded="false" aria-controls="more">Options</button>
  <div class="more" id="more">
- <select class="pick small" id="outPick" aria-label="Dafim with an outline"></select>
- <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
- <label class="tog"><input type="checkbox" id="optShiur" checked> Shiur insights</label>
- <label class="tog"><input type="checkbox" id="optCharts" checked> Charts</label>
- <label class="tog"><input type="checkbox" id="optPictures" checked> Pictures</label>
- <label class="tog"><input type="checkbox" id="optSages" checked> Sages</label>
- <span class="spacer"></span>
- <button class="btn" id="railBtn" aria-pressed="false" title="Show the contents beside the outline (wide screens)">Contents</button>
- <button class="btn" id="glossBtn" aria-pressed="false">Glossary</button>
- <button class="btn" id="sagesBtn" aria-pressed="false">Sages</button>
- <button class="btn" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
- <button class="btn" id="notesBtn" type="button" title="Notes you've sent on this daf">Feedback</button>
+  <div class="grp"><span class="gl">Outline</span>
+   <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
+   <label class="tog"><input type="checkbox" id="optShiur" checked> Shiur insights</label>
+   <label class="tog"><input type="checkbox" id="optCharts" checked> Charts</label>
+   <label class="tog"><input type="checkbox" id="optPictures" checked> Pictures</label>
+   <label class="tog"><input type="checkbox" id="optSages" checked> Sages</label>
+  </div>
+  <div class="grp"><span class="gl">Open</span>
+   <button class="btn" id="glossBtn" aria-pressed="false">Glossary</button>
+   <button class="btn" id="sagesBtn" aria-pressed="false">Sages</button>
+   <button class="btn" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
+  </div>
+  <div class="grp lay"><span class="gl">Layout</span>
+   <button class="btn" id="railBtn" aria-pressed="false" title="Show the contents beside the outline (wide screens)">Contents</button>
+   <button class="btn" id="sideBtn" type="button" aria-label="Move the text to the other side">⇄ Swap sides</button>
+  </div>
+  <div class="grp">
+   <select class="pick small" id="outPick" aria-label="Dafim with an outline"></select>
+   <button class="btn" id="notesBtn" type="button" title="Notes you've sent on this daf">Feedback</button>
+  </div>
  </div>
- <div class="seg" id="paneSeg" role="group" aria-label="Beside the outline"><button data-p="outline" class="ph">Outline</button><button data-p="page">Daf</button><button data-p="text" aria-pressed="true">Gemara</button><button data-p="shiur">Shiur</button></div>
- <button class="iconbtn" id="sideBtn" type="button" aria-label="Move the text to the other side">⇄ Swap sides</button>
 </div>
-<div class="main" id="main" data-view="outline">
+<div class="main" id="main" data-view="both">
  <nav class="railp" aria-label="At a glance"><div class="zoomable" id="rail"></div></nav>
  <div class="col" id="outCol">
   <div class="pane" id="outPane"><div class="out zoomable" id="outZoom"><div class="terms" id="terms"></div><div id="outline"><p class="loading">Loading…</p></div></div></div>
@@ -656,10 +683,14 @@ function setPane(p){mode=p;
 // On a phone the outline and the text side take turns on the screen; "Outline" in the same switch
 // flips between them. With "Follow the outline" on, each side opens where the other left off.
 const narrow=matchMedia('(max-width:860px)');
-let phoneView='outline',textMoved=false;
-const textHidden=()=>narrow.matches&&phoneView==='outline';
-function markPaneSeg(){document.querySelectorAll('#paneSeg button').forEach(x=>x.setAttribute('aria-pressed',String(
- narrow.matches&&phoneView==='outline'?x.dataset.p==='outline':x.dataset.p===mode)))}
+// On wider screens the reader picks what to show (Show: Outline / Both / Text, remembered);
+// curView() is what is on screen now. A daf with no outline shows its text instead.
+let phoneView='outline',textMoved=false,noOutline=false;
+function curView(){if(narrow.matches)return phoneView;const l=prefs.layout||'both';return l==='outline'&&noOutline?'text':l}
+const textHidden=()=>curView()==='outline';
+function markPaneSeg(){const v=curView();document.querySelectorAll('#paneSeg button').forEach(x=>x.setAttribute('aria-pressed',String(
+ narrow.matches&&v==='outline'?x.dataset.p==='outline':x.dataset.p===mode)));
+ document.querySelectorAll('#showSeg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.s===(prefs.layout||'both'))))}
 // The section for the Gemara or shiur line at the top of the text side, when the reader scrolled it
 // there themselves; otherwise (or on the daf page) the section already current.
 function textSection(){const cur=secs.find(x=>x.id===current);if(!textMoved||mode==='page')return cur;
@@ -667,22 +698,31 @@ function textSection(){const cur=secs.find(x=>x.id===current);if(!textMoved||mod
  const els=mode==='text'?itemEls:quoteEls,i=els.findIndex(el=>{const r=el.getBoundingClientRect();return r.height&&r.bottom>top});
  if(i<0)return cur;const o=mode==='text'?itemOrd[i]:+els[i].dataset.o;
  return cur&&cur.a!=null&&o>=cur.a&&o<=cur.b?cur:(sectionForOrder(o)||cur)}
-function setView(v){const was=phoneView,sync=$('syncTog').checked&&narrow.matches&&v!==was&&!!D;
- const s=sync&&v==='outline'?textSection():null;   // read before the text side is hidden
- phoneView=v;$('main').dataset.view=v;markPaneSeg();
+function applyView(){const v=curView();$('main').dataset.view=v;
+ document.body.classList.toggle('oneside',v!=='both');document.body.classList.toggle('outonly',v==='outline'&&!narrow.matches);
+ markPaneSeg();if(typeof placeAbar==='function')placeAbar()}
+// v: 'outline' | 'text' | 'both'. On a phone it flips the side shown; elsewhere it sets the layout.
+// With "Follow the outline" on, a side coming into view opens where the other left off.
+function setView(v){const was=curView();
+ if(narrow.matches){if(v==='both')v='text';phoneView=v}else{prefs.layout=v;savePrefs()}
+ const now=curView(),sync=$('syncTog').checked&&now!==was&&!!D;
+ const s=sync&&was==='text'?textSection():null;   // read before the text side is hidden
+ applyView();
  // while the shiur plays, the side coming into view goes to the line being read
  if(typeof A!=='undefined'&&A&&S&&A.id===S.id&&!aud.paused){requestAnimationFrame(()=>{lastLine=null;tick()});return}
  if(!sync)return;
- if(v==='text'){if(current){const c=current;current=null;textHold=0;requestAnimationFrame(()=>setCurrent(c))}}
+ if(was==='outline'){if(current){const c=current;current=null;textHold=0;requestAnimationFrame(()=>setCurrent(c))}}
  else if(s){outHold=Date.now()+900;if(s.id!==current)setCurrent(s.id);requestAnimationFrame(()=>view.scrollToSection(s.id,'auto'))}}
 document.querySelectorAll('#paneSeg button').forEach(b=>b.onclick=()=>{const p=b.dataset.p;
  if(p==='outline'){setView('outline');return}
  if(p!==mode)setPane(p);if(narrow.matches)setView('text')});
 // Phone options menu: opens and closes from its button, and closes after opening a window.
+document.querySelectorAll('#showSeg button').forEach(b=>b.onclick=()=>setView(b.dataset.s));
 function setMore(open){document.querySelector('.bar').classList.toggle('open',open);$('moreBtn').setAttribute('aria-expanded',String(open))}
 $('moreBtn').onclick=()=>setMore($('moreBtn').getAttribute('aria-expanded')!=='true');
-['glossBtn','sagesBtn','resBtn','notesBtn'].forEach(id=>$(id).addEventListener('click',()=>{if(narrow.matches)setMore(false)}));
-narrow.addEventListener('change',()=>{markPaneSeg();if(current){const c=current;current=null;setCurrent(c)}});
+['glossBtn','sagesBtn','resBtn','notesBtn'].forEach(id=>$(id).addEventListener('click',()=>setMore(false)));
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&$('moreBtn').getAttribute('aria-expanded')==='true')setMore(false)});
+narrow.addEventListener('change',()=>{applyView();if(current){const c=current;current=null;setCurrent(c)}});
 function setRail(on){$('main').classList.toggle('rail',on);$('railBtn').setAttribute('aria-pressed',String(on));prefs.rail=on;savePrefs()}
 $('railBtn').onclick=()=>setRail(!$('main').classList.contains('rail'));
 function setSide(left){$('main').classList.toggle('textleft',left);document.body.classList.toggle('textleft',left);prefs.left=left;savePrefs()}
@@ -1012,7 +1052,7 @@ function lineTap(el,o){const now=Date.now(),dbl=lastTap.el===el&&now-lastTap.t<4
 // The audio panel sits under the Gemara window on wide screens; on a phone, where the Gemara and
 // the outline take turns, it spans the foot of the screen so it's there on both.
 function placeAbar(){const bar=$('abar');
- if(narrow.matches){if(bar.previousElementSibling!==$('main'))$('main').after(bar)}
+ if(narrow.matches||curView()==='outline'){if(bar.previousElementSibling!==$('main'))$('main').after(bar)}
  else if(bar.parentElement!==$('gem'))$('gem').appendChild(bar)}
 placeAbar();narrow.addEventListener('change',placeAbar);
 
@@ -1224,7 +1264,9 @@ async function load(key,t,n){const tok=++navToken;
  try{const ck=key||`${t}|${n}`;
   const d=cache[ck]||(cache[ck]=(key?fetch(`data/${key}.json`).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}):runtimeDaf(t,n)));
   const data=await d;if(tok!==navToken)return;renderDaf(data);
-  if(!data.outline&&narrow.matches&&phoneView==='outline')setView('text')}
+  const was=curView();noOutline=!data.outline;
+  if(noOutline&&narrow.matches&&phoneView==='outline')setView('text');
+  else if(curView()!==was){applyView();if(was==='outline'&&current){const c=current;current=null;setCurrent(c)}}}
  catch(e){delete cache[key||`${t}|${n}`];if(tok!==navToken)return;
   $('outline').innerHTML=`<p class="loading">Couldn't load ${esc(t)} ${n} (${esc(e.message)}). Check your connection and choose the daf again.</p>`}
 }
@@ -1233,7 +1275,7 @@ if(prefs.rail===true)setRail(true);
 if(prefs.lang)setLang(prefs.lang);
 if(prefs.level){const b=document.querySelector(`#levels button[data-lv="${prefs.level}"]`);if(b)document.querySelectorAll('#levels button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)))}
 if(prefs.pane)setPane(prefs.pane);
-markPaneSeg();setupGemSlider();
+applyView();setupGemSlider();
 
 // ---------- adjustable dividers ----------
 const main=$('main');
