@@ -268,7 +268,7 @@ body.dragging{cursor:col-resize;user-select:none}
  .main[data-view="text"],.main.textleft[data-view="text"],.main.rail[data-view="text"],.main.rail.textleft[data-view="text"]{grid-template-columns:minmax(0,1fr)}
  .main[data-view="text"] #outCol,.main[data-view="text"] .railp{display:none!important}
  .main[data-view="outline"] #outZoom{max-width:920px;margin:0 auto}
- .main[data-view="text"] .text{max-width:1000px;margin:0 auto}
+ .main[data-view="text"] .text,.main[data-view="text"] .shiur{max-width:1000px;margin:0 auto}
  body.oneside #sideBtn{display:none}
  body.outonly #paneSeg{display:none}
 }
@@ -686,11 +686,13 @@ const narrow=matchMedia('(max-width:860px)');
 // On wider screens the reader picks what to show (Show: Outline / Both / Text, remembered);
 // curView() is what is on screen now. A daf with no outline shows its text instead.
 let phoneView='outline',textMoved=false,noOutline=false;
-function curView(){if(narrow.matches)return phoneView;const l=prefs.layout||'both';return l==='outline'&&noOutline?'text':l}
+// New visitors start on the outline alone; readers who came before this switch keep side by side.
+if(!prefs.layout){prefs.layout=prefs.nav?'both':'outline';savePrefs()}
+function curView(){if(narrow.matches)return phoneView;const l=prefs.layout;return l==='outline'&&noOutline?'text':l}
 const textHidden=()=>curView()==='outline';
 function markPaneSeg(){const v=curView();document.querySelectorAll('#paneSeg button').forEach(x=>x.setAttribute('aria-pressed',String(
  narrow.matches&&v==='outline'?x.dataset.p==='outline':x.dataset.p===mode)));
- document.querySelectorAll('#showSeg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.s===(prefs.layout||'both'))))}
+ document.querySelectorAll('#showSeg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.s===(prefs.layout))))}
 // The section for the Gemara or shiur line at the top of the text side, when the reader scrolled it
 // there themselves; otherwise (or on the daf page) the section already current.
 function textSection(){const cur=secs.find(x=>x.id===current);if(!textMoved||mode==='page')return cur;
