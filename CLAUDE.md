@@ -1816,8 +1816,10 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   `curView()` gives what's on screen (a daf with no outline shows its text) and `setView()` serves
   both the phone flip and this switch, with the same catch-up sync. With the outline alone the
   audio panel moves to the foot of the page and Daf / Gemara / Shiur hides. Everything else
-  (detail level, show toggles, Glossary / Sages / Resources, Contents, Swap sides, the outline
+  (detail level, show toggles, Glossary / Sages, Contents, Swap sides, the outline
   menu, Feedback) folds behind Options on every screen, in labelled groups; Esc closes it.
+  Resources stays on the main bar (author: getting the Torah out matters most); on a phone
+  Options is a ☰ icon so Resources fits on the second row.
 - Resources (2026-09-29): a pop-out listing the YCT Torah Library's items for the daf, the same
   lookup as the apps' `ResourcesManager`/`YCTLibraryClient` (tractate term -> daf terms -> posts,
   for library posts, psak posts and library `audio`), run in the reader's browser (the sites allow

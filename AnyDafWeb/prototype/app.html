@@ -256,6 +256,7 @@ body.dragging{cursor:col-resize;user-select:none}
    an Options button, leaving the daf picker and the view switch. */
 .more{display:none;flex-basis:100%;flex-wrap:wrap;gap:8px 14px;align-items:center;padding-top:8px;border-top:1px solid var(--line)}
 .bar.open .more{display:flex}
+#moreBtn .mi{display:none}
 #moreBtn[aria-expanded="true"]{background:var(--blue);border-color:var(--blue);color:var(--panel)}
 .more .grp{display:inline-flex;flex-wrap:wrap;align-items:center;gap:8px 12px}
 .more .grp+.grp{padding-left:14px;border-left:1px solid var(--line)}
@@ -290,8 +291,11 @@ body.dragging{cursor:col-resize;user-select:none}
  #aFollow button{padding:5px 9px}
  .nav .pick{font-size:1.02rem;padding:4px 5px}
  #tracPick{max-width:9.2rem}
- #paneSeg{order:2}
- #moreBtn{order:1}
+ #paneSeg,#resBtn,#moreBtn{order:2}
+ .bar{gap:8px 6px}
+ #paneSeg button{padding:5px 8px}
+ #moreBtn .ml{display:none}#moreBtn .mi{display:inline}
+ #moreBtn{padding:5px 11px}
  .more{order:3;padding-top:6px}
  .more .grp+.grp{padding-left:0;border-left:0}
  .more .lay{display:none}
@@ -342,7 +346,8 @@ __SPRITE__
  <span class="spacer"></span>
  <div class="seg" id="showSeg" role="group" aria-label="Show"><button data-s="outline" title="Only the outline">Outline</button><button data-s="both" title="The outline with the text beside it">Both</button><button data-s="text" title="Only the Gemara, shiur or daf page">Text</button></div>
  <div class="seg" id="paneSeg" role="group" aria-label="Beside the outline"><button data-p="outline" class="ph">Outline</button><button data-p="page">Daf</button><button data-p="text" aria-pressed="true">Gemara</button><button data-p="shiur">Shiur</button></div>
- <button class="btn" id="moreBtn" type="button" aria-expanded="false" aria-controls="more">Options</button>
+ <button class="btn res" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
+ <button class="btn" id="moreBtn" type="button" aria-expanded="false" aria-controls="more" aria-label="Options"><span class="mi" aria-hidden="true">☰</span><span class="ml">Options</span></button>
  <div class="more" id="more">
   <div class="grp"><span class="gl">Outline</span>
    <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
@@ -354,7 +359,6 @@ __SPRITE__
   <div class="grp"><span class="gl">Open</span>
    <button class="btn" id="glossBtn" aria-pressed="false">Glossary</button>
    <button class="btn" id="sagesBtn" aria-pressed="false">Sages</button>
-   <button class="btn" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
   </div>
   <div class="grp lay"><span class="gl">Layout</span>
    <button class="btn" id="railBtn" aria-pressed="false" title="Show the contents beside the outline (wide screens)">Contents</button>
