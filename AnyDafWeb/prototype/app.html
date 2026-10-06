@@ -145,6 +145,10 @@ body.hemode #langSeg{direction:rtl}
 .g-gem{inset-inline-end:-5px}.g-rail{inset-inline-start:-5px}
 .main.textleft .g-gem{inset-inline-end:auto;inset-inline-start:-5px}.main.textleft .g-rail{inset-inline-start:auto;inset-inline-end:-5px}
 .g-rail{display:none}
+.g-gem2{display:none}
+/* Close Contents, at the top of the contents column, since its button is otherwise under Options */
+.railtop{display:flex;justify-content:flex-end;margin:-6px 0 8px}
+.railtop .btn{font-size:12px;padding:3px 10px;color:var(--muted)}
 @media (min-width:1100px){.main.rail .g-rail{display:block}}
 body.dragging{cursor:col-resize;user-select:none}
 .col>.pane{flex:1}
@@ -367,8 +371,7 @@ html[lang="he"] .pick{font-family:var(--hebrew)}
 html[lang="he"] .main,html[lang="he"] #outCol{direction:ltr}
 html[lang="he"] .railp>*,html[lang="he"] #outCol>.pane,html[lang="he"] #outCol>.foot,html[lang="he"] #outCol>.backaud,html[lang="he"] .gem>*{direction:rtl}
 /* Hebrew, with the contents column open: Gemara, contents, outline (right to left), and the
-   mirror image when the sides are swapped. Its own resize handle would sit on the same edge as
-   the text side's, so in Hebrew it keeps the width last set. */
+   mirror image when the sides are swapped. */
 @media (min-width:1100px){
  html[lang="he"] .main.rail:not([data-view="text"]):not([data-view="outline"]){grid-template-columns:minmax(0,1fr) var(--railw) var(--gemw)}
  html[lang="he"] .main.rail.textleft:not([data-view="text"]):not([data-view="outline"]){grid-template-columns:var(--gemw) var(--railw) minmax(0,1fr)}
@@ -379,7 +382,12 @@ html[lang="he"] .railp>*,html[lang="he"] #outCol>.pane,html[lang="he"] #outCol>.
  html[lang="he"] .main.rail.textleft .gem{order:-1}
  html[lang="he"] .main.rail.textleft .railp{order:0;border-left:0;border-right:1px solid var(--line)}
  html[lang="he"] .main.rail.textleft #outCol{order:1}
- html[lang="he"] .main.rail .g-rail{display:none}
+ /* handles: the contents column's on the outline's edge, the text side's on the Gemara's edge */
+ html[lang="he"] .main.rail .g-rail{inset-inline-start:auto;left:auto;right:-5px}
+ html[lang="he"] .main.rail.textleft .g-rail{right:auto;left:-5px}
+ html[lang="he"] .main.rail:not([data-view="outline"]) #gGem{display:none}
+ html[lang="he"] .main.rail:not([data-view="outline"]) .g-gem2{display:block;left:-5px}
+ html[lang="he"] .main.rail.textleft:not([data-view="outline"]) .g-gem2{left:auto;right:-5px}
 }
 /* the page scan and the sages timeline scroll sideways by physical position */
 .pageimg{direction:ltr}
@@ -425,7 +433,7 @@ __SPRITE__
  </div>
 </div>
 <div class="main" id="main" data-view="both">
- <nav class="railp" aria-label="At a glance"><div class="zoomable" id="rail"></div></nav>
+ <nav class="railp" aria-label="At a glance"><div class="railtop"><button class="btn" id="railClose" type="button">Close Contents</button></div><div class="zoomable" id="rail"></div></nav>
  <div class="col" id="outCol">
   <div class="pane" id="outPane"><div class="out zoomable" id="outZoom"><div class="terms" id="terms"></div><div id="outline"><p class="loading">Loading…</p></div></div></div>
   <div class="foot" id="outFoot"></div>
@@ -451,6 +459,7 @@ __SPRITE__
   </div></div>
   <div class="foot" id="gemFoot"></div>
   <button class="backaud" id="backText" type="button" hidden>↩ Back to the audio</button>
+  <div class="gutter g-gem2" id="gGem2" role="separator" aria-orientation="vertical" aria-label="Resize the text side" title="Drag to resize · double-click to reset"></div>
  </aside>
 </div>
 <div class="abar" id="abar" hidden>
@@ -544,7 +553,7 @@ const HEW={
  'Move the text to the other side':'העברת הטקסט לצד השני','⇄ Swap sides':'⇄ החלפת צדדים','Dafim with an outline':'דפים עם מתווה',
  "Notes you've sent on this daf":'ההערות ששלחת על הדף','Feedback':'משוב','At a glance':'במבט על','Loading…':'טוען…','↩ Back to the audio':'↩ חזרה לשמע',
  'Resize the text side':'שינוי רוחב צד הטקסט','Drag to resize · double-click to reset':'גררו לשינוי הרוחב · לחיצה כפולה לאיפוס',
- 'Resize the contents column':'שינוי רוחב תוכן העניינים','Language':'שפה','Follow the outline':'לעקוב אחרי המתווה',
+ 'Resize the contents column':'שינוי רוחב תוכן העניינים','Close Contents':'סגירת תוכן העניינים','Language':'שפה','Follow the outline':'לעקוב אחרי המתווה',
  'Previous amud':'העמוד הקודם','Amud':'עמוד','Next amud':'העמוד הבא','Highlight on the page':'סימון על הדף',
  "Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.":
   'הדף עובר לעמוד של הקטע שאתם קוראים ומסמן בו את שורותיו (רש״י ותוספות על אותן שורות בכתום). הקישו על שורת גמרא כדי להעביר אליה את המתווה ולקרוא אותה; הקישו על רש״י או תוספות כדי לקרוא את הפירוש. הגדילו בעזרת המחוון שלמטה, וגררו את הדף כדי לנוע בו.',
@@ -926,6 +935,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&$('moreBtn').getAtt
 narrow.addEventListener('change',()=>{applyView();if(current){const c=current;current=null;setCurrent(c)}});
 function setRail(on){$('main').classList.toggle('rail',on);$('railBtn').setAttribute('aria-pressed',String(on));prefs.rail=on;savePrefs()}
 $('railBtn').onclick=()=>setRail(!$('main').classList.contains('rail'));
+$('railClose').onclick=()=>setRail(false);
 function setSide(left){$('main').classList.toggle('textleft',left);document.body.classList.toggle('textleft',left);prefs.left=left;savePrefs()}
 $('sideBtn').onclick=()=>setSide(!$('main').classList.contains('textleft'));
 
@@ -1527,11 +1537,18 @@ const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
 const textOnLeft=()=>main.classList.contains('textleft');   // the same in Hebrew: the columns stay ltr
 dragger($('gGem'),(x,r)=>{const left=textOnLeft();
  const rail=main.classList.contains('rail')&&innerWidth>=1100?(prefs.railw||230):0;
- // in Hebrew the contents column sits between the outline and the text, so the handle is past it
- const px=(left?x-r.left:r.right-x)-(RTL?rail:0);
+ const px=left?x-r.left:r.right-x;
  prefs.gemw=+clamp(100*px/r.width,22,Math.min(70,100*(r.width-rail-320)/r.width)).toFixed(1)});
 // Contents column: 160–420px.
-dragger($('gRail'),(x,r)=>{const left=textOnLeft();prefs.railw=Math.round(clamp(left?r.right-x:x-r.left,160,420))});
+dragger($('gRail'),(x,r)=>{const left=textOnLeft();
+ if(!RTL){prefs.railw=Math.round(clamp(left?r.right-x:x-r.left,160,420));return}
+ // Hebrew: the column sits between the outline and the Gemara (or the page edge, with the outline alone)
+ const g=$('gem').getBoundingClientRect(),edge=g.width?(left?g.right:g.left):(left?r.left:r.right);
+ prefs.railw=Math.round(clamp(left?x-edge:edge-x,160,420))});
+// the text side's handle on the Gemara's own edge (Hebrew, with the contents column open)
+dragger($('gGem2'),(x,r)=>{const left=textOnLeft(),px=left?x-r.left:r.right-x,rail=prefs.railw||230;
+ prefs.gemw=+clamp(100*px/r.width,22,Math.min(70,100*(r.width-rail-320)/r.width)).toFixed(1)});
+$('gGem2').ondblclick=()=>{delete prefs.gemw;savePrefs();setWidths()};
 $('gGem').ondblclick=()=>{delete prefs.gemw;savePrefs();setWidths()};
 $('gRail').ondblclick=()=>{delete prefs.railw;savePrefs();setWidths()};
 setWidths();
