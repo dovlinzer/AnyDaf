@@ -366,6 +366,21 @@ html[lang="he"] .pick{font-family:var(--hebrew)}
    stay ltr, and only what is inside them runs right to left. */
 html[lang="he"] .main,html[lang="he"] #outCol{direction:ltr}
 html[lang="he"] .railp>*,html[lang="he"] #outCol>.pane,html[lang="he"] #outCol>.foot,html[lang="he"] #outCol>.backaud,html[lang="he"] .gem>*{direction:rtl}
+/* Hebrew, with the contents column open: Gemara, contents, outline (right to left), and the
+   mirror image when the sides are swapped. Its own resize handle would sit on the same edge as
+   the text side's, so in Hebrew it keeps the width last set. */
+@media (min-width:1100px){
+ html[lang="he"] .main.rail:not([data-view="text"]):not([data-view="outline"]){grid-template-columns:minmax(0,1fr) var(--railw) var(--gemw)}
+ html[lang="he"] .main.rail.textleft:not([data-view="text"]):not([data-view="outline"]){grid-template-columns:var(--gemw) var(--railw) minmax(0,1fr)}
+ html[lang="he"] .main.rail[data-view="outline"]{grid-template-columns:minmax(0,1fr) var(--railw)}
+ html[lang="he"] .main.rail.textleft[data-view="outline"]{grid-template-columns:var(--railw) minmax(0,1fr)}
+ html[lang="he"] .main.rail .railp{order:1;border-right:0;border-left:1px solid var(--line)}
+ html[lang="he"] .main.rail .gem{order:2}
+ html[lang="he"] .main.rail.textleft .gem{order:-1}
+ html[lang="he"] .main.rail.textleft .railp{order:0;border-left:0;border-right:1px solid var(--line)}
+ html[lang="he"] .main.rail.textleft #outCol{order:1}
+ html[lang="he"] .main.rail .g-rail{display:none}
+}
 /* the page scan and the sages timeline scroll sideways by physical position */
 .pageimg{direction:ltr}
 #uiBtn{font-family:"Assistant","Arial Hebrew",var(--sans)}
@@ -1511,7 +1526,9 @@ const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
 // Text side: 22–70% of the page, leaving the outline at least ~320px.
 const textOnLeft=()=>main.classList.contains('textleft');   // the same in Hebrew: the columns stay ltr
 dragger($('gGem'),(x,r)=>{const left=textOnLeft();
- const px=left?x-r.left:r.right-x;const rail=main.classList.contains('rail')&&innerWidth>=1100?(prefs.railw||230):0;
+ const rail=main.classList.contains('rail')&&innerWidth>=1100?(prefs.railw||230):0;
+ // in Hebrew the contents column sits between the outline and the text, so the handle is past it
+ const px=(left?x-r.left:r.right-x)-(RTL?rail:0);
  prefs.gemw=+clamp(100*px/r.width,22,Math.min(70,100*(r.width-rail-320)/r.width)).toFixed(1)});
 // Contents column: 160–420px.
 dragger($('gRail'),(x,r)=>{const left=textOnLeft();prefs.railw=Math.round(clamp(left?r.right-x:x-r.left,160,420))});

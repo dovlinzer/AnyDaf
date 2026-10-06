@@ -1928,7 +1928,9 @@ in Hebrew (author: the Talmud reads right to left, and in Hebrew it comes first)
 `#outCol` stay ltr and only their contents run rtl. **Entry address (2026-10-06):** a first visit
 through italmud.com / .org opens on the outline alone, through the AnyDaf address
 (anydaf-outlines.vercel.app) on the Talmud text alone (`ENTRY_TEXT`); after that each domain
-remembers the reader's own choice. The Sages window opens each card's About. Next, once
+remembers the reader's own choice. The Sages window opens each card's About. With Contents open,
+Hebrew reads Gemara, Contents, outline from right to left (CSS `order`; its own resize handle is
+hidden there, since it would share the text side's edge, and the text side's handle skips over it). Next, once
 the author and an Israeli reader approve it: a Hebrew outline pass on 10 dafim (Batch, about $7–8;
 needs authorization).
 
