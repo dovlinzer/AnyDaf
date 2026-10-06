@@ -1931,7 +1931,7 @@ through italmud.com / .org opens on the outline alone, through the AnyDaf addres
 remembers the reader's own choice. The Sages window opens each card's About. With Contents open,
 Hebrew reads Gemara, Contents, outline from right to left (CSS `order`); there the contents
 column's handle sits on the outline's edge and the text side's on the Gemara's own edge (`#gGem2`,
-inside `.gem`). The contents column has a Close Contents button at its top in both languages. Next, once
+inside `.gem`). The contents column has a Close button (סגירה) at its top in both languages. Next, once
 the author and an Israeli reader approve it: a Hebrew outline pass on 10 dafim (Batch, about $7–8;
 needs authorization).
 
