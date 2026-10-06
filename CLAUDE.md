@@ -1880,6 +1880,8 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   Chagigah 6 only, since it is the one outline with anchors so far. Run with daf-processor's
   venv. Published: https://claude.ai/artifact/VyEhmmkY9siDtWvA6F2WbH
 
+#### Study games — see `AnyDafWeb/GAMES.md` (the design brief; read it first)
+
 #### Hebrew outlines (2026-10-05) — model outline in review
 
 For Israeli readers, mainly mamlachti-dati high schools (author's call; midrasha register: plain
