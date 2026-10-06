@@ -214,25 +214,31 @@
       "caption": "May the lender attribute the stain to the borrower?",
       "columns": [
        "",
-       "*Shomeret yom*, her second day",
-       "*Soferet shivah*, not yet immersed",
-       "*Shomeret yom*, her first day",
-       "*Dam tohar* or a virgin"
+       "Borrower who would lose less than the lender",
+       "Borrower who loses nothing"
       ],
       "rows": [
        [
         "Rabban Shimon ben Gamliel",
-        "Yes: the lender is spared, the borrower's day is ruined",
-        "Yes: the borrower counts again",
-        "Yes",
-        "Yes"
+        "1. *Shomeret yom*, her second day: yes; the lender is spared, the borrower's day is ruined\n2. *Soferet shivah*, not yet immersed: yes; the borrower counts again",
+        "Yes:\n1. *Shomeret yom*, her first day\n2. A woman in *dam tohar*\n3. A virgin"
        ],
        [
         "Rebbi",
-        "No: both are impure",
-        "No: both are impure",
-        "Yes: she loses nothing",
-        "Yes: her blood is pure"
+        "1. *Shomeret yom*, her second day: no; both are impure\n2. *Soferet shivah*, not yet immersed: no; both are impure",
+        "Yes:\n1. *Shomeret yom*, her first day: she loses nothing\n2. *Dam tohar*: her blood is pure\n3. A virgin: her blood is pure"
+       ]
+      ],
+      "tones": [
+       [
+        null,
+        "ok",
+        "ok"
+       ],
+       [
+        null,
+        "no",
+        "ok"
        ]
       ]
      },

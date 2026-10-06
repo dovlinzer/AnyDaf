@@ -1,0 +1,18 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s3.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the 'asked according to' and 'no question according to' columns into one cell per row, and set each case's two sides as a numbered list, bringing the chart to four columns with the same content and orientation."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "no sages list"
+  ]
+ }
+]

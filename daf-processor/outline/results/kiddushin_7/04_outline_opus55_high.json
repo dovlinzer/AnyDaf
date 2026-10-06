@@ -37,35 +37,27 @@
       "columns": [
        "Case",
        "What is said",
-       "The money goes",
-       "She is betrothed to",
-       "The anomaly",
-       "Rava's source"
+       "Where the money goes, and the husband",
+       "The anomaly and Rava's source"
       ],
       "rows": [
        [
         "*Arev*",
         "Woman: \"Give 100 to so-and-so and I will be betrothed to you\"",
-        "Man → so-and-so",
-        "The man who paid",
-        "She receives nothing",
-        "An *arev* commits himself without benefit"
+        "1. Man → so-and-so\n2. Betrothed to the man who paid",
+        "She receives nothing; but an *arev* commits himself without benefit"
        ],
        [
         "Canaanite slave",
         "Giver: \"Here are 100; with them be betrothed to so-and-so\"",
-        "Giver → woman",
-        "So-and-so",
-        "The husband pays nothing",
-        "A slave freed with another's money acquires himself"
+        "1. Giver → woman\n2. Betrothed to so-and-so",
+        "The husband pays nothing; but a slave freed with another's money acquires himself"
        ],
        [
         "Both",
         "Woman: \"Give 100 to so-and-so and I will be betrothed to him\"",
-        "Man → so-and-so",
-        "So-and-so",
-        "She receives nothing and the husband pays nothing",
-        "*Arev* and slave together"
+        "1. Man → so-and-so\n2. Betrothed to so-and-so",
+        "1. She receives nothing: answered by the *arev*\n2. The husband pays nothing: answered by the slave"
        ]
       ]
      },
@@ -596,23 +588,34 @@
      "",
      "\"Whatever they're worth\"",
      "Said worth 50, not worth 50",
-     "Said worth 50, worth 50",
-     "\"Whatever they're worth\" (second version)"
+     "Said worth 50, worth 50"
     ],
     "rows": [
      [
       "Rabba",
-      "No *shuma* needed",
+      "No *shuma* needed, in both versions",
       "Not betrothed",
-      "No *shuma* needed",
       "No *shuma* needed"
      ],
      [
       "Rav Yosef",
-      "No *shuma* needed",
+      "1. First version: no *shuma* needed\n2. Second version: *shuma* needed, since an item used as money must have a set value",
       "Not betrothed",
-      "*Shuma* needed: she isn't an expert and doesn't rely on him",
-      "*Shuma* needed: an item used as money must have a set value"
+      "*Shuma* needed: she isn't an expert and doesn't rely on him"
+     ]
+    ],
+    "tones": [
+     [
+      null,
+      null,
+      "no",
+      null
+     ],
+     [
+      null,
+      null,
+      "no",
+      null
      ]
     ]
    },

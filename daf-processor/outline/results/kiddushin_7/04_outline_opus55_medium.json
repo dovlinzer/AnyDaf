@@ -25,39 +25,60 @@
     "caption": "Rava's cases of betrothal money that bypasses the usual giver or receiver",
     "columns": [
      "Case",
-     "Money goes",
-     "She is betrothed to",
+     "Who pays whom, and the husband",
      "The anomaly",
      "Ruling and basis"
     ],
     "rows": [
      [
       "Guarantor (*arev*)",
-      "Man → so-and-so",
-      "The man who paid",
+      "Man → so-and-so\nShe is betrothed to the man who paid",
       "She receives nothing",
       "Betrothed: a guarantor binds himself without any benefit"
      ],
      [
       "Canaanite slave",
-      "Man → woman",
-      "So-and-so",
+      "Man → woman\nShe is betrothed to so-and-so",
       "Her husband pays nothing",
       "Betrothed: a slave is freed by someone else's money"
      ],
      [
       "Both combined",
-      "Man → so-and-so",
-      "So-and-so",
+      "Man → so-and-so\nShe is betrothed to so-and-so",
       "She receives nothing and her husband pays nothing",
       "Betrothed: each proof covers the other's gap"
      ],
      [
       "Woman gives to man",
-      "Woman → man",
-      "The man she paid",
+      "Woman → man\nShe is betrothed to the man she paid",
       "The money flows from her to him",
       "Mar Zutra: betrothed, when he is an *adam chashuv*"
+     ]
+    ],
+    "tones": [
+     [
+      null,
+      null,
+      null,
+      "ok"
+     ],
+     [
+      null,
+      null,
+      null,
+      "ok"
+     ],
+     [
+      null,
+      null,
+      null,
+      "ok"
+     ],
+     [
+      null,
+      null,
+      null,
+      "ok"
      ]
     ]
    },

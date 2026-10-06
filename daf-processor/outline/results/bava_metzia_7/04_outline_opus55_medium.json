@@ -364,23 +364,20 @@
       "columns": [
        "",
        "Ratified note",
-       "Unratified note",
-       "Debtor admits he wrote it",
+       "Unratified note the debtor admits writing",
        "Reason"
       ],
       "rows": [
        [
         "Rebbi",
         "They divide",
-        "Creditor receives nothing",
-        "Must still be ratified",
-        "An unratified note is a shard; its only support is the debtor, who says he paid"
+        "Must still be ratified; if it is not, the creditor receives nothing",
+        "An unratified note is a shard (*chaspa*); its only support is the debtor, who says he paid"
        ],
        [
         "Rabban Shimon ben Gamliel",
         "They divide",
-        "They divide",
-        "Need not be ratified",
+        "Need not be ratified; they divide",
         "The debtor's admission makes the note valid"
        ]
       ]

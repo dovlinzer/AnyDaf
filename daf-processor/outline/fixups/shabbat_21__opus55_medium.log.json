@@ -1,0 +1,19 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s20.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the 'First reason' and 'Second reason' columns into one numbered-list cell per school, so the chart now has four columns. Content and orientation are unchanged, with the schools on the rows."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "outline runs 20b.15–21b.13, but its lines are 21a.2–21b.10",
+   "no sages list"
+  ]
+ }
+]

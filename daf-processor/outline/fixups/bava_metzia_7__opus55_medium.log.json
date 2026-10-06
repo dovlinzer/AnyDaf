@@ -1,0 +1,19 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s11.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the 'Unratified note' and 'Debtor admits he wrote it' columns into one column, 'Unratified note the debtor admits writing', bringing the chart to four columns with the same content and orientation."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "chart in 'R. Yosei and Pera'on: The Found Ketubah and Three Resolutions' has sages as column headers ['R. Yosei on a ketubah, still married']: check the orientation",
+   "no sages list"
+  ]
+ }
+]

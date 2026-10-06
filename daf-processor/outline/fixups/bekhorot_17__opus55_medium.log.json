@@ -1,0 +1,24 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s1.chart",
+   "set s5.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the two text-challenge columns (\"even ten generations\" and the Mishnah's wording) into one numbered-list column per amora, giving four columns."
+   },
+   {
+    "note": "c2",
+    "how": "Combined the \"Law at issue\" and \"Case\" columns into one cell per reading, giving four columns with the same rows and content."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "chart in 'The *Nidmeh* Baraita: What Does R. Meir Obligate? Paternity, Lineage or Partial Resemblance' has sages as column headers ['R. Meir obligates because']: check the orientation",
+   "no sages list"
+  ]
+ }
+]

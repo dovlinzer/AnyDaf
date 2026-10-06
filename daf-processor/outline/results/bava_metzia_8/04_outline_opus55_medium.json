@@ -123,32 +123,48 @@
       "caption": "A *cheresh* and a competent person lift a found item together: three formulations",
       "columns": [
        "",
-       "*Cheresh*",
-       "Competent person",
+       "Who acquires",
        "Reasoning",
        "Objection or answer"
       ],
       "rows": [
        [
         "Rava's first version",
-        "Acquires",
-        "Acquires",
+        "Both: the *cheresh* and the competent person",
         "*Migo*: each acquires for himself, so he lifts for the other too",
         "A *cheresh* cannot acquire for another"
        ],
        [
         "Revised version",
-        "Acquires",
-        "Does not acquire",
+        "Only the *cheresh*",
         "*Migo* of two *chershim*, who acquire when they lift together",
         "The competent person lifted only for himself"
        ],
        [
         "Conclusion",
-        "Does not acquire",
-        "Does not acquire",
+        "Neither",
         "A competent person who gains nothing lifted for no one",
         "Two *chershim* differ: their ordinance prevents quarrels, and here there is none"
+       ]
+      ],
+      "tones": [
+       [
+        null,
+        "ok",
+        null,
+        null
+       ],
+       [
+        null,
+        null,
+        null,
+        null
+       ],
+       [
+        null,
+        "no",
+        null,
+        null
        ]
       ]
      },

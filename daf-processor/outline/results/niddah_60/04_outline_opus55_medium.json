@@ -182,9 +182,8 @@
         "caption": "Attributing to a borrower: where the two tanna'im part",
         "columns": [
          "",
-         "*Shomeret yom*, her second day",
-         "*Soferet shivah*, not yet immersed",
-         "*Shomeret yom* on her first day; *dam tohar*; virgin",
+         "Borrower who would lose less: *shomeret yom* on her second day, or *soferet shivah* not yet immersed",
+         "Borrower who loses nothing: *shomeret yom* on her first day, *dam tohar*, or a virgin",
          "Outcome where they differ"
         ],
         "rows": [
@@ -192,15 +191,27 @@
           "Rabban Shimon ben Gamliel",
           "She attributes",
           "She attributes",
-          "She attributes",
           "Lender set right, borrower spoiled"
          ],
          [
           "Rebbi",
           "She does not attribute",
-          "She does not attribute",
           "She attributes",
           "Both spoiled: both *teme'ot*"
+         ]
+        ],
+        "tones": [
+         [
+          null,
+          "ok",
+          "ok",
+          null
+         ],
+         [
+          null,
+          "no",
+          "ok",
+          null
          ]
         ]
        },

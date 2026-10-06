@@ -274,23 +274,20 @@
       "columns": [
        "",
        "Claim",
-       "Argument to the employer",
-       "Why the other's oath doesn't help",
+       "Arguments to the employer",
        "Result"
       ],
       "rows": [
        [
         "Storekeeper",
         "\"I gave him the food\"",
-        "\"I carried out your agency; you didn't require witnesses\"",
-        "He has no dealings with the laborer",
+        "1. \"I carried out your agency; my dealings are with you\"\n2. \"You trusted him: you didn't tell me to give it before witnesses\"\n3. \"Even if the laborer swears, I don't trust his oath\"",
         "Swears and collects"
        ],
        [
         "Laborer",
         "\"I received nothing\"",
-        "\"I worked for you\"",
-        "He has no relationship with the storekeeper",
+        "1. \"I worked for you\"\n2. \"What have I to do with the storekeeper? Even if he swears, I don't trust his oath\"",
         "Swears and collects his wages"
        ]
       ]

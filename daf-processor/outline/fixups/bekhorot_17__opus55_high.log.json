@@ -1,0 +1,23 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s6.chart",
+   "set s12.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the two three-generation cases into one column as a numbered list, so the chart has four columns with the same content and parties still on the rows."
+   },
+   {
+    "note": "c2",
+    "how": "Combined the Verse and Benchmark columns into one \"Verse and benchmark\" column, so the chart has four columns with the same content and amora'im still on the rows."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "no sages list"
+  ]
+ }
+]

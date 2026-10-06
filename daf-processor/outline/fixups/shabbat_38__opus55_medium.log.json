@@ -1,0 +1,21 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s2.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the 'how it compares' column into the reason column, which brings the chart to four columns with parties still on the rows, and added tones for the eat / may-not-eat cells."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "outline runs 37b.9–38b.12, but its lines are 37b.9–38b.7",
+   "no sages list",
+   "'prohibited' used 17x: the author's word is 'forbidden'",
+   "'dilemma' used 5x: check it isn't a question or challenge"
+  ]
+ }
+]

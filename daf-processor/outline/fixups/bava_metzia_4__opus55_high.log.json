@@ -1,0 +1,23 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s1.chart",
+   "set s5.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the ruling and reason columns into one, bringing the s1 chart to four columns with the same rows and content."
+   },
+   {
+    "note": "c2",
+    "how": "Merged the inference and its consequence for *heilakh* into one 'What is inferred' column, bringing the s5 chart to four columns with the same rows and content."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "no sages list"
+  ]
+ }
+]

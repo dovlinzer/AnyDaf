@@ -1,0 +1,19 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s8.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the two parable columns into one numbered-list cell per row, which brings the chart to four columns. The content and the rows-as-parties orientation are unchanged."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "chart in 'One Lamb Died: *Yachloku* or *Ha'motzi Me'chavero*?' has sages as column headers [\"R. Chiyya's two parables (agreed by all)\"]: check the orientation",
+   "no sages list"
+  ]
+ }
+]

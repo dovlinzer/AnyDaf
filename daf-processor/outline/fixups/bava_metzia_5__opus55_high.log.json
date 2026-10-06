@@ -1,0 +1,18 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s9.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the 'First word' and 'Second word' columns into one numbered-list cell per row, bringing the s9 chart to four columns with the same content and orientation."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "no sages list"
+  ]
+ }
+]

@@ -1,0 +1,19 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s4.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the separate *cheresh* and *pikeach* columns into one numbered 'Ruling' cell per row, which brings the chart to four columns. Content and orientation are unchanged, and tones now color the rulings."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "chart in 'Abaye Challenges Rav Yosef: Whose Proof, and Wagon vs. Saddle' has sages as column headers ['Abaye asks']: check the orientation",
+   "no sages list"
+  ]
+ }
+]

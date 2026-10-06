@@ -1,0 +1,1025 @@
+{
+ "daf": "Bekhorot 15",
+ "scope": {
+  "start": "14b: the Mishnah's clause that animals blemished before consecration make no *temurah*",
+  "end": "15b: the baraita's principle for animals consecrated before their blemish (its 'principle of the matter' is analyzed on 16a)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Blemish Before Consecration: No Temurah, Redemption Even After Death",
+   "amud": "14b–15a",
+   "text": {
+    "from": "14b.14",
+    "to": "15a.4"
+   },
+   "gist": "Two of the Mishnah's rulings for an animal blemished before it was consecrated: it makes no *temurah*, and it may be redeemed even after it dies. The second opens a debate over who must be stood before the priest.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "Temurah: 'Good for Bad' Means Good at the Outset",
+     "amud": "14b",
+     "text": {
+      "from": "14b.14",
+      "to": "14b.14"
+     },
+     "gist": "The superfluous phrase \"a good for a bad\" teaches that only an animal unblemished at the outset can make a substitute sacred.",
+     "bullets": [
+      {
+       "text": "Mishnah: consecrated animals whose blemish preceded their consecration do not make a substitute sacred.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Source: Vayikra 27:10, \"He shall not exchange it, nor substitute it, a good for a bad, or a bad for a good.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If even a bad animal may not be substituted for a good one, the ban on a good for a bad goes without saying. So the verse is teaching that an animal good at the outset makes *temurah*, and one bad at the outset does not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "An animal blemished before consecration was never sanctified for the altar. It held only *kedushat damim*, sanctity of its value, meant from the start to be redeemed, so it stands outside *temurah* altogether.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Even \"a bad for a good\" refers to an animal that began as good and was blemished only later. Its original altar sanctity is what lets it make *temurah*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Redeeming a Dead Animal: Who Needs Ha'amadah Ve'ha'arakhah?",
+     "amud": "14b–15a",
+     "text": {
+      "from": "14b.15",
+      "to": "15a.4"
+     },
+     "gist": "Three questions: R. Shimon's scope of *ha'amadah ve'ha'arakhah*, the Rabbis identified with the tanna of Levi's school, and why Rav credits the Mishnah to R. Shimon alone.",
+     "bullets": [],
+     "chart": {
+      "caption": "Who must be alive, so that it can be stood and appraised, in order to be redeemed?",
+      "columns": [
+       "",
+       "Consecrated for the altar",
+       "Consecrated for Temple maintenance",
+       "Can our Mishnah follow this view?"
+      ],
+      "rows": [
+       [
+        "R. Shimon",
+        "Included, except an animal blemished before consecration ('it' excludes it)",
+        "Not included: redeemed even after death",
+        "Yes (Rav Yehuda in the name of Rav)"
+       ],
+       [
+        "The tanna of Levi's school",
+        "Included, even an animal blemished before consecration",
+        "Included, even undomesticated animals and birds",
+        "No: its reading of 'it' is left a difficulty"
+       ],
+       [
+        "The Rabbis, as Reish Lakish reads them",
+        "Not included",
+        "Included",
+        "No: the Mishnah buries dead altar animals because they cannot be stood"
+       ],
+       [
+        "The Rabbis, as R. Yochanan reads them",
+        "Included",
+        "Buried if they died (the mishna in Temura)",
+        "Yes: Rav taught 'R. Shimon and those who disagree with him'"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "R. Shimon's view (14b): an altar animal must be alive to be stood before the priest and appraised, so if it dies it is buried; an animal blemished before consecration is excluded by the word \"it\" and may be redeemed even after death.",
+      "svg": "<svg viewBox='0 0 900 470' xmlns='http://www.w3.org/2000/svg' role='img'><title>Two panels. Left: a priest beside a live lamb consecrated for the altar; if it dies it is buried. Right: a faded lamb that died, blemished before consecration, which may be redeemed even after death.</title><rect width='900' height='470' fill='#FBF8F1'/><text x='450' y='40' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1A1F2E'>R. Shimon: must the animal be alive to be redeemed?</text><rect x='15' y='60' width='425' height='340' rx='14' fill='#E3EAF3'/><text x='227' y='94' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#1B3A8A'>Consecrated for the altar</text><text x='227' y='116' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>unblemished, blemished only later</text><use href='#man' x='60' y='140' width='70' height='140' style='color:#4B5E8C'/><text x='95' y='302' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>the priest</text><use href='#lamb' x='170' y='180' width='150' height='105'/><text x='227' y='334' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Must be alive: stood and appraised</text><use href='#mark-no' x='70' y='352' width='26' height='26'/><text x='104' y='370' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Died: not redeemed, buried</text><rect x='460' y='60' width='425' height='340' rx='14' fill='#F3E6D8'/><text x='672' y='94' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#9A6212'>Blemished before consecration</text><text x='672' y='116' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>also: items for Temple maintenance</text><use href='#lamb' x='597' y='175' width='150' height='105' opacity='0.45'/><text x='672' y='302' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>died</text><text x='672' y='334' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>‘Appraise it’ excludes this animal</text><use href='#mark-ok' x='510' y='352' width='26' height='26'/><text x='544' y='370' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Redeemed even dead, fed to dogs</text><text x='450' y='432' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' font-weight='400' fill='#4A3A2E'>והעמיד את הבהמה לפני הכהן · והעריך הכהן אתה</text><text x='450' y='456' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>Vayikra 27:11–12</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s4",
+       "title": "R. Shimon: Altar Animals Must Stand, but 'It' Excludes the Blemished",
+       "amud": "14b",
+       "text": {
+        "from": "14b.15",
+        "to": "14b.16"
+       },
+       "gist": "Rav credits the Mishnah to R. Shimon: only altar consecrations need *ha'amadah ve'ha'arakhah*, and \"it\" excludes an animal blemished before consecration.",
+       "bullets": [
+        {
+         "text": "Mishnah: if these animals died before redemption, they are redeemed and fed to dogs.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Yehuda in the name of Rav: this is R. Shimon. Animals consecrated for the altar are subject to *ha'amadah ve'ha'arakhah*; items consecrated for Temple maintenance, such as the red heifer, are not.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "An altar animal must be stood before the priest, so once it dies it cannot be redeemed. A maintenance item, or an animal blemished before its consecration, can be redeemed after death.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Mishnah in Temura (32a): R. Shimon says Temple-maintenance consecrations that died are redeemed, and he concedes that an animal blemished from the outset may be redeemed even if it was consecrated for the altar.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Source: \"Then he shall stand the animal before the priest, and the priest shall appraise it\" (Vayikra 27:11–12). \"It\" excludes an animal blemished from the outset.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Though nominally consecrated for the altar, such an animal only ever had monetary sanctity, so it is treated like a Temple-maintenance item.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s5",
+       "title": "The Tanna of Levi's School: Everything Must Stand, Even Birds",
+       "amud": "14b",
+       "text": {
+        "from": "14b.17",
+        "to": "14b.18"
+       },
+       "gist": "The Rabbis who bury every dead consecration are the tanna of Levi's school, for whom everything needs *ha'amadah ve'ha'arakhah* (standing and valuation), though the word \"it\" remains a difficulty for him.",
+       "bullets": [
+        {
+         "text": "The Rabbis in the Temura mishna: animals consecrated for the altar and for Temple maintenance alike must be buried if they died.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Whose view is this? The tanna of Levi's school: everything is subject to *ha'amadah ve'ha'arakhah*, even an animal blemished from the outset.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Levi's own collection of baraitot adds even an undomesticated animal and a bird, which can never be offered on the altar.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Objection: \"appraise it\" is a limiting term and must exclude something. The Gemara concedes that this is a difficulty for the tanna of Levi's school.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s6",
+       "title": "Why Only 'R. Shimon'? Reish Lakish's Reversal, the Tereifah Test, or R. Yochanan",
+       "amud": "14b–15a",
+       "text": {
+        "from": "14b.19",
+        "to": "15a.4"
+       },
+       "gist": "If the Rabbis also read \"it\" as excluding the blemished animal, why did Rav name R. Shimon alone? Either (Reish Lakish) the Rabbis reverse his scope, as the Mishnah's choice of a dead animal over a *tereifah* shows, or (R. Yochanan) Rav meant R. Shimon and his disputants.",
+       "bullets": [
+        {
+         "text": "Given the difficulty, perhaps the Rabbis also read \"it\" as excluding an animal blemished before consecration, and would redeem it after death. Then Rav should have said: \"R. Shimon and those who disagree with him.\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "First answer: Rav holds like Reish Lakish (R. Shimon ben Lakish). The Rabbis reverse R. Shimon: Temple-maintenance items are subject to *ha'amadah ve'ha'arakhah*, and altar animals are not.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So the Mishnah cannot follow the Rabbis. Its latter clause buries dead altar animals whose consecration preceded their blemish, because they are subject to *ha'amadah ve'ha'arakhah*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: perhaps the burial is because one may not redeem consecrated animals to feed them to dogs (*ein podin et ha'kodashim le'ha'akhilan li'khlavim*)?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Reply: then the Mishnah should have taught that a *tereifah* must be buried. A *tereifah* can still be stood before the priest, so only the dog rule could forbid its redemption. Since the Mishnah speaks of a dead animal, its reason is standing.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Second answer: Rav holds like R. Yochanan. According to the Rabbis, altar animals are subject to *ha'amadah ve'ha'arakhah*, so the Mishnah fits them too, and Rav in fact taught \"R. Shimon and those who disagree with him.\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "There are two separate reasons an animal must be alive to be redeemed. *Ha'amadah ve'ha'arakhah* is a formal requirement of the redemption itself and fails once the animal is dead. The dog rule concerns where the animal will end up, and reaches even a live *tereifah*. The *tereifah* test is what separates them.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "The dog rule may be more of a *lekhatchilah* concern than a condition whose absence invalidates the redemption.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "Consecration Before Blemish: Residual Sanctity After Redemption",
+   "amud": "15a–15b",
+   "text": {
+    "from": "15a.5",
+    "to": "15b.8"
+   },
+   "gist": "The Mishnah's rulings for an animal consecrated before its blemish: exempt from firstborn and gifts through the gazelle-and-hart analogy, not free to be shorn or worked, and its offspring and milk forbidden.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s8",
+     "title": "Gazelle and Hart: Firstborn and Gifts Exempt, Fat and Oto Ve'et Beno Not",
+     "amud": "15a",
+     "text": {
+      "from": "15a.5",
+      "to": "15a.19"
+     },
+     "gist": "Devarim 12:22 compares a redeemed disqualified animal to a gazelle and a hart. The analogy exempts it from firstborn and gifts; the question is how fat and *oto ve'et beno* are kept out of it, by '*ach*' or by 'its blood'.",
+     "bullets": [],
+     "chart": {
+      "caption": "What the gazelle-and-hart analogy carries over to a redeemed disqualified consecrated animal",
+      "columns": [
+       "",
+       "Gazelle and hart",
+       "Disqualified consecrated animal",
+       "Source"
+      ],
+      "rows": [
+       [
+        "Firstborn",
+        "Exempt",
+        "Exempt",
+        "'As the gazelle'"
+       ],
+       [
+        "Gifts (*matanot*)",
+        "Exempt",
+        "Exempt",
+        "'And the hart'"
+       ],
+       [
+        "Fat (*chelev*)",
+        "Permitted",
+        "Forbidden, with *karet*",
+        "Baraita: '*ach*'. Rava: 'its blood'"
+       ],
+       [
+        "*Oto ve'et beno*",
+        "Does not apply",
+        "Applies",
+        "Abaye: it applies whichever way the animal is classed. Rav Pappa and Rava: '*ach*'"
+       ],
+       [
+        "Blood",
+        "Forbidden",
+        "Forbidden",
+        "Forbidden in every animal"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "The baraita's analogy to the gazelle and hart (15a) and its limits: the redeemed disqualified animal shares the gazelle's exemptions from firstborn and gifts, but not its permitted fat or its freedom from *oto ve'et beno*.",
+      "svg": "<svg viewBox='0 0 900 450' xmlns='http://www.w3.org/2000/svg' role='img'><title>A table comparing a gazelle with a redeemed disqualified lamb on five laws: firstborn, gifts, fat, slaughtering mother and offspring on one day, and blood.</title><rect width='900' height='450' fill='#FBF8F1'/><text x='450' y='32' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>Compared to a gazelle and a hart (Devarim 12:22)</text><g transform='translate(0 12)'><ellipse cx='410' cy='112' rx='46' ry='18' fill='#B98A55'/><rect x='378' y='122' width='6' height='34' fill='#7A5A3A'/><rect x='392' y='122' width='6' height='34' fill='#7A5A3A'/><rect x='424' y='122' width='6' height='34' fill='#7A5A3A'/><rect x='438' y='122' width='6' height='34' fill='#7A5A3A'/><path d='M446 104 L462 78 L470 82 L456 112 Z' fill='#B98A55'/><ellipse cx='470' cy='76' rx='12' ry='8' transform='rotate(20 470 76)' fill='#A87A48'/><path d='M466 70 q-2 -18 -10 -26 M472 70 q2 -18 -4 -28' fill='none' stroke='#4A3A2E' stroke-width='3' stroke-linecap='round'/><path d='M364 106 l-8 8' stroke='#7A5A3A' stroke-width='4' stroke-linecap='round'/><circle cx='474' cy='74' r='1.8' fill='#1A1F2E'/></g><use href='#lamb' x='645' y='62' width='150' height='105'/><text x='420' y='194' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#9A6212'>Gazelle and hart</text><text x='720' y='194' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#1B3A8A'>Disqualified consecrated animal</text><g stroke='#E6DFD2' stroke-width='1.5'><line x1='20' y1='208' x2='880' y2='208'/><line x1='20' y1='253' x2='880' y2='253'/><line x1='20' y1='298' x2='880' y2='298'/><line x1='20' y1='343' x2='880' y2='343'/><line x1='20' y1='388' x2='880' y2='388'/><line x1='20' y1='433' x2='880' y2='433'/></g><text x='24' y='228' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Firstborn</text><text x='24' y='245' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>‘as the gazelle’</text><text x='420' y='236' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>Exempt</text><text x='720' y='236' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>Exempt</text><text x='24' y='273' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Gifts (matanot)</text><text x='24' y='290' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>‘and the hart’</text><text x='420' y='281' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>Exempt</text><text x='720' y='281' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>Exempt</text><text x='24' y='318' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Fat (chelev)</text><text x='24' y='335' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>‘however’ · Rava: ‘its blood’</text><use href='#mark-ok' x='356' y='309' width='24' height='24'/><text x='388' y='326' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Permitted</text><use href='#mark-no' x='636' y='309' width='24' height='24'/><text x='668' y='326' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Forbidden, with karet</text><text x='24' y='363' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Mother and offspring, one day</text><text x='24' y='380' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>‘however’ (Rav Pappa, Rava)</text><use href='#mark-ok' x='356' y='354' width='24' height='24'/><text x='388' y='371' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Permitted</text><use href='#mark-no' x='636' y='354' width='24' height='24'/><text x='668' y='371' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Forbidden</text><text x='24' y='408' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Blood</text><text x='24' y='425' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>forbidden in every animal</text><use href='#mark-no' x='356' y='399' width='24' height='24'/><text x='388' y='416' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Forbidden</text><use href='#mark-no' x='636' y='399' width='24' height='24'/><text x='668' y='416' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Forbidden</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s9",
+       "title": "Gazelle for Firstborn, Hart for Gifts, 'However' for Fat",
+       "amud": "15a",
+       "text": {
+        "from": "15a.5",
+        "to": "15a.8"
+       },
+       "gist": "The baraita derives exemption from firstborn from \"gazelle\" and from the gifts from \"hart\", and keeps fat forbidden through \"however\".",
+       "bullets": [
+        {
+         "text": "Mishnah: animals consecrated before their blemish are exempt from the firstborn and from the gifts (*matanot*).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Baraita on Devarim 12:22, \"However, as you eat the gazelle and the hart\": the firstborn law does not apply to a gazelle, an undomesticated animal, so *pesulei ha'mukdashin* are also exempt from it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The added word \"hart\" teaches that, like a hart, they are also exempt from the gifts.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Why would the first stage exempt only from the firstborn? The firstborn law does not apply to every animal, only to males; the gifts apply to every domesticated animal, females included, so they need the extra word.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "Should their fat then be permitted, like a gazelle's? \"However\" sets them apart: their fat stays forbidden.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Behind the analogy: the animal keeps some residual sanctity and has not become fully non-sacred, and that is why it stays exempt, as consecrated animals are.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "The analogy is taken seriously enough that one view holds that crossbreeding two such animals involves *kilayim*, as though they were a distinct species. So the thought that their fat might be permitted is not far-fetched.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s10",
+       "title": "Oto Ve'et Beno: Abaye's Either-Way Argument vs. Rav Pappa's 'However'",
+       "amud": "15a",
+       "text": {
+        "from": "15a.9",
+        "to": "15a.12"
+       },
+       "gist": "Rav Pappa asks why the analogy doesn't also free the animal from *oto ve'et beno*. Abaye: it applies whichever way the animal is classed. Rav Pappa: that argument would make \"however\" for fat superfluous too, so \"however\" must exclude both.",
+       "bullets": [
+        {
+         "text": "Rav Pappa to Abaye: *oto ve'et beno* does not apply to a gazelle or a hart. By the analogy, it should not apply to *pesulei ha'mukdashin* either.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Abaye: to what are you comparing them? Class them as non-sacred domesticated animals and *oto ve'et beno* applies; class them as consecrated animals and it applies too. So the verse cannot exempt them.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Pappa: then the same holds for fat, which is forbidden on either comparison, yet the baraita needed \"however\" for it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rather: just as \"however\" excludes the fat from the analogy, it excludes *oto ve'et beno* as well. Both stay in force.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Abaye's logic: the analogy cannot make the animal more lenient than both of the categories it might belong to.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s11",
+       "title": "Rava: 'However' for Oto Ve'et Beno, 'Its Blood' for Karet on Fat",
+       "amud": "15a",
+       "text": {
+        "from": "15a.13",
+        "to": "15a.19"
+       },
+       "gist": "Rava gives \"however\" to *oto ve'et beno* and learns fat from \"its blood\", which shows that eating the fat carries *karet*. The baraita's \"however\" for fat is reread as conditional.",
+       "bullets": [
+        {
+         "text": "Rava: \"however\" (*ach*) keeps *oto ve'et beno* in force. The fat is learned from \"its blood\": \"Only you shall not eat its blood\" (Devarim 15:22–23, said of a blemished firstborn).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "It can't mean actual blood: does anyone permit the blood of a gazelle or a hart? So \"its blood\" refers to the fat.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Then why not write \"its fat\"? The analogy would have removed *karet*, since *karet* is stated for \"the fat of the domesticated animal\" (Vayikra 7:25). The verse would then have left only a prohibition punished with lashes.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Saying \"its blood\" teaches that, as blood carries *karet*, so does their fat: for fat the analogy does not apply at all.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: the baraita derived the fat from \"however\"! Answer, per Rava: the baraita means that had \"its blood\" not been written, \"however\" would have taught the fat. Since it is written, \"however\" teaches that *oto ve'et beno* applies.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s12",
+     "title": "Shearing, Milk and Dogs: 'You May Slaughter and Eat Flesh'",
+     "amud": "15a–15b",
+     "text": {
+      "from": "15a.20",
+      "to": "15b.1"
+     },
+     "gist": "Devarim 12:15 permits slaughtering and eating the redeemed animal but not shearing it, milking it or feeding it to dogs. A second exposition bars all benefit before slaughter and does not derive the dog rule.",
+     "bullets": [
+      {
+       "text": "Mishnah: animals consecrated before their blemish do not fully become non-sacred, so they may not be shorn or used for labor.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Baraita on Devarim 12:15: \"you may slaughter\" permits slaughtering, not shearing; \"flesh\" permits the meat, not the milk; \"you may eat\" means you eat it, not your dogs.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Hence one may not redeem consecrated animals to feed them to dogs (*ein podin et ha'kodashim le'ha'akhilan li'khlavim*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Some say instead: \"you may slaughter and eat\" means eating is permitted only from slaughter onward, and no benefit at all is permitted before it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "On that exposition, the tanna holds that one may redeem consecrated animals to feed them to dogs, since the dog rule is not derived from \"you may eat\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is the source of the dog rule raised earlier against Rav's reading. Unlike *ha'amadah ve'ha'arakhah*, it reaches even a live *tereifah*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The baraita's three readings of \"you may slaughter and eat flesh\" (15a): each word permits one thing and rules out another, and so yields the rule against redeeming consecrated animals to feed them to dogs.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Three panels: slaughtering a redeemed lamb is permitted but shearing is forbidden; its meat is permitted but its milk is forbidden; eating it is permitted but feeding it to dogs is forbidden.</title><rect width='900' height='440' fill='#FBF8F1'/><text x='450' y='36' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>‘You may slaughter and eat flesh’ (Devarim 12:15)</text><text x='450' y='64' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='400' fill='#4A3A2E'>תזבח ואכלת בשר</text><rect x='20' y='82' width='280' height='290' rx='14' fill='#E3EAF3'/><rect x='310' y='82' width='280' height='290' rx='14' fill='#F3E6D8'/><rect x='600' y='82' width='280' height='290' rx='14' fill='#EFE9DD'/><text x='160' y='112' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#1B3A8A'>‘You may slaughter’</text><use href='#lamb' x='85' y='128' width='150' height='105'/><use href='#mark-ok' x='38' y='262' width='24' height='24'/><text x='70' y='279' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>slaughtering: permitted</text><use href='#mark-no' x='38' y='302' width='24' height='24'/><text x='70' y='319' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>shearing: forbidden</text><text x='450' y='112' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#9A6212'>‘Flesh’</text><ellipse cx='400' cy='210' rx='40' ry='10' fill='#F1ECE0' stroke='#C9BFA9'/><path d='M380 207 q20 -20 40 0 Z' fill='#B5673E'/><text x='400' y='242' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>meat</text><path d='M480 160 q24 -34 48 0' fill='none' stroke='#9A8F7E' stroke-width='2'/><path d='M478 160 L530 160 L522 222 L486 222 Z' fill='#C9C1B2' stroke='#9A8F7E'/><ellipse cx='504' cy='160' rx='26' ry='6' fill='#FFFFFF' stroke='#9A8F7E'/><text x='504' y='242' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>milk</text><use href='#mark-ok' x='328' y='262' width='24' height='24'/><text x='360' y='279' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>its meat: permitted</text><use href='#mark-no' x='328' y='302' width='24' height='24'/><text x='360' y='319' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>its milk: forbidden</text><text x='740' y='112' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#6B4A1A'>‘You may eat’</text><path d='M688 190 q-16 -14 -10 -28' fill='none' stroke='#8A6A4E' stroke-width='5' stroke-linecap='round'/><rect x='700' y='203' width='8' height='30' fill='#6A4E38'/><rect x='714' y='205' width='8' height='30' fill='#6A4E38'/><rect x='742' y='205' width='8' height='30' fill='#6A4E38'/><rect x='756' y='203' width='8' height='30' fill='#6A4E38'/><ellipse cx='730' cy='195' rx='42' ry='17' fill='#8A6A4E'/><circle cx='778' cy='178' r='14' fill='#8A6A4E'/><ellipse cx='792' cy='183' rx='9' ry='6' fill='#7A5A42'/><path d='M770 168 l-6 16 l10 -4 z' fill='#5A4030'/><circle cx='782' cy='175' r='2' fill='#1A1F2E'/><use href='#mark-ok' x='618' y='262' width='24' height='24'/><text x='650' y='279' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>eating it: permitted</text><use href='#mark-no' x='618' y='302' width='24' height='24'/><text x='650' y='319' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>feeding dogs: forbidden</text><text x='450' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Hence one may not redeem consecrated animals to feed them to dogs.</text><text x='450' y='424' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>Some say: no benefit at all before slaughter; on that reading the dog rule is not derived</text></svg>"
+     },
+     "returns_to": [
+      {
+       "id": "s6",
+       "note": "Gives the source of the dog rule raised there as an alternative to standing and valuation"
+      }
+     ]
+    },
+    {
+     "id": "s13",
+     "title": "Offspring of a Redeemed Animal: When Conceived, Source of Sanctity, Remedy",
+     "amud": "15b",
+     "text": {
+      "from": "15b.2",
+      "to": "15b.8"
+     },
+     "gist": "Which offspring the Mishnah forbids (conceived before redemption, born after), the verse that makes a consecrated animal's offspring sacred, and what to do with offspring that can be neither offered nor redeemed.",
+     "bullets": [],
+     "illustration": {
+      "caption": "The three cases of offspring on 15b, measured against the mother's redemption: born before it, sacred; conceived before and born after, forbidden; conceived and born after, like a gazelle's young.",
+      "svg": "<svg viewBox='0 0 900 490' xmlns='http://www.w3.org/2000/svg' role='img'><title>A timeline: the mother is consecrated, blemished, then redeemed. Three bars run from conception to birth: one ends before the redemption, one crosses it, one lies wholly after it.</title><rect width='900' height='490' fill='#FBF8F1'/><text x='450' y='36' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>When was the offspring conceived and born?</text><line x1='40' y1='120' x2='856' y2='120' stroke='#C9C1B2' stroke-width='2'/><path d='M862 120 l-10 -6 v12 z' fill='#C9C1B2'/><circle cx='90' cy='120' r='5' fill='#5B6478'/><circle cx='250' cy='120' r='5' fill='#5B6478'/><text x='90' y='104' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>Mother consecrated</text><text x='250' y='104' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>Blemish</text><text x='500' y='104' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1A1F2E'>Mother redeemed</text><line x1='500' y1='110' x2='500' y2='420' stroke='#1A1F2E' stroke-width='2' stroke-dasharray='6 5'/><rect x='280' y='160' width='160' height='16' rx='8' fill='#1B3A8A'/><circle cx='280' cy='168' r='7' fill='#FFFFFF' stroke='#1B3A8A' stroke-width='3'/><use href='#lamb' x='446' y='148' width='46' height='32'/><text x='24' y='160' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Born before redemption</text><text x='24' y='179' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>Sacred in its own right</text><text x='24' y='196' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>offered, or grazes (disputed)</text><rect x='380' y='258' width='220' height='16' rx='8' fill='#9A6212'/><circle cx='380' cy='266' r='7' fill='#FFFFFF' stroke='#9A6212' stroke-width='3'/><use href='#lamb' x='606' y='246' width='46' height='32'/><text x='24' y='258' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Conceived before, born after</text><text x='24' y='277' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#8C2F2F'>Forbidden</text><text x='24' y='294' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>pushed-aside sanctity</text><text x='666' y='256' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>Rav Huna: gather into a chamber</text><text x='666' y='276' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>R. Chanina: dedicate it first,</text><text x='666' y='294' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>as the mother’s offering</text><rect x='560' y='356' width='200' height='16' rx='8' fill='#6F5E4C'/><circle cx='560' cy='364' r='7' fill='#FFFFFF' stroke='#6F5E4C' stroke-width='3'/><use href='#lamb' x='766' y='344' width='46' height='32'/><text x='24' y='356' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Conceived and born after</text><text x='24' y='375' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#24592E'>Non-sacred: permitted</text><text x='24' y='392' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>like a gazelle’s young</text><text x='450' y='466' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>Each bar runs from conception to birth; the dashed line marks the mother’s redemption.</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s14",
+       "title": "Which Offspring Is Forbidden? Conceived Before, Born After",
+       "amud": "15b",
+       "text": {
+        "from": "15b.2",
+        "to": "15b.2"
+       },
+       "gist": "Offspring conceived and born after redemption are like a gazelle's young, so the Mishnah must mean offspring conceived before redemption and born after it; those born before are sacred in their own right.",
+       "bullets": [
+        {
+         "text": "Mishnah: the offspring and milk of these animals are forbidden after redemption.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Conceived and born after the mother's redemption? Why forbidden? They are like the offspring of a gazelle or a hart, fully non-sacred.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So the case is an offspring conceived before the mother's redemption and born after it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Inference: offspring born before the redemption are not merely forbidden; they are sacred in their own right.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "While in the womb, the fetus shared its mother's full sanctity, and that sanctity stays with it after she is redeemed.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s15",
+       "title": "Offspring Born Before Redemption: 'Male' and 'Female' in Shelamim",
+       "amud": "15b",
+       "text": {
+        "from": "15b.3",
+        "to": "15b.4"
+       },
+       "gist": "The extra words \"male\" and \"female\" in the peace-offering verse include the offspring and the substitute, of blemished animals as well as unblemished ones.",
+       "bullets": [
+        {
+         "text": "Vayikra 3:1, \"whether male or female\": both are extra, since \"cattle\" already includes both. \"Male\" includes the offspring of a peace offering; \"female\" includes its substitute.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "That covers the offspring and substitute of unblemished animals. \"Whether male\" adds the offspring of blemished animals whose consecration preceded their blemish, and \"or female\" adds the substitute of blemished animals.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Throughout, what matters is when the blemish came relative to the consecration: after it, the mother's sanctity was never impaired and passes to the offspring.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s16",
+       "title": "Born After Redemption: Neither Offered Nor Redeemed",
+       "amud": "15b",
+       "text": {
+        "from": "15b.5",
+        "to": "15b.8"
+       },
+       "gist": "Offspring conceived before and born after redemption can be neither sacrificed nor redeemed: Rav Huna's chamber, R. Chanina's advance dedication, and Rav Sheshet's limit to the mother's offering.",
+       "bullets": [],
+       "children": [
+        {
+         "id": "s17",
+         "title": "Rav Huna: Gather Them into a Chamber",
+         "amud": "15b",
+         "text": {
+          "from": "15b.5",
+          "to": "15b.6"
+         },
+         "gist": "After noting a dispute over offspring born before redemption, the Gemara brings Rav Huna: offspring born after it are shut in a chamber to die, since their sanctity is too weak to be offered or redeemed.",
+         "bullets": [
+          {
+           "text": "Question: what is done with offspring born after the mother's redemption, which can be neither sacrificed nor redeemed?",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "First, offspring born before the redemption are disputed. One view: fully sacred, to be offered. The other: they graze until blemished and are then redeemed, but may not be offered.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "Rav Huna: gather them into a chamber, and they die.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "There is nothing else to do. They cannot be offered, because they come from the mother's *kedushah dechuyah*. They cannot be redeemed, because their sanctity is not strong enough to pass to the redemption money.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "On the concern of *tza'ar ba'alei chayim*: where the purpose is to prevent a transgression, it does not override.",
+           "detail": 3,
+           "source": "shiur"
+          }
+         ],
+         "children": [],
+         "returns_to": [
+          {
+           "id": "s15",
+           "note": "Notes the dispute over offspring born before redemption"
+          }
+         ]
+        },
+        {
+         "id": "s18",
+         "title": "R. Chanina: Dedicate the Fetus Before the Mother Is Redeemed",
+         "amud": "15b",
+         "text": {
+          "from": "15b.7",
+          "to": "15b.7"
+         },
+         "gist": "In Eretz Yisrael they taught, in R. Chanina's name, to dedicate the fetus as the mother's offering just before she is redeemed. R. Levi: the offspring may not simply be left, lest flocks of them build up.",
+         "bullets": [
+          {
+           "text": "In the West, in the name of R. Chanina: just before \"their redemption\", one dedicates them for the same offering as their mother.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "But they cannot be redeemed at all! Read instead: just before the mother's redemption, one dedicates the fetus for the same offering.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "Why not leave the offspring as they are? R. Levi: a rabbinic decree, lest one raise flocks upon flocks of them and come to benefit from them.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "The advance dedication gives the fetus its own consecration before the mother's sanctity is pushed aside. Once she is redeemed it is too late, since *kedushah dechuyah* (pushed-aside sanctity) does not return, and only the chamber remains.",
+           "detail": 2,
+           "source": "shiur"
+          },
+          {
+           "text": "Rashi reads R. Levi's decree as explaining why the fetus is not simply treated as redeemed together with its mother: the owner would let it grow, it would breed, and the herd's status would become impossible to track.",
+           "detail": 3,
+           "source": "shiur"
+          }
+         ],
+         "children": []
+        },
+        {
+         "id": "s19",
+         "title": "Any Offering? Rav Sheshet: Only the Mother's, as with a Firstborn",
+         "amud": "15b",
+         "text": {
+          "from": "15b.8",
+          "to": "15b.8"
+         },
+         "gist": "Ravina asks whether the fetus may be dedicated as any offering. Rav Sheshet: no, learned by *gezeirah shavah* from the firstborn, which may not be dedicated as another offering.",
+         "bullets": [
+          {
+           "text": "Ravina asked Rav Sheshet: according to R. Chanina, may one dedicate the unborn offspring as any offering he wishes?",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "Rav Sheshet: no, only as the offering for which the mother was consecrated.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "Source: a *gezeirah shavah* between \"within all your gates\" (Devarim 12:15) and \"within your gates\" said of a firstborn (Devarim 15:22). A firstborn cannot be dedicated as another offering: \"no man shall sanctify it\" (Vayikra 27:26).",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "The fetus already holds derived sanctity of one kind. One can give it independent standing of that same kind, but cannot add a different one.",
+           "detail": 3,
+           "source": "shiur"
+          }
+         ],
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s20",
+   "title": "Baraita: Blemish First or Consecration First, Rule by Rule",
+   "amud": "15b → 16a",
+   "text": {
+    "from": "15b.9",
+    "to": "15b.12"
+   },
+   "gist": "A baraita that supports Rav Sheshet sets the two categories side by side: blemished first, the animal is like non-sacred; consecrated first, it is like a redeemed consecrated animal that may only be eaten.",
+   "bullets": [
+    {
+     "text": "The Gemara cites the baraita in support of Rav Sheshet.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "chart": {
+    "caption": "The baraita's two categories of redeemed blemished animals",
+    "columns": [
+     "",
+     "Firstborn and gifts",
+     "Shearing or labor",
+     "*Temurah*",
+     "*Me'ilah*",
+     "Offspring",
+     "Dedicate offspring as any offering?",
+     "Principle"
+    ],
+    "rows": [
+     [
+      "Blemish before consecration",
+      "Obligated",
+      "No forty lashes, before or after redemption",
+      "Does not take effect",
+      "Before redemption only",
+      "Non-sacred if born after redemption; redeemed unblemished if born before",
+      "Yes",
+      "Like non-sacred; only the mitzvah of valuation"
+     ],
+     [
+      "Consecration before blemish",
+      "Exempt",
+      "Forty lashes, before or after redemption",
+      "Takes effect, before or after redemption",
+      "Before redemption only",
+      "Sacred; not redeemed unblemished",
+      "No, as Rav Sheshet",
+      "Like redeemed consecrated animals; only the permission to eat"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "The baraita on 15b: the order of blemish and consecration decides whether a redeemed animal is treated like a non-sacred animal or like a redeemed consecrated one.",
+    "svg": "<svg viewBox='0 0 900 480' xmlns='http://www.w3.org/2000/svg' role='img'><title>Two tracks. Blemished, consecrated, redeemed: like non-sacred animals. Consecrated, blemished, redeemed: like redeemed consecrated animals that may only be eaten.</title><rect width='900' height='480' fill='#FBF8F1'/><text x='450' y='34' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>Which came first: the blemish or the consecration?</text><rect x='15' y='52' width='870' height='196' rx='14' fill='#F3E6D8'/><rect x='30' y='78' width='140' height='36' rx='18' fill='#9A6212'/><text x='100' y='101' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#FFFFFF'>1. Blemished</text><path d='M172 96 H182 M177 91 L182 96 L177 101' fill='none' stroke='#5B6478' stroke-width='2'/><rect x='185' y='78' width='140' height='36' rx='18' fill='#9A6212'/><text x='255' y='101' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#FFFFFF'>2. Consecrated</text><path d='M327 96 H337 M332 91 L337 96 L332 101' fill='none' stroke='#5B6478' stroke-width='2'/><rect x='340' y='78' width='140' height='36' rx='18' fill='#9A6212'/><text x='410' y='101' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#FFFFFF'>3. Redeemed</text><text x='255' y='160' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#6B4A1A'>Like non-sacred animals in all matters</text><text x='255' y='184' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>only the mitzvah of valuation</text><line x1='492' y1='66' x2='492' y2='236' stroke='#E0D2BE' stroke-width='2'/><text x='510' y='84' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>After redemption:</text><use href='#mark-ok' x='510' y='96' width='22' height='22'/><text x='540' y='112' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Shearing and labor: permitted</text><use href='#mark-ok' x='510' y='126' width='22' height='22'/><text x='540' y='142' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Eating: permitted</text><text x='510' y='172' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>Firstborn and gifts: obligated</text><text x='510' y='192' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>Offspring born after: non-sacred</text><text x='510' y='212' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>Temurah: does not take effect</text><text x='510' y='232' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>Me’ilah: only before redemption</text><rect x='15' y='262' width='870' height='196' rx='14' fill='#E3EAF3'/><rect x='30' y='288' width='140' height='36' rx='18' fill='#1B3A8A'/><text x='100' y='311' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#FFFFFF'>1. Consecrated</text><path d='M172 306 H182 M177 301 L182 306 L177 311' fill='none' stroke='#5B6478' stroke-width='2'/><rect x='185' y='288' width='140' height='36' rx='18' fill='#1B3A8A'/><text x='255' y='311' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#FFFFFF'>2. Blemished</text><path d='M327 306 H337 M332 301 L337 306 L332 311' fill='none' stroke='#5B6478' stroke-width='2'/><rect x='340' y='288' width='140' height='36' rx='18' fill='#1B3A8A'/><text x='410' y='311' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#FFFFFF'>3. Redeemed</text><text x='255' y='370' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='18' font-weight='600' fill='#1B3A8A'>Like redeemed consecrated animals</text><text x='255' y='394' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>only the permission to eat</text><line x1='492' y1='276' x2='492' y2='446' stroke='#C9D3E3' stroke-width='2'/><text x='510' y='294' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>After redemption:</text><use href='#mark-no' x='510' y='306' width='22' height='22'/><text x='540' y='322' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>Shearing and labor: forbidden (lashes)</text><use href='#mark-ok' x='510' y='336' width='22' height='22'/><text x='540' y='352' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#24592E'>Eating: permitted</text><text x='510' y='382' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>Firstborn and gifts: exempt</text><text x='510' y='402' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>Offspring: sacred</text><text x='510' y='422' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>Temurah: takes effect</text><text x='510' y='442' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='400' fill='#1A1F2E'>Me’ilah: only before redemption</text><text x='450' y='472' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12' font-weight='400' fill='#5B6478'>Bekhorot 15b · the baraita cited in support of Rav Sheshet</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s21",
+     "title": "Blemish First: Like Non-Sacred, Only Valuation",
+     "amud": "15b",
+     "text": {
+      "from": "15b.9",
+      "to": "15b.10"
+     },
+     "gist": "An animal with a permanent blemish before consecration, once redeemed, is subject to the firstborn and gifts, carries no lashes for shearing or labor, makes no *temurah*, and its offspring may be dedicated as any offering.",
+     "bullets": [
+      {
+       "text": "Animals whose permanent blemish preceded their consecration, once redeemed, are obligated in the firstborn and in the gifts.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Before or after redemption, one who shears them or uses them for labor does not incur the forty lashes, and they do not make a substitute sacred.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Before redemption, benefit from them is *me'ilah*; after redemption it is not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Offspring born after redemption are non-sacred; those born before may be redeemed while unblemished; and one may dedicate the offspring as any offering he wishes.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The principle: they are like non-sacred animals in all matters, and only the mitzvah of valuation applies: they must be appraised and redeemed with money.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s22",
+     "title": "Consecration First: Like Redeemed Consecrated Animals, Only Eating",
+     "amud": "15b → 16a",
+     "text": {
+      "from": "15b.11",
+      "to": "15b.12"
+     },
+     "gist": "An animal consecrated before its permanent blemish, once redeemed, is exempt from firstborn and gifts, carries lashes for shearing or labor, makes *temurah*, and has sacred offspring; only eating is permitted.",
+     "bullets": [
+      {
+       "text": "If consecration preceded the blemish, or a temporary blemish at consecration later became permanent, and the animal was redeemed: exempt from the firstborn and the gifts.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Before or after redemption, one who shears it or uses it for labor incurs the forty lashes, and it makes a substitute sacred.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Me'ilah* before redemption, but not after.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The offspring are sacred, may not be redeemed while unblemished, and may not be dedicated as any offering, as Rav Sheshet ruled.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The principle: they are like redeemed consecrated animals in all matters, and only the permission to eat applies.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "No *me'ilah* after redemption does not make the animal unrestricted: the prohibitions that carry lashes remain. What survives redemption is just enough sanctity to forbid every use except eating.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "continues": "Continues on 16a: what each 'principle of the matter' adds (exemption for slaughtering outside the Temple, and the milk of the redeemed animal), and whether the baraita's wording refutes Rav Huna."
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "temurah",
+   "hebrew": "תמורה",
+   "sense": "substituting an animal for a consecrated one",
+   "definition": "Declaring a non-consecrated animal a substitute for a consecrated one. It is forbidden, but if done, both animals are sacred.",
+   "on_this_daf": "An animal blemished before consecration makes no temurah, since 'good for bad' requires an animal good at the outset; one consecrated before its blemish makes temurah even after redemption.",
+   "aliases": [
+    "temurah",
+    "Temurah"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s20",
+    "s21",
+    "s22"
+   ]
+  },
+  {
+   "term": "ha'amadah ve'ha'arakhah",
+   "hebrew": "העמדה והערכה",
+   "sense": "standing and appraising a consecration for redemption",
+   "definition": "The requirement that a consecrated animal being redeemed be stood before a priest and appraised, which presupposes that it is alive.",
+   "on_this_daf": "R. Shimon limits it to altar consecrations and excludes an animal blemished before consecration; the tanna of Levi's school extends it to everything; Reish Lakish and R. Yochanan read the Rabbis' position differently.",
+   "aliases": [
+    "ha'amadah ve'ha'arakhah",
+    "Ha'amadah Ve'ha'arakhah"
+   ],
+   "sections": [
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "term": "kedushat damim",
+   "hebrew": "קדושת דמים",
+   "sense": "sanctity of monetary value only",
+   "definition": "Consecration of an item's value only: the item itself is not offered but is redeemed, and its value goes to the Temple.",
+   "on_this_daf": "An animal blemished before it was consecrated never held more than this, which is why it makes no temurah and may be redeemed even after death.",
+   "aliases": [
+    "kedushat damim"
+   ],
+   "sections": [
+    "s2"
+   ]
+  },
+  {
+   "term": "pesulei ha'mukdashin",
+   "hebrew": "פסולי המוקדשין",
+   "sense": "redeemed blemished consecrated animals",
+   "definition": "Consecrated animals that developed a permanent blemish, disqualifying them from the altar, and were then redeemed. They may be eaten, but some sanctity remains.",
+   "on_this_daf": "Compared to a gazelle and a hart, they are exempt from firstborn and gifts, yet may not be shorn or milked, their fat carries karet, and their offspring may stay sacred.",
+   "aliases": [
+    "disqualified consecrated animal",
+    "pesulei ha'mukdashin"
+   ],
+   "sections": [
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s22"
+   ]
+  },
+  {
+   "term": "matanot",
+   "hebrew": "מתנות",
+   "sense": "the priestly portions of a slaughtered animal",
+   "definition": "The foreleg, cheeks and maw of a slaughtered domesticated animal, which are given to a kohen.",
+   "on_this_daf": "The word 'hart' exempts disqualified consecrated animals from them, beyond the firstborn exemption learned from 'gazelle'.",
+   "aliases": [
+    "matanot"
+   ],
+   "sections": [
+    "s8",
+    "s9",
+    "s21",
+    "s22"
+   ]
+  },
+  {
+   "term": "oto ve'et beno",
+   "hebrew": "אותו ואת בנו",
+   "sense": "slaughtering a mother and its offspring on one day",
+   "definition": "The prohibition against slaughtering an animal and its offspring on the same day. It applies to domesticated animals, not to undomesticated ones.",
+   "on_this_daf": "Would the gazelle analogy exempt disqualified consecrated animals from it? Abaye: it applies whichever way they are classed. Rav Pappa and Rava keep it in force through 'however'.",
+   "aliases": [
+    "oto ve'et beno"
+   ],
+   "sections": [
+    "s8",
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "term": "ein podin et ha'kodashim le'ha'akhilan li'khlavim",
+   "hebrew": "אין פודין את הקדשים להאכילן לכלבים",
+   "sense": "no redeeming consecrations as dog food",
+   "definition": "The rule that consecrated animals may not be redeemed in order to be fed to dogs; redemption is for the animal to be eaten by people.",
+   "on_this_daf": "It is raised as a possible reason for burying a dead altar animal and derived from 'you may eat' in Devarim 12:15; a second exposition does not derive it.",
+   "aliases": [
+    "ein podin et ha'kodashim le'ha'akhilan li'khlavim"
+   ],
+   "sections": [
+    "s6",
+    "s12"
+   ]
+  },
+  {
+   "term": "kedushah dechuyah",
+   "hebrew": "קדושה דחויה",
+   "sense": "sanctity pushed aside from the altar",
+   "definition": "Sanctity that has been pushed aside, so that it can no longer bring the animal to the altar. Once pushed aside, it does not return.",
+   "on_this_daf": "Offspring conceived before and born after the mother's redemption derive from it, so they can be neither offered nor redeemed.",
+   "aliases": [
+    "kedushah dechuyah"
+   ],
+   "sections": [
+    "s16",
+    "s17",
+    "s18"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "Grouped the Mishnah's clauses into two top-level sections by category (blemish first, consecration first) rather than making each clause its own top-level section, since the Gemara's discussion of each clause turns on the same distinction.",
+  "The baraita at 15b.9–12 is cited in support of Rav Sheshet and could sit under his section (s19); made it top-level because it reviews every clause of both categories.",
+  "The dispute over offspring born before redemption (15b.5) is embedded in the question about offspring born after; kept it in Rav Huna's section where it falls, with a returns_to link to s15.",
+  "Rav Pappa's challenge and Rava's reinterpretation are siblings under the gazelle-and-hart section; Rava could be nested under Rav Pappa's exchange, but he offers an independent reading of the verse.",
+  "The 'some say' exposition (15b.1) stays with the shearing-and-milk section, with a returns_to link to the dog-rule discussion in s6, instead of being moved there."
+ ],
+ "coverage_notes": [
+  "The essay attributes the chamber ruling to 'Rav Kahuna'; the text has Rav Huna. Followed the text.",
+  "The essay attributes the advance-dedication solution to 'Ami, Mar and the school of Eretz Yisrael'; the text says 'in the West, in the name of R. Chanina'. Followed the text.",
+  "The essay names 'Rav Levi' for the decree about flocks; the text has R. Levi. Followed the text.",
+  "The essay says Rav 'as against R. Yochanan' holds that the Rabbis reverse R. Shimon; the text says Rav holds like R. Shimon ben Lakish (Reish Lakish), with R. Yochanan as the alternative answer. Followed the text.",
+  "The essay presents Rav Pappa's pushback as leaving a difficulty about whether 'however' can exclude both; the text concludes that 'however' excludes both fat and mother-and-offspring. Followed the text.",
+  "The essay reads the 'some say' exposition (15b.1) as concerning a tereifah; the text says only that on this exposition the tanna permits redeeming consecrated animals to feed to dogs. Followed the text.",
+  "The essay says that in the blemish-first case 'once redeemed one may dedicate the animal to any sacrifice' and that offspring born after redemption may be redeemed unblemished; the text applies 'any offering' to the offspring and 'redeemed unblemished' to offspring born before redemption. Followed the text.",
+  "The essay discusses 'slaughter and eat' before the gazelle-and-hart baraita; the text has it after (15a.20). Followed the text's order.",
+  "The Gemara's step asking why the Torah wrote 'its blood' and not 'its fat' (15a.15–17) is not spelled out in the essay; outlined from the text within the shiur-covered section.",
+  "15b.13 (what the baraita's 'principle of the matter' adds) and the essay's remarks on it belong to the next daf's scope and are left out here."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s13",
+    "subject": "Offspring status by timing of conception and birth",
+    "why_not": "Three cases along one timeline; the illustration shows them more clearly than a grid."
+   },
+   {
+    "section": "s12",
+    "subject": "The three words of Devarim 12:15 and what each excludes",
+    "why_not": "A simple one-to-one list already carried by the bullets and the illustration."
+   },
+   {
+    "section": "s16",
+    "subject": "Rav Huna vs. R. Chanina on offspring born after redemption",
+    "why_not": "Two remedies on one question; the bullets say it without a grid."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s2",
+    "subject": "'Good for bad' and 'bad for good' exchange arrows",
+    "why_not": "A verbal inference with no scene; the point is stated fully in the bullets."
+   },
+   {
+    "section": "s11",
+    "subject": "Rava's redistribution of 'however' and 'its blood'",
+    "why_not": "A hermeneutic swap already shown in the gazelle-and-hart chart and picture."
+   },
+   {
+    "section": "s17",
+    "subject": "Offspring shut in a chamber",
+    "why_not": "Covered in the offspring timeline; a separate picture of it would add little."
+   }
+  ]
+ }
+}

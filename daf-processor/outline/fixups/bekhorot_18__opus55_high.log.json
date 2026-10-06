@@ -1,0 +1,24 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s5.chart",
+   "set s9.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Cut the chart to four columns by folding each sage's reason into his ruling in the 'priest holds a replacement' cell, which is the case the reason explains. Rows and cases are unchanged."
+   },
+   {
+    "note": "c2",
+    "how": "Cut the chart to four columns by merging the two agreed parables into one numbered 'R. Chiyya's parables' cell per row. The courtyard case and its reasons stay in their own columns."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "chart in 'One Twin Dies: Divide or Ha'motzi Me'chavero Alav Ha're'ayah?' has sages as column headers [\"R. Chiyya's parables\"]: check the orientation",
+   "no sages list"
+  ]
+ }
+]

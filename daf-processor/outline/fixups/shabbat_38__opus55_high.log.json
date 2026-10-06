@@ -1,0 +1,19 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s3.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the separate 'unwittingly' and 'intentionally' columns into one cell per row, as a numbered list. The chart now has four columns with the same content and orientation, plus tones on the ruling cells."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "outline runs 37b.9–38b.12, but its lines are 37b.9–38b.7",
+   "no sages list"
+  ]
+ }
+]

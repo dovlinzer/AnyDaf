@@ -1,0 +1,19 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s7.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Cut the s7 chart from five columns to three. The cases are now grouped into 'loses less' and 'loses nothing', and each cell lists its cases as a numbered list. Rows are still the two tanna'im, the content is unchanged, and the tones are updated to match."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "outline runs 59b.19–60b.21, but its lines are 59b.21–61a.1",
+   "no sages list"
+  ]
+ }
+]

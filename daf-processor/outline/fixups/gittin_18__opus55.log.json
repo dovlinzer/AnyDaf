@@ -1,0 +1,24 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s4.chart",
+   "set s8.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the 'Supporting baraita' and 'Its ruling' columns into one cell per row, bringing the chart to four columns with the same content and orientation."
+   },
+   {
+    "note": "c2",
+    "how": "Recast the case-by-case grid as 'Cancelled when' / 'Not cancelled when' columns with numbered lists, keeping the baraita column, for four columns in all."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "outline runs 17b.13–19a.3, but its lines are 17b.9–19a.3",
+   "no sages list"
+  ]
+ }
+]

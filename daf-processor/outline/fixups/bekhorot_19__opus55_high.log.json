@@ -1,0 +1,23 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s2.chart",
+   "set s5.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Merged the two animal columns into one numbered 'Status of the two animals' cell, so the chart has four columns. Content and orientation are kept, and 'in one respect' is now written as *bekhor le'davar echad*."
+   },
+   {
+    "note": "c2",
+    "how": "Merged the first-clause and last-clause columns into one numbered 'How the two clauses read' cell, so the chart has four columns with the same rows and content."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "no sages list"
+  ]
+ }
+]

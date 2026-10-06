@@ -52,38 +52,33 @@
     "caption": "The cases compared: what decides between dividing, setting aside, and paying both",
     "columns": [
      "Case",
-     "Certainly a swindler?",
-     "Could a division be true?",
-     "Would setting it aside cost the swindler?",
+     "R. Yosi's tests:\n1. Certainly a swindler?\n2. Would setting it aside cost him?",
+     "The Rabbis' test: could a division be true?",
      "Ruling"
     ],
     "rows": [
      [
       "Deposit of 100 and 200",
-      "Yes",
+      "1. Yes\n2. Yes, once his own 100 is held (R. Yosi)",
       "No: the disputed 100 is one man's",
-      "Yes, once his own 100 is held (R. Yosi)",
       "Rabbis: the disputed 100 set aside · R. Yosi: all of it set aside"
      ],
      [
       "Found garment",
-      "No: both may have lifted it together",
+      "1. No: both may have lifted it together\n2. No: he paid nothing for it",
       "Yes",
-      "No: he paid nothing for it",
       "Each swears, and they divide"
      ],
      [
       "Bought garment",
-      "No",
+      "1. No\n2. Yes: both paid, so the loss answer fails here",
       "Yes",
-      "Yes: both paid, so the loss answer fails here",
       "Each swears, and they divide"
      ],
      [
       "Storekeeper and laborer",
-      "Yes: one of them is lying",
+      "1. Yes: one of them is lying\n2. Not the question: each deals only with the employer",
       "No",
-      "Not the question: each deals only with the employer",
       "Both swear and collect from the employer"
      ]
     ]

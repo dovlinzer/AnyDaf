@@ -1,0 +1,882 @@
+{
+ "daf": "Kiddushin 7",
+ "scope": {
+  "start": "6b: Rava's first case, a woman who tells the man to give 100 dinars to a third party (opens mid-sentence, finishing on 7a)",
+  "end": "8a: Rav Yosef's proof from the redemption of a Hebrew slave"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Unusual Kiddushei Kesef: *Arev*, Canaanite Slave, Important Man",
+   "amud": "6b–7a",
+   "text": {
+    "from": "6b.15",
+    "to": "7a.10"
+   },
+   "gist": "Three cases where the money doesn't pass from husband to wife (*arev*, Canaanite slave, both combined), Rava's question about a woman who pays the man, and why the mechanisms had to be taught for monetary acquisitions too.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "Rava's Three Cases: *Arev*, Canaanite Slave, or Both",
+     "amud": "6b–7a",
+     "text": {
+      "from": "6b.15",
+      "to": "7a.5"
+     },
+     "gist": "Money goes to a third party, comes from a third party, or both, and Rava validates each case with the law of an *arev* (guarantor), of a freed slave, or of the two together.",
+     "bullets": [
+      {
+       "text": "To follow the cases, keep three parties in view: the woman, the man who pays or marries, and \"so-and-so\", a third party. In each case the usual path of *kiddushei kesef*, money from husband to wife, is broken.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Rava's three cases of betrothal with 100 dinars",
+      "columns": [
+       "Case",
+       "What is said",
+       "The money goes",
+       "She is betrothed to",
+       "The anomaly",
+       "Rava's source"
+      ],
+      "rows": [
+       [
+        "*Arev*",
+        "Woman: \"Give 100 to so-and-so and I will be betrothed to you\"",
+        "Man → so-and-so",
+        "The man who paid",
+        "She receives nothing",
+        "An *arev* commits himself without benefit"
+       ],
+       [
+        "Canaanite slave",
+        "Giver: \"Here are 100; with them be betrothed to so-and-so\"",
+        "Giver → woman",
+        "So-and-so",
+        "The husband pays nothing",
+        "A slave freed with another's money acquires himself"
+       ],
+       [
+        "Both",
+        "Woman: \"Give 100 to so-and-so and I will be betrothed to him\"",
+        "Man → so-and-so",
+        "So-and-so",
+        "She receives nothing and the husband pays nothing",
+        "*Arev* and slave together"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "Rava's three cases (6b–7a): the gold arrow shows who hands the 100 dinars to whom, and the blue arc shows to whom the woman is betrothed.",
+      "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>Three panels showing Rava's three cases: who pays the 100 dinars, who receives them, and to whom the woman is betrothed.</title><rect width='900' height='460' fill='#FBF8F1'/><rect x='15' y='15' width='280' height='405' rx='14' fill='#E3EAF3'/><rect x='310' y='15' width='280' height='405' rx='14' fill='#F3E6D8'/><rect x='605' y='15' width='280' height='405' rx='14' fill='#E4EFE4'/><text x='155' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1B3A8A'>1. Guarantor</text><text x='155' y='72' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#3A5692'>מדין ערב</text><path d='M60 145 Q107 100 155 145' fill='none' stroke='#1B3A8A' stroke-width='3' stroke-dasharray='7 5'/><text x='107' y='108' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1B3A8A'>betrothed to him</text><use href='#woman' x='35' y='150' width='50' height='100' style='color:#8C4A60'/><use href='#man' x='130' y='150' width='50' height='100' style='color:#4B5E8C'/><use href='#man' x='225' y='150' width='50' height='100' style='color:#6B6F3A'/><text x='60' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Woman</text><text x='155' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>The man</text><text x='250' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>So-and-so</text><line x1='168' y1='300' x2='228' y2='300' stroke='#9A6212' stroke-width='3'/><polygon points='238,300 227,294 227,306' fill='#9A6212'/><text x='203' y='322' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#9A6212'>100 dinars</text><text x='155' y='362' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>She receives no money,</text><text x='155' y='382' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>yet commits herself,</text><text x='155' y='402' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>like a guarantor.</text><text x='450' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#9A6212'>2. Canaanite Slave</text><text x='450' y='72' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#7A4A2A'>מדין עבד כנעני</text><path d='M450 145 Q497 100 545 145' fill='none' stroke='#1B3A8A' stroke-width='3' stroke-dasharray='7 5'/><text x='497' y='108' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1B3A8A'>betrothed to so-and-so</text><use href='#man' x='330' y='150' width='50' height='100' style='color:#8C5A3C'/><use href='#woman' x='425' y='150' width='50' height='100' style='color:#8C4A60'/><use href='#man' x='520' y='150' width='50' height='100' style='color:#6B6F3A'/><text x='355' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>The giver</text><text x='450' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Woman</text><text x='545' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>So-and-so</text><line x1='368' y1='300' x2='428' y2='300' stroke='#9A6212' stroke-width='3'/><polygon points='438,300 427,294 427,306' fill='#9A6212'/><text x='403' y='322' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#9A6212'>100 dinars</text><text x='450' y='362' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>So-and-so pays nothing,</text><text x='450' y='382' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>yet acquires her, like a slave</text><text x='450' y='402' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>freed with another's money.</text><text x='745' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#24592E'>3. Both Combined</text><text x='745' y='72' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#3C7446'>מדין שניהם</text><path d='M650 145 Q745 88 840 145' fill='none' stroke='#1B3A8A' stroke-width='3' stroke-dasharray='7 5'/><text x='745' y='104' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#1B3A8A'>betrothed to so-and-so</text><use href='#woman' x='625' y='150' width='50' height='100' style='color:#8C4A60'/><use href='#man' x='720' y='150' width='50' height='100' style='color:#4B5E8C'/><use href='#man' x='815' y='150' width='50' height='100' style='color:#6B6F3A'/><text x='650' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Woman</text><text x='745' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>The man</text><text x='840' y='272' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>So-and-so</text><line x1='758' y1='300' x2='818' y2='300' stroke='#9A6212' stroke-width='3'/><polygon points='828,300 817,294 817,306' fill='#9A6212'/><text x='793' y='322' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#9A6212'>100 dinars</text><text x='745' y='362' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>She receives nothing, and</text><text x='745' y='382' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>so-and-so pays nothing:</text><text x='745' y='402' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>guarantor and slave together.</text><text x='450' y='446' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Gold arrow: the 100 dinars   ·   Blue dashed arc: who is betrothed to whom</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s3",
+       "title": "*Arev*: She Commits Herself Without Benefit",
+       "amud": "6b–7a",
+       "text": {
+        "from": "6b.15",
+        "to": "7a.1"
+       },
+       "gist": "A woman who has the man pay a third party is betrothed to him, just as an *arev* binds himself though the loan goes to someone else.",
+       "bullets": [
+        {
+         "text": "Rava: a woman says, \"Give 100 dinars to so-and-so, and I will be betrothed to you.\" She is betrothed, by the law of a guarantor (*arev*).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "An *arev* commits himself to repay even though the loan goes to the borrower and he gets nothing. So too she commits and transfers herself to the man who paid, though the money went to someone else.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The case strains the basic idea of *kiddushei kesef*: the woman receives nothing, yet the money effects her betrothal. The rishonim divide over how it works.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Rashi: *arev*, slave and the combined case are recognized transactional forms, and what works in them works for kiddushin. Later rishonim find this hard, and Rashi and others add that the link to kiddushin must be stated explicitly.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Rosh: what matters is that a formal transfer of money took place, whatever its direction. Kiddushin attaches to that event rather than to a purchase of the woman.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Rambam: she gains a psychological benefit, worth a peruta, from the man acting on her financial request. The same idea returns later in the tractate (\"dance for me and be betrothed\"), though the Gemara says nothing of it here.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "Ritva takes a middle path: partly the transfer of money, partly the psychological benefit. Whose money goes to the third party, hers or his, is itself disputed.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s4",
+       "title": "Canaanite Slave: He Acquires Without Losing",
+       "amud": "7a",
+       "text": {
+        "from": "7a.2",
+        "to": "7a.2"
+       },
+       "gist": "A man gives the woman money for her betrothal to a third party, who acquires her without paying, just as a slave is freed by another's money.",
+       "bullets": [
+        {
+         "text": "A man gives a woman 100 dinars: \"Here are 100; with them become betrothed to so-and-so.\" She is betrothed to so-and-so, by the law of freeing a Canaanite slave.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A Canaanite slave acquires himself when another person pays his master, though he loses nothing of his own. So too so-and-so acquires her with another man's money.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A slave can't free himself with his own money, which already belongs to his master; a third party must pay, yet it is the slave's status that changes. Kiddushin likewise is a change of status, not a purchase.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s5",
+       "title": "Both Together: Each Analogy Covers the Other's Gap",
+       "amud": "7a",
+       "text": {
+        "from": "7a.3",
+        "to": "7a.5"
+       },
+       "gist": "When the woman gets nothing and the husband pays nothing, neither the *arev* nor the slave alone suffices, but together they validate the betrothal.",
+       "bullets": [
+        {
+         "text": "A woman says: \"Give 100 dinars to so-and-so and I will be betrothed to him.\" She is betrothed, from the two laws combined.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The *arev* explains her committing herself without benefit. But in the *arev* case the one who acquires (the lender) is the one who pays, while here so-and-so pays nothing. The freed slave shows one can acquire without paying.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "But in the slave case the master who transfers ownership receives the money, while here she transfers herself and receives nothing. The *arev* shows one can commit oneself without benefit. Together they cover the case.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s6",
+     "title": "Woman Pays the Man: Kinyan Agav or Adam Chashuv?",
+     "amud": "7a",
+     "text": {
+      "from": "7a.6",
+      "to": "7a.7"
+     },
+     "gist": "Rava asks about a woman who gives the man money; Rav Ashi objects that land-like property can't come along with movables, and Mar Zutra answers that an important man's accepting her gift is itself her benefit.",
+     "bullets": [
+      {
+       "text": "Rava's question: a woman says to a man, \"Here are 100 dinars, and I will be betrothed to you.\" Mar Zutra in the name of Rav Pappa: she is betrothed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Ashi objects: then property that serves as a guarantee (land, and a person likewise) is acquired by acquiring property that does not (money).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "But the Mishnah (26a) teaches the reverse: unguaranteed property is acquired along with guaranteed property, through money, document or taking possession, and not the other way around.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is the rule of *kinyan agav*: movables ride along with land, never land with movables. It is like buying a flock and claiming the field comes with it.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Mar Zutra: no acquiring-along-with is involved. The case is an important man (*adam chashuv*): for the benefit of having him accept a gift from her, she agrees to give herself to him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: an important man refuses gifts on principle (\"*sonei matanot yichyeh*\"). When he accepts hers, the benefit to her is real and worth a peruta, like a dignitary who never accepts hospitality letting you pay for his dinner.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Here the Gemara states outright the kind of psychological benefit the Rambam reads into the *arev* case. In practice it is narrow, limited to a man known to refuse gifts, so a woman does not betroth a man with a ring.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Is a free person really comparable to land? Rashi seems to say so; Tosafot limit the comparison to Canaanite slaves, whom a verse likens to land. The Shach brings many proofs against Tosafot.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rav Ashi's objection and Mar Zutra's answer (7a): by the Mishnah, movables come along with land and not the reverse, so the woman can't come along with the money; Mar Zutra instead grounds the betrothal in an important man's accepting her gift.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Left: three rows showing land acquired with movables coming along (valid), movables acquired with land coming along (invalid), and money given with the woman coming along (in question). Right: a woman hands a gift to an important man.</title><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='15' width='425' height='410' rx='14' fill='#F3E6D8'/><rect x='460' y='15' width='425' height='410' rx='14' fill='#E3EAF3'/><text x='227' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#9A6212'>Rav Ashi: the wrong direction</text><text x='227' y='70' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>The Mishnah (26a): what comes along with what</text><rect x='40' y='108' width='90' height='40' fill='#C9D5B8' stroke='#8FA67A'/><path d='M50 118 H120 M50 128 H120 M50 138 H120' stroke='#8FA67A' stroke-width='2'/><line x1='140' y1='128' x2='178' y2='128' stroke='#5B6478' stroke-width='2.5'/><polygon points='186,128 177,123 177,133' fill='#5B6478'/><rect x='195' y='110' width='22' height='36' rx='6' fill='#B5673E'/><rect x='225' y='114' width='22' height='32' rx='6' fill='#9A7440'/><text x='40' y='172' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Land acquired: movables come along</text><use href='#mark-ok' x='380' y='108' width='40' height='40'/><rect x='40' y='210' width='22' height='36' rx='6' fill='#B5673E'/><rect x='70' y='214' width='22' height='32' rx='6' fill='#9A7440'/><line x1='102' y1='228' x2='140' y2='228' stroke='#5B6478' stroke-width='2.5'/><polygon points='148,228 139,223 139,233' fill='#5B6478'/><rect x='160' y='208' width='90' height='40' fill='#C9D5B8' stroke='#8FA67A'/><path d='M170 218 H240 M170 228 H240 M170 238 H240' stroke='#8FA67A' stroke-width='2'/><text x='40' y='272' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Movables acquired: land comes along</text><use href='#mark-no' x='380' y='208' width='40' height='40'/><circle cx='64' cy='312' r='11' fill='#E0B84A' stroke='#9A6212' stroke-width='2'/><circle cx='52' cy='332' r='11' fill='#E0B84A' stroke='#9A6212' stroke-width='2'/><circle cx='76' cy='332' r='11' fill='#E0B84A' stroke='#9A6212' stroke-width='2'/><line x1='100' y1='325' x2='140' y2='325' stroke='#5B6478' stroke-width='2.5'/><polygon points='148,325 139,320 139,330' fill='#5B6478'/><use href='#woman' x='158' y='280' width='40' height='80' style='color:#8C4A60'/><text x='400' y='342' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='34' font-weight='600' fill='#5B6478'>?</text><text x='40' y='384' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Money given: the woman comes along?</text><text x='40' y='408' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>The woman counts like land, the money like movables</text><text x='672' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1B3A8A'>Mar Zutra: an important man</text><text x='672' y='70' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Not an acquisition along with the money</text><use href='#woman' x='560' y='120' width='70' height='140' style='color:#8C4A60'/><use href='#man' x='720' y='120' width='70' height='140' style='color:#4B5E8C'/><text x='675' y='188' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#9A6212'>her gift</text><line x1='640' y1='200' x2='704' y2='200' stroke='#9A6212' stroke-width='3'/><polygon points='714,200 703,194 703,206' fill='#9A6212'/><circle cx='662' cy='222' r='9' fill='#E0B84A' stroke='#9A6212' stroke-width='2'/><circle cx='684' cy='222' r='9' fill='#E0B84A' stroke='#9A6212' stroke-width='2'/><text x='595' y='282' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>The woman</text><text x='755' y='282' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Important man</text><text x='672' y='322' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>He accepts a gift from her;</text><text x='672' y='344' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>that honor is her benefit,</text><text x='672' y='366' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>and for it she gives herself to him.</text><text x='672' y='404' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#1B3A8A'>הכא באדם חשוב עסקינן</text></svg>"
+     }
+    },
+    {
+     "id": "s7",
+     "title": "Monetary Matters Too: Eager Brides vs. Waivable Claims",
+     "amud": "7a",
+     "text": {
+      "from": "7a.8",
+      "to": "7a.10"
+     },
+     "gist": "Rava applies the *arev* and slave mechanisms to ordinary acquisitions as well, and the Gemara explains why neither kiddushin nor monetary law could be learned from the other.",
+     "bullets": [
+      {
+       "text": "Returning to the *arev* and slave cases: it was also stated in Rava's name that the same modes of acquisition work in monetary matters, and both statements are needed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "From kiddushin alone one might limit it: a woman agrees to betrothal for any benefit, as Reish Lakish cites the saying among women, *tav le'meitav tan du mi'le'meitav armelu*, better to sit as two than to sit alone like a widow.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "From monetary matters alone one might limit it: a monetary claim can be waived without receiving anything. Betrothal doesn't rest on her will alone, since she must actually receive money.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A man and woman who simply agree to marry, with no kinyan, are not betrothed. Since the formal act is constitutive, a gap in it can't be smoothed over by *mechilah* as it can in money matters.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Why Rava had to teach the mechanisms for both kiddushin and monetary matters",
+      "columns": [
+       "If taught only for…",
+       "Why it might work there",
+       "Why it might not carry over"
+      ],
+      "rows": [
+       [
+        "Kiddushin",
+        "A woman accepts betrothal for any benefit (Reish Lakish: *tav le'meitav tan du*)",
+        "A buyer or seller has no such eagerness"
+       ],
+       [
+        "Monetary matters",
+        "A monetary claim can be waived without receiving anything",
+        "Betrothal isn't up to her will alone: she must actually receive money"
+       ]
+      ]
+     },
+     "returns_to": [
+      {
+       "id": "s2",
+       "note": "Returns to the guarantor and slave cases after the digression on a woman who pays the man"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "Half-Betrothal: Half of Me, Half of You, and Spreading",
+   "amud": "7a–7b",
+   "text": {
+    "from": "7a.11",
+    "to": "7b.2"
+   },
+   "gist": "Rava's distinction between \"half of me\" and \"half of you\", Mar Zutra son of Rav Mari's challenge that the betrothal should spread like consecration, and R. Yochanan's partners' animal with its three lessons on *dichui*.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s9",
+     "title": "\"Half of Me\" vs. \"Half of You\": One Husband, Two Wives",
+     "amud": "7a",
+     "text": {
+      "from": "7a.11",
+      "to": "7a.12"
+     },
+     "gist": "A man may betroth a woman to half of himself, since he may take a second wife, but not half of her, since she can't have two husbands.",
+     "bullets": [
+      {
+       "text": "Rava: \"Be betrothed to half of me\": she is betrothed. \"Half of you is betrothed to me\": she is not betrothed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: if the reason is \"When a man takes a woman\" (Devarim 24:1), a whole woman and not half, the verse also says \"a man\", not half a man.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava: the cases differ. A woman is not eligible for two men, so betrothing half of her leaves the other half for someone else, which is impossible.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A man may marry two women. \"Half of me\" means: if I wish to marry another woman, I will.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava answers from reasoning, not from the verse. The case implies a man can reserve at the outset his right to a second wife; the Gemara doesn't ask whether he must.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rava's distinction (7a): \"half of me\" leaves room for a second wife, which is possible, while \"half of you\" would leave room for a second husband, which is not.",
+      "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>Left: a man betrothed to one woman with room for another wife; valid. Right: a woman with a man for half of her and a second man for the other half; not valid.</title><rect width='900' height='420' fill='#FBF8F1'/><rect x='15' y='15' width='425' height='390' rx='14' fill='#E3EAF3'/><rect x='460' y='15' width='425' height='390' rx='14' fill='#F3E6D8'/><text x='227' y='50' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1B3A8A'>“Be betrothed to half of me”</text><use href='#mark-ok' x='167' y='74' width='28' height='28'/><text x='203' y='94' font-family='Public Sans, system-ui, sans-serif' font-size='16' font-weight='600' fill='#24592E'>Betrothed</text><path d='M125 124 Q176 104 227 124' fill='none' stroke='#1B3A8A' stroke-width='3'/><path d='M227 124 Q278 104 329 124' fill='none' stroke='#1B3A8A' stroke-width='3' stroke-dasharray='7 5'/><use href='#woman' x='95' y='128' width='60' height='120' style='color:#8C4A60'/><use href='#man' x='197' y='128' width='60' height='120' style='color:#4B5E8C'/><use href='#woman' x='299' y='128' width='60' height='120' style='color:#A8436E' opacity='0.45'/><text x='125' y='268' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Her</text><text x='227' y='268' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>The man</text><text x='329' y='268' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Another wife,</text><text x='329' y='284' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>if he wishes</text><text x='227' y='330' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>A man is eligible for two women:</text><text x='227' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>“If I wish to marry another woman,</text><text x='227' y='374' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>I will marry another woman.”</text><text x='672' y='50' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#9A6212'>“Half of you is betrothed to me”</text><use href='#mark-no' x='590' y='74' width='28' height='28'/><text x='626' y='94' font-family='Public Sans, system-ui, sans-serif' font-size='16' font-weight='600' fill='#8C2F2F'>Not betrothed</text><path d='M570 124 Q621 104 672 124' fill='none' stroke='#9A6212' stroke-width='3'/><path d='M672 124 Q723 104 774 124' fill='none' stroke='#9A6212' stroke-width='3' stroke-dasharray='7 5'/><use href='#man' x='540' y='128' width='60' height='120' style='color:#4B5E8C'/><use href='#woman' x='642' y='128' width='60' height='120' style='color:#8C4A60'/><use href='#man' x='744' y='128' width='60' height='120' style='color:#6B6F3A' opacity='0.45'/><text x='570' y='268' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>The man</text><text x='672' y='268' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Her</text><text x='774' y='268' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>A second man</text><text x='774' y='284' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>for the other half?</text><text x='672' y='330' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>A woman is not eligible for two men:</text><text x='672' y='352' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>the other half would be left</text><text x='672' y='374' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>for someone else.</text></svg>"
+     }
+    },
+    {
+     "id": "s10",
+     "title": "Should It Spread Like Consecration? An Animal vs. Another Mind",
+     "amud": "7a",
+     "text": {
+      "from": "7a.13",
+      "to": "7a.15"
+     },
+     "gist": "Consecrating an animal's leg sanctifies the whole animal, so why shouldn't \"half of you\" spread to all of her? Because the woman has a mind of her own, and the betrothal depends on her consent.",
+     "bullets": [
+      {
+       "text": "Mar Zutra son of Rav Mari to Ravina: let the betrothal of \"half of you\" spread through all of her. A baraita (Tosefta Temurah 1:5): \"The leg of this animal is an *olah*\" makes the whole animal an *olah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Even the view that the whole isn't an *olah* speaks of a leg, which the animal can live without. Consecrating a part its life depends on makes all of it an *olah*, and a woman can't live without half her body.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rejected: the animal has no mind, but here there is another mind (*da'at acheret*), the woman's, and she must agree for the betrothal to take effect.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Her acceptance is acceptance of the words offered to her. If he said \"half of you\", that is all she agreed to, and the betrothal can't reach beyond her consent.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "R. Yochanan's Partners' Animal: Three Lessons in Dichui",
+     "amud": "7a–7b",
+     "text": {
+      "from": "7a.16",
+      "to": "7b.2"
+     },
+     "gist": "The case compares to an animal consecrated half by half: it becomes holy and can make a substitute, but may never be offered, and from it the Gemara learns three rules of permanent *dichui* (deferral).",
+     "bullets": [
+      {
+       "text": "The true parallel is R. Yochanan's case: an animal of two partners; one consecrates his half, then buys the other half and consecrates it. It is consecrated but may not be offered, since it was unfit when first consecrated.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The consecration didn't spread to the whole animal without the partner's consent, just as the betrothal doesn't spread without the woman's.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Being consecrated, it makes a non-sacred animal exchanged for it a substitute (*temurah*). The substitute is like it: consecrated, but not offered.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "On the shiur's reading, *temurah* requires sanctity of the body itself, so the half-and-half animal has that level of sanctity even though it can't be offered.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Three lessons: living animals can be permanently deferred (*dichui*); a disqualification present from the outset counts as *dichui*; and *dichui* applies even to consecration of value (*kedushat damim*).",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "R. Yochanan's case (7a) in three steps, and the three rules of *dichui* the Gemara draws from it (7b).",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Three steps: a lamb half consecrated by one partner; the whole lamb consecrated but barred from the altar; a second lamb exchanged for it, also barred. Below, three lessons about deferral.</title><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='15' width='280' height='295' rx='14' fill='#F3E6D8'/><rect x='310' y='15' width='280' height='295' rx='14' fill='#E3EAF3'/><rect x='605' y='15' width='280' height='295' rx='14' fill='#E4EFE4'/><text x='155' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='16' font-weight='600' fill='#1A1F2E'>1. One partner's half</text><text x='155' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Partner A consecrates his share</text><rect x='95' y='110' width='70' height='75' rx='14' fill='#FFE08A' opacity='0.8'/><use href='#lamb' x='80' y='90' width='150' height='105'/><text x='155' y='228' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>One half is consecrated;</text><text x='155' y='248' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>the other is still his partner's</text><text x='450' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='16' font-weight='600' fill='#1A1F2E'>2. The other half added</text><text x='450' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>He buys B's half, consecrates it</text><rect x='380' y='108' width='145' height='80' rx='18' fill='#FFE08A' opacity='0.8'/><use href='#lamb' x='375' y='90' width='150' height='105'/><text x='450' y='228' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Now wholly consecrated,</text><text x='450' y='248' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#8C2F2F'>but may never be sacrificed</text><use href='#mark-no' x='433' y='262' width='34' height='34'/><text x='745' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='16' font-weight='600' fill='#1A1F2E'>3. Exchanged for another</text><text x='745' y='68' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Temurah: the substitute</text><rect x='622' y='112' width='90' height='55' rx='12' fill='#FFE08A' opacity='0.8'/><use href='#lamb' x='615' y='100' width='110' height='77'/><line x1='730' y1='140' x2='752' y2='140' stroke='#5B6478' stroke-width='2.5'/><polygon points='760,140 751,135 751,145' fill='#5B6478'/><rect x='772' y='112' width='90' height='55' rx='12' fill='#FFE08A' opacity='0.8'/><use href='#lamb' x='765' y='100' width='110' height='77'/><text x='745' y='228' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>The substitute is consecrated,</text><text x='745' y='248' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#8C2F2F'>but also may not be sacrificed</text><use href='#mark-no' x='728' y='262' width='34' height='34'/><rect x='15' y='325' width='870' height='100' rx='14' fill='#EFE8DA'/><text x='450' y='350' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#1A1F2E'>Three lessons about deferral</text><text x='155' y='380' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Living animals can be</text><text x='155' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>permanently deferred</text><text x='450' y='380' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Deferral present from</text><text x='450' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>the outset counts</text><text x='745' y='380' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>Deferral applies even to</text><text x='745' y='400' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#1A1F2E'>consecrated value</text></svg>"
+     }
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "title": "One Peruta, Split Several Ways: Unresolved Questions",
+   "amud": "7b",
+   "text": {
+    "from": "7b.3",
+    "to": "7b.9"
+   },
+   "gist": "A run of questions left as *teiku*: halves of one woman with halves of a peruta, two daughters for two sons with one peruta, and a daughter bought together with a cow or with land.",
+   "bullets": [
+    {
+     "text": "Most rishonim, the Rambam among them, rule stringently when a question of kiddushin is left unresolved.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [
+    {
+     "id": "s13",
+     "title": "Rava's Ladder: Split Statements or Counting Toward One?",
+     "amud": "7b",
+     "text": {
+      "from": "7b.3",
+      "to": "7b.6"
+     },
+     "gist": "Four formulations, each asked only if the one before is joined: half-perutot, whole perutot, today and tomorrow, and \"your two halves\" with one peruta.",
+     "bullets": [
+      {
+       "text": "Rava: \"Half of you with half a peruta, and half of you with half a peruta.\" Did saying \"half a peruta\" divide the act (and half a peruta can't betroth), or was he counting toward the whole sum at once?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If that counts as counting: \"Half of you with a peruta, and half with a peruta.\" Did naming a full peruta for each half divide it, or does whatever he does that day count as counting?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If the whole day counts: \"Half of you with a peruta today, and half with a peruta tomorrow.\" Does \"tomorrow\" divide it, or does he mean the betrothal begins now and is completed tomorrow?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The step from hours to a whole day is notable: the question is framed in days, not in the minutes that usually separate one act from another.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "And: \"Your two halves with one peruta.\" Here he spoke all at once; or can a woman not be betrothed in halves at all? None of these is resolved: *teiku*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Framing kiddushin in halves, even halves that add up in one breath, may reflect a flawed idea of marriage, or offer the woman something she can't meaningfully accept.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Rava's four formulations: why each might be split or joined",
+      "columns": [
+       "Formulation",
+       "Why it may be split",
+       "Why it may be joined"
+      ],
+      "rows": [
+       [
+        "Half with half a peruta, half with half a peruta",
+        "\"Half a peruta\" divides the act, and half a peruta can't betroth",
+        "He is counting toward the full sum"
+       ],
+       [
+        "Half with a peruta, half with a peruta",
+        "A full peruta for each half makes two acts",
+        "Whatever he does that day counts as counting"
+       ],
+       [
+        "Half with a peruta today, half tomorrow",
+        "\"Tomorrow\" divides it",
+        "The betrothal begins now and is completed tomorrow"
+       ],
+       [
+        "Your two halves with one peruta",
+        "A woman can't be betrothed in halves at all",
+        "He said it all at one time"
+       ]
+      ]
+     },
+     "children": [],
+     "illustration": {
+      "caption": "Rava's chain of questions (7b): each step is asked only on the assumption that the previous one is joined, and all four are left unresolved.",
+      "svg": "<svg viewBox='0 0 900 430' xmlns='http://www.w3.org/2000/svg' role='img'><title>Four cards in a row, one for each of Rava's formulations of half-betrothal, each showing why it may be split and why it may be joined, all marked teiku.</title><rect width='900' height='430' fill='#FBF8F1'/><text x='450' y='40' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='22' font-weight='600' fill='#1A1F2E'>Rava's ladder of questions</text><text x='450' y='64' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Each step is asked only if the one before is joined</text><rect x='20' y='90' width='190' height='250' rx='12' fill='#F4EFE4' stroke='#D9CFBD'/><rect x='245' y='90' width='190' height='250' rx='12' fill='#F4EFE4' stroke='#D9CFBD'/><rect x='470' y='90' width='190' height='250' rx='12' fill='#F4EFE4' stroke='#D9CFBD'/><rect x='695' y='90' width='190' height='250' rx='12' fill='#F4EFE4' stroke='#D9CFBD'/><line x1='214' y1='215' x2='236' y2='215' stroke='#5B6478' stroke-width='2.5'/><polygon points='242,215 234,210 234,220' fill='#5B6478'/><line x1='439' y1='215' x2='461' y2='215' stroke='#5B6478' stroke-width='2.5'/><polygon points='467,215 459,210 459,220' fill='#5B6478'/><line x1='664' y1='215' x2='686' y2='215' stroke='#5B6478' stroke-width='2.5'/><polygon points='692,215 684,210 684,220' fill='#5B6478'/><g font-family='Public Sans, system-ui, sans-serif' text-anchor='middle'><text x='115' y='118' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#1A1F2E'>Step 1</text><text x='115' y='148' font-size='12' fill='#1A1F2E'>“Half with ½ peruta,</text><text x='115' y='166' font-size='12' fill='#1A1F2E'>half with ½ peruta”</text><text x='115' y='212' font-size='13' font-weight='600' fill='#1B3A8A'>Split:</text><text x='115' y='232' font-size='12' fill='#1A1F2E'>half a peruta can't betroth</text><text x='115' y='268' font-size='13' font-weight='600' fill='#9A6212'>Joined:</text><text x='115' y='288' font-size='12' fill='#1A1F2E'>he is counting up to one</text><text x='340' y='118' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#1A1F2E'>Step 2</text><text x='340' y='148' font-size='12' fill='#1A1F2E'>“Half with a peruta,</text><text x='340' y='166' font-size='12' fill='#1A1F2E'>half with a peruta”</text><text x='340' y='212' font-size='13' font-weight='600' fill='#1B3A8A'>Split:</text><text x='340' y='232' font-size='12' fill='#1A1F2E'>a peruta for each half</text><text x='340' y='268' font-size='13' font-weight='600' fill='#9A6212'>Joined:</text><text x='340' y='288' font-size='12' fill='#1A1F2E'>all done that day counts</text><text x='565' y='118' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#1A1F2E'>Step 3</text><text x='565' y='148' font-size='12' fill='#1A1F2E'>“Half with a peruta today,</text><text x='565' y='166' font-size='12' fill='#1A1F2E'>half with one tomorrow”</text><text x='565' y='212' font-size='13' font-weight='600' fill='#1B3A8A'>Split:</text><text x='565' y='232' font-size='12' fill='#1A1F2E'>“tomorrow” divides it</text><text x='565' y='268' font-size='13' font-weight='600' fill='#9A6212'>Joined:</text><text x='565' y='288' font-size='12' fill='#1A1F2E'>begins now, ends tomorrow</text><text x='790' y='118' font-family='Newsreader, Georgia, serif' font-size='17' font-weight='600' fill='#1A1F2E'>Step 4</text><text x='790' y='148' font-size='12' fill='#1A1F2E'>“Your two halves</text><text x='790' y='166' font-size='12' fill='#1A1F2E'>with one peruta”</text><text x='790' y='212' font-size='13' font-weight='600' fill='#1B3A8A'>Split:</text><text x='790' y='232' font-size='12' fill='#1A1F2E'>no betrothal by halves</text><text x='790' y='268' font-size='13' font-weight='600' fill='#9A6212'>Joined:</text><text x='790' y='288' font-size='12' fill='#1A1F2E'>said all at one time</text></g><line x1='35' y1='186' x2='195' y2='186' stroke='#D9CFBD'/><line x1='260' y1='186' x2='420' y2='186' stroke='#D9CFBD'/><line x1='485' y1='186' x2='645' y2='186' stroke='#D9CFBD'/><line x1='710' y1='186' x2='870' y2='186' stroke='#D9CFBD'/><rect x='65' y='305' width='100' height='24' rx='12' fill='#5B6478'/><rect x='290' y='305' width='100' height='24' rx='12' fill='#5B6478'/><rect x='515' y='305' width='100' height='24' rx='12' fill='#5B6478'/><rect x='740' y='305' width='100' height='24' rx='12' fill='#5B6478'/><g font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#FFFFFF' text-anchor='middle'><text x='115' y='322'>Teiku</text><text x='340' y='322'>Teiku</text><text x='565' y='322'>Teiku</text><text x='790' y='322'>Teiku</text></g><text x='450' y='384' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>All four questions are left unresolved</text></svg>"
+     }
+    },
+    {
+     "id": "s14",
+     "title": "Two Daughters to Two Sons: Follow the Transactors or the Couples?",
+     "amud": "7b",
+     "text": {
+      "from": "7b.7",
+      "to": "7b.7"
+     },
+     "gist": "One peruta passes between two fathers for two betrothals: is that money, or does each couple lack its peruta?",
+     "bullets": [
+      {
+       "text": "Rava: one man says to another, \"Let your two daughters be betrothed to my two sons with one peruta.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Do we follow the giver and recipient, between whom a full peruta passes, or the sons and daughters, none of whom has a peruta of his own? *Teiku*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The father must be acting as his sons' agent, since he can't betroth a wife for his son without the son's authorization.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "Daughter with Cow or Land: Half a Peruta Each, or Separate Acquisitions?",
+     "amud": "7b",
+     "text": {
+      "from": "7b.8",
+      "to": "7b.9"
+     },
+     "gist": "A daughter and an animal, or a daughter and a field, acquired together \"with one peruta\": is the peruta halved, or does the daughter get it all while the cow is pulled and the land possessed?",
+     "bullets": [
+      {
+       "text": "Rav Pappa: \"I acquire your daughter and your cow with one peruta.\" Half a peruta each, so neither takes effect? Or the whole peruta for the daughter and the cow acquired by pulling (*meshikhah*)? *Teiku*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Ashi: \"your daughter and your land with one peruta.\" Half a peruta each, or the peruta for the daughter and the land by taking possession (*chazakah*)? *Teiku*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The land case has its own texture, since a person was compared to land in Rav Ashi's objection about a woman who pays the man.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "title": "Silk Kiddushin: Must the Value Be Appraised (Shuma)?",
+   "amud": "7b–8a",
+   "text": {
+    "from": "7b.10",
+    "to": "8a.9"
+   },
+   "gist": "Rabba and Rav Yosef on whether silk given for kiddushin must first be appraised; in a second version the dispute rests on Rav Yosef's rule that *shaveh kesef* needs a set value, which he proves from the Hebrew slave.",
+   "bullets": [],
+   "chart": {
+    "caption": "Silk given for kiddushin: when is appraisal (*shuma*) needed?",
+    "columns": [
+     "",
+     "\"Whatever they're worth\"",
+     "Said worth 50, not worth 50",
+     "Said worth 50, worth 50",
+     "\"Whatever they're worth\" (second version)"
+    ],
+    "rows": [
+     [
+      "Rabba",
+      "No *shuma* needed",
+      "Not betrothed",
+      "No *shuma* needed",
+      "No *shuma* needed"
+     ],
+     [
+      "Rav Yosef",
+      "No *shuma* needed",
+      "Not betrothed",
+      "*Shuma* needed: she isn't an expert and doesn't rely on him",
+      "*Shuma* needed: an item used as money must have a set value"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s17",
+     "title": "Rabba vs. Rav Yosef: Agreed Cases and the Dispute",
+     "amud": "7b",
+     "text": {
+      "from": "7b.10",
+      "to": "7b.11"
+     },
+     "gist": "All agree when he says \"whatever it's worth\" and when he overstated the value; they differ when his stated value is correct but she can't judge it.",
+     "bullets": [
+      {
+       "text": "A man betrothed a woman with silk. Rabba: no *shuma* (appraisal) is needed, since it is surely worth a peruta. Rav Yosef: *shuma* is needed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "All agree: if he said \"be betrothed with them, whatever they're worth\", no *shuma* is needed. If he said they're worth 50 dinars and they aren't, she is not betrothed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The dispute: he said 50 and they are worth 50. Rabba: no *shuma* needed. Rav Yosef: needed, since she is no expert, doesn't rely on his estimate, and so doesn't truly agree.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Silk was reaching Babylonia from China in just this period: new, costly and hard to value. The dispute stands behind the practice of betrothing with a plain metal ring whose value is easy to know.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s18",
+     "title": "Another Version: Shaveh Kesef Needs a Set Value Like Money",
+     "amud": "7b–8a",
+     "text": {
+      "from": "7b.12",
+      "to": "8a.1"
+     },
+     "gist": "In a second version they disagree even over \"whatever it's worth\", because Rav Yosef holds that property given as money must have a fixed value like money.",
+     "bullets": [
+      {
+       "text": "Some say (*ika de'amrei*): they disagree even when he said \"be betrothed with these, whatever they're worth.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yosef: *shaveh kesef* is like money in every way. Money has a set value (*kayitz*), so an item used as money must have a set value too.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "On this version the concern isn't only her consent: silk, whose price varies and needs an expert, simply lacks money's defining quality unless it is appraised.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "Rav Yosef's Source: A Hebrew Slave Isn't Redeemed with Grain or Vessels",
+     "amud": "8a",
+     "text": {
+      "from": "8a.2",
+      "to": "8a.9"
+     },
+     "gist": "A baraita excludes grain and vessels from redeeming a Hebrew slave, and Rav Yosef shows this can only mean items worth a peruta but lacking a set value.",
+     "bullets": [
+      {
+       "text": "A baraita on the Hebrew slave: \"out of the money that he was bought for\" (Vayikra 25:51) means he is acquired with money, not with grain or vessels.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "It can't mean items of value are excluded altogether: \"he shall give back the price of his redemption\" includes anything worth money.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Nor items worth less than a peruta, for then why name grain and vessels, when even coins under a peruta fail?",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "So they are worth a peruta but lack a set value. Redemption needs money or an item of clearly defined value, like money.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Rama (siman 695) says not to send *mishloach manot* to a widow, for fear of a doubtful betrothal. The acharonim are puzzled, since both parties' intent is needed; the broad mechanisms of this daf, such as psychological benefit and the important man, may explain the concern.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "kiddushei kesef",
+   "hebrew": "קידושי כסף",
+   "sense": "betrothal through money or its value",
+   "definition": "Betrothal effected when the man gives the woman money or an item worth at least a peruta for the purpose of betrothal, with her consent.",
+   "on_this_daf": "Rava stretches the mechanism to cases where the money goes to a third party, comes from a third party, or passes from the woman to the man.",
+   "aliases": [
+    "Kiddushei Kesef",
+    "kiddushei kesef"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4"
+   ]
+  },
+  {
+   "term": "arev",
+   "hebrew": "ערב",
+   "sense": "a guarantor who binds himself without benefit",
+   "definition": "A guarantor on a loan, who obligates himself to repay if the borrower defaults even though the loan money goes to the borrower and not to him.",
+   "on_this_daf": "Rava learns from the guarantor that a woman can bind herself in betrothal when the money is paid to someone else.",
+   "aliases": [
+    "arev"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s5",
+    "s7"
+   ]
+  },
+  {
+   "term": "kinyan agav",
+   "hebrew": "קנין אגב",
+   "sense": "acquiring movables along with land",
+   "definition": "Movable property (without guarantee) can be acquired together with land (property that serves as a guarantee) through the act that acquires the land; the reverse, land acquired along with movables, does not work.",
+   "on_this_daf": "Rav Ashi objects that a woman paying the man would make the woman, likened to land, come along with the money, the reverse of the rule.",
+   "aliases": [
+    "Kinyan Agav",
+    "kinyan agav"
+   ],
+   "sections": [
+    "s6"
+   ]
+  },
+  {
+   "term": "adam chashuv",
+   "hebrew": "אדם חשוב",
+   "sense": "an important man whose acceptance confers benefit",
+   "definition": "A person of standing whose acceptance of a gift or favor is itself a tangible benefit to the giver, which can serve as the value in a transaction.",
+   "on_this_daf": "Mar Zutra validates a woman's betrothing herself by paying the man only where he is an important man, whose accepting her gift is her benefit.",
+   "aliases": [
+    "Adam Chashuv",
+    "adam chashuv"
+   ],
+   "sections": [
+    "s6"
+   ]
+  },
+  {
+   "term": "dichui",
+   "hebrew": "דיחוי",
+   "sense": "permanent deferral of an offering",
+   "definition": "The rule that a consecrated animal disqualified from the altar may remain permanently barred from being offered, even if the disqualifying condition later passes.",
+   "on_this_daf": "From R. Yochanan's partners' animal the Gemara learns that deferral applies to living animals, to a disqualification present from the outset, and to consecration of value.",
+   "aliases": [
+    "Dichui",
+    "dichui"
+   ],
+   "sections": [
+    "s11"
+   ]
+  },
+  {
+   "term": "shaveh kesef",
+   "hebrew": "שוה כסף",
+   "sense": "property given in place of money",
+   "definition": "An item worth money, which can generally be used wherever the Torah requires payment in money, as long as it has the required value.",
+   "on_this_daf": "In the second version, Rav Yosef holds that such an item must have a set value like money, as shown by the redemption of a Hebrew slave.",
+   "aliases": [
+    "Shaveh Kesef",
+    "shaveh kesef"
+   ],
+   "sections": [
+    "s18",
+    "s19"
+   ]
+  },
+  {
+   "term": "shuma",
+   "hebrew": "שומא",
+   "sense": "appraisal of an item's value",
+   "definition": "An assessment of the market value of an item used in a transaction, establishing that it is worth what is claimed.",
+   "on_this_daf": "Rabba and Rav Yosef dispute whether silk given for kiddushin must be appraised when the stated value is correct but the woman can't judge it.",
+   "aliases": [
+    "Shuma"
+   ],
+   "sections": [
+    "s16",
+    "s17",
+    "s18"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "Rava's question about a woman who pays the man (7a.6–7) and the extension to monetary matters (7a.8–10) are kept as children of one parent with the three cases, since all are unusual mechanisms of kiddushei kesef; the woman-pays case could stand as its own top-level section. The monetary extension stays where it falls, with a returns_to link to the three cases (the Gemara itself says it 'reverts back').",
+  "R. Yochanan's partners' animal and the three lessons on dichui are kept under half-betrothal, since the Gemara brings the case as the true parallel to 'half of you'; the three lessons are conceptually a hekdesh digression and could be a separate top-level section.",
+  "The three cases are split into three children with a chart on the parent, rather than one flat section, because each has its own analogy and the combined case has its own two-step argument.",
+  "The four unresolved questions are grouped under one parent, with Rava's four-step ladder as a single child (the steps are one chain); the two-daughters and daughter-plus-property questions could each be top-level.",
+  "The silk chart sits on the parent section because it spans both versions of the dispute (s17 and s18)."
+ ],
+ "coverage_notes": [
+  "The Sefaria text supplied ends at 8a.4, but the scope runs to 8a.9. The last section is anchored to 8a.9 as instructed, but its content is outlined only through 8a.4; lines 8a.5–8a.9 should be checked and filled in.",
+  "The essay attributes the two-daughters question to Rav Pappa; the text has Rava raising it. Followed the text.",
+  "The essay attributes the daughter-and-cow question to Rav Ashi; the text has Rav Pappa (Rav Ashi asks the daughter-and-land question). Followed the text.",
+  "The segmentation and essay spell the disputant 'Raba'; the text has Rabba. Followed the text.",
+  "The essay has Rava tell Abaye not to cite verses at him; the text only has Rava say 'How can these cases be compared?' before giving his reason. Kept the text's wording; the characterization appears only as shiur framing.",
+  "The essay presents the second rung of Rava's ladder as the same counting principle; the text's side is that whatever he does that day counts as counting. Followed the text.",
+  "The Rashi/Rosh/Rambam/Ritva analysis of the guarantor case, the Rashi/Tosafot/Shach debate on comparing persons to land, the historical note on silk and the Rama on mishloach manot are shiur material, marked as such.",
+  "The previous daf's essay tail covers the conditional-gift sugya ending at 6b.14, outside this scope; nothing from it was needed."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s6",
+    "subject": "Directions of acquiring one property along with another",
+    "why_not": "Only two directions plus the woman's case; the illustration shows it more clearly than a grid."
+   },
+   {
+    "section": "s11",
+    "subject": "The three lessons on deferral",
+    "why_not": "A list of three rules with no shared dimensions to compare."
+   },
+   {
+    "section": "s15",
+    "subject": "Daughter-plus-cow vs. daughter-plus-land",
+    "why_not": "Two parallel questions differing only in the mode of acquisition; the bullets carry it."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s16",
+    "subject": "Rabba and Rav Yosef over the silk garments",
+    "why_not": "The chart already lays out the four cases and two views; a picture would repeat it."
+   },
+   {
+    "section": "s7",
+    "subject": "Kiddushin vs. monetary acquisitions",
+    "why_not": "An abstract comparison of reasons, not a scene; the chart covers it."
+   },
+   {
+    "section": "s10",
+    "subject": "Consecrating an animal's leg spreading to the whole animal",
+    "why_not": "The partners' animal illustration already shows the hekdesh side of the comparison."
+   }
+  ]
+ }
+}

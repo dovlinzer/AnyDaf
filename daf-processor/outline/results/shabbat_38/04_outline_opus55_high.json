@@ -75,24 +75,35 @@
       "columns": [
        "",
        "Reading",
-       "Pot forgotten unwittingly",
-       "Pot left intentionally",
+       "Food from a pot left on the stove",
        "Against the baraita that follows"
       ],
       "rows": [
        [
         "Rabba and Rav Yosef",
         "Lenient: forgetting a pot is not an act of cooking",
-        "May eat",
-        "May eat",
+        "1. Forgotten unwittingly: may eat\n2. Left intentionally: may eat",
         "A difficulty either way, left unanswered"
        ],
        [
         "Rav Nachman bar Yitzchak",
         "Restrictive: a pot left on the stove invites the claim \"I forgot\"",
-        "May not eat",
-        "May not eat",
+        "1. Forgotten unwittingly: may not eat\n2. Left intentionally: may not eat",
         "No difficulty: the baraita predates the decree"
+       ]
+      ],
+      "tones": [
+       [
+        null,
+        null,
+        "ok",
+        null
+       ],
+       [
+        null,
+        null,
+        "no",
+        null
        ]
       ]
      },

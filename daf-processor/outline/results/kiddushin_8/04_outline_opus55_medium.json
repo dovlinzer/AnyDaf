@@ -112,47 +112,73 @@
    "chart": {
     "caption": "The hundred-dinar cases: what was said, what happened, and the ruling",
     "columns": [
-     "Case",
-     "His words",
+     "Case (his words)",
      "What happened",
      "Ruling",
      "Why"
     ],
     "rows": [
      [
-      "One dinar handed over",
-      "“With a hundred”",
+      "One dinar handed over (“With a hundred”)",
       "He gives her one dinar",
       "Betrothed; he completes the payment",
       "The hundred is a condition (*al menat*), which takes effect now"
      ],
      [
-      "Counting out",
-      "“With a hundred” (read as “this hundred”)",
+      "Counting out (“With a hundred”, read as “this hundred”)",
       "He is counting; the last dinar is still in his hand",
       "Either may retract",
-      "The whole sum is the betrothal money; or (Rav Ashi) she expects all of it"
+      "1. The whole sum is the betrothal money\n2. Rav Ashi: counting shows she expects all of it"
      ],
      [
-      "One short",
-      "“With this hundred”",
+      "One short (“With this hundred”)",
       "Ninety-nine dinars",
       "Not betrothed",
       "Not the hundred he named"
      ],
      [
-      "Copper dinar",
-      "“With this hundred”",
+      "Copper dinar (“With this hundred”)",
       "One copper coin she didn't notice (at night, or mixed in)",
       "Not betrothed",
       "Not the hundred he named"
      ],
      [
-      "Flawed dinar",
-      "“With this hundred”",
+      "Flawed dinar (“With this hundred”)",
       "One worn silver dinar, spent with difficulty (Rav Pappa)",
       "Betrothed; he must exchange it",
       "Still a silver dinar"
+     ]
+    ],
+    "tones": [
+     [
+      null,
+      null,
+      "ok",
+      null
+     ],
+     [
+      null,
+      null,
+      null,
+      null
+     ],
+     [
+      null,
+      null,
+      "no",
+      null
+     ],
+     [
+      null,
+      null,
+      "no",
+      null
+     ],
+     [
+      null,
+      null,
+      "ok",
+      null
      ]
     ]
    },

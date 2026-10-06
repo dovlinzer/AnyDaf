@@ -1,0 +1,19 @@
+[
+ {
+  "at": "2026-10-05 20:48",
+  "applied": [
+   "set s2.chart"
+  ],
+  "done": [
+   {
+    "note": "c1",
+    "how": "Cut the s2 chart to four columns by putting R. Yosi's two tests (certain swindler, cost to him) in one numbered cell per row. All content and the cases-on-rows orientation are kept."
+   }
+  ],
+  "skipped": [],
+  "checks": [
+   "chart in 'Divide or Set Aside Until Elijah: The Rabbis, R. Yosi, the Storekeeper' has sages as column headers [\"R. Yosi's tests:\\n1. Certainly a swindler?\\n2. Would setting it aside cost him?\"]: check the orientation",
+   "no sages list"
+  ]
+ }
+]

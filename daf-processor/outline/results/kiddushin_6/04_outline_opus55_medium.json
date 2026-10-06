@@ -539,25 +539,36 @@
     "caption": "“Here are 100 dinars, on condition you return them”: two versions of Rava",
     "columns": [
      "",
-     "Sale",
-     "Betrothal",
-     "*Pidyon ha'ben*",
-     "*Terumah*"
+     "Fails",
+     "Takes effect",
+     "Reason"
     ],
     "rows": [
      [
       "Rava, as first stated",
-      "Not acquired",
-      "Not betrothed",
-      "Not redeemed",
-      "Obligation fulfilled, but forbidden ab initio"
+      "1. Sale: not acquired\n2. Betrothal: not betrothed\n3. *Pidyon ha'ben*: not redeemed",
+      "*Terumah*: obligation of giving fulfilled, but forbidden ab initio",
+      "Money given to be returned gives the recipient nothing; the priest looks like one who helps at the threshing floor"
      ],
      [
       "Rava, per Rav Ashi and Rav Huna Mar",
-      "Acquired",
-      "Not betrothed: a woman isn't acquired by *chalifin*",
-      "Redeemed",
-      "Obligation fulfilled"
+      "Betrothal: not betrothed",
+      "1. Sale: acquired\n2. *Pidyon ha'ben*: redeemed\n3. *Terumah*: obligation fulfilled",
+      "A *matanah al menat le'hachzir* is a gift, but a woman is not acquired by *chalifin*"
+     ]
+    ],
+    "tones": [
+     [
+      null,
+      "no",
+      null,
+      null
+     ],
+     [
+      null,
+      "no",
+      "ok",
+      null
      ]
     ]
    },

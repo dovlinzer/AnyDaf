@@ -551,31 +551,39 @@
    "gist": "Rava's rulings on a gift given on condition of return (*matanah al menat le'hachzir*) in sale, betrothal, redeeming a firstborn and terumah; the objection from his own etrog ruling; and Rav Ashi's version, in which only betrothal fails because a woman is not acquired by chalippin.",
    "bullets": [],
    "chart": {
-    "caption": "Money or produce given 'on condition you return it': the two versions of Rava",
+    "caption": "Money or produce given 'on condition you return it': the two versions of Rava. In both, Rava's own etrog ruling counts such a gift as a gift.",
     "columns": [
      "",
-     "Sale",
+     "Sale · redeeming a firstborn",
      "Betrothal",
-     "Redeeming a firstborn",
-     "*Terumah*",
-     "Etrog on Sukkot (Rava's own ruling)"
+     "*Terumah*"
     ],
     "rows": [
      [
       "Rava as first reported",
-      "Not acquired",
+      "Not acquired · not redeemed",
       "Not betrothed",
-      "Not redeemed",
-      "Giving fulfilled, but forbidden to do so",
-      "Fulfilled if returned"
+      "Giving fulfilled, but forbidden to do so"
      ],
      [
       "Rav Ashi (Rava's view per Rav Huna Mar)",
-      "Acquired",
+      "Acquired · redeemed",
       "Not betrothed: a woman is not acquired by *chalippin*",
-      "Redeemed",
-      "Giving fulfilled",
-      "Fulfilled if returned"
+      "Giving fulfilled"
+     ]
+    ],
+    "tones": [
+     [
+      null,
+      "no",
+      "no",
+      null
+     ],
+     [
+      null,
+      "ok",
+      "no",
+      "ok"
      ]
     ]
    },
