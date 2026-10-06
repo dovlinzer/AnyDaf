@@ -435,12 +435,12 @@ def build_daf(spec, src, pages, out):
         for s in text.get(a, []):
             lab = f"{a}.{s['n']}"
             ctx = "Before this daf's outline" if first and order.get(lab, 1e9) < order.get(first, -1) else None
-            items.append({"l": lab, "he": s["he"], "en": s["en"], **({"ctx": ctx} if ctx else {})})
+            items.append({"l": lab, "he": s["he"], "en": s["en"], **({"hx": s["hx"]} if s.get("hx") else {}), **({"ctx": ctx} if ctx else {})})
     # A few lines before and after, for context.
     if first and first.split(".")[0] == before:
-        items = [{"l": f"{before}.{s['n']}", "he": s["he"], "en": s["en"]} for s in text.get(before, [])
+        items = [{"l": f"{before}.{s['n']}", "he": s["he"], "en": s["en"], **({"hx": s["hx"]} if s.get("hx") else {})} for s in text.get(before, [])
                  if order[f"{before}.{s['n']}"] >= order[first]] + items
-    items += [{"l": f"{after}.{s['n']}", "he": s["he"], "en": s["en"], "ctx": "Continues on the next daf"}
+    items += [{"l": f"{after}.{s['n']}", "he": s["he"], "en": s["en"], **({"hx": s["hx"]} if s.get("hx") else {}), "ctx": "Continues on the next daf"}
               for s in text.get(after, [])[:EDGE]]
     items = [it for it in items if not (it.get("ctx") == "Before this daf's outline" and
              order[it["l"]] < order[first] - 3)]

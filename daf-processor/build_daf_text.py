@@ -20,6 +20,12 @@ Then `--upload` loads it into Supabase `daf_text` (create the table first with
     venv/bin/python build_daf_text.py --only Chagigah  # limit to tractates
 
 Fetching is resumable: amudim already in daf_text/ are not fetched again (use --refetch).
+
+Hebrew explanation (for the Hebrew outlines): `--steinsaltz` also fetches Sefaria's Hebrew
+Steinsaltz ("William Davidson Edition - Hebrew", CC BY-NC), one request per tractate, into
+daf_text/steinsaltz/<Tractate>.json, and every run merges it into the segments as "hx" (Gemara
+words in **bold**, as in "en"). It is numbered line for line with the Gemara; an amud whose line
+count differs is left without "hx" and reported.
 """
 import argparse
 import json
@@ -154,6 +160,119 @@ def upload(books: dict, dry: bool):
     print()
 
 
+STEINSALTZ = OUT / "steinsaltz"
+
+
+def clean_hx(t: str) -> str:
+    t = re.sub(r"<big>[^<]*</big>\s*", "", t)            # paragraph letters (א, ב ...)
+    t = re.sub(r"(?s)<sup[^>]*>.*?</sup>|<i class=\"footnote\">.*?</i>", "", t)
+    t = re.sub(r"</?(?:b|strong)>", "**", t)
+    t = re.sub(r"<br\s*/?>", " ", t)
+    t = re.sub(r"<[^>]+>", "", t)
+    t = t.replace("****", "").replace("&nbsp;", " ")
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def amud_after(a: str) -> str:
+    return a[:-1] + "b" if a[-1] == "a" else f"{int(a[:-1]) + 1}a"
+
+
+def fetch_steinsaltz(books: dict, refetch: bool):
+    """One request per tractate: Steinsaltz_on_<Tractate>.<first>-<last>, Hebrew version."""
+    STEINSALTZ.mkdir(exist_ok=True)
+    for tr, book in books.items():
+        p = STEINSALTZ / f"{tr}.json"
+        if p.exists() and not refetch:
+            continue
+        amudim = sorted(book["amudim"], key=amud_key)
+        if not amudim:
+            continue
+        name = {"Eiruvin": "Eruvin", "Hullin": "Chullin"}.get(tr, tr)   # Sefaria's spelling for this edition
+        ref = f"Steinsaltz_on_{name.replace(' ', '_')}.{amudim[0]}-{amudim[-1]}"
+        for attempt in range(5):
+            try:
+                r = requests.get(f"https://www.sefaria.org/api/v3/texts/{ref}", params={"version": "hebrew"}, timeout=120)
+                break
+            except (requests.ConnectionError, requests.Timeout):
+                if attempt == 4:
+                    raise
+                time.sleep(5 * 2 ** attempt)
+        vs = r.json().get("versions") if r.ok else None
+        if not vs:
+            print(f"  {tr}: no Hebrew Steinsaltz on Sefaria (HTTP {r.status_code})")
+            continue
+        out, a = {}, amudim[0]
+        for seg in vs[0]["text"]:
+            out[a] = [clean_hx(x) if isinstance(x, str) else "" for x in (seg if isinstance(seg, list) else [seg])]
+            a = amud_after(a)
+        p.write_text(json.dumps({"tractate": tr, "version": vs[0].get("versionTitle"), "license": vs[0].get("license"),
+                                 "amudim": out}, ensure_ascii=False), encoding="utf-8")
+        print(f"  {tr}: {len(out)} amudim of Hebrew Steinsaltz")
+        time.sleep(FETCH_PAUSE)
+
+
+_NIKUD = re.compile(r"[\u0591-\u05C7]")
+
+
+def _words(t: str) -> set:
+    return set(re.findall(r"[\u05D0-\u05EA]{2,}", _NIKUD.sub("", t.replace("\u05BE", " "))))
+
+
+def skipped_line(segs: list, hx: list):
+    """Where an amud has one Gemara line more than its explanation (most often the chapter's
+    closing "hadran" line, which Steinsaltz doesn't explain), the line to leave out: the one that
+    makes the Gemara words Steinsaltz quotes in bold agree best with the lines they sit beside.
+    None when no choice is clearly right."""
+    g = [_words(s_["he"]) for s_ in segs]
+    b = [_words(" ".join(re.findall(r"\*\*(.+?)\*\*", h))) for h in hx]
+    ov = lambda i, j: len(g[i] & b[j]) / (len(b[j]) or 1)
+    n = len(hx)
+    pre = [0.0]
+    for i in range(n):
+        pre.append(pre[-1] + ov(i, i))
+    suf = [0.0] * (n + 2)
+    for i in range(n, 0, -1):            # Gemara line i pairs with explanation i-1 after the skip
+        suf[i] = suf[i + 1] + ov(i, i - 1)
+    scores = [pre[k] + suf[k + 1] for k in range(n + 1)]
+    best = max(range(n + 1), key=lambda k: scores[k])
+    runner = max((x for k, x in enumerate(scores) if k != best), default=0)
+    hadran = [k for k, s_ in enumerate(segs) if "הדרן" in s_["he"]]
+    if hadran and scores[hadran[0]] >= scores[best] - 0.5:
+        return hadran[0]
+    return best if scores[best] - runner >= 0.5 else None
+
+
+def merge_steinsaltz(books: dict):
+    """Put the saved Steinsaltz into each segment as "hx", where the line counts agree."""
+    added, off, skips = 0, [], []
+    for book in books.values():               # start clean, so a rerun never keeps a stale "hx"
+        for x in book["amudim"].values():
+            for s_ in x["segments"]:
+                s_.pop("hx", None)
+    for tr, book in books.items():
+        p = STEINSALTZ / f"{tr}.json"
+        if not p.exists():
+            continue
+        st = json.loads(p.read_text(encoding="utf-8"))["amudim"]
+        for amud, a in book["amudim"].items():
+            hx = st.get(amud)
+            if hx is None:
+                continue
+            segs = a["segments"]
+            pairs = list(zip(segs, hx))
+            if len(hx) == len(segs) - 1 and (k := skipped_line(segs, hx)) is not None:
+                pairs = list(zip(segs[:k] + segs[k + 1:], hx))
+                skips.append(f"{tr} {amud}.{k + 1}")
+            elif len(hx) != len(segs):
+                off.append(f"{tr} {amud} ({len(segs)} lines, {len(hx)} explained)")
+                continue
+            for s_, h in pairs:
+                if h:
+                    s_["hx"] = h
+                    added += 1
+    print(f"Hebrew Steinsaltz: {added} lines; {len(skips)} amudim with one unexplained line left out ({", ".join(skips)})" + (f"; {len(off)} amudim left out, line counts differ: " + ", ".join(off) if off else ""))
+
+
 def amud_key(a: str):
     return int(a[:-1]), a[-1]
 
@@ -164,6 +283,7 @@ def main():
     ap.add_argument("--upload", action="store_true")
     ap.add_argument("--refetch", action="store_true", help="fetch from Sefaria even when saved")
     ap.add_argument("--only", nargs="+", help="tractate names (Sefaria spelling)")
+    ap.add_argument("--steinsaltz", action="store_true", help="also fetch Sefaria's Hebrew Steinsaltz (merged as \"hx\")")
     args = ap.parse_args()
     only = set(args.only) if args.only else None
 
@@ -209,6 +329,9 @@ def main():
                 (OUT / f"{t}.json").write_text(json.dumps(b, ensure_ascii=False), encoding="utf-8")
         time.sleep(FETCH_PAUSE)
 
+    if args.steinsaltz:
+        fetch_steinsaltz(books, args.refetch)
+    merge_steinsaltz(books)
     for t, b in books.items():
         b["amudim"] = dict(sorted(b["amudim"].items(), key=lambda kv: amud_key(kv[0])))
         (OUT / f"{t}.json").write_text(json.dumps(b, ensure_ascii=False), encoding="utf-8")

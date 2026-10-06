@@ -74,6 +74,11 @@ button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-o
 .item .note{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
 .gem[data-lang="he"] .en,.gem[data-lang="en"] .he,.gem[data-lang="he"] .q-en,.gem[data-lang="en"] .q-he{display:none}
 .gem[data-lang="en"] .en{margin-top:0}
+.item .hx{font:400 15px/1.7 "Assistant","Arial Hebrew",Arial,sans-serif;color:var(--ink);text-align:right;margin-top:6px}
+.item .hx b{font-weight:700}
+.credit[dir="rtl"]{text-align:right}
+body.hemode #paneSeg [data-p="shiur"]{display:none}
+body.hemode #langSeg{direction:rtl}
 .seg.lang button{font-family:var(--hebrew),var(--sans);font-size:13.5px;min-width:2.4em}
 .iconbtn{font:500 12.5px var(--sans);border:1px solid var(--line);background:var(--panel);color:var(--muted);padding:5px 10px;border-radius:999px;cursor:pointer}
 .shiur{padding:10px 22px 40vh;max-width:70ch}
@@ -224,7 +229,9 @@ body.dragging{cursor:col-resize;user-select:none}
 .atime{font-variant-numeric:tabular-nums;min-width:3.2em;text-align:center}
 /* the scrubber is a strip across the top of the panel, so the controls and Follow fit on one row */
 #aSeek{order:-1;flex:1 1 100%;margin:0;accent-color:var(--blue)}
-.afl{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase}
+/* "Follow" sits inside its own switch, divided from the two choices, so it reads as their label */
+#aFollow{margin-left:10px;align-items:center}
+.afl{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);padding:0 9px 0 8px;margin-right:3px;border-right:1px solid var(--line);align-self:stretch;display:inline-flex;align-items:center}
 .anote{flex-basis:100%;font-size:12px;color:var(--amber)}
 .anote:empty{display:none}
 .anote a,.anote button{font:inherit;color:var(--link);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline}
@@ -287,7 +294,8 @@ body.dragging{cursor:col-resize;user-select:none}
  /* audio bar in two rows: the scrubber as a strip on top, then the controls and Follow switches */
  .abar{gap:6px;padding:4px 10px calc(6px + env(safe-area-inset-bottom,0px))}
  #aSeek{order:-1;flex-basis:100%;margin:0}
- .abar .afl,#aDur{display:none}
+ #aDur{display:none}
+ #aFollow{margin-left:4px}.afl{padding:0 6px 0 5px}
  .aplay{width:34px;height:34px}
  .askip{padding:4px 7px}
  #aFollow button{padding:5px 9px}
@@ -410,7 +418,7 @@ __SPRITE__
  <span class="atime" id="aDur"></span>
  <div class="seg" id="aEp" role="group" aria-label="Shiur" hidden></div>
  <button class="askip" id="aRate" type="button" aria-label="Playback speed" title="Playback speed">1×</button>
- <span class="afl">Follow</span><div class="seg" id="aFollow" role="group" aria-label="While the audio plays, follow it in">
+ <div class="seg" id="aFollow" role="group" aria-label="While the audio plays, follow it in"><span class="afl" aria-hidden="true">Follow</span>
   <button type="button" data-f="out" title="The outline moves to the section being taught">Outline</button><button type="button" data-f="text" title="The Gemara, shiur or daf page moves to the line being read">Text</button></div>
  <span class="anote" id="aNote" aria-live="polite"></span>
  <div class="pills" id="aPills" role="group" aria-label="Sections of the shiur: play from" hidden></div>
@@ -474,14 +482,23 @@ let textHold=0,outHold=0,raf=0;
 // Section -> first amud it covers ("37b–38a" -> 37b); used when a section has no line anchors.
 const firstAmud=s=>(String(s.amud||'').match(/\d+[ab]/)||[''])[0];
 
+// A daf with a Hebrew outline is the Israeli version: the Gemara with Steinsaltz's Hebrew
+// explanation in place of the English, and no English shiur (text or audio).
+let HE=false;
+const hxOf=it=>HE&&it.hx?`<p class="en hx" lang="he" dir="rtl">${md(it.hx)}</p>`:`<p class="en">${md(it.en)}</p>`;
 function renderDaf(d){
  D=d;current=null;
+ HE=!!(d.outline&&d.outline.lang==='he');document.body.classList.toggle('hemode',HE);
+ const LS=HE?[['he','א','הגמרא בלבד'],['both','א+ביאור','הגמרא והביאור'],['en','ביאור','הביאור בלבד']]:[['he','א','Hebrew only'],['both','אA','Hebrew and English'],['en','A','English only']];
+ LS.forEach(([l,t,a])=>{const b=document.querySelector(`#langSeg [data-l="${l}"]`);b.textContent=t;b.setAttribute('aria-label',a)});
+ if(HE&&mode==='shiur')setPane('text');
  // Gemara
  let last='';
  $('text').innerHTML=d.items.map((it,i)=>{const am=it.l.split('.')[0];
   const brk=am!==last?`<div class="amudbreak" data-amud="${esc(am)}">${esc(d.tractate)} ${esc(am)}</div>`:'';last=am;
-  return `${brk}<div class="item${it.ctx?' ctx':''}" data-i="${i}"><span class="lab" hidden>${esc(it.l)}</span><div>${it.ctx?`<div class="note">${esc(it.ctx)}</div>`:''}<p class="he" lang="he">${esc(it.he)}</p><p class="en">${md(it.en)}</p></div></div>`}).join('')
-  +`<p class="credit">English: The William Davidson Talmud, Sefaria (CC BY-NC).</p>`;
+  return `${brk}<div class="item${it.ctx?' ctx':''}" data-i="${i}"><span class="lab" hidden>${esc(it.l)}</span><div>${it.ctx?`<div class="note">${esc(it.ctx)}</div>`:''}<p class="he" lang="he">${esc(it.he)}</p>${hxOf(it)}</div></div>`}).join('')
+  +(HE?`<p class="credit" lang="he" dir="rtl">הביאור: ביאור הרב שטיינזלץ, מהדורת ויליאם דוידסון, ספריא (CC BY-NC).</p>`
+      :`<p class="credit">English: The William Davidson Talmud, Sefaria (CC BY-NC).</p>`);
  itemEls=[...document.querySelectorAll('#text .item')];itemOrd=d.items.map(it=>d.order[it.l]);
  // Shiur
  $('shiur').innerHTML=d.shiur.length?d.shiur.map(b=>{
@@ -583,7 +600,7 @@ function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains(
  const where=o=>o==null||!ranged.length?'':o<lo?'This line belongs to the previous daf\'s outline.':o>hi?'This line belongs to the next daf\'s outline.':'';
  const go=l=>{const s=sectionForOrder(D.order[l]);if(s){pageTapHold=Date.now()+1500;setCurrent(s.id,true)}return s};
  if(h.l!=null){const it=line(h.l),s=go(h.l),w=where(D.order[h.l]);
-  html=(s?`<p class="who">${md(s.title)}</p>`:'')+(it?`<p class="he" lang="he">${esc(it.he)}</p><p class="en">${md(it.en)}</p>`:'')
+  html=(s?`<p class="who">${md(s.title)}</p>`:'')+(it?`<p class="he" lang="he">${esc(it.he)}</p>${hxOf(it)}`:'')
    +(w||!it?`<p class="en"><i>${w||'This line is outside the daf\'s outline.'}</i></p>`:'')}
  else{const c=L.c[h.c],it=line(c.on);go(c.on);
   html=`<p class="who">${esc(c.who)}</p><p class="he" lang="he">${c.dh?`<b>${esc(c.dh)}</b> `:''}${esc(c.text)}</p>`
@@ -975,7 +992,7 @@ async function play(){if(!A)return;if(!aud.getAttribute('src'))await setEp(A.ep)
  try{await aud.play()}catch(e){$('aNote').textContent="The audio didn't start. Check your connection and press play again."}}
 function unskim(){skim.out=skim.text=false;$('backOut').hidden=$('backText').hidden=true;lastLine=null}
 // A daf comes on screen: offer its shiur, unless another daf's is playing (then it keeps playing).
-async function audioForDaf(d){const sync=await loadSync(d);if(D!==d)return;
+async function audioForDaf(d){const sync=HE?null:await loadSync(d);if(D!==d)return;
  S=sync&&sync.episodes&&sync.episodes.length?makeA(d,sync):null;
  if(A&&!aud.paused&&(!S||A.id!==S.id)){}               // another daf's shiur is playing: it keeps playing
  else if(A&&S&&A.id===S.id){A.tl=S.tl}                 // the same daf (another outline version): keep the place
@@ -1210,12 +1227,12 @@ async function runtimeDaf(t,n){const T=TR[t];
   supa('shiur_content',`tractate=${encodeURIComponent(inList(T.shiur))}&daf=in.(${n},${n}.5)&select=daf,final&order=daf`),
   pageIds()]);
  const seg=Object.fromEntries(rows.map(r=>[r.amud,typeof r.segments==='string'?JSON.parse(r.segments):r.segments]));
- const pool=around.flatMap(a=>(seg[a]||[]).map(s=>({l:`${a}.${s.n}`,he:s.he,en:s.en})));
+ const pool=around.flatMap(a=>(seg[a]||[]).map(s=>({l:`${a}.${s.n}`,he:s.he,en:s.en,hx:s.hx})));
  const order=Object.fromEntries(pool.map((p,i)=>[p.l,i])),hebToLabel={};
  pool.forEach(p=>{const k=normHe(p.he);if(!(k in hebToLabel))hebToLabel[k]=p.l});
  const next=around[around.length-1];
- const items=[...A.flatMap(a=>(seg[a]||[]).map(s=>({l:`${a}.${s.n}`,he:s.he,en:s.en}))),
-  ...(seg[next]||[]).slice(0,4).map(s=>({l:`${next}.${s.n}`,he:s.he,en:s.en,ctx:'Continues on the next daf'}))];
+ const items=[...A.flatMap(a=>(seg[a]||[]).map(s=>({l:`${a}.${s.n}`,he:s.he,en:s.en,hx:s.hx}))),
+  ...(seg[next]||[]).slice(0,4).map(s=>({l:`${next}.${s.n}`,he:s.he,en:s.en,hx:s.hx,ctx:'Continues on the next daf'}))];
  // one shiur per daf, or one per amud (N and N.5); Ta'anit has rows under two spellings
  const finals=[...new Map(sh.map(r=>[r.daf,r.final])).values()].filter(Boolean);
  const ids=pages[t]||{},images={};

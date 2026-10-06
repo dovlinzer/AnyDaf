@@ -1893,7 +1893,17 @@ rtl. The renderer lays out any outline with `lang: "he"` right to left (`dir="rt
 properties throughout, Hebrew interface words in `WORDS`, Frank Ruhl Libre and Assistant type),
 matches Hebrew key terms with the prefix letters ו ה ב ל מ ש כ, and skips a term after a Hebrew
 negation; `hebSageMatcher` matches sages' Hebrew names (רבי / ר'). Charts start from the right
-because the table is rtl. On the preview site it is "Chagigah 6 (HE)" (`chagigah_6@he=HE`;
+because the table is rtl. A daf whose outline is Hebrew is the Israeli version of the page (`HE` in app.html, body class
+`hemode`): the Gemara pane shows Sefaria's Hebrew Steinsaltz ("William Davidson Edition - Hebrew",
+CC BY-NC, credited under the text) in place of the English, with the switch reading
+א / א+ביאור / ביאור; the English shiur (text pane and audio) is hidden, though the outline keeps its
+shiur insights (author: outlines can and should include them). The Steinsaltz is saved for all of
+Shas by `build_daf_text.py --steinsaltz` as `hx` on each line of `daf_text` (Supabase and
+daf_text/*.json; raw copies in daf_text/steinsaltz/), one request per tractate; Sefaria spells
+this edition Eruvin and Chullin, and has none for Shekalim, Kinnim or Middot. It is numbered line
+for line with the Gemara; 98 amudim have one Gemara line it doesn't explain (a chapter's closing
+"hadran" line or an empty line), found by matching the Gemara words Steinsaltz quotes in bold
+(`skipped_line`). 81,484 lines in all. On the preview site it is "Chagigah 6 (HE)" (`chagigah_6@he=HE`;
 `Local.aids` reads the file for tag `he`). The site's own interface is still English. Next, once
 the author and an Israeli reader approve it: a Hebrew outline pass on 10 dafim (Batch, about $7–8;
 needs authorization).
