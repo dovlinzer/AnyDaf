@@ -1,0 +1,64 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s4",
+      "field": "chart",
+      "value": {
+        "caption": "The hundred-dinar cases: what was said, what happened, and the ruling",
+        "columns": [
+          "Case (his words)",
+          "What happened",
+          "Ruling",
+          "Why"
+        ],
+        "rows": [
+          [
+            "One dinar handed over (“With a hundred”)",
+            "He gives her one dinar",
+            "Betrothed; he completes the payment",
+            "The hundred is a condition (*al menat*), which takes effect now"
+          ],
+          [
+            "Counting out (“With a hundred”, read as “this hundred”)",
+            "He is counting; the last dinar is still in his hand",
+            "Either may retract",
+            "1. The whole sum is the betrothal money\n2. Rav Ashi: counting shows she expects all of it"
+          ],
+          [
+            "One short (“With this hundred”)",
+            "Ninety-nine dinars",
+            "Not betrothed",
+            "Not the hundred he named"
+          ],
+          [
+            "Copper dinar (“With this hundred”)",
+            "One copper coin she didn't notice (at night, or mixed in)",
+            "Not betrothed",
+            "Not the hundred he named"
+          ],
+          [
+            "Flawed dinar (“With this hundred”)",
+            "One worn silver dinar, spent with difficulty (Rav Pappa)",
+            "Betrothed; he must exchange it",
+            "Still a silver dinar"
+          ]
+        ],
+        "tones": [
+          [null, null, "ok", null],
+          [null, null, null, null],
+          [null, null, "no", null],
+          [null, null, "no", null],
+          [null, null, "ok", null]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the 'His words' column into the row label, which brings the chart to four columns. Rav Ashi's alternative reason is now item 2 of a numbered list in the counting row. Added tones for the rulings."
+    }
+  ],
+  "skipped": []
+}

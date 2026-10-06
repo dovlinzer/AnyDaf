@@ -1,0 +1,39 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s11",
+      "field": "chart",
+      "value": {
+        "caption": "Rashi and Tosafot: why *chalipin* cannot betroth a woman",
+        "columns": [
+          "",
+          "What one might have thought",
+          "What “less than a *perutah*” shows",
+          "Why *chalipin* fails"
+        ],
+        "rows": [
+          [
+            "Rashi",
+            "What acquires Ephron's field should acquire a woman",
+            "*Chalipin* by nature ignores value",
+            "*Genai*: it is demeaning to her (an argument about her dignity)"
+          ],
+          [
+            "Tosafot",
+            "*Chalipin* is a form of *kesef*",
+            "*Chalipin* works through the vessel, not its value",
+            "It isn't *kesef*, and only *kesef*, *shtar* and *bi'ah* betroth (an argument about legal classification)"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Cut the s11 chart from five columns to four by folding 'Kind of argument' into the 'Why chalipin fails' cell of each row. Rows, content and orientation are unchanged."
+    }
+  ],
+  "skipped": []
+}

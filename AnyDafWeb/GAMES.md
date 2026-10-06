@@ -34,6 +34,44 @@ Build these first, on one test daf:
 Still to do and already planned: **multiple-choice quizzes**. The plan is for the outline pass to
 write them (with section summaries) rather than a separate pass; see TODO.md.
 
+## Status (2026-10-05)
+
+Built: `renderer/games.{js,css}` (shared, `AnyDafGames.mount(el, {outline, keyTerms, sages, title}, {lang})`,
+scoped `.adg`; build_prototype.py inlines it) and a **Practice** pop-out in `prototype/app.html`
+(button under Options > Open, shown only when the daf has a playable game; works right to left).
+Games 1 (**Fill in the chart**: drag or tap-then-tap, wrong ones shake, at most 9 blanks per chart)
+and 2 (**Term match**: 6 pairs, term + Hebrew against `sense`, definition shown on each match) work
+on Chagigah 6 (English and Hebrew) and Bava Metzia 11. Nothing is stored. Game 4 (**Kosher or pasul**) built 2026-10-05: swipe/tap/arrow keys, rounds of 8. It quizzes only *short*
+verdict cells (7 words or fewer, tone ok/no from `chart.tones` or `cellTone`), prompt = row label + column
+header, buttons named by the chart's vocabulary (Acquires / Valid / Effective / Permitted, else Yes/No).
+Longer cells are explanations and their auto-read tone is unreliable. Available on 23 of the 73 site dafim
+(needs 4+ verdicts). Game 3 (**Who said it**) built the same day: rounds of 2-5 parties matched (drag/tap) to the position
+each holds in one chart column. A chart qualifies when every row label is a party (sage/school name) and the
+column's cells are short and all different; 3 rounds per play. Many rounds have only 2 parties (a coin flip),
+so it is easy. Game 5 not started. Games 1-4 deployed 2026-10-05 (index.html only; data files untouched).
+Cost: none; games are built in the browser from each daf's outline data. The only API cost is making
+outlines themselves (outline pass); guaranteeing games on every daf would mean the outline prompt writing
+explicit verdict/party items.
+Drag was verified with synthetic pointer events; the browser pane's own drag tool doesn't produce them.
+
+### Review feedback, 2026-10-05 (author): cards lacked context and used the wrong answer words
+
+Author found Who said it / Kosher or pasul confusing: a bare chart cell ("What carries over from the get",
+"Said 50, not worth 50", "Yes/No") doesn't say under what circumstances, and the Yes/No or
+Permitted/Forbidden buttons sometimes named the wrong pair. Each game card should communicate a whole idea.
+Done locally (same data, no API): every card shows the section trail and the chart's caption; Kosher uses
+"According to <sage>" or the case, then the column; answer buttons are named per item from the cell's own
+words, then its column heading, caption and section title (Betrothed / Not betrothed, Valid / Not valid,
+Acquired / Not acquired, Takes effect, Permitted / Forbidden, Divorced) and an item with no such pair is
+dropped, never Yes/No; cells that open with the verdict and then give a reason now count. Every game can
+send the reader to the section in the outline ("See it in the outline": after a miss, at the end of a
+round or chart, and a list of missed sections); a wrong Kosher answer now waits for the reader.
+Every game except Term match has ‹ › in its bar to skip to the preceding or following chart / round / case (Kosher keeps answers, so going back to re-answer is fine; skipped ones are counted at the end). Term match waits 2.4 s on a mismatch. Deployed 2026-10-05.
+**Still limited**: a chart cell is a fragment; "Said 50, not worth 50" is still cryptic without the
+Gemara's scenario. The real fix is the outline pass writing explicit practice items (scenario in full
+sentences, the answer pair, the section id) rather than the games scraping chart cells. That is an API
+cost (extra output per daf) and needs the author's go-ahead; the card layout already has the fields.
+
 ## Where each game's material comes from (no new API calls for 1–5)
 
 | Game | Source in each daf's data |

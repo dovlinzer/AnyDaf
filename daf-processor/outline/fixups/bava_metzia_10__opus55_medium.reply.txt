@@ -1,0 +1,43 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s8",
+      "field": "chart",
+      "value": {
+        "caption": "Rav Pappa and Rav Sheshet: where a person's *arba amot* acquire",
+        "columns": [
+          "",
+          "*Arba amot* acquire",
+          "*Arba amot* do not acquire",
+          "Why not there"
+        ],
+        "rows": [
+          [
+            "Rav Pappa (answering Pe'ah 4:3: the poor man fell on the *pe'ah*)",
+            "On public land",
+            "In a field belonging to an owner",
+            "The Torah let the poor man walk in the field and collect, not treat it as his *chatzer*"
+          ],
+          [
+            "Rav Sheshet (answering our Mishnah: he fell on a find)",
+            "In an alleyway, and at the sides of the public domain",
+            "In the public domain",
+            "The multitudes crowd there"
+          ]
+        ],
+        "tones": [
+          [null, "ok", "no", null],
+          [null, "ok", "no", null]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Cut the s8 chart from five columns to four. The objection each amora answers now sits in his row label. Added ok/no tones to the acquire and do-not-acquire columns. Content and orientation are unchanged."
+    }
+  ],
+  "skipped": []
+}

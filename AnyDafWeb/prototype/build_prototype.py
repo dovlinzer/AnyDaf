@@ -503,6 +503,8 @@ def main():
     html = (HERE / "app.html").read_text(encoding="utf-8")
     html = (html.replace("__TITLE__", "AnyDaf Study Outlines")
                 .replace("__RENDERER_CSS__", (r / "outline-renderer.css").read_text(encoding="utf-8"))
+                .replace("__GAMES_CSS__", (r / "games.css").read_text(encoding="utf-8"))
+                .replace("__GAMES_JS__", (r / "games.js").read_text(encoding="utf-8"))
                 .replace("__RENDERER_JS__", (r / "outline-renderer.js").read_text(encoding="utf-8"))
                 .replace("__SPRITE__", (DP / "outline" / "sprite.svg").read_text(encoding="utf-8"))
                 .replace("__DAFIM__", json.dumps(index, ensure_ascii=False))

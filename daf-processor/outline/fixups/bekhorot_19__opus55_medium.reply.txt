@@ -1,0 +1,39 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s5",
+      "field": "chart",
+      "value": {
+        "caption": "Two readings of the baraita",
+        "columns": [
+          "",
+          "Is a *bekhor le'davar echad* called a firstborn?",
+          "How the baraita's two clauses work",
+          "Outcome"
+        ],
+        "rows": [
+          [
+            "Abaye",
+            "No",
+            "1. First clause: \"that which opens any womb\" excludes a *yotzei dofen* itself, which \"firstborn\" cannot exclude because it was born first. A male after a female is excluded along with it.\n2. Last clause: \"firstborn\" excludes one born after a *yotzei dofen* by the word's own meaning.",
+            "Stands"
+          ],
+          [
+            "Ravina",
+            "Yes",
+            "1. First clause: \"that which opens any womb\" excludes a male born after a female.\n2. Last clause: \"firstborn\" is extra, so it excludes one born after a *yotzei dofen*.",
+            "Refuted by Rav Acha of Difti: the extra word cannot also exclude a male born after a female *yotzei dofen*"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the two clause columns into one cell per row as a numbered list (1. first clause, 2. last clause). The chart now has four columns, with the same content and the sages still on the rows."
+    }
+  ],
+  "skipped": []
+}

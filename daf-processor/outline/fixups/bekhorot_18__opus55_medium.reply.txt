@@ -1,0 +1,39 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s8",
+      "field": "chart",
+      "value": {
+        "caption": "Who holds the surviving animal, and who must prove?",
+        "columns": [
+          "",
+          "R. Chiyya's two parables (agreed by all)",
+          "Priest as shepherd in the owner's courtyard",
+          "Why"
+        ],
+        "rows": [
+          [
+            "R. Tarfon",
+            "1. Two depositors with a shepherd: they divide\n2. Deposit with a homeowner who has his own sheep: the claimant must prove",
+            "They divide",
+            "The owner transfers part of his courtyard to the priest"
+          ],
+          [
+            "R. Akiva",
+            "1. Two depositors with a shepherd: they divide\n2. Deposit with a homeowner who has his own sheep: the claimant must prove",
+            "The claimant (the priest) must prove",
+            "The owner, who stands to lose, transfers nothing"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the two parable columns into one numbered-list cell per row, which brings the chart to four columns. The content and the rows-as-parties orientation are unchanged."
+    }
+  ],
+  "skipped": []
+}

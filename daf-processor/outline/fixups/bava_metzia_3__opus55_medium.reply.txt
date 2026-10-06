@@ -1,0 +1,51 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s2",
+      "field": "chart",
+      "value": {
+        "caption": "The cases compared: what decides between dividing, setting aside, and paying both",
+        "columns": [
+          "Case",
+          "R. Yosi's tests:\n1. Certainly a swindler?\n2. Would setting it aside cost him?",
+          "The Rabbis' test: could a division be true?",
+          "Ruling"
+        ],
+        "rows": [
+          [
+            "Deposit of 100 and 200",
+            "1. Yes\n2. Yes, once his own 100 is held (R. Yosi)",
+            "No: the disputed 100 is one man's",
+            "Rabbis: the disputed 100 set aside · R. Yosi: all of it set aside"
+          ],
+          [
+            "Found garment",
+            "1. No: both may have lifted it together\n2. No: he paid nothing for it",
+            "Yes",
+            "Each swears, and they divide"
+          ],
+          [
+            "Bought garment",
+            "1. No\n2. Yes: both paid, so the loss answer fails here",
+            "Yes",
+            "Each swears, and they divide"
+          ],
+          [
+            "Storekeeper and laborer",
+            "1. Yes: one of them is lying\n2. Not the question: each deals only with the employer",
+            "No",
+            "Both swear and collect from the employer"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Cut the s2 chart to four columns by putting R. Yosi's two tests (certain swindler, cost to him) in one numbered cell per row. All content and the cases-on-rows orientation are kept."
+    }
+  ],
+  "skipped": []
+}

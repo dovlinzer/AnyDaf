@@ -1,0 +1,39 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s8",
+      "field": "chart",
+      "value": {
+        "caption": "Two readings of \"This is it\" (*ki hu zeh*)",
+        "columns": [
+          "",
+          "What the two words teach",
+          "Witnesses testify to part",
+          "Claimed wheat, admits barley"
+        ],
+        "rows": [
+          [
+            "R. Chiya",
+            "1. *Modeh be'miktzat* obligates an oath\n2. The admission must be of the same kind as the claim (*mi'min ha'ta'anah*)",
+            "Swears on the rest (his first *halakha*)",
+            "Exempt"
+          ],
+          [
+            "Father of R. Aptoriki",
+            "1. *Modeh be'miktzat* obligates an oath\n2. Testimony of witnesses does not obligate",
+            "Exempt",
+            "Swears, like Rabban Gamliel"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the two 'word teaches' columns into one numbered-list cell per sage, cutting the chart to four columns with the same content and orientation."
+    }
+  ],
+  "skipped": []
+}

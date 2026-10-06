@@ -440,5 +440,5 @@
     };
   }
 
-  global.AnyDafOutline = { render, glance, glossary, md, esc };
+  global.AnyDafOutline = { render, glance, glossary, md, esc, cellTone, RULING };
 })(typeof window !== "undefined" ? window : globalThis);

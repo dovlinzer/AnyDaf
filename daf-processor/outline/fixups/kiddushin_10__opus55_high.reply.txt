@@ -1,0 +1,45 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s13",
+      "field": "chart",
+      "value": {
+        "caption": "Three readings of R. Yehuda ben Beteira's *kal va'chomer*",
+        "columns": [
+          "Reading",
+          "The comparison",
+          "Level of law",
+          "Bearing on *bi'ah nisu'in osah*"
+        ],
+        "rows": [
+          [
+            "The Gemara's reading (neither with *chuppah*)",
+            "1. Maidservant: intercourse no · money yes\n2. Betrothed woman: intercourse alone obviously yes · money alone derived",
+            "Torah law",
+            "Intercourse is stronger than money only if it effects *nisu'in*"
+          ],
+          [
+            "Rav Nachman bar Yitzchak",
+            "1. Maidservant: intercourse, even with *chuppah*, no · money without *chuppah* yes\n2. Betrothed woman: intercourse with *chuppah* yes · money without *chuppah* derived",
+            "Torah law",
+            "No proof: the inference holds even with two stages against one"
+          ],
+          [
+            "Ravina",
+            "1. Maidservant: money yes, with no concern for *simpon*\n2. Betrothed woman: intercourse yes · money derived, without concern for *simpon*",
+            "Rabbinic law",
+            "No proof: ben Bag Bag already took the Torah-law point as obvious"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the Maidservant and Betrothed woman columns into one 'The comparison' cell per row, as a two-item numbered list. The chart now has four columns, with the same content and the readings still on the rows."
+    }
+  ],
+  "skipped": []
+}

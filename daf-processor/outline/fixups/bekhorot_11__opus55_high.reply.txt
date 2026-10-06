@@ -1,0 +1,39 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s8",
+      "field": "chart",
+      "value": {
+        "caption": "R. Yehuda and R. Shimon on the *peter chamor*, across the daf",
+        "columns": [
+          "",
+          "Before redemption",
+          "Redeeming with its value (Reish Lakish)",
+          "Donkey redeemed by another man, and the *kefel* baraita"
+        ],
+        "rows": [
+          [
+            "R. Yehuda",
+            "*Asur be'hana'ah*",
+            "Valid: no stricter than hekdesh, and the lamb is a leniency (Ravina)",
+            "1. The question arises; resolved that the owner keeps it\n2. The *kefel* baraita follows him: no rights now, rights after redemption"
+          ],
+          [
+            "R. Shimon",
+            "Permitted: the owner may work it or rent it out",
+            "Valid (Rav Acha's attribution)",
+            "1. No question: it was the owner's all along\n2. The *kefel* baraita can't be his: the owner has rights even now"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the 'redeemed by another man' and 'double-payment baraita' columns into one ownership column with a numbered list in each row. The chart now has four columns, with the same content and the parties still on the rows."
+    }
+  ],
+  "skipped": []
+}

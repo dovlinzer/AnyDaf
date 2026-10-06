@@ -1838,6 +1838,11 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   does: Drive loaded straight into <img> fails often). Such a daf says "No outline for this daf
   yet" and on a phone opens on the text side. The local test server (python http.server) can't
   run the function, so scans of those dafim show only on Vercel.
+- Daf to daf (2026-10-05): ‹ › by the daf page's amud pills turn the page an amud at a time and,
+  past this daf's own two amudim, load the neighbouring daf and open it on that amud (`amudStep`,
+  `crossDaf`, `landing`); the Gemara and shiur end with "Previous daf" / "Next daf" buttons
+  (`drawDafSteps`), and going back opens the previous daf at its end. `firstAmud` reads a section's
+  amud from its text anchor, since Hebrew outlines label amudim "ו.".
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).

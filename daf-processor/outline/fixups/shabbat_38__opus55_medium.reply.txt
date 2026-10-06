@@ -1,0 +1,43 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s2",
+      "field": "chart",
+      "value": {
+        "caption": "Two readings of R. Chiyya bar Abba's *ve'lo shena*",
+        "columns": [
+          "",
+          "Pot forgotten unwittingly",
+          "Pot left intentionally",
+          "Compared with cooking, and why"
+        ],
+        "rows": [
+          [
+            "Rabba and Rav Yosef",
+            "May eat",
+            "May eat",
+            "More lenient: leaving a pot is not an act, while cooking is"
+          ],
+          [
+            "Rav Nachman bar Yitzchak",
+            "May not eat",
+            "May not eat",
+            "More stringent: he might leave it on purpose and claim he forgot, so the Sages penalized him"
+          ]
+        ],
+        "tones": [
+          [null, "ok", "ok", null],
+          [null, "no", "no", null]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the 'how it compares' column into the reason column, which brings the chart to four columns with parties still on the rows, and added tones for the eat / may-not-eat cells."
+    }
+  ],
+  "skipped": []
+}

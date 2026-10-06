@@ -1,0 +1,83 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s1",
+      "field": "chart",
+      "value": {
+        "caption": "Rav Huna and Rav Yehuda on a guaranteed flock taken from a gentile",
+        "columns": [
+          "",
+          "Without *he'emid*",
+          "With *he'emid*",
+          "How each reads the texts raised against him"
+        ],
+        "rows": [
+          [
+            "Rav Huna",
+            "Offspring exempt; their offspring obligated",
+            "The offspring's offspring are exempt too",
+            "1. \"Even until ten generations\": refers to the *he'emid* case\n2. \"They and their offspring\": \"they\" are the original animals, so only their offspring are exempt"
+          ],
+          [
+            "Rav Yehuda",
+            "The offspring's offspring are also exempt; the third generation is obligated",
+            "Still only two generations: the Mishnah sets a ceiling",
+            "1. \"Even until ten generations\": extends the first tanna's two generations\n2. \"The offspring are exempt\": means the offspring and their offspring"
+          ]
+        ]
+      }
+    },
+    {
+      "op": "set",
+      "id": "s5",
+      "field": "chart",
+      "value": {
+        "caption": "Readings of the baraita in which R. Meir obligates and the Rabbis exempt",
+        "columns": [
+          "",
+          "Law at issue and case",
+          "R. Meir obligates because",
+          "The Rabbis exempt because"
+        ],
+        "rows": [
+          [
+            "Rabba (rejected)",
+            "*Oto ve'et beno*: a ewe bore a goat-like young; its father was a goat",
+            "Paternity counts",
+            "Paternity does not count"
+          ],
+          [
+            "First reading",
+            "Firstborn: a ewe born to a ewe born to a goat",
+            "Follow the mother",
+            "Follow the mother's mother"
+          ],
+          [
+            "Second reading",
+            "Firstborn: a ewe born to a goat born to a ewe",
+            "Its ovine nature was restored",
+            "Not restored; it is unlike its mother"
+          ],
+          [
+            "Rav Ashi",
+            "Firstborn: the young has some of its mother's features",
+            "Some features suffice (the Mishnah)",
+            "R. Shimon: head and most of the body must resemble her"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the two text-challenge columns (\"even ten generations\" and the Mishnah's wording) into one numbered-list column per amora, giving four columns."
+    },
+    {
+      "note": "c2",
+      "how": "Combined the \"Law at issue\" and \"Case\" columns into one cell per reading, giving four columns with the same rows and content."
+    }
+  ],
+  "skipped": []
+}

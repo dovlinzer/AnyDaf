@@ -1,0 +1,71 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s2",
+      "field": "chart",
+      "value": {
+        "caption": "The Mishnah: R. Tarfon and R. Akiva on the *yotzei dofen* and the one after it",
+        "columns": [
+          "",
+          "Status of the two animals",
+          "What is done with them",
+          "Underlying view (Gemara)"
+        ],
+        "rows": [
+          [
+            "R. Tarfon",
+            "1. The *yotzei dofen*: doubtful *bekhor*\n2. The one after it: doubtful *bekhor*",
+            "Both graze until blemished; then the owner eats them",
+            "Unsure whether a *bekhor le'davar echad* counts as a *bekhor*"
+          ],
+          [
+            "R. Akiva",
+            "1. The *yotzei dofen*: not a *bekhor*, since it did not open the womb\n2. The one after it: not a *bekhor*, since the other came before it",
+            "Neither is a *bekhor* at all",
+            "Obvious that a *bekhor le'davar echad* is not a *bekhor*"
+          ]
+        ]
+      }
+    },
+    {
+      "op": "set",
+      "id": "s5",
+      "field": "chart",
+      "value": {
+        "caption": "Abaye and Ravina: two ways to make the baraita consistent",
+        "columns": [
+          "",
+          "Is a *bekhor le'davar echad* called *bekhor*?",
+          "How the two clauses read",
+          "Outcome"
+        ],
+        "rows": [
+          [
+            "Abaye",
+            "No",
+            "1. First clause: about the *yotzei dofen* itself. \"Firstborn\" can't exclude it, since it was born first, so \"that which opens any womb\" is needed; that phrase also excludes a male after a female\n2. Last clause: \"firstborn\" excludes by its meaning, since the animal was not the very first born",
+            "The Gemara concludes the baraita follows him"
+          ],
+          [
+            "Ravina",
+            "Yes",
+            "1. First clause: as written, a male after a female is excluded by \"that which opens any womb\"\n2. Last clause: \"firstborn\" excludes by being superfluous, since \"that which opens any womb\" already excludes a male after a female",
+            "Rav Acha of Difti's challenge undoes it"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the two animal columns into one numbered 'Status of the two animals' cell, so the chart has four columns. Content and orientation are kept, and 'in one respect' is now written as *bekhor le'davar echad*."
+    },
+    {
+      "note": "c2",
+      "how": "Merged the first-clause and last-clause columns into one numbered 'How the two clauses read' cell, so the chart has four columns with the same rows and content."
+    }
+  ],
+  "skipped": []
+}

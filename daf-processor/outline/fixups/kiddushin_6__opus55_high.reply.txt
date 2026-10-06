@@ -1,0 +1,43 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s16",
+      "field": "chart",
+      "value": {
+        "caption": "Money or produce given 'on condition you return it': the two versions of Rava. In both, Rava's own etrog ruling counts such a gift as a gift.",
+        "columns": [
+          "",
+          "Sale · redeeming a firstborn",
+          "Betrothal",
+          "*Terumah*"
+        ],
+        "rows": [
+          [
+            "Rava as first reported",
+            "Not acquired · not redeemed",
+            "Not betrothed",
+            "Giving fulfilled, but forbidden to do so"
+          ],
+          [
+            "Rav Ashi (Rava's view per Rav Huna Mar)",
+            "Acquired · redeemed",
+            "Not betrothed: a woman is not acquired by *chalippin*",
+            "Giving fulfilled"
+          ]
+        ],
+        "tones": [
+          [null, "no", "no", null],
+          [null, "ok", "no", "ok"]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Cut the s16 chart to four columns. Sale and redeeming a firstborn now share one column, since they rule alike in both versions. The etrog, which is the same in both versions, moved into the caption. Versions stay on the rows, and the ruling cells have tones."
+    }
+  ],
+  "skipped": []
+}

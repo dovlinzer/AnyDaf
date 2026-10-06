@@ -1,0 +1,39 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s1",
+      "field": "chart",
+      "value": {
+        "caption": "Ravina vs. Rav Samma: why agency fails for a sin, and the two test cases",
+        "columns": [
+          "",
+          "Agency for a sin, and the *chatzer*",
+          "Priest sends an Israelite to betroth a divorcée",
+          "Man sends a woman to round a boy's head"
+        ],
+        "rows": [
+          [
+            "Ravina",
+            "1. Agency fails where the agent is bound by the prohibition and should have refused\n2. A *chatzer* is not bound by any prohibition",
+            "The Israelite is not bound: the priest is liable",
+            "The woman is not bound: the man is liable"
+          ],
+          [
+            "Rav Samma",
+            "1. Agency fails where the agent could have chosen not to act\n2. A *chatzer* acts without choice",
+            "The Israelite could refuse: the priest is not liable",
+            "The woman could refuse: the man is not liable"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Reduced the s1 chart from five columns to four. Each Sage's reason why agency fails for a sin and why a *chatzer* still works now share one cell as a numbered list. The two test cases stay as columns, with the Sages on the rows."
+    }
+  ],
+  "skipped": []
+}

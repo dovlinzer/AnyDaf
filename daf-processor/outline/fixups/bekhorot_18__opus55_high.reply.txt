@@ -1,0 +1,71 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s5",
+      "field": "chart",
+      "value": {
+        "caption": "*Matanot kehunah* from the lamb the owner keeps",
+        "columns": [
+          "",
+          "*Safek bekhor*, the priest holds a replacement",
+          "*Safek bekhor*, the priest got nothing (male and female)",
+          "Uncertain tithe animal"
+        ],
+        "rows": [
+          [
+            "R. Meir",
+            "Obligated: the priest comes from two sides, claiming the whole animal or at least the gifts",
+            "Obligated",
+            "Exempt (Rav Pappa)"
+          ],
+          [
+            "R. Yosei",
+            "Exempt: *asu she'eino zokheh ke'zokheh*, as if the priest acquired it and sold it back blemished",
+            "Obligated (R. Elazar)",
+            "Exempt (Rav Pappa)"
+          ]
+        ]
+      }
+    },
+    {
+      "op": "set",
+      "id": "s9",
+      "field": "chart",
+      "value": {
+        "caption": "When one animal has died: each view across the parables and the actual case",
+        "columns": [
+          "",
+          "R. Chiyya's parables",
+          "Priest shepherding in the owner's courtyard",
+          "Why"
+        ],
+        "rows": [
+          [
+            "R. Tarfon",
+            "1. Two sheep deposited with a shepherd: divide\n2. A sheep deposited with a homeowner: *ha'motzi me'chavero alav ha're'ayah*",
+            "Divide",
+            "The owner grants the priest a share of the courtyard so he can acquire the firstborn; he wants the mitzvah done"
+          ],
+          [
+            "R. Akiva",
+            "1. Two sheep deposited with a shepherd: divide\n2. A sheep deposited with a homeowner: *ha'motzi me'chavero alav ha're'ayah*",
+            "The survivor stays with the owner; the priest must bring proof",
+            "Facing a possible loss, the owner grants the priest nothing"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Cut the chart to four columns by folding each sage's reason into his ruling in the 'priest holds a replacement' cell, which is the case the reason explains. Rows and cases are unchanged."
+    },
+    {
+      "note": "c2",
+      "how": "Cut the chart to four columns by merging the two agreed parables into one numbered 'R. Chiyya's parables' cell per row. The courtyard case and its reasons stay in their own columns."
+    }
+  ],
+  "skipped": []
+}

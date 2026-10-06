@@ -1,0 +1,39 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s20",
+      "field": "chart",
+      "value": {
+        "caption": "Beit Shammai and Beit Hillel on the number of lights, with both amora'im's reasons",
+        "columns": [
+          "",
+          "Nights 1 to 8",
+          "The two amora'im's reasons",
+          "Elders in Sidon"
+        ],
+        "rows": [
+          [
+            "Beit Shammai",
+            "8, 7 ... 1",
+            "1. Incoming days: the days still to come\n2. The Festival bulls: 13 on the first day, one fewer each day",
+            "One elder practiced so, citing the Festival bulls"
+          ],
+          [
+            "Beit Hillel",
+            "1, 2 ... 8",
+            "1. Outgoing days: the days already observed\n2. *Ma'alin ba'kodesh ve'ein moridin*",
+            "The other practiced so, citing *ma'alin ba'kodesh*"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the 'First reason' and 'Second reason' columns into one numbered-list cell per school, so the chart now has four columns. Content and orientation are unchanged, with the schools on the rows."
+    }
+  ],
+  "skipped": []
+}

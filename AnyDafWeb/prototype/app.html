@@ -19,6 +19,9 @@ img{max-width:100%}
 .sprite{position:absolute;width:0;height:0;overflow:hidden}
 body{background:var(--ground);color:var(--ink);font:15px/1.55 var(--sans);display:flex;flex-direction:column;overflow:hidden}
 __RENDERER_CSS__
+__GAMES_CSS__
+#pwin{width:min(640px,calc(100vw - 32px));height:min(640px,calc(100% - 120px));right:72px;top:96px}
+#pwin .adg{flex:1}
 .bar{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--line);background:var(--panel)}
 .bar h1{font:600 1.25rem/1.2 var(--serif);margin:0 8px 0 0;white-space:nowrap}
 .bar h1 small{font:500 12px var(--sans);color:var(--muted);margin-left:8px;letter-spacing:.02em}
@@ -99,6 +102,11 @@ body.hemode #langSeg{direction:rtl}
 #pagePane{overflow:hidden}
 .pagebar{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center}
 .pagebar .folio{font:500 1.05rem var(--hebrew)}
+.amudnav{display:inline-flex;align-items:center;gap:4px}
+/* previous / next daf at the top and foot of the Gemara and shiur */
+.dafstep{display:flex;justify-content:center;margin:10px 0 18px}
+.dafstep button{font:500 13px var(--sans);border:1px solid var(--line);background:var(--panel);color:var(--blue);border-radius:999px;padding:6px 14px;cursor:pointer}
+.dafstep button:hover{border-color:var(--blue)}
 .pageimg{flex:1;min-height:0;border:1px solid var(--line);border-radius:4px;overflow:auto;background:#FFF;overscroll-behavior:contain;touch-action:none}
 .pageimg.pan{cursor:grab}.pageimg.pan.grabbing{cursor:grabbing}
 .pageimg img{-webkit-user-drag:none;user-select:none;pointer-events:none}
@@ -230,8 +238,9 @@ body.dragging{cursor:col-resize;user-select:none}
 /* the scrubber is a strip across the top of the panel, so the controls and Follow fit on one row */
 #aSeek{order:-1;flex:1 1 100%;margin:0;accent-color:var(--blue)}
 /* "Follow" sits inside its own switch, divided from the two choices, so it reads as their label */
-#aFollow{margin-left:10px;align-items:center}
-.afl{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);padding:0 9px 0 8px;margin-right:3px;border-right:1px solid var(--line);align-self:stretch;display:inline-flex;align-items:center}
+#aFollow{align-items:center}
+.adiv{align-self:stretch;width:1px;margin:2px 4px 2px auto;background:var(--audio-line);flex:none}
+.afl{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);padding:0 9px 0 8px;margin-right:0;align-self:stretch;display:inline-flex;align-items:center}
 .anote{flex-basis:100%;font-size:12px;color:var(--amber)}
 .anote:empty{display:none}
 .anote a,.anote button{font:inherit;color:var(--link);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline}
@@ -295,7 +304,7 @@ body.dragging{cursor:col-resize;user-select:none}
  .abar{gap:6px;padding:4px 10px calc(6px + env(safe-area-inset-bottom,0px))}
  #aSeek{order:-1;flex-basis:100%;margin:0}
  #aDur{display:none}
- #aFollow{margin-left:4px}.afl{padding:0 6px 0 5px}
+ #aFollow{margin-left:0}.afl{padding:0 6px 0 5px}
  .aplay{width:34px;height:34px}
  .askip{padding:4px 7px}
  #aFollow button{padding:5px 9px}
@@ -308,7 +317,7 @@ body.dragging{cursor:col-resize;user-select:none}
  #moreBtn{padding:5px 11px}
  .more{order:3;padding-top:6px}
  .more .grp+.grp{padding-left:0;border-left:0}
- .more .lay{display:none}
+ .more .layout{display:none}
  #sideBtn{display:none}
  .main,.main.textleft{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1fr)}
  .main[data-view="outline"] .gem{display:none}
@@ -369,8 +378,9 @@ __SPRITE__
   <div class="grp"><span class="gl">Open</span>
    <button class="btn" id="glossBtn" aria-pressed="false">Glossary</button>
    <button class="btn" id="sagesBtn" aria-pressed="false">Sages</button>
+   <button class="btn" id="practiceBtn" aria-pressed="false" hidden>Practice</button>
   </div>
-  <div class="grp lay"><span class="gl">Layout</span>
+  <div class="grp layout"><span class="gl">Layout</span>
    <button class="btn" id="railBtn" aria-pressed="false" title="Show the contents beside the outline (wide screens)">Contents</button>
    <button class="btn" id="sideBtn" type="button" aria-label="Move the text to the other side">⇄ Swap sides</button>
   </div>
@@ -399,7 +409,7 @@ __SPRITE__
   <div class="pane" id="textPane"><div class="text zoomable" id="text"></div></div>
   <div class="pane" id="shiurPane" hidden><div class="shiur zoomable" id="shiur"></div></div>
   <div class="pane" id="pagePane" hidden><div class="page">
-   <div class="pagebar"><span class="folio" id="folio"></span><div class="seg" id="amudSeg" role="group" aria-label="Amud"></div>
+   <div class="pagebar"><span class="folio" id="folio"></span><span class="amudnav"><button type="button" class="navb" id="amudPrev" aria-label="Previous amud" title="Previous amud">‹</button><div class="seg" id="amudSeg" role="group" aria-label="Amud"></div><button type="button" class="navb" id="amudNext" aria-label="Next amud" title="Next amud">›</button></span>
     <label class="tog"><input type="checkbox" id="layTog" checked> Highlight on the page</label><span class="laynote" id="layNote"></span></div>
    <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg></div></div>
    <div class="pagepop" id="pagePop" hidden role="status"></div>
@@ -418,6 +428,7 @@ __SPRITE__
  <span class="atime" id="aDur"></span>
  <div class="seg" id="aEp" role="group" aria-label="Shiur" hidden></div>
  <button class="askip" id="aRate" type="button" aria-label="Playback speed" title="Playback speed">1×</button>
+ <span class="adiv" aria-hidden="true"></span>
  <div class="seg" id="aFollow" role="group" aria-label="While the audio plays, follow it in"><span class="afl" aria-hidden="true">Follow</span>
   <button type="button" data-f="out" title="The outline moves to the section being taught">Outline</button><button type="button" data-f="text" title="The Gemara, shiur or daf page moves to the line being read">Text</button></div>
  <span class="anote" id="aNote" aria-live="polite"></span>
@@ -436,6 +447,10 @@ __SPRITE__
  <div class="stl" id="stl"></div>
  <div class="sgrip" id="sgrip" role="separator" aria-orientation="horizontal" aria-label="Resize the timeline" title="Drag to show more or less of the timeline · double-click to reset"></div>
  <div class="slist" id="slist"></div>
+</div>
+<div class="gwin" id="pwin" hidden role="dialog" aria-labelledby="pwinTitle">
+ <header id="pwinBar"><h2 id="pwinTitle">Practice</h2><button type="button" id="pwinClose" aria-label="Close practice">×</button></header>
+ <div id="pgames"></div>
 </div>
 <div class="gwin" id="rwin" hidden role="dialog" aria-labelledby="rwinTitle">
  <header id="rwinBar"><h2 id="rwinTitle">Resources</h2><button type="button" id="rwinClose" aria-label="Close resources">×</button></header>
@@ -467,6 +482,7 @@ __SPRITE__
  <p class="fine" id="fbFine"></p>
 </dialog>
 <script>__RENDERER_JS__</script>
+<script>__GAMES_JS__</script>
 <script>
 const DAFIM=__DAFIM__;
 const $=id=>document.getElementById(id);
@@ -480,7 +496,8 @@ let D=null,view=null,railView=null,secs=[],itemEls=[],itemOrd=[],quoteEls=[],glo
 let textHold=0,outHold=0,raf=0;
 
 // Section -> first amud it covers ("37b–38a" -> 37b); used when a section has no line anchors.
-const firstAmud=s=>(String(s.amud||'').match(/\d+[ab]/)||[''])[0];
+// a section's first amud, from its text anchor ("6a.8"); Hebrew outlines label amudim "ו."
+const firstAmud=s=>(s.from&&String(s.from).split('.')[0])||(String(s.amud||'').match(/\d+[ab]/)||[''])[0];
 
 // A daf with a Hebrew outline is the Israeli version: the Gemara with Steinsaltz's Hebrew
 // explanation in place of the English, and no English shiur (text or audio).
@@ -539,13 +556,48 @@ function renderDaf(d){
  // Page images
  $('amudSeg').innerHTML=d.amudim.filter(a=>d.images[a]).map(a=>`<button data-a="${esc(a)}">${esc(d.amudHe[a]||a)}</button>`).join('');
  $('amudSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>showAmud(b.dataset.a,true));
- amudShown=null;showAmud(d.amudim.find(a=>d.images[a]));
+ amudShown=null;
+ const land=landing;landing=null;
+ const landAmud=land&&(d.images[land.amud]?land.amud:land.dir<0?[...d.amudim].reverse().find(a=>d.images[a]&&+a.slice(0,-1)===navAt.n):null);
+ showAmud(landAmud||d.amudim.find(a=>d.images[a]));
  outPane.scrollTop=0;textPane.scrollTop=0;shiurPane.scrollTop=0;
  renderSages(d.sages||[]);$('sagesBtn').hidden=!(d.sages||[]).length;
+ if(games){games.destroy();games=null}
+ if(d.outline){games=AnyDafGames.mount($('pgames'),{outline:d.outline,keyTerms:terms,sages:d.sages,title:d.title},{lang:he?'he':'en',onReview:id=>{if(narrow.matches){setPractice(false);setView('outline')}setCurrent(id,true)}});
+  $('pwinTitle').textContent=he?'תרגול':'Practice'}
+ $('practiceBtn').hidden=!(games&&games.hasGames);if($('practiceBtn').hidden){$('pwin').hidden=true}
  countResources();if(!$('rwin').hidden)showResources();
  lastLine=null;audioForDaf(d);
- if(secs.length)setCurrent(secs[0].id);
+ if(secs.length){
+  // arriving from the next daf (an arrow or "Previous daf"): open at the end, not the beginning
+  const s=land&&land.dir<0?(landAmud?[...secs].reverse().find(x=>x.am===landAmud):null)||secs[secs.length-1]
+         :land&&landAmud?secs.find(x=>x.am===landAmud)||secs[0]:secs[0];
+  setCurrent(s.id)}
+ if(land&&land.dir<0&&land.from!=='page')setTimeout(()=>{const p=mode==='shiur'?shiurPane:textPane;textHold=Date.now()+1500;p.scrollTo({top:p.scrollHeight,behavior:'auto'})},80);
+ drawDafSteps();
 }
+
+// ---------- moving past the daf: arrows on the page, buttons at the top and foot of the text ----------
+let landing=null;   // {dir, amud, from}: where to open the daf being loaded
+function neighborDaf(s){const i=TRACTATES.findIndex(t=>t.name===navAt.t),ds=dafsOf(TR[navAt.t]),n=navAt.n+s;
+ if(n<ds[0])return i>0?{t:TRACTATES[i-1].name,n:parseInt(TRACTATES[i-1].last,10)}:null;
+ if(n>ds[ds.length-1])return i<TRACTATES.length-1?{t:TRACTATES[i+1].name,n:parseInt(TRACTATES[i+1].first,10)}:null;
+ return {t:navAt.t,n}}
+const adjAmud=(a,s)=>s>0?(a.endsWith('a')?a.slice(0,-1)+'b':`${+a.slice(0,-1)+1}a`):(a.endsWith('b')?a.slice(0,-1)+'a':`${+a.slice(0,-1)-1}b`);
+function crossDaf(s,amud,from){const nb=neighborDaf(s);if(!nb)return;
+ landing={dir:s,from,amud:amud&&+amud.slice(0,-1)===nb.n&&nb.t===navAt.t?amud:(s>0?`${nb.n}a`:`${nb.n}b`)};
+ goDaf(nb.t,nb.n)}
+function amudStep(s){if(!D||!amudShown)return;const t=adjAmud(amudShown,s);
+ if(+t.slice(0,-1)===navAt.n&&D.images[t])showAmud(t,true);   // still this daf: just turn the page
+ else crossDaf(s,t,'page')}                                   // past it: load the neighbouring daf there
+$('amudPrev').onclick=()=>amudStep(-1);$('amudNext').onclick=()=>amudStep(1);
+function drawDafSteps(){
+ const lab=(s,nb)=>HE?(s<0?'› הדף הקודם':'הדף הבא ‹'):(s<0?`‹ Previous daf · ${nb.t} ${nb.n}`:`Next daf · ${nb.t} ${nb.n} ›`);
+ const btn=s=>{const nb=neighborDaf(s);return nb?`<div class="dafstep"><button type="button" data-step="${s}">${esc(lab(s,nb))}</button></div>`:''};
+ ['text','shiur'].forEach(id=>{const el=$(id);el.querySelectorAll(':scope > .dafstep').forEach(x=>x.remove());
+  if(id==='shiur'&&!D.shiur.length)return;
+  el.insertAdjacentHTML('afterbegin',btn(-1));el.insertAdjacentHTML('beforeend',btn(1))})}
+['text','shiur'].forEach(id=>$(id).addEventListener('click',e=>{const b=e.target.closest('.dafstep button');if(b)crossDaf(+b.dataset.step,null,id)}));
 
 function showAmud(a,manual){
  if(!a||!D.images[a]||a===amudShown)return;amudShown=a;
@@ -756,6 +808,11 @@ $('railBtn').onclick=()=>setRail(!$('main').classList.contains('rail'));
 function setSide(left){$('main').classList.toggle('textleft',left);document.body.classList.toggle('textleft',left);prefs.left=left;savePrefs()}
 $('sideBtn').onclick=()=>setSide(!$('main').classList.contains('textleft'));
 
+// ---------- practice (games) pop-out ----------
+let games=null;
+function setPractice(open){$('pwin').hidden=!open;$('practiceBtn').setAttribute('aria-pressed',String(open));if(open)front($('pwin'))}
+$('practiceBtn').onclick=()=>setPractice($('pwin').hidden);
+$('pwinClose').onclick=()=>setPractice(false);
 // ---------- glossary pop-out ----------
 function openGloss(i){$('gwin').hidden=false;$('glossBtn').setAttribute('aria-pressed','true');if(i!=null&&gloss)gloss.focus(i)}
 $('terms').onclick=e=>{const b=e.target.closest('[data-t]');if(b)openGloss(+b.dataset.t)};
@@ -765,7 +822,7 @@ $('gq').oninput=e=>gloss&&gloss.filter(e.target.value);
 function setGOrder(o){prefs.gOrder=o;savePrefs();document.querySelectorAll('#gOrder button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.o===o)));gloss&&gloss.setOrder(o)}
 $('gOrder').onclick=e=>{const b=e.target.closest('[data-o]');if(b)setGOrder(b.dataset.o)};
 if(prefs.gOrder)document.querySelectorAll('#gOrder button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.o===prefs.gOrder)));
-[['gwin','gwinBar'],['swin','swinBar'],['rwin','rwinBar']].forEach(([wid,hid])=>{const w=$(wid),h=$(hid);let s=null;
+[['gwin','gwinBar'],['swin','swinBar'],['rwin','rwinBar'],['pwin','pwinBar']].forEach(([wid,hid])=>{const w=$(wid),h=$(hid);let s=null;
  h.addEventListener('pointerdown',e=>{if(e.target.closest('button')||matchMedia('(max-width:860px)').matches)return;const r=w.getBoundingClientRect();s={x:e.clientX-r.left,y:e.clientY-r.top};h.setPointerCapture(e.pointerId)});
  h.addEventListener('pointermove',e=>{if(!s)return;w.style.left=Math.max(0,Math.min(innerWidth-80,e.clientX-s.x))+'px';w.style.top=Math.max(0,Math.min(innerHeight-40,e.clientY-s.y))+'px';w.style.right='auto'});
  h.addEventListener('pointerup',()=>s=null)});
@@ -861,7 +918,7 @@ $('sagesBtn').onclick=()=>{const open=$('swin').hidden;$('swin').hidden=!open;$(
 $('swinClose').onclick=()=>{$('swin').hidden=true;$('sagesBtn').setAttribute('aria-pressed','false')};
 // The last window touched sits on top.
 let zTop=20;function front(w){w.style.zIndex=++zTop}
-['gwin','swin'].forEach(id=>$(id).addEventListener('pointerdown',()=>front($(id))));
+['gwin','swin','pwin'].forEach(id=>$(id).addEventListener('pointerdown',()=>front($(id))));
 
 
 

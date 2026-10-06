@@ -1,0 +1,83 @@
+{
+  "ops": [
+    {
+      "op": "set",
+      "id": "s6",
+      "field": "chart",
+      "value": {
+        "caption": "The baraita on a *nidmeh*: R. Meir vs. the Rabbis under each proposed case",
+        "columns": [
+          "",
+          "Ewe bore goat-like young, father a goat (Rabba; rejected)",
+          "Three-generation lines:\n1. Ewe born to a ewe born to a goat\n2. Ewe born to a goat born to a ewe",
+          "Young with some of its mother's features (Rav Ashi)"
+        ],
+        "rows": [
+          [
+            "R. Meir",
+            "Concern for paternity: *oto ve'et beno* applies with the father",
+            "1. Follow the mother: it resembles her, so the *bekhor* law applies\n2. The ovine nature was restored: the *bekhor* law applies",
+            "Some features suffice: the *bekhor* law applies (as in the Mishnah)"
+          ],
+          [
+            "The Rabbis",
+            "No concern for paternity",
+            "1. Follow the mother's mother: a *nidmeh*, exempt\n2. Not restored; unlike its mother: exempt",
+            "R. Shimon: head and most of the body must resemble the mother"
+          ]
+        ]
+      }
+    },
+    {
+      "op": "set",
+      "id": "s12",
+      "field": "chart",
+      "value": {
+        "caption": "\"Just as ... has not changed\": the series of rulings on unchanged material",
+        "columns": [
+          "",
+          "Law",
+          "Verse and benchmark",
+          "Ruling"
+        ],
+        "rows": [
+          [
+            "R. Acha bar Yaakov",
+            "*Kilayim* of wool and linen",
+            "Devarim 22:11: linen has not changed",
+            "No flogging for wool of a *nidmeh* with linen"
+          ],
+          [
+            "Rav Pappa",
+            "*Tekhelet* of *tzitzit*",
+            "Devarim 22:11–12: linen has not changed",
+            "Wool of a *nidmeh* is unfit as *tekhelet*"
+          ],
+          [
+            "Rav Nachman bar Yitzchak",
+            "*Nega'im* in garments",
+            "Vayikra 13:47: linen has not changed",
+            "Wool of a *nidmeh* does not become impure"
+          ],
+          [
+            "Rav Ashi",
+            "Libations",
+            "Vayikra 23:37: the offering has not changed",
+            "Wine of a vine trellised on a fig is unfit"
+          ]
+        ]
+      }
+    }
+  ],
+  "done": [
+    {
+      "note": "c1",
+      "how": "Merged the two three-generation cases into one column as a numbered list, so the chart has four columns with the same content and parties still on the rows."
+    },
+    {
+      "note": "c2",
+      "how": "Combined the Verse and Benchmark columns into one \"Verse and benchmark\" column, so the chart has four columns with the same content and amora'im still on the rows."
+    }
+  ],
+  "skipped": []
+}
