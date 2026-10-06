@@ -20,11 +20,11 @@ img{max-width:100%}
 body{background:var(--ground);color:var(--ink);font:15px/1.55 var(--sans);display:flex;flex-direction:column;overflow:hidden}
 __RENDERER_CSS__
 __GAMES_CSS__
-#pwin{width:min(640px,calc(100vw - 32px));height:min(640px,calc(100% - 120px));right:72px;top:96px}
+#pwin{width:min(640px,calc(100vw - 32px));height:min(640px,calc(100% - 120px));inset-inline-end:72px;top:96px}
 #pwin .adg{flex:1}
 .bar{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--line);background:var(--panel)}
-.bar h1{font:600 1.25rem/1.2 var(--serif);margin:0 8px 0 0;white-space:nowrap}
-.bar h1 small{font:500 12px var(--sans);color:var(--muted);margin-left:8px;letter-spacing:.02em}
+.bar h1{font:600 1.25rem/1.2 var(--serif);margin:0;margin-inline-end:8px;white-space:nowrap}
+.bar h1 small{font:500 12px var(--sans);color:var(--muted);margin-inline-start:8px;letter-spacing:.02em}
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;background:var(--ground);padding:2px}
 .seg button{font:500 12.5px var(--sans);border:0;background:none;color:var(--muted);padding:5px 11px;border-radius:999px;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--blue);color:var(--panel)}
@@ -41,34 +41,34 @@ button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-o
    column), both set by dragging the dividers. */
 .main{--gemw:46%;--railw:230px;flex:1;min-height:0;display:grid;grid-template-columns:minmax(0,1fr) var(--gemw)}
 .main.textleft{grid-template-columns:var(--gemw) minmax(0,1fr)}
-.main.textleft .gem{order:-1;border-left:0;border-right:1px solid var(--line)}
+.main.textleft .gem{order:-1;border-inline-start:0;border-inline-end:1px solid var(--line)}
 /* "At a glance" in its own column on wide screens, so it stays in view; inline at the top of the
    outline otherwise. It sits on the outline's outer side, whichever side the text pane is on. */
-.railp{display:none;overflow-y:auto;min-height:0;border-right:1px solid var(--line);background:var(--panel);padding:14px 12px 30px;overscroll-behavior:contain}
+.railp{display:none;overflow-y:auto;min-height:0;border-inline-end:1px solid var(--line);background:var(--panel);padding:14px 12px 30px;overscroll-behavior:contain}
 @media (min-width:1100px){
  .main.rail{grid-template-columns:var(--railw) minmax(0,1fr) var(--gemw)}
  .main.rail.textleft{grid-template-columns:var(--gemw) minmax(0,1fr) var(--railw)}
  .main.rail .railp{display:block}
- .main.rail.textleft .railp{order:1;border-right:0;border-left:1px solid var(--line)}
+ .main.rail.textleft .railp{order:1;border-inline-end:0;border-inline-start:1px solid var(--line)}
  .main.rail #outline .ado-glance{display:none}
 }
 .pane{overflow-y:auto;min-height:0;overscroll-behavior:contain;position:relative}
 .out{padding:18px 28px 40vh}
 .terms{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:0 0 6px;padding-bottom:14px;border-bottom:1px solid var(--line)}
-.terms .lbl{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-right:4px}
+.terms .lbl{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-inline-end:4px}
 .terms button{font:500 13px var(--sans);background:var(--term);color:var(--ink);border:0;border-radius:999px;padding:3px 10px;cursor:pointer}
-.terms button span{font-family:var(--hebrew);margin-left:6px;color:var(--muted)}
+.terms button span{font-family:var(--hebrew);margin-inline-start:6px;color:var(--muted)}
 #outZoom[dir="rtl"] .terms .lbl{margin:0 0 0 4px;letter-spacing:0;font-size:12.5px}
 #outZoom[dir="rtl"] .terms button{font:500 14px "Assistant","Arial Hebrew",Arial,sans-serif}
-.gem{border-left:1px solid var(--line);background:var(--panel);display:flex;flex-direction:column;min-height:0}
+.gem{border-inline-start:1px solid var(--line);background:var(--panel);display:flex;flex-direction:column;min-height:0}
 .gemhead{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;padding:10px 18px;border-bottom:1px solid var(--line)}
 .now{flex-basis:100%;font-size:12.5px;color:var(--muted);min-height:1.4em}
 .now b{color:var(--ink);font-weight:600}
 .now code{font:500 11.5px var(--sans);font-variant-numeric:tabular-nums;color:var(--blue)}
 .text{padding:8px 18px 40vh}
-.item{display:grid;grid-template-columns:minmax(0,1fr);gap:0 10px;padding:10px 8px;border-radius:6px;cursor:pointer;border-left:3px solid transparent;scroll-margin-top:8px}
+.item{display:grid;grid-template-columns:minmax(0,1fr);gap:0 10px;padding:10px 8px;border-radius:6px;cursor:pointer;border-inline-start:3px solid transparent;scroll-margin-top:8px}
 .item:hover{background:var(--grey-soft)}
-.item.in{background:var(--range);border-left-color:var(--range-edge)}
+.item.in{background:var(--range);border-inline-start-color:var(--range-edge)}
 .item.ctx{opacity:.55}
 .item .lab,.quote .q-lab{display:none}
 .item .he{font:400 1.12rem/1.75 var(--hebrew);direction:rtl;text-align:right;margin:0}
@@ -90,8 +90,8 @@ body.hemode #langSeg{direction:rtl}
 .shiur p{margin:8px 0}
 .shiur hr{border:0;border-top:1px solid var(--line);margin:22px 0}
 .shiur .amudbreak{padding-inline:0}
-.quote{margin:10px 0;padding:8px 12px;border-left:3px solid var(--line);background:var(--ground);border-radius:0 6px 6px 0;cursor:pointer}
-.quote.in{border-left-color:var(--range-edge);background:var(--range)}
+.quote{margin:10px 0;padding:8px 12px;border-inline-start:3px solid var(--line);background:var(--ground);border-start-end-radius:6px;border-end-end-radius:6px;cursor:pointer}
+.quote.in{border-inline-start-color:var(--range-edge);background:var(--range)}
 .quote .q-he{font:400 1.08rem/1.75 var(--hebrew);direction:rtl;text-align:right;margin:4px 0}
 .quote .q-en{font-size:14px;color:var(--muted);margin:2px 0 6px}
 .quote .q-en b{color:var(--ink);font-weight:600}
@@ -124,8 +124,8 @@ body.hemode #langSeg{direction:rtl}
 .lay .c.sel{fill:rgba(154,98,18,.3)}
 .lay.off{display:none}
 .pagebar .laynote{font-size:12px;color:var(--amber)}
-.pagepop{position:relative;border:1px solid var(--line);border-radius:6px;background:var(--panel);box-shadow:var(--shadow);padding:10px 34px 10px 12px;max-height:38%;overflow:auto;font-size:14px}
-.pagepop .x{position:absolute;top:4px;right:6px;border:0;background:none;font-size:18px;color:var(--muted);cursor:pointer;padding:2px 6px}
+.pagepop{position:relative;border:1px solid var(--line);border-radius:6px;background:var(--panel);box-shadow:var(--shadow);padding:10px 12px;padding-inline-end:34px;max-height:38%;overflow:auto;font-size:14px}
+.pagepop .x{position:absolute;top:4px;inset-inline-end:6px;border:0;background:none;font-size:18px;color:var(--muted);cursor:pointer;padding:2px 6px}
 .pagepop .who{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 4px}
 .pagepop .he{font:400 1.08rem/1.7 var(--hebrew);direction:rtl;text-align:right;margin:2px 0}
 .pagepop .en{color:var(--muted);margin:4px 0 0}
@@ -142,8 +142,8 @@ body.hemode #langSeg{direction:rtl}
 .gutter{position:absolute;top:0;bottom:0;width:9px;z-index:4;cursor:col-resize;touch-action:none}
 .gutter::after{content:"";position:absolute;top:0;bottom:0;left:4px;width:1px;background:transparent;transition:background .15s}
 .gutter:hover::after,.gutter.drag::after{background:var(--blue);width:2px}
-.g-gem{right:-5px}.g-rail{left:-5px}
-.main.textleft .g-gem{right:auto;left:-5px}.main.textleft .g-rail{left:auto;right:-5px}
+.g-gem{inset-inline-end:-5px}.g-rail{inset-inline-start:-5px}
+.main.textleft .g-gem{inset-inline-end:auto;inset-inline-start:-5px}.main.textleft .g-rail{inset-inline-start:auto;inset-inline-end:-5px}
 .g-rail{display:none}
 @media (min-width:1100px){.main.rail .g-rail{display:block}}
 body.dragging{cursor:col-resize;user-select:none}
@@ -167,8 +167,8 @@ body.dragging{cursor:col-resize;user-select:none}
 .approx{display:block;font-size:12px;color:var(--amber);margin-top:2px}
 .loading{padding:40px 28px;color:var(--muted)}
 .credit{font-size:11.5px;color:var(--muted);padding:14px 8px 0}
-.gwin{position:fixed;z-index:20;right:24px;top:84px;width:min(380px,calc(100vw - 32px));height:min(560px,calc(100% - 120px));background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);display:flex;flex-direction:column;resize:both;overflow:hidden;min-width:260px;min-height:220px}
-.gwin header{display:flex;align-items:center;gap:8px;padding:8px 8px 8px 14px;border-bottom:1px solid var(--line);cursor:move;user-select:none;touch-action:none}
+.gwin{position:fixed;z-index:20;inset-inline-end:24px;top:84px;width:min(380px,calc(100vw - 32px));height:min(560px,calc(100% - 120px));background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);display:flex;flex-direction:column;resize:both;overflow:hidden;min-width:260px;min-height:220px}
+.gwin header{display:flex;align-items:center;gap:8px;padding:8px;padding-inline-start:14px;border-bottom:1px solid var(--line);cursor:move;user-select:none;touch-action:none}
 .gwin header h2{font:600 13px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin:0;flex:1}
 .gwin header button{font:500 18px/1 var(--sans);border:0;background:none;color:var(--muted);width:28px;height:28px;border-radius:6px;cursor:pointer}
 .gwin header button:hover{background:var(--grey-soft)}
@@ -177,33 +177,33 @@ body.dragging{cursor:col-resize;user-select:none}
 .gwin input{width:100%;box-sizing:border-box;font:14px var(--sans);padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--ground);color:var(--ink)}
 .gwin .glist{overflow-y:auto;padding:0 14px 14px;flex:1}
 /* sages pop-out */
-#swin{width:min(560px,calc(100vw - 32px));height:min(640px,calc(100% - 120px));right:48px;top:108px}
+#swin{width:min(560px,calc(100vw - 32px));height:min(640px,calc(100% - 120px));inset-inline-end:48px;top:108px}
 .swtools{display:flex;align-items:center;gap:10px;padding:8px 14px;border-bottom:1px solid var(--line);font-size:12px;color:var(--muted)}
 .slist{overflow-y:auto;flex:1;padding:0 14px 14px}
 /* the timeline stays put above the cards, with its own scrolling */
-.stl{flex:0 0 auto;max-height:42%;overflow:auto;padding:8px 14px 6px 0;border-bottom:1px solid var(--line);position:relative}
+.stl{flex:0 0 auto;max-height:42%;overflow:auto;padding:8px 0 6px;padding-inline-end:14px;border-bottom:1px solid var(--line);position:relative}
 .stl:empty,.stl:empty+.sgrip{display:none}
 .stl.sized{max-height:none}
 .sgrip{flex:0 0 auto;height:9px;cursor:row-resize;touch-action:none;position:relative;margin-top:-5px;z-index:1}
 .sgrip::after{content:"";position:absolute;left:50%;top:3px;width:36px;height:3px;margin-left:-18px;border-radius:2px;background:var(--line)}
 .sgrip:hover::after,.sgrip.drag::after{background:var(--blue)}
-#swin.big{width:min(1180px,calc(100vw - 32px));height:calc(100% - 96px);left:16px;right:auto;top:80px}
-#swin::after{content:"";position:absolute;right:3px;bottom:3px;width:10px;height:10px;border-right:2px solid var(--line);border-bottom:2px solid var(--line);pointer-events:none}
+#swin.big{width:min(1180px,calc(100vw - 32px));height:calc(100% - 96px);inset-inline-start:16px;inset-inline-end:auto;top:80px}
+#swin::after{content:"";position:absolute;inset-inline-end:3px;bottom:3px;width:10px;height:10px;border-inline-end:2px solid var(--line);border-bottom:2px solid var(--line);pointer-events:none}
 .tlg button.on{background:var(--blue);color:var(--panel)}
 /* the Eretz Yisrael / Bavel labels stay in view while the timeline scrolls sideways */
 /* no padding on the scroller's left, so the pinned labels reach the panel's edge; the labels
    carry the indent themselves */
-.tlg .rh,.tlg .corner{position:sticky;left:0;background:var(--panel);z-index:1;padding-left:14px}
-.tlnote{padding-left:14px}
-.tlnote{font-size:11px;color:var(--muted);margin:4px 0 0;position:sticky;left:0}
+.tlg .rh,.tlg .corner{position:sticky;inset-inline-start:0;background:var(--panel);z-index:1;padding-inline-start:14px}
+.tlnote{padding-inline-start:14px}
+.tlnote{font-size:11px;color:var(--muted);margin:4px 0 0;position:sticky;inset-inline-start:0}
 .tlg{display:grid;grid-template-columns:calc(5.2rem + 14px) repeat(14,minmax(58px,1fr));min-width:880px;font-size:11px}
-.tlg>div{border-left:1px solid var(--line);padding:3px 3px;display:flex;flex-direction:column;gap:2px;align-items:flex-start}
-.tlg .hd{font:600 10.5px var(--sans);color:var(--muted);letter-spacing:.04em;border-left-color:transparent;padding-bottom:4px}
-.tlg .hd.era{grid-column:span 6;border-left:1px solid var(--line);text-transform:uppercase}
+.tlg>div{border-inline-start:1px solid var(--line);padding:3px 3px;display:flex;flex-direction:column;gap:2px;align-items:flex-start}
+.tlg .hd{font:600 10.5px var(--sans);color:var(--muted);letter-spacing:.04em;border-inline-start-color:transparent;padding-bottom:4px}
+.tlg .hd.era{grid-column:span 6;border-inline-start:1px solid var(--line);text-transform:uppercase}
 .tlg .hd.era.am{grid-column:span 8}
-.tlg .rh{font:600 10.5px var(--sans);color:var(--muted);text-transform:uppercase;letter-spacing:.04em;border-left:0;justify-content:center}
+.tlg .rh{font:600 10.5px var(--sans);color:var(--muted);text-transform:uppercase;letter-spacing:.04em;border-inline-start:0;justify-content:center}
 .tlg .row2{border-top:1px dashed var(--line)}
-.tlg button{font:500 11px/1.25 var(--sans);text-align:left;border:0;border-radius:4px;padding:1px 5px;background:var(--term);color:var(--ink);cursor:pointer;max-width:100%}
+.tlg button{font:500 11px/1.25 var(--sans);text-align:start;border:0;border-radius:4px;padding:1px 5px;background:var(--term);color:var(--ink);cursor:pointer;max-width:100%}
 .tlg button.moved{background:var(--amber-soft)}
 .tlg button:hover{outline:1px solid var(--blue)}
 .sage{padding:12px 4px 14px;border-top:1px solid var(--line);scroll-margin-top:6px;border-radius:4px}
@@ -216,12 +216,12 @@ body.dragging{cursor:col-resize;user-select:none}
 .sage .guess{font-size:12px;color:var(--amber);margin:3px 0 0}
 .sage .row{display:flex;flex-wrap:wrap;gap:5px;align-items:baseline;margin-top:7px;font-size:12.5px}
 .sage .row>span:first-child{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);min-width:4.8rem}
-.sage .row button{font:500 12px var(--sans);text-align:left;border:0;border-radius:999px;padding:2px 9px;cursor:pointer;background:var(--grey-soft);color:var(--link)}
+.sage .row button{font:500 12px var(--sans);text-align:start;border:0;border-radius:999px;padding:2px 9px;cursor:pointer;background:var(--grey-soft);color:var(--link)}
 .sage .row .p{color:var(--muted);font-size:12px}
 .sage details{margin-top:7px;font-size:13.5px}
 .sage summary{font:500 12px var(--sans);color:var(--link);cursor:pointer}
 .sage details p{margin:4px 0 0;max-width:62ch}
-.sage .links{font-size:12px;margin-top:6px}.sage .links a{color:var(--link);margin-right:12px}
+.sage .links{font-size:12px;margin-top:6px}.sage .links a{color:var(--link);margin-inline-end:12px}
 
 /* audio bar: the day's shiur, and the sides following it */
 .abar{flex:none;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;padding:7px 14px calc(7px + env(safe-area-inset-bottom,0px));border-top:1px solid var(--audio-line);background:var(--audio-bg);font-size:12.5px;color:var(--muted)}
@@ -239,22 +239,22 @@ body.dragging{cursor:col-resize;user-select:none}
 #aSeek{order:-1;flex:1 1 100%;margin:0;accent-color:var(--blue)}
 /* "Follow" sits inside its own switch, divided from the two choices, so it reads as their label */
 #aFollow{align-items:center}
-.adiv{align-self:stretch;width:1px;margin:2px 4px 2px auto;background:var(--audio-line);flex:none}
-.afl{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);padding:0 9px 0 8px;margin-right:0;align-self:stretch;display:inline-flex;align-items:center}
+.adiv{align-self:stretch;width:1px;margin:2px 4px;margin-inline-start:auto;background:var(--audio-line);flex:none}
+.afl{font:600 10.5px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted);padding:0;padding-inline:8px 9px;margin-inline-end:0;align-self:stretch;display:inline-flex;align-items:center}
 .anote{flex-basis:100%;font-size:12px;color:var(--amber)}
 .anote:empty{display:none}
 .anote a,.anote button{font:inherit;color:var(--link);background:none;border:0;padding:0;cursor:pointer;text-decoration:underline}
 /* the line being read, in every view: a teal edge, apart from the section's blue */
 .item.aud{box-shadow:inset 4px 0 0 var(--teal);background:color-mix(in srgb,var(--teal) 10%,transparent)}
-.quote.aud{border-left-color:var(--teal);box-shadow:inset 3px 0 0 var(--teal)}
+.quote.aud{border-inline-start-color:var(--teal);box-shadow:inset 3px 0 0 var(--teal)}
 .lay .g.aud{fill:rgba(44,106,110,.28);stroke:#2C6A6E;stroke-width:1.5}
 .text,.shiur{touch-action:manipulation}   /* double-tap is ours (play from here), not the browser's zoom */
 .pfh{font:600 11.5px var(--sans);border:1px solid var(--teal);color:var(--teal);background:var(--panel);border-radius:999px;padding:2px 10px;cursor:pointer;margin-top:6px}
-.pl{font:500 11px var(--sans);color:var(--teal);background:none;border:1px solid var(--teal-line);border-radius:999px;padding:1px 8px;cursor:pointer;margin-left:6px;vertical-align:middle}
+.pl{font:500 11px var(--sans);color:var(--teal);background:none;border:1px solid var(--teal-line);border-radius:999px;padding:1px 8px;cursor:pointer;margin-inline-start:6px;vertical-align:middle}
 .backaud{position:absolute;left:50%;bottom:56px;transform:translateX(-50%);z-index:5;font:600 12.5px var(--sans);border:0;border-radius:999px;padding:8px 16px;background:var(--teal);color:#fff;box-shadow:var(--shadow);cursor:pointer}
 .gem{position:relative}
 /* resources pop-out */
-#rwin{width:min(460px,calc(100vw - 32px));right:72px;top:96px}
+#rwin{width:min(460px,calc(100vw - 32px));inset-inline-end:72px;top:96px}
 .rlist{overflow-y:auto;flex:1;padding:4px 14px 14px}
 .rlist h3,.rlist summary{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:14px 0 4px}
 .rlist summary{cursor:pointer}
@@ -265,9 +265,9 @@ body.dragging{cursor:col-resize;user-select:none}
 .res .rx{font-size:13.5px;color:var(--muted);margin:4px 0 0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .res .rs{font:600 10.5px var(--sans);letter-spacing:.04em;text-transform:uppercase;border-radius:999px;padding:1px 8px;background:var(--grey-soft);color:var(--muted)}
 .res .rs.audio{background:var(--amber-soft);color:var(--amber)}
-.res .rd{font:500 11.5px var(--sans);color:var(--teal);margin-left:6px}
+.res .rd{font:500 11.5px var(--sans);color:var(--teal);margin-inline-start:6px}
 .rlist .none{color:var(--muted);font-size:13.5px;margin:12px 0}
-#resBtn .n{font-size:11px;opacity:.75;margin-left:4px}
+#resBtn .n{font-size:11px;opacity:.75;margin-inline-start:4px}
 /* "Outline" joins the Daf / Gemara / Shiur switch only on a phone, where one side shows at a time. */
 .seg .ph{display:none}
 /* On wide screens the options sit in the bar as they always did; on a phone they fold behind
@@ -277,7 +277,7 @@ body.dragging{cursor:col-resize;user-select:none}
 #moreBtn .mi{display:none}
 #moreBtn[aria-expanded="true"]{background:var(--blue);border-color:var(--blue);color:var(--panel)}
 .more .grp{display:inline-flex;flex-wrap:wrap;align-items:center;gap:8px 12px}
-.more .grp+.grp{padding-left:14px;border-left:1px solid var(--line)}
+.more .grp+.grp{padding-inline-start:14px;border-inline-start:1px solid var(--line)}
 .more .gl{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 /* What to show: the outline, the text side, or both. On a phone only one at a time. */
 #showSeg .w{display:inline-block}
@@ -304,7 +304,7 @@ body.dragging{cursor:col-resize;user-select:none}
  .abar{gap:6px;padding:4px 10px calc(6px + env(safe-area-inset-bottom,0px))}
  #aSeek{order:-1;flex-basis:100%;margin:0}
  #aDur{display:none}
- #aFollow{margin-left:0}.afl{padding:0 6px 0 5px}
+ #aFollow{margin-inline-start:0}.afl{padding-inline:5px 6px}
  .aplay{width:34px;height:34px}
  .askip{padding:4px 7px}
  #aFollow button{padding:5px 9px}
@@ -316,7 +316,7 @@ body.dragging{cursor:col-resize;user-select:none}
  #moreBtn .ml{display:none}#moreBtn .mi{display:inline}
  #moreBtn{padding:5px 11px}
  .more{order:3;padding-top:6px}
- .more .grp+.grp{padding-left:0;border-left:0}
+ .more .grp+.grp{padding-inline-start:0;border-inline-start:0}
  .more .layout{display:none}
  #sideBtn{display:none}
  .main,.main.textleft{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1fr)}
@@ -331,7 +331,7 @@ body.dragging{cursor:col-resize;user-select:none}
 }
 
 /* reader feedback: a Flag on every section, notes saved to the site's feedback table */
-.fl{font:500 11px var(--sans);color:var(--muted);background:none;border:1px solid var(--line);border-radius:999px;padding:1px 8px;cursor:pointer;margin-left:6px;vertical-align:middle}
+.fl{font:500 11px var(--sans);color:var(--muted);background:none;border:1px solid var(--line);border-radius:999px;padding:1px 8px;cursor:pointer;margin-inline-start:6px;vertical-align:middle}
 .fl:hover,.fl:focus-visible{color:var(--blue);border-color:var(--blue)}
 .fl.has{background:var(--amber-soft);border-color:var(--amber);color:var(--amber)}
 dialog.fb{border:1px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink);padding:18px;width:min(480px,calc(100vw - 32px));box-shadow:var(--shadow)}
@@ -351,6 +351,24 @@ dialog.fb li b{font-weight:600}
 dialog.fb .fine{font-size:12px;color:var(--muted);margin:8px 0 0}
 #fbText{min-height:140px;font:12.5px/1.45 ui-monospace,Menlo,monospace}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+/* Hebrew interface (html lang="he" dir="rtl"): Hebrew type, no letter-spacing or capitals, and the
+   few things that are drawn by side rather than by start and end */
+html[lang="he"]{--sans:"Assistant","Arial Hebrew",Arial,sans-serif;--serif:"Frank Ruhl Libre","Times New Roman",serif}
+html[lang="he"] body{font-size:15.5px}
+html[lang="he"] *{letter-spacing:0!important}
+html[lang="he"] .terms .lbl,html[lang="he"] .gwin header h2,html[lang="he"] .more .gl,html[lang="he"] .amudbreak,html[lang="he"] .item .note,
+html[lang="he"] .pagepop .who,html[lang="he"] .tlg .hd,html[lang="he"] .tlg .rh,html[lang="he"] .sage .row>span:first-child,html[lang="he"] .rlist h3{text-transform:none;font-size:12.5px}
+html[lang="he"] .item.aud{box-shadow:inset -4px 0 0 var(--teal)}
+html[lang="he"] .quote.aud{box-shadow:inset -3px 0 0 var(--teal)}
+html[lang="he"] .pick{font-family:var(--hebrew)}
+/* The columns keep the English order in Hebrew too: the Talmud on the right (it reads right to
+   left, and in Hebrew it comes first), the outline on the left. So the grid and the outline column
+   stay ltr, and only what is inside them runs right to left. */
+html[lang="he"] .main,html[lang="he"] #outCol{direction:ltr}
+html[lang="he"] .railp>*,html[lang="he"] #outCol>.pane,html[lang="he"] #outCol>.foot,html[lang="he"] #outCol>.backaud,html[lang="he"] .gem>*{direction:rtl}
+/* the page scan and the sages timeline scroll sideways by physical position */
+.pageimg{direction:ltr}
+#uiBtn{font-family:"Assistant","Arial Hebrew",var(--sans)}
 </style>
 __SPRITE__
 <div class="bar">
@@ -361,6 +379,7 @@ __SPRITE__
   <button class="navb" id="nextDaf" type="button" aria-label="Next daf" title="Next daf (→)">›</button>
   <button class="btn" id="todayBtn" type="button" title="Go to today's daf yomi">Today</button>
  </div>
+ <button class="btn" id="uiBtn" type="button"></button>
  <div class="seg" id="verSeg" role="group" aria-label="Outline version" hidden></div>
  <span class="spacer"></span>
  <div class="seg" id="showSeg" role="group" aria-label="Show"><button data-s="outline" title="Only the outline">Outline</button><button data-s="both" title="The outline with the text beside it">Both</button><button data-s="text" title="Only the Gemara, shiur or daf page">Text</button></div>
@@ -489,6 +508,84 @@ const $=id=>document.getElementById(id);
 const {md,esc}=AnyDafOutline;
 const prefs=(()=>{try{return JSON.parse(localStorage.getItem('adw')||'{}')}catch(e){return {}}})();
 function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch(e){}}
+
+// ---------- interface language ----------
+// English, or Hebrew for Israeli readers: the whole page right to left, Hebrew wording, tractate
+// names and daf numbers in Hebrew, Hebrew outlines where they exist, and the Gemara with
+// Steinsaltz's Hebrew explanation (no English shiur). ?lang=he|en in a link sets it; the choice is
+// remembered. Fixed wording in the page is translated once on load (i18nStatic); wording built by
+// the code goes through tr(), keyed by the English.
+const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='he'||q==='en'){prefs.ui=q;savePrefs()}return prefs.ui==='he'?'he':'en'})();
+const RTL=UI==='he';
+const HEW={
+ 'Choose a daf':'בחירת דף','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
+ "Go to today's daf yomi":'לדף היומי של היום','Today':'הדף היומי','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
+ 'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
+ 'Beside the outline':'לצד המתווה','Gemara':'גמרא','Shiur':'שיעור',
+ 'Articles, teshuvot and shiurim from the YCT Torah Library on this daf':'מאמרים, תשובות ושיעורים על הדף מספריית התורה של ישיבת חובבי תורה (באנגלית)',
+ 'Resources':'מאמרים ושיעורים','Options':'אפשרויות','Detail level':'רמת פירוט','Headlines':'כותרות','Standard':'רגיל','Detailed':'מפורט',
+ 'Shiur insights':'תובנות מהשיעור','Charts':'טבלאות','Pictures':'איורים','Sages':'חכמים','Open':'פתיחה','Glossary':'מילון מושגים','Practice':'תרגול',
+ 'Layout':'פריסה','Show the contents beside the outline (wide screens)':'תוכן העניינים לצד המתווה (במסכים רחבים)','Contents':'תוכן העניינים',
+ 'Move the text to the other side':'העברת הטקסט לצד השני','⇄ Swap sides':'⇄ החלפת צדדים','Dafim with an outline':'דפים עם מתווה',
+ "Notes you've sent on this daf":'ההערות ששלחת על הדף','Feedback':'משוב','At a glance':'במבט על','Loading…':'טוען…','↩ Back to the audio':'↩ חזרה לשמע',
+ 'Resize the text side':'שינוי רוחב צד הטקסט','Drag to resize · double-click to reset':'גררו לשינוי הרוחב · לחיצה כפולה לאיפוס',
+ 'Resize the contents column':'שינוי רוחב תוכן העניינים','Language':'שפה','Follow the outline':'לעקוב אחרי המתווה',
+ 'Previous amud':'העמוד הקודם','Amud':'עמוד','Next amud':'העמוד הבא','Highlight on the page':'סימון על הדף',
+ "Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.":
+  'הדף עובר לעמוד של הקטע שאתם קוראים ומסמן בו את שורותיו (רש״י ותוספות על אותן שורות בכתום). הקישו על שורת גמרא כדי להעביר אליה את המתווה ולקרוא אותה; הקישו על רש״י או תוספות כדי לקרוא את הפירוש. הגדילו בעזרת המחוון שלמטה, וגררו את הדף כדי לנוע בו.',
+ 'Key terms':'מושגי מפתח','Close glossary':'סגירת המילון','Filter terms':'חיפוש מושג','Order':'סדר','As they appear':'לפי הופעתם','A–Z':'א–ת',
+ 'Make the box larger':'הגדלת החלון','Larger / smaller':'גדול / קטן','Close sages':'סגירה','By era':'לפי תקופה','Resize the timeline':'שינוי גובה ציר הזמן',
+ 'Drag to show more or less of the timeline · double-click to reset':'גררו כדי להציג יותר או פחות מציר הזמן · לחיצה כפולה לאיפוס',
+ 'Close practice':'סגירת התרגול','Close resources':'סגירה',
+ 'Send a note on this outline':'שליחת הערה על המתווה','What kind of note':'סוג ההערה','Content: something wrong, unclear or missing':'תוכן: משהו שגוי, לא ברור או חסר',
+ 'A better heading':'כותרת טובה יותר','A better summary line':'שורת סיכום טובה יותר','Structure: should be a subsection, moved, merged or split':'מבנה: צריך להיות תת־סעיף, לזוז, להתאחד או להתפצל',
+ 'A chart would help here':'טבלה תעזור כאן','Fix this chart':'תיקון הטבלה','A picture would help here':'איור יעזור כאן','Fix this picture':'תיקון האיור',
+ 'This works well':'זה עובד טוב','Other':'אחר','Your note':'ההערה שלך','Your name (optional)':'שמך (לא חובה)',"Email, if you'd like a reply":'דוא״ל, אם תרצו תשובה',
+ 'Cancel':'ביטול','Send note':'שליחה','Your notes':'ההערות שלך','Your notes as text':'ההערות שלך כטקסט','Note on the whole daf':'הערה על הדף כולו','Copy my notes':'העתקת ההערות','Close':'סגירה',
+ // built by the code
+ 'Key terms · {0}':'מושגי מפתח · {0}','Sages · {0}':'חכמים · {0}','‹ Previous daf · {0}':'‹ הדף הקודם · {0}','Next daf · {0} ›':'הדף הבא · {0} ›',
+ 'Continues on the next daf':'ממשיך בדף הבא',"Before this daf's outline":'לפני המתווה של הדף','{0}, Vilna page':'{0}, צילום דף וילנא',
+ 'No live text for this amud yet.':'לעמוד זה עדיין אין סימון שורות.','Line positions on this amud are approximate.':'מיקומי השורות בעמוד זה משוערים.',
+ "This line belongs to the previous daf's outline.":'שורה זו שייכת למתווה של הדף הקודם.',"This line belongs to the next daf's outline.":'שורה זו שייכת למתווה של הדף הבא.',
+ "This line is outside the daf's outline.":'שורה זו מחוץ למתווה של הדף.','On the Gemara:':'על הגמרא:','Reading <b>{0}</b> · {1}':'קוראים: <b>{0}</b> · {1}',
+ 'This outline predates line links, so the text follows by amud only.':'מתווה זה קודם לקישור לפי שורות, ולכן הטקסט עוקב רק לפי עמוד.',
+ 'Outline text size':'גודל הטקסט של המתווה','Daf page zoom':'הגדלת הדף','Text size':'גודל הטקסט','Fit':'התאמה',
+ 'Smallest':'הקטן ביותר','Small':'קטן','Default':'רגיל','Large':'גדול','Larger':'גדול יותר','Largest':'הגדול ביותר',
+ 'No named sages found on this daf.':'לא נמצאו חכמים בשמם בדף זה.',"Tanna'im":'תנאים',"Amora'im":'אמוראים','Eretz Yisrael':'ארץ ישראל','Bavel':'בבל',
+ 'Amber: moved between Bavel and Eretz Yisrael · “?”: the name fits more than one sage, a best guess':'כתום: עבר בין בבל לארץ ישראל · „?”: השם מתאים ליותר מחכם אחד, וזו ההשערה הסבירה',
+ 'Not on the timeline (era unknown): {0}.':'לא על ציר הזמן (התקופה אינה ידועה): {0}.','(region from our notes, to confirm)':'(המקום לפי רישומינו, טעון בדיקה)',
+ 'Best guess from the sages around it. Could also be: {0}.':'השערה לפי החכמים הסמוכים. ייתכן גם: {0}.','In the outline':'במתווה','Teachers':'רבותיו','Students':'תלמידיו','Colleagues':'חבריו',
+ 'About':'אודות','Wikipedia':'ויקיפדיה','Sefaria':'ספריא','Era not listed in our sources':'התקופה אינה מופיעה במקורותינו',
+ "Sources: Sefaria's topic pages (names, generation, teachers and students, bio); Hebrew Wikipedia's categories (Eretz Yisrael / Bavel). Found on the daf by name matching: a pilot, not yet reviewed.":
+  'מקורות: דפי הנושאים של ספריא (שמות, דור, רבותיו ותלמידיו, תולדות) והקטגוריות של ויקיפדיה העברית (ארץ ישראל / בבל). החכמים זוהו בדף לפי שמם: ניסיון ראשוני, טרם נבדק.',
+ 'Resources · {0}':'מאמרים ושיעורים · {0}','Looking in the YCT Torah Library…':'מחפשים בספריית התורה של חובבי תורה…','On this daf':'על הדף','Nearby dafim':'בדפים הסמוכים',
+ 'Elsewhere in {0}':'במקומות אחרים במסכת {0}','Nothing in the library is tagged to {0} yet.':'עדיין אין בספרייה פריטים המשויכים ל{0}.','{0}, general':'{0}, כללי',
+ "Couldn't reach the library. Check your connection and open Resources again.":'לא הצלחנו להגיע לספרייה. בדקו את החיבור ופתחו שוב.',
+ "One of the library sites didn't answer, so this list may be incomplete.":'אחד מאתרי הספרייה לא ענה, ולכן ייתכן שהרשימה חלקית.',
+ "From library.yctorah.org and psak.yctorah.org. Items open on the library's site.":'מתוך library.yctorah.org ו־psak.yctorah.org. הפריטים באנגלית ונפתחים באתר הספרייה.',
+ 'Library':'ספרייה','Rosh Yeshiva Responds':'ראש הישיבה משיב','Audio':'שמע',
+ 'The whole daf':'הדף כולו',"Your note didn't go through. Check your connection and press Send again; your text is still here.":'ההערה לא נשלחה. בדקו את החיבור ולחצו שוב על "שליחה"; הטקסט שלך עדיין כאן.',
+ 'Flag':'הערה','Send a note on this section':'שליחת הערה על הקטע','Send a note on “{0}”':'שליחת הערה על „{0}”','Feedback ({0})':'משוב ({0})',
+ 'No notes on this daf yet. Use the Flag button beside any heading, or send a note on the whole daf.':'עדיין אין הערות על הדף. לחצו על "הערה" ליד כל כותרת, או שלחו הערה על הדף כולו.',
+ 'Notes are sent to the AnyDaf team as soon as you press Send. This list shows the ones you sent from this browser.':'ההערות נשלחות לצוות AnyDaf ברגע שלוחצים "שליחה". כאן מופיעות ההערות ששלחת מהדפדפן הזה.',
+ "Notes are kept in this browser only. When you're done, press Copy my notes and send the text to the AnyDaf team.":'ההערות נשמרות בדפדפן הזה בלבד. בסיום, לחצו "העתקת ההערות" ושלחו את הטקסט לצוות AnyDaf.',
+ 'Copied. Paste it into an email or message.':'הועתק. הדביקו בדוא״ל או בהודעה.','Select the text above and copy it.':'סמנו את הטקסט שלמעלה והעתיקו אותו.',
+ 'Dafim with an outline…':'דפים עם מתווה…',"Today's daf yomi: {0}":'הדף היומי היום: {0}',"Couldn't reach Sefaria's calendar. Try again.":'לא הצלחנו להגיע ללוח של ספריא. נסו שוב.',
+ "Couldn't find today's daf yomi (Sefaria's calendar didn't answer). Try again in a moment.":'לא הצלחנו למצוא את הדף היומי (הלוח של ספריא לא ענה). נסו שוב בעוד רגע.',
+ "Couldn't load {0} ({1}). Check your connection and choose the daf again.":'לא הצלחנו לטעון את {0} ({1}). בדקו את החיבור ובחרו שוב את הדף.',
+};
+const FB_KIND_HE={content:'תוכן',heading:'כותרת',gist:'שורת סיכום',structure:'מבנה',add_chart:'להוסיף טבלה',fix_chart:'תיקון טבלה',add_picture:'להוסיף איור',fix_picture:'תיקון איור',praise:'עובד טוב',other:'אחר'};
+const tr=(s,...a)=>(RTL&&HEW[s]!=null?HEW[s]:s).replace(/\{(\d)\}/g,(_,i)=>a[i]);
+// the page's fixed wording: text, titles, labels and placeholders outside the content areas
+function i18nStatic(){if(!RTL)return;
+ const skip=el=>el.closest('script,style,svg,#outline,#text,#shiur,#rail,#glist,#slist,#stl,#rlist,#pgames');
+ const w=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);let n;
+ while((n=w.nextNode())){const t=n.nodeValue.trim();if(!t||HEW[t]==null||skip(n.parentElement))continue;n.nodeValue=n.nodeValue.replace(t,HEW[t])}
+ document.querySelectorAll('[title],[aria-label],[placeholder],[alt]').forEach(el=>{if(skip(el))return;
+  ['title','aria-label','placeholder','alt'].forEach(a=>{const v=el.getAttribute(a);if(v&&HEW[v]!=null)el.setAttribute(a,HEW[v])})})}
+document.documentElement.lang=UI;document.documentElement.dir=RTL?'rtl':'ltr';
+const AUTHOR_HE={'Rabbi Dov Linzer':'הרב דב לינזר'};
+const RASHI_HE={Rashi:'רש״י',Tosafot:'תוספות',Rashbam:'רשב״ם'};
 const outPane=$('outPane'),textPane=$('textPane'),shiurPane=$('shiurPane');
 
 // ---------- state for the daf on screen ----------
@@ -505,21 +602,21 @@ let HE=false;
 const hxOf=it=>HE&&it.hx?`<p class="en hx" lang="he" dir="rtl">${md(it.hx)}</p>`:`<p class="en">${md(it.en)}</p>`;
 function renderDaf(d){
  D=d;current=null;
- HE=!!(d.outline&&d.outline.lang==='he');document.body.classList.toggle('hemode',HE);
+ HE=RTL||!!(d.outline&&d.outline.lang==='he');document.body.classList.toggle('hemode',HE);
  const LS=HE?[['he','א','הגמרא בלבד'],['both','א+ביאור','הגמרא והביאור'],['en','ביאור','הביאור בלבד']]:[['he','א','Hebrew only'],['both','אA','Hebrew and English'],['en','A','English only']];
  LS.forEach(([l,t,a])=>{const b=document.querySelector(`#langSeg [data-l="${l}"]`);b.textContent=t;b.setAttribute('aria-label',a)});
  if(HE&&mode==='shiur')setPane('text');
  // Gemara
  let last='';
  $('text').innerHTML=d.items.map((it,i)=>{const am=it.l.split('.')[0];
-  const brk=am!==last?`<div class="amudbreak" data-amud="${esc(am)}">${esc(d.tractate)} ${esc(am)}</div>`:'';last=am;
-  return `${brk}<div class="item${it.ctx?' ctx':''}" data-i="${i}"><span class="lab" hidden>${esc(it.l)}</span><div>${it.ctx?`<div class="note">${esc(it.ctx)}</div>`:''}<p class="he" lang="he">${esc(it.he)}</p>${hxOf(it)}</div></div>`}).join('')
+  const brk=am!==last?`<div class="amudbreak" data-amud="${esc(am)}">${esc(amudName(d,am))}</div>`:'';last=am;
+  return `${brk}<div class="item${it.ctx?' ctx':''}" data-i="${i}"><span class="lab" hidden>${esc(it.l)}</span><div>${it.ctx?`<div class="note">${esc(tr(it.ctx))}</div>`:''}<p class="he" lang="he">${esc(it.he)}</p>${hxOf(it)}</div></div>`}).join('')
   +(HE?`<p class="credit" lang="he" dir="rtl">הביאור: ביאור הרב שטיינזלץ, מהדורת ויליאם דוידסון, ספריא (CC BY-NC).</p>`
       :`<p class="credit">English: The William Davidson Talmud, Sefaria (CC BY-NC).</p>`);
  itemEls=[...document.querySelectorAll('#text .item')];itemOrd=d.items.map(it=>d.order[it.l]);
  // Shiur
  $('shiur').innerHTML=d.shiur.length?d.shiur.map(b=>{
-  if(b.t==='amud')return `<div class="amudbreak">${esc(d.tractate)} ${esc(b.x)}</div>`;
+  if(b.t==='amud')return `<div class="amudbreak">${esc(amudName(d,b.x))}</div>`;
   if(b.t==='h2')return `<h2>${md(b.x)}</h2>`;if(b.t==='h3')return `<h3>${md(b.x)}</h3>`;if(b.t==='hr')return '<hr>';
   if(b.t==='q')return b.pairs.map(q=>`<div class="quote" data-o="${q.o??-1}"><span class="q-lab">${esc(q.l||'')}</span><p class="q-he" lang="he">${esc(q.he)}</p><p class="q-en">${md(q.en)}</p></div>`).join('');
   return `<p>${md(b.x)}</p>`}).join(''):'<p>There is no written shiur for this daf yet.</p>';
@@ -538,21 +635,26 @@ function renderDaf(d){
  }else{
   // Every daf will get an outline; until then the text side is the whole page.
   view=null;railView=null;secs=[];$('rail').innerHTML='';$('outline').classList.remove('ado');
-  $('outline').innerHTML=`<div class="nooutline"><p class="t">No outline for this daf yet.</p>
+  const enOut=RTL&&(OUT_ALL[navAt.t+'|'+navAt.n]||[])[0];
+  $('outline').innerHTML=RTL?`<div class="nooutline"><p class="t">לדף זה עדיין אין מתווה בעברית.</p>
+   <p>הגמרא עם ביאור הרב שטיינזלץ וצילום הדף נמצאים כאן לקריאה${narrow.matches?': בחרו "גמרא" או "דף" למעלה':', לצד ההודעה הזו'}.</p>
+   ${narrow.matches?'<button class="btn" type="button" id="toText">לקריאת הגמרא</button> ':''}${enOut?'<button class="btn" type="button" id="toEn">הצגת המתווה באנגלית</button>':''}</div>`
+   :`<div class="nooutline"><p class="t">No outline for this daf yet.</p>
    <p>The Gemara, the written shiur and the daf page are all here to read${narrow.matches?': choose Gemara, Shiur or Daf above':' beside this'}.</p>
    ${narrow.matches?'<button class="btn" type="button" id="toText">Read the Gemara</button>':''}</div>`;
   const tt=$('toText');if(tt)tt.onclick=()=>{if(mode==='page')setPane('text');setView('text')};
-  $('now').innerHTML=`<b>${esc(d.title)}</b>${d.shiur.length?'':' · no written shiur for this daf yet'}`;
+  if($('toEn'))$('toEn').onclick=()=>goDaf(navAt.t,navAt.n,verLabel(enOut));
+  $('now').innerHTML=`<b>${esc(dispTitle(d))}</b>${d.shiur.length||RTL?'':' · no written shiur for this daf yet'}`;
  }
  $('notesBtn').hidden=!d.outline;
  refreshFlags();
  const titles=Object.fromEntries(secs.map(s=>[s.id,s.title]));
  // A Hebrew outline reads right to left, its key-terms strip and glossary with it.
  const he=d.outline&&d.outline.lang==='he';
- $('outZoom').toggleAttribute('dir',he);if(he)$('outZoom').setAttribute('dir','rtl');$('outZoom').lang=he?'he':'';
+ $('outZoom').setAttribute('dir',he?'rtl':'ltr');$('outZoom').lang=he?'he':'en';
  $('terms').innerHTML=terms.length?`<span class="lbl">${he?'מושגי מפתח':'Key terms'}</span>${terms.map((t,i)=>`<button type="button" data-t="${i}">${esc(t.term)}${t.hebrew&&t.hebrew!==t.term?`<span lang="he">${esc(t.hebrew)}</span>`:''}</button>`).join('')}`:'';
  gloss=AnyDafOutline.glossary($('glist'),terms,{titles,onSection:id=>setCurrent(id,true),order:prefs.gOrder||'daf',lang:he?'he':'en'});$('gq').value='';
- $('gwinTitle').textContent=`Key terms · ${d.title}`;
+ $('gwinTitle').textContent=tr('Key terms · {0}',dispTitle(d));
  // Page images
  $('amudSeg').innerHTML=d.amudim.filter(a=>d.images[a]).map(a=>`<button data-a="${esc(a)}">${esc(d.amudHe[a]||a)}</button>`).join('');
  $('amudSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>showAmud(b.dataset.a,true));
@@ -563,7 +665,7 @@ function renderDaf(d){
  outPane.scrollTop=0;textPane.scrollTop=0;shiurPane.scrollTop=0;
  renderSages(d.sages||[]);$('sagesBtn').hidden=!(d.sages||[]).length;
  if(games){games.destroy();games=null}
- if(d.outline){games=AnyDafGames.mount($('pgames'),{outline:d.outline,keyTerms:terms,sages:d.sages,title:d.title},{lang:he?'he':'en',onReview:id=>{if(narrow.matches){setPractice(false);setView('outline')}setCurrent(id,true)}});
+ if(d.outline){games=AnyDafGames.mount($('pgames'),{outline:d.outline,keyTerms:terms,sages:d.sages,title:dispTitle(d)},{lang:he?'he':'en',onReview:id=>{if(narrow.matches){setPractice(false);setView('outline')}setCurrent(id,true)}});
   $('pwinTitle').textContent=he?'תרגול':'Practice'}
  $('practiceBtn').hidden=!(games&&games.hasGames);if($('practiceBtn').hidden){$('pwin').hidden=true}
  countResources();if(!$('rwin').hidden)showResources();
@@ -592,7 +694,7 @@ function amudStep(s){if(!D||!amudShown)return;const t=adjAmud(amudShown,s);
  else crossDaf(s,t,'page')}                                   // past it: load the neighbouring daf there
 $('amudPrev').onclick=()=>amudStep(-1);$('amudNext').onclick=()=>amudStep(1);
 function drawDafSteps(){
- const lab=(s,nb)=>HE?(s<0?'› הדף הקודם':'הדף הבא ‹'):(s<0?`‹ Previous daf · ${nb.t} ${nb.n}`:`Next daf · ${nb.t} ${nb.n} ›`);
+ const lab=(s,nb)=>tr(s<0?'‹ Previous daf · {0}':'Next daf · {0} ›',dafName(nb.t,nb.n));
  const btn=s=>{const nb=neighborDaf(s);return nb?`<div class="dafstep"><button type="button" data-step="${s}">${esc(lab(s,nb))}</button></div>`:''};
  ['text','shiur'].forEach(id=>{const el=$(id);el.querySelectorAll(':scope > .dafstep').forEach(x=>x.remove());
   if(id==='shiur'&&!D.shiur.length)return;
@@ -601,7 +703,7 @@ function drawDafSteps(){
 
 function showAmud(a,manual){
  if(!a||!D.images[a]||a===amudShown)return;amudShown=a;
- $('pageEl').src=D.images[a];$('pageEl').alt=`${D.tractate} ${a}, Vilna page`;
+ $('pageEl').src=D.images[a];$('pageEl').alt=tr('{0}, Vilna page',amudName(D,a));
  drawLayout(a);
  $('folio').textContent=`${D.tractateHe} ${D.amudHe[a]||a}`;
  $('amudSeg').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.a===a)));
@@ -615,7 +717,7 @@ function showAmud(a,manual){
 let pageTapHold=0,hovEl=null;
 const layOf=a=>(D&&D.layouts&&D.layouts[a])||null;
 function drawLayout(a){const L=layOf(a),svg=$('pageLay');closePop();
- $('layNote').textContent=!L?'No live text for this amud yet.':L.rough?'Line positions on this amud are approximate.':'';
+ $('layNote').textContent=!L?tr('No live text for this amud yet.'):L.rough?tr('Line positions on this amud are approximate.'):'';
  if(!L){svg.innerHTML='';return}
  const r=(b,cls,attr)=>`<rect class="${cls}" ${attr} x="${b[0]}" y="${b[1]}" width="${b[2]}" height="${b[3]}"/>`;
  svg.innerHTML=Object.entries(L.g).map(([l,bs])=>bs.map(b=>r(b,'g',`data-l="${esc(l)}"`)).join('')).join('')
@@ -649,14 +751,14 @@ function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains(
  const line=l=>D.items.find(it=>it.l===l);
  // Lines outside this daf's outline (the page shows the whole amud) belong to a neighbour's.
  const ranged=secs.filter(x=>x.a!=null),lo=Math.min(...ranged.map(x=>x.a)),hi=Math.max(...ranged.map(x=>x.b));
- const where=o=>o==null||!ranged.length?'':o<lo?'This line belongs to the previous daf\'s outline.':o>hi?'This line belongs to the next daf\'s outline.':'';
+ const where=o=>o==null||!ranged.length?'':o<lo?tr("This line belongs to the previous daf's outline."):o>hi?tr("This line belongs to the next daf's outline."):'';
  const go=l=>{const s=sectionForOrder(D.order[l]);if(s){pageTapHold=Date.now()+1500;setCurrent(s.id,true)}return s};
  if(h.l!=null){const it=line(h.l),s=go(h.l),w=where(D.order[h.l]);
   html=(s?`<p class="who">${md(s.title)}</p>`:'')+(it?`<p class="he" lang="he">${esc(it.he)}</p>${hxOf(it)}`:'')
-   +(w||!it?`<p class="en"><i>${w||'This line is outside the daf\'s outline.'}</i></p>`:'')}
+   +(w||!it?`<p class="en"><i>${w||tr("This line is outside the daf's outline.")}</i></p>`:'')}
  else{const c=L.c[h.c],it=line(c.on);go(c.on);
-  html=`<p class="who">${esc(c.who)}</p><p class="he" lang="he">${c.dh?`<b>${esc(c.dh)}</b> `:''}${esc(c.text)}</p>`
-   +(it?`<p class="en">On the Gemara: <span lang="he" dir="rtl">${esc(it.he.split(/\s+/).slice(0,6).join(' '))}…</span></p>`:'')}
+  html=`<p class="who">${esc(RTL&&RASHI_HE[c.who]||c.who)}</p><p class="he" lang="he">${c.dh?`<b>${esc(c.dh)}</b> `:''}${esc(c.text)}</p>`
+   +(it?`<p class="en">${tr('On the Gemara:')} <span lang="he" dir="rtl">${esc(it.he.split(/\s+/).slice(0,6).join(' '))}…</span></p>`:'')}
  const po=D.order[h.l!=null?h.l:L.c[h.c].on],canPlay=po!=null&&S&&timeFor(po);
  pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+html+(canPlay?'<button class="pfh" type="button" id="popPlay">▶ Play from here</button>':'');pop.hidden=false;
  pop.querySelector('.x').onclick=closePop;if(canPlay)$('popPlay').onclick=()=>playFrom(po)}
@@ -672,8 +774,8 @@ function setCurrent(id,fromClick){
  markLayout(s);
  itemEls.forEach((el,i)=>el.classList.toggle('in',ranged&&itemOrd[i]>=s.a&&itemOrd[i]<=s.b));
  quoteEls.forEach(q=>q.classList.toggle('in',ranged&&+q.dataset.o>=s.a&&+q.dataset.o<=s.b));
- $('now').innerHTML=`Reading <b>${md(s.title)}</b> · ${esc(s.amud||'')}`
-  +(ranged?'':`<span class="approx">This outline predates line links, so the text follows by amud only.</span>`);
+ $('now').innerHTML=tr('Reading <b>{0}</b> · {1}',md(s.title),esc(s.amud||''))
+  +(ranged?'':`<span class="approx">${tr('This outline predates line links, so the text follows by amud only.')}</span>`);
  if(fromClick){outHold=Date.now()+900;view.scrollToSection(id)}
  if(!$('syncTog').checked||Date.now()<textHold||textHidden()||(audioDriven&&follow.text))return;   // a hidden side catches up when shown; the audio moves the text itself
  textMoved=false;
@@ -705,7 +807,7 @@ $('text').onclick=e=>{const it=e.target.closest('.item');if(!it||e.target.closes
 $('shiur').onclick=e=>{const q=e.target.closest('.quote');if(!q||e.target.closest('.pfh'))return;const o=+q.dataset.o;if(o>=0&&lineTap(q,o))return;const s=sectionForOrder(o);if(s){textHold=Date.now()+1500;textMoved=false;setCurrent(s.id,true)}};
 
 // ---------- size sliders (AnyTorah web's six steps) ----------
-const FONT_LEVELS=[-2,-1,0,2,4,6],FONT_LABELS={'-2':'Smallest','-1':'Small','0':'Default','2':'Large','4':'Larger','6':'Largest'};
+const FONT_LEVELS=[-2,-1,0,2,4,6],FONT_LABELS=Object.fromEntries(Object.entries({'-2':'Smallest','-1':'Small','0':'Default','2':'Large','4':'Larger','6':'Largest'}).map(([k,v])=>[k,tr(v)]));
 const ZOOMS=[1,1.25,1.5,1.75,2,2.5];
 const fontScale=l=>(15+2*l)/15;   // AnyTorah: px = base + 2 × level
 function slider(foot,{label,steps,names,value,onInput}){
@@ -738,12 +840,12 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
  b.addEventListener('pointerleave',()=>{if(!st){hovEl=null;$('pageLay').querySelectorAll('.hov').forEach(x=>x.classList.remove('hov'));b.style.cursor=''}});
  // wheel/trackpad scrolling of the page counts as the reader moving it
  b.addEventListener('wheel',()=>pageTapHold=Date.now()+1500,{passive:true})})();
-const outSlider=slider($('outFoot'),{label:'Outline text size',steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.outSize=l;savePrefs();applyOut(l)}});
+const outSlider=slider($('outFoot'),{label:tr('Outline text size'),steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.outSize=l;savePrefs();applyOut(l)}});
 // The text side's slider is font size for Gemara and shiur, zoom for the daf page (kept separately).
 let gemSlider=null;
 function setupGemSlider(){
- if(mode==='page'){gemSlider=slider($('gemFoot'),{label:'Daf page zoom',steps:ZOOMS,names:z=>z===1?'Fit':Math.round(z*100)+'%',onInput:z=>{prefs.pageZoom=z;savePrefs();applyPage(z)}});gemSlider.set(prefs.pageZoom??1)}
- else{gemSlider=slider($('gemFoot'),{label:'Text size',steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.textSize=l;savePrefs();applyText(l)}});gemSlider.set(prefs.textSize??0)}
+ if(mode==='page'){gemSlider=slider($('gemFoot'),{label:tr('Daf page zoom'),steps:ZOOMS,names:z=>z===1?tr('Fit'):Math.round(z*100)+'%',onInput:z=>{prefs.pageZoom=z;savePrefs();applyPage(z)}});gemSlider.set(prefs.pageZoom??1)}
+ else{gemSlider=slider($('gemFoot'),{label:tr('Text size'),steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.textSize=l;savePrefs();applyText(l)}});gemSlider.set(prefs.textSize??0)}
 }
 outSlider.set(prefs.outSize??0);applyOut(prefs.outSize??0);applyText(prefs.textSize??0);applyPage(prefs.pageZoom??1);
 
@@ -763,9 +865,13 @@ function setPane(p){mode=p;
 const narrow=matchMedia('(max-width:860px)');
 // On wider screens the reader picks what to show (Show: Outline / Both / Text, remembered);
 // curView() is what is on screen now. A daf with no outline shows its text instead.
-let phoneView='outline',textMoved=false,noOutline=false;
-// New visitors start on the outline alone; readers who came before this switch keep side by side.
-if(!prefs.layout){prefs.layout=prefs.nav?'both':'outline';savePrefs()}
+// Where a first visit opens depends on the address it came through: italmud.com / .org (the
+// illustrated outlines) on the outline alone, the AnyDaf address (learning the daf) on the Talmud
+// text alone. Each address keeps its own remembered choice after that (browser storage is per
+// domain). Readers who came before the Show switch keep side by side.
+const ENTRY_TEXT=!/italmud\./i.test(location.hostname);
+let phoneView=ENTRY_TEXT&&!prefs.layout?'text':'outline',textMoved=false,noOutline=false;
+if(!prefs.layout){prefs.layout=prefs.nav?'both':ENTRY_TEXT?'text':'outline';savePrefs()}
 function curView(){if(narrow.matches)return phoneView;const l=prefs.layout;return l==='outline'&&noOutline?'text':l}
 const textHidden=()=>curView()==='outline';
 function markPaneSeg(){const v=curView();document.querySelectorAll('#paneSeg button').forEach(x=>x.setAttribute('aria-pressed',String(
@@ -843,45 +949,54 @@ function setStlH(h){const t=$('stl');if(h){t.style.height=h+'px';t.classList.add
 const ORD=n=>n+(['th','st','nd','rd'][(n%100>10&&n%100<14)?0:n%10]||'th');
 const eraOf=x=>x.gen==null?null:x.kind==='tanna'?x.gen:x.kind==='amora'?6+x.gen:x.kind==='zug'?0:null;
 const shortName=en=>en.replace(/^Rabbi /,'R. ').replace(/ b\. .*/,'').replace(/ \((.*)\)$/,'');
+const HE_ORD=['','ראשון','שני','שלישי','רביעי','חמישי','שישי','שביעי','שמיני'];
+const regionName=r=>RTL?r.replace(/Eretz Yisrael/g,'ארץ ישראל').replace(/Bavel/g,'בבל'):r;
 function sageMeta(x){
- const kind={tanna:'Tanna',amora:'Amora',zug:'Zugot'}[x.kind];
- const gen=x.gen==null?'':x.gen===0?', transitional generation':`, ${ORD(x.gen)} generation`;
- return kind?`<b>${kind}</b>${gen}${x.region?` · ${esc(x.region)}`:''}`:'Era not listed in our sources';
+ const kind=(RTL?{tanna:'תנא',amora:'אמורא',zug:'הזוגות'}:{tanna:'Tanna',amora:'Amora',zug:'Zugot'})[x.kind];
+ const gen=x.gen==null?'':RTL?(x.gen===0?', דור המעבר':`, דור ${HE_ORD[x.gen]||x.gen}`):x.gen===0?', transitional generation':`, ${ORD(x.gen)} generation`;
+ return kind?`<b>${kind}</b>${gen}${x.region?` · ${esc(regionName(x.region))}`:''}`:tr('Era not listed in our sources');
 }
+// a sage's name for this interface: the Hebrew name in Hebrew, short and full forms in English
+const sageName=x=>RTL&&x.he?x.he:x.en;
 function renderSages(list){
- $('swinTitle').textContent=`Sages · ${D.title}`;
+ $('swinTitle').textContent=tr('Sages · {0}',dispTitle(D));
  const by=prefs.sOrder||'daf';
  document.querySelectorAll('#sOrder button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.o===by)));
- if(!list.length){$('stl').innerHTML='';$('slist').innerHTML='<p class="credit">No named sages found on this daf.</p>';return}
+ if(!list.length){$('stl').innerHTML='';$('slist').innerHTML=`<p class="credit">${tr('No named sages found on this daf.')}</p>`;return}
  // Timeline: a column per generation, Eretz Yisrael above and Bavel below.
  const cell={},unplaced=[];
  list.forEach((x,i)=>{const e=eraOf(x);if(e==null||e<1){unplaced.push(i);return}
   const r=x.region||'',ey=r.includes('Eretz'),bv=r.includes('Bavel'),row=bv&&!ey?1:0;
   (cell[row+':'+e]=cell[row+':'+e]||[]).push(i)});
  const chip=i=>{const x=list[i],moved=(x.region||'').includes('/');
-  return `<button data-s="${i}" class="${moved?'moved':''}" title="${esc(x.en)}${moved?' · '+esc(x.region):''}">${esc(shortName(x.en))}${x.guess?'?':''}</button>`};
- let g=`<div class="hd h1 corner"></div><div class="hd h1 era">Tanna'im</div><div class="hd h1 era am">Amora'im</div><div class="hd h2 corner"></div>`;
+  return `<button data-s="${i}" class="${moved?'moved':''}" title="${esc(sageName(x))}${moved?' · '+esc(regionName(x.region)):''}">${esc(RTL&&x.he?x.he:shortName(x.en))}${x.guess?'?':''}</button>`};
+ let g=`<div class="hd h1 corner"></div><div class="hd h1 era">${tr("Tanna'im")}</div><div class="hd h1 era am">${tr("Amora'im")}</div><div class="hd h2 corner"></div>`;
  for(let e=1;e<=14;e++)g+=`<div class="hd h2">${e<=6?e:e-6}</div>`;
- ['Eretz Yisrael','Bavel'].forEach((name,row)=>{g+=`<div class="rh${row?' row2':''}">${name}</div>`;
+ ['Eretz Yisrael','Bavel'].forEach((name,row)=>{g+=`<div class="rh${row?' row2':''}">${tr(name)}</div>`;
   for(let e=1;e<=14;e++)g+=`<div class="${row?'row2':''}">${(cell[row+':'+e]||[]).map(chip).join('')}</div>`});
- $('stl').innerHTML=`<div class="tlg">${g}</div><p class="tlnote">Amber: moved between Bavel and Eretz Yisrael · “?”: the name fits more than one sage, a best guess</p>`;
- const unplacedNote=unplaced.length?`<p class="credit">Not on the timeline (era unknown): ${unplaced.map(i=>esc(list[i].en)).join(', ')}.</p>`:'';
+ $('stl').innerHTML=`<div class="tlg">${g}</div><p class="tlnote">${tr('Amber: moved between Bavel and Eretz Yisrael · “?”: the name fits more than one sage, a best guess')}</p>`;
+ const unplacedNote=unplaced.length?`<p class="credit">${tr('Not on the timeline (era unknown): {0}.',unplaced.map(i=>esc(sageName(list[i]))).join(RTL?', ':', '))}</p>`:'';
  const idx=list.map((_,i)=>i);
  // A–Z by the name itself, not the title: R. Akiva under A, Rav Pappa under P.
- const sortName=x=>x.en.replace(/^(Rabbi|Rebbi|Rav|Rabban|Mar|R\.)\s+/,'');
+ const sortName=x=>RTL&&x.he?x.he.replace(/^(רבי|רבן|רב|מר|ר')\s+/,''):x.en.replace(/^(Rabbi|Rebbi|Rav|Rabban|Mar|R\.)\s+/,'');
  if(by==='era')idx.sort((a,b)=>(eraOf(list[a])??99)-(eraOf(list[b])??99));
- if(by==='alpha')idx.sort((a,b)=>sortName(list[a]).localeCompare(sortName(list[b])));
+ if(by==='alpha')idx.sort((a,b)=>sortName(list[a]).localeCompare(sortName(list[b]),UI));
  const here=Object.fromEntries(list.map((x,i)=>[x.id,i]));
- const ppl=(label,arr)=>arr.length?`<div class="row"><span>${label}</span>${arr.map(p=>p.here?`<button data-s="${here[p.id]}">${esc(p.en)}</button>`:`<span class="p">${esc(p.en)}</span>`).join('<span class="p">·</span>')}</div>`:'';
+ const pn=p=>RTL&&p.he?p.he:p.en;
+ const ppl=(label,arr)=>arr.length?`<div class="row"><span>${tr(label)}</span>${arr.map(p=>p.here?`<button data-s="${here[p.id]}">${esc(pn(p))}</button>`:`<span class="p">${esc(pn(p))}</span>`).join('<span class="p">·</span>')}</div>`:'';
  const cards=idx.map(i=>{const x=list[i];
-  return `<article class="sage" id="sg${i}"><h3>${esc(x.en)}<span lang="he" dir="rtl">${esc(x.he)}</span></h3>
-  <p class="meta">${sageMeta(x)}${x.unchecked.length?' <span class="p">(region from our notes, to confirm)</span>':''}</p>
-  ${x.guess?`<p class="guess">Best guess from the sages around it. Could also be: ${x.alts.map(esc).join('; ')}.</p>`:''}
-  ${where(i,x).length?`<div class="row"><span>In the outline</span>${where(i,x).map(s=>`<button data-sec="${esc(s.id)}">${md(s.title)}</button>`).join('')}</div>`:''}
+  // Hebrew: the Hebrew name heads the card, Sefaria's Hebrew bio when it has one (else the English,
+  // marked as such), and the Hebrew sites
+  const bio=RTL&&x.bio_he?x.bio_he:x.bio,bioEn=RTL&&!x.bio_he&&x.bio;
+  const sef=RTL?x.url.replace('www.sefaria.org/','www.sefaria.org.il/'):x.url,wiki=RTL?(x.wiki_he||x.wiki):x.wiki;
+  return `<article class="sage" id="sg${i}"><h3>${RTL?`${esc(x.he||x.en)}<span lang="en" dir="ltr">${esc(x.en)}</span>`:`${esc(x.en)}<span lang="he" dir="rtl">${esc(x.he)}</span>`}</h3>
+  <p class="meta">${sageMeta(x)}${x.unchecked.length?` <span class="p">${tr('(region from our notes, to confirm)')}</span>`:''}</p>
+  ${x.guess?`<p class="guess">${tr('Best guess from the sages around it. Could also be: {0}.',(RTL&&x.alts_he?x.alts_he:x.alts).map(esc).join('; '))}</p>`:''}
+  ${where(i,x).length?`<div class="row"><span>${tr('In the outline')}</span>${where(i,x).map(s=>`<button data-sec="${esc(s.id)}">${md(s.title)}</button>`).join('')}</div>`:''}
   ${ppl('Teachers',x.teachers)}${ppl('Students',x.students)}${ppl('Colleagues',x.colleagues)}
-  ${x.bio?`<details><summary>About</summary><p>${esc(x.bio)}</p></details>`:''}
-  <p class="links"><a href="${esc(x.url)}" target="_blank" rel="noopener">Sefaria</a>${x.wiki?`<a href="${esc(x.wiki)}" target="_blank" rel="noopener">Wikipedia</a>`:''}</p></article>`}).join('');
- $('slist').innerHTML=cards+unplacedNote+`<p class="credit">Sources: Sefaria's topic pages (names, generation, teachers and students, bio); Hebrew Wikipedia's categories (Eretz Yisrael / Bavel). Found on the daf by name matching: a pilot, not yet reviewed.</p>`;
+  ${bio?`<details open><summary>${tr('About')}${bioEn?' (באנגלית)':''}</summary><p${bioEn?' lang="en" dir="ltr"':''}>${esc(bio)}</p></details>`:''}
+  <p class="links"><a href="${esc(sef)}" target="_blank" rel="noopener">${tr('Sefaria')}</a>${wiki?`<a href="${esc(wiki)}" target="_blank" rel="noopener">${tr('Wikipedia')}</a>`:''}</p></article>`}).join('');
+ $('slist').innerHTML=cards+unplacedNote+`<p class="credit">${tr("Sources: Sefaria's topic pages (names, generation, teachers and students, bio); Hebrew Wikipedia's categories (Eretz Yisrael / Bavel). Found on the daf by name matching: a pilot, not yet reviewed.")}</p>`;
 }
 // Sections where a sage turns up: the outline names them there, or the section covers a line of
 // Gemara that does (the deepest such section). In outline order.
@@ -897,8 +1012,10 @@ function openSage(i){$('swin').hidden=false;$('sagesBtn').setAttribute('aria-pre
 function markChip(i,smooth){const box=$('stl');box.querySelectorAll('button.on').forEach(b=>b.classList.remove('on'));
  const c=box.querySelector(`button[data-s="${i}"]`);if(!c)return;c.classList.add('on');
  const bb=box.getBoundingClientRect(),cb=c.getBoundingClientRect(),head=90;   // leave the row labels in view
- const left=box.scrollLeft+cb.left-bb.left-Math.max(head,(bb.width-cb.width)/2),top=box.scrollTop+cb.top-bb.top-(bb.height-cb.height)/2;
- box.scrollTo({left:Math.max(0,left),top:Math.max(0,top),behavior:smooth?'smooth':'auto'})}
+ const top=box.scrollTop+cb.top-bb.top-(bb.height-cb.height)/2;
+ // right to left the labels are pinned on the right and scrollLeft runs negative; the browser clamps
+ const left=RTL?box.scrollLeft+cb.right-bb.right+Math.max(head,(bb.width-cb.width)/2):Math.max(0,box.scrollLeft+cb.left-bb.left-Math.max(head,(bb.width-cb.width)/2));
+ box.scrollTo({left,top:Math.max(0,top),behavior:smooth?'smooth':'auto'})}
 // While a jump's smooth scroll runs, the timeline keeps the chosen sage rather than following
 // the cards flying past; it resumes following when the scroll ends.
 let sageJump=0;
@@ -970,8 +1087,8 @@ function loadResources(tractate){
  return resCache[tractate]}
 const dafNumOf=d=>parseInt((String(d.title).match(/\d+/)||['0'])[0],10);
 async function showResources(){if(!D)return;const d=D,daf=dafNumOf(d);
- $('rwinTitle').textContent=`Resources · ${d.tractate} ${daf}`;
- const L=$('rlist');L.innerHTML='<p class="none">Looking in the YCT Torah Library…</p>';
+ $('rwinTitle').textContent=tr('Resources · {0}',dafName(d.tractate,daf));
+ const L=$('rlist');L.innerHTML=`<p class="none">${tr('Looking in the YCT Torah Library…')}</p>`;
  let r;try{r=await loadResources(d.tractate)}catch(e){r={items:[],failed:3}}
  if(D!==d)return;
  // near = within two dafim, the apps' rule; a teshuva tagged only to the tractate goes last
@@ -979,20 +1096,21 @@ async function showResources(){if(!D)return;const d=D,daf=dafNumOf(d);
  r.items.forEach(a=>{const hit=a.dafs.includes(daf);if(hit)on.push(a);else if(a.dafs.some(x=>Math.abs(x-daf)<=2))near.push(a);else rest.push(a)});
  const close=a=>a.dafs.reduce((m,x)=>Math.min(m,Math.abs(x-daf)),99);
  near.sort((a,b)=>close(a)-close(b));rest.sort((a,b)=>(a.daf||1e4)-(b.daf||1e4));
- const date=s=>{try{return new Date(s).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'numeric'})}catch(e){return ''}};
- const card=a=>{const where=a.dafs.length?`${d.tractate} ${a.dafs.slice(0,4).join(', ')}${a.dafs.length>4?'…':''}`:`${d.tractate}, general`;
-  return `<a class="res" href="${esc(a.link)}" target="_blank" rel="noopener"><span class="rs${a.isAudio?' audio':''}">${a.isAudio?'🎧 ':''}${esc(a.isAudio&&a.source.id!=='audio'?'Audio':a.source.label)}</span><span class="rd">${esc(where)}</span>
-   <p class="rt">${esc(a.title)}</p><p class="rm">${esc([a.author,date(a.date)].filter(Boolean).join(' · '))}</p>${a.excerpt?`<p class="rx">${esc(a.excerpt)}</p>`:''}</a>`};
- L.innerHTML=(on.length?`<h3>On this daf</h3>${on.map(card).join('')}`:`<p class="none">Nothing in the library is tagged to ${esc(d.tractate)} ${daf} yet.</p>`)
-  +(near.length?`<h3>Nearby dafim</h3>${near.map(card).join('')}`:'')
-  +(rest.length?`<h3>Elsewhere in ${esc(d.tractate)}</h3>${rest.map(card).join('')}`:'')
-  +(r.failed?`<p class="none">${r.failed===3?"Couldn't reach the library. Check your connection and open Resources again.":'One of the library sites didn\'t answer, so this list may be incomplete.'}</p>`:'')
-  +`<p class="credit">From library.yctorah.org and psak.yctorah.org. Items open on the library's site.</p>`;
+ const date=s=>{try{return new Date(s).toLocaleDateString(RTL?'he-IL':undefined,{year:'numeric',month:'short',day:'numeric'})}catch(e){return ''}};
+ const trName=RTL?(TR[d.tractate]||{}).he||d.tractate:d.tractate,num=n=>RTL?hebNum(n):n;
+ const card=a=>{const where=a.dafs.length?`${trName} ${a.dafs.slice(0,4).map(num).join(', ')}${a.dafs.length>4?'…':''}`:tr('{0}, general',trName);
+  return `<a class="res" href="${esc(a.link)}" target="_blank" rel="noopener"><span class="rs${a.isAudio?' audio':''}">${a.isAudio?'🎧 ':''}${esc(tr(a.isAudio&&a.source.id!=='audio'?'Audio':a.source.label))}</span><span class="rd">${esc(where)}</span>
+   <p class="rt" lang="en" dir="auto">${esc(a.title)}</p><p class="rm">${esc([RTL&&AUTHOR_HE[a.author]||a.author,date(a.date)].filter(Boolean).join(' · '))}</p>${a.excerpt?`<p class="rx" lang="en" dir="auto">${esc(a.excerpt)}</p>`:''}</a>`};
+ L.innerHTML=(on.length?`<h3>${tr('On this daf')}</h3>${on.map(card).join('')}`:`<p class="none">${tr('Nothing in the library is tagged to {0} yet.',esc(dafName(d.tractate,daf)))}</p>`)
+  +(near.length?`<h3>${tr('Nearby dafim')}</h3>${near.map(card).join('')}`:'')
+  +(rest.length?`<h3>${tr('Elsewhere in {0}',esc(trName))}</h3>${rest.map(card).join('')}`:'')
+  +(r.failed?`<p class="none">${r.failed===3?tr("Couldn't reach the library. Check your connection and open Resources again."):tr("One of the library sites didn't answer, so this list may be incomplete.")}</p>`:'')
+  +`<p class="credit">${tr("From library.yctorah.org and psak.yctorah.org. Items open on the library's site.")}</p>`;
  if(r.failed===3)delete resCache[d.tractate]}
 // The button shows how many items are on this daf itself, once the tractate's list is in.
-function countResources(){const d=D;if(!d)return;$('resBtn').innerHTML='Resources';
+function countResources(){const d=D;if(!d)return;$('resBtn').innerHTML=tr('Resources');
  loadResources(d.tractate).then(r=>{if(D!==d)return;const n=r.items.filter(a=>a.dafs.includes(dafNumOf(d))).length;
-  $('resBtn').innerHTML=`Resources${n?`<span class="n">${n}</span>`:''}`}).catch(()=>{})}
+  $('resBtn').innerHTML=`${tr('Resources')}${n?`<span class="n">${n}</span>`:''}`}).catch(()=>{})}
 $('resBtn').onclick=()=>{const open=$('rwin').hidden;$('rwin').hidden=!open;$('resBtn').setAttribute('aria-pressed',String(open));if(open){front($('rwin'));showResources()}};
 $('rwinClose').onclick=()=>{$('rwin').hidden=true;$('resBtn').setAttribute('aria-pressed','false')};
 $('rwin').addEventListener('pointerdown',()=>front($('rwin')));
@@ -1194,13 +1312,13 @@ function notesHere(id){return myNotes.filter(n=>n.key===D.key&&(id===undefined||
 function addFlags(){
  for(const s of view.sections){if(!s.head)continue;const k=notesHere(s.id).length;
   const b=document.createElement('button');b.type='button';b.className='fl'+(k?' has':'');b.dataset.fb=s.id;
-  b.textContent=k?`${k} note${k>1?'s':''}`:'Flag';b.title='Send a note on this section';b.setAttribute('aria-label',`Send a note on “${s.title}”`);
+  b.textContent=k?(RTL?(k>1?`${k} הערות`:'הערה אחת'):`${k} note${k>1?'s':''}`):tr('Flag');b.title=tr('Send a note on this section');b.setAttribute('aria-label',tr('Send a note on “{0}”',s.title));
   s.head.appendChild(b)}}
 // Capture phase, so a Flag click doesn't also count as a click on the heading.
 $('outline').addEventListener('click',e=>{const b=e.target.closest('[data-fb]');if(!b)return;e.stopPropagation();
  const s=view.sections.find(x=>x.id===b.dataset.fb);openNote(s)},true);
 function openNote(s){fbCtx=s||null;
- $('fbWhere').innerHTML=`${esc(D.title)} · <b>${s?md(s.title):'The whole daf'}</b>`;
+ $('fbWhere').innerHTML=`${esc(dispTitle(D))} · <b>${s?md(s.title):tr('The whole daf')}</b>`;
  $('fbKind').value='content';$('fbNote').value='';$('fbMsg').hidden=true;$('fbSend').disabled=false;
  try{$('fbName').value=localStorage.getItem('ado-name')||'';$('fbEmail').value=localStorage.getItem('ado-email')||''}catch(e){}
  $('fbDlg').showModal()}
@@ -1216,25 +1334,25 @@ $('fbForm').addEventListener('submit',async e=>{
   try{const r=await fetch(FEEDBACK.url+'/rest/v1/outline_feedback',{method:'POST',
     headers:{apikey:FEEDBACK.key,Authorization:'Bearer '+FEEDBACK.key,'Content-Type':'application/json',Prefer:'return=minimal'},body:JSON.stringify(row)});
    if(!r.ok)throw new Error(r.status)}
-  catch(err){$('fbSend').disabled=false;fbMsg($('fbMsg'),"Your note didn't go through. Check your connection and press Send again; your text is still here.",true);return}}
+  catch(err){$('fbSend').disabled=false;fbMsg($('fbMsg'),tr("Your note didn't go through. Check your connection and press Send again; your text is still here."),true);return}}
  myNotes.push({...row,key:D.key,title:D.title,at:new Date().toISOString(),sent:!!FEEDBACK});saveMine();
  $('fbDlg').close();refreshFlags()});
 function refreshFlags(){document.querySelectorAll('#outline .fl').forEach(b=>b.remove());if(view)addFlags();
- const n=notesHere().length;$('notesBtn').textContent=n?`Feedback (${n})`:'Feedback'}
+ const n=notesHere().length;$('notesBtn').textContent=n?tr('Feedback ({0})',n):tr('Feedback')}
 function notesText(){return ['Outline notes'+(myNotes[0]&&myNotes[0].reader_name?' from '+myNotes[0].reader_name:''),'',
  ...myNotes.map(n=>`${n.title} · ${n.section_title||'whole daf'} · ${FB_KIND[n.kind]||n.kind}\n  ${n.note.replace(/\s+/g,' ')}`),'',
  'data: '+JSON.stringify(myNotes.map(({key,title,at,sent,...r})=>r))].join('\n')}
 $('notesBtn').onclick=()=>{const here=notesHere();
- $('fbListWhere').textContent=D.title;
- $('fbItems').innerHTML=here.length?here.map(n=>`<li><b>${esc(FB_KIND[n.kind]||n.kind)}</b> · ${md(n.section_title||'The whole daf')}<br>${esc(n.note)}</li>`).join(''):'<li>No notes on this daf yet. Use the Flag button beside any heading, or send a note on the whole daf.</li>';
+ $('fbListWhere').textContent=dispTitle(D);const kindName=k=>(RTL?FB_KIND_HE:FB_KIND)[k]||k;
+ $('fbItems').innerHTML=here.length?here.map(n=>`<li><b>${esc(kindName(n.kind))}</b> · ${md(n.section_title||tr('The whole daf'))}<br>${esc(n.note)}</li>`).join(''):`<li>${tr('No notes on this daf yet. Use the Flag button beside any heading, or send a note on the whole daf.')}</li>`;
  $('fbCopy').hidden=!!FEEDBACK;$('fbText').hidden=true;$('fbListMsg').hidden=true;
- $('fbFine').textContent=FEEDBACK?'Notes are sent to the AnyDaf team as soon as you press Send. This list shows the ones you sent from this browser.'
-  :"Notes are kept in this browser only. When you're done, press Copy my notes and send the text to the AnyDaf team.";
+ $('fbFine').textContent=FEEDBACK?tr('Notes are sent to the AnyDaf team as soon as you press Send. This list shows the ones you sent from this browser.')
+  :tr("Notes are kept in this browser only. When you're done, press Copy my notes and send the text to the AnyDaf team.");
  $('fbList').showModal()};
 $('fbWhole').onclick=()=>{$('fbList').close();openNote(null)};
 $('fbClose').onclick=()=>$('fbList').close();
-$('fbCopy').onclick=async()=>{const t=notesText();try{await navigator.clipboard.writeText(t);fbMsg($('fbListMsg'),'Copied. Paste it into an email or message.')}
- catch(e){$('fbText').hidden=false;$('fbText').value=t;$('fbText').select();fbMsg($('fbListMsg'),'Select the text above and copy it.')}};
+$('fbCopy').onclick=async()=>{const t=notesText();try{await navigator.clipboard.writeText(t);fbMsg($('fbListMsg'),tr('Copied. Paste it into an email or message.'))}
+ catch(e){$('fbText').hidden=false;$('fbText').value=t;$('fbText').select();fbMsg($('fbListMsg'),tr('Select the text above and copy it.'))}};
 
 // ---------- navigation: any daf in Shas ----------
 // A daf with an outline loads its built file (data/<key>.json: outline, text, shiur, pages, live
@@ -1250,9 +1368,13 @@ const HEB=[[100,'ק'],[90,'צ'],[80,'פ'],[70,'ע'],[60,'ס'],[50,'נ'],[40,'מ'
 function hebNum(n){let o='';for(const [v,c] of HEB){if(n%100===15&&v===10){return o+'טו'}if(n%100===16&&v===10){return o+'טז'}while(n>=v){o+=c;n-=v}}return o}
 const amudHe=a=>hebNum(parseInt(a,10))+(a.endsWith('a')?'.':':');
 // Outlines by daf: several versions of one daf (the effort test's M and H, the first test run).
-const OUT_BY={};DAFIM.forEach(o=>{const k=o.tractate+'|'+Math.floor(o.daf);(OUT_BY[k]=OUT_BY[k]||[]).push(o)});
+// The Hebrew interface offers the Hebrew outlines (mark HE), the English one the rest; OUT_ALL keeps
+// both, so a Hebrew reader can still open a daf's English outline.
+const isHeOut=o=>o.mark==='HE',DAFIM_UI=DAFIM.filter(o=>isHeOut(o)===RTL);
+const byDaf=list=>{const m={};list.forEach(o=>{const k=o.tractate+'|'+Math.floor(o.daf);(m[k]=m[k]||[]).push(o)});return m};
+const OUT_BY=byDaf(DAFIM_UI),OUT_ALL=byDaf(DAFIM.filter(o=>!isHeOut(o)));
 const VER_ORDER={M:0,H:1};   // Medium first, then High, then the first test run
-Object.values(OUT_BY).forEach(l=>l.sort((a,b)=>(VER_ORDER[a.mark]??9)-(VER_ORDER[b.mark]??9)));
+[OUT_BY,OUT_ALL].forEach(m=>Object.values(m).forEach(l=>l.sort((a,b)=>(VER_ORDER[a.mark]??9)-(VER_ORDER[b.mark]??9))));
 const verLabel=o=>o.mark||'Test';
 // the written shiur: 03_final.md -> blocks, each quote tied to its line by exact Hebrew (as build_prototype.parse_shiur)
 const normHe=s=>s.replace(/[֑-ׇ]/g,'').replace(/[^א-ת]/g,'');
@@ -1297,6 +1419,10 @@ async function runtimeDaf(t,n){const T=TR[t];
  return {key:`${t}|${n}`,base:`${t}|${n}`,title:`${t} ${n}`,tractate:t,tractateHe:T.he,amudim:A,
   amudHe:Object.fromEntries(A.map(a=>[a,amudHe(a)])),images,layouts:{},outline:null,keyTerms:[],sages:[],
   items,order,shiur:parseShiur(finals.join('\n\n---\n\n'),order,hebToLabel)}}
+// names for this interface: "Bava Metzia 11" / "בבא מציעא יא", amudim "11a" / "יא."
+function dafName(t,n){return RTL?`${(TR[t]||{}).he||t} ${hebNum(n)}`:`${t} ${n}`}
+function amudName(d,a){return RTL?`${d.tractateHe||(TR[d.tractate]||{}).he||d.tractate} ${amudHe(a)}`:`${d.tractate} ${a}`}
+function dispTitle(d){return RTL?dafName(d.tractate,dafNumOf(d)):d.title}
 
 // where we are: tractate, daf number, outline version
 let navAt=null,navToken=0;const cache={};
@@ -1304,13 +1430,15 @@ const slugT=t=>t.replace(/’/g,"'").replace(/ /g,'_');
 const unslugT=s=>{const x=decodeURIComponent(s).replace(/_/g,' ').replace(/'/g,'’').toLowerCase();return TRACTATES.find(t=>t.name.toLowerCase()===x||t.text.toLowerCase()===x)?.name};
 function hashFor(t,n,v){return `#${slugT(t)}/${n}${v?'/'+v:''}`}
 function parseHash(){const m=location.hash.match(/^#([^/]+)\/(\d+)(?:\/(\w+))?/);if(!m)return null;const t=unslugT(m[1]);return t?{t,n:+m[2],v:m[3]||null}:null}
-$('tracPick').innerHTML=TRACTATES.map(t=>`<option value="${esc(t.name)}">${esc(t.name)}</option>`).join('');
-function fillDafs(t){$('dafNum').innerHTML=dafsOf(TR[t]).map(n=>`<option value="${n}">${n}${OUT_BY[t+'|'+n]?' ✦':''}</option>`).join('')}
-{const groups=[];DAFIM.forEach(d=>{const g=d.group||'';let G=groups.find(x=>x.g===g);if(!G)groups.push(G={g,items:[]});G.items.push(d)});
- $('outPick').innerHTML=`<option value="">Dafim with an outline…</option>`+groups.map(G=>`<optgroup label="${esc(G.g)}">${G.items.map(d=>`<option value="${esc(d.key)}">${esc(d.title)}</option>`).join('')}</optgroup>`).join('')}
+$('tracPick').innerHTML=TRACTATES.map(t=>`<option value="${esc(t.name)}">${esc(RTL?t.he:t.name)}</option>`).join('');
+function fillDafs(t){$('dafNum').innerHTML=dafsOf(TR[t]).map(n=>`<option value="${n}">${RTL?hebNum(n):n}${OUT_BY[t+'|'+n]?' ✦':''}</option>`).join('')}
+{const groups=[];DAFIM_UI.forEach(d=>{const g=RTL?'מתווים בעברית':d.group||'';let G=groups.find(x=>x.g===g);if(!G)groups.push(G={g,items:[]});G.items.push(d)});
+ $('outPick').innerHTML=`<option value="">${tr('Dafim with an outline…')}</option>`+groups.map(G=>`<optgroup label="${esc(G.g)}">${G.items.map(d=>`<option value="${esc(d.key)}">${esc(RTL?dafName(d.tractate,Math.floor(d.daf)):d.title)}</option>`).join('')}</optgroup>`).join('')}
 function goDaf(t,n,v,{push=true}={}){const T=TR[t];if(!T)return;
  const ds=dafsOf(T);n=Math.max(ds[0],Math.min(ds[ds.length-1],n));
- const outs=OUT_BY[t+'|'+n]||[],o=outs.find(x=>verLabel(x)===v)||outs[0]||null;v=o?verLabel(o):null;
+ // a version named in the link may be in the other language's list (a Hebrew reader opening the English outline)
+ let outs=OUT_BY[t+'|'+n]||[];if(v&&!outs.some(x=>verLabel(x)===v)){const alt=(RTL?OUT_ALL:byDaf(DAFIM.filter(isHeOut)))[t+'|'+n]||[];if(alt.some(x=>verLabel(x)===v))outs=alt}
+ const o=outs.find(x=>verLabel(x)===v)||outs[0]||null;v=o?verLabel(o):null;
  navAt={t,n,v};prefs.nav=navAt;savePrefs();
  const h=hashFor(t,n,outs.length>1?v:null);if(location.hash!==h)(push?history.pushState:history.replaceState).call(history,null,'',h);
  if($('tracPick').value!==t||$('dafNum').options.length!==ds.length){$('tracPick').value=t;fillDafs(t)}
@@ -1319,7 +1447,7 @@ function goDaf(t,n,v,{push=true}={}){const T=TR[t];if(!T)return;
  $('verSeg').hidden=outs.length<2;
  $('verSeg').innerHTML=outs.length<2?'':outs.map(x=>`<button type="button" data-v="${esc(verLabel(x))}" aria-pressed="${x===o}" title="${esc(x.title)}">${esc(verLabel(x))}</button>`).join('');
  $('outPick').value=o?o.key:'';
- document.title=`${t} ${n} · AnyDaf`;
+ document.title=`${dafName(t,n)} · AnyDaf`;
  load(o?o.key:null,t,n)}
 // previous / next run across tractates, in the apps' order
 function step(s){const i=TRACTATES.findIndex(t=>t.name===navAt.t),ds=dafsOf(TR[navAt.t]);let n=navAt.n+s;
@@ -1333,8 +1461,8 @@ $('todayBtn').onclick=async()=>{const b=$('todayBtn'),d=new Date();b.disabled=tr
  try{const j=await fetch(`https://www.sefaria.org/api/calendars?year=${d.getFullYear()}&month=${d.getMonth()+1}&day=${d.getDate()}`).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()});
   const it=(j.calendar_items||[]).find(x=>x.title&&x.title.en==='Daf Yomi'),m=it&&/^(.*)\s(\d+)$/.exec(it.displayValue.en);
   if(!m)throw new Error('not in the calendar');const t=SEFARIA_NAME[m[1]]||m[1];if(!TR[t])throw new Error(m[1]);
-  goDaf(t,+m[2]);b.title=`Today's daf yomi: ${t} ${m[2]}`}
- catch(e){b.title="Couldn't reach Sefaria's calendar. Try again.";alert("Couldn't find today's daf yomi (Sefaria's calendar didn't answer). Try again in a moment.")}
+  goDaf(t,+m[2]);b.title=tr("Today's daf yomi: {0}",dafName(t,+m[2]))}
+ catch(e){b.title=tr("Couldn't reach Sefaria's calendar. Try again.");alert(tr("Couldn't find today's daf yomi (Sefaria's calendar didn't answer). Try again in a moment."))}
  finally{b.disabled=false}};
 $('tracPick').onchange=()=>{fillDafs($('tracPick').value);goDaf($('tracPick').value,parseInt(TR[$('tracPick').value].first,10))};
 $('dafNum').onchange=()=>goDaf(navAt.t,+$('dafNum').value);
@@ -1343,9 +1471,10 @@ $('outPick').onchange=()=>{const o=DAFIM.find(x=>x.key===$('outPick').value);if(
 addEventListener('popstate',()=>{const h=parseHash();if(h)goDaf(h.t,h.n,h.v,{push:false})});
 // ← / → turn the daf, unless the reader is typing or using a slider
 addEventListener('keydown',e=>{if(e.altKey||e.ctrlKey||e.metaKey||e.target.closest('input,select,textarea,dialog'))return;
- if(e.key==='ArrowLeft'){step(-1);e.preventDefault()}else if(e.key==='ArrowRight'){step(1);e.preventDefault()}});
+ const back=RTL?'ArrowRight':'ArrowLeft',fwd=RTL?'ArrowLeft':'ArrowRight';
+ if(e.key===back){step(-1);e.preventDefault()}else if(e.key===fwd){step(1);e.preventDefault()}});
 async function load(key,t,n){const tok=++navToken;
- $('outline').innerHTML='<p class="loading">Loading…</p>';
+ $('outline').innerHTML=`<p class="loading">${tr('Loading…')}</p>`;
  try{const ck=key||`${t}|${n}`;
   const d=cache[ck]||(cache[ck]=(key?fetch(`data/${key}.json`).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}):runtimeDaf(t,n)));
   const data=await d;if(tok!==navToken)return;renderDaf(data);
@@ -1353,8 +1482,14 @@ async function load(key,t,n){const tok=++navToken;
   if(noOutline&&narrow.matches&&phoneView==='outline')setView('text');
   else if(curView()!==was){applyView();if(was==='outline'&&current){const c=current;current=null;setCurrent(c)}}}
  catch(e){delete cache[key||`${t}|${n}`];if(tok!==navToken)return;
-  $('outline').innerHTML=`<p class="loading">Couldn't load ${esc(t)} ${n} (${esc(e.message)}). Check your connection and choose the daf again.</p>`}
+  $('outline').innerHTML=`<p class="loading">${tr("Couldn't load {0} ({1}). Check your connection and choose the daf again.",esc(dafName(t,n)),esc(e.message))}</p>`}
 }
+// The language switch: the page reloads in the other language at the same daf (the default outline
+// version for that language), without a ?lang= that would override the choice.
+i18nStatic();
+$('uiBtn').textContent=RTL?'English':'עברית';$('uiBtn').lang=RTL?'en':'he';
+$('uiBtn').title=RTL?'Switch to the English interface':'מעבר לממשק בעברית';
+$('uiBtn').onclick=()=>{prefs.ui=RTL?'en':'he';savePrefs();history.replaceState(null,'',location.pathname+(navAt?hashFor(navAt.t,navAt.n):''));location.reload()};
 if(prefs.left===true)setSide(true);
 if(prefs.rail===true)setRail(true);
 if(prefs.lang)setLang(prefs.lang);
@@ -1374,11 +1509,12 @@ function dragger(el,apply){
 }
 const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
 // Text side: 22–70% of the page, leaving the outline at least ~320px.
-dragger($('gGem'),(x,r)=>{const left=main.classList.contains('textleft');
+const textOnLeft=()=>main.classList.contains('textleft');   // the same in Hebrew: the columns stay ltr
+dragger($('gGem'),(x,r)=>{const left=textOnLeft();
  const px=left?x-r.left:r.right-x;const rail=main.classList.contains('rail')&&innerWidth>=1100?(prefs.railw||230):0;
  prefs.gemw=+clamp(100*px/r.width,22,Math.min(70,100*(r.width-rail-320)/r.width)).toFixed(1)});
 // Contents column: 160–420px.
-dragger($('gRail'),(x,r)=>{const left=main.classList.contains('textleft');prefs.railw=Math.round(clamp(left?r.right-x:x-r.left,160,420))});
+dragger($('gRail'),(x,r)=>{const left=textOnLeft();prefs.railw=Math.round(clamp(left?r.right-x:x-r.left,160,420))});
 $('gGem').ondblclick=()=>{delete prefs.gemw;savePrefs();setWidths()};
 $('gRail').ondblclick=()=>{delete prefs.railw;savePrefs();setWidths()};
 setWidths();

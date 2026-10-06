@@ -233,6 +233,7 @@ def build():
             "students": link_slugs(d, "taught"),
             "colleagues": link_slugs(d, "corresponded-with"),
             "bio": ((d.get("description") or {}).get("en") or "").strip(),
+            "bio_he": ((d.get("description") or {}).get("he") or "").strip(),
             "num_sources": d.get("numSources") or 0,
             "links": {k: (props.get(k) or {}).get("value") for k in ("enWikiLink", "heWikiLink", "jeLink")
                       if (props.get(k) or {}).get("value")},
@@ -471,7 +472,7 @@ def panel(key, outline=None):
             return None
         rows = json.loads(mp.read_text(encoding="utf-8"))["sages"]
     here = {r["pick"] for r in rows}
-    people = lambda slugs: [{"id": x, "en": sages[x]["en"], "here": x in here} for x in slugs if x in sages]
+    people = lambda slugs: [{"id": x, "en": sages[x]["en"], "he": sages[x]["he"], "here": x in here} for x in slugs if x in sages]
     out, seen = [], {}
     for r in rows:
         x = sages[r["pick"]]
@@ -484,9 +485,10 @@ def panel(key, outline=None):
         seen[r["pick"]] = len(out)
         out.append({
             "id": r["pick"], "en": x["en"], "he": r["name"], "kind": x["kind"], "gen": x["generation"],
-            "region": x["region"], "lines": r["lines"], "bio": x["bio"],
+            "region": x["region"], "lines": r["lines"], "bio": x["bio"], "bio_he": x.get("bio_he", ""),
             "url": "https://www.sefaria.org/topics/" + urllib.parse.quote(r["pick"]),
             "wiki": x["links"].get("enWikiLink") or x["links"].get("heWikiLink"),
+            "wiki_he": x["links"].get("heWikiLink"),
             "teachers": people(x["teachers"]), "students": people(x["students"]),
             "colleagues": people(x["colleagues"]),
             # English spellings, for highlighting the sage in the outline (the page folds
@@ -495,6 +497,7 @@ def panel(key, outline=None):
             "sections": r.get("sections", []),
             "guess": r["ambiguous"],
             "alts": [sages[c]["en"] for c in r["candidates"] if c != r["pick"]],
+            "alts_he": [sages[c]["he"] for c in r["candidates"] if c != r["pick"]],
             "unchecked": x.get("override", []),
         })
     return out

@@ -1911,7 +1911,24 @@ this edition Eruvin and Chullin, and has none for Shekalim, Kinnim or Middot. It
 for line with the Gemara; 98 amudim have one Gemara line it doesn't explain (a chapter's closing
 "hadran" line or an empty line), found by matching the Gemara words Steinsaltz quotes in bold
 (`skipped_line`). 81,484 lines in all. On the preview site it is "Chagigah 6 (HE)" (`chagigah_6@he=HE`;
-`Local.aids` reads the file for tag `he`). The site's own interface is still English. Next, once
+`Local.aids` reads the file for tag `he`). **Hebrew interface (2026-10-06):** an English / עברית
+button on the bar (or `?lang=he|en` in a link; remembered as `prefs.ui`) reloads the page in the
+other language at the same daf. In Hebrew (`UI`/`RTL` in app.html) the whole page is `dir="rtl"`
+(the page CSS now uses start/end properties throughout), all wording is Hebrew (`HEW`, keyed by the
+English: `i18nStatic()` translates the fixed markup once on load, `tr()` the code's own strings),
+tractates and dafim are named in Hebrew (`dafName`, `amudName`, `dispTitle`), the ← → keys swap,
+every daf is in the Israeli mode above (Steinsaltz, no shiur or audio), the outline menu and ✦ marks
+list only Hebrew outlines (`DAFIM_UI`, `OUT_BY`; `OUT_ALL` keeps the English ones, offered as
+"הצגת המתווה באנגלית" on a daf with no Hebrew outline), and the Sages window shows Hebrew names and
+Sefaria's Hebrew bios (`bio_he`, 262 of 1,032 sages; `alts_he`, `wiki_he`, Hebrew teacher/student
+names, all added to `build_sages.py`'s panel). The renderer now sets `dir="ltr"` on an English
+outline rather than leaving it unset, so it stays left to right inside the Hebrew page; the page
+scan is always `direction:ltr` (its panning uses scrollLeft). The columns keep the English order
+in Hebrew (author: the Talmud reads right to left, and in Hebrew it comes first): `.main` and
+`#outCol` stay ltr and only their contents run rtl. **Entry address (2026-10-06):** a first visit
+through italmud.com / .org opens on the outline alone, through the AnyDaf address
+(anydaf-outlines.vercel.app) on the Talmud text alone (`ENTRY_TEXT`); after that each domain
+remembers the reader's own choice. The Sages window opens each card's About. Next, once
 the author and an Israeli reader approve it: a Hebrew outline pass on 10 dafim (Batch, about $7–8;
 needs authorization).
 

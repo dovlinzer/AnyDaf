@@ -43,7 +43,8 @@
   const isHe = (o) => (o && o.lang) === "he";
   function setDir(container, lang) {
     if (lang === "he") { container.setAttribute("dir", "rtl"); container.setAttribute("lang", "he"); }
-    else { container.removeAttribute("dir"); container.removeAttribute("lang"); }
+    // stated, not left unset, so an English outline stays left to right on a right-to-left page
+    else { container.setAttribute("dir", "ltr"); container.setAttribute("lang", "en"); }
   }
   const HEB = /[\u05D0-\u05EA]/;
 
