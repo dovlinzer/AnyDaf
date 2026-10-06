@@ -110,6 +110,9 @@ A difference of interpretation is not a conflict: the lecturer's reading of the 
 - When a chart could either replay the Gemara's back-and-forth or set out the principles and distinctions at stake, lean to the conceptual one (what each side holds and why), without becoming abstract.
 - A Mishnah with some complexity (several cases, conditions or parties) gets a chart or an illustration that distills it; a simple Mishnah doesn't. This is a judgment, not a rule to apply mechanically.
 - List the charts you considered but didn't make in `runners_up.charts`, each with a one-line reason.
+- Four columns at most, counting the row labels. A chart of sentences with five or more columns is intimidating and its type gets small, above all on a phone. More columns are fine only when every cell is a word or two, such as a grid of animals or cases against "permitted" / "forbidden" that the colors make easy to read.
+- When a party has several items of one kind (two arguments, three conditions, two replies), put them in one cell as a numbered list, one item per line, with a line break between them ("1. ...\n2. ..."), rather than a column for each.
+- Keep what answers what side by side. When each side's arguments draw replies from the other side, put the replies to a row's arguments in that same row, in a column such as "The other school's reply", numbered to match: reply 1 sits beside argument 1. Never make the reader trace a reply to a cell in another row.
 - Orientation, always: the parties go on the rows (tanna'im, amora'im, schools, versions of a tradition such as "R. Meir's version"), and the cases, questions or aspects being compared go on the columns. Beit Shammai and Beit Hillel are two rows; "left on a swept stove" and "taken off on Shabbat" are two columns. When the grid compares things rather than people (the three pilgrimage offerings and what is unique to each), the things are the rows.
 - `columns` is the header row; each entry in `rows` is a list of cell strings with the row label first. An empty first header cell is fine.
 - `tones` marks what each cell rules, so the app can color it: the same shape as `rows`, one entry per cell, `"ok"` for a cell that permits, validates or says something takes effect (permitted, may be eaten, acquires, betrothed, valid), `"no"` for one that forbids, invalidates or fails (forbidden, may not, does not acquire, not betrothed, invalid), and `null` for everything else, including the row label, a cell that says both, and cells about liability or exemption (whether those are the good outcome depends on the case). Judge by what the cell means, not its wording: "Beit Hillel permit leaving the food" is `"ok"`, "Concern that he may sin" is `null`. Leave `tones` out of a chart with no rulings in it.
@@ -151,7 +154,7 @@ List in `sages` every tanna, amora and other sage of the Mishnah and Talmud whom
 ## Output
 Return only a JSON object, with no prose before or after it and no code fence, in exactly the shape of the example:
 {"daf", "scope": {"start", "end"}, "sections": [node], "key_terms": [term], "sages": [sage], "judgment_calls": [string], "coverage_notes": [string], "runners_up": {"charts": [{"section", "subject", "why_not"}], "illustrations": [{"section", "subject", "why_not"}]}}
-node = {"id": "s1", "title", "amud", "text": {"from", "to"}, "gist", "flag"?, "bullets": [{"text", "detail": 2|3, "source": "gemara"|"shiur"}], "chart"?: {"caption", "columns": [string], "rows": [[string]], "tones"?: [["ok"|"no"|null]]}, "illustration"?: {"caption", "svg"}, "returns_to"?: [{"id", "note"}], "continues"?: string, "children": [node]}
+node = {"id": "s1", "title", "amud", "text": {"from", "to"}, "gist", "flag"?, "bullets": [{"text", "detail": 2|3, "source": "gemara"|"shiur"}], "chart"?: {"caption", "columns": [string], "rows": [[string]] (a cell may hold "\n" line breaks), "tones"?: [["ok"|"no"|null]]}, "illustration"?: {"caption", "svg"}, "returns_to"?: [{"id", "note"}], "continues"?: string, "children": [node]}
 term = {"term", "hebrew", "sense", "definition", "on_this_daf", "aliases": [string], "sections": [id]}
 sage = {"id": string|null, "name", "full_name"?, "hebrew", "sections": [id]}
 Ids are unique across the whole outline ("s1", "s2", ... in document order). `amud` is a short label such as "6a", "6a–6b" or "6b → 7a". `judgment_calls`, `coverage_notes` and `runners_up` are editorial notes for the author, never shown to learners.
@@ -631,6 +634,9 @@ def check_output(outline: dict, d: Path) -> list[str]:
         if sages:
             probs.append(f"chart in '{n.get('title')}' has sages as column headers {sages}: check the orientation")
         ch = n.get("chart") or {}
+        cells = [str(x) for r in ch.get("rows") or [] for x in r[1:]]
+        if len(cols) > 4 and cells and sum(map(len, cells)) / len(cells) > 20:
+            probs.append(f"chart in '{n.get('title')}' has {len(cols)} columns of sentences (limit 4 unless the cells are a word or two)")
         if ch.get("tones") is not None:
             rows, tones = ch.get("rows") or [], ch.get("tones") or []
             if len(tones) != len(rows) or any(len(t or []) != len(r) for t, r in zip(tones, rows)) or \

@@ -199,7 +199,8 @@
   }
   function cellHTML(x, given) {
     // the outline's own marking (chart.tones) when it has one; reading the words only for older outlines
-    const h = md(x), tone = given !== undefined ? given : cellTone(h);
+    // a cell may list several items, one per line ("1. ...\n2. ...")
+    const h = md(x).replace(/\n/g, "<br>"), tone = given !== undefined ? given : cellTone(h);
     return tone ? `<td class="ado-cell-${tone}">${h}</td>` : `<td>${rulings(h)}</td>`;
   }
 

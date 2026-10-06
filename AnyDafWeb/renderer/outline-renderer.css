@@ -113,3 +113,6 @@
 .ado[dir="rtl"] li.ado-shiur::before{content:"מהשיעור  "}
 .ado[dir="rtl"] .ado-cont,.ado[dir="rtl"] .ado-gsense{font-style:normal}
 .ado[dir="rtl"] .ado-gist,.ado[dir="rtl"] li{max-width:72ch}
+.ado[dir="rtl"] table{font-size:15px}
+.ado[dir="rtl"] thead th{font-size:13px}
+.ado[dir="rtl"] .ado-chart caption{font-size:13.5px}
