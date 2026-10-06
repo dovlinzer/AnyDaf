@@ -87,3 +87,5 @@
 .adg-nav{display:inline-flex;gap:4px;margin-inline-start:8px}
 .adg-nav button{font:600 16px/1 var(--sans,system-ui);width:28px;height:26px;border:1px solid var(--line,#DCE0EA);background:var(--panel,#fff);color:inherit;border-radius:6px;cursor:pointer}
 .adg-nav button:hover{border-color:var(--blue,#1B3A8A)}
+.adg-where{display:block;margin:10px 0 0;font-size:11px;line-height:1.35;color:var(--muted,#5B6478);font-weight:400}
+.adg-case .adg-where{margin-top:8px}

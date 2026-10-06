@@ -22,12 +22,12 @@
       none: "Nothing to practice here yet.", again: "Play again", next: "Next chart", done: "Done!", slips: (n) => n ? `${n} slip${n > 1 ? "s" : ""}` : "no slips",
       tray: "Cards", hint: "Tap a card, then tap its place, or drag it there.", pairs: "pairs found", tries: "tries", chartN: (i, n) => `Chart ${i} of ${n}`, all: "All matched",
       kp: "Kosher or pasul", kpD: "Swipe right or left, or tap, for each case.", round: (i, n) => `${i} of ${n}`, right: "Right!", wrong: "Not quite", score: (a, n) => `${a} of ${n} right`, swipe: "← swipe →",
-      who: "Who said it", whoD: "Match each sage or school to the position they hold.", whoQ: "Who holds this?", roundN: (i, n) => `Round ${i} of ${n}`, nextR: "Next round", review: "See it in the outline:", next1: "Next ›", peek: "See it in the outline", according: "According to", navPrev: "Previous", navNext: "Skip to the next", skipped: (n) => n ? ` ${n} skipped.` : "" },
+      who: "Who said it", whoD: "Match each sage or school to the position they hold.", whoQ: "Who holds this?", roundN: (i, n) => `Round ${i} of ${n}`, nextR: "Next round", review: "See it in the outline:", next1: "Next ›", peek: "See it in the outline", according: "According to", section: "Outline section", navPrev: "Previous", navNext: "Skip to the next", skipped: (n) => n ? ` ${n} skipped.` : "" },
     he: { title: "תרגול", back: "› כל המשחקים", chart: "השלימו את הטבלה", chartD: "גררו כל כרטיס למקומו בטבלה.", match: "התאמת מושגים", matchD: "הפכו שני כרטיסים: מושג והפירוש שלו.",
       none: "אין עדיין מה לתרגל כאן.", again: "שוב", next: "הטבלה הבאה", done: "סיימתם!", slips: (n) => n ? `${n} טעויות` : "בלי טעויות",
       tray: "כרטיסים", hint: "הקישו על כרטיס ואז על מקומו, או גררו אותו.", pairs: "זוגות", tries: "ניסיונות", chartN: (i, n) => `טבלה ${i} מתוך ${n}`, all: "הכול הותאם",
       kp: "כשר או פסול", kpD: "החליקו ימינה או שמאלה, או הקישו, על כל מקרה.", round: (i, n) => `${i} מתוך ${n}`, right: "נכון!", wrong: "לא בדיוק", score: (a, n) => `${a} מתוך ${n} נכונות`, swipe: "← החליקו →",
-      who: "מי אמר", whoD: "התאימו כל חכם או בית מדרש לעמדה שלו.", whoQ: "מי סבור כך?", roundN: (i, n) => `סבב ${i} מתוך ${n}`, nextR: "הסבב הבא", review: "ראו בסכמה:", next1: "‹ הבא", peek: "ראו בסכמה", according: "לדעת", navPrev: "הקודם", navNext: "דלגו לבא", skipped: (n) => n ? ` ${n} דולגו.` : "" },
+      who: "מי אמר", whoD: "התאימו כל חכם או בית מדרש לעמדה שלו.", whoQ: "מי סבור כך?", roundN: (i, n) => `סבב ${i} מתוך ${n}`, nextR: "הסבב הבא", review: "ראו בסכמה:", next1: "‹ הבא", peek: "ראו בסכמה", according: "לדעת", section: "פרק בסכמה", navPrev: "הקודם", navNext: "דלגו לבא", skipped: (n) => n ? ` ${n} דולגו.` : "" },
   };
 
   // Every chart with the section it sits in: id (so a game can send the reader there) and a short trail of
@@ -69,6 +69,9 @@
     [/acquir/i, "Acquired", "Not acquired"], [/effective|take[s]? effect/i, "Takes effect", "Does not take effect"], [/permit|forbid|prohibit|allowed/i, "Permitted", "Forbidden"]];
   const dyadIn = (...texts) => { for (const t of texts) { const d = DYADS.find(([re]) => re.test(t || "")); if (d) return d; } return null; };
   const GENERIC_COL = /^(ruling|result|outcome|verdict|law|halakha|conclusion|ruling and basis)\b/i;
+  // Columns that explain a ruling (Reason, Why it fails, Basis, ...) hold sentences, not verdicts; a
+  // "ruling" word inside one says nothing about the case, so they are never quizzed.
+  const EXPLAINS = /^(reason|reasoning|why|basis|because|feature|further|other side|one side|explanation|argument|proof|source|derivation|rationale|logic|objection|answer|challenge|the anomaly|anomaly|evidence|premise)/i;
   function verdicts(outline) {
     const O = global.AnyDafOutline, out = [];
     chartSections(outline).forEach(({ c, id, crumb, title }) => {
@@ -80,7 +83,9 @@
         const given = Array.isArray(c.tones) ? (c.tones[ri] || [])[ci] : undefined;
         const tone = given !== undefined ? given : (O && O.cellTone ? O.cellTone(O.md(x)) : null);
         if (tone !== "ok" && tone !== "no") return;
-        const head = plain(c.columns[ci]), d = dyadIn(lead, head, c.caption, title);
+        const head = plain(c.columns[ci]);
+        if (EXPLAINS.test(head)) return;
+        const d = dyadIn(lead, head, c.caption, title);
         if (!d) return;
         const who = plain(r[0]);
         out.push({ id, crumb, caption: plain(c.caption), who, party: PARTY.test(who), what: GENERIC_COL.test(head) ? "" : head, ok: tone === "ok", said: x, labels: [d[1], d[2]] });
@@ -136,6 +141,7 @@
     // ‹ › in a game's bar: move to the preceding or following round (a chart that is too hard, material not yet covered)
     const navHTML = () => `<span class="adg-nav"><button type="button" data-nav="-1" aria-label="${W.navPrev}" title="${W.navPrev}">‹</button><button type="button" data-nav="1" aria-label="${W.navNext}" title="${W.navNext}">›</button></span>`;
     const wireNav = (prev, next) => el.querySelectorAll("[data-nav]").forEach((b) => b.onclick = () => (+b.dataset.nav < 0 ? prev : next)());
+    const whereHTML = (crumb) => `<p class="adg-where">(${W.section}: ${esc(String(crumb).split(" › ").pop())})</p>`;
     const wireReview = (root) => root.querySelectorAll("[data-rev]").forEach((b) => b.onclick = () => opts.onReview && opts.onReview(b.dataset.rev));
     const clear = () => { if (teardown) teardown(); teardown = null; };
 
@@ -163,11 +169,11 @@
       const blanks = cells.filter((x) => !given.has(x.ri + "," + x.ci));
       let slips = 0, placed = 0;
       const body = shell(W.chart,
-        `<p class="adg-crumb">${esc(item.crumb)}</p><p class="adg-cap">${md(c.caption)}</p><p class="adg-hint">${W.hint}</p>
+        `<p class="adg-cap">${md(c.caption)}</p><p class="adg-hint">${W.hint}</p>
          <div class="adg-chart"><table><thead><tr>${cols.map((h) => `<th scope="col">${md(h)}</th>`).join("")}</tr></thead><tbody>${rows.map((r, ri) =>
            `<tr>${r.map((x, ci) => ci === 0 ? `<th scope="row">${md(x)}</th>` : given.has(ri + "," + ci) ? `<td class="given">${md(x)}</td>`
              : `<td class="slot" data-r="${ri}" data-c="${ci}" tabindex="0"></td>`).join("")}</tr>`).join("")}</tbody></table></div>
-         <div class="adg-tray" aria-label="${W.tray}"></div><div class="adg-end" hidden></div>`,
+         <div class="adg-tray" aria-label="${W.tray}"></div><div class="adg-end" hidden></div>${whereHTML(item.crumb)}`,
         chartList.length > 1 ? `<span>${W.chartN(idx + 1, chartList.length)}</span>${navHTML()}` : "");
       if (chartList.length > 1) wireNav(() => chartGame((idx + chartList.length - 1) % chartList.length), () => chartGame((idx + 1) % chartList.length));
       const tray = body.querySelector(".adg-tray");
@@ -226,10 +232,10 @@
     function whoGame(rounds, r = 0) {
       rounds = rounds || shuffle(roundList).slice(0, 3);
       const R = rounds[r]; let slips = 0, placed = 0; if (!r) whoGame.slips = 0;
-      const body = shell(W.who, `<p class="adg-crumb">${esc(R.crumb)}</p><p class="adg-cap">${md(R.caption)}</p>
+      const body = shell(W.who, `<p class="adg-cap">${md(R.caption)}</p>
         <p class="adg-q">${W.whoQ} <b>${md(R.q)}</b></p><p class="adg-hint">${W.hint}</p>
         <div class="adg-who-slots">${shuffle(R.pairs).map((p) => `<div class="adg-pos"><p>${md(p.pos)}</p><div class="slot" data-w="${esc(plain(p.who))}" tabindex="0" aria-label="${W.whoQ}"></div></div>`).join("")}</div>
-        <div class="adg-tray" aria-label="${W.tray}"></div><div class="adg-end" hidden></div>`, rounds.length > 1 ? `<span>${W.roundN(r + 1, rounds.length)}</span>${navHTML()}` : "");
+        <div class="adg-tray" aria-label="${W.tray}"></div><div class="adg-end" hidden></div>${whereHTML(R.crumb)}`, rounds.length > 1 ? `<span>${W.roundN(r + 1, rounds.length)}</span>${navHTML()}` : "");
       if (rounds.length > 1) wireNav(() => whoGame(rounds, (r + rounds.length - 1) % rounds.length), () => whoGame(rounds, (r + 1) % rounds.length));
       const tray = body.querySelector(".adg-tray"), slots = [...body.querySelectorAll(".slot")];
       shuffle(R.pairs).forEach((p) => { const k = document.createElement("div"); k.className = "adg-card"; k.dataset.t = plain(p.who); k.tabIndex = 0; k.innerHTML = md(p.who); tray.appendChild(k); });
@@ -263,9 +269,10 @@
       function show() {
         const it = items[i]; busy = false; clearTimeout(timer); body.querySelector(".adg-kp").hidden = false; body.querySelector(".adg-end").hidden = true; fb.textContent = ""; fb.className = "adg-fb"; after.hidden = true;
         card.className = "adg-case"; card.style.transform = "";
-        card.innerHTML = `<span class="adg-crumb">${esc(it.crumb)}</span><span class="adg-scn">${esc(it.caption)}</span>`
+        card.innerHTML = `<span class="adg-scn">${esc(it.caption)}</span>`
           + (it.party ? `<span class="adg-acc">${W.according} <b>${esc(it.who)}</b></span>` : `<span class="adg-who">${esc(it.who)}</span>`)
-          + (it.what ? `<span class="adg-what">${esc(it.what)}</span>` : "");
+          + (it.what ? `<span class="adg-what">${esc(it.what)}</span>` : "")
+          + `<span class="adg-where">(${W.section}: ${esc(it.crumb.split(" › ").pop())})</span>`;
         btns[0].textContent = "✗ " + it.labels[1]; btns[1].textContent = "✓ " + it.labels[0];
         btns.forEach((b) => b.disabled = false); sc.textContent = W.round(i + 1, items.length) + (streak > 1 ? " · 🔥 " + streak : "");
       }
