@@ -1932,8 +1932,14 @@ remembers the reader's own choice. The Sages window opens each card's About. Wit
 Hebrew reads Gemara, Contents, outline from right to left (CSS `order`); there the contents
 column's handle sits on the outline's edge and the text side's on the Gemara's own edge (`#gGem2`,
 inside `.gem`). The contents column has a Close button (סגירה) at its top in both languages. With the text side alone on a
-wide screen, the daf page's "Fit" shows the whole page in the panel (`fitPage()` sets `--fitw` from
-the panel's height), and the zoom slider enlarges from there. Next, once
+wide screen, the daf page keeps the size it has beside the outline (`--gemw`), centred, so the zoom
+steps match in both views (a whole-page fit was tried and was too small to read). On the daf page,
+"Show the text on tap" (`#popTog`, `prefs.pop`) turns off the line/comment box for testing; a tap
+still marks the line and moves the outline, a double tap still plays. Hovering draws one border
+around the passage's outside (`drawHover`: line boxes stretched to meet, edges of the covered grid),
+not a box per printed line. Sage links skip a verse citation ("I Shmuel 1:22": a numbered book
+before the name or chapter:verse after it), and English Chagigah 6 uses the example's own sages
+(`EXAMPLE_SAGES`) instead of the name-matching guesses, which had listed the Amora Shmuel. Next, once
 the author and an Israeli reader approve it: a Hebrew outline pass on 10 dafim (Batch, about $7–8;
 needs authorization).
 

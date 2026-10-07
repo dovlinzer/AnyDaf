@@ -169,6 +169,10 @@ class Local:
         if key == "chagigah_6":
             o = json.loads((DP / "outline" / "example_chagigah_6.json").read_text(encoding="utf-8"))
             t = json.loads((DP / "outline" / "key_terms_example_chagigah_6.json").read_text(encoding="utf-8"))
+            # the example's own list of sages (as the prompt shows it), not the name-matching guesses,
+            # which took the prophet Shmuel in the Gemara's verse for the Amora
+            from outline_pass import EXAMPLE_SAGES
+            o["sages"] = EXAMPLE_SAGES
             return o, t["key_terms"]
         r = DP / "outline" / "results" / key
         o = json.loads((r / f"04_outline_{tag}.json").read_text(encoding="utf-8"))

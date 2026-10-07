@@ -118,8 +118,8 @@ body.hemode #langSeg{direction:rtl}
 .lay rect{fill:transparent;stroke:none;vector-effect:non-scaling-stroke}
 .lay .g.on{fill:rgba(27,58,138,.15)}
 .lay .c.on{fill:rgba(154,98,18,.13)}
-.lay .hov{stroke:#1B3A8A;stroke-width:1.5}
-.lay .c.hov{stroke:#9A6212}
+.lay .hovp{fill:none;stroke:#1B3A8A;stroke-width:1.5;stroke-linecap:square;vector-effect:non-scaling-stroke}
+.lay .hovp.c{stroke:#9A6212}
 .lay .sel{fill:rgba(27,58,138,.3)}
 .lay .c.sel{fill:rgba(154,98,18,.3)}
 .lay.off{display:none}
@@ -292,9 +292,9 @@ body.dragging{cursor:col-resize;user-select:none}
  .main[data-view="text"] #outCol,.main[data-view="text"] .railp{display:none!important}
  .main[data-view="outline"] #outZoom{max-width:920px;margin:0 auto}
  .main[data-view="text"] .text,.main[data-view="text"] .shiur{max-width:1000px;margin:0 auto}
- /* the daf page alone: "Fit" shows the whole page in the panel (its height decides, the panel
-    being wide), centred; the zoom slider enlarges from there. --fitw is set by fitPage(). */
- .main[data-view="text"] .pagewrap{width:calc(100% * var(--fitw,1) * var(--pz,1));margin:0 auto}
+ /* the daf page alone: the same size as beside the outline (the text side's share of the page,
+    --gemw), centred, so the zoom steps read the same in both views (author, 2026-10-07) */
+ .main[data-view="text"] .pagewrap{width:calc(var(--gemw) * var(--pz,1));margin:0 auto}
  body.oneside #sideBtn{display:none}
  body.outonly #paneSeg{display:none}
 }
@@ -455,7 +455,7 @@ __SPRITE__
   <div class="pane" id="shiurPane" hidden><div class="shiur zoomable" id="shiur"></div></div>
   <div class="pane" id="pagePane" hidden><div class="page">
    <div class="pagebar"><span class="folio" id="folio"></span><span class="amudnav"><button type="button" class="navb" id="amudPrev" aria-label="Previous amud" title="Previous amud">‹</button><div class="seg" id="amudSeg" role="group" aria-label="Amud"></div><button type="button" class="navb" id="amudNext" aria-label="Next amud" title="Next amud">›</button></span>
-    <label class="tog"><input type="checkbox" id="layTog" checked> Highlight on the page</label><span class="laynote" id="layNote"></span></div>
+    <label class="tog"><input type="checkbox" id="layTog" checked> Highlight on the page</label><label class="tog" title="A tap on a line still moves the outline there; a double tap still plays the shiur from it"><input type="checkbox" id="popTog" checked> Show the text on tap</label><span class="laynote" id="layNote"></span></div>
    <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg></div></div>
    <div class="pagepop" id="pagePop" hidden role="status"></div>
    <p>Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.</p>
@@ -557,7 +557,7 @@ const HEW={
  "Notes you've sent on this daf":'ההערות ששלחת על הדף','Feedback':'משוב','At a glance':'במבט על','Loading…':'טוען…','↩ Back to the audio':'↩ חזרה לשמע',
  'Resize the text side':'שינוי רוחב צד הטקסט','Drag to resize · double-click to reset':'גררו לשינוי הרוחב · לחיצה כפולה לאיפוס',
  'Resize the contents column':'שינוי רוחב תוכן העניינים','Close Contents':'סגירת תוכן העניינים','Language':'שפה','Follow the outline':'לעקוב אחרי המתווה',
- 'Previous amud':'העמוד הקודם','Amud':'עמוד','Next amud':'העמוד הבא','Highlight on the page':'סימון על הדף',
+ 'Previous amud':'העמוד הקודם','Show the text on tap':'הצגת הטקסט בהקשה','A tap on a line still moves the outline there; a double tap still plays the shiur from it':'הקשה על שורה עדיין מעבירה אליה את המתווה','Amud':'עמוד','Next amud':'העמוד הבא','Highlight on the page':'סימון על הדף',
  "Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.":
   'הדף עובר לעמוד של הקטע שאתם קוראים ומסמן בו את שורותיו (רש״י ותוספות על אותן שורות בכתום). הקישו על שורת גמרא כדי להעביר אליה את המתווה ולקרוא אותה; הקישו על רש״י או תוספות כדי לקרוא את הפירוש. הגדילו בעזרת המחוון שלמטה, וגררו את הדף כדי לנוע בו.',
  'Key terms':'מושגי מפתח','Close glossary':'סגירת המילון','Filter terms':'חיפוש מושג','Order':'סדר','As they appear':'לפי הופעתם','A–Z':'א–ת',
@@ -743,7 +743,7 @@ function showAmud(a,manual){
 // SVG, so dragging the page keeps working everywhere.
 let pageTapHold=0,hovEl=null;
 const layOf=a=>(D&&D.layouts&&D.layouts[a])||null;
-function drawLayout(a){const L=layOf(a),svg=$('pageLay');closePop();
+function drawLayout(a){const L=layOf(a),svg=$('pageLay');closePop();hovEl=null;
  $('layNote').textContent=!L?tr('No live text for this amud yet.'):L.rough?tr('Line positions on this amud are approximate.'):'';
  if(!L){svg.innerHTML='';return}
  const r=(b,cls,attr)=>`<rect class="${cls}" ${attr} x="${b[0]}" y="${b[1]}" width="${b[2]}" height="${b[3]}"/>`;
@@ -769,8 +769,22 @@ function hitAt(x,y){const L=layOf(amudShown);if(!L)return null;const r=$('pageWr
  return null}
 const hitSel=h=>h.l!=null?`rect.g[data-l="${CSS.escape(h.l)}"]`:`rect.c[data-c="${h.c}"]`;
 function hover(x,y){if($('pageLay').classList.contains('off'))return;const h=hitAt(x,y),sel=h?hitSel(h):null;
- if(sel===hovEl)return;hovEl=sel;$('pageLay').querySelectorAll('.hov').forEach(e=>e.classList.remove('hov'));
- if(sel)$('pageLay').querySelectorAll(sel).forEach(e=>e.classList.add('hov'));$('pageImg').style.cursor=sel?'pointer':''}
+ if(sel===hovEl)return;hovEl=sel;drawHover(h);$('pageImg').style.cursor=sel?'pointer':''}
+// The passage under the pointer gets one border around its outside, not a box per printed line
+// (author, 2026-10-07): the line boxes are stretched to meet the next line, and only the edges
+// between covered and uncovered cells of their grid are drawn.
+function drawHover(h){const svg=$('pageLay');svg.querySelectorAll('.hovp').forEach(e=>e.remove());if(!h)return;
+ const L=layOf(amudShown),bs=(h.l!=null?L.g[h.l]:L.c[h.c].boxes).map(b=>[...b]).sort((a,b)=>a[1]-b[1]);
+ for(let i=0;i<bs.length;i++){const b=bs[i],n=bs.find(o=>o[1]>b[1]+b[3]*.5);   // close the gap to the next line down
+  if(n){const gap=n[1]-(b[1]+b[3]);if(gap>0&&gap<b[3])b[3]+=gap}}
+ const xs=[...new Set(bs.flatMap(b=>[b[0],b[0]+b[2]]))].sort((a,b)=>a-b),ys=[...new Set(bs.flatMap(b=>[b[1],b[1]+b[3]]))].sort((a,b)=>a-b);
+ const on=(i,j)=>{if(i<0||j<0||i>=xs.length-1||j>=ys.length-1)return false;const cx=(xs[i]+xs[i+1])/2,cy=(ys[j]+ys[j+1])/2;
+  return bs.some(b=>cx>b[0]&&cx<b[0]+b[2]&&cy>b[1]&&cy<b[1]+b[3])};
+ let d='';const seg=(x1,y1,x2,y2)=>{d+=`M${x1} ${y1}L${x2} ${y2}`};
+ for(let i=0;i<xs.length-1;i++)for(let j=0;j<ys.length-1;j++){if(!on(i,j))continue;
+  if(!on(i,j-1))seg(xs[i],ys[j],xs[i+1],ys[j]);if(!on(i,j+1))seg(xs[i],ys[j+1],xs[i+1],ys[j+1]);
+  if(!on(i-1,j))seg(xs[i],ys[j],xs[i],ys[j+1]);if(!on(i+1,j))seg(xs[i+1],ys[j],xs[i+1],ys[j+1])}
+ const p=document.createElementNS('http://www.w3.org/2000/svg','path');p.setAttribute('d',d);p.setAttribute('class','hovp'+(h.l!=null?'':' c'));svg.appendChild(p)}
 function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains('off')){closePop();return}
  $('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'));
  $('pageLay').querySelectorAll(hitSel(h)).forEach(e=>e.classList.add('sel'));
@@ -788,15 +802,11 @@ function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains(
    +(it?`<p class="en">${tr('On the Gemara:')} <span lang="he" dir="rtl">${esc(it.he.split(/\s+/).slice(0,6).join(' '))}…</span></p>`:'')}
  const po=D.order[h.l!=null?h.l:L.c[h.c].on],canPlay=po!=null&&S&&timeFor(po);
  pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+html+(canPlay?'<button class="pfh" type="button" id="popPlay">▶ Play from here</button>':'');pop.hidden=false;
+ if(!$('popTog').checked)pop.hidden=true;   // the line is still marked and the outline still moves
  pop.querySelector('.x').onclick=closePop;if(canPlay)$('popPlay').onclick=()=>playFrom(po)}
 function closePop(){$('pagePop').hidden=true;$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
 $('layTog').onchange=()=>{$('pageLay').classList.toggle('off',!$('layTog').checked);prefs.lay=$('layTog').checked;savePrefs();if(!$('layTog').checked)closePop()};
-// With the daf page alone on a wide screen, "Fit" is the whole page in view: the width the panel's
-// height allows (the CSS uses it only in that view).
-function fitPage(){const b=$('pageImg'),i=$('pageEl');if(!i.naturalHeight||!b.clientWidth)return;
- b.style.setProperty('--fitw',Math.min(1,b.clientHeight*i.naturalWidth/i.naturalHeight/b.clientWidth).toFixed(4))}
-$('pageEl').addEventListener('load',fitPage);
-new ResizeObserver(fitPage).observe($('pageImg'));
+$('popTog').checked=prefs.pop!==false;$('popTog').onchange=()=>{prefs.pop=$('popTog').checked;savePrefs();if(!prefs.pop)$('pagePop').hidden=true};
 $('layTog').checked=prefs.lay!==false;$('pageLay').classList.toggle('off',prefs.lay===false);
 
 // ---------- sync ----------
@@ -870,7 +880,7 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
   if(dbl){const h=hitAt(e.clientX,e.clientY),L=layOf(amudShown);const l=h&&(h.l!=null?h.l:L.c[h.c].on);if(l&&D.order[l]!=null){playFrom(D.order[l]);return}}
   tapPage(e.clientX,e.clientY)});
  b.addEventListener('pointercancel',()=>{st=null;b.classList.remove('grabbing')});
- b.addEventListener('pointerleave',()=>{if(!st){hovEl=null;$('pageLay').querySelectorAll('.hov').forEach(x=>x.classList.remove('hov'));b.style.cursor=''}});
+ b.addEventListener('pointerleave',()=>{if(!st){hovEl=null;drawHover(null);b.style.cursor=''}});
  // wheel/trackpad scrolling of the page counts as the reader moving it
  b.addEventListener('wheel',()=>pageTapHold=Date.now()+1500,{passive:true})})();
 const outSlider=slider($('outFoot'),{label:tr('Outline text size'),steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.outSize=l;savePrefs();applyOut(l)}});

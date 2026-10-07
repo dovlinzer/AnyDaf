@@ -145,7 +145,12 @@
       return html.split(/(<[^>]+>)/).map((part) => {
         if (part.startsWith("<")) { if (/^<button/.test(part)) inButton++; else if (/^<\/button/.test(part)) inButton--; return part; }
         if (inButton) return part;
-        return part.replace(NAME_RE, (m) => {
+        return part.replace(NAME_RE, (m, ...args) => {
+          // A book of the Bible, not a sage: "(I Shmuel 1:22)", "Daniel 6:11". A numbered book
+          // before the name, or chapter:verse after it, marks a verse citation.
+          const at = args[args.length - 2], str = args[args.length - 1];
+          if (/(?:^|[\s(])(?:I{1,2}|[12])\s+$/.test(str.slice(Math.max(0, at - 6), at)) ||
+              /^\s+\d+:\d+/.test(str.slice(at + m.length))) return m;
           const words = m.split(/\s+/);
           for (let n = words.length; n >= 1; n--) {
             const head = words.slice(0, n).join(" "), bare = head.replace(/[’']s$/, "");
