@@ -252,7 +252,7 @@ body.dragging{cursor:col-resize;user-select:none}
 .item.aud{box-shadow:inset 4px 0 0 var(--teal);background:color-mix(in srgb,var(--teal) 10%,transparent)}
 .quote.aud{border-inline-start-color:var(--teal);box-shadow:inset 3px 0 0 var(--teal)}
 .lay .g.aud{fill:rgba(44,106,110,.28);stroke:#2C6A6E;stroke-width:1.5}
-.text,.shiur{touch-action:manipulation}   /* double-tap is ours (play from here), not the browser's zoom */
+.text,.shiur{touch-action:manipulation}   /* taps are quick (no double-tap zoom delay) */
 .pfh{font:600 11.5px var(--sans);border:1px solid var(--teal);color:var(--teal);background:var(--panel);border-radius:999px;padding:2px 10px;cursor:pointer;margin-top:6px}
 .pl{font:500 11px var(--sans);color:var(--teal);background:none;border:1px solid var(--teal-line);border-radius:999px;padding:1px 8px;cursor:pointer;margin-inline-start:6px;vertical-align:middle}
 .backaud{position:absolute;left:50%;bottom:56px;transform:translateX(-50%);z-index:5;font:600 12.5px var(--sans);border:0;border-radius:999px;padding:8px 16px;background:var(--teal);color:#fff;box-shadow:var(--shadow);cursor:pointer}
@@ -455,10 +455,10 @@ __SPRITE__
   <div class="pane" id="shiurPane" hidden><div class="shiur zoomable" id="shiur"></div></div>
   <div class="pane" id="pagePane" hidden><div class="page">
    <div class="pagebar"><span class="folio" id="folio"></span><span class="amudnav"><button type="button" class="navb" id="amudPrev" aria-label="Previous amud" title="Previous amud">‹</button><div class="seg" id="amudSeg" role="group" aria-label="Amud"></div><button type="button" class="navb" id="amudNext" aria-label="Next amud" title="Next amud">›</button></span>
-    <label class="tog"><input type="checkbox" id="layTog" checked> Highlight on the page</label><label class="tog" title="A tap on a line still moves the outline there; a double tap still plays the shiur from it"><input type="checkbox" id="popTog" checked> Show the text on tap</label><span class="laynote" id="layNote"></span></div>
+    <label class="tog"><input type="checkbox" id="layTog" checked> Highlight on the page</label><label class="tog" title="A tap on a line still moves the outline and the shiur there"><input type="checkbox" id="popTog" checked> Show the text on tap</label><span class="laynote" id="layNote"></span></div>
    <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg></div></div>
    <div class="pagepop" id="pagePop" hidden role="status"></div>
-   <p>Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.</p>
+   <p>Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline and the shiur there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.</p>
   </div></div>
   <div class="foot" id="gemFoot"></div>
   <button class="backaud" id="backText" type="button" hidden>↩ Back to the audio</button>
@@ -557,8 +557,8 @@ const HEW={
  "Notes you've sent on this daf":'ההערות ששלחת על הדף','Feedback':'משוב','At a glance':'במבט על','Loading…':'טוען…','↩ Back to the audio':'↩ חזרה לשמע',
  'Resize the text side':'שינוי רוחב צד הטקסט','Drag to resize · double-click to reset':'גררו לשינוי הרוחב · לחיצה כפולה לאיפוס',
  'Resize the contents column':'שינוי רוחב תוכן העניינים','Close Contents':'סגירת תוכן העניינים','Language':'שפה','Follow the outline':'לעקוב אחרי המתווה',
- 'Previous amud':'העמוד הקודם','Show the text on tap':'הצגת הטקסט בהקשה','A tap on a line still moves the outline there; a double tap still plays the shiur from it':'הקשה על שורה עדיין מעבירה אליה את המתווה','Amud':'עמוד','Next amud':'העמוד הבא','Highlight on the page':'סימון על הדף',
- "Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.":
+ 'Previous amud':'העמוד הקודם','Show the text on tap':'הצגת הטקסט בהקשה','A tap on a line still moves the outline and the shiur there':'הקשה על שורה עדיין מעבירה אליה את המתווה','Amud':'עמוד','Next amud':'העמוד הבא','Highlight on the page':'סימון על הדף',
+ "Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline and the shiur there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.":
   'הדף עובר לעמוד של הקטע שאתם קוראים ומסמן בו את שורותיו (רש״י ותוספות על אותן שורות בכתום). הקישו על שורת גמרא כדי להעביר אליה את המתווה ולקרוא אותה; הקישו על רש״י או תוספות כדי לקרוא את הפירוש. הגדילו בעזרת המחוון שלמטה, וגררו את הדף כדי לנוע בו.',
  'Key terms':'מושגי מפתח','Close glossary':'סגירת המילון','Filter terms':'חיפוש מושג','Order':'סדר','As they appear':'לפי הופעתם','A–Z':'א–ת',
  'Make the box larger':'הגדלת החלון','Larger / smaller':'גדול / קטן','Close sages':'סגירה','By era':'לפי תקופה','Resize the timeline':'שינוי גובה ציר הזמן',
@@ -873,11 +873,11 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
  b.addEventListener('pointermove',e=>{if(!st){if(e.pointerType==='mouse')hover(e.clientX,e.clientY);return}
   if(!st.moved&&Math.hypot(e.clientX-st.x,e.clientY-st.y)>6){st.moved=true;b.classList.add('grabbing')}
   if(st.moved){b.scrollLeft=st.l-(e.clientX-st.x);b.scrollTop=st.t-(e.clientY-st.y)}});
- // A press that doesn't move is a tap on the page: read the line or comment under it.
- let last={t:0,x:0,y:0};
+ // A press that doesn't move is a tap on the page: the outline and the shiur go to the line or
+ // comment under it, and its text opens.
  b.addEventListener('pointerup',e=>{const tap=st&&!st.moved;if(st&&st.moved)skimmed('text');st=null;b.classList.remove('grabbing');if(!tap)return;
-  const now=Date.now(),dbl=now-last.t<400&&Math.hypot(e.clientX-last.x,e.clientY-last.y)<30;last={t:now,x:e.clientX,y:e.clientY};
-  if(dbl){const h=hitAt(e.clientX,e.clientY),L=layOf(amudShown);const l=h&&(h.l!=null?h.l:L.c[h.c].on);if(l&&D.order[l]!=null){playFrom(D.order[l]);return}}
+  const h=hitAt(e.clientX,e.clientY),L=layOf(amudShown),l=h&&(h.l!=null?h.l:L.c[h.c].on);
+  if(l&&D.order[l]!=null&&!$('pageLay').classList.contains('off'))jumpAudio(D.order[l]);   // the audio with the outline, as on the text
   tapPage(e.clientX,e.clientY)});
  b.addEventListener('pointercancel',()=>{st=null;b.classList.remove('grabbing')});
  b.addEventListener('pointerleave',()=>{if(!st){hovEl=null;drawHover(null);b.style.cursor=''}});
@@ -1286,15 +1286,17 @@ function addPlayButtons(){document.querySelectorAll('#outline .pl').forEach(b=>b
   b.textContent='▶';b.title='Play the shiur from here';b.setAttribute('aria-label',`Play the shiur from “${s.title}”`);s.head.appendChild(b)}}
 $('outline').addEventListener('click',e=>{const b=e.target.closest('[data-play]');if(!b)return;e.stopPropagation();
  const s=secs.find(x=>x.id===b.dataset.play);if(s){setCurrent(s.id,true);playFrom(s.a)}},true);
-// Double-tap (or double-click) a line of Gemara or a shiur quote to play from it; a single tap
-// also offers a "Play from here" button on the line.
-let lastTap={el:null,t:0};
-function lineTap(el,o){const now=Date.now(),dbl=lastTap.el===el&&now-lastTap.t<400;lastTap={el,t:now};
- document.querySelectorAll('.pfh').forEach(b=>b.remove());
- if(dbl){playFrom(o);return true}
- if(S&&S.tl.some(t=>t.length)&&timeFor(o)){const b=document.createElement('button');b.type='button';b.className='pfh';b.textContent='▶ Play from here';
-  b.onclick=ev=>{ev.stopPropagation();b.remove();playFrom(o)};(el.querySelector(':scope > div')||el).appendChild(b)}
- return false}
+// A click on a line moves the audio there as well as the outline (author, 2026-10-07: scrolling is
+// how a reader moves without the audio; a click means "go here"). Playing: it jumps and plays on.
+// Not playing: the shiur is set to start there, so ▶ plays from this line, with nothing heard yet.
+function lineTap(el,o){jumpAudio(o);return false}
+function jumpAudio(o){if(!S||!S.tl.some(t=>t.length)||o==null)return;const at=timeFor(o);if(!at)return;
+ if(!aud.paused){playFrom(o);return}
+ if(!A||A.id!==S.id){A=S;aud.removeAttribute('src');drawPills()}
+ const t=Math.max(0,at.t-1);
+ if(A.ep!==at.ep||!aud.getAttribute('src'))setEp(at.ep,t);else aud.currentTime=t;
+ $('aTime').textContent=fmtT(t);if(aud.duration)$('aSeek').value=Math.round(t/aud.duration*1000);
+ lastLine=null;drawBar()}
 
 // The audio panel sits under the Gemara window on wide screens; on a phone, where the Gemara and
 // the outline take turns, it spans the foot of the screen so it's there on both.

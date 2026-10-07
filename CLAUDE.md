@@ -1863,9 +1863,10 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   is kept a third of the way down; the outline moves to its section (and, while "Text" follows
   the audio, the outline->text sync stands aside). Scrolling or dragging a side while listening
   is skimming: that side stops following and shows "Back to the audio"; pressing play resets it.
-  Jumping: double-tap a Gemara line, a shiur quote or a line on the daf page; one tap offers
-  "▶ Play from here" (and the daf page's tap box has it); ▶ on every outline heading plays from
-  its first line. A line explained in English starts at the last line before it that is read.
+  Jumping (author, 2026-10-07: scrolling moves without the audio, a click means "go here"): one
+  click on a Gemara line, a shiur quote or a line on the daf page moves the outline and the audio
+  there (`jumpAudio`): while playing it jumps and plays on; when stopped it sets the shiur to start
+  at that line, without playing. ▶ on every outline heading plays from its first line. A line explained in English starts at the last line before it that is read.
   The audio keeps playing when the reader turns to another daf; the bar says so and offers
   "Go to it" / "Play this daf instead". Lock-screen controls via Media Session. Testing in a
   collapsed browser pane: the browser won't play media there (AbortError); fake `aud.paused`
@@ -1935,7 +1936,7 @@ inside `.gem`). The contents column has a Close button (סגירה) at its top i
 wide screen, the daf page keeps the size it has beside the outline (`--gemw`), centred, so the zoom
 steps match in both views (a whole-page fit was tried and was too small to read). On the daf page,
 "Show the text on tap" (`#popTog`, `prefs.pop`) turns off the line/comment box for testing; a tap
-still marks the line and moves the outline, a double tap still plays. Hovering draws one border
+still marks the line and moves the outline and the audio. Hovering draws one border
 around the passage's outside (`drawHover`: line boxes stretched to meet, edges of the covered grid),
 not a box per printed line. Sage links skip a verse citation ("I Shmuel 1:22": a numbered book
 before the name or chapter:verse after it), and English Chagigah 6 uses the example's own sages
