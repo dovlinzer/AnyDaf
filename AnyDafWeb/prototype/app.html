@@ -292,6 +292,9 @@ body.dragging{cursor:col-resize;user-select:none}
  .main[data-view="text"] #outCol,.main[data-view="text"] .railp{display:none!important}
  .main[data-view="outline"] #outZoom{max-width:920px;margin:0 auto}
  .main[data-view="text"] .text,.main[data-view="text"] .shiur{max-width:1000px;margin:0 auto}
+ /* the daf page alone: "Fit" shows the whole page in the panel (its height decides, the panel
+    being wide), centred; the zoom slider enlarges from there. --fitw is set by fitPage(). */
+ .main[data-view="text"] .pagewrap{width:calc(100% * var(--fitw,1) * var(--pz,1));margin:0 auto}
  body.oneside #sideBtn{display:none}
  body.outonly #paneSeg{display:none}
 }
@@ -788,6 +791,12 @@ function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains(
  pop.querySelector('.x').onclick=closePop;if(canPlay)$('popPlay').onclick=()=>playFrom(po)}
 function closePop(){$('pagePop').hidden=true;$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
 $('layTog').onchange=()=>{$('pageLay').classList.toggle('off',!$('layTog').checked);prefs.lay=$('layTog').checked;savePrefs();if(!$('layTog').checked)closePop()};
+// With the daf page alone on a wide screen, "Fit" is the whole page in view: the width the panel's
+// height allows (the CSS uses it only in that view).
+function fitPage(){const b=$('pageImg'),i=$('pageEl');if(!i.naturalHeight||!b.clientWidth)return;
+ b.style.setProperty('--fitw',Math.min(1,b.clientHeight*i.naturalWidth/i.naturalHeight/b.clientWidth).toFixed(4))}
+$('pageEl').addEventListener('load',fitPage);
+new ResizeObserver(fitPage).observe($('pageImg'));
 $('layTog').checked=prefs.lay!==false;$('pageLay').classList.toggle('off',prefs.lay===false);
 
 // ---------- sync ----------
