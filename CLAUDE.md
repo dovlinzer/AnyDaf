@@ -1938,7 +1938,8 @@ steps match in both views (a whole-page fit was tried and was too small to read)
 "Show the text on tap" (`#popTog`, `prefs.pop`) turns off the line/comment box for testing; a tap
 still marks the line and moves the outline and the audio. Hovering draws one border
 around the passage's outside (`drawHover`: line boxes stretched to meet, edges of the covered grid),
-not a box per printed line. Sage links skip a verse citation ("I Shmuel 1:22": a numbered book
+not a box per printed line; the line the shiur is reading gets the same single teal border over
+its fill (`outlinePath`, shared). Sage links skip a verse citation ("I Shmuel 1:22": a numbered book
 before the name or chapter:verse after it), and English Chagigah 6 uses the example's own sages
 (`EXAMPLE_SAGES`) instead of the name-matching guesses, which had listed the Amora Shmuel. Next, once
 the author and an Israeli reader approve it: a Hebrew outline pass on 10 dafim (Batch, about $7–8;

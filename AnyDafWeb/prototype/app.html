@@ -251,7 +251,8 @@ body.dragging{cursor:col-resize;user-select:none}
 /* the line being read, in every view: a teal edge, apart from the section's blue */
 .item.aud{box-shadow:inset 4px 0 0 var(--teal);background:color-mix(in srgb,var(--teal) 10%,transparent)}
 .quote.aud{border-inline-start-color:var(--teal);box-shadow:inset 3px 0 0 var(--teal)}
-.lay .g.aud{fill:rgba(44,106,110,.28);stroke:#2C6A6E;stroke-width:1.5}
+.lay .g.aud{fill:rgba(44,106,110,.28)}
+.lay .audp{fill:none;stroke:#2C6A6E;stroke-width:1.5;stroke-linecap:square;vector-effect:non-scaling-stroke}
 .text,.shiur{touch-action:manipulation}   /* taps are quick (no double-tap zoom delay) */
 .pfh{font:600 11.5px var(--sans);border:1px solid var(--teal);color:var(--teal);background:var(--panel);border-radius:999px;padding:2px 10px;cursor:pointer;margin-top:6px}
 .pl{font:500 11px var(--sans);color:var(--teal);background:none;border:1px solid var(--teal-line);border-radius:999px;padding:1px 8px;cursor:pointer;margin-inline-start:6px;vertical-align:middle}
@@ -774,7 +775,9 @@ function hover(x,y){if($('pageLay').classList.contains('off'))return;const h=hit
 // (author, 2026-10-07): the line boxes are stretched to meet the next line, and only the edges
 // between covered and uncovered cells of their grid are drawn.
 function drawHover(h){const svg=$('pageLay');svg.querySelectorAll('.hovp').forEach(e=>e.remove());if(!h)return;
- const L=layOf(amudShown),bs=(h.l!=null?L.g[h.l]:L.c[h.c].boxes).map(b=>[...b]).sort((a,b)=>a[1]-b[1]);
+ const L=layOf(amudShown);svg.appendChild(outlinePath(h.l!=null?L.g[h.l]:L.c[h.c].boxes,'hovp'+(h.l!=null?'':' c')))}
+// one border around the outside of a passage's line boxes (the hover and the line being read)
+function outlinePath(boxes,cls){const bs=boxes.map(b=>[...b]).sort((a,b)=>a[1]-b[1]);
  for(let i=0;i<bs.length;i++){const b=bs[i],n=bs.find(o=>o[1]>b[1]+b[3]*.5);   // close the gap to the next line down
   if(n){const gap=n[1]-(b[1]+b[3]);if(gap>0&&gap<b[3])b[3]+=gap}}
  const xs=[...new Set(bs.flatMap(b=>[b[0],b[0]+b[2]]))].sort((a,b)=>a-b),ys=[...new Set(bs.flatMap(b=>[b[1],b[1]+b[3]]))].sort((a,b)=>a-b);
@@ -784,7 +787,7 @@ function drawHover(h){const svg=$('pageLay');svg.querySelectorAll('.hovp').forEa
  for(let i=0;i<xs.length-1;i++)for(let j=0;j<ys.length-1;j++){if(!on(i,j))continue;
   if(!on(i,j-1))seg(xs[i],ys[j],xs[i+1],ys[j]);if(!on(i,j+1))seg(xs[i],ys[j+1],xs[i+1],ys[j+1]);
   if(!on(i-1,j))seg(xs[i],ys[j],xs[i],ys[j+1]);if(!on(i+1,j))seg(xs[i+1],ys[j],xs[i+1],ys[j+1])}
- const p=document.createElementNS('http://www.w3.org/2000/svg','path');p.setAttribute('d',d);p.setAttribute('class','hovp'+(h.l!=null?'':' c'));svg.appendChild(p)}
+ const p=document.createElementNS('http://www.w3.org/2000/svg','path');p.setAttribute('d',d);p.setAttribute('class',cls);return p}
 function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains('off')){closePop();return}
  $('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'));
  $('pageLay').querySelectorAll(hitSel(h)).forEach(e=>e.classList.add('sel'));
@@ -1248,7 +1251,9 @@ function audQuote(o){return quoteEls.find(q=>+q.dataset.o===o)||null}
 function markAudio(l,o){document.querySelectorAll('.aud').forEach(x=>x.classList.remove('aud'));
  const i=itemOrd.indexOf(o);if(i>=0)itemEls[i].classList.add('aud');
  const q=audQuote(o);if(q)q.classList.add('aud');
- $('pageLay').querySelectorAll(`rect.g[data-l="${CSS.escape(l)}"]`).forEach(r=>r.classList.add('aud'))}
+ $('pageLay').querySelectorAll('.audp').forEach(e=>e.remove());
+ const rs=$('pageLay').querySelectorAll(`rect.g[data-l="${CSS.escape(l)}"]`);rs.forEach(r=>r.classList.add('aud'));
+ const L=layOf(amudShown);if(rs.length&&L&&L.g[l])$('pageLay').appendChild(outlinePath(L.g[l],'audp'))}
 // Bring the line into the reading band of the side in view (a third of the way down), and leave
 // it alone while it's already there, so the text doesn't twitch with every line.
 function showLine(l,o){const band=(pane,el)=>{const pr=pane.getBoundingClientRect(),r=el.getBoundingClientRect();
