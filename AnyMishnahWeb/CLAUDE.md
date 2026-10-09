@@ -106,4 +106,6 @@ BM 1 COMPLETE (2026-10-09): all pictures posted. Second-try results after author
 
 Hard-set briefs drafted (data/hard_set_briefs.json): 5 SVG-only, 2 clay-possible, 1 mixed; awaiting author review; new symbol pairs: adds up/does not, liable/not, in/out, can become impure/cannot, defiles hands/does not/disputed, obligated/not. Legend label 'follows the attached note' (not 'postscript').
 
-RULE (author): plain language for all reader-facing text; no overly technical terms; see STYLE_BIBLE.md 'plain language' for the list of terms still to rephrase.
+RULE (author, revised): technical Torah she'baal peh terms are WANTED on the site (gloss once, add to a per-chapter glossary and key terms, plus the sages box, as in AnyDafWeb); only captions inside the kids' clay illustrations stay simple. 1:8 uses 'simpon' (the mishnah's סמפונות).
+
+PLAN: add AnyDafWeb's key-terms chips, glossary pop-out and sages box to these pages (reuse renderer/outline-renderer.js and the glossary_entries data model; see AnyDafWeb/DESIGN.md). Candidate terms so far: BK 5: tam, mu'ad (not yet used), shen, pit (bor); BM 1: simpon, shibud (lien), ketubah, halitzah, kinyan, hefker. Verify each against R. Kulp before writing a definition.
