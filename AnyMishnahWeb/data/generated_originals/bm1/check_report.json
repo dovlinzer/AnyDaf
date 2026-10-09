@@ -1,1 +1,56 @@
-{}
+{
+ "bm1-1a": {
+  "pass": false,
+  "fails": [
+   "scene mismatch: The scene does NOT match the intended description. Man A (red tunic) and Man B (green tunic) are both holding opposite ends of a white cloak correctly, but NEITHER man is pointing at themselves - they appear to be gesturing or arguing but not self-pointing. The framed box on the left shows TWO complete white garments/cloaks displayed separately, NOT a single cloak cut into two equal halves as intended. The box displays whole garments, not halves of a divided cloak."
+  ],
+  "warnings": []
+ },
+ "bm1-1b": {
+  "pass": false,
+  "fails": [
+   "scene mismatch: The scene does NOT match the intended description. Both men are gripping the white cloak correctly, but the gestures are incorrect: Man A (red tunic) has one arm extended in a gesturing manner but not clearly showing \"claims all with a wide arm,\" and Man B (green tunic) is not showing \"claims half with a flat hand\" - neither figure displays the described hand gestures clearly. More critically, the framed box on the left shows the cloak displayed as TWO EQUAL PIECES (front and back view of the same garment), NOT two unequal pieces where one is three times the other as specified. The outcome box fails to show the required 3:1 division result."
+  ],
+  "warnings": []
+ },
+ "bm1-2": {
+  "pass": true,
+  "fails": [],
+  "warnings": []
+ },
+ "bm1-3a": {
+  "pass": true,
+  "fails": [],
+  "warnings": []
+ },
+ "bm1-3b": {
+  "pass": false,
+  "fails": [
+   "scene mismatch: The scene does NOT match the intended description. The purse is on the ground between the two figures, not being held by the rider. The intended scene states \"the friend has handed the purse up to the rider, who holds it\" but in the actual image the purse lies on the ground. While the friend is pointing at himself (matching that part), the critical element of the rider holding the purse after receiving it is missing."
+  ],
+  "warnings": []
+ },
+ "bm1-4a": {
+  "pass": true,
+  "fails": [],
+  "warnings": []
+ },
+ "bm1-4b": {
+  "pass": true,
+  "fails": [],
+  "warnings": []
+ },
+ "bm1-5": {
+  "pass": false,
+  "fails": [
+   "extra: second small child in yellow",
+   "scene mismatch: The expected cast is \"a father, a small child, a grown daughter\" (3 people total). However, the main scene shows FOUR people: a father, TWO small children in yellow clothing (both appear to be the same child duplicated), and a grown daughter in green. One extra small child in yellow is present. The scene does show the intended elements (child with purse near father, daughter with purse, boxes showing the giving and keeping), but the duplication of the small child violates the expected cast requirement."
+  ],
+  "warnings": []
+ },
+ "bm1-7": {
+  "pass": true,
+  "fails": [],
+  "warnings": []
+ }
+}

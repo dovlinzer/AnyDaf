@@ -8,7 +8,7 @@ for name, c in cfg["pictures"].items():
     for ext in (".jpg", ".jpeg", ".png", ".webp"):
         p = os.path.join(cfg["folder"], name + ext)
         if os.path.exists(p):
-            fails, res = check(p, c["boxes"], c["cast"], c["numerals"], c["scene"], True)
+            fails, res = check(p, c["boxes"], c["cast"], c["numerals"], c["scene"], True, c.get("single", []))
             rep[name] = {"pass": not fails, "fails": fails, "warnings": res["warnings"]}
             print(("PASS " if not fails else "FAIL ") + name, "|", "; ".join(fails + ["(warn) " + w for w in res["warnings"]]) or "-"); break
     else: print("----", name, "(no image yet)")
