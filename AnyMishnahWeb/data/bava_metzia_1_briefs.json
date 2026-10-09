@@ -2,7 +2,7 @@
  "tractate": "Bava Metzia",
  "chapter": 1,
  "status": "draft - for review",
- "note": "Kulp's commentary on 1:1 quotes the oath wording two ways ('not less' and 'not more' than half); no oath wording is drawn. Briefs for 1:6 rest on the mishnah text alone (no Kulp explanation available).",
+ "note": "Kulp's commentary on 1:1 quotes the oath wording two ways ('not less' and 'not more' than half); no oath wording is drawn. Briefs for 1:6 rest on the mishnah text alone (no Kulp explanation available). Correction 2026-10-09: 1:4 previously invented a fenced field; Kulp's condition (the animal cannot leave) is shown by the animal's broken leg.",
  "briefs": [
   {
    "n": 1,
@@ -54,11 +54,11 @@
    "render": "clay",
    "layout": "diptych (two scenes, same setup)",
    "scenes": {
-    "a": "A field: a deer with a bandaged, clearly broken front leg limps along; two men run toward it from the far side; the field's owner stands in the middle with a hand on his chest, declaring. A fence encloses the field. Badge later: KEEPS on the owner.",
-    "b": "The same field: a healthy deer bounds across it toward the open gate, pigeons flying above, the same two men chasing; the owner stands with a hand on his chest. Badge later: NO-CLAIM on the owner."
+    "a": "An open field. A deer with a splinted, bandaged broken front leg lies on the grass, unable to stand or get away. Two chasers run toward it; the owner of the field stands near it with a hand on his chest, claiming it. No fence is needed: the deer cannot leave because of its leg.",
+    "b": "The same field. A healthy deer bounds away across it toward open hills, pigeons fly overhead, the same two chasers run after it, the owner stands with a hand on his chest."
    },
    "badge_later": "KEEPS (new) / NO-CLAIM (new)",
-   "avoid": "Cruelty to animals; showing the deer's injury graphically (a neat bandage only).",
+   "avoid": "Any fence, wall or gate (not in the source; Kulp's condition is that the ANIMAL is physically unable to leave); cruelty; graphic injury.",
    "source": "Mishnah 1:4 and Kulp 1:4"
   },
   {
