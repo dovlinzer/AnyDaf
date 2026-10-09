@@ -1858,6 +1858,18 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   `crossDaf`, `landing`); the Gemara and shiur end with "Previous daf" / "Next daf" buttons
   (`drawDafSteps`), and going back opens the previous daf at its end. `firstAmud` reads a section's
   amud from its text anchor, since Hebrew outlines label amudim "ו.".
+- Two text panes (2026-10-09): on screens wider than a phone, "⊞ Add a pane" opens a second pane
+  (`#gem2`) with its own Daf / Gemara / Shiur switch, starting on one the first pane isn't showing;
+  outline + two panes, or the two panes alone (Show: Text); the contents column closes while it's
+  open; remembered (`prefs.split`, `prefs.pane2`). The three views are single elements moved between
+  the two containers (`layoutPanes`: `mode`, `mode2`, `visibleModes()`); picking the other pane's
+  view swaps them. A click on a line in either pane (`fromPane`, or a tap on the daf page) moves
+  the other pane straight to that line (`paneToLine`, instant), the audio there (`jumpAudio`) and
+  the outline to its section, in that order: Chrome cancels a smooth scroll when another scroll
+  starts, and the holds (2–2.5 s) outlast the outline's own glide. Following the outline moves both
+  panes (`paneToSection`); the audio moves both (`showLine`), and skimming detaches only that pane
+  (`skim.text` / `skim.text2`, its own "Back to the audio"). Hebrew: no shiur, so Daf and Gemara.
+  Testing in a hidden browser pane: smooth scrolls never run there, so force instant scrolls first.
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).

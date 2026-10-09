@@ -358,6 +358,19 @@ dialog.fb li{font-size:13px;background:var(--ground);border-radius:6px;padding:6
 dialog.fb li b{font-weight:600}
 dialog.fb .fine{font-size:12px;color:var(--muted);margin:8px 0 0}
 #fbText{min-height:140px;font:12.5px/1.45 ui-monospace,Menlo,monospace}
+/* Two text panes side by side (wide screens): outline, pane, pane; or the two panes alone. The
+   contents column stays closed while they are open (its list is at the top of the outline). */
+#main.split{grid-template-columns:minmax(0,1fr) var(--gemw) var(--gemw)}
+#main.split.textleft{grid-template-columns:var(--gemw) var(--gemw) minmax(0,1fr)}
+#main.split[data-view="text"]{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+#main.split .railp{display:none!important}
+#main.split #outline .ado-glance{display:block!important}
+#main.split[data-view="text"] .pagewrap{width:calc(100% * var(--pz,1))}
+#main.split #gGem2{display:none!important}
+#gem2 .gemhead{gap:8px}
+#split2Close{font-size:16px;line-height:1;padding:3px 10px}
+body.hemode #pane2Seg [data-p="shiur"]{display:none}
+@media (max-width:860px){#splitBtn,#gem2{display:none!important}}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 /* Hebrew interface (html lang="he" dir="rtl"): Hebrew type, no letter-spacing or capitals, and the
    few things that are drawn by side rather than by start and end */
@@ -450,6 +463,7 @@ __SPRITE__
    <div class="seg lang" id="langSeg" role="group" aria-label="Language"><button data-l="he" aria-label="Hebrew only">א</button><button data-l="both" aria-pressed="true" aria-label="Hebrew and English">אA</button><button data-l="en" aria-label="English only">A</button></div>
    <label class="tog"><input type="checkbox" id="syncTog" checked> Follow the outline</label>
    <div class="now" id="now" aria-live="polite"></div>
+   <button class="btn" id="splitBtn" type="button" title="Show a second text beside this one">⊞ Add a pane</button>
    <div class="pills" id="gPills" role="group" aria-label="Sections of the shiur: go to" hidden></div>
   </div>
   <div class="pane" id="textPane"><div class="text zoomable" id="text"></div></div>
@@ -464,6 +478,18 @@ __SPRITE__
   <div class="foot" id="gemFoot"></div>
   <button class="backaud" id="backText" type="button" hidden>↩ Back to the audio</button>
   <div class="gutter g-gem2" id="gGem2" role="separator" aria-orientation="vertical" aria-label="Resize the text side" title="Drag to resize · double-click to reset"></div>
+ </aside>
+ <!-- the second text pane (wide screens): one of Daf / Gemara / Shiur not shown in the first; the
+      panes themselves move between the two (layoutPanes) -->
+ <aside class="gem" id="gem2" data-lang="both" aria-label="Second text" hidden>
+  <div class="gemhead">
+   <div class="seg" id="pane2Seg" role="group" aria-label="Show in this pane"><button data-p="page">Daf</button><button data-p="text">Gemara</button><button data-p="shiur">Shiur</button></div>
+   <div class="seg lang" id="langSeg2" role="group" aria-label="Language"><button data-l="he" aria-label="Hebrew only">א</button><button data-l="both" aria-pressed="true" aria-label="Hebrew and English">אA</button><button data-l="en" aria-label="English only">A</button></div>
+   <span class="spacer"></span>
+   <button class="iconbtn" id="split2Close" type="button" aria-label="Close this pane" title="Close this pane">×</button>
+  </div>
+  <div class="foot" id="gemFoot2"></div>
+  <button class="backaud" id="backText2" type="button" hidden>↩ Back to the audio</button>
  </aside>
 </div>
 <div class="abar" id="abar" hidden>
@@ -558,7 +584,7 @@ const HEW={
  "Notes you've sent on this daf":'ההערות ששלחת על הדף','Feedback':'משוב','At a glance':'במבט על','Loading…':'טוען…','↩ Back to the audio':'↩ חזרה לשמע',
  'Resize the text side':'שינוי רוחב צד הטקסט','Drag to resize · double-click to reset':'גררו לשינוי הרוחב · לחיצה כפולה לאיפוס',
  'Resize the contents column':'שינוי רוחב תוכן העניינים','Close Contents':'סגירת תוכן העניינים','Language':'שפה','Follow the outline':'לעקוב אחרי המתווה',
- 'Previous amud':'העמוד הקודם','Show the text on tap':'הצגת הטקסט בהקשה','A tap on a line still moves the outline and the shiur there':'הקשה על שורה עדיין מעבירה אליה את המתווה','Amud':'עמוד','Next amud':'העמוד הבא','Highlight on the page':'סימון על הדף',
+ 'Previous amud':'העמוד הקודם','⊞ Add a pane':'⊞ חלון נוסף','Show a second text beside this one':'הצגת טקסט נוסף לצד זה','Show in this pane':'מה להציג בחלון זה','Close this pane':'סגירת החלון','Second text':'טקסט נוסף','Show the text on tap':'הצגת הטקסט בהקשה','A tap on a line still moves the outline and the shiur there':'הקשה על שורה עדיין מעבירה אליה את המתווה','Amud':'עמוד','Next amud':'העמוד הבא','Highlight on the page':'סימון על הדף',
  "Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline and the shiur there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.":
   'הדף עובר לעמוד של הקטע שאתם קוראים ומסמן בו את שורותיו (רש״י ותוספות על אותן שורות בכתום). הקישו על שורת גמרא כדי להעביר אליה את המתווה ולקרוא אותה; הקישו על רש״י או תוספות כדי לקרוא את הפירוש. הגדילו בעזרת המחוון שלמטה, וגררו את הדף כדי לנוע בו.',
  'Key terms':'מושגי מפתח','Close glossary':'סגירת המילון','Filter terms':'חיפוש מושג','Order':'סדר','As they appear':'לפי הופעתם','A–Z':'א–ת',
@@ -632,8 +658,10 @@ function renderDaf(d){
  D=d;current=null;
  HE=RTL||!!(d.outline&&d.outline.lang==='he');document.body.classList.toggle('hemode',HE);
  const LS=HE?[['he','א','הגמרא בלבד'],['both','א+ביאור','הגמרא והביאור'],['en','ביאור','הביאור בלבד']]:[['he','א','Hebrew only'],['both','אA','Hebrew and English'],['en','A','English only']];
- LS.forEach(([l,t,a])=>{const b=document.querySelector(`#langSeg [data-l="${l}"]`);b.textContent=t;b.setAttribute('aria-label',a)});
+ LS.forEach(([l,t,a])=>document.querySelectorAll(`.seg.lang [data-l="${l}"]`).forEach(b=>{b.textContent=t;b.setAttribute('aria-label',a)}));
  if(HE&&mode==='shiur')setPane('text');
+ if(HE&&mode2==='shiur')setPane2(mode==='page'?'text':'page');
+ d.labelAt=Object.fromEntries(Object.entries(d.order).map(([l,i])=>[i,l]));
  // Gemara
  let last='';
  $('text').innerHTML=d.items.map((it,i)=>{const am=it.l.split('.')[0];
@@ -825,13 +853,25 @@ function setCurrent(id,fromClick){
  if(fromClick){outHold=Date.now()+900;view.scrollToSection(id)}
  if(!$('syncTog').checked||Date.now()<textHold||textHidden()||(audioDriven&&follow.text))return;   // a hidden side catches up when shown; the audio moves the text itself
  textMoved=false;
- if(mode==='page'){showAmud(ranged?pageAmudFor(s):s.am);markLayout(s);if(Date.now()>pageTapHold)scrollPageTo();return}
- if(mode==='text'){let top=null;
+ for(const m of visibleModes())paneToSection(m,s,ranged)}
+// One pane to the start of an outline section.
+function paneToSection(m,s,ranged){
+ if(m==='page'){showAmud(ranged?pageAmudFor(s):s.am);markLayout(s);if(Date.now()>pageTapHold)scrollPageTo();return}
+ if(m==='text'){let top=null;
   if(ranged){const i=itemOrd.findIndex(o=>o>=s.a);if(i>=0)top=posIn(textPane,itemEls[i])}
   else{const b=$('text').querySelector(`.amudbreak[data-amud="${CSS.escape(s.am)}"]`);if(b)top=posIn(textPane,b)}
   if(top!=null)textPane.scrollTo({top:top-8,behavior:'smooth'})}
- if(mode==='shiur'&&ranged){const q=shiurTarget(s);if(q)shiurPane.scrollTo({top:posIn(shiurPane,q)-12,behavior:'smooth'})}
+ if(m==='shiur'&&ranged){const q=shiurTarget(s);if(q)shiurPane.scrollTo({top:posIn(shiurPane,q)-12,behavior:'smooth'})}
 }
+// A click on a line in one pane: the outline goes to its section, the audio to the line (jumpAudio),
+// and the other pane to that same line.
+// The holds outlast the outline's own smooth scroll, which otherwise ends by sending the panes
+// back to its section's first line.
+// The other pane jumps first and the outline glides last: in Chrome a scroll started later cancels
+// a smooth one still running.
+function fromPane(m,o){if(o==null||o<0)return;jumpAudio(o);textHold=Date.now()+2500;textMoved=false;
+ const l=D.labelAt[o];if(l)visibleModes().filter(x=>x!==m).forEach(x=>paneToLine(x,l,o,false));
+ const s=sectionForOrder(o);if(s&&view){setCurrent(s.id,true);outHold=Date.now()+2000}}
 // Where el sits inside a scrolling pane, from on-screen positions (correct under CSS zoom).
 const posIn=(pane,el)=>el.getBoundingClientRect().top-pane.getBoundingClientRect().top+pane.scrollTop;
 function shiurTarget(s){let inRange=null,before=null;
@@ -849,8 +889,8 @@ function sectionAtLine(){const line=outPane.getBoundingClientRect().top+110;let 
  return best||passed||secs[0]}
 outPane.addEventListener('scroll',()=>{if(raf||Date.now()<outHold||!secs.length)return;raf=requestAnimationFrame(()=>{raf=0;setCurrent(sectionAtLine().id)})},{passive:true});
 ['wheel','touchmove','keydown'].forEach(ev=>[textPane,shiurPane].forEach(p=>p.addEventListener(ev,()=>{textHold=Date.now()+1500;textMoved=true},{passive:true})));
-$('text').onclick=e=>{const it=e.target.closest('.item');if(!it||e.target.closest('.pfh'))return;const o=itemOrd[+it.dataset.i];if(lineTap(it,o))return;const s=sectionForOrder(o);if(s){textHold=Date.now()+1500;textMoved=false;setCurrent(s.id,true)}};
-$('shiur').onclick=e=>{const q=e.target.closest('.quote');if(!q||e.target.closest('.pfh'))return;const o=+q.dataset.o;if(o>=0&&lineTap(q,o))return;const s=sectionForOrder(o);if(s){textHold=Date.now()+1500;textMoved=false;setCurrent(s.id,true)}};
+$('text').onclick=e=>{const it=e.target.closest('.item');if(it)fromPane('text',itemOrd[+it.dataset.i])};
+$('shiur').onclick=e=>{const q=e.target.closest('.quote');if(q)fromPane('shiur',+q.dataset.o)};
 
 // ---------- size sliders (AnyTorah web's six steps) ----------
 const FONT_LEVELS=[-2,-1,0,2,4,6],FONT_LABELS=Object.fromEntries(Object.entries({'-2':'Smallest','-1':'Small','0':'Default','2':'Large','4':'Larger','6':'Largest'}).map(([k,v])=>[k,tr(v)]));
@@ -878,10 +918,12 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
   if(st.moved){b.scrollLeft=st.l-(e.clientX-st.x);b.scrollTop=st.t-(e.clientY-st.y)}});
  // A press that doesn't move is a tap on the page: the outline and the shiur go to the line or
  // comment under it, and its text opens.
- b.addEventListener('pointerup',e=>{const tap=st&&!st.moved;if(st&&st.moved)skimmed('text');st=null;b.classList.remove('grabbing');if(!tap)return;
+ b.addEventListener('pointerup',e=>{const tap=st&&!st.moved;if(st&&st.moved)skimmed(skimKey('page'));st=null;b.classList.remove('grabbing');if(!tap)return;
   const h=hitAt(e.clientX,e.clientY),L=layOf(amudShown),l=h&&(h.l!=null?h.l:L.c[h.c].on);
-  if(l&&D.order[l]!=null&&!$('pageLay').classList.contains('off'))jumpAudio(D.order[l]);   // the audio with the outline, as on the text
-  tapPage(e.clientX,e.clientY)});
+  const o=l&&!$('pageLay').classList.contains('off')?D.order[l]:null;
+  if(o!=null){jumpAudio(o);textHold=Date.now()+2500;   // the audio with the outline, as on the text
+   visibleModes().filter(x=>x!=='page').forEach(x=>paneToLine(x,l,o,false))}   // the other pane before the outline (fromPane)
+  tapPage(e.clientX,e.clientY);if(o!=null)outHold=Date.now()+2000});
  b.addEventListener('pointercancel',()=>{st=null;b.classList.remove('grabbing')});
  b.addEventListener('pointerleave',()=>{if(!st){hovEl=null;drawHover(null);b.style.cursor=''}});
  // wheel/trackpad scrolling of the page counts as the reader moving it
@@ -889,9 +931,10 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
 const outSlider=slider($('outFoot'),{label:tr('Outline text size'),steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.outSize=l;savePrefs();applyOut(l)}});
 // The text side's slider is font size for Gemara and shiur, zoom for the daf page (kept separately).
 let gemSlider=null;
-function setupGemSlider(){
- if(mode==='page'){gemSlider=slider($('gemFoot'),{label:tr('Daf page zoom'),steps:ZOOMS,names:z=>z===1?tr('Fit'):Math.round(z*100)+'%',onInput:z=>{prefs.pageZoom=z;savePrefs();applyPage(z)}});gemSlider.set(prefs.pageZoom??1)}
- else{gemSlider=slider($('gemFoot'),{label:tr('Text size'),steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.textSize=l;savePrefs();applyText(l)}});gemSlider.set(prefs.textSize??0)}
+function setupGemSlider(){setupFoot($('gemFoot'),mode);if(splitOn())setupFoot($('gemFoot2'),mode2)}
+function setupFoot(foot,m){
+ if(m==='page'){gemSlider=slider(foot,{label:tr('Daf page zoom'),steps:ZOOMS,names:z=>z===1?tr('Fit'):Math.round(z*100)+'%',onInput:z=>{prefs.pageZoom=z;savePrefs();applyPage(z)}});gemSlider.set(prefs.pageZoom??1)}
+ else{gemSlider=slider(foot,{label:tr('Text size'),steps:FONT_LEVELS,names:v=>FONT_LABELS[v],onInput:l=>{prefs.textSize=l;savePrefs();applyText(l)}});gemSlider.set(prefs.textSize??0)}
 }
 outSlider.set(prefs.outSize??0);applyOut(prefs.outSize??0);applyText(prefs.textSize??0);applyPage(prefs.pageZoom??1);
 
@@ -901,11 +944,31 @@ function applyOptions(){if(!view)return;view.setLevel(prefs.level||2);
 document.querySelectorAll('#levels button').forEach(b=>b.onclick=()=>{prefs.level=+b.dataset.lv;savePrefs();applyOptions();
  document.querySelectorAll('#levels button').forEach(x=>x.setAttribute('aria-pressed',x===b))});
 ['optShiur','optCharts','optPictures','optSages'].forEach(id=>$(id).onchange=applyOptions);
-function setLang(l){$('gem').dataset.lang=l;document.querySelectorAll('#langSeg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.l===l)));prefs.lang=l;savePrefs()}
-document.querySelectorAll('#langSeg button').forEach(b=>b.onclick=()=>setLang(b.dataset.l));
-function setPane(p){mode=p;
- $('textPane').hidden=p!=='text';$('shiurPane').hidden=p!=='shiur';$('pagePane').hidden=p!=='page';$('langSeg').hidden=p==='page';
- prefs.pane=p;savePrefs();markPaneSeg();setupGemSlider();if(current){const c=current;current=null;setCurrent(c)}}
+function setLang(l){$('gem').dataset.lang=$('gem2').dataset.lang=l;document.querySelectorAll('.seg.lang button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.l===l)));prefs.lang=l;savePrefs()}
+document.querySelectorAll('.seg.lang button').forEach(b=>b.onclick=()=>setLang(b.dataset.l));
+// The text side shows one of Daf / Gemara / Shiur (mode), and on wide screens optionally a second
+// beside it (mode2, in #gem2). Each view lives in one pane at a time: choosing the one the other
+// pane shows swaps them.
+let mode2=null;
+const PANE_EL={text:textPane,shiur:shiurPane,page:$('pagePane')};
+const splitOn=()=>!!mode2&&!narrow.matches&&curView()!=='outline';
+const visibleModes=()=>textHidden()?[]:splitOn()?[mode,mode2]:[mode];
+function layoutPanes(){const sp=splitOn();
+ for(const [m,el] of Object.entries(PANE_EL)){const box=sp&&m===mode2?$('gem2'):$('gem'),foot=sp&&m===mode2?$('gemFoot2'):$('gemFoot');
+  if(el.parentElement!==box)box.insertBefore(el,foot);el.hidden=!(m===mode||(sp&&m===mode2))}
+ $('gem2').hidden=!sp;$('main').classList.toggle('split',sp);
+ $('langSeg').hidden=mode==='page';$('langSeg2').hidden=mode2==='page';
+ $('splitBtn').hidden=sp||narrow.matches||curView()==='outline';
+ document.querySelectorAll('#pane2Seg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.p===mode2)));
+ if(typeof setWidths==='function')setWidths();setupGemSlider()}
+function setPane(p){if(p===mode2)mode2=mode;mode=p;prefs.pane=p;prefs.pane2=mode2||prefs.pane2;savePrefs();
+ layoutPanes();markPaneSeg();if(current){const c=current;current=null;setCurrent(c)}}
+function setPane2(p){if(p===mode)mode=mode2;mode2=p;prefs.pane=mode;prefs.pane2=p;prefs.split=true;savePrefs();
+ layoutPanes();markPaneSeg();if(current){const c=current;current=null;setCurrent(c)}}
+$('splitBtn').onclick=()=>{const ok=m=>m!==mode&&!(HE&&m==='shiur');
+ setPane2([prefs.pane2,'text','page','shiur'].find(m=>m&&ok(m)))};
+$('split2Close').onclick=()=>{mode2=null;prefs.split=false;savePrefs();unskim();layoutPanes()};
+document.querySelectorAll('#pane2Seg button').forEach(b=>b.onclick=()=>{if(b.dataset.p!==mode2)setPane2(b.dataset.p)});
 // On a phone the outline and the text side take turns on the screen; "Outline" in the same switch
 // flips between them. With "Follow the outline" on, each side opens where the other left off.
 const narrow=matchMedia('(max-width:860px)');
@@ -932,7 +995,7 @@ function textSection(){const cur=secs.find(x=>x.id===current);if(!textMoved||mod
  return cur&&cur.a!=null&&o>=cur.a&&o<=cur.b?cur:(sectionForOrder(o)||cur)}
 function applyView(){const v=curView();$('main').dataset.view=v;
  document.body.classList.toggle('oneside',v!=='both');document.body.classList.toggle('outonly',v==='outline'&&!narrow.matches);
- markPaneSeg();if(typeof placeAbar==='function')placeAbar()}
+ layoutPanes();markPaneSeg();if(typeof placeAbar==='function')placeAbar()}
 // v: 'outline' | 'text' | 'both'. On a phone it flips the side shown; elsewhere it sets the layout.
 // With "Follow the outline" on, a side coming into view opens where the other left off.
 function setView(v){const was=curView();
@@ -1212,7 +1275,7 @@ function drawBar(){const bar=$('abar');
 function switchTo(a){aud.pause();A=a;unskim();drawPills();return setEp(0)}
 async function play(){if(!A)return;if(!aud.getAttribute('src'))await setEp(A.ep);unskim();
  try{await aud.play()}catch(e){$('aNote').textContent="The audio didn't start. Check your connection and press play again."}}
-function unskim(){skim.out=skim.text=false;$('backOut').hidden=$('backText').hidden=true;lastLine=null}
+function unskim(){skim.out=skim.text=skim.text2=false;$('backOut').hidden=$('backText').hidden=$('backText2').hidden=true;lastLine=null}
 // A daf comes on screen: offer its shiur, unless another daf's is playing (then it keeps playing).
 async function audioForDaf(d){const sync=HE?null:await loadSync(d);if(D!==d)return;
  S=sync&&sync.episodes&&sync.episodes.length?makeA(d,sync):null;
@@ -1227,7 +1290,7 @@ const RATES=[1,1.25,1.5,1.75,2,0.75];
 $('aRate').onclick=()=>{prefs.rate=RATES[(RATES.indexOf(prefs.rate||1)+1)%RATES.length];savePrefs();aud.playbackRate=prefs.rate;drawBar()};
 $('aEp').onclick=e=>{const b=e.target.closest('[data-ep]');if(!b)return;const was=!aud.paused;aud.pause();setEp(+b.dataset.ep).then(()=>{if(was)play()})};
 $('aFollow').onclick=e=>{const b=e.target.closest('[data-f]');if(!b)return;const f=b.dataset.f;follow[f]=!follow[f];
- prefs[f==='out'?'followOut':'followText']=follow[f];savePrefs();skim[f]=false;$(f==='out'?'backOut':'backText').hidden=true;lastLine=null;drawBar();tick()};
+ prefs[f==='out'?'followOut':'followText']=follow[f];savePrefs();(f==='out'?['out']:['text','text2']).forEach(k=>{skim[k]=false;$(BACK[k]).hidden=true});lastLine=null;drawBar();tick()};
 let seeking=false;
 $('aSeek').addEventListener('input',()=>{seeking=true;$('aTime').textContent=fmtT(+$('aSeek').value/1000*(aud.duration||0))});
 $('aSeek').addEventListener('change',()=>{if(aud.duration)aud.currentTime=+$('aSeek').value/1000*aud.duration;seeking=false;lastLine=null});
@@ -1243,10 +1306,10 @@ function lineNow(){if(!A)return null;const tl=A.tl[A.ep],t=aud.currentTime;let l
  while(lo<=hi){const m=(lo+hi)>>1;if(tl[m].t<=t){best=tl[m];lo=m+1}else hi=m-1}return best}
 function tick(){if(!A||!S||A.id!==S.id||!D||(aud.paused&&lastLine))return;
  const e=lineNow();if(!e||e.l===lastLine)return;lastLine=e.l;const o=D.order[e.l];if(o==null)return;
- markAudio(e.l,o);
- if(aud.paused)return;   // mark where the playhead is, but move nothing until it plays
- if(follow.out&&!skim.out&&view){const s=sectionForOrder(o);if(s&&s.id!==current){audioDriven=true;setCurrent(s.id,true);audioDriven=false}}
- if(follow.text&&!skim.text&&!textHidden())showLine(e.l,o)}
+ if(!aud.paused){   // mark where the playhead is, but move nothing until it plays
+  if(follow.out&&!skim.out&&view){const s=sectionForOrder(o);if(s&&s.id!==current){audioDriven=true;setCurrent(s.id,true);audioDriven=false}}
+  if(follow.text&&!textHidden())showLine(e.l,o)}
+ markAudio(e.l,o)}   // after: turning the daf page to another amud redraws its marks
 function audQuote(o){return quoteEls.find(q=>+q.dataset.o===o)||null}
 function markAudio(l,o){document.querySelectorAll('.aud').forEach(x=>x.classList.remove('aud'));
  const i=itemOrd.indexOf(o);if(i>=0)itemEls[i].classList.add('aud');
@@ -1256,22 +1319,31 @@ function markAudio(l,o){document.querySelectorAll('.aud').forEach(x=>x.classList
  const L=layOf(amudShown);if(rs.length&&L&&L.g[l])$('pageLay').appendChild(outlinePath(L.g[l],'audp'))}
 // Bring the line into the reading band of the side in view (a third of the way down), and leave
 // it alone while it's already there, so the text doesn't twitch with every line.
-function showLine(l,o){const band=(pane,el)=>{const pr=pane.getBoundingClientRect(),r=el.getBoundingClientRect();
-  if(r.top<pr.top+pane.clientHeight*.12||r.bottom>pr.top+pane.clientHeight*.75)pane.scrollTo({top:posIn(pane,el)-pane.clientHeight*.3,behavior:'smooth'})};
- if(mode==='text'){const i=itemOrd.indexOf(o);if(i>=0)band(textPane,itemEls[i])}
- else if(mode==='shiur'){const q=audQuote(o);if(q)band(shiurPane,q)}
- else if(mode==='page'){const a=l.split('.')[0];if(D.images[a]&&a!==amudShown)showAmud(a);
-  const r=$('pageLay').querySelector(`rect.g[data-l="${CSS.escape(l)}"]`),b=$('pageImg');
-  if(r){const br=b.getBoundingClientRect(),rr=r.getBoundingClientRect();
-   if(rr.top<br.top+b.clientHeight*.1||rr.bottom>br.top+b.clientHeight*.8)b.scrollTo({top:Math.max(0,rr.top-br.top+b.scrollTop-b.clientHeight*.3),behavior:'smooth'})}}}
+function showLine(l,o){visibleModes().forEach(m=>{if(!skim[skimKey(m)])paneToLine(m,l,o,true)})}
+// One pane to a line. band (the audio): only when the line has left the reading band, and then a
+// third of the way down, gliding; otherwise (a click elsewhere) straight to it, at the top, at once:
+// Chrome drops a smooth scroll when another starts, and the outline is gliding to its section then.
+function paneToLine(m,l,o,band){const go=(pane,el)=>{const pr=pane.getBoundingClientRect(),r=el.getBoundingClientRect();
+  if(!band||r.top<pr.top+pane.clientHeight*.12||r.bottom>pr.top+pane.clientHeight*.75)pane.scrollTo({top:posIn(pane,el)-(band?pane.clientHeight*.3:8),behavior:band?'smooth':'auto'})};
+ if(m==='text'){const i=itemOrd.indexOf(o);if(i>=0)go(textPane,itemEls[i])}
+ else if(m==='shiur'){const q=audQuote(o)||quoteEls.filter(x=>+x.dataset.o<=o).pop();if(q)go(shiurPane,q)}
+ else if(m==='page'){const a=l.split('.')[0];if(D.images[a]&&a!==amudShown)showAmud(a);
+  const run=()=>{const r=$('pageLay').querySelector(`rect.g[data-l="${CSS.escape(l)}"]`),b=$('pageImg');if(!r)return;
+   const br=b.getBoundingClientRect(),rr=r.getBoundingClientRect();
+   if(!band||rr.top<br.top+b.clientHeight*.1||rr.bottom>br.top+b.clientHeight*.8)b.scrollTo({top:Math.max(0,rr.top-br.top+b.scrollTop-b.clientHeight*(band?.3:.15)),behavior:band?'smooth':'auto'})};
+  $('pageEl').complete?run():$('pageEl').addEventListener('load',run,{once:true})}}
 // Moving a side by hand while listening is skimming: that side stops following, and a button
 // brings it back. A tap is not skimming; only scrolling, dragging or scroll keys.
-function skimmed(side){if(!A||aud.paused||!follow[side]||!S||A.id!==S.id)return;skim[side]=true;$(side==='out'?'backOut':'backText').hidden=false}
+// skim.text: the first text pane; skim.text2: the second
+const BACK={out:'backOut',text:'backText',text2:'backText2'};
+const skimKey=m=>splitOn()&&m===mode2?'text2':'text';
+function skimmed(side){if(!A||aud.paused||!follow[side==='out'?'out':'text']||!S||A.id!==S.id)return;skim[side]=true;$(BACK[side]).hidden=false}
 ['wheel','touchmove'].forEach(ev=>outPane.addEventListener(ev,()=>skimmed('out'),{passive:true}));
 outPane.addEventListener('keydown',e=>{if(/^(Arrow(Up|Down)|Page(Up|Down)|Home|End| )$/.test(e.key))skimmed('out')});
-['wheel','touchmove'].forEach(ev=>[textPane,shiurPane,$('pageImg')].forEach(p=>p.addEventListener(ev,()=>skimmed('text'),{passive:true})));
+['wheel','touchmove'].forEach(ev=>[['text',textPane],['shiur',shiurPane],['page',$('pageImg')]].forEach(([m,p])=>p.addEventListener(ev,()=>skimmed(skimKey(m)),{passive:true})));
 $('backOut').onclick=()=>{skim.out=false;$('backOut').hidden=true;lastLine=null;tick()};
 $('backText').onclick=()=>{skim.text=false;$('backText').hidden=true;lastLine=null;tick()};
+$('backText2').onclick=()=>{skim.text2=false;$('backText2').hidden=true;lastLine=null;tick()};
 // Play from a line: its own time when it is read aloud; else the last line before it (in text
 // order) that is, so a line explained in English starts where its passage is read.
 function timeFor(o){if(!S)return null;
@@ -1294,7 +1366,6 @@ $('outline').addEventListener('click',e=>{const b=e.target.closest('[data-play]'
 // A click on a line moves the audio there as well as the outline (author, 2026-10-07: scrolling is
 // how a reader moves without the audio; a click means "go here"). Playing: it jumps and plays on.
 // Not playing: the shiur is set to start there, so ▶ plays from this line, with nothing heard yet.
-function lineTap(el,o){jumpAudio(o);return false}
 function jumpAudio(o){if(!S||!S.tl.some(t=>t.length)||o==null)return;const at=timeFor(o);if(!at)return;
  if(!aud.paused){playFrom(o);return}
  if(!A||A.id!==S.id){A=S;aud.removeAttribute('src');drawPills()}
@@ -1342,11 +1413,12 @@ $('aPills').onclick=e=>{const b=e.target.closest('[data-i]');if(!b)return;const 
 $('gPills').onclick=e=>{const b=e.target.closest('[data-i]');if(!b||b.disabled)return;const s=gSegs[+b.dataset.i],o=D.order[s.l];
  lightPill($('gPills'),+b.dataset.i);textHold=Date.now()+1500;skimmed('text');
  const sec=sectionForOrder(o);if(sec&&view)setCurrent(sec.id,true);
- if(mode==='text'){const i=itemOrd.indexOf(o);if(i>=0)textPane.scrollTo({top:posIn(textPane,itemEls[i])-8,behavior:'smooth'})}
- else if(mode==='shiur'){const norm=x=>x.replace(/[*_]/g,'').trim().toLowerCase();
-  const h=[...$('shiur').querySelectorAll('h2,h3')].find(x=>norm(x.textContent)===norm(s.title))||audQuote(o);
-  if(h)shiurPane.scrollTo({top:posIn(shiurPane,h)-12,behavior:'smooth'})}
- else if(mode==='page'){const a=s.l.split('.')[0];if(D.images[a])showAmud(a,true);if(!sec||!view)markLayout({a:o,b:o});scrollPageTo()}};
+ for(const m of visibleModes()){
+  if(m==='text'){const i=itemOrd.indexOf(o);if(i>=0)textPane.scrollTo({top:posIn(textPane,itemEls[i])-8,behavior:'smooth'})}
+  else if(m==='shiur'){const norm=x=>x.replace(/[*_]/g,'').trim().toLowerCase();
+   const h=[...$('shiur').querySelectorAll('h2,h3')].find(x=>norm(x.textContent)===norm(s.title))||audQuote(o);
+   if(h)shiurPane.scrollTo({top:posIn(shiurPane,h)-12,behavior:'smooth'})}
+  else if(m==='page'){const a=s.l.split('.')[0];if(D.images[a])showAmud(a,true);if(!sec||!view)markLayout({a:o,b:o});scrollPageTo()}}};
 let pillRaf=0;[textPane,shiurPane].forEach(p=>p.addEventListener('scroll',()=>{if(!pillRaf)pillRaf=requestAnimationFrame(()=>{pillRaf=0;markGPill()})},{passive:true}));
 aud.addEventListener('timeupdate',markAPill);
 
@@ -1548,11 +1620,12 @@ if(prefs.rail===true)setRail(true);
 if(prefs.lang)setLang(prefs.lang);
 if(prefs.level){const b=document.querySelector(`#levels button[data-lv="${prefs.level}"]`);if(b)document.querySelectorAll('#levels button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)))}
 if(prefs.pane)setPane(prefs.pane);
-applyView();setupGemSlider();
+if(prefs.split&&prefs.pane2&&prefs.pane2!==mode)mode2=prefs.pane2;
+applyView();
 
 // ---------- adjustable dividers ----------
 const main=$('main');
-function setWidths(){if(prefs.gemw)main.style.setProperty('--gemw',prefs.gemw+'%');else main.style.removeProperty('--gemw');
+function setWidths(){const main=$('main'),g=main.classList.contains('split')?(prefs.gemsw||30):prefs.gemw;if(g)main.style.setProperty('--gemw',g+'%');else main.style.removeProperty('--gemw');
  if(prefs.railw)main.style.setProperty('--railw',prefs.railw+'px');else main.style.removeProperty('--railw')}
 function dragger(el,apply){
  el.addEventListener('pointerdown',e=>{e.preventDefault();el.setPointerCapture(e.pointerId);el.classList.add('drag');document.body.classList.add('dragging')});
@@ -1563,10 +1636,12 @@ function dragger(el,apply){
 const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
 // Text side: 22–70% of the page, leaving the outline at least ~320px.
 const textOnLeft=()=>main.classList.contains('textleft');   // the same in Hebrew: the columns stay ltr
-dragger($('gGem'),(x,r)=>{const left=textOnLeft();
- const rail=main.classList.contains('rail')&&innerWidth>=1100?(prefs.railw||230):0;
+const gemDrag=(x,r)=>{const left=textOnLeft(),sp=main.classList.contains('split');
+ const rail=!sp&&main.classList.contains('rail')&&innerWidth>=1100?(prefs.railw||230):0;
  const px=left?x-r.left:r.right-x;
- prefs.gemw=+clamp(100*px/r.width,22,Math.min(70,100*(r.width-rail-320)/r.width)).toFixed(1)});
+ if(sp){prefs.gemsw=+clamp(100*px/2/r.width,18,40).toFixed(1);return}   // two panes share the drag
+ prefs.gemw=+clamp(100*px/r.width,22,Math.min(70,100*(r.width-rail-320)/r.width)).toFixed(1)};
+dragger($('gGem'),gemDrag);
 // Contents column: 160–420px.
 dragger($('gRail'),(x,r)=>{const left=textOnLeft();
  if(!RTL){prefs.railw=Math.round(clamp(left?r.right-x:x-r.left,160,420));return}
@@ -1574,10 +1649,8 @@ dragger($('gRail'),(x,r)=>{const left=textOnLeft();
  const g=$('gem').getBoundingClientRect(),edge=g.width?(left?g.right:g.left):(left?r.left:r.right);
  prefs.railw=Math.round(clamp(left?x-edge:edge-x,160,420))});
 // the text side's handle on the Gemara's own edge (Hebrew, with the contents column open)
-dragger($('gGem2'),(x,r)=>{const left=textOnLeft(),px=left?x-r.left:r.right-x,rail=prefs.railw||230;
- prefs.gemw=+clamp(100*px/r.width,22,Math.min(70,100*(r.width-rail-320)/r.width)).toFixed(1)});
-$('gGem2').ondblclick=()=>{delete prefs.gemw;savePrefs();setWidths()};
-$('gGem').ondblclick=()=>{delete prefs.gemw;savePrefs();setWidths()};
+dragger($('gGem2'),gemDrag);
+$('gGem2').ondblclick=$('gGem').ondblclick=()=>{delete prefs.gemw;delete prefs.gemsw;savePrefs();setWidths()};
 $('gRail').ondblclick=()=>{delete prefs.railw;savePrefs();setWidths()};
 setWidths();
 // Start at the daf in the link, else where this reader left off, else the first outline.
