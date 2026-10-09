@@ -1,0 +1,27 @@
+<svg viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rabbi Tarfon lying by the road at night while two robbers approach">
+ <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b2a5a"/><stop offset="1" stop-color="#3b4f8f"/></linearGradient></defs>
+ <rect width="400" height="220" fill="url(#sky)"/>
+ <g fill="#fff" opacity=".85"><circle cx="40" cy="30" r="1.5"/><circle cx="110" cy="18" r="1.5"/><circle cx="180" cy="40" r="1.5"/><circle cx="260" cy="22" r="1.5"/><circle cx="330" cy="45" r="1.5"/><circle cx="370" cy="15" r="1.5"/></g>
+ <circle cx="320" cy="55" r="22" fill="#f6efc8"/><circle cx="311" cy="49" r="22" fill="#2a3a78"/>
+ <path d="M0 150 Q120 130 400 160 L400 220 L0 220Z" fill="#2f3b2a"/>
+ <path d="M-20 215 Q150 150 420 175 L420 220 L-20 220Z" fill="#a89268"/>
+ <rect x="330" y="85" width="9" height="70" fill="#4a3526"/><circle cx="334" cy="78" r="30" fill="#25402d"/><circle cx="352" cy="92" r="20" fill="#2c4a34"/>
+ <!-- Rabbi Tarfon: reclining on his side -->
+ <g transform="translate(95 160)">
+  <ellipse cx="45" cy="30" rx="58" ry="10" fill="#000" opacity=".25"/>
+  <path d="M-5 20 Q20 -12 70 8 L92 22 Q60 34 10 30Z" fill="#e8e2d0"/>
+  <path d="M30 6 Q55 -2 85 14" fill="none" stroke="#c9c0a5" stroke-width="3"/>
+  <circle cx="-8" cy="10" r="13" fill="#e2b48c"/>
+  <path d="M-19 8 Q-8 -6 4 6 L4 14 Q-8 4 -19 14Z" fill="#6b4a2f"/>
+  <path d="M-20 18 Q-8 36 6 20 L4 12 Q-8 24 -19 12Z" fill="#8a8a8a"/>
+  <circle cx="-4" cy="9" r="1.6" fill="#222"/>
+  <path d="M-12 2 Q-8 -8 4 -4 L8 4 Q-4 0 -12 6Z" fill="#2c2c3c"/>
+ </g>
+ <!-- two robbers approaching -->
+ <g fill="#14141c">
+  <g transform="translate(250 112)"><path d="M0 0 Q12 -14 24 0 L28 72 L-4 72Z"/><circle cx="12" cy="-6" r="10"/><path d="M26 18 L46 4" stroke="#14141c" stroke-width="5" stroke-linecap="round"/></g>
+  <g transform="translate(290 120)"><path d="M0 0 Q12 -14 24 0 L28 66 L-4 66Z"/><circle cx="12" cy="-6" r="10"/></g>
+ </g>
+ <g fill="#ffd966"><circle cx="258" cy="106" r="1.6"/><circle cx="266" cy="106" r="1.6"/><circle cx="298" cy="114" r="1.6"/><circle cx="306" cy="114" r="1.6"/></g>
+ <path d="M296 84 l5 -9 l5 9z" fill="#ffd966" opacity="0"/>
+</svg>

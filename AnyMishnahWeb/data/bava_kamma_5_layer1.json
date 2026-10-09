@@ -1,0 +1,443 @@
+{
+ "tractate": "Bava Kamma",
+ "chapter": 5,
+ "status": "draft - outlines written by Claude from Kulp's text, under review",
+ "mishnayot": [
+  {
+   "n": 1,
+   "title": "The ox, the cow and the calf: before or after?",
+   "summary": "When it is unclear whether the calf was lost because of the goring, the owner pays a quarter of its value, half of the disputed half.",
+   "outline": [
+    {
+     "h": "The case",
+     "b": [
+      [
+       "An ox that is accounted harmless gored a cow and killed it. A dead newborn calf lies beside her.",
+       "Kulp 5:1"
+      ],
+      [
+       "It is unclear whether the calf was born before the goring or lost because of it.",
+       "Kulp 5:1"
+      ]
+     ]
+    },
+    {
+     "h": "What he pays",
+     "b": [
+      [
+       "For the cow: half damages, the usual law for a harmless animal.",
+       "Kulp 5:1"
+      ],
+      [
+       "For the calf: if the goring caused the miscarriage he would owe half damages for it; if it was lost earlier, nothing. The mishnah splits the doubt: a quarter damages.",
+       "Kulp 5:1"
+      ]
+     ]
+    },
+    {
+     "h": "The reverse case",
+     "b": [
+      [
+       "A cow gored an ox, and a living newborn is at her side. The gored owner collects up to half damages from the cow, and a quarter of the damages from the newborn if more is owed.",
+       "Kulp 5:1"
+      ],
+      [
+       "An example: the ox was worth 500, so half damages is 250. The cow is worth 200, so he collects 200 from her and 25 from the newborn.",
+       "Kulp 5:1"
+      ]
+     ]
+    },
+    {
+     "h": "Why split the money?",
+     "b": [
+      [
+       "Usually the burden of proof is on the one claiming (3:8). Here the mishnah follows the other view: in a doubt about whose money it is, they split. The Mishnah is a collection of laws and traditions, not a code without contradictions.",
+       "Kulp 5:1"
+      ]
+     ]
+    }
+   ],
+   "chart": {
+    "title": "The doubt about the calf",
+    "cols": [
+     "If the calf was lost...",
+     "He pays for the calf"
+    ],
+    "rows": [
+     [
+      "because of the goring",
+      "half damages"
+     ],
+     [
+      "before the goring",
+      "nothing"
+     ],
+     [
+      "unknown (the mishnah's case)",
+      "a quarter damages (the split)"
+     ]
+    ]
+   },
+   "picture": [
+    "bk5-1.jpg",
+    "Two possibilities in the boxes: the calf was already born (left), or the cow was still pregnant when gored (right). The ox's owner pays a quarter damages for the calf."
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Pots and produce in someone else's courtyard",
+   "summary": "If you bring your things into a courtyard without permission, the householder is not liable for damage to them. With permission, he is.",
+   "outline": [
+    {
+     "h": "Without permission",
+     "b": [
+      [
+       "A potter brought pots into a householder's courtyard without permission and the cattle broke them: the householder is not liable.",
+       "Kulp 5:2"
+      ],
+      [
+       "If the cattle were injured by the pots, the owner of the pots is liable.",
+       "Kulp 5:2"
+      ],
+      [
+       "This is trespassing: the householder can say, I never gave you permission.",
+       "Kulp 5:2"
+      ]
+     ]
+    },
+    {
+     "h": "With permission",
+     "b": [
+      [
+       "If he brought them in by permission and the cattle broke them, the owner of the courtyard is liable.",
+       "Kulp 5:2"
+      ],
+      [
+       "It can be assumed, though it is not stated, that in this case the visitor would not be liable if his things injured the householder's cattle.",
+       "Kulp 5:2 (implied)"
+      ]
+     ]
+    },
+    {
+     "h": "Produce",
+     "b": [
+      [
+       "The same rules apply to a man who brought produce that the cattle ate.",
+       "Kulp 5:2"
+      ]
+     ]
+    }
+   ],
+   "chart": {
+    "title": "Who pays?",
+    "cols": [
+     "Situation",
+     "No permission",
+     "With permission"
+    ],
+    "rows": [
+     [
+      "The householder's cattle damage the visitor's goods",
+      "Householder is exempt",
+      "Householder pays"
+     ],
+     [
+      "The visitor's goods injure the householder's cattle",
+      "Visitor pays",
+      "Not stated (the visitor would be exempt)"
+     ]
+    ]
+   },
+   "picture": [
+    "bk5-2a.jpg",
+    "No permission: the householder is exempt (the gate is marked no entry)."
+   ],
+   "picture2": [
+    "bk5-2b.jpg",
+    "With permission: the householder, who waves him in, pays."
+   ]
+  },
+  {
+   "n": 3,
+   "title": "A man brings his ox into a courtyard",
+   "summary": "The same rules as the last mishnah, applied to a visiting ox, plus a cistern and the view of Rabbi.",
+   "outline": [
+    {
+     "h": "Without permission",
+     "b": [
+      [
+       "If the householder's ox gored the visiting ox, or his dog bit it, the householder is not liable.",
+       "Kulp 5:3"
+      ],
+      [
+       "If the visiting ox gored the householder's ox, its owner is liable.",
+       "Kulp 5:3"
+      ],
+      [
+       "If it fell into the cistern and polluted its water, he is liable.",
+       "Kulp 5:3"
+      ],
+      [
+       "If it fell in and killed the householder's father or son, the ox's owner pays the ransom price (Exodus 21:30).",
+       "Kulp 5:3"
+      ]
+     ]
+    },
+    {
+     "h": "With permission",
+     "b": [
+      [
+       "The owner of the courtyard is liable.",
+       "Kulp 5:3"
+      ]
+     ]
+    },
+    {
+     "h": "Rabbi's view",
+     "b": [
+      [
+       "Rabbi (Rabbi Judah Hanasi): the householder is liable only if he agreed to watch over it. Letting someone enter does not by itself accept responsibility for his belongings. The first view holds that it does.",
+       "Kulp 5:3"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "An ox or a man strikes a woman and she miscarries",
+   "summary": "A man who causes a miscarriage pays for the offspring; an ox's owner does not. (This mishnah deals with a sensitive subject; the picture below is a diagram only.)",
+   "outline": [
+    {
+     "h": "Who pays",
+     "b": [
+      [
+       "An ox aimed at another ox and struck a woman, and she miscarried: its owner does not pay for the offspring.",
+       "Kulp 5:4"
+      ],
+      [
+       "A man who aimed at another man and struck a woman: he pays for the offspring.",
+       "Kulp 5:4"
+      ],
+      [
+       "Exodus 21:22 speaks of men fighting, so the law does not apply to an ox.",
+       "Kulp 5:4"
+      ]
+     ]
+    },
+    {
+     "h": "How the value is set",
+     "b": [
+      [
+       "First view: they assess the woman's value before she gave birth and after.",
+       "Kulp 5:4"
+      ],
+      [
+       "Rabban Shimon ben Gamaliel: a woman is worth more after giving birth, since childbirth was dangerous, so that cannot work. Instead they assess what the offspring itself would be worth.",
+       "Kulp 5:4"
+      ],
+      [
+       "The payment goes to the husband, or to his heirs if she has no husband.",
+       "Kulp 5:4"
+      ]
+     ]
+    },
+    {
+     "h": "No penalty",
+     "b": [
+      [
+       "If she was a freed bondwoman or a convert, no penalty is incurred. Two explanations: there is no legal father to collect, or the husband has no heirs.",
+       "Kulp 5:4"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "The pit",
+   "summary": "Whoever digs a pit is liable if an animal falls in and dies, but only if the pit is ten handbreadths deep.",
+   "outline": [
+    {
+     "h": "Where it applies",
+     "b": [
+      [
+       "This is the second archetypal cause of damage (Exodus 21:33-34). A pit dug in a private domain opening to the public, or the reverse, or one private domain opening into another: he is liable.",
+       "Kulp 5:5"
+      ],
+      [
+       "If he digs it in the public domain and an ox or donkey falls in and dies, he is liable.",
+       "Kulp 5:5"
+      ],
+      [
+       "The one exception: someone entered his private land without permission and fell in.",
+       "Kulp 5:5"
+      ]
+     ]
+    },
+    {
+     "h": "Any hole",
+     "b": [
+      [
+       "It makes no difference whether it is a pit, trench, cavern, ditch or channel.",
+       "Kulp 5:5"
+      ],
+      [
+       "Why does the Torah say pit? To teach the depth: ten handbreadths, about a yard, which is deep enough to cause death.",
+       "Kulp 5:5"
+      ]
+     ]
+    },
+    {
+     "h": "Shallower than ten",
+     "b": [
+      [
+       "If an animal falls in and dies, he is not liable.",
+       "Kulp 5:5"
+      ],
+      [
+       "If the animal is only injured, he is liable, since a shallower hole is likely to injure.",
+       "Kulp 5:5"
+      ]
+     ]
+    }
+   ],
+   "chart": {
+    "title": "Who pays for the animal?",
+    "cols": [
+     "Depth of the pit",
+     "Animal dies",
+     "Animal injured"
+    ],
+    "rows": [
+     [
+      "Ten handbreadths or more",
+      "Digger pays",
+      "Digger pays (implied)"
+     ],
+     [
+      "Less than ten",
+      "Digger is exempt",
+      "Digger pays"
+     ]
+    ]
+   },
+   "picture": [
+    "bk5-5.jpg",
+    "Left box: a ten-handbreadth pit, the ox died: he pays. Right box: nine handbreadths, the ox died: he does not pay."
+   ]
+  },
+  {
+   "n": 6,
+   "title": "The pit: partners, covers and what falls in",
+   "summary": "The last partner to leave the pit uncovered is liable. Then a series of limits.",
+   "outline": [
+    {
+     "h": "Partners and covering",
+     "b": [
+      [
+       "Two partners own a pit. One passed it and did not cover it, then the other also did not: the second is liable. Even if the first covered it and the second found it open and did not cover it, the second is liable.",
+       "Kulp 5:6"
+      ],
+      [
+       "If it was properly covered and an ox or donkey still fell in and died, he is not liable.",
+       "Kulp 5:6"
+      ]
+     ]
+    },
+    {
+     "h": "The sound of digging",
+     "b": [
+      [
+       "An animal frightened by the digging and falling forward: the owner is liable. Falling backward: not liable. (This follows one explanation, Albeck's; there are others.)",
+       "Kulp 5:6"
+      ]
+     ]
+    },
+    {
+     "h": "The load, and who falls",
+     "b": [
+      [
+       "Trappings that break: liable for the animal, exempt for the trappings.",
+       "Kulp 5:6"
+      ],
+      [
+       "A deaf, insane or young ox: the owner is liable; an adult capable ox is by inference exempt.",
+       "Kulp 5:6"
+      ],
+      [
+       "A person (boy, girl, slave or bondwoman) who falls in: he is not liable.",
+       "Kulp 5:6"
+      ]
+     ]
+    }
+   ],
+   "chart": {
+    "title": "Rulings about the pit",
+    "cols": [
+     "What happened",
+     "Pit owner pays?"
+    ],
+    "rows": [
+     [
+      "Two partners; the last one left it uncovered",
+      "The last one, yes"
+     ],
+     [
+      "It was properly covered and an ox fell in and died",
+      "No"
+     ],
+     [
+      "Animal frightened by the digging, falls forward",
+      "Yes"
+     ],
+     [
+      "Animal frightened by the digging, falls backward",
+      "No"
+     ],
+     [
+      "An animal's trappings break",
+      "No (yes for the animal)"
+     ],
+     [
+      "A deaf, insane or young ox falls in",
+      "Yes"
+     ],
+     [
+      "A person falls in",
+      "No"
+     ]
+    ]
+   },
+   "picture": [
+    "bk5-6.jpg",
+    "Left box: a properly covered pit, no payment. Right box: the open pit, the ox died. The tag over the second partner marks the one who pays."
+   ]
+  },
+  {
+   "n": 7,
+   "title": "An ox is just an example",
+   "summary": "For eight laws the Torah says ox, but the rule applies to all animals, including wild animals and birds.",
+   "outline": [
+    {
+     "h": "The list",
+     "b": [
+      [
+       "Falling into a pit; keeping away from Mount Sinai (Exodus 19:13); two-fold restitution (Exodus 22:3, 8); lost property (Exodus 23:4, Deuteronomy 22:1); unloading (Exodus 23:5); muzzling (Deuteronomy 25:4); diverse kinds (Leviticus 19:19, Deuteronomy 22:10); the Sabbath (Exodus 20:10, Deuteronomy 5:14).",
+       "Kulp 5:7"
+      ]
+     ]
+    },
+    {
+     "h": "Why does it say ox or donkey?",
+     "b": [
+      [
+       "The Torah spoke of prevailing conditions: oxen were the most frequently used animals.",
+       "Kulp 5:7"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

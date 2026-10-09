@@ -1,0 +1,85 @@
+# AnyMishnahWeb — project guide (started 2026-10-09)
+
+A web app for learning Mishnah in two layers, modelled on `../AnyDafWeb/` (read its DESIGN.md).
+**Layer 1, simple reading** (plain meaning; may be the only layer for a grade-school audience): short
+outline, who's-who, charts, and at least one picture per mishnah. **Layer 2, deeper reading**: how the
+Gemara explains, expands and reframes the mishnah, distilled from Kehati. Other files: `DESIGN.md`
+(architecture), `STYLE_BIBLE.md` (illustration rules and results, the single source for prompting
+lessons), `BRIEF_TEMPLATE.md` (picture briefs). First chapters: Berakhot 1 (prototype page built),
+Bava Kamma 5 (briefs drafted, clay prompts next).
+
+## Working rules (from the author)
+- **Source first, never my own understanding.** Content comes from the source text (Kulp on Sefaria;
+  Kehati pages for layer 2) and every outline line carries a source tag. My memory is not a source:
+  my first draft had the Eliezer/anonymous opinions in Berakhot 1:2 backwards. Anything beyond the
+  sources is flagged as mine and not published without approval.
+- **Do not invent citations.** Kehati passages say "the Gemara explains" without folios; write "folio TBD".
+- Kehati is copyrighted: use it as research input only; publish our own summaries with citations.
+- The author reviews pictures by hand; ask for specifics on what they should look for.
+
+## Sources and licensing
+Hebrew: Mishnah ed. Romm Vilna 1913 (public domain). English + explanation: Mishnah Yomit by Dr. Joshua
+Kulp via Sefaria, **CC-BY** (credit him; Sefaria refs `Mishnah_Yomit` version, commentary title
+"English Explanation of Mishnah"). Bartenura (Silverstein) CC-BY. Kehati is NOT on Sefaria; the author
+has page photos and expects PDFs. Sefaria's API is slow and flaky (retry; some tractate counts differ:
+its index gave 62 tractates/519 chapters/4,084 mishnayot vs standard 63/524-525/~4,187).
+
+## Files and scripts
+`scripts/fetch_sefaria.py <Tractate> <chapter>` -> `data/<tractate>_<n>.json`; `scripts/build_page.py`
+-> `prototype/berakhot_1.html` (static page: Hebrew, Kulp, outline, charts, picture slots, layer 2);
+`scripts/sample_mishnah_types.py` (60-mishnah sample; uses ANTHROPIC_API_KEY from
+`../../AnyYCTorah/scripts/content_index/.env`, never print it); `data/*_layer1_draft.json`,
+`data/*_briefs.json`. Per CLAUDE.md model rule: Haiku for classification, Sonnet for briefs/judgment.
+
+## Pictures: what we learned (details in STYLE_BIBLE.md)
+- Picture = the case plus the **stake**: thought bubbles showing the alternatives ("Which came first?",
+  blue/white vs blue/green) with "?" or check/cross; labels are added later as live text. Mishnayot split
+  roughly (60-sample): case 37%, sequence 17%, object 18%, list/definition 22%; ~45-60% suit a generated
+  scene, ~a third are really SVG tables/diagrams, ~10% have no sensible picture.
+- **Style decision: plasticine clay (generic, not copying any creator), Gemini image model (Nano Banana),
+  reference image attached per recurring character, full rule block in EVERY request** (a new chat
+  carries nothing over). Round 1 ranking by the author's taste: Gemini, Flux, OpenAI. Toy-brick looks
+  great but reads as Lego (trademark risk; never say LEGO). Teen tier = graphic-novel direction (not built).
+- Rules that worked: no text/letters in the image; scrolls never bound books; show the needed time of
+  day (dawn in the window); label space is plain wall/sky inside the scene, not a white band; every
+  figure has a full face; **bubbles must differ: say how many figures each holds and what they do**;
+  describe recurring characters from their reference image (the model follows the written text over the
+  image); give each recurring character one distinguishing feature; no speech bubbles with words.
+- **Check every prop and pose for unintended causation** (a dropped basket made the potter, not the cow, the cause in BK 5:2).
+- **Be specific; soften by style, not omission** (scene must state the case's facts: gored cow, dead calf,
+  smoke from the ox's nostrils; death = stillness + closed eyes; red mark on horns only in teen tier).
+  Sensitive topics (e.g. BK 5:4 miscarriage) -> diagram only for kids.
+- **Visual vocabulary** (STYLE_BIBLE.md): framed boxes (no icon, no tail) for halakhic alternatives, thought bubbles only for real thoughts; scale+coins vs empty scale for pays/doesn't; open gate vs no-entry for permission; numerals allowed, words not; the '?' floats in the gap BETWEEN the two panels, never inside one; check legal logic of every symbol pair. Round 3 (BK 5, first-time test): all four came out good-looking but the stakes needed these devices.
+- Reference-image consistency worked for one and two characters; three+ not yet tested.
+
+## Costs (checked 2026-10-09; third-party and Google pricing page, verify)
+Gemini image output at 1K: Nano Banana 2 (`gemini-3.1-flash-image`) $0.067 std / $0.034 batch;
+Nano Banana 2.1 (`gemini-nano-banana-2.1`) ~$0.034 / ~$0.017; Lite same as 2.1 but weaker. Whole
+Mishnah ~2,300-4,200 pictures: ~$40-$280 (kids tier; double with a teen tier). Which model the Gemini
+app used is unknown (Gemini's self-report was contradictory); resolve with a paid API account and a same-
+prompt comparison. Text/outline LLM cost for the whole Mishnah not yet measured.
+
+## Open items
+1. Author runs clay prompts for BK 5:1, 5:2, 5:5, 5:6 unedited (first-time hit-rate test); then a
+   Taharot chapter. 2. Paid Gemini API key in a local .env (author places it) + 2-vs-2.1 comparison.
+3. Layer-1 outlines for mishnayot 3-5 of Berakhot 1 were not source-tagged; verify all against Kulp.
+4. Kehati PDFs -> layer 2 for the rest of Berakhot 1. 5. Tag each outline line with its source.
+6. Missing tractate in Sefaria count. 7. Teen style, three-character consistency, sage-face decision
+   made: full but stylized.
+
+## Round 4 lessons (BK 5, v2 prompts)
+Layouts: action scene + two boxes (one case, alternatives/outcomes) vs a two-scene diptych (two cases, two rulings; same basic setup, not identical, so two independent prompts work and can be batched; an edit of the first is optional). Pay/not-pay = scale badge in the upper-right corner of the box, coins in the right pan only. Dead animals on their backs with X eyes. Don't say 'tiny'. Keep the case entirely inside its setting. Prompts: data/bava_kamma_5_prompts_v3.md.
+
+## Overlay symbols (2026-10-09)
+Pay/does-not-pay badges, the '?' and other outside-the-scene symbols are composited from one master set, not generated. `scripts/detect_boxes.py` finds box corners (works; ~1 cent/image). Use `data/bava_kamma_5_prompts_v4.md` (no badges in prompts) and `data/master_symbols_prompts.md`. v3 prompts are superseded for the next run, but the author's current test run uses v3 (badges generated), which measures drift.
+
+Round 5 (v3 results): see STYLE_BIBLE.md 'Round 5 lessons'. Use data/bava_kamma_5_prompts_v5.md. Payer tag/arrow overlay located by scripts/detect_person.py.
+
+## Automation plan and what is NOT yet proven (2026-10-09)
+Rules were learned by iterating on BK 5 (and Berakhot 1); transfer to untouched chapters is unmeasured. Real labor is (1) checking each brief's legal logic (e.g. the BK 5:5 death-at-ten vs death-at-nine mistake was a content error no image check catches) and (2) reviewing thousands of pictures. Plan: Claude writes briefs/prompts from Kulp with the template + rule block + cast + symbol vocabulary; author reviews brief TEXT; automatic vision checklist after each generation (two boxes, no extra people, no text, dead-animal convention, round pits, cast match) with auto-regeneration up to a few tries; author reviews by exception from contact sheets (est. 10-20 s/picture, ~6-13 h for ~2,300 pictures, an estimate); paired scenes = two linked API calls with the first image attached. Deciding experiment: run the unchanged pipeline on a fresh chapter (Zeraim or Taharot) and measure the first-try pass rate and author seconds per picture.
+
+## First deployment (2026-10-09)
+Site folder `site/` (static; built by `scripts/build_site.py` from `data/bava_kamma_5.json` + `data/bava_kamma_5_layer1.json`; pictures composited by `scripts/compose_bk5.py` from the author's generated images + clay badges cut out by `scripts/make_badges.py`). Deployed to Vercel project `anymishnah-web` (account dovlinzer): https://anymishnah-web.vercel.app (link-only, X-Robots-Tag noindex; the per-deployment URLs are SSO-protected, the main alias is public). Redeploy: `cd site && vercel deploy --prod --yes`. Contains only Bava Kamma 5 (outlines drafted by Claude from Kulp, source-tagged; AI-generated illustrations disclosed in the footer). Berakhot 1 is deliberately NOT published (its layer 2 paraphrases Kehati from photographed pages). Known blemishes: a faint inset-rectangle artifact in the corner of the 5:1 boxes; crude animal icons in the 5:7 SVG. The generated originals (36, 38-42) are saved in `data/generated_originals/` (38=5:5, 39=5:6, 40=5:2b, 41=5:2a, 42=5:1, 36=the v3 picture the badges were cut from).
+
+## Site revision, same day (2026-10-09, author's seven requests)
+Layout is now two panels per mishnah like AnyDafWeb: outline/charts on the LEFT, Mishnah panel on the RIGHT (Hebrew, translation, pictures, then 'Kulp's commentary'; never call it 'explanation'). Sticky 'Jump to mishnah' pills 1-7. No 'Simple reading' or 'Deeper layer' labels and no Kulp references in the outlines (the source tag is still stored per bullet in data/bava_kamma_5_layer1.json, just not displayed; the CC-BY credit stays in the footer). Diagrams (5:3, 5:4, 5:5, 5:7) are drawn in the AnyDaf style: `site/sprite.svg` is a copy of `daf-processor/outline/sprite.svg` (figures via <use href>, 'sky' gradient, Public Sans); matrices use a narrow viewBox (520) so text renders large. `scripts/erase_corner_notch.py` removes the stray inset rectangle from box corners by pixel analysis (vision coordinates alone were ~60px off and smeared the picture). Pipeline order: erase_corner_notch (42, 39) -> compose_bk5 (badges, payer tag) -> build_site -> `cd site && vercel deploy --prod --yes`. Lesson: when a vision model gives coordinates, verify them visually before trusting them for edits.

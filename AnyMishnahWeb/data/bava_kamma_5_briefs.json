@@ -1,0 +1,94 @@
+{
+ "tractate": "Bava Kamma",
+ "chapter": 5,
+ "status": "draft - for review",
+ "source_note": "Briefs drafted from the Kulp translation text only (Sefaria). Kulp's explanations not yet read for this chapter; check before publishing.",
+ "briefs": [
+  {
+   "n": 1,
+   "teaching": "If an ox gored a cow and a newborn calf is found beside it, and it is not known whether the calf was born before or after the goring, the ox's owner pays half damages for the cow and a quarter for the calf.",
+   "kind": "case",
+   "render": "both",
+   "scene": "A farm yard. A gored cow lies still on the ground on her side, eyes closed, with a dead newborn calf lying still beside her. An ox stands a little way off, head lowered, horns pointing toward the cow, with smoke or steam coming from its nostrils. A farmer scratches his head, puzzled.",
+   "stake": "Two framed panels (not thought bubbles) above the scene, each with a tiny clay ox charging at a cow. Left panel: a cow with a newborn calf already beside her (calf born first). Right panel: a visibly pregnant cow (goring first, birth after). A '?' between the panels.",
+   "must_show": "cow, calf, ox, farmer, the two possible orders of events.",
+   "avoid": "Gore or open wounds (kids tier); the ruling shown as a verdict (amounts go in the overlay). Death is shown by stillness and closed eyes.",
+   "overlay": "'Which came first?'; 'Pays half for the cow, a quarter for the calf.'",
+   "source": "Mishnah 5:1",
+   "scene_teen": "Same, but the ox has a small red mark on its horns."
+  },
+  {
+   "n": 2,
+   "teaching": "Entering someone's courtyard without permission: the householder is not liable if his animals break the intruder's pots or eat his produce, but the intruder is liable if the animals are injured by them. With permission, the householder is liable.",
+   "kind": "case",
+   "render": "both",
+   "scene": "A courtyard in front of a stone house. The householder stands in his doorway. A potter stands just inside the gate with both hands on his cheeks in dismay, holding nothing. Several clay pots lie broken on the ground, and a cow stands right among them, a hoof on a shard, a pot-fragment hanging from her horn, looking guilty.",
+   "stake": "Two framed panels above the scene; the potter appears in BOTH. Left panel (no permission): closed gate with a red no-entry circle, the potter standing outside, the broken pots in the yard, and a level balance scale with both pans empty beside the householder (he does not pay). Right panel (with permission): open gate, the householder waving the potter in, the same broken pots, and a balance scale tipped down by a stack of gold coins beside the householder (he pays).",
+   "must_show": "potter, broken pots, cow, householder in doorway, gate; the permission difference.",
+   "avoid": "Anything that makes the potter the cause (no dropped basket, no pots in his hands, no tripping); making him look like a thief; the mishnah says only 'without permission'.",
+   "overlay": "'Without permission' / 'With permission'; who pays.",
+   "source": "Mishnah 5:2"
+  },
+  {
+   "n": 3,
+   "teaching": "A man brings his ox into a householder's courtyard without permission and the householder's ox gores it or his dog bites it: the householder is not liable. If it gores the householder's ox, the visitor is liable; if it falls into the cistern and fouls the water he is liable. With permission the householder is liable. (Rabbi: only if he agreed to watch it.)",
+   "kind": "case",
+   "render": "svg",
+   "scene": "A table (SVG) comparing 'without permission' and 'with permission' for each incident, with small icons of an ox, a dog, a cistern.",
+   "stake": "Who pays in each case. The idea repeats 5:2, so one chart can cover both mishnayot.",
+   "must_show": "the permission column and each incident's result.",
+   "avoid": "Over-simplifying Rabbi's view (liable only if the householder agreed to guard).",
+   "overlay": "All labels and results.",
+   "source": "Mishnah 5:3"
+  },
+  {
+   "n": 4,
+   "teaching": "An ox that aimed at another ox and struck a woman, causing a miscarriage: no payment for the offspring. A man who aimed at another man and struck a woman: he pays for the offspring (assessed as Rabban Shimon ben Gamliel explains).",
+   "kind": "case",
+   "render": "svg",
+   "scene": "SENSITIVE (miscarriage). For the kids version, use a diagram only: two paths, an ox that aims at an ox and a man who aims at a man, each with an arrow that misses and lands on a woman, and a result box ('no payment' / 'pays for the offspring').",
+   "stake": "The difference between an animal and a person who intends harm.",
+   "must_show": "ox path vs person path; result boxes.",
+   "avoid": "Any depiction of harm to a pregnant woman; clay scenes for the kids tier. A scene for the teen/adult tier is optional and needs your decision.",
+   "overlay": "'Ox: no payment' / 'Man: pays'.",
+   "source": "Mishnah 5:4"
+  },
+  {
+   "n": 5,
+   "teaching": "One who digs a pit in the public domain is liable if an ox or donkey falls in and dies. A pit is dangerous at ten handbreadths deep; less than ten and the animal dies, he is not liable, but if it is only injured he is liable.",
+   "kind": "case",
+   "render": "both",
+   "scene": "A dirt road at daytime. A man in work clothes stands next to a freshly dug open pit at the roadside, spade in hand. An ox walks along the road and has stopped at the edge, looking down into the pit, one front hoof near the rim. A measuring rod stands upright inside the pit, marked in ten equal sections, the top section level with the ground.",
+   "stake": "Two framed panels above the scene. Left: a deep pit, the rod's top notch marked 10, an ox lying still at the bottom, a scale tipped down by gold coins (he pays). Right: a shallower pit, the rod's top notch marked 9, the same ox lying still, a level scale with both pans empty (he does not pay). (Injury at any depth is also liable; that goes in the outline, not the picture.)",
+   "must_show": "man, spade, open pit, ox at the edge, rod with notches; numerals 10 and 9 on the rods only; pays/not-pays scales.",
+   "avoid": "The animal's death shown graphically (show it standing at the edge or looking down).",
+   "overlay": "'10 handbreadths'; 'Death vs. injury'.",
+   "source": "Mishnah 5:5"
+  },
+  {
+   "n": 6,
+   "teaching": "Partners with a pit: the one who passed it last, leaving it uncovered, is liable. If he covered it properly and an animal still falls, he is not liable. Many details follow (animals frightened by the digging sound, trappings, deaf or young animals, children).",
+   "kind": "case",
+   "render": "both",
+   "scene": "A field path beside an open pit with a wooden cover board lying on the ground next to it. Two partners are there. The first partner is already walking away down the path, looking back over his shoulder. The second partner stands at the edge of the pit looking down into it, hands on his hips, the cover board at his feet; he has not picked it up.",
+   "stake": "Two framed panels above the scene, no arrows. Left: the pit properly covered by the board, an ox standing safely on it, a level scale with both pans empty (no payment). Right: the open pit, an ox fallen in, the second partner standing beside it, a scale tipped down by gold coins (he pays).",
+   "must_show": "two partners, open pit, board on the ground, one leaving; the second looking at the pit.",
+   "avoid": "Trying to show every detail of the mishnah; the other rulings go in the outline.",
+   "overlay": "'The second partner is liable.'",
+   "source": "Mishnah 5:6"
+  },
+  {
+   "n": 7,
+   "teaching": "An ox and all other animals are alike for a list of laws (the pit, keeping away from Mount Sinai, two-fold restitution, lost property, unloading, muzzling, diverse kinds, Shabbat). Scripture said 'ox or donkey' because those are the usual cases.",
+   "kind": "list",
+   "render": "svg",
+   "scene": "A row of animals (ox, donkey, a wild animal, a bird) under one banner; below it the eight laws as small labeled icons.",
+   "stake": "They are all treated the same.",
+   "must_show": "the animals together and the list.",
+   "avoid": "Implying that every law applies to every animal in every detail.",
+   "overlay": "The list of laws.",
+   "source": "Mishnah 5:7"
+  }
+ ],
+ "visual_vocabulary_note": "See STYLE_BIBLE.md 'Visual vocabulary' (panels vs thought bubbles; pays/not-pays scale; open gate vs no-entry). The '?' goes in the gap between the two panels."
+}

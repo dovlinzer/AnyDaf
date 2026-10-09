@@ -1,0 +1,335 @@
+{
+ "tractate": "Berakhot",
+ "chapter": 1,
+ "status": "draft",
+ "layer": 1,
+ "mishnayot": [
+  {
+   "n": 1,
+   "title": "When can we say Shema at night?",
+   "summary": "Three sages give three deadlines for the evening Shema.",
+   "outline": [
+    {
+     "h": "The question",
+     "b": [
+      "From what time may we say the evening Shema? From when the kohanim go in to eat their terumah, once night begins."
+     ]
+    },
+    {
+     "h": "How late?",
+     "b": [
+      "Rabbi Eliezer: until the end of the first third of the night.",
+      "The Sages: until midnight.",
+      "Rabban Gamliel: until dawn."
+     ]
+    },
+    {
+     "h": "The story",
+     "b": [
+      "Rabban Gamliel's sons came home late from a wedding feast and said they had not yet said Shema.",
+      "He told them: if dawn hasn't come, you still must."
+     ]
+    },
+    {
+     "h": "A fence",
+     "b": [
+      "Rabban Gamliel: whenever the Sages say \"until midnight,\" the mitzvah can really be done until dawn.",
+      "Examples: burning the fats and limbs on the altar; eating offerings that must be eaten within a day.",
+      "Why did the Sages say midnight? To keep a person far from transgression."
+     ]
+    }
+   ],
+   "chart": {
+    "type": "timeline",
+    "title": "The night",
+    "marks": [
+     "Nightfall",
+     "End of 1st watch (R. Eliezer)",
+     "Midnight (Sages)",
+     "Dawn (R. Gamliel)"
+    ]
+   },
+   "who": [
+    "R. Eliezer",
+    "The Sages",
+    "Rabban Gamliel"
+   ],
+   "illustrations": [
+    {
+     "brief": "Night scene in a courtyard: kohanim in simple white garments walk into a house at dusk, first stars appearing, warm lamplight in doorway."
+    },
+    {
+     "brief": "Rabban Gamliel's two grown sons burst in at the first light of dawn, flushed from a feast, as he looks up from a scroll by a lamp."
+    }
+   ],
+   "layer2": {
+    "status": "draft",
+    "source": "Kehati Berakhot 1:1, photographed pages ג–ז (read from images; recheck against PDF)",
+    "note": "Gemara folios are not given in the Kehati passages read so far; marked 'folio TBD'.",
+    "sections": [
+     {
+      "h": "Why does the Mishnah start with a time?",
+      "src": "Kehati p. ג",
+      "kind": "framing",
+      "b": [
+       "The duty to say Shema comes from Deuteronomy 6:7. Kehati says the Mishnah does not teach the duty itself but starts by asking when, since the verse (\"when you lie down and when you rise\") already gives the duty. (Gemara point; folio TBD)",
+       "Evening comes first because the Torah's day starts at night: \"it was evening and it was morning\" (Genesis 1)."
+      ]
+     },
+     {
+      "h": "What starts the evening? Priests and terumah",
+      "src": "Kehati pp. ג–ד",
+      "kind": "reframing",
+      "b": [
+       "Terumah may be eaten only by pure priests. A priest who became impure and immersed must still wait until sunset (Leviticus 22:7, \"when the sun sets, he is pure\").",
+       "The Gemara reads \"and he is pure\" as referring to the sun, meaning the day itself \"becomes pure.\" The wait is until night, not for the priest to be further cleansed.",
+       "So the Mishnah's \"when the priests enter to eat\" means nightfall (when the stars appear). The Gemara asks why it did not just say \"nightfall\": because it also teaches the terumah law, and the Mishnah's phrasing is itself a lesson in priestly eagerness (Kehati p. ד)."
+      ]
+     },
+     {
+      "h": "Rabbi Eliezer: the first watch",
+      "src": "Kehati p. ד",
+      "kind": "explanation",
+      "b": [
+       "The night has three watches (ashmurot). Rabbi Eliezer's limit is the end of the first one.",
+       "Reason (Gemara): \"when you lie down\" is the time when most people go to sleep, which is the first third of the night."
+      ]
+     },
+     {
+      "h": "Do the Sages really disagree with Rabban Gamliel?",
+      "src": "Bartenura p. ה; Kehati p. ו",
+      "kind": "reframing",
+      "b": [
+       "Plain reading: three opinions, three deadlines.",
+       "Gemara (as Kehati and Bartenura present it): Rabban Gamliel's sons asked whether the Sages' \"midnight\" is a real deadline. Rabban Gamliel answered that the Sages agree with him: all night is \"lying down\" time, and \"until midnight\" is only a fence.",
+       "Bartenura: the halakha follows Rabban Gamliel, since the Sages concede it. Midnight is the recommended limit (\"lekhatchila\"), not the real one."
+      ]
+     },
+     {
+      "h": "The fence: a farmer's evening",
+      "src": "Kehati p. ז (a baraita)",
+      "kind": "example",
+      "b": [
+       "A baraita says the Sages built a fence so a man would not come in from the field and say, \"I'll go home, eat a little, drink a little, sleep a little, then recite Shema and pray,\" and sleep takes him, and he sleeps all night.",
+       "So \"until midnight\" is a safeguard against putting it off, and keeps Shema from being missed."
+      ]
+     },
+     {
+      "h": "Do the fats and limbs follow the same rule?",
+      "src": "Kehati p. ז",
+      "kind": "debate",
+      "b": [
+       "Rashi and Bartenura: the Sages did not say \"midnight\" for burning the fats and limbs (they apply it only to the eaten offerings).",
+       "Rambam: even for the fats and limbs the Sages said \"midnight.\" Those who disagree strain to find a source for his view (a Tosefta in Yom Tov; some say Zevachim 9:6)."
+      ]
+     }
+    ],
+    "chart": {
+     "title": "Plain reading vs. deeper reading",
+     "cols": [
+      "Question",
+      "Plain reading",
+      "Deeper reading (Gemara via Kehati)"
+     ],
+     "rows": [
+      [
+       "Start of evening",
+       "When the priests eat terumah",
+       "Nightfall; the Gemara reads Leviticus 22:7 as speaking of the sun"
+      ],
+      [
+       "R. Eliezer's limit",
+       "End of the first watch",
+       "Night has three watches; the first is when most people go to sleep"
+      ],
+      [
+       "The Sages",
+       "Until midnight",
+       "A fence only; all night is \"lying down\" time"
+      ],
+      [
+       "R. Gamliel",
+       "Until dawn",
+       "The Sages agree with him; halakha follows him"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "n": 2,
+   "title": "When can we say Shema in the morning?",
+   "summary": "Morning Shema starts at first light, and the sages differ on how to tell.",
+   "outline": [
+    {
+     "h": "Starting time",
+     "b": [
+      "First opinion: when you can tell blue from white (the two colors of tzitzit).",
+      "Rabbi Eliezer: when you can tell blue from green. That takes more light."
+     ]
+    },
+    {
+     "h": "Ending time",
+     "b": [
+      "First opinion: finish by sunrise.",
+      "Rabbi Yehoshua: until the third hour of the day, because that is when the children of kings get up."
+     ]
+    },
+    {
+     "h": "If you're late",
+     "b": [
+      "Say it anyway: you lose nothing, like reading from the Torah. (Kulp: but you have not fulfilled the mitzvah of Shema.)"
+     ]
+    }
+   ],
+   "chart": {
+    "type": "table",
+    "title": "Morning Shema",
+    "cols": [
+     "Opinion",
+     "Starts",
+     "Ends"
+    ],
+    "rows": [
+     [
+      "First opinion",
+      "blue vs. white",
+      "sunrise"
+     ],
+     [
+      "R. Eliezer",
+      "blue vs. green",
+      "(not stated)"
+     ],
+     [
+      "R. Yehoshua",
+      "(not stated)",
+      "3rd hour"
+     ]
+    ]
+   },
+   "illustrations": [
+    {
+     "brief": "Two scholars at dawn at a window comparing a blue and a white thread (tzitzit) in their hands, pale gold light, a sleeping town behind them."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Standing or lying down?",
+   "summary": "Beit Shammai and Beit Hillel disagree about posture. Rabbi Tarfon learns the hard way.",
+   "outline": [
+    {
+     "h": "Beit Shammai",
+     "b": [
+      "At night everyone reclines to say Shema; in the morning everyone stands. (\"When you lie down and when you rise.\")"
+     ]
+    },
+    {
+     "h": "Beit Hillel",
+     "b": [
+      "Everyone says it however they are: walking, sitting, lying. (\"When you walk on the way.\")"
+     ]
+    },
+    {
+     "h": "Rabbi Tarfon's story",
+     "b": [
+      "He was on the road at night, reclined like Beit Shammai, and robbers threatened him.",
+      "The Sages: you deserved it, for going against Beit Hillel."
+     ]
+    }
+   ],
+   "chart": {
+    "type": "table",
+    "title": "Posture",
+    "cols": [
+     "",
+     "Evening",
+     "Morning"
+    ]
+   },
+   "illustrations": [
+    {
+     "brief": "Rabbi Tarfon lying on his side by a dark road, awkward, while two shadowy robbers approach through the trees, moon overhead. Gentle, not scary."
+    },
+    {
+     "brief": "Split panel: Beit Shammai scholars reclining at night and standing at dawn; Beit Hillel scholars walking and talking."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "The blessings around Shema",
+   "summary": "How many blessings come before and after Shema, morning and evening.",
+   "outline": [
+    {
+     "h": "Morning",
+     "b": [
+      "Two blessings before Shema, one after."
+     ]
+    },
+    {
+     "h": "Evening",
+     "b": [
+      "Two blessings before, two after."
+     ]
+    },
+    {
+     "h": "Long and short",
+     "b": [
+      "Where the Sages said to make a blessing long, do not shorten it; where short, do not lengthen it.",
+      "Where they said to end with a blessing, end with it; where not, do not."
+     ]
+    }
+   ],
+   "chart": {
+    "type": "table",
+    "title": "Blessings",
+    "cols": [
+     "",
+     "Before",
+     "After"
+    ]
+   },
+   "illustrations": [
+    {
+     "brief": "Diagram-style picture: the Shema as a scroll in the center with blessing 'bookends' on each side; sun icon for morning, moon for night."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Remembering the Exodus at night",
+   "summary": "Ben Zoma teaches that the Exodus is remembered at night too.",
+   "outline": [
+    {
+     "h": "Rabbi Elazar ben Azariah",
+     "b": [
+      "He was like a man of seventy but could not prove the Exodus is mentioned at night, until Ben Zoma explained."
+     ]
+    },
+    {
+     "h": "Ben Zoma's proof",
+     "b": [
+      "The Torah says \"all the days of your life.\" \"Days\" would only be daytime. \"All\" adds the nights."
+     ]
+    },
+    {
+     "h": "The Sages' view",
+     "b": [
+      "\"Days of your life\" means this world. \"All\" adds the days of the Messiah."
+     ]
+    }
+   ],
+   "illustrations": [
+    {
+     "brief": "Warm beit midrash scene: young Ben Zoma standing, explaining, to a wise white-bearded Rabbi Elazar ben Azariah (small, 'seventy-year-old' with a few white hairs on a young face), others listening."
+    },
+    {
+     "brief": "Two linked panels: sun-lit Egypt exit at day, then the same crowd under stars at night."
+    }
+   ]
+  }
+ ],
+ "verified_against": "Kulp translation + explanation (Sefaria), 2026-10-09; Kehati not yet checked"
+}
