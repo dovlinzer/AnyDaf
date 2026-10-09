@@ -1,0 +1,183 @@
+{
+ "status": "draft briefs for review; no pictures generated",
+ "method": "each brief rests on the mishnah and R. Kulp's commentary only (no Kehati yet)",
+ "briefs": [
+  {
+   "ref": "Shabbat 7:4",
+   "type": "list / measurement",
+   "teaching": "Carrying out food on Shabbat makes you liable only at a set amount: for animal fodder, a mouthful of the animal that eats it; for human food, a dried fig's worth. Different fodders do not add up to the amount; all human foods do, except the inedible parts.",
+   "source_points": [
+    "A cow's mouthful of straw, a camel's of bean stalks, a lamb's of clover, a goat's of grasses; moist garlic or onion leaves, a dried fig's worth; dry leaves, a goat's mouthful (mishnah; Kulp: the rule is a mouthful of the animal that eats it)",
+    "Different kinds of fodder do not combine, because their standards differ (Kulp: half a cow's mouthful of straw plus half a camel's of stubble is not liable)",
+    "Human food: a dried fig's worth; all kinds combine, because the standard is the same; shells, kernels, stalks, husks and coarse bran are not counted",
+    "R. Judah: lentil shells are counted, because they are boiled with the lentils (Kulp: they are edible)"
+   ],
+   "render": "svg only",
+   "picture": "A two-part diagram. Left: four animals (cow, camel, lamb, goat) each beside its fodder, with the amount marked 'one mouthful', and a barrier symbol between them showing they do not add up. Right: a dried fig beside several human foods, with a plus sign showing that they do add up; a crossed-out pile of husks and shells, with R. Judah's lentil shells set apart.",
+   "new_symbols": [
+    "ADDS UP / DOES NOT ADD UP (pair)",
+    "LIABLE / NOT LIABLE (pair, if it should be separate from pays/does not pay)"
+   ],
+   "sprite_gap": "the AnyDaf sprite has a lamb, goat and bull but no camel; one would need drawing",
+   "avoid": [
+    "Drawing real quantities (a mouthful is not a measurable amount): show 'one mouthful' as a standard, not a size",
+    "Showing someone actually carrying on Shabbat as a model for children (not needed)"
+   ],
+   "open_question": "Should liability use the same 'pays' badges, or its own pair? I lean to its own pair."
+  },
+  {
+   "ref": "Oholot 13:1",
+   "type": "measurement / many cases",
+   "teaching": "How big a hole must be to carry impurity from one side to the other depends on how it was made or what it is for.",
+   "source_points": [
+    "New light-hole: the size of a hole made by the Temple chamber's large drill",
+    "Remains of a light-hole (a window blocked up but not finished): two fingerbreadths high by a thumb-breadth wide (Kulp: once something is in a category it is harder to leave it)",
+    "Hole made by water, reptiles or salt: a fist; if he intended to use it: one handbreadth square; for light: the drill size",
+    "Grating or lattice holes: Bet Shammai, they join to make the drill size; Bet Hillel, only if one hole is that size",
+    "R. Shimon: the drill size applies to letting impurity IN; to let it OUT, one handbreadth square (Kulp: also in 3:6)"
+   ],
+   "render": "svg only",
+   "picture": "A table of hole types against minimum size, with a size icon per row: a drill hole, a fist, a square handbreadth, a narrow slot. A second small diagram of a lattice for the Shammai/Hillel dispute: many small holes marked 'join' (Shammai) and 'one hole must be big enough' (Hillel). One column for R. Shimon's different rule for impurity going out.",
+   "new_symbols": [
+    "IN / OUT arrows (pair)"
+   ],
+   "avoid": [
+    "Inventing real centimetre values: the mishnah gives only relative sizes",
+    "Drawing the Temple drill as a specific tool design (the mishnah does not describe it); show it as a plain circle labelled with words by overlay"
+   ],
+   "open_question": "None; but this is the least visual of the set. Worth having a picture at all?"
+  },
+  {
+   "ref": "Kelim 5:9",
+   "type": "sequence / status at each step",
+   "teaching": "A cut-up oven held together by hoops is not yet susceptible to impurity; coating it with clay makes it susceptible; removing the hoops undoes it; coating it again makes it susceptible again, with no need to reheat.",
+   "source_points": [
+    "An oven that came in sections: he made hoops and put them on: it is clean (mishnah)",
+    "Kulp: if clay was put on while the hoops were attached, it was heated, it became impure, and then he removes the hoops, it is clean again, because the clay falls off",
+    "If he puts the hoops back on, it is still clean, because there is no coating of clay",
+    "If he plasters it with clay, it is susceptible; no need to heat it again, since it was heated earlier while the hoops were on (Kulp)"
+   ],
+   "render": "svg only (flow diagram)",
+   "picture": "A left-to-right flow of 4 or 5 oven drawings: sections; sections with hoops; with clay coating and fire; hoops removed (clay falls away); hoops back on; clay again. A status symbol under each step.",
+   "new_symbols": [
+    "CAN BECOME IMPURE / CANNOT (pair)"
+   ],
+   "avoid": [
+    "Anything beyond the four states the mishnah and Kulp give",
+    "Showing a person touching the impurity (not the point)"
+   ],
+   "open_question": "Kulp's reading (the case where the oven became impure while coated) is more specific than the plain mishnah. I would follow Kulp, but this should be checked against Kehati, which I expect to explain it differently."
+  },
+  {
+   "ref": "Yoma 6:2",
+   "type": "ritual procedure",
+   "teaching": "The high priest confesses over the scapegoat with both hands on it, and the people in the courtyard bow when they hear the Name.",
+   "source_points": [
+    "He laid both hands on the scapegoat and confessed (mishnah)",
+    "The formula is like the earlier confessions, except that he says 'in the name of Hashem' (Kulp)",
+    "The priests and people who heard the Name pronounced bent their knees, bowed and fell on their faces and said 'Blessed be the name of His glorious kingdom for ever and ever' (mishnah; Kulp: the same response follows the other confessions)"
+   ],
+   "render": "clay scene is possible",
+   "picture": "One scene: the high priest with both hands on a goat in a courtyard, a crowd of priests and people kneeling and bowing. No dispute, so no boxes, no '?', no badges.",
+   "new_symbols": [],
+   "avoid": [
+    "Any lettering of the Name, or a glowing Name",
+    "Vestments or other Yom Kippur details this mishnah does not give",
+    "A shocking depiction of the goat's fate (not in this mishnah)"
+   ],
+   "open_question": "AUTHOR DECISION: depicting the high priest and the Name's recitation. I lean to a respectful, simple scene, but this one is yours."
+  },
+  {
+   "ref": "Middot 1:3",
+   "type": "layout / map",
+   "teaching": "The five gates of the Temple Mount and how each was used.",
+   "source_points": [
+    "Two Huldah gates on the south: in and out",
+    "Kiponus gate on the west: in and out (Kulp: we do not know who Kiponus was, perhaps the donor)",
+    "Taddi gate on the north: not used at all (Kulp: rarely used; one exception later in the chapter)",
+    "The Eastern gate, with a representation of the palace of Shushan, through which the high priest who burned the red heifer and all who assisted went out to the Mount of Olives (Kulp: remembered the exile, perhaps honouring Cyrus)"
+   ],
+   "render": "svg only (schematic map)",
+   "picture": "A schematic top view with a compass: two south gates (arrows in and out), one west gate (in and out), one north gate (closed), one east gate with a small picture of a palace and an arrow leading out to a hill labelled by overlay. Labelled 'schematic'.",
+   "new_symbols": [
+    "IN-AND-OUT / NOT USED / EXIT ONLY (small set)"
+   ],
+   "avoid": [
+    "Any shape or size for the Mount: this mishnah gives none",
+    "Placing the gates more precisely than 'south', 'west', 'north', 'east'"
+   ],
+   "open_question": "None."
+  },
+  {
+   "ref": "Temurah 2:1",
+   "type": "comparison (two-column)",
+   "teaching": "Six ways the laws of an individual's offerings differ from those of the congregation's, with R. Meir's challenge.",
+   "source_points": [
+    "An individual's offering can make a substitute; a congregation's cannot",
+    "An individual may bring male or female; a congregation, only male",
+    "If the time passes, an individual must still bring it with its libations; a congregation need not (Kulp: unless it was offered and only the libations were missed)",
+    "A congregation's offerings override Shabbat and impurity; an individual's do not",
+    "R. Meir: the griddle cakes of the high priest and the Yom Kippur bull are an individual's and still override them: the rule depends on whether the time is fixed (Kulp)"
+   ],
+   "render": "svg only",
+   "picture": "A two-column table: one person, and a crowd; a row per law with a yes or no symbol in each column; R. Meir's challenge as a callout showing that fixed time is what decides, with a small clock icon.",
+   "new_symbols": [
+    "CAN / CANNOT (use the sprite's green check and red cross, since it is about what is permitted or possible, not about who pays)"
+   ],
+   "avoid": [
+    "Mixing this with the liability badges: keep the check and cross here only"
+   ],
+   "open_question": "None. Good test of a plain table."
+  },
+  {
+   "ref": "Yadayim 3:5",
+   "type": "dispute / who said what",
+   "teaching": "The rabbis' dispute over whether the Song of Songs and Kohelet 'defile the hands', which Kulp says is in effect a dispute over whether they belong in the canon.",
+   "source_points": [
+    "A scroll with 85 letters remaining, as in Numbers 10:35-36, defiles the hands (the mishnah gives 10:35-36; Kulp's commentary writes 11:35-36, which looks like a slip)",
+    "All the Holy Scriptures defile the hands; both books do",
+    "R. Judah: the Song does, Kohelet disputed; R. Yose: Kohelet does not, the Song disputed; R. Shimon: Kohelet is a leniency of Bet Shammai and a stringency of Bet Hillel",
+    "Ben Azzai: a tradition from the 72 elders, on the day R. Elazar ben Azariah became head, that both do",
+    "R. Akiva: no one ever disputed the Song, 'the holy of holies'; the dispute was only about Kohelet",
+    "R. Yohanan ben Joshua agrees with Ben Azzai"
+   ],
+   "render": "svg only",
+   "picture": "A matrix of speakers (sage figures from the sprite) against the two books, each cell: 'does', 'disputed' or 'does not'. A separate small strip explains the 85-letter minimum.",
+   "new_symbols": [
+    "DEFILES THE HANDS / DOES NOT / DISPUTED (a trio, with a short overlay gloss for 'defiles the hands': Kulp says it is about whether the book is in the canon)"
+   ],
+   "avoid": [
+    "Taking a side, or summarising Kulp's reasons for acceptance as the mishnah's",
+    "Kulp's Numbers reference: use the mishnah's"
+   ],
+   "open_question": "The phrase 'defiles the hands' needs a gloss for a young audience. Do we want this mishnah in the kids tier at all?"
+  },
+  {
+   "ref": "Rosh Hashanah 3:8",
+   "type": "story + rule",
+   "teaching": "Two stories (Moses' raised hands, the copper serpent) teach that it was looking up and subjecting their hearts to God that helped, not the objects; then the rule that someone not obligated cannot fulfil others' obligation.",
+   "source_points": [
+    "Exodus 17: when Moses held up his hand Israel prevailed; the question 'did the hands wage war?': as long as Israel looked upward and subjected their hearts they prevailed, otherwise they fell",
+    "Numbers 21: the fiery serpent on a pole: looking at it, they lived if they looked upward and subjected their hearts (Kulp: not a magical charm; symbolic of God)",
+    "A deaf-mute, a lunatic and a minor cannot cause others to fulfil their obligation: one who is not himself obligated cannot perform it for others (Kulp: e.g. blowing the shofar)"
+   ],
+   "render": "clay scene for the story + svg for the rule",
+   "picture": "Clay: a hilltop with a figure whose arms are raised and the people below looking up, then the same scene with arms lowered and the people looking down; the two outcomes as boxes. SVG: a one-line rule diagram, a person who is not obligated with a crossed arrow toward another person.",
+   "new_symbols": [
+    "LOOKING UP / LOOKING DOWN (could be drawn into the clay scenes)",
+    "OBLIGATED / NOT OBLIGATED (small pair)"
+   ],
+   "avoid": [
+    "Making the raised arms or the serpent look magical: the whole point is that they are not (glow, sparks)",
+    "Depicting a minor, deaf-mute or person with a disability as lacking dignity"
+   ],
+   "open_question": "AUTHOR DECISION: depicting Moses at all; and the serpent. Both are sensitive for some audiences."
+  }
+ ],
+ "summary": {
+  "svg_only": 5,
+  "clay_possible": 2,
+  "mixed": 1,
+  "new_symbol_pairs_needed": "about 9"
+ }
+}

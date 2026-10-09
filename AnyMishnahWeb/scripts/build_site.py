@@ -91,7 +91,7 @@ def svg_bm16():
 def svg_bm18():
     cards = [("return", "Court documents, letters of evaluation or sustenance, halitzah, refusal, arbitration"), ("return", "Documents in a satchel or bag, or a bundle of three tied together"),
              ("return", "Three documents where one man borrowed from three: to the borrower"), ("return", "Three documents where one man lent to three: to the lender"),
-             ("hold", "A document of unknown nature among his own: leave it until Elijah comes"), ("follow", "A postscript with it: do what the postscript says")]
+             ("hold", "A document of unknown nature among his own: leave it until Elijah comes"), ("follow", "A note (postscript) attached to the documents: do what it says")]
     b = T(260, 34, "Found documents: what to do", 19, 700, "#1b3a8a", "middle")
     for i, (k, t) in enumerate(cards):
         y = 52 + i * 92
@@ -138,5 +138,5 @@ PAY = [("pay", "pays", "(is liable)"), ("notpay", "does not pay", "(is exempt)")
 build("data/bava_kamma_5.json", "data/bava_kamma_5_layer1.json", DIAG_BK5, "Mishnah Bava Kamma, chapter 5", "Outlines, charts and pictures", "site/bava-kamma-5.html",
       leg([PAY], '<div class="grp"><span>A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></div>'))
 build("data/bava_metzia_1.json", "data/bava_metzia_1_layer1.json", DIAG_BM1, "Mishnah Bava Metzia, chapter 1", "Outlines, charts and pictures", "site/bava-metzia-1.html",
-      leg([[("keeps", "keeps it", ""), ("noclaim", "has no claim", "")], [("return", "returns it", ""), ("noreturn", "does not return it", "")], [("hold", "holds it", ""), ("follow", "follows the postscript", "")]]))
+      leg([[("keeps", "keeps it", ""), ("noclaim", "has no claim", "")], [("return", "returns it", ""), ("noreturn", "does not return it", "")], [("hold", "holds it", ""), ("follow", "follows the attached note", "")]]))
 open("site/index.html", "w").write(head_html("AnyMishnah prototype") + '<header><h1>AnyMishnah (prototype)</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="panel"><h2>Chapters so far</h2><ul><li><a href="bava-kamma-5.html">Bava Kamma, chapter 5</a> (pit, courtyard and ox cases; 7 mishnayot)</li><li><a href="bava-metzia-1.html">Bava Metzia, chapter 1</a> (found objects and documents; 8 mishnayot)</li></ul></div></main>' + foot + "</body></html>")

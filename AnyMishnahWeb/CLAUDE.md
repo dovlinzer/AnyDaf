@@ -103,3 +103,5 @@ Overlay placement rule (author): symbols go toward the TOP, where least happens;
 BM 1 status: 1:1, 1:2, 1:3, 1:5 pair, 1:7 posted; only the 1:4 pair remains (rerun prompts in data/bava_metzia_1_prompts_v3.md). Write prompt descriptions in plain lowercase, no role labels.
 
 BM 1 COMPLETE (2026-10-09): all pictures posted. Second-try results after author feedback: 1:2, 1:4 pair, 1:5 pair, 1:7 all good. First-try count was 6 of 9; every miss was a count, direction or invented-detail problem fixed by tighter prompt wording, not by style changes.
+
+Hard-set briefs drafted (data/hard_set_briefs.json): 5 SVG-only, 2 clay-possible, 1 mixed; awaiting author review; new symbol pairs: adds up/does not, liable/not, in/out, can become impure/cannot, defiles hands/does not/disputed, obligated/not. Legend label 'follows the attached note' (not 'postscript').
