@@ -23,7 +23,7 @@ Image.open(IMG + "42_clean.jpg").convert("RGB").save("site/img/bk5-1.jpg", quali
 # 5:2a / 5:2b badge in the empty upper-right corner of the picture
 for src, name, kind in (("41.jpg", "bk5-2a.jpg", "not"), ("40.jpg", "bk5-2b.jpg", "pay")):
     im = Image.open(IMG + src).convert("RGB"); W, H = im.size
-    paste(im, PAY if kind == "pay" else NOT, W - 150, 130, 170); save(im, name)
+    paste(im, PAY if kind == "pay" else NOT, W - 150, 100, 160); save(im, name)
 # 5:5: left PAY (10), right NOT-PAY (9)
 im, _ = box_badges("38.jpg", "bk5-5.jpg", "pay", "not"); save(im, "bk5-5.jpg")
 # 5:6: left NOT-PAY, right PAY, plus a payer tag over the second partner
@@ -31,4 +31,4 @@ im, boxes = box_badges("39_clean.jpg", "bk5-6.jpg", "not", "pay")
 pt = find_point(im, "the man in a green tunic standing with hands on his hips at the right, beside the pit's cover board (look only in the lower main scene)")
 d = ImageDraw.Draw(im); tx, ty = pt["x"], pt["y"] - 18
 d.polygon([(tx - 16, ty - 20), (tx + 16, ty - 20), (tx, ty)], fill=(250, 245, 230), outline=(110, 80, 60))
-paste(im, PAY, tx, ty - 70, 96); save(im, "bk5-6.jpg")
+paste(im, PAY, tx - 26, ty - 66, 96); save(im, "bk5-6.jpg")
