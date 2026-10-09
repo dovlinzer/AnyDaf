@@ -113,6 +113,6 @@ By eye at full size, clean on the first try: 1:1a, 1:1b, 1:2, 1:4a, 1:4b, 1:7 (6
 - **The '?' only between two possible explanations of one unknown fact** (1:7, BK 5:1); never between separate rulings (1:2) or separate cases (1:5).
 - **Make physical constraints obvious**: 'cannot leave the field' means an enclosed field and a closed gate, with no path out (the first 1:4a had the deer next to an exit).
 - **Boxes must not duplicate the main scene** (1:5): when the two things are two cases, make them two SCENES (a pair, second as an edit of the first), each with the badge over the right person; no '?'.
-- **Recurring roles must look different** across main scene and boxes (1:7): give the finder and the people in the boxes different tunic colors, beards, caps.
+- **Different people in the same picture must look different from each other** (1:7: the finder and the people in the boxes looked identical): give each distinct person a different tunic color, beard, cap or hair. The converse holds too: the same person must look the same wherever he appears (main scene and boxes, or the two pictures of a pair).
 - **Legend wording is parallel**: 'pays / does not pay', 'keeps it / has no claim', 'returns it / does not return it', 'holds it', 'follows the postscript'.
 - Pictures flagged by the author are hidden from the site until redone (1:2, 1:4 pair, 1:5, 1:7).
