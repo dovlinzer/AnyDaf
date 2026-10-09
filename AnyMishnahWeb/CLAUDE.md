@@ -111,3 +111,5 @@ RULE (author, revised): technical Torah she'baal peh terms are WANTED on the sit
 PLAN: add AnyDafWeb's key-terms chips, glossary pop-out and sages box to these pages (reuse renderer/outline-renderer.js and the glossary_entries data model; see AnyDafWeb/DESIGN.md). Candidate terms so far: BK 5: tam, mu'ad (not yet used), shen, pit (bor); BM 1: simpon, shibud (lien), ketubah, halitzah, kinyan, hefker. Verify each against R. Kulp before writing a definition.
 
 Older-audience tier: style test in data/teen_style_test.md (4 styles x 2 scenes); pick a style, then swap the style and dead-animal sentences in the existing BK 5 / BM 1 prompts. See STYLE_BIBLE.md.
+
+DECISION (author, 2026-10-09): glossary definitions come from AnyDaf's master glossary (daf-processor build_master_glossary.py / glossary_entries); do not write competing definitions. Defer the glossary, key-terms chips and sages box until that list is more complete; until then, gloss each technical term once inline in the outline. Check which of the candidate terms (simpon, shibud, ketubah, halitzah, kinyan, hefker, tam, bor) are already in the master glossary when the time comes.
