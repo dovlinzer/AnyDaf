@@ -1,16 +1,8 @@
 # Bava Metzia 1, clay prompts v2 (2026-10-09): fixes after the first test
 
 RULE: every pair of scenes is made in the SAME chat; the second is an edit of the first ("Using the previous picture as reference, everything is exactly the same except: ..."). Never a fresh attempt for the second scene.
-Rerun only these five: 1:1 pair, 1:3 pair, 1:5. The others (1:2, 1:4 pair, 1:7) passed.
-New in v2: 'exactly N of each' wording; the 1:1 outcome box shows a plain rectangular cloth (not a shirt); no object may be duplicated.
-
-## 1:1a (FIRST of the pair; both claim all)
-
-Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics and cloaks, scrolls and never bound books. Gentle for children: no blood or open wounds. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in this prompt, and exactly the number named of each. Do NOT draw any badge, scale, coins or symbol of ownership or payment; those are added later. Cast: Man A wears a red tunic and has a round face and a short black beard; Man B wears a green tunic and has a long thin face and a grey beard. A market street. Man A and Man B each grip an opposite end of one plain white rectangular cloth, tugging it, and each points at himself with his free hand, both with indignant faces. There is exactly one cloth. In the upper-left corner of the picture is a framed rounded box showing a plain white rectangular cloth cut by one straight line into two EQUAL rectangles, drawn slightly apart.
-
-## 1:1b (SECOND of the pair: same chat, ask as an edit of 1:1a)
-
-Using the previous picture as reference, everything is exactly the same except: Man A now holds his free arm wide open with a confident face (claiming all of it); Man B now holds his free hand flat against the middle of the cloth with a firm face (claiming half); and the framed box now shows the same plain white rectangular cloth cut into two UNEQUAL rectangles, one three times as wide as the other, drawn slightly apart.
+Rerun only these three: the 1:3 pair and 1:5. The others (1:1 pair, 1:2, 1:4 pair, 1:7) are good; the 1:1 outcome boxes (a cloak cut in half, and cut 3/4 and 1/4) read correctly at full size.
+New in v2: 'exactly N of each' wording; no object may be duplicated.
 
 ## 1:3a (FIRST of the pair; the friend keeps it)
 
