@@ -101,3 +101,5 @@ RULE (author): read R. Kulp's commentary (and later Kehati) on a mishnah BEFORE 
 Overlay placement rule (author): symbols go toward the TOP, where least happens; relation symbols (splits) go between the two people. See STYLE_BIBLE.md. scripts/compose_bm1_fractions.py implements it for BM 1:1 and 1:2. BK 5's badges are still in upper-right box corners and BM 1's person tags float above heads: review them against this rule.
 
 BM 1 status: 1:1, 1:2, 1:3, 1:5 pair, 1:7 posted; only the 1:4 pair remains (rerun prompts in data/bava_metzia_1_prompts_v3.md). Write prompt descriptions in plain lowercase, no role labels.
+
+BM 1 COMPLETE (2026-10-09): all pictures posted. Second-try results after author feedback: 1:2, 1:4 pair, 1:5 pair, 1:7 all good. First-try count was 6 of 9; every miss was a count, direction or invented-detail problem fixed by tighter prompt wording, not by style changes.

@@ -1,7 +1,7 @@
 # Bava Metzia 1, clay prompts v3 (2026-10-09): fixes after the author's picture review
 
 RULES: pairs are ALWAYS made in the same chat as an edit of the first picture. The '?' between boxes appears ONLY when the boxes are two possible explanations of one unknown fact (1:7); never where the boxes are separate rulings (1:2). No coins or money to stand for splitting (fractions are added as overlays). Where the mishnah says something cannot move or leave, the picture must make that physically obvious (enclosed field, closed gate). Different people in the same picture must look different from each other, so each distinct person gets his own clothes, beard or cap in the prompt (the same person looks the same wherever he appears).
-Status: 1:2, 1:5 pair and 1:7 DONE (good). Still to rerun: the 1:4 pair (first try: the deer lay completely still, and in 1:4b only one chaser appeared and the deer ran sideways toward him). The 1:1 and 1:3 pairs are good (1:1 now carries fraction overlays).
+Status: ALL DONE. 1:4 pair rerun came out right (deer standing on three legs with a splint, then bounding away from both chasers). The 1:1 and 1:3 pairs are good (1:1 now carries fraction overlays).
 
 ## 1:4a (FIRST of the pair; the deer cannot leave because of its broken leg; RERUN: the first try had the deer lying completely still). A fresh chat
 
