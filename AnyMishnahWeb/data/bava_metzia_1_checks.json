@@ -45,7 +45,7 @@
   },
   "bm1-4b": {
    "boxes": 0,
-   "cast": "a field owner, two chasers, a deer",
+   "cast": "a field owner, two chasers, a deer, a flock of pigeons overhead",
    "numerals": "",
    "scene": "the same field with an open gate; a healthy deer bounds toward the gate, pigeons fly overhead, the owner has a hand on his chest"
   },
@@ -61,5 +61,11 @@
    "numerals": "",
    "scene": "a man on a path holding a found document; left box: a man hands a document to a woman who later loses it; right box: a writer pushes the document away and it falls"
   }
+ },
+ "reviewed_ok_by_author": {
+  "bm1-1a": "pointing and outcome box fine at full size",
+  "bm1-1b": "3/4 vs 1/4 box fine at full size",
+  "bm1-4b": "pigeons are in the brief",
+  "bm1-5": "good except a small bound book on the table (1 redo line given)"
  }
 }

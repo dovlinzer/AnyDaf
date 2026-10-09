@@ -2,14 +2,14 @@
  "bm1-1a": {
   "pass": false,
   "fails": [
-   "scene mismatch: The scene does NOT match the intended description. Man A (red tunic) and Man B (green tunic) are both holding opposite ends of a white cloak correctly, but NEITHER man is pointing at themselves - they appear to be gesturing or arguing but not self-pointing. The framed box on the left shows TWO complete white garments/cloaks displayed separately, NOT a single cloak cut into two equal halves as intended. The box displays whole garments, not halves of a divided cloak."
+   "scene mismatch: The scene does NOT match the intended description. While two men in red and green tunics are gripping opposite ends of a white cloak as expected, NEITHER man is pointing at themselves - they are both just holding the cloak. The framed box shows two white garments/cloaks laid out flat, but this does NOT clearly represent \"the cloak cut into two equal halves\" as described. The box appears to show two intact whole garments rather than one cloak divided in half."
   ],
   "warnings": []
  },
  "bm1-1b": {
   "pass": false,
   "fails": [
-   "scene mismatch: The scene does NOT match the intended description. Both men are gripping the white cloak correctly, but the gestures are incorrect: Man A (red tunic) has one arm extended in a gesturing manner but not clearly showing \"claims all with a wide arm,\" and Man B (green tunic) is not showing \"claims half with a flat hand\" - neither figure displays the described hand gestures clearly. More critically, the framed box on the left shows the cloak displayed as TWO EQUAL PIECES (front and back view of the same garment), NOT two unequal pieces where one is three times the other as specified. The outcome box fails to show the required 3:1 division result."
+   "scene mismatch: The framed box shows the cloak in TWO EQUAL PIECES (split down the middle), not two unequal pieces with one three times the other as required. Man A (red tunic) is shown with a wide gesturing arm, which matches. However, Man B (green tunic) is NOT shown with a flat hand gesture claiming half - he is simply holding the cloak. The core issue is that the outcome box displays an equal split rather than the required 3:1 unequal division."
   ],
   "warnings": []
  },
@@ -24,10 +24,8 @@
   "warnings": []
  },
  "bm1-3b": {
-  "pass": false,
-  "fails": [
-   "scene mismatch: The scene does NOT match the intended description. The purse is on the ground between the two figures, not being held by the rider. The intended scene states \"the friend has handed the purse up to the rider, who holds it\" but in the actual image the purse lies on the ground. While the friend is pointing at himself (matching that part), the critical element of the rider holding the purse after receiving it is missing."
-  ],
+  "pass": true,
+  "fails": [],
   "warnings": []
  },
  "bm1-4a": {
@@ -36,15 +34,16 @@
   "warnings": []
  },
  "bm1-4b": {
-  "pass": true,
-  "fails": [],
+  "pass": false,
+  "fails": [
+   "extra: flock of pigeons/birds"
+  ],
   "warnings": []
  },
  "bm1-5": {
   "pass": false,
   "fails": [
-   "extra: second small child in yellow",
-   "scene mismatch: The expected cast is \"a father, a small child, a grown daughter\" (3 people total). However, the main scene shows FOUR people: a father, TWO small children in yellow clothing (both appear to be the same child duplicated), and a grown daughter in green. One extra small child in yellow is present. The scene does show the intended elements (child with purse near father, daughter with purse, boxes showing the giving and keeping), but the duplication of the small child violates the expected cast requirement."
+   "bound book visible (scrolls only)"
   ],
   "warnings": []
  },

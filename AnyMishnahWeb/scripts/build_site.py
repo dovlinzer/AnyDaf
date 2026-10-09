@@ -1,7 +1,6 @@
 """Build site/index.html and site/bava-kamma-5.html from data/bava_kamma_5.json (Sefaria) and data/bava_kamma_5_layer1.json.
 Pictures (site/img/bk5-*.jpg) come from compose_bk5.py. The AnyDaf sprite (site/sprite.svg) is inlined for the diagrams."""
 import html, json, re
-D = json.load(open("data/bava_kamma_5.json")); L = {m["n"]: m for m in json.load(open("data/bava_kamma_5_layer1.json"))["mishnayot"]}
 SPRITE = re.sub(r"<svg class=\"sprite\"", '<svg class="sprite" style="position:absolute;width:0;height:0"', open("site/sprite.svg").read())
 def clean(s): return re.sub(r"<[^>]+>", "", s or "")
 def esc(s): return html.escape(s)
@@ -72,21 +71,35 @@ def table(c):
     if not c: return ""
     head = "".join(f"<th>{esc(x)}</th>" for x in c["cols"]); rows = "".join("<tr>" + "".join(f"<td>{esc(x)}</td>" for x in r) + "</tr>" for r in c["rows"])
     return f'<div class="chart"><h4>{esc(c["title"])}</h4><table><tr>{head}</tr>{rows}</table></div>'
-DIAGRAM = {3: svg_53, 4: svg_54, 5: svg_55, 7: svg_57}
+def svg_bm15():
+    groups = (("Belongs to him (the father or husband)", "#1b3a8a", [("A minor son or daughter", "child"), ("A Canaanite slave or female slave", "person"), ("His wife", "woman")]),
+              ("Belongs to the finder", "#2c7a46", [("A grown son or daughter", "person"), ("A Hebrew slave or female slave", "person"), ("A wife he has divorced, even if her ketubah is unpaid", "woman")]))
+    b = T(260, 34, "Who owns what a family member finds?", 19, 700, "#1b3a8a", "middle"); y = 54
+    for title, col, rows in groups:
+        b += f'<rect x="8" y="{y}" width="504" height="36" rx="10" fill="{col}"/>' + T(260, y + 24, title, 16, 700, "#fff", "middle"); y += 44
+        for lab, sym in rows:
+            h = 84
+            b += f'<rect x="8" y="{y}" width="504" height="{h-6}" rx="10" fill="#ffffffaa" stroke="#d9cfbd"/>'
+            b += (U("child", 34, y + 12, 28, 56, "#4E7A8C") if sym == "child" else U(sym, 30, y + 6, 36, 66, "#8C4A60" if sym == "woman" else "#4E7A8C"))
+            b += multi(92, y + 34, lab, 34, 16, 20, w=600)
+            y += h
+        y += 8
+    return svg((520, y + 6), b, "Who owns what a family member finds")
+def svg_bm16():
+    rows = [("Rabbi Meir", "", [("noreturn", "Do not return"), ("return", "Return it")]), ("The Sages", "", [("noreturn", "Do not return"), ("noreturn", "Do not return")])]
+    return matrix("Found loan documents: return them?", ["Lien recorded", "No lien"], rows, 520, 150, 120, "The court collects from the property when there is a lien.", 62)
+def svg_bm18():
+    cards = [("return", "Court documents, letters of evaluation or sustenance, halitzah, refusal, arbitration"), ("return", "Documents in a satchel or bag, or a bundle of three tied together"),
+             ("return", "Three documents where one man borrowed from three: to the borrower"), ("return", "Three documents where one man lent to three: to the lender"),
+             ("hold", "A document of unknown nature among his own: leave it until Elijah comes"), ("follow", "A postscript with it: do what the postscript says")]
+    b = T(260, 34, "Found documents: what to do", 19, 700, "#1b3a8a", "middle")
+    for i, (k, t) in enumerate(cards):
+        y = 52 + i * 92
+        b += f'<rect x="8" y="{y}" width="504" height="84" rx="12" fill="#ffffffaa" stroke="#d9cfbd"/>' + badge(k, 20, y + 12, 60) + multi(96, y + 34, t, 38, 16, 20, w=600)
+    return svg((520, 52 + 6 * 92 + 4), b, "Found documents: what to do")
+DIAG_BK5 = {3: svg_53, 4: svg_54, 5: svg_55, 7: svg_57}
+DIAG_BM1 = {5: svg_bm15, 6: svg_bm16, 8: svg_bm18}
 def fig(pic): return f'<figure class="pic"><img src="img/{pic[0]}" alt="{esc(pic[1])}" loading="lazy"><figcaption>{esc(pic[1])}</figcaption></figure>'
-secs = []
-for m in D["mishnayot"]:
-    n = m["n"]; a = L[n]
-    ol = "".join(f'<h4>{esc(s["h"])}</h4><ul>' + "".join(f"<li>{esc(t)}</li>" for t, src in s["b"]) + "</ul>" for s in a["outline"])
-    kul = "".join("<p>" + re.sub(r"<(?!/?b>)[^>]+>", " ", k).replace("<br>", " ") + "</p>" for k in m["kulp"][1:] if k)
-    pics = (fig(a["picture"]) if a.get("picture") else "") + (fig(a["picture2"]) if a.get("picture2") else "")
-    dg = DIAGRAM[n]() if n in DIAGRAM else ""
-    chart = "" if n in DIAGRAM and n != 5 else table(a.get("chart")) if n != 5 else ""
-    if n == 3 or n == 5 or n == 4 or n == 7: chart = ""
-    secs.append(f'''<section id="m{n}"><h2>Mishnah {n}: {esc(a["title"])}</h2><p class="sum">{esc(a["summary"])}</p>
-<div class="grid"><div class="panel aids">{ol}{table(a.get("chart")) if n not in DIAGRAM else ""}{('<div class="chart">'+dg+'</div>') if dg else ""}</div>
-<div class="panel text"><div class="he" lang="he" dir="rtl">{clean(m["he"])}</div><div class="en">{clean(m["en"])}</div>{pics}
-<details><summary>R. Kulp's commentary</summary>{kul}</details></div></div></section>''')
 css = """:root{--bg:#f7f4ec;--fg:#222;--card:#fff;--blue:#1b3a8a;--tint:#f1f3fb}@media(prefers-color-scheme:dark){:root{--bg:#14161c;--fg:#e8e6df;--card:#1d2028;--tint:#232838}}
 html{scroll-behavior:smooth}body{font:17px/1.55 'Public Sans',system-ui,sans-serif;margin:0;background:var(--bg);color:var(--fg)}header{background:var(--blue);color:#fff;padding:18px 24px}header h1{margin:0;font-family:Newsreader,Georgia,serif}
 .pills{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 16px;border-bottom:1px solid #8884;display:flex;gap:8px;align-items:center;flex-wrap:wrap}.pills span{font-weight:600;margin-right:6px}
@@ -97,15 +110,31 @@ main{max-width:1240px;margin:auto;padding:12px 16px}section{scroll-margin-top:70
 .he{font:24px/1.9 'Times New Roman',serif;margin-bottom:10px}.sum{font-style:italic;opacity:.8;margin:0 0 10px}
 h4{margin:12px 0 2px}ul{margin:0 0 4px;padding-left:22px}li{margin:3px 0}table{border-collapse:collapse;width:100%;font-size:17px}td,th{border:1px solid #bbb8;padding:7px 10px;text-align:left}th{background:#1b3a8a22}.chart{margin:14px 0}.chart svg{width:100%;height:auto;display:block}
 .pic{margin:16px 0}.pic img{width:100%;height:auto;border-radius:12px;display:block}figcaption{font-size:14px;opacity:.7;margin-top:4px}details{margin-top:10px}summary{cursor:pointer;font-weight:600}
-.legend{background:var(--card);border-radius:12px;padding:12px 20px;margin:14px 0;display:flex;gap:28px;align-items:center;flex-wrap:wrap}.b{width:44px;height:44px;vertical-align:middle;margin-right:6px}
+.legend{background:var(--card);border-radius:12px;padding:12px 20px;margin:14px 0;display:flex;gap:22px;align-items:center;flex-wrap:wrap}.b{width:44px;height:44px;vertical-align:middle;margin-right:6px}
 .banner{background:#fff3cd;color:#5a4500;padding:10px 24px;font-size:14px}footer{font-size:12px;opacity:.7;padding:14px 24px;max-width:1240px;margin:auto}a{color:var(--blue)}"""
 fonts = '<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">'
-head = lambda t: f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{t}</title>{fonts}<style>{css}</style></head><body>{SPRITE}<svg style="position:absolute;width:0;height:0"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient></defs></svg>'
-foot = '<footer>Hebrew: Mishnah, ed. Romm, Vilna 1913 (public domain). English translation and commentary: Mishnah Yomit by R. Joshua Kulp, via Sefaria, licensed CC-BY. Outlines, charts and diagrams drafted by Claude (Anthropic) from R. Kulp\'s text and under review. The illustrations are AI-generated. Prototype for discussion, not for distribution.</footer>'
-pills = '<nav class="pills"><span>Jump to mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '</nav>'
+head_html = lambda t: f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{t}</title>{fonts}<style>{css}</style></head><body>{SPRITE}<svg style="position:absolute;width:0;height:0"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient></defs></svg>'
+foot = '<footer>Hebrew: Mishnah, ed. Romm, Vilna 1913 (public domain). English translation and commentary: Mishnah Yomit by R. Joshua Kulp, via Sefaria, licensed CC-BY. Outlines, charts and diagrams drafted by Claude (Anthropic) from the mishnah and R. Kulp\'s text and under review. The illustrations are AI-generated; the round symbols are interim. Prototype for discussion, not for distribution.</footer>'
 js = "<script>const L=[...document.querySelectorAll('.pills a')];const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){L.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+e.target.id))}}),{rootMargin:'-30% 0px -60% 0px'});document.querySelectorAll('section').forEach(s=>io.observe(s));</script>"
-page = head("Bava Kamma, chapter 5") + '<header><h1>Mishnah Bava Kamma, chapter 5</h1><div>Outlines, charts and pictures</div></header><div class="banner">Prototype draft for review. The deeper layer (from Kehati) is not built yet.</div>' + pills + '<main>' + \
-    f'<div class="legend"><span>{BP if (BP:="<img class=b src=img/badge-pay.png alt=pays>") else ""} <b>pays</b> (is liable)</span><span><img class="b" src="img/badge-notpay.png" alt="does not pay"> <b>does not pay</b> (is exempt)</span><span>A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></div>' + "".join(secs) + "</main>" + foot + js + "</body></html>"
-open("site/bava-kamma-5.html", "w").write(page)
-open("site/index.html", "w").write(head("AnyMishnah prototype") + '<header><h1>AnyMishnah (prototype)</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="panel"><h2>Chapters so far</h2><ul><li><a href="bava-kamma-5.html">Bava Kamma, chapter 5</a> (pit, courtyard and ox cases; 7 mishnayot)</li></ul></div></main>' + foot + "</body></html>")
-print(len(page))
+def leg(items): return '<div class="legend">' + "".join(f'<span><img class="b" src="img/badge-{k}.png" alt=""> <b>{esc(a)}</b> {esc(b)}</span>' for k, a, b in items) + "</div>"
+def build(data, layer1, diagrams, title, sub, outfile, legend):
+    D = json.load(open(data)); L = {m["n"]: m for m in json.load(open(layer1))["mishnayot"]}; secs = []
+    for m in D["mishnayot"]:
+        n = m["n"]; a = L[n]
+        ol = "".join(f'<h4>{esc(s["h"])}</h4><ul>' + "".join(f"<li>{esc(t)}</li>" for t, src in s["b"]) + "</ul>" for s in a["outline"])
+        kul = "".join("<p>" + re.sub(r"<(?!/?b>)[^>]+>", " ", k).replace("<br>", " ") + "</p>" for k in m["kulp"][1:] if k)
+        pics = (fig(a["picture"]) if a.get("picture") else "") + (fig(a["picture2"]) if a.get("picture2") else "")
+        dg = diagrams[n]() if n in diagrams else ""
+        kdet = f"<details><summary>R. Kulp's commentary</summary>{kul}</details>" if kul else ""
+        secs.append(f'''<section id="m{n}"><h2>Mishnah {n}: {esc(a["title"])}</h2><p class="sum">{esc(a["summary"])}</p>
+<div class="grid"><div class="panel aids">{ol}{table(a.get("chart")) if n not in diagrams else ""}{('<div class="chart">'+dg+'</div>') if dg else ""}</div>
+<div class="panel text"><div class="he" lang="he" dir="rtl">{clean(m["he"])}</div><div class="en">{clean(m["en"])}</div>{pics}{kdet}</div></div></section>''')
+    pills = '<nav class="pills"><span>Jump to mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '</nav>'
+    page = head_html(title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Prototype draft for review. The deeper layer (from Kehati) is not built yet. <a href="index.html">All chapters</a></div>' + pills + "<main>" + legend + "".join(secs) + "</main>" + foot + js + "</body></html>"
+    open(outfile, "w").write(page); print(outfile, len(page))
+PAY = [("pay", "pays", "(is liable)"), ("notpay", "does not pay", "(is exempt)")]
+build("data/bava_kamma_5.json", "data/bava_kamma_5_layer1.json", DIAG_BK5, "Mishnah Bava Kamma, chapter 5", "Outlines, charts and pictures", "site/bava-kamma-5.html",
+      leg(PAY) + '<div class="legend"><span>A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></div>')
+build("data/bava_metzia_1.json", "data/bava_metzia_1_layer1.json", DIAG_BM1, "Mishnah Bava Metzia, chapter 1", "Outlines, charts and pictures", "site/bava-metzia-1.html",
+      leg([("keeps", "keeps it", ""), ("noclaim", "has no claim", ""), ("noreturn", "do not return", ""), ("return", "return it", ""), ("hold", "hold", ""), ("follow", "follow it", "")]) + '<div class="legend"><span>A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></div>')
+open("site/index.html", "w").write(head_html("AnyMishnah prototype") + '<header><h1>AnyMishnah (prototype)</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="panel"><h2>Chapters so far</h2><ul><li><a href="bava-kamma-5.html">Bava Kamma, chapter 5</a> (pit, courtyard and ox cases; 7 mishnayot)</li><li><a href="bava-metzia-1.html">Bava Metzia, chapter 1</a> (found objects and documents; 8 mishnayot)</li></ul></div></main>' + foot + "</body></html>")

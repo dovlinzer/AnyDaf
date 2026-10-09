@@ -15,10 +15,11 @@ TOOL = {"name": "report", "description": "checklist result", "input_schema": {"t
     "figure_without_full_face": {"type": "boolean", "description": "any figure with a blank or featureless face"},
     "background_plain_white": {"type": "boolean", "description": "the backdrop is plain white or cut out, not a filled sky/setting"},
     "dead_animal_not_on_back_with_x_eyes": {"type": "boolean", "description": "a dead animal is shown but NOT on its back with legs up and X eyes (false if there is no dead animal)"},
+    "bound_book_visible": {"type": "boolean", "description": "a bound book (codex with a cover and pages) is visible anywhere; rolled scrolls are fine"},
     "badge_scale_or_coins_drawn": {"type": "boolean", "description": "a balance scale, coins or payment badge was drawn (they must not be)"},
     "object_counts": {"type": "array", "items": {"type": "object", "properties": {"name": {"type": "string"}, "count": {"type": "integer"}}, "required": ["name", "count"]}, "description": "how many of each named single object appear in the whole picture, including inside boxes"},
     "scene_matches_description": {"type": "boolean"}, "mismatch_notes": {"type": "string"}},
-    "required": ["framed_box_count", "letters_or_words_visible", "unexpected_numerals", "extra_people_or_animals", "missing_cast", "figure_without_full_face", "background_plain_white", "dead_animal_not_on_back_with_x_eyes", "badge_scale_or_coins_drawn", "object_counts", "scene_matches_description", "mismatch_notes"]}}
+    "required": ["framed_box_count", "letters_or_words_visible", "unexpected_numerals", "extra_people_or_animals", "missing_cast", "figure_without_full_face", "background_plain_white", "dead_animal_not_on_back_with_x_eyes", "bound_book_visible", "badge_scale_or_coins_drawn", "object_counts", "scene_matches_description", "mismatch_notes"]}}
 def check(path, boxes, cast, numerals, scene, allow_badge=False, single=()):
     im = Image.open(path).convert("RGB"); buf = io.BytesIO(); im.save(buf, "JPEG", quality=88)
     q = (f"Inspect this generated clay-style illustration strictly. Expected framed boxes: {boxes}. Expected cast (and nothing else): {cast}. "
@@ -35,6 +36,7 @@ def check(path, boxes, cast, numerals, scene, allow_badge=False, single=()):
     if res["extra_people_or_animals"]: fails.append("extra: " + ", ".join(res["extra_people_or_animals"]))
     if res["missing_cast"]: fails.append("missing: " + ", ".join(res["missing_cast"]))
     if res["figure_without_full_face"]: fails.append("figure without full face")
+    if res["bound_book_visible"]: fails.append("bound book visible (scrolls only)")
     if res["badge_scale_or_coins_drawn"] and not allow_badge: fails.append("scale/coins/badge drawn")
     for o in res.get("object_counts", []):
         if o["name"] in single and o["count"] != 1: fails.append(f"object count: {o['name']} appears {o['count']} times (expected 1)")
