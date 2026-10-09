@@ -86,7 +86,7 @@ def svg_bm15():
         y += 8
     return svg((520, y + 6), b, "Who owns what a family member finds")
 def svg_bm16():
-    rows = [("Rabbi Meir", "", [("noreturn", "Do not return"), ("return", "Return it")]), ("The Sages", "", [("noreturn", "Do not return"), ("noreturn", "Do not return")])]
+    rows = [("Rabbi Meir", "", [("noreturn", "Does not return it"), ("return", "Returns it")]), ("The Sages", "", [("noreturn", "Does not return it"), ("noreturn", "Does not return it")])]
     return matrix("Found loan documents: return them?", ["Lien recorded", "No lien"], rows, 520, 150, 120, "The court collects from the property when there is a lien.", 62)
 def svg_bm18():
     cards = [("return", "Court documents, letters of evaluation or sustenance, halitzah, refusal, arbitration"), ("return", "Documents in a satchel or bag, or a bundle of three tied together"),
@@ -110,13 +110,15 @@ main{max-width:1240px;margin:auto;padding:12px 16px}section{scroll-margin-top:70
 .he{font:24px/1.9 'Times New Roman',serif;margin-bottom:10px}.sum{font-style:italic;opacity:.8;margin:0 0 10px}
 h4{margin:12px 0 2px}ul{margin:0 0 4px;padding-left:22px}li{margin:3px 0}table{border-collapse:collapse;width:100%;font-size:17px}td,th{border:1px solid #bbb8;padding:7px 10px;text-align:left}th{background:#1b3a8a22}.chart{margin:14px 0}.chart svg{width:100%;height:auto;display:block}
 .pic{margin:16px 0}.pic img{width:100%;height:auto;border-radius:12px;display:block}figcaption{font-size:14px;opacity:.7;margin-top:4px}details{margin-top:10px}summary{cursor:pointer;font-weight:600}
-.legend{background:var(--card);border-radius:12px;padding:12px 20px;margin:14px 0;display:flex;gap:22px;align-items:center;flex-wrap:wrap}.b{width:44px;height:44px;vertical-align:middle;margin-right:6px}
+.legend{background:var(--card);border-radius:12px;padding:12px 20px;margin:14px 0;display:flex;gap:0;align-items:center;flex-wrap:wrap}.legend .grp{display:flex;gap:18px;align-items:center;padding:0 22px;border-left:1px solid #8886}.legend .grp:first-child{padding-left:0;border-left:0}.b{width:44px;height:44px;vertical-align:middle;margin-right:6px}
 .banner{background:#fff3cd;color:#5a4500;padding:10px 24px;font-size:14px}footer{font-size:12px;opacity:.7;padding:14px 24px;max-width:1240px;margin:auto}a{color:var(--blue)}"""
 fonts = '<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">'
 head_html = lambda t: f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{t}</title>{fonts}<style>{css}</style></head><body>{SPRITE}<svg style="position:absolute;width:0;height:0"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient></defs></svg>'
 foot = '<footer>Hebrew: Mishnah, ed. Romm, Vilna 1913 (public domain). English translation and commentary: Mishnah Yomit by R. Joshua Kulp, via Sefaria, licensed CC-BY. Outlines, charts and diagrams drafted by Claude (Anthropic) from the mishnah and R. Kulp\'s text and under review. The illustrations are AI-generated; the round symbols are interim. Prototype for discussion, not for distribution.</footer>'
 js = "<script>const L=[...document.querySelectorAll('.pills a')];const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){L.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+e.target.id))}}),{rootMargin:'-30% 0px -60% 0px'});document.querySelectorAll('section').forEach(s=>io.observe(s));</script>"
-def leg(items): return '<div class="legend">' + "".join(f'<span><img class="b" src="img/badge-{k}.png" alt=""> <b>{esc(a)}</b> {esc(b)}</span>' for k, a, b in items) + "</div>"
+def leg(groups, extra=""):
+    g = "".join('<div class="grp">' + "".join(f'<span><img class="b" src="img/badge-{k}.png" alt=""> <b>{esc(a)}</b> {esc(b)}</span>' for k, a, b in grp) + "</div>" for grp in groups)
+    return '<div class="legend">' + g + extra + "</div>"
 def build(data, layer1, diagrams, title, sub, outfile, legend):
     D = json.load(open(data)); L = {m["n"]: m for m in json.load(open(layer1))["mishnayot"]}; secs = []
     for m in D["mishnayot"]:
@@ -134,7 +136,7 @@ def build(data, layer1, diagrams, title, sub, outfile, legend):
     open(outfile, "w").write(page); print(outfile, len(page))
 PAY = [("pay", "pays", "(is liable)"), ("notpay", "does not pay", "(is exempt)")]
 build("data/bava_kamma_5.json", "data/bava_kamma_5_layer1.json", DIAG_BK5, "Mishnah Bava Kamma, chapter 5", "Outlines, charts and pictures", "site/bava-kamma-5.html",
-      leg(PAY) + '<div class="legend"><span>A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></div>')
+      leg([PAY], '<div class="grp"><span>A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></div>'))
 build("data/bava_metzia_1.json", "data/bava_metzia_1_layer1.json", DIAG_BM1, "Mishnah Bava Metzia, chapter 1", "Outlines, charts and pictures", "site/bava-metzia-1.html",
-      leg([("keeps", "keeps it", ""), ("noclaim", "has no claim", ""), ("noreturn", "do not return", ""), ("return", "return it", ""), ("hold", "hold", ""), ("follow", "follow it", "")]) + '<div class="legend"><span>A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></div>')
+      leg([[("keeps", "keeps it", ""), ("noclaim", "has no claim", "")], [("return", "returns it", ""), ("noreturn", "does not return it", "")], [("hold", "holds it", ""), ("follow", "follows the postscript", "")]], '<div class="grp"><span>A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></div>'))
 open("site/index.html", "w").write(head_html("AnyMishnah prototype") + '<header><h1>AnyMishnah (prototype)</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="panel"><h2>Chapters so far</h2><ul><li><a href="bava-kamma-5.html">Bava Kamma, chapter 5</a> (pit, courtyard and ox cases; 7 mishnayot)</li><li><a href="bava-metzia-1.html">Bava Metzia, chapter 1</a> (found objects and documents; 8 mishnayot)</li></ul></div></main>' + foot + "</body></html>")
