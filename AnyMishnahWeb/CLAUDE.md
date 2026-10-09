@@ -113,3 +113,5 @@ PLAN: add AnyDafWeb's key-terms chips, glossary pop-out and sages box to these p
 Older-audience tier: style test in data/teen_style_test.md (4 styles x 2 scenes); pick a style, then swap the style and dead-animal sentences in the existing BK 5 / BM 1 prompts. See STYLE_BIBLE.md.
 
 DECISION (author, 2026-10-09): glossary definitions come from AnyDaf's master glossary (daf-processor build_master_glossary.py / glossary_entries); do not write competing definitions. Defer the glossary, key-terms chips and sages box until that list is more complete; until then, gloss each technical term once inline in the outline. Check which of the candidate terms (simpon, shibud, ketubah, halitzah, kinyan, hefker, tam, bor) are already in the master glossary when the time comes.
+
+Domain: www.imishna.com is the author's own domain, attached to the Vercel project anymishnah-web (confirmed by the author). The site still sends X-Robots-Tag noindex, nofollow; remove that header in site/vercel.json (and the meta robots tag in scripts/build_site.py) only when the author wants the site public and findable.
