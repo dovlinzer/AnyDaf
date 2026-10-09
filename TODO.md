@@ -235,8 +235,11 @@ daf's terms link to master entries from the start. Not built; awaiting the autho
           site; the current section marked on the page (Rashi/Tosafot on its lines in amber),
           tap a line or comment to read it and move the outline. Live on
           https://anydaf-outlines.vercel.app (Daf pane) since 2026-09-28.
-    - [ ] Store per-amud JSON in Supabase (today it rides in each daf's data file), for the
-          Next.js app and the phone apps; then the audio segment on the page.
+    - [x] All of Shas (2026-10-09): `page_layout.run_all`, then `upload_r2` to Cloudflare R2
+          (`daf-layout/`), read by every daf on the site through `api/layout`. Run in progress
+          2026-10-09; the upload runs by itself when it ends.
+    - [ ] Review the flagged amudim (`out/_summary.json`); Gemara flags matter most on the site.
+    - [ ] Shekalim (Yerushalmi) and Kinnim (Mishnah only): need their own text sources.
 
 ## Done recently (2026-09-25 to 27)
 

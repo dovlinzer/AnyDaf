@@ -1452,10 +1452,12 @@ const inList=l=>`in.(${l.map(x=>`"${x}"`).join(',')})`;
 async function runtimeDaf(t,n){const T=TR[t];
  const A=[`${n}a`,`${n}b`].filter(a=>inTr(T,a));
  const around=[nbAmud(A[0],-1),...A,nbAmud(A[A.length-1],1)];
- const [rows,sh,pages]=await Promise.all([
+ // the live text on the page scans, for any daf (page_layout on Cloudflare R2, through api/layout)
+ const layoutOf=a=>fetch(`api/layout?t=${encodeURIComponent(slugT(t))}&a=${a}`).then(r=>r.ok?r.json():null).catch(()=>null);
+ const [rows,sh,pages,lays]=await Promise.all([
   supa('daf_text',`tractate=eq.${encodeURIComponent(T.text)}&amud=${encodeURIComponent(inList(around))}&select=amud,segments`),
   supa('shiur_content',`tractate=${encodeURIComponent(inList(T.shiur))}&daf=in.(${n},${n}.5)&select=daf,final&order=daf`),
-  pageIds()]);
+  pageIds(),Promise.all(A.map(layoutOf))]);
  const seg=Object.fromEntries(rows.map(r=>[r.amud,typeof r.segments==='string'?JSON.parse(r.segments):r.segments]));
  const pool=around.flatMap(a=>(seg[a]||[]).map(s=>({l:`${a}.${s.n}`,he:s.he,en:s.en,hx:s.hx})));
  const order=Object.fromEntries(pool.map((p,i)=>[p.l,i])),hebToLabel={};
@@ -1468,7 +1470,7 @@ async function runtimeDaf(t,n){const T=TR[t];
  const ids=pages[t]||{},images={};
  A.forEach(a=>{const fid=ids[String((parseInt(a,10)-1)*2+(a.endsWith('b')?1:0))];if(fid)images[a]=`api/dafImage?id=${encodeURIComponent(fid)}`});   // our proxy (api/dafImage.js)
  return {key:`${t}|${n}`,base:`${t}|${n}`,title:`${t} ${n}`,tractate:t,tractateHe:T.he,amudim:A,
-  amudHe:Object.fromEntries(A.map(a=>[a,amudHe(a)])),images,layouts:{},outline:null,keyTerms:[],sages:[],
+  amudHe:Object.fromEntries(A.map(a=>[a,amudHe(a)])),images,layouts:Object.fromEntries(A.map((a,i)=>[a,lays[i]]).filter(([,l])=>l)),outline:null,keyTerms:[],sages:[],
   items,order,shiur:parseShiur(finals.join('\n\n---\n\n'),order,hebToLabel)}}
 // names for this interface: "Bava Metzia 11" / "בבא מציעא יא", amudim "11a" / "יא."
 function dafName(t,n){return RTL?`${(TR[t]||{}).he||t} ${hebNum(n)}`:`${t} ${n}`}

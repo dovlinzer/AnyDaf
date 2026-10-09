@@ -1747,6 +1747,21 @@ lines above and below the Gemara each try both owners; overlapping line boxes ar
 Bava Batra from 29a prints Rashbam in Rashi's column: `fetch.inner_commentator()` swaps the
 name, and the refs read "Rashbam on Bava Batra 84a:…".
 
+**All of Shas (2026-10-09).** `python -m page_layout.run_all` (daf-processor's venv) runs every
+tractate in the scans' order (pages.json; Shekalim and Kinnim skipped, no Bavli Gemara on Sefaria;
+Tamid Gemara only), resumable (an amud already in out/ is skipped), logging to
+`page_layout/run_all.log` and `out/_summary.json` (done / flagged / errors per tractate). Scans are
+deleted after each amud (all of Shas is ~11 GB; free disk was 13 GB). ~2.5 s an amud. Sefaria
+answers 404 for an amud with no Tosafot at all (Berakhot 5a); `fetch._sefaria` treats that as
+empty. **Storage: Cloudflare R2**, the bucket AnyYCTorah's read-aloud audio uses (`yct-torah-audio`,
+keys in `AnyYCTorah/scripts/content_index/.env`): `python3 -m page_layout.upload_r2 --apply`
+(system python3, which has boto3) writes the site version (`page_layout/compact.py`, ~13 KB an
+amud, ~75 MB for Shas) to `daf-layout/<Tractate>/<amud>.json` (apps' names, slugT spelling),
+skipping unchanged objects. The bucket allows no cross-site reads (and these keys can't change
+its settings), so the web page reads through its own `api/layout` function; the apps can read the
+public r2.dev address directly. Any daf without an outline now gets its live text (`runtimeDaf`);
+dafim with an outline still carry it in their data file.
+
 **In the web prototype (2026-09-28).** Layouts now cover all 131 amudim the preview site shows
 (the 12 test dafim + the 30-daf batch; Gemara clean everywhere except 6 unplaced words on
 Yevamot 33b). `build_prototype.py`'s `page_layout()` puts a compact overlay per amud into each

@@ -14,6 +14,7 @@ from __future__ import annotations
 import json
 import re
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -71,6 +72,13 @@ def _sefaria(ref: str, version: str) -> list:
         try:
             d = json.load(urllib.request.urlopen(url, timeout=60))
             break
+        except urllib.error.HTTPError as e:
+            if e.code == 404:                 # Sefaria's answer for an amud with no such text
+                d = {}                        # (no Tosafot at all on Berakhot 5a): nothing to place
+                break
+            if attempt == 3:
+                raise
+            time.sleep(5 * (attempt + 1))
         except OSError:
             if attempt == 3:
                 raise

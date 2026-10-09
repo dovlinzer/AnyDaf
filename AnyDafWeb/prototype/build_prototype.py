@@ -245,50 +245,11 @@ def page_image(tractate: str, amud: str, pages: dict, key: str, out: Path) -> st
     return f"img/{name}"
 
 
-LAYOUT_DIR = DP / "page_layout" / "out"          # word boxes on the page images (page_layout.run)
-COMMENTATORS = (("rashi", "Rashi"), ("tosafot", "Tosafot"))
-
-
 def page_layout(tractate: str, amud: str) -> dict | None:
-    """The live-text overlay for one amud, in fractions of the page (so any image size fits):
-    g = {Gemara label: [[x, y, w, h], ...] one box per printed line}; c = the Rashi and Tosafot
-    comments [{who, on (the Gemara label it glosses), boxes, dh (opening words), text}];
-    rough = the aligner flagged this amud's Gemara. None when page_layout hasn't run for it."""
-    p = LAYOUT_DIR / tractate / f"{amud}.json"
-    if not p.exists():
-        return None
-    j = json.loads(p.read_text(encoding="utf-8"))
-    W, H = j["image"]["w"], j["image"]["h"]
-    fr = lambda b: [round(b[0] / W, 4), round(b[1] / H, 4), round(b[2] / W, 4), round(b[3] / H, 4)]
-    g = {ref: [fr(b) for b in boxes] for ref, boxes in j["segments"].items() if re.fullmatch(r"\d+[ab]\.\d+", ref)}
-    # Full comment texts from Sefaria's Vilna edition (page_layout's own cache), for this amud and
-    # the previous one, since a comment can run over from it; split at the dibbur ha'matchil.
-    from page_layout import fetch as lf
-    n, side = int(amud[:-1]), amud[-1]
-    pd, pa = lf.previous_amud(n, side)
-    texts = {}
-    for _, who in COMMENTATORS:
-        for d_, a_ in ((pd, pa), (n, side)):
-            try:
-                texts.update(lf.commentary(who, tractate, d_, a_))
-            except Exception:                 # not cached and offline: fall back to placed words
-                pass
-    c, seen = [], set()
-    for stream, who in COMMENTATORS:
-        for line in j.get(stream) or []:
-            for w in line["words"]:
-                for ref, _ in w.get("toks") or []:
-                    m = re.search(r"(\d+[ab]):(\d+):\d+$", ref)
-                    if not m or ref in seen or not j["segments"].get(ref):
-                        continue
-                    seen.add(ref)
-                    full = texts.get(ref, "")
-                    sep = next((x for x in (" - ", ". ") if x in full[:120]), None)
-                    dh, rest = (full.split(sep, 1) if sep else ("", full))
-                    c.append({"who": ref.split(" on ")[0], "on": f"{m.group(1)}.{m.group(2)}",
-                              "boxes": [fr(b_) for b_ in j["segments"][ref]], "dh": dh.strip(), "text": rest.strip()})
-    rough = any(f.startswith("gemara") for f in j["qc"].get("flags", []))
-    return {"g": g, "c": c, "rough": rough}
+    """The live-text overlay for one amud (daf-processor/page_layout/compact.py), or None when
+    page_layout hasn't run for it. `tractate` is the apps' spelling; out/ uses the scans'."""
+    from page_layout.compact import site_layout
+    return site_layout({"Rosh Hashanah": "Rosh HaShanah"}.get(tractate, tractate), amud)
 
 
 TRACTATE_GROUP = {}   # optional menu group per daf key; defaults to the tractate
