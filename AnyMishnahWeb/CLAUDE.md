@@ -105,3 +105,5 @@ BM 1 status: 1:1, 1:2, 1:3, 1:5 pair, 1:7 posted; only the 1:4 pair remains (rer
 BM 1 COMPLETE (2026-10-09): all pictures posted. Second-try results after author feedback: 1:2, 1:4 pair, 1:5 pair, 1:7 all good. First-try count was 6 of 9; every miss was a count, direction or invented-detail problem fixed by tighter prompt wording, not by style changes.
 
 Hard-set briefs drafted (data/hard_set_briefs.json): 5 SVG-only, 2 clay-possible, 1 mixed; awaiting author review; new symbol pairs: adds up/does not, liable/not, in/out, can become impure/cannot, defiles hands/does not/disputed, obligated/not. Legend label 'follows the attached note' (not 'postscript').
+
+RULE (author): plain language for all reader-facing text; no overly technical terms; see STYLE_BIBLE.md 'plain language' for the list of terms still to rephrase.

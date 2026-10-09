@@ -23,3 +23,6 @@ The `scene` must state the facts the mishnah's case depends on: what happened, w
 
 ## Rule: check every detail for unintended causation (added 2026-10-09)
 Before approving a scene, ask of each prop and pose: does it suggest a different cause or party than the mishnah says? (Example: a dropped basket would make the potter, not the cow, the cause of the broken pots in BK 5:2.)
+
+## Rule: plain language (added 2026-10-09)
+Every label, caption, symbol legend and outline line must use words a young reader would know; gloss or rephrase specialist terms (postscript, lien, libations, susceptible to impurity, defiles the hands). See STYLE_BIBLE.md.
