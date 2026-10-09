@@ -473,7 +473,6 @@ __SPRITE__
     <label class="tog"><input type="checkbox" id="layTog" checked> Highlight on the page</label><label class="tog" title="A tap on a line still moves the outline and the shiur there"><input type="checkbox" id="popTog" checked> Show the text on tap</label><span class="laynote" id="layNote"></span></div>
    <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg></div></div>
    <div class="pagepop" id="pagePop" hidden role="status"></div>
-   <p>Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline and the shiur there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.</p>
   </div></div>
   <div class="foot" id="gemFoot"></div>
   <button class="backaud" id="backText" type="button" hidden>↩ Back to the audio</button>
@@ -585,8 +584,6 @@ const HEW={
  'Resize the text side':'שינוי רוחב צד הטקסט','Drag to resize · double-click to reset':'גררו לשינוי הרוחב · לחיצה כפולה לאיפוס',
  'Resize the contents column':'שינוי רוחב תוכן העניינים','Close Contents':'סגירת תוכן העניינים','Language':'שפה','Follow the outline':'לעקוב אחרי המתווה',
  'Previous amud':'העמוד הקודם','⊞ Add a pane':'⊞ חלון נוסף','Show a second text beside this one':'הצגת טקסט נוסף לצד זה','Show in this pane':'מה להציג בחלון זה','Close this pane':'סגירת החלון','Second text':'טקסט נוסף','Show the text on tap':'הצגת הטקסט בהקשה','A tap on a line still moves the outline and the shiur there':'הקשה על שורה עדיין מעבירה אליה את המתווה','Amud':'עמוד','Next amud':'העמוד הבא','Highlight on the page':'סימון על הדף',
- "Turns to the amud of the section you're reading and marks its lines on the page (Rashi and Tosafot on those lines in amber). Tap a line of Gemara to move the outline and the shiur there and read it; tap Rashi or Tosafot to read the comment. Zoom with the slider below, then drag the page to move around it.":
-  'הדף עובר לעמוד של הקטע שאתם קוראים ומסמן בו את שורותיו (רש״י ותוספות על אותן שורות בכתום). הקישו על שורת גמרא כדי להעביר אליה את המתווה ולקרוא אותה; הקישו על רש״י או תוספות כדי לקרוא את הפירוש. הגדילו בעזרת המחוון שלמטה, וגררו את הדף כדי לנוע בו.',
  'Key terms':'מושגי מפתח','Close glossary':'סגירת המילון','Filter terms':'חיפוש מושג','Order':'סדר','As they appear':'לפי הופעתם','A–Z':'א–ת',
  'Make the box larger':'הגדלת החלון','Larger / smaller':'גדול / קטן','Close sages':'סגירה','By era':'לפי תקופה','Resize the timeline':'שינוי גובה ציר הזמן',
  'Drag to show more or less of the timeline · double-click to reset':'גררו כדי להציג יותר או פחות מציר הזמן · לחיצה כפולה לאיפוס',
@@ -957,6 +954,10 @@ function layoutPanes(){const sp=splitOn();
  for(const [m,el] of Object.entries(PANE_EL)){const box=sp&&m===mode2?$('gem2'):$('gem'),foot=sp&&m===mode2?$('gemFoot2'):$('gemFoot');
   if(el.parentElement!==box)box.insertBefore(el,foot);el.hidden=!(m===mode||(sp&&m===mode2))}
  $('gem2').hidden=!sp;$('main').classList.toggle('split',sp);
+ // with two panes each switch sits in its own pane; with one, the first pane's is on the top bar
+ const seg=$('paneSeg'),head=$('gem').querySelector('.gemhead');
+ if(sp&&seg.parentElement!==head)head.prepend(seg);
+ else if(!sp&&seg.parentElement===head)$('resBtn').before(seg);
  $('langSeg').hidden=mode==='page';$('langSeg2').hidden=mode2==='page';
  $('splitBtn').hidden=sp||narrow.matches||curView()==='outline';
  document.querySelectorAll('#pane2Seg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.p===mode2)));
@@ -980,7 +981,10 @@ const narrow=matchMedia('(max-width:860px)');
 // domain). Readers who came before the Show switch keep side by side.
 const ENTRY_TEXT=!/italmud\./i.test(location.hostname);
 let phoneView=ENTRY_TEXT&&!prefs.layout?'text':'outline',textMoved=false,noOutline=false;
-if(!prefs.layout){prefs.layout=prefs.nav?'both':ENTRY_TEXT?'text':'outline';savePrefs()}
+if(!prefs.layout){prefs.layout=prefs.nav?'both':ENTRY_TEXT?'text':'outline';
+ // the AnyDaf address is for learning the daf: the page and the shiur, side by side (author, 2026-10-09)
+ if(ENTRY_TEXT&&!prefs.nav){prefs.pane='page';prefs.pane2='shiur';prefs.split=true}
+ savePrefs()}
 function curView(){if(narrow.matches)return phoneView;const l=prefs.layout;return l==='outline'&&noOutline?'text':l}
 const textHidden=()=>curView()==='outline';
 function markPaneSeg(){const v=curView();document.querySelectorAll('#paneSeg button').forEach(x=>x.setAttribute('aria-pressed',String(

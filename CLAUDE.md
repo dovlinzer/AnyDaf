@@ -1955,8 +1955,10 @@ scan is always `direction:ltr` (its panning uses scrollLeft). The columns keep t
 in Hebrew (author: the Talmud reads right to left, and in Hebrew it comes first): `.main` and
 `#outCol` stay ltr and only their contents run rtl. **Entry address (2026-10-06):** a first visit
 through italmud.com / .org opens on the outline alone, through the AnyDaf address
-(anydaf-outlines.vercel.app) on the Talmud text alone (`ENTRY_TEXT`); after that each domain
-remembers the reader's own choice. The Sages window opens each card's About. With Contents open,
+(anydaf-outlines.vercel.app) on the daf page and the shiur side by side, no outline (`ENTRY_TEXT`;
+author, 2026-10-09); after that each domain remembers the reader's own choice. With two panes
+open, the first pane's Daf / Gemara / Shiur switch (`#paneSeg`) moves from the top bar into its
+own header (`layoutPanes`). The daf page's explanatory paragraph is gone. The Sages window opens each card's About. With Contents open,
 Hebrew reads Gemara, Contents, outline from right to left (CSS `order`); there the contents
 column's handle sits on the outline's edge and the text side's on the Gemara's own edge (`#gGem2`,
 inside `.gem`). The contents column has a Close button (סגירה) at its top in both languages. With the text side alone on a
