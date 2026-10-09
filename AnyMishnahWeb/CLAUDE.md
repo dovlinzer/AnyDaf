@@ -109,3 +109,5 @@ Hard-set briefs drafted (data/hard_set_briefs.json): 5 SVG-only, 2 clay-possible
 RULE (author, revised): technical Torah she'baal peh terms are WANTED on the site (gloss once, add to a per-chapter glossary and key terms, plus the sages box, as in AnyDafWeb); only captions inside the kids' clay illustrations stay simple. 1:8 uses 'simpon' (the mishnah's סמפונות).
 
 PLAN: add AnyDafWeb's key-terms chips, glossary pop-out and sages box to these pages (reuse renderer/outline-renderer.js and the glossary_entries data model; see AnyDafWeb/DESIGN.md). Candidate terms so far: BK 5: tam, mu'ad (not yet used), shen, pit (bor); BM 1: simpon, shibud (lien), ketubah, halitzah, kinyan, hefker. Verify each against R. Kulp before writing a definition.
+
+Older-audience tier: style test in data/teen_style_test.md (4 styles x 2 scenes); pick a style, then swap the style and dead-animal sentences in the existing BK 5 / BM 1 prompts. See STYLE_BIBLE.md.
