@@ -86,13 +86,13 @@ for m in D["mishnayot"]:
     secs.append(f'''<section id="m{n}"><h2>Mishnah {n}: {esc(a["title"])}</h2><p class="sum">{esc(a["summary"])}</p>
 <div class="grid"><div class="panel aids">{ol}{table(a.get("chart")) if n not in DIAGRAM else ""}{('<div class="chart">'+dg+'</div>') if dg else ""}</div>
 <div class="panel text"><div class="he" lang="he" dir="rtl">{clean(m["he"])}</div><div class="en">{clean(m["en"])}</div>{pics}
-<details><summary>Kulp's commentary</summary>{kul}</details></div></div></section>''')
+<details><summary>R. Kulp's commentary</summary>{kul}</details></div></div></section>''')
 css = """:root{--bg:#f7f4ec;--fg:#222;--card:#fff;--blue:#1b3a8a;--tint:#f1f3fb}@media(prefers-color-scheme:dark){:root{--bg:#14161c;--fg:#e8e6df;--card:#1d2028;--tint:#232838}}
 html{scroll-behavior:smooth}body{font:17px/1.55 'Public Sans',system-ui,sans-serif;margin:0;background:var(--bg);color:var(--fg)}header{background:var(--blue);color:#fff;padding:18px 24px}header h1{margin:0;font-family:Newsreader,Georgia,serif}
 .pills{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 16px;border-bottom:1px solid #8884;display:flex;gap:8px;align-items:center;flex-wrap:wrap}.pills span{font-weight:600;margin-right:6px}
 .pills a{display:inline-grid;place-items:center;min-width:38px;height:38px;border-radius:19px;background:var(--card);color:var(--blue);text-decoration:none;font-weight:700;border:1.5px solid var(--blue)}.pills a.on,.pills a:hover{background:var(--blue);color:#fff}
 main{max-width:1240px;margin:auto;padding:12px 16px}section{scroll-margin-top:70px;margin:26px 0}section h2{font-family:Newsreader,Georgia,serif;margin:0 0 2px}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:start}@media(max-width:900px){.grid{grid-template-columns:1fr}}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:start}@media(max-width:900px){.grid{grid-template-columns:1fr}.grid .text{order:-1}}
 .panel{background:var(--card);border-radius:14px;padding:16px 20px;box-shadow:0 1px 4px #0002}.aids{background:var(--tint)}
 .he{font:24px/1.9 'Times New Roman',serif;margin-bottom:10px}.sum{font-style:italic;opacity:.8;margin:0 0 10px}
 h4{margin:12px 0 2px}ul{margin:0 0 4px;padding-left:22px}li{margin:3px 0}table{border-collapse:collapse;width:100%;font-size:17px}td,th{border:1px solid #bbb8;padding:7px 10px;text-align:left}th{background:#1b3a8a22}.chart{margin:14px 0}.chart svg{width:100%;height:auto;display:block}
@@ -101,7 +101,7 @@ h4{margin:12px 0 2px}ul{margin:0 0 4px;padding-left:22px}li{margin:3px 0}table{b
 .banner{background:#fff3cd;color:#5a4500;padding:10px 24px;font-size:14px}footer{font-size:12px;opacity:.7;padding:14px 24px;max-width:1240px;margin:auto}a{color:var(--blue)}"""
 fonts = '<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">'
 head = lambda t: f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{t}</title>{fonts}<style>{css}</style></head><body>{SPRITE}<svg style="position:absolute;width:0;height:0"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient></defs></svg>'
-foot = '<footer>Hebrew: Mishnah, ed. Romm, Vilna 1913 (public domain). English translation and commentary: Mishnah Yomit by Dr. Joshua Kulp, via Sefaria, licensed CC-BY. Outlines, charts and diagrams drafted by Claude (Anthropic) from Kulp\'s text and under review. The illustrations are AI-generated. Prototype for discussion, not for distribution.</footer>'
+foot = '<footer>Hebrew: Mishnah, ed. Romm, Vilna 1913 (public domain). English translation and commentary: Mishnah Yomit by R. Joshua Kulp, via Sefaria, licensed CC-BY. Outlines, charts and diagrams drafted by Claude (Anthropic) from R. Kulp\'s text and under review. The illustrations are AI-generated. Prototype for discussion, not for distribution.</footer>'
 pills = '<nav class="pills"><span>Jump to mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '</nav>'
 js = "<script>const L=[...document.querySelectorAll('.pills a')];const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){L.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+e.target.id))}}),{rootMargin:'-30% 0px -60% 0px'});document.querySelectorAll('section').forEach(s=>io.observe(s));</script>"
 page = head("Bava Kamma, chapter 5") + '<header><h1>Mishnah Bava Kamma, chapter 5</h1><div>Outlines, charts and pictures</div></header><div class="banner">Prototype draft for review. The deeper layer (from Kehati) is not built yet.</div>' + pills + '<main>' + \
