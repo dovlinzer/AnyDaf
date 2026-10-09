@@ -99,3 +99,5 @@ Round 8 (author's review of BM 1): see STYLE_BIBLE.md 'Round 8'. Redo prompts: d
 RULE (author): read R. Kulp's commentary (and later Kehati) on a mishnah BEFORE writing its brief/prompt; take the condition from the source exactly and add no mechanism it does not state (see STYLE_BIBLE.md). BM 1:4 was wrong for this reason; corrected prompts in data/bava_metzia_1_prompts_v3.md. Status: 1:2 and 1:5a good (1:2 carries half|half overlays); remaining: 1:4 pair, 1:5b, 1:7.
 
 Overlay placement rule (author): symbols go toward the TOP, where least happens; relation symbols (splits) go between the two people. See STYLE_BIBLE.md. scripts/compose_bm1_fractions.py implements it for BM 1:1 and 1:2. BK 5's badges are still in upper-right box corners and BM 1's person tags float above heads: review them against this rule.
+
+BM 1 status: 1:1, 1:2, 1:3, 1:5 pair, 1:7 posted; only the 1:4 pair remains (rerun prompts in data/bava_metzia_1_prompts_v3.md). Write prompt descriptions in plain lowercase, no role labels.

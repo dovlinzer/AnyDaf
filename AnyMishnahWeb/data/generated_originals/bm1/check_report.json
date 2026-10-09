@@ -2,14 +2,14 @@
  "bm1-1a": {
   "pass": false,
   "fails": [
-   "scene mismatch: The scene does NOT match the intended description. While two men in red and green tunics are gripping opposite ends of a white cloak as expected, NEITHER man is pointing at themselves - they are both just holding the cloak. The framed box shows two white garments/cloaks laid out flat, but this does NOT clearly represent \"the cloak cut into two equal halves\" as described. The box appears to show two intact whole garments rather than one cloak divided in half."
+   "scene mismatch: The scene does NOT match the intended description. Both men are holding/gripping the white cloak between them, but neither man is pointing at themselves - their other hands are in fists or neutral positions, not pointing gestures. The framed box on the left shows two white garments/cloaks displayed separately, not a cloak cut into two equal halves as intended. The box shows two complete tunics/cloaks hanging side by side, not halves of a single cloak."
   ],
   "warnings": []
  },
  "bm1-1b": {
   "pass": false,
   "fails": [
-   "scene mismatch: The framed box shows the cloak in TWO EQUAL PIECES (split down the middle), not two unequal pieces with one three times the other as required. Man A (red tunic) is shown with a wide gesturing arm, which matches. However, Man B (green tunic) is NOT shown with a flat hand gesture claiming half - he is simply holding the cloak. The core issue is that the outcome box displays an equal split rather than the required 3:1 unequal division."
+   "scene mismatch: The scene shows two men gripping/holding a white cloak between them, which matches part of the description. However, the outcome box does NOT show the cloak in two unequal pieces (one three times the other). Instead, the box shows what appears to be a single white tunic/garment displayed whole and undivided. The gestures are present but the critical element - the outcome box showing the cloak divided into unequal pieces - is missing or incorrect."
   ],
   "warnings": []
  },
@@ -29,25 +29,30 @@
   "warnings": []
  },
  "bm1-4a": {
-  "pass": true,
-  "fails": [],
+  "pass": false,
+  "fails": [
+   "scene mismatch: MAJOR MISMATCHES: 1) The deer is STANDING upright on all four legs, not lying on the grass unable to stand as required. 2) There IS a wooden fence visible in the scene (multiple fence sections around the field), when the prompt explicitly states \"no fence\". 3) The deer does not appear to have a bandaged splinted broken front leg - the leg appears normal. The background is also not plain white but shows an elaborate desert/field setting with rolling hills, trees, stone walls, which contradicts the simple \"open field\" description. The owner does have a hand on his chest (correct), and there are two chasers running toward the deer (correct), and the cast count is correct (owner, two chasers, one deer)."
+  ],
   "warnings": []
  },
  "bm1-4b": {
   "pass": false,
   "fails": [
-   "extra: flock of pigeons/birds"
-  ],
-  "warnings": []
- },
- "bm1-5": {
-  "pass": false,
-  "fails": [
-   "bound book visible (scrolls only)"
+   "scene mismatch: The scene shows a fenced enclosure with stone walls and wooden fence gates visible, contradicting the intended description of \"no fence.\" The presence of these fencing structures is a clear and significant deviation from the expected scene which should show \"the same open field\" with no fence. The owner does have a hand on his chest (correct), the deer is bounding away and appears healthy (correct), pigeons fly overhead (correct), and two chasers are running after the deer (correct). However, the fence issue is a critical mismatch."
   ],
   "warnings": []
  },
  "bm1-7": {
+  "pass": true,
+  "fails": [],
+  "warnings": []
+ },
+ "bm1-5a": {
+  "pass": true,
+  "fails": [],
+  "warnings": []
+ },
+ "bm1-5b": {
   "pass": true,
   "fails": [],
   "warnings": []
