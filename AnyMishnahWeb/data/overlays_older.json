@@ -898,5 +898,59 @@
     "answer": "pay"
    }
   ]
+ },
+ "bk3-5s": {
+  "clean": "img/older/clean/bk3-5s.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the beam",
+    "rect": [
+     187,
+     168,
+     625,
+     858
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 406.0,
+      "y": 170,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
+ },
+ "bk3-11b": {
+  "clean": "img/older/clean/bk3-11b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of both chasing oxen",
+    "rect": [
+     702,
+     218,
+     829,
+     667
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 765.5,
+      "y": 220,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
  }
 }
