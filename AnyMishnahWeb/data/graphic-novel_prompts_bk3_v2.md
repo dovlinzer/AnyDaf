@@ -177,6 +177,13 @@ Overlay: woman in green -> pays ('pay').
 
 # Fixes after the first run (send each as an edit in the SAME chat as the picture it fixes)
 
+## bk3-7: fix: show that the passerby is actually injured
+
+PASTE:
+```
+Using the previous picture as reference, everything is exactly the same except: the passerby has a small wooden chip stuck in the skin of his forehead, with a clear trickle of red blood running down from it past his eye and his hand pressed to the spot, his face twisted in pain. The woman inside the wall has stopped, axe lowered, looking at him in alarm. A few more chips lie on the ground between them. Show the cut clearly.
+```
+
 ## bk3-11b: fix: the limping small ox was dropped from 11b
 
 PASTE:

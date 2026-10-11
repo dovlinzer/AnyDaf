@@ -60,7 +60,9 @@ P = [  # (id, title, kind, scene, review, overlay)
  "woman in green -> pays ('pay')"),
 ]
 
-FIXES = [  # edits to send in the SAME chat as the picture they fix (first run of v2, 2026-10-11)
+FIXES = [
+("bk3-7", "fix: show that the passerby is actually injured", "Using the previous picture as reference, everything is exactly the same except: the passerby has a small wooden chip stuck in the skin of his forehead, with a clear trickle of red blood running down from it past his eye and his hand pressed to the spot, his face twisted in pain. The woman inside the wall has stopped, axe lowered, looking at him in alarm. A few more chips lie on the ground between them. Show the cut clearly."),
+  # edits to send in the SAME chat as the picture they fix (first run of v2, 2026-10-11)
 ("bk3-11b", "fix: the limping small ox was dropped from 11b", "Using the previous picture as reference, everything is exactly the same except: add back the small brown ox. It runs across the pasture at the front, limping, with one front leg held up, and the red ox and the black ox run after it. The two women stand at the wall as before. Exactly three oxen (small brown, red, black) and exactly two women."),
 ("bk3-5s", "fix: the beam must touch the jar", "Using the previous picture as reference, everything is exactly the same except: the front tip of the beam presses against the neck of the jar, and the jar is cracking at that spot with shards falling."),
 ]
