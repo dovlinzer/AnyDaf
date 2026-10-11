@@ -167,3 +167,6 @@ Almost every figure so far was a man. Rule: choose gender ON PURPOSE in each sce
 
 ## Quiz questions (author, 2026-10-10)
 Each quiz question names WHAT IS AT STAKE (does he pay, who keeps it, how is it divided), never what is in the picture or a property of it ('how deep is the pit'). They live in data/quiz_questions.json, one list per picture in hotspot order. The tray has no 'Badges' label.
+
+## BK 3 first run (2026-10-11), graphic novel, prompts v2
+13 pictures came back (3:2a not seen). Acceptable at first look: 3:1a, 3:1b, 3:2b, 3:3, 3:6, 3:7, 3:5a, 3:5b, 3:5c, 3:11a (10 of 13). Needed a fix: 3:11b (the edit DROPPED the small ox: name every element that must stay), 3:4 (the second woman fell backward, not onto the first: describe body angles), 3:5s (beam did not touch the jar: say which part touches which). Worked well: the 5a-5c edit set (same street, same people, one change each), the palette sentence (all warm dusk), mixed genders, counts, no stray text. Fix prompts are at the end of data/graphic-novel_prompts_bk3_v2.md.

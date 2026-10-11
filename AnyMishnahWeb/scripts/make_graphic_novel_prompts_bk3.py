@@ -59,6 +59,12 @@ P = [  # (id, title, kind, scene, review, overlay)
  "two women only (green, blue); the woman in green is next to the wall with both chasing oxen still running behind the limping one",
  "woman in green -> pays ('pay')"),
 ]
+
+FIXES = [  # edits to send in the SAME chat as the picture they fix (first run of v2, 2026-10-11)
+("bk3-11b", "fix: the limping small ox was dropped from 11b", "Using the previous picture as reference, everything is exactly the same except: add back the small brown ox. It runs across the pasture at the front, limping, with one front leg held up, and the red ox and the black ox run after it. The two women stand at the wall as before. Exactly three oxen (small brown, red, black) and exactly two women."),
+("bk3-4", "fix: the second woman should fall ONTO the first, not backward", "Using the previous picture as reference, everything is exactly the same except: the second woman, in the green dress, is pitched forward toward the left, her whole body angled down over the first woman, her hands reaching down toward her as she topples onto her; the first woman stays on her hands and knees. Exactly two women."),
+("bk3-5s", "fix: the beam must touch the jar", "Using the previous picture as reference, everything is exactly the same except: the front tip of the beam presses against the neck of the jar, and the jar is cracking at that spot with shards falling."),
+]
 out = ["# Bava Kamma 3, graphic novel: first-try prompts v2 (men and women mixed on purpose) (2026-10-10)\n",
 "Purpose: test whether the lessons from BK 5 / BM 1 give good pictures on the first try. Written from the mishnah text and R. Kulp's commentary only. Scenes: 3:1 to 3:7 and 3:11 (3:8, 3:9, 3:10 are about amounts and comparisons, left for a decision).\n",
 "How to use: paste the block under PASTE into a new Gemini chat. Where it says 'same chat, edit', paste it into the chat that made the previous picture. 'Review' lists what to check before accepting; 'Overlay' says what we add in code.\n",
@@ -68,4 +74,6 @@ out = ["# Bava Kamma 3, graphic novel: first-try prompts v2 (men and women mixed
 for pid, title, kind, scene, review, overlay in P:
     full = ("GENERAL STYLE (the same for every picture):\n" + STYLE + "\n\nTHE SCENE TO DRAW:\n" + scene) if kind == "scene" else scene
     out.append(f"\n## {pid}: {title}\n\nPASTE:\n```\n{full}\n```\nReview: {review}.\nOverlay: {overlay}.\n")
+out.append("\n# Fixes after the first run (send each as an edit in the SAME chat as the picture it fixes)\n")
+for pid, title, text in FIXES: out.append(f"\n## {pid}: {title}\n\nPASTE:\n```\n{text}\n```\n")
 open("data/graphic-novel_prompts_bk3_v2.md", "w").write("".join(out)); print(len(P), "prompts")

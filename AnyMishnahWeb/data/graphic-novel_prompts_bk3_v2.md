@@ -174,3 +174,26 @@ Using the previous picture as reference, everything is exactly the same except: 
 ```
 Review: two women only (green, blue); the woman in green is next to the wall with both chasing oxen still running behind the limping one.
 Overlay: woman in green -> pays ('pay').
+
+# Fixes after the first run (send each as an edit in the SAME chat as the picture it fixes)
+
+## bk3-11b: fix: the limping small ox was dropped from 11b
+
+PASTE:
+```
+Using the previous picture as reference, everything is exactly the same except: add back the small brown ox. It runs across the pasture at the front, limping, with one front leg held up, and the red ox and the black ox run after it. The two women stand at the wall as before. Exactly three oxen (small brown, red, black) and exactly two women.
+```
+
+## bk3-4: fix: the second woman should fall ONTO the first, not backward
+
+PASTE:
+```
+Using the previous picture as reference, everything is exactly the same except: the second woman, in the green dress, is pitched forward toward the left, her whole body angled down over the first woman, her hands reaching down toward her as she topples onto her; the first woman stays on her hands and knees. Exactly two women.
+```
+
+## bk3-5s: fix: the beam must touch the jar
+
+PASTE:
+```
+Using the previous picture as reference, everything is exactly the same except: the front tip of the beam presses against the neck of the jar, and the jar is cracking at that spot with shards falling.
+```
