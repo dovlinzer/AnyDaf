@@ -1,0 +1,108 @@
+# Older-audience prompts v1 (graphic novel, style A), two-block format
+How to use: in Gemini, paste each prompt exactly as shown. Pairs: make the first picture in a NEW chat, then paste the second (an edit line) in the SAME chat. All other pictures: a new chat each.
+The two blocks: GENERAL STYLE is identical for every picture and names no objects; THE SCENE holds only what is in this picture. Rules that apply to one kind of scene (a dead animal, numerals, boxes) live in that scene's text and are worded as part of the scene, never as a standing rule, because the model draws anything a prompt mentions (the first dead-donkey bug).
+Removed from the old shared block: the 'dead animal lies on its side' sentence, 'scrolls and never bound books', and the 'Do NOT draw any badge, scale, coins...' sentence (add one back to a scene only if that picture actually draws such a thing).
+
+## bk5-1: BK 5:1 cow, calf and ox
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+The picture has exactly two parts: a main scene in the lower part, and exactly two framed rounded boxes floating above it (no more, no fewer), with no tails, not thought bubbles, and no icon in their corners; the upper-right corner area inside each box is kept plain and empty. A farm yard. A gored cow lies on her side, eyes closed, completely still, and a dead newborn calf lies on its side beside her, eyes closed, completely still. An ox stands a little way off, head lowered, horns pointing toward the cow, steam coming from its nostrils. A farmer in a simple tunic scratches his head, puzzled. Above the scene, two boxes side by side that look clearly different, each showing an ox and a cow at normal size and proportion, the ox charging at the cow. Left box: the cow with a newborn calf already standing beside her. Right box: a visibly pregnant cow with a very round belly, and no calf. A single question mark, drawn in the same style as the rest of the picture, floats in the gap between the two boxes, outside both of them.
+
+## bk5-2a: BK 5:2a courtyard, NO permission
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+The cast, identical in both pictures of this pair: the potter wears a grey-brown tunic and a pale blue cap and has a short brown beard; the householder wears a cream tunic with a blue vest and a white cap and has a grey beard; the cow is white with brown patches and a pot-fragment hangs from her horn. Camera view: we stand in the street just outside an open gate, looking in. In the foreground the two gate doors stand open, their outer faces toward us, and on the outer face of the left door is painted a red circle with a diagonal line through it (no-entry). Beyond the gate is the courtyard, enclosed by tall stone walls on every side, with the householder's stone house at the back. Everything is inside the courtyard, between the gate and the house: the householder stands near his doorway, the potter stands just inside the gate with both hands on his cheeks in dismay, holding nothing, and several clay pots lie broken on the courtyard floor with the cow standing among them, a hoof on a shard, looking guilty. The upper-right corner of the picture is kept plain and empty.
+
+## bk5-2b: BK 5:2b courtyard, WITH permission (separate picture, same cast)
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+The cast, identical in both pictures of this pair: the potter wears a grey-brown tunic and a pale blue cap and has a short brown beard; the householder wears a cream tunic with a blue vest and a white cap and has a grey beard; the cow is white with brown patches and a pot-fragment hangs from her horn. Camera view: we stand in the street just outside an open gate, looking in. In the foreground the two gate doors stand open, their outer faces toward us, plain, with no symbol on them. Beyond the gate is the courtyard, enclosed by tall stone walls on every side, with the householder's stone house at the back. Everything is inside the courtyard, between the gate and the house: the householder stands near his doorway and waves the potter in with a welcoming smile, the potter stands just inside the gate with both hands on his cheeks in dismay, holding nothing, and several clay pots lie broken on the courtyard floor with the cow standing among them, a hoof on a shard, looking guilty. The upper-right corner of the picture is kept plain and empty.
+
+## bk5-5: BK 5:5 the pit
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+The only numerals allowed in this picture are the ones named below. The picture has exactly two parts: a main scene in the lower part, and exactly two framed rounded boxes floating above it (no more, no fewer), with no tails, not thought bubbles, and no icon in their corners; the upper-right corner area inside each box is kept plain and empty. Main scene: a dirt road in daylight. A man in work clothes stands next to a freshly dug round pit at the roadside, spade in hand. An ox walks along the road and has stopped at the edge of the pit, looking down into it, one front hoof near the rim. A measuring rod with equal notches stands upright inside the pit. No other people. The two boxes above show cutaway side views of the pit, so its depth is visible; the pit is the same round shape everywhere. Left box: a deep round pit, a rod whose top notch is marked with the numeral 10, and an ox lying dead on its side at the bottom, eyes closed, completely still. Right box: a shallower round pit, a rod whose top notch is marked with the numeral 9, and the same ox lying dead on its side, eyes closed, completely still. A single question mark, drawn in the same style as the rest of the picture, floats in the gap between the two boxes, outside both of them.
+
+## bk5-6: BK 5:6 partners at the pit
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+The picture has exactly two parts: a main scene in the lower part, and exactly two framed rounded boxes floating above it (no more, no fewer), with no tails, not thought bubbles, and no icon in their corners; the upper-right corner area inside each box is kept plain and empty. Main scene: a field path beside an open round pit, with a wooden cover board lying on the ground next to it. Two partners are there: the first, in a brown tunic and cloak, is already walking away down the path, looking back over his shoulder; the second, in a green tunic, stands at the edge of the pit looking down into it, hands on his hips, the cover board at his feet; he has not picked it up. The two boxes above show what happened afterwards as cutaway side views, with no people in them and no arrows. Left box: the pit properly covered by the board, and an ox standing safely on the ground beside it. Right box: the pit open, shown in cutaway so its depth is visible, with an ox lying dead on its side at the very bottom of the pit, well below ground level, eyes closed, completely still. A single question mark, drawn in the same style as the rest of the picture, floats in the gap between the two boxes, outside both of them.
+
+## bm1-1a: BM 1:1a cloak, both claim all
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+Cast, identical in both pictures of this pair: Man A wears a red tunic and has a round face and a short black beard; Man B wears a green tunic and has a long thin face and a grey beard. A market street. Man A and Man B each grip an opposite end of a plain white cloak, tugging it, each pointing at himself with his free hand, both with indignant faces. In the upper-left corner of the picture is a framed rounded box showing the same white cloak cut cleanly into two EQUAL halves, lying side by side.
+
+## bm1-1b: BM 1:1b cloak, one claims all, one claims half (same chat)
+
+Using the previous picture as reference, everything is exactly the same except: Man A holds his free arm wide, claiming all of the cloak, with a confident face; Man B holds his free hand flat against the cloak at its middle, claiming half, with a firm face. The framed box in the upper-left corner now shows the same white cloak cut into two UNEQUAL pieces: one piece three times as large as the other, lying side by side.
+
+## bm1-2: BM 1:2 two men and a donkey (RECONSTRUCTED: the 1:2 prompt was not in the v2/v3 files)
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+The picture has exactly two parts: a main scene in the lower part, and exactly two framed rounded boxes floating above it (no more, no fewer), with no tails, not thought bubbles, and no icon in their corners; the upper-right corner area inside each box is kept plain and empty. Main scene: on a dirt road, a grey donkey with Man A in a blue cloak sitting on it, and Man B in an orange tunic walking beside it holding its rope; both point at themselves and look indignant. Above the scene, two boxes. Left box: the two men each with a raised right hand as if swearing an oath. Right box: the two men shaking hands, a third man in a white tunic (a witness) standing between them.
+
+## bm1-3a: BM 1:3a the friend keeps it
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+Cast, identical in both pictures of this pair: the rider wears a blue cloak, has a short brown beard and sits on a grey donkey; the friend wears an orange tunic and has a bald head and a round beard. Scene: a dirt road in hill country. The rider points down toward the road. The friend, on foot, has picked up the leather purse and hugs it to his chest with a triumphant grin, while the rider looks surprised. There is exactly ONE leather purse in the whole picture, in the friend's arms; nothing lies on the ground.
+
+## bm1-3b: BM 1:3b the friend has no claim (same chat)
+
+Using the previous picture as reference, everything is exactly the same except: the friend no longer holds the purse; the rider now holds the leather purse firmly with both hands in his lap; the friend points at himself, plainly too late, looking sheepish. There is still exactly ONE leather purse in the whole picture, in the rider's hands, and none on the ground.
+
+## bm1-4a: BM 1:4a the deer cannot leave
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+Cast, identical in both pictures of this pair: the field's owner wears a brown tunic and a straw hat and has a round face and a grey moustache; two chasers wear a yellow tunic and a purple tunic. Scene: an open grassy field on a hillside with a few olive trees, with no fence, wall or gate. A single deer stands on three legs, its broken front leg held up off the ground in a neat wooden splint and white bandage; it can only hobble slowly and cannot get away. The two chasers run toward it from the far side of the field; the owner stands close to the deer with one hand pressed to his chest, calling out confidently. Exactly one deer.
+
+## bm1-4b: BM 1:4b the deer can leave (same chat)
+
+Using the previous picture as reference, everything is exactly the same except: the deer is now healthy, with no splint or bandage, and bounds away across the field toward the open hills, running AWAY from the two chasers, who are both close behind it with their arms out; a flock of pigeons flies overhead; the owner stands with one hand on his chest. There are exactly two chasers and exactly one deer.
+
+## bm1-5a: BM 1:5a the child's find goes to the father
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+Scene: inside a stone house, a father in a brown tunic with a grey beard sits at a table, smiling, and reaches out to accept a leather purse that a small child in a yellow tunic, standing at the side of the table, holds out to him. Exactly two people. Exactly ONE leather purse in the picture, passing from the child to the father. On the table lies a rolled scroll.
+
+## bm1-5b: BM 1:5b the grown daughter's find is hers (same chat)
+
+Using the previous picture as reference, everything is exactly the same except: the small child is gone; in the child's place stands a grown daughter in a green dress who holds the leather purse close to herself with both hands; the father, seated, has both hands empty on the table and looks on calmly. Still exactly two people and exactly one purse, now in the daughter's hands.
+
+## bm1-7: BM 1:7 found document
+
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given.
+
+THE SCENE TO DRAW:
+Cast, to be kept strictly distinct: the finder in the main scene wears an orange tunic and has black hair and a black beard. In the left box the giver is a clean-shaven man in a dark blue tunic and a white cap, and the woman wears a grey hooded cloak. In the right box the writer is a bald man in a green tunic with a grey beard. No figure in the boxes looks like the finder. Any document is a rolled scroll. The picture has exactly two parts: a main scene in the lower part, and exactly two framed rounded boxes floating above it (no more, no fewer), with no tails, not thought bubbles, and no icon in their corners; the upper-right corner area inside each box is kept plain and empty. Main scene: the finder stands on a path holding up a rolled document, looking uncertain. Above the scene, two boxes. Left box: the giver handing the rolled document to the woman, and the same document later lying on the ground behind her as she looks around anxiously. Right box: the writer seated at a desk with the rolled document, pushing it away and shaking his head, the document falling to the floor. A single question mark, drawn in the same style as the rest of the picture, floats in the gap between the two boxes, outside both of them.

@@ -101,9 +101,8 @@ DIAG_BK5 = {3: svg_53, 4: svg_54, 5: svg_55, 7: svg_57}
 DIAG_BM1 = {5: svg_bm15, 6: svg_bm16, 8: svg_bm18}
 import os
 OV = json.load(open("data/overlays.json")) if os.path.exists("data/overlays.json") else {}
-def fig(pic):
-    pid = pic[0].rsplit(".", 1)[0]; spec = OV.get(pid)
-    if not spec: return f'<figure class="pic"><img src="img/{pic[0]}" alt="{esc(pic[1])}" loading="lazy"><figcaption>{esc(pic[1])}</figcaption></figure>'
+OV_OLD = json.load(open("data/overlays_older.json")) if os.path.exists("data/overlays_older.json") else {}
+def stage(spec, pic, base=""):
     W, H = spec["w"], spec["h"]; pct = lambda v, t: f"{100 * v / t:.3f}%"; hot = ""; ov = ""
     for i, h in enumerate(spec["hotspots"]):
         l, t, r, b = h["rect"]
@@ -111,8 +110,27 @@ def fig(pic):
         for bd in h["badges"]:
             tr = "translate(-50%,-50%)" if bd["anchor"] == "center" else "translate(-50%,-100%)"
             ov += f'<img class="ov" data-h="{i}" src="img/{bd["src"]}" alt="" style="left:{pct(bd["x"],W)};top:{pct(bd["y"],H)};width:{pct(bd["w"],W)};--t:{tr}">'
-    return (f'<figure class="pic"><div class="stage"><img src="{spec["clean"]}" alt="{esc(pic[1])}" loading="lazy">{hot}{ov}</div>'
-            f'<figcaption>{esc(pic[1])} <span class="hint">{esc(spec["hint"])}</span> <button class="all" type="button">Show all</button></figcaption></figure>')
+    return f'<div class="stage"><img src="{spec["clean"]}" alt="{esc(pic[1])}" loading="lazy">{hot}{ov}</div>'
+def variant(aud, mode, inner, cap, note=""):
+    n = f' <span class="note">{esc(note)}</span>' if note else ""
+    return f'<figure class="pic v" data-aud="{aud}" data-mode="{mode}">{inner}<figcaption>{esc(cap)}{n}</figcaption></figure>'
+def fig(pic):
+    """Four variants (younger/older x static/interactive); CSS shows the one chosen in the toolbar.
+    Younger static = the original composed picture with badges baked in. Older pictures live in site/img/older/<pid>.jpg (static, badges baked)
+    and site/img/older/clean/<pid>.jpg + data/overlays_older.json (interactive); until they exist the older choice shows the younger picture with a note."""
+    pid = pic[0].rsplit(".", 1)[0]; spec = OV.get(pid); cap = pic[1]
+    btn = ' <span class="hint">%s</span> <button class="all" type="button">Show all</button>'
+    if not spec: y_i = variant("y", "i", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap)
+    else: y_i = variant("y", "i", stage(spec, pic), cap).replace("</figcaption>", (btn % esc(spec["hint"])) + "</figcaption>")
+    y_s = variant("y", "s", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap)
+    old_s = os.path.exists(f"site/img/older/{pid}.jpg"); spec_o = OV_OLD.get(pid)
+    miss = "Older-audience picture not made yet; showing the younger one."
+    if old_s: o_s = variant("o", "s", f'<img src="img/older/{pid}.jpg" alt="{esc(cap)}" loading="lazy">', cap)
+    else: o_s = variant("o", "s", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap, miss)
+    if spec_o: o_i = variant("o", "i", stage(spec_o, pic), cap).replace("</figcaption>", (btn % esc(spec_o["hint"])) + "</figcaption>")
+    elif spec: o_i = variant("o", "i", stage(spec, pic), cap, miss).replace("</figcaption>", (btn % esc(spec["hint"])) + "</figcaption>")
+    else: o_i = variant("o", "i", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap, miss)
+    return y_i + y_s + o_i + o_s
 css = """:root{--bg:#f7f4ec;--fg:#222;--card:#fff;--blue:#1b3a8a;--tint:#f1f3fb}@media(prefers-color-scheme:dark){:root{--bg:#14161c;--fg:#e8e6df;--card:#1d2028;--tint:#232838}}
 html{scroll-behavior:smooth}body{font:17px/1.55 'Public Sans',system-ui,sans-serif;margin:0;background:var(--bg);color:var(--fg)}header{background:var(--blue);color:#fff;padding:18px 24px}header h1{margin:0;font-family:Newsreader,Georgia,serif}
 .pills{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 16px;border-bottom:1px solid #8884;display:flex;gap:8px;align-items:center;flex-wrap:wrap}.pills span{font-weight:600;margin-right:6px}
@@ -128,11 +146,14 @@ h4{margin:12px 0 2px}ul{margin:0 0 4px;padding-left:22px}li{margin:3px 0}table{b
 .hint{opacity:.85;font-style:italic}.all{margin-left:8px;font:600 12px 'Public Sans',sans-serif;border:1.5px solid var(--blue);color:var(--blue);background:var(--card);border-radius:12px;padding:1px 10px;cursor:pointer}
 .pic{margin:16px 0}.pic img{width:100%;height:auto;border-radius:12px;display:block}figcaption{font-size:14px;opacity:.7;margin-top:4px}details{margin-top:10px}summary{cursor:pointer;font-weight:600}
 .legend{background:var(--card);border-radius:12px;padding:12px 20px;margin:14px 0;display:flex;gap:0;align-items:center;flex-wrap:wrap}.legend .grp{display:flex;gap:18px;align-items:center;padding:0 22px;border-left:1px solid #8886}.legend .grp:first-child{padding-left:0;border-left:0}.legend .grp>span{display:flex;align-items:center;gap:8px}.legend .t{display:block}.b{flex:none}.b.wide{width:auto;height:40px}\n@media(max-width:1000px){.legend{flex-direction:column;align-items:stretch}.legend .grp{flex-wrap:wrap;padding:12px 0;border-left:0;border-top:1px solid #8886;gap:10px 22px}.legend .grp:first-child{border-top:0;padding-top:0}.legend .grp:last-child{padding-bottom:0}}.b{width:44px;height:44px;vertical-align:middle;margin-right:6px}
+.v{display:none}html[data-aud=y][data-mode=i] .v[data-aud=y][data-mode=i],html[data-aud=y][data-mode=s] .v[data-aud=y][data-mode=s],html[data-aud=o][data-mode=i] .v[data-aud=o][data-mode=i],html[data-aud=o][data-mode=s] .v[data-aud=o][data-mode=s]{display:block}html[data-mode=s] .ionly{display:none}.note{font-style:italic;color:#8a5a00}
+.opts{display:flex;gap:22px;flex-wrap:wrap;align-items:center;padding:8px 16px;background:var(--tint);border-bottom:1px solid #8884;font-size:14px}.opts b{margin-right:6px}.seg{display:inline-flex;border:1.5px solid var(--blue);border-radius:16px;overflow:hidden}.seg button{font:600 13px 'Public Sans',sans-serif;border:0;background:var(--card);color:var(--blue);padding:4px 14px;cursor:pointer}.seg button[aria-pressed=true]{background:var(--blue);color:#fff}
 .banner{background:#fff3cd;color:#5a4500;padding:10px 24px;font-size:14px}footer{font-size:12px;opacity:.7;padding:14px 24px;max-width:1240px;margin:auto}a{color:var(--blue)}"""
 fonts = '<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">'
-head_html = lambda t: f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{t}</title>{fonts}<style>{css}</style></head><body>{SPRITE}<svg style="position:absolute;width:0;height:0"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient></defs></svg>'
+HEAD_JS = '<script>(function(){var d=document.documentElement,a="y",m="i";try{a=localStorage.getItem("mAud")||a;m=localStorage.getItem("mMode")||m}catch(e){}d.dataset.aud=a;d.dataset.mode=m})()</script>'
+head_html = lambda t: f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{t}</title>{fonts}<style>{css}</style>{HEAD_JS}</head><body>{SPRITE}<svg style="position:absolute;width:0;height:0"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient></defs></svg>'
 foot = '<footer>Hebrew: Mishnah, ed. Romm, Vilna 1913 (public domain). English translation and commentary: Mishnah Yomit by R. Joshua Kulp, via Sefaria, licensed CC-BY. Outlines, charts and diagrams drafted by Claude (Anthropic) from the mishnah and R. Kulp\'s text and under review. The illustrations are AI-generated; the round symbols are interim. Prototype for discussion, not for distribution.</footer>'
-js = "<script>document.querySelectorAll('.stage').forEach(st=>{const hs=[...st.querySelectorAll('.hot')];const set=(i,on)=>{hs[i].setAttribute('aria-pressed',on);st.querySelectorAll('.ov[data-h=\"'+i+'\"]').forEach(o=>o.classList.toggle('on',on))};hs.forEach((h,i)=>h.addEventListener('click',()=>set(i,h.getAttribute('aria-pressed')!=='true')));const btn=st.parentElement.querySelector('.all');btn.addEventListener('click',()=>{const on=btn.textContent==='Show all';hs.forEach((_,i)=>set(i,on));btn.textContent=on?'Hide all':'Show all'})});const L=[...document.querySelectorAll('.pills a')];const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){L.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+e.target.id))}}),{rootMargin:'-30% 0px -60% 0px'});document.querySelectorAll('section').forEach(s=>io.observe(s));</script>"
+js = "<script>document.querySelectorAll('.seg').forEach(g=>{const k=g.dataset.key,K=k==='aud'?'mAud':'mMode';const sync=()=>g.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.v===document.documentElement.dataset[k]));sync();g.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{document.documentElement.dataset[k]=b.dataset.v;try{localStorage.setItem(K,b.dataset.v)}catch(e){}document.querySelectorAll('.seg[data-key=\\''+k+'\\']').forEach(x=>x.querySelectorAll('button').forEach(c=>c.setAttribute('aria-pressed',c.dataset.v===b.dataset.v)))}))});document.querySelectorAll('.stage').forEach(st=>{const hs=[...st.querySelectorAll('.hot')];const set=(i,on)=>{hs[i].setAttribute('aria-pressed',on);st.querySelectorAll('.ov[data-h=\"'+i+'\"]').forEach(o=>o.classList.toggle('on',on))};hs.forEach((h,i)=>h.addEventListener('click',()=>set(i,h.getAttribute('aria-pressed')!=='true')));const btn=st.parentElement.querySelector('.all');btn.addEventListener('click',()=>{const on=btn.textContent==='Show all';hs.forEach((_,i)=>set(i,on));btn.textContent=on?'Hide all':'Show all'})});const L=[...document.querySelectorAll('.pills a')];const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){L.forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+e.target.id))}}),{rootMargin:'-30% 0px -60% 0px'});document.querySelectorAll('section').forEach(s=>io.observe(s));</script>"
 def leg(groups, extra=""):
     g = "".join('<div class="grp">' + "".join(f'<span><img class="b{" wide" if k.startswith("pay-") else ""}" src="img/badge-{k}.png" alt=""><span class="t"><b>{esc(a)}</b> {esc(b)}</span></span>' for k, a, b in grp) + "</div>" for grp in groups)
     return '<div class="legend">' + g + extra + "</div>"
@@ -148,12 +169,13 @@ def build(data, layer1, diagrams, title, sub, outfile, legend):
         secs.append(f'''<section id="m{n}"><h2>Mishnah {n}: {esc(a["title"])}</h2><p class="sum">{esc(a["summary"])}</p>
 <div class="grid"><div class="panel aids">{ol}{table(a.get("chart")) if n not in diagrams else ""}{('<div class="chart">'+dg+'</div>') if dg else ""}</div>
 <div class="panel text"><div class="he" lang="he" dir="rtl">{clean(m["he"])}</div><div class="en">{clean(m["en"])}</div>{pics}{kdet}</div></div></section>''')
+    opts = '<div class="opts"><span><b>Illustrations for</b><span class="seg" data-key="aud"><button type="button" data-v="y">Younger</button><button type="button" data-v="o">Older</button></span></span><span><b>Style</b><span class="seg" data-key="mode"><button type="button" data-v="s">Static</button><button type="button" data-v="i">Interactive</button></span></span></div>'
     pills = '<nav class="pills"><span>Jump to mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '</nav>'
-    page = head_html(title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Prototype draft for review. The deeper layer (from Kehati) is not built yet. <a href="index.html">All chapters</a></div>' + pills + "<main>" + legend + "".join(secs) + "</main>" + foot + js + "</body></html>"
+    page = head_html(title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Prototype draft for review. The deeper layer (from Kehati) is not built yet. <a href="index.html">All chapters</a></div>' + opts + pills + "<main>" + legend + "".join(secs) + "</main>" + foot + js + "</body></html>"
     open(outfile, "w").write(page); print(outfile, len(page))
 PAY = [("pay", "pays", "(is liable)"), ("notpay", "does not pay", "(is exempt)")]
 build("data/bava_kamma_5.json", "data/bava_kamma_5_layer1.json", DIAG_BK5, "Mishnah Bava Kamma, chapter 5", "Outlines, charts and pictures", "site/bava-kamma-5.html",
-      leg([PAY, [("pay-half", "pays half", ""), ("pay-quarter", "pays a quarter", "")]], '<div class="grp"><span><span class="t">A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></span></div><div class="grp"><span><span class="t"><b>Tap</b> a picture, a box or a person to see the ruling.</span></span></div>'))
+      leg([PAY, [("pay-half", "pays half", ""), ("pay-quarter", "pays a quarter", "")]], '<div class="grp"><span><span class="t">A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></span></div><div class="grp ionly"><span><span class="t"><b>Tap</b> a picture, a box or a person to see the ruling.</span></span></div>'))
 build("data/bava_metzia_1.json", "data/bava_metzia_1_layer1.json", DIAG_BM1, "Mishnah Bava Metzia, chapter 1", "Outlines, charts and pictures", "site/bava-metzia-1.html",
-      leg([[("keeps", "keeps it", ""), ("noclaim", "has no claim", "")], [("return", "returns it", ""), ("noreturn", "does not return it", "")], [("hold", "holds it", ""), ("follow", "follows the simpon", "(the attached note)")]], '<div class="grp"><span><span class="t"><b>Tap</b> a picture, a box or a person to see the ruling.</span></span></div>'))
+      leg([[("keeps", "keeps it", ""), ("noclaim", "has no claim", "")], [("return", "returns it", ""), ("noreturn", "does not return it", "")], [("hold", "holds it", ""), ("follow", "follows the simpon", "(the attached note)")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a picture, a box or a person to see the ruling.</span></span></div>'))
 open("site/index.html", "w").write(head_html("AnyMishnah prototype") + '<header><h1>AnyMishnah (prototype)</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="panel"><h2>Chapters so far</h2><ul><li><a href="bava-kamma-5.html">Bava Kamma, chapter 5</a> (pit, courtyard and ox cases; 7 mishnayot)</li><li><a href="bava-metzia-1.html">Bava Metzia, chapter 1</a> (found objects and documents; 8 mishnayot)</li></ul></div></main>' + foot + "</body></html>")
