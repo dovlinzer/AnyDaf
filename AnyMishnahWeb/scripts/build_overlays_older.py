@@ -32,7 +32,7 @@ def rd(pid): return Image.open(G + pid + ".jpg").convert("RGB")
 def pad_top(im, px, stretch=False):   # stretch = repeat the top row (right when the top is plain sky); reflect = mirror the top strip (right when branches or beams reach the top)
     out = Image.new("RGB", (im.width, im.height + px)); out.paste(im, (0, px))
     out.paste(im.crop((0, 0, im.width, 6)).resize((im.width, px), Image.BICUBIC) if stretch else im.crop((0, 0, im.width, px)).transpose(Image.FLIP_TOP_BOTTOM), (0, 0)); return out
-SKIP = {"bm1-1b"}   # 1:1b is being redone (the small piece did not read as part of the same cloak); no older picture yet
+SKIP = set()   # 1:1b is being redone (the small piece did not read as part of the same cloak); no older picture yet
 only = set(sys.argv[1:])
 def go(pid): return pid not in SKIP and (not only or pid in only)
 # ---- Bava Kamma 5
@@ -53,7 +53,7 @@ for pid, kp in (("bm1-1a", "half-half"), ("bm1-1b", "3q-1q")):
     if pid in SKIP: continue
     if not go(pid): continue
     raw = rd(pid); im = pad_top(raw, 70, True); sb = bbox(raw, "the single framed rounded box in the upper left corner showing a white garment")
-    add(pid, im, [{"label": "How the cloak is divided", "rect": [sb["left"], sb["top"] + 70, sb["right"], sb["bottom"] + 70], "badges": [{"src": f"badge-{kp}.png", "x": (sb["left"] + sb["right"]) / 2, "y": sb["top"] + 70 - 2, "w": int((sb["right"] - sb["left"]) * 0.62), "anchor": "center"}], "answer": kp}], "Tap the box to see how the cloak is divided.")
+    add(pid, im, [{"label": "How the cloak is divided", "rect": [sb["left"], sb["top"] + 70, sb["right"], sb["bottom"] + 70], "badges": [{"src": f"badge-{kp}.png", "x": (sb["left"] + sb["right"]) / 2, "y": sb["top"] + 70 - 32, "w": int((sb["right"] - sb["left"]) * 0.46), "anchor": "center"}], "answer": kp}], "Tap the box to see how the cloak is divided.")
 if go("bm1-2"):
     raw = rd("bm1-2"); im = pad_top(raw, 40, True)
     add("bm1-2", im, box_hot(boxes_of("bm1-2", 40), ["", ""], ["They swear, then split it", "They agree, then split it"], ["half-half", "half-half"], top_center=True, pill="badge-half-half.png"), "Tap each box to see how it is split.")

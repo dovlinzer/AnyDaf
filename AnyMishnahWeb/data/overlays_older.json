@@ -219,17 +219,17 @@
    {
     "label": "How the cloak is divided",
     "rect": [
-     40,
+     39,
      109,
-     484,
-     437
+     482,
+     433
     ],
     "badges": [
      {
       "src": "badge-half-half.png",
-      "x": 262.0,
-      "y": 107,
-      "w": 275,
+      "x": 260.5,
+      "y": 77,
+      "w": 203,
       "anchor": "center"
      }
     ],
@@ -469,6 +469,33 @@
      }
     ],
     "answer": "noreturn"
+   }
+  ]
+ },
+ "bm1-1b": {
+  "clean": "img/older/clean/bm1-1b.jpg",
+  "w": 1264,
+  "h": 918,
+  "hint": "Tap the box to see how the cloak is divided.",
+  "hotspots": [
+   {
+    "label": "How the cloak is divided",
+    "rect": [
+     40,
+     110,
+     491,
+     352
+    ],
+    "badges": [
+     {
+      "src": "badge-3q-1q.png",
+      "x": 265.5,
+      "y": 78,
+      "w": 207,
+      "anchor": "center"
+     }
+    ],
+    "answer": "3q-1q"
    }
   ]
  }
