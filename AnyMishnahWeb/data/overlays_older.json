@@ -635,40 +635,21 @@
    {
     "label": "The man who put the straw on the road",
     "rect": [
-     430,
-     158,
-     599,
-     825
+     220,
+     207,
+     405,
+     642
     ],
     "badges": [
      {
       "src": "tag-pay.png",
-      "x": 514.5,
-      "y": 160,
+      "x": 312.5,
+      "y": 209,
       "w": 104,
       "anchor": "bottom"
      }
     ],
     "answer": "pay"
-   },
-   {
-    "label": "The young woman taking the straw",
-    "rect": [
-     722,
-     258,
-     1103,
-     803
-    ],
-    "badges": [
-     {
-      "src": "tag-keeps.png",
-      "x": 912.5,
-      "y": 260,
-      "w": 104,
-      "anchor": "bottom"
-     }
-    ],
-    "answer": "keeps"
    }
   ]
  },

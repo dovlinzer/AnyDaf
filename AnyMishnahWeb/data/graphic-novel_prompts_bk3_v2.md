@@ -57,7 +57,7 @@ Scene: a country path beside a field. A fence made of thorn branches that ran al
 Review: one woman (traveller) and one man (field owner); the fence is visibly down across the path (not standing); no blood.
 Overlay: field owner -> pays ('pay').
 
-## bk3-3: 3:3 straw and stubble put out on the road
+## bk3-3: 3:3 straw put out on the road (REWRITTEN by the author after the first picture; this simpler version worked)
 
 PASTE:
 ```
@@ -65,10 +65,10 @@ GENERAL STYLE (the same for every picture):
 Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. Injuries may be shown plainly when the scene calls for them (a cut with a little blood, a bruise, a bandage), without gore. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given. Palette: warm, muted late-afternoon light, with ochre, olive, dusty brown and slate tones and a hazy peach or pale grey-blue sky; no bright saturated blue or green.
 
 THE SCENE TO DRAW:
-Scene: the edge of a village road. A long low heap of straw and stubble lies along the road. A woman in a blue dress sits on the ground beside the heap, holding her sore foot with a wince. Next to him stands the man who put the heap there, in a brown tunic with a grey beard, shaking his head. A young woman in a yellow dress, smiling, is pitching straw from the heap into her own hand cart with a pitchfork. Exactly three people (one man, two women) and one hand cart.
+Scene: the edge of a village road. A long low heap of straw and stubble lies along the road. A woman in a blue dress has been walking down the road but is now slipping on a pile of stubble left in the middle of the road. She is falling backward, both feet flying forward off the road, her arms flung out and her mouth open in a cry, just about to hit the hard road and sustain a serious injury; one of her sandals has come off. The man with the pitchfork is pitching straw from the heap into the road. Exactly two people (one man, one woman).
 ```
-Review: one man (owner, brown) and two women (injured, blue; young, yellow), all dressed differently; the young woman is taking the straw into HER cart; the sitting woman holds her foot.
-Overlay: owner (brown) -> pays for the injury ('pay'); young woman -> keeps the straw ('keeps').
+Review: the pile of straw is IN the road under her feet; the man is visibly the one putting it there; exactly two people; she is in mid-fall, not sitting on the straw.
+Overlay: man with the pitchfork -> pays for the injury ('pay'). 'Anyone who comes first may take the straw' stays in the text..
 
 ## bk3-4: 3:4 two pot-sellers
 
@@ -176,13 +176,6 @@ Review: two women only (green, blue); the woman in green is next to the wall wit
 Overlay: woman in green -> pays ('pay').
 
 # Fixes after the first run (send each as an edit in the SAME chat as the picture it fixes)
-
-## bk3-3: fix: she slips on the straw (replaces the cut-shin version, which was too graphic and not realistic for straw; Kehati's own example is slipping)
-
-PASTE:
-```
-Using the previous picture as reference, everything is exactly the same except: the woman in blue is no longer sitting. She is slipping on the loose straw on the road and falling backward, both feet flying forward off the ground, her arms flung out and her mouth open in a cry, just about to hit the ground; one of her sandals has come off and lies on the straw. The man in the brown tunic stands as before with a hand to his head, and the young woman with the pitchfork and cart as before. No blood.
-```
 
 ## bk3-1a: optional fix: make the injury more than a sprain
 

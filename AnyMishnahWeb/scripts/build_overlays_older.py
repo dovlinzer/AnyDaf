@@ -76,7 +76,7 @@ tags("bk3-1a", 30, [("the man in the blue tunic sprawled on the road, holding hi
 tags("bk3-1b", 100, [("the woman in the green dress with a white head covering, holding a broken jug", "pay", "The owner of the jug", "pay")], stretch=True)
 tags("bk3-2a", 0, [("the woman in the grey dress and white head covering leaning out of the doorway and pouring a bucket", "pay", "The woman who poured the water", "pay")])
 tags("bk3-2b", 60, [("the old man with a white beard and both hands on his head, at the right", "pay", "The owner of the field", "pay")])
-tags("bk3-3", 60, [("the grey-bearded man in the brown tunic standing in the middle", "pay", "The man who put the straw on the road", "pay"), ("the young woman in the yellow dress pitching straw into a cart", "keeps", "The young woman taking the straw", "keeps")])
+tags("bk3-3", 60, [("the man in the brown cloak with a pitchfork, at the left", "pay", "The man who put the straw on the road", "pay")])
 tags("bk3-4", 0, [("the woman in the brown dress and white head covering on her hands and knees at the left, with a rack of pots on her back", "pay", "The first pot-seller", "pay")])
 tags("bk3-5s", 0, [("the man in the olive tunic carrying a long wooden beam on his shoulder, on the left", "notpay", "The owner of the beam", "notpay")])
 tags("bk3-11b", 0, [("the woman in the green dress and white head covering standing at the wall on the left", "pay", "The owner of both chasing oxen", "pay")])
