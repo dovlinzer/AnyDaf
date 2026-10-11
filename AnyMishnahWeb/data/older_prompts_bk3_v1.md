@@ -2,7 +2,7 @@
 Purpose: test whether the lessons from BK 5 / BM 1 give good pictures on the first try. Written from the mishnah text and R. Kulp's commentary only. Scenes: 3:1 to 3:7 and 3:11 (3:8, 3:9, 3:10 are about amounts and comparisons, left for a decision).
 How to use: paste the block under PASTE into a new Gemini chat. Where it says 'same chat, edit', paste it into the chat that made the previous picture. 'Review' lists what to check before accepting; 'Overlay' says what we add in code.
 Lessons applied: style block names no objects and carries a palette sentence; no standing negatives; the scene says what IS there (cracked into three pieces, hopping on one foot) not what is not; counts stated; every person has his own clothes; sets that change one fact are edits in the same chat; any left/right order is stated against a fixed direction of travel; no picture carries a quantity.
-FLAG (source): 3:5 clause 1 (both walk side by side): the mishnah text says the beam owner is EXEMPT, but R. Kulp's explanation says he is liable. No picture is made for it until we know which is right. 5a-5c use clauses 2 and 3 where the two agree.
+SOURCE NOTE: 3:5 clause 1 (side by side): R. Kulp's explanation says the beam owner is liable, which contradicts the mishnah text; the author checked and Kehati confirms the mishnah: he is EXEMPT. R. Kulp was wrong here. Kehati outranks R. Kulp wherever they differ.
 
 ## bk3-1a: 3:1 a jug left in the road
 
@@ -81,6 +81,19 @@ Scene: a path between two stone walls, seen from the side, with everyone moving 
 ```
 Review: exactly two men; the FIRST (left) man is the one on the ground and the SECOND (right, green) is falling onto him, not the other way round.
 Overlay: first man (brown) -> pays ('pay').
+
+## bk3-5s: 3:5 clause 1: the two men walk side by side (own picture, new chat; same clothes as 5a)
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. No blood or open wounds. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given. Palette: warm, muted late-afternoon light, with ochre, olive, dusty brown and slate tones and a hazy peach or pale grey-blue sky; no bright saturated blue or green.
+
+THE SCENE TO DRAW:
+Scene: a wide town street seen from the side, with both men walking toward the left of the picture, abreast of each other. The man nearer the viewer, in a brown tunic, carries a long wooden beam on his shoulder, the beam pointing forward past his shoulder. The man beside him, farther from the viewer, in a blue tunic, carries a large clay jar on his shoulder; the front end of the beam has knocked against the jar, which is cracking and dropping a shard. Both men look surprised. Exactly two men, one beam, one jar.
+```
+Review: the two men are level with each other, not one behind the other; the beam end touches the jar; same two outfits as 5a.
+Overlay: beam man -> exempt ('notpay'), the mishnah's ruling, confirmed by Kehati.
 
 ## bk3-5a: 3:5 beam in front, jar behind: the jar breaks (FIRST of a set of three; make 5b and 5c in the SAME chat)
 
