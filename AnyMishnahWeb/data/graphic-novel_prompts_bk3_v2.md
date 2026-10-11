@@ -177,18 +177,11 @@ Overlay: woman in green -> pays ('pay').
 
 # Fixes after the first run (send each as an edit in the SAME chat as the picture it fixes)
 
-## bk3-2b: fix: show a real injury (thorn wounds)
+## bk3-3: fix: she slips on the straw (replaces the cut-shin version, which was too graphic and not realistic for straw; Kehati's own example is slipping)
 
 PASTE:
 ```
-Using the previous picture as reference, everything is exactly the same except: the woman sits on the path with her bare foot in her hands, and several long thorns are stuck deep in the sole and ankle, with thin trickles of red blood running down her foot onto the dust; her face is twisted in pain. The fallen thorn fence is still across the path behind her and the owner still stands at the right with his hands on his head.
-```
-
-## bk3-3: fix: show a real injury (a deep scratched shin)
-
-PASTE:
-```
-Using the previous picture as reference, everything is exactly the same except: the woman in blue sits holding her lower leg, which is swollen and has a long red cut across the shin with blood trickling down, and a sharp stubble stalk still stuck in it; her face is twisted in pain. Everything else stays as it is: the same man, the young woman with the pitchfork and cart, the heap of straw.
+Using the previous picture as reference, everything is exactly the same except: the woman in blue is no longer sitting. She is slipping on the loose straw on the road and falling backward, both feet flying forward off the ground, her arms flung out and her mouth open in a cry, just about to hit the ground; one of her sandals has come off and lies on the straw. The man in the brown tunic stands as before with a hand to his head, and the young woman with the pitchfork and cart as before. No blood.
 ```
 
 ## bk3-1a: optional fix: make the injury more than a sprain
