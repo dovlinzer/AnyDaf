@@ -2,13 +2,7 @@
 STYLE is constant and names no objects. Each scene holds everything that is in that picture, nothing else.
 Run: python3 scripts/make_older_prompts.py  -> data/older_prompts_v1.md (and data/older_prompts_v1.json for the future API pipeline)"""
 import json
-STYLE = ("Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, "
-         "a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. "
-         "Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. "
-         "No blood or open wounds. A sky or landscape fills the whole background; no white background. "
-         "Draw only the people, animals and objects named in the scene, in exactly the numbers given.")
-BOXES = "The picture has exactly two parts: a main scene in the lower part, and above it exactly two framed boxes, side by side, each a plain rounded rectangle containing its own small picture. "
-QM = " A single question mark, drawn in the same style as the rest of the picture, floats in the gap between the two boxes, outside both of them."
+from older_style import STYLE, BOXES, QM
 POTTER = ("The cast, to stay identical in the second picture of this pair: the potter wears a grey-brown tunic and a pale blue cap and has a short brown beard; the householder wears a cream tunic with a blue vest and a white cap and has a grey beard; the cow is white with brown patches and a pot-fragment hangs from her horn. "
           "Camera view: we stand in the street just outside an open gate, looking in. In the foreground the two gate doors stand open, their outer faces toward us, %s Beyond the gate is the courtyard, enclosed by tall stone walls on every side, with the householder's stone house at the back. "
           "Everything is inside the courtyard, between the gate and the house: the householder %s, the potter stands just inside the gate with both hands on his cheeks in dismay, holding nothing, and several clay pots lie broken on the courtyard floor with the cow standing among them, a hoof on a shard, looking guilty.")
