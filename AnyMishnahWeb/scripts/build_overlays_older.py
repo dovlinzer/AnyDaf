@@ -55,8 +55,8 @@ for pid, kp in (("bm1-1a", "half-half"), ("bm1-1b", "3q-1q")):
     raw = rd(pid); im = pad_top(raw, 70, True); sb = bbox(raw, "the single framed rounded box in the upper left corner showing a white garment")
     add(pid, im, [{"label": "How the cloak is divided", "rect": [sb["left"], sb["top"] + 70, sb["right"], sb["bottom"] + 70], "badges": [{"src": f"badge-{kp}.png", "x": (sb["left"] + sb["right"]) / 2, "y": sb["top"] + 70 - 2, "w": int((sb["right"] - sb["left"]) * 0.62), "anchor": "center"}], "answer": kp}], "Tap the box to see how the cloak is divided.")
 if go("bm1-2"):
-    raw = rd("bm1-2"); im = pad_top(raw, 60, True)
-    add("bm1-2", im, box_hot(boxes_of("bm1-2", 60), ["", ""], ["They swear, then split it", "They agree, then split it"], ["half-half", "half-half"], top_center=True, pill="badge-half-half.png"), "Tap each box to see how it is split.")
+    raw = rd("bm1-2"); im = pad_top(raw, 40, True)
+    add("bm1-2", im, box_hot(boxes_of("bm1-2", 40), ["", ""], ["They swear, then split it", "They agree, then split it"], ["half-half", "half-half"], top_center=True, pill="badge-half-half.png"), "Tap each box to see how it is split.")
 for pid, kind in (("bm1-3a", "keeps"), ("bm1-3b", "noclaim")):
     if go(pid): im = rd(pid); add(pid, im, [person_tag(im, "the bald man in an orange tunic on the right", kind, "Does he keep it?", kind, 1264, 848)], "Tap the man in orange to see the ruling.")
 for pid, kind in (("bm1-4a", "keeps"), ("bm1-4b", "noclaim")):

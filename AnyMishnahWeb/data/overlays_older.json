@@ -240,22 +240,22 @@
  "bm1-2": {
   "clean": "img/older/clean/bm1-2.jpg",
   "w": 1264,
-  "h": 908,
+  "h": 888,
   "hint": "Tap each box to see how it is split.",
   "hotspots": [
    {
     "label": "They swear, then split it",
     "rect": [
-     81,
-     98,
-     579,
-     402
+     110,
+     84,
+     573,
+     383
     ],
     "badges": [
      {
       "src": "badge-half-half.png",
-      "x": 330.0,
-      "y": 94,
+      "x": 341.5,
+      "y": 80,
       "w": 118,
       "anchor": "center"
      }
@@ -265,16 +265,16 @@
    {
     "label": "They agree, then split it",
     "rect": [
-     672,
-     98,
-     1183,
-     402
+     697,
+     84,
+     1160,
+     383
     ],
     "badges": [
      {
       "src": "badge-half-half.png",
-      "x": 927.5,
-      "y": 94,
+      "x": 928.5,
+      "y": 80,
       "w": 118,
       "anchor": "center"
      }
