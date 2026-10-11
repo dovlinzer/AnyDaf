@@ -1,6 +1,6 @@
 """Bava Kamma 3, older audience, first-try test of the prompt lessons (2026-10-10). Scenes written from the mishnah text and R. Kulp's commentary only.
-Run: python3 scripts/make_older_prompts_bk3.py -> data/older_prompts_bk3_v1.md"""
-from older_style import STYLE
+Run: python3 scripts/make_graphic_novel_prompts_bk3.py -> data/graphic-novel_prompts_bk3_v1.md"""
+from graphic_novel_style import STYLE
 P = [  # (id, title, kind, scene, review, overlay)
 ("bk3-1a", "3:1 a jug left in the road", "scene",
  "Scene: a dirt road through a small town, with stone houses on both sides. A man in a blue tunic has just tripped over a large clay jug that was standing in the road: he is sprawled on the road with one hand gripping his ankle, wincing. The jug lies cracked into three large pieces beside him, with a dark wet patch spreading across the stones. At the side of the road, a stocky man with a grey beard, in a brown tunic and a cream apron, looks on with both hands raised to his head in dismay: he is the jug's owner. Exactly two people and one jug (broken).",
@@ -67,4 +67,4 @@ out = ["# Bava Kamma 3, older audience: first-try prompts v1 (2026-10-10)\n",
 for pid, title, kind, scene, review, overlay in P:
     full = ("GENERAL STYLE (the same for every picture):\n" + STYLE + "\n\nTHE SCENE TO DRAW:\n" + scene) if kind == "scene" else scene
     out.append(f"\n## {pid}: {title}\n\nPASTE:\n```\n{full}\n```\nReview: {review}.\nOverlay: {overlay}.\n")
-open("data/older_prompts_bk3_v1.md", "w").write("".join(out)); print(len(P), "prompts")
+open("data/graphic-novel_prompts_bk3_v1.md", "w").write("".join(out)); print(len(P), "prompts")

@@ -101,6 +101,7 @@ DIAG_BK5 = {3: svg_53, 4: svg_54, 5: svg_55, 7: svg_57}
 DIAG_BM1 = {5: svg_bm15, 6: svg_bm16, 8: svg_bm18}
 import os
 OV = json.load(open("data/overlays.json")) if os.path.exists("data/overlays.json") else {}
+QQ = json.load(open("data/quiz_questions.json")) if os.path.exists("data/quiz_questions.json") else {}
 OV_OLD = json.load(open("data/overlays_older.json")) if os.path.exists("data/overlays_older.json") else {}
 def stage(spec, pic, base=""):
     W, H = spec["w"], spec["h"]; pct = lambda v, t: f"{100 * v / t:.3f}%"; hot = ""; ov = ""
@@ -114,12 +115,13 @@ def stage(spec, pic, base=""):
     chips = "".join(f'<span class="qchip" data-h="{i}" style="left:{pct(h["rect"][0], W)};top:{pct(h["rect"][1], H)}">{("%d" % (i + 1)) if len(spec["hotspots"]) > 1 else "?"}</span>' for i, h in enumerate(spec["hotspots"]))
     return f'<div class="stage"><img src="{spec["clean"]}" alt="{esc(pic[1])}" loading="lazy">{hot}{ov}{chips}</div>'
 TRAY = []
-def quiz_ui(spec):
+def quiz_ui(spec, pid=None):
     if not TRAY: return ""
     tb = "".join(f'<button class="tb" type="button" data-k="{k}" aria-label="{esc(name)}" title="{esc(name)}"><img src="img/badge-{k}.png" alt="" draggable="false"></button>' for k, name in TRAY)
     hs = spec["hotspots"]; many = len(hs) > 1
-    ask = " ".join(f'<span class="qa">{("<b>%d</b> " % (i + 1)) if many else ""}{esc("What goes on the picture?" if h["label"].startswith("Show") else h["label"])}</span>' for i, h in enumerate(hs))
-    return f'<div class="qask qonly">{ask}</div><div class="tray qonly"><span class="tl">Badges</span>{tb}</div><div class="qmsg qonly" role="status" aria-live="polite"></div>'
+    qs = QQ.get(pid) or [h["label"] for h in hs]
+    ask = " ".join(f'<span class="qa">{("<b>%d</b> " % (i + 1)) if many else ""}{esc(qs[i] if i < len(qs) else h["label"])}</span>' for i, h in enumerate(hs))
+    return f'<div class="qask qonly">{ask}</div><div class="tray qonly" role="group" aria-label="Badges">{tb}</div><div class="qmsg qonly" role="status" aria-live="polite"></div>'
 QBTN = ' <span class="qonly qbtns"><button class="qshow" type="button">Show answers</button><button class="qreset" type="button">Try again</button></span>'
 QHINT = '<span class="qonly qhint">Drag a badge from the tray onto the picture, or tap a badge and then tap where it belongs.</span>'
 def variant(aud, mode, inner, cap, note=""):
@@ -132,14 +134,14 @@ def fig(pic):
     pid = pic[0].rsplit(".", 1)[0]; spec = OV.get(pid); cap = pic[1]
     btn = ' <span class="hint">%s</span> <button class="all" type="button">Show all</button>'
     if not spec: y_i = variant("y", "i", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap)
-    else: y_i = variant("y", "i", stage(spec, pic) + quiz_ui(spec), cap).replace("</figcaption>", (btn % esc(spec["hint"])) + QBTN + QHINT + "</figcaption>")
+    else: y_i = variant("y", "i", stage(spec, pic) + quiz_ui(spec, pid), cap).replace("</figcaption>", (btn % esc(spec["hint"])) + QBTN + QHINT + "</figcaption>")
     y_s = variant("y", "s", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap)
     old_s = os.path.exists(f"site/img/older/{pid}.jpg"); spec_o = OV_OLD.get(pid)
     miss = "Older-audience picture not made yet; showing the younger one."
     if old_s: o_s = variant("o", "s", f'<img src="img/older/{pid}.jpg" alt="{esc(cap)}" loading="lazy">', cap)
     else: o_s = variant("o", "s", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap, miss)
-    if spec_o: o_i = variant("o", "i", stage(spec_o, pic) + quiz_ui(spec_o), cap).replace("</figcaption>", (btn % esc(spec_o["hint"])) + QBTN + QHINT + "</figcaption>")
-    elif spec: o_i = variant("o", "i", stage(spec, pic) + quiz_ui(spec), cap, miss).replace("</figcaption>", (btn % esc(spec["hint"])) + QBTN + QHINT + "</figcaption>")
+    if spec_o: o_i = variant("o", "i", stage(spec_o, pic) + quiz_ui(spec_o, pid), cap).replace("</figcaption>", (btn % esc(spec_o["hint"])) + QBTN + QHINT + "</figcaption>")
+    elif spec: o_i = variant("o", "i", stage(spec, pic) + quiz_ui(spec, pid), cap, miss).replace("</figcaption>", (btn % esc(spec["hint"])) + QBTN + QHINT + "</figcaption>")
     else: o_i = variant("o", "i", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap, miss)
     return y_i + y_s + o_i + o_s
 css = """:root{--bg:#f7f4ec;--fg:#222;--card:#fff;--blue:#1b3a8a;--tint:#f1f3fb}@media(prefers-color-scheme:dark){:root{--bg:#14161c;--fg:#e8e6df;--card:#1d2028;--tint:#232838}}
@@ -161,7 +163,7 @@ h4{margin:12px 0 2px}ul{margin:0 0 4px;padding-left:22px}li{margin:3px 0}table{b
 .qonly,.qs{display:none}html[data-mode=q] .qonly{display:block}html[data-mode=q] .qs{display:inline}html[data-mode=q] .qbtns,html[data-mode=q] .qhint{display:inline}html[data-mode=q] .all,html[data-mode=q] .hint,html[data-mode=q] .ctext{display:none}
 .tray{display:flex;gap:10px;flex-wrap:wrap;align-items:center;background:var(--tint);border-radius:12px;padding:8px 12px;margin-top:8px}html:not([data-mode=q]) .tray{display:none}.tl{font-weight:600;font-size:13px;opacity:.75}.tb{border:2px solid transparent;background:var(--card);border-radius:12px;padding:3px 6px;cursor:grab;touch-action:none;user-select:none}.tb img{height:46px;width:auto;display:block;border-radius:0;pointer-events:none}.tb.sel{border-color:var(--blue);box-shadow:0 0 0 3px #1b3a8a33}
 .ghost{position:fixed;height:52px;width:auto;transform:translate(-50%,-50%);pointer-events:none;z-index:60;filter:drop-shadow(0 6px 8px #0006);opacity:.95}
-html[data-mode=q] .hot{border-color:transparent;background:none;pointer-events:none}html[data-mode=q] .hot::after{display:none!important}.qchip{display:none;position:absolute;width:30px;height:30px;margin:8px 0 0 8px;border-radius:50%;background:#1b3a8aee;color:#fff;font:700 15px 'Public Sans',sans-serif;place-items:center;pointer-events:none;z-index:4;box-shadow:0 1px 4px #0006}html[data-mode=q] .qchip{display:grid}.qchip.over{background:#c98a00;transform:scale(1.25)}.qchip.ok{background:#1f7a3d}.qchip.ok::before{content:'\\2713'}.qchip.ok{font-size:0}.qchip.ok::before{font-size:17px}.qchip.gave{background:#8a6a1a}.qchip.wrong{background:#b03a2e;animation:shk .45s}html[data-mode=q] .hot::after{content:attr(data-q);left:5px;top:5px;bottom:auto;transform:none;min-width:22px;text-align:center;border-radius:12px;padding:1px 7px;font-size:13px;animation:none;opacity:.95}.ov{z-index:3}.qask{display:none;gap:4px 16px;flex-wrap:wrap;font-size:14px;margin-top:8px}html[data-mode=q] .qask{display:flex}.qa b{background:#1b3a8acc;color:#fff;border-radius:10px;padding:0 7px;margin-right:2px}html[data-mode=q] .hot.ok::after{display:none}html[data-mode=q] .hot.ok,html[data-mode=q] .hot.over,html[data-mode=q] .hot.gave{border-color:transparent;background:none}html[data-mode=q] .hot.wrong{animation:none;border-color:transparent!important;background:none!important}html[data-mode=q] .hot.right{box-shadow:none}
+html[data-mode=q] .hot{border-color:transparent;background:none;pointer-events:none}html[data-mode=q] .hot::after{display:none!important}.qchip{display:none;position:absolute;width:30px;height:30px;margin:8px 0 0 8px;border-radius:50%;background:#1b3a8aee;color:#fff;font:700 15px 'Public Sans',sans-serif;place-items:center;pointer-events:none;z-index:4;box-shadow:0 1px 4px #0006}html[data-mode=q] .qchip{display:grid}.qchip.over{background:#c98a00;transform:scale(1.25)}.qchip.ok{background:#1f7a3d}.qchip.ok::before{content:'\\2713'}.qchip.ok{font-size:0}.qchip.ok::before{font-size:17px}.qchip.gave{background:#8a6a1a}.qchip.wrong{background:#b03a2e;animation:shk .45s}html[data-mode=q] .hot::after{content:attr(data-q);left:5px;top:5px;bottom:auto;transform:none;min-width:22px;text-align:center;border-radius:12px;padding:1px 7px;font-size:13px;animation:none;opacity:.95}.ov{z-index:3}.qask{display:none;flex-direction:column;gap:6px;font-size:15px;margin-top:10px}html[data-mode=q] .qask{display:flex}.qa b{background:#1b3a8acc;color:#fff;border-radius:10px;padding:0 7px;margin-right:2px}html[data-mode=q] .hot.ok::after{display:none}html[data-mode=q] .hot.ok,html[data-mode=q] .hot.over,html[data-mode=q] .hot.gave{border-color:transparent;background:none}html[data-mode=q] .hot.wrong{animation:none;border-color:transparent!important;background:none!important}html[data-mode=q] .hot.right{box-shadow:none}
 .hot.wrong{animation:shk .45s;border-color:#c0392b!important;background:#c0392b33!important}.hot.right{box-shadow:0 0 0 4px #2a8a4a88}@keyframes shk{20%,60%{transform:translateX(-7px)}40%,80%{transform:translateX(7px)}}
 .qmsg{font-size:15px;font-weight:600;min-height:1.4em;margin-top:6px}.qmsg.good{color:#1f7a3d}.qmsg.bad{color:#b03a2e}.qbtns button{margin-left:8px;font:600 12px 'Public Sans',sans-serif;border:1.5px solid var(--blue);color:var(--blue);background:var(--card);border-radius:12px;padding:1px 10px;cursor:pointer}.qhint{font-style:italic;opacity:.85}.qs{font-weight:600}
 .opts{display:flex;gap:22px;flex-wrap:wrap;align-items:center;padding:8px 16px;background:var(--tint);border-bottom:1px solid #8884;font-size:14px}.opts b{margin-right:6px}.seg{display:inline-flex;border:1.5px solid var(--blue);border-radius:16px;overflow:hidden}.seg button{font:600 13px 'Public Sans',sans-serif;border:0;background:var(--card);color:var(--blue);padding:4px 14px;cursor:pointer}.seg button[aria-pressed=true]{background:var(--blue);color:#fff}

@@ -1,8 +1,8 @@
 """Older-audience (teen/adult) prompts, graphic-novel style A, in the two-block format.
 STYLE is constant and names no objects. Each scene holds everything that is in that picture, nothing else.
-Run: python3 scripts/make_older_prompts.py  -> data/older_prompts_v1.md (and data/older_prompts_v1.json for the future API pipeline)"""
+Run: python3 scripts/make_graphic_novel_prompts.py  -> data/graphic-novel_prompts_bk5-bm1_v1.md (and data/graphic-novel_prompts_bk5-bm1_v1.json for the future API pipeline)"""
 import json
-from older_style import STYLE, BOXES, QM
+from graphic_novel_style import STYLE, BOXES, QM
 POTTER = ("The cast, to stay identical in the second picture of this pair: the potter wears a grey-brown tunic and a pale blue cap and has a short brown beard; the householder wears a cream tunic with a blue vest and a white cap and has a grey beard; the cow is white with brown patches and a pot-fragment hangs from her horn. "
           "Camera view: we stand in the street just outside an open gate, looking in. In the foreground the two gate doors stand open, their outer faces toward us, %s Beyond the gate is the courtyard, enclosed by tall stone walls on every side, with the householder's stone house at the back. "
           "Everything is inside the courtyard, between the gate and the house: the householder %s, the potter stands just inside the gate with both hands on his cheeks in dismay, holding nothing, and several clay pots lie broken on the courtyard floor with the cow standing among them, a hoof on a shard, looking guilty.")
@@ -24,7 +24,7 @@ P = [
 ("bm1-5b", "BM 1:5b the grown daughter's find is hers (same chat)", "edit", "Using the previous picture as reference, everything is exactly the same except: the small child is gone; in the child's place stands a grown daughter in a green dress who holds the leather purse close to herself with both hands; the father, seated, has both hands empty on the table and looks on calmly. Still exactly two people and exactly one purse, now in the daughter's hands."),
 ("bm1-7", "BM 1:7 found document", "scene", "Cast, to be kept strictly distinct: the finder in the main scene wears an orange tunic and has black hair and a black beard. In the left box the giver is a clean-shaven man in a dark blue tunic and a white cap, and the woman wears a grey hooded cloak. In the right box the writer is a bald man in a green tunic with a grey beard. No figure in the boxes looks like the finder. Any document is a rolled scroll. " + BOXES + "Main scene: the finder stands on a path holding up a rolled document, looking uncertain. Above the scene, two boxes. Left box: the giver handing the rolled document to the woman, and the same document later lying on the ground behind her as she looks around anxiously. Right box: the writer seated at a desk with the rolled document, pushing it away and shaking his head, the document falling to the floor." + QM),
 ]
-out = ["# Older-audience prompts v1 (graphic novel, style A), two-block format\n",
+out = ["# Graphic-novel prompts v1 (BK 5 and BM 1; the older-audience set) (graphic novel, style A), two-block format\n",
 "BK 5:1 is not here: reuse the graphic-novel 5:1 from the style test (the cow, calf and ox).\n",
 "How to use: in Gemini, paste each prompt exactly as shown. Pairs: make the first picture in a NEW chat, then paste the second (an edit line) in the SAME chat. All other pictures: a new chat each.\n",
 "The two blocks: GENERAL STYLE is identical for every picture and names no objects; THE SCENE holds only what is in this picture. Rules that apply to one kind of scene (a dead animal, numerals, boxes) live in that scene's text and are worded as part of the scene, never as a standing rule, because the model draws anything a prompt mentions (the first dead-donkey bug).\n",
@@ -34,5 +34,5 @@ for pid, title, kind, text in P:
     if kind == "scene": full = "GENERAL STYLE (the same for every picture):\n" + STYLE + "\n\nTHE SCENE TO DRAW:\n" + text
     else: full = text
     out.append(f"\n## {pid}: {title}\n\n{full}\n"); js.append({"id": pid, "title": title, "kind": kind, "style": STYLE if kind == "scene" else "", "scene": text})
-open("data/older_prompts_v1.md", "w").write("".join(out)); json.dump({"style": STYLE, "pictures": js}, open("data/older_prompts_v1.json", "w"), indent=1)
+open("data/graphic-novel_prompts_bk5-bm1_v1.md", "w").write("".join(out)); json.dump({"style": STYLE, "pictures": js}, open("data/graphic-novel_prompts_bk5-bm1_v1.json", "w"), indent=1)
 print(len(P), "prompts")
