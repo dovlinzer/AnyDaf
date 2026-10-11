@@ -148,6 +148,7 @@ h4{margin:12px 0 2px}ul{margin:0 0 4px;padding-left:22px}li{margin:3px 0}table{b
 .legend{background:var(--card);border-radius:12px;padding:12px 20px;margin:14px 0;display:flex;gap:0;align-items:center;flex-wrap:wrap}.legend .grp{display:flex;gap:18px;align-items:center;padding:0 22px;border-left:1px solid #8886}.legend .grp:first-child{padding-left:0;border-left:0}.legend .grp>span{display:flex;align-items:center;gap:8px}.legend .t{display:block}.b{flex:none}.b.wide{width:auto;height:40px}\n@media(max-width:1000px){.legend{flex-direction:column;align-items:stretch}.legend .grp{flex-wrap:wrap;padding:12px 0;border-left:0;border-top:1px solid #8886;gap:10px 22px}.legend .grp:first-child{border-top:0;padding-top:0}.legend .grp:last-child{padding-bottom:0}}.b{width:44px;height:44px;vertical-align:middle;margin-right:6px}
 .v{display:none}html[data-aud=y][data-mode=i] .v[data-aud=y][data-mode=i],html[data-aud=y][data-mode=s] .v[data-aud=y][data-mode=s],html[data-aud=o][data-mode=i] .v[data-aud=o][data-mode=i],html[data-aud=o][data-mode=s] .v[data-aud=o][data-mode=s]{display:block}html[data-mode=s] .ionly{display:none}.note{font-style:italic;color:#8a5a00}
 .opts{display:flex;gap:22px;flex-wrap:wrap;align-items:center;padding:8px 16px;background:var(--tint);border-bottom:1px solid #8884;font-size:14px}.opts b{margin-right:6px}.seg{display:inline-flex;border:1.5px solid var(--blue);border-radius:16px;overflow:hidden}.seg button{font:600 13px 'Public Sans',sans-serif;border:0;background:var(--card);color:var(--blue);padding:4px 14px;cursor:pointer}.seg button[aria-pressed=true]{background:var(--blue);color:#fff}
+.grid3{display:grid;grid-template-columns:1.25fr 1fr 1fr;gap:18px;align-items:start}@media(max-width:1000px){.grid3{grid-template-columns:1fr}}.grid3>*{min-width:0}.grid3 h3{margin:0 0 6px;font-family:Newsreader,Georgia,serif}.pr li{margin:0 0 10px}.refs{white-space:nowrap}.mref{font-size:12px;font-weight:600;background:var(--card);border:1px solid var(--blue);border-radius:9px;padding:0 6px;margin-left:4px;text-decoration:none}.pnote{font-size:14px;opacity:.8;font-style:italic}dl{margin:0}dt{margin-top:10px}dd{margin:2px 0 0}dt .he{font-size:18px;margin:0 4px}.debate{margin:0 0 14px}.debate h4{margin:0 0 4px}.sides{display:grid;gap:8px}.sides p{margin:2px 0 0}.sides>div{background:var(--card);border-radius:10px;padding:8px 12px}
 .banner{background:#fff3cd;color:#5a4500;padding:10px 24px;font-size:14px}footer{font-size:12px;opacity:.7;padding:14px 24px;max-width:1240px;margin:auto}a{color:var(--blue)}"""
 fonts = '<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">'
 HEAD_JS = '<script>(function(){var d=document.documentElement,a="y",m="i";try{a=localStorage.getItem("mAud")||a;m=localStorage.getItem("mMode")||m}catch(e){}d.dataset.aud=a;d.dataset.mode=m})()</script>'
@@ -157,6 +158,16 @@ js = "<script>document.querySelectorAll('.seg').forEach(g=>{const k=g.dataset.ke
 def leg(groups, extra=""):
     g = "".join('<div class="grp">' + "".join(f'<span><img class="b{" wide" if k.startswith("pay-") else ""}" src="img/badge-{k}.png" alt=""><span class="t"><b>{esc(a)}</b> {esc(b)}</span></span>' for k, a, b in grp) + "</div>" for grp in groups)
     return '<div class="legend">' + g + extra + "</div>"
+def summary_html(path, base):
+    if not os.path.exists(path): return ""
+    S = json.load(open(path)); refs = lambda ms: "".join(f'<a class="mref" href="#m{n}">{base}:{n}</a>' for n in ms)
+    pr = "".join(f'<li>{esc(x["t"])} <span class="refs">{refs(x["m"])}</span>' + (f'<div class="pnote">{esc(x["note"])}</div>' if x.get("note") else "") + "</li>" for x in S["principles"])
+    tm = "".join(f'<dt><b>{esc(x["term"])}</b> <span class="he" lang="he" dir="rtl">{esc(x["he"])}</span> <span class="refs">{refs(x["m"])}</span></dt><dd>{esc(x["def"])}</dd>' for x in S["terms"])
+    db = "".join(f'<div class="debate"><h4>{esc(x["title"])} <span class="refs">{refs([x["m"]])}</span></h4><div class="sides"><div><b>View 1</b><p>{esc(x["a"])}</p></div><div><b>View 2</b><p>{esc(x["b"])}</p></div></div></div>' for x in S["debates"])
+    return (f'<section id="summary"><h2>Chapter summary</h2><p class="sum">{esc(S["status"])}</p><div class="grid3">'
+            f'<div class="panel aids"><h3>Key principles</h3><ol class="pr">{pr}</ol></div>'
+            f'<div class="panel aids"><h3>Key terms</h3><dl>{tm}</dl></div>'
+            f'<div class="panel aids"><h3>Key debates</h3>{db}</div></div></section>')
 def build(data, layer1, diagrams, title, sub, outfile, legend):
     D = json.load(open(data)); L = {m["n"]: m for m in json.load(open(layer1))["mishnayot"]}; secs = []
     for m in D["mishnayot"]:
@@ -170,8 +181,8 @@ def build(data, layer1, diagrams, title, sub, outfile, legend):
 <div class="grid"><div class="panel aids">{ol}{table(a.get("chart")) if n not in diagrams else ""}{('<div class="chart">'+dg+'</div>') if dg else ""}</div>
 <div class="panel text"><div class="he" lang="he" dir="rtl">{clean(m["he"])}</div><div class="en">{clean(m["en"])}</div>{pics}{kdet}</div></div></section>''')
     opts = '<div class="opts"><span><b>Illustrations for</b><span class="seg" data-key="aud"><button type="button" data-v="y">Younger</button><button type="button" data-v="o">Older</button></span></span><span><b>Style</b><span class="seg" data-key="mode"><button type="button" data-v="s">Static</button><button type="button" data-v="i">Interactive</button></span></span></div>'
-    pills = '<nav class="pills"><span>Jump to mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '</nav>'
-    page = head_html(title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Prototype draft for review. The deeper layer (from Kehati) is not built yet. <a href="index.html">All chapters</a></div>' + opts + pills + "<main>" + legend + "".join(secs) + "</main>" + foot + js + "</body></html>"
+    pills = '<nav class="pills"><span>Jump to mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '<a href="#summary" style="padding:0 14px">Summary</a></nav>'
+    page = head_html(title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Prototype draft for review. The deeper layer (from Kehati) is not built yet. <a href="index.html">All chapters</a></div>' + opts + pills + "<main>" + legend + "".join(secs) + summary_html(data.replace(".json", "_summary.json"), D["chapter"] if isinstance(D["chapter"], int) else str(D["chapter"]).split()[-1]) + "</main>" + foot + js + "</body></html>"
     open(outfile, "w").write(page); print(outfile, len(page))
 PAY = [("pay", "pays", "(is liable)"), ("notpay", "does not pay", "(is exempt)")]
 build("data/bava_kamma_5.json", "data/bava_kamma_5_layer1.json", DIAG_BK5, "Mishnah Bava Kamma, chapter 5", "Outlines, charts and pictures", "site/bava-kamma-5.html",
