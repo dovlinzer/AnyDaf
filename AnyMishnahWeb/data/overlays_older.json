@@ -1,0 +1,475 @@
+{
+ "bk5-1": {
+  "clean": "img/older/clean/bk5-1.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap the cow and the calf to see what the owner of the ox pays for each.",
+  "hotspots": [
+   {
+    "label": "The cow: what the owner of the ox pays",
+    "rect": [
+     265,
+     566,
+     665,
+     790
+    ],
+    "badges": [
+     {
+      "src": "badge-pay-half.png",
+      "x": 525.0,
+      "y": 658.0,
+      "w": 185,
+      "anchor": "center"
+     }
+    ],
+    "answer": "pay-half"
+   },
+   {
+    "label": "The calf: what the owner of the ox pays",
+    "rect": [
+     663,
+     738,
+     810,
+     812
+    ],
+    "badges": [
+     {
+      "src": "badge-pay-quarter.png",
+      "x": 736.5,
+      "y": 720,
+      "w": 160,
+      "anchor": "center"
+     }
+    ],
+    "answer": "pay-quarter"
+   }
+  ]
+ },
+ "bk5-2a": {
+  "clean": "img/older/clean/bk5-2a.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap the picture to see the ruling.",
+  "hotspots": [
+   {
+    "label": "Show the ruling",
+    "rect": [
+     0,
+     0,
+     1264,
+     848
+    ],
+    "badges": [
+     {
+      "src": "badge-notpay.png",
+      "x": 640,
+      "y": 120,
+      "w": 160,
+      "anchor": "center"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
+ },
+ "bk5-2b": {
+  "clean": "img/older/clean/bk5-2b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap the picture to see the ruling.",
+  "hotspots": [
+   {
+    "label": "Show the ruling",
+    "rect": [
+     0,
+     0,
+     1264,
+     848
+    ],
+    "badges": [
+     {
+      "src": "badge-pay.png",
+      "x": 640,
+      "y": 120,
+      "w": 160,
+      "anchor": "center"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk5-5": {
+  "clean": "img/older/clean/bk5-5.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap each box to see whether he pays.",
+  "hotspots": [
+   {
+    "label": "The pit of ten handbreadths",
+    "rect": [
+     90,
+     32,
+     573,
+     383
+    ],
+    "badges": [
+     {
+      "src": "badge-pay.png",
+      "x": 559,
+      "y": 46,
+      "w": 104,
+      "anchor": "center"
+     }
+    ],
+    "answer": "pay"
+   },
+   {
+    "label": "The pit of nine handbreadths",
+    "rect": [
+     707,
+     32,
+     1190,
+     383
+    ],
+    "badges": [
+     {
+      "src": "badge-notpay.png",
+      "x": 1176,
+      "y": 46,
+      "w": 104,
+      "anchor": "center"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
+ },
+ "bk5-6": {
+  "clean": "img/older/clean/bk5-6.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap each box, and the man in green, to see who pays.",
+  "hotspots": [
+   {
+    "label": "Covered pit",
+    "rect": [
+     47,
+     45,
+     577,
+     358
+    ],
+    "badges": [
+     {
+      "src": "badge-notpay.png",
+      "x": 563,
+      "y": 59,
+      "w": 104,
+      "anchor": "center"
+     }
+    ],
+    "answer": "notpay"
+   },
+   {
+    "label": "Open pit",
+    "rect": [
+     692,
+     45,
+     1222,
+     400
+    ],
+    "badges": [
+     {
+      "src": "badge-pay.png",
+      "x": 1208,
+      "y": 59,
+      "w": 104,
+      "anchor": "center"
+     }
+    ],
+    "answer": "pay"
+   },
+   {
+    "label": "Who pays?",
+    "rect": [
+     476,
+     402,
+     701,
+     858
+    ],
+    "badges": [
+     {
+      "src": "badge-pay.png",
+      "x": 761,
+      "y": 472,
+      "w": 104,
+      "anchor": "center"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bm1-1a": {
+  "clean": "img/older/clean/bm1-1a.jpg",
+  "w": 1264,
+  "h": 918,
+  "hint": "Tap the box to see how the cloak is divided.",
+  "hotspots": [
+   {
+    "label": "How the cloak is divided",
+    "rect": [
+     40,
+     109,
+     484,
+     437
+    ],
+    "badges": [
+     {
+      "src": "badge-half-half.png",
+      "x": 262.0,
+      "y": 107,
+      "w": 275,
+      "anchor": "center"
+     }
+    ],
+    "answer": "half-half"
+   }
+  ]
+ },
+ "bm1-2": {
+  "clean": "img/older/clean/bm1-2.jpg",
+  "w": 1264,
+  "h": 908,
+  "hint": "Tap each box to see how it is split.",
+  "hotspots": [
+   {
+    "label": "They swear, then split it",
+    "rect": [
+     81,
+     98,
+     579,
+     402
+    ],
+    "badges": [
+     {
+      "src": "badge-half-half.png",
+      "x": 330.0,
+      "y": 94,
+      "w": 118,
+      "anchor": "center"
+     }
+    ],
+    "answer": "half-half"
+   },
+   {
+    "label": "They agree, then split it",
+    "rect": [
+     672,
+     98,
+     1183,
+     402
+    ],
+    "badges": [
+     {
+      "src": "badge-half-half.png",
+      "x": 927.5,
+      "y": 94,
+      "w": 118,
+      "anchor": "center"
+     }
+    ],
+    "answer": "half-half"
+   }
+  ]
+ },
+ "bm1-3a": {
+  "clean": "img/older/clean/bm1-3a.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap the man in orange to see the ruling.",
+  "hotspots": [
+   {
+    "label": "Does he keep it?",
+    "rect": [
+     669,
+     246,
+     1032,
+     858
+    ],
+    "badges": [
+     {
+      "src": "tag-keeps.png",
+      "x": 850.5,
+      "y": 248,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "keeps"
+   }
+  ]
+ },
+ "bm1-3b": {
+  "clean": "img/older/clean/bm1-3b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap the man in orange to see the ruling.",
+  "hotspots": [
+   {
+    "label": "Does he keep it?",
+    "rect": [
+     840,
+     243,
+     1095,
+     858
+    ],
+    "badges": [
+     {
+      "src": "tag-noclaim.png",
+      "x": 967.5,
+      "y": 245,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "noclaim"
+   }
+  ]
+ },
+ "bm1-4a": {
+  "clean": "img/older/clean/bm1-4a.jpg",
+  "w": 1264,
+  "h": 868,
+  "hint": "Tap the field's owner to see the ruling.",
+  "hotspots": [
+   {
+    "label": "Does the field acquire it?",
+    "rect": [
+     149,
+     147,
+     568,
+     748
+    ],
+    "badges": [
+     {
+      "src": "tag-keeps.png",
+      "x": 358.5,
+      "y": 149,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "keeps"
+   }
+  ]
+ },
+ "bm1-4b": {
+  "clean": "img/older/clean/bm1-4b.jpg",
+  "w": 1264,
+  "h": 868,
+  "hint": "Tap the field's owner to see the ruling.",
+  "hotspots": [
+   {
+    "label": "Does the field acquire it?",
+    "rect": [
+     185,
+     146,
+     549,
+     746
+    ],
+    "badges": [
+     {
+      "src": "tag-noclaim.png",
+      "x": 367.0,
+      "y": 148,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "noclaim"
+   }
+  ]
+ },
+ "bm1-5a": {
+  "clean": "img/older/clean/bm1-5a.jpg",
+  "w": 1264,
+  "h": 888,
+  "hint": "Tap the person to see who keeps it.",
+  "hotspots": [
+   {
+    "label": "Who keeps what is found?",
+    "rect": [
+     60,
+     150,
+     760,
+     888
+    ],
+    "badges": [
+     {
+      "src": "tag-keeps.png",
+      "x": 410.0,
+      "y": 144,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "keeps"
+   }
+  ]
+ },
+ "bm1-5b": {
+  "clean": "img/older/clean/bm1-5b.jpg",
+  "w": 1264,
+  "h": 888,
+  "hint": "Tap the person to see who keeps it.",
+  "hotspots": [
+   {
+    "label": "Who keeps what is found?",
+    "rect": [
+     850,
+     155,
+     1175,
+     888
+    ],
+    "badges": [
+     {
+      "src": "tag-keeps.png",
+      "x": 1012.5,
+      "y": 149,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "keeps"
+   }
+  ]
+ },
+ "bm1-7": {
+  "clean": "img/older/clean/bm1-7.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap the man in orange to see the ruling.",
+  "hotspots": [
+   {
+    "label": "Should he return it?",
+    "rect": [
+     529,
+     407,
+     907,
+     858
+    ],
+    "badges": [
+     {
+      "src": "badge-noreturn.png",
+      "x": 1087,
+      "y": 517,
+      "w": 110,
+      "anchor": "center"
+     }
+    ],
+    "answer": "noreturn"
+   }
+  ]
+ }
+}

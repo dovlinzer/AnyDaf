@@ -42,7 +42,7 @@ Cast, identical in both pictures of this pair: Man A wears a red tunic and has a
 
 ## bm1-1b: BM 1:1b cloak, one claims all, one claims half (same chat)
 
-Using the previous picture as reference, everything is exactly the same except: Man A holds his free arm wide, claiming all of the cloak, with a confident face; Man B holds his free hand flat against the cloak at its middle, claiming half, with a firm face. The framed box in the upper-left corner now shows the same white cloak cut into two UNEQUAL pieces: one piece three times as large as the other, lying side by side.
+Using the previous picture as reference, everything is exactly the same except: Man A holds his free arm wide, claiming all of the cloak, with a confident face; Man B holds his free hand flat against the cloak at its middle, claiming half, with a firm face. The framed box in the upper-left corner now shows one single white cloak, lying flat and cut by one straight line into two pieces that stay side by side and fit together as the whole cloak: the larger piece, three quarters of the cloak, is on the left, and the smaller piece, one quarter of the cloak, is on the right. Both pieces are cut from the same cloak and have the same cloth and style.
 
 ## bm1-2: BM 1:2 two men and a donkey (RECONSTRUCTED: the 1:2 prompt was not in the v2/v3 files)
 
