@@ -67,5 +67,22 @@ for pid, rect in (("bm1-5a", (60, 110, 760, 848)), ("bm1-5b", (850, 115, 1175, 8
     add(pid, im, [{"label": "Who keeps what is found?", "rect": [l, t + 40, r_, b_ + 40], "badges": [{"src": "tag-keeps.png", "x": cx, "y": t + 40 - 6, "w": 104, "anchor": "bottom"}], "answer": "keeps"}], "Tap the person to see who keeps it.")
 if go("bm1-7"):
     im = rd("bm1-7"); add("bm1-7", im, [person_tag(im, "the man in the orange tunic at the bottom centre holding a scroll", "noreturn", "Should he return it?", "noreturn", 1264, 848, d=110, side=190, dy=60)], "Tap the man in orange to see the ruling.")
+# ---- Bava Kamma 3 (graphic novel only; 3:4, 3:5s and 3:11b are being redone and are not on the page yet)
+def tags(pid, pad, items, stretch=False):   # items: (description, kind, label, answer)
+    if not go(pid): return
+    im = pad_top(rd(pid), pad, stretch) if pad else rd(pid); hots = [person_tag(im, d, k, lab, ans, 1264, 848 + pad) for d, k, lab, ans in items]
+    add(pid, im, hots, "Tap a person to see the ruling.")
+tags("bk3-1a", 30, [("the man in the blue tunic sprawled on the road, holding his ankle", "notpay", "The man who tripped", "notpay"), ("the grey-haired woman in the brown dress and cream apron standing at the right", "pay", "The owner of the jug", "pay")])
+tags("bk3-1b", 100, [("the woman in the green dress with a white head covering, holding a broken jug", "pay", "The owner of the jug", "pay")], stretch=True)
+tags("bk3-2a", 0, [("the woman in the grey dress and white head covering leaning out of the doorway and pouring a bucket", "pay", "The woman who poured the water", "pay")])
+tags("bk3-2b", 60, [("the old man with a white beard and both hands on his head, at the right", "pay", "The owner of the field", "pay")])
+tags("bk3-3", 60, [("the grey-bearded man in the brown tunic standing in the middle", "pay", "The man who put the straw on the road", "pay"), ("the young woman in the yellow dress pitching straw into a cart", "keeps", "The young woman taking the straw", "keeps")])
+tags("bk3-4", 0, [("the woman in the brown dress and white head covering on her hands and knees at the left, with a rack of pots on her back", "pay", "The first pot-seller", "pay")])
+tags("bk3-5a", 30, [("the man in the brown cloak carrying a long wooden beam on his shoulder", "notpay", "The owner of the beam", "notpay")])
+tags("bk3-5b", 30, [("the man in the brown cloak carrying a long wooden beam on his shoulder", "pay", "The owner of the beam", "pay")])
+tags("bk3-5c", 30, [("the man in the brown cloak carrying a long wooden beam on his shoulder, with a raised hand", "notpay", "The owner of the beam", "notpay")])
+tags("bk3-6", 0, [("the woman in the purple dress sitting on the ground at the left", "notpay", "The woman", "notpay"), ("the man in the tan tunic sitting on the ground at the right", "notpay", "The man", "notpay")])
+tags("bk3-7", 70, [("the woman in the rust-coloured dress splitting a log with an axe, at the left", "pay", "The woman splitting wood", "pay")])
+tags("bk3-11a", 0, [("the woman in the green dress and white head covering standing at the wall", "notpay", "The owner of the red ox", "notpay"), ("the bald man in the yellow tunic and brown cloak at the right", "notpay", "The owner of the black ox", "notpay")])
 if only and os.path.exists("data/overlays_older.json"): old = json.load(open("data/overlays_older.json")); old.update(spec); spec = old
 json.dump(spec, open("data/overlays_older.json", "w"), indent=1); print("saved", len(spec))

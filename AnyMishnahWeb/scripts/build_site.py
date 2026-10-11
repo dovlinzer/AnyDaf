@@ -133,9 +133,12 @@ def fig(pic):
     and site/img/older/clean/<pid>.jpg + data/overlays_older.json (interactive); until they exist the older choice shows the younger picture with a note."""
     pid = pic[0].rsplit(".", 1)[0]; spec = OV.get(pid); cap = pic[1]
     btn = ' <span class="hint">%s</span> <button class="all" type="button">Show all</button>'
-    if not spec: y_i = variant("y", "i", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap)
+    clay = os.path.exists(f"site/img/{pic[0]}") or os.path.exists(f"site/img/clean/{pid}.jpg")
+    if not clay and not spec and not OV_OLD.get(pid): clay = True   # nothing else to show either
+    if not clay: y_i = y_s = ""   # filled in below from the older picture
+    elif not spec: y_i = variant("y", "i", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap)
     else: y_i = variant("y", "i", stage(spec, pic) + quiz_ui(spec, pid), cap).replace("</figcaption>", (btn % esc(spec["hint"])) + QBTN + QHINT + "</figcaption>")
-    y_s = variant("y", "s", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap)
+    if clay: y_s = variant("y", "s", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap)
     old_s = os.path.exists(f"site/img/older/{pid}.jpg"); spec_o = OV_OLD.get(pid)
     miss = "Older-audience picture not made yet; showing the younger one."
     if old_s: o_s = variant("o", "s", f'<img src="img/older/{pid}.jpg" alt="{esc(cap)}" loading="lazy">', cap)
@@ -143,6 +146,10 @@ def fig(pic):
     if spec_o: o_i = variant("o", "i", stage(spec_o, pic) + quiz_ui(spec_o, pid), cap).replace("</figcaption>", (btn % esc(spec_o["hint"])) + QBTN + QHINT + "</figcaption>")
     elif spec: o_i = variant("o", "i", stage(spec, pic) + quiz_ui(spec, pid), cap, miss).replace("</figcaption>", (btn % esc(spec["hint"])) + QBTN + QHINT + "</figcaption>")
     else: o_i = variant("o", "i", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap, miss)
+    if not clay:   # no clay picture for this chapter yet: the younger choice shows the graphic-novel picture with a note
+        ynote = "Younger-audience picture not made yet; showing the older-audience one."
+        y_i = o_i.replace('data-aud="o"', 'data-aud="y"').replace("</figcaption>", f' <span class="note">{ynote}</span></figcaption>', 1) if spec_o else ""
+        y_s = o_s.replace('data-aud="o"', 'data-aud="y"').replace("</figcaption>", f' <span class="note">{ynote}</span></figcaption>', 1)
     return y_i + y_s + o_i + o_s
 css = """:root{--bg:#f7f4ec;--fg:#222;--card:#fff;--blue:#1b3a8a;--tint:#f1f3fb}@media(prefers-color-scheme:dark){:root{--bg:#14161c;--fg:#e8e6df;--card:#1d2028;--tint:#232838}}
 html{scroll-behavior:smooth}body{font:17px/1.55 'Public Sans',system-ui,sans-serif;margin:0;background:var(--bg);color:var(--fg)}header{background:var(--blue);color:#fff;padding:18px 24px}header h1{margin:0;font-family:Newsreader,Georgia,serif}
@@ -227,7 +234,7 @@ def build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
         n = m["n"]; a = L[n]
         ol = "".join(f'<h4>{esc(s["h"])}</h4><ul>' + "".join(f"<li>{esc(t)}</li>" for t, src in s["b"]) + "</ul>" for s in a["outline"])
         kul = "".join("<p>" + re.sub(r"<(?!/?b>)[^>]+>", " ", k).replace("<br>", " ") + "</p>" for k in m["kulp"][1:] if k)
-        pics = (fig(a["picture"]) if a.get("picture") else "") + (fig(a["picture2"]) if a.get("picture2") else "")
+        pics = "".join(fig(p) for p in (a.get("pictures") or [x for x in (a.get("picture"), a.get("picture2")) if x]))
         dg = diagrams[n]() if n in diagrams else ""
         kdet = f"<details><summary>R. Kulp's commentary</summary>{kul}</details>" if kul else ""
         secs.append(f'''<section id="m{n}"><h2>Mishnah {n}: {esc(a["title"])}</h2><p class="sum">{esc(a["summary"])}</p>
@@ -238,11 +245,14 @@ def build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
     page = head_html(title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Prototype draft for review. The deeper layer (from Kehati) is not built yet. <a href="index.html">All chapters</a></div>' + opts + pills + "<main>" + legend + "".join(secs) + summary_html(data.replace(".json", "_summary.json"), D["chapter"] if isinstance(D["chapter"], int) else str(D["chapter"]).split()[-1]) + "</main>" + foot + js + "</body></html>"
     open(outfile, "w").write(page); print(outfile, len(page))
 TRAY_BK = [("pay", "pays"), ("notpay", "does not pay"), ("pay-half", "pays half"), ("pay-quarter", "pays a quarter")]
+TRAY_BK3 = [("pay", "pays"), ("notpay", "does not pay"), ("keeps", "keeps it")]
 TRAY_BM = [("keeps", "keeps it"), ("noclaim", "has no claim"), ("return", "returns it"), ("noreturn", "does not return it"), ("hold", "holds it"), ("follow", "follows the simpon"), ("half-half", "splits in half"), ("3q-1q", "three quarters and a quarter")]
 QL = '<div class="grp qlegend"><span><span class="t"><b>Quiz:</b> drag the right badge onto the picture, box or person.</span></span></div>'
 PAY = [("pay", "pays", "(is liable)"), ("notpay", "does not pay", "(is exempt)")]
 build("data/bava_kamma_5.json", "data/bava_kamma_5_layer1.json", DIAG_BK5, "Mishnah Bava Kamma, chapter 5", "Outlines, charts and pictures", "site/bava-kamma-5.html",
       leg([PAY, [("pay-half", "pays half", ""), ("pay-quarter", "pays a quarter", "")]], '<div class="grp"><span><span class="t">A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></span></div><div class="grp ionly"><span><span class="t"><b>Tap</b> a picture, a box or a person to see the ruling.</span></span></div>' + QL), tray=TRAY_BK)
+build("data/bava_kamma_3.json", "data/bava_kamma_3_layer1.json", {}, "Mishnah Bava Kamma, chapter 3", "Outlines, charts and pictures", "site/bava-kamma-3.html",
+      leg([PAY, [("keeps", "keeps it", "")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a picture or a person to see the ruling.</span></span></div>' + QL), tray=TRAY_BK3)
 build("data/bava_metzia_1.json", "data/bava_metzia_1_layer1.json", DIAG_BM1, "Mishnah Bava Metzia, chapter 1", "Outlines, charts and pictures", "site/bava-metzia-1.html",
       leg([[("keeps", "keeps it", ""), ("noclaim", "has no claim", "")], [("return", "returns it", ""), ("noreturn", "does not return it", "")], [("hold", "holds it", ""), ("follow", "follows the simpon", "(the attached note)")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a picture, a box or a person to see the ruling.</span></span></div>' + QL), tray=TRAY_BM)
-open("site/index.html", "w").write(head_html("AnyMishnah prototype") + '<header><h1>AnyMishnah (prototype)</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="panel"><h2>Chapters so far</h2><ul><li><a href="bava-kamma-5.html">Bava Kamma, chapter 5</a> (pit, courtyard and ox cases; 7 mishnayot)</li><li><a href="bava-metzia-1.html">Bava Metzia, chapter 1</a> (found objects and documents; 8 mishnayot)</li></ul></div></main>' + foot + "</body></html>")
+open("site/index.html", "w").write(head_html("AnyMishnah prototype") + '<header><h1>AnyMishnah (prototype)</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="panel"><h2>Chapters so far</h2><ul><li><a href="bava-kamma-5.html">Bava Kamma, chapter 5</a> (pit, courtyard and ox cases; 7 mishnayot)</li><li><a href="bava-kamma-3.html">Bava Kamma, chapter 3</a> (damages in the public domain, collisions, oxen; 11 mishnayot)</li><li><a href="bava-metzia-1.html">Bava Metzia, chapter 1</a> (found objects and documents; 8 mishnayot)</li></ul></div></main>' + foot + "</body></html>")

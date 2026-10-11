@@ -1,16 +1,93 @@
-{"_note": "Quiz questions shown under each picture, one per target in hotspot order. Each asks what is at stake (does he pay, who keeps it, how is it divided). Edit freely; rebuild with scripts/build_site.py. Missing pictures fall back to the hotspot label.",
-"bk5-1": ["The cow: what does the owner of the ox pay?", "The calf: what does the owner of the ox pay?"],
-"bk5-2a": ["Does the householder pay for the pots his cow broke?"],
-"bk5-2b": ["Does the householder pay for the pots his cow broke?"],
-"bk5-5": ["The ox dies in a pit ten handbreadths deep. Does the one who dug it pay?", "The ox dies in a pit nine handbreadths deep. Does the one who dug it pay?"],
-"bk5-6": ["The pit was covered properly. Does the owner pay if an animal falls in anyway?", "The pit was left open and the ox died. Does the owner pay?", "Both partners left the pit uncovered. Does this one, the last at the pit, pay?"],
-"bm1-1a": ["Both men claim the whole cloak and neither can prove it. How is it divided?"],
-"bm1-1b": ["One claims all of the cloak and the other claims half. How is it divided?"],
-"bm1-2": ["Both claim the donkey and each swears. How is it divided?", "Both admit the other's claim, or a witness testifies. How is it divided?"],
-"bm1-3a": ["The friend picked up the purse and said \"I acquired it\". Does he keep it?"],
-"bm1-3b": ["The friend handed the purse to the rider and only then said \"I acquired it first\". Does he keep it?"],
-"bm1-4a": ["The deer has a broken leg and cannot leave. Does the owner's field acquire it for him?"],
-"bm1-4b": ["The deer runs freely. Does the owner's field acquire it for him?"],
-"bm1-5a": ["A small child found the purse. Does the father keep it?"],
-"bm1-5b": ["A grown daughter found the purse. Does she keep it?"],
-"bm1-7": ["He found a document that gives something to someone (a divorce, a gift, a will). Does he return it?"]}
+{
+ "_note": "Quiz questions shown under each picture, one per target in hotspot order. Each asks what is at stake (does he pay, who keeps it, how is it divided). Edit freely; rebuild with scripts/build_site.py. Missing pictures fall back to the hotspot label.",
+ "bk5-1": [
+  "The cow: what does the owner of the ox pay?",
+  "The calf: what does the owner of the ox pay?"
+ ],
+ "bk5-2a": [
+  "Does the householder pay for the pots his cow broke?"
+ ],
+ "bk5-2b": [
+  "Does the householder pay for the pots his cow broke?"
+ ],
+ "bk5-5": [
+  "The ox dies in a pit ten handbreadths deep. Does the one who dug it pay?",
+  "The ox dies in a pit nine handbreadths deep. Does the one who dug it pay?"
+ ],
+ "bk5-6": [
+  "The pit was covered properly. Does the owner pay if an animal falls in anyway?",
+  "The pit was left open and the ox died. Does the owner pay?",
+  "Both partners left the pit uncovered. Does this one, the last at the pit, pay?"
+ ],
+ "bm1-1a": [
+  "Both men claim the whole cloak and neither can prove it. How is it divided?"
+ ],
+ "bm1-1b": [
+  "One claims all of the cloak and the other claims half. How is it divided?"
+ ],
+ "bm1-2": [
+  "Both claim the donkey and each swears. How is it divided?",
+  "Both admit the other's claim, or a witness testifies. How is it divided?"
+ ],
+ "bm1-3a": [
+  "The friend picked up the purse and said \"I acquired it\". Does he keep it?"
+ ],
+ "bm1-3b": [
+  "The friend handed the purse to the rider and only then said \"I acquired it first\". Does he keep it?"
+ ],
+ "bm1-4a": [
+  "The deer has a broken leg and cannot leave. Does the owner's field acquire it for him?"
+ ],
+ "bm1-4b": [
+  "The deer runs freely. Does the owner's field acquire it for him?"
+ ],
+ "bm1-5a": [
+  "A small child found the purse. Does the father keep it?"
+ ],
+ "bm1-5b": [
+  "A grown daughter found the purse. Does she keep it?"
+ ],
+ "bm1-7": [
+  "He found a document that gives something to someone (a divorce, a gift, a will). Does he return it?"
+ ],
+ "bk3-1a": [
+  "The man tripped over the jug and broke it. Does he pay for the jug?",
+  "He was hurt tripping over the jug. Does the jug's owner pay for his injury?"
+ ],
+ "bk3-1b": [
+  "Her jug broke in the street and a man slipped on the water. Does she pay for his injury (the first opinion)?"
+ ],
+ "bk3-2a": [
+  "She poured water into the street and a passerby slipped. Does she pay for his injury?"
+ ],
+ "bk3-2b": [
+  "His thorn fence fell across the path and a traveller was hurt. Does the owner pay?"
+ ],
+ "bk3-3": [
+  "He put straw on the road and a passerby was hurt. Does he pay for her injury?",
+  "The young woman came first and takes the straw. Does she keep it?"
+ ],
+ "bk3-5a": [
+  "The beam carrier walks ahead; the woman behind walks into the beam and her jar breaks. Does he pay?"
+ ],
+ "bk3-5b": [
+  "The beam carrier stops suddenly and the woman behind runs into the beam. Does he pay?"
+ ],
+ "bk3-5c": [
+  "The beam carrier stops and calls out a warning, and the jar still breaks. Does he pay?"
+ ],
+ "bk3-6": [
+  "A runner and a walker collide and both are hurt. Does the woman pay the man?",
+  "Does the man pay the woman?"
+ ],
+ "bk3-7": [
+  "A chip from her log flew over the wall and hurt a passerby. Does she pay?"
+ ],
+ "bk3-11a": [
+  "Two oxen chased a third and it was hurt; no one knows which did it. Does the owner of the red ox pay?",
+  "Does the owner of the black ox pay?"
+ ],
+ "bk3-4": [
+  "The first pot-seller tripped and the one behind fell on her. Does the first one pay for the second's injury?"
+ ]
+}
