@@ -816,16 +816,16 @@
    {
     "label": "The owner of the red ox",
     "rect": [
-     718,
-     211,
-     820,
-     458
+     725,
+     219,
+     803,
+     403
     ],
     "badges": [
      {
       "src": "tag-notpay.png",
-      "x": 769.0,
-      "y": 213,
+      "x": 764.0,
+      "y": 221,
       "w": 104,
       "anchor": "bottom"
      }
@@ -835,16 +835,16 @@
    {
     "label": "The owner of the black ox",
     "rect": [
-     1032,
-     209,
-     1149,
-     661
+     1039,
+     210,
+     1145,
+     463
     ],
     "badges": [
      {
       "src": "tag-notpay.png",
-      "x": 1090.5,
-      "y": 211,
+      "x": 1092.0,
+      "y": 212,
       "w": 104,
       "anchor": "bottom"
      }
@@ -916,16 +916,16 @@
    {
     "label": "The owner of both chasing oxen",
     "rect": [
-     702,
-     218,
-     829,
-     667
+     717,
+     219,
+     825,
+     652
     ],
     "badges": [
      {
       "src": "tag-pay.png",
-      "x": 765.5,
-      "y": 220,
+      "x": 771.0,
+      "y": 221,
       "w": 104,
       "anchor": "bottom"
      }
