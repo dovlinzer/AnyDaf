@@ -1,3 +1,5 @@
+> **STATUS 2026-10-12 (correction).** Most page images failed to load in the first reading session ("request limit"). What I ACTUALLY read: PDF pp.22-39 (ch.3 and 4:1) and pp.41-94 (4:3 to 9:2). NOT read: ch.1, ch.2 (pp.1-21), 4:2 (read only now). So principles 1-10 below, and every page number I gave for ch.1-2, came from background knowledge, not the book: treat them as UNREAD and do not use them anywhere until the pages are read. Principles 11-20 come from pages I did read but still carry VERIFY flags. PDF page = Kehati footer page minus 11.
+
 # Bava Kamma 1-6: the unit of property damage. Foundation pass on Kehati (2026-10-12)
 
 Source: `/Users/dovlinzer/Downloads/Kehati - Nezikim 1.pdf` (scan; mishnah + Bartenura on top, Kehati's "באור משנה" below). PDF page numbers below are approximate (+-1): ch.1 p.1, ch.2 p.12, ch.3 p.22, ch.4 p.37, ch.5 p.49, ch.6 p.61, ch.7 (theft) p.69. My own summaries only, never his wording (copyright). Kehati outranks R. Kulp where they differ. Items marked VERIFY were read quickly and must be re-read from the page before any outline, caption or quiz line relies on them.
