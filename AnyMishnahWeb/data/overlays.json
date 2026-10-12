@@ -498,5 +498,394 @@
     "answer": "noreturn"
    }
   ]
+ },
+ "bk3-1a": {
+  "clean": "img/clean/bk3-1a.jpg",
+  "w": 1264,
+  "h": 878,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The man who tripped",
+    "rect": [
+     560,
+     230,
+     1060,
+     740
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 810.0,
+      "y": 232,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   },
+   {
+    "label": "The owner of the jug",
+    "rect": [
+     110,
+     125,
+     385,
+     645
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 247.5,
+      "y": 127,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk3-1b": {
+  "clean": "img/clean/bk3-1b.jpg",
+  "w": 1264,
+  "h": 948,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the jug",
+    "rect": [
+     387,
+     259,
+     609,
+     743
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 498.0,
+      "y": 261,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk3-2a": {
+  "clean": "img/clean/bk3-2a.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The woman who poured the water",
+    "rect": [
+     205,
+     178,
+     477,
+     678
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 341.0,
+      "y": 180,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk3-2b": {
+  "clean": "img/clean/bk3-2b.jpg",
+  "w": 1264,
+  "h": 908,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the field",
+    "rect": [
+     873,
+     152,
+     1123,
+     545
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 998.0,
+      "y": 154,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk3-3": {
+  "clean": "img/clean/bk3-3.jpg",
+  "w": 1264,
+  "h": 908,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The man who put the straw on the road",
+    "rect": [
+     165,
+     118,
+     455,
+     515
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 310.0,
+      "y": 120,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk3-4": {
+  "clean": "img/clean/bk3-4.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The first pot-seller",
+    "rect": [
+     161,
+     307,
+     739,
+     758
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 450.0,
+      "y": 309,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk3-5s": {
+  "clean": "img/clean/bk3-5s.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the beam",
+    "rect": [
+     361,
+     140,
+     560,
+     770
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 460.5,
+      "y": 142,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
+ },
+ "bk3-5a": {
+  "clean": "img/clean/bk3-5a.jpg",
+  "w": 1264,
+  "h": 878,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the beam",
+    "rect": [
+     62,
+     133,
+     453,
+     790
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 257.5,
+      "y": 135,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
+ },
+ "bk3-5b": {
+  "clean": "img/clean/bk3-5b.jpg",
+  "w": 1264,
+  "h": 878,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the beam",
+    "rect": [
+     85,
+     130,
+     440,
+     825
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 262.5,
+      "y": 132,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk3-5c": {
+  "clean": "img/clean/bk3-5c.jpg",
+  "w": 1264,
+  "h": 878,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the beam",
+    "rect": [
+     59,
+     134,
+     457,
+     808
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 258.0,
+      "y": 136,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
+ },
+ "bk3-7": {
+  "clean": "img/clean/bk3-7.jpg",
+  "w": 1264,
+  "h": 918,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The woman splitting wood",
+    "rect": [
+     164,
+     176,
+     405,
+     748
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 284.5,
+      "y": 178,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk3-11a": {
+  "clean": "img/clean/bk3-11a.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the red ox",
+    "rect": [
+     849,
+     236,
+     992,
+     515
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 920.5,
+      "y": 238,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   },
+   {
+    "label": "The owner of the black ox",
+    "rect": [
+     1009,
+     236,
+     1169,
+     523
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 1089.0,
+      "y": 238,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
+ },
+ "bk3-11b": {
+  "clean": "img/clean/bk3-11b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of both chasing oxen",
+    "rect": [
+     855,
+     236,
+     1016,
+     602
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 935.5,
+      "y": 238,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
  }
 }
