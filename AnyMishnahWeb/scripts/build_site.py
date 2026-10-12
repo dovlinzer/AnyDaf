@@ -101,14 +101,15 @@ DIAG_BK5 = {3: svg_53, 4: svg_54, 5: svg_55, 7: svg_57}
 DIAG_BM1 = {5: svg_bm15, 6: svg_bm16, 8: svg_bm18}
 import os
 OV = json.load(open("data/overlays.json")) if os.path.exists("data/overlays.json") else {}
+QP = json.load(open("data/quiz_principles.json")) if os.path.exists("data/quiz_principles.json") else {}
 QQ = json.load(open("data/quiz_questions.json")) if os.path.exists("data/quiz_questions.json") else {}
 OV_OLD = json.load(open("data/overlays_older.json")) if os.path.exists("data/overlays_older.json") else {}
-def stage(spec, pic, base=""):
+def stage(spec, pic, base="", pid=None):
     W, H = spec["w"], spec["h"]; pct = lambda v, t: f"{100 * v / t:.3f}%"; hot = ""; ov = ""
     for i, h in enumerate(spec["hotspots"]):
         l, t, r, b = h["rect"]
         q = str(i + 1) if len(spec["hotspots"]) > 1 else "?"; ans = h.get("answer", "").replace("tag-", "")
-        hot += f'<button class="hot" data-h="{i}" data-ans="{esc(ans)}" data-q="{esc(q)}" aria-pressed="false" aria-label="{esc(h["label"])}" style="left:{pct(l,W)};top:{pct(t,H)};width:{pct(r-l,W)};height:{pct(b-t,H)}"></button>'
+        hot += f'<button class="hot" data-h="{i}" data-ans="{esc(ans)}" data-q="{esc(q)}" data-pr="{esc((QP.get(pid) or [""] * 9)[i] if i < len(QP.get(pid) or []) else "")}" aria-pressed="false" aria-label="{esc(h["label"])}" style="left:{pct(l,W)};top:{pct(t,H)};width:{pct(r-l,W)};height:{pct(b-t,H)}"></button>'
         for bd in h["badges"]:
             tr = "translate(-50%,-50%)" if bd["anchor"] == "center" else "translate(-50%,-100%)"
             ov += f'<img class="ov" data-h="{i}" src="img/{bd["src"]}" alt="" style="left:{pct(bd["x"],W)};top:{pct(bd["y"],H)};width:{pct(bd["w"],W)};--t:{tr}">'
@@ -137,14 +138,14 @@ def fig(pic):
     if not clay and not spec and not OV_OLD.get(pid): clay = True   # nothing else to show either
     if not clay: y_i = y_s = ""   # filled in below from the older picture
     elif not spec: y_i = variant("y", "i", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap)
-    else: y_i = variant("y", "i", stage(spec, pic) + quiz_ui(spec, pid), cap).replace("</figcaption>", (btn % esc(spec["hint"])) + QBTN + QHINT + "</figcaption>")
+    else: y_i = variant("y", "i", stage(spec, pic, '', pid) + quiz_ui(spec, pid), cap).replace("</figcaption>", (btn % esc(spec["hint"])) + QBTN + QHINT + "</figcaption>")
     if clay: y_s = variant("y", "s", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap)
     old_s = os.path.exists(f"site/img/older/{pid}.jpg"); spec_o = OV_OLD.get(pid)
     miss = "Older-audience picture not made yet; showing the younger one."
     if old_s: o_s = variant("o", "s", f'<img src="img/older/{pid}.jpg" alt="{esc(cap)}" loading="lazy">', cap)
     else: o_s = variant("o", "s", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap, miss)
-    if spec_o: o_i = variant("o", "i", stage(spec_o, pic) + quiz_ui(spec_o, pid), cap).replace("</figcaption>", (btn % esc(spec_o["hint"])) + QBTN + QHINT + "</figcaption>")
-    elif spec: o_i = variant("o", "i", stage(spec, pic) + quiz_ui(spec, pid), cap, miss).replace("</figcaption>", (btn % esc(spec["hint"])) + QBTN + QHINT + "</figcaption>")
+    if spec_o: o_i = variant("o", "i", stage(spec_o, pic, '', pid) + quiz_ui(spec_o, pid), cap).replace("</figcaption>", (btn % esc(spec_o["hint"])) + QBTN + QHINT + "</figcaption>")
+    elif spec: o_i = variant("o", "i", stage(spec, pic, '', pid) + quiz_ui(spec, pid), cap, miss).replace("</figcaption>", (btn % esc(spec["hint"])) + QBTN + QHINT + "</figcaption>")
     else: o_i = variant("o", "i", f'<img src="img/{pic[0]}" alt="{esc(cap)}" loading="lazy">', cap, miss)
     if not clay:   # no clay picture for this chapter yet: the younger choice shows the graphic-novel picture with a note
         ynote = "Younger-audience picture not made yet; showing the older-audience one."
@@ -188,12 +189,12 @@ function msg(fig,t,c){var m=fig.querySelector('.qmsg');if(m){m.textContent=t;m.c
 function score(){var ok=0,n=0,done=0;$$('.v[data-mode=i]').filter(function(f){return f.offsetParent!==null&&f.querySelector('.tray')}).forEach(function(f){$$('.hot',f).forEach(function(h){n++;if(h._done)done++;if(h._first)ok++})});var e=document.getElementById('qscore');if(e)e.textContent='Quiz: '+ok+' of '+n+' right on the first try'+(done<n?' ('+(n-done)+' still to place)':'')}
 function resetQuiz(){sel=null;$$('.stage').forEach(function(st){var hs=$$('.hot',st);hs.forEach(function(h,i){st._set(i,false);h.classList.remove('ok','wrong','right','over','gave');h._t=0;h._first=false;h._done=false});$$('.qchip',st).forEach(function(c){c.classList.remove('ok','wrong','over','gave')});var f=st.parentElement;$$('.tb',f).forEach(function(b){b.classList.remove('sel')});msg(f,'')});score()}
 function select(fig,b){var same=sel&&sel.fig===fig&&sel.kind===b.dataset.k;$$('.tb.sel').forEach(function(x){x.classList.remove('sel')});if(same){sel=null;return}sel={fig:fig,kind:b.dataset.k};b.classList.add('sel')}
-function finished(st){var hs=$$('.hot',st);if(hs.every(function(h){return h._done})){var ok=hs.filter(function(h){return h._first}).length;msg(st.parentElement,'All placed: '+ok+' of '+hs.length+' right on the first try.','good')}}
+function finished(st){var hs=$$('.hot',st);if(hs.every(function(h){return h._done})){var ok=hs.filter(function(h){return h._first}).length;if(hs.length>1){var q=st.parentElement.querySelector('.qmsg');if(q)q.textContent+=' All placed: '+ok+' of '+hs.length+' right on the first try.'}}}
 function nearest(st,x,y){var best=-1,bd=1e9,ba=1e9,R=st.getBoundingClientRect();if(x<R.left-24||x>R.right+24||y<R.top-24||y>R.bottom+24)return null;st._hs.forEach(function(h,i){var r=h.getBoundingClientRect(),dx=Math.max(r.left-x,0,x-r.right),dy=Math.max(r.top-y,0,y-r.bottom),d=Math.hypot(dx,dy),a=r.width*r.height;if(d<bd-0.5||(Math.abs(d-bd)<=0.5&&a<ba)){best=i;bd=d;ba=a}});if(st._hs.length>1&&bd>140)return null;return best<0?null:st._hs[best]}
 function mark0(st,h){var c=chip(st,h);if(c)c.classList.remove('over')}
 function chip(st,h){return st.querySelector('.qchip[data-h="'+st._hs.indexOf(h)+'"]')}
 function mark(st,h,cls,ms){var c=chip(st,h);if(!c)return;c.classList.add(cls);if(ms)setTimeout(function(){c.classList.remove(cls)},ms)}
-function place(st,h,k){if(h._done)return;var fig=st.parentElement,i=st._hs.indexOf(h);if(k===h.dataset.ans){h._first=!(h._t>0);h._done=true;st._set(i,true);h.classList.add('ok','right');mark(st,h,'ok');setTimeout(function(){h.classList.remove('right')},900);msg(fig,h._first?'Right!':'Right, on another try.','good');finished(st)}else{h._t=(h._t||0)+1;h.classList.add('wrong');mark(st,h,'wrong',500);setTimeout(function(){h.classList.remove('wrong')},500);msg(fig,'Not that one. Look at the picture again and try another badge.','bad')}score()}
+function place(st,h,k){if(h._done)return;var fig=st.parentElement,i=st._hs.indexOf(h);if(k===h.dataset.ans){h._first=!(h._t>0);h._done=true;st._set(i,true);h.classList.add('ok','right');mark(st,h,'ok');setTimeout(function(){h.classList.remove('right')},900);msg(fig,(h._first?'Right!':'Right, on another try.')+(h.dataset.pr?' The principle: '+h.dataset.pr:''),'good');finished(st)}else{h._t=(h._t||0)+1;h.classList.add('wrong');mark(st,h,'wrong',500);setTimeout(function(){h.classList.remove('wrong')},500);msg(fig,'Not that one. Look at the picture again and try another badge.','bad')}score()}
 $$('.seg').forEach(function(g){var k=g.dataset.key,K=k==='aud'?'mAud':'mMode';function sync(){$$('button',g).forEach(function(b){b.setAttribute('aria-pressed',b.dataset.v===root.dataset[k])})}sync();$$('button',g).forEach(function(b){b.addEventListener('click',function(){root.dataset[k]=b.dataset.v;try{localStorage.setItem(K,b.dataset.v)}catch(e){}sync();if(k==='mode')resetQuiz();else score()})})});
 $$('.stage').forEach(function(st){var hs=$$('.hot',st),fig=st.parentElement;function set(i,on){hs[i].setAttribute('aria-pressed',on);$$('.ov[data-h="'+i+'"]',st).forEach(function(o){o.classList.toggle('on',on)})}st._set=set;st._hs=hs;
 hs.forEach(function(h,i){h.addEventListener('click',function(){if(root.dataset.mode==='q'){if(!sel||sel.fig!==fig){msg(fig,'Pick a badge from the tray first, then tap where it belongs.','');return}place(st,h,sel.kind)}else set(i,h.getAttribute('aria-pressed')!=='true')})});
