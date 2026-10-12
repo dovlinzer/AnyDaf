@@ -1,0 +1,174 @@
+# Bava Kamma 3, clay prompts v1 (younger audience) (2026-10-12)
+Same scenes as the graphic novel set (v3), with every fix folded in: 3:1a visible scrape, 3:2b exactly two thorns, 3:3 the slip scene, 3:5s beam tip at the jar's neck, 3:7 injured passerby and exactly one axe, 3:11 the small ox visibly GORED, genders mixed on purpose, counts stated, edits restate what must stay.
+How to use: paste the block under PASTE into a NEW Gemini chat. Where it says 'same chat, edit', paste into the chat that made the previous picture. Clay stays gentle: injuries are bandages, bruises, scrapes and torn clay, no blood (decision for the author: say if you want more).
+Not covered: 3:8, 3:9, 3:10 (amounts and comparisons; need a non-picture approach). Source note: 3:5 clause 1, the beam owner is exempt (mishnah and Kehati); all scenes are provisional until checked against Kehati.
+
+## bk3-1a: 3:1 a jug left in the road
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a dirt road through a small town, with stone houses on both sides. A man in a blue tunic has just tripped over a large clay jug that was standing in the road and lies sprawled on the road. His shin is badly scraped by a sharp edge of the jug: a long pink scrape with a white bandage strip half wrapped around it, his hand pressed above it, his face twisted in pain. The jug lies cracked into three large pieces beside him, with a dark wet patch spreading across the stones. At the side of the road, a stocky woman with grey hair under a white head covering, in a brown dress and a cream apron, looks on with both hands raised to her head in dismay: she is the jug's owner. Exactly two people (a man and a woman) and one jug (broken).
+```
+Review: one man (tripper, visibly scraped shin) and one woman (owner); jug in 3 pieces, only one jug.
+Overlay: tripper -> exempt for the jug ('notpay'); owner (woman) -> pays for the injury ('pay').
+
+## bk3-1b: 3:1 a jug breaks in the road
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a market lane between stone walls. A woman in a green dress with a white head covering stands holding only the handle of a broken jug; the rest of the jug lies in pieces at her feet, and water has spread across the stones in a wide puddle. A man in a yellow tunic, with a bald head, has slipped in the puddle and is falling backward, arms flung out, one foot in the air, with a look of alarm. Exactly two people. One jug, broken.
+```
+Review: one woman (green, owner) and one man (yellow, falling); one broken jug; the puddle under the man.
+Overlay: jug owner (woman in green) -> pays ('pay').
+
+## bk3-2a: 3:2 water poured into the street
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a narrow street of stone houses. A woman in a grey dress with a white head covering stands at her gate and tips a wooden bucket, so that a stream of water splashes onto the street. A passerby in a brown cloak, with a basket of bread on his head, has slipped on the wet stones: he is falling sideways, the basket tipping, his face startled. Exactly two people.
+```
+Review: one woman pouring, one man passerby; water from the bucket reaches his feet; one basket.
+Overlay: woman pouring -> pays ('pay').
+
+## bk3-2b: 3:2 a thorn fence fallen across the path
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a country path beside a field. A fence made of thorn branches that ran along the edge of the field has fallen across the path, and thorns lie spread over the ground. A woman traveller in a blue cloak and a long dress has stepped on the thorns and holds one foot up, wincing: exactly two thorns are stuck in the sole of that foot, and a purple bruise is spreading around them. The field's owner, a man in an olive tunic with a white beard, stands at the edge of his field with both hands on his head. Exactly two people.
+```
+Review: woman traveller (foot held up, exactly two thorns in the sole, bruise) and the field owner; the fence is down across the path.
+Overlay: field owner -> pays ('pay').
+
+## bk3-3: 3:3 straw put out on the road (the author's rewrite that worked in the graphic novel set)
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: the edge of a village road. A long low heap of straw and stubble lies along the road. A woman in a blue dress has been walking down the road but is now slipping on a pile of stubble left in the middle of the road. She is falling backward, both feet flying forward off the road, her arms flung out and her mouth open in a cry, just about to hit the hard road and be hurt; one of her sandals has come off. The man with the pitchfork is pitching straw from the heap into the road. Exactly two people (one man, one woman).
+```
+Review: the straw is IN the road under her feet; the man is visibly the one putting it there; she is in mid-fall; exactly two people.
+Overlay: man with the pitchfork -> pays ('pay').
+
+## bk3-4: 3:4 two pot-sellers
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a path between two stone walls, seen from the side, with everyone moving toward the left of the picture. Two women pot-sellers each carry a wooden rack full of clay pots on her back. The first, ahead at the left, in a brown dress with a white head covering, has tripped and lies sprawled on the path. The second, behind her at the right, in a green dress with a red head covering, is tumbling forward over the first, arms out, her rack tipping so that pots spill. Several broken clay pots lie on the path. Exactly two women.
+```
+Review: exactly two women; the FIRST (left, brown) is on the ground and the SECOND (right, green) is falling forward over her.
+Overlay: first woman (brown) -> pays ('pay').
+
+## bk3-5s: 3:5 clause 1: the two walk side by side (own picture, new chat)
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a wide town street seen from the side, with both people walking toward the left of the picture, abreast of each other. The man nearer the viewer, in a brown tunic, carries a long wooden beam on his shoulder, the beam pointing forward past his shoulder. The woman beside him, farther from the viewer, in a blue dress with a white head covering, carries a large clay jar on her shoulder. The front tip of the beam presses against the neck of the jar, and the jar is cracking at that spot with shards falling. Both look surprised. Exactly one man and one woman, one beam, one jar.
+```
+Review: level with each other; the beam tip touches the jar's neck; same two outfits as 5a.
+Overlay: beam man -> exempt ('notpay').
+
+## bk3-5a: 3:5 beam in front, jar behind (FIRST of a set of three; make 5b and 5c in the SAME chat)
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a wide town street seen from the side, with both people walking toward the left of the picture. The first man, at the left, in a brown tunic, carries a long wooden beam horizontally on his shoulder; the rear end of the beam sticks out behind him. The second person, a woman behind him at the right, in a blue dress with a white head covering, carries a large clay jar on her shoulder and has walked into the rear end of the beam: the jar is cracking and a shard drops. The first man keeps walking, looking straight ahead, unaware. Exactly one man and one woman, one beam, one jar.
+```
+Review: beam man ahead (left), walking on; jar woman behind (right) has walked into the beam's rear end.
+Overlay: beam man -> exempt ('notpay').
+
+## bk3-5b: 3:5 the beam man stops suddenly (same chat, edit of 5a)
+
+PASTE:
+```
+Using the previous picture as reference, everything is exactly the same except: the first man (beam) has stopped walking, feet planted, with his head turned slightly back toward the woman with the jar in surprise and no gesture of warning; she has run into the rear end of the beam because he stopped; the jar is cracking.
+```
+Review: beam man standing still, no hand raised; same people and clothes.
+Overlay: beam man -> pays ('pay').
+
+## bk3-5c: 3:5 the beam man stops and warns (same chat, edit of 5b)
+
+PASTE:
+```
+Using the previous picture as reference, everything is exactly the same except: the first man (beam) has turned back toward the woman with the jar, one hand raised, palm open, and his mouth open as if calling out a warning; the jar is still cracking.
+```
+Review: raised open palm, mouth open; no letters or words.
+Overlay: beam man -> exempt ('notpay').
+
+## bk3-6: 3:6 a runner and a walker collide
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a town street. A woman in a purple dress who was running, her head covering loosened, and a man in a tan tunic who was walking have collided and both sit on the ground, dazed. The woman has a bandage on her elbow and the man has a bandage on his knee, and each rubs the bandaged spot. Exactly one woman and one man and nothing else on the street.
+```
+Review: one woman (purple) and one man (tan), both on the ground, both hurt about equally.
+Overlay: each person -> pays nothing ('notpay'), two hotspots.
+
+## bk3-7: 3:7 a wood chip flies over a wall (the injured-passerby version)
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a courtyard with a low stone wall that opens onto a street. Inside the courtyard, a woman in a rust-coloured dress with rolled sleeves and a head covering, holding a single axe in both hands, has just split a log that stands on a stump. A wooden chip has flown over the wall and struck a passerby in the street, a man in a grey cloak: the chip is stuck in his forehead, a big swollen purple bruise spreads around it and a white bandage strip is half wrapped across it, and he holds his head with a twisted face of pain. A few more chips lie on the ground. Exactly two people, exactly one axe.
+```
+Review: woodcutter (woman) inside the wall holding ONE axe; passerby (man) outside it with a chip in his forehead and a bruise; no second axe.
+Overlay: woodcutter (woman) -> pays ('pay').
+
+## bk3-11a: 3:11 two oxen chase a third, two different owners (FIRST of a pair; make 11b in the SAME chat)
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. Gentle for children: an injury is shown plainly with a bandage, a bruise, a scrape or a torn open gash of pink clay, never with blood. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: an open pasture with a stone wall along one side. A small brown ox staggers across the pasture, gored: a long gash torn open in its side showing pink clay with ragged edges, bandage strips hanging loose from it, its head hanging low and its tongue out. A red ox and a black ox run after it with their horns lowered, one close behind the other. Beside the wall stand three people. The owner of the red ox, a woman in a green dress with a white head covering, points at the black ox with a frown. The owner of the black ox, in a yellow tunic, with a bald head, points at the red ox with a frown. The owner of the small brown ox, a woman with grey hair in a blue dress, stands between them with open hands, puzzled. Exactly three oxen and exactly three people (two women and one man).
+```
+Review: small brown ox visibly gored (gash, pink clay), staggering; three oxen, three people; each owner points at the OTHER owner's ox.
+Overlay: woman in green -> pays nothing ('notpay'); man in yellow -> pays nothing ('notpay').
+
+## bk3-11b: 3:11 the same two oxen, one owner (same chat, edit of 11a)
+
+PASTE:
+```
+Using the previous picture as reference, everything is exactly the same except: the small brown ox keeps the long gash in its side and still staggers ahead; the red ox and the black ox, running behind it, are now both owned by the woman in the green dress, who stands beside the wall with a worried face and one hand on her chin; the man in the yellow tunic is gone; the woman in the blue dress still stands with open hands, pointing now at the two oxen. Exactly three oxen and exactly two women.
+```
+Review: two women only (green, blue); the small ox still shows the gash.
+Overlay: woman in green -> pays ('pay').

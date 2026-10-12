@@ -1,5 +1,5 @@
 """Bava Kamma 3, older audience, first-try test of the prompt lessons (2026-10-10). Scenes written from the mishnah text and R. Kulp's commentary only.
-Run: python3 scripts/make_graphic_novel_prompts_bk3.py -> data/graphic-novel_prompts_bk3_v2.md"""
+Run: python3 scripts/make_graphic_novel_prompts_bk3.py -> data/graphic-novel_prompts_bk3_v3.md"""
 from graphic_novel_style import STYLE
 P = [  # (id, title, kind, scene, review, overlay)
 ("bk3-1a", "3:1 a jug left in the road", "scene",
@@ -51,12 +51,12 @@ P = [  # (id, title, kind, scene, review, overlay)
  "woodcutter (a woman) inside the wall, passerby (a man) outside it; the chip is on the ground by the passerby; no blood",
  "woodcutter (the woman) -> pays ('pay')"),
 ("bk3-11a", "3:11 two oxen chase a third, two different owners (FIRST of a pair; make 11b in the SAME chat)", "scene",
- "Scene: an open pasture with a stone wall along one side. A small brown ox runs across the pasture, limping, with one front leg held up. A red ox and a black ox run after it, one close behind the other. Beside the wall stand three people. The owner of the red ox, a woman in a green dress with a white head covering, points at the black ox with a frown. The owner of the black ox, in a yellow tunic, with a bald head, points at the red ox with a frown. The owner of the small brown ox, a woman with grey hair in a blue dress, stands between them with open hands, puzzled. Exactly three oxen and exactly three people (two women and one man).",
- "three oxen (small brown limping, red, black), three people: woman in green, man in yellow, woman in blue; each of the two owners points at the OTHER owner's ox",
+ "Scene: an open pasture with a stone wall along one side. A small brown ox staggers across the pasture, gored: a deep gash in its side, torn open by a horn, with red blood running down its flank, its head hanging low and its tongue out. A red ox and a black ox run after it with their horns lowered, one close behind the other. Beside the wall stand three people. The owner of the red ox, a woman in a green dress with a white head covering, points at the black ox with a frown. The owner of the black ox, in a yellow tunic, with a bald head, points at the red ox with a frown. The owner of the small brown ox, a woman with grey hair in a blue dress, stands between them with open hands, puzzled. Exactly three oxen and exactly three people (two women and one man).",
+ "three oxen (small brown with a visible bloody gash in its side, red, black), three people: woman in green, man in yellow, woman in blue; each of the two owners points at the OTHER owner's ox",
  "woman in green -> pays nothing ('notpay'); man in yellow -> pays nothing ('notpay')"),
 ("bk3-11b", "3:11 the same two oxen, one owner (same chat, edit of 11a)", "edit",
- "Using the previous picture as reference, everything is exactly the same except: the red ox and the black ox are now both owned by the woman in the green dress, who stands beside the wall with a worried face and one hand on her chin; the man in the yellow tunic is gone; the woman in the blue dress still stands with open hands, pointing now at the two oxen. Exactly three oxen and exactly two women.",
- "two women only (green, blue); the woman in green is next to the wall with both chasing oxen still running behind the limping one",
+ "Using the previous picture as reference, everything is exactly the same except: the small brown ox is exactly as before, with the deep gash in its side and the blood running down its flank, staggering ahead; the red ox and the black ox, still running behind it, are now both owned by the woman in the green dress, who stands beside the wall with a worried face and one hand on her chin; the man in the yellow tunic is gone; the woman in the blue dress still stands with open hands, pointing now at the two oxen. Exactly three oxen and exactly two women.",
+ "two women only (green, blue); the small brown ox still shows the gash and blood; the woman in green is next to the wall with both chasing oxen still running behind it",
  "woman in green -> pays ('pay')"),
 ]
 
@@ -65,10 +65,10 @@ FIXES = [
 
 ("bk3-7", "fix: show that the passerby is actually injured", "Using the previous picture as reference, everything is exactly the same except: the passerby has a small wooden chip stuck in the skin of his forehead, with a clear trickle of red blood running down from it past his eye and his hand pressed to the spot, his face twisted in pain. The woman inside the wall has stopped, axe lowered, looking at him in alarm. A few more chips lie on the ground between them. Show the cut clearly."),
   # edits to send in the SAME chat as the picture they fix (first run of v2, 2026-10-11; the 3:7, 3:2b, 3:3 and 3:1a fixes make the injury explicit)
-("bk3-11b", "fix: the limping small ox was dropped from 11b", "Using the previous picture as reference, everything is exactly the same except: add back the small brown ox. It runs across the pasture at the front, limping, with one front leg held up, and the red ox and the black ox run after it. The two women stand at the wall as before. Exactly three oxen (small brown, red, black) and exactly two women."),
-("bk3-5s", "fix: the beam must touch the jar", "Using the previous picture as reference, everything is exactly the same except: the front tip of the beam presses against the neck of the jar, and the jar is cracking at that spot with shards falling."),
+("bk3-11a", "fix: the small ox must be visibly GORED, not just limping (send in the 11a chat)", "Using the previous picture as reference, everything is exactly the same except: the small brown ox is gored. A deep gash is torn open in its side, the edges of the wound ragged, with a clear stream of red blood running down its flank and dripping onto the grass. It staggers forward with its head hanging low and its tongue out, no longer trotting. The red ox and the black ox run behind it with their horns lowered. Show the wound clearly."),
+("bk3-11b", "redo 11b AFTER 11a is fixed (same chat as the fixed 11a)", "Using the previous picture as reference, everything is exactly the same except: the red ox and the black ox are now both owned by the woman in the green dress, who stands beside the wall with a worried face and one hand on her chin; the man in the yellow tunic is gone; the woman in the blue dress still stands with open hands, pointing now at the two oxen. The small brown ox keeps the deep gash in its side and the blood running down its flank. Exactly three oxen and exactly two women."),("bk3-5s", "fix: the beam must touch the jar", "Using the previous picture as reference, everything is exactly the same except: the front tip of the beam presses against the neck of the jar, and the jar is cracking at that spot with shards falling."),
 ]
-out = ["# Bava Kamma 3, graphic novel: first-try prompts v2 (men and women mixed on purpose) (2026-10-10)\n",
+out = ["# Bava Kamma 3, graphic novel: first-try prompts v3 (men and women mixed on purpose) (2026-10-10)\n",
 "Purpose: test whether the lessons from BK 5 / BM 1 give good pictures on the first try. Written from the mishnah text and R. Kulp's commentary only. Scenes: 3:1 to 3:7 and 3:11 (3:8, 3:9, 3:10 are about amounts and comparisons, left for a decision).\n",
 "How to use: paste the block under PASTE into a new Gemini chat. Where it says 'same chat, edit', paste it into the chat that made the previous picture. 'Review' lists what to check before accepting; 'Overlay' says what we add in code.\n",
 "CHANGE from v1: gender is now chosen on purpose in each scene (about half the main figures are women, in varied roles: pot-sellers, woodcutter, pourer, owners). Prompts that changed: 3:1a, 3:1b, 3:2a, 3:2b, 3:3, 3:4, 3:5 (all four), 3:6, 3:7, 3:11a, 3:11b; none is unchanged except the edit lines that never named a person.\n",
@@ -79,4 +79,4 @@ for pid, title, kind, scene, review, overlay in P:
     out.append(f"\n## {pid}: {title}\n\nPASTE:\n```\n{full}\n```\nReview: {review}.\nOverlay: {overlay}.\n")
 out.append("\n# Fixes after the first run (send each as an edit in the SAME chat as the picture it fixes)\n")
 for pid, title, text in FIXES: out.append(f"\n## {pid}: {title}\n\nPASTE:\n```\n{text}\n```\n")
-open("data/graphic-novel_prompts_bk3_v2.md", "w").write("".join(out)); print(len(P), "prompts")
+open("data/graphic-novel_prompts_bk3_v3.md", "w").write("".join(out)); print(len(P), "prompts")
