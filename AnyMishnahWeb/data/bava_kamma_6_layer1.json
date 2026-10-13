@@ -47,7 +47,32 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "A flock gets out",
+    "cols": [
+     "What happened",
+     "The owner"
+    ],
+    "rows": [
+     [
+      "Shut in properly and it went out and damaged",
+      "exempt"
+     ],
+     [
+      "Not shut in properly",
+      "liable"
+     ],
+     [
+      "The pen broke at night, or bandits broke it",
+      "not liable"
+     ],
+     [
+      "Bandits brought out the flock",
+      "the bandits are liable"
+     ]
+    ]
+   }
   },
   {
    "n": 2,
@@ -115,7 +140,28 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "The flock and the owner",
+    "cols": [
+     "What happened",
+     "The owner pays"
+    ],
+    "rows": [
+     [
+      "Left in the sun, or given to a deaf-mute, idiot or minor",
+      "liable"
+     ],
+     [
+      "Fell into a garden and benefited",
+      "what it benefited"
+     ],
+     [
+      "Went down into the garden in its usual way",
+      "the damage"
+     ]
+    ]
+   }
   },
   {
    "n": 3,
@@ -249,7 +295,37 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "What was in the burned stack",
+    "cols": [
+     "What burned",
+     "Rabbi Judah",
+     "The Sages"
+    ],
+    "rows": [
+     [
+      "Utensils inside a stack",
+      "pays for them too",
+      "pays only for the wheat or barley"
+     ],
+     [
+      "A large building with goods in it",
+      "pays for everything",
+      "pays for everything (all agree)"
+     ],
+     [
+      "A kid fastened to the stack, a slave nearby; both burned",
+      "liable",
+      "liable"
+     ],
+     [
+      "A slave fastened to the stack, a kid nearby; both burned",
+      "not liable",
+      "not liable"
+     ]
+    ]
+   }
   },
   {
    "n": 6,
@@ -299,7 +375,32 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "Sparks and lamps",
+    "cols": [
+     "What happened",
+     "Who pays"
+    ],
+    "rows": [
+     [
+      "A spark flew from under the hammer",
+      "the one who struck"
+     ],
+     [
+      "A camel's flax went into a shop and caught the shopkeeper's light",
+      "the owner of the camel"
+     ],
+     [
+      "The shopkeeper had left his light outside",
+      "the shopkeeper"
+     ],
+     [
+      "A Hanukkah light (Rabbi Judah)",
+      "not liable; the halakha does not follow him"
+     ]
+    ]
+   }
   }
  ]
 }

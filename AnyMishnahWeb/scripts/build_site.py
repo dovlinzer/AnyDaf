@@ -99,6 +99,73 @@ def svg_bm18():
     return svg((520, 52 + 6 * 92 + 4), b, "Found documents: what to do")
 DIAG_BK5 = {3: svg_53, 4: svg_54, 5: svg_55, 7: svg_57}
 DIAG_BM1 = {5: svg_bm15, 6: svg_bm16, 8: svg_bm18}
+
+def flame(x, y, k=1.0): return f'<g transform="translate({x},{y}) scale({k})"><path d="M20 2 C30 18 40 26 32 46 C29 54 11 54 8 44 C3 32 14 26 14 14 C18 18 18 8 20 2Z" fill="#E0662E"/><path d="M20 24 C25 32 28 36 24 46 C22 50 16 50 15 44 C13 38 19 32 20 24Z" fill="#F4B942"/></g>'
+def pit_open(x, y, h, added=0, label=""):
+    ground = f'<rect x="{x}" y="{y}" width="110" height="26" rx="4" fill="#C9A66B"/>'
+    cut = f'<rect x="{x+25}" y="{y}" width="60" height="{h}" fill="#4a2f1c"/>'
+    extra = f'<rect x="{x+25}" y="{y+h-added}" width="60" height="{added}" fill="#8b4f2a"/>' if added else ""
+    return ground + cut + extra + f'<rect x="{x}" y="{y+26}" width="25" height="{h-26}" fill="#C9A66B"/><rect x="{x+85}" y="{y+26}" width="25" height="{h-26}" fill="#C9A66B"/>' + (T(x + 55, y + h + 20, label, 14, 600, "#333", "middle") if label else "")
+def svg_bk11():
+    cards = [("Ox", "alive; its way is to go out and do injury", lambda x, y: U("bull", x + 86, y + 20, 78, 50)),
+             ("Crop-destroying beast", "alive; its way is to go out and do injury", lambda x, y: U("goat", x + 92, y + 18, 66, 56)),
+             ("Fire", "not alive; its way is to go out and do injury", lambda x, y: flame(x + 103, y + 14, 1.1)),
+             ("Pit", "its way is not to go out and do injury", lambda x, y: pit_open(x + 70, y + 26, 54))]
+    b = T(260, 32, "The four primary causes of injury", 19, 700, "#1b3a8a", "middle")
+    for i, (t, d, ic) in enumerate(cards):
+        x = 8 + (i % 2) * 254; y = 48 + (i // 2) * 170
+        b += f'<rect x="{x}" y="{y}" width="250" height="160" rx="12" fill="#ffffffaa" stroke="#d9cfbd"/>' + ic(x, y) + T(x + 125, y + 112, t, 16, 700, "#1b3a8a", "middle") + multi(x + 125, y + 134, d, 30, 13, 16, anchor="middle")
+    b += f'<rect x="8" y="392" width="504" height="92" rx="12" fill="#e9eefb" stroke="#1b3a8a" stroke-width="1.5"/>' + T(260, 416, "What they share", 15, 700, "#1b3a8a", "middle") + multi(260, 438, "It is their way to do injury; you are responsible to guard them; the one responsible pays from the best of his land.", 56, 14, 17, anchor="middle")
+    return svg((520, 496), b, "The four primary causes of injury")
+def svg_bk12():
+    b = T(260, 32, "Partly making a pit: he pays as if he dug it all", 18, 700, "#1b3a8a", "middle")
+    b += f'<rect x="8" y="48" width="250" height="262" rx="12" fill="#ffffffaa" stroke="#d9cfbd"/><rect x="262" y="48" width="250" height="262" rx="12" fill="#ffffffaa" stroke="#d9cfbd"/>'
+    b += pit_open(78, 96, 72, 0, "") + T(133, 196, "Dug by another:", 14, 600, "#333", "middle") + T(133, 214, "9 handbreadths", 14, 600, "#333", "middle") + T(133, 234, "an animal that falls survives", 12, 400, "#555", "middle")
+    b += pit_open(332, 96, 80, 8, "") + T(387, 196, "He deepens it by one:", 14, 600, "#333", "middle") + T(387, 214, "10 handbreadths", 14, 600, "#333", "middle") + T(387, 234, "an animal that falls dies", 12, 400, "#555", "middle")
+    b += badge("pay", 365, 246, 44) + T(387, 304, "he pays", 13, 600, "#333", "middle")
+    b += multi(260, 338, "Whatever I am responsible to guard, I have made possible to do injury; if I partly made it possible, I pay as if I did all of it.", 52, 14, 17, anchor="middle", fill="#444")
+    return svg((520, 396), b, "A pit deepened from nine to ten handbreadths")
+def svg_bk22():
+    rows = [("It ate fruit or vegetables", lambda y: U("bull", 18, y + 30, 58, 37), [("pay", "Full damages"), ("notpay", "Exempt; pays what it benefited")]),
+            ("It ate clothing or utensils", lambda y: U("bull", 18, y + 30, 58, 37), [("pay-half", "Half damages"), ("notpay", "Exempt")])]
+    return matrix("What the tooth eats, and where", ["In the damaged party's domain", "In the public domain"], rows, 520, 186, 122, "In the public domain it pays what it benefited from the middle of the marketplace or the front of a store, and the damage from the sides or inside a store.")
+def svg_bk25():
+    b = T(260, 32, "The ox that gores: which domain?", 19, 700, "#1b3a8a", "middle")
+    for j, c in enumerate(("Public domain", "Injured party's domain")): b += f'<rect x="{182 + j * 168}" y="48" width="160" height="34" rx="8" fill="#1b3a8a"/>' + T(262 + j * 168, 71, c, 13, 700, "#fff", "middle")
+    rows = [("Tooth and foot", [[("notpay", "Exempt")], [("pay", "Full damages")]]), ("Horn: it gores, pushes, bites, lies down, kicks", [[("pay-half", "Half damages")], [("pay-half", "Sages: half"), ("pay", "R. Tarfon: full")]])]
+    for i, (lab, cells) in enumerate(rows):
+        y = 92 + i * 132
+        b += f'<rect x="8" y="{y}" width="504" height="122" rx="10" fill="#ffffffaa" stroke="#d9cfbd"/>' + multi(20, y + 40, lab, 18, 15, 19, w=600)
+        for j, cell in enumerate(cells):
+            cx = 262 + j * 168; n = len(cell)
+            for k, (kind, cap) in enumerate(cell):
+                bx = cx + (k - (n - 1) / 2) * 74
+                b += badge(kind, bx - 28, y + 12, 56) + multi(bx, y + 86, cap, 11, 12, 14, anchor="middle")
+    b += multi(260, 368, "The Sages: it is enough if the law derived is as strict as its source (dayo). The halakha follows the Sages.", 56, 13, 16, anchor="middle", fill="#444")
+    return svg((520, 396), b, "The ox that gores, in the public domain and in the injured party's domain")
+def svg_bk43():
+    rows = [("An Israelite's ox gored an ox of the Temple", lambda y: U("bull", 18, y + 30, 58, 37), [("notpay", "Exempt")]),
+            ("An ox of the Temple gored an Israelite's ox", lambda y: U("bull", 18, y + 30, 58, 37), [("notpay", "Exempt")]),
+            ("An Israelite's ox gored a gentile's ox", lambda y: U("bull", 18, y + 30, 58, 37), [("notpay", "Exempt")]),
+            ("A gentile's ox gored an Israelite's ox, harmless or attested danger", lambda y: U("bull", 18, y + 30, 58, 37), [("pay", "Full damages")])]
+    return matrix("Does the owner of the goring ox pay?", ["The owner"], rows, 520, 320, 110, "The first clause is learned from \"his neighbour's ox\" (Exodus 21:35).")
+def svg_bk64():
+    b = T(260, 32, "How far can the fire spread and he still pays?", 18, 700, "#1b3a8a", "middle")
+    b += multi(260, 60, "Kindled in his own domain. A fence four cubits high, a public way or a river: exempt.", 56, 13, 16, anchor="middle", fill="#444")
+    k = 5.6; bars = [("Rabbi Eliezer", 16, "16 cubits, like a public road", "#2c7a46"), ("Rabbi Akiva", 50, "50 cubits", "#1b3a8a")]
+    for i, (n, v, lab, col) in enumerate(bars):
+        y = 96 + i * 76
+        b += T(12, y + 18, n, 15, 700, "#333") + f'<rect x="12" y="{y+28}" width="{v*k}" height="26" rx="6" fill="{col}"/>' + T(12 + v * k + 8, y + 47, lab, 13, 400, "#333")
+    y = 248
+    b += T(12, y + 18, "Rabbi Eleazar ben Azariah", 15, 700, "#333") + f'<rect x="12" y="{y+28}" width="230" height="26" rx="6" fill="none" stroke="#7a4aa0" stroke-width="2.5" stroke-dasharray="7 5"/>' + multi(252, y + 40, "as if in the middle of a kor's space", 28, 13, 15)
+    y = 324
+    b += T(12, y + 18, "Rabbi Shimon", 15, 700, "#333") + '<defs><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#C75A2A"/><stop offset="1" stop-color="#C75A2A" stop-opacity="0"/></linearGradient></defs>' + f'<rect x="12" y="{y+28}" width="260" height="26" rx="6" fill="url(#fade)"/>' + multi(282, y + 40, "all by the nature of the fire", 26, 13, 15) + badge("pay", 462, y + 8, 44)
+    b += multi(260, 404, "The halakha follows Rabbi Shimon: the larger the fire, the farther he is liable.", 56, 13, 16, anchor="middle", fill="#444")
+    return svg((520, 424), b, "How far a fire kindled in one's own domain must spread")
+DIAG_BK1 = {1: svg_bk11, 2: svg_bk12}
+DIAG_BK2 = {2: svg_bk22, 5: svg_bk25}
+DIAG_BK4 = {3: svg_bk43}
+DIAG_BK6 = {4: svg_bk64}
 import os
 OV = json.load(open("data/overlays.json")) if os.path.exists("data/overlays.json") else {}
 QP = json.load(open("data/quiz_principles.json")) if os.path.exists("data/quiz_principles.json") else {}
@@ -254,10 +321,10 @@ TRAY_BK3 = [("pay", "pays"), ("notpay", "does not pay"), ("keeps", "keeps it")]
 TRAY_BM = [("keeps", "keeps it"), ("noclaim", "has no claim"), ("return", "returns it"), ("noreturn", "does not return it"), ("hold", "holds it"), ("follow", "follows the simpon"), ("half-half", "splits in half"), ("3q-1q", "three quarters and a quarter")]
 QL = '<div class="grp qlegend"><span><span class="t"><b>Quiz:</b> drag the right badge onto the picture, box or person.</span></span></div>'
 PAY = [("pay", "pays", "(is liable)"), ("notpay", "does not pay", "(is exempt)")]
-build("data/bava_kamma_1.json", "data/bava_kamma_1_layer1.json", {}, "Mishnah Bava Kamma, chapter 1", "Outlines, charts and summary", "site/bava-kamma-1.html", "")
-build("data/bava_kamma_2.json", "data/bava_kamma_2_layer1.json", {}, "Mishnah Bava Kamma, chapter 2", "Outlines, charts and summary", "site/bava-kamma-2.html", "")
-build("data/bava_kamma_4.json", "data/bava_kamma_4_layer1.json", {}, "Mishnah Bava Kamma, chapter 4", "Outlines, charts and summary", "site/bava-kamma-4.html", "")
-build("data/bava_kamma_6.json", "data/bava_kamma_6_layer1.json", {}, "Mishnah Bava Kamma, chapter 6", "Outlines, charts and summary", "site/bava-kamma-6.html", "")
+build("data/bava_kamma_1.json", "data/bava_kamma_1_layer1.json", DIAG_BK1, "Mishnah Bava Kamma, chapter 1", "Outlines, charts and summary", "site/bava-kamma-1.html", "")
+build("data/bava_kamma_2.json", "data/bava_kamma_2_layer1.json", DIAG_BK2, "Mishnah Bava Kamma, chapter 2", "Outlines, charts and summary", "site/bava-kamma-2.html", "")
+build("data/bava_kamma_4.json", "data/bava_kamma_4_layer1.json", DIAG_BK4, "Mishnah Bava Kamma, chapter 4", "Outlines, charts and summary", "site/bava-kamma-4.html", "")
+build("data/bava_kamma_6.json", "data/bava_kamma_6_layer1.json", DIAG_BK6, "Mishnah Bava Kamma, chapter 6", "Outlines, charts and summary", "site/bava-kamma-6.html", "")
 build("data/bava_kamma_5.json", "data/bava_kamma_5_layer1.json", DIAG_BK5, "Mishnah Bava Kamma, chapter 5", "Outlines, charts and pictures", "site/bava-kamma-5.html",
       leg([PAY, [("pay-half", "pays half", ""), ("pay-quarter", "pays a quarter", "")]], '<div class="grp"><span><span class="t">A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></span></div><div class="grp ionly"><span><span class="t"><b>Tap</b> a picture, a box or a person to see the ruling.</span></span></div>' + QL), tray=TRAY_BK)
 build("data/bava_kamma_3.json", "data/bava_kamma_3_layer1.json", {}, "Mishnah Bava Kamma, chapter 3", "Outlines, charts and pictures", "site/bava-kamma-3.html",

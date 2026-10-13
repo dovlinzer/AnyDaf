@@ -52,7 +52,36 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "The foot (and fowl)",
+    "cols": [
+     "What happened",
+     "What the owner pays"
+    ],
+    "rows": [
+     [
+      "Walked in its usual way and broke an object",
+      "full damages"
+     ],
+     [
+      "Kicked, or stones were tossed from under its feet",
+      "half damages"
+     ],
+     [
+      "Broke a vessel, which fell and broke another",
+      "full for the first, half for the other"
+     ],
+     [
+      "Fowl broke something in its usual way",
+      "full damages"
+     ],
+     [
+      "Fowl with entangled feet, or jumping",
+      "half damages"
+     ]
+    ]
+   }
   },
   {
    "n": 2,
@@ -145,7 +174,24 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "Dogs and goats",
+    "cols": [
+     "What happened",
+     "What the owner pays"
+    ],
+    "rows": [
+     [
+      "Jumped from a roof and broke vessels",
+      "full damages"
+     ],
+     [
+      "Took a cake with an ember, burned a stack of grain",
+      "full for the cake, half for the stack"
+     ]
+    ]
+   }
   },
   {
    "n": 4,
@@ -179,7 +225,32 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "How an animal changes status",
+    "cols": [
+     "",
+     "Becomes an attested danger",
+     "Harmless again"
+    ],
+    "rows": [
+     [
+      "Rabbi Judah",
+      "testimony on three days",
+      "three days without damage"
+     ],
+     [
+      "Rabbi Meir",
+      "testimony three times",
+      "children can touch it and it does not gore"
+     ],
+     [
+      "Halakha",
+      "like Rabbi Judah",
+      "like Rabbi Meir"
+     ]
+    ]
+   }
   },
   {
    "n": 5,
@@ -259,7 +330,24 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "A person who damages",
+    "cols": [
+     "Payment",
+     "When"
+    ],
+    "rows": [
+     [
+      "Damage (nezek): full damages",
+      "always: accident or on purpose, awake or asleep"
+     ],
+     [
+      "Pain, healing, loss of time, shame (chapter 8)",
+      "only if deliberate or nearly so"
+     ]
+    ]
+   }
   }
  ]
 }

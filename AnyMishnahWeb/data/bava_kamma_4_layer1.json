@@ -39,7 +39,33 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "Three oxen injured in turn (each worth 200; Kulp's table)",
+    "cols": [
+     "",
+     "Owner of the injuring ox keeps",
+     "First ox",
+     "Second ox",
+     "Third ox"
+    ],
+    "rows": [
+     [
+      "Rabbi Meir",
+      "0",
+      "0",
+      "100",
+      "100"
+     ],
+     [
+      "Rabbi Shimon",
+      "25",
+      "25",
+      "50",
+      "100"
+     ]
+    ]
+   }
   },
   {
    "n": 2,
@@ -76,7 +102,37 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "Full or half damages",
+    "cols": [
+     "The ox is an attested danger",
+     "Not an attested danger",
+     "The owner pays"
+    ],
+    "rows": [
+     [
+      "to its own kind",
+      "to other kinds",
+      "full for the first, half for the second"
+     ],
+     [
+      "to people",
+      "to beasts",
+      "full for the first, half for the second"
+     ],
+     [
+      "to children",
+      "to adults",
+      "full for the first, half for the second"
+     ],
+     [
+      "on the Sabbath (Rabbi Judah)",
+      "during the week",
+      "full on Sabbaths, half on weekdays"
+     ]
+    ]
+   }
   },
   {
    "n": 3,
@@ -155,7 +211,27 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "Whose ox, whose ox",
+    "cols": [
+     "Whose ox gored",
+     "Whose ox was gored",
+     "The owner of the goring ox"
+    ],
+    "rows": [
+     [
+      "a person of sound senses",
+      "a deaf-mute, insane person or minor",
+      "pays"
+     ],
+     [
+      "a deaf-mute, insane person or minor",
+      "a person of sound senses",
+      "exempt"
+     ]
+    ]
+   }
   },
   {
    "n": 5,
@@ -188,7 +264,27 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "An ox that kills a person",
+    "cols": [
+     "Victim",
+     "Harmless ox",
+     "Attested danger"
+    ],
+    "rows": [
+     [
+      "A free adult, a son or a daughter",
+      "ox stoned; no ransom",
+      "ox stoned; owner pays ransom"
+     ],
+     [
+      "A slave or maidservant",
+      "ox stoned; owner pays 30 sela",
+      "ox stoned; owner pays 30 sela"
+     ]
+    ]
+   }
   },
   {
    "n": 6,
@@ -208,7 +304,32 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "The ox's intention",
+    "cols": [
+     "The ox",
+     "Result"
+    ],
+    "rows": [
+     [
+      "rubbed against a wall that fell on a person",
+      "exempt from death"
+     ],
+     [
+      "intended to kill an animal and killed a man",
+      "exempt from death"
+     ],
+     [
+      "intended to kill a gentile and killed an Israelite",
+      "exempt from death"
+     ],
+     [
+      "intended to kill an untimely birth and killed a viable infant",
+      "exempt from death"
+     ]
+    ]
+   }
   },
   {
    "n": 7,
@@ -279,7 +400,27 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "An ox sentenced to stoning",
+    "cols": [
+     "",
+     "Dedicated to the Temple",
+     "Slaughtered"
+    ],
+    "rows": [
+     [
+      "After the sentence is complete",
+      "not dedicated",
+      "flesh forbidden"
+     ],
+     [
+      "Before the sentence is complete",
+      "dedicated",
+      "flesh permitted"
+     ]
+    ]
+   }
   },
   {
    "n": 9,
@@ -334,7 +475,22 @@
       ]
      ]
     }
-   ]
+   ],
+   "chart": {
+    "title": "A tied or locked ox that got out and damaged",
+    "cols": [
+     "Rabbi Meir",
+     "Rabbi Judah",
+     "Rabbi Eliezer"
+    ],
+    "rows": [
+     [
+      "liable, harmless or attested danger",
+      "harmless: liable; attested danger: exempt",
+      "its only guarding is the knife"
+     ]
+    ]
+   }
   }
  ]
 }
