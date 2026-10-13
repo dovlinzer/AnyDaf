@@ -23,3 +23,6 @@ Nothing contradicts a picture. 3:4: the picture cannot show whether she could ha
 
 ## What I could not check (not read)
 Ch.1 and 2 (PDF pp.1-21) and 4:2 (p.40 viewed only partly). The first notes file listed principles for those from memory; they are marked UNREAD in bk_1-6_unit_principles.md and must not be used.
+
+## CORRECTION 2026-10-13 (honest record)
+The first versions of the BK 3 notes (3:1, 3:3, 3:6, 3:8, 3:9, 3:10, 3:11) were written when the page images for Kehati pp.22-39 had NOT loaded; they came partly from my own knowledge. On 2026-10-13 I read pdf pp.22-36 (footers 33-47: 3:1 to 3:11) and checked each: 3:1, 3:3, 3:4, 3:6, 3:9 (halakha = R. Judah, stated), 3:10 confirmed as on the page. Fixed: 3:8 ("Rosh", not "Rash", plus the Rambam's 80 example, and halakha like the first view, not R. Akiva). Added from the pages: 3:2 (even in the rainy season; the thorn fence inside his own property), 3:4 (only bodily injury, not vessels), 3:11 (legal foundation; the one-owner reading). pdf pp.37-39 (4:1-4:2) still unread.
