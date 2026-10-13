@@ -1,0 +1,99 @@
+{
+ "status": "Draft from the mishnah, R. Kulp and Kehati.",
+ "principles": [
+  {
+   "t": "A harmless ox pays only from its own body; the injured owner is either a new owner or a partner in it (Rabbi Meir and Rabbi Shimon).",
+   "m": [
+    1
+   ],
+   "src": "Mishnah 4:1; Kehati 4:1"
+  },
+  {
+   "t": "An ox can be an attested danger for one kind of victim or one day, and harmless for others: full damages for the one, half for the other.",
+   "m": [
+    2
+   ],
+   "src": "Mishnah 4:2"
+  },
+  {
+   "t": "An Israelite's ox is exempt for damage to Temple property and to a gentile's ox; a gentile's ox pays full damages to an Israelite.",
+   "m": [
+    3
+   ],
+   "src": "Mishnah 4:3"
+  },
+  {
+   "t": "An ox that kills a person is stoned; the owner of an attested danger pays ransom (kofer), the owner of a harmless one does not.",
+   "m": [
+    5
+   ],
+   "src": "Mishnah 4:5"
+  },
+  {
+   "t": "An ox is judged by its intention: it is exempt from death if it did not intend to kill a person.",
+   "m": [
+    6
+   ],
+   "src": "Mishnah 4:6"
+  },
+  {
+   "t": "A guard takes the owner's place; an owner who tied or locked his ox properly: the sages dispute, and the halakha follows Rabbi Judah.",
+   "m": [
+    9
+   ],
+   "src": "Mishnah 4:9; Kehati 4:9"
+  }
+ ],
+ "terms": [
+  {
+   "term": "ransom (kofer)",
+   "he": "כופר",
+   "def": "The payment an owner of an attested danger makes to ransom his life when his ox kills a person. It is the value of the person killed.",
+   "m": [
+    5
+   ],
+   "src": "Mishnah 4:5; Kehati 4:5"
+  },
+  {
+   "term": "guardian (apotropos)",
+   "he": "אפוטרופוס",
+   "def": "A person the court appoints to watch the ox of a deaf-mute, insane person or minor.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 4:4"
+  },
+  {
+   "term": "paid guardian, borrower, hirer",
+   "he": "שומר שכר, שואל, שוכר",
+   "def": "People to whom an ox is handed; they take the owner's place for its damage.",
+   "m": [
+    9
+   ],
+   "src": "Mishnah 4:9"
+  }
+ ],
+ "debates": [
+  {
+   "m": 1,
+   "title": "What does the injured owner become?",
+   "a": "Rabbi Meir: a creditor, paid first from the last victim backward.",
+   "b": "Rabbi Shimon: a partner in the ox, so the victims share.",
+   "src": "Mishnah 4:1; Kehati 4:1"
+  },
+  {
+   "m": 4,
+   "title": "Is the ox harmless again when its owner recovers?",
+   "a": "Rabbi Meir: harmless again.",
+   "b": "Rabbi Yose: it remains as it was. Rambam follows Rabbi Yose.",
+   "src": "Mishnah 4:4; Kehati 4:4"
+  },
+  {
+   "m": 9,
+   "title": "A properly guarded ox that still damages",
+   "a": "Rabbi Meir: liable, harmless or not. Rabbi Judah: harmless, liable; attested danger, exempt from the full payment.",
+   "b": "Rabbi Eliezer: its only guarding is the knife. The halakha follows Rabbi Judah.",
+   "src": "Mishnah 4:9; Kehati 4:9"
+  }
+ ]
+}

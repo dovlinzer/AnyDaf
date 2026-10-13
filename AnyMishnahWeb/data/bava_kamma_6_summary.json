@@ -1,0 +1,93 @@
+{
+ "status": "Draft from the mishnah, R. Kulp and Kehati.",
+ "principles": [
+  {
+   "t": "An owner who guarded his flock properly is exempt if it escapes through no fault; one who did not is liable.",
+   "m": [
+    1,
+    2
+   ],
+   "src": "Mishnah 6:1-6:2"
+  },
+  {
+   "t": "A flock that falls into a garden pays what it benefited; one that enters normally pays the damage, assessed by the value of a seah's space.",
+   "m": [
+    2
+   ],
+   "src": "Mishnah 6:2"
+  },
+  {
+   "t": "Whoever kindles a fire pays for everything it burns. When several contribute, the last one is liable; a wind frees all only if it was unusual.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 6:4; Kehati 6:4"
+  },
+  {
+   "t": "The distance a fire must travel to be exempt is disputed; the halakha follows Rabbi Shimon, by the nature of the fire.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 6:4; Kehati 6:4"
+  },
+  {
+   "t": "The Sages: goods are paid for only where it is customary to keep them (a building, not a stack of hay); Rabbi Judah: he pays for all that was in it.",
+   "m": [
+    5
+   ],
+   "src": "Mishnah 6:5; Kulp 6:5"
+  }
+ ],
+ "terms": [
+  {
+   "term": "fire (esh)",
+   "he": "אש",
+   "def": "The fourth archetypal cause of damage: the one who kindles a fire pays for the damage it does.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 6:4"
+  },
+  {
+   "term": "indirect cause (grama)",
+   "he": "גרמא",
+   "def": "Damage caused indirectly, such as bandits who break a pen and the flock then leaves. Not liable in human law.",
+   "m": [
+    1
+   ],
+   "src": "Kehati 6:1"
+  },
+  {
+   "term": "laws of man and of Heaven",
+   "he": "דיני אדם ודיני שמים",
+   "def": "A wrong that cannot be prosecuted in court but for which the person is still accountable.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 6:4; Kulp 6:4"
+  }
+ ],
+ "debates": [
+  {
+   "m": 4,
+   "title": "How far must the fire spread?",
+   "a": "Rabbi Eleazar ben Azariah: like the middle of a kor's space; Rabbi Eliezer: 16 cubits; Rabbi Akiva: 50.",
+   "b": "Rabbi Shimon: all by the nature of the fire. The halakha follows Rabbi Shimon.",
+   "src": "Mishnah 6:4; Kehati 6:4"
+  },
+  {
+   "m": 5,
+   "title": "Utensils inside a stack that burned",
+   "a": "Rabbi Judah: he pays for what was in it.",
+   "b": "The Sages: only for the wheat or barley. In a large building all agree he pays for the contents.",
+   "src": "Mishnah 6:5"
+  },
+  {
+   "m": 6,
+   "title": "The Hanukkah light outside the shop",
+   "a": "The first view: the shopkeeper who left his light outside is liable.",
+   "b": "Rabbi Judah: not liable for a Hanukkah light. The halakha does not follow him.",
+   "src": "Mishnah 6:6; Kehati 6:6"
+  }
+ ]
+}

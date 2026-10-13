@@ -1,0 +1,96 @@
+{
+ "status": "Draft from the mishnah, R. Kulp and Kehati.",
+ "principles": [
+  {
+   "t": "An animal is an attested danger for what is its way (breaking as it walks, eating what it likes). In an unusual way it is harmless and the owner pays half.",
+   "m": [
+    1,
+    2,
+    3
+   ],
+   "src": "Mishnah 2:1-2:3; Kulp 2:1"
+  },
+  {
+   "t": "For tooth and foot, the owner is exempt in the public domain (except for what the animal benefited) and pays in the domain of the damaged party.",
+   "m": [
+    2
+   ],
+   "src": "Mishnah 2:2"
+  },
+  {
+   "t": "An animal becomes an attested danger by repeated damage with testimony, and returns to harmless when it is safe with children.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 2:4; Kehati 2:4"
+  },
+  {
+   "t": "A conclusion drawn by reasoning cannot be stricter than the law it is drawn from (dayo): half damages for horn in the injured party's domain.",
+   "m": [
+    5
+   ],
+   "src": "Mishnah 2:5"
+  },
+  {
+   "t": "A person is always an attested danger: full damages for damage, accident or not, awake or asleep.",
+   "m": [
+    6
+   ],
+   "src": "Mishnah 2:6"
+  }
+ ],
+ "terms": [
+  {
+   "term": "foot (regel)",
+   "he": "רגל",
+   "def": "Damage by an animal's trampling as it walks. An attested danger in its usual way.",
+   "m": [
+    1
+   ],
+   "src": "Mishnah 2:1"
+  },
+  {
+   "term": "tooth (shen)",
+   "he": "שן",
+   "def": "Damage by an animal's eating. An attested danger to eat what is fit for it.",
+   "m": [
+    2
+   ],
+   "src": "Mishnah 2:2"
+  },
+  {
+   "term": "horn (keren)",
+   "he": "קרן",
+   "def": "Damage by goring and similar unusual damage. Harmless unless the animal has become an attested danger.",
+   "m": [
+    5
+   ],
+   "src": "Mishnah 2:5"
+  },
+  {
+   "term": "it is enough (dayo)",
+   "he": "דיו",
+   "def": "The rule that a conclusion from reasoning is not stricter than its source.",
+   "m": [
+    5
+   ],
+   "src": "Mishnah 2:5"
+  }
+ ],
+ "debates": [
+  {
+   "m": 4,
+   "title": "How does an ox become an attested danger?",
+   "a": "Rabbi Judah: testimony on three days; harmless again after three days without damage.",
+   "b": "Rabbi Meir: testimony three times; harmless again when children can touch it. Halakha: R. Judah for becoming, R. Meir for returning.",
+   "src": "Mishnah 2:4; Kehati 2:4"
+  },
+  {
+   "m": 5,
+   "title": "How much does a harmless ox pay in the injured party's domain?",
+   "a": "Rabbi Tarfon: full damages, by an argument from tooth and foot.",
+   "b": "The Sages: half damages, since the conclusion may not exceed its source (dayo). Halakha: the Sages.",
+   "src": "Mishnah 2:5; Kehati 2:5"
+  }
+ ]
+}
