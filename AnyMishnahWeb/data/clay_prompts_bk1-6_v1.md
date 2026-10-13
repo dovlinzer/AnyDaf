@@ -6,9 +6,79 @@ How to use: paste each PASTE block into a NEW Gemini chat; 'same chat, edit' blo
 
 Chapter 2 cast, identical in every picture of the chapter: the owner of the jar, basket or cloak is a woman in a green dress with a white head covering; the animal's owner is a man in a grey tunic (2:2c and 2:3a/b as written).
 
-Pictures NOT made, and why: chapter 1 (1:1, 1:2, 1:4 are lists of categories and rules: diagrams instead; only 1:3 has a scene); 2:4 and 2:5 (rules about how many times an ox gores and which domain: charts); 4:1-4:3, 4:5-4:9 (payment rules between several parties, a death or a sacred/gentile classification: charts and tables; the death cases are not drawn); 6:3 (same as 5:3), 6:5 (a dispute about contents: a chart).
+Pictures NOT made, and why: chapter 1 (1:2 and 1:4 are rules: diagrams instead; 1:1 IS drawn, as action pictures of the four categories, with the Rav and Shmuel readings as edits; 1:3 has a court scene); 2:4 and 2:5 (rules about how many times an ox gores and which domain: charts); 4:1-4:3, 4:5-4:9 (payment rules between several parties, a death or a sacred/gentile classification: charts and tables; the death cases are not drawn); 6:3 (same as 5:3), 6:5 (a dispute about contents: a chart).
 
 Needs a decision: 2:2c and 6:2a need a new badge ('pays only what it benefited'); the existing set has none.
+
+## bk1-1a: 1:1 the ox gores (FIRST of a set; make 1:1a2 in the SAME chat)
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: the edge of a pasture beside a dirt path, under a wide sky. A large brown ox with its head lowered drives its horn into the side of a woman in a green dress and white head covering, who is thrown sideways off her feet with her arms flung out, her mouth open and a pained, frightened expression. Exactly one ox and one woman.
+```
+Review: the horn is in contact with the woman's side; she is mid-fall and reacting; one ox, one woman.
+Overlay: none (a category picture: the ox).
+
+## bk1-1a2: 1:1 the ox, as Shmuel reads it: the foot (same chat, edit of 1:1a)
+
+PASTE:
+```
+Using the previous picture as reference, everything is exactly the same except: there is no woman. A large clay jar stands on the path, and the ox, walking calmly with its head up, has set its front hoof down on the jar, which is cracking into pieces. Exactly one ox and one jar.
+```
+Review: no woman; one jar under the hoof; the ox walks calmly (the foot: it breaks as it walks).
+Overlay: none (the Shmuel reading of 'ox').
+
+## bk1-1b: 1:1 the pit
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a dirt path across a field, in daylight. Beside the path is a freshly dug round pit, deep, with earth heaped around its rim. A brown ox has fallen into the pit and stands at the bottom with its head raised and a startled expression, its front hooves against the earth wall. A man in a grey tunic stands at the rim holding a spade, with a worried expression. Exactly one ox in the pit and one man.
+```
+Review: a deep round pit, the ox at the bottom alive and looking up; the man with the spade at the rim.
+Overlay: none (a category picture: the pit).
+
+## bk1-1c: 1:1 fire
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: the edge of a field of ripe wheat at the right, in the late afternoon. In the left foreground a woman in a red dress and white head covering kneels beside a small fire she has lit on the bare ground, holding a burning stick, with an alarmed expression. A flame from the fire has reached the edge of the wheat, and the wheat is burning in a line of flames that spreads away from her into the field. Exactly one woman, one small fire and one field of wheat.
+```
+Review: the woman visibly lit the fire; the flames have crossed from her fire into the wheat and are spreading; one woman.
+Overlay: none (a category picture: fire).
+
+## bk1-1d: 1:1 the crop-destroying beast (FIRST of a pair; make 1:1d2 in the SAME chat)
+
+PASTE:
+```
+GENERAL STYLE (the same for every picture):
+Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
+
+THE SCENE TO DRAW:
+Scene: a walled vegetable garden on a hillside. A grey goat stands among rows of cabbages and chews a cabbage, with a contented expression, and several cabbages are chewed down to stumps around it. The garden's owner, a man in a blue tunic, stands at the garden gate with both hands on his head and a dismayed expression. Exactly one goat and one man.
+```
+Review: the goat is eating the cabbages; chewed stumps visible; one man at the gate.
+Overlay: none (a category picture: the crop-destroying beast, the animal's tooth, as Shmuel reads it).
+
+## bk1-1d2: 1:1 the crop-destroying beast, as Rav reads it: a person who damages (same chat, edit of 1:1d)
+
+PASTE:
+```
+Using the previous picture as reference, everything is exactly the same except: there is no goat. A man in a brown tunic stands in the cabbage rows and tears the cabbages out of the ground with both hands, with an angry expression, and torn cabbages lie around him. The garden's owner keeps the same dismayed expression. Exactly two men and no animals.
+```
+Review: no goat; a man in brown tearing out the cabbages; the owner unchanged.
+Overlay: none (the Rav reading of 'mav'eh': a person who damages).
 
 ## bk1-3: 1:3 a court, witnesses and a woman claimant
 
