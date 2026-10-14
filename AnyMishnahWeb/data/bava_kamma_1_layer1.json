@@ -58,30 +58,54 @@
     }
    ],
    "pictures": [
-    [
-     "bk1-1a.jpg",
-     "The ox: it drives its horn into a woman and throws her (the first of the four primary causes of injury)."
-    ],
-    [
-     "bk1-1a2.jpg",
-     "The ox as Shmuel reads it: damage with its foot, as it walks."
-    ],
-    [
-     "bk1-1b.jpg",
-     "The pit: an ox has fallen into a deep pit."
-    ],
-    [
-     "bk1-1c.jpg",
-     "Fire: a fire has spread from where it was kindled into the wheat."
-    ],
-    [
-     "bk1-1d.jpg",
-     "The crop-destroying beast (mav'eh), as Shmuel reads it: an animal that eats with its tooth."
-    ],
-    [
-     "bk1-1d2.jpg",
-     "The mav'eh as Rav reads it: a person who damages."
-    ]
+    {
+     "group": "Shor",
+     "gloss": "the ox",
+     "pics": [
+      [
+       "bk1-1a.jpg",
+       "As Rav reads it, the ox includes its horn: here it gores a woman."
+      ],
+      [
+       "bk1-1a2.jpg",
+       "As Shmuel reads it, the ox is the foot: it damages as it walks."
+      ]
+     ]
+    },
+    {
+     "group": "Bor",
+     "gloss": "the pit",
+     "pics": [
+      [
+       "bk1-1b.jpg",
+       "An ox has fallen into a pit and is injured."
+      ]
+     ]
+    },
+    {
+     "group": "Mav'eh",
+     "gloss": "the crop-destroying beast",
+     "pics": [
+      [
+       "bk1-1d.jpg",
+       "As Shmuel reads it, the mav'eh is the tooth: an animal that eats the crops."
+      ],
+      [
+       "bk1-1d2.jpg",
+       "As Rav reads it, the mav'eh is a person who damages: here he tears out the cabbages."
+      ]
+     ]
+    },
+    {
+     "group": "Hev'er",
+     "gloss": "fire",
+     "pics": [
+      [
+       "bk1-1c.jpg",
+       "Fire: a fire has spread from where it was kindled into the wheat."
+      ]
+     ]
+    }
    ]
   },
   {

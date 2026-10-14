@@ -2,7 +2,7 @@
  "status": "Draft from the mishnah, R. Kulp and Kehati.",
  "principles": [
   {
-   "t": "An animal is an attested danger for what is its way (breaking as it walks, eating what it likes). In an unusual way it is harmless and the owner pays half.",
+   "t": "An animal is an attested danger (mu'ad) for what is its way (breaking as it walks, eating what it likes). In an unusual way it is harmless (tam) and the owner pays half.",
    "m": [
     1,
     2,
@@ -11,28 +11,28 @@
    "src": "Mishnah 2:1-2:3; Kulp 2:1"
   },
   {
-   "t": "For tooth and foot, the owner is exempt in the public domain (except for what the animal benefited) and pays in the domain of the damaged party.",
+   "t": "For tooth (shen) and foot (regel), the owner is exempt in the public domain (except for what the animal benefited) and pays in the domain of the damaged party.",
    "m": [
     2
    ],
    "src": "Mishnah 2:2"
   },
   {
-   "t": "An animal becomes an attested danger by repeated damage with testimony, and returns to harmless when it is safe with children.",
+   "t": "An animal becomes an attested danger (mu'ad) by repeated damage with testimony, and returns to harmless (tam) when it is safe with children.",
    "m": [
     4
    ],
    "src": "Mishnah 2:4; Kehati 2:4"
   },
   {
-   "t": "A conclusion drawn by reasoning cannot be stricter than the law it is drawn from (dayo): half damages for horn in the injured party's domain.",
+   "t": "A conclusion drawn by reasoning cannot be stricter than the law it is drawn from (dayo): half damages for horn (keren) in the injured party's domain.",
    "m": [
     5
    ],
    "src": "Mishnah 2:5"
   },
   {
-   "t": "A person is always an attested danger: full damages for damage, accident or not, awake or asleep.",
+   "t": "A person is always an attested danger (mu'ad): full damages for damage (nezek), accident or not, awake or asleep.",
    "m": [
     6
    ],
@@ -83,14 +83,18 @@
    "title": "How does an ox become an attested danger?",
    "a": "Rabbi Judah: testimony on three days; harmless again after three days without damage.",
    "b": "Rabbi Meir: testimony three times; harmless again when children can touch it. Halakha: R. Judah for becoming, R. Meir for returning.",
-   "src": "Mishnah 2:4; Kehati 2:4"
+   "src": "Mishnah 2:4; Kehati 2:4",
+   "wa": "R. Judah",
+   "wb": "R. Meir"
   },
   {
    "m": 5,
    "title": "How much does a harmless ox pay in the injured party's domain?",
    "a": "Rabbi Tarfon: full damages, by an argument from tooth and foot.",
    "b": "The Sages: half damages, since the conclusion may not exceed its source (dayo). Halakha: the Sages.",
-   "src": "Mishnah 2:5; Kehati 2:5"
+   "src": "Mishnah 2:5; Kehati 2:5",
+   "wa": "R. Tarfon",
+   "wb": "The Sages"
   }
  ]
 }

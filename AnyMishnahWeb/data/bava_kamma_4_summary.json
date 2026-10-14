@@ -2,14 +2,14 @@
  "status": "Draft from the mishnah, R. Kulp and Kehati.",
  "principles": [
   {
-   "t": "A harmless ox pays only from its own body; the injured owner is either a new owner or a partner in it (Rabbi Meir and Rabbi Shimon).",
+   "t": "A harmless ox (tam) pays only from its own body; the injured owner is either a new owner or a partner in it (Rabbi Meir and Rabbi Shimon).",
    "m": [
     1
    ],
    "src": "Mishnah 4:1; Kehati 4:1"
   },
   {
-   "t": "An ox can be an attested danger for one kind of victim or one day, and harmless for others: full damages for the one, half for the other.",
+   "t": "An ox can be an attested danger (mu'ad) for one kind of victim or one day, and harmless (tam) for others: full damages for the one, half for the other.",
    "m": [
     2
    ],
@@ -23,7 +23,7 @@
    "src": "Mishnah 4:3"
   },
   {
-   "t": "An ox that kills a person is stoned; the owner of an attested danger pays ransom (kofer), the owner of a harmless one does not.",
+   "t": "An ox that kills a person is stoned; the owner of an attested danger (mu'ad) pays ransom (kofer), the owner of a harmless one (tam) does not.",
    "m": [
     5
    ],
@@ -79,21 +79,27 @@
    "title": "What does the injured owner become?",
    "a": "Rabbi Meir: a creditor, paid first from the last victim backward.",
    "b": "Rabbi Shimon: a partner in the ox, so the victims share.",
-   "src": "Mishnah 4:1; Kehati 4:1"
+   "src": "Mishnah 4:1; Kehati 4:1",
+   "wa": "R. Meir",
+   "wb": "R. Shimon"
   },
   {
    "m": 4,
    "title": "Is the ox harmless again when its owner recovers?",
    "a": "Rabbi Meir: harmless again.",
    "b": "Rabbi Yose: it remains as it was. Rambam follows Rabbi Yose.",
-   "src": "Mishnah 4:4; Kehati 4:4"
+   "src": "Mishnah 4:4; Kehati 4:4",
+   "wa": "R. Meir",
+   "wb": "R. Yose"
   },
   {
    "m": 9,
    "title": "A properly guarded ox that still damages",
    "a": "Rabbi Meir: liable, harmless or not. Rabbi Judah: harmless, liable; attested danger, exempt from the full payment.",
    "b": "Rabbi Eliezer: its only guarding is the knife. The halakha follows Rabbi Judah.",
-   "src": "Mishnah 4:9; Kehati 4:9"
+   "src": "Mishnah 4:9; Kehati 4:9",
+   "wa": "R. Meir and R. Judah",
+   "wb": "R. Eliezer"
   }
  ]
 }

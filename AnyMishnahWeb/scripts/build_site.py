@@ -4,6 +4,15 @@ import html, json, re
 SPRITE = re.sub(r"<svg class=\"sprite\"", '<svg class="sprite" style="position:absolute;width:0;height:0"', open("site/sprite.svg").read())
 def clean(s): return re.sub(r"<[^>]+>", "", s or "")
 def esc(s): return html.escape(s)
+# key Hebrew terms (transliterations) are shown in italics throughout; I() = escape + italicise
+KEYTERMS = ["hamotzi mechavero alav hara'ayah", "acharayut nekhasim", "avot nezikin", "av nezikin", "hichsharti", "mu'ad", "muad", "mav'eh", "hev'er", "tzrarot", "gerama", "grama", "apotropos", "simpon", "zakhah",
+            "nezek", "kofer", "dayo", "tefachim", "tefach", "regel", "keren", "shen", "shor", "bor", "esh", "tam", "Baraita", "Tosefta"]
+_KT = re.compile(r"(?<![A-Za-z'\u2019])(" + "|".join(re.escape(k).replace("'", "['\u2019]") for k in sorted(KEYTERMS, key=len, reverse=True)) + r")(?![A-Za-z])", re.I)
+def I(s):
+    out, last = [], 0
+    for m in _KT.finditer(s or ""):
+        out.append(html.escape(s[last:m.start()])); out.append("<i>" + html.escape(m.group(0)) + "</i>"); last = m.end()
+    out.append(html.escape((s or "")[last:])); return "".join(out)
 FONT = "Public Sans, system-ui, sans-serif"
 def T(x, y, s, size=15, w=400, fill="#1A1F2E", anchor="start"): return f'<text x="{x}" y="{y}" text-anchor="{anchor}" font-family="{FONT}" font-size="{size}" font-weight="{w}" fill="{fill}">{esc(s)}</text>'
 def U(sym, x, y, w, h, color=None): return f'<use href="#{sym}" x="{x}" y="{y}" width="{w}" height="{h}"' + (f' style="color:{color}"' if color else "") + "/>"
@@ -177,7 +186,7 @@ def stage(spec, pic, base="", pid=None):
     for i, h in enumerate(spec["hotspots"]):
         l, t, r, b = h["rect"]
         q = str(i + 1) if len(spec["hotspots"]) > 1 else "?"; ans = h.get("answer", "").replace("tag-", "")
-        hot += f'<button class="hot{' tg' if (h['badges'] and h['badges'][0]['anchor'] == 'bottom') else ''}" data-h="{i}" data-ans="{esc(ans)}" data-q="{esc(q)}" data-pr="{esc((QP.get(pid) or [""] * 9)[i] if i < len(QP.get(pid) or []) else "")}" aria-pressed="false" aria-label="{esc(h["label"])}" style="left:{pct(l,W)};top:{pct(t,H)};width:{pct(r-l,W)};height:{pct(b-t,H)}"></button>'
+        hot += f'<button class="hot{' tg' if (h['badges'] and h['badges'][0]['anchor'] == 'bottom') else ''}" data-h="{i}" data-ans="{esc(ans)}" data-q="{esc(q)}" data-pr="{esc(I((QP.get(pid) or [""] * 9)[i] if i < len(QP.get(pid) or []) else ""))}" aria-pressed="false" aria-label="{esc(h["label"])}" style="left:{pct(l,W)};top:{pct(t,H)};width:{pct(r-l,W)};height:{pct(b-t,H)}"></button>'
         for bd in h["badges"]:
             tr = "translate(-50%,-50%)" if bd["anchor"] == "center" else "translate(-50%,-100%)"
             ov += f'<img class="ov" data-h="{i}" src="img/{bd["src"]}" alt="" style="left:{pct(bd["x"],W)};top:{pct(bd["y"],H)};width:{pct(bd["w"],W)};--t:{tr}">'
@@ -198,13 +207,13 @@ def quiz_ui(spec, pid=None):
     tb = "".join(f'<button class="tb" type="button" data-k="{k}" aria-label="{esc(name)}" title="{esc(name)}"><img src="img/badge-{k}.png" alt="" draggable="false"></button>' for k, name in TRAY)
     hs = spec["hotspots"]; many = len(hs) > 1
     qs = QQ.get(pid) or [h["label"] for h in hs]
-    ask = " ".join(f'<span class="qa">{("<b>%d</b> " % (i + 1)) if many else ""}{esc(qs[i] if i < len(qs) else h["label"])}</span>' for i, h in enumerate(hs))
+    ask = " ".join(f'<span class="qa">{("<b>%d</b> " % (i + 1)) if many else ""}{I(qs[i] if i < len(qs) else h["label"])}</span>' for i, h in enumerate(hs))
     return f'<div class="qask qonly">{ask}</div><div class="tray qonly" role="group" aria-label="Badges">{tb}</div><div class="qmsg qonly" role="status" aria-live="polite"></div>'
 QBTN = ' <span class="qonly qbtns"><button class="qshow" type="button">Show answers</button><button class="qreset" type="button">Try again</button></span>'
 QHINT = '<span class="qonly qhint">Drag a badge from the tray onto the picture, or tap a badge and then tap where it belongs.</span>'
 def variant(aud, mode, inner, cap, note=""):
     n = f' <span class="note">{esc(note)}</span>' if note else ""
-    return f'<figure class="pic v" data-aud="{aud}" data-mode="{mode}">{inner}<figcaption><span class="ctext">{esc(cap)}{n}</span></figcaption></figure>'
+    return f'<figure class="pic v" data-aud="{aud}" data-mode="{mode}">{inner}<figcaption><span class="ctext">{I(cap)}{n}</span></figcaption></figure>'
 def fig(pic):
     """Four variants (younger/older x static/interactive); CSS shows the one chosen in the toolbar.
     Younger static = the original composed picture with badges baked in. Older pictures live in site/img/older/<pid>.jpg (static, badges baked)
@@ -253,7 +262,7 @@ html[data-mode=q] .hot{border-color:transparent;background:none;pointer-events:n
 html[data-mode=q] .hot.tg::after{display:none!important}.qmsg{font-size:15px;font-weight:600;min-height:1.4em;margin-top:6px}.qmsg.good{color:#1f7a3d}.qmsg.bad{color:#b03a2e}.qbtns button{margin-left:8px;font:600 12px 'Public Sans',sans-serif;border:1.5px solid var(--blue);color:var(--blue);background:var(--card);border-radius:12px;padding:1px 10px;cursor:pointer}.qhint{font-style:italic;opacity:.85}.qs{font-weight:600}
 .opts{display:flex;gap:22px;flex-wrap:wrap;align-items:center;padding:8px 16px;background:var(--tint);border-bottom:1px solid #8884;font-size:14px}.opts b{margin-right:6px}.seg{display:inline-flex;border:1.5px solid var(--blue);border-radius:16px;overflow:hidden}.seg button{font:600 13px 'Public Sans',sans-serif;border:0;background:var(--card);color:var(--blue);padding:4px 14px;cursor:pointer}.seg button[aria-pressed=true]{background:var(--blue);color:#fff}
 .grid3{display:grid;grid-template-columns:1.25fr 1fr 1fr;gap:18px;align-items:start}@media(max-width:1000px){.grid3{grid-template-columns:1fr}}.grid3>*{min-width:0}.grid3 h3{margin:0 0 6px;font-family:Newsreader,Georgia,serif}.pr li{margin:0 0 10px}.refs{white-space:nowrap}.mref{font-size:12px;font-weight:600;background:var(--card);border:1px solid var(--blue);border-radius:9px;padding:0 6px;margin-left:4px;text-decoration:none}.pnote{font-size:14px;opacity:.8;font-style:italic}dl{margin:0}dt{margin-top:10px}dd{margin:2px 0 0}dt .he{font-size:18px;margin:0 4px}.debate{margin:0 0 14px}.debate h4{margin:0 0 4px}.sides{display:grid;gap:8px}.sides p{margin:2px 0 0}.sides>div{background:var(--card);border-radius:10px;padding:8px 12px}
-.pills .sep{width:1px;align-self:stretch;background:#8886;margin:0 6px}.pills .lbl{font-weight:700;color:var(--blue)}@media(max-width:1000px){.pills{flex-wrap:nowrap;overflow-x:auto}.pills>*{flex:none}}.chnav{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:10px 24px;background:var(--card);border-bottom:1px solid #8884}.chnav span{font-weight:600;margin-right:6px}.chnav a{display:inline-grid;place-items:center;min-width:38px;height:38px;border-radius:19px;color:var(--blue);text-decoration:none;font-weight:700;border:1.5px solid var(--blue);padding:0 8px}.chnav a.on,.chnav a:hover{background:var(--blue);color:#fff}.banner{background:#fff3cd;color:#5a4500;padding:10px 24px;font-size:14px}footer{font-size:12px;opacity:.7;padding:14px 24px;max-width:1240px;margin:auto}a{color:var(--blue)}"""
+.pills .sep{width:1px;align-self:stretch;background:#8886;margin:0 6px}.pills .lbl{font-weight:700;color:var(--blue)}@media(max-width:1000px){.pills{flex-wrap:nowrap;overflow-x:auto}.pills>*{flex:none}}.pgroup{border:1.5px solid var(--blue);border-radius:14px;padding:6px 14px 2px;margin:18px 0;background:var(--tint)}.pgroup .gh{margin:6px 0 0;font-family:Newsreader,Georgia,serif;font-size:21px;color:var(--blue)}.pgroup .gh span{font-size:15px;font-weight:400;opacity:.8}.pgroup .pic{margin:10px 0}section+section{border-top:1px solid #8888;padding-top:24px}#summary{border-top:2px solid var(--blue)}i{font-style:italic}.chnav{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:10px 24px;background:var(--card);border-bottom:1px solid #8884}.chnav span{font-weight:600;margin-right:6px}.chnav a{display:inline-grid;place-items:center;min-width:38px;height:38px;border-radius:19px;color:var(--blue);text-decoration:none;font-weight:700;border:1.5px solid var(--blue);padding:0 8px}.chnav a.on,.chnav a:hover{background:var(--blue);color:#fff}.banner{background:#fff3cd;color:#5a4500;padding:10px 24px;font-size:14px}footer{font-size:12px;opacity:.7;padding:14px 24px;max-width:1240px;margin:auto}a{color:var(--blue)}"""
 fonts = '<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">'
 HEAD_JS = '<script>(function(){var d=document.documentElement,a="y",m="i";try{a=localStorage.getItem("mAud")||a;m=localStorage.getItem("mMode")||m}catch(e){}d.dataset.aud=a;d.dataset.mode=m})()</script>'
 head_html = lambda t: f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{t}</title>{fonts}<style>{css}</style>{HEAD_JS}</head><body>{SPRITE}<svg style="position:absolute;width:0;height:0"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient></defs></svg>'
@@ -262,7 +271,7 @@ JS = r"""<script>
 (function(){
 var root=document.documentElement, sel=null;
 function $$(q,r){return [].slice.call((r||document).querySelectorAll(q))}
-function msg(fig,t,c){var m=fig.querySelector('.qmsg');if(m){m.textContent=t;m.className='qmsg qonly '+(c||'')}}
+function msg(fig,t,c){var m=fig.querySelector('.qmsg');if(m){m.innerHTML=t;m.className='qmsg qonly '+(c||'')}}
 function score(){var ok=0,n=0,done=0;$$('.v[data-mode=i]').filter(function(f){return f.offsetParent!==null&&f.querySelector('.tray')}).forEach(function(f){$$('.hot',f).forEach(function(h){n++;if(h._done)done++;if(h._first)ok++})});var e=document.getElementById('qscore');if(e)e.textContent='Quiz: '+ok+' of '+n+' right on the first try'+(done<n?' ('+(n-done)+' still to place)':'')}
 function resetQuiz(){sel=null;$$('.stage').forEach(function(st){var hs=$$('.hot',st);hs.forEach(function(h,i){st._set(i,false);h.classList.remove('ok','wrong','right','over','gave');h._t=0;h._first=false;h._done=false});$$('.qchip',st).forEach(function(c){c.classList.remove('ok','wrong','over','gave')});var f=st.parentElement;$$('.tb',f).forEach(function(b){b.classList.remove('sel')});msg(f,'')});score()}
 function select(fig,b){var same=sel&&sel.fig===fig&&sel.kind===b.dataset.k;$$('.tb.sel').forEach(function(x){x.classList.remove('sel')});if(same){sel=null;return}sel={fig:fig,kind:b.dataset.k};b.classList.add('sel')}
@@ -298,9 +307,9 @@ def leg(groups, extra=""):
 def summary_html(path, base):
     if not os.path.exists(path): return ""
     S = json.load(open(path)); refs = lambda ms: "".join(f'<a class="mref" href="#m{n}">{base}:{n}</a>' for n in ms)
-    pr = "".join(f'<li>{esc(x["t"])} <span class="refs">{refs(x["m"])}</span>' + (f'<div class="pnote">{esc(x["note"])}</div>' if x.get("note") else "") + "</li>" for x in S["principles"])
-    tm = "".join(f'<dt><b>{esc(x["term"])}</b> <span class="he" lang="he" dir="rtl">{esc(x["he"])}</span> <span class="refs">{refs(x["m"])}</span></dt><dd>{esc(x["def"])}</dd>' for x in S["terms"])
-    db = "".join(f'<div class="debate"><h4>{esc(x["title"])} <span class="refs">{refs([x["m"]])}</span></h4><div class="sides"><div><b>View 1</b><p>{esc(x["a"])}</p></div><div><b>View 2</b><p>{esc(x["b"])}</p></div></div></div>' for x in S["debates"])
+    pr = "".join(f'<li>{I(x["t"])} <span class="refs">{refs(x["m"])}</span>' + (f'<div class="pnote">{I(x["note"])}</div>' if x.get("note") else "") + "</li>" for x in S["principles"])
+    tm = "".join(f'<dt><b>{I(x["term"])}</b> <span class="he" lang="he" dir="rtl">{esc(x["he"])}</span> <span class="refs">{refs(x["m"])}</span></dt><dd>{I(x["def"])}</dd>' for x in S["terms"])
+    db = "".join(f'<div class="debate"><h4>{I(x["title"])} <span class="refs">{refs([x["m"]])}</span></h4><div class="sides"><div><b>{I(x.get("wa", "View 1"))}</b><p>{I(x["a"])}</p></div><div><b>{I(x.get("wb", "View 2"))}</b><p>{I(x["b"])}</p></div></div></div>' for x in S["debates"])
     return (f'<section id="summary"><h2>Chapter summary</h2><p class="sum">{esc(S["status"])}</p><div class="grid3">'
             f'<div class="panel aids"><h3>Key principles</h3><ol class="pr">{pr}</ol></div>'
             f'<div class="panel aids"><h3>Key terms</h3><dl>{tm}</dl></div>'
@@ -310,12 +319,12 @@ def build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
     D = json.load(open(data)); L = {m["n"]: m for m in json.load(open(layer1))["mishnayot"]}; secs = []
     for m in D["mishnayot"]:
         n = m["n"]; a = L[n]
-        ol = "".join(f'<h4>{esc(s["h"])}</h4><ul>' + "".join(f"<li>{esc(t)}</li>" for t, src in s["b"]) + "</ul>" for s in a["outline"])
+        ol = "".join(f'<h4>{esc(s["h"])}</h4><ul>' + "".join(f"<li>{I(t)}</li>" for t, src in s["b"]) + "</ul>" for s in a["outline"])
         kul = "".join("<p>" + re.sub(r"<(?!/?b>)[^>]+>", " ", k).replace("<br>", " ") + "</p>" for k in m["kulp"][1:] if k)
-        pics = "".join(fig(p) for p in (a.get("pictures") or [x for x in (a.get("picture"), a.get("picture2")) if x]))
+        pics = "".join((f'<div class="pgroup"><h4 class="gh"><i>{esc(p["group"])}</i> <span>({esc(p["gloss"])})</span></h4>' + "".join(fig(q) for q in p["pics"]) + "</div>") if isinstance(p, dict) else fig(p) for p in (a.get("pictures") or [x for x in (a.get("picture"), a.get("picture2")) if x]))
         dg = diagrams[n]() if n in diagrams else ""
         kdet = f"<details><summary>R. Kulp's commentary</summary>{kul}</details>" if kul else ""
-        secs.append(f'''<section id="m{n}"><h2>Mishnah {n}: {esc(a["title"])}</h2><p class="sum">{esc(a["summary"])}</p>
+        secs.append(f'''<section id="m{n}"><h2>Mishnah {n}: {esc(a["title"])}</h2><p class="sum">{I(a["summary"])}</p>
 <div class="grid"><div class="panel aids">{ol}{table(a.get("chart")) if n not in diagrams else ""}{('<div class="chart">'+dg+'</div>') if dg else ""}</div>
 <div class="panel text"><div class="he" lang="he" dir="rtl">{clean(m["he"])}</div><div class="en">{clean(m["en"])}</div>{pics}{kdet}</div></div></section>''')
     opts = '<div class="opts"><span><b>Illustrations for</b><span class="seg" data-key="aud"><button type="button" data-v="y">Younger</button><button type="button" data-v="o">Older</button></span></span><span><b>Mode</b><span class="seg" data-key="mode"><button type="button" data-v="s">Static</button><button type="button" data-v="i">Explore</button><button type="button" data-v="q">Quiz</button></span></span><span class="qs" id="qscore"></span></div>'

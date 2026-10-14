@@ -1,12 +1,12 @@
 """Adds the clay picture lists (file, caption) to the layer1 files of Bava Kamma 1, 2, 4, 6 (2026-10-13).
 Run AFTER write_bk_1_2.py, write_bk_4_6.py and add_charts_bk.py (they rewrite the layer1 files). Captions follow the mishnah/Kulp/Kehati outlines."""
 import json
-PICS = {1: {1: [("bk1-1a", "The ox: it drives its horn into a woman and throws her (the first of the four primary causes of injury)."),
-                ("bk1-1a2", "The ox as Shmuel reads it: damage with its foot, as it walks."),
-                ("bk1-1b", "The pit: an ox has fallen into a deep pit."),
-                ("bk1-1c", "Fire: a fire has spread from where it was kindled into the wheat."),
-                ("bk1-1d", "The crop-destroying beast (mav'eh), as Shmuel reads it: an animal that eats with its tooth."),
-                ("bk1-1d2", "The mav'eh as Rav reads it: a person who damages.")],
+PICS = {1: {1: [{"group": "Shor", "gloss": "the ox", "pics": [("bk1-1a", "As Rav reads it, the ox includes its horn: here it gores a woman."),
+                ("bk1-1a2", "As Shmuel reads it, the ox is the foot: it damages as it walks.")]},
+                {"group": "Bor", "gloss": "the pit", "pics": [("bk1-1b", "An ox has fallen into a pit and is injured.")]},
+                {"group": "Mav'eh", "gloss": "the crop-destroying beast", "pics": [("bk1-1d", "As Shmuel reads it, the mav'eh is the tooth: an animal that eats the crops."),
+                ("bk1-1d2", "As Rav reads it, the mav'eh is a person who damages: here he tears out the cabbages.")]},
+                {"group": "Hev'er", "gloss": "fire", "pics": [("bk1-1c", "Fire: a fire has spread from where it was kindled into the wheat.")]}],
            3: [("bk1-3", "The court: three judges, two witnesses, a woman who holds a broken jar and a man.")]},
         2: {1: [("bk2-1a", "The cow breaks the jar as it walks, with its foot: it is an attested danger and the owner pays full damages."),
                 ("bk2-1b", "The cow kicks the jar: that is not the usual way, so the owner pays half damages.")],
@@ -30,5 +30,5 @@ PICS = {1: {1: [("bk1-1a", "The ox: it drives its horn into a woman and throws h
                 ("bk6-6b", "The shopkeeper left his lamp outside: the shopkeeper is liable.")]}}
 for c, byn in PICS.items():
     fn = f"data/bava_kamma_{c}_layer1.json"; d = json.load(open(fn))
-    for m in d["mishnayot"]: m["pictures"] = [[f"{p}.jpg", cap] for p, cap in byn.get(m["n"], [])]
+    for m in d["mishnayot"]: m["pictures"] = [({"group": x["group"], "gloss": x["gloss"], "pics": [[f"{p}.jpg", cap] for p, cap in x["pics"]]} if isinstance(x, dict) else [f"{x[0]}.jpg", x[1]]) for x in byn.get(m["n"], [])]
     json.dump(d, open(fn, "w"), ensure_ascii=False, indent=1); print(c, sum(len(v) for v in byn.values()))
