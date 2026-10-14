@@ -377,7 +377,7 @@ def summary_html(path, base):
 HE_CH = {1, 2, 3}   # chapters that have a Hebrew page (bava-kamma-N-he.html)
 HE_RTL_CSS = ("html[dir=rtl] body{font-family:'Heebo','Public Sans',system-ui,sans-serif}html[dir=rtl] ul,html[dir=rtl] ol{padding-left:0;padding-right:24px}html[dir=rtl] td,html[dir=rtl] th{text-align:right}"
               "html[dir=rtl] .chart svg{direction:ltr}html[dir=rtl] .legend .grp{border-left:0;border-right:1px solid #8886}html[dir=rtl] .legend .grp:first-child{border-right:0;padding-right:0}"
-              "html[dir=rtl] .hot::after{content:\"הקישו\"}html[dir=rtl] .pills .sep{margin:0 6px}html[dir=rtl] .refs{white-space:nowrap}html[dir=rtl] .pnote,html[dir=rtl] figcaption{text-align:right}html[dir=rtl] .he{text-align:right}")
+              "html[dir=rtl] .grid{direction:ltr}html[dir=rtl] .grid>*{direction:rtl}html[dir=rtl] .hot::after{content:\"הקישו\"}html[dir=rtl] .pills .sep{margin:0 6px}html[dir=rtl] .refs{white-space:nowrap}html[dir=rtl] .pnote,html[dir=rtl] figcaption{text-align:right}html[dir=rtl] .he{text-align:right}")
 def map_nodes(page, fn):
     """apply fn(English string) -> Hebrew string or None to every text node and aria-label/title/alt attribute (not scripts or styles)."""
     out = []
