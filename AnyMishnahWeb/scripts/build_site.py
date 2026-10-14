@@ -430,7 +430,7 @@ def _build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
     langsw = ""
     if chn in HE_CH: langsw = f'<a class="langsw" href="bava-kamma-{chn}{"" if he else "-he"}.html" style="padding:0 12px">{"English" if he else "עברית"}</a>'
     pills = '<nav class="pills">' + chs + '<span class="sep"></span><span>Mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '<a href="#summary" style="padding:0 14px">Summary</a>' + langsw + '</nav>'
-    page = head_html(tr(title) if he else title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Draft for review, from the mishnah, R. Kulp and Kehati. <a href="{"bava-metzia" if "metzia" in outfile else "bava-kamma"}.html">All chapters</a> · <a href="index.html">All tractates</a></div>' + opts + pills + "<main>" + legend + "".join(secs) + _sum + "</main>" + foot + js.replace("__L__", HE_L if he else EN_L) + "</body></html>"
+    page = head_html(tr(title) if he else title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Draft for review, from the mishnah, R. Kulp and Kehati. <a href="index.html">All tractates</a></div>' + opts + pills + "<main>" + legend + "".join(secs) + _sum + "</main>" + foot + js.replace("__L__", HE_L if he else EN_L) + "</body></html>"
     return page
 def build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
     global LANG
@@ -476,8 +476,7 @@ def tractate_page(slug, name, he, blurb, chapters):
         rows += f'<div class="chap"><h3><a href="{slug}-{c}.html">Chapter {c}</a></h3><p class="d">{esc(desc)}</p><div class="mp"><span class="w">Mishnah</span>{pills}{hebr}</div></div>'
     more = '<p class="d">More chapters will follow.</p>'
     return (head_html(name).replace("</style>", CSS_HOME[7:-8] + "</style>", 1) + f'<header><h1>{esc(name)} <span lang="he">{he}</span></h1><div>Choose a chapter, or go straight to a mishnah</div></header><div class="banner">Draft for review, from the mishnah, R. Kulp and Kehati. <a href="index.html">All tractates</a></div><main>' + rows + more + "</main>" + foot + "</body></html>")
-for slug, name, he, blurb, chs in TRACTATES: open(f"site/{slug}.html", "w").write(tractate_page(slug, name, he, blurb, chs)); print(f"site/{slug}.html")
-cards = "".join(f'<a class="tcard" href="{slug}.html"><h2>{name}</h2><div class="hx" lang="he">{he}</div></a>' for slug, name, he, blurb, chs in TRACTATES)
+cards = "".join(f'<a class="tcard" href="{slug}-1.html"><h2>{name}</h2><div class="hx" lang="he">{he}</div></a>' for slug, name, he, blurb, chs in TRACTATES)
 open("site/index.html", "w").write(head_html("AnyMishnah").replace("</style>", CSS_HOME[7:-8] + "</style>", 1) + '<header><h1>AnyMishnah</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="tcards">' + cards + '</div></main>' + foot + "</body></html>")
 os.makedirs("data/he", exist_ok=True)
 _need = sorted(x for x in SEEN if x not in HE and not (re.fullmatch(r"[\w./#:\-]+", x) and re.search(r"[\d./#:_]", x)))
