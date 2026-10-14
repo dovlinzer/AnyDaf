@@ -31,10 +31,10 @@ TAGS = {  # pid: [(description, kind, label)]
  "bk6-1b": [("the man in the brown tunic and vest in the left foreground", "pay", "The farmer")],
  "bk6-2a": [("the woman in the brown dress standing on the road at the top", "pay-benefit", "The shepherd")],
  "bk6-2b": [("the woman in the brown dress standing at the top right", "pay", "The shepherd")],
- "bk6-4b": [("the man in the brown tunic at the right of the large fire", "pay", "The man who added the wood")],
- "bk6-4d": [("the man in the green tunic holding the torch at the left", "pay", "The man who brought the fire")],
- "bk6-6a": [("the man in the blue tunic at the right with his hands raised", "pay", "The camel's owner")],
- "bk6-6b": [("the woman in the red dress standing in the shop doorway at the left", "pay", "The shopkeeper")]}
+ "bk6-4b": [("the man in the brown tunic at the right of the large fire", "pay", "The man who added the wood"), ("the man in the green tunic at the left", "notpay", "The man who brought the fire first")],
+ "bk6-4d": [("the man in the green tunic holding the torch at the left", "pay", "The man who brought the fire last"), ("the man in the brown tunic at the right", "notpay", "The man who brought the wood first")],
+ "bk6-6a": [("the man in the blue tunic at the right with his hands raised", "pay", "The camel's owner"), ("the woman in the red dress standing in the shop at the left", "notpay", "The shopkeeper")],
+ "bk6-6b": [("the woman in the red dress standing in the shop doorway at the left", "pay", "The shopkeeper"), ("the man in the blue tunic at the right with his hands raised", "notpay", "The camel's owner")]}
 only = set(sys.argv[1:]); spec = {}
 for pid in PLAIN:
     if not only or pid in only: shutil.copy(G + pid + ".jpg", OUT + pid + ".jpg"); print("plain", pid)
@@ -47,5 +47,5 @@ for pid, items in TAGS.items():
     if pid == "bk2-3b":   # the cake's tag sat on the dog's face: move it right, clear of the dog
         hots[0]["badges"][0]["x"] = 640; hots[0]["badges"][0]["y"] = 650
         hots[1]["badges"][0]["x"] = 840; hots[1]["badges"][0]["y"] = 178   # over the sheaf, not at the picture edge
-    add(pid, im, hots, "Tap " + ("a person" if len(items) == 1 else "the cake or the stack") + " to see the ruling.")
+    add(pid, im, hots, "Tap " + ("a person" if len(items) == 1 else ("the cake or the stack" if pid == "bk2-3b" else "each person")) + " to see the ruling.")
 OVP = "data/overlays.json"; old = json.load(open(OVP)); old.update(_ns["spec"]); json.dump(old, open(OVP, "w"), indent=1); print("saved", len(old))

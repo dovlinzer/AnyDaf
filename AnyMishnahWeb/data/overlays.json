@@ -1262,26 +1262,45 @@
   "clean": "img/clean/bk6-4b.jpg",
   "w": 1264,
   "h": 848,
-  "hint": "Tap a person to see the ruling.",
+  "hint": "Tap each person to see the ruling.",
   "hotspots": [
    {
     "label": "The man who added the wood",
     "rect": [
-     355,
-     148,
-     508,
+     351,
+     151,
+     518,
      572
     ],
     "badges": [
      {
       "src": "tag-pay.png",
-      "x": 431.5,
-      "y": 150,
+      "x": 434.5,
+      "y": 153,
       "w": 104,
       "anchor": "bottom"
      }
     ],
     "answer": "pay"
+   },
+   {
+    "label": "The man who brought the fire first",
+    "rect": [
+     19,
+     158,
+     367,
+     663
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 193.0,
+      "y": 160,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
    }
   ]
  },
@@ -1289,26 +1308,45 @@
   "clean": "img/clean/bk6-4d.jpg",
   "w": 1264,
   "h": 848,
-  "hint": "Tap a person to see the ruling.",
+  "hint": "Tap each person to see the ruling.",
   "hotspots": [
    {
-    "label": "The man who brought the fire",
+    "label": "The man who brought the fire last",
     "rect": [
-     200,
-     178,
-     400,
-     650
+     198,
+     176,
+     375,
+     655
     ],
     "badges": [
      {
       "src": "tag-pay.png",
-      "x": 300.0,
-      "y": 180,
+      "x": 286.5,
+      "y": 178,
       "w": 104,
       "anchor": "bottom"
      }
     ],
     "answer": "pay"
+   },
+   {
+    "label": "The man who brought the wood first",
+    "rect": [
+     387,
+     175,
+     589,
+     580
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 488.0,
+      "y": 177,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
    }
   ]
  },
@@ -1316,26 +1354,45 @@
   "clean": "img/clean/bk6-6a.jpg",
   "w": 1264,
   "h": 848,
-  "hint": "Tap a person to see the ruling.",
+  "hint": "Tap each person to see the ruling.",
   "hotspots": [
    {
     "label": "The camel's owner",
     "rect": [
-     986,
-     314,
-     1152,
-     647
+     943,
+     263,
+     1164,
+     669
     ],
     "badges": [
      {
       "src": "tag-pay.png",
-      "x": 1069.0,
-      "y": 316,
+      "x": 1053.5,
+      "y": 265,
       "w": 104,
       "anchor": "bottom"
      }
     ],
     "answer": "pay"
+   },
+   {
+    "label": "The shopkeeper",
+    "rect": [
+     134,
+     260,
+     276,
+     547
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 205.0,
+      "y": 262,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
    }
   ]
  },
@@ -1343,26 +1400,45 @@
   "clean": "img/clean/bk6-6b.jpg",
   "w": 1264,
   "h": 848,
-  "hint": "Tap a person to see the ruling.",
+  "hint": "Tap each person to see the ruling.",
   "hotspots": [
    {
     "label": "The shopkeeper",
     "rect": [
-     126,
-     291,
-     413,
-     630
+     135,
+     274,
+     417,
+     641
     ],
     "badges": [
      {
       "src": "tag-pay.png",
-      "x": 269.5,
-      "y": 293,
+      "x": 276.0,
+      "y": 276,
       "w": 104,
       "anchor": "bottom"
      }
     ],
     "answer": "pay"
+   },
+   {
+    "label": "The camel's owner",
+    "rect": [
+     814,
+     270,
+     1175,
+     760
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 994.5,
+      "y": 272,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
    }
   ]
  },
