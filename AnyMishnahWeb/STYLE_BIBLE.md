@@ -204,3 +204,6 @@ Never ask for two moments in one picture. BK 6:4 (one adds wood, then the fire s
 2. **Parallel scenarios** (as 5:5 does for 9 and 10 handbreadths): each picture shows one actor's act, and both end in the same result.
 Test before writing a prompt: can the case be told in one frame without a 'then'? If it needs 'then', it is two pictures.
 In an edit, say where the object ENDS UP, not only what happens to it (author, 2026-10-13). 6:4b said 'the bundle of brush is burning', and the model left the bundle in the man's hands with the fire beside it. 'The brush has been laid on the fire and is burning on the ground' fixed it. If an object moves in the edit, state its new position.
+
+## Tools before a prompt goes out (2026-10-13)
+`python3 scripts/check_prompts.py <prompt files>` catches the repeat offenders (two moments, expression words that misfired, people with no expression, edits that do not open with the reference sentence or do not say where a moved object ends up, poses the model draws badly, risk words, style-block negatives). `python3 scripts/prompt_diff.py base.md new.md` shows what a new file adds or drops against an accepted one. Quiz questions live in data/quiz_questions.json: EVERY picture with a ruling gets a full question ('The farmer did not shut the sheep in properly. Does he pay if they get out and do damage?'), never just the figure's name.
