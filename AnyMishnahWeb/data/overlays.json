@@ -1258,33 +1258,6 @@
    }
   ]
  },
- "bk6-4a": {
-  "clean": "img/clean/bk6-4a.jpg",
-  "w": 1264,
-  "h": 881,
-  "hint": "Tap a person to see the ruling.",
-  "hotspots": [
-   {
-    "label": "The man who added the wood",
-    "rect": [
-     615,
-     128,
-     835,
-     790
-    ],
-    "badges": [
-     {
-      "src": "tag-pay.png",
-      "x": 725.0,
-      "y": 130,
-      "w": 104,
-      "anchor": "bottom"
-     }
-    ],
-    "answer": "pay"
-   }
-  ]
- },
  "bk6-4b": {
   "clean": "img/clean/bk6-4b.jpg",
   "w": 1264,
@@ -1304,33 +1277,6 @@
       "src": "tag-pay.png",
       "x": 431.5,
       "y": 150,
-      "w": 104,
-      "anchor": "bottom"
-     }
-    ],
-    "answer": "pay"
-   }
-  ]
- },
- "bk6-4c": {
-  "clean": "img/clean/bk6-4c.jpg",
-  "w": 1264,
-  "h": 848,
-  "hint": "Tap a person to see the ruling.",
-  "hotspots": [
-   {
-    "label": "The man who brought the fire",
-    "rect": [
-     542,
-     165,
-     744,
-     690
-    ],
-    "badges": [
-     {
-      "src": "tag-pay.png",
-      "x": 643.0,
-      "y": 167,
       "w": 104,
       "anchor": "bottom"
      }
