@@ -11,20 +11,20 @@ CAST = "(Cast for chapter 2, identical in every picture of it: the jar's or bask
 def P(wound_clay, wound_gn):
     return [  # (id, title, kind, scene, review, overlay)
 ("bk1-1a", "1:1 the ox gores (FIRST of a set; make 1:1a2 in the SAME chat)", "scene",
- "Scene: the edge of a pasture beside a dirt path, under a wide sky. A large brown ox with its head lowered drives its horn into the side of a woman in a green dress and white head covering, who is thrown sideways off her feet with her arms flung out, her mouth open and a pained, frightened expression. Exactly one ox and one woman.",
- "the horn is in contact with the woman's side; she is mid-fall and reacting; one ox, one woman", "none (a category picture: the ox)"),
+ "Scene: the edge of a pasture beside a dirt path, under a wide sky. A large brown ox with its head lowered drives its horn into the side of a woman in a green dress and white head covering, who is thrown sideways off her feet with her arms flung out, her mouth open and a pained, frightened expression. @@WOMAN@@ Exactly one ox and one woman.",
+ "the horn is in contact with the woman's side; the GASH in her side is visible; she is mid-fall and reacting; one ox, one woman", "none (a category picture: the ox)"),
 ("bk1-1a2", "1:1 the ox, as Shmuel reads it: the foot (same chat, edit of 1:1a)", "edit",
  "Using the previous picture as reference, everything is exactly the same except: there is no woman. A large clay jar stands on the path, and the ox, walking calmly with its head up, has set its front hoof down on the jar, which is cracking into pieces. Exactly one ox and one jar.",
  "no woman; one jar under the hoof; the ox walks calmly (the foot: it breaks as it walks)", "none (the Shmuel reading of 'ox')"),
 ("bk1-1b", "1:1 the pit", "scene",
- "Scene: a dirt path across a field, in daylight. Beside the path is a freshly dug round pit, deep, with earth heaped around its rim. A brown ox has fallen into the pit and stands at the bottom with its head raised and a startled expression, its front hooves against the earth wall. A man in a grey tunic stands at the rim holding a spade, with a worried expression. Exactly one ox in the pit and one man.",
- "a deep round pit, the ox at the bottom alive and looking up; the man with the spade at the rim", "none (a category picture: the pit)"),
+ "Scene: a dirt path across a field, in daylight. Beside the path is a freshly dug round pit, deep, with earth heaped around its rim. A brown ox has fallen into the pit and lies at the bottom with its head raised and a pained, startled expression, with @@OX@@. A man in a grey tunic stands at the rim holding a spade, with a worried expression. Exactly one ox in the pit and one man.",
+ "a deep round pit; the ox at the bottom visibly INJURED (the gash); the man with the spade at the rim", "none (a category picture: the pit)"),
 ("bk1-1c", "1:1 fire", "scene",
  "Scene: the edge of a field of ripe wheat at the right, in the late afternoon. In the left foreground a woman in a red dress and white head covering kneels beside a small fire she has lit on the bare ground, holding a burning stick, with an alarmed expression. A flame from the fire has reached the edge of the wheat, and the wheat is burning in a line of flames that spreads away from her into the field. Exactly one woman, one small fire and one field of wheat.",
  "the woman visibly lit the fire; the flames have crossed from her fire into the wheat and are spreading; one woman", "none (a category picture: fire)"),
 ("bk1-1d", "1:1 the crop-destroying beast (FIRST of a pair; make 1:1d2 in the SAME chat)", "scene",
- "Scene: a walled vegetable garden on a hillside. A grey goat stands among rows of cabbages and chews a cabbage, with a contented expression, and several cabbages are chewed down to stumps around it. The garden's owner, a man in a blue tunic, stands at the garden gate with both hands on his head and a dismayed expression. Exactly one goat and one man.",
- "the goat is eating the cabbages; chewed stumps visible; one man at the gate", "none (a category picture: the crop-destroying beast, the animal's tooth, as Shmuel reads it)"),
+ "Scene: an open vegetable garden on a hillside, in rows of cabbages. A grey goat stands among the rows and chews a cabbage, with a contented expression, and several cabbages are chewed down to stumps around it. The garden's owner, a man in a blue tunic, stands at the edge of the rows with both hands on his head and a dismayed expression. Exactly one goat and one man.",
+ "the goat is eating the cabbages; chewed stumps visible; NO wall or gate (the owner is liable either way); one man at the edge of the rows", "none (a category picture: the crop-destroying beast, the animal's tooth, as Shmuel reads it)"),
 ("bk1-1d2", "1:1 the crop-destroying beast, as Rav reads it: a person who damages (same chat, edit of 1:1d)", "edit",
  "Using the previous picture as reference, everything is exactly the same except: there is no goat. A man in a brown tunic stands in the cabbage rows and tears the cabbages out of the ground with both hands, with an angry expression, and torn cabbages lie around him. The garden's owner keeps the same dismayed expression. Exactly two men and no animals.",
  "no goat; a man in brown tearing out the cabbages; the owner unchanged", "none (the Rav reading of 'mav'eh': a person who damages)"),
@@ -105,6 +105,8 @@ for kind, style, wc, wg in (("clay", CLAY_STYLE, "a long open gash of pink clay 
     for pid, title, k, scene, review, overlay in P(wound, wound):
         scene = scene.replace('with its " + "wound" + "', "")
         scene = scene.replace("with its wound,", f"with {wound_short},")
+        W_ = "The horn has torn an open gash of pink clay in her side." if kind == "clay" else "The horn has torn a deep gash in her side, and blood soaks her green dress."
+        scene = scene.replace("@@WOMAN@@", W_).replace("@@OX@@", wound if kind == "clay" else "a deep gash in its flank with blood running down its side")
         txt = ("GENERAL STYLE (the same for every picture):\n" + style + "\n\nTHE SCENE TO DRAW:\n" + scene) if k == "scene" else scene
         out.append(f"\n## {pid}: {title}\n\nPASTE:\n```\n{txt}\n```\nReview: {review}.\nOverlay: {overlay}.\n")
     fn = "data/clay_prompts_bk1-6_v2.md" if kind == "clay" else "data/graphic-novel_prompts_bk1-6_v2.md"

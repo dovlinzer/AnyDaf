@@ -18,9 +18,9 @@ GENERAL STYLE (the same for every picture):
 Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
 
 THE SCENE TO DRAW:
-Scene: the edge of a pasture beside a dirt path, under a wide sky. A large brown ox with its head lowered drives its horn into the side of a woman in a green dress and white head covering, who is thrown sideways off her feet with her arms flung out, her mouth open and a pained, frightened expression. Exactly one ox and one woman.
+Scene: the edge of a pasture beside a dirt path, under a wide sky. A large brown ox with its head lowered drives its horn into the side of a woman in a green dress and white head covering, who is thrown sideways off her feet with her arms flung out, her mouth open and a pained, frightened expression. The horn has torn an open gash of pink clay in her side. Exactly one ox and one woman.
 ```
-Review: the horn is in contact with the woman's side; she is mid-fall and reacting; one ox, one woman.
+Review: the horn is in contact with the woman's side; the GASH in her side is visible; she is mid-fall and reacting; one ox, one woman.
 Overlay: none (a category picture: the ox).
 
 ## bk1-1a2: 1:1 the ox, as Shmuel reads it: the foot (same chat, edit of 1:1a)
@@ -40,9 +40,9 @@ GENERAL STYLE (the same for every picture):
 Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
 
 THE SCENE TO DRAW:
-Scene: a dirt path across a field, in daylight. Beside the path is a freshly dug round pit, deep, with earth heaped around its rim. A brown ox has fallen into the pit and stands at the bottom with its head raised and a startled expression, its front hooves against the earth wall. A man in a grey tunic stands at the rim holding a spade, with a worried expression. Exactly one ox in the pit and one man.
+Scene: a dirt path across a field, in daylight. Beside the path is a freshly dug round pit, deep, with earth heaped around its rim. A brown ox has fallen into the pit and lies at the bottom with its head raised and a pained, startled expression, with a long open gash of pink clay in its side. A man in a grey tunic stands at the rim holding a spade, with a worried expression. Exactly one ox in the pit and one man.
 ```
-Review: a deep round pit, the ox at the bottom alive and looking up; the man with the spade at the rim.
+Review: a deep round pit; the ox at the bottom visibly INJURED (the gash); the man with the spade at the rim.
 Overlay: none (a category picture: the pit).
 
 ## bk1-1c: 1:1 fire
@@ -66,9 +66,9 @@ GENERAL STYLE (the same for every picture):
 Illustration for a children's and family Mishnah study site, in the style of hand-modelled plasticine clay figures with exaggerated expressive faces, fingerprint texture, soft studio lighting, 3:2 wide format. No letters or words anywhere in the image, and no numerals. Every figure has a full face with eyes, nose and mouth. Land of Israel, 1st-century setting, simple tunics, dresses and cloaks. The sky or backdrop fills the whole background; no white background. Draw ONLY the people, animals and objects named in the scene, and exactly the number named of each.
 
 THE SCENE TO DRAW:
-Scene: a walled vegetable garden on a hillside. A grey goat stands among rows of cabbages and chews a cabbage, with a contented expression, and several cabbages are chewed down to stumps around it. The garden's owner, a man in a blue tunic, stands at the garden gate with both hands on his head and a dismayed expression. Exactly one goat and one man.
+Scene: an open vegetable garden on a hillside, in rows of cabbages. A grey goat stands among the rows and chews a cabbage, with a contented expression, and several cabbages are chewed down to stumps around it. The garden's owner, a man in a blue tunic, stands at the edge of the rows with both hands on his head and a dismayed expression. Exactly one goat and one man.
 ```
-Review: the goat is eating the cabbages; chewed stumps visible; one man at the gate.
+Review: the goat is eating the cabbages; chewed stumps visible; NO wall or gate (the owner is liable either way); one man at the edge of the rows.
 Overlay: none (a category picture: the crop-destroying beast, the animal's tooth, as Shmuel reads it).
 
 ## bk1-1d2: 1:1 the crop-destroying beast, as Rav reads it: a person who damages (same chat, edit of 1:1d)
