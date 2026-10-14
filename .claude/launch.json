@@ -4,8 +4,48 @@
     {
       "name": "dedication-form",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "7823"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "7823"
+      ],
       "port": 7823
+    },
+    {
+      "name": "outline-site-test",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "7824",
+        "--directory",
+        "/private/tmp/claude-501/-Users-dovlinzer-claudecode-AnyDaf/2536a100-f0dd-4772-9e7d-45e9a2aed914/scratchpad/site_test.small"
+      ],
+      "port": 7824
+    },
+    {
+      "name": "games-test",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "7825",
+        "--directory",
+        "/private/tmp/claude-501/-Users-dovlinzer-claudecode-AnyDaf/64c43d0a-22e5-4f18-b1c5-0e0ec85700ff/scratchpad/gsite"
+      ],
+      "port": 7825
+    },
+    {
+      "name": "hebrew-ui-test",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "7826",
+        "--directory",
+        "/private/tmp/claude-501/-Users-dovlinzer-claudecode-AnyDaf/2536a100-f0dd-4772-9e7d-45e9a2aed914/scratchpad/site_ui"
+      ],
+      "port": 7826
     }
   ]
 }

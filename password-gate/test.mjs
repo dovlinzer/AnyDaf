@@ -1,0 +1,10 @@
+import mw from "./middleware.js";
+const run = async (pw, auth) => { if (pw) process.env.SITE_PASSWORD = pw; else delete process.env.SITE_PASSWORD;
+  const r = mw(new Request("https://x.test/", { headers: auth ? { authorization: auth } : {} })); return [r.status, r.headers.get("x-middleware-next"), !!r.headers.get("www-authenticate")]; };
+const b = (u, p) => "Basic " + btoa(u + ":" + p);
+console.log("no header      ", await run("s3cret", null));
+console.log("wrong password ", await run("s3cret", b("a", "nope")));
+console.log("right password ", await run("s3cret", b("anyone", "s3cret")));
+console.log("password w/ colon", await run("a:b", b("u", "a:b")));
+console.log("garbage header ", await run("s3cret", "Basic !!!"));
+console.log("no env set     ", await run(null, b("a", "x")));
