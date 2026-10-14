@@ -37,9 +37,7 @@ def TT(s):
         en_in = en[:1].lower() + en[1:] if cap else en
         mid = html.escape(s[last:m.start()]); out.append(I(s[last:m.start()]) if False else mid)
         e1 = f"{html.escape(art_en)}{html.escape(en)} (<i>{html.escape(he)}</i>)"
-        noun = re.match(r"^harmless( (?:ox|oxen|animal|animals|one))$", en_in, re.I) if he == "tam" else None
-        if noun: h1 = f"{html.escape(art_he)}<i>{html.escape(he_first)}</i>{html.escape(noun.group(1))} (harmless)"
-        else: h1 = f"{html.escape(art_he)}<i>{html.escape(he_first)}</i> ({html.escape(en_in)})"
+        h1 = f"{html.escape(art_he)}<i>{html.escape(he_first)}</i> ({html.escape(en_in)})"   # tam and mu'ad are adjectives AND types of ox: "a harmless ox (tam)" <-> "a tam (harmless ox)"
         out.append(f'<span class="t-en">{e1}</span><span class="t-he">{h1}</span>'); last = m.end()
     out.append(html.escape(s[last:]))
     res = "".join(out)
