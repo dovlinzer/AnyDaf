@@ -32,7 +32,7 @@ Review: ONLY the act: a small fire, the brown man laying wood on it; wheat untou
 
 PASTE:
 ```
-Using the previous picture as reference, everything is exactly the same except: the bundle of brush is burning and the fire has become large, with tall flames, and the flames have spread to the wheat at the edge of the field, which is burning. Both men have stepped back and have alarmed expressions. Exactly two men, one large fire and one field of wheat.
+Using the previous picture as reference, everything is exactly the same except: the bundle of brush has been laid on the fire and is burning on the ground, and the fire has become large, with tall flames, and the flames have spread to the wheat at the edge of the field, which is burning. Both men have stepped back and have alarmed expressions. Exactly two men, one large fire and one field of wheat.
 ```
 Review: ONLY the outcome: big fire, burning wheat, both men alarmed.
 
@@ -52,6 +52,6 @@ Review: ONLY the act: the brown man (wood) waits beside it; the green man (fire)
 
 PASTE:
 ```
-Using the previous picture as reference, everything is exactly the same except: the bundle of brush is burning and the fire has become large, with tall flames, and the flames have spread to the wheat at the edge of the field, which is burning. Both men have stepped back and have alarmed expressions. Exactly two men, one large fire and one field of wheat.
+Using the previous picture as reference, everything is exactly the same except: the bundle of brush has been laid on the fire and is burning on the ground, and the fire has become large, with tall flames, and the flames have spread to the wheat at the edge of the field, which is burning. Both men have stepped back and have alarmed expressions. Exactly two men, one large fire and one field of wheat.
 ```
 Review: ONLY the outcome: big fire, burning wheat, both men alarmed.
