@@ -40,7 +40,7 @@ GENERAL STYLE (the same for every picture):
 Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given. Palette: warm, muted late-afternoon light, with ochre, olive, dusty brown and slate tones and a hazy peach or pale grey-blue sky; no bright saturated blue or green.
 
 THE SCENE TO DRAW:
-Scene: a dirt path across a field, in daylight. Beside the path is a freshly dug round pit, deep, with earth heaped around its rim. A brown ox has fallen into the pit and lies at the bottom with its head raised and a pained, startled expression, with a deep gash in its flank with blood running down its side. A man in a grey tunic stands at the rim holding a spade, with a worried expression. Exactly one ox in the pit and one man.
+Scene: a dirt path across a field, in daylight. Beside the path is a freshly dug round pit, deep, with earth heaped around its rim. A brown ox has fallen into the pit and lies at the bottom with its head raised, with a deep gash in its flank with blood running down its side. A man in a grey tunic stands at the rim holding a spade, with a worried expression. Exactly one ox in the pit and one man.
 ```
 Review: a deep round pit; the ox at the bottom visibly INJURED (the gash); the man with the spade at the rim.
 Overlay: none (a category picture: the pit).
@@ -66,7 +66,7 @@ GENERAL STYLE (the same for every picture):
 Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given. Palette: warm, muted late-afternoon light, with ochre, olive, dusty brown and slate tones and a hazy peach or pale grey-blue sky; no bright saturated blue or green.
 
 THE SCENE TO DRAW:
-Scene: an open vegetable garden on a hillside, in rows of cabbages. A grey goat stands among the rows and chews a cabbage, with a contented expression, and several cabbages are chewed down to stumps around it. The garden's owner, a man in a blue tunic, stands at the edge of the rows with both hands on his head and a dismayed expression. Exactly one goat and one man.
+Scene: an open vegetable garden on a hillside, in rows of cabbages. A grey goat stands among the rows and chews a cabbage, and several cabbages are chewed down to stumps around it. The garden's owner, a man in a blue tunic, stands at the edge of the rows with both hands on his head and a dismayed expression. Exactly one goat and one man.
 ```
 Review: the goat is eating the cabbages; chewed stumps visible; NO wall or gate (the owner is liable either way); one man at the edge of the rows.
 Overlay: none (a category picture: the crop-destroying beast, the animal's tooth, as Shmuel reads it).
@@ -75,7 +75,7 @@ Overlay: none (a category picture: the crop-destroying beast, the animal's tooth
 
 PASTE:
 ```
-Using the previous picture as reference, everything is exactly the same except: there is no goat. A man in a brown tunic stands in the cabbage rows and tears the cabbages out of the ground with both hands, with an angry expression, and torn cabbages lie around him. The garden's owner keeps the same dismayed expression. Exactly two men and no animals.
+Using the previous picture as reference, everything is exactly the same except: there is no goat. A man in a brown tunic stands in the cabbage rows and tears the cabbages out of the ground with both hands, with a focused expression, and torn cabbages lie around him. The garden's owner keeps the same dismayed expression. Exactly two men and no animals.
 ```
 Review: no goat; a man in brown tearing out the cabbages; the owner unchanged.
 Overlay: none (the Rav reading of 'mav'eh': a person who damages).
@@ -123,7 +123,7 @@ GENERAL STYLE (the same for every picture):
 Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given. Palette: warm, muted late-afternoon light, with ochre, olive, dusty brown and slate tones and a hazy peach or pale grey-blue sky; no bright saturated blue or green.
 
 THE SCENE TO DRAW:
-Scene: the walled courtyard of a house, with a house door at the back. A brown cow stands at a wooden basket full of apples and cabbages on the ground and eats from it, with a contented expression. The basket's owner, a woman in a green dress with a white head covering, stands by the house door with both hands raised to her cheeks and a dismayed expression. The cow's owner, a man in a grey tunic, stands by the open gate with a startled expression. Exactly one cow, one basket, one woman and one man.
+Scene: the walled courtyard of a house, with a house door at the back. A brown cow stands at a wooden basket full of apples and cabbages on the ground and eats from it. The basket's owner, a woman in a green dress with a white head covering, stands by the house door with both hands raised to her cheeks and a dismayed expression. The cow's owner, a man in a grey tunic, stands by the open gate with a startled expression. Exactly one cow, one basket, one woman and one man.
 ```
 Review: the cow is eating from the basket of apples and cabbages; one basket.
 Overlay: cow's owner (the man) -> pays full damages ('pay').
@@ -132,7 +132,7 @@ Overlay: cow's owner (the man) -> pays full damages ('pay').
 
 PASTE:
 ```
-Using the previous picture as reference, everything is exactly the same except: there is no basket. A folded blue cloak lies on the ground and the cow is chewing a corner of it, with the same contented expression. Exactly one cow, one cloak, one woman and one man.
+Using the previous picture as reference, everything is exactly the same except: there is no basket. A folded blue cloak lies on the ground and the cow is chewing a corner of it. Exactly one cow, one cloak, one woman and one man.
 ```
 Review: no basket; the cloak in the cow's mouth; same cast and expressions.
 Overlay: cow's owner (the man) -> pays half ('pay-half').
@@ -145,7 +145,7 @@ GENERAL STYLE (the same for every picture):
 Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given. Palette: warm, muted late-afternoon light, with ochre, olive, dusty brown and slate tones and a hazy peach or pale grey-blue sky; no bright saturated blue or green.
 
 THE SCENE TO DRAW:
-Scene: a wide stone-paved street in a town, with house walls on both sides. A wooden basket full of apples and cabbages stands in the middle of the street. A brown cow stands at the basket and eats from it, with a contented expression. A woman in a green dress with a white head covering, the basket's owner, stands at the side of the street with both hands raised to her cheeks and a dismayed expression. A man in a grey tunic, the cow's owner, stands beside the cow with a startled expression. Exactly one cow, one basket, one woman and one man.
+Scene: a wide stone-paved street in a town, with house walls on both sides. A wooden basket full of apples and cabbages stands in the middle of the street. A brown cow stands at the basket and eats from it. A woman in a green dress with a white head covering, the basket's owner, stands at the side of the street with both hands raised to her cheeks and a dismayed expression. A man in a grey tunic, the cow's owner, stands beside the cow with a startled expression. Exactly one cow, one basket, one woman and one man.
 ```
 Review: a street, not a courtyard (no gate, no house door); the basket in the middle of the street; same two outfits as 2:2a.
 Overlay: cow's owner (the man) -> does not pay ('notpay'); the mishnah adds he pays what the cow benefited: a pill may be needed.
@@ -158,7 +158,7 @@ GENERAL STYLE (the same for every picture):
 Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given. Palette: warm, muted late-afternoon light, with ochre, olive, dusty brown and slate tones and a hazy peach or pale grey-blue sky; no bright saturated blue or green.
 
 THE SCENE TO DRAW:
-Scene: the walled courtyard of a house, with a flat roof above the house door at the left. A brown dog has just jumped from the roof and lands in the courtyard among three clay jars standing in a row; two of the jars are broken and lie in pieces. The jars' owner, a woman in a green dress with a white head covering, stands by the house door with both hands raised to her cheeks and a dismayed expression. The dog's owner, a man in a grey tunic, stands by the open gate with a startled expression. Exactly one dog, three jars (two of them broken), one woman and one man.
+Scene: the front yard of a house, with a flat roof above the house door at the left. A brown dog has just jumped from the roof and lands in the yard among three clay jars standing in a row; two of the jars are broken and lie in pieces. The jars' owner, a woman in a green dress with a white head covering, stands by the house door with both hands raised to her cheeks and a dismayed expression. The dog's owner, a man in a grey tunic, stands at the right with a startled expression. Exactly one dog, three jars (two of them broken), one woman and one man.
 ```
 Review: the dog is landing among the jars; the roof is visible above the door; two jars broken, one whole.
 Overlay: dog's owner (the man) -> pays full damages ('pay').
@@ -241,7 +241,7 @@ GENERAL STYLE (the same for every picture):
 Illustration for a Mishnah study site for teenagers and adults, in the style of a mature graphic novel: confident black ink outlines of varying weight, a muted limited palette of earth tones with one accent colour, simple cell shading, expressive but realistic faces, 3:2 wide format. Land of Israel, 1st-century setting, simple tunics and cloaks. No letters, words or numerals anywhere in the image. Every figure has a full face with eyes, nose and mouth. A sky or landscape fills the whole background; no white background. Draw only the people, animals and objects named in the scene, in exactly the numbers given. Palette: warm, muted late-afternoon light, with ochre, olive, dusty brown and slate tones and a hazy peach or pale grey-blue sky; no bright saturated blue or green.
 
 THE SCENE TO DRAW:
-Scene: a hillside. At the top is a dirt road with a low stone wall along its edge. Below the road, on the slope, is a terraced garden of cabbages. Two sheep are walking along the road, and two sheep have fallen over the edge of the road wall and landed in the garden, where they are eating the cabbages. The shepherd, a woman in a brown dress, stands on the road with both hands raised in alarm. The garden's owner, a man in a blue tunic, stands beside the garden with a frown. Exactly four sheep, one shepherd and one man.
+Scene: a hillside. At the top is a dirt road. Below the road, on the steep slope, is a terraced garden of cabbages. Two sheep are walking along the road, and two sheep have fallen over the edge of the road down the slope and landed in the garden, where they are eating the cabbages. The shepherd, a woman in a brown dress, stands on the road with both hands raised in alarm. The garden's owner, a man in a blue tunic, stands beside the garden with a frown. Exactly four sheep, one shepherd and one man.
 ```
 Review: the sheep FELL from the road above into the garden below (a clear drop); two on the road, two in the garden.
 Overlay: the shepherd -> pays only what the flock benefited: needs a new badge ('pays the benefit').
