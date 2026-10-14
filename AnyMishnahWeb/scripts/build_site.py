@@ -2,10 +2,10 @@
 Pictures (site/img/bk5-*.jpg) come from compose_bk5.py. The AnyDaf sprite (site/sprite.svg) is inlined for the diagrams."""
 import html, json, re, os, sys
 # ---- Hebrew pages: LANG is 'en' (normal), 'collect' (record every English string that reaches the page) or 'he' (substitute data/he/strings.json)
-LANG = "en"; HE = {}; SEEN = set()
+LANG = "en"; HE = {}; SEEN = {}; CTX = "ui"   # SEEN: English string -> where it appears (chapter:mN, chapter:summary, ui)
 def tr(s):
     if not isinstance(s, str): return s
-    if LANG == "collect" and re.search(r"[A-Za-z]{2}", s): SEEN.add(s)
+    if LANG == "collect" and re.search(r"[A-Za-z]{2}", s): SEEN.setdefault(s, CTX)
     elif LANG == "he": return HE.get(s, s)
     return s
 SPRITE = re.sub(r"<svg class=\"sprite\"", '<svg class="sprite" style="position:absolute;width:0;height:0"', open("site/sprite.svg").read())
@@ -305,7 +305,7 @@ main{max-width:1240px;margin:auto;padding:12px 16px}section{scroll-margin-top:70
 .grid>*{min-width:0}td,th{overflow-wrap:anywhere}.panel{background:var(--card);border-radius:14px;padding:16px 20px;box-shadow:0 1px 4px #0002}.aids{background:var(--tint)}
 .he{font:24px/1.9 'Times New Roman',serif;margin-bottom:10px}.sum{font-style:italic;opacity:.8;margin:0 0 10px}
 h4{margin:12px 0 2px}ul{margin:0 0 4px;padding-left:22px}li{margin:3px 0}table{border-collapse:collapse;width:100%;font-size:17px}td,th{border:1px solid #bbb8;padding:7px 10px;text-align:left}th{background:#1b3a8a22}.chart{margin:14px 0}.chart svg{width:100%;height:auto;display:block}
-.stage{position:relative}.hot{position:absolute;background:transparent;border:2px dashed transparent;border-radius:10px;cursor:pointer;padding:0}.hot:hover,.hot:focus-visible{border-color:#1b3a8acc;background:#ffffff1f;outline:none}
+.stage{position:relative}.hot{position:absolute;background:transparent;border:2px dashed transparent;border-radius:10px;cursor:pointer;padding:0}.hot:hover,.hot:focus,.hot:focus-visible,.hot:active{border-color:transparent;background:transparent;outline:none;-webkit-tap-highlight-color:transparent}
 .hot::after{content:"tap";position:absolute;left:50%;bottom:6px;transform:translateX(-50%);background:#1b3a8acc;color:#fff;font:600 12px 'Public Sans',sans-serif;padding:2px 9px;border-radius:10px;opacity:.9;animation:tp 2.2s ease-in-out infinite}.hot[aria-pressed=true]::after{display:none}
 @keyframes tp{50%{opacity:.35}}.ov{position:absolute;height:auto;opacity:0;transform:var(--t) scale(.5);transition:opacity .25s,transform .25s;pointer-events:none;filter:drop-shadow(0 3px 4px #0006)}.ov.on{opacity:1;transform:var(--t) scale(1)}
 .hint{opacity:.85;font-style:italic}.all{margin-left:8px;font:600 12px 'Public Sans',sans-serif;border:1.5px solid var(--blue);color:var(--blue);background:var(--card);border-radius:12px;padding:1px 10px;cursor:pointer}
@@ -320,7 +320,7 @@ html[data-mode=q] .hot{border-color:transparent;background:none;pointer-events:n
 html[data-mode=q] .hot.tg::after{display:none!important}.qmsg{font-size:15px;font-weight:600;min-height:1.4em;margin-top:6px}.qmsg.good{color:#1f7a3d}.qmsg.bad{color:#b03a2e}.qbtns button{margin-left:8px;font:600 12px 'Public Sans',sans-serif;border:1.5px solid var(--blue);color:var(--blue);background:var(--card);border-radius:12px;padding:1px 10px;cursor:pointer}.qhint{font-style:italic;opacity:.85}.qs{font-weight:600}
 .opts{display:flex;gap:22px;flex-wrap:wrap;align-items:center;padding:8px 16px;background:var(--tint);border-bottom:1px solid #8884;font-size:14px}.opts b{margin-right:6px}.seg{display:inline-flex;border:1.5px solid var(--blue);border-radius:16px;overflow:hidden}.seg button{font:600 13px 'Public Sans',sans-serif;border:0;background:var(--card);color:var(--blue);padding:4px 14px;cursor:pointer}.seg button[aria-pressed=true]{background:var(--blue);color:#fff}
 .grid3{display:grid;grid-template-columns:1.25fr 1fr 1fr;gap:18px;align-items:start}@media(max-width:1000px){.grid3{grid-template-columns:1fr}}.grid3>*{min-width:0}.grid3 h3{margin:0 0 6px;font-family:Newsreader,Georgia,serif}.pr li{margin:0 0 10px}.refs{white-space:nowrap}.mref{font-size:12px;font-weight:600;background:var(--card);border:1px solid var(--blue);border-radius:9px;padding:0 6px;margin-left:4px;text-decoration:none}.pnote{font-size:14px;opacity:.8;font-style:italic}dl{margin:0}dt{margin-top:10px}dd{margin:2px 0 0}dt .he{font-size:18px;margin:0 4px}.debate{margin:0 0 14px}.debate h4{margin:0 0 4px}.sides{display:grid;gap:8px}.sides p{margin:2px 0 0}.sides>div{background:var(--card);border-radius:10px;padding:8px 12px}
-.pills .sep{width:1px;align-self:stretch;background:#8886;margin:0 6px}.pills .lbl{font-weight:700;color:var(--blue)}@media(max-width:1000px){.pills{flex-wrap:nowrap;overflow-x:auto}.pills>*{flex:none}}.pgroup{border:1.5px solid var(--blue);border-radius:14px;padding:6px 14px 2px;margin:18px 0;background:var(--tint)}.pgroup .gh{margin:6px 0 0;font-family:Newsreader,Georgia,serif;font-size:21px;color:var(--blue)}.pgroup .gh span{font-size:15px;font-weight:400;opacity:.8}.pgroup .pic{margin:10px 0}section+section{border-top:1px solid #8888;padding-top:24px}#summary{border-top:2px solid var(--blue)}i{font-style:italic}html[data-terms=en] .t-he,html[data-terms=he] .t-en{display:none}.chnav{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:10px 24px;background:var(--card);border-bottom:1px solid #8884}.chnav span{font-weight:600;margin-right:6px}.chnav a{display:inline-grid;place-items:center;min-width:38px;height:38px;border-radius:19px;color:var(--blue);text-decoration:none;font-weight:700;border:1.5px solid var(--blue);padding:0 8px}.chnav a.on,.chnav a:hover{background:var(--blue);color:#fff}.banner{background:#fff3cd;color:#5a4500;padding:10px 24px;font-size:14px}footer{font-size:12px;opacity:.7;padding:14px 24px;max-width:1240px;margin:auto}a{color:var(--blue)}"""
+.pills .sep{width:1px;align-self:stretch;background:#8886;margin:0 6px}.pills .lbl{font-weight:700;color:var(--blue)}@media(max-width:1000px){.pills{flex-wrap:nowrap;overflow-x:auto}.pills>*{flex:none}}.pgroup{border:1.5px solid var(--blue);border-radius:14px;padding:6px 14px 2px;margin:18px 0;background:var(--tint)}.pgroup .gh{margin:6px 0 0;font-family:Newsreader,Georgia,serif;font-size:21px;color:var(--blue)}.pgroup .gh span{font-size:15px;font-weight:400;opacity:.8}.pgroup .pic{margin:10px 0}section+section{border-top:1px solid #8888;padding-top:24px}#summary{border-top:2px solid var(--blue)}i{font-style:italic}.biur{margin:12px 0;background:var(--tint);border-radius:10px;padding:6px 14px}.biur summary{cursor:pointer;font-weight:700}.biur p{font-size:18px;line-height:1.85;margin:8px 0;opacity:.92}.biur p b{opacity:1}.biur-credit{font-size:12px;opacity:.7;margin:6px 0 2px}html[data-terms=en] .t-he,html[data-terms=he] .t-en{display:none}.chnav{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:10px 24px;background:var(--card);border-bottom:1px solid #8884}.chnav span{font-weight:600;margin-right:6px}.chnav a{display:inline-grid;place-items:center;min-width:38px;height:38px;border-radius:19px;color:var(--blue);text-decoration:none;font-weight:700;border:1.5px solid var(--blue);padding:0 8px}.chnav a.on,.chnav a:hover{background:var(--blue);color:#fff}.banner{background:#fff3cd;color:#5a4500;padding:10px 24px;font-size:14px}footer{font-size:12px;opacity:.7;padding:14px 24px;max-width:1240px;margin:auto}a{color:var(--blue)}"""
 fonts = '<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet">'
 HEAD_JS = '<script>(function(){var d=document.documentElement,a="y",m="i",t="en";try{a=localStorage.getItem("mAud")||a;m=localStorage.getItem("mMode")||m;t=localStorage.getItem("mTerms")||t}catch(e){}d.dataset.aud=a;d.dataset.mode=m;d.dataset.terms=t})()</script>'
 head_html = lambda t: f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>{t}</title>{fonts}<style>{css}</style>{HEAD_JS}</head><body>{SPRITE}<svg style="position:absolute;width:0;height:0"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient></defs></svg>'
@@ -399,15 +399,26 @@ def _build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
     he = LANG == "he"
     TRAY[:] = list(tray)
     D = json.load(open(data)); L = {m["n"]: m for m in json.load(open(layer1))["mishnayot"]}; secs = []; M_ = tr("Mishnah")
+    _mm = re.search(r"bava-kamma-(\d+)", outfile); chn0 = int(_mm.group(1)) if _mm else None
+    global CTX
     for m in D["mishnayot"]:
-        n = m["n"]; a = L[n]
+        n = m["n"]; a = L[n]; CTX = f"{chn0}:m{n}"
         ol = "".join(f'<h4>{esc(s["h"])}</h4><ul>' + "".join(f"<li>{TT(t)}</li>" for t, src in s["b"]) + "</ul>" for s in a["outline"])
         pics = "".join((f'<div class="pgroup"><h4 class="gh"><i>{esc(p["group"])}</i>{"" if LANG != "en" else " <span>(" + esc(p["gloss"]) + ")</span>"}</h4>' + "".join(fig(q) for q in p["pics"]) + "</div>") if isinstance(p, dict) else fig(p) for p in (a.get("pictures") or [x for x in (a.get("picture"), a.get("picture2")) if x]))
         dg = diagrams[n]() if n in diagrams else ""
         en_div = "" if LANG != "en" else f'<div class="en">{clean(m["en"])}</div>'
+        biur_div = ""
+        if LANG != "en":
+            bp = f"data/steinsaltz/bk_{chn0}_biur.json"
+            if chn0 and os.path.exists(bp) and str(n) in json.load(open(bp)):
+                ps = json.load(open(bp))[str(n)]
+                body = "".join(f"<p>{sg}</p>" for pc in ps for sg in pc["segs"])
+                biur_div = ('<details class="biur" open><summary>ביאור</summary>' + body + '<div class="biur-credit">הביאור: הרב עדין אבן־ישראל שטיינזלץ, מהדורת וויליאם דוידסון, באדיבות ספריא. בהדגשה לשון המשנה, ברגיל הביאור. '
+                            '<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.he">CC BY-NC 4.0</a></div></details>')
         secs.append(f'''<section id="m{n}"><h2>{M_} {n}: {esc(a["title"])}</h2><p class="sum">{TT(a["summary"])}</p>
 <div class="grid"><div class="panel aids">{ol}{table(a.get("chart")) if n not in diagrams else ""}{('<div class="chart">'+dg+'</div>') if dg else ""}</div>
-<div class="panel text"><div class="he" lang="he" dir="rtl">{clean(m["he"])}</div>{en_div}{pics}</div></div></section>''')
+<div class="panel text"><div class="he" lang="he" dir="rtl">{clean(m["he"])}</div>{biur_div}{en_div}{pics}</div></div></section>''')
+    CTX = f"{chn0}:summary"; _sum = summary_html(data.replace(".json", "_summary.json"), D["chapter"] if isinstance(D["chapter"], int) else str(D["chapter"]).split()[-1]); CTX = "ui"
     terms_opt = "" if LANG != "en" else '<span><b>Terms first</b><span class="seg" data-key="terms"><button type="button" data-v="en">English</button><button type="button" data-v="he">Hebrew</button></span></span>'
     opts = '<div class="opts"><span><b>Illustrations for</b><span class="seg" data-key="aud"><button type="button" data-v="y">Younger</button><button type="button" data-v="o">Older</button></span></span><span><b>Mode</b><span class="seg" data-key="mode"><button type="button" data-v="s">Static</button><button type="button" data-v="i">Explore</button><button type="button" data-v="q">Quiz</button></span></span><span class="qs" id="qscore"></span>' + terms_opt + '</div>'
     mo = re.search(r"bava-kamma-(\d+)\.html", outfile.replace("-he.html", ".html")); chn = int(mo.group(1)) if mo else None
@@ -419,7 +430,7 @@ def _build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
     langsw = ""
     if chn in HE_CH: langsw = f'<a class="langsw" href="bava-kamma-{chn}{"" if he else "-he"}.html" style="padding:0 12px">{"English" if he else "עברית"}</a>'
     pills = '<nav class="pills">' + chs + '<span class="sep"></span><span>Mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '<a href="#summary" style="padding:0 14px">Summary</a>' + langsw + '</nav>'
-    page = head_html(tr(title) if he else title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Draft for review, from the mishnah, R. Kulp and Kehati. <a href="index.html">All chapters</a></div>' + opts + pills + "<main>" + legend + "".join(secs) + summary_html(data.replace(".json", "_summary.json"), D["chapter"] if isinstance(D["chapter"], int) else str(D["chapter"]).split()[-1]) + "</main>" + foot + js.replace("__L__", HE_L if he else EN_L) + "</body></html>"
+    page = head_html(tr(title) if he else title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Draft for review, from the mishnah, R. Kulp and Kehati. <a href="index.html">All chapters</a></div>' + opts + pills + "<main>" + legend + "".join(secs) + _sum + "</main>" + foot + js.replace("__L__", HE_L if he else EN_L) + "</body></html>"
     return page
 def build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
     global LANG
@@ -427,7 +438,7 @@ def build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
     mo = re.search(r"bava-kamma-(\d+)\.html", outfile)
     if mo and int(mo.group(1)) in HE_CH:
         LANG = "collect"; cp = _build(data, layer1, diagrams, title, sub, outfile.replace(".html", "-he.html"), legend, tray)
-        map_nodes(re.sub(r"<svg.*?</svg>", "", cp, flags=re.S), lambda x: (SEEN.add(x) if re.search(r"[A-Za-z]{3}", x) else None) and None)   # SVG text is translated at source (T/multi)
+        map_nodes(re.sub(r"<svg.*?</svg>", "", cp, flags=re.S), lambda x: (SEEN.setdefault(x, "ui") if re.search(r"[A-Za-z]{3}", x) else None) and None)   # SVG text is translated at source (T/multi)
         if HE:
             LANG = "he"; hp = _build(data, layer1, diagrams, title, sub, outfile.replace(".html", "-he.html"), legend, tray); LANG = "en"
             hp = map_nodes(hp, lambda x: HE.get(x))
@@ -457,4 +468,4 @@ build("data/bava_metzia_1.json", "data/bava_metzia_1_layer1.json", DIAG_BM1, "Mi
 open("site/index.html", "w").write(head_html("AnyMishnah prototype") + '<header><h1>AnyMishnah (prototype)</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="panel"><h2>Chapters so far</h2><ul><li><a href="bava-kamma-1.html">Bava Kamma, chapter 1</a> (<a href="bava-kamma-1-he.html" lang="he">עברית</a>) (the four primary causes of injury; 4 mishnayot)</li><li><a href="bava-kamma-2.html">Bava Kamma, chapter 2</a> (<a href="bava-kamma-2-he.html" lang="he">עברית</a>) (foot, tooth, tam and mu\'ad; 6 mishnayot)</li><li><a href="bava-kamma-3.html">Bava Kamma, chapter 3</a> (<a href="bava-kamma-3-he.html" lang="he">עברית</a>) (damages in the public domain, collisions, oxen; 11 mishnayot)</li><li><a href="bava-kamma-4.html">Bava Kamma, chapter 4</a> (the goring ox, guards, an ox that kills; 9 mishnayot)</li><li><a href="bava-kamma-5.html">Bava Kamma, chapter 5</a> (pit, courtyard and ox cases; 7 mishnayot)</li><li><a href="bava-kamma-6.html">Bava Kamma, chapter 6</a> (the flock and fire; 6 mishnayot)</li><li><a href="bava-metzia-1.html">Bava Metzia, chapter 1</a> (found objects and documents; 8 mishnayot)</li></ul></div></main>' + foot + "</body></html>")
 os.makedirs("data/he", exist_ok=True)
 _need = sorted(x for x in SEEN if x not in HE and not (re.fullmatch(r"[\w./#:\-]+", x) and re.search(r"[\d./#:_]", x)))
-json.dump(_need, open("data/he/_needed.json", "w"), ensure_ascii=False, indent=1); print("Hebrew strings still needed:", len(_need))
+json.dump(_need, open("data/he/_needed.json", "w"), ensure_ascii=False, indent=1); json.dump({x: SEEN[x] for x in sorted(SEEN) if not (re.fullmatch(r"[\w./#:\-]+", x) and re.search(r"[\d./#:_]", x))}, open("data/he/_all.json", "w"), ensure_ascii=False, indent=1); print("Hebrew strings still needed:", len(_need))
