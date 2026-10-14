@@ -1,14 +1,22 @@
 """Build site/index.html and site/bava-kamma-5.html from data/bava_kamma_5.json (Sefaria) and data/bava_kamma_5_layer1.json.
 Pictures (site/img/bk5-*.jpg) come from compose_bk5.py. The AnyDaf sprite (site/sprite.svg) is inlined for the diagrams."""
-import html, json, re
+import html, json, re, os, sys
+# ---- Hebrew pages: LANG is 'en' (normal), 'collect' (record every English string that reaches the page) or 'he' (substitute data/he/strings.json)
+LANG = "en"; HE = {}; SEEN = set()
+def tr(s):
+    if not isinstance(s, str): return s
+    if LANG == "collect" and re.search(r"[A-Za-z]{2}", s): SEEN.add(s)
+    elif LANG == "he": return HE.get(s, s)
+    return s
 SPRITE = re.sub(r"<svg class=\"sprite\"", '<svg class="sprite" style="position:absolute;width:0;height:0"', open("site/sprite.svg").read())
 def clean(s): return re.sub(r"<[^>]+>", "", s or "")
-def esc(s): return html.escape(s)
+def esc(s): return html.escape(tr(s))
 # key Hebrew terms (transliterations) are shown in italics throughout; I() = escape + italicise
 KEYTERMS = ["hamotzi mechavero alav hara'ayah", "acharayut nekhasim", "avot nezikin", "av nezikin", "hichsharti", "mu'ad", "muad", "mav'eh", "hev'er", "tzrarot", "gerama", "grama", "apotropos", "simpon", "zakhah",
             "nezek", "kofer", "dayo", "tefachim", "tefach", "regel", "keren", "shen", "shor", "bor", "esh", "tam", "Baraita", "Tosefta"]
 _KT = re.compile(r"(?<![A-Za-z'\u2019])(" + "|".join(re.escape(k).replace("'", "['\u2019]") for k in sorted(KEYTERMS, key=len, reverse=True)) + r")(?![A-Za-z])", re.I)
 def I(s):
+    if LANG != "en": return html.escape(tr(s))
     out, last = [], 0
     for m in _KT.finditer(s or ""):
         out.append(html.escape(s[last:m.start()])); out.append("<i>" + html.escape(m.group(0)) + "</i>"); last = m.end()
@@ -24,6 +32,7 @@ def _art(a, he):
     w = ("An " if a[0] == "A" else "an ") if he[0] in "aeiou" else ("A " if a[0] == "A" else "a ")
     return w
 def TT(s):
+    if LANG != "en": return html.escape(tr(s))
     """escape + italic key terms; each 'English (term)' pair becomes both orders, CSS shows the chosen one."""
     s = s or ""; out, last = [], 0
     for m in _TP.finditer(s):
@@ -54,14 +63,16 @@ def _ital_outside(h):
             res.append(re.sub(_KT, lambda m: "<i>" + m.group(0) + "</i>", p_))
         else: res.append(p_)
     return "".join(res)
-def term_head(t):   # key-terms list heading: "ransom (kofer)" <-> "kofer (ransom)"
+def term_head(t):
+    if LANG != "en": return html.escape(tr(t))   # key-terms list heading: "ransom (kofer)" <-> "kofer (ransom)"
     m = re.match(r"^(.*?) \(([^()]+)\)$", t or "")
     if not m: return I(t)
     en, he = m.group(1), m.group(2)
     return f'<span class="t-en">{html.escape(en)} (<i>{html.escape(he)}</i>)</span><span class="t-he"><i>{html.escape(he)}</i> ({html.escape(en)})</span>'
 
 FONT = "Public Sans, system-ui, sans-serif"
-def T(x, y, s, size=15, w=400, fill="#1A1F2E", anchor="start"): return f'<text x="{x}" y="{y}" text-anchor="{anchor}" font-family="{FONT}" font-size="{size}" font-weight="{w}" fill="{fill}">{esc(s)}</text>'
+def _T(x, y, s, size=15, w=400, fill="#1A1F2E", anchor="start"): return f'<text x="{x}" y="{y}" text-anchor="{anchor}" font-family="{FONT}" font-size="{size}" font-weight="{w}" fill="{fill}">{html.escape(s)}</text>'
+def T(x, y, s, *a, **k): return _T(x, y, tr(s), *a, **k)
 def U(sym, x, y, w, h, color=None): return f'<use href="#{sym}" x="{x}" y="{y}" width="{w}" height="{h}"' + (f' style="color:{color}"' if color else "") + "/>"
 def badge(kind, x, y, d): return f'<image href="img/badge-{kind}.png" x="{x}" y="{y}" width="{d}" height="{d}"/>'
 def wrap(s, n):
@@ -70,11 +81,11 @@ def wrap(s, n):
         if len(cur) + len(w) + 1 > n and cur: lines.append(cur); cur = w
         else: cur = (cur + " " + w).strip()
     return lines + [cur]
-def multi(x, y, s, n, size=15, lh=19, **k): return "".join(T(x, y + i * lh, t, size, **k) for i, t in enumerate(wrap(s, n)))
+def multi(x, y, s, n, size=15, lh=19, **k): return "".join(_T(x, y + i * lh, t, size, **k) for i, t in enumerate(wrap(tr(s), n)))
 def svg(vb, body, label): return f'<svg viewBox="0 0 {vb[0]} {vb[1]}" role="img" aria-label="{esc(label)}"><rect width="{vb[0]}" height="{vb[1]}" rx="14" fill="url(#sky)"/>{body}</svg>'
 def matrix(title, cols, rows, vb_w=520, label_w=190, row_h=116, note=None, bd=62):
     """rows: (label, icon_svg_or_'', [(kind or None, caption)...]). Narrow viewBox so text renders large in the panel."""
-    cw = (vb_w - label_w - 14) / len(cols); h = 104 + row_h * len(rows) + (34 if note else 6)
+    title = tr(title); cw = (vb_w - label_w - 14) / len(cols); h = 104 + row_h * len(rows) + (34 if note else 6)
     b = multi(vb_w / 2, 34, title, 34, 19, 22, w=700, fill="#1b3a8a", anchor="middle") if len(title) > 34 else T(vb_w / 2, 36, title, 19, 700, "#1b3a8a", "middle")
     top = 54 if len(title) <= 34 else 78
     for j, c in enumerate(cols): b += f'<rect x="{label_w + j*cw}" y="{top}" width="{cw-6}" height="34" rx="8" fill="#1b3a8a"/>' + T(label_w + j * cw + cw / 2 - 3, top + 23, c, 15, 700, "#fff", "middle")
@@ -316,25 +327,25 @@ head_html = lambda t: f'<!doctype html><html lang="en"><head><meta charset="utf-
 foot = '<footer>Hebrew: Mishnah, ed. Romm, Vilna 1913 (public domain). English translation and commentary: Mishnah Yomit by R. Joshua Kulp, via Sefaria, licensed CC-BY. Outlines, charts and diagrams drafted by Claude (Anthropic) from the mishnah and R. Kulp\'s text and under review. The illustrations are AI-generated; the round symbols are interim. Prototype for discussion, not for distribution.</footer>'
 JS = r"""<script>
 (function(){
-var root=document.documentElement, sel=null;
+var root=document.documentElement, sel=null, LL=__L__;
 function $$(q,r){return [].slice.call((r||document).querySelectorAll(q))}
 function msg(fig,t,c){var m=fig.querySelector('.qmsg');if(m){m.innerHTML=t;m.className='qmsg qonly '+(c||'')}}
-function score(){var ok=0,n=0,done=0;$$('.v[data-mode=i]').filter(function(f){return f.offsetParent!==null&&f.querySelector('.tray')}).forEach(function(f){$$('.hot',f).forEach(function(h){n++;if(h._done)done++;if(h._first)ok++})});var e=document.getElementById('qscore');if(e)e.textContent='Quiz: '+ok+' of '+n+' right on the first try'+(done<n?' ('+(n-done)+' still to place)':'')}
+function score(){var ok=0,n=0,done=0;$$('.v[data-mode=i]').filter(function(f){return f.offsetParent!==null&&f.querySelector('.tray')}).forEach(function(f){$$('.hot',f).forEach(function(h){n++;if(h._done)done++;if(h._first)ok++})});var e=document.getElementById('qscore');if(e)e.textContent=LL.score(ok,n,done)}
 function resetQuiz(){sel=null;$$('.stage').forEach(function(st){var hs=$$('.hot',st);hs.forEach(function(h,i){st._set(i,false);h.classList.remove('ok','wrong','right','over','gave');h._t=0;h._first=false;h._done=false});$$('.qchip',st).forEach(function(c){c.classList.remove('ok','wrong','over','gave')});var f=st.parentElement;$$('.tb',f).forEach(function(b){b.classList.remove('sel')});msg(f,'')});score()}
 function select(fig,b){var same=sel&&sel.fig===fig&&sel.kind===b.dataset.k;$$('.tb.sel').forEach(function(x){x.classList.remove('sel')});if(same){sel=null;return}sel={fig:fig,kind:b.dataset.k};b.classList.add('sel')}
-function finished(st){var hs=$$('.hot',st);if(hs.every(function(h){return h._done})){var ok=hs.filter(function(h){return h._first}).length;if(hs.length>1){var q=st.parentElement.querySelector('.qmsg');if(q)q.textContent+=' All placed: '+ok+' of '+hs.length+' right on the first try.'}}}
+function finished(st){var hs=$$('.hot',st);if(hs.every(function(h){return h._done})){var ok=hs.filter(function(h){return h._first}).length;if(hs.length>1){var q=st.parentElement.querySelector('.qmsg');if(q)q.textContent+=' '+LL.allPlaced(ok,hs.length)}}}
 function nearest(st,x,y){var best=-1,bd=1e9,ba=1e9,R=st.getBoundingClientRect();if(x<R.left-24||x>R.right+24||y<R.top-24||y>R.bottom+24)return null;st._hs.forEach(function(h,i){var r=h.getBoundingClientRect(),dx=Math.max(r.left-x,0,x-r.right),dy=Math.max(r.top-y,0,y-r.bottom),d=Math.hypot(dx,dy),a=r.width*r.height;if(d<bd-0.5||(Math.abs(d-bd)<=0.5&&a<ba)){best=i;bd=d;ba=a}});if(st._hs.length>1&&bd>140)return null;return best<0?null:st._hs[best]}
 function mark0(st,h){var c=chip(st,h);if(c)c.classList.remove('over')}
 function chip(st,h){return st.querySelector('.qchip[data-h="'+st._hs.indexOf(h)+'"]')}
 function mark(st,h,cls,ms){var c=chip(st,h);if(!c)return;c.classList.add(cls);if(ms)setTimeout(function(){c.classList.remove(cls)},ms)}
-function place(st,h,k){if(h._done)return;var fig=st.parentElement,i=st._hs.indexOf(h);if(k===h.dataset.ans){h._first=!(h._t>0);h._done=true;st._set(i,true);h.classList.add('ok','right');mark(st,h,'ok');setTimeout(function(){h.classList.remove('right')},900);msg(fig,(h._first?'Right!':'Right, on another try.')+(h.dataset.pr?' The principle: '+h.dataset.pr:''),'good');finished(st)}else{h._t=(h._t||0)+1;h.classList.add('wrong');mark(st,h,'wrong',500);setTimeout(function(){h.classList.remove('wrong')},500);msg(fig,'Not that one. Look at the picture again and try another badge.','bad')}score()}
+function place(st,h,k){if(h._done)return;var fig=st.parentElement,i=st._hs.indexOf(h);if(k===h.dataset.ans){h._first=!(h._t>0);h._done=true;st._set(i,true);h.classList.add('ok','right');mark(st,h,'ok');setTimeout(function(){h.classList.remove('right')},900);msg(fig,(h._first?LL.right:LL.rightLater)+(h.dataset.pr?' '+LL.principle+' '+h.dataset.pr:''),'good');finished(st)}else{h._t=(h._t||0)+1;h.classList.add('wrong');mark(st,h,'wrong',500);setTimeout(function(){h.classList.remove('wrong')},500);msg(fig,LL.wrong,'bad')}score()}
 $$('.seg').forEach(function(g){var k=g.dataset.key,K={aud:'mAud',mode:'mMode',terms:'mTerms'}[k];function sync(){$$('button',g).forEach(function(b){b.setAttribute('aria-pressed',b.dataset.v===root.dataset[k])})}sync();$$('button',g).forEach(function(b){b.addEventListener('click',function(){root.dataset[k]=b.dataset.v;try{localStorage.setItem(K,b.dataset.v)}catch(e){}sync();if(k==='mode')resetQuiz();else if(k==='aud')score()})})});
 $$('.stage').forEach(function(st){var hs=$$('.hot',st),fig=st.parentElement;function set(i,on){hs[i].setAttribute('aria-pressed',on);$$('.ov[data-h="'+i+'"]',st).forEach(function(o){o.classList.toggle('on',on)})}st._set=set;st._hs=hs;
-hs.forEach(function(h,i){h.addEventListener('click',function(){if(root.dataset.mode==='q'){if(!sel||sel.fig!==fig){msg(fig,'Pick a badge from the tray first, then tap where it belongs.','');return}place(st,h,sel.kind)}else set(i,h.getAttribute('aria-pressed')!=='true')})});
-st.addEventListener('click',function(e){if(root.dataset.mode!=='q'||e.target.closest&&e.target.closest('.hot')&&e.detail===0)return;if(!sel||sel.fig!==fig){msg(fig,'Pick a badge from the tray first, then tap where it belongs.','');return}var h=nearest(st,e.clientX,e.clientY);if(!h){msg(fig,'Tap on the part of the picture you mean.','');return}place(st,h,sel.kind)});
-var btn=fig.querySelector('.all');if(btn)btn.addEventListener('click',function(){var on=btn.textContent==='Show all';hs.forEach(function(_,i){set(i,on)});btn.textContent=on?'Hide all':'Show all'});
+hs.forEach(function(h,i){h.addEventListener('click',function(){if(root.dataset.mode==='q'){if(!sel||sel.fig!==fig){msg(fig,LL.pick,'');return}place(st,h,sel.kind)}else set(i,h.getAttribute('aria-pressed')!=='true')})});
+st.addEventListener('click',function(e){if(root.dataset.mode!=='q'||e.target.closest&&e.target.closest('.hot')&&e.detail===0)return;if(!sel||sel.fig!==fig){msg(fig,LL.pick,'');return}var h=nearest(st,e.clientX,e.clientY);if(!h){msg(fig,LL.tapPart,'');return}place(st,h,sel.kind)});
+var btn=fig.querySelector('.all');if(btn)btn.addEventListener('click',function(){var on=btn.dataset.on!=='1';hs.forEach(function(_,i){set(i,on)});btn.dataset.on=on?'1':'';btn.textContent=on?LL.hideAll:LL.showAll});
 var show=fig.querySelector('.qshow'),rs=fig.querySelector('.qreset');
-if(show)show.addEventListener('click',function(){hs.forEach(function(h,i){if(!h._done){h._done=true;h._first=false;set(i,true);h.classList.add('ok','gave');mark(st,h,'ok');mark(st,h,'gave')}});msg(fig,'Answers shown.','');score()});
+if(show)show.addEventListener('click',function(){hs.forEach(function(h,i){if(!h._done){h._done=true;h._first=false;set(i,true);h.classList.add('ok','gave');mark(st,h,'ok');mark(st,h,'gave')}});msg(fig,LL.shown,'');score()});
 if(rs)rs.addEventListener('click',function(){sel=null;hs.forEach(function(h,i){set(i,false);h.classList.remove('ok','wrong','right','over','gave');h._t=0;h._first=false;h._done=false});$$('.qchip',st).forEach(function(c){c.classList.remove('ok','wrong','over','gave')});$$('.tb',fig).forEach(function(b){b.classList.remove('sel')});msg(fig,'');score()});
 $$('.tb',fig).forEach(function(b){
 b.addEventListener('click',function(e){if(e.detail===0&&root.dataset.mode==='q')select(fig,b)});
@@ -347,6 +358,8 @@ var L=$$('.pills a[href^="#"]');var io=new IntersectionObserver(function(es){es.
 resetQuiz();
 })();
 </script>"""
+EN_L = "{pick:'Pick a badge from the tray first, then tap where it belongs.',tapPart:'Tap on the part of the picture you mean.',right:'Right!',rightLater:'Right, on another try.',principle:'The principle:',wrong:'Not that one. Look at the picture again and try another badge.',shown:'Answers shown.',hideAll:'Hide all',showAll:'Show all',score:function(ok,n,d){return 'Quiz: '+ok+' of '+n+' right on the first try'+(d<n?' ('+(n-d)+' still to place)':'')},allPlaced:function(ok,n){return 'All placed: '+ok+' of '+n+' right on the first try.'}}"
+HE_L = "{pick:'בחרו תחילה סמל מהמגש, ואז הקישו היכן הוא שייך.',tapPart:'הקישו על החלק בתמונה שאתם מתכוונים אליו.',right:'נכון!',rightLater:'נכון, בניסיון נוסף.',principle:'העיקרון:',wrong:'לא זה. הביטו שוב בתמונה ונסו סמל אחר.',shown:'התשובות מוצגות.',hideAll:'הסתר הכול',showAll:'הצג הכול',score:function(ok,n,d){return 'חידון: '+ok+' מתוך '+n+' נכונים בניסיון הראשון'+(d<n?' (עוד '+(n-d)+' להצבה)':'')},allPlaced:function(ok,n){return 'כולם הוצבו: '+ok+' מתוך '+n+' נכונים בניסיון הראשון.'}}"
 js = JS
 def leg(groups, extra=""):
     g = "".join('<div class="grp">' + "".join(f'<span><img class="b{" wide" if k.startswith("pay-") else ""}" src="img/badge-{k}.png" alt=""><span class="t"><b>{esc(a)}</b> {esc(b)}</span></span>' for k, a, b in grp) + "</div>" for grp in groups)
@@ -357,33 +370,71 @@ def summary_html(path, base):
     pr = "".join(f'<li>{TT(x["t"])} <span class="refs">{refs(x["m"])}</span>' + (f'<div class="pnote">{TT(x["note"])}</div>' if x.get("note") else "") + "</li>" for x in S["principles"])
     tm = "".join(f'<dt><b>{term_head(x["term"])}</b> <span class="he" lang="he" dir="rtl">{esc(x["he"])}</span> <span class="refs">{refs(x["m"])}</span></dt><dd>{TT(x["def"])}</dd>' for x in S["terms"])
     db = "".join(f'<div class="debate"><h4>{I(x["title"])} <span class="refs">{refs([x["m"]])}</span></h4><div class="sides"><div><b>{I(x.get("wa", "View 1"))}</b><p>{TT(x["a"])}</p></div><div><b>{I(x.get("wb", "View 2"))}</b><p>{TT(x["b"])}</p></div></div></div>' for x in S["debates"])
-    return (f'<section id="summary"><h2>Chapter summary</h2><p class="sum">{esc(S["status"])}</p><div class="grid3">'
+    return (f'<section id="summary"><h2>Chapter summary</h2><p class="sum">{esc("Draft for review. The outlines are in our own words, from the mishnah, Kehati and R. Kulp.")}</p><div class="grid3">'
             f'<div class="panel aids"><h3>Key principles</h3><ol class="pr">{pr}</ol></div>'
             f'<div class="panel aids"><h3>Key terms</h3><dl>{tm}</dl></div>'
             f'<div class="panel aids"><h3>Key debates</h3>{db}</div></div></section>')
-def build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
+HE_CH = {1, 2, 3}   # chapters that have a Hebrew page (bava-kamma-N-he.html)
+HE_RTL_CSS = ("html[dir=rtl] body{font-family:'Heebo','Public Sans',system-ui,sans-serif}html[dir=rtl] ul,html[dir=rtl] ol{padding-left:0;padding-right:24px}html[dir=rtl] td,html[dir=rtl] th{text-align:right}"
+              "html[dir=rtl] .chart svg{direction:ltr}html[dir=rtl] .legend .grp{border-left:0;border-right:1px solid #8886}html[dir=rtl] .legend .grp:first-child{border-right:0;padding-right:0}"
+              "html[dir=rtl] .hot::after{content:\"הקישו\"}html[dir=rtl] .pills .sep{margin:0 6px}html[dir=rtl] .refs{white-space:nowrap}html[dir=rtl] .pnote,html[dir=rtl] figcaption{text-align:right}html[dir=rtl] .he{text-align:right}")
+def map_nodes(page, fn):
+    """apply fn(English string) -> Hebrew string or None to every text node and aria-label/title/alt attribute (not scripts or styles)."""
+    out = []
+    for part in re.split(r"(<script.*?</script>|<style.*?</style>)", page, flags=re.S):
+        if part.startswith("<script") or part.startswith("<style"): out.append(part); continue
+        res = []
+        for pc in re.split(r"(<[^>]*>)", part):
+            if pc.startswith("<"):
+                def at(m):
+                    raw = html.unescape(m.group(2)); t = fn(raw)
+                    return m.group(0) if t is None else f'{m.group(1)}="{html.escape(t)}"'
+                res.append(re.sub(r'(aria-label|title|alt)="([^"]*)"', at, pc))
+            else:
+                st = pc.strip(); t = fn(html.unescape(st)) if st else None
+                res.append(pc.replace(st, html.escape(t), 1) if t is not None else pc)
+        out.append("".join(res))
+    return "".join(out)
+def _build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
+    he = LANG == "he"
     TRAY[:] = list(tray)
-    D = json.load(open(data)); L = {m["n"]: m for m in json.load(open(layer1))["mishnayot"]}; secs = []
+    D = json.load(open(data)); L = {m["n"]: m for m in json.load(open(layer1))["mishnayot"]}; secs = []; M_ = tr("Mishnah")
     for m in D["mishnayot"]:
         n = m["n"]; a = L[n]
         ol = "".join(f'<h4>{esc(s["h"])}</h4><ul>' + "".join(f"<li>{TT(t)}</li>" for t, src in s["b"]) + "</ul>" for s in a["outline"])
-        kul = "".join("<p>" + re.sub(r"<(?!/?b>)[^>]+>", " ", k).replace("<br>", " ") + "</p>" for k in m["kulp"][1:] if k)
-        pics = "".join((f'<div class="pgroup"><h4 class="gh"><i>{esc(p["group"])}</i> <span>({esc(p["gloss"])})</span></h4>' + "".join(fig(q) for q in p["pics"]) + "</div>") if isinstance(p, dict) else fig(p) for p in (a.get("pictures") or [x for x in (a.get("picture"), a.get("picture2")) if x]))
+        pics = "".join((f'<div class="pgroup"><h4 class="gh"><i>{esc(p["group"])}</i>{"" if LANG != "en" else " <span>(" + esc(p["gloss"]) + ")</span>"}</h4>' + "".join(fig(q) for q in p["pics"]) + "</div>") if isinstance(p, dict) else fig(p) for p in (a.get("pictures") or [x for x in (a.get("picture"), a.get("picture2")) if x]))
         dg = diagrams[n]() if n in diagrams else ""
-        kdet = f"<details><summary>R. Kulp's commentary</summary>{kul}</details>" if kul else ""
-        secs.append(f'''<section id="m{n}"><h2>Mishnah {n}: {esc(a["title"])}</h2><p class="sum">{TT(a["summary"])}</p>
+        en_div = "" if LANG != "en" else f'<div class="en">{clean(m["en"])}</div>'
+        secs.append(f'''<section id="m{n}"><h2>{M_} {n}: {esc(a["title"])}</h2><p class="sum">{TT(a["summary"])}</p>
 <div class="grid"><div class="panel aids">{ol}{table(a.get("chart")) if n not in diagrams else ""}{('<div class="chart">'+dg+'</div>') if dg else ""}</div>
-<div class="panel text"><div class="he" lang="he" dir="rtl">{clean(m["he"])}</div><div class="en">{clean(m["en"])}</div>{pics}{kdet}</div></div></section>''')
-    opts = '<div class="opts"><span><b>Illustrations for</b><span class="seg" data-key="aud"><button type="button" data-v="y">Younger</button><button type="button" data-v="o">Older</button></span></span><span><b>Mode</b><span class="seg" data-key="mode"><button type="button" data-v="s">Static</button><button type="button" data-v="i">Explore</button><button type="button" data-v="q">Quiz</button></span></span><span class="qs" id="qscore"></span><span><b>Terms first</b><span class="seg" data-key="terms"><button type="button" data-v="en">English</button><button type="button" data-v="he">Hebrew</button></span></span></div>'
-    mo = re.search(r"bava-kamma-(\d+)\.html", outfile)
-    if mo: chs = '<span class="lbl">Bava Kamma, chapter</span>' + "".join(f'<a href="bava-kamma-{c}.html"' + (' class="on" aria-current="page"' if int(mo.group(1)) == c else '') + f'>{c}</a>' for c in range(1, 7))
+<div class="panel text"><div class="he" lang="he" dir="rtl">{clean(m["he"])}</div>{en_div}{pics}</div></div></section>''')
+    terms_opt = "" if LANG != "en" else '<span><b>Terms first</b><span class="seg" data-key="terms"><button type="button" data-v="en">English</button><button type="button" data-v="he">Hebrew</button></span></span>'
+    opts = '<div class="opts"><span><b>Illustrations for</b><span class="seg" data-key="aud"><button type="button" data-v="y">Younger</button><button type="button" data-v="o">Older</button></span></span><span><b>Mode</b><span class="seg" data-key="mode"><button type="button" data-v="s">Static</button><button type="button" data-v="i">Explore</button><button type="button" data-v="q">Quiz</button></span></span><span class="qs" id="qscore"></span>' + terms_opt + '</div>'
+    mo = re.search(r"bava-kamma-(\d+)\.html", outfile.replace("-he.html", ".html")); chn = int(mo.group(1)) if mo else None
+    sfx = lambda c: "-he" if (he and c in HE_CH) else ""
+    if mo: chs = '<span class="lbl">Bava Kamma, chapter</span>' + "".join(f'<a href="bava-kamma-{c}{sfx(c)}.html"' + (' class="on" aria-current="page"' if chn == c else '') + f'>{c}</a>' for c in range(1, 7))
     else: chs = f'<span class="lbl">{esc(title.replace("Mishnah ", ""))}</span>'
-    chnav = ""   # chapter and mishnah selectors share one sticky bar (below), so the tractate and chapter stay visible while scrolling
     haspics = any((a_.get("pictures") or a_.get("picture")) for a_ in L.values())
-    if not haspics: opts = '<div class="opts"><span><b>Terms first</b><span class="seg" data-key="terms"><button type="button" data-v="en">English</button><button type="button" data-v="he">Hebrew</button></span></span></div>'; legend = ""
-    pills = '<nav class="pills">' + chs + '<span class="sep"></span><span>Mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '<a href="#summary" style="padding:0 14px">Summary</a></nav>'
-    page = head_html(title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Draft for review, from the mishnah, R. Kulp and Kehati. <a href="index.html">All chapters</a></div>' + chnav + opts + pills + "<main>" + legend + "".join(secs) + summary_html(data.replace(".json", "_summary.json"), D["chapter"] if isinstance(D["chapter"], int) else str(D["chapter"]).split()[-1]) + "</main>" + foot + js + "</body></html>"
-    open(outfile, "w").write(page); print(outfile, len(page))
+    if not haspics: opts = '<div class="opts">' + terms_opt + '</div>' if terms_opt else ""; legend = ""
+    langsw = ""
+    if chn in HE_CH: langsw = f'<a class="langsw" href="bava-kamma-{chn}{"" if he else "-he"}.html" style="padding:0 12px">{"English" if he else "עברית"}</a>'
+    pills = '<nav class="pills">' + chs + '<span class="sep"></span><span>Mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '<a href="#summary" style="padding:0 14px">Summary</a>' + langsw + '</nav>'
+    page = head_html(tr(title) if he else title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Draft for review, from the mishnah, R. Kulp and Kehati. <a href="index.html">All chapters</a></div>' + opts + pills + "<main>" + legend + "".join(secs) + summary_html(data.replace(".json", "_summary.json"), D["chapter"] if isinstance(D["chapter"], int) else str(D["chapter"]).split()[-1]) + "</main>" + foot + js.replace("__L__", HE_L if he else EN_L) + "</body></html>"
+    return page
+def build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
+    global LANG
+    LANG = "en"; page = _build(data, layer1, diagrams, title, sub, outfile, legend, tray); open(outfile, "w").write(page); print(outfile, len(page))
+    mo = re.search(r"bava-kamma-(\d+)\.html", outfile)
+    if mo and int(mo.group(1)) in HE_CH:
+        LANG = "collect"; cp = _build(data, layer1, diagrams, title, sub, outfile.replace(".html", "-he.html"), legend, tray)
+        map_nodes(re.sub(r"<svg.*?</svg>", "", cp, flags=re.S), lambda x: (SEEN.add(x) if re.search(r"[A-Za-z]{3}", x) else None) and None)   # SVG text is translated at source (T/multi)
+        if HE:
+            LANG = "he"; hp = _build(data, layer1, diagrams, title, sub, outfile.replace(".html", "-he.html"), legend, tray); LANG = "en"
+            hp = map_nodes(hp, lambda x: HE.get(x))
+            hp = hp.replace('<html lang="en">', '<html lang="he" dir="rtl">').replace("</style>", HE_RTL_CSS + "</style>", 1).replace("</head>", '<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;600;700&display=swap" rel="stylesheet"></head>', 1)
+            open(outfile.replace(".html", "-he.html"), "w").write(hp); print(outfile.replace(".html", "-he.html"), len(hp))
+    LANG = "en"
+if os.path.exists("data/he/strings.json"): HE.update(json.load(open("data/he/strings.json")))
 TRAY_BKH = [("pay", "pays"), ("notpay", "does not pay"), ("pay-half", "pays half"), ("pay-benefit", "pays what it benefited")]
 TRAY_BK = [("pay", "pays"), ("notpay", "does not pay"), ("pay-half", "pays half"), ("pay-quarter", "pays a quarter")]
 TRAY_BK3 = [("pay", "pays"), ("notpay", "does not pay"), ("keeps", "keeps it")]
@@ -403,4 +454,7 @@ build("data/bava_kamma_3.json", "data/bava_kamma_3_layer1.json", {}, "Mishnah Ba
       leg([PAY, [("keeps", "keeps it", "")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a picture or a person to see the ruling.</span></span></div>' + QL), tray=TRAY_BK3)
 build("data/bava_metzia_1.json", "data/bava_metzia_1_layer1.json", DIAG_BM1, "Mishnah Bava Metzia, chapter 1", "Outlines, charts and pictures", "site/bava-metzia-1.html",
       leg([[("keeps", "keeps it", ""), ("noclaim", "has no claim", "")], [("return", "returns it", ""), ("noreturn", "does not return it", "")], [("hold", "holds it", ""), ("follow", "follows the simpon", "(the attached note)")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a picture, a box or a person to see the ruling.</span></span></div>' + QL), tray=TRAY_BM)
-open("site/index.html", "w").write(head_html("AnyMishnah prototype") + '<header><h1>AnyMishnah (prototype)</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="panel"><h2>Chapters so far</h2><ul><li><a href="bava-kamma-1.html">Bava Kamma, chapter 1</a> (the four primary causes of injury; 4 mishnayot)</li><li><a href="bava-kamma-2.html">Bava Kamma, chapter 2</a> (foot, tooth, tam and mu\'ad; 6 mishnayot)</li><li><a href="bava-kamma-3.html">Bava Kamma, chapter 3</a> (damages in the public domain, collisions, oxen; 11 mishnayot)</li><li><a href="bava-kamma-4.html">Bava Kamma, chapter 4</a> (the goring ox, guards, an ox that kills; 9 mishnayot)</li><li><a href="bava-kamma-5.html">Bava Kamma, chapter 5</a> (pit, courtyard and ox cases; 7 mishnayot)</li><li><a href="bava-kamma-6.html">Bava Kamma, chapter 6</a> (the flock and fire; 6 mishnayot)</li><li><a href="bava-metzia-1.html">Bava Metzia, chapter 1</a> (found objects and documents; 8 mishnayot)</li></ul></div></main>' + foot + "</body></html>")
+open("site/index.html", "w").write(head_html("AnyMishnah prototype") + '<header><h1>AnyMishnah (prototype)</h1><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="panel"><h2>Chapters so far</h2><ul><li><a href="bava-kamma-1.html">Bava Kamma, chapter 1</a> (<a href="bava-kamma-1-he.html" lang="he">עברית</a>) (the four primary causes of injury; 4 mishnayot)</li><li><a href="bava-kamma-2.html">Bava Kamma, chapter 2</a> (<a href="bava-kamma-2-he.html" lang="he">עברית</a>) (foot, tooth, tam and mu\'ad; 6 mishnayot)</li><li><a href="bava-kamma-3.html">Bava Kamma, chapter 3</a> (<a href="bava-kamma-3-he.html" lang="he">עברית</a>) (damages in the public domain, collisions, oxen; 11 mishnayot)</li><li><a href="bava-kamma-4.html">Bava Kamma, chapter 4</a> (the goring ox, guards, an ox that kills; 9 mishnayot)</li><li><a href="bava-kamma-5.html">Bava Kamma, chapter 5</a> (pit, courtyard and ox cases; 7 mishnayot)</li><li><a href="bava-kamma-6.html">Bava Kamma, chapter 6</a> (the flock and fire; 6 mishnayot)</li><li><a href="bava-metzia-1.html">Bava Metzia, chapter 1</a> (found objects and documents; 8 mishnayot)</li></ul></div></main>' + foot + "</body></html>")
+os.makedirs("data/he", exist_ok=True)
+_need = sorted(x for x in SEEN if x not in HE and not (re.fullmatch(r"[\w./#:\-]+", x) and re.search(r"[\d./#:_]", x)))
+json.dump(_need, open("data/he/_needed.json", "w"), ensure_ascii=False, indent=1); print("Hebrew strings still needed:", len(_need))
