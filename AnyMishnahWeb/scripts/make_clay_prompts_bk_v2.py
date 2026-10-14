@@ -27,4 +27,4 @@ out = ["# Bava Kamma clay prompts v2 (2026-10-13): changed pictures only\n"]
 for pid, title, k, scene, review in ITEMS:
     txt = ("GENERAL STYLE (the same for every picture):\n" + CLAY + "\n\nTHE SCENE TO DRAW:\n" + scene) if k == "scene" else scene
     out.append(f"\n## {pid}: {title}\n\nPASTE:\n```\n{txt}\n```\nReview: {review}.\n")
-open("data/clay_prompts_bk1-6_v2.md", "w").write("".join(out)); print("ok")
+open("data/clay_prompts_bk1-6_v2_changed.md", "w").write("".join(out)); print("ok")

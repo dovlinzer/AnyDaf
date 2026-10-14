@@ -887,5 +887,537 @@
     "answer": "pay"
    }
   ]
+ },
+ "bk2-1a": {
+  "clean": "img/clean/bk2-1a.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the cow",
+    "rect": [
+     953,
+     195,
+     1099,
+     545
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 1026.0,
+      "y": 197,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk2-1b": {
+  "clean": "img/clean/bk2-1b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the cow",
+    "rect": [
+     947,
+     188,
+     1144,
+     570
+    ],
+    "badges": [
+     {
+      "src": "tag-pay-half.png",
+      "x": 1045.5,
+      "y": 190,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay-half"
+   }
+  ]
+ },
+ "bk2-2a": {
+  "clean": "img/clean/bk2-2a.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the cow",
+    "rect": [
+     843,
+     175,
+     1144,
+     858
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 993.5,
+      "y": 177,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk2-2b": {
+  "clean": "img/clean/bk2-2b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the cow",
+    "rect": [
+     846,
+     174,
+     1162,
+     743
+    ],
+    "badges": [
+     {
+      "src": "tag-pay-half.png",
+      "x": 1004.0,
+      "y": 176,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay-half"
+   }
+  ]
+ },
+ "bk2-2c": {
+  "clean": "img/clean/bk2-2c.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the cow",
+    "rect": [
+     915,
+     222,
+     1184,
+     858
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 1049.5,
+      "y": 224,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
+ },
+ "bk2-3a": {
+  "clean": "img/clean/bk2-3a.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the dog",
+    "rect": [
+     839,
+     257,
+     1100,
+     688
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 969.5,
+      "y": 259,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk2-3b": {
+  "clean": "img/clean/bk2-3b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap the cake or the stack to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The cake",
+    "rect": [
+     389,
+     683,
+     505,
+     761
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 640,
+      "y": 650,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   },
+   {
+    "label": "The stack",
+    "rect": [
+     1023,
+     171,
+     1274,
+     503
+    ],
+    "badges": [
+     {
+      "src": "tag-pay-half.png",
+      "x": 840,
+      "y": 178,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay-half"
+   }
+  ]
+ },
+ "bk2-6": {
+  "clean": "img/clean/bk2-6.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The man who slept",
+    "rect": [
+     53,
+     405,
+     572,
+     688
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 312.5,
+      "y": 407,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk4-4a": {
+  "clean": "img/clean/bk4-4a.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the brown ox",
+    "rect": [
+     1008,
+     318,
+     1145,
+     735
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 1076.5,
+      "y": 320,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
+ },
+ "bk4-4b": {
+  "clean": "img/clean/bk4-4b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The owner of the brown ox",
+    "rect": [
+     854,
+     243,
+     1016,
+     695
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 935.0,
+      "y": 245,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk6-1a": {
+  "clean": "img/clean/bk6-1a.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The farmer",
+    "rect": [
+     358,
+     319,
+     564,
+     743
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 461.0,
+      "y": 321,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
+ },
+ "bk6-1b": {
+  "clean": "img/clean/bk6-1b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The farmer",
+    "rect": [
+     305,
+     313,
+     553,
+     743
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 429.0,
+      "y": 315,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk6-2b": {
+  "clean": "img/clean/bk6-2b.jpg",
+  "w": 1264,
+  "h": 873,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The shepherd",
+    "rect": [
+     738,
+     127,
+     892,
+     457
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 815.0,
+      "y": 129,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk6-4a": {
+  "clean": "img/clean/bk6-4a.jpg",
+  "w": 1264,
+  "h": 881,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The man who added the wood",
+    "rect": [
+     615,
+     128,
+     835,
+     790
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 725.0,
+      "y": 130,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk6-4b": {
+  "clean": "img/clean/bk6-4b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The man who added the wood",
+    "rect": [
+     355,
+     148,
+     508,
+     572
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 431.5,
+      "y": 150,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk6-4c": {
+  "clean": "img/clean/bk6-4c.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The man who brought the fire",
+    "rect": [
+     542,
+     165,
+     744,
+     690
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 643.0,
+      "y": 167,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk6-4d": {
+  "clean": "img/clean/bk6-4d.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The man who brought the fire",
+    "rect": [
+     200,
+     178,
+     400,
+     650
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 300.0,
+      "y": 180,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk6-6a": {
+  "clean": "img/clean/bk6-6a.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The camel's owner",
+    "rect": [
+     986,
+     314,
+     1152,
+     647
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 1069.0,
+      "y": 316,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
+ },
+ "bk6-6b": {
+  "clean": "img/clean/bk6-6b.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The shopkeeper",
+    "rect": [
+     126,
+     291,
+     413,
+     630
+    ],
+    "badges": [
+     {
+      "src": "tag-pay.png",
+      "x": 269.5,
+      "y": 293,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay"
+   }
+  ]
  }
 }
