@@ -14,14 +14,14 @@ OUT, G = "site/img/", "data/generated_originals/clay/"
 def make_tag(kind):   # disc with a small pointer below (same as build_overlays.py)
     d = Image.open(f"{OUT}badge-{kind}.png").convert("RGBA"); S = d.width; im = Image.new("RGBA", (S, d.height + 34), (0, 0, 0, 0)); im.paste(d, (0, 0), d)
     ImageDraw.Draw(im).polygon([(S // 2 - 15, d.height - 3), (S // 2 + 15, d.height - 3), (S // 2, d.height + 32)], fill=(247, 237, 218, 255), outline=(150, 105, 80, 255)); im.save(f"{OUT}tag-{kind}.png")
-make_tag("pay-half")
-PLAIN = ["bk1-1a", "bk1-1a2", "bk1-1b", "bk1-1c", "bk1-1d", "bk1-1d2", "bk1-3", "bk6-2a", "bk6-4a", "bk6-4c"]  # 6:4a/c: nothing has happened yet (act only), so no ruling or quiz; the ruling is on 6:4b/d
+make_tag("pay-half"); make_tag("pay-benefit")
+PLAIN = ["bk1-1a", "bk1-1a2", "bk1-1b", "bk1-1c", "bk1-1d", "bk1-1d2", "bk1-3", "bk6-4a", "bk6-4c"]  # 6:4a/c: nothing has happened yet (act only), so no ruling or quiz; the ruling is on 6:4b/d
 TAGS = {  # pid: [(description, kind, label)]
  "bk2-1a": [("the man in the grey tunic at the gate on the right", "pay", "The owner of the cow")],
  "bk2-1b": [("the man in the grey tunic at the gate on the right", "pay-half", "The owner of the cow")],
  "bk2-2a": [("the man in the grey tunic and head cloth standing in the doorway on the right", "pay", "The owner of the cow")],
  "bk2-2b": [("the man in the grey tunic and head cloth standing in the doorway on the right", "pay-half", "The owner of the cow")],
- "bk2-2c": [("the man in the grey tunic on the right", "notpay", "The owner of the cow")],
+ "bk2-2c": [("the man in the grey tunic on the right", "pay-benefit", "The owner of the cow")],
  "bk2-3a": [("the man in the grey tunic at the right doorway", "pay", "The owner of the dog")],
  "bk2-3b": [("the round flat cake on the plate under the dog's mouth", "pay", "The cake"), ("the tall stack of wheat sheaves at the right", "pay-half", "The stack")],
  "bk2-6": [("the man in the brown tunic lying asleep on the mat", "pay", "The man who slept")],
@@ -29,6 +29,7 @@ TAGS = {  # pid: [(description, kind, label)]
  "bk4-4b": [("the man in the blue tunic at the right", "pay", "The owner of the brown ox")],
  "bk6-1a": [("the man in the brown tunic and vest in the left foreground", "notpay", "The farmer")],
  "bk6-1b": [("the man in the brown tunic and vest in the left foreground", "pay", "The farmer")],
+ "bk6-2a": [("the woman in the brown dress standing on the road at the top", "pay-benefit", "The shepherd")],
  "bk6-2b": [("the woman in the brown dress standing at the top right", "pay", "The shepherd")],
  "bk6-4b": [("the man in the brown tunic at the right of the large fire", "pay", "The man who added the wood")],
  "bk6-4d": [("the man in the green tunic holding the torch at the left", "pay", "The man who brought the fire")],

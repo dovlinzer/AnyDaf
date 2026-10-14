@@ -318,7 +318,7 @@ def build(data, layer1, diagrams, title, sub, outfile, legend, tray=()):
     pills = '<nav class="pills">' + chs + '<span class="sep"></span><span>Mishnah</span>' + "".join(f'<a href="#m{m["n"]}">{m["n"]}</a>' for m in D["mishnayot"]) + '<a href="#summary" style="padding:0 14px">Summary</a></nav>'
     page = head_html(title) + f'<header><h1>{esc(title)}</h1><div>{esc(sub)}</div></header><div class="banner">Draft for review, from the mishnah, R. Kulp and Kehati. <a href="index.html">All chapters</a></div>' + chnav + opts + pills + "<main>" + legend + "".join(secs) + summary_html(data.replace(".json", "_summary.json"), D["chapter"] if isinstance(D["chapter"], int) else str(D["chapter"]).split()[-1]) + "</main>" + foot + js + "</body></html>"
     open(outfile, "w").write(page); print(outfile, len(page))
-TRAY_BKH = [("pay", "pays"), ("notpay", "does not pay"), ("pay-half", "pays half")]
+TRAY_BKH = [("pay", "pays"), ("notpay", "does not pay"), ("pay-half", "pays half"), ("pay-benefit", "pays what it benefited")]
 TRAY_BK = [("pay", "pays"), ("notpay", "does not pay"), ("pay-half", "pays half"), ("pay-quarter", "pays a quarter")]
 TRAY_BK3 = [("pay", "pays"), ("notpay", "does not pay"), ("keeps", "keeps it")]
 TRAY_BM = [("keeps", "keeps it"), ("noclaim", "has no claim"), ("return", "returns it"), ("noreturn", "does not return it"), ("hold", "holds it"), ("follow", "follows the simpon"), ("half-half", "splits in half"), ("3q-1q", "three quarters and a quarter")]
@@ -326,11 +326,11 @@ QL = '<div class="grp qlegend"><span><span class="t"><b>Quiz:</b> drag the right
 PAY = [("pay", "pays", "(is liable)"), ("notpay", "does not pay", "(is exempt)")]
 build("data/bava_kamma_1.json", "data/bava_kamma_1_layer1.json", DIAG_BK1, "Mishnah Bava Kamma, chapter 1", "Outlines, charts and summary", "site/bava-kamma-1.html", "")
 build("data/bava_kamma_2.json", "data/bava_kamma_2_layer1.json", DIAG_BK2, "Mishnah Bava Kamma, chapter 2", "Outlines, charts and summary", "site/bava-kamma-2.html",
-      leg([PAY, [("pay-half", "pays half", "")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a person or an object to see the ruling.</span></span></div>' + QL), tray=TRAY_BKH)
+      leg([PAY, [("pay-half", "pays half", ""), ("pay-benefit", "pays what it benefited", "")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a person or an object to see the ruling.</span></span></div>' + QL), tray=TRAY_BKH)
 build("data/bava_kamma_4.json", "data/bava_kamma_4_layer1.json", DIAG_BK4, "Mishnah Bava Kamma, chapter 4", "Outlines, charts and summary", "site/bava-kamma-4.html",
-      leg([PAY, [("pay-half", "pays half", "")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a person or an object to see the ruling.</span></span></div>' + QL), tray=TRAY_BKH)
+      leg([PAY, [("pay-half", "pays half", ""), ("pay-benefit", "pays what it benefited", "")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a person or an object to see the ruling.</span></span></div>' + QL), tray=TRAY_BKH)
 build("data/bava_kamma_6.json", "data/bava_kamma_6_layer1.json", DIAG_BK6, "Mishnah Bava Kamma, chapter 6", "Outlines, charts and summary", "site/bava-kamma-6.html",
-      leg([PAY, [("pay-half", "pays half", "")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a person or an object to see the ruling.</span></span></div>' + QL), tray=TRAY_BKH)
+      leg([PAY, [("pay-half", "pays half", ""), ("pay-benefit", "pays what it benefited", "")]], '<div class="grp ionly"><span><span class="t"><b>Tap</b> a person or an object to see the ruling.</span></span></div>' + QL), tray=TRAY_BKH)
 build("data/bava_kamma_5.json", "data/bava_kamma_5_layer1.json", DIAG_BK5, "Mishnah Bava Kamma, chapter 5", "Outlines, charts and pictures", "site/bava-kamma-5.html",
       leg([PAY, [("pay-half", "pays half", ""), ("pay-quarter", "pays a quarter", "")]], '<div class="grp"><span><span class="t">A <b>?</b> between two boxes: the two possibilities the mishnah decides between.</span></span></div><div class="grp ionly"><span><span class="t"><b>Tap</b> a picture, a box or a person to see the ruling.</span></span></div>' + QL), tray=TRAY_BK)
 build("data/bava_kamma_3.json", "data/bava_kamma_3_layer1.json", {}, "Mishnah Bava Kamma, chapter 3", "Outlines, charts and pictures", "site/bava-kamma-3.html",

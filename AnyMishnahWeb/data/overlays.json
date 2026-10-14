@@ -1005,21 +1005,21 @@
    {
     "label": "The owner of the cow",
     "rect": [
-     915,
+     903,
      222,
-     1184,
+     1188,
      858
     ],
     "badges": [
      {
-      "src": "tag-notpay.png",
-      "x": 1049.5,
+      "src": "tag-pay-benefit.png",
+      "x": 1045.5,
       "y": 224,
       "w": 104,
       "anchor": "bottom"
      }
     ],
-    "answer": "notpay"
+    "answer": "pay-benefit"
    }
   ]
  },
@@ -1363,6 +1363,33 @@
      }
     ],
     "answer": "pay"
+   }
+  ]
+ },
+ "bk6-2a": {
+  "clean": "img/clean/bk6-2a.jpg",
+  "w": 1264,
+  "h": 871,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The shepherd",
+    "rect": [
+     711,
+     126,
+     972,
+     464
+    ],
+    "badges": [
+     {
+      "src": "tag-pay-benefit.png",
+      "x": 841.5,
+      "y": 128,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "pay-benefit"
    }
   ]
  }
