@@ -48,8 +48,8 @@ if __name__ == "__main__":
     out = ["# Prompt audit (" + os.path.basename(sys.argv[1]) + ")\n"]; flagged = []
     for pid, t, a in res:
         out.append(f"\n## {pid}: {t}\nVerdict: {a['verdict']}\n")
-        out.append("Key facts:\n" + "".join(f"- [{k['visible'].upper()}] {k['fact']} ({k['note']})\n" for k in a["key_facts"]))
-        out.append("Extraneous:\n" + ("".join(f"- [{e['severity'].upper()}] {e['element']}: {e['why']} -> {e['fix']}\n" for e in a["extraneous"]) or "- none\n"))
-        MAJ = [e for e in a["extraneous"] if e["severity"] == "major"]; NO = [k for k in a["key_facts"] if k["visible"] != "yes"]
+        out.append("Key facts:\n" + "".join(f"- [{str(k.get('visible','no')).upper()}] {k.get('fact','?')} ({k.get('note','')})\n" for k in a["key_facts"]))
+        out.append("Extraneous:\n" + ("".join(f"- [{str(e.get('severity','minor')).upper()}] {e.get('element','?')}: {e.get('why','')} -> {e.get('fix','')}\n" for e in a["extraneous"]) or "- none\n"))
+        MAJ = [e for e in a["extraneous"] if e.get("severity") == "major"]; NO = [k for k in a["key_facts"] if k.get("visible") != "yes"]
         if MAJ or NO: flagged.append(pid)
     open("data/prompt_audit.md", "w").write("".join(out)); print("wrote data/prompt_audit.md", len(res), "audited;", len(flagged), "need attention:", ", ".join(flagged)); sys.exit(1 if flagged else 0)
