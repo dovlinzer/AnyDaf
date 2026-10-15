@@ -517,6 +517,8 @@ def main():
     (out / "api").mkdir(exist_ok=True)            # Vercel functions: page scans, SoundCloud tracks
     for f in (HERE / "api").glob("*.js"):
         (out / "api" / f.name).write_text(f.read_text(encoding="utf-8"), encoding="utf-8")
+    for logo in ("yct-logo-color.png", "yct-logo-white.png"):
+        (out / logo).write_bytes((HERE / logo).read_bytes())
     (out / "pages.json").write_text(json.dumps(pages_index(pages), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     if args.feedback:
         html = html.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex, nofollow">', 1)

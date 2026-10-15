@@ -22,6 +22,13 @@ __RENDERER_CSS__
 __GAMES_CSS__
 #pwin{width:min(640px,calc(100vw - 32px));height:min(640px,calc(100% - 120px));right:72px;top:96px}
 #pwin .adg{flex:1}
+.brand{flex:none;display:flex;align-items:center;gap:14px;padding:6px 16px;border-bottom:1px solid var(--line);background:var(--panel)}
+.brand img{height:34px;width:auto;display:block}
+.brand .bw{display:none}
+.brand h1{font:600 1.3rem/1.2 var(--serif);margin:0;color:var(--ink);letter-spacing:.01em}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .brand .bc{display:none}:root:not([data-theme="light"]) .brand .bw{display:block}}
+:root[data-theme="dark"] .brand .bc{display:none}:root[data-theme="dark"] .brand .bw{display:block}
+@media (max-width:860px){.brand{padding:5px 12px;gap:10px}.brand img{height:28px}.brand h1{font-size:1.1rem}}
 .bar{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--line);background:var(--panel)}
 .bar h1{font:600 1.25rem/1.2 var(--serif);margin:0 8px 0 0;white-space:nowrap}
 .bar h1 small{font:500 12px var(--sans);color:var(--muted);margin-left:8px;letter-spacing:.02em}
@@ -353,6 +360,7 @@ dialog.fb .fine{font-size:12px;color:var(--muted);margin:8px 0 0}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
 </style>
 __SPRITE__
+<div class="brand"><a href="https://www.yctorah.org" target="_blank" rel="noopener" aria-label="Yeshivat Chovevei Torah"><img class="bc" src="yct-logo-color.png" alt="YCT"><img class="bw" src="yct-logo-white.png" alt="" aria-hidden="true"></a><h1>Illustrated Talmud</h1></div>
 <div class="bar">
  <div class="nav" role="group" aria-label="Choose a daf">
   <button class="navb" id="prevDaf" type="button" aria-label="Previous daf" title="Previous daf (←)">‹</button>
