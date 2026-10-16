@@ -1920,7 +1920,7 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   always show), plus "Open all" / "Collapse all" (`.ado-foldbar`); the inline "At a glance" is
   dropped in this mode. A jump to a section (click on it, a Gemara line, a pill) opens it
   (`view.open`). **To revert:** Settings → uncheck "Collapsible outline" (`prefs.collapse=false`,
-  reloads), or change the default in app.html (`collapsible:prefs.collapse!==false`). The ▶ play
+  reloads), or change the default in app.html (`collapsible:prefs.collapse!==false`). Each daf opens folded unless Settings → "Start with sections open" (`prefs.foldOpen`, default off). The ▶ play
   buttons on headings are off (`PLAY_BUTTONS=false` in app.html). The text side defaults to 40% of
   the width (`--gemw`, and a first italmud.com visit), i.e. a 60/40 split.
   The outline's per-section note (`flag`, e.g. "Gemara text only") is hidden on the page (`.ado-flag`).
