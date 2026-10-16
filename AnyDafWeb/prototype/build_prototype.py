@@ -24,6 +24,7 @@ from dotenv import load_dotenv
 
 HERE = Path(__file__).resolve().parent
 DP = HERE.parent.parent / "daf-processor"
+SUMMARIES = (lambda f: json.loads(f.read_text(encoding="utf-8")) if f.exists() else {})(DP / "outline" / "daf_summaries.json")
 sys.path.insert(0, str(DP))
 from build_outline_review import clean_svg, uniquify_ids  # noqa: E402
 from upload_to_supabase import parse_dir_name  # noqa: E402
@@ -425,6 +426,8 @@ def build_daf(spec, src, pages, out):
             "tractateHe": TRACTATE_HE.get(tractate, tractate),
             "amudim": shown, "amudHe": {a: amud_he(a) for a in shown}, "images": images, "layouts": layouts,
             "outline": outline, "keyTerms": terms, "items": items, "order": order, "shiur": shiur,
+            # one-sentence summary of the daf, shown under its title above the outline (drafts, 2026-10-16)
+            "summary": (SUMMARIES.get(key) if not (outline or {}).get("lang") == "he" else None),
             # Sages: the outline's own list when it has one, else the name-matching pilot's guesses;
             # read from daf-processor's local files in both --source modes for now.
             "sages": sages_panel(key, outline) or []}

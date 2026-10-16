@@ -2,7 +2,7 @@
  * page defines (web app, or the WebView wrapper in the phone apps), with fallbacks here. */
 .ado{
   --ado-ink:var(--ink,#1A1F2E);--ado-muted:var(--muted,#5B6478);--ado-line:var(--line,#DCE0EA);
-  --ado-panel:var(--panel,#FFFFFF);--ado-blue:var(--blue,#1B3A8A);--ado-teal:var(--teal,#2C6A6E);
+  --ado-panel:var(--panel,#FFFFFF);--ado-l2:var(--l2,#3A62A8);--ado-blue:var(--blue,#1B3A8A);--ado-teal:var(--teal,#2C6A6E);
   --ado-teal-line:var(--teal-line,#B9D3D4);--ado-amber:var(--amber,#9A6212);--ado-amber-soft:var(--amber-soft,#FBF1DF);
   --ado-grey-soft:var(--grey-soft,#EEF0F4);--ado-link:var(--link,#6B4FA0);--ado-term:var(--term,#E4EAF8);
   --ado-current:var(--current,#1B3A8A);--ado-ok:var(--ok,#24592E);--ado-no:var(--no,#8C2F2F);
@@ -12,8 +12,8 @@
   color:var(--ado-ink);font:15px/1.55 var(--ado-sans)
 }
 .ado .ado-node{display:flex;flex-direction:column;gap:6px;scroll-margin-top:12px;position:relative}
-.ado .ado-l1{margin-top:28px}
-.ado .ado-l1:first-child{margin-top:4px}
+.ado .ado-l1{margin-top:34px;padding-top:24px;border-top:1px solid var(--ado-line)}
+.ado .ado-l1:first-child,.ado .ado-foldbar+.ado-l1{margin-top:4px;padding-top:0;border-top:0}
 .ado .ado-l2{margin-top:16px;padding-inline-start:16px;border-inline-start:2px solid var(--ado-line)}
 .ado .ado-l3,.ado .ado-l4,.ado .ado-l5{margin-top:14px;padding-inline-start:14px;border-inline-start:2px solid var(--ado-teal-line)}
 .ado .ado-l4,.ado .ado-l5{border-inline-start-style:dotted}
@@ -22,7 +22,7 @@
 .ado .ado-head{display:flex;gap:6px 10px;align-items:baseline;flex-wrap:wrap;cursor:pointer}
 .ado .ado-t{margin:0;text-wrap:balance}
 .ado .ado-l1>.ado-head .ado-t{font:600 1.35rem/1.25 var(--ado-serif);color:var(--ado-blue)}
-.ado .ado-l2>.ado-head .ado-t{font:italic 500 1.12rem/1.3 var(--ado-serif)}
+.ado .ado-l2>.ado-head .ado-t{font:italic 500 1.12rem/1.3 var(--ado-serif);color:var(--ado-l2)}
 .ado .ado-l3>.ado-head .ado-t{font:600 12.5px/1.35 var(--ado-sans);letter-spacing:.06em;text-transform:uppercase;color:var(--ado-teal)}
 .ado .ado-l4>.ado-head .ado-t,.ado .ado-l5>.ado-head .ado-t{font:500 13.5px/1.35 var(--ado-sans);color:var(--ado-teal)}
 .ado .ado-amud{font:600 11px var(--ado-sans);letter-spacing:.06em;text-transform:uppercase;color:var(--ado-muted);border:1px solid var(--ado-line);border-radius:4px;padding:1px 6px;font-variant-numeric:tabular-nums}
@@ -128,7 +128,9 @@
 .ado .ado-fold[aria-expanded="true"]::before{transform:rotate(90deg)}
 .ado[dir="rtl"] .ado-fold[aria-expanded="true"]::before{transform:rotate(-90deg)}
 .ado .ado-fold:hover{color:var(--ado-blue);background:var(--ado-line)}
-.ado.ado-collapsible .ado-node{margin-top:.35em}
+.ado.ado-collapsible .ado-node:not(.ado-l1){margin-top:.35em}
+.ado.ado-collapsible .ado-l1{margin-top:22px;padding-top:16px}
 .ado .ado-foldbar{display:flex;gap:6px;margin:0 0 10px}
 .ado .ado-foldbar button{font:500 12px var(--ado-sans);border:1px solid var(--ado-line);background:var(--ado-panel);color:var(--ado-ink);padding:4px 11px;border-radius:999px;cursor:pointer}
 .ado .ado-foldbar button:hover{border-color:var(--ado-blue);color:var(--ado-blue)}
+.ado.ado-collapsible .ado-foldbar+.ado-l1{margin-top:4px;padding-top:0}

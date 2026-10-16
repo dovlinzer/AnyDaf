@@ -1924,6 +1924,15 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   buttons on headings are off (`PLAY_BUTTONS=false` in app.html). The text side defaults to 40% of
   the width (`--gemw`, and a first italmud.com visit), i.e. a 60/40 split.
   The outline's per-section note (`flag`, e.g. "Gemara text only") is hidden on the page (`.ado-flag`).
+  Same day: the outline opens with the daf's title and a one-sentence summary ("Discussion of: A;
+  B; and C.", `#outHead`), from `daf-processor/outline/daf_summaries.json` (keyed by base daf key;
+  `build_prototype.py` adds it to each data file as `summary`; not shown for Hebrew outlines).
+  **Drafts for the author's review:** Chagigah 6 and BM 10 are his own examples, the other 39 were
+  written by hand from the outlines' sections, no API. If kept, the outline pass should generate
+  them (a `summary` field). Top-level sections now get a dividing line and more space above;
+  second-level headings are blue (`--l2` / `--ado-l2`). The Resources count is a round badge (it
+  counts items tagged to this daf; the window also lists nearby and tractate-wide ones), and the
+  "Nothing in the library is tagged to…" line is gone.
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).

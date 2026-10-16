@@ -5,10 +5,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;1,6..72,500&family=Public+Sans:wght@400;500;600&family=Frank+Ruhl+Libre:wght@400;500;700&family=Assistant:wght@400;600;700&display=swap">
 <style>
-:root{--ground:#F4F5F9;--panel:#FFFFFF;--ink:#1A1F2E;--muted:#5B6478;--line:#DCE0EA;--blue:#1B3A8A;--teal:#2C6A6E;--teal-line:#B9D3D4;--amber:#9A6212;--amber-soft:#FBF1DF;--grey-soft:#EEF0F4;--link:#6B4FA0;--term:#E4EAF8;--current:#1B3A8A;--range:#EAF0FB;--range-edge:#1B3A8A;--shadow:0 12px 40px rgba(20,30,60,.18);--audio-bg:#E6EEFC;--audio-line:#C5D4F2;--gem-bg:#F8F6F1;
+:root{--ground:#F4F5F9;--panel:#FFFFFF;--ink:#1A1F2E;--muted:#5B6478;--line:#DCE0EA;--blue:#1B3A8A;--teal:#2C6A6E;--teal-line:#B9D3D4;--amber:#9A6212;--amber-soft:#FBF1DF;--grey-soft:#EEF0F4;--link:#6B4FA0;--term:#E4EAF8;--current:#1B3A8A;--range:#EAF0FB;--range-edge:#1B3A8A;--shadow:0 12px 40px rgba(20,30,60,.18);--audio-bg:#E6EEFC;--audio-line:#C5D4F2;--l2:#3A62A8;--gem-bg:#F8F6F1;
 --serif:"Newsreader",Georgia,"Times New Roman",serif;--sans:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--hebrew:"Frank Ruhl Libre","Times New Roman",serif}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--ok:#7CC48A;--no:#EE8F8F;--audio-bg:#1A2744;--gem-bg:#1B1E26;--audio-line:#2C3D63}}
-:root[data-theme="dark"]{color-scheme:dark;--ok:#7CC48A;--no:#EE8F8F;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--audio-bg:#1A2744;--gem-bg:#1B1E26;--audio-line:#2C3D63}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--ok:#7CC48A;--no:#EE8F8F;--audio-bg:#1A2744;--l2:#A6C2EE;--gem-bg:#1B1E26;--audio-line:#2C3D63}}
+:root[data-theme="dark"]{color-scheme:dark;--ok:#7CC48A;--no:#EE8F8F;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--audio-bg:#1A2744;--l2:#A6C2EE;--gem-bg:#1B1E26;--audio-line:#2C3D63}
 html,body{height:100%}
 /* the height Safari actually shows, toolbars and all, so the audio bar at the foot isn't hidden under them */
 @supports (height:100dvh){body{height:100dvh}}
@@ -290,7 +290,13 @@ body.dragging{cursor:col-resize;user-select:none}
 .res .rs.audio{background:var(--amber-soft);color:var(--amber)}
 .res .rd{font:500 11.5px var(--sans);color:var(--teal);margin-inline-start:6px}
 .rlist .none{color:var(--muted);font-size:13.5px;margin:12px 0}
-#resBtn .n{font-size:11px;opacity:.75;margin-inline-start:4px}
+.outhead{margin:0 0 18px;padding-bottom:14px;border-bottom:1px solid var(--line)}
+.outhead h1{margin:0;font:600 1.7rem/1.2 var(--serif);color:var(--blue)}
+.outhead p{margin:8px 0 0;font:15px/1.55 var(--serif);color:var(--muted)}
+.outhead p b{font-weight:600;color:var(--ink)}
+html[lang="he"] .outhead h1,html[lang="he"] .outhead p{font-family:var(--hebrew)}
+#resBtn .n{display:inline-block;min-width:18px;box-sizing:border-box;margin-inline-start:6px;padding:0 6px;border-radius:999px;background:var(--blue);color:var(--panel);font:600 11px/18px var(--sans);text-align:center;vertical-align:1px}
+#resBtn[aria-pressed="true"] .n{background:var(--panel);color:var(--blue)}
 /* "Outline" joins the Daf / Gemara / Shiur switch only on a phone, where one side shows at a time. */
 .seg .ph{display:none}
 /* On wide screens the options sit in the bar as they always did; on a phone they fold behind
@@ -494,7 +500,7 @@ __SPRITE__
 <div class="main" id="main" data-view="both">
  <nav class="railp" aria-label="At a glance"><div class="railtop"><button class="btn" id="railClose" type="button" aria-label="Close Contents">Close</button></div><div class="zoomable" id="rail"></div></nav>
  <div class="col" id="outCol">
-  <div class="pane" id="outPane"><div class="out zoomable" id="outZoom"><div class="terms" id="terms"></div><div id="outline"><p class="loading">Loading…</p></div></div></div>
+  <div class="pane" id="outPane"><div class="out zoomable" id="outZoom"><header class="outhead" id="outHead" hidden><h1 id="outTitle"></h1><p id="outSum" hidden></p></header><div class="terms" id="terms"></div><div id="outline"><p class="loading">Loading…</p></div></div></div>
   <div class="foot" id="outFoot"></div>
   <button class="backaud" id="backOut" type="button" hidden>↩ Back to the audio</button>
   <div class="gutter g-gem" id="gGem" role="separator" aria-orientation="vertical" aria-label="Resize the text side" title="Drag to resize · double-click to reset"></div>
@@ -613,7 +619,7 @@ const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='
 const RTL=UI==='he';
 const HEW={
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
- "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
+ "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
  'Beside the outline':'לצד המתווה','Gemara':'גמרא','Shiur':'שיעור',
  'Articles, teshuvot and shiurim from the YCT Torah Library on this daf':'מאמרים, תשובות ושיעורים על הדף מספריית התורה של ישיבת חובבי תורה (באנגלית)',
@@ -720,6 +726,9 @@ function renderDaf(d){
  // The contents list's depth is one setting shared by its two copies (side column, top of outline).
  const gd=prefs.glanceDepth||2,onDepth=n=>{prefs.glanceDepth=n;savePrefs();view&&view.setGlanceDepth(n);railView&&railView.setDepth(n)};
  if(d.outline){
+  // the daf's title and one-sentence summary frame the outline
+  $('outTitle').textContent=RTL?dispTitle(d):d.title.replace(/ \([^)]*\)$/,'');
+  const sm=d.summary||'';$('outSum').hidden=!sm;$('outSum').innerHTML=sm?md(sm).replace(/^(Discussions? of:)/,'<b>$1</b>'):'';$('outHead').hidden=false;
   view=AnyDafOutline.render($('outline'),{outline:d.outline,keyTerms:terms,onTerm:i=>openGloss(i),onSection:id=>setCurrent(id,true),glanceDepth:gd,onGlanceDepth:onDepth,
    glanceOpen:prefs.glanceOpen===true,onGlanceOpen:o=>{prefs.glanceOpen=o;savePrefs()},
    sages:d.sages||[],onSage:i=>openSage(i),collapsible:prefs.collapse!==false});
@@ -727,6 +736,7 @@ function renderDaf(d){
   applyOptions();
   secs=view.sections.map(s=>({...s,a:d.order[s.from],b:d.order[s.to],am:firstAmud(s)}));
  }else{
+  $('outHead').hidden=true;
   // Every daf will get an outline; until then the text side is the whole page.
   view=null;railView=null;secs=[];$('rail').innerHTML='';$('outline').classList.remove('ado');
   const enOut=RTL&&(OUT_ALL[navAt.t+'|'+navAt.n]||[])[0];
@@ -1279,7 +1289,7 @@ async function showResources(){if(!D)return;const d=D,daf=dafNumOf(d);
   const pic=a.img?`<span class="rimg"><img src="${esc(a.img)}" alt="" loading="lazy" onerror="this.parentNode.remove()">${a.isAudio?'<span class="rplay" aria-hidden="true">▶</span>':''}</span>`:'';
   return `<a class="res${a.img?' haspic':''}" href="${esc(a.link)}" target="_blank" rel="noopener">${pic}<span class="rbody"><span class="rs${a.isAudio?' audio':''}">${a.isAudio?'🎧 ':''}${esc(tr(a.isAudio&&a.source.id!=='audio'?'Audio':a.source.label))}</span><span class="rd">${esc(where)}</span>
    <p class="rt" lang="en" dir="auto">${esc(a.title)}</p><p class="rm">${esc([RTL&&AUTHOR_HE[a.author]||a.author,date(a.date)].filter(Boolean).join(' · '))}</p>${a.excerpt?`<p class="rx" lang="en" dir="auto">${esc(a.excerpt)}</p>`:''}</span></a>`};
- L.innerHTML=(on.length?`<h3>${tr('On this daf')}</h3>${on.map(card).join('')}`:`<p class="none">${tr('Nothing in the library is tagged to {0} yet.',esc(dafName(d.tractate,daf)))}</p>`)
+ L.innerHTML=(on.length?`<h3>${tr('On this daf')}</h3>${on.map(card).join('')}`:'')
   +(near.length?`<h3>${tr('Nearby dafim')}</h3>${near.map(card).join('')}`:'')
   +(rest.length?`<h3>${tr('Elsewhere in {0}',esc(trName))}</h3>${rest.map(card).join('')}`:'')
   +(r.failed?`<p class="none">${r.failed===3?tr("Couldn't reach the library. Check your connection and open Resources again."):tr("One of the library sites didn't answer, so this list may be incomplete.")}</p>`:'')
@@ -1288,7 +1298,8 @@ async function showResources(){if(!D)return;const d=D,daf=dafNumOf(d);
 // The button shows how many items are on this daf itself, once the tractate's list is in.
 function countResources(){const d=D;if(!d)return;$('resBtn').innerHTML=tr('Resources');
  loadResources(d.tractate).then(r=>{if(D!==d)return;const n=r.items.filter(a=>a.dafs.includes(dafNumOf(d))).length;
-  $('resBtn').innerHTML=`${tr('Resources')}${n?`<span class="n">${n}</span>`:''}`}).catch(()=>{})}
+  $('resBtn').innerHTML=`${tr('Resources')}${n?`<span class="n">${n}</span>`:''}`;
+  $('resBtn').title=n?tr('{0} tagged to this daf, more nearby and across the tractate',n):tr('Articles, teshuvot and shiurim from the YCT Torah Library on this daf')}).catch(()=>{})}
 $('resBtn').onclick=()=>{const open=$('rwin').hidden;$('rwin').hidden=!open;$('resBtn').setAttribute('aria-pressed',String(open));if(open){front($('rwin'));showResources()}};
 $('rwinClose').onclick=()=>{$('rwin').hidden=true;$('resBtn').setAttribute('aria-pressed','false')};
 $('rwin').addEventListener('pointerdown',()=>front($('rwin')));
