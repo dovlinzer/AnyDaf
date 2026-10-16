@@ -1840,6 +1840,9 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   for library posts, psak posts and library `audio`), run in the reader's browser (the sites allow
   it by CORS), grouped on this daf / within two dafim / elsewhere in the tractate, deduplicated by
   title. Unlike the apps it pages past the first 100 posts. Items open on the library's site.
+  Each card shows the post's featured image as a 72px square beside it, as the apps do (2026-10-16:
+  `_embed=wp:featuredmedia`, medium size, else thumbnail, else the original; a play mark on audio;
+  lazy-loaded, and dropped if it fails to load).
 - Navigation over all of Shas (2026-09-29): masechet + daf pickers (✦ marks dafim with an
   outline), ‹ › and the arrow keys (running across tractates in the apps' order), a link per daf
   (`#Bava_Metzia/11`, plus `/M`, `/H` when a daf has several outline versions; M first), and a

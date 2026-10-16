@@ -277,6 +277,12 @@ body.dragging{cursor:col-resize;user-select:none}
 .rlist summary{cursor:pointer}
 .res{display:block;padding:10px 4px;border-top:1px solid var(--line);color:var(--ink);text-decoration:none}
 .res:hover .rt{text-decoration:underline}
+/* the piece's featured image, a square beside it (as in the apps), with a play mark on audio */
+.res.haspic{display:flex;gap:12px;align-items:flex-start}
+.res .rbody{display:block;min-width:0;flex:1}
+.res .rimg{position:relative;flex:none;width:72px;height:72px;border-radius:8px;overflow:hidden;background:var(--grey-soft);margin-top:2px}
+.res .rimg img{width:100%;height:100%;object-fit:cover;display:block}
+.res .rplay{position:absolute;inset:auto 5px 5px auto;width:22px;height:22px;border-radius:50%;background:rgba(0,0,0,.55);color:#fff;font-size:10px;display:flex;align-items:center;justify-content:center}
 .res .rt{font:600 1rem/1.3 var(--serif);color:var(--blue);margin:3px 0 0}
 .res .rm{font-size:12px;color:var(--muted)}
 .res .rx{font-size:13.5px;color:var(--muted);margin:4px 0 0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
@@ -1230,7 +1236,7 @@ async function fetchSource(src,tractate){
  const ids=Object.keys(termToDaf);if(!ids.length)return [];
  const out=[];
  for(let page=1;page<=5;page++){   // 100 a page; the apps stop at the first page
-  let posts;try{posts=await getJSON(`${src.base}/${src.rest}?reference=${ids.join(',')}&per_page=100&page=${page}&_fields=id,title,excerpt,content,date,link,slug,reference,_links,_embedded&_embed=author`)}catch(e){if(page>1)break;throw e}
+  let posts;try{posts=await getJSON(`${src.base}/${src.rest}?reference=${ids.join(',')}&per_page=100&page=${page}&_fields=id,title,excerpt,content,date,link,slug,reference,_links,_embedded&_embed=author,wp:featuredmedia`)}catch(e){if(page>1)break;throw e}
   for(const p of posts){if(NON_ENGLISH.some(s=>p.slug.endsWith(s)))continue;
    const dafs=[...new Set((p.reference||[]).map(id=>termToDaf[id]).filter(d=>d!=null))];
    const specific=dafs.filter(d=>d).sort((a,b)=>a-b);
@@ -1239,7 +1245,10 @@ async function fetchSource(src,tractate){
    if(!ex&&content){const full=textOf(content.replace(/<div class="powerpress_player"[\s\S]*?<\/div>/g,'').replace(/<p class="powerpress_links[\s\S]*?<\/p>/g,''));ex=full.length>200?full.slice(0,200).trim()+'…':full}
    if(src.id==='psak')ex=ex.replace(/^QUE[ST]{2}ION\s+[^,]{1,40},\s*[A-Z]{2}\s+/i,'');
    const au=((p._embedded||{}).author||[])[0];
-   out.push({id:src.id+p.id,title:textOf(p.title.rendered),excerpt:ex,link:p.link,date:p.date,author:au&&au.name||'',
+   // the post's featured image, as the apps show it (medium size, else thumbnail, else the original)
+   const fm=((p._embedded||{})['wp:featuredmedia']||[])[0],sz=fm&&(fm.media_details||{}).sizes||{};
+   const img=fm&&!fm.code?((sz.medium||sz.thumbnail||{}).source_url||fm.source_url||''):'';
+   out.push({id:src.id+p.id,title:textOf(p.title.rendered),excerpt:ex,link:p.link,date:p.date,author:au&&au.name||'',img,
     source:src,isAudio,daf:specific[0]||0,dafs:specific})}
   if(posts.length<100)break}
  return out}
@@ -1265,8 +1274,9 @@ async function showResources(){if(!D)return;const d=D,daf=dafNumOf(d);
  const date=s=>{try{return new Date(s).toLocaleDateString(RTL?'he-IL':undefined,{year:'numeric',month:'short',day:'numeric'})}catch(e){return ''}};
  const trName=RTL?(TR[d.tractate]||{}).he||d.tractate:d.tractate,num=n=>RTL?hebNum(n):n;
  const card=a=>{const where=a.dafs.length?`${trName} ${a.dafs.slice(0,4).map(num).join(', ')}${a.dafs.length>4?'…':''}`:tr('{0}, general',trName);
-  return `<a class="res" href="${esc(a.link)}" target="_blank" rel="noopener"><span class="rs${a.isAudio?' audio':''}">${a.isAudio?'🎧 ':''}${esc(tr(a.isAudio&&a.source.id!=='audio'?'Audio':a.source.label))}</span><span class="rd">${esc(where)}</span>
-   <p class="rt" lang="en" dir="auto">${esc(a.title)}</p><p class="rm">${esc([RTL&&AUTHOR_HE[a.author]||a.author,date(a.date)].filter(Boolean).join(' · '))}</p>${a.excerpt?`<p class="rx" lang="en" dir="auto">${esc(a.excerpt)}</p>`:''}</a>`};
+  const pic=a.img?`<span class="rimg"><img src="${esc(a.img)}" alt="" loading="lazy" onerror="this.parentNode.remove()">${a.isAudio?'<span class="rplay" aria-hidden="true">▶</span>':''}</span>`:'';
+  return `<a class="res${a.img?' haspic':''}" href="${esc(a.link)}" target="_blank" rel="noopener">${pic}<span class="rbody"><span class="rs${a.isAudio?' audio':''}">${a.isAudio?'🎧 ':''}${esc(tr(a.isAudio&&a.source.id!=='audio'?'Audio':a.source.label))}</span><span class="rd">${esc(where)}</span>
+   <p class="rt" lang="en" dir="auto">${esc(a.title)}</p><p class="rm">${esc([RTL&&AUTHOR_HE[a.author]||a.author,date(a.date)].filter(Boolean).join(' · '))}</p>${a.excerpt?`<p class="rx" lang="en" dir="auto">${esc(a.excerpt)}</p>`:''}</span></a>`};
  L.innerHTML=(on.length?`<h3>${tr('On this daf')}</h3>${on.map(card).join('')}`:`<p class="none">${tr('Nothing in the library is tagged to {0} yet.',esc(dafName(d.tractate,daf)))}</p>`)
   +(near.length?`<h3>${tr('Nearby dafim')}</h3>${near.map(card).join('')}`:'')
   +(rest.length?`<h3>${tr('Elsewhere in {0}',esc(trName))}</h3>${rest.map(card).join('')}`:'')
