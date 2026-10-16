@@ -479,6 +479,9 @@ def main():
                 .replace("__FEEDBACK__", json.dumps({"url": SUPABASE_URL, "key": anon_key()}) if args.feedback else "null"))
     if args.feedback:
         write_sync(out, anon_key())
+    (out / "brand").mkdir(exist_ok=True)          # the YCT logo in the bar (color, and white for dark mode)
+    for f in (HERE / "brand").glob("*.png"):
+        (out / "brand" / f.name).write_bytes(f.read_bytes())
     (out / "api").mkdir(exist_ok=True)            # Vercel functions: page scans, SoundCloud tracks
     for f in (HERE / "api").glob("*.js"):
         (out / "api" / f.name).write_text(f.read_text(encoding="utf-8"), encoding="utf-8")

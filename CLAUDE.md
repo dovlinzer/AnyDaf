@@ -1870,6 +1870,14 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   panes (`paneToSection`); the audio moves both (`showLine`), and skimming detaches only that pane
   (`skim.text` / `skim.text2`, its own "Back to the audio"). Hebrew: no shiur, so Daf and Gemara.
   Testing in a hidden browser pane: smooth scrolls never run there, so force instant scrolls first.
+- Header and dedication (2026-10-15): the YCT logo (linking to yctorah.org; `prototype/brand/`,
+  color and white for dark mode, copied out by the build) and "Illustrated Talmud" (התלמוד המאויר)
+  head the bar. The day's dedication, as in the apps and AnyTorahWeb: approved `dedications` rows
+  marked `for_anydaf` (the AnyDaf app's flag, so one entry serves both; no web-only flag) whose
+  date..end_date holds the reader's date, read with the page's public key (`READ`); a line above
+  the bar while it lasts, and a window once a day per browser (`anydaf:lastDedicationShown`). The
+  photo is fetched with the key from the authenticated storage address, since the bucket's plain
+  public address doesn't serve it. The message is the AnyDaf app's wording ("…with AnyDaf…").
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).
