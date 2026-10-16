@@ -380,7 +380,7 @@ dialog.fb .fine{font-size:12px;color:var(--muted);margin:8px 0 0}
 body.hemode #pane2Seg [data-p="shiur"]{display:none}
 @media (max-width:860px){#splitBtn,#gem2{display:none!important}}
 /* the day's dedication: a line above the bar while it lasts, and a window once a day */
-.dedline{margin:0;padding:4px 16px;text-align:center;font:italic 13px/1.4 var(--serif);color:var(--muted);background:var(--panel)}
+.dedline{margin:0;padding:4px 16px;text-align:center;font:italic 13px/1.4 var(--serif);color:var(--muted);background:var(--panel);border-bottom:1px solid var(--line)}
 dialog.ded{text-align:center;width:min(380px,calc(100vw - 32px))}
 dialog.ded h3{margin:10px 0 6px}
 dialog.ded .dm{margin:0;font-size:14px;line-height:1.5}
@@ -427,7 +427,6 @@ html[lang="he"] .railp>*,html[lang="he"] #outCol>.pane,html[lang="he"] #outCol>.
 #uiBtn{font-family:"Assistant","Arial Hebrew",var(--sans)}
 </style>
 __SPRITE__
-<p class="dedline" id="dedLine" hidden></p>
 <div class="bar">
  <h1 class="brand"><a href="https://www.yctorah.org" target="_blank" rel="noopener" title="Yeshivat Chovevei Torah"><img class="lg-c" src="brand/yct-logo-color.png" alt="YCT" width="80" height="44"><img class="lg-w" src="brand/yct-logo-white.png" alt="YCT" width="80" height="44"></a><span class="bt">Illustrated Talmud</span></h1>
  <div class="nav" role="group" aria-label="Choose a daf">
@@ -467,6 +466,7 @@ __SPRITE__
   </div>
  </div>
 </div>
+<p class="dedline" id="dedLine" hidden></p>
 <div class="main" id="main" data-view="both">
  <nav class="railp" aria-label="At a glance"><div class="railtop"><button class="btn" id="railClose" type="button" aria-label="Close Contents">Close</button></div><div class="zoomable" id="rail"></div></nav>
  <div class="col" id="outCol">
@@ -1690,12 +1690,12 @@ setWidths();
 // the window once a day per browser, and only on a day with something to show.
 (async function dedication(){if(!READ)return;
  const d=new Date(),p2=n=>String(n).padStart(2,'0'),today=`${d.getFullYear()}-${p2(d.getMonth()+1)}-${p2(d.getDate())}`;
- let rows;try{rows=await supa('dedications',`date=lte.${today}&end_date=gte.${today}&status=eq.approved&for_anydaf=eq.true`
+ let rows;try{rows=await supa('dedications',`date=lte.${today}&end_date=gte.${today}&status=eq.approved&for_anydaf_web=eq.true`
   +'&select=date,end_date,dedicated_by,honoree_name,period,preposition,occasion,display_text,photo_url&order=date.desc,id.desc&limit=10')}catch(e){return}
  const tier=p=>p==='week'?2:p==='month'?1:3;
  const r=(rows||[]).filter(x=>x.date&&x.dedicated_by).sort((a,b)=>tier(b.period)-tier(a.period))[0];if(!r)return;
  const per=r.period==='week'?'week':r.period==='month'?'month':'today';
- const msg=r.display_text||[`${{today:"Today's learning",week:"This week's learning",month:"This month's learning"}[per]} with AnyDaf is dedicated by ${r.dedicated_by}`,
+ const msg=r.display_text||[`${{today:"Today's learning",week:"This week's learning",month:"This month's learning"}[per]} with the Illustrated Talmud is dedicated by ${r.dedicated_by}`,
   r.preposition,r.honoree_name,r.occasion].filter(Boolean).join(' ')+'.';
  $('dedLine').textContent=msg;$('dedLine').lang='en';$('dedLine').dir='auto';$('dedLine').hidden=false;
  let last=null;try{last=localStorage.getItem('anydaf:lastDedicationShown')}catch(e){}

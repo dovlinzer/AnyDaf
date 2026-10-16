@@ -1873,11 +1873,12 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
 - Header and dedication (2026-10-15): the YCT logo (linking to yctorah.org; `prototype/brand/`,
   color and white for dark mode, copied out by the build) and "Illustrated Talmud" (התלמוד המאויר)
   head the bar. The day's dedication, as in the apps and AnyTorahWeb: approved `dedications` rows
-  marked `for_anydaf` (the AnyDaf app's flag, so one entry serves both; no web-only flag) whose
-  date..end_date holds the reader's date, read with the page's public key (`READ`); a line above
+  marked `for_anydaf_web` (its own flag, added by `dedication-anydaf-web-migration.sql`, backfilled
+  from `for_anydaf`; "Illustrated Talmud" checkbox in `dedication-form.html`) whose
+  date..end_date holds the reader's date, read with the page's public key (`READ`); a line under
   the bar while it lasts, and a window once a day per browser (`anydaf:lastDedicationShown`). The
   photo is fetched with the key from the authenticated storage address, since the bucket's plain
-  public address doesn't serve it. The message is the AnyDaf app's wording ("…with AnyDaf…").
+  public address doesn't serve it. The message reads "…learning with the Illustrated Talmud…".
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).
@@ -2580,7 +2581,8 @@ override), `photo_url`, `status` (`"approved"`).
   independently. `DedicationService.swift`/`.kt` here filter `for_anydaf=eq.true`; AnyTorah's
   native services filter `for_anytorah=eq.true`; AnyTorahWeb's `app/api/dedication/route.ts`
   filters `for_anytorah_web=eq.true`; AnyYCTorah's `DedicationService.swift` filters
-  `for_anyyctorah=eq.true`. Migrated via `dedication-app-targeting-migration.sql` (this repo's
+  `for_anyyctorah=eq.true`. A fifth, `for_anydaf_web` (2026-10-15, `dedication-anydaf-web-migration.sql`),
+  targets the Illustrated Talmud website (AnyDafWeb). Migrated via `dedication-app-targeting-migration.sql` (this repo's
   root, `for_anydaf`/`for_anytorah`/`for_anytorah_web`) and
   `AnyYCTorah/dedication-anyyctorah-migration.sql` (`for_anyyctorah`) — both run manually in the
   Supabase SQL editor, since no service-role key is available to any of these codebases to run
