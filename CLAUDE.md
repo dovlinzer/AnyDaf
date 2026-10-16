@@ -1889,6 +1889,14 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   Daf / Gemara / Shiur switch sits in the text pane's own header (on a phone, where it also flips
   to the outline, it stays on the bar). The text side has its own quiet warm background
   (`--gem-bg`). A first visit through italmud.com opens on Both, the text side a third of the width.
+  Text side, same day: the audio player starts closed behind a "Listen" button (headphones) at
+  its foot and opens on that or on any play (× closes it and pauses); while the shiur plays the
+  text follows it and the outline doesn't (`follow` is fixed; the Follow switch is gone). "Follow
+  the outline" moved into Settings (still on by default). One set of section pills, in the text
+  pane's header: a pill moves the text, the outline and the audio (`audioToSeg`: plays on from the
+  section, or sets the shiur to start there); the audio panel's own pills are gone. The "Reading …"
+  line is gone. On the daf page the highlight is always on, a tap shows no text box, and the amud
+  is changed only by the ‹ › arrows (the amud buttons are hidden).
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).

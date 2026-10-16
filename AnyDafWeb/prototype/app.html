@@ -237,6 +237,8 @@ body.dragging{cursor:col-resize;user-select:none}
 /* audio bar: the day's shiur, and the sides following it */
 .abar{flex:none;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;padding:7px 14px calc(7px + env(safe-area-inset-bottom,0px));border-top:1px solid var(--audio-line);background:var(--audio-bg);font-size:12.5px;color:var(--muted)}
 .abar .askip,.abar .seg{background:var(--panel)}
+.listen{flex:none;align-self:flex-start;display:inline-flex;align-items:center;gap:6px;margin:8px 14px;font:600 12.5px var(--sans);color:var(--blue);background:var(--audio-bg);border:1px solid var(--audio-line);border-radius:999px;padding:6px 14px;cursor:pointer}
+.listen:hover{border-color:var(--blue)}
 /* section pills, as in the apps: the shiur's sections in the audio panel and the Gemara window */
 .pills{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:1px 0 2px;flex-basis:100%;min-width:0}
 .pills::-webkit-scrollbar{display:none}
@@ -457,6 +459,9 @@ __SPRITE__
    <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
    <label class="tog"><input type="checkbox" id="optShiur" checked> Shiur insights</label>
   </div>
+  <div class="grp"><span class="gl">Text</span>
+   <label class="tog"><input type="checkbox" id="syncTog" checked> Follow the outline</label>
+  </div>
   <div class="grp layout"><span class="gl">Layout</span>
    <div class="seg" id="showSeg" role="group" aria-label="Show"><button data-s="outline" title="Only the outline">Outline</button><button data-s="both" title="The outline with the text beside it">Both</button><button data-s="text" title="Only the Gemara, shiur or daf page">Text</button></div>
    <button class="btn" id="railBtn" aria-pressed="false" title="Show the contents beside the outline (wide screens)">Contents</button>
@@ -481,16 +486,15 @@ __SPRITE__
  <aside class="gem" id="gem" data-lang="both" aria-label="Gemara">
   <div class="gemhead">
    <div class="seg lang" id="langSeg" role="group" aria-label="Language"><button data-l="he" aria-label="Hebrew only">א</button><button data-l="both" aria-pressed="true" aria-label="Hebrew and English">אA</button><button data-l="en" aria-label="English only">A</button></div>
-   <label class="tog"><input type="checkbox" id="syncTog" checked> Follow the outline</label>
-   <div class="now" id="now" aria-live="polite"></div>
+   <div class="now" id="now" hidden></div>
    <button class="btn" id="splitBtn" type="button" title="Show a second text beside this one">⊞ Add a pane</button>
    <div class="pills" id="gPills" role="group" aria-label="Sections of the shiur: go to" hidden></div>
   </div>
   <div class="pane" id="textPane"><div class="text zoomable" id="text"></div></div>
   <div class="pane" id="shiurPane" hidden><div class="shiur zoomable" id="shiur"></div></div>
   <div class="pane" id="pagePane" hidden><div class="page">
-   <div class="pagebar"><span class="folio" id="folio"></span><span class="amudnav"><button type="button" class="navb" id="amudPrev" aria-label="Previous amud" title="Previous amud">‹</button><div class="seg" id="amudSeg" role="group" aria-label="Amud"></div><button type="button" class="navb" id="amudNext" aria-label="Next amud" title="Next amud">›</button></span>
-    <label class="tog"><input type="checkbox" id="layTog" checked> Highlight on the page</label><label class="tog" title="A tap on a line still moves the outline and the shiur there"><input type="checkbox" id="popTog" checked> Show the text on tap</label><span class="laynote" id="layNote"></span></div>
+   <div class="pagebar"><span class="folio" id="folio"></span><span class="amudnav"><button type="button" class="navb" id="amudPrev" aria-label="Previous amud" title="Previous amud">‹</button><div class="seg" id="amudSeg" role="group" aria-label="Amud" hidden></div><button type="button" class="navb" id="amudNext" aria-label="Next amud" title="Next amud">›</button></span>
+    <input type="checkbox" id="layTog" checked hidden><input type="checkbox" id="popTog" hidden><span class="laynote" id="layNote"></span></div>
    <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg></div></div>
    <div class="pagepop" id="pagePop" hidden role="status"></div>
   </div></div>
@@ -511,6 +515,7 @@ __SPRITE__
   <button class="backaud" id="backText2" type="button" hidden>↩ Back to the audio</button>
  </aside>
 </div>
+<button class="listen" id="aListen" type="button" hidden><svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 0 0-9 9v6a3 3 0 0 0 3 3h1a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1H5v-1a7 7 0 0 1 14 0v1h-2a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h1a3 3 0 0 0 3-3v-6a9 9 0 0 0-9-9z"/></svg><span>Listen</span></button>
 <div class="abar" id="abar" hidden>
  <button class="aplay" id="aPlay" type="button" aria-label="Play the shiur">▶</button>
  <button class="askip" id="aBack" type="button" aria-label="Back 15 seconds" title="Back 15 seconds">−15</button>
@@ -520,11 +525,9 @@ __SPRITE__
  <span class="atime" id="aDur"></span>
  <div class="seg" id="aEp" role="group" aria-label="Shiur" hidden></div>
  <button class="askip" id="aRate" type="button" aria-label="Playback speed" title="Playback speed">1×</button>
- <span class="adiv" aria-hidden="true"></span>
- <div class="seg" id="aFollow" role="group" aria-label="While the audio plays, follow it in"><span class="afl" aria-hidden="true">Follow</span>
-  <button type="button" data-f="out" title="The outline moves to the section being taught">Outline</button><button type="button" data-f="text" title="The Gemara, shiur or daf page moves to the line being read">Text</button></div>
+ <span class="spacer"></span>
+ <button class="askip" id="aClose" type="button" aria-label="Close the audio player" title="Close the audio player">×</button>
  <span class="anote" id="aNote" aria-live="polite"></span>
- <div class="pills" id="aPills" role="group" aria-label="Sections of the shiur: play from" hidden></div>
  <audio id="aud" preload="none"></audio>
 </div>
 <div class="gwin" id="gwin" hidden role="dialog" aria-labelledby="gwinTitle">
@@ -594,7 +597,7 @@ const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='
 const RTL=UI==='he';
 const HEW={
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
- "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
+ "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
  'Beside the outline':'לצד המתווה','Gemara':'גמרא','Shiur':'שיעור',
  'Articles, teshuvot and shiurim from the YCT Torah Library on this daf':'מאמרים, תשובות ושיעורים על הדף מספריית התורה של ישיבת חובבי תורה (באנגלית)',
@@ -856,8 +859,8 @@ function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains(
  pop.querySelector('.x').onclick=closePop;if(canPlay)$('popPlay').onclick=()=>playFrom(po)}
 function closePop(){$('pagePop').hidden=true;$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
 $('layTog').onchange=()=>{$('pageLay').classList.toggle('off',!$('layTog').checked);prefs.lay=$('layTog').checked;savePrefs();if(!$('layTog').checked)closePop()};
-$('popTog').checked=prefs.pop!==false;$('popTog').onchange=()=>{prefs.pop=$('popTog').checked;savePrefs();if(!prefs.pop)$('pagePop').hidden=true};
-$('layTog').checked=prefs.lay!==false;$('pageLay').classList.toggle('off',prefs.lay===false);
+$('popTog').checked=false;$('popTog').onchange=()=>{prefs.pop=$('popTog').checked;savePrefs();if(!prefs.pop)$('pagePop').hidden=true};
+$('layTog').checked=true;   // the page is always highlighted, and a tap shows no text box (author, 2026-10-15)
 
 // ---------- sync ----------
 function setCurrent(id,fromClick){
@@ -1262,7 +1265,11 @@ $('rwin').addEventListener('pointerdown',()=>front($('rwin')));
 // keeps playing when the reader turns to another daf, as in the apps; following applies only on
 // the daf that is playing.
 const aud=$('aud');
-const follow={out:prefs.followOut!==false,text:prefs.followText!==false};
+// while the shiur plays the text follows it and the outline stays put (author, 2026-10-15)
+const follow={out:false,text:true};
+// the player starts closed, behind a Listen button at the foot of the text side; playing opens it
+let audioOpen=false;
+function setAudioOpen(o){audioOpen=o;drawBar()}
 const skim={out:false,text:false};         // the reader moved that side themselves while listening
 let A=null,S=null,audioDriven=false,lastLine=null;   // A: the daf playing (or ready); S: the one on screen
 const fmtT=s=>{s=Math.max(0,Math.floor(s||0));const h=Math.floor(s/3600),m=Math.floor(s/60)%60,x=String(s%60).padStart(2,'0');return h?`${h}:${String(m).padStart(2,'0')}:${x}`:`${m}:${x}`};
@@ -1292,12 +1299,12 @@ function setEp(i,at){A.ep=i;const e=A.eps[i];aud.playbackRate=prefs.rate||1;
  aud.dataset.pending='1';ready.finally(()=>{delete aud.dataset.pending});
  lastLine=null;drawBar();return ready}
 function drawBar(){const bar=$('abar');
- if(!A){bar.hidden=true;return}bar.hidden=false;
+ if(!aud.paused)audioOpen=true;
+ if(!A){bar.hidden=$('aListen').hidden=true;return}bar.hidden=!audioOpen;$('aListen').hidden=audioOpen;
  $('aPlay').textContent=aud.paused?'▶':'❚❚';$('aPlay').setAttribute('aria-label',aud.paused?'Play the shiur':'Pause');
  $('aEp').hidden=A.eps.length<2;
  $('aEp').innerHTML=A.eps.length<2?'':A.eps.map((e,i)=>`<button type="button" data-ep="${i}" aria-pressed="${i===A.ep}">${esc(epLabel(e))}</button>`).join('');
  $('aRate').textContent=(prefs.rate||1)+'×';
- document.querySelectorAll('#aFollow button').forEach(b=>b.setAttribute('aria-pressed',String(follow[b.dataset.f])));
  const here=S&&S.id===A.id,note=$('aNote');
  if(!here&&D){note.innerHTML=`Playing ${esc(A.title)}. <button type="button" id="aGo">Go to it</button>${S?` · <button type="button" id="aThis">Play ${esc(S.title)} instead</button>`:''}`;
   $('aGo').onclick=()=>{const [t,n]=A.id.split('|');goDaf(t,+n)};if($('aThis'))$('aThis').onclick=()=>switchTo(S).then(play)}
@@ -1320,8 +1327,8 @@ $('aFwd').onclick=()=>{aud.currentTime=aud.currentTime+15;lastLine=null};
 const RATES=[1,1.25,1.5,1.75,2,0.75];
 $('aRate').onclick=()=>{prefs.rate=RATES[(RATES.indexOf(prefs.rate||1)+1)%RATES.length];savePrefs();aud.playbackRate=prefs.rate;drawBar()};
 $('aEp').onclick=e=>{const b=e.target.closest('[data-ep]');if(!b)return;const was=!aud.paused;aud.pause();setEp(+b.dataset.ep).then(()=>{if(was)play()})};
-$('aFollow').onclick=e=>{const b=e.target.closest('[data-f]');if(!b)return;const f=b.dataset.f;follow[f]=!follow[f];
- prefs[f==='out'?'followOut':'followText']=follow[f];savePrefs();(f==='out'?['out']:['text','text2']).forEach(k=>{skim[k]=false;$(BACK[k]).hidden=true});lastLine=null;drawBar();tick()};
+$('aListen').onclick=()=>setAudioOpen(true);
+$('aClose').onclick=()=>{aud.pause();setAudioOpen(false)};
 let seeking=false;
 $('aSeek').addEventListener('input',()=>{seeking=true;$('aTime').textContent=fmtT(+$('aSeek').value/1000*(aud.duration||0))});
 $('aSeek').addEventListener('change',()=>{if(aud.duration)aud.currentTime=+$('aSeek').value/1000*aud.duration;seeking=false;lastLine=null});
@@ -1407,9 +1414,10 @@ function jumpAudio(o){if(!S||!S.tl.some(t=>t.length)||o==null)return;const at=ti
 
 // The audio panel sits under the Gemara window on wide screens; on a phone, where the Gemara and
 // the outline take turns, it spans the foot of the screen so it's there on both.
-function placeAbar(){const bar=$('abar');
+function placeAbar(){const bar=$('abar'),li=$('aListen');
  if(narrow.matches||curView()==='outline'){if(bar.previousElementSibling!==$('main'))$('main').after(bar)}
- else if(bar.parentElement!==$('gem'))$('gem').appendChild(bar)}
+ else if(bar.parentElement!==$('gem'))$('gem').appendChild(bar);
+ if(li.nextElementSibling!==bar)bar.before(li)}
 placeAbar();narrow.addEventListener('change',placeAbar);
 
 // ---------- section pills, as in the apps ----------
@@ -1420,18 +1428,14 @@ placeAbar();narrow.addEventListener('change',placeAbar);
 let aSegs=[],gSegs=[],pillsFor=[null,null];
 const segsOf=a=>a?a.eps.flatMap((e,ep)=>(e.segs||[]).map(s=>({...s,ep}))):[];
 function drawPills(){
- if(pillsFor[0]!==A){pillsFor[0]=A;aSegs=segsOf(A);$('aPills').hidden=aSegs.length<2;
-  $('aPills').innerHTML=aSegs.map((s,i)=>`<button type="button" data-i="${i}" title="Play from ${fmtT(s.t)}${A.eps.length>1?` (${epLabel(A.eps[s.ep])})`:''}">${esc(s.title)}</button>`).join('')}
  if(pillsFor[1]!==S||$('gPills').dataset.daf!==D.key){pillsFor[1]=S;$('gPills').dataset.daf=D.key;
   gSegs=segsOf(S);$('gPills').hidden=gSegs.length<2;
   $('gPills').innerHTML=gSegs.map((s,i)=>`<button type="button" data-i="${i}"${s.l&&D.order[s.l]!=null?'':' disabled'}>${esc(s.title)}</button>`).join('')}
- markAPill();markGPill()}
+ markGPill()}
 function lightPill(strip,i){const on=strip.querySelector('.on');if(on&&+on.dataset.i===i)return;if(on)on.classList.remove('on');
  const b=strip.querySelector(`[data-i="${i}"]`);if(!b)return;b.classList.add('on');
  const sr=strip.getBoundingClientRect(),br=b.getBoundingClientRect();
  if(br.left<sr.left||br.right>sr.right)strip.scrollTo({left:strip.scrollLeft+br.left-sr.left-sr.width/2+br.width/2,behavior:'smooth'})}
-function markAPill(){if(!A||!aSegs.length)return;const t=aud.currentTime;let i=aSegs.findIndex(s=>s.ep===A.ep);
- aSegs.forEach((s,k)=>{if(s.ep===A.ep&&s.t<=t)i=k});if(i>=0)lightPill($('aPills'),i)}
 // Gemara window: the section whose line is the last at or above the top of the text in view.
 function markGPill(){if(!gSegs.length||!D)return;let top=null;
  if(mode==='text'){const pr=textPane.getBoundingClientRect().top+40,i=itemEls.findIndex(el=>el.getBoundingClientRect().bottom>pr);if(i>=0)top=itemOrd[i]}
@@ -1439,10 +1443,15 @@ function markGPill(){if(!gSegs.length||!D)return;let top=null;
  else if(mode==='page'){const L=layOf(amudShown);if(L){const os=Object.keys(L.g).map(l=>D.order[l]).filter(o=>o!=null);if(os.length)top=Math.min(...os)}}
  // sections sharing an opening line: the earlier one (Bava Metzia 11's first two both open on 10b.10)
  if(top==null)return;let k=-1;gSegs.forEach((s,j)=>{const o=D.order[s.l];if(o!=null&&o<=top&&(k<0||o>D.order[gSegs[k].l]))k=j});lightPill($('gPills'),Math.max(0,k))}
-$('aPills').onclick=e=>{const b=e.target.closest('[data-i]');if(!b)return;const s=aSegs[+b.dataset.i];lastLine=null;
- if(A.ep!==s.ep||!aud.getAttribute('src'))setEp(s.ep,s.t).then(play);else{aud.currentTime=s.t;play()}};
+// a section pill takes the audio to the section too: playing, it plays on from there; stopped, the
+// shiur is set to start there (as a click on a line does)
+function audioToSeg(s){if(!S||s.t==null)return;lastLine=null;const playing=!aud.paused;
+ if(!A||A.id!==S.id){if(playing)aud.pause();A=S;aud.removeAttribute('src')}
+ const go=()=>{if(playing)play()};
+ if(A.ep!==s.ep||!aud.getAttribute('src'))setEp(s.ep,s.t).then(go);else{aud.currentTime=s.t;go()}
+ $('aTime').textContent=fmtT(s.t)}
 $('gPills').onclick=e=>{const b=e.target.closest('[data-i]');if(!b||b.disabled)return;const s=gSegs[+b.dataset.i],o=D.order[s.l];
- lightPill($('gPills'),+b.dataset.i);textHold=Date.now()+1500;skimmed('text');
+ lightPill($('gPills'),+b.dataset.i);textHold=Date.now()+1500;skimmed('text');audioToSeg(s);
  const sec=sectionForOrder(o);if(sec&&view)setCurrent(sec.id,true);
  for(const m of visibleModes()){
   if(m==='text'){const i=itemOrd.indexOf(o);if(i>=0)textPane.scrollTo({top:posIn(textPane,itemEls[i])-8,behavior:'smooth'})}
@@ -1451,7 +1460,6 @@ $('gPills').onclick=e=>{const b=e.target.closest('[data-i]');if(!b||b.disabled)r
    if(h)shiurPane.scrollTo({top:posIn(shiurPane,h)-12,behavior:'smooth'})}
   else if(m==='page'){const a=s.l.split('.')[0];if(D.images[a])showAmud(a,true);if(!sec||!view)markLayout({a:o,b:o});scrollPageTo()}}};
 let pillRaf=0;[textPane,shiurPane].forEach(p=>p.addEventListener('scroll',()=>{if(!pillRaf)pillRaf=requestAnimationFrame(()=>{pillRaf=0;markGPill()})},{passive:true}));
-aud.addEventListener('timeupdate',markAPill);
 
 // ---------- reader feedback ----------
 // FEEDBACK = {url, key}: notes are sent to Supabase's outline_feedback table (insert only).
