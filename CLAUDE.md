@@ -1923,6 +1923,7 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   reloads), or change the default in app.html (`collapsible:prefs.collapse!==false`). The ▶ play
   buttons on headings are off (`PLAY_BUTTONS=false` in app.html). The text side defaults to 40% of
   the width (`--gemw`, and a first italmud.com visit), i.e. a 60/40 split.
+  The outline's per-section note (`flag`, e.g. "Gemara text only") is hidden on the page (`.ado-flag`).
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).

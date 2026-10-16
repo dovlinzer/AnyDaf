@@ -366,6 +366,8 @@ body.dragging{cursor:col-resize;user-select:none}
 /* reader feedback: a Flag on every section, notes saved to the site's feedback table; the flags
    are hidden unless turned on in Settings ("Flags on headings") */
 body:not(.flags) #outline .fl{display:none}
+/* the outline's own per-section note ("Gemara text only") is editorial; not shown (author, 2026-10-16) */
+#outline .ado-flag{display:none}
 .fl{font:500 11px var(--sans);color:var(--muted);background:none;border:1px solid var(--line);border-radius:999px;padding:1px 8px;cursor:pointer;margin-inline-start:6px;vertical-align:middle}
 .fl:hover,.fl:focus-visible{color:var(--blue);border-color:var(--blue)}
 .fl.has{background:var(--amber-soft);border-color:var(--amber);color:var(--amber)}
