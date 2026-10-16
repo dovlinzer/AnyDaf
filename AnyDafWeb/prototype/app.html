@@ -46,7 +46,7 @@ __GAMES_CSS__
 button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
 /* Column widths come from --gemw (the text side, % of the page) and --railw (the contents
    column), both set by dragging the dividers. */
-.main{--gemw:46%;--railw:230px;flex:1;min-height:0;display:grid;grid-template-columns:minmax(0,1fr) var(--gemw)}
+.main{--gemw:40%;--railw:230px;flex:1;min-height:0;display:grid;grid-template-columns:minmax(0,1fr) var(--gemw)}
 .main.textleft{grid-template-columns:var(--gemw) minmax(0,1fr)}
 .main.textleft .gem{order:-1;border-inline-start:0;border-inline-end:1px solid var(--line)}
 /* "At a glance" in its own column on wide screens, so it stays in view; inline at the top of the
@@ -465,6 +465,7 @@ __SPRITE__
    <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
    <label class="tog"><input type="checkbox" id="optShiur" checked> Shiur insights</label>
    <label class="tog"><input type="checkbox" id="optTerms"> Key terms list</label>
+   <label class="tog" title="Every heading shows, each with an arrow that opens its text, charts and pictures; off: the full outline with the At a glance list"><input type="checkbox" id="optCollapse"> Collapsible outline</label>
   </div>
   <div class="grp"><span class="gl">Text</span>
    <label class="tog"><input type="checkbox" id="syncTog" checked> Follow the outline</label>
@@ -604,7 +605,7 @@ const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='
 const RTL=UI==='he';
 const HEW={
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
- "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
+ "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
  'Beside the outline':'לצד המתווה','Gemara':'גמרא','Shiur':'שיעור',
  'Articles, teshuvot and shiurim from the YCT Torah Library on this daf':'מאמרים, תשובות ושיעורים על הדף מספריית התורה של ישיבת חובבי תורה (באנגלית)',
@@ -713,7 +714,7 @@ function renderDaf(d){
  if(d.outline){
   view=AnyDafOutline.render($('outline'),{outline:d.outline,keyTerms:terms,onTerm:i=>openGloss(i),onSection:id=>setCurrent(id,true),glanceDepth:gd,onGlanceDepth:onDepth,
    glanceOpen:prefs.glanceOpen===true,onGlanceOpen:o=>{prefs.glanceOpen=o;savePrefs()},
-   sages:d.sages||[],onSage:i=>openSage(i)});
+   sages:d.sages||[],onSage:i=>openSage(i),collapsible:prefs.collapse!==false});
   railView=AnyDafOutline.glance($('rail'),d.outline,{onSection:id=>setCurrent(id,true),depth:gd,onDepth});
   applyOptions();
   secs=view.sections.map(s=>({...s,a:d.order[s.from],b:d.order[s.to],am:firstAmud(s)}));
@@ -873,6 +874,8 @@ $('layTog').checked=true;   // the page is always highlighted, and a tap shows n
 function setCurrent(id,fromClick){
  const s=secs.find(x=>x.id===id);if(!s||(current===id&&!fromClick))return;
  current=id;view.markCurrent(id);railView&&railView.mark(id);
+ // a jump to a section (a click on it, a line, a pill) opens it in a collapsible outline
+ if(fromClick&&!audioDriven&&view.open)view.open(id);
  const ranged=s.a!=null&&s.b!=null;
  markLayout(s);
  itemEls.forEach((el,i)=>el.classList.toggle('in',ranged&&itemOrd[i]>=s.a&&itemOrd[i]<=s.b));
@@ -974,6 +977,10 @@ function applyOptions(){if(!view)return;view.setLevel(prefs.level||2);
 document.querySelectorAll('#levels button').forEach(b=>b.onclick=()=>{prefs.level=+b.dataset.lv;savePrefs();applyOptions();
  document.querySelectorAll('#levels button').forEach(x=>x.setAttribute('aria-pressed',x===b))});
 $('optShiur').onchange=applyOptions;
+// Collapsible outline (trial, 2026-10-16): on by default; off brings back the full outline with
+// "At a glance". Changing it reloads the page at the same daf.
+$('optCollapse').checked=prefs.collapse!==false;
+$('optCollapse').onchange=()=>{prefs.collapse=$('optCollapse').checked;savePrefs();location.reload()};
 function applyFlags(){const on=!!prefs.flags;$('flagTog').checked=on;document.body.classList.toggle('flags',on)}
 $('flagTog').onchange=()=>{prefs.flags=$('flagTog').checked;savePrefs();applyFlags()};applyFlags();
 // the key-terms list at the top of the outline is off unless the reader turns it on (the terms in
@@ -1024,8 +1031,8 @@ const narrow=matchMedia('(max-width:860px)');
 const ENTRY_TEXT=!/italmud\./i.test(location.hostname);
 let phoneView=ENTRY_TEXT&&!prefs.layout?'text':'outline',textMoved=false,noOutline=false;
 if(!prefs.layout){prefs.layout=prefs.nav||!ENTRY_TEXT?'both':'text';
- // italmud.com: the outline with the Gemara beside it, a third of the width (author, 2026-10-15)
- if(!ENTRY_TEXT&&!prefs.nav&&prefs.gemw==null)prefs.gemw=33;
+ // italmud.com: the outline with the Gemara beside it, 40% of the width (author, 2026-10-16: 60/40)
+ if(!ENTRY_TEXT&&!prefs.nav&&prefs.gemw==null)prefs.gemw=40;
  // the AnyDaf address is for learning the daf: the page and the shiur, side by side (author, 2026-10-09)
  if(ENTRY_TEXT&&!prefs.nav){prefs.pane='page';prefs.pane2='shiur';prefs.split=true}
  savePrefs()}
@@ -1411,7 +1418,9 @@ function playFrom(o){const at=timeFor(o);
  if(A.ep!==at.ep||!aud.getAttribute('src'))setEp(at.ep,Math.max(0,at.t-1)).then(play);
  else{aud.currentTime=Math.max(0,at.t-1);play()}}
 // ▶ on every outline heading: play from the section's first line.
-function addPlayButtons(){document.querySelectorAll('#outline .pl').forEach(b=>b.remove());if(!view||!S||!S.tl.some(t=>t.length))return;
+// ▶ on each heading is turned off for now (author, 2026-10-16); set PLAY_BUTTONS to bring it back
+const PLAY_BUTTONS=false;
+function addPlayButtons(){document.querySelectorAll('#outline .pl').forEach(b=>b.remove());if(!PLAY_BUTTONS||!view||!S||!S.tl.some(t=>t.length))return;
  for(const s of secs){if(!s.head||s.a==null)continue;const b=document.createElement('button');b.type='button';b.className='pl';b.dataset.play=s.id;
   b.textContent='▶';b.title='Play the shiur from here';b.setAttribute('aria-label',`Play the shiur from “${s.title}”`);s.head.appendChild(b)}}
 $('outline').addEventListener('click',e=>{const b=e.target.closest('[data-play]');if(!b)return;e.stopPropagation();

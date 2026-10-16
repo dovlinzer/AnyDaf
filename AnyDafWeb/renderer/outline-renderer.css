@@ -117,3 +117,18 @@
 .ado[dir="rtl"] table{font-size:15px}
 .ado[dir="rtl"] thead th{font-size:13px}
 .ado[dir="rtl"] .ado-chart caption{font-size:13.5px}
+
+/* collapsible outline (opt-in, collapsible:true): every heading shows; a section's own text,
+   charts and pictures open under it with the arrow beside its heading */
+.ado.ado-collapsible .ado-node:not(.ado-open)>.ado-body{display:none}
+.ado.ado-collapsible .ado-head{position:relative;padding-inline-start:24px}
+.ado .ado-fold{position:absolute;inset-inline-start:0;top:3px;width:22px;height:22px;margin:0;padding:0;border:0;border-radius:6px;background:none;color:var(--ado-muted);cursor:pointer;display:inline-flex;align-items:center;justify-content:center}
+.ado .ado-l2>.ado-head>.ado-fold{top:1px}.ado .ado-l3>.ado-head>.ado-fold,.ado .ado-l4>.ado-head>.ado-fold,.ado .ado-l5>.ado-head>.ado-fold{top:-2px}
+.ado .ado-fold::before{content:"";width:0;height:0;border-block:5px solid transparent;border-inline-start:7px solid currentColor;transition:transform .15s}
+.ado .ado-fold[aria-expanded="true"]::before{transform:rotate(90deg)}
+.ado[dir="rtl"] .ado-fold[aria-expanded="true"]::before{transform:rotate(-90deg)}
+.ado .ado-fold:hover{color:var(--ado-blue);background:var(--ado-line)}
+.ado.ado-collapsible .ado-node{margin-top:.35em}
+.ado .ado-foldbar{display:flex;gap:6px;margin:0 0 10px}
+.ado .ado-foldbar button{font:500 12px var(--ado-sans);border:1px solid var(--ado-line);background:var(--ado-panel);color:var(--ado-ink);padding:4px 11px;border-radius:999px;cursor:pointer}
+.ado .ado-foldbar button:hover{border-color:var(--ado-blue);color:var(--ado-blue)}

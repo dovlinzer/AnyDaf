@@ -1911,6 +1911,15 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   pickers, a little larger).
   2026-10-16: the per-heading Flag buttons are hidden unless Settings → "Flags on headings" is on
   (`prefs.flags`, body class `flags`); the Feedback button in Settings still lists and sends notes.
+  **Collapsible outline (trial, 2026-10-16), on by default:** the renderer's `collapsible:true`
+  shows every heading at full depth, each with an arrow (`.ado-fold`, points down when open) that
+  shows or hides that section's own text, charts and pictures (`.ado-body`; subsections' headings
+  always show), plus "Open all" / "Collapse all" (`.ado-foldbar`); the inline "At a glance" is
+  dropped in this mode. A jump to a section (click on it, a Gemara line, a pill) opens it
+  (`view.open`). **To revert:** Settings → uncheck "Collapsible outline" (`prefs.collapse=false`,
+  reloads), or change the default in app.html (`collapsible:prefs.collapse!==false`). The ▶ play
+  buttons on headings are off (`PLAY_BUTTONS=false` in app.html). The text side defaults to 40% of
+  the width (`--gemw`, and a first italmud.com visit), i.e. a 60/40 split.
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).

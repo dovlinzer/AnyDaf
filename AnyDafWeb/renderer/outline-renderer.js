@@ -36,8 +36,8 @@
 
   // Interface words, by the outline's language (outline.lang: "he" lays the outline out right to left).
   const WORDS = {
-    en: { glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", noTerms: "No key terms for this daf." },
-    he: { glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", noTerms: "אין מושגי מפתח לדף זה." },
+    en: { openAll: "Open all", closeAll: "Collapse all", fold: "Show or hide this section", glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", noTerms: "No key terms for this daf." },
+    he: { openAll: "פתיחת הכול", closeAll: "קיפול הכול", fold: "הצגה או הסתרה של הקטע", glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", noTerms: "אין מושגי מפתח לדף זה." },
   };
   const words = (lang) => WORDS[lang] || WORDS.en;
   const isHe = (o) => (o && o.lang) === "he";
@@ -306,7 +306,7 @@
 
   function render(container, opts) {
     const { outline, keyTerms = [], onTerm, onSection, glance = true, glanceDepth = 2, onGlanceDepth,
-            glanceOpen = false, onGlanceOpen, sages = [], onSage } = opts;
+            glanceOpen = false, onGlanceOpen, sages = [], onSage, collapsible = false } = opts;
     const W = words(outline.lang);
     const markTerms = termMatcher(keyTerms), markSages = isHe(outline) ? hebSageMatcher(sages) : sageMatcher(sages);
     const mark = markTerms || markSages
@@ -331,16 +331,23 @@
             const cls = [b.detail == 3 ? "ado-d3" : "", b.source === "shiur" ? "ado-shiur" : ""].join(" ").trim();
             return `<li${cls ? ` class="${cls}"` : ""}>${m(b.text, b.detail == 3 || b.source === "shiur")}</li>`;
           }).join("")}</ul>` : "";
+      // Collapsible: every heading shows, at every depth; a section's own text, charts and pictures
+      // (not its subsections) sit in .ado-body, shown when the section is open.
+      const own = !!(ret || gist || bullets || n.chart || n.illustration || n.continues);
+      const fold = collapsible && own
+        ? `<button type="button" class="ado-fold" aria-expanded="false" aria-label="${W.fold}" title="${W.fold}"></button>` : "";
       return `<section class="ado-node ado-l${Math.min(depth, 5)}" data-id="${esc(n.id)}">
-        <div class="ado-head"><h${Math.min(depth + 1, 6)} class="ado-t">${md(n.title)}</h${Math.min(depth + 1, 6)}>
+        <div class="ado-head">${fold}<h${Math.min(depth + 1, 6)} class="ado-t">${md(n.title)}</h${Math.min(depth + 1, 6)}>
           <span class="ado-amud" title="${esc(rangeLabel(n.text))}">${esc(n.amud)}</span>
           ${n.flag ? `<span class="ado-flag">${esc(n.flag)}</span>` : ""}</div>
+        ${collapsible ? `<div class="ado-body">` : ""}
         ${ret}
         ${gist}
         ${bullets}
         ${n.chart ? chartHTML(n.chart) : ""}
         ${n.illustration ? illHTML(n.illustration) : ""}
         ${n.continues ? `<p class="ado-cont">${md(n.continues)}</p>` : ""}
+        ${collapsible ? `</div>` : ""}
         ${(n.children || []).map((k) => nodeHTML(k, depth + 1)).join("")}
       </section>`;
     }
@@ -348,7 +355,11 @@
     container.classList.add("ado");
     setDir(container, outline.lang);
     container.dataset.level = container.dataset.level || "2";
-    container.innerHTML = (glance ? `<div class="ado-glwrap"></div>` : "") + (outline.sections || []).map((n) => nodeHTML(n, 1)).join("");
+    container.classList.toggle("ado-collapsible", !!collapsible);
+    const foldbar = collapsible
+      ? `<div class="ado-foldbar"><button type="button" data-foldall="1">${W.openAll}</button><button type="button" data-foldall="0">${W.closeAll}</button></div>` : "";
+    container.innerHTML = (glance && !collapsible ? `<div class="ado-glwrap"></div>` : "") + foldbar
+      + (outline.sections || []).map((n) => nodeHTML(n, 1)).join("");
 
     const sections = flat(outline.sections).map(({ n, depth }) => {
       const el = container.querySelector(`.ado-node[data-id="${CSS.escape(n.id)}"]`);
@@ -356,7 +367,7 @@
                depth, el, head: el.querySelector(":scope > .ado-head") };
     });
     const byId = Object.fromEntries(sections.map((s) => [s.id, s]));
-    const inline = glance ? mountGlance(container.querySelector(".ado-glwrap"), outline, {
+    const inline = glance && !collapsible ? mountGlance(container.querySelector(".ado-glwrap"), outline, {
       foldable: true, depth: glanceDepth, onDepth: onGlanceDepth, open: glanceOpen, onOpen: onGlanceOpen,
       onSection: (id) => { scrollToSection(id); onSection && onSection(id); } }) : null;
 
@@ -373,6 +384,10 @@
       const sg = e.target.closest(".ado-sage");
       if (sg) { onSage && onSage(+sg.dataset.sage, sg); return; }
       if (e.target.closest(".ado-glwrap")) return;   // the glance handles its own clicks
+      const f = e.target.closest(".ado-fold");
+      if (f) { toggle(f.closest(".ado-node")); return; }
+      const fa = e.target.closest("[data-foldall]");
+      if (fa) { setAll(fa.dataset.foldall === "1"); return; }
       const g = e.target.closest(".ado-ret");
       if (g) { scrollToSection(g.dataset.goto); onSection && onSection(g.dataset.goto); return; }
       const h = e.target.closest(".ado-head");
@@ -380,12 +395,24 @@
     };
     container.addEventListener("click", container._adoClick);
 
+    function setOpen(el, on) {
+      if (!el) return;
+      el.classList.toggle("ado-open", on);
+      const b = el.querySelector(":scope > .ado-head > .ado-fold");
+      if (b) b.setAttribute("aria-expanded", String(on));
+    }
+    function toggle(el) { setOpen(el, !el.classList.contains("ado-open")); }
+    function setAll(on) { sections.forEach((s) => setOpen(s.el, on)); }
+
     return {
       sections,
       scrollToSection,
       setLevel(lv) { container.dataset.level = String(lv); },
       setGlanceDepth(d) { inline && inline.setDepth(d); },
       setOption(name, on) { container.toggleAttribute(`data-no-${name}`, !on); },
+      // collapsible outlines: open a section (its own text), or open / fold them all
+      open(id) { if (collapsible && byId[id]) setOpen(byId[id].el, true); },
+      setAll(on) { if (collapsible) setAll(on); },
       markCurrent(id) {
         container.querySelectorAll(".ado-current").forEach((x) => x.classList.remove("ado-current"));
         if (byId[id]) byId[id].el.classList.add("ado-current");
