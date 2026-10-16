@@ -108,7 +108,8 @@ body.hemode #langSeg{direction:rtl}
 .page{padding:12px 14px 12px;display:flex;flex-direction:column;gap:10px;height:100%;box-sizing:border-box}
 #pagePane{overflow:hidden}
 .pagebar{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center}
-.pagebar .folio{font:500 1.05rem var(--hebrew)}
+.pagebar .folio{font:500 1.05rem var(--serif)}
+html[lang="he"] .pagebar .folio{font-family:var(--hebrew)}
 .amudnav{display:inline-flex;align-items:center;gap:4px}
 /* previous / next daf at the top and foot of the Gemara and shiur */
 .dafstep{display:flex;justify-content:center;margin:10px 0 18px}
@@ -242,6 +243,8 @@ body.dragging{cursor:col-resize;user-select:none}
 /* section pills, as in the apps: the shiur's sections in the audio panel and the Gemara window */
 .pills{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding:1px 0 2px;flex-basis:100%;min-width:0}
 .pills::-webkit-scrollbar{display:none}
+.pills{cursor:grab;user-select:none;-webkit-mask-image:linear-gradient(to right,transparent 0,#000 14px,#000 calc(100% - 14px),transparent 100%);mask-image:linear-gradient(to right,transparent 0,#000 14px,#000 calc(100% - 14px),transparent 100%);padding-inline:6px}
+.pills.drag,.pills.drag button{cursor:grabbing}
 .pills button{flex:none;font:500 12px var(--sans);white-space:nowrap;border:1px solid var(--line);border-radius:999px;padding:3px 10px;background:var(--panel);color:var(--ink);cursor:pointer}
 .pills button.on{background:var(--blue);border-color:var(--blue);color:var(--panel)}
 .pills button:disabled{opacity:.4;cursor:default}
@@ -298,9 +301,9 @@ body.dragging{cursor:col-resize;user-select:none}
 .gear{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:999px;border:1px solid var(--line);background:var(--panel);color:var(--muted);cursor:pointer;padding:0}
 .gear:hover,.gear[aria-expanded="true"]{color:var(--blue);border-color:var(--blue)}
 /* Resources and Quizzes & Games: the study tools, together, in light blue */
-.tools{display:inline-flex;gap:6px;padding:3px;border-radius:999px;background:var(--audio-bg);border:1px solid var(--audio-line)}
-.btn.tool{background:transparent;border-color:transparent;color:var(--blue);font-weight:600}
-.btn.tool:hover{background:var(--panel)}
+.tools{display:inline-flex;gap:6px}
+.btn.tool{background:var(--audio-bg);border:1px solid color-mix(in srgb,var(--blue) 45%,transparent);color:var(--blue);font-weight:600}
+.btn.tool:hover{border-color:var(--blue)}
 .btn.tool[aria-pressed="true"]{background:var(--blue);color:var(--panel)}
 .more .gl{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 /* What to show: the outline, the text side, or both. On a phone only one at a time. */
@@ -336,7 +339,7 @@ body.dragging{cursor:col-resize;user-select:none}
  .askip{padding:4px 7px}
  #aFollow button{padding:5px 9px}
  .nav .pick{font-size:1.02rem;padding:4px 5px}
- #tracPick{max-width:9.2rem}
+ #tracPick,#outPick{max-width:13rem}
  #paneSeg,.tools,#moreBtn{order:2}
  .bar{gap:8px 6px}
  #paneSeg button{padding:5px 8px}
@@ -386,7 +389,7 @@ dialog.fb .fine{font-size:12px;color:var(--muted);margin:8px 0 0}
 #gem2 .gemhead{gap:8px}
 #split2Close{font-size:16px;line-height:1;padding:3px 10px}
 body.hemode #pane2Seg [data-p="shiur"]{display:none}
-@media (max-width:860px){#splitBtn,#gem2{display:none!important}}
+@media (max-width:860px){#splitOpt,#gem2{display:none!important}}
 /* the day's dedication: a line above the bar while it lasts, and a window once a day */
 .dedline{margin:0;padding:4px 16px;text-align:center;font:italic 13px/1.4 var(--serif);color:var(--muted);background:var(--panel);border-bottom:1px solid var(--line)}
 dialog.ded{text-align:center;width:min(380px,calc(100vw - 32px))}
@@ -439,8 +442,9 @@ __SPRITE__
  <h1 class="brand"><a href="https://www.yctorah.org" target="_blank" rel="noopener" title="Yeshivat Chovevei Torah"><img class="lg-c" src="brand/yct-logo-color.png" alt="YCT" width="80" height="44"><img class="lg-w" src="brand/yct-logo-white.png" alt="YCT" width="80" height="44"></a><span class="bt">Illustrated Talmud</span></h1>
  <div class="nav" role="group" aria-label="Choose a daf">
   <button class="navb" id="prevDaf" type="button" aria-label="Previous daf" title="Previous daf (←)">‹</button>
-  <select class="pick" id="tracPick" aria-label="Masechet"></select>
-  <select class="pick num" id="dafNum" aria-label="Daf"></select>
+  <select class="pick" id="tracPick" aria-label="Masechet" hidden></select>
+  <select class="pick num" id="dafNum" aria-label="Daf" hidden></select>
+  <select class="pick" id="outPick" aria-label="Dafim with an outline"></select>
   <button class="navb" id="nextDaf" type="button" aria-label="Next daf" title="Next daf (→)">›</button>
   <button class="btn" id="todayBtn" type="button" title="Go to today's daf yomi">Daf Yomi</button>
  </div>
@@ -449,8 +453,8 @@ __SPRITE__
  <span class="spacer"></span>
  <div class="seg" id="paneSeg" role="group" aria-label="Beside the outline"><button data-p="outline" class="ph">Outline</button><button data-p="page">Daf</button><button data-p="text" aria-pressed="true">Gemara</button><button data-p="shiur">Shiur</button></div>
  <div class="tools" role="group" aria-label="Study tools">
-  <button class="btn tool" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
   <button class="btn tool" id="practiceBtn" aria-pressed="false" title="Quizzes and games on this daf" hidden>Quizzes &amp; Games</button>
+  <button class="btn tool" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
  </div>
  <button class="iconbtn gear" id="moreBtn" type="button" aria-expanded="false" aria-controls="more" aria-label="Settings" title="Settings"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M19.4 13a7.6 7.6 0 0 0 0-2l2.1-1.6a.5.5 0 0 0 .1-.6l-2-3.5a.5.5 0 0 0-.6-.2l-2.5 1a7.4 7.4 0 0 0-1.7-1l-.4-2.6a.5.5 0 0 0-.5-.4h-4a.5.5 0 0 0-.5.4l-.4 2.6a7.4 7.4 0 0 0-1.7 1l-2.5-1a.5.5 0 0 0-.6.2l-2 3.5a.5.5 0 0 0 .1.6L4.6 11a7.6 7.6 0 0 0 0 2l-2.1 1.6a.5.5 0 0 0-.1.6l2 3.5a.5.5 0 0 0 .6.2l2.5-1a7.4 7.4 0 0 0 1.7 1l.4 2.6a.5.5 0 0 0 .5.4h4a.5.5 0 0 0 .5-.4l.4-2.6a7.4 7.4 0 0 0 1.7-1l2.5 1a.5.5 0 0 0 .6-.2l2-3.5a.5.5 0 0 0-.1-.6zM12 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7z"/></svg></button>
  <div class="more" id="more" role="dialog" aria-label="Settings">
@@ -458,6 +462,7 @@ __SPRITE__
   <div class="grp"><span class="gl">Outline</span>
    <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
    <label class="tog"><input type="checkbox" id="optShiur" checked> Shiur insights</label>
+   <label class="tog"><input type="checkbox" id="optTerms"> Key terms list</label>
   </div>
   <div class="grp"><span class="gl">Text</span>
    <label class="tog"><input type="checkbox" id="syncTog" checked> Follow the outline</label>
@@ -465,10 +470,10 @@ __SPRITE__
   <div class="grp layout"><span class="gl">Layout</span>
    <div class="seg" id="showSeg" role="group" aria-label="Show"><button data-s="outline" title="Only the outline">Outline</button><button data-s="both" title="The outline with the text beside it">Both</button><button data-s="text" title="Only the Gemara, shiur or daf page">Text</button></div>
    <button class="btn" id="railBtn" aria-pressed="false" title="Show the contents beside the outline (wide screens)">Contents</button>
+   <label class="tog" id="splitOpt" title="Show a second text beside the first"><input type="checkbox" id="splitTog"> Two text panes</label>
    <button class="btn" id="sideBtn" type="button" aria-label="Move the text to the other side">⇄ Swap sides</button>
   </div>
   <div class="grp">
-   <select class="pick small" id="outPick" aria-label="Dafim with an outline"></select>
    <button class="btn" id="notesBtn" type="button" title="Notes you've sent on this daf">Feedback</button>
   </div>
  </div>
@@ -487,7 +492,6 @@ __SPRITE__
   <div class="gemhead">
    <div class="seg lang" id="langSeg" role="group" aria-label="Language"><button data-l="he" aria-label="Hebrew only">א</button><button data-l="both" aria-pressed="true" aria-label="Hebrew and English">אA</button><button data-l="en" aria-label="English only">A</button></div>
    <div class="now" id="now" hidden></div>
-   <button class="btn" id="splitBtn" type="button" title="Show a second text beside this one">⊞ Add a pane</button>
    <div class="pills" id="gPills" role="group" aria-label="Sections of the shiur: go to" hidden></div>
   </div>
   <div class="pane" id="textPane"><div class="text zoomable" id="text"></div></div>
@@ -597,7 +601,7 @@ const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='
 const RTL=UI==='he';
 const HEW={
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
- "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
+ "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
  'Beside the outline':'לצד המתווה','Gemara':'גמרא','Shiur':'שיעור',
  'Articles, teshuvot and shiurim from the YCT Torah Library on this daf':'מאמרים, תשובות ושיעורים על הדף מספריית התורה של ישיבת חובבי תורה (באנגלית)',
@@ -783,7 +787,7 @@ function showAmud(a,manual){
  if(!a||!D.images[a]||a===amudShown)return;amudShown=a;
  $('pageEl').src=D.images[a];$('pageEl').alt=tr('{0}, Vilna page',amudName(D,a));
  drawLayout(a);
- $('folio').textContent=`${D.tractateHe} ${D.amudHe[a]||a}`;
+ $('folio').textContent=amudName(D,a);   // in the interface's language
  $('amudSeg').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.a===a)));
  if(manual)textHold=Date.now()+4000;
 }
@@ -967,6 +971,10 @@ function applyOptions(){if(!view)return;view.setLevel(prefs.level||2);
 document.querySelectorAll('#levels button').forEach(b=>b.onclick=()=>{prefs.level=+b.dataset.lv;savePrefs();applyOptions();
  document.querySelectorAll('#levels button').forEach(x=>x.setAttribute('aria-pressed',x===b))});
 $('optShiur').onchange=applyOptions;
+// the key-terms list at the top of the outline is off unless the reader turns it on (the terms in
+// the outline still link to the glossary)
+function applyTerms(){const on=!!prefs.terms;$('optTerms').checked=on;$('terms').hidden=!on}
+$('optTerms').onchange=()=>{prefs.terms=$('optTerms').checked;savePrefs();applyTerms()};applyTerms();
 function setLang(l){$('gem').dataset.lang=$('gem2').dataset.lang=l;document.querySelectorAll('.seg.lang button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.l===l)));prefs.lang=l;savePrefs()}
 document.querySelectorAll('.seg.lang button').forEach(b=>b.onclick=()=>setLang(b.dataset.l));
 // The text side shows one of Daf / Gemara / Shiur (mode), and on wide screens optionally a second
@@ -986,16 +994,18 @@ function layoutPanes(){const sp=splitOn();
  if(!narrow.matches&&seg.parentElement!==head)head.prepend(seg);
  else if(narrow.matches&&seg.parentElement===head)$('practiceBtn').parentElement.before(seg);
  $('langSeg').hidden=mode==='page';$('langSeg2').hidden=mode2==='page';
- $('splitBtn').hidden=sp||narrow.matches||curView()==='outline';
+ $('splitTog').checked=sp;$('splitOpt').hidden=narrow.matches||curView()==='outline';
  document.querySelectorAll('#pane2Seg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.p===mode2)));
  if(typeof setWidths==='function')setWidths();setupGemSlider()}
 function setPane(p){if(p===mode2)mode2=mode;mode=p;prefs.pane=p;prefs.pane2=mode2||prefs.pane2;savePrefs();
  layoutPanes();markPaneSeg();if(current){const c=current;current=null;setCurrent(c)}}
 function setPane2(p){if(p===mode)mode=mode2;mode2=p;prefs.pane=mode;prefs.pane2=p;prefs.split=true;savePrefs();
  layoutPanes();markPaneSeg();if(current){const c=current;current=null;setCurrent(c)}}
-$('splitBtn').onclick=()=>{const ok=m=>m!==mode&&!(HE&&m==='shiur');
+function addPane(){const ok=m=>m!==mode&&!(HE&&m==='shiur');
  setPane2([prefs.pane2,'text','page','shiur'].find(m=>m&&ok(m)))};
-$('split2Close').onclick=()=>{mode2=null;prefs.split=false;savePrefs();unskim();layoutPanes()};
+function closePane2(){mode2=null;prefs.split=false;savePrefs();unskim();layoutPanes()}
+$('split2Close').onclick=closePane2;
+$('splitTog').onchange=()=>{if($('splitTog').checked)addPane();else closePane2()};
 document.querySelectorAll('#pane2Seg button').forEach(b=>b.onclick=()=>{if(b.dataset.p!==mode2)setPane2(b.dataset.p)});
 // On a phone the outline and the text side take turns on the screen; "Outline" in the same switch
 // flips between them. With "Follow the outline" on, each side opens where the other left off.
@@ -1459,6 +1469,17 @@ $('gPills').onclick=e=>{const b=e.target.closest('[data-i]');if(!b||b.disabled)r
    const h=[...$('shiur').querySelectorAll('h2,h3')].find(x=>norm(x.textContent)===norm(s.title))||audQuote(o);
    if(h)shiurPane.scrollTo({top:posIn(shiurPane,h)-12,behavior:'smooth'})}
   else if(m==='page'){const a=s.l.split('.')[0];if(D.images[a])showAmud(a,true);if(!sec||!view)markLayout({a:o,b:o});scrollPageTo()}}};
+// The pill strip scrolls sideways: a mouse can drag it (and the wheel scrolls it), as a finger
+// swipes it; a drag doesn't count as a click on the pill it started on.
+document.querySelectorAll('.pills').forEach(strip=>{let x0=null,sl=0,moved=false;
+ strip.addEventListener('pointerdown',e=>{if(e.pointerType!=='mouse'||e.button!==0)return;x0=e.clientX;sl=strip.scrollLeft;moved=false});
+ strip.addEventListener('pointermove',e=>{if(x0==null)return;const dx=e.clientX-x0;
+  if(!moved&&Math.abs(dx)>4){moved=true;strip.setPointerCapture(e.pointerId);strip.classList.add('drag')}
+  if(moved)strip.scrollLeft=sl-dx});
+ const end=()=>{x0=null;strip.classList.remove('drag')};
+ strip.addEventListener('pointerup',end);strip.addEventListener('pointercancel',end);
+ strip.addEventListener('click',e=>{if(moved){e.stopImmediatePropagation();e.preventDefault();moved=false}},true);
+ strip.addEventListener('wheel',e=>{if(Math.abs(e.deltaY)>Math.abs(e.deltaX)&&strip.scrollWidth>strip.clientWidth){strip.scrollLeft+=e.deltaY;e.preventDefault()}},{passive:false})});
 let pillRaf=0;[textPane,shiurPane].forEach(p=>p.addEventListener('scroll',()=>{if(!pillRaf)pillRaf=requestAnimationFrame(()=>{pillRaf=0;markGPill()})},{passive:true}));
 
 // ---------- reader feedback ----------
@@ -1597,7 +1618,7 @@ function parseHash(){const m=location.hash.match(/^#([^/]+)\/(\d+)(?:\/(\w+))?/)
 $('tracPick').innerHTML=TRACTATES.map(t=>`<option value="${esc(t.name)}">${esc(RTL?t.he:t.name)}</option>`).join('');
 function fillDafs(t){$('dafNum').innerHTML=dafsOf(TR[t]).map(n=>`<option value="${n}">${RTL?hebNum(n):n}${OUT_BY[t+'|'+n]?' ✦':''}</option>`).join('')}
 {const groups=[];DAFIM_UI.forEach(d=>{const g=RTL?'מתווים בעברית':d.group||'';let G=groups.find(x=>x.g===g);if(!G)groups.push(G={g,items:[]});G.items.push(d)});
- $('outPick').innerHTML=`<option value="">${tr('Dafim with an outline…')}</option>`+groups.map(G=>`<optgroup label="${esc(G.g)}">${G.items.map(d=>`<option value="${esc(d.key)}">${esc(RTL?dafName(d.tractate,Math.floor(d.daf)):d.title)}</option>`).join('')}</optgroup>`).join('')}
+ $('outPick').innerHTML=`<option value="" disabled>${tr('Choose a daf…')}</option>`+groups.map(G=>`<optgroup label="${esc(G.g)}">${G.items.map(d=>`<option value="${esc(d.key)}">${esc(RTL?dafName(d.tractate,Math.floor(d.daf)):d.title)}</option>`).join('')}</optgroup>`).join('')}
 function goDaf(t,n,v,{push=true}={}){const T=TR[t];if(!T)return;
  const ds=dafsOf(T);n=Math.max(ds[0],Math.min(ds[ds.length-1],n));
  // a version named in the link may be in the other language's list (a Hebrew reader opening the English outline)
@@ -1611,6 +1632,7 @@ function goDaf(t,n,v,{push=true}={}){const T=TR[t];if(!T)return;
  $('verSeg').hidden=outs.length<2;
  $('verSeg').innerHTML=outs.length<2?'':outs.map(x=>`<button type="button" data-v="${esc(verLabel(x))}" aria-pressed="${x===o}" title="${esc(x.title)}">${esc(verLabel(x))}</button>`).join('');
  $('outPick').value=o?o.key:'';
+ if(OUT_SEQ&&OUT_SEQ.length)markOutStep();
  document.title=`${dafName(t,n)} · AnyDaf`;
  load(o?o.key:null,t,n)}
 // previous / next run across tractates, in the apps' order
@@ -1618,7 +1640,14 @@ function step(s){const i=TRACTATES.findIndex(t=>t.name===navAt.t),ds=dafsOf(TR[n
  if(n<ds[0]){if(i>0){const T=TRACTATES[i-1];return goDaf(T.name,parseInt(T.last,10))}return}
  if(n>ds[ds.length-1]){if(i<TRACTATES.length-1){const T=TRACTATES[i+1];return goDaf(T.name,parseInt(T.first,10))}return}
  goDaf(navAt.t,n)}
-$('prevDaf').onclick=()=>step(-1);$('nextDaf').onclick=()=>step(1);
+// While only a few dafim have outlines, the menu lists just those, and ‹ › / ← → step through them
+// in the menu's order (step() above still walks all of Shas, for when the full pickers return).
+var OUT_SEQ=[];DAFIM_UI.forEach(d=>{const t=d.tractate,n=Math.floor(d.daf);if(!OUT_SEQ.some(x=>x.t===t&&x.n===n))OUT_SEQ.push({t,n})});
+function stepOut(s){if(!OUT_SEQ.length)return step(s);const i=OUT_SEQ.findIndex(x=>x.t===navAt.t&&x.n===navAt.n);
+ const j=i<0?(s>0?0:OUT_SEQ.length-1):i+s;if(j<0||j>=OUT_SEQ.length)return;goDaf(OUT_SEQ[j].t,OUT_SEQ[j].n)}
+function markOutStep(){const i=OUT_SEQ.findIndex(x=>x.t===navAt.t&&x.n===navAt.n);
+ $('prevDaf').disabled=i===0;$('nextDaf').disabled=i===OUT_SEQ.length-1}
+$('prevDaf').onclick=()=>stepOut(-1);$('nextDaf').onclick=()=>stepOut(1);
 // Today's daf yomi, from Sefaria's calendar (as the apps' DafYomiService), for the reader's own date.
 const SEFARIA_NAME={Eruvin:'Eiruvin',Taanit:'Ta’anit',Chullin:'Hullin'};
 $('todayBtn').onclick=async()=>{const b=$('todayBtn'),d=new Date();b.disabled=true;
@@ -1636,7 +1665,7 @@ addEventListener('popstate',()=>{const h=parseHash();if(h)goDaf(h.t,h.n,h.v,{pus
 // ← / → turn the daf, unless the reader is typing or using a slider
 addEventListener('keydown',e=>{if(e.altKey||e.ctrlKey||e.metaKey||e.target.closest('input,select,textarea,dialog'))return;
  const back=RTL?'ArrowRight':'ArrowLeft',fwd=RTL?'ArrowLeft':'ArrowRight';
- if(e.key===back){step(-1);e.preventDefault()}else if(e.key===fwd){step(1);e.preventDefault()}});
+ if(e.key===back){stepOut(-1);e.preventDefault()}else if(e.key===fwd){stepOut(1);e.preventDefault()}});
 async function load(key,t,n){const tok=++navToken;
  $('outline').innerHTML=`<p class="loading">${tr('Loading…')}</p>`;
  try{const ck=key||`${t}|${n}`;

@@ -1897,6 +1897,14 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   section, or sets the shiur to start there); the audio panel's own pills are gone. The "Reading …"
   line is gone. On the daf page the highlight is always on, a tap shows no text box, and the amud
   is changed only by the ‹ › arrows (the amud buttons are hidden).
+  Later the same day: Quizzes & Games comes before Resources, each its own outlined light-blue
+  pill; the key-terms list at the top of the outline is off unless turned on in Settings ("Key
+  terms list", `prefs.terms`); "Add a pane" is a Settings switch ("Two text panes", `#splitTog`);
+  the daf page's folio is in the interface's language (`amudName`). **While only a few dafim have
+  outlines, the bar's daf menu is the "Dafim with an outline" list** (`#outPick`; the masechet and
+  daf pickers are hidden, not removed) and ‹ › / ← → step through that list (`stepOut`,
+  `OUT_SEQ`); `step()` still walks all of Shas, for when the full pickers return. The section pill
+  strip can be dragged with a mouse (and scrolled with the wheel); a drag doesn't click a pill.
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).
