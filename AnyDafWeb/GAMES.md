@@ -31,7 +31,7 @@ Build these first, on one test daf:
    The author wants to see it working before deciding whether it is worth keeping, so build it
    last.
 
-Still to do and already planned: **multiple-choice quizzes**. The plan is for the outline pass to
+**Multiple-choice quizzes** (2026-10-16): a demo set, hand-written for Kiddushin 2–12 and Bava Metzia 2–11, is the "Quiz" game (see CLAUDE.md). Planned for production: The plan is for the outline pass to
 write them (with section summaries) rather than a separate pass; see TODO.md.
 
 ## Status (2026-10-05)

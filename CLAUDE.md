@@ -1934,7 +1934,7 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   second-level headings are blue (`--l2` / `--ado-l2`). The Resources button shows no count
   (author: a "1" discourages a click, and the window always has more), and the "Nothing in the
   library is tagged to…" line is gone. The outline menu runs in daf order within each group, M
-  before H (sorted in app.html, so `stepOut` follows it too). Kiddushin 2 was rerun on the current
+  before H (sorted in app.html, so `stepOut` follows it too). **Quizzes (demo, 2026-10-16):** hand-written, no API, 8–9 multiple-choice questions per daf for Kiddushin 2–12 and Bava Metzia 2–11 (173 in all), in `daf-processor/outline/quizzes/<base key>.json` (`q`, `options` with the right one first, `why`, `line` = a Sefaria label); `build_prototype.py` adds them to each data file as `quiz` (not for Hebrew outlines), `app.html` `quizFor()` ties each to the narrowest outline section holding its line (so one quiz serves M and H), and `games.js` shows them as the first game, "Quiz". In production the outline pass would write them. Kiddushin 2 was rerun on the current
   prompt (Opus 5.5 Medium + High, batch, 2026-10-16) and is on the site as Kiddushin 2 (M)/(H), in
   place of the old test-set version.
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
