@@ -1931,9 +1931,12 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   (Chagigah 6 and BM 10 rewritten from his examples). Open all / Collapse all sit in that header,
   under the summary (moved out of the renderer's container; `view.setAll`). If kept, the outline pass should generate
   them (a `summary` field). Top-level sections now get a dividing line and more space above;
-  second-level headings are blue (`--l2` / `--ado-l2`). The Resources count is a round badge (it
-  counts items tagged to this daf; the window also lists nearby and tractate-wide ones), and the
-  "Nothing in the library is tagged to…" line is gone.
+  second-level headings are blue (`--l2` / `--ado-l2`). The Resources button shows no count
+  (author: a "1" discourages a click, and the window always has more), and the "Nothing in the
+  library is tagged to…" line is gone. The outline menu runs in daf order within each group, M
+  before H (sorted in app.html, so `stepOut` follows it too). Kiddushin 2 was rerun on the current
+  prompt (Opus 5.5 Medium + High, batch, 2026-10-16) and is on the site as Kiddushin 2 (M)/(H), in
+  place of the old test-set version.
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).
