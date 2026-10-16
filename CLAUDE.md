@@ -1905,6 +1905,10 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   daf pickers are hidden, not removed) and ‹ › / ← → step through that list (`stepOut`,
   `OUT_SEQ`); `step()` still walks all of Shas, for when the full pickers return. The section pill
   strip can be dragged with a mouse (and scrolled with the wheel); a drag doesn't click a pill.
+  The Daf Yomi button is hidden for now (today's daf usually has no outline). The inline "At a
+  glance" box is only as wide as it needs (the label when closed, its longest entry when open;
+  `width:fit-content` in the renderer). The daf menu is plain sans, regular weight (as AnyTorahWeb's
+  pickers, a little larger).
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).

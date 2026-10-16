@@ -167,7 +167,7 @@ body.dragging{cursor:col-resize;user-select:none}
 .foot .fl{min-width:4.6em;opacity:.8}
 .zoomable{zoom:var(--fz,1)}
 .page p{font-size:12.5px;color:var(--muted);margin:0;max-width:60ch}
-.pick{font:600 1.2rem/1.2 var(--serif);color:var(--ink);background:var(--ground);border:1px solid var(--line);border-radius:6px;padding:4px 8px}
+.pick{font:400 15.5px/1.3 var(--sans);color:var(--ink);background:var(--ground);border:1px solid var(--line);border-radius:6px;padding:4px 8px}
 .pick.small{font:500 12.5px var(--sans);padding:5px 8px;border-radius:999px;max-width:14rem}
 .nav{display:inline-flex;align-items:center;gap:4px}
 .navb{font:500 1.35rem/1 var(--serif);width:32px;height:32px;border:1px solid var(--line);border-radius:999px;background:var(--panel);color:var(--ink);cursor:pointer;padding:0 0 3px}
@@ -338,7 +338,7 @@ body.dragging{cursor:col-resize;user-select:none}
  .aplay{width:34px;height:34px}
  .askip{padding:4px 7px}
  #aFollow button{padding:5px 9px}
- .nav .pick{font-size:1.02rem;padding:4px 5px}
+ .nav .pick{font-size:15px;padding:4px 5px}
  #tracPick,#outPick{max-width:13rem}
  #paneSeg,.tools,#moreBtn{order:2}
  .bar{gap:8px 6px}
@@ -446,7 +446,7 @@ __SPRITE__
   <select class="pick num" id="dafNum" aria-label="Daf" hidden></select>
   <select class="pick" id="outPick" aria-label="Dafim with an outline"></select>
   <button class="navb" id="nextDaf" type="button" aria-label="Next daf" title="Next daf (→)">›</button>
-  <button class="btn" id="todayBtn" type="button" title="Go to today's daf yomi">Daf Yomi</button>
+  <button class="btn" id="todayBtn" type="button" title="Go to today's daf yomi" hidden>Daf Yomi</button>
  </div>
  <button class="btn" id="uiBtn" type="button"></button>
  <div class="seg" id="verSeg" role="group" aria-label="Outline version" hidden></div>
