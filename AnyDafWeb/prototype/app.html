@@ -779,7 +779,12 @@ function renderDaf(d){
  outPane.scrollTop=0;textPane.scrollTop=0;shiurPane.scrollTop=0;
  renderSages(d.sages||[]);
  if(games){games.destroy();games=null}
- if(d.outline){games=AnyDafGames.mount($('pgames'),{outline:d.outline,keyTerms:terms,sages:d.sages,title:dispTitle(d)},{lang:he?'he':'en',onReview:id=>{if(narrow.matches){setPractice(false);setView('outline')}setCurrent(id,true)}});
+ // the daf's quiz, each question tied to the narrowest outline section holding its line (works for any version)
+ function quizFor(d){if(!d.quiz||!view)return null;const at=l=>d.order[l];
+  return d.quiz.map(x=>{const p=at(x.line);let best=null;
+   if(p!=null)view.sections.forEach(s=>{const a=at(s.from),b=at(s.to);if(a!=null&&b!=null&&a<=p&&p<=b&&(!best||b-a<=best.b-best.a))best={id:s.id,a,b,t:s.title}});
+   return {...x,id:best&&best.id,crumb:best&&String(best.t||'').replace(/\*+/g,'')}})}
+ if(d.outline){games=AnyDafGames.mount($('pgames'),{outline:d.outline,keyTerms:terms,sages:d.sages,title:dispTitle(d),quiz:quizFor(d)},{lang:he?'he':'en',onReview:id=>{if(narrow.matches){setPractice(false);setView('outline')}setCurrent(id,true)}});
   $('pwinTitle').textContent=he?'חידונים ומשחקים':'Quizzes & Games'}
  $('practiceBtn').hidden=!(games&&games.hasGames);if($('practiceBtn').hidden){$('pwin').hidden=true}
  countResources();if(!$('rwin').hidden)showResources();

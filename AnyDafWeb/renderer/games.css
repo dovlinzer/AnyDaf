@@ -89,3 +89,17 @@
 .adg-nav button:hover{border-color:var(--blue,#1B3A8A)}
 .adg-where{display:block;margin:10px 0 0;font-size:11px;line-height:1.35;color:var(--muted,#5B6478);font-weight:400}
 .adg-case .adg-where{margin-top:8px}
+
+/* Quiz */
+.adg-quiz{display:flex;flex-direction:column;gap:12px;max-width:560px;margin:0 auto}
+.adg-qq{margin:4px 0 0;font-size:15px;line-height:1.45;font-weight:500}
+.adg-opts{display:flex;flex-direction:column;gap:8px}
+.adg-opt{font:14px/1.4 var(--sans,system-ui);text-align:start;border:1px solid var(--line,#DCE0EA);background:var(--panel,#fff);color:inherit;border-radius:10px;padding:10px 14px;cursor:pointer;transition:background .15s,border-color .15s}
+.adg-opt:hover:not(:disabled){border-color:var(--blue,#1B3A8A)}
+.adg-opt:disabled{cursor:default}
+.adg-opt.good{border-color:var(--g-ok);background:color-mix(in srgb,var(--g-ok) 14%,var(--panel,#fff));font-weight:500}
+.adg-opt.bad{border-color:var(--g-no);background:color-mix(in srgb,var(--g-no) 12%,var(--panel,#fff))}
+.adg-opt.dim{opacity:.55}
+.adg-quiz .adg-fb{max-width:none;text-align:start;min-height:0;line-height:1.45}
+.adg-quiz .adg-after{display:flex;flex-direction:column;gap:10px}
+.adg-row{display:flex;gap:8px;flex-wrap:wrap;justify-content:flex-end}

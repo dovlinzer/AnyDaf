@@ -9,6 +9,7 @@
  *   Fill in the chart  outline sections' `chart` (empty cells, cards to drag or tap into place)
  *   Term match         `keyTerms` (term + hebrew  <->  sense), memory-card style
  *   Who said it        chart rows that are parties (sages, schools) matched to the position each holds in one column
+ *   Quiz               multiple-choice questions written for the daf (data.quiz: q, options with the right one first, why, id)
  *   Kosher or pasul    short verdict cells of the charts (chart.tones, else the renderer's cellTone): swipe or tap the ruling
  */
 (function (global) {
@@ -22,12 +23,12 @@
       none: "Nothing to practice here yet.", again: "Play again", next: "Next chart", done: "Done!", slips: (n) => n ? `${n} slip${n > 1 ? "s" : ""}` : "no slips",
       tray: "Cards", hint: "Tap a card, then tap its place, or drag it there.", pairs: "pairs found", tries: "tries", chartN: (i, n) => `Chart ${i} of ${n}`, all: "All matched",
       kp: "Kosher or pasul", kpD: "Swipe right or left, or tap, for each case.", round: (i, n) => `${i} of ${n}`, right: "Right!", wrong: "Not quite", score: (a, n) => `${a} of ${n} right`, swipe: "← swipe →",
-      who: "Who said it", whoD: "Match each sage or school to the position they hold.", whoQ: "Who holds this?", roundN: (i, n) => `Round ${i} of ${n}`, nextR: "Next round", review: "See it in the outline:", next1: "Next ›", peek: "See it in the outline", according: "According to", section: "Outline section", navPrev: "Previous", navNext: "Skip to the next", skipped: (n) => n ? ` ${n} skipped.` : "" },
+      who: "Who said it", whoD: "Match each sage or school to the position they hold.", whoQ: "Who holds this?", roundN: (i, n) => `Round ${i} of ${n}`, nextR: "Next round", review: "See it in the outline:", next1: "Next ›", peek: "See it in the outline", according: "According to", section: "Outline section", navPrev: "Previous", navNext: "Skip to the next", skipped: (n) => n ? ` ${n} skipped.` : "", quiz: "Quiz", quizD: "Multiple-choice questions on the daf's main points.", qN: (i, n) => `Question ${i} of ${n}` },
     he: { title: "תרגול", back: "› כל המשחקים", chart: "השלימו את הטבלה", chartD: "גררו כל כרטיס למקומו בטבלה.", match: "התאמת מושגים", matchD: "הפכו שני כרטיסים: מושג והפירוש שלו.",
       none: "אין עדיין מה לתרגל כאן.", again: "שוב", next: "הטבלה הבאה", done: "סיימתם!", slips: (n) => n ? `${n} טעויות` : "בלי טעויות",
       tray: "כרטיסים", hint: "הקישו על כרטיס ואז על מקומו, או גררו אותו.", pairs: "זוגות", tries: "ניסיונות", chartN: (i, n) => `טבלה ${i} מתוך ${n}`, all: "הכול הותאם",
       kp: "כשר או פסול", kpD: "החליקו ימינה או שמאלה, או הקישו, על כל מקרה.", round: (i, n) => `${i} מתוך ${n}`, right: "נכון!", wrong: "לא בדיוק", score: (a, n) => `${a} מתוך ${n} נכונות`, swipe: "← החליקו →",
-      who: "מי אמר", whoD: "התאימו כל חכם או בית מדרש לעמדה שלו.", whoQ: "מי סבור כך?", roundN: (i, n) => `סבב ${i} מתוך ${n}`, nextR: "הסבב הבא", review: "ראו בסכמה:", next1: "‹ הבא", peek: "ראו בסכמה", according: "לדעת", section: "פרק בסכמה", navPrev: "הקודם", navNext: "דלגו לבא", skipped: (n) => n ? ` ${n} דולגו.` : "" },
+      who: "מי אמר", whoD: "התאימו כל חכם או בית מדרש לעמדה שלו.", whoQ: "מי סבור כך?", roundN: (i, n) => `סבב ${i} מתוך ${n}`, nextR: "הסבב הבא", review: "ראו בסכמה:", next1: "‹ הבא", peek: "ראו בסכמה", according: "לדעת", section: "פרק בסכמה", navPrev: "הקודם", navNext: "דלגו לבא", skipped: (n) => n ? ` ${n} דולגו.` : "", quiz: "חידון", quizD: "שאלות אמריקאיות על עיקרי הדף.", qN: (i, n) => `שאלה ${i} מתוך ${n}` },
   };
 
   // Every chart with the section it sits in: id (so a game can send the reader there) and a short trail of
@@ -129,7 +130,9 @@
     const chartList = charts(data.outline);
     const terms = (data.keyTerms || []).filter((t) => t.term && (t.sense || t.definition));
     const verdictList = verdicts(data.outline), roundList = partyRounds(data.outline, data.sages);
+    const quiz = (data.quiz || []).filter((x) => x && x.q && (x.options || []).length >= 2);
     const games = [
+      { id: "quiz", name: W.quiz, desc: W.quizD, ok: quiz.length > 0, start: () => quizGame() },
       { id: "chart", name: W.chart, desc: W.chartD, ok: chartList.length > 0, start: () => chartGame(0) },
       { id: "match", name: W.match, desc: W.matchD, ok: terms.length >= 3, start: matchGame },
       { id: "who", name: W.who, desc: W.whoD, ok: roundList.length > 0, start: () => whoGame() },
@@ -256,6 +259,41 @@
         if (more) e.querySelector("#adgNext").onclick = () => whoGame(rounds, r + 1); else e.querySelector("#adgAgain").onclick = () => whoGame();
         wireReview(e);
       }
+    }
+
+    // ---------- Quiz ----------
+    // One question at a time in the daf's order; the options are shuffled (the right one is written first).
+    // A right answer lights up green; a wrong one red, with the right one shown. Each answer gives its reason
+    // and a way back to the outline section the question comes from.
+    function quizGame() {
+      const res = []; let i = 0;
+      const body = shell(W.quiz, `<div class="adg-quiz"></div><div class="adg-end" hidden></div>`, `<span class="adg-sc"></span>${navHTML()}`);
+      const box = body.querySelector(".adg-quiz"), sc = el.querySelector(".adg-sc");
+      function show() {
+        const it = quiz[i], order = shuffle(it.options.map((o, k) => k));
+        box.hidden = false; body.querySelector(".adg-end").hidden = true; sc.textContent = W.qN(i + 1, quiz.length);
+        box.innerHTML = `<p class="adg-qq">${md(it.q)}</p><div class="adg-opts">${order.map((k) =>
+          `<button type="button" class="adg-opt" data-k="${k}">${md(it.options[k])}</button>`).join("")}</div><div class="adg-after" hidden></div>`;
+        box.querySelectorAll(".adg-opt").forEach((b) => b.onclick = () => answer(+b.dataset.k));
+      }
+      function answer(k) {
+        const it = quiz[i]; if (res[i] !== undefined) return; const good = k === 0; res[i] = good;
+        box.querySelectorAll(".adg-opt").forEach((b) => { b.disabled = true; const n = +b.dataset.k;
+          if (n === 0) b.classList.add("good"); else if (n === k) b.classList.add("bad"); else b.classList.add("dim"); });
+        const a = box.querySelector(".adg-after"); a.hidden = false;
+        a.innerHTML = `<p class="adg-fb ${good ? "good" : "bad"}"><b>${good ? W.right : W.wrong}</b> ${md(it.why || "")}</p><div class="adg-row">${it.id ? `<button type="button" class="adg-btn" data-rev="${esc(it.id)}">${W.peek}</button>` : ""}<button type="button" class="adg-btn pri" id="adgNext1">${W.next1}</button></div>`;
+        wireReview(a); a.querySelector("#adgNext1").onclick = advance; a.querySelector("#adgNext1").focus();
+      }
+      const advance = () => { i++; i < quiz.length ? show() : finish(); };
+      wireNav(() => { if (i > 0) { i--; show(); } }, () => { if (i < quiz.length) advance(); });
+      function finish() {
+        box.hidden = true; const e = body.querySelector(".adg-end"); e.hidden = false;
+        const missed = new Map(); quiz.forEach((it, k) => { if (res[k] === false && it.id) missed.set(it.id, it.crumb || W.peek); });
+        const answered = res.filter((x) => x !== undefined).length;
+        e.innerHTML = `<p><b>${W.done}</b> ${W.score(res.filter(Boolean).length, answered)}.${W.skipped(quiz.length - answered)}</p><button type="button" class="adg-btn pri" id="adgAgain">${W.again}</button>${reviewHTML(missed)}`;
+        e.querySelector("#adgAgain").onclick = quizGame; wireReview(e);
+      }
+      show();
     }
 
     // ---------- Kosher or pasul ----------
