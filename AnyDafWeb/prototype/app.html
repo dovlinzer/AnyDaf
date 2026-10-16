@@ -294,6 +294,9 @@ body.dragging{cursor:col-resize;user-select:none}
 .outhead h1{margin:0;font:600 1.7rem/1.2 var(--serif);color:var(--blue)}
 .outhead p{margin:8px 0 0;font:15px/1.55 var(--serif);color:var(--muted)}
 .outhead p b{font-weight:600;color:var(--ink)}
+.outhead .ado-foldbar{display:flex;gap:6px;margin:12px 0 0}
+.outhead .ado-foldbar button{font:500 12px var(--sans);border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:4px 11px;border-radius:999px;cursor:pointer}
+.outhead .ado-foldbar button:hover{border-color:var(--blue);color:var(--blue)}
 html[lang="he"] .outhead h1,html[lang="he"] .outhead p{font-family:var(--hebrew)}
 #resBtn .n{display:inline-block;min-width:18px;box-sizing:border-box;margin-inline-start:6px;padding:0 6px;border-radius:999px;background:var(--blue);color:var(--panel);font:600 11px/18px var(--sans);text-align:center;vertical-align:1px}
 #resBtn[aria-pressed="true"] .n{background:var(--panel);color:var(--blue)}
@@ -733,6 +736,10 @@ function renderDaf(d){
    glanceOpen:prefs.glanceOpen===true,onGlanceOpen:o=>{prefs.glanceOpen=o;savePrefs()},
    sages:d.sages||[],onSage:i=>openSage(i),collapsible:prefs.collapse!==false});
   railView=AnyDafOutline.glance($('rail'),d.outline,{onSection:id=>setCurrent(id,true),depth:gd,onDepth});
+  // Open all / Collapse all sit under the title and summary, above the outline's first line
+  $('outHead').querySelectorAll('.ado-foldbar').forEach(x=>x.remove());
+  const fb=$('outline').querySelector(':scope>.ado-foldbar');
+  if(fb){$('outHead').appendChild(fb);fb.onclick=e=>{const b=e.target.closest('[data-foldall]');if(b)view.setAll(b.dataset.foldall==='1')}}
   applyOptions();
   secs=view.sections.map(s=>({...s,a:d.order[s.from],b:d.order[s.to],am:firstAmud(s)}));
  }else{

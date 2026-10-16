@@ -1927,8 +1927,9 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   Same day: the outline opens with the daf's title and a one-sentence summary ("Discussion of: A;
   B; and C.", `#outHead`), from `daf-processor/outline/daf_summaries.json` (keyed by base daf key;
   `build_prototype.py` adds it to each data file as `summary`; not shown for Hebrew outlines).
-  **Drafts for the author's review:** Chagigah 6 and BM 10 are his own examples, the other 39 were
-  written by hand from the outlines' sections, no API. If kept, the outline pass should generate
+  **Drafts for the author's review:** all 41 written by hand from the outlines' sections, no API
+  (Chagigah 6 and BM 10 rewritten from his examples). Open all / Collapse all sit in that header,
+  under the summary (moved out of the renderer's container; `view.setAll`). If kept, the outline pass should generate
   them (a `summary` field). Top-level sections now get a dividing line and more space above;
   second-level headings are blue (`--l2` / `--ado-l2`). The Resources count is a round badge (it
   counts items tagged to this daf; the window also lists nearby and tractate-wide ones), and the
