@@ -1305,8 +1305,10 @@ async function showResources(){if(!D)return;const d=D,daf=dafNumOf(d);
 // The button shows how many items are on this daf itself, once the tractate's list is in.
 function countResources(){const d=D;if(!d)return;$('resBtn').innerHTML=tr('Resources');
  loadResources(d.tractate).then(r=>{if(D!==d)return;const n=r.items.filter(a=>a.dafs.includes(dafNumOf(d))).length;
-  $('resBtn').innerHTML=`${tr('Resources')}${n?`<span class="n">${n}</span>`:''}`;
-  $('resBtn').title=n?tr('{0} tagged to this daf, more nearby and across the tractate',n):tr('Articles, teshuvot and shiurim from the YCT Torah Library on this daf')}).catch(()=>{})}
+  // no count on the button (author, 2026-10-16): a "1" discourages a click, while the window always
+  // has more (nearby dafim and the whole tractate)
+  $('resBtn').innerHTML=tr('Resources');
+  $('resBtn').title=tr('Articles, teshuvot and shiurim from the YCT Torah Library on this daf')}).catch(()=>{})}
 $('resBtn').onclick=()=>{const open=$('rwin').hidden;$('rwin').hidden=!open;$('resBtn').setAttribute('aria-pressed',String(open));if(open){front($('rwin'));showResources()}};
 $('rwinClose').onclick=()=>{$('rwin').hidden=true;$('resBtn').setAttribute('aria-pressed','false')};
 $('rwin').addEventListener('pointerdown',()=>front($('rwin')));
@@ -1598,6 +1600,10 @@ const amudHe=a=>hebNum(parseInt(a,10))+(a.endsWith('a')?'.':':');
 // The Hebrew interface offers the Hebrew outlines (mark HE), the English one the rest; OUT_ALL keeps
 // both, so a Hebrew reader can still open a daf's English outline.
 const isHeOut=o=>o.mark==='HE',DAFIM_UI=DAFIM.filter(o=>isHeOut(o)===RTL);
+// the menu (and ‹ ›) run in daf order within each group (Kiddushin 2, 3 … 10, not 10, 11, 12, 2 …),
+// versions M then H
+{const gi={};DAFIM.forEach(o=>{if(!(o.group in gi))gi[o.group]=Object.keys(gi).length});const vo=v=>({M:0,H:1}[v]??2);
+ DAFIM_UI.sort((a,b)=>gi[a.group]-gi[b.group]||(a.tractate===b.tractate?0:a.tractate<b.tractate?-1:1)||a.daf-b.daf||vo(a.mark)-vo(b.mark))}
 const byDaf=list=>{const m={};list.forEach(o=>{const k=o.tractate+'|'+Math.floor(o.daf);(m[k]=m[k]||[]).push(o)});return m};
 const OUT_BY=byDaf(DAFIM_UI),OUT_ALL=byDaf(DAFIM.filter(o=>!isHeOut(o)));
 const VER_ORDER={M:0,H:1};   // Medium first, then High, then the first test run
