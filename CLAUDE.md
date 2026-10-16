@@ -1879,6 +1879,16 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   the bar while it lasts, and a window once a day per browser (`anydaf:lastDedicationShown`). The
   photo is fetched with the key from the authenticated storage address, since the bucket's plain
   public address doesn't serve it. The message reads "…learning with the Illustrated Talmud…".
+- Calmer screen (2026-10-15, readers found it overwhelming): the bar keeps the brand, the daf
+  picker with "Daf Yomi" (was "Today"), the language button, the outline version, and a light-blue
+  group of the study tools (Resources and "Quizzes & Games", the old Practice window) beside a gear
+  that opens Settings, a panel dropping from the bar (`.more`; closes on ×, Esc or a click
+  elsewhere) with the detail level, Shiur insights, and Layout (Outline / Both / Text, Contents,
+  Swap sides), the outline menu and Feedback. Pictures, charts, sages and key terms always show
+  (no toggles); the Glossary and Sages windows open only from a term or a sage's name. The
+  Daf / Gemara / Shiur switch sits in the text pane's own header (on a phone, where it also flips
+  to the outline, it stays on the bar). The text side has its own quiet warm background
+  (`--gem-bg`). A first visit through italmud.com opens on Both, the text side a third of the width.
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).

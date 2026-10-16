@@ -5,10 +5,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;1,6..72,500&family=Public+Sans:wght@400;500;600&family=Frank+Ruhl+Libre:wght@400;500;700&family=Assistant:wght@400;600;700&display=swap">
 <style>
-:root{--ground:#F4F5F9;--panel:#FFFFFF;--ink:#1A1F2E;--muted:#5B6478;--line:#DCE0EA;--blue:#1B3A8A;--teal:#2C6A6E;--teal-line:#B9D3D4;--amber:#9A6212;--amber-soft:#FBF1DF;--grey-soft:#EEF0F4;--link:#6B4FA0;--term:#E4EAF8;--current:#1B3A8A;--range:#EAF0FB;--range-edge:#1B3A8A;--shadow:0 12px 40px rgba(20,30,60,.18);--audio-bg:#E6EEFC;--audio-line:#C5D4F2;
+:root{--ground:#F4F5F9;--panel:#FFFFFF;--ink:#1A1F2E;--muted:#5B6478;--line:#DCE0EA;--blue:#1B3A8A;--teal:#2C6A6E;--teal-line:#B9D3D4;--amber:#9A6212;--amber-soft:#FBF1DF;--grey-soft:#EEF0F4;--link:#6B4FA0;--term:#E4EAF8;--current:#1B3A8A;--range:#EAF0FB;--range-edge:#1B3A8A;--shadow:0 12px 40px rgba(20,30,60,.18);--audio-bg:#E6EEFC;--audio-line:#C5D4F2;--gem-bg:#F8F6F1;
 --serif:"Newsreader",Georgia,"Times New Roman",serif;--sans:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;--hebrew:"Frank Ruhl Libre","Times New Roman",serif}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--ok:#7CC48A;--no:#EE8F8F;--audio-bg:#1A2744;--audio-line:#2C3D63}}
-:root[data-theme="dark"]{color-scheme:dark;--ok:#7CC48A;--no:#EE8F8F;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--audio-bg:#1A2744;--audio-line:#2C3D63}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--ok:#7CC48A;--no:#EE8F8F;--audio-bg:#1A2744;--gem-bg:#1B1E26;--audio-line:#2C3D63}}
+:root[data-theme="dark"]{color-scheme:dark;--ok:#7CC48A;--no:#EE8F8F;--ground:#10131B;--panel:#181C27;--ink:#E6E9F2;--muted:#9AA3B8;--line:#2B3142;--blue:#8FA8EC;--teal:#7CC3C4;--teal-line:#2F4B4E;--amber:#E0B067;--amber-soft:#33291A;--grey-soft:#222735;--link:#B9A2E6;--term:#26314F;--current:#8FA8EC;--range:#1D2640;--range-edge:#8FA8EC;--shadow:0 12px 40px rgba(0,0,0,.5);--audio-bg:#1A2744;--gem-bg:#1B1E26;--audio-line:#2C3D63}
 html,body{height:100%}
 /* the height Safari actually shows, toolbars and all, so the audio bar at the foot isn't hidden under them */
 @supports (height:100dvh){body{height:100dvh}}
@@ -67,7 +67,7 @@ button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-o
 .terms button span{font-family:var(--hebrew);margin-inline-start:6px;color:var(--muted)}
 #outZoom[dir="rtl"] .terms .lbl{margin:0 0 0 4px;letter-spacing:0;font-size:12.5px}
 #outZoom[dir="rtl"] .terms button{font:500 14px "Assistant","Arial Hebrew",Arial,sans-serif}
-.gem{border-inline-start:1px solid var(--line);background:var(--panel);display:flex;flex-direction:column;min-height:0}
+.gem{border-inline-start:1px solid var(--line);background:var(--gem-bg);display:flex;flex-direction:column;min-height:0}
 .gemhead{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;padding:10px 18px;border-bottom:1px solid var(--line)}
 .now{flex-basis:100%;font-size:12.5px;color:var(--muted);min-height:1.4em}
 .now b{color:var(--ink);font-weight:600}
@@ -284,12 +284,22 @@ body.dragging{cursor:col-resize;user-select:none}
 .seg .ph{display:none}
 /* On wide screens the options sit in the bar as they always did; on a phone they fold behind
    an Options button, leaving the daf picker and the view switch. */
-.more{display:none;flex-basis:100%;flex-wrap:wrap;gap:8px 14px;align-items:center;padding-top:8px;border-top:1px solid var(--line)}
+/* Settings: a vertical panel dropping from the gear at the bar's end */
+.bar{position:relative}
+.more{display:none;position:absolute;top:calc(100% + 4px);inset-inline-end:12px;z-index:60;width:min(300px,calc(100vw - 24px));
+ flex-direction:column;align-items:stretch;gap:14px;padding:12px 16px 16px;background:var(--panel);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);max-height:calc(100vh - 120px);overflow:auto}
 .bar.open .more{display:flex}
-#moreBtn .mi{display:none}
-#moreBtn[aria-expanded="true"]{background:var(--blue);border-color:var(--blue);color:var(--panel)}
-.more .grp{display:inline-flex;flex-wrap:wrap;align-items:center;gap:8px 12px}
-.more .grp+.grp{padding-inline-start:14px;border-inline-start:1px solid var(--line)}
+.morehead{display:flex;align-items:center;justify-content:space-between}
+.morehead .mt{font:600 1rem var(--serif);color:var(--ink)}
+.more .grp{display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+.more .grp+.grp{padding-top:12px;border-top:1px solid var(--line)}
+.gear{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:999px;border:1px solid var(--line);background:var(--panel);color:var(--muted);cursor:pointer;padding:0}
+.gear:hover,.gear[aria-expanded="true"]{color:var(--blue);border-color:var(--blue)}
+/* Resources and Quizzes & Games: the study tools, together, in light blue */
+.tools{display:inline-flex;gap:6px;padding:3px;border-radius:999px;background:var(--audio-bg);border:1px solid var(--audio-line)}
+.btn.tool{background:transparent;border-color:transparent;color:var(--blue);font-weight:600}
+.btn.tool:hover{background:var(--panel)}
+.btn.tool[aria-pressed="true"]{background:var(--blue);color:var(--panel)}
 .more .gl{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 /* What to show: the outline, the text side, or both. On a phone only one at a time. */
 #showSeg .w{display:inline-block}
@@ -325,13 +335,9 @@ body.dragging{cursor:col-resize;user-select:none}
  #aFollow button{padding:5px 9px}
  .nav .pick{font-size:1.02rem;padding:4px 5px}
  #tracPick{max-width:9.2rem}
- #paneSeg,#resBtn,#moreBtn{order:2}
+ #paneSeg,.tools,#moreBtn{order:2}
  .bar{gap:8px 6px}
  #paneSeg button{padding:5px 8px}
- #moreBtn .ml{display:none}#moreBtn .mi{display:inline}
- #moreBtn{padding:5px 11px}
- .more{order:3;padding-top:6px}
- .more .grp+.grp{padding-inline-start:0;border-inline-start:0}
  .more .layout{display:none}
  #sideBtn{display:none}
  .main,.main.textleft{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1fr)}
@@ -434,29 +440,25 @@ __SPRITE__
   <select class="pick" id="tracPick" aria-label="Masechet"></select>
   <select class="pick num" id="dafNum" aria-label="Daf"></select>
   <button class="navb" id="nextDaf" type="button" aria-label="Next daf" title="Next daf (→)">›</button>
-  <button class="btn" id="todayBtn" type="button" title="Go to today's daf yomi">Today</button>
+  <button class="btn" id="todayBtn" type="button" title="Go to today's daf yomi">Daf Yomi</button>
  </div>
  <button class="btn" id="uiBtn" type="button"></button>
  <div class="seg" id="verSeg" role="group" aria-label="Outline version" hidden></div>
  <span class="spacer"></span>
- <div class="seg" id="showSeg" role="group" aria-label="Show"><button data-s="outline" title="Only the outline">Outline</button><button data-s="both" title="The outline with the text beside it">Both</button><button data-s="text" title="Only the Gemara, shiur or daf page">Text</button></div>
  <div class="seg" id="paneSeg" role="group" aria-label="Beside the outline"><button data-p="outline" class="ph">Outline</button><button data-p="page">Daf</button><button data-p="text" aria-pressed="true">Gemara</button><button data-p="shiur">Shiur</button></div>
- <button class="btn res" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
- <button class="btn" id="moreBtn" type="button" aria-expanded="false" aria-controls="more" aria-label="Options"><span class="mi" aria-hidden="true">☰</span><span class="ml">Options</span></button>
- <div class="more" id="more">
+ <div class="tools" role="group" aria-label="Study tools">
+  <button class="btn tool" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
+  <button class="btn tool" id="practiceBtn" aria-pressed="false" title="Quizzes and games on this daf" hidden>Quizzes &amp; Games</button>
+ </div>
+ <button class="iconbtn gear" id="moreBtn" type="button" aria-expanded="false" aria-controls="more" aria-label="Settings" title="Settings"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M19.4 13a7.6 7.6 0 0 0 0-2l2.1-1.6a.5.5 0 0 0 .1-.6l-2-3.5a.5.5 0 0 0-.6-.2l-2.5 1a7.4 7.4 0 0 0-1.7-1l-.4-2.6a.5.5 0 0 0-.5-.4h-4a.5.5 0 0 0-.5.4l-.4 2.6a7.4 7.4 0 0 0-1.7 1l-2.5-1a.5.5 0 0 0-.6.2l-2 3.5a.5.5 0 0 0 .1.6L4.6 11a7.6 7.6 0 0 0 0 2l-2.1 1.6a.5.5 0 0 0-.1.6l2 3.5a.5.5 0 0 0 .6.2l2.5-1a7.4 7.4 0 0 0 1.7 1l.4 2.6a.5.5 0 0 0 .5.4h4a.5.5 0 0 0 .5-.4l.4-2.6a7.4 7.4 0 0 0 1.7-1l2.5 1a.5.5 0 0 0 .6-.2l2-3.5a.5.5 0 0 0-.1-.6zM12 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7z"/></svg></button>
+ <div class="more" id="more" role="dialog" aria-label="Settings">
+  <div class="morehead"><span class="mt">Settings</span><button class="iconbtn" id="moreClose" type="button" aria-label="Close settings">×</button></div>
   <div class="grp"><span class="gl">Outline</span>
    <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
    <label class="tog"><input type="checkbox" id="optShiur" checked> Shiur insights</label>
-   <label class="tog"><input type="checkbox" id="optCharts" checked> Charts</label>
-   <label class="tog"><input type="checkbox" id="optPictures" checked> Pictures</label>
-   <label class="tog"><input type="checkbox" id="optSages" checked> Sages</label>
-  </div>
-  <div class="grp"><span class="gl">Open</span>
-   <button class="btn" id="glossBtn" aria-pressed="false">Glossary</button>
-   <button class="btn" id="sagesBtn" aria-pressed="false">Sages</button>
-   <button class="btn" id="practiceBtn" aria-pressed="false" hidden>Practice</button>
   </div>
   <div class="grp layout"><span class="gl">Layout</span>
+   <div class="seg" id="showSeg" role="group" aria-label="Show"><button data-s="outline" title="Only the outline">Outline</button><button data-s="both" title="The outline with the text beside it">Both</button><button data-s="text" title="Only the Gemara, shiur or daf page">Text</button></div>
    <button class="btn" id="railBtn" aria-pressed="false" title="Show the contents beside the outline (wide screens)">Contents</button>
    <button class="btn" id="sideBtn" type="button" aria-label="Move the text to the other side">⇄ Swap sides</button>
   </div>
@@ -592,7 +594,7 @@ const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='
 const RTL=UI==='he';
 const HEW={
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
- "Go to today's daf yomi":'לדף היומי של היום','Today':'הדף היומי','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
+ "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
  'Beside the outline':'לצד המתווה','Gemara':'גמרא','Shiur':'שיעור',
  'Articles, teshuvot and shiurim from the YCT Torah Library on this daf':'מאמרים, תשובות ושיעורים על הדף מספריית התורה של ישיבת חובבי תורה (באנגלית)',
@@ -736,10 +738,10 @@ function renderDaf(d){
  const landAmud=land&&(d.images[land.amud]?land.amud:land.dir<0?[...d.amudim].reverse().find(a=>d.images[a]&&+a.slice(0,-1)===navAt.n):null);
  showAmud(landAmud||d.amudim.find(a=>d.images[a]));
  outPane.scrollTop=0;textPane.scrollTop=0;shiurPane.scrollTop=0;
- renderSages(d.sages||[]);$('sagesBtn').hidden=!(d.sages||[]).length;
+ renderSages(d.sages||[]);
  if(games){games.destroy();games=null}
  if(d.outline){games=AnyDafGames.mount($('pgames'),{outline:d.outline,keyTerms:terms,sages:d.sages,title:dispTitle(d)},{lang:he?'he':'en',onReview:id=>{if(narrow.matches){setPractice(false);setView('outline')}setCurrent(id,true)}});
-  $('pwinTitle').textContent=he?'תרגול':'Practice'}
+  $('pwinTitle').textContent=he?'חידונים ומשחקים':'Quizzes & Games'}
  $('practiceBtn').hidden=!(games&&games.hasGames);if($('practiceBtn').hidden){$('pwin').hidden=true}
  countResources();if(!$('rwin').hidden)showResources();
  lastLine=null;audioForDaf(d);
@@ -956,11 +958,12 @@ function setupFoot(foot,m){
 outSlider.set(prefs.outSize??0);applyOut(prefs.outSize??0);applyText(prefs.textSize??0);applyPage(prefs.pageZoom??1);
 
 // ---------- controls ----------
+// pictures, charts, sages and key terms always show; only the shiur insights can be turned off
 function applyOptions(){if(!view)return;view.setLevel(prefs.level||2);
- [['optShiur','shiur'],['optCharts','charts'],['optPictures','pictures'],['optSages','sages']].forEach(([id,k])=>view.setOption(k,$(id).checked))}
+ ['charts','pictures','sages'].forEach(k=>view.setOption(k,true));view.setOption('shiur',$('optShiur').checked)}
 document.querySelectorAll('#levels button').forEach(b=>b.onclick=()=>{prefs.level=+b.dataset.lv;savePrefs();applyOptions();
  document.querySelectorAll('#levels button').forEach(x=>x.setAttribute('aria-pressed',x===b))});
-['optShiur','optCharts','optPictures','optSages'].forEach(id=>$(id).onchange=applyOptions);
+$('optShiur').onchange=applyOptions;
 function setLang(l){$('gem').dataset.lang=$('gem2').dataset.lang=l;document.querySelectorAll('.seg.lang button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.l===l)));prefs.lang=l;savePrefs()}
 document.querySelectorAll('.seg.lang button').forEach(b=>b.onclick=()=>setLang(b.dataset.l));
 // The text side shows one of Daf / Gemara / Shiur (mode), and on wide screens optionally a second
@@ -974,10 +977,11 @@ function layoutPanes(){const sp=splitOn();
  for(const [m,el] of Object.entries(PANE_EL)){const box=sp&&m===mode2?$('gem2'):$('gem'),foot=sp&&m===mode2?$('gemFoot2'):$('gemFoot');
   if(el.parentElement!==box)box.insertBefore(el,foot);el.hidden=!(m===mode||(sp&&m===mode2))}
  $('gem2').hidden=!sp;$('main').classList.toggle('split',sp);
- // with two panes each switch sits in its own pane; with one, the first pane's is on the top bar
+ // the Daf / Gemara / Shiur switch sits in the text pane's own header; on a phone, where it also
+ // flips to the outline, it stays on the top bar
  const seg=$('paneSeg'),head=$('gem').querySelector('.gemhead');
- if(sp&&seg.parentElement!==head)head.prepend(seg);
- else if(!sp&&seg.parentElement===head)$('resBtn').before(seg);
+ if(!narrow.matches&&seg.parentElement!==head)head.prepend(seg);
+ else if(narrow.matches&&seg.parentElement===head)$('practiceBtn').parentElement.before(seg);
  $('langSeg').hidden=mode==='page';$('langSeg2').hidden=mode2==='page';
  $('splitBtn').hidden=sp||narrow.matches||curView()==='outline';
  document.querySelectorAll('#pane2Seg button').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.p===mode2)));
@@ -1001,7 +1005,9 @@ const narrow=matchMedia('(max-width:860px)');
 // domain). Readers who came before the Show switch keep side by side.
 const ENTRY_TEXT=!/italmud\./i.test(location.hostname);
 let phoneView=ENTRY_TEXT&&!prefs.layout?'text':'outline',textMoved=false,noOutline=false;
-if(!prefs.layout){prefs.layout=prefs.nav?'both':ENTRY_TEXT?'text':'outline';
+if(!prefs.layout){prefs.layout=prefs.nav||!ENTRY_TEXT?'both':'text';
+ // italmud.com: the outline with the Gemara beside it, a third of the width (author, 2026-10-15)
+ if(!ENTRY_TEXT&&!prefs.nav&&prefs.gemw==null)prefs.gemw=33;
  // the AnyDaf address is for learning the daf: the page and the shiur, side by side (author, 2026-10-09)
  if(ENTRY_TEXT&&!prefs.nav){prefs.pane='page';prefs.pane2='shiur';prefs.split=true}
  savePrefs()}
@@ -1037,9 +1043,12 @@ document.querySelectorAll('#paneSeg button').forEach(b=>b.onclick=()=>{const p=b
  if(p!==mode)setPane(p);if(narrow.matches)setView('text')});
 // Phone options menu: opens and closes from its button, and closes after opening a window.
 document.querySelectorAll('#showSeg button').forEach(b=>b.onclick=()=>setView(b.dataset.s));
+// Settings: a panel that drops from the gear and closes with ×, Esc or a click elsewhere
 function setMore(open){document.querySelector('.bar').classList.toggle('open',open);$('moreBtn').setAttribute('aria-expanded',String(open))}
-$('moreBtn').onclick=()=>setMore($('moreBtn').getAttribute('aria-expanded')!=='true');
-['glossBtn','sagesBtn','resBtn','notesBtn'].forEach(id=>$(id).addEventListener('click',()=>setMore(false)));
+$('moreBtn').onclick=e=>{e.stopPropagation();setMore($('moreBtn').getAttribute('aria-expanded')!=='true')};
+$('moreClose').onclick=()=>setMore(false);
+document.addEventListener('pointerdown',e=>{if($('moreBtn').getAttribute('aria-expanded')==='true'&&!e.target.closest('#more,#moreBtn'))setMore(false)});
+['resBtn','notesBtn','practiceBtn'].forEach(id=>$(id).addEventListener('click',()=>setMore(false)));
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&$('moreBtn').getAttribute('aria-expanded')==='true')setMore(false)});
 narrow.addEventListener('change',()=>{applyView();if(current){const c=current;current=null;setCurrent(c)}});
 function setRail(on){$('main').classList.toggle('rail',on);$('railBtn').setAttribute('aria-pressed',String(on));prefs.rail=on;savePrefs()}
@@ -1054,10 +1063,9 @@ function setPractice(open){$('pwin').hidden=!open;$('practiceBtn').setAttribute(
 $('practiceBtn').onclick=()=>setPractice($('pwin').hidden);
 $('pwinClose').onclick=()=>setPractice(false);
 // ---------- glossary pop-out ----------
-function openGloss(i){$('gwin').hidden=false;$('glossBtn').setAttribute('aria-pressed','true');if(i!=null&&gloss)gloss.focus(i)}
+function openGloss(i){$('gwin').hidden=false;if(i!=null&&gloss)gloss.focus(i)}
 $('terms').onclick=e=>{const b=e.target.closest('[data-t]');if(b)openGloss(+b.dataset.t)};
-$('glossBtn').onclick=()=>{const open=$('gwin').hidden;$('gwin').hidden=!open;$('glossBtn').setAttribute('aria-pressed',String(open))};
-$('gwinClose').onclick=()=>{$('gwin').hidden=true;$('glossBtn').setAttribute('aria-pressed','false')};
+$('gwinClose').onclick=()=>{$('gwin').hidden=true};
 $('gq').oninput=e=>gloss&&gloss.filter(e.target.value);
 function setGOrder(o){prefs.gOrder=o;savePrefs();document.querySelectorAll('#gOrder button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.o===o)));gloss&&gloss.setOrder(o)}
 $('gOrder').onclick=e=>{const b=e.target.closest('[data-o]');if(b)setGOrder(b.dataset.o)};
@@ -1140,7 +1148,7 @@ function where(i,x){const ids=new Set();
  x.lines.forEach(l=>{const o=D.order[l];if(o==null)return;let best=null;
   for(const s of secs)if(s.a!=null&&o>=s.a&&o<=s.b&&(!best||s.depth>=best.depth))best=s;if(best)ids.add(best.id)});
  return secs.filter(s=>ids.has(s.id))}
-function openSage(i){$('swin').hidden=false;$('sagesBtn').setAttribute('aria-pressed','true');front($('swin'));showSage(i)}
+function openSage(i){$('swin').hidden=false;front($('swin'));showSage(i)}
 // Jumping to a sage: the card goes to the top of the list, highlighted, and the timeline scrolls
 // to that sage's name and highlights it, so the neighbours in time and place are in view.
 function markChip(i,smooth){const box=$('stl');box.querySelectorAll('button.on').forEach(b=>b.classList.remove('on'));
@@ -1165,8 +1173,7 @@ $('stl').onclick=e=>{const s=e.target.closest('[data-s]');if(s)showSage(+s.datas
 $('slist').onclick=e=>{const s=e.target.closest('[data-s]'),c=e.target.closest('[data-sec]');
  if(s)showSage(+s.dataset.s);else if(c)setCurrent(c.dataset.sec,true)};
 $('sOrder').onclick=e=>{const b=e.target.closest('[data-o]');if(!b)return;prefs.sOrder=b.dataset.o;savePrefs();renderSages(D.sages||[])};
-$('sagesBtn').onclick=()=>{const open=$('swin').hidden;$('swin').hidden=!open;$('sagesBtn').setAttribute('aria-pressed',String(open));if(open)front($('swin'))};
-$('swinClose').onclick=()=>{$('swin').hidden=true;$('sagesBtn').setAttribute('aria-pressed','false')};
+$('swinClose').onclick=()=>{$('swin').hidden=true};
 // The last window touched sits on top.
 let zTop=20;function front(w){w.style.zIndex=++zTop}
 ['gwin','swin','pwin'].forEach(id=>$(id).addEventListener('pointerdown',()=>front($(id))));
