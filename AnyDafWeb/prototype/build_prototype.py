@@ -431,7 +431,8 @@ def build_daf(spec, src, pages, out):
             "outline": outline, "keyTerms": terms, "items": items, "order": order, "shiur": shiur,
             # one-sentence summary of the daf, shown under its title above the outline (drafts, 2026-10-16)
             "summary": (SUMMARIES.get(key) if not (outline or {}).get("lang") == "he" else None),
-            "quiz": (QUIZZES.get(key) if not (outline or {}).get("lang") == "he" else None),
+            # Hebrew outlines get the Hebrew translation of the same questions (<key>_he.json)
+            "quiz": QUIZZES.get(f"{key}_he" if (outline or {}).get("lang") == "he" else key),
             # Sages: the outline's own list when it has one, else the name-matching pilot's guesses;
             # read from daf-processor's local files in both --source modes for now.
             "sages": sages_panel(key, outline) or []}
