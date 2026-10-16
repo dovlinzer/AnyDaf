@@ -1,0 +1,499 @@
+{
+ "daf": "קידושין יא",
+ "lang": "he",
+ "scope": {
+  "start": "יא. – הגמרא חוזרת למשנה ושואלת מדוע בית שמאי מצריכים דינר",
+  "end": "יא: – דחיית הגמרא לראיה של רבי שמעון בן לקיש מאמה עבריה (ממשיך בדף יב.)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "הדינר של בית שמאי: אשה מקפדת על עצמה, כסף צורי או אמה עבריה",
+   "amud": "יא.–יא: ← יב.",
+   "text": {
+    "from": "11a.6",
+    "to": "11b.10"
+   },
+   "gist": "שלושה טעמים לכך שבית שמאי מצריכים דינר בקידושי כסף. רבי זירא אומר שאשה מקפדת על עצמה. רב יוסף נשען על הכלל של רב אסי שכל כסף האמור בתורה הוא כסף צורי, והגמרא בוחנת את הכלל הזה ומנסחת אותו מחדש. רבי שמעון בן לקיש לומד מאמה עבריה.",
+   "bullets": [
+    {
+     "text": "המשנה: בקידושי כסף בית שמאי מצריכים דינר לפחות, ובית הלל אומרים בפרוטה ובשווה פרוטה. הגמרא שואלת מה טעמם של בית שמאי.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "השאלה שמאחורי השאלה: אם כסף הקידושין הוא מעשה קנין סמלי, מדוע הסכום משנה בכלל? ולמה דווקא דינר?",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "הפער גדול. בסולם המטבעות (פרוטה, איסר, פונדיון, מעה, איסתירא, דינר, סלע) דינר הוא כ־192 פרוטות, וסלע, שהוא שקל הקודש שבתורה, הוא ארבעה דינרים.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "שלושה טעמים לשיעור הדינר של בית שמאי",
+    "columns": [
+     "",
+     "המקור",
+     "מדוע יותר מפרוטה",
+     "מה קורה לטעם בדף"
+    ],
+    "rows": [
+     [
+      "רבי זירא",
+      "אשה מקפדת על עצמה",
+      "היא אינה מסכימה להתקדש בפחות מדינר",
+      "אביי מקשה מבנותיו של רבי ינאי, ורבי זירא מעמיד את הדין בקידושין בלילה או על ידי שליח"
+     ],
+     [
+      "רב יוסף (בשם רב יהודה אמר רב אסי)",
+      "כל כסף האמור בתורה הוא כסף צורי",
+      "מטבע הכסף הצורי הקטן ביותר שווה דינר",
+      "הגמרא מקשה על הכלל של רב אסי ומנסחת אותו מחדש כך שיחול רק על כסף קצוב"
+     ],
+     [
+      "רבי שמעון בן לקיש (כחזקיה)",
+      "האמה העבריה מגרעת מפדיונה (שמות כא, ח)",
+      "ממחיר של פרוטה אחת אין ממה לגרוע",
+      "דחייה: אולי במכירה בפרוטה פשוט אין גירוע (ממשיך בדף יב.)"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "שלושת הטעמים שהגמרא מביאה בעמודים יא.–יא: לשיעור הדינר של בית שמאי, מול הפרוטה של בית הלל.",
+    "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שלושה חכמים זה לצד זה, וכל אחד מהם עם הטעם שלו לכך שבית שמאי מצריכים דינר: רבי זירא, רב יוסף ורבי שמעון בן לקיש.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"60\" width=\"280\" height=\"340\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"310\" y=\"60\" width=\"280\" height=\"340\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"605\" y=\"60\" width=\"280\" height=\"340\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#sage\" x=\"123\" y=\"80\" width=\"64\" height=\"112\" style=\"color:#50706E;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"418\" y=\"80\" width=\"64\" height=\"112\" style=\"color:#4B5E8C;--beard:#4A3A2E;--wrap:#D9CBB0\"/><use href=\"#sage\" x=\"713\" y=\"80\" width=\"64\" height=\"112\" style=\"color:#8C5A3C;--beard:#A8A39C;--wrap:#E4D8C0\"/><rect x=\"65\" y=\"314\" width=\"180\" height=\"32\" rx=\"16\" fill=\"#3C7446\"/><rect x=\"360\" y=\"314\" width=\"180\" height=\"32\" rx=\"16\" fill=\"#1B3A8A\"/><rect x=\"655\" y=\"314\" width=\"180\" height=\"32\" rx=\"16\" fill=\"#9A6212\"/></g><text x=\"450\" y=\"38\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">למה דינר? שלושה טעמים לבית שמאי</text><text x=\"745\" y=\"220\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#24592E\">רבי זירא</text><text x=\"450\" y=\"220\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">רב יוסף</text><text x=\"155\" y=\"220\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">רבי שמעון בן לקיש</text><text x=\"745\" y=\"246\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\">אשה אינה מתקדשת</text><text x=\"745\" y=\"266\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\">בפחות מדינר</text><text x=\"450\" y=\"246\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\">רב אסי: כל כסף</text><text x=\"450\" y=\"266\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\">האמור בתורה</text><text x=\"155\" y=\"246\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\">חזקיה: האמה העבריה</text><text x=\"155\" y=\"266\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\">מגרעת מפדיונה</text><text x=\"745\" y=\"294\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#3C7446\">אשה מקפדת על עצמה</text><text x=\"450\" y=\"294\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#3A5692\">כסף צורי</text><text x=\"155\" y=\"294\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#7A4A2A\">וְהֶפְדָּהּ</text><text x=\"745\" y=\"335\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\">המינימום: דינר</text><text x=\"450\" y=\"335\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\">המינימום: דינר</text><text x=\"155\" y=\"335\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\">המינימום: דינר</text><text x=\"745\" y=\"378\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">אביי מקשה, ורבי זירא מצמצם</text><text x=\"450\" y=\"378\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">הכלל של רב אסי מנוסח מחדש</text><text x=\"155\" y=\"378\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">ממשיך בדף יב.</text><text x=\"450\" y=\"436\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">בית הלל: בפרוטה ובשווה פרוטה</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "אשה מקפדת על עצמה: בנות רבי ינאי, בלילה או על ידי שליח",
+     "amud": "יא.",
+     "text": {
+      "from": "11a.6",
+      "to": "11a.8"
+     },
+     "gist": "רבי זירא: אשה אינה מסכימה להתקדש בפחות מדינר. אביי מקשה שלפי זה גם קבלה מרצון לא תועיל, ורבי זירא מעמיד את הדין במקרים שבהם היא אינה רואה מה היא מקבלת.",
+     "bullets": [
+      {
+       "text": "רבי זירא: טעמם של בית שמאי הוא \"שכן אשה מקפדת על עצמה, ואין מתקדשת בפחות מדינר\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אביי מקשה: בנותיו של רבי ינאי מקפידות על כבודן ואינן מתקדשות בפחות מ\"תרקבא דדינרי\", כלומר שלושה קבין של דינרים. אם אחת מהן פשטה ידה וקיבלה זוז אחד מאדם אחר, וכי נאמר שאינה מקודשת?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבי זירא: \"פשטה ידה וקבלה לא קאמינא\". אשה שפשטה ידה וקיבלה רשאית לוותר על כבודה. כוונתי לקידושין בלילה, כשהיא אינה רואה מה נותנים לה, או על ידי שליח שמינתה בלי לקבוע לו סכום. במקרים כאלה מניחים שהיא מקפידה על דינר לפחות.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "גם מעשה סמלי צריך רף מינימלי של רצינות: מתנה פעוטה מדי מבטאת זלזול ולא מחויבות.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "החולשה של הטעם הזה היא שהוא סובייקטיבי. הכבוד משתנה מאשה לאשה, והדין צריך הסתייגות ברגע שהיא נוהגת אחרת. הפרוטה של בית הלל היא רף אובייקטיבי, הסכום הקטן ביותר שההלכה מחשיבה ככסף. לכן הגמרא ממשיכה לחפש לבית שמאי בסיס עקרוני יותר.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "תשובת רבי זירא לאביי (יא.): אשה שפשטה ידה וקיבלה מקודשת, גם בדינר שפחות מכבודה. אבל כשהקידושין בלילה, או על ידי שליח שלא נאמר לו סכום, החזקה היא שהיא מקפידה על דינר לפחות.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שלוש תמונות של קידושין: אשה שמקבלת מטבע בידה, קידושין בלילה, וקידושין על ידי שליח שלה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"310\" y=\"15\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#DDE3EE\"/><rect x=\"605\" y=\"15\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#woman\" x=\"70\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"180\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><path d=\"M122 175 L143 180 M188 175 L167 180\" stroke=\"#D6AE86\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"155\" cy=\"180\" r=\"11\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"40\" y=\"300\" width=\"36\" height=\"36\"/><circle cx=\"560\" cy=\"118\" r=\"16\" fill=\"#F3EBDD\"/><circle cx=\"567\" cy=\"112\" r=\"14\" fill=\"#DDE3EE\"/><use href=\"#woman\" x=\"365\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"475\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><path d=\"M417 175 L438 180 M483 175 L462 180\" stroke=\"#D6AE86\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"450\" cy=\"180\" r=\"11\" fill=\"#B5673E\" stroke=\"#8A4A2A\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"335\" y=\"300\" width=\"36\" height=\"36\"/><use href=\"#woman\" x=\"620\" y=\"112\" width=\"54\" height=\"108\" style=\"color:#8C4A60\"/><use href=\"#person\" x=\"708\" y=\"112\" width=\"54\" height=\"108\" style=\"color:#6E6A60\"/><use href=\"#man\" x=\"800\" y=\"112\" width=\"54\" height=\"108\" style=\"color:#4B5E8C\"/><circle cx=\"781\" cy=\"172\" r=\"9\" fill=\"#B5673E\" stroke=\"#8A4A2A\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"630\" y=\"300\" width=\"36\" height=\"36\"/></g><text x=\"745\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">פשטה ידה וקיבלה</text><text x=\"745\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">המקרה של אביי: בנות רבי ינאי</text><text x=\"745\" y=\"258\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">זוז אחד, מאדם אחר</text><text x=\"814\" y=\"316\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">מקודשת: רשאית</text><text x=\"814\" y=\"336\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">לוותר על כבודה</text><text x=\"450\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">קידושין בלילה</text><text x=\"450\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">היא אינה רואה מה נותנים לה</text><text x=\"450\" y=\"258\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">פחות מדינר</text><text x=\"519\" y=\"316\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת:</text><text x=\"519\" y=\"336\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">חזקה שמקפידה</text><text x=\"155\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">על ידי שליח</text><text x=\"155\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">שלא נאמר לו סכום</text><text x=\"253\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">האשה</text><text x=\"165\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">השליח שלה</text><text x=\"73\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">האיש</text><text x=\"155\" y=\"258\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">פחות מדינר</text><text x=\"224\" y=\"316\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת:</text><text x=\"224\" y=\"336\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">חזקה שמקפידה</text><text x=\"450\" y=\"418\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">רבי זירא לבית שמאי: אשה מקפדת על עצמה, ולכן בפחות מדינר חזקה שאינה מסכימה</text></svg>"
+     }
+    },
+    {
+     "id": "s3",
+     "title": "רב יוסף: כל כסף האמור בתורה הוא כסף צורי, והכלל של רב אסי במבחן",
+     "amud": "יא.–יא:",
+     "text": {
+      "from": "11a.9",
+      "to": "11b.8"
+     },
+     "gist": "רב יוסף מבסס את בית שמאי על הכלל של רב אסי. הגמרא מקשה על הכלל מארבעה דינים בתורה שנאמר בהם \"כסף\" ומנסחת אותו מחדש כך שיחול רק על כסף קצוב. את החידוש שלו היא מוצאת בחלק של דברי חכמים: כסף מדינה, כלומר המטבע המקומי.",
+     "bullets": [],
+     "illustration": {
+      "caption": "שני סוגי המטבע של רב אסי (יא.–יא:): אותם שמות מטבע, אבל סלע של כסף מדינה שווה חצי דינר, שמינית מסלע צורי.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני לוחות: סלע צורי ששווה ארבעה דינרים, וסלע של כסף מדינה ששווה חצי דינר.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"52\" width=\"425\" height=\"290\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"460\" y=\"52\" width=\"425\" height=\"290\" rx=\"14\" fill=\"#F3E6D8\"/><circle cx=\"105\" cy=\"196\" r=\"46\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"3\"/><circle cx=\"240\" cy=\"196\" r=\"20\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><circle cx=\"290\" cy=\"196\" r=\"20\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><circle cx=\"340\" cy=\"196\" r=\"20\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><circle cx=\"390\" cy=\"196\" r=\"20\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/><circle cx=\"580\" cy=\"196\" r=\"20\" fill=\"#E6D3B8\" stroke=\"#9A7440\" stroke-width=\"2\"/><circle cx=\"710\" cy=\"196\" r=\"20\" fill=\"none\" stroke=\"#9A9488\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><path d=\"M710 176 A20 20 0 0 0 710 216 Z\" fill=\"#D9D4CB\" stroke=\"#9A9488\" stroke-width=\"2\"/></g><text x=\"450\" y=\"36\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">אותם שמות, שני סוגי מטבע</text><text x=\"673\" y=\"84\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">כסף צורי</text><text x=\"673\" y=\"108\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" fill=\"#3A5692\">המטבע של צור</text><text x=\"795\" y=\"202\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">סלע</text><text x=\"717\" y=\"204\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"24\" fill=\"#1A1F2E\">=</text><text x=\"660\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">דינר</text><text x=\"610\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">דינר</text><text x=\"560\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">דינר</text><text x=\"510\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">דינר</text><text x=\"673\" y=\"290\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\">סלע אחד = ארבעה דינרים</text><text x=\"673\" y=\"316\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">הסכומים הקצובים בתורה</text><text x=\"228\" y=\"84\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">כסף מדינה</text><text x=\"228\" y=\"108\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" fill=\"#7A4A2A\">המטבע המקומי</text><text x=\"320\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">סלע</text><text x=\"260\" y=\"204\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"24\" fill=\"#1A1F2E\">=</text><text x=\"190\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">חצי דינר</text><text x=\"190\" y=\"252\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">(איסתירא)</text><text x=\"228\" y=\"290\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#9A6212\">סלע אחד = חצי דינר</text><text x=\"228\" y=\"316\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">סכומים שקבעו חכמים</text><text x=\"450\" y=\"374\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">הסלע של כסף מדינה שווה שמינית מהסלע הצורי</text><text x=\"450\" y=\"400\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">דוגמה: התוקע לחברו נותן לו סלע (ברייתא)</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s4",
+       "title": "בית שמאי ומטבע הכסף הצורי הקטן ביותר",
+       "amud": "יא.",
+       "text": {
+        "from": "11a.9",
+        "to": "11a.9"
+       },
+       "gist": "רב יוסף: בית שמאי הולכים לפי הכלל של רב אסי, שכסף האמור בתורה הוא כסף צורי, ומטבע הכסף הקטן ביותר בכסף צורי הוא הדינר.",
+       "bullets": [
+        {
+         "text": "רב יוסף מביא את דברי רב יהודה אמר רב אסי: \"כל כסף האמור בתורה – כסף צורי, ושל דבריהם – כסף מדינה\". כסף מדינה שווה בערך שמינית מכסף צורי.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "כסף הקידושין הוא מן התורה, ולכן בית שמאי מודדים אותו בכסף צורי. מטבע הכסף הצורי הקטן ביותר שווה דינר.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "לשתי השיטות יש אותם שמות מטבע. לכן סלע או דינר בטקסט הלכתי יכולים לציין שני ערכים שהיחס ביניהם פי שמונה, לפי השאלה אם החיוב הוא מן התורה או מדברי חכמים.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s5",
+       "title": "האם כל כסף שבתורה הוא כסף צורי? מודה במקצת, מעשר שני, הקדש וקידושי אשה",
+       "amud": "יא.–יא:",
+       "text": {
+        "from": "11a.10",
+        "to": "11b.5"
+       },
+       "gist": "ארבעה דינים בתורה שנאמר בהם \"כסף\" מסתפקים בפחות ממטבע של כסף צורי. לשלושת הראשונים יש לימוד משלהם. הרביעי, הפרוטה של בית הלל, מעורר את החשש שרב אסי סובר כבית שמאי בלבד.",
+       "bullets": [
+        {
+         "text": "קושיה: במודה במקצת נאמר \"כִּי יִתֵּן אִישׁ אֶל רֵעֵהוּ כֶּסֶף אוֹ כֵלִים לִשְׁמֹר\" (שמות כב, ו), ובכל זאת שנינו במשנה בשבועות: \"הטענה – שתי כסף, וההודאה – שווה פרוטה\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תירוץ: שם הכסף נאמר יחד עם כלים. \"מה כלים שניים – אף כסף שניים, ומה כסף דבר חשוב – אף כלים דבר חשוב\".",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "קושיה: במעשר שני נאמר \"וְצַרְתָּ הַכֶּסֶף בְּיָדְךָ\" (דברים יד, כה), ובכל זאת שנינו (מעשר שני ב, ח): \"הפורט סלע ממעות מעשר שני\". כלומר, מותר להחליף את מעות המעשר במטבעות נחושת. תירוץ: \"כסף\" \"הכסף\" – ריבה. המילה \"הכסף\" מרבה כל מטבע, גם של נחושת.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "קושיה: בהקדש נאמר \"וְנָתַן הַכֶּסֶף וְקָם לוֹ\" (ויקרא כז, יט), ובכל זאת אמר שמואל: \"הקדש שווה מנה שחיללו על שווה פרוטה – מחולל\". תירוץ: שמואל לומד \"כסף\" \"כסף\" ממעשר בגזירה שווה, ולכן כל מטבע מועיל.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "קושיה מקידושי אשה. נאמר \"כִּי יִקַּח אִישׁ אִשָּׁה וּבְעָלָהּ\" (דברים כד, א), ולומדים \"קיחה\" \"קיחה\" משדה עפרון, ובכל זאת בית הלל אומרים \"בפרוטה ובשווה פרוטה\". וכי נאמר שרב אסי סובר כבית שמאי?",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "chart": {
+        "caption": "דינים בתורה שנאמר בהם \"כסף\" ובכל זאת מסתפקים בפחות ממטבע צורי",
+        "columns": [
+         "הדין",
+         "הפסוק",
+         "מה ההלכה מקבלת",
+         "התירוץ"
+        ],
+        "rows": [
+         [
+          "מודה במקצת",
+          "שמות כב, ו",
+          "טענה של שתי כסף והודאה של שווה פרוטה",
+          "\"כסף\" נאמר יחד עם \"כלים\": לפחות שני מטבעות"
+         ],
+         [
+          "מעשר שני",
+          "דברים יד, כה",
+          "מטבעות נחושת",
+          "\"הכסף\" – ריבה: כל מטבע"
+         ],
+         [
+          "הקדש",
+          "ויקרא כז, יט",
+          "נפדה בשווה פרוטה (שמואל)",
+          "גזירה שווה מכסף מעשר שני"
+         ],
+         [
+          "קידושי אשה",
+          "דברים כד, א, בלימוד משדה עפרון",
+          "פרוטה (בית הלל)",
+          "הכלל של רב אסי מנוסח מחדש"
+         ]
+        ]
+       },
+       "children": []
+      },
+      {
+       "id": "s6",
+       "title": "ניסוח מחדש: רק כסף קצוב הוא כסף צורי",
+       "amud": "יא:",
+       "text": {
+        "from": "11b.6",
+        "to": "11b.6"
+       },
+       "gist": "הגמרא מנסחת מחדש את הכלל של רב אסי: רק כסף קצוב האמור בתורה הוא כסף צורי, וסכומים שקבעו חכמים הם כסף מדינה.",
+       "bullets": [
+        {
+         "text": "\"אלא אי איתמר, הכי איתמר\": \"כל כסף קצוב האמור בתורה – כסף צורי, ושל דבריהם – כסף מדינה\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "כשהתורה נוקבת במספר, הכוונה למטבע הצורי היקר. כשהיא אומרת סתם \"כסף\", כל כסף מועיל, אפילו של נחושת.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "לכסף הקידושין אין סכום קצוב בתורה. לכן הכלל בניסוחו החדש כבר אינו מוביל לדינר, ובית שמאי צריכים מקור אחר.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "returns_to": [
+        {
+         "id": "s4",
+         "note": "מנסח מחדש את הכלל שרב יוסף הביא לבית שמאי"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s7",
+       "title": "מה מחדש רב אסי: סכומים מדברי חכמים בכסף מדינה, והסלע של התוקע לחברו",
+       "amud": "יא:",
+       "text": {
+        "from": "11b.7",
+        "to": "11b.8"
+       },
+       "gist": "הסכומים הקצובים בתורה כבר שנויים במשנה בבכורות. החידוש של רב אסי הוא שסכומים מדברי חכמים, כמו הסלע של התוקע לחברו, נמדדים בכסף מדינה.",
+       "bullets": [
+        {
+         "text": "קושיה: \"מאי קא משמע לן?\" כבר שנינו במשנה (בכורות מט:): \"חמש סלעים של בן, שלושים של עבד, חמישים של אונס ושל מפתה, מאה של מוציא שם רע – כולם בשקל הקודש, במנה צורי\", כלומר בכסף צורי. (שלושים של עבד הם התשלום על עבד שהמית שור.)",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תירוץ: החידוש הוא בחלק השני, \"ושל דבריהם כסף מדינה\", והמשנה אינה שונה אותו.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "ברייתא: \"התוקע לחברו – נותן לו סלע\", כלומר מי שהכה את חברו בכף ידו דרך ביזיון. אין זה סלע צורי של ארבעה זוזים, אלא סלע של כסף מדינה ששווה חצי זוז, שהרי אנשים קוראים לחצי זוז איסתירא.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "בין הסכומים הקצובים מדברי חכמים יש תשלומי נזיקין, תקנות לתיקון העולם ופיצויים על חבלה.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "המאתיים של הכתובה תלויים באותה שאלה. אם כתובה מדרבנן, המאתיים הם כסף מדינה, ושווים עשרים וחמישה דינרים צוריים. אם כתובה מן התורה, הם צוריים: חמישים השקלים שבתורה לבתולה שווים מאתיים דינר, והם כתובת בתולה.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "chart": {
+        "caption": "סכומים קצובים והמטבע שלהם, לפי הכלל של רב אסי בניסוחו החדש",
+        "columns": [
+         "התשלום",
+         "הסכום",
+         "מי קבע",
+         "המטבע"
+        ],
+        "rows": [
+         [
+          "פדיון בן בכור",
+          "5 סלעים",
+          "התורה",
+          "כסף צורי (שקל הקודש)"
+         ],
+         [
+          "עבד שהמית שור",
+          "30 סלעים",
+          "התורה",
+          "כסף צורי (שקל הקודש)"
+         ],
+         [
+          "אונס ומפתה",
+          "50 סלעים",
+          "התורה",
+          "כסף צורי (שקל הקודש)"
+         ],
+         [
+          "מוציא שם רע על בתולה",
+          "100 סלעים",
+          "התורה",
+          "כסף צורי (שקל הקודש)"
+         ],
+         [
+          "התוקע לחברו",
+          "סלע אחד",
+          "חכמים (ברייתא)",
+          "כסף מדינה: חצי דינר"
+         ]
+        ]
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s8",
+     "title": "רבי שמעון בן לקיש כחזקיה: אמה עבריה מגרעת ויוצאת",
+     "amud": "יא: ← יב.",
+     "text": {
+      "from": "11b.9",
+      "to": "11b.10"
+     },
+     "gist": "בית שמאי לומדים קידושין מאמה עבריה. פדיונה הוא גירוע ממחירה, ומפרוטה אי אפשר לגרוע. הגמרא משיבה שאולי במכירה בפרוטה פשוט אין גירוע.",
+     "bullets": [
+      {
+       "text": "רבי שמעון בן לקיש: בית שמאי הולכים כחזקיה, שדורש \"וְהֶפְדָּהּ\" (שמות כא, ח): \"מלמד שמגרעת מפדיונה ויוצאת\". כלומר, היא משלמת את שוויה פחות העבודה שכבר עשתה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "בית שמאי לומדים קידושי אשה מאמה עבריה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אם קנה אותה בדינר, היא מגרעת והולכת עד פרוטה. אבל אם קנה אותה בפרוטה, \"מפרוטה מי מגרעה?\" הפרוטה היא כבר הסכום הקטן ביותר.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "דחייה: \"ודלמא הכי קאמר רחמנא\": היכן שנתן לה דינר היא מגרעת עד פרוטה, והיכן שנתן לה פרוטה היא אינה מגרעת כלל.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "גם אם הראיה עומדת, היא מוכיחה רק שהמחיר צריך להיות יותר מפרוטה. היא אינה מוכיחה שהוא צריך להיות דווקא דינר ולא, למשל, שתי פרוטות.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "continues": "ממשיך בדף יב.: הגמרא עונה על הדחייה מדין ייעוד, ואחר כך שואלת מדוע השיעור הוא דינר ולא פחות.",
+     "illustration": {
+      "caption": "הדרשה של חזקיה ב\"וְהֶפְדָּהּ\" (יא:): ממחיר של דינר אפשר לגרוע עד פרוטה, אבל בפרוטה אין ממה לגרוע. אלא שהגמרא משיבה שאולי במכירה כזאת פשוט אין גירוע.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>עמודות שהולכות וקטנות ממחיר מלא של דינר עד פרוטה, כשהאמה העבריה מגרעת כנגד עבודתה. ומתחת, פרוטה אחת שאין ממנה מה לגרוע.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"240\" y=\"100\" width=\"70\" height=\"100\" fill=\"#9A6212\"/><rect x=\"330\" y=\"120\" width=\"70\" height=\"80\" fill=\"#AE7A2E\"/><rect x=\"420\" y=\"140\" width=\"70\" height=\"60\" fill=\"#C0914A\"/><rect x=\"510\" y=\"160\" width=\"70\" height=\"40\" fill=\"#CFA766\"/><rect x=\"600\" y=\"180\" width=\"70\" height=\"20\" fill=\"#DDBD86\"/><rect x=\"690\" y=\"194\" width=\"70\" height=\"6\" fill=\"#B5673E\"/><path d=\"M240 242 H800\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><path d=\"M800 242 l-10 -6 v12 z\" fill=\"#C9C1B2\"/><line x1=\"20\" y1=\"270\" x2=\"880\" y2=\"270\" stroke=\"#E6DFD2\"/><circle cx=\"275\" cy=\"318\" r=\"8\" fill=\"#B5673E\" stroke=\"#8A4A2A\" stroke-width=\"2\"/></g><text x=\"450\" y=\"36\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">גירוע ממחיר האמה העבריה</text><text x=\"450\" y=\"62\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">וְהֶפְדָּהּ</text><text x=\"450\" y=\"84\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">חזקיה על שמות כא, ח</text><text x=\"870\" y=\"160\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">נמכרה בדינר</text><text x=\"625\" y=\"222\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">המחיר המלא</text><text x=\"435\" y=\"222\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">מגרעת כנגד העבודה</text><text x=\"175\" y=\"222\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">עד פרוטה</text><text x=\"870\" y=\"324\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">נמכרה בפרוטה</text><text x=\"590\" y=\"312\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.5\" fill=\"#1A1F2E\">האם אפשר לגרוע מפרוטה? היא כבר הסכום הקטן ביותר.</text><text x=\"590\" y=\"340\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.5\" fill=\"#5B6478\">דחיית הגמרא: אולי אז היא פשוט אינה מגרעת כלל.</text><text x=\"450\" y=\"398\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">רבי שמעון בן לקיש: בית שמאי לומדים קידושין מאמה עבריה</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "אשה מקפדת על עצמה",
+   "hebrew": "",
+   "sense": "הקפדת האשה על כבודה",
+   "definition": "החזקה שאשה מקפידה על כבודה ואינה מסכימה להסדר שמבזה אותה, כמו קידושין בסכום פעוט.",
+   "on_this_daf": "הטעם של רבי זירא לדינר של בית שמאי. אחרי קושיית אביי רבי זירא מצמצם אותו לקידושין בלילה, או על ידי שליח שלא נאמר לו סכום.",
+   "aliases": [
+    "מקפדת על עצמה"
+   ],
+   "sections": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "term": "פרוטה",
+   "hebrew": "",
+   "sense": "יחידת הערך הכספי הקטנה ביותר",
+   "definition": "מטבע הנחושת הקטן ביותר, והסכום הקטן ביותר שההלכה מחשיבה כבעל ערך כספי.",
+   "on_this_daf": "השיעור של בית הלל בקידושי כסף. הגמרא בוחנת את הכלל של רב אסי ואת הדרשה של חזקיה מול דינים שמסתפקים בפרוטה.",
+   "aliases": [
+    "בפרוטה",
+    "הפרוטה",
+    "מפרוטה",
+    "פרוטות",
+    "שווה פרוטה"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s5",
+    "s8"
+   ]
+  },
+  {
+   "term": "כסף צורי",
+   "hebrew": "",
+   "sense": "מטבע צור, שבו נמדדים סכומי התורה",
+   "definition": "מטבע הכסף היקר של העיר צור, שבו נמדדים הסכומים שקבעה התורה (שקל הקודש).",
+   "on_this_daf": "רב אסי אומר שכסף האמור בתורה הוא כסף צורי, ורב יוסף מסביר בכך את הדינר של בית שמאי. הגמרא מצמצמת את הכלל לסכומים קצובים.",
+   "aliases": [
+    "בכסף צורי",
+    "הכסף הצורי"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s4",
+    "s5",
+    "s7"
+   ]
+  },
+  {
+   "term": "כסף מדינה",
+   "hebrew": "",
+   "sense": "המטבע המקומי, שבו נמדדים סכומים מדברי חכמים",
+   "definition": "המטבע המקומי. שמות המטבעות בו זהים לשמות שבכסף צורי, אבל ערכם שמינית מערך הכסף הצורי. בו נמדדים הסכומים שקבעו חכמים.",
+   "on_this_daf": "החידוש האמיתי של רב אסי: הסלע שקבעו חכמים לתוקע לחברו הוא סלע של כסף מדינה, ששווה חצי דינר.",
+   "aliases": [
+    "בכסף מדינה"
+   ],
+   "sections": [
+    "s3",
+    "s4",
+    "s6",
+    "s7"
+   ]
+  },
+  {
+   "term": "כסף קצוב",
+   "hebrew": "",
+   "sense": "סכום כסף מוגדר",
+   "definition": "חיוב כספי שנאמר בו מספר קבוע, לעומת חיוב סתמי של \"כסף\".",
+   "on_this_daf": "הגמרא מנסחת מחדש את הכלל של רב אסי כך שרק כסף קצוב שבתורה הוא כסף צורי, ובכסף סתם כל מטבע מועיל.",
+   "aliases": [],
+   "sections": [
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "term": "אמה עבריה",
+   "hebrew": "",
+   "sense": "נערה יהודייה שנמכרה לשפחות",
+   "definition": "נערה יהודייה שאביה מכר אותה לשפחות. היא יוצאת לחירות בסימני נערות, אחרי שש שנים או בפדיון, ואדונה רשאי לייעד אותה לאשה.",
+   "on_this_daf": "רבי שמעון בן לקיש לומד ממנה את השיעור של בית שמאי, משום שקידושי אשה נלמדים מקנייתה.",
+   "aliases": [
+    "האמה העבריה",
+    "מאמה עבריה",
+    "באמה העבריה"
+   ],
+   "sections": [
+    "s1",
+    "s8"
+   ]
+  },
+  {
+   "term": "מגרעת ויוצאת",
+   "hebrew": "",
+   "sense": "פדיון בגירוע ממחיר הקנייה",
+   "definition": "זכותה של אמה עבריה לצאת לחירות לפני תום זמנה. היא משלמת את מחיר קנייתה פחות החלק היחסי של הזמן שכבר עבדה.",
+   "on_this_daf": "לפי הדרשה של חזקיה, גירוע מניח מחיר גדול מפרוטה. על זה מבוסס הטעם של רבי שמעון בן לקיש.",
+   "aliases": [
+    "מגרעת מפדיונה"
+   ],
+   "sections": [
+    "s8"
+   ]
+  }
+ ]
+}

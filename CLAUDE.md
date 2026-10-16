@@ -2037,8 +2037,7 @@ around the passage's outside (`drawHover`: line boxes stretched to meet, edges o
 not a box per printed line; the line the shiur is reading gets the same single teal border over
 its fill (`outlinePath`, shared). Sage links skip a verse citation ("I Shmuel 1:22": a numbered book
 before the name or chapter:verse after it), and English Chagigah 6 uses the example's own sages
-(`EXAMPLE_SAGES`) instead of the name-matching guesses, which had listed the Amora Shmuel. Next, once
-the author and an Israeli reader approve it: a Hebrew outline pass on 10 dafim (Batch, about $7–8;
+(`EXAMPLE_SAGES`) instead of the name-matching guesses, which had listed the Amora Shmuel. **Hebrew Kiddushin 2–12 and Bava Metzia 2–11 (2026-10-16):** `daf-processor/hebrew_pass.py` (Batch, Opus 5.5 Medium, 21 requests, all succeeded, ~48K output tokens per daf; batch msgbatch_01698DPf2L4Uwg2UgisoRWBJ) adapts each English Medium outline into Hebrew rather than writing a fresh one (author's choice): same sections, ids, anchors, charts and sages, pictures mirrored right to left, with the English and Hebrew Chagigah 6 as a model pair; `check_same()` compares with the English (all 21 clean). Results `outline/results/<daf>/04_outline_he.json`, on the site as "(HE)" (`<daf>@he=HE`). Their quizzes are the hand-written English ones translated by hand (`quizzes/<daf>_he.json`). Earlier plan: once the author and an Israeli reader approve it: a Hebrew outline pass on 10 dafim (Batch, about $7–8;
 needs authorization).
 
 #### Outline preview site + reader feedback (2026-09-25) — https://anydaf-outlines.vercel.app

@@ -1,0 +1,862 @@
+{
+ "daf": "בבא מציעא ט",
+ "lang": "he",
+ "scope": {
+  "start": "ח: – הברייתא של שניים שהיו מושכין בגמל ומנהיגין בחמור (באמצע הדיון אם רכוב קונה)",
+  "end": "י. – תשובת עולא לרב נחמן: ההולך ברגליו התכוון לזכות לעצמו מתחילה"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "רכוב: האם היושב על בהמה קונה אותה? שלוש ברייתות",
+   "amud": "ח:–ט:",
+   "text": {
+    "from": "8b.13",
+    "to": "9b.1"
+   },
+   "gist": "הגמרא ממשיכה לברר אם רכוב קונה בהמה, ובודקת שלוש ברייתות: מושכין בגמל ומנהיגין בחמור, רכוב ותפוס במוסירה, ורבי אליעזר בשדה ובעיר. כל ראיה נדחית.",
+   "bullets": [
+    {
+     "text": "רכוב כאן פירושו יושב על הבהמה ואוחז במושכות, בלי לגרום לה ללכת. מי שמנהיג אותה ברגליו עושה מעשה של הנהגה, ולדברי הכול הוא קונה.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "כל הראיות נדחות באותה דרך: ייתכן שהרוכב שבברייתא מנהיג ברגליו. לכן השאלה אם רכוב קונה נשארת פתוחה.",
+     "detail": 2,
+     "source": "gemara"
+    }
+   ],
+   "children": [
+    {
+     "id": "s2",
+     "title": "גמל וחמור: הדרך הרגילה, הדרך ההפוכה ורבי יהודה",
+     "amud": "ח:–ט.",
+     "text": {
+      "from": "8b.13",
+      "to": "9a.7"
+     },
+     "gist": "ברייתא על משיכה והנהגה מובילה למחלוקת אם קונים גם בדרך ההפוכה. הדיון מובא בשתי לשונות, ואף אחת מהן אינה מוכיחה דבר לגבי רכוב.",
+     "bullets": [],
+     "chart": {
+      "caption": "באילו דרכים קונים כל אחת מהבהמות",
+      "columns": [
+       "",
+       "מושך בגמל",
+       "מנהיג בגמל",
+       "מושך בחמור",
+       "מנהיג בחמור"
+      ],
+      "rows": [
+       [
+        "תנא קמא (לדעה הראשונה)",
+        "קנה",
+        "קנה",
+        "לא קנה",
+        "קנה"
+       ],
+       [
+        "תנא קמא (לדעה השנייה)",
+        "קנה",
+        "לא קנה",
+        "קנה",
+        "קנה"
+       ],
+       [
+        "רבי יהודה",
+        "קנה",
+        "לא קנה",
+        "לא קנה",
+        "קנה"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "ארבע הדרכים להוליך את שתי הבהמות שבברייתא, ופסקי תנא קמא ורבי יהודה (ח:–ט.). לתנא קמא אחת מהדרכים ההפוכות אינה קונה, והגמרא מביאה שתי דעות איזו מהן.",
+      "svg": "<svg viewBox=\"0 0 900 430\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבעה לוחות: מושך בגמל, מנהיג בגמל, מושך בחמור ומנהיג בחמור, ובכל אחד פסקי תנא קמא ורבי יהודה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"430\" fill=\"#FBF8F1\"/><rect x=\"135\" y=\"20\" width=\"180\" height=\"360\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"324\" y=\"20\" width=\"180\" height=\"360\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"513\" y=\"20\" width=\"180\" height=\"360\" rx=\"12\" fill=\"#EDE7F3\"/><rect x=\"702\" y=\"20\" width=\"180\" height=\"360\" rx=\"12\" fill=\"#EDE7F3\"/><g transform=\"translate(143,125) scale(0.75)\" fill=\"#C49A62\"><rect x=\"30\" y=\"72\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"45\" y=\"74\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"90\" y=\"74\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"103\" y=\"72\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><ellipse cx=\"70\" cy=\"66\" rx=\"48\" ry=\"20\"/><path d=\"M40 58 Q62 16 90 54 Z\"/><path d=\"M108 60 Q126 42 122 24 L134 22 Q140 46 116 74 Z\"/><ellipse cx=\"134\" cy=\"22\" rx=\"12\" ry=\"7\" fill=\"#B88C56\"/><circle cx=\"137\" cy=\"20\" r=\"1.6\" fill=\"#3B3431\"/></g><use href=\"#man\" x=\"265\" y=\"140\" width=\"36\" height=\"72\" style=\"color:#6B6F3A\"/><line x1=\"246\" y1=\"143\" x2=\"270\" y2=\"178\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><g transform=\"translate(374,125) scale(0.75)\" fill=\"#C49A62\"><rect x=\"30\" y=\"72\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"45\" y=\"74\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"90\" y=\"74\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><rect x=\"103\" y=\"72\" width=\"7\" height=\"44\" rx=\"2\" fill=\"#A07A4E\"/><ellipse cx=\"70\" cy=\"66\" rx=\"48\" ry=\"20\"/><path d=\"M40 58 Q62 16 90 54 Z\"/><path d=\"M108 60 Q126 42 122 24 L134 22 Q140 46 116 74 Z\"/><ellipse cx=\"134\" cy=\"22\" rx=\"12\" ry=\"7\" fill=\"#B88C56\"/><circle cx=\"137\" cy=\"20\" r=\"1.6\" fill=\"#3B3431\"/></g><use href=\"#man\" x=\"332\" y=\"140\" width=\"36\" height=\"72\" style=\"color:#6B6F3A\"/><line x1=\"364\" y1=\"176\" x2=\"392\" y2=\"166\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><g transform=\"translate(521,138) scale(0.75)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><use href=\"#man\" x=\"643\" y=\"140\" width=\"36\" height=\"72\" style=\"color:#6B6F3A\"/><line x1=\"624\" y1=\"168\" x2=\"648\" y2=\"178\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><g transform=\"translate(752,138) scale(0.75)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><use href=\"#man\" x=\"710\" y=\"140\" width=\"36\" height=\"72\" style=\"color:#6B6F3A\"/><line x1=\"742\" y1=\"176\" x2=\"774\" y2=\"174\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><g stroke=\"#BFAE8E\" stroke-width=\"2\"><line x1=\"145\" y1=\"216\" x2=\"305\" y2=\"216\"/><line x1=\"334\" y1=\"216\" x2=\"494\" y2=\"216\"/><line x1=\"523\" y1=\"216\" x2=\"683\" y2=\"216\"/><line x1=\"712\" y1=\"216\" x2=\"872\" y2=\"216\"/></g><use href=\"#mark-ok\" x=\"208\" y=\"238\" width=\"34\" height=\"34\"/><circle cx=\"414\" cy=\"255\" r=\"17\" fill=\"#F6E7C8\" stroke=\"#9A6212\" stroke-width=\"2.5\"/><circle cx=\"603\" cy=\"255\" r=\"17\" fill=\"#F6E7C8\" stroke=\"#9A6212\" stroke-width=\"2.5\"/><use href=\"#mark-ok\" x=\"775\" y=\"238\" width=\"34\" height=\"34\"/><use href=\"#mark-ok\" x=\"208\" y=\"308\" width=\"34\" height=\"34\"/><use href=\"#mark-no\" x=\"397\" y=\"308\" width=\"34\" height=\"34\"/><use href=\"#mark-no\" x=\"586\" y=\"308\" width=\"34\" height=\"34\"/><use href=\"#mark-ok\" x=\"775\" y=\"308\" width=\"34\" height=\"34\"/></g><text x=\"880\" y=\"50\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">מי קונה?</text><text x=\"675\" y=\"50\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">מושך בגמל</text><text x=\"486\" y=\"50\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">מנהיג בגמל</text><text x=\"297\" y=\"50\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">מושך בחמור</text><text x=\"108\" y=\"50\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">מנהיג בחמור</text><text x=\"675\" y=\"72\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">הדרך הרגילה בגמל</text><text x=\"486\" y=\"72\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">הדרך ההפוכה</text><text x=\"297\" y=\"72\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">הדרך ההפוכה</text><text x=\"108\" y=\"72\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">הדרך הרגילה בחמור</text><text x=\"880\" y=\"260\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">תנא קמא</text><text x=\"880\" y=\"330\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">רבי יהודה</text><text x=\"486\" y=\"262\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"18\" font-weight=\"700\" fill=\"#9A6212\">?</text><text x=\"486\" y=\"290\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12\" fill=\"#6B4A1A\">יש אומרים: אינו קונה</text><text x=\"297\" y=\"262\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"18\" font-weight=\"700\" fill=\"#9A6212\">?</text><text x=\"297\" y=\"290\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12\" fill=\"#6B4A1A\">יש אומרים: אינו קונה</text><text x=\"450\" y=\"412\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">תנא קמא: בשתי הדרכים קונה, חוץ מדרך הפוכה אחת (מושך בחמור או מנהיג בגמל, לפי שתי הדעות)</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s3",
+       "title": "לשון ראשונה: למה נמנו מושך ומנהיג בנפרד?",
+       "amud": "ח:–ט.",
+       "text": {
+        "from": "8b.13",
+        "to": "9a.5"
+       },
+       "gist": "מכך שהברייתא מונה מושך ומנהיג נראה שרכוב אינו קונה. הגמרא מסבירה שהברייתא באה לשלול את רבי יהודה, ושלתנא קמא דרך הפוכה אחת אינה קונה.",
+       "bullets": [
+        {
+         "text": "ברייתא: \"שנים שהיו מושכין בגמל ומנהיגין בחמור, או שהיה אחד מושך ואחד מנהיג – במדה זאת קנו\". רבי יהודה: גמל נקנה רק במשיכה וחמור רק בהנהגה, כדרך שמוליכים כל אחד מהם בדרך כלל.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "דיוק: הברייתא מונה רק מושך ומנהיג – \"מושך ומנהיג – אין, אבל רכוב לא\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "דחייה: ייתכן שגם רכוב קונה. תנא קמא הזכיר מושך ומנהיג רק כדי לשלול את רבי יהודה: גם בדרך ההפוכה (מושך בחמור, מנהיג בגמל) קונים במשיכה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "קושיה: אם כן, היה לברייתא לכלול את הכול: \"שנים שהיו מושכין ומנהיגין בין בגמל בין בחמור\". מכך שמנתה אותם בנפרד נראה שתנא קמא אינו חולק על רבי יהודה לגמרי.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תירוץ: \"איכא חד צד דלא קני\" – יש דרך אחת שגם תנא קמא סובר שאינה קונה, ולא ברור איזו. יש אומרים: מושך בחמור, שהרי חמור אינו זז כשמושכים אותו. ויש אומרים: מנהיג בגמל, שאין זו הדרך המקובלת.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "מדוע בכלל חשוב שהדרך תהיה טבעית? קנין צריך להראות בעלות. מי שגורם לבהמה לזנק קדימה בדרך משונה אינו מראה שליטה אמיתית, כמו מי שמזניק קורקינט לרגע ומיד מאבד עליו שליטה.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s4",
+       "title": "לשון אחרת: מה בא \"במדה זו\" למעט?",
+       "amud": "ט.",
+       "text": {
+        "from": "9a.6",
+        "to": "9a.7"
+       },
+       "gist": "בלשון השנייה הקושיה עולה מהמילים \"במדה זו\". הגמרא מסבירה שהן ממעטות דרך הפוכה, ולא רכוב.",
+       "bullets": [
+        {
+         "text": "קושיה: \"במדה זו קנה\" – \"למעוטי מאי? לאו למעוטי רכוב?!\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "לא: המילים ממעטות את הדרך ההפוכה – מנהיג בגמל או מושך בחמור.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אם כן, תנא קמא היינו רבי יהודה? לא: יש ביניהם צד אחד. יש אומרים שתנא קמא שולל רק מושך בחמור, ויש אומרים שרק מנהיג בגמל.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אף אחת משתי הלשונות אינה מלמדת דבר על רכוב.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s5",
+     "title": "רכוב ותפוס במוסירה: מי קונה את החמור ומי את המוסירה?",
+     "amud": "ט.",
+     "text": {
+      "from": "9a.8",
+      "to": "9a.15"
+     },
+     "gist": "ברייתא נותנת את החמור לרוכב ואת המוסירה (המושכות) לתפוס בה. כדי לדחות את הראיה לרכוב, הגמרא מעמידה את הרוכב כמנהיג ברגליו, ואז מנסה שני תיקונים, את התיקון של רב אשי, ואת שיטת רבי אבהו שמעמיד את הברייתא כפי שנשנתה.",
+     "bullets": [],
+     "chart": {
+      "caption": "דרכים לקרוא את הברייתא של הרכוב והתפוס במוסירה",
+      "columns": [
+       "",
+       "הרוכב",
+       "התפוס",
+       "הקושי או התוצאה"
+      ],
+      "rows": [
+       [
+        "הברייתא כפי שנשנתה",
+        "החמור",
+        "המוסירה",
+        "רוכב שמנהיג צריך לקנות גם חלק מהמוסירה"
+       ],
+       [
+        "תיקון ראשון",
+        "החמור וחצי המוסירה",
+        "חצי המוסירה",
+        "במה קונה התפוס, כשהקצה השני קשור לחמור שהוא אינו קונה?"
+       ],
+       [
+        "תיקון שני",
+        "החמור וכמעט כל המוסירה",
+        "רק מה שתפוס בידו",
+        "הוא הגביה לעצמו, לא בשביל הרוכב"
+       ],
+       [
+        "רב אשי",
+        "החמור ובית פגיה",
+        "רק מה שתפוס בידו",
+        "את אמצע המוסירה לא קנה אף אחד מהם; אין על כך קושיה"
+       ],
+       [
+        "רבי אבהו (בלי תיקון)",
+        "החמור",
+        "כל המוסירה, הואיל ויכול לנתקה ולהביאה אצלו",
+        "נקבע כ\"ברותא\" (טעות), מדין הטלית"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s6",
+       "title": "תיקון הברייתא: חצי המוסירה או כמעט כולה?",
+       "amud": "ט.",
+       "text": {
+        "from": "9a.8",
+        "to": "9a.12"
+       },
+       "gist": "אם הרוכב מנהיג, היה צריך לקנות גם חלק מהמוסירה. שני תיקונים נכשלים: הראשון אינו מסביר במה קונה התפוס את החצי שלו, והשני גורם לתפוס לקנות בשביל הרוכב בשעה שהוא מגביה לעצמו.",
+       "bullets": [
+        {
+         "text": "ברייתא: \"אחד רכוב חמור ואחד תפוס במוסירה – זה קנה חמור, וזה קנה מוסירה\". נראה שמכאן מוכח שרכוב קונה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "דחייה: הרוכב גם מנהיג את החמור ברגליו.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "קושיה: אם כן, היה הרוכב צריך לקנות גם חלק מהמוסירה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תיקון ראשון: הרוכב קונה את החמור וחצי המוסירה, והתפוס – את החצי השני.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "קושיה: הרוכב קונה את חציו \"דקמגבה ליה בן דעת\" – התפוס, שהוא בן דעת, מגביה אותו בשבילו. אבל במה קונה התפוס את חציו, כשקצהו השני קשור לחמור שהוא אינו קונה?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תיקון שני: הרוכב קונה את החמור וכמעט את כל המוסירה, והתפוס – רק מה שתפוס בידו.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "קושיה: גם אם המגביה מציאה לחבירו קנה חבירו, זה רק כשמגביה בשביל חבירו. התפוס מגביה לעצמו: \"איהו לא קני, לאחריני מקני?!\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "ההגבהה של התפוס חלה רק על חלק מחפץ שקצהו השני תלוי בחמור, ואת הקצה הזה הוא מעולם לא הגביה. הזזת הקצה הצידה, כפי שעושה החמור, אינה הגבהה.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "נראה שהגמרא מניחה שהגבהת התפוס יכולה להועיל לרוכב, אבל הנהגת הרוכב אינה יכולה להועיל לתפוס. קשה לנסח בדיוק מדוע העזרה פועלת רק בכיוון אחד.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s7",
+       "title": "רב אשי: החמור ובית פגיה, מה שבידו, ואמצע שאיש אינו קונה",
+       "amud": "ט.",
+       "text": {
+        "from": "9a.13",
+        "to": "9a.13"
+       },
+       "gist": "רב אשי נותן לכל אחד רק מה שנכלל במעשה הקנין שלו: בית פגיה (הרסן שבראש החמור) הולך עם החמור, התפוס קונה מה שבידו, והאמצע נשאר הפקר.",
+       "bullets": [
+        {
+         "text": "רב אשי: \"זה קנה חמור ובית פגיה, וזה קנה מה שתפוס בידו – והשאר לא קנה, לא זה ולא זה\". הרוכב, היושב ומנהיג, קונה את החמור ואת בית פגיה הקשור לראשו. התפוס קונה רק את מה שבידו. ואת השאר, שאינו קשור לראש ואינו ביד, אף אחד מהם אינו קונה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אף צד אינו נשען על חברו. בית פגיה הוא חלק מהחמור, והתפוס אינו נעזר ברוכב, ולכן כל אחד יכול לבוא ולזכות באמצע.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "התיקון של רב אשי (ט.): הרוכב קונה את החמור ובית פגיה, התפוס רק מה שבידו, ואת אמצע המוסירה – אף אחד מהם.",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>אדם יושב על חמור, ואדם שני העומד על הארץ תפוס במוסירה. בית פגיה צבוע בכחול, אמצע המוסירה באפור ובקו מקווקו, והחלק שביד התפוס בצבע ענבר.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"url(#sky)\"/><rect x=\"0\" y=\"385\" width=\"900\" height=\"55\" fill=\"#D9C9A8\"/><use href=\"#man\" x=\"352\" y=\"168\" width=\"64\" height=\"128\" style=\"color:#4B5E8C\"/><g transform=\"translate(250,200) scale(1.8)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><ellipse cx=\"492\" cy=\"276\" rx=\"16\" ry=\"12\" fill=\"none\" stroke=\"#1B3A8A\" stroke-width=\"5\"/><line x1=\"504\" y1=\"284\" x2=\"540\" y2=\"304\" stroke=\"#1B3A8A\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M540 304 Q590 350 640 334\" fill=\"none\" stroke=\"#9AA0AA\" stroke-width=\"5\" stroke-dasharray=\"8 6\"/><line x1=\"640\" y1=\"334\" x2=\"700\" y2=\"322\" stroke=\"#9A6212\" stroke-width=\"7\" stroke-linecap=\"round\"/><use href=\"#man\" x=\"690\" y=\"248\" width=\"70\" height=\"140\" style=\"color:#8C5A3C\"/></g><text x=\"450\" y=\"40\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">רב אשי: החמור, המוסירה והתפוס בה</text><text x=\"860\" y=\"118\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">הרוכב, היושב ומנהיג ברגליו:</text><text x=\"860\" y=\"140\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" fill=\"#1B3A8A\">קונה את החמור ואת בית פגיה</text><text x=\"310\" y=\"230\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#5B6478\">שאר המוסירה:</text><text x=\"310\" y=\"250\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" fill=\"#5B6478\">לא קנה לא זה ולא זה</text><text x=\"160\" y=\"180\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">התפוס במוסירה:</text><text x=\"160\" y=\"200\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" fill=\"#9A6212\">קונה רק מה שתפוס בידו</text><text x=\"450\" y=\"420\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5A4A3A\">בבא מציעא ט. · התיקון של רב אשי בברייתא</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s8",
+       "title": "רבי אבהו: \"הואיל ויכול לנתקה ולהביאה אצלו\" – ונדחה מן הטלית",
+       "amud": "ט.",
+       "text": {
+        "from": "9a.14",
+        "to": "9a.15"
+       },
+       "gist": "רבי אבהו מעמיד את הברייתא כפי שנשנתה: התפוס קונה את כל המוסירה, הואיל ויכול למשוך אותה אליו. הגמרא קובעת שזו ברותא, מטלית שחציה על גבי קרקע וחציה על גבי עמוד.",
+       "bullets": [
+        {
+         "text": "רבי אבהו: \"לעולם כדקתני\" – אין צורך לתקן. התפוס קונה את המוסירה \"הואיל ויכול לנתקה ולהביאה אצלו\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "רש\"י מפרש זאת באופן רחב: מי שמגביה חלק מחפץ, כשמשיכה אחת תרים את השאר, נחשב כמי שהגביה את כולו. וקל וחומר כשהשאר כבר תלוי באוויר.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "הגמרא קובעת: \"הא דרבי אבהו ברותא היא\". טלית שחציה מונחת על הקרקע וחציה על עמוד: אחד הגביה את החצי שעל הקרקע, ואחר את החצי שעל העמוד. וכי נאמר שהראשון קנה והשני לא קנה, הואיל ויכול לנתקה ולהביאה אצלו? ודאי שאין זו ההלכה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תוספות מעירים שהדחייה פחות פשוטה ממה שנראה: מנין שרבי אבהו לא יאמר כך גם בטלית? הגבהת החצי שעל הקרקע בטלית כזו נשמעת כהגבהה סבירה.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "השאלה אם רכוב קונה נשארת ללא הכרעה.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "illustration": {
+        "caption": "המקרה שהגמרא מביאה נגד רבי אבהו (ט.): טלית שחציה על גבי קרקע וחציה על גבי עמוד, ושניים מגביהים אותה משני קצותיה. הראשון יכול היה למשוך את כולה אליו, ובכל זאת איש אינו אומר שרק הוא קנה.",
+        "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>טלית מונחת חציה על הקרקע וחציה על גבי עמוד. אדם אחד מגביה את הקצה שעל הקרקע, ואדם אחר מגביה את הקצה שעל העמוד.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"0\" y=\"390\" width=\"900\" height=\"30\" fill=\"#E6DCC8\"/><rect x=\"538\" y=\"252\" width=\"56\" height=\"138\" fill=\"#CFC6B6\" stroke=\"#A89E8C\"/><rect x=\"526\" y=\"240\" width=\"80\" height=\"12\" fill=\"#BDB3A1\"/><polyline points=\"330,383 525,383 525,232 616,232 616,270\" fill=\"none\" stroke=\"#5E7FB0\" stroke-width=\"12\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><use href=\"#man\" x=\"250\" y=\"268\" width=\"60\" height=\"120\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"632\" y=\"268\" width=\"60\" height=\"120\" style=\"color:#50706E\"/></g><text x=\"450\" y=\"40\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">טלית שחציה על גבי קרקע וחציה על גבי עמוד</text><text x=\"450\" y=\"86\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" fill=\"#1A1F2E\">סברת רבי אבהו: הואיל והראשון יכול לנתקה ולהביאה אצלו,</text><text x=\"450\" y=\"108\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" fill=\"#1A1F2E\">האם הוא קונה והשני אינו קונה?</text><text x=\"450\" y=\"144\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">ודאי שאין זו ההלכה – ולכן דברי רבי אבהו ברותא</text><text x=\"650\" y=\"220\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">הראשון:</text><text x=\"650\" y=\"240\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">מגביה את החצי שעל הקרקע</text><text x=\"160\" y=\"186\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">השני:</text><text x=\"160\" y=\"206\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">מגביה את החצי שעל העמוד</text></svg>"
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s9",
+     "title": "רבי אליעזר: רכוב בשדה ומנהיג בעיר",
+     "amud": "ט.–ט:",
+     "text": {
+      "from": "9a.16",
+      "to": "9b.1"
+     },
+     "gist": "גם את הברייתא של רבי אליעזר מעמידים במנהיג ברגליו, ולכן אין ממנה ראיה לרכוב. הגמרא מסבירה מדוע רכוב אינו קונה בעיר (אין זו דרכם של בני אדם, ודווקא במקח וממכר) ומונה מי קונה ברכיבה גם שם.",
+     "bullets": [],
+     "illustration": {
+      "caption": "הברייתא של רבי אליעזר (ט.–ט:): רכוב בשדה ומנהיג בעיר קונים, רכוב בעיר אינו קונה. השורות האחרונות מונות את המקרים שבהם גם רכוב בעיר קונה.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: אדם רוכב על חמור בשדה. משמאל: בעיר, אדם מנהיג חמור ואדם רוכב על חמור, ומתחת – רשימת היוצאים מן הכלל.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"415\" height=\"430\" rx=\"14\" fill=\"#EEF0E4\"/><rect x=\"450\" y=\"15\" width=\"435\" height=\"430\" rx=\"14\" fill=\"#EDE6DA\"/><use href=\"#man\" x=\"185\" y=\"170\" width=\"52\" height=\"104\" style=\"color:#4B5E8C\"/><g transform=\"translate(110,200) scale(1.3)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><line x1=\"30\" y1=\"336\" x2=\"415\" y2=\"336\" stroke=\"#A9B48E\" stroke-width=\"3\"/><path d=\"M50 336 l4 -10 l4 10 M340 336 l4 -10 l4 10 M380 336 l4 -10 l4 10\" stroke=\"#7E9A5E\" stroke-width=\"2\" fill=\"none\"/><use href=\"#mark-ok\" x=\"60\" y=\"355\" width=\"30\" height=\"30\"/><g fill=\"#E2D6C2\" stroke=\"#BFAE8E\"><rect x=\"470\" y=\"100\" width=\"50\" height=\"40\"/><rect x=\"530\" y=\"92\" width=\"40\" height=\"48\"/><rect x=\"580\" y=\"104\" width=\"60\" height=\"36\"/><rect x=\"650\" y=\"96\" width=\"45\" height=\"44\"/><rect x=\"705\" y=\"102\" width=\"55\" height=\"38\"/><rect x=\"770\" y=\"94\" width=\"45\" height=\"46\"/><rect x=\"825\" y=\"104\" width=\"45\" height=\"36\"/></g><g transform=\"translate(470,195) scale(0.9)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><use href=\"#man\" x=\"612\" y=\"208\" width=\"40\" height=\"80\" style=\"color:#6B6F3A\"/><line x1=\"592\" y1=\"232\" x2=\"618\" y2=\"250\" stroke=\"#5B4636\" stroke-width=\"2.5\"/><use href=\"#man\" x=\"718\" y=\"180\" width=\"40\" height=\"80\" style=\"color:#4B5E8C\"/><g transform=\"translate(680,195) scale(0.9)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><line x1=\"460\" y1=\"290\" x2=\"875\" y2=\"290\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"470\" y=\"300\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"682\" y=\"300\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"470\" y=\"376\" width=\"20\" height=\"20\"/><use href=\"#mark-ok\" x=\"680\" y=\"376\" width=\"20\" height=\"20\"/><use href=\"#mark-ok\" x=\"470\" y=\"408\" width=\"20\" height=\"20\"/><use href=\"#mark-ok\" x=\"680\" y=\"408\" width=\"20\" height=\"20\"/></g><text x=\"678\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">בשדה</text><text x=\"678\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">רבי אליעזר: רכוב בשדה – קנה</text><text x=\"802\" y=\"375\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">הרוכב בשדה קונה</text><text x=\"678\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">הדין בעיר: במקח וממכר, כשאמר המוכר</text><text x=\"678\" y=\"430\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">״קני כדרך שבני אדם קונין״</text><text x=\"233\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">בעיר</text><text x=\"233\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\">רב כהנא: אין דרכן של בני אדם לרכוב בעיר</text><text x=\"398\" y=\"314\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">מנהיג בעיר:</text><text x=\"398\" y=\"332\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#24592E\">קונה</text><text x=\"186\" y=\"314\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">רוכב בעיר:</text><text x=\"186\" y=\"332\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#8C2F2F\">אינו קונה</text><text x=\"430\" y=\"365\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"600\" fill=\"#1A1F2E\">ובכל זאת רוכב בעיר קונה:</text><text x=\"404\" y=\"391\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">ברשות הרבים</text><text x=\"194\" y=\"391\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">אדם חשוב</text><text x=\"404\" y=\"423\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">אשה</text><text x=\"194\" y=\"423\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">אדם בזוי (אינש זילא)</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s10",
+       "title": "למה לא בעיר? דרכם של בני אדם, ארנקי בשבת ותנאי המוכר",
+       "amud": "ט.",
+       "text": {
+        "from": "9a.16",
+        "to": "9a.19"
+       },
+       "gist": "רב כהנא: אין דרכם של בני אדם לרכוב בעיר. רב אשי מקשה שגם מעשה שאינו רגיל קונה (ארנקי שהוגבה בשבת), ולכן הדין מצטמצם למקח וממכר לפי תנאי המוכר.",
+       "bullets": [
+        {
+         "text": "ברייתא, רבי אליעזר: \"רכוב בשדה ומנהיג בעיר – קנה\". נראה שמכאן ראיה שרכוב קונה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "דחייה: הוא מנהיג ברגליו. ואם כן, \"היינו מנהיג\"? \"תרי גווני מנהיג\" – הברייתא מלמדת שני סוגים של הנהגה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "מדוע רכוב בעיר אינו קונה? רב כהנא: \"לפי שאין דרכן של בני אדם לרכוב בעיר\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "רב אשי מקשה: אם כן, המגביה ארנקי שמצא בשבת – ואין דרכם של בני אדם לעשות כן, כי הוא מוקצה – גם הוא לא יקנה? אלא \"מאי דעבד – עבד\", והוא קונה. וכך גם הרוכב בעיר.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "יישוב: הברייתא אינה עוסקת בבהמה שנמצאה, שנקנית גם ברכיבה בעיר, אלא \"במקח וממכר עסקינן, דאמר ליה: קני כדרך שבני אדם קונין\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "התירוץ דחוק, שהרי הברייתא אינה מזכירה תנאי כזה. אבל ההבחנה עומדת: במציאה כל מעשה מועיל, ורק תנאי המקח יכולים לדרוש את הדרך המקובלת.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "תוספות שואלים מה משנה המקום, אם הרוכב באמת מנהיג את הבהמה. התשובה צריכה להיות שמעשה שאינו כדרך בני אדם כבר אינו מראה בעלות, אף שהבהמה זזה.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s11",
+       "title": "בכל זאת רוכב בעיר קונה: רשות הרבים, אדם חשוב, אשה ואינש זילא",
+       "amud": "ט:",
+       "text": {
+        "from": "9b.1",
+        "to": "9b.1"
+       },
+       "gist": "כשהרכיבה היא הדרך הרגילה באותו מקום או לאותו אדם, היא קונה גם בעיר.",
+       "bullets": [
+        {
+         "text": "ברשות הרבים קונה, כי שם רגילים לרכוב.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אדם חשוב, שרוכב תמיד ואינו מנהיג, קונה אפילו בסמטה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אשה קונה ברכיבה, כי אין דרכן של נשים להנהיג בהמות.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אינש זילא (אדם בזוי), שרוכב גם במקום שאחרים אינם רוכבים, קונה גם הוא.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "דין העיר הוא ברירת מחדל לפי ההתנהגות הרגילה, ולא פסול קבוע, והאדם או המקום יכולים לשנות אותו. רש\"י על האשה: היא שולטת בבהמה טוב יותר כשהיא יושבת עליה.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "title": "המושך בהמה כדי לקנות את משאה: חצר מהלכת",
+   "amud": "ט:",
+   "text": {
+    "from": "9b.2",
+    "to": "9b.8"
+   },
+   "gist": "רבי אלעזר שואל אם משיכת הבהמה קונה את הכלים שעליה. רבא משיב שאפילו מכירת שניהם לא תועיל, כי בהמה היא חצר מהלכת אלא אם כן היא כפותה, ומגן על הכלל מפני ספינה ומפני קלתה של אשה.",
+   "bullets": [],
+   "chart": {
+    "caption": "מה יכול לקנות כחצר, ומדוע",
+    "columns": [
+     "",
+     "קונה את מה שמונח בו?",
+     "הטעם"
+    ],
+    "rows": [
+     [
+      "בהמה מהלכת",
+      "לא",
+      "חצר מהלכת"
+     ],
+     [
+      "בהמה עומדת או יושבת",
+      "לא",
+      "כל שאילו מהלך לא קנה – עומד ויושב לא קנה"
+     ],
+     [
+      "בהמה כפותה",
+      "כן",
+      "היא משמשת כחצרו של הקונה"
+     ],
+     [
+      "ספינה",
+      "כן",
+      "הספינה מונחת, והמים מוליכים אותה"
+     ],
+     [
+      "קלתה של אשה",
+      "כן",
+      "הקלתה מונחת, והיא מהלכת תחתיה"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "מקרי החצר שבדף ט: לפי סדר הגמרא: בהמה שאינה כפותה, מהלכת או עומדת, אינה קונה את הכלים שעליה; בהמה כפותה, ספינה וקלתה של אשה – קונות.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבעה לוחות: חמור נושא כדים, חמור כפות נושא כדים, ספינה שדג קופץ לתוכה, ואשה עם קלתה על ראשה שזורקים לתוכה גט.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"72\" width=\"204\" height=\"355\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"237\" y=\"72\" width=\"204\" height=\"355\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"459\" y=\"72\" width=\"204\" height=\"355\" rx=\"12\" fill=\"#E3EAF3\"/><rect x=\"681\" y=\"72\" width=\"204\" height=\"355\" rx=\"12\" fill=\"#EDE7F3\"/><g transform=\"translate(45,190) scale(0.9)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><rect x=\"95\" y=\"206\" width=\"14\" height=\"20\" rx=\"3\" fill=\"#9A7440\"/><rect x=\"115\" y=\"204\" width=\"14\" height=\"22\" rx=\"3\" fill=\"#7A5A3A\"/><path d=\"M28 240 h14 M24 252 h18\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><line x1=\"25\" y1=\"286\" x2=\"209\" y2=\"286\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><g transform=\"translate(267,190) scale(0.9)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><rect x=\"317\" y=\"206\" width=\"14\" height=\"20\" rx=\"3\" fill=\"#9A7440\"/><rect x=\"337\" y=\"204\" width=\"14\" height=\"22\" rx=\"3\" fill=\"#7A5A3A\"/><line x1=\"294\" y1=\"271\" x2=\"372\" y2=\"271\" stroke=\"#8A6A3A\" stroke-width=\"3\"/><line x1=\"372\" y1=\"271\" x2=\"410\" y2=\"258\" stroke=\"#8A6A3A\" stroke-width=\"3\"/><rect x=\"410\" y=\"246\" width=\"6\" height=\"40\" fill=\"#6E5B46\"/><line x1=\"247\" y1=\"286\" x2=\"431\" y2=\"286\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"469\" y=\"268\" width=\"184\" height=\"20\" rx=\"4\" fill=\"#BFD7E6\"/><path d=\"M475 268 q10 -6 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0\" fill=\"none\" stroke=\"#8FB4CC\" stroke-width=\"2\"/><path d=\"M499 246 L623 246 L607 272 L515 272 Z\" fill=\"#8B6A4E\"/><line x1=\"561\" y1=\"246\" x2=\"561\" y2=\"176\" stroke=\"#6E5B46\" stroke-width=\"3\"/><path d=\"M565 182 L565 240 L604 240 Z\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\"/><path d=\"M490 266 Q498 222 520 214\" fill=\"none\" stroke=\"#6F8FA8\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><ellipse cx=\"530\" cy=\"214\" rx=\"11\" ry=\"5\" fill=\"#6F8FA8\"/><path d=\"M519 214 l-7 -5 v10 z\" fill=\"#6F8FA8\"/><use href=\"#woman\" x=\"752\" y=\"176\" width=\"58\" height=\"116\" style=\"color:#8C4A60\"/><path d=\"M763 176 L799 176 L795 196 L767 196 Z\" fill=\"#A8824A\"/><rect x=\"835\" y=\"128\" width=\"24\" height=\"16\" fill=\"#FFFFFF\" stroke=\"#8A7560\" transform=\"rotate(-12 847 136)\"/><path d=\"M835 146 Q815 152 800 174\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><line x1=\"691\" y1=\"293\" x2=\"875\" y2=\"293\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"101\" y=\"342\" width=\"32\" height=\"32\"/><use href=\"#mark-ok\" x=\"323\" y=\"342\" width=\"32\" height=\"32\"/><use href=\"#mark-ok\" x=\"545\" y=\"342\" width=\"32\" height=\"32\"/><use href=\"#mark-ok\" x=\"767\" y=\"342\" width=\"32\" height=\"32\"/></g><text x=\"450\" y=\"36\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">מה קונה כחצר?</text><text x=\"450\" y=\"60\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" fill=\"#5B6478\">חצר מהלכת</text><text x=\"53\" y=\"118\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12\" fill=\"#5B6478\">גט</text><text x=\"783\" y=\"314\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">בהמה, מהלכת</text><text x=\"783\" y=\"332\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">או עומדת</text><text x=\"561\" y=\"324\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">בהמה כפותה</text><text x=\"339\" y=\"324\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">ספינה</text><text x=\"117\" y=\"324\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1A1F2E\">קלתה של אשה</text><text x=\"783\" y=\"394\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#1A1F2E\">חצר מהלכת:</text><text x=\"783\" y=\"412\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#8C2F2F\">אינה קונה</text><text x=\"561\" y=\"394\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#1A1F2E\">חצרו:</text><text x=\"561\" y=\"412\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#24592E\">קונה את הכלים</text><text x=\"339\" y=\"394\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#1A1F2E\">הספינה מונחת,</text><text x=\"339\" y=\"412\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#1A1F2E\">והמים מוליכים אותה</text><text x=\"117\" y=\"394\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#1A1F2E\">הקלתה מונחת,</text><text x=\"117\" y=\"412\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"12.5\" fill=\"#1A1F2E\">והיא מהלכת תחתיה</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s13",
+     "title": "שאלת רבי אלעזר: \"לקנות\" או \"וקני\"?",
+     "amud": "ט:",
+     "text": {
+      "from": "9b.2",
+      "to": "9b.3"
+     },
+     "gist": "תחילה מנסחים את השאלה מחדש, כך שהמוכר אומר לקונה במפורש לקנות. אחר כך שואלים אם משיכת הבהמה קונה את הכלים שעליה.",
+     "bullets": [
+      {
+       "text": "רבי אלעזר שואל: \"האומר לחבירו 'משוך בהמה זו לקנות כלים שעליה' – מהו?\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"לקנות\" אינו ציווי לקנות – \"מי אמר ליה קני!\" – ולכן הקונה אינו יכול לקנות כך. השאלה היא על \"משוך בהמה זו וקני כלים שעליה\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "תוספות: המושך בהמה אינו גורר אותה בכוח. היא הולכת בכוח עצמה, והמשא זז מפני שהיא נושאת אותו. האם זו משיכה של הכלים?",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s14",
+     "title": "רבא: חצר מהלכת אינה קונה, לא בהליכה ולא בעמידה, אלא אם כן כפותה",
+     "amud": "ט:",
+     "text": {
+      "from": "9b.4",
+      "to": "9b.6"
+     },
+     "gist": "רבא דוחה אפילו מכירה של שניהם יחד, כי בהמה שאינה כפותה היא חצר מהלכת בכל עת. ההלכה: המשא נקנה דרך הבהמה רק כשהיא כפותה.",
+     "bullets": [
+      {
+       "text": "רבא: פשוט שלא. אפילו \"קני בהמה וקני כלים\" לא יועיל. בהמתו של אדם היא כחצרו לעניין קנין חצר, אבל היא חצר מהלכת, \"וחצר מהלכת לא קנה\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ואם הבהמה עומדת בשעה שמושכים אותה? \"כל שאילו מהלך לא קנה – עומד ויושב לא קנה\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"והלכתא בכפותה\": הקונה קונה את הכלים שעל הבהמה רק כשהיא כפותה, ואז היא נחשבת חצרו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "קנין חצר הוא הרחבה של יד האדם, ולכן הוא דורש שליטה מלאה. יצור חי בעל רצון משלו יכול ללכת לדרכו, ולכן היכולת לזוז – ולא התנועה בפועל – היא שפוסלת אותו.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "שאלתו של רבי אלעזר עצמו, אם משיכת הבהמה היא משיכה של משאה, נשארת בלי תשובה.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "ספינה וקלתה: דבר אחר מוליך אותן, לא הן עצמן",
+     "amud": "ט:",
+     "text": {
+      "from": "9b.7",
+      "to": "9b.8"
+     },
+     "gist": "שתי קושיות על דין חצר מהלכת: ספינה שמפליגה וקלתה של אשה. אף אחת מהן אינה מהלכת במובן הנדרש.",
+     "bullets": [
+      {
+       "text": "רב פפא ורב הונא בריה דרב יהושע לרבא: דגים קפצו ונפלו לתוך ספינה בשעה שהיא מפליגה. האם היא חצר מהלכת ואינה קונה אותם? רבא: \"ספינה מינח נייחא, ומיא הוא דקא ממטו לה\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבינא לרב אשי: אשה מהלכת ברשות הרבים, ובעלה זורק לה גט לתוך חיקה או לתוך הקלתה שעל ראשה. וכי לא תהיה מגורשת? רב אשי: \"קלתה מינח נייחא, ואיהי דקא מסגיא מתותה\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "דין חצר מהלכת חל רק על מה שזז מרצונו: בהמות ובני אדם. ספינות, עגלות וסלים נישאים כשרים לקנין חצר.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s16",
+   "title": "משנה: \"תנה לי\" – רוכב, הולך ברגליו ומציאה",
+   "amud": "ט:",
+   "text": {
+    "from": "9b.9",
+    "to": "9b.9"
+   },
+   "gist": "רוכב מבקש מהולך ברגליו להושיט לו מציאה. אם ההולך טוען שזכה בה לפני שנתן אותה, הוא זוכה; אם טוען זאת אחרי שנתן, לא.",
+   "bullets": [
+    {
+     "text": "\"היה רוכב על גבי בהמה וראה את המציאה ואמר לחבירו 'תנה לי'\". אם חבירו נטל אותה ואמר \"אני זכיתי בה\" – זכה בה בהגבהה, אף שלא הוא ראה אותה ראשון.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "\"אם משנתנה לו, אמר: 'אני זכיתי בה תחלה' – לא אמר כלום\", והמציאה נשארת אצל הרוכב.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "מן המשנה נראה שאילו הגביה בשביל הרוכב, הרוכב היה זוכה. האם המגביה מציאה לחבירו קנה חבירו – זו בדיוק השאלה שהגמרא דנה בה עכשיו.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "illustration": {
+    "caption": "המשנה (ט:): כל עוד המציאה ביד ההולך ברגליו, טענתו \"אני זכיתי בה\" עומדת; אחרי שנתן אותה לרוכב, טענתו שזכה בה תחלה אינה כלום.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שתי תמונות. מימין: רוכב מבקש מהולך ברגליו ארנק שנמצא; ההולך אוחז בו ואומר שזכה בו. משמאל: הרוכב אוחז בארנק, וההולך אומר שזכה בו תחלה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"50\" width=\"425\" height=\"375\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"460\" y=\"50\" width=\"425\" height=\"375\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"40\" y=\"92\" width=\"150\" height=\"34\" rx=\"17\" fill=\"#FFFFFF\" stroke=\"#4B5E8C\"/><use href=\"#man\" x=\"112\" y=\"176\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><g transform=\"translate(60,210) scale(1.1)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><use href=\"#man\" x=\"280\" y=\"206\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><rect x=\"332\" y=\"262\" width=\"18\" height=\"14\" rx=\"3\" fill=\"#9A7440\"/><rect x=\"245\" y=\"140\" width=\"180\" height=\"34\" rx=\"17\" fill=\"#FFFFFF\" stroke=\"#6B6F3A\"/><line x1=\"30\" y1=\"326\" x2=\"425\" y2=\"326\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"40\" y=\"344\" width=\"32\" height=\"32\"/><use href=\"#man\" x=\"557\" y=\"176\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><g transform=\"translate(505,210) scale(1.1)\" fill=\"#8E8A86\"><rect x=\"35\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"50\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"92\" y=\"64\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><rect x=\"105\" y=\"62\" width=\"7\" height=\"40\" rx=\"2\" fill=\"#6B6763\"/><ellipse cx=\"72\" cy=\"58\" rx=\"44\" ry=\"18\"/><path d=\"M104 50 L120 28 L134 34 L116 66 Z\"/><ellipse cx=\"132\" cy=\"40\" rx=\"13\" ry=\"9\" transform=\"rotate(30 132 40)\" fill=\"#7E7A76\"/><path d=\"M120 28 L116 8 L126 26 Z M127 28 L131 8 L134 30 Z\" fill=\"#7E7A76\"/><path d=\"M29 52 q-10 8 -7 24\" stroke=\"#6B6763\" stroke-width=\"3\" fill=\"none\"/></g><rect x=\"604\" y=\"232\" width=\"18\" height=\"14\" rx=\"3\" fill=\"#9A7440\"/><use href=\"#man\" x=\"725\" y=\"206\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><rect x=\"662\" y=\"140\" width=\"214\" height=\"34\" rx=\"17\" fill=\"#FFFFFF\" stroke=\"#6B6F3A\"/><line x1=\"475\" y1=\"326\" x2=\"870\" y2=\"326\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"485\" y=\"344\" width=\"32\" height=\"32\"/></g><text x=\"450\" y=\"34\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">משנה: ״תנה לי״</text><text x=\"673\" y=\"78\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">לפני שנתנה לו</text><text x=\"228\" y=\"78\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">אחרי שנתנה לו</text><text x=\"785\" y=\"114\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">״תנה לי״</text><text x=\"565\" y=\"162\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">״אני זכיתי בה״</text><text x=\"818\" y=\"358\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">זכה בה בהגבהה,</text><text x=\"818\" y=\"378\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">אף שלא הוא ראה אותה ראשון</text><text x=\"131\" y=\"162\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#1A1F2E\">״אני זכיתי בה תחלה״</text><text x=\"373\" y=\"358\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">לא אמר כלום:</text><text x=\"373\" y=\"378\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">המציאה נשארת אצל הרוכב</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s17",
+   "title": "זוכה לחבירו: פאה, שני מיגו ופירוש המשנה",
+   "amud": "ט: ← י.",
+   "text": {
+    "from": "9b.10",
+    "to": "10a.2"
+   },
+   "gist": "מחלוקת רבי אליעזר וחכמים בפאה: עולא מעמיד אותה בעשיר שליקט לעני (מיגו אחד מול שני מיגו). רב נחמן מרחיב אותה גם לעני שליקט לעני, ומביא ראיה ממשנתנו.",
+   "bullets": [],
+   "chart": {
+    "caption": "עולא ורב נחמן במחלוקת המלקט פאה לחבירו",
+    "columns": [
+     "",
+     "היכן נחלקו רבי אליעזר וחכמים",
+     "עני שליקט לעני",
+     "משנתנו"
+    ],
+    "rows": [
+     [
+      "עולא",
+      "רק בעשיר שליקט לעני: מיגו אחד או שני מיגו",
+      "לדברי הכול זכה לו",
+      "ההולך ברגליו התכוון לעצמו מתחילה"
+     ],
+     [
+      "רב נחמן",
+      "גם בעני שליקט לעני",
+      "במחלוקת: האם אפשר לזכות לחבירו בכלל?",
+      "כחכמים: המגביה לחבירו אינו זוכה לו"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s18",
+     "title": "עולא: עשיר שליקט לעני – מיגו אחד או שני מיגו",
+     "amud": "ט:",
+     "text": {
+      "from": "9b.10",
+      "to": "9b.13"
+     },
+     "gist": "רבי אליעזר בונה שרשרת של שני מיגו. חכמים מקבלים רק מיגו אחד, ובעני שליקט לעני די במיגו אחד, ולכן הכול מודים.",
+     "bullets": [
+      {
+       "text": "משנה בפאה (ד, ט): \"מי שליקט את הפאה ואמר 'הרי זו לפלוני עני', רבי אליעזר אומר: זכה לו. וחכמים אומרים: יתננה לעני הנמצא ראשון\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "עולא אמר רבי יהושע בן לוי: \"מחלוקת מעשיר לעני\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבי אליעזר: מיגו שאילו רצה היה מפקיר את נכסיו ונעשה עני, והפאה הייתה ראויה לו – גם עכשיו היא ראויה לו. ומיגו שזוכה לעצמו, זוכה גם לחבירו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "חכמים: \"חד מיגו אמרינן, תרי מיגו לא אמרינן\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "עני שליקט לעני: לדברי הכול זכה לו, כי יש כאן רק מיגו אחד.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רש\"י: בעל השדה עצמו אינו רשאי ליטול את הפאה של שדהו, ולכן המלקט הוא אדם שלישי.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "רב נחמן: גם עני לעני – ראיה ממשנתנו",
+     "amud": "ט: ← י.",
+     "text": {
+      "from": "9b.14",
+      "to": "10a.2"
+     },
+     "gist": "\"מציאה הכל עניים אצלה\", ולכן משנתנו מתיישבת רק אם המחלוקת היא גם בעני לעני. עולא משיב שההולך ברגליו טוען שהתכוון לעצמו מתחילה.",
+     "bullets": [
+      {
+       "text": "רב נחמן לעולא: \"מעני לעני מחלוקת\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ראיה: \"מציאה הכל עניים אצלה\" – במציאה כל אדם הוא כעני בפאה. ובכל זאת, במשנתנו ההולך ברגליו, שנאמר לו \"תנה לי\", זוכה במציאה כשהוא אומר \"אני זכיתי בה\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אם עני לעני במחלוקת, המשנה כחכמים, שלדעתם אי אפשר לזכות לחבירו בדרך זו. אבל אם הכול מודים שעני לעני זכה לו, המשנה אינה לא כחכמים ולא כרבי אליעזר.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "לדעת רב נחמן השאלה היסודית היא פשוט אם המגביה מציאה לחבירו קנה חבירו.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "עולא: \"מתניתין דאמר תחילה\" – המשנה עוסקת במי שאומר שמתחילה התכוון לזכות לעצמו, ולא לרוכב.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "הכול תלוי ב\"אני זכיתי בה\": האם זו טענה שהגביה לעצמו מלכתחילה, או חזרה אחרי שהגביה בשביל הרוכב?",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "continues": "ממשיך בדף י.: הגמרא מסייעת לעולא מהמילה \"תחלה\" שבסיפא של המשנה, ורב נחמן מסביר את הסיפא אחרת.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "רכוב",
+   "hebrew": "",
+   "sense": "ישיבה על בהמה כדרך קנין",
+   "definition": "ישיבה על הבהמה כדרך הרוכבים, כמעשה קנין אפשרי – להבדיל ממשיכה או מהנהגה שגורמות לה ללכת.",
+   "on_this_daf": "שלוש ברייתות מובאות כראיה שרכוב קונה. כל אחת נדחית בכך שמעמידים את הרוכב כמנהיג ברגליו, והשאלה נשארת פתוחה.",
+   "aliases": [
+    "רוכב",
+    "הרוכב",
+    "ברכוב",
+    "רכיבה",
+    "ברכיבה"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s4",
+    "s5",
+    "s6",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "term": "משיכה",
+   "hebrew": "",
+   "sense": "משיכה כדרך קנין",
+   "definition": "קנין מטלטלין על ידי משיכתם או גרימה אחרת שיזוזו. בהמה נקנית כך כשמושכים אותה או מנהיגים אותה עד שהיא הולכת.",
+   "on_this_daf": "הברייתא של גמל וחמור דנה אם המשיכה או ההנהגה צריכות להתאים לדרכה הרגילה של הבהמה, ורבי אלעזר שואל אם משיכת בהמה נחשבת משיכה של הכלים שהיא נושאת.",
+   "aliases": [
+    "במשיכה",
+    "המשיכה"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s13",
+    "s14"
+   ]
+  },
+  {
+   "term": "הגבהה",
+   "hebrew": "",
+   "sense": "הגבהה כדרך קנין",
+   "definition": "קנין מטלטלין על ידי הרמתם מן הקרקע.",
+   "on_this_daf": "התפוס במוסירה מגביה רק חלק ממנה, וקצה השני תלוי בחמור. דברי רבי אבהו, שיכול למשוך את השאר אליו, נקבעים כברותא מדין הטלית.",
+   "aliases": [
+    "בהגבהה",
+    "ההגבהה"
+   ],
+   "sections": [
+    "s6",
+    "s8"
+   ]
+  },
+  {
+   "term": "קנין חצר",
+   "hebrew": "",
+   "sense": "קנין על ידי רשותו של אדם",
+   "definition": "רשותו של אדם קונה בשבילו חפצים שנכנסים לתוכה, כאילו ידו לקחה אותם.",
+   "on_this_daf": "רבא פוסק שבהמתו של אדם יכולה לשמש כחצרו לגבי משאה רק כשהיא כפותה.",
+   "aliases": [
+    "לקנין חצר"
+   ],
+   "sections": [
+    "s14",
+    "s15"
+   ]
+  },
+  {
+   "term": "חצר מהלכת",
+   "hebrew": "",
+   "sense": "חצר שזזה ממקומה",
+   "definition": "\"חצר\" שזזה, כגון בהמה חיה, ואינה יכולה לקנות את מה שמונח בה.",
+   "on_this_daf": "בהמה שאינה כפותה היא חצר מהלכת אפילו כשהיא עומדת, אבל ספינה שהמים מוליכים וקלתה שאשה נושאת אינן חצר מהלכת.",
+   "aliases": [
+    "וחצר מהלכת"
+   ],
+   "sections": [
+    "s12",
+    "s14",
+    "s15"
+   ]
+  },
+  {
+   "term": "מגביה מציאה לחבירו",
+   "hebrew": "",
+   "sense": "הגבהת מציאה בשביל אדם אחר",
+   "definition": "השאלה אם מי שמגביה חפץ של הפקר מתוך כוונה בשביל אדם אחר קונה אותו בכך לאותו אדם.",
+   "on_this_daf": "השאלה הזו מפילה את התיקון השני בברייתא של המוסירה, ורב נחמן רואה בה את עיקר המחלוקת בפאה ובמשנתנו.",
+   "aliases": [
+    "המגביה מציאה לחבירו"
+   ],
+   "sections": [
+    "s6",
+    "s16",
+    "s19"
+   ]
+  },
+  {
+   "term": "מיגו",
+   "hebrew": "",
+   "sense": "סברת \"הואיל ויכול\"",
+   "definition": "היסק שלפיו, מאחר שיש לאדם יכולת לעשות דבר אחד, יש לו גם יכולת או טענה הקשורה בו.",
+   "on_this_daf": "לפי עולא, רבי אליעזר מתיר לעשיר ללקט פאה לעני בכוח שני מיגו, וחכמים מקבלים רק מיגו אחד.",
+   "aliases": [
+    "שני מיגו",
+    "חד מיגו",
+    "תרי מיגו"
+   ],
+   "sections": [
+    "s17",
+    "s18"
+   ]
+  }
+ ]
+}
