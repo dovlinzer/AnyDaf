@@ -357,7 +357,9 @@ body.dragging{cursor:col-resize;user-select:none}
  .gwin header{cursor:default}
 }
 
-/* reader feedback: a Flag on every section, notes saved to the site's feedback table */
+/* reader feedback: a Flag on every section, notes saved to the site's feedback table; the flags
+   are hidden unless turned on in Settings ("Flags on headings") */
+body:not(.flags) #outline .fl{display:none}
 .fl{font:500 11px var(--sans);color:var(--muted);background:none;border:1px solid var(--line);border-radius:999px;padding:1px 8px;cursor:pointer;margin-inline-start:6px;vertical-align:middle}
 .fl:hover,.fl:focus-visible{color:var(--blue);border-color:var(--blue)}
 .fl.has{background:var(--amber-soft);border-color:var(--amber);color:var(--amber)}
@@ -474,6 +476,7 @@ __SPRITE__
    <button class="btn" id="sideBtn" type="button" aria-label="Move the text to the other side">⇄ Swap sides</button>
   </div>
   <div class="grp">
+   <label class="tog"><input type="checkbox" id="flagTog"> Flags on headings</label>
    <button class="btn" id="notesBtn" type="button" title="Notes you've sent on this daf">Feedback</button>
   </div>
  </div>
@@ -601,7 +604,7 @@ const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='
 const RTL=UI==='he';
 const HEW={
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
- "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
+ "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
  'Beside the outline':'לצד המתווה','Gemara':'גמרא','Shiur':'שיעור',
  'Articles, teshuvot and shiurim from the YCT Torah Library on this daf':'מאמרים, תשובות ושיעורים על הדף מספריית התורה של ישיבת חובבי תורה (באנגלית)',
@@ -971,6 +974,8 @@ function applyOptions(){if(!view)return;view.setLevel(prefs.level||2);
 document.querySelectorAll('#levels button').forEach(b=>b.onclick=()=>{prefs.level=+b.dataset.lv;savePrefs();applyOptions();
  document.querySelectorAll('#levels button').forEach(x=>x.setAttribute('aria-pressed',x===b))});
 $('optShiur').onchange=applyOptions;
+function applyFlags(){const on=!!prefs.flags;$('flagTog').checked=on;document.body.classList.toggle('flags',on)}
+$('flagTog').onchange=()=>{prefs.flags=$('flagTog').checked;savePrefs();applyFlags()};applyFlags();
 // the key-terms list at the top of the outline is off unless the reader turns it on (the terms in
 // the outline still link to the glossary)
 function applyTerms(){const on=!!prefs.terms;$('optTerms').checked=on;$('terms').hidden=!on}

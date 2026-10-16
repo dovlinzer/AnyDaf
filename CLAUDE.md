@@ -1909,6 +1909,8 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   glance" box is only as wide as it needs (the label when closed, its longest entry when open;
   `width:fit-content` in the renderer). The daf menu is plain sans, regular weight (as AnyTorahWeb's
   pickers, a little larger).
+  2026-10-16: the per-heading Flag buttons are hidden unless Settings → "Flags on headings" is on
+  (`prefs.flags`, body class `flags`); the Feedback button in Settings still lists and sends notes.
 - Outline scroll sync: `sectionAtLine` takes the section just scrolled past when the reading
   line is in a gap between sections; taking the parent (which contains the gap) sent the text back
   to the parent's first line, often the Mishnah, between every two subsections (Bava Metzia 2).
