@@ -1,0 +1,16 @@
+{"charts": {
+  "s7": [
+    [null, "forbidden", "permitted", null],
+    [null, "permitted", "forbidden", null]
+  ],
+  "s13": [
+    [null, "permitted", "forbidden", "forbidden", "forbidden"],
+    [null, "permitted", "permitted", "permitted", "forbidden"]
+  ],
+  "s17": [
+    [null, "forbidden", "forbidden"],
+    [null, "forbidden", "forbidden"],
+    [null, "permitted", "forbidden"],
+    [null, "forbidden", "forbidden"]
+  ]
+}, "tag_questions": []}

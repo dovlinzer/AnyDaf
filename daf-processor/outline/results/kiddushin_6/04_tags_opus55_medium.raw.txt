@@ -1,0 +1,25 @@
+{"charts": {
+  "s7": [
+    [null, "invalid", "invalid", "invalid"],
+    [null, "valid", "invalid", "invalid"],
+    [null, "valid", "valid", "invalid"]
+  ],
+  "s9": [
+    [null, "effective", "not-effective"],
+    [null, "not-effective", "effective"],
+    [null, "effective", "effective"]
+  ],
+  "s13": [
+    [null, null, "not-effective"],
+    [null, null, "not-effective"],
+    [null, null, "effective"]
+  ],
+  "s14": [
+    [null, null, "effective", null],
+    [null, "not-effective", null, null]
+  ]
+},
+"tag_questions": [
+  {"section": "s14", "cell": "row1,col2 (Fails)", "note": "Cell lists three distinct failed outcomes (sale: not-acquired; betrothal: not-effective; pidyon ha'ben: not-redeemed, for which no tag exists) — no single tag can represent all three."},
+  {"section": "s14", "cell": "row2,col3 (Takes effect)", "note": "Cell lists three distinct successful outcomes (sale: acquires; pidyon ha'ben: effective/redeemed; terumah: obligation fulfilled) — no single tag can represent all three."}
+]}

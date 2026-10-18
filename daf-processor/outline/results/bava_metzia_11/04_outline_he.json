@@ -1,827 +1,876 @@
 {
- "daf": "בבא מציעא יא",
- "lang": "he",
- "scope": {
-  "start": "י: – הנפקא מינה בין רבינא לרב סמא באין שליח לדבר עבירה (הדף נפתח באמצע הדיון)",
-  "end": "יא: – תשובת רב פפא שדעת אחרת מקנה שאני (ראייתו נמשכת)"
- },
- "sections": [
-  {
-   "id": "s1",
-   "title": "אין שליח לדבר עבירה: השליח אינו בר חיובא, או שיכול היה לסרב?",
-   "amud": "י:",
-   "text": {
-    "from": "10b.15",
-    "to": "10b.16"
-   },
-   "gist": "בהמשך לשאלה מדוע חצר יכולה לגזול בשביל בעליה: שני מקרים מראים היכן נפרדים טעמו של רבינא (השליח אינו בר חיובא) וטעמו של רב סמא (השליח יכול לסרב).",
-   "bullets": [
-    {
-     "text": "שני הטעמים שבגללם חצר אינה בכלל אין שליח לדבר עבירה. רבינא: הכלל נאמר רק כשהשליח עצמו מוזהר על האיסור. רב סמא: הכלל נאמר רק כשהשליח יכול לבחור אם לעשות או לא לעשות.",
-     "detail": 2,
-     "source": "gemara"
-    },
-    {
-     "text": "טעמו של רבינא נשען על \"דברי הרב ודברי התלמיד – דברי מי שומעים?\": שליח שמוזהר על האיסור היה צריך לסרב. טעמו של רב סמא נשען על חירותו של השליח לסרב. לחצר אין חיוב ואין בחירה, ולכן לשתי השיטות הבעלים חייב.",
-     "detail": 3,
-     "source": "shiur"
-    },
-    {
-     "text": "המקרה הראשון: כהן שאמר לישראל \"צא וקדש לי אישה גרושה\". היא אסורה לכהן ומותרת לישראל.",
-     "detail": 2,
-     "source": "gemara"
-    },
-    {
-     "text": "המקרה השני: איש שאמר לאישה \"אקיפי לי קטן\". איסור הקפת הראש (ויקרא יט, כז) נוהג באנשים ולא בנשים.",
-     "detail": 2,
-     "source": "gemara"
-    },
-    {
-     "text": "מקרה ההקפה חד יותר. במקרה הכהן, הישראל עדיין עלול לעבור על לפני עיוור. במקרה ההקפה האישה אינה מוזהרת והילד קטן, ולכן אין כאן גם לפני עיוור.",
-     "detail": 3,
-     "source": "shiur"
-    },
-    {
-     "text": "ללשון \"אי בעי עביד, אי בעי לא עביד\", כל אחד מהשליחים יכול היה לסרב, ולכן השולח פטור. ללשון \"שליח לאו בר חיובא\", השליחים האלה אינם מוזהרים, ולכן השולח חייב.",
-     "detail": 2,
-     "source": "gemara"
-    },
-    {
-     "text": "בדרך כלל השליחות נותנת תוקף משפטי למעשה משפטי, כמו מכירה או קידושין. כאן המעשה פיזי: השיער נגזז. האם השליחות מחייבת את השולח כאילו גזז בעצמו, או שיש בה רק חיוב קל יותר, בדיני שמים?",
-     "detail": 3,
-     "source": "shiur"
-    },
-    {
-     "text": "אם הכלל תלוי בבחירה, ייתכן ששליח שנאנס ולא הייתה לו בחירה אמיתית משאיר את החיוב על השולח.",
-     "detail": 3,
-     "source": "shiur"
-    },
-    {
-     "text": "תוספות: האם אין שליח לדבר עבירה רק פוטר את השולח, או שהוא מבטל את השליחות עצמה? לדוגמה: שליח שמוסר גט לאישה בעל כורחה, בניגוד לחרם רבנו גרשום. האם הגט כשר בדיעבד? הנודע ביהודה דן בזה באריכות.",
-     "detail": 2,
-     "source": "shiur"
-    },
-    {
-     "text": "קושי שנשאר: אם השליחות חלה משום שהשליח אינו מוזהר, הרי השליח בכל זאת סייע לשולח לחטוא. האם השליח עובר אז על לפני עיוור?",
-     "detail": 3,
-     "source": "shiur"
-    }
-   ],
-   "chart": {
-    "caption": "רבינא ורב סמא: מדוע אין שליחות לדבר עבירה, ושני מקרי המבחן",
-    "columns": [
-     "",
-     "שליחות לדבר עבירה, והחצר",
-     "כהן ששולח ישראל לקדש לו גרושה",
-     "איש ששולח אישה להקיף ראש קטן"
-    ],
-    "rows": [
-     [
-      "רבינא",
-      "1. השליחות בטלה כשהשליח מוזהר על האיסור והיה צריך לסרב\n2. החצר אינה מוזהרת על שום איסור",
-      "הישראל אינו מוזהר: הכהן חייב",
-      "האישה אינה מוזהרת: האיש חייב"
-     ],
-     [
-      "רב סמא",
-      "1. השליחות בטלה כשהשליח יכול היה לבחור שלא לעשות\n2. החצר פועלת בלי בחירה",
-      "הישראל יכול לסרב: הכהן פטור",
-      "האישה יכולה לסרב: האיש פטור"
-     ]
-    ]
-   },
-   "illustration": {
-    "caption": "שני המקרים שבגמרא להבדל בין רבינא לרב סמא (י:), ובכל אחד מהם השולח, השליח והאיסור שבו מדובר.",
-    "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>מימין: כהן שולח ישראל לקדש לו אישה גרושה. משמאל: איש שולח אישה להקיף את ראשו של קטן. מתחת לכל מקרה – כיצד פוסקים רבינא ורב סמא לגבי השולח.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='376' rx='14' fill='#E3EAF3'/><rect x='460' y='14' width='425' height='376' rx='14' fill='#F3E6D8'/><use href='#man' x='60' y='92' width='60' height='120' style='color:#4B5E8C'/><path d='M128 150 H182' stroke='#5B6478' stroke-width='3'/><path d='M184 150 l-10 -6 v12 z' fill='#5B6478'/><use href='#man' x='190' y='92' width='60' height='120' style='color:#6B6F3A'/><path d='M258 150 H312' stroke='#5B6478' stroke-width='3'/><path d='M314 150 l-10 -6 v12 z' fill='#5B6478'/><use href='#woman' x='320' y='92' width='60' height='120' style='color:#8C4A60'/><line x1='40' y1='310' x2='415' y2='310' stroke='#C9D3E3'/><use href='#man' x='505' y='92' width='60' height='120' style='color:#50706E'/><path d='M573 150 H627' stroke='#5B6478' stroke-width='3'/><path d='M629 150 l-10 -6 v12 z' fill='#5B6478'/><use href='#woman' x='635' y='92' width='60' height='120' style='color:#A8436E'/><path d='M703 170 H757' stroke='#5B6478' stroke-width='3'/><path d='M759 170 l-10 -6 v12 z' fill='#5B6478'/><use href='#child' x='775' y='152' width='30' height='60' style='color:#4E7A8C'/><line x1='485' y1='310' x2='860' y2='310' stroke='#E3CFB8'/></g><text x='673' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#1B3A8A'>כהן וישראל</text><text x='673' y='70' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>״צא וקדש לי אישה גרושה״</text><text x='810' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>כהן (שולח)</text><text x='680' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>ישראל (שליח)</text><text x='550' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>גרושה</text><text x='673' y='268' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>אסורה לכהן,</text><text x='673' y='290' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#24592E'>ומותרת לישראל</text><text x='673' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#1A1F2E'>רבינא: השליח אינו מוזהר ← הכהן חייב</text><text x='673' y='366' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#1A1F2E'>רב סמא: השליח יכול לסרב ← הכהן פטור</text><text x='228' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#9A6212'>איש ואישה</text><text x='228' y='70' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>״אקיפי לי קטן״ – הקיפי לי את ראשו של קטן</text><text x='365' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>איש (שולח)</text><text x='235' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>אישה (שליחה)</text><text x='110' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>קטן</text><text x='228' y='268' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>הקפה: אסורה באנשים,</text><text x='228' y='290' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#24592E'>ואינה אסורה בנשים</text><text x='228' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#1A1F2E'>רבינא: השליחה אינה מוזהרת ← האיש חייב</text><text x='228' y='366' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#1A1F2E'>רב סמא: השליחה יכולה לסרב ← האיש פטור</text><text x='450' y='420' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>בבא מציעא י: · המקרים שמבדילים בין רבינא לרב סמא</text></svg>"
-   },
-   "children": []
+  "daf": "בבא מציעא יא",
+  "lang": "he",
+  "scope": {
+    "start": "י: – הנפקא מינה בין רבינא לרב סמא באין שליח לדבר עבירה (הדף נפתח באמצע הדיון)",
+    "end": "יא: – תשובת רב פפא שדעת אחרת מקנה שאני (ראייתו נמשכת)"
   },
-  {
-   "id": "s2",
-   "title": "חצר משום ידה מעבר לגט: מציאה, קטנה וקטן",
-   "amud": "י:–יא.",
-   "text": {
-    "from": "10b.17",
-    "to": "11a.4"
-   },
-   "gist": "גט שהונח בחצרה של אישה מוכיח שהחצר נחשבת כידה, ולכן הגמרא מעמידה את מחלוקת רבי ינאי ואבא כהן ברדלא בשלוש דרכים: גט מול מציאה, קטנה מול קטן, או שאין מחלוקת כלל.",
-   "bullets": [],
-   "chart": {
-    "caption": "שלוש דרכים להבין את מחלוקת רבי ינאי ואבא כהן ברדלא",
-    "columns": [
-     "",
-     "תירוץ ראשון: גט ומציאה",
-     "תירוץ שני: קטנה וקטן",
-     "תירוץ שלישי: אין מחלוקת"
-    ],
-    "rows": [
-     [
-      "מה שהכול מודים בו",
-      "בגט, חצרה נחשבת כידה",
-      "קטנה קונה מציאה בחצרה",
-      "כל חכם אמר דבר אחר"
-     ],
-     [
-      "רבי ינאי",
-      "למדים מציאה מגט: חצרה קונה",
-      "למדים קטן מקטנה: גם חצרו קונה",
-      "קטן וקטנה אינם קונים מציאה בחצר"
-     ],
-     [
-      "אבא כהן ברדלא",
-      "אין למדים מציאה מגט",
-      "רק קטנה, שהרי התורה ריבתה את החצר לגט שלה",
-      "קטנה מתגרשת בגט שהונח בחצרה"
-     ]
-    ]
-   },
-   "children": [
+  "sections": [
     {
-     "id": "s3",
-     "title": "גגה, חצירה וקרפיפה: בגט הכול מודים שחצר משום ידה",
-     "amud": "י:–יא.",
-     "text": {
-      "from": "10b.17",
-      "to": "11a.1"
-     },
-     "gist": "ברייתא מתירה להניח גט בחצרה של האישה, ולכן הכול מודים שבגט החצר היא ידה; המחלוקת עוברת למציאה.",
-     "bullets": [
-      {
-       "text": "קושיה על שיטת אבא כהן ברדלא: וכי יש מי שסובר שחצר לא ריבתה משום ידה? והתניא על \"וְנָתַן בְּיָדָהּ\" (דברים כד, א): \"ידה – אין לי אלא ידה; גגה, חצירה וקרפיפה מנין? תלמוד לומר ונתן – מכל מקום\". כלומר, היא מתגרשת גם כשהבעל מניח את הגט על גגה, בחצרה או בקרפיפה.",
-       "detail": 2,
-       "source": "gemara"
+      "id": "s1",
+      "title": "אין שליח לדבר עבירה: השליח אינו בר חיובא, או שיכול היה לסרב?",
+      "amud": "י:",
+      "text": {
+        "from": "10b.15",
+        "to": "10b.16"
       },
-      {
-       "text": "רש״י: הפועל שלפני \"בידה\" הוא שמרחיב את הנתינה מעבר לידה ממש.",
-       "detail": 3,
-       "source": "shiur"
-      },
-      {
-       "text": "תוספות: אותו לימוד חל גם על גט של קטנה, ולכן חצר של קטנה מבוססת על יד ולא על שליחות.",
-       "detail": 3,
-       "source": "shiur"
-      },
-      {
-       "text": "תירוץ: לעניין גט הכול מודים שהחצר ריבתה משום ידה. המחלוקת היא לעניין מציאה בחצרה.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "רבי ינאי סובר: למדים מציאה מגט. אבא כהן ברדלא סובר: אין למדים מציאה מגט.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "מדוע אפשר לחלק ביניהם: ייתכן שגט אינו עניין של קנייה כלל, אלא רק של הנחת השטר ברשותה, וחצר נחשבת \"אצלה\". מציאה צריכה קנין ממש, ו\"אצלה\" אולי אינו מספיק לכך.",
-       "detail": 2,
-       "source": "shiur"
-      }
-     ],
-     "children": []
-    },
-    {
-     "id": "s4",
-     "title": "או: קטנה וקטן, או שאין מחלוקת כלל",
-     "amud": "יא.",
-     "text": {
-      "from": "11a.2",
-      "to": "11a.4"
-     },
-     "gist": "שתי דרכים נוספות: בקטנה הכול מודים והמחלוקת היא בקטן, או ששני החכמים אמרו דברים נפרדים שאינם סותרים זה את זה.",
-     "bullets": [
-      {
-       "text": "ואיבעית אימא: בקטנה הכול מודים שלמדים מציאה מגט, והמחלוקת היא בקטן. רבי ינאי לומד קטן מקטנה, שהרי אין לחלק ביניהם בדיני קנייה. אבא כהן ברדלא אינו לומד: רק קטנה קונה בחצרה, משום שהתורה ריבתה את החצר לגט שלה.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "ואיבעית אימא: \"מר אמר חדא ומר אמר חדא ולא פליגי\". אבא כהן ברדלא אמר שקטנה מתגרשת בגט שהונח בחצרה. רבי ינאי אמר שקטן וקטנה אינם קונים מציאה בחצר.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "החלוקות האלה מפתיעות. אם התורה עשתה את החצר יד, היינו מצפים שכך יהיה בכל תחום ולכל אדם. החלוקה בין גט למציאה מובנת רק אם \"יד\" פירושה דבר אחר בכל אחד מהם.",
-       "detail": 3,
-       "source": "shiur"
-      },
-      {
-       "text": "שאלה פתוחה: חפץ שהונח בחצר של קטן על ידי מי שמתכוון לתת לו. תוספות: קטן קונה מציאה רק מדרבנן, משום שאין לו דעת. כשהנותן מוסיף דעת אחרת, מסתבר שחצרו של הקטן תועיל.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "children": []
-    }
-   ]
-  },
-  {
-   "id": "s5",
-   "title": "משנה: צבי שבור וגוזלות שלא פרחו – \"זכתה לי שדי\"",
-   "amud": "יא.",
-   "text": {
-    "from": "11a.5",
-    "to": "11a.5"
-   },
-   "gist": "השדה קונה מציאה שאינה יכולה לברוח, כמו צבי שבור או גוזלות שאינם יכולים לעוף, אבל לא צבי שרץ כדרכו או גוזלות מפריחים.",
-   "bullets": [
-    {
-     "text": "ראה אנשים רצים אחר מציאה של הפקר – צבי שבור, שרגלו נשברה, או גוזלות שעדיין לא פרחו – ואמר \"זכתה לי שדי\": זכתה לו.",
-     "detail": 2,
-     "source": "gemara"
-    },
-    {
-     "text": "\"היה צבי רץ כדרכו, או שהיו גוזלות מפריחין, ואמר זכתה לי שדי – לא אמר כלום\": חצר אינה קונה דבר שאינו נשאר בה מעצמו.",
-     "detail": 2,
-     "source": "gemara"
-    },
-    {
-     "text": "קנין חצר מועיל רק כשהרשות יכולה באמת להחזיק את החפץ. צבי רץ או ציפור עפה אינם באמת \"בתוך\" השדה.",
-     "detail": 2,
-     "source": "shiur"
-    },
-    {
-     "text": "תוספות: האמירה אינה נצרכת מעיקר הדין, שהרי חצר קונה גם בלעדיה.",
-     "detail": 3,
-     "source": "shiur"
-    }
-   ],
-   "illustration": {
-    "caption": "המקרים שבמשנה (יא.): השדה קונה את הצבי השבור ואת הגוזלות שאינם יכולים לעוף, אבל לא את הצבי שרץ כדרכו ולא את הגוזלות המפריחים.",
-    "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>שדה. מימין צבי שרגלו שבורה וגוזלות על הקרקע – השדה קונה אותם; משמאל צבי שרץ כדרכו וגוזלות שעפים – השדה אינה קונה אותם.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='460' fill='url(#sky)'/><rect x='0' y='285' width='900' height='70' fill='#CFDDB0'/><rect x='0' y='355' width='900' height='105' fill='#FBF8F1'/><use href='#mark-ok' x='130' y='76' width='24' height='24'/><use href='#mark-no' x='585' y='76' width='24' height='24'/><line x1='450' y1='110' x2='450' y2='355' stroke='#B8B0A0' stroke-width='2' stroke-dasharray='6 6'/><rect x='88' y='252' width='7' height='40' fill='#7A5230'/><rect x='104' y='254' width='7' height='38' fill='#7A5230'/><rect x='150' y='254' width='7' height='38' fill='#7A5230'/><path d='M170 252 L178 272 L166 292' stroke='#7A5230' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/><ellipse cx='130' cy='240' rx='55' ry='22' fill='#A0703F'/><path d='M170 232 L192 202' stroke='#A0703F' stroke-width='14' stroke-linecap='round'/><ellipse cx='200' cy='196' rx='15' ry='9' fill='#A0703F'/><path d='M194 188 l-6 -20 m3 10 l-9 -4 M202 188 l4 -20 m-2 10 l8 -5' stroke='#6A4A2A' stroke-width='3' fill='none' stroke-linecap='round'/><circle cx='204' cy='193' r='2' fill='#3B3431'/><g fill='#9A9CA8'><ellipse cx='280' cy='292' rx='15' ry='10'/><circle cx='293' cy='283' r='6'/><ellipse cx='330' cy='294' rx='15' ry='10'/><circle cx='343' cy='285' r='6'/><ellipse cx='380' cy='292' rx='15' ry='10'/><circle cx='393' cy='283' r='6'/></g><g fill='#C9A15C'><path d='M299 283 l6 2 l-6 2 z'/><path d='M349 285 l6 2 l-6 2 z'/><path d='M399 283 l6 2 l-6 2 z'/></g><path d='M615 234 L650 262 M605 238 L640 270 M548 234 L512 262 M558 238 L525 272' stroke='#7A5230' stroke-width='6' stroke-linecap='round'/><ellipse cx='580' cy='225' rx='55' ry='20' fill='#A0703F'/><path d='M620 218 L645 194' stroke='#A0703F' stroke-width='14' stroke-linecap='round'/><ellipse cx='655' cy='188' rx='15' ry='9' fill='#A0703F'/><path d='M649 180 l-6 -20 m3 10 l-9 -4 M657 180 l4 -20 m-2 10 l8 -5' stroke='#6A4A2A' stroke-width='3' fill='none' stroke-linecap='round'/><circle cx='659' cy='185' r='2' fill='#3B3431'/><g fill='none' stroke='#6E7080' stroke-width='3' stroke-linecap='round'><path d='M728 150 q12 -14 24 0 q12 -14 24 0'/><path d='M783 128 q12 -14 24 0 q12 -14 24 0'/><path d='M820 170 q12 -14 24 0 q12 -14 24 0'/></g></g><text x='675' y='40' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='18' font-weight='600' fill='#1A1F2E'>״זכתה לי שדי״</text><text x='225' y='40' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='18' font-weight='600' fill='#1A1F2E'>״זכתה לי שדי״</text><text x='675' y='64' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='16' fill='#5A4A3A'>אמר בעל השדה</text><text x='225' y='64' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='16' fill='#5A4A3A'>אמר בעל השדה</text><text x='738' y='94' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#24592E'>זכתה לו</text><text x='283' y='94' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#8C2F2F'>לא אמר כלום</text><text x='765' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>צבי שבור</text><text x='765' y='398' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>(רגלו שבורה)</text><text x='570' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>גוזלות</text><text x='570' y='398' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>שעדיין לא פרחו</text><text x='320' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>צבי רץ</text><text x='320' y='398' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>כדרכו</text><text x='100' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>גוזלות</text><text x='100' y='398' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>שכבר מפריחים</text><text x='450' y='440' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#1A1F2E'>חצר אינה קונה דבר שאינו נשאר בה מעצמו</text></svg>"
-   },
-   "children": []
-  },
-  {
-   "id": "s6",
-   "title": "עומד בצד שדהו: התנאי, מקורו וקושיה עליו",
-   "amud": "יא.–יא:",
-   "text": {
-    "from": "11a.6",
-    "to": "11b.7"
-   },
-   "gist": "שלושה חלקים: התנאי של שמואל שהבעלים יעמוד בצד שדהו, מקורו בדיני שכחה, וקושיית רבי אבא מן המעשרות שנתן רבן גמליאל מן הספינה.",
-   "bullets": [],
-   "children": [
-    {
-     "id": "s7",
-     "title": "התנאי של שמואל: חצר המשתמרת וחצר שאינה משתמרת",
-     "amud": "יא.",
-     "text": {
-      "from": "11a.6",
-      "to": "11a.8"
-     },
-     "gist": "חצר המשתמרת קונה אף שלא מדעת הבעלים; שדה פתוחה קונה רק כשהבעלים עומד בצדה.",
-     "bullets": [
-      {
-       "text": "רב יהודה אמר שמואל: הקנייה שבמשנה מועילה רק \"והוא שעומד בצד שדהו\".",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "קושיה: רבי יוסי ברבי חנינא אמר \"חצרו של אדם קונה לו שלא מדעתו\". אם כן, למה עליו לעמוד שם?",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "תירוץ: זה נאמר בחצר המשתמרת. חצר שאינה משתמרת – אם עומד בצד שדהו, קונה; ואם לא, אינה קונה.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "נוכחות הבעלים עושה לשדה פתוחה מה שגדר עושה לחצר: היא מאפשרת לשדה להחזיק את החפץ. זה אותו עניין כמו בצבי השבור שבמשנה.",
-       "detail": 2,
-       "source": "shiur"
-      }
-     ],
-     "illustration": {
-      "caption": "התנאי של שמואל כפי שהגמרא מסבירה אותו (יא.): חצר המשתמרת קונה גם כשהבעלים אינו שם, ואילו שדה פתוחה קונה רק כשהוא עומד בצדה.",
-      "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>שלוש תמונות: חצר מגודרת ובה בהמה, בלי הבעלים – קונה; שדה פתוחה והבעלים עומד בצדה – קונה; שדה פתוחה והבעלים רחוק, בעיר – אינה קונה.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='420' fill='#FBF8F1'/><rect x='15' y='14' width='280' height='366' rx='14' fill='#E3EAF3'/><rect x='310' y='14' width='280' height='366' rx='14' fill='#E4EFE4'/><rect x='605' y='14' width='280' height='366' rx='14' fill='#F3E6D8'/><rect x='55' y='100' width='200' height='150' fill='#EFE6D2' stroke='#8A6A48' stroke-width='6' stroke-dasharray='6 6'/><use href='#lamb' x='115' y='150' width='80' height='56'/><use href='#mark-ok' x='50' y='282' width='28' height='28'/><rect x='330' y='110' width='180' height='140' fill='#D8E4B4'/><path d='M345 128 h150 M345 146 h150 M345 232 h150' stroke='#B5C58A' stroke-width='3'/><use href='#lamb' x='375' y='155' width='80' height='56'/><use href='#man' x='520' y='130' width='55' height='110' style='color:#4B5E8C'/><use href='#mark-ok' x='345' y='282' width='28' height='28'/><rect x='625' y='110' width='180' height='140' fill='#D8E4B4'/><path d='M640 128 h150 M640 146 h150 M640 232 h150' stroke='#B5C58A' stroke-width='3'/><use href='#lamb' x='670' y='155' width='80' height='56'/><rect x='825' y='192' width='45' height='38' fill='#EDE3CF' stroke='#BFAE8E'/><path d='M821 194 L847 172 L874 194 Z' fill='#B5673E'/><rect x='842' y='210' width='10' height='20' fill='#8A7560'/><use href='#mark-no' x='640' y='282' width='28' height='28'/></g><text x='745' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='19' font-weight='600' fill='#1B3A8A'>חצר המשתמרת</text><text x='745' y='68' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>הבעלים אינו שם</text><text x='814' y='302' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#24592E'>קונה לו</text><text x='745' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>אף שלא מדעתו</text><text x='745' y='360' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>רבי יוסי ברבי חנינא</text><text x='450' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='19' font-weight='600' fill='#24592E'>שדה שאינה משתמרת</text><text x='450' y='68' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>הבעלים עומד בצדה</text><text x='519' y='302' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#24592E'>קונה לו</text><text x='450' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>רב יהודה אמר שמואל</text><text x='155' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='19' font-weight='600' fill='#9A6212'>שדה שאינה משתמרת</text><text x='155' y='68' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>הבעלים אינו בצדה</text><text x='53' y='250' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>בעיר</text><text x='224' y='302' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#8C2F2F'>אינה קונה</text><text x='155' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>אלא אם כן עומד בצדה</text><text x='450' y='404' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>בבא מציעא יא. · התנאי של שמואל ותירוץ הגמרא</text></svg>"
-     },
-     "children": []
-    },
-    {
-     "id": "s8",
-     "title": "המקור בשכחה: שדה ועיר – משום חצר או גזירת הכתוב?",
-     "amud": "יא.",
-     "text": {
-      "from": "11a.9",
-      "to": "11a.20"
-     },
-     "gist": "הגמרא מפרשת ברייתא בדין שכחה כך שהחצר קונה רק כשהבעלים עומד בשדה, ומגינה על הפירוש הזה מפני האפשרות שזו גזירת הכתוב.",
-     "bullets": [],
-     "children": [
-      {
-       "id": "s9",
-       "title": "עומר שנשכח בעיר: זכור ולבסוף שכוח",
-       "amud": "יא.",
-       "text": {
-        "from": "11a.9",
-        "to": "11a.13"
-       },
-       "gist": "הברייתא נראית סותרת את עצמה. לפי פירושה הנכון, עומר שהבעלים זכר ואחר כך שכח אינו שכחה אם הבעלים עומד בשדה, משום ששדהו קונה לו, אבל הוא שכחה אם הבעלים בעיר.",
-       "bullets": [
+      "gist": "בהמשך לשאלה מדוע חצר יכולה לגזול בשביל בעליה: שני מקרים מראים היכן נפרדים טעמו של רבינא (השליח אינו בר חיובא) וטעמו של רב סמא (השליח יכול לסרב).",
+      "bullets": [
         {
-         "text": "הגמרא שואלת: מנין שחצר שאינה משתמרת קונה רק כשהבעלים עומד בצד שדהו?",
-         "detail": 2,
-         "source": "gemara"
+          "text": "שני הטעמים שבגללם חצר אינה בכלל אין שליח לדבר עבירה. רבינא: הכלל נאמר רק כשהשליח עצמו מוזהר על האיסור. רב סמא: הכלל נאמר רק כשהשליח יכול לבחור אם לעשות או לא לעשות.",
+          "detail": 2,
+          "source": "gemara"
         },
         {
-         "text": "ברייתא: \"היה עומד בעיר ואומר: יודע אני שעומר שיש לי בשדה פועלים שכחוהו – לא יהא שכחה\", ואחר כך שכח גם הוא. \"יכול לא יהא שכחה? תלמוד לומר: וְשָׁכַחְתָּ עֹמֶר בַּשָּׂדֶה (דברים כד, יט) – בשדה ושכחת, ולא בעיר\".",
-         "detail": 2,
-         "source": "gemara"
+          "text": "טעמו של רבינא נשען על \"דברי הרב ודברי התלמיד – דברי מי שומעים?\": שליח שמוזהר על האיסור היה צריך לסרב. טעמו של רב סמא נשען על חירותו של השליח לסרב. לחצר אין חיוב ואין בחירה, ולכן לשתי השיטות הבעלים חייב.",
+          "detail": 3,
+          "source": "shiur"
         },
         {
-         "text": "\"הא גופה קשיא\": \"יכול לא יהא שכחה\" משמע שהוא שכחה, ואילו \"בשדה ושכחת – ולא בעיר\" משמע שעומר שנשכח כשהבעלים בעיר אינו שכחה.",
-         "detail": 2,
-         "source": "gemara"
+          "text": "המקרה הראשון: כהן שאמר לישראל \"צא וקדש לי אישה גרושה\". היא אסורה לכהן ומותרת לישראל.",
+          "detail": 2,
+          "source": "gemara"
         },
         {
-         "text": "הפירוש: כשהבעלים בשדה, עומר ששכוח מעיקרו הוא שכחה. עומר שהיה זכור ולבסוף שכוח אינו שכחה, משום שכיוון שהבעלים עומד אצלו, השדה נעשית חצרו וזוכה לו בעומר מרגע שזכר אותו.",
-         "detail": 2,
-         "source": "gemara"
+          "text": "המקרה השני: איש שאמר לאישה \"אקיפי לי קטן\". איסור הקפת הראש (ויקרא יט, כז) נוהג באנשים ולא בנשים.",
+          "detail": 2,
+          "source": "gemara"
         },
         {
-         "text": "כשהבעלים בעיר, אפילו זכור ולבסוף שכוח הוא שכחה, משום שאינו אצלו כדי שתזכה לו. מכאן שחצר קונה רק כשבעליה עומד בצדה.",
-         "detail": 2,
-         "source": "gemara"
+          "text": "מקרה ההקפה חד יותר. במקרה הכהן, הישראל עדיין עלול לעבור על לפני עיוור. במקרה ההקפה האישה אינה מוזהרת והילד קטן, ולכן אין כאן גם לפני עיוור.",
+          "detail": 3,
+          "source": "shiur"
         },
         {
-         "text": "הסבר אינטואיטיבי יותר היה נשען על השגחה: מה שקובע הוא מודעות הבעלים ולא מודעות הפועלים. הגמרא, לעומת זאת, הופכת את הנוכחות לתנאי פורמלי של החזקה.",
-         "detail": 2,
-         "source": "shiur"
+          "text": "ללשון \"אי בעי עביד, אי בעי לא עביד\", כל אחד מהשליחים יכול היה לסרב, ולכן השולח פטור. ללשון \"שליח לאו בר חיובא\", השליחים האלה אינם מוזהרים, ולכן השולח חייב.",
+          "detail": 2,
+          "source": "gemara"
         },
         {
-         "text": "השדה אינה יכולה לחזור ולקנות עומר שכבר נעשה שכחה, שהרי הוא כבר שייך לעניים. הכוונה היא בהכרח שבזכות נוכחות הבעלים העומר מעולם לא יצא מרשותו.",
-         "detail": 3,
-         "source": "shiur"
+          "text": "בדרך כלל השליחות נותנת תוקף משפטי למעשה משפטי, כמו מכירה או קידושין. כאן המעשה פיזי: השיער נגזז. האם השליחות מחייבת את השולח כאילו גזז בעצמו, או שיש בה רק חיוב קל יותר, בדיני שמים?",
+          "detail": 3,
+          "source": "shiur"
         },
         {
-         "text": "לתנאי הפורמלי יש תוצאה חדה: בעלים שהתרחק כמה מטרים כדי לדפוק על דלת השכן כבר אינו עומד בצד שדהו, אף שהוא עדיין זוכר את העומר.",
-         "detail": 3,
-         "source": "shiur"
+          "text": "אם הכלל תלוי בבחירה, ייתכן ששליח שנאנס ולא הייתה לו בחירה אמיתית משאיר את החיוב על השולח.",
+          "detail": 3,
+          "source": "shiur"
         },
         {
-         "text": "השדה היא הדוגמה המובהקת לרשות שאינה מגודרת. עמידת הבעלים שם באה במקום הגדר שהופכת חצר למשתמרת.",
-         "detail": 3,
-         "source": "shiur"
+          "text": "תוספות: האם אין שליח לדבר עבירה רק פוטר את השולח, או שהוא מבטל את השליחות עצמה? לדוגמה: שליח שמוסר גט לאישה בעל כורחה, בניגוד לחרם רבנו גרשום. האם הגט כשר בדיעבד? הנודע ביהודה דן בזה באריכות.",
+          "detail": 2,
+          "source": "shiur"
+        },
+        {
+          "text": "קושי שנשאר: אם השליחות חלה משום שהשליח אינו מוזהר, הרי השליח בכל זאת סייע לשולח לחטוא. האם השליח עובר אז על לפני עיוור?",
+          "detail": 3,
+          "source": "shiur"
         }
-       ],
-       "chart": {
-        "caption": "הברייתא לפי פירוש הגמרא: היכן הבעלים, ואיך נשכח העומר",
+      ],
+      "chart": {
+        "caption": "רבינא ורב סמא: מדוע אין שליחות לדבר עבירה, ושני מקרי המבחן",
         "columns": [
-         "",
-         "שכוח מעיקרו",
-         "זכור ולבסוף שכוח"
+          "",
+          "שליחות לדבר עבירה, והחצר",
+          "כהן ששולח ישראל לקדש לו גרושה",
+          "איש ששולח אישה להקיף ראש קטן"
         ],
         "rows": [
-         [
-          "הבעלים עומד בשדה",
-          "שכחה",
-          "אינו שכחה: שדהו קונה לו"
-         ],
-         [
-          "הבעלים בעיר",
-          "שכחה",
-          "שכחה: אינו אצלו, ולכן שדהו אינה קונה לו"
-         ]
+          [
+            "רבינא",
+            "1. השליחות בטלה כשהשליח מוזהר על האיסור והיה צריך לסרב\n2. החצר אינה מוזהרת על שום איסור",
+            "הישראל אינו מוזהר: הכהן חייב",
+            "האישה אינה מוזהרת: האיש חייב"
+          ],
+          [
+            "רב סמא",
+            "1. השליחות בטלה כשהשליח יכול היה לבחור שלא לעשות\n2. החצר פועלת בלי בחירה",
+            "הישראל יכול לסרב: הכהן פטור",
+            "האישה יכולה לסרב: האיש פטור"
+          ]
         ]
-       },
-       "illustration": {
-        "caption": "פירוש הגמרא לברייתא על דברים כד, יט (יא.): עומר שהבעלים זכר ניצל מדין שכחה רק כשהבעלים עומד בשדה.",
-        "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>מימין: הבעלים עומד בשדהו ליד עומר. משמאל: הבעלים בעיר, והעומר מונח בשדה הרחוקה. מתחת לכל אחד – הדין בעומר ששכוח מעיקרו ובעומר שהיה זכור ולבסוף שכוח.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='460' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='396' rx='14' fill='#E4EFE4'/><rect x='460' y='14' width='425' height='396' rx='14' fill='#F3E6D8'/><rect x='40' y='60' width='375' height='144' fill='#E9DDB0'/><path d='M55 80 h345 M55 100 h345 M55 184 h345' stroke='#D2C08A' stroke-width='3'/><path d='M166 172 L182 112 L198 112 L214 172 Z' fill='#D4B062' stroke='#A8843E'/><path d='M176 112 l-6 -14 M190 112 v-16 M204 112 l6 -14' stroke='#A8843E' stroke-width='3' stroke-linecap='round'/><rect x='176' y='136' width='28' height='6' fill='#8A6A3A'/><use href='#man' x='300' y='80' width='55' height='110' style='color:#4B5E8C'/><use href='#mark-no' x='40' y='266' width='22' height='22'/><use href='#mark-ok' x='40' y='336' width='22' height='22'/><rect x='482' y='130' width='40' height='50' fill='#EDE3CF' stroke='#BFAE8E'/><path d='M478 132 L502 112 L526 132 Z' fill='#B5673E'/><rect x='528' y='112' width='44' height='68' fill='#EDE3CF' stroke='#BFAE8E'/><path d='M524 114 L550 92 L576 114 Z' fill='#B5673E'/><use href='#man' x='578' y='96' width='45' height='90' style='color:#4B5E8C'/><rect x='630' y='60' width='235' height='144' fill='#E9DDB0'/><path d='M645 80 h205 M645 100 h205 M645 184 h205' stroke='#D2C08A' stroke-width='3'/><path d='M716 172 L732 112 L748 112 L764 172 Z' fill='#D4B062' stroke='#A8843E'/><path d='M726 112 l-6 -14 M740 112 v-16 M754 112 l6 -14' stroke='#A8843E' stroke-width='3' stroke-linecap='round'/><rect x='726' y='136' width='28' height='6' fill='#8A6A3A'/><use href='#mark-no' x='485' y='266' width='22' height='22'/><use href='#mark-no' x='485' y='336' width='22' height='22'/></g><text x='673' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#24592E'>הבעלים עומד בשדה</text><text x='860' y='224' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>שדה</text><text x='860' y='256' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>שכוח מעיקרו</text><text x='830' y='283' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>שכחה: אסור לחזור וליטול</text><text x='860' y='326' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>זכור ולבסוף שכוח</text><text x='830' y='353' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#24592E'>אינו שכחה: מותר ליטול</text><text x='860' y='380' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>כשהוא עומד בצדה, שדהו קונה לו</text><text x='228' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#9A6212'>הבעלים בעיר</text><text x='373' y='224' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>עיר</text><text x='270' y='224' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>שדה</text><text x='415' y='256' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>שכוח מעיקרו</text><text x='385' y='283' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>שכחה: אסור לחזור וליטול</text><text x='415' y='326' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>זכור ולבסוף שכוח</text><text x='385' y='353' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>שכחה: אסור לחזור וליטול</text><text x='415' y='380' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>אינו בצדה, ולכן שדהו אינה קונה לו</text><text x='450' y='440' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>בבא מציעא יא. · הברייתא על דברים כד, יט, לפי פירוש הגמרא</text></svg>"
-       },
-       "children": []
       },
-      {
-       "id": "s10",
-       "title": "גזירת הכתוב? \"לא תשוב\" ו\"יהיה\"",
-       "amud": "יא.",
-       "text": {
-        "from": "11a.14",
-        "to": "11a.20"
-       },
-       "gist": "אולי שדה ועיר שונים מגזירת הכתוב ולא משום חצר. הגמרא צריכה מילה שמרבה את העיר, ואחרי ש\"לא תשוב\" אינו מספיק, רב אשי מוצא אותה ב\"יהיה\".",
-       "flag": "על פי הגמרא בלבד",
-       "bullets": [
+      "illustration": {
+        "caption": "שני המקרים שבגמרא להבדל בין רבינא לרב סמא (י:), ובכל אחד מהם השולח, השליח והאיסור שבו מדובר.",
+        "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>מימין: כהן שולח ישראל לקדש לו אישה גרושה. משמאל: איש שולח אישה להקיף את ראשו של קטן. מתחת לכל מקרה – כיצד פוסקים רבינא ורב סמא לגבי השולח.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='376' rx='14' fill='#E3EAF3'/><rect x='460' y='14' width='425' height='376' rx='14' fill='#F3E6D8'/><use href='#man' x='60' y='92' width='60' height='120' style='color:#4B5E8C'/><path d='M128 150 H182' stroke='#5B6478' stroke-width='3'/><path d='M184 150 l-10 -6 v12 z' fill='#5B6478'/><use href='#man' x='190' y='92' width='60' height='120' style='color:#6B6F3A'/><path d='M258 150 H312' stroke='#5B6478' stroke-width='3'/><path d='M314 150 l-10 -6 v12 z' fill='#5B6478'/><use href='#woman' x='320' y='92' width='60' height='120' style='color:#8C4A60'/><line x1='40' y1='310' x2='415' y2='310' stroke='#C9D3E3'/><use href='#man' x='505' y='92' width='60' height='120' style='color:#50706E'/><path d='M573 150 H627' stroke='#5B6478' stroke-width='3'/><path d='M629 150 l-10 -6 v12 z' fill='#5B6478'/><use href='#woman' x='635' y='92' width='60' height='120' style='color:#A8436E'/><path d='M703 170 H757' stroke='#5B6478' stroke-width='3'/><path d='M759 170 l-10 -6 v12 z' fill='#5B6478'/><use href='#child' x='775' y='152' width='30' height='60' style='color:#4E7A8C'/><line x1='485' y1='310' x2='860' y2='310' stroke='#E3CFB8'/></g><text x='673' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#1B3A8A'>כהן וישראל</text><text x='673' y='70' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>״צא וקדש לי אישה גרושה״</text><text x='810' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>כהן (שולח)</text><text x='680' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>ישראל (שליח)</text><text x='550' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>גרושה</text><text x='673' y='268' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>אסורה לכהן,</text><text x='673' y='290' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#24592E'>ומותרת לישראל</text><text x='673' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#1A1F2E'>רבינא: השליח אינו מוזהר ← הכהן חייב</text><text x='673' y='366' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#1A1F2E'>רב סמא: השליח יכול לסרב ← הכהן פטור</text><text x='228' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#9A6212'>איש ואישה</text><text x='228' y='70' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>״אקיפי לי קטן״ – הקיפי לי את ראשו של קטן</text><text x='365' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>איש (שולח)</text><text x='235' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>אישה (שליחה)</text><text x='110' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>קטן</text><text x='228' y='268' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>הקפה: אסורה באנשים,</text><text x='228' y='290' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#24592E'>ואינה אסורה בנשים</text><text x='228' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#1A1F2E'>רבינא: השליחה אינה מוזהרת ← האיש חייב</text><text x='228' y='366' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#1A1F2E'>רב סמא: השליחה יכולה לסרב ← האיש פטור</text><text x='450' y='420' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>בבא מציעא י: · המקרים שמבדילים בין רבינא לרב סמא</text></svg>"
+      },
+      "children": []
+    },
+    {
+      "id": "s2",
+      "title": "חצר משום ידה מעבר לגט: מציאה, קטנה וקטן",
+      "amud": "י:–יא.",
+      "text": {
+        "from": "10b.17",
+        "to": "11a.4"
+      },
+      "gist": "גט שהונח בחצרה של אישה מוכיח שהחצר נחשבת כידה, ולכן הגמרא מעמידה את מחלוקת רבי ינאי ואבא כהן ברדלא בשלוש דרכים: גט מול מציאה, קטנה מול קטן, או שאין מחלוקת כלל.",
+      "bullets": [],
+      "chart": {
+        "caption": "שלוש דרכים להבין את מחלוקת רבי ינאי ואבא כהן ברדלא",
+        "columns": [
+          "",
+          "תירוץ ראשון: גט ומציאה",
+          "תירוץ שני: קטנה וקטן",
+          "תירוץ שלישי: אין מחלוקת"
+        ],
+        "rows": [
+          [
+            "מה שהכול מודים בו",
+            "בגט, חצרה נחשבת כידה",
+            "קטנה קונה מציאה בחצרה",
+            "כל חכם אמר דבר אחר"
+          ],
+          [
+            "רבי ינאי",
+            "למדים מציאה מגט: חצרה קונה",
+            "למדים קטן מקטנה: גם חצרו קונה",
+            "קטן וקטנה אינם קונים מציאה בחצר"
+          ],
+          [
+            "אבא כהן ברדלא",
+            "אין למדים מציאה מגט",
+            "רק קטנה, שהרי התורה ריבתה את החצר לגט שלה",
+            "קטנה מתגרשת בגט שהונח בחצרה"
+          ]
+        ],
+        "tags": [
+          [
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "acquires",
+            "acquires",
+            "not-acquired"
+          ],
+          [
+            null,
+            null,
+            null,
+            "effective"
+          ]
+        ]
+      },
+      "children": [
         {
-         "text": "דחייה: \"דלמא גזירת הכתוב היא\" – בשדה העומר שכחה ובעיר אינו שכחה, ודיני הקנייה אינם שייכים לעניין.",
-         "detail": 2,
-         "source": "gemara"
+          "id": "s3",
+          "title": "גגה, חצירה וקרפיפה: בגט הכול מודים שחצר משום ידה",
+          "amud": "י:–יא.",
+          "text": {
+            "from": "10b.17",
+            "to": "11a.1"
+          },
+          "gist": "ברייתא מתירה להניח גט בחצרה של האישה, ולכן הכול מודים שבגט החצר היא ידה; המחלוקת עוברת למציאה.",
+          "bullets": [
+            {
+              "text": "קושיה על שיטת אבא כהן ברדלא: וכי יש מי שסובר שחצר לא ריבתה משום ידה? והתניא על \"וְנָתַן בְּיָדָהּ\" (דברים כד, א): \"ידה – אין לי אלא ידה; גגה, חצירה וקרפיפה מנין? תלמוד לומר ונתן – מכל מקום\". כלומר, היא מתגרשת גם כשהבעל מניח את הגט על גגה, בחצרה או בקרפיפה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רש״י: הפועל שלפני \"בידה\" הוא שמרחיב את הנתינה מעבר לידה ממש.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "תוספות: אותו לימוד חל גם על גט של קטנה, ולכן חצר של קטנה מבוססת על יד ולא על שליחות.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "תירוץ: לעניין גט הכול מודים שהחצר ריבתה משום ידה. המחלוקת היא לעניין מציאה בחצרה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רבי ינאי סובר: למדים מציאה מגט. אבא כהן ברדלא סובר: אין למדים מציאה מגט.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "מדוע אפשר לחלק ביניהם: ייתכן שגט אינו עניין של קנייה כלל, אלא רק של הנחת השטר ברשותה, וחצר נחשבת \"אצלה\". מציאה צריכה קנין ממש, ו\"אצלה\" אולי אינו מספיק לכך.",
+              "detail": 2,
+              "source": "shiur"
+            }
+          ],
+          "children": []
         },
         {
-         "text": "תשובה: \"לֹא תָשׁוּב לְקַחְתּוֹ\" (דברים כד, יט) – \"לרבות שכחת העיר\". אם כן, אין הבדל בין עיר לשדה מצד עצמם, וההבדל נובע מדין חצר.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "קושיה: \"האי מיבעי ליה ללאו\" – הפסוק נצרך ללאו שאוסר ליטול את השכחה. תירוץ: לשם כך היה די לכתוב \"לא תקחנו\"; \"לא תשוב\" מיותר.",
-         "detail": 3,
-         "source": "gemara"
-        },
-        {
-         "text": "קושיה: \"לא תשוב\" נצרך למשנה בפאה (ז, ד): \"שלפניו – אין שכחה, שלאחריו – יש שכחה, שהוא בבל תשוב. זה הכלל: כל שהוא בבל תשוב – שכחה, כל שאינו בבל תשוב – אינו שכחה\".",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "רב אשי: \"יִהְיֶה\" (דברים כד, יט) – \"לרבות שכחת העיר\". הפירוש הראשון עומד: חצר קונה רק כשבעליה עומד בצדה, כדברי שמואל.",
-         "detail": 2,
-         "source": "gemara"
+          "id": "s4",
+          "title": "או: קטנה וקטן, או שאין מחלוקת כלל",
+          "amud": "יא.",
+          "text": {
+            "from": "11a.2",
+            "to": "11a.4"
+          },
+          "gist": "שתי דרכים נוספות: בקטנה הכול מודים והמחלוקת היא בקטן, או ששני החכמים אמרו דברים נפרדים שאינם סותרים זה את זה.",
+          "bullets": [
+            {
+              "text": "ואיבעית אימא: בקטנה הכול מודים שלמדים מציאה מגט, והמחלוקת היא בקטן. רבי ינאי לומד קטן מקטנה, שהרי אין לחלק ביניהם בדיני קנייה. אבא כהן ברדלא אינו לומד: רק קטנה קונה בחצרה, משום שהתורה ריבתה את החצר לגט שלה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "ואיבעית אימא: \"מר אמר חדא ומר אמר חדא ולא פליגי\". אבא כהן ברדלא אמר שקטנה מתגרשת בגט שהונח בחצרה. רבי ינאי אמר שקטן וקטנה אינם קונים מציאה בחצר.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "החלוקות האלה מפתיעות. אם התורה עשתה את החצר יד, היינו מצפים שכך יהיה בכל תחום ולכל אדם. החלוקה בין גט למציאה מובנת רק אם \"יד\" פירושה דבר אחר בכל אחד מהם.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "שאלה פתוחה: חפץ שהונח בחצר של קטן על ידי מי שמתכוון לתת לו. תוספות: קטן קונה מציאה רק מדרבנן, משום שאין לו דעת. כשהנותן מוסיף דעת אחרת, מסתבר שחצרו של הקטן תועיל.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
         }
-       ],
-       "children": []
-      }
-     ]
-    },
-    {
-     "id": "s11",
-     "title": "עולא ורבה בר בר חנה מסכימים: עומד בצד שדהו",
-     "amud": "יא.",
-     "text": {
-      "from": "11a.21",
-      "to": "11a.21"
-     },
-     "gist": "שני אמוראים נוספים אומרים את התנאי של שמואל באותן מילים.",
-     "bullets": [
-      {
-       "text": "עולא ורבה בר בר חנה אומרים כל אחד: \"והוא שעומד בצד שדהו\".",
-       "detail": 2,
-       "source": "gemara"
-      }
-     ],
-     "children": []
-    },
-    {
-     "id": "s12",
-     "title": "המעשרות של רבן גמליאל בספינה: חצר, קנין אגב או דעת אחרת מקנה?",
-     "amud": "יא.–יא:",
-     "text": {
-      "from": "11a.22",
-      "to": "11b.7"
-     },
-     "gist": "רבי אבא מקשה על עולא ממעשרות שניתנו למקבלים שהיו רחוקים מהשדה. התשובות הן מטלטלין אגב קרקע (רבא תוקף אותה, והגמרא מגינה עליה) ושיטת רב פפא שדעת אחרת מקנה שאני.",
-     "bullets": [],
-     "chart": {
-      "caption": "איך עברו המעשרות של רבן גמליאל לרבי יהושע ולרבי עקיבא? רבא ותשובת הגמרא",
-      "columns": [
-       "הדרך",
-       "רבא",
-       "תשובת הגמרא"
-      ],
-      "rows": [
-       [
-        "חצר (המקום המושכר)",
-        "בהכרח זו הייתה הדרך, ולכן חצר קונה גם כשבעליה אינו עומד בצדה",
-        "לא בדרך זו השתמש, ולכן אין קושיה על עולא"
-       ],
-       [
-        "קנין אגב (מטלטלין אגב קרקע)",
-        "אי אפשר: טובת הנאה אינה ממון שיקנה על גבי קרקע",
-        "נתינה אלימתא – נתינה חזקה: בדרך זו השתמש"
-       ],
-       [
-        "חליפין (סודר)",
-        "אילו המעשרות היו שלו, היה די בסודר",
-        "חליפין דרך מקח וממכר הם, ומעשרות צריכים נתינה"
-       ]
       ]
-     },
-     "children": [
-      {
-       "id": "s13",
-       "title": "מעשה הספינה: וכי בצד שדהו היו עומדין? עולא דוחה",
-       "amud": "יא.–יא:",
-       "text": {
-        "from": "11a.22",
-        "to": "11b.3"
-       },
-       "gist": "רבן גמליאל נתן מעשרות והשכיר את מקומם לרבי יהושע ולרבי עקיבא כשכולם היו בספינה, רחוק מהשדה; עולא דוחה את הקושיה בלי לענות עליה.",
-       "bullets": [
-        {
-         "text": "רבי אבא מקשה על עולא ממעשר שני ה, ט: \"מעשה ברבן גמליאל וזקנים שהיו באים בספינה\". רבן גמליאל נזכר שלא עישר ואמר: \"עישור שאני עתיד למוד נתון ליהושע, ומקומו מושכר לו\" (רבי יהושע היה לוי).",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "\"ועישור אחר שאני עתיד למוד נתון לעקיבא בן יוסף, כדי שיזכה בו לעניים, ומקומו מושכר לו\" – כלומר מעשר עני.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "רבי אבא: \"וכי רבי יהושע ורבי עקיבא בצד שדהו של רבן גמליאל היו עומדין?\" כולם היו בספינה. מכאן שחצר קונה גם כשבעליה אינו עומד בצדה.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "עולא: \"דמי האי מרבנן כדלא גמרי אינשי שמעתא\" – החכם הזה נראה כמי שלא למד הלכה. הוא דוחה את הקושיה בלי לענות עליה.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "רש״י: רבן גמליאל הפריש מעשרות מרחוק כדי שבני ביתו לא יאכלו טבל. תוספות מקשים: \"שאני עתיד למוד\" אינו הפרשה עכשיו, וכדי להימנע מטבל אין צורך בהקנאה. תוספות מעמידים את המעשה בביעור מעשרות שכבר הופרשו, בסוף השנה.",
-         "detail": 3,
-         "source": "shiur"
-        },
-        {
-         "text": "תוספות: האם המקום בכלל היה משתמר? תבואה בשדה פתוחה אינה משתמרת, ואפילו בבית המעשר לא היה משתמר מפני בני המשפחה, שלא ידעו שהוא כבר של אחר.",
-         "detail": 3,
-         "source": "shiur"
-        }
-       ],
-       "illustration": {
-        "caption": "קושיית רבי אבא (מעשר שני ה, ט, מובא ביא.–יא:): מקבלי המעשרות היו עם רבן גמליאל בספינה, רחוק משדהו.",
-        "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>ספינה בים ובה רבן גמליאל, רבי יהושע ורבי עקיבא. הרחק ביבשה שדהו של רבן גמליאל, ובה שתי ערמות: מעשר ראשון לרבי יהושע ומעשר עני לרבי עקיבא.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='url(#sky)'/><rect x='0' y='300' width='900' height='140' fill='#9DBBD0'/><path d='M600 330 Q640 252 720 246 L900 240 L900 330 Z' fill='#CFDDB0'/><path d='M660 300 h220 M700 270 h180' stroke='#B5C58A' stroke-width='3'/><path d='M640 305 Q670 266 700 305 Z' fill='#D4B062'/><path d='M775 300 Q805 262 835 300 Z' fill='#D4B062'/><rect x='455' y='110' width='6' height='172' fill='#5A3A2A'/><path d='M461 120 L530 250 L461 250 Z' fill='#F4EFE4' stroke='#BFAE8E'/><use href='#sage' x='90' y='175' width='60' height='105' style='color:#6A4F7A;--beard:#8E8A84;--wrap:#E4D8C0'/><use href='#sage' x='200' y='175' width='60' height='105' style='color:#50706E;--beard:#A8A39C;--wrap:#D9CBB0'/><use href='#sage' x='310' y='175' width='60' height='105' style='color:#6B6F3A;--beard:#5A4636;--wrap:#E4D8C0'/><path d='M50 280 L470 280 L430 330 L90 330 Z' fill='#7B4B3A'/></g><text x='450' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>וכי בצד שדהו של רבן גמליאל היו עומדין?</text><text x='450' y='70' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#5B6478'>קושיית רבי אבא על עולא</text><text x='150' y='168' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='16' font-weight='600' fill='#1A1F2E'>שדהו של רבן גמליאל</text><text x='232' y='200' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>מעשר ראשון</text><text x='232' y='218' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לרבי יהושע</text><text x='90' y='200' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>מעשר עני</text><text x='90' y='218' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לרבי עקיבא</text><text x='780' y='140' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>רבן גמליאל</text><text x='780' y='158' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>הבעלים</text><text x='670' y='140' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>רבי יהושע</text><text x='670' y='158' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>לוי</text><text x='560' y='140' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>רבי עקיבא</text><text x='560' y='158' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>בשביל העניים</text><text x='640' y='372' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>כולם היו בספינה</text><text x='450' y='424' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>מעשר שני ה, ט, מובא בבבא מציעא יא.–יא:</text></svg>"
-       },
-       "children": []
+    },
+    {
+      "id": "s5",
+      "title": "משנה: צבי שבור וגוזלות שלא פרחו – \"זכתה לי שדי\"",
+      "amud": "יא.",
+      "text": {
+        "from": "11a.5",
+        "to": "11a.5"
       },
-      {
-       "id": "s14",
-       "title": "תשובת סורא: מטלטלי אגב מקרקעי (קנין אגב)",
-       "amud": "יא:",
-       "text": {
-        "from": "11b.4",
-        "to": "11b.4"
-       },
-       "gist": "אחד החכמים בסורא משיב שהמעשרות עברו בקנין אגב, יחד עם הקרקע המושכרת, ולא דרך חצר; רבי זירא מקבל את התשובה, ורבי אבא אינו מקבל.",
-       "bullets": [
+      "gist": "השדה קונה מציאה שאינה יכולה לברוח, כמו צבי שבור או גוזלות שאינם יכולים לעוף, אבל לא צבי שרץ כדרכו או גוזלות מפריחים.",
+      "bullets": [
         {
-         "text": "כשבא רבי אבא לסורא, סיפר את דברי עולא ואת קושייתו. אחד החכמים השיב: \"רבן גמליאל מטלטלי אגב מקרקעי הקנה להם\" – הוא הקנה להם את המטלטלין, כלומר את המעשרות, אגב הקרקע, ולא בכך שעשה את המקום חצר שלהם.",
-         "detail": 2,
-         "source": "gemara"
+          "text": "ראה אנשים רצים אחר מציאה של הפקר – צבי שבור, שרגלו נשברה, או גוזלות שעדיין לא פרחו – ואמר \"זכתה לי שדי\": זכתה לו.",
+          "detail": 2,
+          "source": "gemara"
         },
         {
-         "text": "\"רבי זירא קבלה, רבי אבא לא קבלה\".",
-         "detail": 2,
-         "source": "gemara"
+          "text": "\"היה צבי רץ כדרכו, או שהיו גוזלות מפריחין, ואמר זכתה לי שדי – לא אמר כלום\": חצר אינה קונה דבר שאינו נשאר בה מעצמו.",
+          "detail": 2,
+          "source": "gemara"
         },
         {
-         "text": "קנין אגב: כשמקנים קרקע, מטלטלין שהנותן מצרף לקרקע עוברים יחד איתה, גם אם אינם מונחים עליה. שכירות מועילה לכך, משום שהיא בעלות על הקרקע לזמן מוגבל (רמב״ם). לכן \"מקומו מושכר לו\" אינו חייב להיות המקום המסוים, ואין צורך לא בעמידה בצד השדה ולא בחצר המשתמרת.",
-         "detail": 3,
-         "source": "shiur"
+          "text": "קנין חצר מועיל רק כשהרשות יכולה באמת להחזיק את החפץ. צבי רץ או ציפור עפה אינם באמת \"בתוך\" השדה.",
+          "detail": 2,
+          "source": "shiur"
+        },
+        {
+          "text": "תוספות: האמירה אינה נצרכת מעיקר הדין, שהרי חצר קונה גם בלעדיה.",
+          "detail": 3,
+          "source": "shiur"
         }
-       ],
-       "children": []
+      ],
+      "illustration": {
+        "caption": "המקרים שבמשנה (יא.): השדה קונה את הצבי השבור ואת הגוזלות שאינם יכולים לעוף, אבל לא את הצבי שרץ כדרכו ולא את הגוזלות המפריחים.",
+        "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>שדה. מימין צבי שרגלו שבורה וגוזלות על הקרקע – השדה קונה אותם; משמאל צבי שרץ כדרכו וגוזלות שעפים – השדה אינה קונה אותם.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='460' fill='url(#sky)'/><rect x='0' y='285' width='900' height='70' fill='#CFDDB0'/><rect x='0' y='355' width='900' height='105' fill='#FBF8F1'/><use href='#mark-ok' x='130' y='76' width='24' height='24'/><use href='#mark-no' x='585' y='76' width='24' height='24'/><line x1='450' y1='110' x2='450' y2='355' stroke='#B8B0A0' stroke-width='2' stroke-dasharray='6 6'/><rect x='88' y='252' width='7' height='40' fill='#7A5230'/><rect x='104' y='254' width='7' height='38' fill='#7A5230'/><rect x='150' y='254' width='7' height='38' fill='#7A5230'/><path d='M170 252 L178 272 L166 292' stroke='#7A5230' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/><ellipse cx='130' cy='240' rx='55' ry='22' fill='#A0703F'/><path d='M170 232 L192 202' stroke='#A0703F' stroke-width='14' stroke-linecap='round'/><ellipse cx='200' cy='196' rx='15' ry='9' fill='#A0703F'/><path d='M194 188 l-6 -20 m3 10 l-9 -4 M202 188 l4 -20 m-2 10 l8 -5' stroke='#6A4A2A' stroke-width='3' fill='none' stroke-linecap='round'/><circle cx='204' cy='193' r='2' fill='#3B3431'/><g fill='#9A9CA8'><ellipse cx='280' cy='292' rx='15' ry='10'/><circle cx='293' cy='283' r='6'/><ellipse cx='330' cy='294' rx='15' ry='10'/><circle cx='343' cy='285' r='6'/><ellipse cx='380' cy='292' rx='15' ry='10'/><circle cx='393' cy='283' r='6'/></g><g fill='#C9A15C'><path d='M299 283 l6 2 l-6 2 z'/><path d='M349 285 l6 2 l-6 2 z'/><path d='M399 283 l6 2 l-6 2 z'/></g><path d='M615 234 L650 262 M605 238 L640 270 M548 234 L512 262 M558 238 L525 272' stroke='#7A5230' stroke-width='6' stroke-linecap='round'/><ellipse cx='580' cy='225' rx='55' ry='20' fill='#A0703F'/><path d='M620 218 L645 194' stroke='#A0703F' stroke-width='14' stroke-linecap='round'/><ellipse cx='655' cy='188' rx='15' ry='9' fill='#A0703F'/><path d='M649 180 l-6 -20 m3 10 l-9 -4 M657 180 l4 -20 m-2 10 l8 -5' stroke='#6A4A2A' stroke-width='3' fill='none' stroke-linecap='round'/><circle cx='659' cy='185' r='2' fill='#3B3431'/><g fill='none' stroke='#6E7080' stroke-width='3' stroke-linecap='round'><path d='M728 150 q12 -14 24 0 q12 -14 24 0'/><path d='M783 128 q12 -14 24 0 q12 -14 24 0'/><path d='M820 170 q12 -14 24 0 q12 -14 24 0'/></g></g><text x='675' y='40' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='18' font-weight='600' fill='#1A1F2E'>״זכתה לי שדי״</text><text x='225' y='40' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='18' font-weight='600' fill='#1A1F2E'>״זכתה לי שדי״</text><text x='675' y='64' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='16' fill='#5A4A3A'>אמר בעל השדה</text><text x='225' y='64' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='16' fill='#5A4A3A'>אמר בעל השדה</text><text x='738' y='94' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#24592E'>זכתה לו</text><text x='283' y='94' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#8C2F2F'>לא אמר כלום</text><text x='765' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>צבי שבור</text><text x='765' y='398' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>(רגלו שבורה)</text><text x='570' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>גוזלות</text><text x='570' y='398' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>שעדיין לא פרחו</text><text x='320' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>צבי רץ</text><text x='320' y='398' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>כדרכו</text><text x='100' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>גוזלות</text><text x='100' y='398' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>שכבר מפריחים</text><text x='450' y='440' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#1A1F2E'>חצר אינה קונה דבר שאינו נשאר בה מעצמו</text></svg>"
       },
-      {
-       "id": "s15",
-       "title": "רבא: למה לא בסודר? טובת הנאה אינה ממון",
-       "amud": "יא:",
-       "text": {
-        "from": "11b.5",
-        "to": "11b.5"
-       },
-       "gist": "רבא מצדד ברבי אבא: אילו המעשרות היו של רבן גמליאל להקנות, היה די בחליפין. מאחר שטובת ההנאה שלו אינה ממון, לא חליפין ולא קרקע יכולים להעביר אותה, ולכן בהכרח זו הייתה חצר.",
-       "bullets": [
-        {
-         "text": "רבא: \"שפיר עביד דלא קבלה\" – רבי אבא עשה טוב שלא קיבל. אם רבן גמליאל הקנה להם בעלות, \"וכי לא היה להם סודר לקנות ממנו בחליפין?\"",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "אלא שהמעשרות לא היו ממונו. היה לו רק טובת הנאה – הזכות לבחור לאיזה לוי או עני לתת אותם – ו\"טובת הנאה אינה ממון לקנות ממנו בחליפין\".",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "מאותו טעם אי אפשר להקנות אותה בקנין אגב: \"טובת הנאה אינה ממון לקנות על גבי קרקע\". ההקנאה הייתה בקנין חצר, וחצר קונה גם כשבעליה אינו עומד בצדה.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "לפי השיטה הזאת, מציע מעביר השיעור, מה שנשאר לרבן גמליאל הוא נתינה: הנחת המעשר בחצר המקבלים היא מעשה של נתינה, מעשה חלש יותר מקניית מציאה.",
-         "detail": 3,
-         "source": "shiur"
-        }
-       ],
-       "children": []
-      },
-      {
-       "id": "s16",
-       "title": "תשובה: מעשרות צריכים נתינה, לא חליפין",
-       "amud": "יא:",
-       "text": {
-        "from": "11b.6",
-        "to": "11b.6"
-       },
-       "gist": "מעשרות ומתנות כהונה צריכים נתינה. חליפין הם סוג של מכירה, אבל מטלטלין אגב קרקע הם נתינה אלימתא, ולכן תשובת סורא עומדת ועולא אינו נפגע.",
-       "bullets": [
-        {
-         "text": "הגמרא דוחה את טעמו של רבא: \"ולא היא\". במתנות כהונה, וכך גם במעשרות ללוי ולעני, \"נתינה כתיבא בהו\" – נאמר \"וְנָתַתָּה\" (דברים כו, יב), ולכן צריך לתת אותם, ולא למכור או להחליף.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "\"חליפין – דרך מקח וממכר הוא\", ולכן אינם מתאימים למעשרות. \"מטלטלין אגב מקרקע – נתינה אלימתא היא\": זו נתינה חזקה.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "לכן רבן גמליאל השתמש בקרקע ולא בסודר. ההקנאה לא הייתה דרך חצר, ואין קושיה על עולא.",
-         "detail": 2,
-         "source": "gemara"
-        }
-       ],
-       "returns_to": [
-        {
-         "id": "s14",
-         "note": "מחזיר את תשובת סורא שרבי אבא לא קיבל"
-        }
-       ],
-       "children": []
-      },
-      {
-       "id": "s17",
-       "title": "רב פפא: דעת אחרת מקנה שאני",
-       "amud": "יא: ← יב.",
-       "text": {
-        "from": "11b.7",
+      "children": []
+    },
+    {
+      "id": "s6",
+      "title": "עומד בצד שדהו: התנאי, מקורו וקושיה עליו",
+      "amud": "יא.–יא:",
+      "text": {
+        "from": "11a.6",
         "to": "11b.7"
-       },
-       "gist": "גם אם המעשרות עברו דרך חצר, הקנאה על ידי נותן שונה ממציאה, והמקבל אינו צריך לעמוד בצדה.",
-       "bullets": [
+      },
+      "gist": "שלושה חלקים: התנאי של שמואל שהבעלים יעמוד בצד שדהו, מקורו בדיני שכחה, וקושיית רבי אבא מן המעשרות שנתן רבן גמליאל מן הספינה.",
+      "bullets": [],
+      "children": [
         {
-         "text": "רב פפא: גם אם רבי יהושע ורבי עקיבא קנו בחצר, אין זו תיובתא לעולא. לא היה כאן הפקר: דעת אחרת, של רבן גמליאל, הקנתה להם, ו\"דעת אחרת מקנה אותן שאני\" – הם לא היו צריכים לעמוד בצדה.",
-         "detail": 2,
-         "source": "gemara"
+          "id": "s7",
+          "title": "התנאי של שמואל: חצר המשתמרת וחצר שאינה משתמרת",
+          "amud": "יא.",
+          "text": {
+            "from": "11a.6",
+            "to": "11a.8"
+          },
+          "gist": "חצר המשתמרת קונה אף שלא מדעת הבעלים; שדה פתוחה קונה רק כשהבעלים עומד בצדה.",
+          "bullets": [
+            {
+              "text": "רב יהודה אמר שמואל: הקנייה שבמשנה מועילה רק \"והוא שעומד בצד שדהו\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "קושיה: רבי יוסי ברבי חנינא אמר \"חצרו של אדם קונה לו שלא מדעתו\". אם כן, למה עליו לעמוד שם?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תירוץ: זה נאמר בחצר המשתמרת. חצר שאינה משתמרת – אם עומד בצד שדהו, קונה; ואם לא, אינה קונה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "נוכחות הבעלים עושה לשדה פתוחה מה שגדר עושה לחצר: היא מאפשרת לשדה להחזיק את החפץ. זה אותו עניין כמו בצבי השבור שבמשנה.",
+              "detail": 2,
+              "source": "shiur"
+            }
+          ],
+          "illustration": {
+            "caption": "התנאי של שמואל כפי שהגמרא מסבירה אותו (יא.): חצר המשתמרת קונה גם כשהבעלים אינו שם, ואילו שדה פתוחה קונה רק כשהוא עומד בצדה.",
+            "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>שלוש תמונות: חצר מגודרת ובה בהמה, בלי הבעלים – קונה; שדה פתוחה והבעלים עומד בצדה – קונה; שדה פתוחה והבעלים רחוק, בעיר – אינה קונה.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='420' fill='#FBF8F1'/><rect x='15' y='14' width='280' height='366' rx='14' fill='#E3EAF3'/><rect x='310' y='14' width='280' height='366' rx='14' fill='#E4EFE4'/><rect x='605' y='14' width='280' height='366' rx='14' fill='#F3E6D8'/><rect x='55' y='100' width='200' height='150' fill='#EFE6D2' stroke='#8A6A48' stroke-width='6' stroke-dasharray='6 6'/><use href='#lamb' x='115' y='150' width='80' height='56'/><use href='#mark-ok' x='50' y='282' width='28' height='28'/><rect x='330' y='110' width='180' height='140' fill='#D8E4B4'/><path d='M345 128 h150 M345 146 h150 M345 232 h150' stroke='#B5C58A' stroke-width='3'/><use href='#lamb' x='375' y='155' width='80' height='56'/><use href='#man' x='520' y='130' width='55' height='110' style='color:#4B5E8C'/><use href='#mark-ok' x='345' y='282' width='28' height='28'/><rect x='625' y='110' width='180' height='140' fill='#D8E4B4'/><path d='M640 128 h150 M640 146 h150 M640 232 h150' stroke='#B5C58A' stroke-width='3'/><use href='#lamb' x='670' y='155' width='80' height='56'/><rect x='825' y='192' width='45' height='38' fill='#EDE3CF' stroke='#BFAE8E'/><path d='M821 194 L847 172 L874 194 Z' fill='#B5673E'/><rect x='842' y='210' width='10' height='20' fill='#8A7560'/><use href='#mark-no' x='640' y='282' width='28' height='28'/></g><text x='745' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='19' font-weight='600' fill='#1B3A8A'>חצר המשתמרת</text><text x='745' y='68' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>הבעלים אינו שם</text><text x='814' y='302' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#24592E'>קונה לו</text><text x='745' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>אף שלא מדעתו</text><text x='745' y='360' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>רבי יוסי ברבי חנינא</text><text x='450' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='19' font-weight='600' fill='#24592E'>שדה שאינה משתמרת</text><text x='450' y='68' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>הבעלים עומד בצדה</text><text x='519' y='302' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#24592E'>קונה לו</text><text x='450' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>רב יהודה אמר שמואל</text><text x='155' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='19' font-weight='600' fill='#9A6212'>שדה שאינה משתמרת</text><text x='155' y='68' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>הבעלים אינו בצדה</text><text x='53' y='250' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>בעיר</text><text x='224' y='302' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#8C2F2F'>אינה קונה</text><text x='155' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>אלא אם כן עומד בצדה</text><text x='450' y='404' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>בבא מציעא יא. · התנאי של שמואל ותירוץ הגמרא</text></svg>"
+          },
+          "children": []
         },
         {
-         "text": "בכל קנין יש שני רכיבים: הכוונה להקנות או לקנות, ומעשה הקנין. כשהכוונה חזקה, המעשה יכול להיות חלש יותר.",
-         "detail": 2,
-         "source": "shiur"
+          "id": "s8",
+          "title": "המקור בשכחה: שדה ועיר – משום חצר או גזירת הכתוב?",
+          "amud": "יא.",
+          "text": {
+            "from": "11a.9",
+            "to": "11a.20"
+          },
+          "gist": "הגמרא מפרשת ברייתא בדין שכחה כך שהחצר קונה רק כשהבעלים עומד בשדה, ומגינה על הפירוש הזה מפני האפשרות שזו גזירת הכתוב.",
+          "bullets": [],
+          "children": [
+            {
+              "id": "s9",
+              "title": "עומר שנשכח בעיר: זכור ולבסוף שכוח",
+              "amud": "יא.",
+              "text": {
+                "from": "11a.9",
+                "to": "11a.13"
+              },
+              "gist": "הברייתא נראית סותרת את עצמה. לפי פירושה הנכון, עומר שהבעלים זכר ואחר כך שכח אינו שכחה אם הבעלים עומד בשדה, משום ששדהו קונה לו, אבל הוא שכחה אם הבעלים בעיר.",
+              "bullets": [
+                {
+                  "text": "הגמרא שואלת: מנין שחצר שאינה משתמרת קונה רק כשהבעלים עומד בצד שדהו?",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "ברייתא: \"היה עומד בעיר ואומר: יודע אני שעומר שיש לי בשדה פועלים שכחוהו – לא יהא שכחה\", ואחר כך שכח גם הוא. \"יכול לא יהא שכחה? תלמוד לומר: וְשָׁכַחְתָּ עֹמֶר בַּשָּׂדֶה (דברים כד, יט) – בשדה ושכחת, ולא בעיר\".",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "\"הא גופה קשיא\": \"יכול לא יהא שכחה\" משמע שהוא שכחה, ואילו \"בשדה ושכחת – ולא בעיר\" משמע שעומר שנשכח כשהבעלים בעיר אינו שכחה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "הפירוש: כשהבעלים בשדה, עומר ששכוח מעיקרו הוא שכחה. עומר שהיה זכור ולבסוף שכוח אינו שכחה, משום שכיוון שהבעלים עומד אצלו, השדה נעשית חצרו וזוכה לו בעומר מרגע שזכר אותו.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "כשהבעלים בעיר, אפילו זכור ולבסוף שכוח הוא שכחה, משום שאינו אצלו כדי שתזכה לו. מכאן שחצר קונה רק כשבעליה עומד בצדה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "הסבר אינטואיטיבי יותר היה נשען על השגחה: מה שקובע הוא מודעות הבעלים ולא מודעות הפועלים. הגמרא, לעומת זאת, הופכת את הנוכחות לתנאי פורמלי של החזקה.",
+                  "detail": 2,
+                  "source": "shiur"
+                },
+                {
+                  "text": "השדה אינה יכולה לחזור ולקנות עומר שכבר נעשה שכחה, שהרי הוא כבר שייך לעניים. הכוונה היא בהכרח שבזכות נוכחות הבעלים העומר מעולם לא יצא מרשותו.",
+                  "detail": 3,
+                  "source": "shiur"
+                },
+                {
+                  "text": "לתנאי הפורמלי יש תוצאה חדה: בעלים שהתרחק כמה מטרים כדי לדפוק על דלת השכן כבר אינו עומד בצד שדהו, אף שהוא עדיין זוכר את העומר.",
+                  "detail": 3,
+                  "source": "shiur"
+                },
+                {
+                  "text": "השדה היא הדוגמה המובהקת לרשות שאינה מגודרת. עמידת הבעלים שם באה במקום הגדר שהופכת חצר למשתמרת.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "chart": {
+                "caption": "הברייתא לפי פירוש הגמרא: היכן הבעלים, ואיך נשכח העומר",
+                "columns": [
+                  "",
+                  "שכוח מעיקרו",
+                  "זכור ולבסוף שכוח"
+                ],
+                "rows": [
+                  [
+                    "הבעלים עומד בשדה",
+                    "שכחה",
+                    "אינו שכחה: שדהו קונה לו"
+                  ],
+                  [
+                    "הבעלים בעיר",
+                    "שכחה",
+                    "שכחה: אינו אצלו, ולכן שדהו אינה קונה לו"
+                  ]
+                ],
+                "tags": [
+                  [
+                    null,
+                    null,
+                    "acquires"
+                  ],
+                  [
+                    null,
+                    null,
+                    "not-acquired"
+                  ]
+                ]
+              },
+              "illustration": {
+                "caption": "פירוש הגמרא לברייתא על דברים כד, יט (יא.): עומר שהבעלים זכר ניצל מדין שכחה רק כשהבעלים עומד בשדה.",
+                "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>מימין: הבעלים עומד בשדהו ליד עומר. משמאל: הבעלים בעיר, והעומר מונח בשדה הרחוקה. מתחת לכל אחד – הדין בעומר ששכוח מעיקרו ובעומר שהיה זכור ולבסוף שכוח.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='460' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='396' rx='14' fill='#E4EFE4'/><rect x='460' y='14' width='425' height='396' rx='14' fill='#F3E6D8'/><rect x='40' y='60' width='375' height='144' fill='#E9DDB0'/><path d='M55 80 h345 M55 100 h345 M55 184 h345' stroke='#D2C08A' stroke-width='3'/><path d='M166 172 L182 112 L198 112 L214 172 Z' fill='#D4B062' stroke='#A8843E'/><path d='M176 112 l-6 -14 M190 112 v-16 M204 112 l6 -14' stroke='#A8843E' stroke-width='3' stroke-linecap='round'/><rect x='176' y='136' width='28' height='6' fill='#8A6A3A'/><use href='#man' x='300' y='80' width='55' height='110' style='color:#4B5E8C'/><use href='#mark-no' x='40' y='266' width='22' height='22'/><use href='#mark-ok' x='40' y='336' width='22' height='22'/><rect x='482' y='130' width='40' height='50' fill='#EDE3CF' stroke='#BFAE8E'/><path d='M478 132 L502 112 L526 132 Z' fill='#B5673E'/><rect x='528' y='112' width='44' height='68' fill='#EDE3CF' stroke='#BFAE8E'/><path d='M524 114 L550 92 L576 114 Z' fill='#B5673E'/><use href='#man' x='578' y='96' width='45' height='90' style='color:#4B5E8C'/><rect x='630' y='60' width='235' height='144' fill='#E9DDB0'/><path d='M645 80 h205 M645 100 h205 M645 184 h205' stroke='#D2C08A' stroke-width='3'/><path d='M716 172 L732 112 L748 112 L764 172 Z' fill='#D4B062' stroke='#A8843E'/><path d='M726 112 l-6 -14 M740 112 v-16 M754 112 l6 -14' stroke='#A8843E' stroke-width='3' stroke-linecap='round'/><rect x='726' y='136' width='28' height='6' fill='#8A6A3A'/><use href='#mark-no' x='485' y='266' width='22' height='22'/><use href='#mark-no' x='485' y='336' width='22' height='22'/></g><text x='673' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#24592E'>הבעלים עומד בשדה</text><text x='860' y='224' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>שדה</text><text x='860' y='256' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>שכוח מעיקרו</text><text x='830' y='283' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>שכחה: אסור לחזור וליטול</text><text x='860' y='326' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>זכור ולבסוף שכוח</text><text x='830' y='353' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#24592E'>אינו שכחה: מותר ליטול</text><text x='860' y='380' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>כשהוא עומד בצדה, שדהו קונה לו</text><text x='228' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#9A6212'>הבעלים בעיר</text><text x='373' y='224' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>עיר</text><text x='270' y='224' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>שדה</text><text x='415' y='256' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>שכוח מעיקרו</text><text x='385' y='283' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>שכחה: אסור לחזור וליטול</text><text x='415' y='326' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>זכור ולבסוף שכוח</text><text x='385' y='353' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>שכחה: אסור לחזור וליטול</text><text x='415' y='380' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>אינו בצדה, ולכן שדהו אינה קונה לו</text><text x='450' y='440' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>בבא מציעא יא. · הברייתא על דברים כד, יט, לפי פירוש הגמרא</text></svg>"
+              },
+              "children": []
+            },
+            {
+              "id": "s10",
+              "title": "גזירת הכתוב? \"לא תשוב\" ו\"יהיה\"",
+              "amud": "יא.",
+              "text": {
+                "from": "11a.14",
+                "to": "11a.20"
+              },
+              "gist": "אולי שדה ועיר שונים מגזירת הכתוב ולא משום חצר. הגמרא צריכה מילה שמרבה את העיר, ואחרי ש\"לא תשוב\" אינו מספיק, רב אשי מוצא אותה ב\"יהיה\".",
+              "flag": "על פי הגמרא בלבד",
+              "bullets": [
+                {
+                  "text": "דחייה: \"דלמא גזירת הכתוב היא\" – בשדה העומר שכחה ובעיר אינו שכחה, ודיני הקנייה אינם שייכים לעניין.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "תשובה: \"לֹא תָשׁוּב לְקַחְתּוֹ\" (דברים כד, יט) – \"לרבות שכחת העיר\". אם כן, אין הבדל בין עיר לשדה מצד עצמם, וההבדל נובע מדין חצר.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "קושיה: \"האי מיבעי ליה ללאו\" – הפסוק נצרך ללאו שאוסר ליטול את השכחה. תירוץ: לשם כך היה די לכתוב \"לא תקחנו\"; \"לא תשוב\" מיותר.",
+                  "detail": 3,
+                  "source": "gemara"
+                },
+                {
+                  "text": "קושיה: \"לא תשוב\" נצרך למשנה בפאה (ז, ד): \"שלפניו – אין שכחה, שלאחריו – יש שכחה, שהוא בבל תשוב. זה הכלל: כל שהוא בבל תשוב – שכחה, כל שאינו בבל תשוב – אינו שכחה\".",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "רב אשי: \"יִהְיֶה\" (דברים כד, יט) – \"לרבות שכחת העיר\". הפירוש הראשון עומד: חצר קונה רק כשבעליה עומד בצדה, כדברי שמואל.",
+                  "detail": 2,
+                  "source": "gemara"
+                }
+              ],
+              "children": []
+            }
+          ]
         },
         {
-         "text": "במציאה איש אינו מכוון אותה אליך, ולכן המעשה צריך לשאת הכול: חצר המשתמרת, או עמידה בצד השדה. כשדעת אחרת מקנה, די בחצר שאינה משתמרת גם כשהמקבל אינו שם.",
-         "detail": 3,
-         "source": "shiur"
+          "id": "s11",
+          "title": "עולא ורבה בר בר חנה מסכימים: עומד בצד שדהו",
+          "amud": "יא.",
+          "text": {
+            "from": "11a.21",
+            "to": "11a.21"
+          },
+          "gist": "שני אמוראים נוספים אומרים את התנאי של שמואל באותן מילים.",
+          "bullets": [
+            {
+              "text": "עולא ורבה בר בר חנה אומרים כל אחד: \"והוא שעומד בצד שדהו\".",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s12",
+          "title": "המעשרות של רבן גמליאל בספינה: חצר, קנין אגב או דעת אחרת מקנה?",
+          "amud": "יא.–יא:",
+          "text": {
+            "from": "11a.22",
+            "to": "11b.7"
+          },
+          "gist": "רבי אבא מקשה על עולא ממעשרות שניתנו למקבלים שהיו רחוקים מהשדה. התשובות הן מטלטלין אגב קרקע (רבא תוקף אותה, והגמרא מגינה עליה) ושיטת רב פפא שדעת אחרת מקנה שאני.",
+          "bullets": [],
+          "chart": {
+            "caption": "איך עברו המעשרות של רבן גמליאל לרבי יהושע ולרבי עקיבא? רבא ותשובת הגמרא",
+            "columns": [
+              "הדרך",
+              "רבא",
+              "תשובת הגמרא"
+            ],
+            "rows": [
+              [
+                "חצר (המקום המושכר)",
+                "בהכרח זו הייתה הדרך, ולכן חצר קונה גם כשבעליה אינו עומד בצדה",
+                "לא בדרך זו השתמש, ולכן אין קושיה על עולא"
+              ],
+              [
+                "קנין אגב (מטלטלין אגב קרקע)",
+                "אי אפשר: טובת הנאה אינה ממון שיקנה על גבי קרקע",
+                "נתינה אלימתא – נתינה חזקה: בדרך זו השתמש"
+              ],
+              [
+                "חליפין (סודר)",
+                "אילו המעשרות היו שלו, היה די בסודר",
+                "חליפין דרך מקח וממכר הם, ומעשרות צריכים נתינה"
+              ]
+            ],
+            "tags": [
+              [
+                null,
+                "acquires",
+                null
+              ],
+              [
+                null,
+                null,
+                "effective"
+              ],
+              [
+                null,
+                null,
+                null
+              ]
+            ]
+          },
+          "children": [
+            {
+              "id": "s13",
+              "title": "מעשה הספינה: וכי בצד שדהו היו עומדין? עולא דוחה",
+              "amud": "יא.–יא:",
+              "text": {
+                "from": "11a.22",
+                "to": "11b.3"
+              },
+              "gist": "רבן גמליאל נתן מעשרות והשכיר את מקומם לרבי יהושע ולרבי עקיבא כשכולם היו בספינה, רחוק מהשדה; עולא דוחה את הקושיה בלי לענות עליה.",
+              "bullets": [
+                {
+                  "text": "רבי אבא מקשה על עולא ממעשר שני ה, ט: \"מעשה ברבן גמליאל וזקנים שהיו באים בספינה\". רבן גמליאל נזכר שלא עישר ואמר: \"עישור שאני עתיד למוד נתון ליהושע, ומקומו מושכר לו\" (רבי יהושע היה לוי).",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "\"ועישור אחר שאני עתיד למוד נתון לעקיבא בן יוסף, כדי שיזכה בו לעניים, ומקומו מושכר לו\" – כלומר מעשר עני.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "רבי אבא: \"וכי רבי יהושע ורבי עקיבא בצד שדהו של רבן גמליאל היו עומדין?\" כולם היו בספינה. מכאן שחצר קונה גם כשבעליה אינו עומד בצדה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "עולא: \"דמי האי מרבנן כדלא גמרי אינשי שמעתא\" – החכם הזה נראה כמי שלא למד הלכה. הוא דוחה את הקושיה בלי לענות עליה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "רש״י: רבן גמליאל הפריש מעשרות מרחוק כדי שבני ביתו לא יאכלו טבל. תוספות מקשים: \"שאני עתיד למוד\" אינו הפרשה עכשיו, וכדי להימנע מטבל אין צורך בהקנאה. תוספות מעמידים את המעשה בביעור מעשרות שכבר הופרשו, בסוף השנה.",
+                  "detail": 3,
+                  "source": "shiur"
+                },
+                {
+                  "text": "תוספות: האם המקום בכלל היה משתמר? תבואה בשדה פתוחה אינה משתמרת, ואפילו בבית המעשר לא היה משתמר מפני בני המשפחה, שלא ידעו שהוא כבר של אחר.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "illustration": {
+                "caption": "קושיית רבי אבא (מעשר שני ה, ט, מובא ביא.–יא:): מקבלי המעשרות היו עם רבן גמליאל בספינה, רחוק משדהו.",
+                "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>ספינה בים ובה רבן גמליאל, רבי יהושע ורבי עקיבא. הרחק ביבשה שדהו של רבן גמליאל, ובה שתי ערמות: מעשר ראשון לרבי יהושע ומעשר עני לרבי עקיבא.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='url(#sky)'/><rect x='0' y='300' width='900' height='140' fill='#9DBBD0'/><path d='M600 330 Q640 252 720 246 L900 240 L900 330 Z' fill='#CFDDB0'/><path d='M660 300 h220 M700 270 h180' stroke='#B5C58A' stroke-width='3'/><path d='M640 305 Q670 266 700 305 Z' fill='#D4B062'/><path d='M775 300 Q805 262 835 300 Z' fill='#D4B062'/><rect x='455' y='110' width='6' height='172' fill='#5A3A2A'/><path d='M461 120 L530 250 L461 250 Z' fill='#F4EFE4' stroke='#BFAE8E'/><use href='#sage' x='90' y='175' width='60' height='105' style='color:#6A4F7A;--beard:#8E8A84;--wrap:#E4D8C0'/><use href='#sage' x='200' y='175' width='60' height='105' style='color:#50706E;--beard:#A8A39C;--wrap:#D9CBB0'/><use href='#sage' x='310' y='175' width='60' height='105' style='color:#6B6F3A;--beard:#5A4636;--wrap:#E4D8C0'/><path d='M50 280 L470 280 L430 330 L90 330 Z' fill='#7B4B3A'/></g><text x='450' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>וכי בצד שדהו של רבן גמליאל היו עומדין?</text><text x='450' y='70' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' fill='#5B6478'>קושיית רבי אבא על עולא</text><text x='150' y='168' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='16' font-weight='600' fill='#1A1F2E'>שדהו של רבן גמליאל</text><text x='232' y='200' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>מעשר ראשון</text><text x='232' y='218' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לרבי יהושע</text><text x='90' y='200' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>מעשר עני</text><text x='90' y='218' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לרבי עקיבא</text><text x='780' y='140' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>רבן גמליאל</text><text x='780' y='158' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>הבעלים</text><text x='670' y='140' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>רבי יהושע</text><text x='670' y='158' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>לוי</text><text x='560' y='140' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>רבי עקיבא</text><text x='560' y='158' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>בשביל העניים</text><text x='640' y='372' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>כולם היו בספינה</text><text x='450' y='424' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>מעשר שני ה, ט, מובא בבבא מציעא יא.–יא:</text></svg>"
+              },
+              "children": []
+            },
+            {
+              "id": "s14",
+              "title": "תשובת סורא: מטלטלי אגב מקרקעי (קנין אגב)",
+              "amud": "יא:",
+              "text": {
+                "from": "11b.4",
+                "to": "11b.4"
+              },
+              "gist": "אחד החכמים בסורא משיב שהמעשרות עברו בקנין אגב, יחד עם הקרקע המושכרת, ולא דרך חצר; רבי זירא מקבל את התשובה, ורבי אבא אינו מקבל.",
+              "bullets": [
+                {
+                  "text": "כשבא רבי אבא לסורא, סיפר את דברי עולא ואת קושייתו. אחד החכמים השיב: \"רבן גמליאל מטלטלי אגב מקרקעי הקנה להם\" – הוא הקנה להם את המטלטלין, כלומר את המעשרות, אגב הקרקע, ולא בכך שעשה את המקום חצר שלהם.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "\"רבי זירא קבלה, רבי אבא לא קבלה\".",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "קנין אגב: כשמקנים קרקע, מטלטלין שהנותן מצרף לקרקע עוברים יחד איתה, גם אם אינם מונחים עליה. שכירות מועילה לכך, משום שהיא בעלות על הקרקע לזמן מוגבל (רמב״ם). לכן \"מקומו מושכר לו\" אינו חייב להיות המקום המסוים, ואין צורך לא בעמידה בצד השדה ולא בחצר המשתמרת.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s15",
+              "title": "רבא: למה לא בסודר? טובת הנאה אינה ממון",
+              "amud": "יא:",
+              "text": {
+                "from": "11b.5",
+                "to": "11b.5"
+              },
+              "gist": "רבא מצדד ברבי אבא: אילו המעשרות היו של רבן גמליאל להקנות, היה די בחליפין. מאחר שטובת ההנאה שלו אינה ממון, לא חליפין ולא קרקע יכולים להעביר אותה, ולכן בהכרח זו הייתה חצר.",
+              "bullets": [
+                {
+                  "text": "רבא: \"שפיר עביד דלא קבלה\" – רבי אבא עשה טוב שלא קיבל. אם רבן גמליאל הקנה להם בעלות, \"וכי לא היה להם סודר לקנות ממנו בחליפין?\"",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "אלא שהמעשרות לא היו ממונו. היה לו רק טובת הנאה – הזכות לבחור לאיזה לוי או עני לתת אותם – ו\"טובת הנאה אינה ממון לקנות ממנו בחליפין\".",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "מאותו טעם אי אפשר להקנות אותה בקנין אגב: \"טובת הנאה אינה ממון לקנות על גבי קרקע\". ההקנאה הייתה בקנין חצר, וחצר קונה גם כשבעליה אינו עומד בצדה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "לפי השיטה הזאת, מציע מעביר השיעור, מה שנשאר לרבן גמליאל הוא נתינה: הנחת המעשר בחצר המקבלים היא מעשה של נתינה, מעשה חלש יותר מקניית מציאה.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s16",
+              "title": "תשובה: מעשרות צריכים נתינה, לא חליפין",
+              "amud": "יא:",
+              "text": {
+                "from": "11b.6",
+                "to": "11b.6"
+              },
+              "gist": "מעשרות ומתנות כהונה צריכים נתינה. חליפין הם סוג של מכירה, אבל מטלטלין אגב קרקע הם נתינה אלימתא, ולכן תשובת סורא עומדת ועולא אינו נפגע.",
+              "bullets": [
+                {
+                  "text": "הגמרא דוחה את טעמו של רבא: \"ולא היא\". במתנות כהונה, וכך גם במעשרות ללוי ולעני, \"נתינה כתיבא בהו\" – נאמר \"וְנָתַתָּה\" (דברים כו, יב), ולכן צריך לתת אותם, ולא למכור או להחליף.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "\"חליפין – דרך מקח וממכר הוא\", ולכן אינם מתאימים למעשרות. \"מטלטלין אגב מקרקע – נתינה אלימתא היא\": זו נתינה חזקה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "לכן רבן גמליאל השתמש בקרקע ולא בסודר. ההקנאה לא הייתה דרך חצר, ואין קושיה על עולא.",
+                  "detail": 2,
+                  "source": "gemara"
+                }
+              ],
+              "returns_to": [
+                {
+                  "id": "s14",
+                  "note": "מחזיר את תשובת סורא שרבי אבא לא קיבל"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s17",
+              "title": "רב פפא: דעת אחרת מקנה שאני",
+              "amud": "יא: ← יב.",
+              "text": {
+                "from": "11b.7",
+                "to": "11b.7"
+              },
+              "gist": "גם אם המעשרות עברו דרך חצר, הקנאה על ידי נותן שונה ממציאה, והמקבל אינו צריך לעמוד בצדה.",
+              "bullets": [
+                {
+                  "text": "רב פפא: גם אם רבי יהושע ורבי עקיבא קנו בחצר, אין זו תיובתא לעולא. לא היה כאן הפקר: דעת אחרת, של רבן גמליאל, הקנתה להם, ו\"דעת אחרת מקנה אותן שאני\" – הם לא היו צריכים לעמוד בצדה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "בכל קנין יש שני רכיבים: הכוונה להקנות או לקנות, ומעשה הקנין. כשהכוונה חזקה, המעשה יכול להיות חלש יותר.",
+                  "detail": 2,
+                  "source": "shiur"
+                },
+                {
+                  "text": "במציאה איש אינו מכוון אותה אליך, ולכן המעשה צריך לשאת הכול: חצר המשתמרת, או עמידה בצד השדה. כשדעת אחרת מקנה, די בחצר שאינה משתמרת גם כשהמקבל אינו שם.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "continues": "הדיון ממשיך בעמוד יא: – ראיית רב פפא משאלת רבי ירמיה על בהמה רצה שניתנה במתנה, קושיית רב שימי מגט, הקל וחומר של רב ששת בריה דרב אידי, והיישוב של רב אשי בדף יב.",
+              "children": []
+            }
+          ]
         }
-       ],
-       "continues": "הדיון ממשיך בעמוד יא: – ראיית רב פפא משאלת רבי ירמיה על בהמה רצה שניתנה במתנה, קושיית רב שימי מגט, הקל וחומר של רב ששת בריה דרב אידי, והיישוב של רב אשי בדף יב.",
-       "children": []
-      }
-     ]
+      ]
     }
-   ]
-  }
- ],
- "key_terms": [
-  {
-   "term": "קנין חצר",
-   "hebrew": "",
-   "sense": "קנייה באמצעות רשותו של אדם",
-   "definition": "חצרו של אדם, או רשות אחרת שלו, קונה עבורו חפצים מטלטלים שנכנסים לתוכה, כאילו לקח אותם בעצמו. נחלקו ביסודה: האם היא הרחבה של ידו של הבעלים, או מעין שליח.",
-   "on_this_daf": "הדף שואל אם חצר יכולה לגזול בשביל בעליה למרות דיני השליחות, אם היא נחשבת יד גם במציאה ובקטנים כמו בגט, ומתי שדה פתוחה קונה.",
-   "aliases": [
-    "בקנין חצר",
-    "חצר",
-    "החצר",
-    "בחצר",
-    "לחצר",
-    "וחצר",
-    "חצרה",
-    "בחצרה",
-    "חצרו",
-    "חצירה"
-   ],
-   "sections": [
-    "s1",
-    "s2",
-    "s3",
-    "s4",
-    "s5",
-    "s6",
-    "s7",
-    "s9",
-    "s12",
-    "s15",
-    "s17"
-   ]
-  },
-  {
-   "term": "אין שליח לדבר עבירה",
-   "hebrew": "",
-   "sense": "אין שליחות לעבירה",
-   "definition": "אדם ששלח שליח לעבור עבירה: המעשה מתייחס לשליח ולא לשולח, והשולח פטור.",
-   "on_this_daf": "רבינא מגביל את הכלל לשליח שמוזהר על האיסור, ורב סמא לשליח שיכול לסרב; הגמרא מראה היכן הם חלוקים.",
-   "aliases": [
-    "אין שליחות לדבר עבירה",
-    "שליחות לדבר עבירה"
-   ],
-   "sections": [
-    "s1"
-   ]
-  },
-  {
-   "term": "חצר המשתמרת",
-   "hebrew": "",
-   "sense": "חצר ששומרת על מה שבתוכה",
-   "definition": "רשות ששומרת על מה שבתוכה גם בלי שהבעלים משגיח, כמו חצר מגודרת. רשות שאינה משתמרת, כמו שדה פתוחה, קונה רק כשהבעלים עומד בצדה.",
-   "on_this_daf": "הגמרא מסבירה את התנאי של שמואל, שיעמוד בצד שדהו, בכך שהיא מעמידה את דברי רבי יוסי ברבי חנינא, שחצר קונה שלא מדעת הבעלים, בחצר המשתמרת.",
-   "aliases": [
-    "בחצר המשתמרת",
-    "חצר משתמרת"
-   ],
-   "sections": [
-    "s6",
-    "s7",
-    "s9"
-   ]
-  },
-  {
-   "term": "חצר שאינה משתמרת",
-   "hebrew": "",
-   "sense": "חצר שאינה שומרת על מה שבתוכה",
-   "definition": "חצר או שדה שאינם שומרים על מה שבתוכם, משום שאחרים נכנסים ויוצאים. היא אינה קונה לבעליה מעצמה, אלא רק כשהוא עומד בצדה (עומד בצד שדהו).",
-   "on_this_daf": "הגמרא מעמידה אותה מול חצר המשתמרת: שדה שאינה משתמרת קונה את המציאה רק כשבעליה עומד בצדה.",
-   "aliases": [
-    "בחצר שאינה משתמרת",
-    "שדה שאינה משתמרת"
-   ],
-   "sections": [
-    "s6",
-    "s7",
-    "s9"
-   ]
-  },
-  {
-   "term": "שכחה",
-   "hebrew": "",
-   "sense": "עומר שנשכח ומשאירים אותו לעניים",
-   "definition": "עומר שהבעלים שכח בשדה בשעת הקציר. אסור לו לחזור וליטול אותו, ויש להשאיר אותו לעני, לגר, ליתום ולאלמנה.",
-   "on_this_daf": "ברייתא על עומר שנשכח כשהבעלים היה בעיר נעשית מקור לכך ששדה קונה לבעליה רק כשהוא עומד בצדה.",
-   "aliases": [
-    "בשכחה",
-    "השכחה",
-    "שכחת העיר"
-   ],
-   "sections": [
-    "s8",
-    "s9",
-    "s10"
-   ]
-  },
-  {
-   "term": "קנין אגב",
-   "hebrew": "",
-   "sense": "מטלטלין שנקנים יחד עם קרקע",
-   "definition": "כשמקנים קרקע בקנין מועיל, מטלטלין שהנותן מצרף לעסקה עוברים למקבל יחד איתה, גם אם אינם מונחים על אותה קרקע.",
-   "on_this_daf": "אחד החכמים בסורא מסביר שהמעשרות של רבן גמליאל עברו יחד עם הקרקע המושכרת, ולא דרך חצר. הגמרא מגינה על כך: זו נתינה אלימתא.",
-   "aliases": [
-    "בקנין אגב",
-    "מטלטלין אגב קרקע",
-    "מטלטלי אגב מקרקעי",
-    "מטלטלין אגב מקרקע"
-   ],
-   "sections": [
-    "s12",
-    "s14",
-    "s15",
-    "s16"
-   ]
-  },
-  {
-   "term": "טובת הנאה",
-   "hebrew": "",
-   "sense": "זכות הבעלים לבחור למי לתת את המתנות",
-   "definition": "ההנאה שיש לבעל התבואה בבחירה לאיזה כהן, לוי או עני יינתנו המתנות שהוא חייב לתת. לשיטה שאינה ממון, היא אינה נכס שאפשר למכור או לקנות.",
-   "on_this_daf": "רבא טוען שמאחר שלרבן גמליאל היה במעשרות רק טובת הנאה, לא חליפין ולא קרקע יכלו להעביר אותם, ולכן בהכרח עברו דרך חצר.",
-   "aliases": [
-    "טובת ההנאה"
-   ],
-   "sections": [
-    "s12",
-    "s15"
-   ]
-  },
-  {
-   "term": "חליפין",
-   "hebrew": "",
-   "sense": "קנייה בדרך של החלפה סמלית",
-   "definition": "דרך קנייה שבה המקבל נותן חפץ, בדרך כלל סודר, ותמורתו עובר אליו הנכס של הצד השני.",
-   "on_this_daf": "רבא שואל מדוע רבן גמליאל לא השתמש בסודר; הגמרא משיבה שחליפין דרך מקח וממכר הם, ומעשרות צריכים נתינה.",
-   "aliases": [
-    "בחליפין"
-   ],
-   "sections": [
-    "s12",
-    "s15",
-    "s16"
-   ]
-  },
-  {
-   "term": "דעת אחרת מקנה",
-   "hebrew": "",
-   "sense": "הקנאה מדעתו של אחר",
-   "definition": "כשבעלים מקנה בעצמו נכס לאדם, ולא כשהמקבל לוקח דבר של הפקר, הדין מקל יותר במעשה הקנייה של המקבל.",
-   "on_this_daf": "רב פפא: משום שרבן גמליאל הקנה את המעשרות, חצרם של המקבלים קנתה אף שלא עמדו בצדה.",
-   "aliases": [
-    "דעת אחרת מקנה אותן",
-    "דעת אחרת"
-   ],
-   "sections": [
-    "s4",
-    "s12",
-    "s17"
-   ]
-  }
- ]
+  ],
+  "key_terms": [
+    {
+      "term": "קנין חצר",
+      "hebrew": "",
+      "sense": "קנייה באמצעות רשותו של אדם",
+      "definition": "חצרו של אדם, או רשות אחרת שלו, קונה עבורו חפצים מטלטלים שנכנסים לתוכה, כאילו לקח אותם בעצמו. נחלקו ביסודה: האם היא הרחבה של ידו של הבעלים, או מעין שליח.",
+      "on_this_daf": "הדף שואל אם חצר יכולה לגזול בשביל בעליה למרות דיני השליחות, אם היא נחשבת יד גם במציאה ובקטנים כמו בגט, ומתי שדה פתוחה קונה.",
+      "aliases": [
+        "בקנין חצר",
+        "חצר",
+        "החצר",
+        "בחצר",
+        "לחצר",
+        "וחצר",
+        "חצרה",
+        "בחצרה",
+        "חצרו",
+        "חצירה"
+      ],
+      "sections": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s9",
+        "s12",
+        "s15",
+        "s17"
+      ]
+    },
+    {
+      "term": "אין שליח לדבר עבירה",
+      "hebrew": "",
+      "sense": "אין שליחות לעבירה",
+      "definition": "אדם ששלח שליח לעבור עבירה: המעשה מתייחס לשליח ולא לשולח, והשולח פטור.",
+      "on_this_daf": "רבינא מגביל את הכלל לשליח שמוזהר על האיסור, ורב סמא לשליח שיכול לסרב; הגמרא מראה היכן הם חלוקים.",
+      "aliases": [
+        "אין שליחות לדבר עבירה",
+        "שליחות לדבר עבירה"
+      ],
+      "sections": [
+        "s1"
+      ]
+    },
+    {
+      "term": "חצר המשתמרת",
+      "hebrew": "",
+      "sense": "חצר ששומרת על מה שבתוכה",
+      "definition": "רשות ששומרת על מה שבתוכה גם בלי שהבעלים משגיח, כמו חצר מגודרת. רשות שאינה משתמרת, כמו שדה פתוחה, קונה רק כשהבעלים עומד בצדה.",
+      "on_this_daf": "הגמרא מסבירה את התנאי של שמואל, שיעמוד בצד שדהו, בכך שהיא מעמידה את דברי רבי יוסי ברבי חנינא, שחצר קונה שלא מדעת הבעלים, בחצר המשתמרת.",
+      "aliases": [
+        "בחצר המשתמרת",
+        "חצר משתמרת"
+      ],
+      "sections": [
+        "s6",
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "term": "חצר שאינה משתמרת",
+      "hebrew": "",
+      "sense": "חצר שאינה שומרת על מה שבתוכה",
+      "definition": "חצר או שדה שאינם שומרים על מה שבתוכם, משום שאחרים נכנסים ויוצאים. היא אינה קונה לבעליה מעצמה, אלא רק כשהוא עומד בצדה (עומד בצד שדהו).",
+      "on_this_daf": "הגמרא מעמידה אותה מול חצר המשתמרת: שדה שאינה משתמרת קונה את המציאה רק כשבעליה עומד בצדה.",
+      "aliases": [
+        "בחצר שאינה משתמרת",
+        "שדה שאינה משתמרת"
+      ],
+      "sections": [
+        "s6",
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "term": "שכחה",
+      "hebrew": "",
+      "sense": "עומר שנשכח ומשאירים אותו לעניים",
+      "definition": "עומר שהבעלים שכח בשדה בשעת הקציר. אסור לו לחזור וליטול אותו, ויש להשאיר אותו לעני, לגר, ליתום ולאלמנה.",
+      "on_this_daf": "ברייתא על עומר שנשכח כשהבעלים היה בעיר נעשית מקור לכך ששדה קונה לבעליה רק כשהוא עומד בצדה.",
+      "aliases": [
+        "בשכחה",
+        "השכחה",
+        "שכחת העיר"
+      ],
+      "sections": [
+        "s8",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "term": "קנין אגב",
+      "hebrew": "",
+      "sense": "מטלטלין שנקנים יחד עם קרקע",
+      "definition": "כשמקנים קרקע בקנין מועיל, מטלטלין שהנותן מצרף לעסקה עוברים למקבל יחד איתה, גם אם אינם מונחים על אותה קרקע.",
+      "on_this_daf": "אחד החכמים בסורא מסביר שהמעשרות של רבן גמליאל עברו יחד עם הקרקע המושכרת, ולא דרך חצר. הגמרא מגינה על כך: זו נתינה אלימתא.",
+      "aliases": [
+        "בקנין אגב",
+        "מטלטלין אגב קרקע",
+        "מטלטלי אגב מקרקעי",
+        "מטלטלין אגב מקרקע"
+      ],
+      "sections": [
+        "s12",
+        "s14",
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "term": "טובת הנאה",
+      "hebrew": "",
+      "sense": "זכות הבעלים לבחור למי לתת את המתנות",
+      "definition": "ההנאה שיש לבעל התבואה בבחירה לאיזה כהן, לוי או עני יינתנו המתנות שהוא חייב לתת. לשיטה שאינה ממון, היא אינה נכס שאפשר למכור או לקנות.",
+      "on_this_daf": "רבא טוען שמאחר שלרבן גמליאל היה במעשרות רק טובת הנאה, לא חליפין ולא קרקע יכלו להעביר אותם, ולכן בהכרח עברו דרך חצר.",
+      "aliases": [
+        "טובת ההנאה"
+      ],
+      "sections": [
+        "s12",
+        "s15"
+      ]
+    },
+    {
+      "term": "חליפין",
+      "hebrew": "",
+      "sense": "קנייה בדרך של החלפה סמלית",
+      "definition": "דרך קנייה שבה המקבל נותן חפץ, בדרך כלל סודר, ותמורתו עובר אליו הנכס של הצד השני.",
+      "on_this_daf": "רבא שואל מדוע רבן גמליאל לא השתמש בסודר; הגמרא משיבה שחליפין דרך מקח וממכר הם, ומעשרות צריכים נתינה.",
+      "aliases": [
+        "בחליפין"
+      ],
+      "sections": [
+        "s12",
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "term": "דעת אחרת מקנה",
+      "hebrew": "",
+      "sense": "הקנאה מדעתו של אחר",
+      "definition": "כשבעלים מקנה בעצמו נכס לאדם, ולא כשהמקבל לוקח דבר של הפקר, הדין מקל יותר במעשה הקנייה של המקבל.",
+      "on_this_daf": "רב פפא: משום שרבן גמליאל הקנה את המעשרות, חצרם של המקבלים קנתה אף שלא עמדו בצדה.",
+      "aliases": [
+        "דעת אחרת מקנה אותן",
+        "דעת אחרת"
+      ],
+      "sections": [
+        "s4",
+        "s12",
+        "s17"
+      ]
+    }
+  ]
 }

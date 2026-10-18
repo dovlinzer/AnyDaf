@@ -1,0 +1,847 @@
+{
+ "daf": "קידושין י",
+ "lang": "he",
+ "scope": {
+  "start": "ט: – כיצד רבי לומד שאמה עבריה אינה נקנית בביאה (הדף נפתח באמצע הדיון בפסוקים של קידושי ביאה)",
+  "end": "יא. – השאלה מה ההבדל בין יוחנן בן בג בג לרבי יהודה בן בתירה"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "\"ובעלה\" ו\"בעולת בעל\": מה לומד כל חכם מכל פסוק",
+   "amud": "ט:–י.",
+   "text": {
+    "from": "9b.17",
+    "to": "10a.3"
+   },
+   "gist": "המשך השאלה כיצד רבי, רבא ורבי יוחנן לומדים כל אחד קידושי ביאה. רבי לומד שני דינים מ\"ובעלה\", ורבא לומד ממנו \"קידושין המסורין לביאה\". דרשת רבי ב\"בעולת בעל\" נבחנת מול הברייתא של עשרה אנשים, ולבסוף באה הדרשה הכפולה של רבי יוחנן.",
+   "bullets": [],
+   "chart": {
+    "caption": "איזה פסוק מלמד איזה דין, לרבי ולרבי יוחנן (רבא לומד את כל הדינים מ\"ובעלה\")",
+    "columns": [
+     "",
+     "המקור לקידושי ביאה",
+     "אמה עבריה אינה נקנית בביאה",
+     "רק הבעל עושה אותה בעולה שלא כדרכה"
+    ],
+    "rows": [
+     [
+      "רבי",
+      "\"ובעלה\" (דברים כד, א)",
+      "\"ובעלה\": מלשון הפסוק נלמד דין נוסף",
+      "\"בעולת בעל\" (דברים כב, כב)"
+     ],
+     [
+      "רבי יוחנן",
+      "\"בעולת בעל\" (דברים כב, כב)",
+      "\"ובעלה\" (דברים כד, א)",
+      "\"בעולת בעל\": נאמר \"בעל\" ולא \"איש\", ומכאן נלמד דין נוסף"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "רבי: \"ובעלה\" מלמד שני דינים",
+     "amud": "ט:",
+     "text": {
+      "from": "9b.17",
+      "to": "9b.17"
+     },
+     "gist": "רבי דורש \"ובעלה\" לשני דינים: שאישה מתקדשת בביאה, ושאמה עבריה אינה נקנית בביאה.",
+     "bullets": [
+      {
+       "text": "שאלה: רבי לומד קידושי ביאה מ\"ובעלה\". מנין לו שאמה עבריה אינה נקנית בביאה?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "תשובה: \"אם כן לכתוב רחמנא ובעל, מאי ובעלה – שמע מינה תרתי\". הלשון המלאה מלמדת שני דינים: אישה מתקדשת בביאה, ואמה עבריה אינה נקנית בה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "האות היתרה ב\"ובעלה\" היא שמאפשרת למילה אחת לשאת שתי דרשות.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "רבא: קידושין המסורין לביאה – עריות, או איסור שנוצר מהקידושין עצמם?",
+     "amud": "ט:",
+     "text": {
+      "from": "9b.18",
+      "to": "9b.19"
+     },
+     "gist": "רבא לומד מ\"ובעלה\" שרק קידושין שיכולים להביא לביאה מותרת תופסים. בשיעור: שיטות רש\"י ותוספות, ושאלת הר\"ן מכהן גדול ביום הכיפורים.",
+     "bullets": [
+      {
+       "text": "רבא, כפי שהסביר לו בר אהינא: \"כִּי יִקַּח אִישׁ אִשָּׁה וּבְעָלָהּ\" (דברים כד, א) – קידושין המסורין לביאה הם קידושין, וקידושין שאין מסורין לביאה אינם קידושין.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "שאלה: אם כן, מנין לרבא קידושי ביאה, ושאמה עבריה אינה נקנית בביאה? תשובה: הפסוק יכול היה לכתוב \"או בעלה\". \"ובעלה\" מלמד את כל הדינים יחד (\"שמע מינה כולהו\").",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רש\"י (בדף נא.): הכלל מדבר בעריות. המקדש את אחותו או כל ערווה אחרת – הקידושין אינם תופסים כלל.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "תוספות: אין הכוונה לעריות, אלא לאיסור ביאה שנוצר מהקידושין עצמם. למשל המקדש אחת משתי אחיות בלי לפרש איזו, כך שאף אחת מהן אינה מותרת לו.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "הר\"ן (בכתובות) מקשה מהמשנה הראשונה ביומא: מתקינים לכהן גדול אישה אחרת, שמא תמות אשתו ביום הכיפורים. האם יכול לקדש אותה ביום שהביאה אסורה בו? תשובה אפשרית: די בכך שהקידושין ראויים לביאה בהמשך, והביאה מותרת כשהיום יוצא.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "שתי הבנות ב\"קידושין שאין מסורין לביאה\"",
+      "columns": [
+       "",
+       "במה מדובר",
+       "דוגמה"
+      ],
+      "rows": [
+       [
+        "רש\"י",
+        "קידושין בערווה, שאינם תופסים כלל",
+        "המקדש את אחותו"
+       ],
+       [
+        "תוספות",
+        "קידושין שהם עצמם יוצרים את איסור הביאה",
+        "המקדש אחת משתי אחיות בלי לפרש איזו"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "\"בעולת בעל\" של רבי מול עשרה אנשים: סקילה, חנק וקנס",
+     "amud": "ט:–י.",
+     "text": {
+      "from": "9b.20",
+      "to": "10a.2"
+     },
+     "gist": "דרשת רבי ב\"בעולת בעל\" נראית סותרת את פסיקתו שלו בעשרה שבאו על נערה מאורסה. רבי זירא מראה שפסיקה זו נשענת על \"לבדו\", ולא על כך שהיא כבר אינה בתולה.",
+     "bullets": [],
+     "illustration": {
+      "caption": "הברייתא של עשרה שבאו על נערה מאורסה שעדיין היא בתולה (ט:), והבהרת רבי זירא (י.): רבי מגביל את הסקילה לראשון בגלל \"לבדו\", אבל כל העשרה משלמים קנס.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>שלוש שורות של עשרה עיגולים ממוספרים. תנא קמא: כל העשרה בסקילה. רבי: הראשון בסקילה, ותשעת האחרים בחנק. רבי זירא: לדעת רבי כל העשרה משלמים קנס.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='60' width='870' height='100' rx='14' fill='#E3EAF3'/><rect x='15' y='172' width='870' height='100' rx='14' fill='#F3E6D8'/><rect x='15' y='284' width='870' height='100' rx='14' fill='#EDE6F2'/><g fill='#1B3A8A'><circle cx='290' cy='110' r='20'/><circle cx='352' cy='110' r='20'/><circle cx='414' cy='110' r='20'/><circle cx='476' cy='110' r='20'/><circle cx='538' cy='110' r='20'/><circle cx='600' cy='110' r='20'/><circle cx='662' cy='110' r='20'/><circle cx='724' cy='110' r='20'/><circle cx='786' cy='110' r='20'/><circle cx='848' cy='110' r='20'/><circle cx='290' cy='222' r='20'/></g><g fill='#9A6212'><circle cx='352' cy='222' r='20'/><circle cx='414' cy='222' r='20'/><circle cx='476' cy='222' r='20'/><circle cx='538' cy='222' r='20'/><circle cx='600' cy='222' r='20'/><circle cx='662' cy='222' r='20'/><circle cx='724' cy='222' r='20'/><circle cx='786' cy='222' r='20'/><circle cx='848' cy='222' r='20'/></g><g fill='#6A4F7A'><circle cx='290' cy='334' r='20'/><circle cx='352' cy='334' r='20'/><circle cx='414' cy='334' r='20'/><circle cx='476' cy='334' r='20'/><circle cx='538' cy='334' r='20'/><circle cx='600' cy='334' r='20'/><circle cx='662' cy='334' r='20'/><circle cx='724' cy='334' r='20'/><circle cx='786' cy='334' r='20'/><circle cx='848' cy='334' r='20'/></g><circle cx='150' cy='412' r='9' fill='#1B3A8A'/><circle cx='360' cy='412' r='9' fill='#9A6212'/><circle cx='590' cy='412' r='9' fill='#6A4F7A'/></g><text x='450' y='38' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>עשרה אנשים ונערה מאורסה שעדיין היא בתולה</text><text x='865' y='102' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17.3' font-weight='600' fill='#1A1F2E'>תנא קמא</text><text x='865' y='126' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>כל העשרה: סקילה</text><text x='865' y='204' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17.3' font-weight='600' fill='#1A1F2E'>רבי</text><text x='865' y='228' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>הראשון: סקילה</text><text x='865' y='248' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>השאר: חנק</text><text x='865' y='316' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17.3' font-weight='600' fill='#1A1F2E'>רבי זירא</text><text x='865' y='340' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>רבי מודה:</text><text x='865' y='360' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>כולם משלמים קנס</text><g font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#FFFFFF' text-anchor='middle'><text x='610' y='115'>1</text><text x='548' y='115'>2</text><text x='486' y='115'>3</text><text x='424' y='115'>4</text><text x='362' y='115'>5</text><text x='300' y='115'>6</text><text x='238' y='115'>7</text><text x='176' y='115'>8</text><text x='114' y='115'>9</text><text x='52' y='115'>10</text><text x='610' y='227'>1</text><text x='548' y='227'>2</text><text x='486' y='227'>3</text><text x='424' y='227'>4</text><text x='362' y='227'>5</text><text x='300' y='227'>6</text><text x='238' y='227'>7</text><text x='176' y='227'>8</text><text x='114' y='227'>9</text><text x='52' y='227'>10</text><text x='610' y='339'>1</text><text x='548' y='339'>2</text><text x='486' y='339'>3</text><text x='424' y='339'>4</text><text x='362' y='339'>5</text><text x='300' y='339'>6</text><text x='238' y='339'>7</text><text x='176' y='339'>8</text><text x='114' y='339'>9</text><text x='52' y='339'>10</text></g><text x='734' y='417' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>סקילה</text><text x='524' y='417' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>חנק</text><text x='294' y='417' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>משלם קנס</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s5",
+       "title": "רק הבעל עושה אותה בעולה? הברייתא של עשרה אנשים",
+       "amud": "ט:",
+       "text": {
+        "from": "9b.20",
+        "to": "9b.21"
+       },
+       "gist": "רבי דורש \"בעולת בעל\" שרק הבעל עושה אותה בעולה בביאה שלא כדרכה, אבל מפסיקתו בעשרה אנשים משמע שגם אדם אחר עושה זאת.",
+       "bullets": [
+        {
+         "text": "רבי דורש \"בעולת בעל\" (דברים כב, כב): \"בעל עושה אותה בעולה שלא כדרכה, ואין אחר עושה אותה בעולה שלא כדרכה\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "קושיה מברייתא על נערה מאורסה: \"באו עליה עשרה אנשים ועדיין היא בתולה – כולם בסקילה. רבי אומר: אומר אני הראשון בסקילה, וכולם בחנק\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "מכאן שלדעת רבי גם מי שאינו בעלה עושה אותה בעולה בביאה שלא כדרכה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "הברייתא מדברת בביאה שלא כדרכה, שאחריה היא נשארת בתולה בגופה, ולכן תנא קמא מחייב את כל העשרה סקילה. סקילה חמורה מחנק.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "\"אומר אני\" הוא לשון מיוחדת לרבי. האחרונים רואים בה ענווה: הוא מציג את דבריו כדעה אישית.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s6",
+       "title": "רבי זירא: כולם משלמים קנס, ו\"לבדו\" מגביל את הסקילה לאחד",
+       "amud": "י.",
+       "text": {
+        "from": "10a.1",
+        "to": "10a.2"
+       },
+       "gist": "רבי מודה שכל העשרה משלמים קנס כמו על בתולה. הסקילה היא רק לראשון בגלל \"לבדו\", ורבנן דורשים את \"לבדו\" לברייתא של רבי אושעיא ורבי יונתן.",
+       "bullets": [
+        {
+         "text": "רבי זירא: \"מודה רבי לעניין קנס דכולהו משלמי\" – כולם משלמים קנס של אונס או מפתה, כמו על בתולה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "ומה שונה המיתה? \"וּמֵת הָאִישׁ אֲשֶׁר שָׁכַב עִמָּהּ לְבַדּוֹ\" (דברים כב, כה): על בתולה נהרג רק אחד.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "רבנן דורשים את \"לבדו\" לברייתא. רבי אושעיא: \"וּמֵתוּ גַּם שְׁנֵיהֶם\" – \"עד שיהיו שווין כאחד\"; אם אחד מהם אינו בר עונש (קטן), גם השני אינו נהרג. רבי יונתן: \"לבדו\" מלמד שלפעמים רק אחד מהם חייב.",
+         "detail": 3,
+         "source": "gemara"
+        },
+        {
+         "text": "הרמב\"ם (הלכות נערה בתולה, פרק א) פוסק שהקנס משתלם רק על ביאה כדרכה. הראב\"ד משיג עליו, שהסוגיה כאן משווה את שתי הביאות לעניין קנס.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "הפירוש שנדפס בשם תוספות רי\"ד, המגן על הרמב\"ם, מסביר: ייתכן שהעבירה שבתורה קשורה לשינוי במעמדה כבתולה, ושינוי זה נוצר בביאה שלא כדרכה רק כשהבעל הוא שבא עליה.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s7",
+     "title": "רבי יוחנן: \"בעולת בעל\" ולא \"בעולת איש\" – שני דינים",
+     "amud": "י.",
+     "text": {
+      "from": "10a.3",
+      "to": "10a.3"
+     },
+     "gist": "רבי יוחנן, הלומד קידושי ביאה מ\"בעולת בעל\", לומד ממנו גם שרק הבעל עושה אותה בעולה שלא כדרכה.",
+     "bullets": [
+      {
+       "text": "שאלה: רבי יוחנן לומד קידושי ביאה מ\"בעולת בעל\". מנין לו שרק הבעל עושה אותה בעולה בביאה שלא כדרכה?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "תשובה: \"אם כן נכתוב קרא בעולת איש, מאי בעולת בעל – שמע מינה תרתי\". מכאן שני הדינים: קידושין בביאה, וכוחו המיוחד של הבעל.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s5",
+       "note": "אותו דין – שרק הבעל עושה אותה בעולה – שרבי למד מהפסוק הזה"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s8",
+   "title": "תחילת ביאה או סוף ביאה: מתי הביאה קונה?",
+   "amud": "י.",
+   "text": {
+    "from": "10a.4",
+    "to": "10a.5"
+   },
+   "gist": "שתי נפקא מינות – קידושין של אחר באמצע המעשה, וכהן גדול שצריך לישא בתולה – ופסק אמימר שהבועל דעתו על גמר ביאה. בשיעור: ארבעת היישובים של תוספות עם הסוגיה ביבמות.",
+   "bullets": [
+    {
+     "text": "בעיא: לביאה יש שלבים. האם תחילת הביאה קונה, או סופה?",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "נפקא מינה ראשונה: \"הערה בה\", ובינתיים \"פשטה ידה וקיבלה קידושין מאחר\". אם תחילת ביאה קונה, קידושי האחר אינם כלום; אם סוף ביאה קונה, היא מקודשת לאחר.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "נפקא מינה שנייה: כהן גדול שקונה בתולה בביאה. אם רק סוף הביאה קונה, בשעת הקידושין היא כבר אינה בתולה, ואינו יכול לקנות אותה בדרך זו.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "אמימר משמיה דרבא: \"כל הבועל – דעתו על גמר ביאה\", ולכן הקנין חל בסוף המעשה.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "קושי: ביבמות ההערה היא המעשה שיש לו משמעות הלכתית. תוספות מציעים ארבעה יישובים (ראו בטבלה).",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "כבר בתקופת האמוראים לא ראו בעין יפה קידושי ביאה למעשה, אבל שאלת הכהן הגדול חשובה מבחינה עקרונית.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "תוספות: יישוב \"גמר ביאה\" שכאן עם ההערה שביבמות",
+    "columns": [
+     "",
+     "מתי ההערה קונה",
+     "במה עוסקת הבעיא כאן"
+    ],
+    "rows": [
+     [
+      "רשב\"א (משאנץ)",
+      "רק כשלא נעשה דבר מעבר להערה",
+      "במעשה שהושלם: אז הכוונה הולכת אחר הסוף"
+     ],
+     [
+      "ריב\"ם",
+      "כשהוא מתכוון במפורש לקנות בהערה",
+      "כוונתו קובעת איזה שלב קונה"
+     ],
+     [
+      "רבנו תם",
+      "ביאה פירושה תמיד הערה",
+      "בתחילת ההערה עצמה או בסופה"
+     ],
+     [
+      "רבנו נסים גאון",
+      "ביבום: היבמה כבר זקוקה לו, ולכן ההערה פועלת כמו חופה",
+      "הקידושין צריכים לפעול יותר, ולכן הכוונה היא לגמר ביאה"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "שתי הנפקא מינות שהגמרא מביאה לשאלה אם תחילת הביאה קונה או סופה, והכרעת אמימר משמיה דרבא (י.).",
+    "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>ציר זמן מתחילת הביאה ועד סופה, ובאמצע קידושין מאדם אחר; שני לוחות על הנפקא מינות, ומתחתם פסק אמימר.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='460' fill='#FBF8F1'/><line x1='450' y1='82' x2='450' y2='124' stroke='#9A6212' stroke-width='2' stroke-dasharray='5 4'/><line x1='140' y1='130' x2='760' y2='130' stroke='#5B6478' stroke-width='4'/><circle cx='140' cy='130' r='10' fill='#1B3A8A'/><circle cx='760' cy='130' r='10' fill='#1B3A8A'/><circle cx='450' cy='130' r='7' fill='#9A6212'/><rect x='20' y='205' width='420' height='145' rx='14' fill='#E3EAF3'/><rect x='460' y='205' width='420' height='145' rx='14' fill='#F3E6D8'/><rect x='20' y='366' width='860' height='80' rx='14' fill='#EFE9DC'/></g><text x='450' y='36' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>מתי הביאה קונה: בתחילתה או בסופה?</text><text x='450' y='72' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#9A6212'>בינתיים היא מקבלת קידושין מאחר</text><text x='760' y='162' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#1A1F2E'>תחילת ביאה</text><text x='140' y='162' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#1A1F2E'>סוף ביאה</text><text x='860' y='235' text-anchor='end' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' font-weight='600' fill='#1B3A8A'>מבחן א: קידושין של אחר</text><text x='860' y='265' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#1A1F2E'>אם תחילת ביאה קונה:</text><text x='860' y='285' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>הקידושין של האחר אינם כלום</text><text x='860' y='312' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#1A1F2E'>אם סוף ביאה קונה:</text><text x='860' y='332' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>היא מקודשת לאחר</text><text x='420' y='235' text-anchor='end' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' font-weight='600' fill='#9A6212'>מבחן ב: כהן גדול ובתולה</text><text x='420' y='265' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#1A1F2E'>אם סוף ביאה קונה:</text><text x='420' y='285' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>בשעה שהקנין חל היא כבר אינה בתולה,</text><text x='420' y='305' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>ולכן כהן גדול לעולם לא יוכל</text><text x='420' y='325' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לקנות אישה בביאה</text><text x='450' y='396' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16.2' font-weight='600' fill='#1A1F2E'>אמימר משמיה דרבא: הקנין חל בסוף הביאה</text><text x='450' y='428' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='18' fill='#4A3A2E'>״כל הבועל – דעתו על גמר ביאה״</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s9",
+   "title": "ביאה: נישואין מיד, או רק אירוסין?",
+   "amud": "י.–יא.",
+   "text": {
+    "from": "10a.6",
+    "to": "11a.5"
+   },
+   "gist": "האם הביאה עושה אותה נשואה לגמרי במעשה אחד? שלוש ראיות נבחנות: המשנה של אביי על זכויות האב, הברייתא של רבא על בת שלוש שנים, וחילופי הדברים בין יוחנן בן בג בג לרבי יהודה בן בתירה, שהופכים לשאלה על סימפון.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s10",
+     "title": "הבעיא והנפקא מינות: ירושה, טומאה לקבורתה והפרת נדרים",
+     "amud": "י.",
+     "text": {
+      "from": "10a.6",
+      "to": "10a.7"
+     },
+     "gist": "אם הביאה עושה נישואין, הבעל יורש אותה, מיטמא לה ומפר את נדריה לבדו. אם היא עושה רק אירוסין, אינו עושה אף אחד מאלה.",
+     "bullets": [
+      {
+       "text": "בעיא: \"ביאה נישואין עושה, או אירוסין עושה?\" כלומר, האם הביאה שמקדשת עושה גם נישואין, או רק אירוסין?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "הנפקא מינה היא כל מה שמבדיל בין ארוסה לנשואה: האם הוא יורש אותה; אם הוא כהן, האם מיטמא לקבורתה; והאם הוא מפר את נדריה בלי אביה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אם הביאה עושה נישואין – הוא יורשה, מיטמא לה ומפר את נדריה לבדו. אם היא עושה רק אירוסין – אינו עושה אף אחד מאלה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "כסף ושטר עושים רק את השלב הראשון, וצריך חופה לשלב השני. השאלה היא אם הביאה מדלגת על המבנה הדו־שלבי הזה.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "שתי האפשרויות בבעיא שבדף י.: כסף או שטר צריכים תמיד חופה כדי להגיע לנישואין; השאלה היא אם הביאה מגיעה אליהם מיד.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>שלוש שורות של שלבים. כסף או שטר: אירוסין, אחר כך חופה, ואחר כך נישואין. ביאה, אם היא עושה נישואין: ישר לנישואין. ביאה, אם היא עושה רק אירוסין: אירוסין, חופה, נישואין.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='230' y='88' width='120' height='44' rx='22' fill='#1B3A8A'/><rect x='400' y='88' width='120' height='44' rx='22' fill='#F3E6D0' stroke='#9A6212'/><rect x='570' y='88' width='120' height='44' rx='22' fill='#F3E6D0' stroke='#9A6212'/><rect x='750' y='88' width='120' height='44' rx='22' fill='#9A6212'/><rect x='230' y='178' width='120' height='44' rx='22' fill='#1B3A8A'/><rect x='750' y='178' width='120' height='44' rx='22' fill='#9A6212'/><rect x='230' y='268' width='120' height='44' rx='22' fill='#1B3A8A'/><rect x='400' y='268' width='120' height='44' rx='22' fill='#F3E6D0' stroke='#9A6212'/><rect x='570' y='268' width='120' height='44' rx='22' fill='#F3E6D0' stroke='#9A6212'/><rect x='750' y='268' width='120' height='44' rx='22' fill='#9A6212'/><g stroke='#5B6478' stroke-width='3'><line x1='352' y1='110' x2='390' y2='110'/><line x1='522' y1='110' x2='560' y2='110'/><line x1='692' y1='110' x2='740' y2='110'/><line x1='352' y1='200' x2='740' y2='200'/><line x1='352' y1='290' x2='390' y2='290'/><line x1='522' y1='290' x2='560' y2='290'/><line x1='692' y1='290' x2='740' y2='290'/></g><g fill='#5B6478'><path d='M398 110 l-10 -6 v12 z'/><path d='M568 110 l-10 -6 v12 z'/><path d='M748 110 l-10 -6 v12 z'/><path d='M748 200 l-10 -6 v12 z'/><path d='M398 290 l-10 -6 v12 z'/><path d='M568 290 l-10 -6 v12 z'/><path d='M748 290 l-10 -6 v12 z'/></g><rect x='20' y='340' width='860' height='85' rx='14' fill='#EFE9DC'/></g><text x='450' y='36' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>שני שלבים או אחד? כסף, שטר וביאה</text><g font-family='Assistant, Arial, sans-serif' fill='#1A1F2E' text-anchor='end' direction='rtl'><text x='875' y='106' font-size='15.1' font-weight='600'>קידושי כסף</text><text x='875' y='125' font-size='14'>או שטר</text><text x='875' y='196' font-size='15.1' font-weight='600'>ביאה, אם היא</text><text x='875' y='215' font-size='14'>עושה נישואין</text><text x='875' y='286' font-size='15.1' font-weight='600'>ביאה, אם היא</text><text x='875' y='305' font-size='14'>עושה רק אירוסין</text></g><text x='350' y='188' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>במעשה אחד</text><g font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' text-anchor='middle' direction='rtl'><text x='610' y='115' fill='#FFFFFF'>כסף / שטר</text><text x='440' y='115' fill='#6B4A1A'>אירוסין</text><text x='270' y='115' fill='#6B4A1A'>חופה</text><text x='90' y='115' fill='#FFFFFF'>נישואין</text><text x='610' y='205' fill='#FFFFFF'>ביאה</text><text x='90' y='205' fill='#FFFFFF'>נישואין</text><text x='610' y='295' fill='#FFFFFF'>ביאה</text><text x='440' y='295' fill='#6B4A1A'>אירוסין</text><text x='270' y='295' fill='#6B4A1A'>חופה</text><text x='90' y='295' fill='#FFFFFF'>נישואין</text></g><text x='450' y='368' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#1A1F2E'>מה מוסיפים הנישואין לבעל:</text><text x='450' y='392' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>יורש את נכסיה · כהן מיטמא לקבורתה · מפר את נדריה לבדו</text><text x='450' y='414' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>קידושין י. – הנפקא מינות</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "אביי: זכויות האב ו\"נישאת\" – רק בכסף ובשטר?",
+     "amud": "י.",
+     "text": {
+      "from": "10a.8",
+      "to": "10a.9"
+     },
+     "gist": "המשנה בכתובות מונה קידושין בביאה ואחר כך \"נישאת\", ומשמע שהביאה עושה רק אירוסין. הגמרא מעמידה את \"נישאת\" בכסף ובשטר.",
+     "bullets": [
+      {
+       "text": "אביי מביא את המשנה (כתובות מו:): \"האב זכאי בבתו בקידושיה בכסף בשטר ובביאה\"; זוכה במציאתה ובמעשה ידיה, מפר את נדריה ומקבל את גיטה; יורש אותה, אבל \"אינו אוכל פירות בחייה\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"נישאת – יתר עליו הבעל שאוכל פירות בחייה\".",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "דיוק: המשנה מונה קידושי ביאה ואחר כך שלב נפרד של נישואין, ומכאן שהביאה עושה רק אירוסין.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "דחייה: \"כי קתני נישאת – אשארא\". \"נישאת\" מוסב על שאר הדרכים, כסף ושטר, שבהן האירוסין והנישואין נפרדים. ייתכן שהביאה בכל זאת עושה נישואין מיד.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "רבא: בת שלוש שנים ויום אחד – \"ואם נישאת לכהן\"",
+     "amud": "י.–י:",
+     "text": {
+      "from": "10a.10",
+      "to": "10b.3"
+     },
+     "gist": "ברייתא מונה את תוצאות הביאה בבת שלוש שנים ויום אחד, ומוסיפה \"ואם נישאת לכהן\". הגמרא מבינה שהמשפט מתאר את אותה ביאה עצמה, ולא שלב שני.",
+     "bullets": [
+      {
+       "text": "רבא מביא ברייתא: \"בת שלוש שנים ויום אחד מתקדשת בביאה\"; אם בא עליה יבם – קנאה; ואם היא נשואה, הבא עליה חייב משום אשת איש.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ואם היא נדה, היא מטמאה את בועלה, \"לטמא משכב תחתון כעליון\".",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "\"ואם נישאת לכהן – אוכלת בתרומה\". אם בא עליה אחד מכל העריות שבתורה – \"מומתין על ידה, והיא פטורה\". אם בא עליה אחד מן הפסולים – \"פסלה מן הכהונה\".",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "דיוק: \"מתקדשת בביאה\" ואחר כך \"ואם נישאת לכהן\" – משמע שני שלבים, ולכן הביאה אינה עושה נישואין.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "דחייה: \"הכי קאמר: אי הני נשואין דכהן נינהו – אוכלת בתרומה\". אם קידושי הביאה האלה הם נישואין לכהן, היא אוכלת בתרומה. מעשה אחד יכול להיות גם זה וגם זה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רש\"י: מתחת לגיל זה אין למעשה תוקף הלכתי, \"כנותן אצבע בעין\". השיעור מעיר על השאלות הקשות של פגיעה בקטינה העולות מכאן, ושתוספות כבר עוסקים בהן.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "משכב של נדה הוא אב הטומאה. המשכב שתחת מי שבא עליה טמא רק בטומאה קלה יותר, כמו העליון של זב.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "בן בג בג ורבי יהודה בן בתירה: האם ארוסה אוכלת בתרומה?",
+     "amud": "י:–יא.",
+     "text": {
+      "from": "10b.4",
+      "to": "11a.5"
+     },
+     "gist": "ראיה שלישית: הקל וחומר של רבי יהודה בן בתירה משפחה כנענית. אם מדובר בביאה בלא חופה, הוא מוכיח שהביאה עושה נישואין. רב נחמן בר יצחק דוחה זאת, ורבינא מפרש את כל חילופי הדברים כשאלה מדרבנן על סימפון.",
+     "bullets": [],
+     "chart": {
+      "caption": "שלוש הבנות בקל וחומר של רבי יהודה בן בתירה",
+      "columns": [
+       "",
+       "מה משווים",
+       "מדוע הקל וחומר עומד",
+       "המסקנה"
+      ],
+      "rows": [
+       [
+        "ההבנה הראשונה בגמרא",
+        "ביאה בלא חופה מול כסף בלא חופה",
+        "רק אם ברור שהביאה חזקה מהכסף",
+        "ראיה שהביאה עושה נישואין"
+       ],
+       [
+        "רב נחמן בר יצחק",
+        "ביאה על ידי חופה מול כסף בלא חופה",
+        "ביאת שפחה אינה מאכילה אפילו על ידי חופה, ואילו כספה מאכיל בלא חופה",
+        "הקל וחומר עומד בלי להניח שהביאה עושה נישואין"
+       ],
+       [
+        "רבינא",
+        "כסף של שפחה מול כסף קידושין, והחשש לסימפון",
+        "מדאורייתא ברור שהכסף מאכיל בתרומה",
+        "המחלוקת היא רק מדרבנן"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s14",
+       "title": "השליחות לנציבין והקל וחומר משפחה כנענית",
+       "amud": "י:",
+       "text": {
+        "from": "10b.4",
+        "to": "10b.5"
+       },
+       "gist": "רבי יהודה בן בתירה טוען שכסף הקידושין צריך להאכיל בתרומה כמו כסף הקנייה של שפחה, אבל מודה לגזירת חכמים שאינה אוכלת עד החופה.",
+       "bullets": [
+        {
+         "text": "יוחנן בן בג בג שלח לרבי יהודה בן בתירה לנציבין: \"שמעתי עליך שאתה אומר ארוסה בת ישראל אוכלת בתרומה\" – בת ישראל שהתארסה לכהן.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "רבי יהודה בן בתירה משיב: \"ואתה אי אתה אומר כן? מוחזקני בך שאתה בקי בחדרי תורה, לדרוש בקל וחומר אי אתה יודע?!\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "הקל וחומר: ביאתה של שפחה כנענית עם כהן אינה מאכילה אותה בתרומה, ובכל זאת כספה מאכיל אותה. ארוסה, שביאתה מאכילה אותה בתרומה – \"אינו דין שכספה מאכילתה בתרומה?\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "\"אבל מה אעשה\": חכמים אמרו שארוסה אינה אוכלת בתרומה \"עד שתיכנס לחופה\" – מדרבנן.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "מדוע צריך בקיאות כדי לדרוש קל וחומר? צריך להכיר את כל המערכת כדי לדעת היכן קל וחומר יכול לחול, ומה עלול לפרוך אותו.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "הקל וחומר של רבי יהודה בן בתירה (י:): מה פועלות הביאה והכסף לעניין תרומה בכל אחד מהמקרים, וגזירת חכמים עד החופה.",
+        "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>שני לוחות. שפחה כנענית: הביאה אינה מאכילה בתרומה, וכסף הקנייה מאכיל. ארוסה לכהן: הביאה מאכילה בתרומה, ולכן כסף הקידושין קל וחומר שיאכיל. למטה: חכמים אוסרים עליה תרומה עד החופה.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='460' fill='#FBF8F1'/><rect x='20' y='58' width='420' height='290' rx='14' fill='#F3E6D8'/><rect x='460' y='58' width='420' height='290' rx='14' fill='#E3EAF3'/><use href='#mark-no' x='45' y='164' width='34' height='34'/><use href='#mark-ok' x='45' y='254' width='34' height='34'/><use href='#mark-ok' x='485' y='164' width='34' height='34'/><circle cx='502' cy='271' r='17' fill='#FFFFFF' stroke='#5B6478' stroke-width='2.5'/><rect x='20' y='362' width='860' height='82' rx='14' fill='#EFE9DC'/><use href='#mark-no' x='40' y='378' width='34' height='34'/></g><text x='450' y='36' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>הקל וחומר של רבי יהודה בן בתירה: האם היא אוכלת בתרומה?</text><text x='670' y='92' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#5A2A12'>שפחה כנענית</text><text x='670' y='114' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>שקנה אותה כהן</text><text x='230' y='92' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#1B3A8A'>ארוסה לכהן</text><text x='230' y='114' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>בת ישראל</text><text x='855' y='152' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16.2' font-weight='600' fill='#1A1F2E'>ביאה עם הכהן</text><text x='808' y='186' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#8C2F2F'>אינה מאכילה בתרומה</text><text x='855' y='242' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16.2' font-weight='600' fill='#1A1F2E'>כסף הקנייה</text><text x='808' y='276' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#24592E'>מאכיל בתרומה</text><text x='415' y='152' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16.2' font-weight='600' fill='#1A1F2E'>ביאה עם הכהן</text><text x='368' y='186' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#24592E'>מאכילה בתרומה</text><text x='415' y='242' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16.2' font-weight='600' fill='#1A1F2E'>כסף הקידושין</text><text x='398' y='277' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='18' font-weight='600' fill='#5B6478'>?</text><text x='368' y='268' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#1A1F2E'>קל וחומר שמאכיל בתרומה</text><text x='368' y='290' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>״אינו דין שכספה מאכילתה?״</text><text x='812' y='393' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15.1' font-weight='600' fill='#8C2F2F'>אבל אמרו חכמים: אינה אוכלת בתרומה עד שתיכנס לחופה</text><text x='812' y='418' text-anchor='end' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>מדרבנן; עולא: שמא תשקה מן התרומה לאחיה ולאחיותיה</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s15",
+       "title": "על מה ההשוואה? ביאה בלא חופה מוכיחה נישואין",
+       "amud": "י:",
+       "text": {
+        "from": "10b.6",
+        "to": "10b.8"
+       },
+       "gist": "אם יש חופה בשני הצדדים אין שאלה, ואם רק בצד אחד – ההשוואה אינה הוגנת. לכן מדובר בביאה בלא חופה, וזה מובן רק אם הביאה עושה נישואין.",
+       "bullets": [
+        {
+         "text": "אם משווים \"ביאה שעל ידי חופה וכסף שעל ידי חופה\" – בשניהם היא נשואה לגמרי, ואוכלת בתרומה אפילו מדרבנן.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אם משווים ביאה שעל ידי חופה לכסף שלא על ידי חופה – הקל וחומר נופל: \"הכא תרתי, והכא חדא\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אלא בהכרח מדובר \"בביאה שלא על ידי חופה, וכסף שלא על ידי חופה\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "זה מובן אם הביאה עצמה עושה נישואין: אז ברור שהיא חזקה מכסף. אבל אם הביאה עושה רק אירוסין, מדוע בביאה הדבר פשוט לו, ובכסף הוא צריך קל וחומר? בשניהם היא רק ארוסה.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s16",
+       "title": "רב נחמן בר יצחק: ביאה על ידי חופה, כסף בלא חופה",
+       "amud": "י:",
+       "text": {
+        "from": "10b.9",
+        "to": "10b.12"
+       },
+       "gist": "כשמנסחים את הקל וחומר סביב החופה, הוא עומד מול הטענה \"הכא תרתי והכא חדא\". טעמו של עולא מסביר את הגזירה, ובן בג בג דוחה את ההשוואה משום שקניין השפחה שלם.",
+       "bullets": [
+        {
+         "text": "רב נחמן בר יצחק: אכן מדובר בביאה שעל ידי חופה מול כסף שלא על ידי חופה, ו\"קל וחומר מיהא איתיה\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "בניסוח החדש: ביאת שפחה אינה מאכילה בתרומה אפילו על ידי חופה, ובכל זאת כספה מאכיל בלא חופה. ארוסה, שביאתה מאכילה בתרומה על ידי חופה – קל וחומר שכספה יאכיל בלא חופה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "גזירת חכמים עד החופה היא מטעמו של עולא: כל זמן שהיא בבית אביה, שמא תשקה מן התרומה לאחיה ולאחיותיה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "דחיית בן בג בג: \"גבי שפחה כנענית לא שייר בקנינה, הכא – שייר בקנינה\". בקניית שפחה לא נשאר דבר מן הקנין, ובקידושין נשאר חלק ממנו – הנישואין.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "הטיעון מניח שהכסף ממלא אותו תפקיד בקניית עבד ובקידושין. אבל קניין עבד הוא שלב אחד והנישואין הם שני שלבים, ולכן התפקידים שונים.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s17",
+       "title": "רבינא: השאלה הייתה סימפון, ולא תרומה מדאורייתא",
+       "amud": "י:–יא.",
+       "text": {
+        "from": "10b.13",
+        "to": "11a.5"
+       },
+       "gist": "רבינא מפרש את חילופי הדברים כמחלוקת מדרבנן על סימפון. בן בג בג מסביר מדוע אין סימפון בקניית עבד, והגמרא שואלת מה אם כן ההבדל בין שני החכמים.",
+       "bullets": [],
+       "children": [
+        {
+         "id": "s18",
+         "title": "פירוש רבינא: לאכול בתרומה בלי לחשוש לסימפון?",
+         "amud": "י:–יא.",
+         "text": {
+          "from": "10b.13",
+          "to": "11a.1"
+         },
+         "gist": "מדאורייתא ברור שכסף הקידושין מאכיל בתרומה. השאלה ששלח הייתה אם מותר לה לאכול בלי לחשוש שמום נסתר יבטל את הקידושין.",
+         "bullets": [
+          {
+           "text": "רבינא: \"מדאורייתא – מיפשט פשיטא ליה דאכלה\". ליוחנן בן בג בג ברור שהכסף לבדו מאכיל אותה בתרומה, ושאלתו הייתה מדרבנן.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "השליחות: \"שמעתי עליך שאתה אומר ארוסה בת ישראל אוכלת בתרומה, ולא חיישת לסימפון\" – שמא ימצא בה מום, והקידושין יתבטלו למפרע, ונמצא שאכלה תרומה שלא כדין.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "הקל וחומר: כסף הקנייה של שפחה מאכיל בתרומה \"ולא חיישינן לסימפון\"; קל וחומר שכסף הקידושין יאכיל אותה לפני החופה, בלי חשש כזה.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "ושוב: חכמים אסרו עד החופה מטעמו של עולא, שמא תשקה לבני משפחתה.",
+           "detail": 3,
+           "source": "gemara"
+          },
+          {
+           "text": "רש\"י: סימפון הוא כל דבר שמבטל מקח. כאן החשש הוא לקידושי טעות. השיעור מעיר עד כמה טענות כאלה מרכזיות היום בדיונים על עגונות.",
+           "detail": 3,
+           "source": "shiur"
+          }
+         ],
+         "children": []
+        },
+        {
+         "id": "s19",
+         "title": "אין סימפון בעבדים: מום שבגלוי, מום שבסתר, גנב וליסטים",
+         "amud": "יא.",
+         "text": {
+          "from": "11a.2",
+          "to": "11a.3"
+         },
+         "gist": "בן בג בג דוחה את הקל וחומר, כי מכר עבד לעולם אינו מתבטל: כל פגם בעבד – או שהקונה ראה אותו, או שאין לו בו נפקא מינה, או שהיה עליו לצפות לו, או שיש לו קול.",
+         "bullets": [
+          {
+           "text": "בן בג בג סובר: \"סימפון בעבדים לית ליה\". מום שבגלוי – הרי הקונה ראה אותו וקנה בכל זאת.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "מום שבסתר – אין לו בו נפקא מינה, כי הוא צריך את העבד רק למלאכה.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "אפילו נמצא גנב או קוביוסטוס (משחק בקוביה) – \"הגיעו\": המכר קיים, כי התנהגות כזו מצויה בעבדים, והקונה היה צריך לצפות לה.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "ליסטים מזוין או מוכתב למלכות – \"הני קלא אית להו\": דברים כאלה מתפרסמים, והקונה קיבל על עצמו את הסיכון.",
+           "detail": 2,
+           "source": "gemara"
+          },
+          {
+           "text": "השיעור שואל אם גנב קטן או כפייתי מתאים לנימוק הזה: תכונה כזו אינה ידועה ברבים, ואולי בכל זאת נחשבת מום.",
+           "detail": 3,
+           "source": "shiur"
+          }
+         ],
+         "illustration": {
+          "caption": "ארבעת המקרים של בן בג בג (יא.): מדוע הקונה לעולם אינו יכול לטעון סימפון במכר עבד.",
+          "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>ארבעה לוחות, ובכל אחד עבד: מום שבגלוי, מום שבסתר, גנב או קוביוסטוס, וליסטים מזוין המוכתב למלכות – ובכל אחד הסיבה שהמכר קיים.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='420' fill='#FBF8F1'/><rect x='15' y='60' width='205' height='325' rx='14' fill='#E3EAF3'/><rect x='237' y='60' width='205' height='325' rx='14' fill='#F3E6D8'/><rect x='459' y='60' width='205' height='325' rx='14' fill='#EDE6F2'/><rect x='681' y='60' width='205' height='325' rx='14' fill='#EFE9DC'/><use href='#man' x='87' y='80' width='60' height='120' style='color:#6F7E5A'/><use href='#man' x='309' y='80' width='60' height='120' style='color:#6F7E5A'/><use href='#man' x='531' y='80' width='60' height='120' style='color:#6F7E5A'/><use href='#man' x='753' y='80' width='60' height='120' style='color:#6F7E5A'/><circle cx='110' cy='150' r='6' fill='#8A4A3A'/><path d='M600 160 q12 -10 22 0 l4 28 h-30 z' fill='#B8976A' stroke='#8A6A44' stroke-width='2'/><line x1='822' y1='160' x2='846' y2='132' stroke='#5B6478' stroke-width='4' stroke-linecap='round'/><line x1='818' y1='150' x2='830' y2='162' stroke='#5B4636' stroke-width='4' stroke-linecap='round'/></g><text x='450' y='36' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>מדוע לבן בג בג אין סימפון בעבדים</text><g font-family='Frank Ruhl Libre, serif' font-size='18' font-weight='600' fill='#1A1F2E' text-anchor='middle' direction='rtl'><text x='783' y='232'>מום שבגלוי</text><text x='561' y='232'>מום שבסתר</text><text x='339' y='232'>גנב או קוביוסטוס</text><text x='117' y='232'>ליסטים מזוין</text></g><text x='117' y='252' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>מוכתב למלכות</text><g font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E' text-anchor='middle' direction='rtl'><text x='783' y='262'>ראה אותו</text><text x='783' y='282'>וקנה אותו בכל זאת</text><text x='561' y='262'>אין לו נפקא מינה:</text><text x='561' y='282'>הוא צריך אותו</text><text x='561' y='302'>רק למלאכה</text><text x='339' y='262'>דבר מצוי בעבדים;</text><text x='339' y='282'>היה עליו</text><text x='339' y='302'>לצפות לכך</text><text x='117' y='282'>לדברים כאלה יש קול;</text><text x='117' y='302'>הוא קיבל על עצמו</text><text x='117' y='322'>את הסיכון</text></g><text x='450' y='408' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>בכל המקרים המכר קיים</text></svg>"
+         },
+         "children": []
+        },
+        {
+         "id": "s20",
+         "title": "שניהם אוסרים עליה תרומה: אז במה הם נחלקים?",
+         "amud": "יא.",
+         "text": {
+          "from": "11a.4",
+          "to": "11a.5"
+         },
+         "gist": "מאחר ששני החכמים מסכימים שמגזירת חכמים היא אינה אוכלת בתרומה לפני החופה, הגמרא שואלת איזה הבדל מעשי נשאר ביניהם.",
+         "bullets": [
+          {
+           "text": "הגמרא שואלת: \"בין למר ובין למר לא אכלה, מאי בינייהו?\" גם ליוחנן בן בג בג וגם לרבי יהודה בן בתירה ארוסה בת ישראל אינה אוכלת בתרומה מדרבנן. מה אם כן ההבדל ביניהם?",
+           "detail": 2,
+           "source": "gemara"
+          }
+         ],
+         "returns_to": [
+          {
+           "id": "s14",
+           "note": "חזרה לגזירת חכמים ששני החכמים קיבלו"
+          }
+         ],
+         "continues": "ממשיך בדף יא. בתשובת הגמרא: מה ההבדל המעשי בין שני החכמים.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "קידושי ביאה",
+   "hebrew": "",
+   "sense": "קידושין על ידי ביאה",
+   "definition": "אחת משלוש הדרכים לקדש אישה: האיש בא עליה לשם קידושין, בהסכמתה ובפני עדים.",
+   "on_this_daf": "הדף שואל מאיזה פסוק הן נלמדות, באיזה רגע של המעשה הן קונות, והאם הן עושות נישואין גמורים מיד.",
+   "aliases": [
+    "בקידושי ביאה",
+    "לקידושי ביאה"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s7",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "term": "נערה מאורסה",
+   "hebrew": "",
+   "sense": "נערה ארוסה שהיא בתולה",
+   "definition": "נערה שהתארסה ועדיין לא נישאה, והיא בתולה. הבא עליה חייב סקילה, ולא חנק כמו באשת איש.",
+   "on_this_daf": "הברייתא של עשרה שבאו על נערה מאורסה בוחנת אם רק הבעל עושה אותה בעולה בביאה שלא כדרכה.",
+   "aliases": [
+    "בנערה מאורסה"
+   ],
+   "sections": [
+    "s4",
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "term": "קידושין המסורין לביאה",
+   "hebrew": "",
+   "sense": "קידושין שיכולים להביא לביאה מותרת",
+   "definition": "הכלל שקידושין תופסים רק אם הביאה בין בני הזוג מותרת; קידושין שאינם יכולים להביא לביאה מותרת אינם תופסים.",
+   "on_this_daf": "רבא לומד אותו מהמילה \"ובעלה\". בשיעור: רש\"י מעמיד אותו בעריות, ותוספות באיסור שהקידושין עצמם יוצרים.",
+   "aliases": [
+    "קידושין שאין מסורין לביאה"
+   ],
+   "sections": [
+    "s3"
+   ]
+  },
+  {
+   "term": "גמר ביאה",
+   "hebrew": "",
+   "sense": "סיום מעשה הביאה",
+   "definition": "סיום הביאה, בניגוד לשלב הראשון שלה (הערה). בדינים התלויים בביאה יש מקום להבדל באיזה שלב מכריע.",
+   "on_this_daf": "אמימר משמיה דרבא פוסק שהבועל מתכוון לסיום, ולכן קידושי ביאה חלים בסוף המעשה.",
+   "aliases": [],
+   "sections": [
+    "s8"
+   ]
+  },
+  {
+   "term": "אירוסין",
+   "hebrew": "",
+   "sense": "השלב הראשון של הנישואין",
+   "definition": "השלב הראשון של הנישואין, שנעשה בקידושין: האישה אסורה לכל אדם, אבל אינה גרה עדיין עם בעלה, ורבות מן הזכויות והחובות שבין בני הזוג עדיין אינן חלות.",
+   "on_this_daf": "הגמרא שואלת אם קידושי ביאה עושים רק אירוסין, כמו כסף ושטר, ובוחנת את השאלה מול שלושה מקורות.",
+   "aliases": [
+    "האירוסין"
+   ],
+   "sections": [
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s15"
+   ]
+  },
+  {
+   "term": "נישואין",
+   "hebrew": "",
+   "sense": "השלב השני של הנישואין",
+   "definition": "השלב השני של הנישואין, שנעשה בדרך כלל בחופה, ואחריו בני הזוג נשואים לגמרי: הבעל יורש את אשתו, כהן מיטמא לקבורתה, והוא לבדו מפר את נדריה.",
+   "on_this_daf": "השאלה היא אם הביאה עושה נישואין במעשה אחד. אם הקל וחומר של רבי יהודה בן בתירה עוסק בביאה בלא חופה, יש בו ראיה שכן.",
+   "aliases": [
+    "הנישואין",
+    "לנישואין"
+   ],
+   "sections": [
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s15"
+   ]
+  },
+  {
+   "term": "סימפון",
+   "hebrew": "",
+   "sense": "דבר שמבטל מקח למפרע",
+   "definition": "פגם שמתגלה אחרי הקנייה ומבטל אותה למפרע, כמו מום נסתר שהופך את הקידושין לקידושי טעות.",
+   "on_this_daf": "רבינא מפרש את המחלוקת אם ארוסה אוכלת בתרומה כשאלה של סימפון; לדעת בן בג בג מכר עבד לעולם אינו מתבטל בסימפון.",
+   "aliases": [
+    "לסימפון"
+   ],
+   "sections": [
+    "s13",
+    "s17",
+    "s18",
+    "s19"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{"charts": {
+  "s4": [
+    [null, null, null, null],
+    [null, null, null, null],
+    [null, "not-acquired", null, null]
+  ],
+  "s5": null,
+  "s10": [
+    [null, "acquires", null],
+    [null, null, null],
+    [null, "acquires", null],
+    [null, "not-acquired", null],
+    [null, "acquires", null]
+  ],
+  "s13": null
+},
+"tag_questions": [
+  {"section": "s4", "cell": "row 'Rava, as first stated', column 'Ruling'", "note": "Cell states two different outcomes for two different parties (cheresh acquires, pikeach acquires) within one cell; no single tag fits a mixed/compound ruling like this."},
+  {"section": "s4", "cell": "row 'Rava, restated', column 'Ruling'", "note": "Cell states two different outcomes for two different parties (cheresh acquires, pikeach does not acquire) within one cell; no single tag fits a mixed/compound ruling like this."}
+]}

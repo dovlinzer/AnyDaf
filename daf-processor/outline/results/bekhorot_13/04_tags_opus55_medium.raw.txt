@@ -1,0 +1,20 @@
+{"charts": {
+  "s1": [
+    [null, "forbidden", null],
+    [null, "permitted", null],
+    [null, "exempt", null],
+    [null, null, null],
+    [null, null, null]
+  ],
+  "s7": [
+    [null, null, "pays", "keeps"],
+    [null, null, "no-claim", "takes"]
+  ],
+  "s9": null,
+  "s17": null,
+  "s21": null
+},
+"tag_questions": [
+  {"section": "s1", "cell": "row 4 ('Gifts of the priesthood'), Ruling column: 'Obligated'", "note": "The owner must give the priestly gifts; no tag in the list cleanly covers an obligation to hand over physical gifts (not a monetary payment, oath, or division)."},
+  {"section": "s1", "cell": "row 5 ('*Shevi'it* dough: *challah*'), Ruling column: 'Obligated'", "note": "The dough is obligated in *challah*; same issue as above—no tag fits an obligation to separate/give a physical due rather than pay money or swear."}
+]}

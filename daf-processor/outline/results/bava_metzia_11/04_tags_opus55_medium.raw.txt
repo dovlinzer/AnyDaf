@@ -1,0 +1,26 @@
+{"charts": {
+  "s1": null,
+  "s2": [
+    [null, null, null, null],
+    [null, "acquires", "acquires", "not-acquired"],
+    [null, null, null, "effective"]
+  ],
+  "s9": [
+    [null, null, "acquires"],
+    [null, null, "not-acquired"]
+  ],
+  "s12": [
+    [null, "acquires", null],
+    [null, null, "effective"],
+    [null, null, null]
+  ]
+},
+"tag_questions": [
+  {"section": "s1", "cell": "Ravina/Priest sends an Israelite to betroth a divorcée", "note": "'The priest is liable' refers to liability for the prohibition, not a monetary or ritual outcome in the tag list."},
+  {"section": "s1", "cell": "Ravina/Man sends a woman to round a boy's head", "note": "'The man is liable' is liability for a prohibition, not covered by existing tags."},
+  {"section": "s1", "cell": "Rav Samma/Priest sends an Israelite to betroth a divorcée", "note": "'The priest is not liable' is non-liability for a prohibition, no matching tag."},
+  {"section": "s1", "cell": "Rav Samma/Man sends a woman to round a boy's head", "note": "'The man is not liable' likewise has no matching tag."},
+  {"section": "s9", "cell": "Owner standing in the field/Forgotten from the outset", "note": "'Shikhchah' as a bare label (sheaf is forgotten produce for the poor) has no direct tag in the list."},
+  {"section": "s9", "cell": "Owner in the town/Forgotten from the outset", "note": "Same issue: 'Shikhchah' status with no corresponding tag."},
+  {"section": "s12", "cell": "Kinyan agav/Rava", "note": "'Impossible: tovat hana'ah is not property that can be acquired with land' asserts non-feasibility, not clearly an outcome tag like not-acquired."}
+]}

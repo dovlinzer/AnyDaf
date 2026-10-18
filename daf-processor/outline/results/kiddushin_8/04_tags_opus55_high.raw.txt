@@ -1,0 +1,27 @@
+{"charts": {
+  "s1": null,
+  "s2": [
+    [null, "effective", null],
+    [null, "not-effective", null],
+    [null, "not-effective", null],
+    [null, "not-effective", null],
+    [null, "effective", null]
+  ],
+  "s9": [
+    [null, "not-effective", null],
+    [null, "effective", null],
+    [null, "not-effective", null]
+  ],
+  "s13": [
+    [null, "not-effective", null],
+    [null, "not-effective", null],
+    [null, "not-effective", null],
+    [null, "not-effective", null],
+    [null, "effective", null],
+    [null, null, null],
+    [null, null, null]
+  ]
+}, "tag_questions": [
+  {"section": "s13", "cell": "row 6 (\"Put it on a rock\"), Ruling column", "note": "Cell bundles three distinct outcomes (not-effective / effective / teiku) depending on ownership of the rock; no single tag fits a mixed/undecided multi-outcome cell."},
+  {"section": "s13", "cell": "row 7 (\"Give it to a dog\"), Ruling column", "note": "Cell bundles three distinct outcomes (not-effective / effective / teiku) depending on circumstance; no single tag fits a mixed/undecided multi-outcome cell."}
+]}

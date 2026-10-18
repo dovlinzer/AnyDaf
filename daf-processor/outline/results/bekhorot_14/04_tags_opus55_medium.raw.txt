@@ -1,0 +1,25 @@
+```json
+{
+  "charts": {
+    "s1": [
+      [null, null, "returns", "not-returned"],
+      [null, null, "returns", "returns"],
+      [null, null, "not-acquired", "acquires"],
+      [null, null, "returns", "acquires"]
+    ],
+    "s8": [
+      [null, null, null, "pays", "permitted", "permitted", "exempt", "not-effective", "permitted"],
+      [null, null, null, "exempt", "forbidden", "forbidden", null, "effective", "forbidden"],
+      [null, null, null, "exempt", "forbidden", "forbidden", null, "effective", "forbidden"]
+    ],
+    "s20": null
+  },
+  "tag_questions": [
+    {"section": "s8", "cell": "Row 1 (Blemish before consecration), column 'Offspring after redemption: counted a bekhor?'", "note": "Cell reads 'Yes' — a factual determination of bekhor status, not matching any outcome tag in the closed list."},
+    {"section": "s8", "cell": "Row 2 (Consecration before blemish), column 'Offspring after redemption: counted a bekhor?'", "note": "Cell reads 'No' — same issue, no matching tag for this yes/no determination."},
+    {"section": "s8", "cell": "Row 3 (Bekhor/ma'aser blemished first), column 'Offspring after redemption: counted a bekhor?'", "note": "Cell reads 'No' — same issue, no matching tag for this yes/no determination."},
+    {"section": "s8", "cell": "Row 2 (Consecration before blemish), column 'Slaughtered outside'", "note": "Cell reads 'Liable to karet' — the closed list has 'exempt' but no corresponding 'liable' tag."},
+    {"section": "s8", "cell": "Row 3 (Bekhor/ma'aser blemished first), column 'Slaughtered outside'", "note": "Cell reads 'Liable to karet' — same issue, no 'liable' tag exists in the closed list."}
+  ]
+}
+```

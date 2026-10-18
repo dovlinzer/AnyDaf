@@ -1,0 +1,18 @@
+{"charts": {
+  "s5": [
+    [null, null, null, "pays"],
+    [null, null, null, "pays"]
+  ],
+  "s8": null,
+  "s10": [
+    [null, "takes", "permitted", "effective"],
+    [null, "no-claim", "forbidden", "not-effective"]
+  ],
+  "s13": null
+},
+"tag_questions": [
+  {"section": "s5", "cell": "Tanna kamma / The first man = Stoning", "note": "Punishment outcome (stoning) has no matching tag in the closed list."},
+  {"section": "s5", "cell": "Tanna kamma / The other nine = Stoning", "note": "Punishment outcome (stoning) has no matching tag."},
+  {"section": "s5", "cell": "Rebbi / The first man = Stoning", "note": "Punishment outcome (stoning) has no matching tag."},
+  {"section": "s5", "cell": "Rebbi / The other nine = Strangulation", "note": "Punishment outcome (strangulation) has no matching tag."}
+]}

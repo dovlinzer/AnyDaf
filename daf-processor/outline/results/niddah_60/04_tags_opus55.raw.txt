@@ -1,0 +1,23 @@
+{"charts": {
+  "s3": null,
+  "s4": [
+    [null, "forbidden", "forbidden", null],
+    [null, "permitted", "forbidden", null]
+  ],
+  "s13": [
+    [null, null, "forbidden", "permitted"],
+    [null, null, "forbidden", "permitted"],
+    [null, null, "forbidden", "permitted"]
+  ],
+  "s21": [
+    [null, null, "forbidden"],
+    [null, null, "holds"],
+    [null, "exempt", "permitted"]
+  ]
+},
+"tag_questions": [
+  {"section": "s4", "cell": "row1,col2 / row2,col2", "note": "'Attribute it to her' / 'may not attribute' regarding a stained garment maps loosely to forbidden/permitted (her resulting niddah status); no dedicated impure/pure tag exists in the closed list."},
+  {"section": "s13", "cell": "all rows, cols 2-3", "note": "'may not attribute' / 'may attribute' mapped to forbidden/permitted as the closest available tags for niddah status attribution; consider adding dedicated impure/pure tags."},
+  {"section": "s21", "cell": "row1 col3, row3 col3", "note": "'Impure' and 'Pure' statuses mapped to forbidden/permitted respectively, as no impure/pure tag exists in the closed list."},
+  {"section": "s21", "cell": "row1 col2, row2 col2", "note": "'Sin offering' and 'Provisional guilt offering' describe the husband's sacrificial liability; no tag in the closed list (pays/exempt) captures a sacrificial-offering obligation distinct from monetary payment."}
+]}

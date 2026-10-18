@@ -1,0 +1,19 @@
+{"charts": {
+  "s1": null,
+  "s2": [
+    [null, "takes", null, null],
+    [null, "divides:1/2,1/2", "divides:1/2,1/2", null],
+    [null, "takes", "keeps", null]
+  ],
+  "s4": [
+    [null, "pays", "pays", "exempt", null],
+    [null, "exempt", "pays", "exempt", null]
+  ],
+  "s8": [
+    [null, null, "divides:1/2,1/2", null],
+    [null, null, null, null]
+  ]
+}, "tag_questions": [
+  {"section": "s2", "cell": "row1/One lamb died", "note": "'Would follow which one died' describes a conditional rule rather than a determinate outcome; no tag fits directly."},
+  {"section": "s8", "cell": "row2/Priest as shepherd in the owner's courtyard", "note": "'The claimant (the priest) must prove' is a burden-of-proof ruling with no matching tag in the closed list (not an oath); left null."}
+]}

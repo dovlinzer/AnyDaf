@@ -1,0 +1,16 @@
+```json
+{"charts": {
+  "s1": [
+    [null, "oath", null, "exempt"],
+    [null, "exempt", null, "exempt"]
+  ],
+  "s5": [
+    [null, "no-oath", null, "no-oath"],
+    [null, "oath", null, "no-oath"]
+  ],
+  "s6": [
+    [null, "oath", null, "no-oath"],
+    [null, "no-oath", null, "no-oath"]
+  ]
+}, "tag_questions": []}
+```

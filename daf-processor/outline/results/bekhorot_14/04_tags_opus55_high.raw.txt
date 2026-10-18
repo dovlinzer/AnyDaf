@@ -1,0 +1,14 @@
+{"charts": {
+  "s1": null,
+  "s10": [
+    [null, null, "permitted", "permitted", "exempt", "not-effective", null],
+    [null, "exempt", "forbidden", "forbidden", null, "effective", null]
+  ],
+  "s22": null
+},
+"tag_questions": [
+  {"section": "s10", "cell": "row1, col1 (Firstborn and priestly gifts after redemption: 'Obligated')", "note": "Describes an ongoing obligation to give priestly gifts, not a financial or acquisition outcome; no tag in the list fits 'obligated.'"},
+  {"section": "s10", "cell": "row1, col6 (Died before redemption: 'Redeemed and fed to dogs')", "note": "Compound outcome (posthumous redemption plus disposal); no single tag captures 'fed to dogs' or posthumous redemption."},
+  {"section": "s10", "cell": "row2, col5 (Slaughter outside the courtyard: 'Liable to karet')", "note": "A punishment-liability outcome; no tag like 'liable' exists for karet exposure (only 'exempt' exists for its opposite)."},
+  {"section": "s10", "cell": "row2, col6 (Died before redemption: 'Must be buried')", "note": "Describes a disposal requirement, not covered by any tag in the list."}
+]}

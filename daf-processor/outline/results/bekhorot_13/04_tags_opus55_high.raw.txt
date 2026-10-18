@@ -1,0 +1,19 @@
+{"charts": {
+  "s1": [
+    [null, "forbidden", null],
+    [null, "permitted", null],
+    [null, "exempt", null],
+    [null, "pays", null],
+    [null, "pays", null]
+  ],
+  "s7": [
+    [null, null, "pays", null],
+    [null, null, "exempt", "pays"]
+  ],
+  "s9": null,
+  "s14": null,
+  "s19": null
+},
+"tag_questions": [
+  {"section": "s7", "cell": "R. Eliezer / The donkey dies", "note": "Cell states the donkey is buried and the owner may benefit from the lamb; no tag in the list captures 'buried' as an outcome, and the owner's benefit (keeping the lamb) is a secondary outcome not the column's main subject."}
+]}

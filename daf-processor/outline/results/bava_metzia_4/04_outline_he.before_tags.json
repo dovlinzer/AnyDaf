@@ -1,0 +1,558 @@
+{
+ "daf": "בבא מציעא ד",
+ "lang": "he",
+ "scope": {
+  "start": "ד. – הגמרא מבארת כיצד משנת שניים אוחזין בטלית מסייעת לשיטת רבי חייא בהילך (באמצע הדיון)",
+  "end": "ד: – \"מסייע ליה שטרא\" או שעבוד קרקעות, כתשובה לרבי חייא"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "הילך: מודה במקצת או כופר הכל? רבי חייא ורב ששת",
+   "amud": "ד.",
+   "text": {
+    "from": "4a.15",
+    "to": "4a.18"
+   },
+   "gist": "המשך שיטת רבי חייא, שהמודה בחמישים ואומר \"הילך\" חייב להישבע על השאר. כאן נמצאים ראייתו ממשנת שניים אוחזין בטלית, הפטור של רב ששת, והשאלה אם שבועה דרבנן צריכה דוגמה מן התורה.",
+   "bullets": [],
+   "chart": {
+    "caption": "רבי חייא ורב ששת: המודה במקצת ואומר הילך",
+    "columns": [
+     "",
+     "האומר הילך",
+     "השבועה במשנת הטלית",
+     "הנימוק"
+    ],
+    "rows": [
+     [
+      "רבי חייא",
+      "חייב להישבע על השאר מן התורה",
+      "תקנת חכמים, כעין שבועת הילך שמן התורה",
+      "גם מי שנותן את מה שהודה בו הוא מודה במקצת"
+     ],
+     [
+      "רב ששת",
+      "פטור משבועה",
+      "תקנת חכמים המיוחדת למקרה זה",
+      "המעות שנתן נחשבות כבר של המלווה, ובשאר הוא כופר הכל"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "המקרה של רבי חייא (ד., שורה 12, ומבואר בשורות 13–16): תביעה של מאה, וחמישים מהן הנתבע הודה ונתן במקום. רבי חייא ורב ששת נחלקו בחמישים האחרים.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>תובע ונתבע משני צדי פס המייצג 100 דינרים. הנתבע נותן 50 וכופר ב־50. למטה רבי חייא ורב ששת פוסקים על ה־50 שבהם כפר.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"80\" y=\"70\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"750\" y=\"70\" width=\"70\" height=\"140\" style=\"color:#8C5A3C\"/><rect x=\"200\" y=\"110\" width=\"250\" height=\"50\" fill=\"#E3EAF3\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><rect x=\"450\" y=\"110\" width=\"250\" height=\"50\" fill=\"#F3E6D8\" stroke=\"#9A6212\" stroke-width=\"2\"/><path d=\"M196 135 L162 135\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><path d=\"M158 135 l10 -6 v12 z\" fill=\"#1B3A8A\"/><rect x=\"40\" y=\"262\" width=\"820\" height=\"70\" rx=\"12\" fill=\"#E3EAF3\"/><use href=\"#sage\" x=\"52\" y=\"268\" width=\"34\" height=\"59.5\" style=\"color:#50706E;--beard:#A8A39C;--wrap:#E4D8C0\"/><rect x=\"40\" y=\"346\" width=\"820\" height=\"70\" rx=\"12\" fill=\"#F3E6D8\"/><use href=\"#sage\" x=\"52\" y=\"352\" width=\"34\" height=\"59.5\" style=\"color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0\"/></g><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">״הילך״: תביעה של 100, וחמישים ניתנים במקום</text><text x=\"450\" y=\"70\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"400\" fill=\"#1B3A8A\" direction=\"rtl\">התובע: ״מאה דינרים יש לי בידך״</text><text x=\"450\" y=\"94\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"400\" fill=\"#9A6212\" direction=\"rtl\">הנתבע: ״אין לך בידי אלא חמישים, והילך״</text><text x=\"575\" y=\"141\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1B3A8A\" direction=\"rtl\">50 · הודה ונתן</text><text x=\"325\" y=\"141\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#9A6212\" direction=\"rtl\">50 · כפר</text><text x=\"785\" y=\"234\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">התובע</text><text x=\"115\" y=\"234\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">הנתבע</text><text x=\"450\" y=\"200\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#5A4A3A\" direction=\"rtl\">הילך</text><text x=\"800\" y=\"290\" text-anchor=\"end\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\" direction=\"rtl\">רבי חייא</text><text x=\"800\" y=\"314\" text-anchor=\"end\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" direction=\"rtl\">האומר ״הילך״ עדיין מודה במקצת: הוא נשבע על החמישים האחרים.</text><text x=\"800\" y=\"374\" text-anchor=\"end\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#9A6212\" direction=\"rtl\">רב ששת</text><text x=\"800\" y=\"398\" text-anchor=\"end\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" direction=\"rtl\">החמישים שנתן כאילו כבר ביד המלווה; בכל השאר הוא כופר, ולכן פטור.</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "משנת שניים אוחזין: החצי של כל אוחז כהילך",
+     "amud": "ד.",
+     "text": {
+      "from": "4a.15",
+      "to": "4a.15"
+     },
+     "gist": "הסיוע של רבי חייא: כל אחד מהאוחזים בטלית כאילו חציו נמסר לו, ובכל זאת המשנה מחייבת אותו שבועה.",
+     "bullets": [
+      {
+       "text": "במשנת שניים אוחזין בטלית כל אחד אוחז בחציה. מה שכל אחד תופס ודאי שלו – \"אנן סהדי דמאי דתפיס הילך הוא\" – כאילו אמר לו חברו \"הילך, אני נותן לך\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ובכל זאת המשנה מחייבת כל אחד שבועה (\"וקתני: ישבע\"). מכאן שנתבע שכופר במקצת התביעה ואומר \"הילך\" על השאר חייב להישבע.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "בשיעור הוער שמקרה הטלית הוא למעשה \"עדים על חצי\": הראיה של כל צד היא מה שהוא תופס בידו, והראיות של שני הצדדים שוות לגמרי. בגלל הסימטריה הזאת השבועה שם אינה יכולה להיות שבועת מודה במקצת מן התורה, וזה הפתח שרב ששת ישתמש בו.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "המשנה הראשונה בבבא מציעא כפי שרבי חייא קורא אותה (ד., שורה 15): מה שכל אחד אוחז הוא כאילו אמר לו חברו הילך, ובכל זאת כל אחד נשבע.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני אנשים אוחזים כל אחד בחצי טלית, וכל אחד אומר שכולה שלו. כל חצי מסומן כמוחזק בידי מי שאוחז בו, כאילו חברו מסר לו אותו.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"120\" y=\"150\" width=\"90\" height=\"180\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"690\" y=\"150\" width=\"90\" height=\"180\" style=\"color:#8C5A3C\"/><rect x=\"230\" y=\"200\" width=\"220\" height=\"90\" fill=\"#E3EAF3\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><rect x=\"450\" y=\"200\" width=\"220\" height=\"90\" fill=\"#F3E6D8\" stroke=\"#9A6212\" stroke-width=\"2\"/><path d=\"M450 196 V294\" stroke=\"#5B6478\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><path d=\"M196 232 L232 232\" stroke=\"#D6AE86\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M704 232 L668 232\" stroke=\"#D6AE86\" stroke-width=\"6\" stroke-linecap=\"round\"/><rect x=\"40\" y=\"384\" width=\"820\" height=\"62\" rx=\"12\" fill=\"#EFE6D2\"/></g><text x=\"450\" y=\"40\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">שניים אוחזין בטלית</text><text x=\"450\" y=\"66\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\" direction=\"rtl\">המשנה הראשונה בבבא מציעא, כפי שרבי חייא קורא אותה</text><text x=\"735\" y=\"118\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">זה אומר:</text><text x=\"735\" y=\"140\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#5A4A3A\" direction=\"rtl\">״כולה שלי״</text><text x=\"165\" y=\"118\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">וזה אומר:</text><text x=\"165\" y=\"140\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#5A4A3A\" direction=\"rtl\">״כולה שלי״</text><text x=\"560\" y=\"238\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1B3A8A\" direction=\"rtl\">החצי של האוחז הראשון</text><text x=\"560\" y=\"260\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1B3A8A\" direction=\"rtl\">כאילו נמסר לו</text><text x=\"340\" y=\"238\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#9A6212\" direction=\"rtl\">החצי של האוחז השני</text><text x=\"340\" y=\"260\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#9A6212\" direction=\"rtl\">כאילו נמסר לו</text><text x=\"735\" y=\"356\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">האוחז הראשון</text><text x=\"165\" y=\"356\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">האוחז השני</text><text x=\"450\" y=\"408\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">רבי חייא: מה שכל אחד תופס הוא כאילו אמר לו חברו ״הילך״,</text><text x=\"450\" y=\"430\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" direction=\"rtl\">ובכל זאת המשנה מחייבת כל אחד שבועה, ומכאן שהאומר הילך חייב שבועה</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "רב ששת: המעות שנתן כבר של המלווה, ולכן הוא כופר הכל",
+     "amud": "ד.",
+     "text": {
+      "from": "4a.16",
+      "to": "4a.16"
+     },
+     "gist": "רב ששת פוטר את האומר הילך: מה שהוא מודה בו כבר נמצא ביד המלווה, ומה שנשאר הוא כפירה בלבד.",
+     "bullets": [
+      {
+       "text": "רב ששת: האומר \"הילך\" על חלק מהתביעה וכופר בשאר פטור משבועה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "טעמו: \"הני זוזי דקא מודי בגווייהו – כמאן דנקיט להו מלוה דמי\". בחמישים האחרים הוא לא הודה, ולכן אין כאן הודאת מקצת הטענה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "למעשה, מה שנשאר במחלוקת הוא כופר הכל בחמישים, ועל כפירה גמורה אין שבועה מן התורה.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "שבועת הטלית: תקנת חכמים – כעין דאורייתא או בלי דוגמה מן התורה?",
+     "amud": "ד.",
+     "text": {
+      "from": "4a.17",
+      "to": "4a.18"
+     },
+     "gist": "רב ששת מתרץ את משנת הטלית בכך שהשבועה שם מדרבנן. רבי חייא מסכים שהיא מדרבנן, אבל שואל אם חכמים היו מתקנים שבועה שאין כמותה בדין תורה.",
+     "bullets": [
+      {
+       "text": "קושיה לרב ששת: משנת הטלית נראית אותו מקרה, ובה יש חיוב שבועה (\"ולרב ששת קשיא מתניתין\").",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רב ששת: \"מתניתין תקנת חכמים היא\" – השבועה שם תוקנה למקרה זה בלבד. בדרך כלל מי שנותן את מה שהודה בו פטור.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "בשיעור הוצע שחכמים תיקנו אותה כדי שאנשים לא יתפסו חפצים של אחרים ויטענו שהם שלהם.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "רבי חייא מודה שהשבועה מדרבנן. אבל אם האומר \"הילך\" חייב מן התורה, חכמים תיקנו שבועה כעין דאורייתא. ואם מן התורה הוא פטור – וכי חכמים יתקנו שבועה \"דליתא דכוותה בדאורייתא\"?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "לטענה יש עוקץ עמוק יותר: אם הילך פטור, הסברה של התורה, כשמחילים אותה על מקרה הטלית (כל חצי כבר \"נמסר\"), הייתה מביאה לכך שאין שבועה כלל. אם כן השבועה דרבנן לא רק חסרה דוגמה מן התורה, אלא עומדת נגד הסברה של התורה.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "שטר שלא נכתב בו סכום: האם מה שהשטר מוכיח הוא כהילך?",
+   "amud": "ד.–ד:",
+   "text": {
+    "from": "4a.19",
+    "to": "4b.10"
+   },
+   "gist": "ברייתא על שטר בלי סכום משמשת קושיה לכל צד בתורו: דברי רבי שמעון בן אלעזר נגד רבי חייא, ודברי רבי עקיבא נגד רב ששת. שתי הקושיות נדחות, ומתברר שהמודה בשתיים שבשטר פטור מטעם אחר.",
+   "bullets": [],
+   "chart": {
+    "caption": "הברייתא כקושיה לכל צד במחלוקת הילך",
+    "columns": [
+     "הקושיה",
+     "הדיוק מהברייתא",
+     "הדחייה שהוצעה",
+     "התוצאה"
+    ],
+    "rows": [
+     [
+      "נגד רבי חייא (מדברי רבי שמעון בן אלעזר)",
+      "רק המודה בשלוש חייב; המודה בשתיים, שהן כהילך, פטור",
+      "גם בשתיים חייב; שלוש נזכרו רק לאפוקי מדרבי עקיבא",
+      "הדחייה נופלת מלשון הברייתא. בשתיים פטור, אבל משום דמסייע ליה שטרא או משום שעבוד קרקעות"
+     ],
+     [
+      "נגד רב ששת (מדברי רבי עקיבא)",
+      "רק המודה בשלוש פטור; המודה בשתיים, שהן כהילך, חייב",
+      "גם בשתיים פטור; שלוש נזכרו רק לאפוקי מדרבי שמעון בן אלעזר",
+      "הדחייה עומדת, שאם לא כן הלווה היה מערים ואומר שלוש"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s6",
+     "title": "ברייתא: תבע חמש והודה בשלוש – מודה במקצת או משיב אבידה?",
+     "amud": "ד.–ד:",
+     "text": {
+      "from": "4a.19",
+      "to": "4b.1"
+     },
+     "gist": "בשטר כתובה הלוואה של \"סלעים\" או \"דינרים\" בלי מספר. רבי שמעון בן אלעזר מחייב שבועה את המודה בשלוש, ורבי עקיבא פוטר אותו כמשיב אבידה.",
+     "bullets": [
+      {
+       "text": "הגמרא מביאה ברייתא כקושיה על רבי חייא. בשטר חוב כתוב \"סלעים\" או \"דינרים\" בלי מספר. המלווה אומר חמש סלעים, והלווה אומר שלוש.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבי שמעון בן אלעזר: \"הואיל והודה מקצת הטענה – ישבע\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבי עקיבא: לשון הרבים שבשטר מוכיחה רק שתיים, מיעוט רבים. המודה בשלוש \"אינו אלא כמשיב אבידה, ופטור\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "הסברה של משיב אבידה: הוא יכול היה לומר שתיים, ושום דבר לא היה סותר אותו. אם נחייב אותו שבועה משום שהודה ביותר, נרתיע אנשים מלהודות ביושר. בשיעור נשארה פתוחה השאלה אם זו מדיניות של חכמים או טענה מסוג מיגו.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "ברייתא של השטר שלא נכתב בו סכום: המלווה תובע חמש סלעים והלווה מודה בשלוש",
+      "columns": [
+       "",
+       "מודה בשלוש",
+       "מודה בשתיים (כמסקנת הגמרא)",
+       "הטעם"
+      ],
+      "rows": [
+       [
+        "רבי שמעון בן אלעזר",
+        "נשבע",
+        "פטור",
+        "הודה במקצת הטענה, ולכן חייב להישבע"
+       ],
+       [
+        "רבי עקיבא",
+        "פטור",
+        "פטור",
+        "המודה ביותר מהשתיים שבשטר הוא כמשיב אבידה"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "המקרה של הברייתא (ד:, שורה 1): השטר מוכיח רק מיעוט רבים, שתיים. הלווה מודה בשלוש, והמלווה תובע חמש.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שטר חוב שכתוב בו ״סלעים״ בלי מספר, ולידו ציר מספרים: שתיים – מה שהשטר מוכיח, שלוש – הודאת הלווה, חמש – תביעת המלווה. למטה דברי רבי שמעון בן אלעזר ורבי עקיבא.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"40\" y=\"64\" width=\"300\" height=\"250\" rx=\"6\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><ellipse cx=\"250\" cy=\"174\" rx=\"42\" ry=\"15\" fill=\"#C9B99A\" opacity=\"0.7\"/><g stroke=\"#D9CFBD\" stroke-width=\"2\"><line x1=\"70\" y1=\"240\" x2=\"310\" y2=\"240\"/><line x1=\"70\" y1=\"262\" x2=\"310\" y2=\"262\"/><line x1=\"70\" y1=\"284\" x2=\"250\" y2=\"284\"/></g><line x1=\"420\" y1=\"150\" x2=\"860\" y2=\"150\" stroke=\"#8A7F72\" stroke-width=\"3\"/><g stroke=\"#8A7F72\" stroke-width=\"2\"><line x1=\"440\" y1=\"142\" x2=\"440\" y2=\"158\"/><line x1=\"540\" y1=\"142\" x2=\"540\" y2=\"158\"/><line x1=\"640\" y1=\"142\" x2=\"640\" y2=\"158\"/><line x1=\"740\" y1=\"142\" x2=\"740\" y2=\"158\"/><line x1=\"840\" y1=\"142\" x2=\"840\" y2=\"158\"/></g><circle cx=\"540\" cy=\"150\" r=\"9\" fill=\"#5A4A3A\"/><circle cx=\"640\" cy=\"150\" r=\"9\" fill=\"#9A6212\"/><circle cx=\"840\" cy=\"150\" r=\"9\" fill=\"#1B3A8A\"/><path d=\"M542 200 V208 H638 V200\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"2\"/><path d=\"M642 200 V208 H838 V200\" fill=\"none\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><rect x=\"380\" y=\"260\" width=\"480\" height=\"80\" rx=\"12\" fill=\"#E3EAF3\"/><use href=\"#sage\" x=\"392\" y=\"268\" width=\"36\" height=\"63\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><rect x=\"380\" y=\"352\" width=\"480\" height=\"80\" rx=\"12\" fill=\"#F3E6D8\"/><use href=\"#sage\" x=\"392\" y=\"360\" width=\"36\" height=\"63\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\"/></g><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">שטר שלא נכתב בו סכום</text><text x=\"710\" y=\"108\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"400\" fill=\"#5A4A3A\" direction=\"rtl\">שטר חוב</text><text x=\"750\" y=\"182\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"24\" font-weight=\"400\" fill=\"#3A2E24\" direction=\"rtl\">סלעים</text><text x=\"650\" y=\"208\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" font-weight=\"400\" fill=\"#5B6478\" direction=\"rtl\">אין מספר</text><text x=\"710\" y=\"340\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">״סלעים״ – אבל כמה?</text><text x=\"710\" y=\"360\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\" direction=\"rtl\">לשון רבים: לפחות שתיים</text><text x=\"460\" y=\"178\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" direction=\"rtl\">1</text><text x=\"360\" y=\"178\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" direction=\"rtl\">2</text><text x=\"260\" y=\"178\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" direction=\"rtl\">3</text><text x=\"160\" y=\"178\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" direction=\"rtl\">4</text><text x=\"60\" y=\"178\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" direction=\"rtl\">5</text><text x=\"360\" y=\"124\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\" direction=\"rtl\">השטר מוכיח 2</text><text x=\"260\" y=\"124\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#9A6212\" direction=\"rtl\">הלווה: 3</text><text x=\"64\" y=\"124\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1B3A8A\" direction=\"rtl\">המלווה: 5</text><text x=\"310\" y=\"228\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#9A6212\" direction=\"rtl\">הודה מעבר לשטר</text><text x=\"160\" y=\"246\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1B3A8A\" direction=\"rtl\">כפר</text><text x=\"460\" y=\"292\" text-anchor=\"end\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\" direction=\"rtl\">רבי שמעון בן אלעזר</text><text x=\"460\" y=\"316\" text-anchor=\"end\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" direction=\"rtl\">הודה במקצת הטענה: נשבע.</text><text x=\"460\" y=\"384\" text-anchor=\"end\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#9A6212\" direction=\"rtl\">רבי עקיבא</text><text x=\"460\" y=\"408\" text-anchor=\"end\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\" direction=\"rtl\">המודה בשלוש הוא כמשיב אבידה: פטור.</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s7",
+     "title": "קושיה לרבי חייא: מדברי רבי שמעון בן אלעזר משמע שהמודה בשתיים פטור",
+     "amud": "ד:",
+     "text": {
+      "from": "4b.2",
+      "to": "4b.6"
+     },
+     "gist": "הדיוק שהשתיים שבשטר הן כהילך ופטורות, ניסיון לדחות אותו שנכשל, ותשובת הגמרא שבשתיים פטור מטעמים אחרים.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s8",
+       "title": "הדיוק: השתיים שבשטר הן כהילך",
+       "amud": "ד:",
+       "text": {
+        "from": "4b.2",
+        "to": "4b.2"
+       },
+       "gist": "רבי שמעון בן אלעזר מחייב משום שהלווה אמר שלוש. משמע שאילו הודה בשתיים, שכבר כתובות בשטר, היה פטור.",
+       "bullets": [
+        {
+         "text": "רבי שמעון בן אלעזר מחייב \"הואיל והודה מקצת הטענה\", כלומר משום שאמר שלוש: \"טעמא דאמר שלש, הא שתים פטור\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "חוב שכבר כתוב בשטר דומה לחוב שהלווה אומר עליו \"הילך\": \"והאי שטר דקמודי ביה הילך הוא\". מכאן שהאומר הילך פטור, דלא כרבי חייא.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "עוד לפני שנאמרה מילה בבית הדין, השטר כבר מוכיח שתיים, והמחלוקת האמיתית היא רק על מה שמעבר למינימום הזה.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s9",
+       "title": "הדחייה נדחית: הברייתא הייתה צריכה לומר \"אף זה ישבע\"",
+       "amud": "ד:",
+       "text": {
+        "from": "4b.3",
+        "to": "4b.4"
+       },
+       "gist": "אולי גם המודה בשתיים חייב, ושלוש נזכרו רק לאפוקי מדרבי עקיבא. אבל אם כן, הברייתא הייתה צריכה לומר \"אף זה ישבע\".",
+       "bullets": [
+        {
+         "text": "הצעה: גם המודה בשתיים חייב שבועה. המחלוקת נקבעה בשלוש רק כדי לשלול את שיטת רבי עקיבא, שהלווה הוא משיב אבידה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "נדחה: אם כן, רבי שמעון בן אלעזר היה צריך לומר \"אף זה ישבע\" – גם זה שמודה בשלוש – ולא \"הואיל והודה מקצת הטענה ישבע\".",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s10",
+       "title": "בשתיים פטור, אבל לא משום הילך: מסייע ליה שטרא או שעבוד קרקעות",
+       "amud": "ד:",
+       "text": {
+        "from": "4b.5",
+        "to": "4b.6"
+       },
+       "gist": "המודה בשתיים פטור, ובכל זאת האומר הילך חייב. השתיים פטורות או משום שהשטר מסייע ללווה, או משום שהשטר יוצר שעבוד קרקעות.",
+       "bullets": [
+        {
+         "text": "מסקנה: \"לעולם שתים פטור, והילך חייב\". כאן המקרה שונה, \"דקא מסייע ליה שטרא\": השטר עצמו מראה שהוא חייב שתיים.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אי נמי: שטר חוב משעבד את הקרקעות של הלווה, \"ואין נשבעין על כפירת שעבוד קרקעות\". שבועה נוהגת רק בכסף ובמטלטלין.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "שטר הוא כמו שני עדים: לשון הרבים שבו מוכיחה שתיים בכוח של עדות, ולכן ה\"הודאה\" של הלווה בשתיים אינה מוסיפה דבר.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "השעבוד חל בדיוק על מה שהשטר מוכיח, כלומר על שתיים. המודה בשתיים מודה רק בחוב שמשועבד לקרקע. המודה בשלוש מוסיף עוד אחד של ממון פשוט, שמחוץ לשעבוד, וזה מודה במקצת של ממש.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "שני הטעמים החלופיים של הגמרא (ד:, שורות 5–6, ושוב בשורה 10) מדוע לווה שמודה רק בשתיים שבשטר אינו נשבע, גם לרבי חייא.",
+        "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני לוחות. מימין: שטר שעליו המספר שתיים, שהשטר כבר מוכיח. משמאל: שטר וחץ אל שדה – השטר משעבד את קרקע הלווה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"76\" width=\"420\" height=\"326\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"170\" y=\"134\" width=\"120\" height=\"150\" rx=\"5\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"460\" y=\"76\" width=\"420\" height=\"326\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"500\" y=\"150\" width=\"100\" height=\"130\" rx=\"5\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><path d=\"M606 215 L650 230\" stroke=\"#9A6212\" stroke-width=\"3\"/><path d=\"M656 232 l-12 1 l4 -10 z\" fill=\"#9A6212\"/><rect x=\"662\" y=\"196\" width=\"190\" height=\"80\" fill=\"#D9C9A8\" stroke=\"#BFAE8E\"/><g stroke=\"#B8A47E\" stroke-width=\"2\"><line x1=\"672\" y1=\"216\" x2=\"842\" y2=\"216\"/><line x1=\"672\" y1=\"236\" x2=\"842\" y2=\"236\"/><line x1=\"672\" y1=\"256\" x2=\"842\" y2=\"256\"/></g></g><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">אם הודה רק בשתיים, מדוע אינו נשבע?</text><text x=\"450\" y=\"58\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\" direction=\"rtl\">שתי תשובות חלופיות</text><text x=\"670\" y=\"110\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\" direction=\"rtl\">א. השטר מסייע לו</text><text x=\"670\" y=\"226\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"44\" font-weight=\"600\" fill=\"#5A4A3A\" direction=\"rtl\">2</text><text x=\"670\" y=\"318\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" direction=\"rtl\">את השתיים שהוא מודה בהן</text><text x=\"670\" y=\"340\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" direction=\"rtl\">השטר כבר מוכיח, ולכן ההודאה אינה מוסיפה דבר</text><text x=\"670\" y=\"380\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#3A5692\" direction=\"rtl\">מסייע ליה שטרא</text><text x=\"230\" y=\"110\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\" direction=\"rtl\">ב. השטר משעבד קרקע</text><text x=\"350\" y=\"226\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"36\" font-weight=\"600\" fill=\"#5A4A3A\" direction=\"rtl\">2</text><text x=\"143\" y=\"298\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\" direction=\"rtl\">הקרקע של הלווה</text><text x=\"230\" y=\"326\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" direction=\"rtl\">אין נשבעים על כפירת חוב</text><text x=\"230\" y=\"348\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" direction=\"rtl\">שמשועבדות לו קרקעות</text><text x=\"230\" y=\"384\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#7A4A2A\" direction=\"rtl\">שעבוד קרקעות</text></svg>"
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s11",
+     "title": "קושיה לרב ששת: מדברי רבי עקיבא משמע שהמודה בשתיים חייב",
+     "amud": "ד:",
+     "text": {
+      "from": "4b.7",
+      "to": "4b.10"
+     },
+     "gist": "יש שמבינים שרבי עקיבא מחייב את המודה בשתיים, דלא כרב ששת. הגמרא דוחה זאת ומוכיחה את הדחייה מההערמה שהלווה יכול לעשות, וכך חוזרות התשובות לרבי חייא.",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s12",
+       "title": "הדיוק: רק בשלוש הוא משיב אבידה",
+       "amud": "ד:",
+       "text": {
+        "from": "4b.7",
+        "to": "4b.7"
+       },
+       "gist": "רבי עקיבא פוטר משום שהלווה אמר שלוש. משמע שהמודה בשתיים, שהן כהילך, חייב.",
+       "bullets": [
+        {
+         "text": "\"איכא דמותיב מסיפא\": רבי עקיבא פוטר משום שהלווה אמר שלוש, ואילו אמר שתיים היה חייב להישבע.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "השתיים שבשטר הן כהילך, ומכאן שהאומר הילך חייב, דלא כרב ששת.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s13",
+       "title": "הדחייה: שלוש נזכרו רק לאפוקי מדרבי שמעון בן אלעזר",
+       "amud": "ד:",
+       "text": {
+        "from": "4b.8",
+        "to": "4b.8"
+       },
+       "gist": "גם רבי עקיבא פוטר את המודה בשתיים. הוא מדבר על שלוש רק כדי לשלול את שיטת רבי שמעון בן אלעזר, שזהו מודה במקצת.",
+       "bullets": [
+        {
+         "text": "הגמרא משיבה שגם לרבי עקיבא המודה בשתיים פטור. המחלוקת נקבעה בשלוש כדי לשלול את דעת רבי שמעון בן אלעזר, שרואה בלווה הזה מודה במקצת הטענה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "עיקר דברי רבי עקיבא הוא שהמודה בשלוש הוא כמשיב אבידה, ולכן פטור.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s14",
+       "title": "הראיה: אחרת הלווה היה אומר שלוש כדי להיפטר משבועה",
+       "amud": "ד:",
+       "text": {
+        "from": "4b.9",
+        "to": "4b.9"
+       },
+       "gist": "אילו המודה בשתיים היה חייב שבועה, הפטור של רבי עקיבא בשלוש היה מזמין הערמה. לכן המודה בשתיים פטור.",
+       "bullets": [
+        {
+         "text": "\"הכי נמי מסתברא\": אילו המודה בשתיים היה חייב שבועה, איך היה רבי עקיבא פוטר את המודה בשלוש?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "\"האי אערומי קא מערים\" – הלווה מחשב: \"אם אומר שתיים, אצטרך להישבע; אומר שלוש, ואהיה כמשיב אבידה, ואפטר\". מכאן שגם המודה בשתיים פטור.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "ההנחה שבבסיס הדברים היא שחכמים אינם קובעים כלל שבעל דין מתוחכם יכול לנצל בקלות.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "הראיה של הגמרא (ד:, שורה 9): אילו המודה בשתיים היה חייב שבועה, לווה היה יכול לנצל את הפטור של רבי עקיבא ולומר שלוש.",
+        "svg": "<svg viewBox=\"0 0 900 400\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>לווה שוקל הערמה: אם יאמר שתיים יתחייב שבועה, ולכן יאמר שלוש כדי להיחשב משיב אבידה. בתיבת המסקנה: גם המודה בשתיים פטור.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"400\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"60\" y=\"150\" width=\"90\" height=\"180\" style=\"color:#8C5A3C\"/><circle cx=\"152\" cy=\"176\" r=\"5\" fill=\"#E3D6BE\"/><circle cx=\"174\" cy=\"152\" r=\"8\" fill=\"#E3D6BE\"/><rect x=\"200\" y=\"72\" width=\"660\" height=\"84\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"200\" y=\"178\" width=\"660\" height=\"84\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"200\" y=\"290\" width=\"660\" height=\"78\" rx=\"14\" fill=\"#EFE6D2\"/></g><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">מדוע לרבי עקיבא גם המודה בשתיים פטור</text><text x=\"795\" y=\"354\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">הלווה</text><text x=\"370\" y=\"106\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">״אם אומר שתיים – אצטרך להישבע…״</text><text x=\"370\" y=\"134\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\" direction=\"rtl\">(בהנחה שהמודה בשתיים חייב שבועה)</text><text x=\"370\" y=\"212\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">״…אומר שלוש, ואהיה כמשיב אבידה, ואפטר.״</text><text x=\"370\" y=\"240\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\" direction=\"rtl\">הפטור על הודאה ביושר היה הופך לפרס על הערמה</text><text x=\"370\" y=\"322\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\" direction=\"rtl\">מסקנה: גם המודה רק בשתיים פטור,</text><text x=\"370\" y=\"348\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\" direction=\"rtl\">ולכן המחלוקת בברייתא היא רק על שלוש</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s15",
+       "title": "חזרה לרבי חייא: שוב מסייע ליה שטרא או שעבוד קרקעות",
+       "amud": "ד:",
+       "text": {
+        "from": "4b.10",
+        "to": "4b.10"
+       },
+       "gist": "הפטור של המודה בשתיים נראה עכשיו כסותר את רבי חייא, ואותן שתי תשובות חוזרות: השטר מסייע לו, או שהשטר הוא שעבוד קרקעות.",
+       "bullets": [
+        {
+         "text": "\"אלא קשיא לרבי חייא\": אם המודה בשתיים פטור, הדבר סותר את רבי חייא, שמחייב את האומר \"הילך\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תשובה: \"שאני התם דקא מסייע ליה שטרא\". אי נמי, השטר יוצר שעבוד קרקעות, \"ואין נשבעין על כפירת שעבוד קרקעות\".",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "returns_to": [
+        {
+         "id": "s10",
+         "note": "אותן שתי תשובות שניתנו קודם לדברי רבי שמעון בן אלעזר"
+        }
+       ],
+       "continues": "מחלוקת הילך נמשכת: מר זוטרא בריה דרב נחמן מקשה על רב ששת מהמשנה בשבועות על תביעה של כלים וקרקעות."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "הילך",
+   "hebrew": "",
+   "sense": "נתינת החלק שהודה בו מיד",
+   "definition": "נתבע שאומר \"הילך\" ונותן מיד את החלק מן התביעה שהוא מודה בו. השאלה היא אם הוא עדיין נחשב מודה במקצת.",
+   "on_this_daf": "רבי חייא סובר שהאומר הילך חייב להישבע על השאר. רב ששת פוטר אותו, כי המעות שנתן נחשבות כבר של המלווה.",
+   "aliases": [],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s8",
+    "s10",
+    "s12",
+    "s15"
+   ]
+  },
+  {
+   "term": "מודה במקצת",
+   "hebrew": "",
+   "sense": "הודאה בחלק מתביעת ממון",
+   "definition": "נתבע שמודה בחלק מתביעת ממון וכופר בשאר. מן התורה הוא חייב להישבע על החלק שהוא כופר בו.",
+   "on_this_daf": "הדף שואל אם מי שנותן את החלק שהודה בו, או מודה רק במה שהשטר כבר מוכיח, עדיין נחשב מודה במקצת.",
+   "aliases": [
+    "מודה במקצת הטענה",
+    "הודאת מקצת הטענה",
+    "הודה מקצת הטענה"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s6",
+    "s8"
+   ]
+  },
+  {
+   "term": "כופר הכל",
+   "hebrew": "",
+   "sense": "כפירה בכל התביעה",
+   "definition": "נתבע שכופר בכל התביעה נגדו. אם אין ראיה אחרת, אין עליו שבועה מן התורה.",
+   "on_this_daf": "לרב ששת, אחרי שנתן את המעות שהודה בהן, הנתבע הוא כופר הכל במה שנשאר.",
+   "aliases": [],
+   "sections": [
+    "s1",
+    "s3"
+   ]
+  },
+  {
+   "term": "תקנת חכמים",
+   "hebrew": "",
+   "sense": "תקנה מדרבנן",
+   "definition": "דין שתיקנו חכמים ואינו נלמד מן התורה. פעמים רבות הוא נתקן כעין דין שמן התורה.",
+   "on_this_daf": "שני הצדדים אומרים שהשבועה במשנת הטלית היא תקנת חכמים. רבי חייא טוען שצריכה להיות לה דוגמה מן התורה – שבועת הילך.",
+   "aliases": [],
+   "sections": [
+    "s1",
+    "s4"
+   ]
+  },
+  {
+   "term": "משיב אבידה",
+   "hebrew": "",
+   "sense": "המודה במה שאי אפשר היה להוכיח נגדו",
+   "definition": "מי שמחזיר אבידה שיכול היה לשמור לעצמו. בהרחבה: בעל דין שמודה ביותר ממה שאפשר להוכיח נגדו נחשב כמותו ופטור משבועה.",
+   "on_this_daf": "רבי עקיבא רואה בלווה שמודה בשלוש, כשהשטר מוכיח רק שתיים, משיב אבידה, ופוטר אותו.",
+   "aliases": [
+    "כמשיב אבידה"
+   ],
+   "sections": [
+    "s6",
+    "s9",
+    "s12",
+    "s13",
+    "s14"
+   ]
+  },
+  {
+   "term": "שעבוד קרקעות",
+   "hebrew": "",
+   "sense": "חוב שמשועבדות לו קרקעות",
+   "definition": "השעבוד ששטר הלוואה יוצר על הקרקעות של הלווה. על טענות בקרקע, ובכללן חובות שמשועבדות להן קרקעות, אין שבועת מודה במקצת.",
+   "on_this_daf": "אחד הטעמים שלווה שמודה רק בשתיים שבשטר אינו נשבע: החוב הזה משועבד לקרקע.",
+   "aliases": [],
+   "sections": [
+    "s10",
+    "s15"
+   ]
+  }
+ ]
+}

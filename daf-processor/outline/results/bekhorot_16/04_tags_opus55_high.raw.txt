@@ -1,0 +1,17 @@
+{"charts": {
+  "s3": [[null, null, null, null], [null, null, null, null]],
+  "s11": null,
+  "s13": [
+    [null, "exempt", null, null],
+    [null, "exempt", "exempt", null],
+    [null, "exempt", "exempt", "exempt"]
+  ],
+  "s15": null
+},
+"tag_questions": [
+  {"section": "s3", "cell": "row1 col4 (Fate of the offspring)", "note": "Dedicated unborn as the mother's offering, then redeemed once blemished — a compound outcome (dedication then redemption) with no single matching tag."},
+  {"section": "s3", "cell": "row2 col4 (Fate of the offspring)", "note": "'Left to die' is an outcome but no tag in the closed list captures this fate."},
+  {"section": "s13", "cell": "row1 col3 (Their offspring)", "note": "'Obligated' is the outcome but the closed list has no tag for being obligated (only 'exempt')."},
+  {"section": "s13", "cell": "row1 col4 (Later generations)", "note": "'Obligated' is the outcome but the closed list has no tag for being obligated."},
+  {"section": "s13", "cell": "row2 col4 (Later generations)", "note": "'Obligated from the next generation' is an outcome but no tag fits an obligation status."}
+]}

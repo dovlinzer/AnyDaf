@@ -1,0 +1,21 @@
+{"charts": {
+  "s2": [
+    [null, null, null, "holds"],
+    [null, null, null, "divides:1/2,1/2"],
+    [null, null, null, "divides:1/2,1/2"],
+    [null, null, null, "takes"]
+  ],
+  "s3": [
+    [null, "returns", "holds", "divides:1/2,1/2"],
+    [null, "holds", "holds", "divides:1/2,1/2"]
+  ],
+  "s11": [
+    [null, "pays", "exempt", "pays", "pays", null],
+    [null, "pays", "pays", null, "pays", null]
+  ]
+},
+"tag_questions": [
+  {"section": "s11", "cell": "row1 col6 (One's own admission / Contradiction and hazamah)", "note": "'Not subject to them' describes immunity from hazamah/contradiction rules, not a pay/exempt-type outcome; no tag in the list fits."},
+  {"section": "s11", "cell": "row2 col6 (Two witnesses / Contradiction and hazamah)", "note": "'Subject to both' describes being liable to contradiction and hazamah procedures, not a standard outcome; no tag fits."},
+  {"section": "s11", "cell": "row2 col4 (Two witnesses / An offering, including the guilt-offering)", "note": "The cell records a dispute (Rabbis: no, R. Meir: yes) about whether two witnesses obligate an offering; it's not a single resolved outcome so no clear tag applies."}
+]}

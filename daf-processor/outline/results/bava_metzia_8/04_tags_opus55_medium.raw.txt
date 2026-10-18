@@ -1,0 +1,42 @@
+```json
+{
+  "charts": {
+    "s1": [
+      [null, "acquires", null, null],
+      [null, "not-acquired", null, null]
+    ],
+    "s4": [
+      [null, "acquires", null, null],
+      [null, "acquires", null, null],
+      [null, "not-acquired", null, null]
+    ],
+    "s8": null,
+    "s16": [
+      [null, null, null, null],
+      [null, null, null, null]
+    ]
+  },
+  "tag_questions": [
+    {
+      "section": "s16",
+      "cell": "Standard version / The one leading",
+      "note": "'Liable to lashes' is an outcome but no tag in the list covers corporal punishment for a kilayim violation."
+    },
+    {
+      "section": "s16",
+      "cell": "Standard version / The one sitting in the wagon",
+      "note": "'Liable, per the first opinion' is an outcome (liable to lashes) with no matching tag."
+    },
+    {
+      "section": "s16",
+      "cell": "Shmuel's version / The one leading",
+      "note": "'Liable to lashes' is an outcome but no tag in the list covers corporal punishment for a kilayim violation."
+    },
+    {
+      "section": "s16",
+      "cell": "Shmuel's version / The one sitting in the wagon",
+      "note": "'Liable, per R. Meir' is an outcome (liable to lashes) with no matching tag; the Rabbis' exempting view is attributed in the next column rather than stated as a direct ruling here."
+    }
+  ]
+}
+```

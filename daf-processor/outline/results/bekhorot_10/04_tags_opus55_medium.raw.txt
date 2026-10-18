@@ -1,0 +1,29 @@
+{"charts": {
+  "s7": [
+    [null, null, null, null],
+    [null, null, null, null],
+    [null, null, null, null],
+    [null, null, null, null],
+    [null, null, null, null],
+    [null, null, null, null]
+  ],
+  "s12": [
+    [null, "forbidden", "forbidden", "forbidden"],
+    [null, "permitted", "permitted", null]
+  ],
+  "s13": [
+    [null, "forbidden", null],
+    [null, "forbidden", null],
+    [null, "forbidden", null],
+    [null, "permitted", null]
+  ],
+  "s20": null
+},
+"tag_questions": [
+  {"section": "s7", "cell": "row1-col3", "note": "'Needs intent? Yes' is an outcome about susceptibility to impurity as food, but no tag in the list (pays/exempt/oath/etc.) fits this status."},
+  {"section": "s7", "cell": "row2-col3", "note": "Same issue: 'Needs intent? Yes' has no matching tag."},
+  {"section": "s7", "cell": "row3-col3", "note": "Same issue: 'Needs intent? Yes' has no matching tag."},
+  {"section": "s7", "cell": "row4-col3", "note": "'Needs intent? No' is an outcome about susceptibility to impurity as food, but no tag fits this status."},
+  {"section": "s7", "cell": "row5-col3", "note": "Same issue: 'Needs intent? No' has no matching tag."},
+  {"section": "s7", "cell": "row6-col3", "note": "Same issue: 'Needs intent? No' has no matching tag."}
+]}

@@ -1,0 +1,866 @@
+{
+ "daf": "Kiddushin 4",
+ "scope": {
+  "start": "3b: Rav Huna's source for a daughter's earnings, picking up the question of why a *na'arah*'s betrothal money goes to her father",
+  "end": "4b: why both “when a man takes” and “*ein kesef*” are needed"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "A Na'arah's Kiddushin Money: Vows, Fine, Boshet, or ‘Ein Kesef’?",
+   "amud": "3b–4a",
+   "text": {
+    "from": "3b.8",
+    "to": "4a.10"
+   },
+   "gist": "Continuing the search for why a *na'arah*'s betrothal money goes to her father: vows, the rape fine, and *boshet* and *pegam* are ruled out; “*ein kesef*” is read as a departure like the maidservant's; its extra yod is defended; and betrothal money and earnings each prove to need their own verse.",
+   "bullets": [],
+   "chart": {
+    "caption": "Four candidate sources for the father's right to a na'arah's betrothal money",
+    "columns": [
+     "Source",
+     "What it gives the father",
+     "Can it teach betrothal money?"
+    ],
+    "rows": [
+     [
+      "“In her youth, in her father's house”",
+      "Power to annul her vows",
+      "No: written about vows only, and money is not learned from ritual law"
+     ],
+     [
+      "*Knas* (the rapist's fine)",
+      "The fine, paid to her father",
+      "No: money is not learned from fines"
+     ],
+     [
+      "*Boshet* and *pegam*",
+      "Payment for her humiliation and degradation",
+      "No: he has his own stake in these, since he could devalue her himself"
+     ],
+     [
+      "“*Ein kesef*” (Shemot 21:11)",
+      "Money when she leaves for “another master”",
+      "Yes: a departure like the maidservant's, so the money goes to the one with authority over her"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "Rav Huna: Earnings from the Maidservant, So ‘In Her Youth’ Is Only Vows",
+     "amud": "3b",
+     "text": {
+      "from": "3b.8",
+      "to": "3b.9"
+     },
+     "gist": "Rav Huna needs a separate verse for a daughter's earnings, which shows that “in her youth, in her father's house” covers only *hafarat nedarim*, and so it cannot be the source for her betrothal money either.",
+     "bullets": [
+      {
+       "text": "Rav Huna in the name of Rav: a daughter's earnings (*ma'aseh yadeha*) belong to her father, from “And if a man sells his daughter as a maidservant” (Shemot 21:7): just as the Hebrew maidservant's earnings go to her master, a daughter's go to her father.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: why does he need that verse? “In her youth, in her father's house” already gives the father every profit of her youth.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: Rav Huna holds that verse is written about *hafarat nedarim*, not about acquisition.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Then the same holds for betrothal money: “in her youth” can't be its source.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Nor can betrothal money be learned by analogy from his power over her vows: monetary matters are not derived from ritual matters (*mamona me'issura lo yalfinan*).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The father holds three separate rights: selling her as a maidservant while she is a minor (with her earnings), marrying her off (“I gave my daughter to this man”), and annulling her vows (“in her youth”). For the *na'arah*, vows and earnings now have sources; her betrothal money still has none.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Rashi: for a *ketanah* no verse is needed for earnings, since if he may sell her labor he surely owns it. The verse's point is the *na'arah*, whom he can no longer sell, and yet her earnings are learned from the very verse of the sale.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Knas vs. Boshet and Pegam: The Father's Own Stake",
+     "amud": "3b",
+     "text": {
+      "from": "3b.10",
+      "to": "3b.11"
+     },
+     "gist": "The rapist's fine can't teach ordinary money law, and *boshet* and *pegam*, though real compensation, go to the father only because he has a stake of his own in them.",
+     "bullets": [
+      {
+       "text": "Nor from *knas*: the Torah gives the rapist's fine to the girl's father, but ordinary money is not learned from fines (*mamona mi'kenasa lo yalfinan*), since a fine is a unique case.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Nor from *boshet* and *pegam*, the payments for her humiliation and degradation, which also go to the father: these are different, because the father has an interest in them.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "He could humiliate and devalue her himself, for example by marrying her to a man afflicted with boils. So these payments are his in a way her other money is not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "*Boshet* and *pegam* are genuine compensation for harm, the same framework as any bodily injury, not a penalty. So the objection from *knas* doesn't reach them; the Torah treats the rape in civil terms, as it treats assault.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The father's stake is his control over her marriage, and the harm lowers her worth on that market. A disturbing logic, and one that seems to argue that betrothal money should be his too; the distinction is hard to pin down.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: the case in question is a *na'arah* who betroths herself. The father can still marry her off, so he has a stake in *boshet* and *pegam*. But in a betrothal she performs herself, one might think the money is hers.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Mistabra: ‘Ein Kesef’ Means a Departure Like the Maidservant's",
+     "amud": "3b–4a",
+     "text": {
+      "from": "3b.12",
+      "to": "4a.1"
+     },
+     "gist": "The source is “*ein kesef*”, read as no money for this master but money for another; it stands to reason that the other departure is like hers, so the money goes to the one with authority over her, her father.",
+     "bullets": [
+      {
+       "text": "So the father's right comes from “then she shall go out for nothing, *ein kesef*”: no money for this master, but money for a different master.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why the father and not the girl? *Mistabra*: the verse excludes a departure like the maidservant's. There, the one who would receive is the person with authority over her; so in betrothal the money goes to the one with authority over her, her father.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Whether the father arranged the betrothal or she did, the one standing in the “master's” place is the father.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Can a *na'arah* betroth herself at all? Rambam: only with her father's prior approval, acting as his agent (*shaliach*); his approval afterward does not validate it.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Other authorities: if she betroths herself and her father later ratifies it, the betrothal may stand.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "Not a Full Departure: Chuppah Still Pending, but Vows Now Shared",
+     "amud": "4a",
+     "text": {
+      "from": "4a.2",
+      "to": "4a.2"
+     },
+     "gist": "A betrothed *na'arah* hasn't really left her father's house, but she has left his sole authority over her vows, and that is enough to sustain the comparison.",
+     "bullets": [
+      {
+       "text": "Challenge: the departures differ. The freed maidservant leaves her master entirely; a betrothed *na'arah* still lacks being handed over to the *chuppah* and remains under her father's authority.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: she does leave his authority as far as *hafarat nedarim* goes. A mishnah (Nedarim 66b): a betrothed *na'arah*'s vows are annulled by her father and her husband together, and her father can't annul them alone.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The change is thin: a formal shift in status, not a real change in her life. If anything, since she stays in his domain, that is all the more reason the money should be his.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The governing model throughout is the father selling his daughter as a maidservant: he controls her, she passes to another domain, and money changes hands. The *sugya*'s picture of *kiddushei kesef* is transactional.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Economic backdrop: the Torah's sums (fifty silver shekels, 200 *zuz*) were large. Once betrothal money became a symbolic *perutah*, the burden flipped and the father now pays a dowry; the *ketubah* balances money flowing both ways.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The comparison in 3b–4a: the maidservant leaves her master with no money paid, while in betrothal money passes to “another master”, her father. The Gemara's challenge and answer about how fully she leaves appear at the bottom right.",
+      "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>Two scenes. Left: a Hebrew maidservant walks away from her master, who receives no money. Right: a groom's betrothal money passes over a na’arah to her father.</title><rect width='900' height='460' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='390' rx='14' fill='#E3EAF3'/><text x='227' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1B3A8A'>The maidservant goes free</text><text x='227' y='78' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='18' fill='#3A5692'>וְיָצְאָה חִנָּם אֵין כָּסֶף</text><use href='#man' x='60' y='150' width='60' height='120' style='color:#6A4F7A'/><use href='#woman' x='300' y='150' width='60' height='120' style='color:#4E7A8C'/><path d='M132 215 H282' stroke='#1B3A8A' stroke-width='3'/><path d='M292 215 l-12 -7 v14 z' fill='#1B3A8A'/><text x='212' y='203' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1B3A8A'>goes free</text><text x='90' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Master</text><text x='330' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Maidservant</text><text x='227' y='330' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>No money to this master</text><text x='227' y='354' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>She leaves his authority entirely</text><rect x='460' y='14' width='425' height='390' rx='14' fill='#F3E6D8'/><text x='672' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#9A6212'>Betrothal of a na’arah</text><text x='672' y='76' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#6B4A1A'>money to “another master”</text><path d='M820 146 C790 100 550 100 520 146' fill='none' stroke='#9A6212' stroke-width='3'/><path d='M516 150 l2 -15 l11 9 z' fill='#9A6212'/><circle cx='670' cy='112' r='11' fill='#E0B04A' stroke='#9A6212' stroke-width='2'/><use href='#man' x='490' y='150' width='60' height='120' style='color:#8C5A3C'/><use href='#woman' x='642' y='150' width='60' height='120' style='color:#4E7A8C'/><use href='#man' x='790' y='150' width='60' height='120' style='color:#3E6FA8'/><text x='520' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Father</text><text x='672' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Na’arah</text><text x='820' y='294' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Groom</text><text x='672' y='330' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>The money goes to her father</text><text x='672' y='358' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Challenge: until the chuppah she is still his</text><text x='672' y='380' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>Answer: her vows now need father and husband</text><text x='450' y='438' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Kiddushin 3b–4a · no money for this master, money for another master</text></svg>"
+     }
+    },
+    {
+     "id": "s6",
+     "title": "‘Ein Kesef’ Already Used for Na'arut? Ravina's Extra Yod",
+     "amud": "4a",
+     "text": {
+      "from": "4a.3",
+      "to": "4a.8"
+     },
+     "gist": "A *baraita* needs “*ein kesef*” for the maidservant's release at *na'arut*; Ravina answers that the full spelling of *ein* supplies the father's money as well, a method the Gemara grounds in “*ve'zera ein lah*”.",
+     "bullets": [
+      {
+       "text": "Challenge: does “*ve'yatzah chinam ein kesef*” come to teach money for another master? A *baraita* needs it: “she shall go out for nothing” means the days of *bagrut*; “*ein kesef*” means the days of *na'arut*. The *amah ivriyah* (hebrew maidservant) goes free at either stage.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Ravina: for that alone the verse could have spelled *ein* without a yod. The full spelling adds: no money for this master, but money for another master, and he is her father.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "One phrase carries two teachings: the word itself for *na'arut*, the extra letter for the father's money.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Ravina's answer (4a): the word as written carries the baraita's teaching about na'arut, and its extra yod carries the father's money. Below, the parallel the Gemara brings and how the tanna knows the yod is extra.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>The word ein spelled with a highlighted yod, compared with the shorter spelling; two arrows lead to the two teachings drawn from it. Below, three Hebrew phrases showing the method.</title><rect width='900' height='440' fill='#FBF8F1'/><text x='450' y='38' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>Ravina: the full spelling of “ein kesef”</text><rect x='70' y='54' width='340' height='124' rx='12' fill='#F3E6D0' stroke='#9A6212' stroke-width='2'/><text x='240' y='80' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>As written (Shemot 21:11)</text><text x='240' y='152' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='52' fill='#1A1F2E'>א<tspan fill='#9A6212' font-weight='700'>י</tspan>ן כסף</text><rect x='490' y='54' width='340' height='124' rx='12' fill='#EEF0F4' stroke='#9AA7BD' stroke-width='2' stroke-dasharray='6 5'/><text x='660' y='80' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#5B6478'>Enough for the na’arut teaching</text><text x='660' y='152' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='52' fill='#5B6478'>אן כסף</text><path d='M200 180 V216' stroke='#1B3A8A' stroke-width='3'/><path d='M200 224 l-7 -12 h14 z' fill='#1B3A8A'/><path d='M330 180 L612 218' stroke='#9A6212' stroke-width='3'/><path d='M620 220 l-14 -8 l-2 12 z' fill='#9A6212'/><rect x='40' y='226' width='400' height='70' rx='10' fill='#E3EAF3'/><text x='240' y='254' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>The phrase: freed at na’arut</text><text x='240' y='278' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>the baraita: “ein kesef” = the days of her youth</text><rect x='460' y='226' width='400' height='70' rx='10' fill='#F3E6D8'/><text x='660' y='254' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>The yod: money to another master</text><text x='660' y='278' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>none for this master; money for her father</text><rect x='15' y='314' width='870' height='112' rx='12' fill='#F1ECE0'/><text x='450' y='338' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>The same method, and how the tanna knows the yod is extra</text><text x='160' y='378' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='26' fill='#1A1F2E'>וְזֶרַע אֵין לָהּ</text><text x='160' y='406' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>read as “examine her”: grandchildren, mamzerim</text><text x='470' y='378' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='26' fill='#1A1F2E'>מֵאֵן בִּלְעָם</text><text x='470' y='406' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Balaam refuses: no yod</text><text x='730' y='378' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='26' fill='#1A1F2E'>מֵאֵן יְבָמִי</text><text x='730' y='406' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>my yavam refuses: no yod</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s7",
+       "title": "‘Ve'zera Ein Lah’: Grandchildren, Mamzerim, and the Superfluous Yod",
+       "amud": "4a",
+       "text": {
+        "from": "4a.5",
+        "to": "4a.8"
+       },
+       "gist": "A *baraita* on a *kohen*'s daughter reads *ein lah* as “examine her”; since grandchildren need no verse, the reading teaches that even a *mamzer* child counts, and the missing yod in *me'en* elsewhere shows the letter is there to be expounded.",
+       "bullets": [
+        {
+         "text": "A *kohen*'s daughter widowed or divorced from a non-*kohen*: “and she has no child … she may eat of her father's bread” (Vayikra 22:13). If childless, she may eat *terumah* again.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Her children's children also block her: *ein* with a yod can be read *ayen lah*, “examine her” for any descendants.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Children of flawed lineage, such as a *mamzer*, also count: learned from the same “examine her”.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Challenge: one word used twice? Answer: grandchildren need no verse, since children's children are like children; the verse is needed for flawed lineage.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "How does the *tanna* know the yod is extra? “Balaam refuses” (Bamidbar 22:14) and “my *yavam* refuses” (Devarim 25:7) are written without a yod; here *ein* has one, so it comes to be expounded.",
+         "detail": 3,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s8",
+     "title": "Betrothal Money and Earnings: Unearned Windfall vs. Pay for Keep",
+     "amud": "4a",
+     "text": {
+      "from": "4a.9",
+      "to": "4a.10"
+     },
+     "gist": "Both verses are needed: betrothal money alone might be the father's because she didn't toil for it, and earnings alone might be his because he feeds her; neither reason covers the other.",
+     "bullets": [
+      {
+       "text": "The Torah needed one verse giving her betrothal to her father and another giving him her earnings (*ma'aseh yadeha*); neither can be derived from the other.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Only betrothal: I would say it is his because she didn't toil for it. Her earnings, which she toiled for, would be hers.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Only earnings: they are his because he sustains her. Betrothal money comes from outside, so it would be hers.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Together they describe reciprocity: he supports her and she works, the model later built into husband and wife. Betrothal money, coming unexpectedly from outside that exchange, needed its own verse.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "returns_to": [
+      {
+       "id": "s2",
+       "note": "Returns to Rav Huna's verse for her earnings"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "Na'arut and Bagrut: Why the Verse Names Both",
+   "amud": "4a–4b",
+   "text": {
+    "from": "4a.11",
+    "to": "4b.2"
+   },
+   "gist": "If a maidservant goes free at *na'arut*, why mention *bagrut*? Three answers: Rabba's one phrase defining the other, Abaye's *aylonit* who skips *na'arut*, and Mar bar Rav Ashi's permission to sell an *aylonit* at all.",
+   "bullets": [],
+   "chart": {
+    "caption": "What the phrase about bagrut adds, according to each amora",
+    "columns": [
+     "",
+     "What the bagrut phrase teaches",
+     "Challenge",
+     "Outcome"
+    ],
+    "rows": [
+     [
+      "Rabba",
+      "Alone, one phrase would be read as *bagrut*; the second shows release at *na'arut* (like *toshav* and *sachir*)",
+      "Abaye: those are two people; she is one",
+      "Rejected"
+     ],
+     [
+      "Abaye",
+      "An *aylonit*, who reaches *bagrut* without *na'arut*, still goes free",
+      "Mar bar Rav Ashi: her release follows by *kal va'chomer*",
+      "Rejected"
+     ],
+     [
+      "Mar bar Rav Ashi",
+      "An *aylonit* may be sold as a maidservant at all",
+      "A verse sometimes spells out a *kal va'chomer*",
+      "Stands: that is only a last resort"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s10",
+     "title": "Rabba: One Phrase Defines the Other, as with Toshav and Sachir",
+     "amud": "4a",
+     "text": {
+      "from": "4a.11",
+      "to": "4a.15"
+     },
+     "gist": "Rabba: one phrase alone would be read as the lesser novelty, *bagrut*, so the second is needed for *na'arut*, just as *sachir* is needed to show that *toshav* means the permanent slave.",
+     "bullets": [
+      {
+       "text": "Question on the *baraita*: let the verse state only release at *na'arut*; one who left then needn't be told she leaves at *bagrut*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabba: one phrase teaches about the other. A single phrase, not tied explicitly to *na'arut*, would be read as *bagrut*, the lesser novelty; so two phrases are needed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "His parallel, a *baraita* on *terumah*: “A *toshav* of a *kohen* or a *sachir* shall not eat of the holy” (Vayikra 22:10). *Toshav* is a Hebrew slave acquired permanently, ear pierced, until *yovel*; *sachir* is the six-year slave.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why not write *toshav* alone and learn the *sachir* by *kal va'chomer*? Because *toshav* alone would be read as the six-year slave, leaving the permanent one free to eat *terumah*; *sachir* shows that *toshav* means the permanent slave.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "Rabba's parallel and Abaye's objection (4a): the toshav and sachir are two different slaves, both forbidden terumah, so the verse may name each; the maidservant is one person, who once free at na'arut is no longer her master's at bagrut.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Left: two Hebrew slaves, a toshav and a sachir, each marked as forbidden to eat terumah. Right: one maidservant on a timeline from ketanah to na’arut, where she goes free, to bagrut.</title><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='390' rx='14' fill='#E3EAF3'/><text x='227' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#1B3A8A'>Toshav and sachir: two bodies</text><text x='227' y='78' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#3A5692'>תּוֹשַׁב כֹּהֵן וְשָׂכִיר לֹא יֹאכַל קֹדֶשׁ</text><use href='#man' x='90' y='120' width='60' height='120' style='color:#5E7D4F'/><use href='#mark-no' x='158' y='128' width='30' height='30'/><use href='#man' x='290' y='120' width='60' height='120' style='color:#4B5E8C'/><use href='#mark-no' x='358' y='128' width='30' height='30'/><text x='120' y='262' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Toshav</text><text x='320' y='262' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Sachir</text><text x='120' y='282' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>ear pierced, until yovel</text><text x='320' y='282' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>six-year Hebrew slave</text><text x='227' y='318' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#8C2F2F'>Neither may eat terumah</text><text x='227' y='348' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Two people: the verse may state one</text><text x='227' y='366' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>even if a kal va’chomer could teach it</text><rect x='460' y='14' width='425' height='390' rx='14' fill='#F3E6D8'/><text x='672' y='48' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600' fill='#9A6212'>The maidservant: one body</text><text x='672' y='76' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#6B4A1A'>Abaye: once she goes free at na’arut,</text><text x='672' y='96' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' fill='#6B4A1A'>she is no longer his at bagrut</text><path d='M500 170 H672' stroke='#9A6212' stroke-width='4'/><path d='M672 170 H850' stroke='#C9C1B2' stroke-width='4' stroke-dasharray='8 6'/><circle cx='520' cy='170' r='9' fill='#4E7A8C'/><circle cx='672' cy='170' r='9' fill='#9A6212'/><circle cx='824' cy='170' r='9' fill='#C9C1B2'/><text x='520' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Ketanah</text><text x='672' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Na’arut</text><text x='824' y='150' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Bagrut</text><text x='520' y='198' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>sold</text><text x='672' y='198' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>goes free</text><text x='824' y='198' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#5B6478'>already gone</text><use href='#woman' x='642' y='220' width='60' height='120' style='color:#4E7A8C'/><text x='672' y='378' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>So the bagrut phrase needs another reason</text><text x='450' y='428' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Kiddushin 4a · Rabba’s parallel and Abaye’s objection</text></svg>"
+     }
+    },
+    {
+     "id": "s11",
+     "title": "Abaye: One Body, So the Verse Means the Aylonit",
+     "amud": "4a",
+     "text": {
+      "from": "4a.16",
+      "to": "4a.19"
+     },
+     "gist": "Abaye: *toshav* and *sachir* are two people, but the maidservant is one, so the *bagrut* phrase must mean the *aylonit*, who reaches *bagrut* without ever being a *na'arah* and still goes free.",
+     "bullets": [
+      {
+       "text": "Abaye objects: *toshav* and *sachir* are two bodies. Even if one could be learned by *kal va'chomer*, a verse sometimes takes the trouble to write such a thing out.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "But the maidservant is one body: once she left at *na'arut*, what is she doing in his authority at *bagrut*?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Abaye: the *bagrut* phrase is needed only for an *aylonit*. She never develops signs of maturity, never becomes a *na'arah*, stays a minor until twenty, and then becomes an adult at once.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Without it one would say she leaves only at *na'arut*, so an *aylonit* would never go free; the verse teaches she goes free on reaching *bagrut* directly.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A nineteen-year-old without signs is still legally a minor, while a twelve-year-old with them is not: the *halakha* defines majority by physical markers, not by age alone.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The two paths to bagrut behind Abaye's answer and Mar bar Rav Ashi's (4a–4b): an ordinary girl goes free at na'arut, while an aylonit stays a ketanah until twenty and goes free only at bagrut.",
+      "svg": "<svg viewBox='0 0 900 420' xmlns='http://www.w3.org/2000/svg' role='img'><title>Two timelines. An ordinary girl passes from ketanah to na’arah to bogeret and goes free at na’arut. An aylonit is a ketanah until twenty, becomes a bogeret directly, and goes free then. Below, the views of Abaye and Mar bar Rav Ashi.</title><rect width='900' height='420' fill='#FBF8F1'/><text x='450' y='36' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600' fill='#1A1F2E'>When a Hebrew maidservant goes free</text><text x='24' y='120' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Ordinary girl</text><rect x='200' y='100' width='220' height='30' fill='#C9D6EA'/><rect x='420' y='100' width='180' height='30' fill='#F3E6D0'/><rect x='600' y='100' width='260' height='30' fill='#E4EFE4'/><text x='310' y='120' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Ketanah</text><text x='510' y='120' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Na’arah (signs)</text><text x='730' y='120' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Bogeret</text><path d='M420 86 V140' stroke='#9A6212' stroke-width='3'/><text x='420' y='78' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#9A6212'>goes free: “ein kesef”</text><text x='24' y='218' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Aylonit</text><text x='24' y='236' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='12' fill='#5B6478'>(no signs)</text><rect x='200' y='205' width='460' height='30' fill='#C9D6EA'/><rect x='660' y='205' width='200' height='30' fill='#E4EFE4'/><text x='430' y='225' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Ketanah until twenty</text><text x='760' y='225' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>Bogeret</text><path d='M660 194 V245' stroke='#9A6212' stroke-width='3'/><text x='660' y='186' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='13' font-weight='600' fill='#9A6212'>goes free: “ve’yatzah chinam”</text><text x='430' y='258' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>never passes through na’arut</text><line x1='20' y1='285' x2='880' y2='285' stroke='#E6DFD2'/><use href='#sage' x='40' y='300' width='40' height='70' style='color:#4B5E8C;--beard:#5A4636;--wrap:#E4D8C0'/><text x='92' y='322' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Abaye</text><text x='92' y='344' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>the bagrut phrase is needed</text><text x='92' y='362' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>for her: she goes free at bagrut</text><use href='#sage' x='470' y='300' width='40' height='70' style='color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0'/><text x='522' y='322' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>Mar bar Rav Ashi</text><text x='522' y='344' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#1A1F2E'>her release follows by kal va’chomer;</text><text x='522' y='362' text-anchor='start' font-family='Public Sans, system-ui, sans-serif' font-size='13' fill='#24592E'>the verse teaches she may be sold</text><use href='#mark-ok' x='752' y='346' width='22' height='22'/><text x='450' y='405' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Kiddushin 4a–4b</text></svg>"
+     }
+    },
+    {
+     "id": "s12",
+     "title": "Mar bar Rav Ashi: Kal Va'chomer Frees Her; the Verse Allows Selling an Aylonit",
+     "amud": "4a–4b",
+     "text": {
+      "from": "4a.20",
+      "to": "4b.2"
+     },
+     "gist": "Mar bar Rav Ashi: the *aylonit*'s release follows by *kal va'chomer*, so the verse teaches that she may be sold at all; a verse spells out a *kal va'chomer* only when no better explanation exists.",
+     "bullets": [
+      {
+       "text": "Mar bar Rav Ashi objects: it is a *kal va'chomer*. Signs of *na'arut* don't fully release her from her father, yet they release her from the master; *bagrut*, which fully releases her from her father, surely releases her from the master.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rather, the verse teaches the basic sale of an *aylonit*. One might think a sale is valid only for a girl who will show signs of *na'arut*, since with an *aylonit* the verse's release at *na'arut* can never be fulfilled.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So “she shall go out for nothing, *ein kesef*” teaches that even an *aylonit* can be sold as an *amah ivriyah*, and goes free on reaching *bagrut*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Question: what of the rule that a verse sometimes spells out a *kal va'chomer*? Answer: that applies only where there is no other way to explain the verse; when a more substantial explanation exists, it is preferred.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot asks how anyone could know at the sale, before twelve, that she is an *aylonit*, and notes the discussion of whether her signs can be recognized young.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The maidservant arrangement is oriented toward marriage: the master or his son is expected to designate her, and a young girl's labor is minimal. The sale is less about slavery than about securing her marital future.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ],
+   "returns_to": [
+    {
+     "id": "s6",
+     "note": "Returns to the baraita on “she shall go out for nothing, *ein kesef*”"
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "title": "Ki Yikach: A Second Source for Kiddushei Kesef",
+   "amud": "4b",
+   "text": {
+    "from": "4b.3",
+    "to": "4b.9"
+   },
+   "gist": "A *baraita* learns *kiddushei kesef* from “when a man takes a woman” via Avraham's field; the Gemara asks why a *kal va'chomer* from the *amah ivriyah* won't do, and then why both this verse and “*ein kesef*” are needed.",
+   "bullets": [],
+   "continues": "The baraita continues on 4b with “and engages in intercourse with her”: acquisition through intercourse, its own kal va'chomer from the yevamah, and Rav Ashi's refutation.",
+   "children": [
+    {
+     "id": "s14",
+     "title": "Kal Va'chomer from the Amah Ivriyah: The Yevamah, Then Rav Ashi",
+     "amud": "4b",
+     "text": {
+      "from": "4b.3",
+      "to": "4b.7"
+     },
+     "gist": "The *kal va'chomer* from the *amah ivriyah* survives the *yevamah* objection, but Rav Ashi breaks it from the start: the maidservant is released with money, a wife is not, so the verse is needed.",
+     "bullets": [
+      {
+       "text": "A *tanna*: “When a man takes a woman … and he writes her a scroll of severance” (Devarim 24:1). Taking is only with money, as Avraham says: “I will give money for the field; take it from me” (Bereshit 23:13).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot: the plain sense of “takes” here is intercourse, and the verse speaks of full marriage, yet the *baraita* reads it as betrothal with money.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Why a verse? *Kal va'chomer*: the *amah ivriyah*, who is not acquired through intercourse, is acquired with money; a woman, who is acquired through intercourse, surely is.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Refutation: the *yevamah* is acquired through intercourse, yet not with money.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Counter: the *yevamah* can't be acquired by a document either; a woman can be betrothed by document, so money works for her too. The *kal va'chomer* stands, so why the verse?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Ashi: the *kal va'chomer* is flawed from the outset. The *amah ivriyah* can be released with money, by paying her value, so money acquires her; a woman can't be divorced with money. So the verse is needed.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This asymmetry shows that *kiddushin* is not a slave purchase: a sale works in both directions, but money does not release a wife. The verse about Avraham is needed precisely because a wife is not like a bought maidservant.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "In the Efron story, what is “taken” is the money, not the field, as Tosafot notes. Carried over to “when a man takes a woman”, it could suggest she takes the money, cutting against the possession model.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "The kal va'chomer and its refutations: three kinds of acquisition compared",
+      "columns": [
+       "",
+       "Acquired with money?",
+       "Acquired through intercourse?",
+       "Feature raised against the comparison"
+      ],
+      "rows": [
+       [
+        "*Amah ivriyah*",
+        "Yes",
+        "No",
+        "Can be released with money (Rav Ashi)"
+       ],
+       [
+        "*Yevamah*",
+        "No",
+        "Yes",
+        "Cannot be acquired by a document"
+       ],
+       [
+        "A woman, for betrothal",
+        "What the *kal va'chomer* sets out to prove",
+        "Yes",
+        "Can be betrothed by document; cannot be released with money"
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "Why Both Verses: Who Keeps the Money, and Who Gives It",
+     "amud": "4b",
+     "text": {
+      "from": "4b.8",
+      "to": "4b.9"
+     },
+     "gist": "“When a man takes” alone would give her the money, and “*ein kesef*” alone would let her give money and betroth him; together, the man gives and, before *bagrut*, her father receives.",
+     "bullets": [
+      {
+       "text": "Only “when he takes”: the betrothal money the husband gives her would always be hers. “*Ein kesef*” teaches that before *bagrut* her father has the right to it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Only “*ein kesef*”: if she gave him money and betrothed him, it would be valid, since that verse doesn't say who gives to whom. “When he takes”, not “when she takes”: only a man betroths a woman.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Avraham and Efron are a two-party deal with no father in it; taken alone, that model suggests the woman is the party and keeps the money.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Rashi: the mistaken reading is that she hands him money and says “be betrothed to me”.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: “you are betrothed to me” is incoherent, since *kiddushin* changes her status, not his (he may still marry others). And since her father takes the money, Tosafot reads it as: he gives the money and she speaks the words, “I am betrothed to you”.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot's reading is not the plain sense. It exposes two models running through the *sugya*, the father's sale (“*ein kesef*”, the *amah ivriyah*) and the two-party deal (“when a man takes”, Avraham's field), which is why *kiddushei kesef* needs two verses.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "What each verse alone would imply, and what the other corrects",
+      "columns": [
+       "",
+       "Mistaken conclusion",
+       "Corrected by"
+      ],
+      "rows": [
+       [
+        "Only “when a man takes”",
+        "The betrothal money is always hers",
+        "“*Ein kesef*”: before *bagrut*, her father has the right to it"
+       ],
+       [
+        "Only “*ein kesef*”",
+        "She could give him money and betroth him",
+        "“When he takes”, not “when she takes”: only a man betroths"
+       ]
+      ]
+     },
+     "children": [],
+     "returns_to": [
+      {
+       "id": "s4",
+       "note": "Uses “*ein kesef*” again as the source of the father's right"
+      }
+     ],
+     "illustration": {
+      "caption": "The Gemara's reason for both verses (4b): each verse alone points the money in a wrong direction; together, the man gives and her father receives while she is not yet a bogeret.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>Three panels. First: a man gives money to a woman. Second: a woman gives money to a man. Third: a man's money passes over a na’arah to her father.</title><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='14' width='280' height='390' rx='14' fill='#E3EAF3'/><text x='155' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#1B3A8A'>Only “ki yikach”</text><use href='#man' x='45' y='110' width='60' height='120' style='color:#3E6FA8'/><use href='#woman' x='205' y='110' width='60' height='120' style='color:#A8436E'/><path d='M112 182 H190' stroke='#1B3A8A' stroke-width='3'/><path d='M200 182 l-12 -7 v14 z' fill='#1B3A8A'/><circle cx='155' cy='164' r='10' fill='#E0B04A' stroke='#9A6212' stroke-width='2'/><text x='75' y='255' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Man</text><text x='235' y='255' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Woman</text><text x='155' y='295' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>The money would be hers</text><text x='155' y='322' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>corrected by “ein kesef”:</text><text x='155' y='340' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>before bagrut, it is her father’s</text><rect x='310' y='14' width='280' height='390' rx='14' fill='#F3E6D8'/><text x='450' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#9A6212'>Only “ein kesef”</text><use href='#woman' x='340' y='110' width='60' height='120' style='color:#A8436E'/><use href='#man' x='500' y='110' width='60' height='120' style='color:#3E6FA8'/><path d='M407 182 H485' stroke='#9A6212' stroke-width='3'/><path d='M495 182 l-12 -7 v14 z' fill='#9A6212'/><circle cx='450' cy='164' r='10' fill='#E0B04A' stroke='#9A6212' stroke-width='2'/><text x='370' y='255' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Woman</text><text x='530' y='255' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Man</text><text x='450' y='295' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>She might give and betroth him</text><text x='450' y='322' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>corrected by “ki yikach”:</text><text x='450' y='340' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>“he takes”, not “she takes”</text><rect x='605' y='14' width='280' height='390' rx='14' fill='#E4EFE4'/><text x='745' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600' fill='#3C5A40'>Both verses</text><path d='M655 106 C680 72 810 72 835 106' fill='none' stroke='#3C5A40' stroke-width='3'/><path d='M839 110 l-12 -6 l8 -9 z' fill='#3C5A40'/><circle cx='745' cy='81' r='10' fill='#E0B04A' stroke='#9A6212' stroke-width='2'/><use href='#man' x='625' y='110' width='60' height='120' style='color:#3E6FA8'/><use href='#woman' x='715' y='110' width='60' height='120' style='color:#A8436E'/><use href='#man' x='805' y='110' width='60' height='120' style='color:#8C5A3C'/><text x='655' y='255' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Man</text><text x='745' y='255' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Na’arah</text><text x='835' y='255' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>Her father</text><text x='745' y='295' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>He gives; her father receives</text><text x='745' y='322' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>only a man betroths a woman</text><text x='450' y='428' text-anchor='middle' font-family='Public Sans, system-ui, sans-serif' font-size='12.5' fill='#5B6478'>Kiddushin 4b · why both verses are needed</text></svg>"
+     }
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "kiddushei kesef",
+   "hebrew": "קידושי כסף",
+   "sense": "betrothal effected with money",
+   "definition": "Betrothal effected when the man gives money or an item worth at least a perutah, with intent to betroth. It is one of the three modes of kiddushin, alongside a document and intercourse.",
+   "on_this_daf": "Two sources are set side by side: “ein kesef” from the Hebrew maidservant, which also gives a na'arah's betrothal money to her father, and “when a man takes” from Avraham's field, which makes the man the one who gives.",
+   "aliases": [
+    "Kiddushei Kesef",
+    "kiddushei kesef"
+   ],
+   "sections": [
+    "s5",
+    "s13",
+    "s15"
+   ]
+  },
+  {
+   "term": "na'arah",
+   "hebrew": "נערה",
+   "sense": "a girl in the half-year after puberty",
+   "definition": "A girl from the appearance of the signs of puberty (at twelve or later) until six months later, when she becomes a bogeret. She has some legal capacity of her own, but her father still controls her betrothal and her vows.",
+   "on_this_daf": "The Gemara establishes that her father keeps her betrothal money and her earnings even at this stage, and that a Hebrew maidservant goes free on reaching it.",
+   "aliases": [
+    "na'arah",
+    "Na'arah",
+    "na'arut",
+    "Na'arut"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s9",
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "term": "amah ivriyah",
+   "hebrew": "אמה העבריה",
+   "sense": "the Hebrew maidservant",
+   "definition": "A Jewish girl sold by her father while still a minor to serve as a maidservant. She goes free when she shows signs of puberty, among other ways, and her master or his son may designate her as a wife.",
+   "on_this_daf": "Her sale supplies the father's right to his daughter's earnings and betrothal money, her release at na'arut and bagrut is debated, and she is the base of the kal va'chomer that Rav Ashi refutes.",
+   "aliases": [
+    "amah ivriyah",
+    "Amah Ivriyah"
+   ],
+   "sections": [
+    "s2",
+    "s4",
+    "s6",
+    "s9",
+    "s12",
+    "s13",
+    "s14"
+   ]
+  },
+  {
+   "term": "ma'aseh yadeha",
+   "hebrew": "מעשה ידיה",
+   "sense": "a daughter's earnings",
+   "definition": "The earnings from a woman's work. A daughter's earnings belong to her father while she is a minor or na'arah, and a wife's belong to her husband in exchange for her support.",
+   "on_this_daf": "Rav Huna learns the father's right from the maidservant verse, and the Gemara explains why earnings and betrothal money each need their own verse.",
+   "aliases": [
+    "ma'aseh yadeha"
+   ],
+   "sections": [
+    "s2",
+    "s8"
+   ]
+  },
+  {
+   "term": "hafarat nedarim",
+   "hebrew": "הפרת נדרים",
+   "sense": "annulment of a daughter's or wife's vows",
+   "definition": "The power of a father over his daughter, or a husband over his wife, to annul her vows on the day he hears of them.",
+   "on_this_daf": "“In her youth, in her father's house” is limited to it, and a betrothed na'arah's vows need her father and husband together, which counts as her partial departure from her father.",
+   "aliases": [
+    "hafarat nedarim"
+   ],
+   "sections": [
+    "s2",
+    "s5"
+   ]
+  },
+  {
+   "term": "knas",
+   "hebrew": "קנס",
+   "sense": "a penal fine",
+   "definition": "A fixed payment the Torah imposes beyond actual damages, such as the fine paid by a rapist or seducer. Fines follow their own rules, so ordinary monetary law is not learned from them.",
+   "on_this_daf": "The rapist's fine goes to the father but can't teach that betrothal money does; boshet and pegam, which are real compensation, are distinguished on other grounds.",
+   "aliases": [
+    "knas"
+   ],
+   "sections": [
+    "s1",
+    "s3"
+   ]
+  },
+  {
+   "term": "aylonit",
+   "hebrew": "איילונית",
+   "sense": "a woman who never develops signs of puberty",
+   "definition": "A woman who never develops the signs of puberty and is presumed unable to bear children. She remains legally a minor until twenty and then becomes an adult without passing through the stage of na'arah.",
+   "on_this_daf": "Abaye says the verse frees her at bagrut; Mar bar Rav Ashi says that follows by kal va'chomer, and the verse teaches that she may be sold as a maidservant at all.",
+   "aliases": [
+    "aylonit",
+    "Aylonit"
+   ],
+   "sections": [
+    "s9",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "term": "kal va'chomer",
+   "hebrew": "קל וחומר",
+   "sense": "a fortiori inference",
+   "definition": "An a fortiori inference: if a law holds in the less likely case, it surely holds in the more likely one. It is refuted by showing a feature of the source case that the target case lacks.",
+   "on_this_daf": "It decides whether a verse is needed: for the sachir, the aylonit's release, and betrothal with money, where Rav Ashi refutes it because the maidservant, unlike a wife, is released with money.",
+   "aliases": [
+    "kal va'chomer",
+    "Kal Va'chomer"
+   ],
+   "sections": [
+    "s9",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "Kept 3b.8–4a.10 as one top-level discussion (the father's right to a na'arah's betrothal money). The extra-yod exchange (s6) could stand alone, but it defends the very verse s4 relies on, so it sits under the same question.",
+  "The closing ‘both verses needed’ step on betrothal money vs. earnings (s8) could be its own top-level section; kept as the last child of s1 because it resolves Rav Huna's opening question, with a returns_to link to s2.",
+  "The na'arut/bagrut discussion (s9) returns to the baraita quoted in s6 and could be nested there; made top-level because it is a self-contained three-amora discussion unrelated to the father's money, linked by returns_to.",
+  "Line 3b.9 holds both Rav Huna's answer and the rejection of learning money from vows; placed the vows rejection in s2 rather than with the fine and boshet (s3), since the lines can't be split and it follows directly from limiting ‘in her youth’ to vows.",
+  "The shiur's discussion of whether a na'arah can betroth herself (Rambam vs. others) was delivered after 4a.10; attached it to s4, where the Gemara's premise of a self-betrothing na'arah is addressed.",
+  "The ki yikach ‘both verses’ step (s15) could be top-level; kept under s13 as the conclusion of the baraita's derivation."
+ ],
+ "coverage_notes": [
+  "The shiur opens with the na'arah question and the answer from ‘in her youth, in her father's house’ / ‘all the benefit of her youth goes to her father’ (3b.6–3b.7), which fall before this daf's scope; left out.",
+  "The essay presents the father's stake in boshet and pegam through a ‘lost profit on the marriage market’ reading of Rashi; the text explains the stake as his ability to humiliate and devalue her himself, e.g. by marrying her to a man afflicted with boils. The Gemara bullet follows the text; the lecturer's framing is kept as a shiur bullet.",
+  "The essay says, after Ravina, that ‘both pesukim are necessary: ein kesef (father receives money) and freedom at na'arut’; the text at 4a.9–4a.10 is about needing separate verses for betrothal money and for earnings. Followed the text.",
+  "The essay has Rabba say a single phrase would be applied to the ‘more extreme’ stage; the text calls bagrut the lesser novelty. Followed the text.",
+  "The essay describes ki yikach as anchoring kiddushei kesef once the kal va'chomer from the amah ivriyah is restored; the text has Rav Ashi refute that kal va'chomer from the outset (the maidservant is released with money, a wife is not), which is why the verse is needed. Followed the text, and kept the lecturer's asymmetry analysis as a shiur bullet beside Rav Ashi.",
+  "The segmentation and essay write ‘Rabina’ and ‘Abbaye’; the text has Ravina and Abaye. Followed the text.",
+  "Not discussed in the shiur but outlined from the text within covered sections: the tanna's proof that the yod is superfluous from ‘Balaam refuses’ and ‘my yavam refuses’ (4a.8), and the answer on why Mar bar Rav Ashi doesn't invoke ‘a verse sometimes writes out a kal va'chomer’ (4b.2).",
+  "Scope ends at 4b.9; the baraita's derivation of acquisition through intercourse (4b.10–4b.13) belongs to the next outline and is noted in s13's continues."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s8",
+    "subject": "Betrothal money vs. earnings: why each needs its own verse",
+    "why_not": "Two rows with one reason each; the bullets carry it, and s15 already has the same chart form."
+   },
+   {
+    "section": "s7",
+    "subject": "Zera ein lah: grandchildren vs. flawed lineage",
+    "why_not": "A single derivation with one challenge; no grid."
+   },
+   {
+    "section": "s3",
+    "subject": "Knas vs. boshet and pegam",
+    "why_not": "Already captured in the s1 chart of candidate sources."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s14",
+    "subject": "The kal va'chomer triangle of amah ivriyah, yevamah and wife",
+    "why_not": "The chart lays out the same comparison more clearly than a picture."
+   },
+   {
+    "section": "s3",
+    "subject": "Boshet and pegam paid to the father",
+    "why_not": "A sensitive subject with nothing physical to show; the chart and bullets suffice."
+   },
+   {
+    "section": "s7",
+    "subject": "A kohen's daughter returning to her father's house to eat terumah",
+    "why_not": "The extra-yod picture in s6 already covers the method this passage serves."
+   }
+  ]
+ }
+}

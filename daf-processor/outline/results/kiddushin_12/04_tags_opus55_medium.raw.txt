@@ -1,0 +1,30 @@
+{"charts": {
+  "s8a": null,
+  "s8b": null,
+  "s9": [
+    [null, null, null, null],
+    [null, null, "not-effective", null],
+    [null, null, "not-effective", null],
+    [null, null, "effective", null]
+  ],
+  "s17": [
+    [null, null, null],
+    [null, null, null],
+    [null, null, null],
+    [null, null, null],
+    [null, null, null],
+    [null, null, null],
+    [null, null, null],
+    [null, null, null]
+  ]
+}, "tag_questions": [
+  {"section": "s9", "cell": "row 1, col 3 ('Possibly betrothed: it may be worth a perutah in Media')", "note": "Uncertain/possible betrothal (safek kiddushin) doesn't fit 'effective' or 'not-effective' cleanly; may need a new tag for doubtful status."},
+  {"section": "s17", "cell": "row 1, col 3 ('Not flogged')", "note": "Outcome is about corporal punishment (flogged/not flogged), which has no corresponding tag in the closed list."},
+  {"section": "s17", "cell": "row 2, col 3 ('Flogged if without shiddukhin; some say even with')", "note": "Same flogging outcome, no fitting tag."},
+  {"section": "s17", "cell": "row 3, col 3 ('Flogged only together with intercourse')", "note": "Same flogging outcome, no fitting tag."},
+  {"section": "s17", "cell": "row 4, col 3 ('Not flogged')", "note": "Flogging outcome, no fitting tag."},
+  {"section": "s17", "cell": "row 5, col 3 ('Not flogged')", "note": "Flogging outcome, no fitting tag."},
+  {"section": "s17", "cell": "row 6, col 3 ('Not flogged')", "note": "Flogging outcome, no fitting tag."},
+  {"section": "s17", "cell": "row 7, col 3 ('Not flogged')", "note": "Flogging outcome, no fitting tag."},
+  {"section": "s17", "cell": "row 8, col 3 ('Not flogged')", "note": "Flogging outcome, no fitting tag."}
+]}

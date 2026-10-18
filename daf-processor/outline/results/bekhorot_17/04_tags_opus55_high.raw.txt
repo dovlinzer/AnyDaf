@@ -1,0 +1,18 @@
+{"charts": {
+"s6": [
+[null, "effective", "effective", "effective"],
+[null, "not-effective", "exempt", null]
+],
+"s12": [
+[null, null, null, "permitted"],
+[null, null, null, "invalid"],
+[null, null, null, "not-effective"],
+[null, null, null, "invalid"]
+],
+"s17": [
+[null, "takes", "divides:1/2,1/2"],
+[null, "takes", "keeps"]
+],
+"s20": null
+},
+"tag_questions": []}

@@ -1,0 +1,15 @@
+{"charts": {
+  "s1": [
+    [null, "forbidden", "forbidden", "forbidden", "forbidden", "forbidden", "forbidden"],
+    [null, "forbidden", "forbidden", "forbidden", "forbidden", "permitted", "forbidden"]
+  ],
+  "s3": [
+    [null, null, null, null],
+    [null, null, null, null],
+    [null, null, null, "forbidden"]
+  ],
+  "s7": null
+},
+"tag_questions": [
+  {"section": "s3", "cell": "row 1 (Ben pekua), column 'Outcome here'", "note": "Cell records two opposing amoraic rulings (Mar Zutra: may not redeem; Rav Ashi: may) in a single cell, so no single outcome tag applies."}
+]}

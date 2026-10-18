@@ -1,0 +1,15 @@
+{"charts": {
+  "s7": [
+    [null, "not-effective", "not-effective"],
+    [null, "effective", "not-effective"],
+    [null, "effective", "effective"]
+  ],
+  "s9": [
+    [null, "effective", "not-effective", "effective"],
+    [null, "not-effective", "effective", "effective"]
+  ],
+  "s16": [
+    [null, "not-acquired", "not-effective", "effective"],
+    [null, "acquires", "not-effective", "effective"]
+  ]
+}, "tag_questions": []}

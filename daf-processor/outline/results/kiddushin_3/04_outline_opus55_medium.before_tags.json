@@ -1,0 +1,686 @@
+{
+ "daf": "Kiddushin 3",
+ "scope": {
+  "start": "2b: why money and a document are also called 'ways' (mid-discussion of *derakhim* vs. *devarim*)",
+  "end": "3b: a *na'arah*'s betrothal money and 'in her youth, in her father's house' (Bamidbar 30:17)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "'Ways' Rather Than 'Matters': Bi'ah, R. Shimon, Nature, or Distinction?",
+   "amud": "2b–3a",
+   "text": {
+    "from": "2b.11",
+    "to": "3a.3"
+   },
+   "gist": "Continuing the question of why the Mishnah says 'ways' (*derakhim*) and not 'matters' (*devarim*): *bi'ah* and what serves it, R. Shimon's lost-item parable, natural causes in the *zav* and *etrog* Mishnayot, and finally the rule that 'ways' marks a distinction.",
+   "bullets": [],
+   "chart": {
+    "caption": "How the Gemara accounts for 'ways' in each Mishnah it cites",
+    "columns": [
+     "Mishnah",
+     "Wording",
+     "How the Gemara accounts for it"
+    ],
+    "rows": [
+     [
+      "Kiddushin: a woman is acquired",
+      "Three ways",
+      "*Bi'ah* is a 'way', and money and document serve *bi'ah*; or R. Shimon: a man's way is to pursue a woman"
+     ],
+     [
+      "Examining a *zav*",
+      "Seven ways",
+      "Excess eating and drinking by their way lead to *zivah*"
+     ],
+     [
+      "*Etrog* (Bikkurim 2:6)",
+      "Like a tree in three ways, like a vegetable in one",
+      "The *etrog*'s way is like a vegetable's: watered by all water, tithed by harvest"
+     ],
+     [
+      "*Koy* (Bikkurim 2:8)",
+      "Ways like a wild animal, a domesticated one, both, neither",
+      "Nothing in the topic explains it; it challenges the approach"
+     ],
+     [
+      "Bills of divorce (Gittin)",
+      "One of the ways they are like bills of manumission",
+      "Nothing in the topic explains it; it challenges the approach"
+     ],
+     [
+      "R. Eliezer on the *etrog*",
+      "Like a tree in every matter",
+      "The rule: no distinction, so 'matter'"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "Money and Document Named for Bi'ah: All Three Serve the Union",
+     "amud": "2b",
+     "text": {
+      "from": "2b.11",
+      "to": "2b.12"
+     },
+     "gist": "'Way' suits only *bi'ah*, but the Mishnah uses it for all three modes, because money and document too exist for the sake of *bi'ah*.",
+     "bullets": [
+      {
+       "text": "The Gemara asks: 'way' fits *bi'ah*, but why call money and a document 'ways'? Answer: since *bi'ah* had to be listed, and it is called a way, the Mishnah used that word for all three.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Challenge: would the Mishnah phrase two cases to suit one? Answer: money and document are also for the sake of *bi'ah*, since the marital union is what betrothal is for.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Two models of *kiddushin* meet here. The *kinyan* model (acquisition, the woman as object, derived by *kicha kicha* from Ephron's field) and the *bi'ah* model (natural union). The Gemara lets both stand in tension instead of choosing one.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "A parallel to *nikneit*: a term that strictly fits one mode (acquisition language for money, 'way' for *bi'ah*) is made to frame the whole institution.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Rashi's teachers, the Geonim and the Rambam treat *kiddushei kesef* as rabbinic. On that view *bi'ah* may be the primary Torah mode, and money and document serve it. Then this answer is a claim about how *kiddushin* is built, not only about wording.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "R. Shimon: A Man Seeks His Lost Side",
+     "amud": "2b",
+     "text": {
+      "from": "2b.13",
+      "to": "2b.13"
+     },
+     "gist": "Alternatively the Mishnah follows R. Shimon: the Torah says 'when a man takes' because it is a man's way to pursue a woman, as an owner searches for his lost item.",
+     "bullets": [
+      {
+       "text": "The Mishnah may follow R. Shimon's *baraita*: why does the Torah say “when a man takes a woman” (Devarim 22:13) and not “when a woman is taken by a man”? Because it is the way of a man to pursue a woman, not the way of a woman to pursue a man.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Parable: when someone loses an item, the owner searches for his lost item, not the reverse. Woman was formed from man's side, so the man seeks what he lost. The Mishnah's 'way' alludes to this.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *aveidah* image keeps a possessive note, but a lost part of oneself is not a commodity; it is something one is incomplete without, as in “and they shall become one flesh”. The picture moves from purchase to restoration.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The man is the active party in *kiddushin* not because the woman is a passive object, but because he is the one searching: longing, not domination.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "R. Shimon's parable (Kiddushin 2b): the owner searches for his lost item, so the man, from whose side woman was formed, is the one who seeks.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a man searching for a lost pouch on the ground. Right: a man going toward a woman. The way of a man is to pursue a woman.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">R. Shimon: why “when a man takes a woman”?</text><text x=\"450\" y=\"66\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#5A4A3A\">כי יקח איש אשה</text><rect x=\"20\" y=\"86\" width=\"420\" height=\"294\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"230\" y=\"116\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">The parable</text><use href=\"#man\" x=\"100\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><path d=\"M176 220 Q240 232 276 280\" fill=\"none\" stroke=\"#5B6478\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><ellipse cx=\"300\" cy=\"292\" rx=\"22\" ry=\"12\" fill=\"#9A7440\"/><path d=\"M290 283 q10 -12 20 0\" fill=\"none\" stroke=\"#6E5230\" stroke-width=\"3\"/><text x=\"300\" y=\"322\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">lost item</text><text x=\"230\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">The owner searches for his lost item,</text><text x=\"230\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">not the item for its owner</text><rect x=\"460\" y=\"86\" width=\"420\" height=\"294\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"116\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">The teaching</text><use href=\"#man\" x=\"510\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"760\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#A8436E\"/><path d=\"M596 236 H738\" stroke=\"#9A6212\" stroke-width=\"3\"/><path d=\"M748 236 l-12 -7 v14 z\" fill=\"#9A6212\"/><text x=\"668\" y=\"224\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#9A6212\">seeks</text><text x=\"670\" y=\"350\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">Woman was formed from man’s side,</text><text x=\"670\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">so the man seeks what he lost</text><text x=\"450\" y=\"414\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A4A3A\">It is the way of a man to pursue a woman, and not the way of a woman to pursue a man</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Zav and Etrog: 'Ways' as How Things Naturally Work",
+     "amud": "2b–3a",
+     "text": {
+      "from": "2b.14",
+      "to": "3a.1"
+     },
+     "gist": "Other Mishnayot say 'ways' to signal natural processes: what brings on *zivah*, and how an *etrog* grows and is tithed like a vegetable.",
+     "bullets": [
+      {
+       "text": "Challenge: “one examines a *zav* in seven ways” — why not 'matters'? Answer: it teaches that excess eating and excess drinking by their way lead to *zivah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Bikkurim 2:6: the *etrog* is like a tree in three ways. Why 'ways'? Because the next clause says it is like a vegetable in one way. And why 'way' there? Because the *etrog*'s way is like a vegetable's: it needs all water (irrigation, not only rain), and it is tithed by the time of harvest.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So a vegetable picked in a year of poor man's tithe takes that tithe even if it budded in a year of second tithe, and the same holds for an *etrog*.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: the *etrog*'s likeness to a tree covers *orlah* and *neta reva'i*; its likeness to a vegetable is that its *ma'aser* follows the picking.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "'Way' here signals natural operation, not an arbitrary list. Carried back to *kiddushin*, *bi'ah* is the most natural mode: the Rambam notes that before the Torah, a couple married simply by coming together.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Bikkurim 2:6 as the Gemara reads it (Kiddushin 3a): the *etrog* is like a tree in three ways and like a vegetable in one, since like a vegetable it needs all water and is tithed by harvest.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>An etrog in the center, with an arrow to a tree on the left marked three ways and an arrow to a vegetable on the right marked one way.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Bikkurim 2:6: the etrog between tree and vegetable</text><rect x=\"140\" y=\"160\" width=\"22\" height=\"120\" fill=\"#7A5A3A\"/><circle cx=\"151\" cy=\"140\" r=\"62\" fill=\"#6E8F55\"/><rect x=\"60\" y=\"278\" width=\"190\" height=\"10\" fill=\"#B08C62\"/><text x=\"151\" y=\"318\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Tree</text><text x=\"151\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1B3A8A\">like a tree in three ways</text><path d=\"M388 150 L234 150\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><path d=\"M224 150 l12 -7 v14 z\" fill=\"#1B3A8A\"/><text x=\"310\" y=\"138\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1B3A8A\">3 ways</text><ellipse cx=\"450\" cy=\"190\" rx=\"58\" ry=\"42\" fill=\"#E8C547\" stroke=\"#B8962A\" stroke-width=\"2\"/><circle cx=\"508\" cy=\"190\" r=\"5\" fill=\"#B8962A\"/><path d=\"M392 196 q-14 -18 -30 -14 q10 16 30 14 z\" fill=\"#6E8F55\"/><text x=\"450\" y=\"268\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Etrog</text><text x=\"450\" y=\"292\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#5A4A3A\">אתרוג</text><path d=\"M512 150 L666 150\" stroke=\"#9A6212\" stroke-width=\"3\"/><path d=\"M676 150 l-12 -7 v14 z\" fill=\"#9A6212\"/><text x=\"590\" y=\"138\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">1 way</text><path d=\"M720 180 q-8 12 0 16 q8 -4 0 -16 z\" fill=\"#6FA3C8\"/><path d=\"M752 168 q-8 12 0 16 q8 -4 0 -16 z\" fill=\"#6FA3C8\"/><path d=\"M784 180 q-8 12 0 16 q8 -4 0 -16 z\" fill=\"#6FA3C8\"/><ellipse cx=\"710\" cy=\"258\" rx=\"24\" ry=\"20\" fill=\"#6E8F55\"/><ellipse cx=\"750\" cy=\"250\" rx=\"26\" ry=\"28\" fill=\"#7FA366\"/><ellipse cx=\"790\" cy=\"258\" rx=\"24\" ry=\"20\" fill=\"#6E8F55\"/><rect x=\"660\" y=\"278\" width=\"180\" height=\"10\" fill=\"#B08C62\"/><text x=\"750\" y=\"318\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">Vegetable</text><text x=\"750\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#9A6212\">like a vegetable in one way</text><rect x=\"120\" y=\"362\" width=\"660\" height=\"62\" rx=\"12\" fill=\"#F3E6D8\"/><text x=\"450\" y=\"387\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">The way of an etrog is like a vegetable’s:</text><text x=\"450\" y=\"409\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">watered by all water, and tithed by when it is harvested</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "Koy and Divorce Bills: 'Ways' Wherever There Is a Distinction",
+     "amud": "3a",
+     "text": {
+      "from": "3a.2",
+      "to": "3a.3"
+     },
+     "gist": "The *koy* and the bills-of-divorce Mishnayot have no topical reason for 'ways', so the Gemara adopts a general rule: 'ways' where there is a distinction, 'matters' where there is none, proven from R. Eliezer.",
+     "bullets": [
+      {
+       "text": "Challenge: Bikkurim 2:8 says the *koy* has ways like a wild animal, ways like a domesticated animal, ways like both and ways like neither. And a Mishnah in Gittin says “this is one of the ways bills of divorce are like bills of manumission.” Why not 'matters' there?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rather: wherever there is a distinction, the Mishnah says 'ways'; where there is none, it says 'matters'.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Proof: R. Eliezer says the *etrog* is like a tree “in every matter”. No distinction, so 'matter'. Learn from it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Applied to our Mishnah, 'three ways' means these three and no others, which sets up the next question: what is being excluded?",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Right after invoking natural order, the Gemara brings hybrids: the *etrog*, part tree and part vegetable, and the *koy*. Nature itself is full of in-between cases.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Rav Sherira Gaon notes that tractates often open with Tannaitic material gathered around questions of wording. Such passages introduce a tractate's key concepts and competing models; compare the opening of Bava Kama on *toladot* and *avot*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "The Gemara's rule (Kiddushin 3a): 'ways' where cases divide, as with the *etrog*, the *koy* and bills of divorce; 'matters' where they don't, as in R. Eliezer's “in every matter”.",
+      "svg": "<svg viewBox=\"0 0 900 430\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a forking road labeled ways, with the etrog, koy and bills of divorce. Right: a straight road labeled matters, with R. Eliezer's statement.</title><rect width=\"900\" height=\"430\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">Rather: “ways” wherever there is a distinction</text><rect x=\"20\" y=\"60\" width=\"530\" height=\"340\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"285\" y=\"92\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\">Ways: where there is a distinction</text><text x=\"285\" y=\"118\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#3A5692\">דרכים</text><path d=\"M44 262 H120 M120 262 L200 192 M120 262 H200 M120 262 L200 332\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"10\" stroke-linecap=\"round\"/><text x=\"222\" y=\"188\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Etrog: like a tree in three ways,</text><text x=\"222\" y=\"206\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">like a vegetable in one way</text><text x=\"222\" y=\"258\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Koy: like a wild animal, like a</text><text x=\"222\" y=\"276\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">domesticated one, like both, like neither</text><text x=\"222\" y=\"328\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">Bills of divorce: like bills of</text><text x=\"222\" y=\"346\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\">manumission in one of the ways</text><rect x=\"570\" y=\"60\" width=\"310\" height=\"340\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"725\" y=\"92\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\">Matters: no distinction</text><text x=\"725\" y=\"118\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">דברים</text><path d=\"M604 232 H846\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"10\" stroke-linecap=\"round\"/><text x=\"725\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">R. Eliezer: the etrog is like</text><text x=\"725\" y=\"314\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">a tree in every matter</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s6",
+   "title": "What the Numbers Exclude: Chuppah, Chalipin, Chalitzah",
+   "amud": "3a–3b",
+   "text": {
+    "from": "3a.4",
+    "to": "3b.3"
+   },
+   "gist": "'Three ways' excludes *chuppah*, or for Rav Huna *chalipin*, which works below a *perutah*; 'two ways' excludes *chalitzah*, ruled out by 'a scroll of severance'.",
+   "bullets": [],
+   "illustration": {
+    "caption": "The Mishnah's numbers as the Gemara reads them (Kiddushin 3a–3b): three ways of acquisition, excluding *chuppah* (or, for Rav Huna, *chalipin*); two ways out, excluding *chalitzah*.",
+    "svg": "<svg viewBox=\"0 0 900 470\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Top row: money, document and bi'ah marked valid; chuppah and chalipin marked excluded. Bottom row: bill of divorce and husband's death valid; chalitzah excluded.</title><rect width=\"900\" height=\"470\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"34\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">What the Mishnah’s numbers include and exclude</text><text x=\"20\" y=\"76\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">A woman is acquired in three ways</text><text x=\"720\" y=\"76\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Excluded by the number</text><rect x=\"20\" y=\"90\" width=\"160\" height=\"120\" rx=\"12\" fill=\"#E4EFE4\"/><circle cx=\"80\" cy=\"138\" r=\"14\" fill=\"#D9B45A\" stroke=\"#9A7440\" stroke-width=\"2\"/><circle cx=\"106\" cy=\"144\" r=\"14\" fill=\"#D9B45A\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"146\" y=\"96\" width=\"28\" height=\"28\"/><text x=\"100\" y=\"190\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Money (kesef)</text><rect x=\"195\" y=\"90\" width=\"160\" height=\"120\" rx=\"12\" fill=\"#E4EFE4\"/><rect x=\"245\" y=\"118\" width=\"60\" height=\"42\" rx=\"4\" fill=\"#F5EEDD\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><path d=\"M253 130 H297 M253 140 H297 M253 150 H285\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"321\" y=\"96\" width=\"28\" height=\"28\"/><text x=\"275\" y=\"190\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Document</text><rect x=\"370\" y=\"90\" width=\"160\" height=\"120\" rx=\"12\" fill=\"#E4EFE4\"/><circle cx=\"438\" cy=\"140\" r=\"16\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"4\"/><circle cx=\"462\" cy=\"140\" r=\"16\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"4\"/><use href=\"#mark-ok\" x=\"496\" y=\"96\" width=\"28\" height=\"28\"/><text x=\"450\" y=\"190\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Bi'ah</text><line x1=\"545\" y1=\"90\" x2=\"545\" y2=\"390\" stroke=\"#C9C1B2\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><rect x=\"555\" y=\"90\" width=\"160\" height=\"120\" rx=\"12\" fill=\"#F3E6D8\"/><path d=\"M585 118 Q630 104 675 118 V124 H585 Z\" fill=\"#C9A96E\"/><rect x=\"590\" y=\"122\" width=\"4\" height=\"46\" fill=\"#7A5A3A\"/><rect x=\"666\" y=\"122\" width=\"4\" height=\"46\" fill=\"#7A5A3A\"/><use href=\"#mark-no\" x=\"681\" y=\"96\" width=\"28\" height=\"28\"/><text x=\"635\" y=\"188\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">Chuppah</text><text x=\"635\" y=\"204\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">Rav Huna: it acquires</text><rect x=\"730\" y=\"90\" width=\"160\" height=\"120\" rx=\"12\" fill=\"#F3E6D8\"/><path d=\"M780 118 H840 V160 H780 Z\" fill=\"#E4D8C0\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><path d=\"M780 118 L840 160\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"856\" y=\"96\" width=\"28\" height=\"28\"/><text x=\"810\" y=\"188\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">Chalipin</text><text x=\"810\" y=\"204\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" fill=\"#5B6478\">excluded per Rav Huna</text><text x=\"20\" y=\"256\" font-family=\"Newsreader, Georgia, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">She acquires herself in two ways</text><text x=\"720\" y=\"256\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Excluded by the number</text><rect x=\"20\" y=\"270\" width=\"160\" height=\"120\" rx=\"12\" fill=\"#E4EFE4\"/><rect x=\"70\" y=\"298\" width=\"60\" height=\"42\" rx=\"4\" fill=\"#F5EEDD\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><path d=\"M78 310 H122 M78 320 H122 M78 330 H110\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"146\" y=\"276\" width=\"28\" height=\"28\"/><text x=\"100\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Bill of divorce</text><rect x=\"195\" y=\"270\" width=\"160\" height=\"120\" rx=\"12\" fill=\"#E4EFE4\"/><path d=\"M255 342 V308 Q275 288 295 308 V342 Z\" fill=\"#A8A39C\"/><use href=\"#mark-ok\" x=\"321\" y=\"276\" width=\"28\" height=\"28\"/><text x=\"275\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Husband’s death</text><rect x=\"555\" y=\"270\" width=\"160\" height=\"120\" rx=\"12\" fill=\"#F3E6D8\"/><ellipse cx=\"632\" cy=\"322\" rx=\"34\" ry=\"14\" fill=\"#8A6A4A\"/><path d=\"M612 316 q20 -18 40 0\" stroke=\"#5A4030\" stroke-width=\"4\" fill=\"none\"/><use href=\"#mark-no\" x=\"681\" y=\"276\" width=\"28\" height=\"28\"/><text x=\"635\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#8C2F2F\">Chalitzah</text><text x=\"450\" y=\"432\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#5B6478\">Chalitzah is excluded by “sefer keritut”: only a document severs a wife</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s7",
+     "title": "Three Ways Excludes Chuppah, but Rav Huna Says Chuppah Acquires",
+     "amud": "3a",
+     "text": {
+      "from": "3a.4",
+      "to": "3a.5"
+     },
+     "gist": "The Gemara asks what each number excludes; the first excludes *chuppah*, which leaves Rav Huna, who holds *chuppah* acquires, needing another answer.",
+     "bullets": [
+      {
+       "text": "The Gemara asks: the number in the first clause (acquired in three ways) excludes what? And the number in the latter clause (acquires herself in two ways) excludes what?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The first number excludes *chuppah*: the wedding canopy does not effect betrothal.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi frames the case as a father handing his daughter over to the *chuppah*, perhaps because merely standing under a canopy is hard to see as a legal act.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "But Rav Huna holds that *chuppah* acquires, derived by a *kal va'chomer* (see 5a). On his view, what does the number exclude?",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "Chalipin: Works Below a Perutah; Demeaning (Rashi) or Not Kesef (Tosafot)?",
+     "amud": "3a–3b",
+     "text": {
+      "from": "3a.6",
+      "to": "3b.1"
+     },
+     "gist": "For Rav Huna the number excludes *chalipin*, which *kicha kicha* might have carried over from Ephron's field; it fails because it works with less than a *perutah*, read by Rashi as demeaning and by Tosafot as proof it is not *kesef*.",
+     "bullets": [
+      {
+       "text": "It excludes *chalipin*. One might have thought: betrothal is learned from Ephron's field by the verbal analogy of 'taking' (*kicha kicha*), and a field is acquired by *chalipin*, so a woman would be too. The *tanna* teaches that she is not.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why not? *Chalipin* works with an item worth less than a *perutah*, and a woman does not give herself over for less than a *perutah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Two kinds of *chalipin*: real barter (a donkey for a cow), and a symbolic act (taking a cloth) that expresses *gemar da'at*, closer to a handshake.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Rashi: *genai hu lah*, it is demeaning to her. The problem is the transaction type itself, indifferent to value, not the chance of a cheap object. The same valuable item works when given as *kesef* but not when framed as an exchange, because exchange turns her into a commodity.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Even the symbolic, *gemar da'at* form of *chalipin* keeps the root logic of swap, which is what clashes with *kiddushin*.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: the question was only whether *chalipin* is a kind of *kesef*. *Kesef* works by value and needs a *perutah*; *chalipin* works by the object (a vessel, not fruit) regardless of value. Since it works below a *perutah*, it is not *kesef*, and only the three ways betroth.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot object to Rashi: if she consents, how is it demeaning? Rashi must hold that the indignity is objective, in the transaction type, not in her feelings.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "Why *chalipin* can't betroth: Rashi and Tosafot",
+      "columns": [
+       "",
+       "What the Gemara first assumed",
+       "Why 'less than a *perutah*' defeats it",
+       "Kind of problem"
+      ],
+      "rows": [
+       [
+        "Rashi",
+        "Whatever acquires a field (via *kicha kicha*) should acquire a woman",
+        "She will not be acquired by a transaction indifferent to value; *genai hu lah*",
+        "Dignity: exchange commodifies her"
+       ],
+       [
+        "Tosafot",
+        "*Chalipin* might be a species of *kesef*",
+        "*Chalipin* works by the object, *kesef* by value, so *chalipin* is not *kesef*",
+        "Classification: a different legal instrument"
+       ]
+      ]
+     },
+     "illustration": {
+      "caption": "The same act of giving under two frameworks (Kiddushin 3a–3b): *kesef* needs the worth of a *perutah*; *chalipin* works even below it, and so cannot betroth.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a man hands a woman a coin as kesef; she is betrothed. Right: a man hands a woman a cloth as chalipin; it is not a way of betrothal.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">One act of giving, two frameworks</text><rect x=\"20\" y=\"56\" width=\"420\" height=\"350\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"230\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#24592E\">Money (kesef)</text><use href=\"#man\" x=\"70\" y=\"104\" width=\"64\" height=\"128\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"300\" y=\"104\" width=\"64\" height=\"128\" style=\"color:#A8436E\"/><circle cx=\"215\" cy=\"172\" r=\"12\" fill=\"#D9B45A\" stroke=\"#9A7440\" stroke-width=\"2\"/><path d=\"M148 200 H276\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M286 200 l-12 -7 v14 z\" fill=\"#5B6478\"/><text x=\"230\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">Must be worth at least a perutah</text><text x=\"230\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">(Tosafot: kesef works by value)</text><use href=\"#mark-ok\" x=\"140\" y=\"322\" width=\"30\" height=\"30\"/><text x=\"180\" y=\"343\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">She is betrothed</text><rect x=\"460\" y=\"56\" width=\"420\" height=\"350\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"86\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#8C2F2F\">Symbolic exchange (chalipin)</text><use href=\"#man\" x=\"510\" y=\"104\" width=\"64\" height=\"128\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"740\" y=\"104\" width=\"64\" height=\"128\" style=\"color:#A8436E\"/><rect x=\"640\" y=\"160\" width=\"30\" height=\"24\" fill=\"#E4D8C0\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><path d=\"M588 200 H716\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M726 200 l-12 -7 v14 z\" fill=\"#5B6478\"/><text x=\"670\" y=\"254\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">Works even with less than a perutah;</text><text x=\"670\" y=\"274\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">she does not give herself for less</text><text x=\"670\" y=\"296\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">(Rashi: it is demeaning to her)</text><use href=\"#mark-no\" x=\"552\" y=\"322\" width=\"30\" height=\"30\"/><text x=\"592\" y=\"343\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">Not a way of betrothal</text><text x=\"450\" y=\"428\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" fill=\"#5B6478\">Kiddushin 3a–3b</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s9",
+     "title": "Two Ways Excludes Chalitzah: Kal Va'chomer vs. Sefer Keritut",
+     "amud": "3b",
+     "text": {
+      "from": "3b.2",
+      "to": "3b.3"
+     },
+     "gist": "A *kal va'chomer* from the *yevamah* would let *chalitzah* free a married woman; the verse 'a scroll of severance' says only a document does.",
+     "bullets": [
+      {
+       "text": "The Mishnah's two ways out are a bill of divorce and the husband's death.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The number in the latter clause excludes *chalitzah*. One might argue *kal va'chomer*: a *yevamah*, who is not released by a bill of divorce, is released by *chalitzah*; a married woman, who is released by a bill of divorce, surely is released by *chalitzah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Why not? The verse says “a scroll of severance” (Devarim 24:3): a document severs her, and nothing else does.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The argument is formally built but intuitively strained: *chalitzah* belongs to the specific levirate bond (“thus shall be done to the man who will not build his brother's house”). Still, the Gemara follows the *kal va'chomer* through and needs a verse to stop it.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot explore further *kal va'chomer* arguments that could have been raised, and the Atzmot Yosef carries this further still; the limit is always a verse or a real mismatch between the cases.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "The *kal va'chomer* for *chalitzah* and where it breaks",
+      "columns": [
+       "",
+       "Bill of divorce",
+       "*Chalitzah*"
+      ],
+      "rows": [
+       [
+        "*Yevamah*",
+        "Does not release her",
+        "Releases her"
+       ],
+       [
+        "Married woman",
+        "Releases her",
+        "The *kal va'chomer* would say it releases her; “a scroll of severance” says it does not"
+       ]
+      ]
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "title": "Kesef: Its Source, and Why the Father Keeps the Money",
+   "amud": "3b → 4a",
+   "text": {
+    "from": "3b.4",
+    "to": "3b.7"
+   },
+   "gist": "Where money-betrothal comes from and why a daughter's betrothal money is her father's: *ein kesef*, 'I gave my daughter to this man', and the challenge of the *na'arah*.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s11",
+     "title": "Ein Kesef: No Money for This Master, Money for Another",
+     "amud": "3b",
+     "text": {
+      "from": "3b.4",
+      "to": "3b.5"
+     },
+     "gist": "Rav derives from the Hebrew maidservant's release that when a girl leaves her father's authority through betrothal, money is paid to him.",
+     "bullets": [
+      {
+       "text": "The Gemara asks: from where do we know a woman is acquired with money? And the Mishnah in Ketubot says a father has authority over his daughter's betrothal by money, document or *bi'ah*: from where that she is acquired with money, and that the money is her father's?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Yehuda in the name of Rav: the Hebrew maidservant “shall go out for nothing, *ein kesef*” (Shemot 21:11). No money for this master, but there is money for another master, who hands her over and is paid: her father.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara starts from the father's case because in the Torah that is the primary case. It is where the *kinyan* model is most at home: she is the object, he the one who transfers her, and the money comes to him.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The Ketubot Mishnah shows all three modes work when the father acts, though a payment to the father fits *kesef* most naturally.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The father's authority to betroth a minor without her consent, even through *bi'ah*, is a grave moral difficulty and should be stated plainly.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "Rav's reading of *ein kesef* (Shemot 21:11; Kiddushin 3b): the freed maidservant brings her master nothing, but when a daughter is betrothed, money goes to 'another master', her father.",
+      "svg": "<svg viewBox=\"0 0 900 450\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a Hebrew maidservant walks away from her master, who receives nothing. Right: a husband gives money to a father as his daughter is betrothed.</title><rect width=\"900\" height=\"450\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"36\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">No money for this master, but money for another master</text><text x=\"450\" y=\"62\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#5A4A3A\">ויצאה חנם אין כסף</text><rect x=\"20\" y=\"80\" width=\"420\" height=\"300\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"230\" y=\"108\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1B3A8A\">The Hebrew maidservant goes free</text><use href=\"#man\" x=\"60\" y=\"150\" width=\"60\" height=\"120\" style=\"color:#6A4F7A\"/><use href=\"#woman\" x=\"260\" y=\"150\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><path d=\"M330 214 H392\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><path d=\"M402 214 l-12 -7 v14 z\" fill=\"#1B3A8A\"/><text x=\"90\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Master</text><text x=\"290\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Maidservant</text><text x=\"230\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">No money for this master</text><text x=\"230\" y=\"352\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">“ein kesef”</text><rect x=\"460\" y=\"80\" width=\"420\" height=\"300\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"108\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#9A6212\">The daughter is betrothed</text><path d=\"M810 140 Q680 118 548 140\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"3\"/><path d=\"M540 142 l13 -4 l-4 11 z\" fill=\"#9A6212\"/><circle cx=\"680\" cy=\"124\" r=\"9\" fill=\"#D9B45A\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#man\" x=\"490\" y=\"150\" width=\"60\" height=\"120\" style=\"color:#50706E\"/><use href=\"#woman\" x=\"640\" y=\"150\" width=\"60\" height=\"120\" style=\"color:#A8436E\"/><use href=\"#man\" x=\"790\" y=\"150\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><text x=\"520\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Father</text><text x=\"670\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Daughter</text><text x=\"820\" y=\"292\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Husband</text><text x=\"670\" y=\"330\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">Money for another master:</text><text x=\"670\" y=\"352\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">her father</text><text x=\"450\" y=\"420\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" fill=\"#5B6478\">Rav Yehuda in the name of Rav · Shemot 21:11</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "The Daughter's Money? 'I Gave My Daughter to This Man'",
+     "amud": "3b",
+     "text": {
+      "from": "3b.6",
+      "to": "3b.6"
+     },
+     "gist": "The money can't be hers: the father is the one who gives her in betrothal, so the money is his.",
+     "bullets": [
+      {
+       "text": "The Gemara asks: why not say the money goes to her? It rejects this: her father receives her betrothal, as he says “I gave my daughter to this man” (Devarim 22:16). Should she take the money?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The verse comes from the case of *motzi shem ra*. Rashi and Tosafot note it speaks of a *na'arah*, but the Gemara reads it as a father who betrothed her as a minor. *Ein kesef* shows money is paid; 'I gave my daughter' shows whose it is.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "A Na'arah Betrothing Herself? 'In Her Youth, in Her Father's House'",
+     "amud": "3b → 4a",
+     "text": {
+      "from": "3b.7",
+      "to": "3b.7"
+     },
+     "gist": "A minor can't accept betrothal, but a *na'arah* can, so why not keep the money? Answer from Bamidbar 30:17: her gains in her youth are her father's.",
+     "bullets": [
+      {
+       "text": "The Gemara asks: perhaps this applies only to a minor, who cannot receive her own betrothal. A *na'arah*, over twelve, can receive it: let her betroth herself and take the money.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: “in her youth, in her father's house” (Bamidbar 30:17). Any gain she has in her youth belongs to her father.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *na'arah* is the middle stage: not the minor under her father's full control, nor the *bogeret* (from twelve and a half) wholly beyond it. She has legal standing of her own while her father keeps certain rights.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "continues": "Continues on 3b: Rav Huna derives a daughter's earnings from the maidservant, which leads the Gemara to ask why 'in her youth' is needed and to return to *ein kesef* as the source for a *na'arah*'s betrothal money."
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "kiddushei kesef",
+   "hebrew": "קידושי כסף",
+   "sense": "betrothal by money",
+   "definition": "Betrothal effected when a man gives a woman money or an item worth at least a perutah for the sake of betrothal. It is one of the three modes of kiddushin, with a document and intercourse.",
+   "on_this_daf": "The Gemara seeks its source in 'ein kesef' (Shemot 21:11), which also shows that a daughter's betrothal money goes to her father.",
+   "aliases": [
+    "kiddushei kesef",
+    "kesef"
+   ],
+   "sections": [
+    "s2",
+    "s8",
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "term": "bi'ah",
+   "hebrew": "ביאה",
+   "sense": "betrothal through intercourse",
+   "definition": "Betrothal effected by marital intercourse undertaken for the sake of betrothal, one of the three modes of kiddushin.",
+   "on_this_daf": "The Mishnah calls all three modes 'ways' because bi'ah is a 'way' and money and document exist for the sake of bi'ah.",
+   "aliases": [
+    "bi'ah"
+   ],
+   "sections": [
+    "s1",
+    "s2",
+    "s6",
+    "s11"
+   ]
+  },
+  {
+   "term": "kicha kicha",
+   "hebrew": "קיחה קיחה",
+   "sense": "verbal analogy linking betrothal to the purchase of Ephron's field",
+   "definition": "The gezeirah shavah that learns betrothal from the word 'taking', used both for taking a wife and for Avraham's purchase of Ephron's field.",
+   "on_this_daf": "It suggests that chalipin, which acquires a field, might also betroth a woman, until the Mishnah's number rules it out.",
+   "aliases": [
+    "kicha kicha"
+   ],
+   "sections": [
+    "s2",
+    "s8"
+   ]
+  },
+  {
+   "term": "chuppah",
+   "hebrew": "חופה",
+   "sense": "the wedding canopy as a mode of acquisition",
+   "definition": "The wedding canopy; a bride's entry into it with her husband effects nissu'in, completing the marriage.",
+   "on_this_daf": "The first answer has the Mishnah's 'three' exclude chuppah as a way of betrothal, but Rav Huna holds chuppah acquires.",
+   "aliases": [
+    "chuppah"
+   ],
+   "sections": [
+    "s6",
+    "s7"
+   ]
+  },
+  {
+   "term": "chalipin",
+   "hebrew": "חליפין",
+   "sense": "acquisition by symbolic exchange",
+   "definition": "A mode of acquisition in which one party gives the other an object, classically a cloth, in exchange for what is being acquired; it works even when the object has trivial value.",
+   "on_this_daf": "For Rav Huna the Mishnah's 'three' excludes chalipin, because it works with less than a perutah.",
+   "aliases": [
+    "chalipin"
+   ],
+   "sections": [
+    "s6",
+    "s8"
+   ]
+  },
+  {
+   "term": "perutah",
+   "hebrew": "פרוטה",
+   "sense": "the minimum unit of monetary value",
+   "definition": "The smallest coin of monetary significance in halakha; anything worth less than a perutah does not count as money.",
+   "on_this_daf": "Chalipin works even below a perutah, and a woman does not give herself for less, so chalipin cannot betroth.",
+   "aliases": [
+    "perutah"
+   ],
+   "sections": [
+    "s8"
+   ]
+  },
+  {
+   "term": "chalitzah",
+   "hebrew": "חליצה",
+   "sense": "release from the levirate bond",
+   "definition": "The ceremony in which a childless widow removes her brother-in-law's shoe, releasing her from the obligation of levirate marriage.",
+   "on_this_daf": "A kal va'chomer from the yevamah would let chalitzah free a married woman; 'a scroll of severance' limits that to a document.",
+   "aliases": [
+    "chalitzah"
+   ],
+   "sections": [
+    "s6",
+    "s9"
+   ]
+  },
+  {
+   "term": "na'arah",
+   "hebrew": "נערה",
+   "sense": "a girl in the stage between minority and full adulthood",
+   "definition": "A girl in the six months after she reaches twelve and shows signs of physical maturity; she is an adult for many purposes but remains under her father's authority in some matters, including betrothal.",
+   "on_this_daf": "Since a na'arah can accept betrothal herself, the Gemara asks why her betrothal money isn't hers, and answers from 'in her youth, in her father's house'.",
+   "aliases": [
+    "na'arah"
+   ],
+   "sections": [
+    "s10",
+    "s12",
+    "s13"
+   ]
+  }
+ ],
+ "judgment_calls": [
+  "The 'ways' discussion is split into four children; the zav/etrog and koy/rule steps could be one 'parallel Mishnayot' section, but the koy and Gittin challenges overturn the topic-based explanations, so the rule gets its own section.",
+  "Chalitzah (s9) could be a top-level section; kept under 'What the Numbers Exclude' because the Gemara raises both numbers in one question (3a.4).",
+  "The shiur's opening framework (kinyan vs. bi'ah models) has no lines of its own in scope; placed as shiur bullets in s2, where 'these too are for the sake of bi'ah' gives it a textual home.",
+  "The na'arah question (s13) continues onto the next lines and could open a new top-level section; kept inside the kesef section, since it is a further step in the same derivation of the father's right to the money.",
+  "The Mishnah's two ways out (bill of divorce and death) are not in the provided lines; stated once in s9 as a shiur bullet and used as labels in the s6 picture."
+ ],
+ "coverage_notes": [
+  "The shiur's review of nikneit vs. mekadesh and of shalosh/shlosha grammar, and the derekh–bi'ah link, fall before 2b.11 (previous daf's scope); used only as framing.",
+  "The essay says the Gemara leaves the na'arah question open for the next shiur; the text at 3b.7 answers it from Bamidbar 30:17 ('in her youth, in her father's house'). Followed the text. Rav Huna's challenge and the return to ein kesef (3b.8–3b.12) are outside scope.",
+  "The essay treats the koy as an aside raised in discussion; in the text the koy Mishnah (Bikkurim 2:8) and the Gittin Mishnah on bills of manumission are challenges that lead to the general rule. Followed the text.",
+  "The essay doesn't name the author of the ein kesef derivation; the text gives Rav Yehuda in the name of Rav.",
+  "The essay says the Gemara itself notes that the father's authority operates 'al karchah' and registers the moral problem of a minor's betrothal through bi'ah; neither is in these lines, so it is kept as shiur material.",
+  "Rashi on the etrog's tree-like features (orlah, neta reva'i) and the Rambam on pre-Sinai marriage are from the shiur; marked as such."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s13",
+    "subject": "Ketanah, na'arah and bogeret: capacity and who keeps the betrothal money",
+    "why_not": "The bogeret isn't in these lines, leaving a thin two-row grid the bullets already carry."
+   },
+   {
+    "section": "s3",
+    "subject": "R. Shimon's parable mapped onto man and woman",
+    "why_not": "One analogy, not a comparison along several dimensions; better as a picture."
+   },
+   {
+    "section": "s11",
+    "subject": "Ein kesef vs. 'I gave my daughter': what each verse proves",
+    "why_not": "Two steps of one derivation; the bullets state it more clearly than a grid."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s7",
+    "subject": "Rashi's father handing his daughter over to the chuppah",
+    "why_not": "Shown in the s6 overview; a separate scene would add little."
+   },
+   {
+    "section": "s4",
+    "subject": "The seven ways of examining a zav",
+    "why_not": "The text doesn't list the seven; nothing exact to draw."
+   },
+   {
+    "section": "s9",
+    "subject": "The kal va'chomer for chalitzah, yevamah vs. married woman",
+    "why_not": "The chart and the s6 overview already show it."
+   }
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+{"charts": {
+  "s12": null,
+  "s15": [
+    [null, "effective", null, null],
+    [null, "not-effective", null, null]
+  ],
+  "s21": [
+    [null, null, null, null],
+    [null, null, null, null]
+  ]
+},
+"tag_questions": [
+  {"section": "s21", "cell": "row1,col2", "note": "'Stoning' is a capital-punishment outcome, not in the tag list."},
+  {"section": "s21", "cell": "row1,col3", "note": "'Stoning: she is still a virgin' combines a punishment outcome with a status determination; no matching tag."},
+  {"section": "s21", "cell": "row1,col4", "note": "'Makes her a non-virgin' is a status outcome not covered by the tag list."},
+  {"section": "s21", "cell": "row2,col2", "note": "'Stoning' is a capital-punishment outcome, not in the tag list."},
+  {"section": "s21", "cell": "row2,col3", "note": "'Strangulation: the first man made her a non-virgin' combines punishment and status outcomes; no matching tag."},
+  {"section": "s21", "cell": "row2,col4", "note": "'Makes her a non-virgin' is a status outcome not covered by the tag list."}
+]}

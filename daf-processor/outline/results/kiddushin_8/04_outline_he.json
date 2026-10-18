@@ -1,883 +1,935 @@
 {
- "daf": "קידושין ח",
- "lang": "he",
- "scope": {
-  "start": "ח. – תשובת הגמרא לראיה של רב יוסף מפדיון הבן (הדף נפתח באמצע הדיון)",
-  "end": "ח: – שאלת רב מרי על כלב שרץ אחריה"
- },
- "sections": [
-  {
-   "id": "s1",
-   "title": "שוה כסף בלי שווי קבוע: הערכת הכהן לעצמו",
-   "amud": "ח.",
-   "text": {
-    "from": "8a.10",
-    "to": "8a.11"
-   },
-   "gist": "הגמרא ממשיכה לברר אם חפץ שבא במקום כסף צריך שווי קבוע. היא דוחה את הראיה של רב יוסף מפדיון הבן בכך שהכהן עצמו העריך את החפץ, ורב אשי מצמצם זאת לאדם גדול כמו רב כהנא.",
-   "bullets": [
-    {
-     "text": "המסגרת של השיעור: לדעת רב יוסף, שוה כסף בא במקום כסף, ולכן צריכה להיות בו התכונה שמגדירה כסף, כלומר שווי קבוע. לדעת רבה, הוא חפץ בעל ערך בפני עצמו, ולכן מספיקה הערכה אמינה של המקבל.",
-     "detail": 2,
-     "source": "shiur"
-    },
-    {
-     "text": "רבנו תם (תוספות): משי אינו צריך שומא, כי שוויו ידוע בקירוב. אבנים טובות ומרגליות משתנות מאוד בשוויין, ולכן צריך בהן שומא, כי האישה אינה יכולה לסמוך על אומדן של ערכן.",
-     "detail": 3,
-     "source": "shiur"
-    },
-    {
-     "text": "מכאן כתבו התוספות שנוהגים לקדש בטבעת שאין בה אבן. בחופה העדים מאשרים רק שהטבעת שווה לפחות פרוטה, כך שאין כאן הצגה של שווי מסוים.",
-     "detail": 3,
-     "source": "shiur"
-    }
-   ],
-   "illustration": {
-    "caption": "רב כהנא קיבל פדיון הבן והעריך סודר בחמש סלעים לעצמו. הקנייה של מר בר רב אשי מראה שאדם גדול שצריך סודר אכן משלם עליו יותר (ח.).",
-    "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: רב כהנא לוקח סודר מאב שפודה את בנו הבכור, ואומר שהסודר שווה לו חמש סלעים. משמאל: מר בר רב אשי משלם שלושה עשר דינרים על סודר ששווה עשרה, שקנה מאמו של רבא.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"392\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"35\" y=\"84\" width=\"385\" height=\"40\" rx=\"20\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><use href=\"#sage\" x=\"70\" y=\"140\" width=\"80\" height=\"140\" style=\"color:#4B5E8C;--beard:#5A4636;--wrap:#E4D8C0\"/><path d=\"M128 215 L152 222\" stroke=\"#D6AE86\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"150\" y=\"212\" width=\"44\" height=\"28\" rx=\"3\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#man\" x=\"290\" y=\"160\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><use href=\"#child\" x=\"352\" y=\"220\" width=\"30\" height=\"60\" style=\"color:#4E7A8C\"/><use href=\"#mark-ok\" x=\"120\" y=\"334\" width=\"26\" height=\"26\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"392\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#sage\" x=\"500\" y=\"140\" width=\"80\" height=\"140\" style=\"color:#6A4F7A;--beard:#4A3A2E;--wrap:#D9CBB0\"/><use href=\"#woman\" x=\"770\" y=\"160\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><rect x=\"640\" y=\"206\" width=\"64\" height=\"36\" rx=\"4\" fill=\"#B5673E\" stroke=\"#8A4E26\" stroke-width=\"2\"/></g><text x=\"673\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">ההערכה של רב כהנא</text><text x=\"673\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">פדיון הבן בסודר · קידושין ח.</text><text x=\"673\" y=\"109\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\">\"לדידי חזי לי חמש סלעים\"</text><text x=\"790\" y=\"304\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">רב כהנא</text><text x=\"790\" y=\"320\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">הכהן</text><text x=\"564\" y=\"304\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">האב</text><text x=\"564\" y=\"320\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">ובנו הבכור</text><text x=\"712\" y=\"353\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">הבן פדוי</text><text x=\"673\" y=\"386\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">רב אשי: רק לאדם גדול שצריך סודר לראשו</text><text x=\"228\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">הסודר של מר בר רב אשי</text><text x=\"228\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">שקנה מאמו של רבא, מקובי</text><text x=\"228\" y=\"192\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#5B6478\">שווה 10 דינרים</text><text x=\"228\" y=\"266\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#9A6212\">שילם 13 דינרים</text><text x=\"360\" y=\"304\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">מר בר רב אשי</text><text x=\"100\" y=\"304\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">אמו של רבא</text><text x=\"228\" y=\"350\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">אדם גדול שצריך סודר משלם יותר</text><text x=\"228\" y=\"386\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">ולכן הערכה כזו אמינה</text></svg>"
-   },
-   "children": [
-    {
-     "id": "s2",
-     "title": "עגל או טלית \"שווים חמש סלעים\": לא שוויים, אלא קבלת הכהן",
-     "amud": "ח.",
-     "text": {
-      "from": "8a.10",
-      "to": "8a.10"
-     },
-     "gist": "הגמרא דוחה את הראיה של רב יוסף. החפצים שווים באמת פחות מחמש סלעים, והבן פדוי רק משום שהכהן הסכים להעריך אותם בסכום הזה, כמו שעשה רב כהנא.",
-     "bullets": [
-      {
-       "text": "הגמרא דוחה את הראיה: העגל או הטלית אינם שווים באמת חמש סלעים. בסיפא הבן פדוי משום שהכהן קיבל אותם בשווי הזה.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "כך עשה רב כהנא, שהיה כהן: הוא לקח סודר מבית פדיון הבן ואמר: \"לדידי חזי לי חמש סלעים\".",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "לפי הקריאה הזו, השאלה אינה שווי השוק או שומא רשמית. השאלה היא אם המקבל הזה באמת מעריך את החפץ בסכום הנדרש. זה מתאים לשיטת רבה, ששוה כסף אינו צריך להתנהג ככסף.",
-       "detail": 2,
-       "source": "shiur"
-      },
-      {
-       "text": "התוספות מעלים אפשרות שרב כהנא לא היה כהן בעצמו אלא נשוי לבת כהן. מכאן משמע שגם היא יכולה לקבל את הפדיון.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "children": []
-    },
-    {
-     "id": "s3",
-     "title": "רב אשי: רק לאדם גדול שצריך סודר לראשו",
-     "amud": "ח.",
-     "text": {
-      "from": "8a.11",
-      "to": "8a.11"
-     },
-     "gist": "רב אשי מצמצם את הערכת הכהן לעצמו למי שהוא כמו רב כהנא. הקנייה של מר בר רב אשי מראה שאדם כזה אכן משלם יותר על סודר.",
-     "bullets": [
-      {
-       "text": "רב אשי: זה מועיל רק בכהן כמו רב כהנא, \"דגברא רבה הוא ומבעי ליה סודרא ארישיה\". מי שאין לו צורך כזה אינו יכול לומר שהסודר שווה לו כל כך.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "סיוע: מר בר רב אשי קנה סודר מאמו של רבא, מקובי, בשלושה עשר דינרים, אף שהיה שווה עשרה, משום שהיה צריך אותו.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "בלי צורך אמיתי, הערכה מופרזת אינה כלום: \"בטלה דעתו אצל כל אדם\". לפי רבה ההערכה צריכה להיות אישית, אבל אמינה.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "children": []
-    }
-   ]
+  "daf": "קידושין ח",
+  "lang": "he",
+  "scope": {
+    "start": "ח. – תשובת הגמרא לראיה של רב יוסף מפדיון הבן (הדף נפתח באמצע הדיון)",
+    "end": "ח: – שאלת רב מרי על כלב שרץ אחריה"
   },
-  {
-   "id": "s4",
-   "title": "רבי אלעזר: אמר \"במנה\" ונתן דינר",
-   "amud": "ח.",
-   "text": {
-    "from": "8a.12",
-    "to": "8b.13"
-   },
-   "gist": "רבי אלעזר מפרש את המנה שהובטח כתנאי, ואת הדינר שניתן ככסף הקידושין. הגמרא מגינה עליו מפני ברייתא על מונה והולך, ואחר כך מבארת את הדינר של נחושת ואת הדינר הרע שבאותה ברייתא.",
-   "bullets": [],
-   "chart": {
-    "caption": "מקרי המנה: מה אמר, מה קרה, ומה הדין",
-    "columns": [
-     "המקרה (לשונו)",
-     "מה קרה",
-     "הדין",
-     "הטעם"
-    ],
-    "rows": [
-     [
-      "נתן דינר אחד (\"במנה\")",
-      "נותן לה דינר אחד",
-      "מקודשת, וישלים",
-      "המנה הוא תנאי (על מנת), ותנאי חל מעכשיו"
-     ],
-     [
-      "מונה והולך (\"במנה\", ומפרשים \"במנה זה\")",
-      "הוא מונה, והדינר האחרון עדיין בידו",
-      "כל אחד מהם יכול לחזור בו",
-      "1. כל הסכום הוא כסף הקידושין\n2. רב אשי: כשהוא מונה, דעתה על כולו"
-     ],
-     [
-      "חסר דינר (\"במנה זה\")",
-      "תשעים ותשעה דינרים",
-      "אינה מקודשת",
-      "אין זה המנה שאמר"
-     ],
-     [
-      "דינר של נחושת (\"במנה זה\")",
-      "מטבע נחושת אחד שלא הבחינה בו (בלילה, או שהיה מעורב בין הזוזים)",
-      "אינה מקודשת",
-      "אין זה המנה שאמר"
-     ],
-     [
-      "דינר רע (\"במנה זה\")",
-      "דינר כסף שחוק אחד, שיוצא על ידי הדחק (רב פפא)",
-      "מקודשת, ויחליף",
-      "עדיין זהו דינר כסף"
-     ]
-    ],
-    "tones": [
-     [
-      null,
-      null,
-      "ok",
-      null
-     ],
-     [
-      null,
-      null,
-      null,
-      null
-     ],
-     [
-      null,
-      null,
-      "no",
-      null
-     ],
-     [
-      null,
-      null,
-      "no",
-      null
-     ],
-     [
-      null,
-      null,
-      "ok",
-      null
-     ]
-    ]
-   },
-   "illustration": {
-    "caption": "המקרה של רבי אלעזר ושלושת המקרים שבברייתא, לפי הסדר שבגמרא (ח.).",
-    "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבעה חלקים, מימין לשמאל: דינר אחד שניתן במקום מנה שהובטח; מנה שנמנה, והדינר האחרון עדיין ביד; \"מנה זה\" שחסר בו מטבע או שיש בו מטבע של נחושת; \"מנה זה\" ובו דינר שחוק אחד.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"237\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#F3EBDD\"/><rect x=\"459\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"681\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#EEE8F3\"/><circle cx=\"117\" cy=\"160\" r=\"30\" fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"3\"/><circle cx=\"117\" cy=\"160\" r=\"20\" fill=\"none\" stroke=\"#8E929A\" stroke-width=\"1.5\"/><g fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"2\"><circle cx=\"291\" cy=\"120\" r=\"11\"/><circle cx=\"315\" cy=\"120\" r=\"11\"/><circle cx=\"339\" cy=\"120\" r=\"11\"/><circle cx=\"363\" cy=\"120\" r=\"11\"/><circle cx=\"387\" cy=\"120\" r=\"11\"/><circle cx=\"291\" cy=\"146\" r=\"11\"/><circle cx=\"315\" cy=\"146\" r=\"11\"/><circle cx=\"339\" cy=\"146\" r=\"11\"/><circle cx=\"363\" cy=\"146\" r=\"11\"/><circle cx=\"387\" cy=\"146\" r=\"11\"/><circle cx=\"291\" cy=\"172\" r=\"11\"/><circle cx=\"315\" cy=\"172\" r=\"11\"/><circle cx=\"339\" cy=\"172\" r=\"11\"/><circle cx=\"363\" cy=\"172\" r=\"11\"/><circle cx=\"387\" cy=\"172\" r=\"11\"/></g><circle cx=\"339\" cy=\"214\" r=\"13\" fill=\"#D5D7DB\" stroke=\"#9A6212\" stroke-width=\"3\"/><g fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"2\"><circle cx=\"513\" cy=\"130\" r=\"11\"/><circle cx=\"537\" cy=\"130\" r=\"11\"/><circle cx=\"561\" cy=\"130\" r=\"11\"/><circle cx=\"585\" cy=\"130\" r=\"11\"/><circle cx=\"609\" cy=\"130\" r=\"11\"/><circle cx=\"513\" cy=\"156\" r=\"11\"/><circle cx=\"537\" cy=\"156\" r=\"11\"/><circle cx=\"585\" cy=\"156\" r=\"11\"/></g><circle cx=\"561\" cy=\"156\" r=\"11\" fill=\"#C07A45\" stroke=\"#8A4E26\" stroke-width=\"2\"/><circle cx=\"609\" cy=\"156\" r=\"11\" fill=\"none\" stroke=\"#8E929A\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/><g fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"2\"><circle cx=\"735\" cy=\"130\" r=\"11\"/><circle cx=\"759\" cy=\"130\" r=\"11\"/><circle cx=\"783\" cy=\"130\" r=\"11\"/><circle cx=\"807\" cy=\"130\" r=\"11\"/><circle cx=\"831\" cy=\"130\" r=\"11\"/><circle cx=\"735\" cy=\"156\" r=\"11\"/><circle cx=\"759\" cy=\"156\" r=\"11\"/><circle cx=\"807\" cy=\"156\" r=\"11\"/><circle cx=\"831\" cy=\"156\" r=\"11\"/></g><circle cx=\"783\" cy=\"156\" r=\"11\" fill=\"#A9ABAF\" stroke=\"#6E7178\" stroke-width=\"2\"/><path d=\"M777 150 L786 160 M781 162 L789 153\" stroke=\"#6E7178\" stroke-width=\"1.5\"/><use href=\"#mark-ok\" x=\"55\" y=\"292\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"491\" y=\"292\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"721\" y=\"292\" width=\"26\" height=\"26\"/></g><text x=\"783\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">\"התקדשי לי במנה\"</text><text x=\"561\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">מונה והולך</text><text x=\"339\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">\"במנה זה\"</text><text x=\"117\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">\"במנה זה\"</text><text x=\"783\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">רבי אלעזר</text><text x=\"561\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">הרישא של הברייתא</text><text x=\"339\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">חסר דינר, או דינר של נחושת</text><text x=\"117\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">דינר רע</text><text x=\"783\" y=\"250\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">נותן לה דינר אחד</text><text x=\"561\" y=\"250\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">מונה, והדינר האחרון</text><text x=\"561\" y=\"268\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">עדיין בידו</text><text x=\"339\" y=\"250\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">אחד חסר, או אחד של נחושת</text><text x=\"339\" y=\"268\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">שלא הבחינה בו</text><text x=\"117\" y=\"250\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">דינר כסף שחוק</text><text x=\"117\" y=\"268\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">שיוצא על ידי הדחק</text><text x=\"788\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"561\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#5B6478\">כל אחד יכול לחזור בו</text><text x=\"334\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"122\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"783\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">ומשלים את ה־99 אחר כך</text><text x=\"783\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">\"על מנת\" – כמעכשיו</text><text x=\"561\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">עד הדינר האחרון</text><text x=\"561\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">רב אשי: דעתה על כולו</text><text x=\"339\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">אין זה המנה שאמר</text><text x=\"117\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">והוא חייב להחליפו</text><text x=\"117\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">(רב פפא)</text><text x=\"450\" y=\"424\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">רבי אלעזר: \"במנה\" – כאילו אמר \"על מנת שאתן לך מנה\"; הדינר שבידה מקדש אותה</text></svg>"
-   },
-   "children": [
+  "sections": [
     {
-     "id": "s5",
-     "title": "\"במנה\" הוא על מנת: מקודשת עכשיו, ומשלם אחר כך",
-     "amud": "ח.",
-     "text": {
-      "from": "8a.12",
-      "to": "8a.13"
-     },
-     "gist": "רבי אלעזר: היא מקודשת מיד בדינר והוא חייב להשלים, משום שהמנה שהובטח פועל כתנאי, ותנאי חל מעכשיו.",
-     "bullets": [
-      {
-       "text": "רבי אלעזר: \"התקדשי לי במנה\" ונתן לה דינר – הרי זו מקודשת, וישלים.",
-       "detail": 2,
-       "source": "gemara"
+      "id": "s1",
+      "title": "שוה כסף בלי שווי קבוע: הערכת הכהן לעצמו",
+      "amud": "ח.",
+      "text": {
+        "from": "8a.10",
+        "to": "8a.11"
       },
-      {
-       "text": "הטעם: כיוון שאמר לה \"מנה\" ונתן לה דינר, הוא כמי שאמר לה \"על מנת שאתן לך מנה\". הדינר מקדש עכשיו, והשאר הוא תנאי.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "זה כדברי רב הונא אמר רב: \"כל האומר על מנת כאומר מעכשיו דמי\".",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "המעשה שלו מגלה את כוונתו: הוא נתן דינר אחד מיד אחרי שהזכיר מנה, ומכאן שהמנה נאמר כתנאי ולא ככסף הקידושין.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "children": []
-    },
-    {
-     "id": "s6",
-     "title": "ברייתת מונה והולך: \"במנה\" או \"במנה זה\"?",
-     "amud": "ח.",
-     "text": {
-      "from": "8a.14",
-      "to": "8a.22"
-     },
-     "gist": "ברייתא מתירה לכל צד לחזור בו עד שניתן הדינר האחרון. הגמרא מעמידה אותה ב\"מנה זה\" ודנה במה שמשתמע מהסיפא. רב אשי אומר במקום זה שמונה והולך שאני.",
-     "bullets": [],
-     "children": [
-      {
-       "id": "s7",
-       "title": "רישא וסיפא ב\"מנה זה\"? הסיפא מפרשת את הרישא",
-       "amud": "ח.",
-       "text": {
-        "from": "8a.14",
-        "to": "8a.19"
-       },
-       "gist": "הגמרא מתרצת שהברייתא עוסקת ב\"מנה זה\". מקשים עליה מלשון הסיפא, והיא משיבה שהסיפא מפרשת את הרישא. מובא סיוע לדבריה, ומתברר שאינו מכריע.",
-       "bullets": [
+      "gist": "הגמרא ממשיכה לברר אם חפץ שבא במקום כסף צריך שווי קבוע. היא דוחה את הראיה של רב יוסף מפדיון הבן בכך שהכהן עצמו העריך את החפץ, ורב אשי מצמצם זאת לאדם גדול כמו רב כהנא.",
+      "bullets": [
         {
-         "text": "קושיה מברייתא (תוספתא ב, י): \"התקדשי לי במנה\", והיה מונה והולך, \"ורצה אחד מהן לחזור אפילו בדינר האחרון – הרשות בידו\". משמע שהקידושין ממתינים לכל המנה.",
-         "detail": 2,
-         "source": "gemara"
+          "text": "המסגרת של השיעור: לדעת רב יוסף, שוה כסף בא במקום כסף, ולכן צריכה להיות בו התכונה שמגדירה כסף, כלומר שווי קבוע. לדעת רבה, הוא חפץ בעל ערך בפני עצמו, ולכן מספיקה הערכה אמינה של המקבל.",
+          "detail": 2,
+          "source": "shiur"
         },
         {
-         "text": "תירוץ: שם אמר \"במנה זה\", ולכן כל הסכום הוא כסף הקידושין.",
-         "detail": 2,
-         "source": "gemara"
+          "text": "רבנו תם (תוספות): משי אינו צריך שומא, כי שוויו ידוע בקירוב. אבנים טובות ומרגליות משתנות מאוד בשוויין, ולכן צריך בהן שומא, כי האישה אינה יכולה לסמוך על אומדן של ערכן.",
+          "detail": 3,
+          "source": "shiur"
         },
         {
-         "text": "קושי: הסיפא אומרת במפורש \"במנה זה\", ומשמע שהרישא עוסקת במנה סתם.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "הסיפא: \"במנה זה\", ונמצא מנה חסר דינר, או דינר של נחושת – אינה מקודשת. דינר רע – הרי זו מקודשת, ויחליף.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "תשובה: גם הרישא וגם הסיפא עוסקות ב\"מנה זה\", והסיפא מפרשת את הרישא: כל אחד יכול לחזור בו עד הדינר האחרון – כיצד? כגון שאמר \"במנה זה\".",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "סיוע: אילו הרישא עסקה במנה סתם ובכל זאת אינם קידושין, ב\"מנה זה\" – מיבעיא? הסיפא הייתה מיותרת.",
-         "detail": 3,
-         "source": "gemara"
-        },
-        {
-         "text": "הסיוע אינו מכריע: ייתכן שהסיפא נשנתה כדי לגלות שהרישא עוסקת במנה סתם, שלא תאמר שהרישא היא רק ב\"מנה זה\". ובכל זאת הגמרא נשארת בפירושה.",
-         "detail": 3,
-         "source": "gemara"
+          "text": "מכאן כתבו התוספות שנוהגים לקדש בטבעת שאין בה אבן. בחופה העדים מאשרים רק שהטבעת שווה לפחות פרוטה, כך שאין כאן הצגה של שווי מסוים.",
+          "detail": 3,
+          "source": "shiur"
         }
-       ],
-       "children": []
-      },
-      {
-       "id": "s8",
-       "title": "רב אשי: כשהוא מונה, דעתה על כל הסכום",
-       "amud": "ח.",
-       "text": {
-        "from": "8a.20",
-        "to": "8a.20"
-       },
-       "gist": "רב אשי אינו צריך להעמיד ב\"מנה זה\". כשהוא מונה, דעתה על כל המנה והיא אינה מסתפקת בחלק ממנו, ולכן שניהם יכולים לחזור בהם עד שיסיים.",
-       "bullets": [
-        {
-         "text": "רב אשי: \"מונה והולך שאני, דדעתה אכוליה\". דעתה על כל המנה והיא אינה מסתפקת בחלק ממנו, ולכן כל צד יכול לחזור בו עד שיסיים למנות.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "אם כן, שני המקרים יכולים לעסוק במנה סתם. מה שהוא עושה בכסף – נותן דינר אחד או מונה את כולו – מגלה מה הייתה כוונתו.",
-         "detail": 3,
-         "source": "shiur"
-        }
-       ],
-       "children": []
-      },
-      {
-       "id": "s9",
-       "title": "דינר של נחושת ודינר רע: שלא הבחינה בו, ושיוצא על ידי הדחק",
-       "amud": "ח.",
-       "text": {
-        "from": "8a.21",
-        "to": "8a.22"
-       },
-       "gist": "הדינר של נחושת הוא דינר שלא הבחינה בו. הדינר הרע שעדיין מקדש הוא דינר שאפשר להוציא, אף שרק על ידי הדחק.",
-       "bullets": [
-        {
-         "text": "דינר של נחושת: אם ידעה עליו – הרי \"סברה וקיבלה\" ואינה יכולה לחזור בה. מדובר כשנתן לה אותו בלילה, או שהיה מעורב בין הזוזים ולא הבחינה בו.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "דינר רע: אם אינו יוצא כלל – הרי הוא כדינר של נחושת. רב פפא: מדובר בדינר שיוצא על ידי הדחק.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "דינר שחוק הוא עדיין מטבע, ולכן במהות קיבלה את מה שהובטח לה, והוא חייב להחליף את המטבע.",
-         "detail": 3,
-         "source": "shiur"
-        }
-       ],
-       "children": []
-      }
-     ]
-    },
-    {
-     "id": "s10",
-     "title": "משכון במקום כסף: רב נחמן, רבי יצחק, רבי אמי",
-     "amud": "ח.–ח:",
-     "text": {
-      "from": "8a.23",
-      "to": "8b.3"
-     },
-     "gist": "משכון שניתן תמורת סכום שהובטח אינו הסכום עצמו ואינו מתנה, ולכן אינו מקדש ואינו קונה. משכון של אחרים שנמצא בידי בעל חוב שונה, שהרי בעל חוב קונה משכון.",
-     "bullets": [],
-     "illustration": {
-      "caption": "שלושה מקרי משכון (ח.–ח:): הדין של רב נחמן, הברייתא שמתבארת לפי הכלל של רבי יצחק, והדין של רבי אמי בשפחה.",
-      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: אדם נותן לאישה משכון במקום מאה דינרים. באמצע: בעל חוב מקדש אישה במשכון שבידו מן הלווה. משמאל: שני אחים משאירים חתיכת כסף כמשכון אצל מוכר שפחה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"284\" height=\"366\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"308\" y=\"14\" width=\"284\" height=\"366\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"601\" y=\"14\" width=\"284\" height=\"366\" rx=\"14\" fill=\"#EEE8F3\"/><use href=\"#man\" x=\"55\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"200\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><rect x=\"128\" y=\"190\" width=\"56\" height=\"30\" rx=\"4\" fill=\"#7A6A9A\"/><use href=\"#person\" x=\"322\" y=\"150\" width=\"50\" height=\"100\" style=\"color:#6E5B46\"/><use href=\"#man\" x=\"395\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"515\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><rect x=\"460\" y=\"190\" width=\"48\" height=\"28\" rx=\"4\" fill=\"#7A6A9A\"/><use href=\"#man\" x=\"620\" y=\"140\" width=\"50\" height=\"100\" style=\"color:#50706E\"/><use href=\"#man\" x=\"668\" y=\"140\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"800\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C5A3C\"/><circle cx=\"752\" cy=\"205\" r=\"14\" fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"92\" y=\"276\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"392\" y=\"276\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"692\" y=\"276\" width=\"26\" height=\"26\"/></g><text x=\"743\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\">רב נחמן</text><text x=\"450\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\">משכון של אחרים</text><text x=\"157\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\">בני רב הונא בר אבין</text><text x=\"743\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">\"במנה\", והניח לה משכון</text><text x=\"450\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">ברייתא, ומבארים אותה כרבי יצחק</text><text x=\"157\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">שפחה שנקנתה בפרוטות</text><text x=\"744\" y=\"238\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">משכון</text><text x=\"416\" y=\"238\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">משכון</text><text x=\"553\" y=\"264\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">הלווה</text><text x=\"475\" y=\"264\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">בעל החוב</text><text x=\"148\" y=\"180\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">נסכא</text><text x=\"232\" y=\"262\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">הבנים</text><text x=\"70\" y=\"262\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">המוכר</text><text x=\"733\" y=\"295\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"451\" y=\"295\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"153\" y=\"295\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אין מכר</text><text x=\"743\" y=\"330\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">\"מנה אין כאן –</text><text x=\"743\" y=\"348\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">משכון אין כאן\"</text><text x=\"450\" y=\"330\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">בעל חוב קונה משכון:</text><text x=\"450\" y=\"348\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">\"וּלְךָ תִּהְיֶה צְדָקָה\"</text><text x=\"157\" y=\"330\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">רבי אמי: \"פריטי אין כאן,</text><text x=\"157\" y=\"348\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">נסכא אין כאן\"</text><text x=\"450\" y=\"406\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">המשכון מבטיח את התשלום, אבל אינו התשלום עצמו</text></svg>"
-     },
-     "children": [
-      {
-       "id": "s11",
-       "title": "רב נחמן: \"מנה אין כאן, משכון אין כאן\"",
-       "amud": "ח.–ח:",
-       "text": {
-        "from": "8a.23",
-        "to": "8b.1"
-       },
-       "gist": "משכון שניתן תמורת מנה שהובטח אינו מקדש. קושיית רבא מברייתא מתורצת: הברייתא עוסקת במשכון של אחרים.",
-       "bullets": [
-        {
-         "text": "רבא אמר רב נחמן: \"התקדשי לי במנה\", והניח לה משכון עליהם – אינה מקודשת.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "הטעם: המנה לא ניתן, והמשכון הוא רק בטוחה ולא מתנה. הוא לא נתן לה כלום.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "רבא מקשה מברייתא: \"קידשה במשכון – מקודשת\".",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "תירוץ: שם מדובר במשכון של אחרים, שנמצא בידי המקדש, וכדברי רבי יצחק.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "השוו למשכון שנתן יהודה לתמר, שרק הבטיח מתנה שהובטחה לה לאחר זמן.",
-         "detail": 3,
-         "source": "shiur"
-        }
-       ],
-       "children": []
-      },
-      {
-       "id": "s12",
-       "title": "רבי יצחק: בעל חוב קונה משכון (\"ולך תהיה צדקה\")",
-       "amud": "ח:",
-       "text": {
-        "from": "8b.2",
-        "to": "8b.2"
-       },
-       "gist": "התורה קוראת להשבת המשכון \"צדקה\" (דברים כד, יג), ומכאן לומד רבי יצחק שבעל החוב הוא במידה מסוימת בעלים עליו, ולכן יכול לקדש בו.",
-       "bullets": [
-        {
-         "text": "רבי יצחק: \"הָשֵׁב תָּשִׁיב לוֹ אֶת הָעֲבוֹט... וּלְךָ תִּהְיֶה צְדָקָה\" (דברים כד, יג). \"אם אינו קונה, צדקה מניין? מכאן לבעל חוב שקונה משכון.\"",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "התוספות מקשים: החזרת בגד ללילה היא חסד בכל מקרה. במקום זה הם מציעים שברכת הלווה הייתה נחשבת רבית דברים, אלא אם כן המלווה הוא בעלים על המשכון. אפשרות אחרת: צדקה פירושה נתינה ממה ששייך לו.",
-         "detail": 3,
-         "source": "shiur"
-        },
-        {
-         "text": "מה האישה מקבלת אפוא? היא אינה יכולה להשתמש במשכון של הלווה, ולא ברור אם היא זוכה בזכות לגבות את החוב. הגמרא אינה מגדירה במה היא זוכה.",
-         "detail": 3,
-         "source": "shiur"
-        }
-       ],
-       "children": []
-      },
-      {
-       "id": "s13",
-       "title": "בני רב הונא בר אבין: הנסכא אינה המחיר",
-       "amud": "ח:",
-       "text": {
-        "from": "8b.3",
-        "to": "8b.3"
-       },
-       "gist": "אותו כלל במכר: חתיכת כסף שהושארה כמשכון על שפחה אינה תשלום, ולכן המוכרים יכולים לבטל את המכר כשמחירה עולה.",
-       "bullets": [
-        {
-         "text": "בני רב הונא בר אבין קנו שפחה בפרוטות. לא היו בידם הפרוטות, והם השאירו חתיכת כסף (נסכא) כמשכון.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "מחירה של השפחה עלה, והמוכרים רצו לבטל. רבי אמי: \"פריטי אין כאן, נסכא אין כאן\". לא היה כאן מעשה קנין.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "התוספות: לפני המכר לא היה חוב, ואם כן מה הבטיח המשכון? והאם המוכרים יכלו לחייב את השלמת המכר, או לעכב את המשכון? השאלה נשארת פתוחה בחלקה.",
-         "detail": 3,
-         "source": "shiur"
-        }
-       ],
-       "children": []
-      }
-     ]
-    },
-    {
-     "id": "s14",
-     "title": "תגובתה לכסף: מאבדת, מפנה לאחר, הסלע שלה, הכלב שלה",
-     "amud": "ח:",
-     "text": {
-      "from": "8b.4",
-      "to": "8b.13"
-     },
-     "gist": "שורת ברייתות על מה שהיא עושה בכסף: מאבדת אותו, שולחת אותו לאביה, לאביו או לזר, מבקשת להניחו על הסלע שלה או לתת את הככר לכלב שלה. שתי שאלות נשארות בתיקו.",
-     "bullets": [
-      {
-       "text": "בכל המקרים האלה הגמרא מבררת מה נחשב קבלה שלה: מעשה קנין, קבלת הנאה, או צירוף של שניהם.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "chart": {
-      "caption": "תשובתה ל\"התקדשי לי בזה\", ומה הדין",
-      "columns": [
-       "תשובתה",
-       "הדין",
-       "הטעם"
       ],
-      "rows": [
-       [
-        "זורקת אותו לפניו",
-        "אינה מקודשת",
-        "פשוט: \"שקול, לא בעינא\""
-       ],
-       [
-        "זורקת אותו לים או לאור",
-        "אינה מקודשת",
-        "אין זה ניסיון לבדוק אם הוא רתחן, אף שהיא חייבת לשלם לו"
-       ],
-       [
-        "\"תנם לאבא\" או \"לאביך\"",
-        "אינה מקודשת",
-        "אין זו מתנה שהיא מעבירה הלאה, אפילו לאביה"
-       ],
-       [
-        "…\"על מנת שיקבלום לי\"",
-        "מקודשת",
-        "הוא מקבל בשבילה, אפילו אביו"
-       ],
-       [
-        "\"תנם לפלוני\"",
-        "אינה מקודשת",
-        "אין דעתה קרובה אליו"
-       ],
-       [
-        "לפלוני \"על מנת שיקבלם לי\"",
-        "מקודשת",
-        "מועיל אפילו בזר"
-       ],
-       [
-        "\"תנם על גבי סלע\": לא שלה / שלה",
-        "אינה מקודשת / מקודשת",
-        "רק סלע שלה מקבל בשבילה"
-       ],
-       [
-        "סלע של שניהם",
-        "תיקו",
-        "שאלת רב ביבי"
-       ],
-       [
-        "\"תנהו לכלב\": לא שלה / שלה",
-        "אינה מקודשת / מקודשת",
-        "רק כלב שלה"
-       ],
-       [
-        "כלב רץ אחריה",
-        "תיקו",
-        "הנאה שמקדשת, או חובה שהוא חייב בה ממילא? (רב מרי)"
-       ]
-      ]
-     },
-     "illustration": {
-      "caption": "הברייתות הראשונות בעמוד ח:: איבוד הכסף או שליחתו לאביה אינם קידושין; כסף שאביה, אביו או פלוני מקבלים \"בשבילי\" מקדש אותה.",
-      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבעה חלקים, מימין לשמאל: הכסף נזרק בחזרה לרגלי האיש; הכסף נזרק לים ולאש; אישה מפנה את הכסף לאביה; האיש מוסר את הכסף לאב שמקבל אותו בשבילה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#F3EBDD\"/><rect x=\"237\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"459\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"681\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#EEE8F3\"/><use href=\"#man\" x=\"40\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"150\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#8C4A60\"/><path d=\"M150 150 Q130 170 118 202\" fill=\"none\" stroke=\"#8E929A\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><g fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"1.5\"><circle cx=\"106\" cy=\"212\" r=\"6\"/><circle cx=\"120\" cy=\"214\" r=\"6\"/><circle cx=\"134\" cy=\"212\" r=\"6\"/></g><use href=\"#woman\" x=\"250\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#8C4A60\"/><path d=\"M335 205 C335 175 348 185 350 163 C360 181 366 171 366 157 C378 179 382 185 382 205 Z\" fill=\"url(#fire)\"/><path d=\"M312 228 q12 -8 24 0 t24 0 t24 0 t24 0 t24 0\" fill=\"none\" stroke=\"#6FA3C8\" stroke-width=\"5\" stroke-linecap=\"round\"/><use href=\"#woman\" x=\"475\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"585\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#6B6F3A\"/><path d=\"M535 150 L578 150\" stroke=\"#5B6478\" stroke-width=\"2\"/><path d=\"M578 150 l-8 -5 v10 z\" fill=\"#5B6478\"/><use href=\"#man\" x=\"700\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"815\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#6B6F3A\"/><circle cx=\"785\" cy=\"182\" r=\"8\" fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"1.5\"/><path d=\"M760 166 L805 166\" stroke=\"#5B6478\" stroke-width=\"2\"/><path d=\"M805 166 l-8 -5 v10 z\" fill=\"#5B6478\"/><use href=\"#mark-no\" x=\"47\" y=\"292\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"269\" y=\"292\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"491\" y=\"292\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"721\" y=\"292\" width=\"26\" height=\"26\"/></g><text x=\"783\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">זורקת לפניו</text><text x=\"561\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">לים או לאור</text><text x=\"339\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">\"תנם לאבא\"</text><text x=\"117\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">מקבל בשבילה</text><text x=\"783\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">\"שקול, לא בעינא\"</text><text x=\"561\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">או לכל דבר האבד</text><text x=\"339\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">או \"לאביך\"</text><text x=\"117\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">\"על מנת שיקבלום לי\"</text><text x=\"783\" y=\"244\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">בחזרה לרגליו</text><text x=\"561\" y=\"250\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">אבד</text><text x=\"288\" y=\"244\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">אביה</text><text x=\"58\" y=\"244\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">השליח שלה</text><text x=\"778\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"556\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"334\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"122\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"783\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">וזה פשוט</text><text x=\"561\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">אף שהיא חייבת</text><text x=\"561\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">לשלם לו</text><text x=\"339\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">אפילו אביה,</text><text x=\"339\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">שהיא רוצה להיטיב עמו</text><text x=\"117\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">אפילו אביו,</text><text x=\"117\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">או פלוני</text><text x=\"450\" y=\"424\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">רק כשמישהו מקבל את הכסף בשבילה, זו קבלה שלה</text></svg>"
-     },
-     "continues": "המקרה הבא בא מיד אחר כך: ככר שניתנת לעני שהיא מפרנסת, ואחריו מקרי \"תן, תן\" בדף ט.",
-     "children": [
-      {
-       "id": "s15",
-       "title": "זורקת לים או לאור: דחייה, ולא ניסיון לבדוק אם הוא רתחן",
-       "amud": "ח:",
-       "text": {
-        "from": "8b.4",
-        "to": "8b.5"
-       },
-       "gist": "איבוד הכסף אינו קידושין, אף שהיא תהיה חייבת לו עליו. זריקתו בחזרה לפניו – לא מיבעיא.",
-       "bullets": [
-        {
-         "text": "ברייתא (תוספתא ב, ט): נטלה את המנה וזרקה אותו לים, לאור, או לכל דבר האבד – אינה מקודשת.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "הגמרא שואלת: האם משמע שאם זרקה אותו לפניו – הווי קידושין? הרי היא אומרת לו: \"שקול, לא בעינא\"!",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "תשובה, בדרך של \"לא מיבעיא\": זריקה לפניו – פשוט שאינה קידושין.",
-         "detail": 2,
-         "source": "gemara"
-        },
-        {
-         "text": "החידוש הוא באיבוד. כיוון שהיא חייבת לשלם לו, היה אפשר לחשוב שקיבלה את הכסף לשם קידושין ואיבדה אותו כדי לבדוק \"אי רתחנא הוא או לא\". הברייתא מלמדת שגם כך אינה מקודשת.",
-         "detail": 2,
-         "source": "gemara"
-        }
-       ],
-       "children": []
+      "illustration": {
+        "caption": "רב כהנא קיבל פדיון הבן והעריך סודר בחמש סלעים לעצמו. הקנייה של מר בר רב אשי מראה שאדם גדול שצריך סודר אכן משלם עליו יותר (ח.).",
+        "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: רב כהנא לוקח סודר מאב שפודה את בנו הבכור, ואומר שהסודר שווה לו חמש סלעים. משמאל: מר בר רב אשי משלם שלושה עשר דינרים על סודר ששווה עשרה, שקנה מאמו של רבא.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"392\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"35\" y=\"84\" width=\"385\" height=\"40\" rx=\"20\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><use href=\"#sage\" x=\"70\" y=\"140\" width=\"80\" height=\"140\" style=\"color:#4B5E8C;--beard:#5A4636;--wrap:#E4D8C0\"/><path d=\"M128 215 L152 222\" stroke=\"#D6AE86\" stroke-width=\"5\" stroke-linecap=\"round\"/><rect x=\"150\" y=\"212\" width=\"44\" height=\"28\" rx=\"3\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#man\" x=\"290\" y=\"160\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><use href=\"#child\" x=\"352\" y=\"220\" width=\"30\" height=\"60\" style=\"color:#4E7A8C\"/><use href=\"#mark-ok\" x=\"120\" y=\"334\" width=\"26\" height=\"26\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"392\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#sage\" x=\"500\" y=\"140\" width=\"80\" height=\"140\" style=\"color:#6A4F7A;--beard:#4A3A2E;--wrap:#D9CBB0\"/><use href=\"#woman\" x=\"770\" y=\"160\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><rect x=\"640\" y=\"206\" width=\"64\" height=\"36\" rx=\"4\" fill=\"#B5673E\" stroke=\"#8A4E26\" stroke-width=\"2\"/></g><text x=\"673\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">ההערכה של רב כהנא</text><text x=\"673\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">פדיון הבן בסודר · קידושין ח.</text><text x=\"673\" y=\"109\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\">\"לדידי חזי לי חמש סלעים\"</text><text x=\"790\" y=\"304\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">רב כהנא</text><text x=\"790\" y=\"320\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">הכהן</text><text x=\"564\" y=\"304\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">האב</text><text x=\"564\" y=\"320\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">ובנו הבכור</text><text x=\"712\" y=\"353\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">הבן פדוי</text><text x=\"673\" y=\"386\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">רב אשי: רק לאדם גדול שצריך סודר לראשו</text><text x=\"228\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">הסודר של מר בר רב אשי</text><text x=\"228\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">שקנה מאמו של רבא, מקובי</text><text x=\"228\" y=\"192\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#5B6478\">שווה 10 דינרים</text><text x=\"228\" y=\"266\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#9A6212\">שילם 13 דינרים</text><text x=\"360\" y=\"304\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">מר בר רב אשי</text><text x=\"100\" y=\"304\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">אמו של רבא</text><text x=\"228\" y=\"350\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">אדם גדול שצריך סודר משלם יותר</text><text x=\"228\" y=\"386\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">ולכן הערכה כזו אמינה</text></svg>"
       },
-      {
-       "id": "s16",
-       "title": "תנם לאחר: דחייה, או שליחות \"על מנת שיקבלום לי\"",
-       "amud": "ח:",
-       "text": {
-        "from": "8b.6",
-        "to": "8b.10"
-       },
-       "gist": "שליחת הכסף לאביה, לאביו או לזר אינה קידושין. כשהיא מוסיפה \"על מנת שיקבלום לי\", המקבל נעשה לשליח שלה. הגמרא מסבירה מדוע צריך כל אחד מהמקרים.",
-       "bullets": [],
-       "children": [
+      "children": [
         {
-         "id": "s17",
-         "title": "אבא ואביך: כל אחד מלמד כוחה של בבא אחרת",
-         "amud": "ח:",
-         "text": {
-          "from": "8b.6",
-          "to": "8b.7"
-         },
-         "gist": "\"תנם לאבא\" בא להודיע כוחה של הרישא, ו\"לאביך\" – כוחה של הסיפא.",
-         "bullets": [
-          {
-           "text": "ברייתא: \"תנם לאבא ולאביך\" – אינה מקודשת. \"על מנת שיקבלום לי\" – מקודשת.",
-           "detail": 2,
-           "source": "gemara"
+          "id": "s2",
+          "title": "עגל או טלית \"שווים חמש סלעים\": לא שוויים, אלא קבלת הכהן",
+          "amud": "ח.",
+          "text": {
+            "from": "8a.10",
+            "to": "8a.10"
           },
-          {
-           "text": "\"אבא\" מלמד כמה רחוקה הרישא: אפילו כשאביה, שהיא בוודאי רוצה להיטיב עמו, מקבל את הכסף – אינה מקודשת.",
-           "detail": 2,
-           "source": "gemara"
-          },
-          {
-           "text": "\"אביך\" מלמד כמה רחוקה הסיפא: עם התנאי, אפילו אביו יכול לקבל בשבילה.",
-           "detail": 2,
-           "source": "gemara"
-          },
-          {
-           "text": "התנאי הופך את המקבל לשליח שלה, וקבלתו היא קבלתה.",
-           "detail": 2,
-           "source": "shiur"
-          }
-         ],
-         "children": []
-        },
-        {
-         "id": "s18",
-         "title": "פלוני: מדוע צריך גם את המקרה של הזר",
-         "amud": "ח:",
-         "text": {
-          "from": "8b.8",
-          "to": "8b.10"
-         },
-         "gist": "אותם שני דינים נאמרים גם בזר. כל מקרה לבדו היה יכול להתפרש בכיוון ההפוך, ולכן צריך את שניהם.",
-         "bullets": [
-          {
-           "text": "ברייתא: \"תנם לפלוני\" – אינה מקודשת. \"על מנת שיקבלם לי\" – מקודשת.",
-           "detail": 2,
-           "source": "gemara"
-          },
-          {
-           "text": "מהקרובים בלבד היה אפשר לחשוב שהתנאי מועיל רק משום שהיא סומכת עליהם שיחזיקו את הכסף בשבילה, ולא בזר.",
-           "detail": 2,
-           "source": "gemara"
-          },
-          {
-           "text": "מהזר בלבד היה אפשר לחשוב ש\"תנם לפלוני\" אינו מועיל רק משום שאין דעתה קרובה אליו. אצל אביה או אביו, ייתכן שהיא נותנת להם במתנה כסף שכבר קיבלה, ואז מקודשת.",
-           "detail": 2,
-           "source": "gemara"
-          },
-          {
-           "text": "רש\"י: אין זה דומה ל\"תן מנה לפלוני ואתקדש אני לך\". שם היא עצמה יזמה את ההסדר, וכאן היא לועגת לו.",
-           "detail": 3,
-           "source": "shiur"
-          }
-         ],
-         "chart": {
-          "caption": "מדוע הברייתא שונה גם את הקרובים וגם את הזר",
-          "columns": [
-           "אילו נשנה רק זה",
-           "היינו חושבים",
-           "מה מלמד המקרה השני"
+          "gist": "הגמרא דוחה את הראיה של רב יוסף. החפצים שווים באמת פחות מחמש סלעים, והבן פדוי רק משום שהכהן הסכים להעריך אותם בסכום הזה, כמו שעשה רב כהנא.",
+          "bullets": [
+            {
+              "text": "הגמרא דוחה את הראיה: העגל או הטלית אינם שווים באמת חמש סלעים. בסיפא הבן פדוי משום שהכהן קיבל אותם בשווי הזה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "כך עשה רב כהנא, שהיה כהן: הוא לקח סודר מבית פדיון הבן ואמר: \"לדידי חזי לי חמש סלעים\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "לפי הקריאה הזו, השאלה אינה שווי השוק או שומא רשמית. השאלה היא אם המקבל הזה באמת מעריך את החפץ בסכום הנדרש. זה מתאים לשיטת רבה, ששוה כסף אינו צריך להתנהג ככסף.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "התוספות מעלים אפשרות שרב כהנא לא היה כהן בעצמו אלא נשוי לבת כהן. מכאן משמע שגם היא יכולה לקבל את הפדיון.",
+              "detail": 3,
+              "source": "shiur"
+            }
           ],
-          "rows": [
-           [
-            "אביה או אביו",
-            "התנאי מועיל רק בקרובים שהיא סומכת עליהם שיחזיקו את הכסף בשבילה",
-            "פלוני: התנאי מועיל אפילו בזר"
-           ],
-           [
-            "פלוני",
-            "בלי התנאי, אב יכול לקבל את הכסף כמתנה שנתנה לו אחרי שקיבלה אותו",
-            "אבא: גם בלי התנאי – אינה מקודשת"
-           ]
-          ]
-         },
-         "children": []
+          "children": []
+        },
+        {
+          "id": "s3",
+          "title": "רב אשי: רק לאדם גדול שצריך סודר לראשו",
+          "amud": "ח.",
+          "text": {
+            "from": "8a.11",
+            "to": "8a.11"
+          },
+          "gist": "רב אשי מצמצם את הערכת הכהן לעצמו למי שהוא כמו רב כהנא. הקנייה של מר בר רב אשי מראה שאדם כזה אכן משלם יותר על סודר.",
+          "bullets": [
+            {
+              "text": "רב אשי: זה מועיל רק בכהן כמו רב כהנא, \"דגברא רבה הוא ומבעי ליה סודרא ארישיה\". מי שאין לו צורך כזה אינו יכול לומר שהסודר שווה לו כל כך.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "סיוע: מר בר רב אשי קנה סודר מאמו של רבא, מקובי, בשלושה עשר דינרים, אף שהיה שווה עשרה, משום שהיה צריך אותו.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "בלי צורך אמיתי, הערכה מופרזת אינה כלום: \"בטלה דעתו אצל כל אדם\". לפי רבה ההערכה צריכה להיות אישית, אבל אמינה.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
         }
-       ]
-      },
-      {
-       "id": "s19",
-       "title": "הסלע שלה, הכלב שלה: קבלה דרך מה ששייך לה",
-       "amud": "ח:",
-       "text": {
-        "from": "8b.11",
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "רבי אלעזר: אמר \"במנה\" ונתן דינר",
+      "amud": "ח.",
+      "text": {
+        "from": "8a.12",
         "to": "8b.13"
-       },
-       "gist": "כסף שהונח על הסלע שלה, או ככר שניתנה לכלב שלה, מקדשים אותה. סלע משותף וכלב שתוקף אותה נשארים בתיקו.",
-       "bullets": [],
-       "illustration": {
-        "caption": "מקרי הסלע והכלב (ח:): הסלע או הכלב שלה מקדשים אותה, של אחר אינם מקדשים, והשאלות של רב ביבי ורב מרי נשארות בתיקו.",
-        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: מטבעות מונחים על שלושה סלעים – אחד שאינו שלה, אחד שלה ואחד של שניהם. משמאל: ככר שניתנת לכלב שאינו שלה, לכלב שלה, וכלב שרץ אחרי אישה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"376\" rx=\"14\" fill=\"#F3EBDD\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"376\" rx=\"14\" fill=\"#E3EAF3\"/><g fill=\"#A9A095\" stroke=\"#857B70\" stroke-width=\"2\"><path d=\"M35 245 L43 205 L67 188 L105 192 L131 210 L137 245 Z\"/><path d=\"M177 245 L185 205 L209 188 L247 192 L273 210 L279 245 Z\"/><path d=\"M319 245 L327 205 L351 188 L389 192 L415 210 L421 245 Z\"/></g><g fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"1.5\"><circle cx=\"77\" cy=\"184\" r=\"7\"/><circle cx=\"93\" cy=\"184\" r=\"7\"/><circle cx=\"85\" cy=\"176\" r=\"7\"/><circle cx=\"219\" cy=\"184\" r=\"7\"/><circle cx=\"235\" cy=\"184\" r=\"7\"/><circle cx=\"227\" cy=\"176\" r=\"7\"/><circle cx=\"361\" cy=\"184\" r=\"7\"/><circle cx=\"377\" cy=\"184\" r=\"7\"/><circle cx=\"369\" cy=\"176\" r=\"7\"/></g><use href=\"#mark-no\" x=\"70\" y=\"288\" width=\"30\" height=\"30\"/><use href=\"#mark-ok\" x=\"212\" y=\"288\" width=\"30\" height=\"30\"/><circle cx=\"369\" cy=\"303\" r=\"15\" fill=\"#ECEAE6\" stroke=\"#8A8F9A\" stroke-width=\"2.5\"/><g transform=\"translate(512,225)\"><path d=\"M-34 -4 q-14 -10 -10 -24\" fill=\"none\" stroke=\"#8A6A4A\" stroke-width=\"5\" stroke-linecap=\"round\"/><ellipse cx=\"0\" cy=\"0\" rx=\"34\" ry=\"14\" fill=\"#8A6A4A\"/><g fill=\"#6E5238\"><rect x=\"-28\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"-16\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"14\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"24\" y=\"6\" width=\"6\" height=\"22\"/></g><circle cx=\"38\" cy=\"-12\" r=\"12\" fill=\"#8A6A4A\"/><ellipse cx=\"34\" cy=\"-22\" rx=\"5\" ry=\"8\" fill=\"#6E5238\"/><ellipse cx=\"49\" cy=\"-8\" rx=\"7\" ry=\"5\" fill=\"#7A5C40\"/><circle cx=\"40\" cy=\"-15\" r=\"2\" fill=\"#1A1F2E\"/></g><ellipse cx=\"580\" cy=\"222\" rx=\"12\" ry=\"7\" fill=\"#C9954E\"/><g transform=\"translate(645,225)\"><path d=\"M-34 -4 q-14 -10 -10 -24\" fill=\"none\" stroke=\"#6E5238\" stroke-width=\"5\" stroke-linecap=\"round\"/><ellipse cx=\"0\" cy=\"0\" rx=\"34\" ry=\"14\" fill=\"#B08A5E\"/><g fill=\"#8A6A4A\"><rect x=\"-28\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"-16\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"14\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"24\" y=\"6\" width=\"6\" height=\"22\"/></g><circle cx=\"38\" cy=\"-12\" r=\"12\" fill=\"#B08A5E\"/><ellipse cx=\"34\" cy=\"-22\" rx=\"5\" ry=\"8\" fill=\"#8A6A4A\"/><ellipse cx=\"49\" cy=\"-8\" rx=\"7\" ry=\"5\" fill=\"#9A7A54\"/><circle cx=\"40\" cy=\"-15\" r=\"2\" fill=\"#1A1F2E\"/></g><ellipse cx=\"713\" cy=\"222\" rx=\"12\" ry=\"7\" fill=\"#C9954E\"/><g transform=\"translate(778,228)\"><path d=\"M-34 -4 q-14 -10 -10 -24\" fill=\"none\" stroke=\"#4A3A2E\" stroke-width=\"5\" stroke-linecap=\"round\"/><ellipse cx=\"0\" cy=\"0\" rx=\"34\" ry=\"14\" fill=\"#5E4E3E\"/><g fill=\"#4A3A2E\"><rect x=\"-28\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"-16\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"14\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"24\" y=\"6\" width=\"6\" height=\"22\"/></g><circle cx=\"38\" cy=\"-12\" r=\"12\" fill=\"#5E4E3E\"/><ellipse cx=\"34\" cy=\"-22\" rx=\"5\" ry=\"8\" fill=\"#4A3A2E\"/><ellipse cx=\"49\" cy=\"-8\" rx=\"7\" ry=\"5\" fill=\"#4A3A2E\"/><circle cx=\"40\" cy=\"-15\" r=\"2\" fill=\"#EDE3CF\"/></g><use href=\"#woman\" x=\"838\" y=\"150\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#mark-no\" x=\"513\" y=\"288\" width=\"30\" height=\"30\"/><use href=\"#mark-ok\" x=\"646\" y=\"288\" width=\"30\" height=\"30\"/><circle cx=\"807\" cy=\"303\" r=\"15\" fill=\"#ECEAE6\" stroke=\"#8A8F9A\" stroke-width=\"2.5\"/></g><text x=\"673\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#5A4A3A\">\"תנם על גבי סלע\"</text><text x=\"673\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">הברייתא ושאלת רב ביבי</text><text x=\"228\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">\"תנהו לכלב\"</text><text x=\"228\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">הברייתא ושאלת רב מרי</text><text x=\"815\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">לא שלה</text><text x=\"673\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">שלה</text><text x=\"531\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">של שניהם</text><text x=\"531\" y=\"309\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5B6478\">?</text><text x=\"815\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"673\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"531\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5B6478\">תיקו</text><text x=\"531\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">רב ביבי</text><text x=\"372\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">לא הכלב שלה</text><text x=\"239\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">הכלב שלה</text><text x=\"93\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">רץ אחריה</text><text x=\"93\" y=\"309\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5B6478\">?</text><text x=\"372\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"239\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"93\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5B6478\">תיקו</text><text x=\"93\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">רב מרי</text><text x=\"450\" y=\"420\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">הצלה מן הכלב: הנאה שמקדשת אותה, או חובה שהוא חייב בה ממילא?</text></svg>"
-       },
-       "children": [
+      },
+      "gist": "רבי אלעזר מפרש את המנה שהובטח כתנאי, ואת הדינר שניתן ככסף הקידושין. הגמרא מגינה עליו מפני ברייתא על מונה והולך, ואחר כך מבארת את הדינר של נחושת ואת הדינר הרע שבאותה ברייתא.",
+      "bullets": [],
+      "chart": {
+        "caption": "מקרי המנה: מה אמר, מה קרה, ומה הדין",
+        "columns": [
+          "המקרה (לשונו)",
+          "מה קרה",
+          "הדין",
+          "הטעם"
+        ],
+        "rows": [
+          [
+            "נתן דינר אחד (\"במנה\")",
+            "נותן לה דינר אחד",
+            "מקודשת, וישלים",
+            "המנה הוא תנאי (על מנת), ותנאי חל מעכשיו"
+          ],
+          [
+            "מונה והולך (\"במנה\", ומפרשים \"במנה זה\")",
+            "הוא מונה, והדינר האחרון עדיין בידו",
+            "כל אחד מהם יכול לחזור בו",
+            "1. כל הסכום הוא כסף הקידושין\n2. רב אשי: כשהוא מונה, דעתה על כולו"
+          ],
+          [
+            "חסר דינר (\"במנה זה\")",
+            "תשעים ותשעה דינרים",
+            "אינה מקודשת",
+            "אין זה המנה שאמר"
+          ],
+          [
+            "דינר של נחושת (\"במנה זה\")",
+            "מטבע נחושת אחד שלא הבחינה בו (בלילה, או שהיה מעורב בין הזוזים)",
+            "אינה מקודשת",
+            "אין זה המנה שאמר"
+          ],
+          [
+            "דינר רע (\"במנה זה\")",
+            "דינר כסף שחוק אחד, שיוצא על ידי הדחק (רב פפא)",
+            "מקודשת, ויחליף",
+            "עדיין זהו דינר כסף"
+          ]
+        ],
+        "tags": [
+          [
+            null,
+            null,
+            "effective",
+            null
+          ],
+          [
+            null,
+            null,
+            "not-effective",
+            null
+          ],
+          [
+            null,
+            null,
+            "not-effective",
+            null
+          ],
+          [
+            null,
+            null,
+            "not-effective",
+            null
+          ],
+          [
+            null,
+            null,
+            "effective",
+            null
+          ]
+        ]
+      },
+      "illustration": {
+        "caption": "המקרה של רבי אלעזר ושלושת המקרים שבברייתא, לפי הסדר שבגמרא (ח.).",
+        "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבעה חלקים, מימין לשמאל: דינר אחד שניתן במקום מנה שהובטח; מנה שנמנה, והדינר האחרון עדיין ביד; \"מנה זה\" שחסר בו מטבע או שיש בו מטבע של נחושת; \"מנה זה\" ובו דינר שחוק אחד.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"237\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#F3EBDD\"/><rect x=\"459\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"681\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#EEE8F3\"/><circle cx=\"117\" cy=\"160\" r=\"30\" fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"3\"/><circle cx=\"117\" cy=\"160\" r=\"20\" fill=\"none\" stroke=\"#8E929A\" stroke-width=\"1.5\"/><g fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"2\"><circle cx=\"291\" cy=\"120\" r=\"11\"/><circle cx=\"315\" cy=\"120\" r=\"11\"/><circle cx=\"339\" cy=\"120\" r=\"11\"/><circle cx=\"363\" cy=\"120\" r=\"11\"/><circle cx=\"387\" cy=\"120\" r=\"11\"/><circle cx=\"291\" cy=\"146\" r=\"11\"/><circle cx=\"315\" cy=\"146\" r=\"11\"/><circle cx=\"339\" cy=\"146\" r=\"11\"/><circle cx=\"363\" cy=\"146\" r=\"11\"/><circle cx=\"387\" cy=\"146\" r=\"11\"/><circle cx=\"291\" cy=\"172\" r=\"11\"/><circle cx=\"315\" cy=\"172\" r=\"11\"/><circle cx=\"339\" cy=\"172\" r=\"11\"/><circle cx=\"363\" cy=\"172\" r=\"11\"/><circle cx=\"387\" cy=\"172\" r=\"11\"/></g><circle cx=\"339\" cy=\"214\" r=\"13\" fill=\"#D5D7DB\" stroke=\"#9A6212\" stroke-width=\"3\"/><g fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"2\"><circle cx=\"513\" cy=\"130\" r=\"11\"/><circle cx=\"537\" cy=\"130\" r=\"11\"/><circle cx=\"561\" cy=\"130\" r=\"11\"/><circle cx=\"585\" cy=\"130\" r=\"11\"/><circle cx=\"609\" cy=\"130\" r=\"11\"/><circle cx=\"513\" cy=\"156\" r=\"11\"/><circle cx=\"537\" cy=\"156\" r=\"11\"/><circle cx=\"585\" cy=\"156\" r=\"11\"/></g><circle cx=\"561\" cy=\"156\" r=\"11\" fill=\"#C07A45\" stroke=\"#8A4E26\" stroke-width=\"2\"/><circle cx=\"609\" cy=\"156\" r=\"11\" fill=\"none\" stroke=\"#8E929A\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/><g fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"2\"><circle cx=\"735\" cy=\"130\" r=\"11\"/><circle cx=\"759\" cy=\"130\" r=\"11\"/><circle cx=\"783\" cy=\"130\" r=\"11\"/><circle cx=\"807\" cy=\"130\" r=\"11\"/><circle cx=\"831\" cy=\"130\" r=\"11\"/><circle cx=\"735\" cy=\"156\" r=\"11\"/><circle cx=\"759\" cy=\"156\" r=\"11\"/><circle cx=\"807\" cy=\"156\" r=\"11\"/><circle cx=\"831\" cy=\"156\" r=\"11\"/></g><circle cx=\"783\" cy=\"156\" r=\"11\" fill=\"#A9ABAF\" stroke=\"#6E7178\" stroke-width=\"2\"/><path d=\"M777 150 L786 160 M781 162 L789 153\" stroke=\"#6E7178\" stroke-width=\"1.5\"/><use href=\"#mark-ok\" x=\"55\" y=\"292\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"491\" y=\"292\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"721\" y=\"292\" width=\"26\" height=\"26\"/></g><text x=\"783\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">\"התקדשי לי במנה\"</text><text x=\"561\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">מונה והולך</text><text x=\"339\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">\"במנה זה\"</text><text x=\"117\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">\"במנה זה\"</text><text x=\"783\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">רבי אלעזר</text><text x=\"561\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">הרישא של הברייתא</text><text x=\"339\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">חסר דינר, או דינר של נחושת</text><text x=\"117\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">דינר רע</text><text x=\"783\" y=\"250\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">נותן לה דינר אחד</text><text x=\"561\" y=\"250\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">מונה, והדינר האחרון</text><text x=\"561\" y=\"268\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">עדיין בידו</text><text x=\"339\" y=\"250\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">אחד חסר, או אחד של נחושת</text><text x=\"339\" y=\"268\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">שלא הבחינה בו</text><text x=\"117\" y=\"250\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">דינר כסף שחוק</text><text x=\"117\" y=\"268\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">שיוצא על ידי הדחק</text><text x=\"788\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"561\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#5B6478\">כל אחד יכול לחזור בו</text><text x=\"334\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"122\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"783\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">ומשלים את ה־99 אחר כך</text><text x=\"783\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">\"על מנת\" – כמעכשיו</text><text x=\"561\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">עד הדינר האחרון</text><text x=\"561\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">רב אשי: דעתה על כולו</text><text x=\"339\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">אין זה המנה שאמר</text><text x=\"117\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">והוא חייב להחליפו</text><text x=\"117\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">(רב פפא)</text><text x=\"450\" y=\"424\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">רבי אלעזר: \"במנה\" – כאילו אמר \"על מנת שאתן לך מנה\"; הדינר שבידה מקדש אותה</text></svg>"
+      },
+      "children": [
         {
-         "id": "s20",
-         "title": "תנם על גבי סלע: שלה, לא שלה, או של שניהם? תיקו",
-         "amud": "ח:",
-         "text": {
-          "from": "8b.11",
-          "to": "8b.11"
-         },
-         "gist": "הסלע שלה מקדש אותה, וסלע של אחר אינו מקדש. שאלת רב ביבי על סלע ששייך לשניהם נשארת בלי הכרעה.",
-         "bullets": [
-          {
-           "text": "ברייתא: \"תנם על גבי סלע\" – אינה מקודשת. ואם היה הסלע שלה – מקודשת.",
-           "detail": 2,
-           "source": "gemara"
+          "id": "s5",
+          "title": "\"במנה\" הוא על מנת: מקודשת עכשיו, ומשלם אחר כך",
+          "amud": "ח.",
+          "text": {
+            "from": "8a.12",
+            "to": "8a.13"
           },
-          {
-           "text": "רב ביבי שואל: סלע של שניהם, מהו? תיקו.",
-           "detail": 2,
-           "source": "gemara"
-          },
-          {
-           "text": "רש\"י: הסלע שלה קונה לה את הכסף בקנין חצר.",
-           "detail": 2,
-           "source": "shiur"
-          },
-          {
-           "text": "התוספות: אילו היה זה קנין חצר, סלע משותף היה פשוט, שהרי רכוש משותף של שותפים אינו קונה לאחד מהם. השאלה היא אם היא בטוחה שתוכל לקחת את הכסף משם: על הסלע שלה – כן, על סלע של אחר – לא, ועל סלע משותף – לא ברור.",
-           "detail": 3,
-           "source": "shiur"
-          }
-         ],
-         "children": []
+          "gist": "רבי אלעזר: היא מקודשת מיד בדינר והוא חייב להשלים, משום שהמנה שהובטח פועל כתנאי, ותנאי חל מעכשיו.",
+          "bullets": [
+            {
+              "text": "רבי אלעזר: \"התקדשי לי במנה\" ונתן לה דינר – הרי זו מקודשת, וישלים.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הטעם: כיוון שאמר לה \"מנה\" ונתן לה דינר, הוא כמי שאמר לה \"על מנת שאתן לך מנה\". הדינר מקדש עכשיו, והשאר הוא תנאי.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "זה כדברי רב הונא אמר רב: \"כל האומר על מנת כאומר מעכשיו דמי\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "המעשה שלו מגלה את כוונתו: הוא נתן דינר אחד מיד אחרי שהזכיר מנה, ומכאן שהמנה נאמר כתנאי ולא ככסף הקידושין.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
         },
         {
-         "id": "s21",
-         "title": "תנהו לכלב: רק לכלב שלה",
-         "amud": "ח:",
-         "text": {
-          "from": "8b.12",
-          "to": "8b.12"
-         },
-         "gist": "ככר שניתנה לכלב שלה מקדשת אותה; לכלב של אחר – אינה מקדשת.",
-         "bullets": [
-          {
-           "text": "ברייתא: \"התקדשי לי בככר\" – \"תנהו לכלב\" – אינה מקודשת. ואם היה הכלב שלה – מקודשת.",
-           "detail": 2,
-           "source": "gemara"
+          "id": "s6",
+          "title": "ברייתת מונה והולך: \"במנה\" או \"במנה זה\"?",
+          "amud": "ח.",
+          "text": {
+            "from": "8a.14",
+            "to": "8a.22"
           },
-          {
-           "text": "נשאר פתוח אם היא קונה את הככר דרך הכלב שלה, כמו בסלע, או שכסף הקידושין הוא ההנאה מכך שכלבה ניזון על חשבונו.",
-           "detail": 3,
-           "source": "shiur"
-          }
-         ],
-         "children": []
+          "gist": "ברייתא מתירה לכל צד לחזור בו עד שניתן הדינר האחרון. הגמרא מעמידה אותה ב\"מנה זה\" ודנה במה שמשתמע מהסיפא. רב אשי אומר במקום זה שמונה והולך שאני.",
+          "bullets": [],
+          "children": [
+            {
+              "id": "s7",
+              "title": "רישא וסיפא ב\"מנה זה\"? הסיפא מפרשת את הרישא",
+              "amud": "ח.",
+              "text": {
+                "from": "8a.14",
+                "to": "8a.19"
+              },
+              "gist": "הגמרא מתרצת שהברייתא עוסקת ב\"מנה זה\". מקשים עליה מלשון הסיפא, והיא משיבה שהסיפא מפרשת את הרישא. מובא סיוע לדבריה, ומתברר שאינו מכריע.",
+              "bullets": [
+                {
+                  "text": "קושיה מברייתא (תוספתא ב, י): \"התקדשי לי במנה\", והיה מונה והולך, \"ורצה אחד מהן לחזור אפילו בדינר האחרון – הרשות בידו\". משמע שהקידושין ממתינים לכל המנה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "תירוץ: שם אמר \"במנה זה\", ולכן כל הסכום הוא כסף הקידושין.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "קושי: הסיפא אומרת במפורש \"במנה זה\", ומשמע שהרישא עוסקת במנה סתם.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "הסיפא: \"במנה זה\", ונמצא מנה חסר דינר, או דינר של נחושת – אינה מקודשת. דינר רע – הרי זו מקודשת, ויחליף.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "תשובה: גם הרישא וגם הסיפא עוסקות ב\"מנה זה\", והסיפא מפרשת את הרישא: כל אחד יכול לחזור בו עד הדינר האחרון – כיצד? כגון שאמר \"במנה זה\".",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "סיוע: אילו הרישא עסקה במנה סתם ובכל זאת אינם קידושין, ב\"מנה זה\" – מיבעיא? הסיפא הייתה מיותרת.",
+                  "detail": 3,
+                  "source": "gemara"
+                },
+                {
+                  "text": "הסיוע אינו מכריע: ייתכן שהסיפא נשנתה כדי לגלות שהרישא עוסקת במנה סתם, שלא תאמר שהרישא היא רק ב\"מנה זה\". ובכל זאת הגמרא נשארת בפירושה.",
+                  "detail": 3,
+                  "source": "gemara"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s8",
+              "title": "רב אשי: כשהוא מונה, דעתה על כל הסכום",
+              "amud": "ח.",
+              "text": {
+                "from": "8a.20",
+                "to": "8a.20"
+              },
+              "gist": "רב אשי אינו צריך להעמיד ב\"מנה זה\". כשהוא מונה, דעתה על כל המנה והיא אינה מסתפקת בחלק ממנו, ולכן שניהם יכולים לחזור בהם עד שיסיים.",
+              "bullets": [
+                {
+                  "text": "רב אשי: \"מונה והולך שאני, דדעתה אכוליה\". דעתה על כל המנה והיא אינה מסתפקת בחלק ממנו, ולכן כל צד יכול לחזור בו עד שיסיים למנות.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "אם כן, שני המקרים יכולים לעסוק במנה סתם. מה שהוא עושה בכסף – נותן דינר אחד או מונה את כולו – מגלה מה הייתה כוונתו.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s9",
+              "title": "דינר של נחושת ודינר רע: שלא הבחינה בו, ושיוצא על ידי הדחק",
+              "amud": "ח.",
+              "text": {
+                "from": "8a.21",
+                "to": "8a.22"
+              },
+              "gist": "הדינר של נחושת הוא דינר שלא הבחינה בו. הדינר הרע שעדיין מקדש הוא דינר שאפשר להוציא, אף שרק על ידי הדחק.",
+              "bullets": [
+                {
+                  "text": "דינר של נחושת: אם ידעה עליו – הרי \"סברה וקיבלה\" ואינה יכולה לחזור בה. מדובר כשנתן לה אותו בלילה, או שהיה מעורב בין הזוזים ולא הבחינה בו.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "דינר רע: אם אינו יוצא כלל – הרי הוא כדינר של נחושת. רב פפא: מדובר בדינר שיוצא על ידי הדחק.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "דינר שחוק הוא עדיין מטבע, ולכן במהות קיבלה את מה שהובטח לה, והוא חייב להחליף את המטבע.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            }
+          ]
         },
         {
-         "id": "s22",
-         "title": "רב מרי: כלב רץ אחריה – האם ההצלה היא הנאה? תיקו",
-         "amud": "ח:",
-         "text": {
-          "from": "8b.12",
-          "to": "8b.13"
-         },
-         "gist": "אם הכלב תקף אותה, האם ההצלה נחשבת הנאה שמקדשת אותה, או שהיא יכולה לומר שהוא היה חייב להציל אותה בכל מקרה? השאלה נשארת בלי הכרעה.",
-         "flag": "על פי הגמרא בלבד",
-         "bullets": [
-          {
-           "text": "רב מרי שואל: כלב רץ אחריה לנשוך אותה, והיא אמרה \"תנהו לכלב\" – מהו?",
-           "detail": 2,
-           "source": "gemara"
+          "id": "s10",
+          "title": "משכון במקום כסף: רב נחמן, רבי יצחק, רבי אמי",
+          "amud": "ח.–ח:",
+          "text": {
+            "from": "8a.23",
+            "to": "8b.3"
           },
-          {
-           "text": "אולי בהנאה שהיא ניצלת מן הכלב \"גמרה ומקניא ליה נפשה\".",
-           "detail": 2,
-           "source": "gemara"
+          "gist": "משכון שניתן תמורת סכום שהובטח אינו הסכום עצמו ואינו מתנה, ולכן אינו מקדש ואינו קונה. משכון של אחרים שנמצא בידי בעל חוב שונה, שהרי בעל חוב קונה משכון.",
+          "bullets": [],
+          "illustration": {
+            "caption": "שלושה מקרי משכון (ח.–ח:): הדין של רב נחמן, הברייתא שמתבארת לפי הכלל של רבי יצחק, והדין של רבי אמי בשפחה.",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: אדם נותן לאישה משכון במקום מאה דינרים. באמצע: בעל חוב מקדש אישה במשכון שבידו מן הלווה. משמאל: שני אחים משאירים חתיכת כסף כמשכון אצל מוכר שפחה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"284\" height=\"366\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"308\" y=\"14\" width=\"284\" height=\"366\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"601\" y=\"14\" width=\"284\" height=\"366\" rx=\"14\" fill=\"#EEE8F3\"/><use href=\"#man\" x=\"55\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"200\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><rect x=\"128\" y=\"190\" width=\"56\" height=\"30\" rx=\"4\" fill=\"#7A6A9A\"/><use href=\"#person\" x=\"322\" y=\"150\" width=\"50\" height=\"100\" style=\"color:#6E5B46\"/><use href=\"#man\" x=\"395\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"515\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><rect x=\"460\" y=\"190\" width=\"48\" height=\"28\" rx=\"4\" fill=\"#7A6A9A\"/><use href=\"#man\" x=\"620\" y=\"140\" width=\"50\" height=\"100\" style=\"color:#50706E\"/><use href=\"#man\" x=\"668\" y=\"140\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"800\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C5A3C\"/><circle cx=\"752\" cy=\"205\" r=\"14\" fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"92\" y=\"276\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"392\" y=\"276\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"692\" y=\"276\" width=\"26\" height=\"26\"/></g><text x=\"743\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\">רב נחמן</text><text x=\"450\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\">משכון של אחרים</text><text x=\"157\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\">בני רב הונא בר אבין</text><text x=\"743\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">\"במנה\", והניח לה משכון</text><text x=\"450\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">ברייתא, ומבארים אותה כרבי יצחק</text><text x=\"157\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">שפחה שנקנתה בפרוטות</text><text x=\"744\" y=\"238\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">משכון</text><text x=\"416\" y=\"238\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">משכון</text><text x=\"553\" y=\"264\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">הלווה</text><text x=\"475\" y=\"264\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">בעל החוב</text><text x=\"148\" y=\"180\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">נסכא</text><text x=\"232\" y=\"262\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">הבנים</text><text x=\"70\" y=\"262\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">המוכר</text><text x=\"733\" y=\"295\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"451\" y=\"295\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"153\" y=\"295\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אין מכר</text><text x=\"743\" y=\"330\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">\"מנה אין כאן –</text><text x=\"743\" y=\"348\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">משכון אין כאן\"</text><text x=\"450\" y=\"330\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">בעל חוב קונה משכון:</text><text x=\"450\" y=\"348\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">\"וּלְךָ תִּהְיֶה צְדָקָה\"</text><text x=\"157\" y=\"330\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">רבי אמי: \"פריטי אין כאן,</text><text x=\"157\" y=\"348\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">נסכא אין כאן\"</text><text x=\"450\" y=\"406\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">המשכון מבטיח את התשלום, אבל אינו התשלום עצמו</text></svg>"
           },
-          {
-           "text": "או שהיא יכולה לומר לו: \"מדאורייתא חיובי מחייבת לאצולן\", מכוח \"לֹא תַעֲמֹד עַל דַּם רֵעֶךָ\" (ויקרא יט, טז), ולכן אינה חייבת לו דבר.",
-           "detail": 2,
-           "source": "gemara"
+          "children": [
+            {
+              "id": "s11",
+              "title": "רב נחמן: \"מנה אין כאן, משכון אין כאן\"",
+              "amud": "ח.–ח:",
+              "text": {
+                "from": "8a.23",
+                "to": "8b.1"
+              },
+              "gist": "משכון שניתן תמורת מנה שהובטח אינו מקדש. קושיית רבא מברייתא מתורצת: הברייתא עוסקת במשכון של אחרים.",
+              "bullets": [
+                {
+                  "text": "רבא אמר רב נחמן: \"התקדשי לי במנה\", והניח לה משכון עליהם – אינה מקודשת.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "הטעם: המנה לא ניתן, והמשכון הוא רק בטוחה ולא מתנה. הוא לא נתן לה כלום.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "רבא מקשה מברייתא: \"קידשה במשכון – מקודשת\".",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "תירוץ: שם מדובר במשכון של אחרים, שנמצא בידי המקדש, וכדברי רבי יצחק.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "השוו למשכון שנתן יהודה לתמר, שרק הבטיח מתנה שהובטחה לה לאחר זמן.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s12",
+              "title": "רבי יצחק: בעל חוב קונה משכון (\"ולך תהיה צדקה\")",
+              "amud": "ח:",
+              "text": {
+                "from": "8b.2",
+                "to": "8b.2"
+              },
+              "gist": "התורה קוראת להשבת המשכון \"צדקה\" (דברים כד, יג), ומכאן לומד רבי יצחק שבעל החוב הוא במידה מסוימת בעלים עליו, ולכן יכול לקדש בו.",
+              "bullets": [
+                {
+                  "text": "רבי יצחק: \"הָשֵׁב תָּשִׁיב לוֹ אֶת הָעֲבוֹט... וּלְךָ תִּהְיֶה צְדָקָה\" (דברים כד, יג). \"אם אינו קונה, צדקה מניין? מכאן לבעל חוב שקונה משכון.\"",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "התוספות מקשים: החזרת בגד ללילה היא חסד בכל מקרה. במקום זה הם מציעים שברכת הלווה הייתה נחשבת רבית דברים, אלא אם כן המלווה הוא בעלים על המשכון. אפשרות אחרת: צדקה פירושה נתינה ממה ששייך לו.",
+                  "detail": 3,
+                  "source": "shiur"
+                },
+                {
+                  "text": "מה האישה מקבלת אפוא? היא אינה יכולה להשתמש במשכון של הלווה, ולא ברור אם היא זוכה בזכות לגבות את החוב. הגמרא אינה מגדירה במה היא זוכה.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s13",
+              "title": "בני רב הונא בר אבין: הנסכא אינה המחיר",
+              "amud": "ח:",
+              "text": {
+                "from": "8b.3",
+                "to": "8b.3"
+              },
+              "gist": "אותו כלל במכר: חתיכת כסף שהושארה כמשכון על שפחה אינה תשלום, ולכן המוכרים יכולים לבטל את המכר כשמחירה עולה.",
+              "bullets": [
+                {
+                  "text": "בני רב הונא בר אבין קנו שפחה בפרוטות. לא היו בידם הפרוטות, והם השאירו חתיכת כסף (נסכא) כמשכון.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "מחירה של השפחה עלה, והמוכרים רצו לבטל. רבי אמי: \"פריטי אין כאן, נסכא אין כאן\". לא היה כאן מעשה קנין.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "התוספות: לפני המכר לא היה חוב, ואם כן מה הבטיח המשכון? והאם המוכרים יכלו לחייב את השלמת המכר, או לעכב את המשכון? השאלה נשארת פתוחה בחלקה.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "s14",
+          "title": "תגובתה לכסף: מאבדת, מפנה לאחר, הסלע שלה, הכלב שלה",
+          "amud": "ח:",
+          "text": {
+            "from": "8b.4",
+            "to": "8b.13"
           },
-          {
-           "text": "תיקו: השאלה נשארת במקומה.",
-           "detail": 2,
-           "source": "gemara"
-          }
-         ],
-         "children": []
+          "gist": "שורת ברייתות על מה שהיא עושה בכסף: מאבדת אותו, שולחת אותו לאביה, לאביו או לזר, מבקשת להניחו על הסלע שלה או לתת את הככר לכלב שלה. שתי שאלות נשארות בתיקו.",
+          "bullets": [
+            {
+              "text": "בכל המקרים האלה הגמרא מבררת מה נחשב קבלה שלה: מעשה קנין, קבלת הנאה, או צירוף של שניהם.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "chart": {
+            "caption": "תשובתה ל\"התקדשי לי בזה\", ומה הדין",
+            "columns": [
+              "תשובתה",
+              "הדין",
+              "הטעם"
+            ],
+            "rows": [
+              [
+                "זורקת אותו לפניו",
+                "אינה מקודשת",
+                "פשוט: \"שקול, לא בעינא\""
+              ],
+              [
+                "זורקת אותו לים או לאור",
+                "אינה מקודשת",
+                "אין זה ניסיון לבדוק אם הוא רתחן, אף שהיא חייבת לשלם לו"
+              ],
+              [
+                "\"תנם לאבא\" או \"לאביך\"",
+                "אינה מקודשת",
+                "אין זו מתנה שהיא מעבירה הלאה, אפילו לאביה"
+              ],
+              [
+                "…\"על מנת שיקבלום לי\"",
+                "מקודשת",
+                "הוא מקבל בשבילה, אפילו אביו"
+              ],
+              [
+                "\"תנם לפלוני\"",
+                "אינה מקודשת",
+                "אין דעתה קרובה אליו"
+              ],
+              [
+                "לפלוני \"על מנת שיקבלם לי\"",
+                "מקודשת",
+                "מועיל אפילו בזר"
+              ],
+              [
+                "\"תנם על גבי סלע\": לא שלה / שלה",
+                "אינה מקודשת / מקודשת",
+                "רק סלע שלה מקבל בשבילה"
+              ],
+              [
+                "סלע של שניהם",
+                "תיקו",
+                "שאלת רב ביבי"
+              ],
+              [
+                "\"תנהו לכלב\": לא שלה / שלה",
+                "אינה מקודשת / מקודשת",
+                "רק כלב שלה"
+              ],
+              [
+                "כלב רץ אחריה",
+                "תיקו",
+                "הנאה שמקדשת, או חובה שהוא חייב בה ממילא? (רב מרי)"
+              ]
+            ],
+            "tags": [
+              [
+                null,
+                "not-effective",
+                null
+              ],
+              [
+                null,
+                "not-effective",
+                null
+              ],
+              [
+                null,
+                "not-effective",
+                null
+              ],
+              [
+                null,
+                "effective",
+                null
+              ],
+              [
+                null,
+                "not-effective",
+                null
+              ],
+              [
+                null,
+                "effective",
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "holds",
+                null
+              ],
+              [
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "holds",
+                null
+              ]
+            ]
+          },
+          "illustration": {
+            "caption": "הברייתות הראשונות בעמוד ח:: איבוד הכסף או שליחתו לאביה אינם קידושין; כסף שאביה, אביו או פלוני מקבלים \"בשבילי\" מקדש אותה.",
+            "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבעה חלקים, מימין לשמאל: הכסף נזרק בחזרה לרגלי האיש; הכסף נזרק לים ולאש; אישה מפנה את הכסף לאביה; האיש מוסר את הכסף לאב שמקבל אותו בשבילה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#F3EBDD\"/><rect x=\"237\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"459\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"681\" y=\"14\" width=\"204\" height=\"372\" rx=\"14\" fill=\"#EEE8F3\"/><use href=\"#man\" x=\"40\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"150\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#8C4A60\"/><path d=\"M150 150 Q130 170 118 202\" fill=\"none\" stroke=\"#8E929A\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><g fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"1.5\"><circle cx=\"106\" cy=\"212\" r=\"6\"/><circle cx=\"120\" cy=\"214\" r=\"6\"/><circle cx=\"134\" cy=\"212\" r=\"6\"/></g><use href=\"#woman\" x=\"250\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#8C4A60\"/><path d=\"M335 205 C335 175 348 185 350 163 C360 181 366 171 366 157 C378 179 382 185 382 205 Z\" fill=\"url(#fire)\"/><path d=\"M312 228 q12 -8 24 0 t24 0 t24 0 t24 0 t24 0\" fill=\"none\" stroke=\"#6FA3C8\" stroke-width=\"5\" stroke-linecap=\"round\"/><use href=\"#woman\" x=\"475\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"585\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#6B6F3A\"/><path d=\"M535 150 L578 150\" stroke=\"#5B6478\" stroke-width=\"2\"/><path d=\"M578 150 l-8 -5 v10 z\" fill=\"#5B6478\"/><use href=\"#man\" x=\"700\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"815\" y=\"110\" width=\"55\" height=\"110\" style=\"color:#6B6F3A\"/><circle cx=\"785\" cy=\"182\" r=\"8\" fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"1.5\"/><path d=\"M760 166 L805 166\" stroke=\"#5B6478\" stroke-width=\"2\"/><path d=\"M805 166 l-8 -5 v10 z\" fill=\"#5B6478\"/><use href=\"#mark-no\" x=\"47\" y=\"292\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"269\" y=\"292\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"491\" y=\"292\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"721\" y=\"292\" width=\"26\" height=\"26\"/></g><text x=\"783\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">זורקת לפניו</text><text x=\"561\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">לים או לאור</text><text x=\"339\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">\"תנם לאבא\"</text><text x=\"117\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">מקבל בשבילה</text><text x=\"783\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">\"שקול, לא בעינא\"</text><text x=\"561\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">או לכל דבר האבד</text><text x=\"339\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">או \"לאביך\"</text><text x=\"117\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">\"על מנת שיקבלום לי\"</text><text x=\"783\" y=\"244\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">בחזרה לרגליו</text><text x=\"561\" y=\"250\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">אבד</text><text x=\"288\" y=\"244\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">אביה</text><text x=\"58\" y=\"244\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">השליח שלה</text><text x=\"778\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"556\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"334\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"122\" y=\"311\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"783\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">וזה פשוט</text><text x=\"561\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">אף שהיא חייבת</text><text x=\"561\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">לשלם לו</text><text x=\"339\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">אפילו אביה,</text><text x=\"339\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">שהיא רוצה להיטיב עמו</text><text x=\"117\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">אפילו אביו,</text><text x=\"117\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">או פלוני</text><text x=\"450\" y=\"424\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">רק כשמישהו מקבל את הכסף בשבילה, זו קבלה שלה</text></svg>"
+          },
+          "continues": "המקרה הבא בא מיד אחר כך: ככר שניתנת לעני שהיא מפרנסת, ואחריו מקרי \"תן, תן\" בדף ט.",
+          "children": [
+            {
+              "id": "s15",
+              "title": "זורקת לים או לאור: דחייה, ולא ניסיון לבדוק אם הוא רתחן",
+              "amud": "ח:",
+              "text": {
+                "from": "8b.4",
+                "to": "8b.5"
+              },
+              "gist": "איבוד הכסף אינו קידושין, אף שהיא תהיה חייבת לו עליו. זריקתו בחזרה לפניו – לא מיבעיא.",
+              "bullets": [
+                {
+                  "text": "ברייתא (תוספתא ב, ט): נטלה את המנה וזרקה אותו לים, לאור, או לכל דבר האבד – אינה מקודשת.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "הגמרא שואלת: האם משמע שאם זרקה אותו לפניו – הווי קידושין? הרי היא אומרת לו: \"שקול, לא בעינא\"!",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "תשובה, בדרך של \"לא מיבעיא\": זריקה לפניו – פשוט שאינה קידושין.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "החידוש הוא באיבוד. כיוון שהיא חייבת לשלם לו, היה אפשר לחשוב שקיבלה את הכסף לשם קידושין ואיבדה אותו כדי לבדוק \"אי רתחנא הוא או לא\". הברייתא מלמדת שגם כך אינה מקודשת.",
+                  "detail": 2,
+                  "source": "gemara"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s16",
+              "title": "תנם לאחר: דחייה, או שליחות \"על מנת שיקבלום לי\"",
+              "amud": "ח:",
+              "text": {
+                "from": "8b.6",
+                "to": "8b.10"
+              },
+              "gist": "שליחת הכסף לאביה, לאביו או לזר אינה קידושין. כשהיא מוסיפה \"על מנת שיקבלום לי\", המקבל נעשה לשליח שלה. הגמרא מסבירה מדוע צריך כל אחד מהמקרים.",
+              "bullets": [],
+              "children": [
+                {
+                  "id": "s17",
+                  "title": "אבא ואביך: כל אחד מלמד כוחה של בבא אחרת",
+                  "amud": "ח:",
+                  "text": {
+                    "from": "8b.6",
+                    "to": "8b.7"
+                  },
+                  "gist": "\"תנם לאבא\" בא להודיע כוחה של הרישא, ו\"לאביך\" – כוחה של הסיפא.",
+                  "bullets": [
+                    {
+                      "text": "ברייתא: \"תנם לאבא ולאביך\" – אינה מקודשת. \"על מנת שיקבלום לי\" – מקודשת.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "\"אבא\" מלמד כמה רחוקה הרישא: אפילו כשאביה, שהיא בוודאי רוצה להיטיב עמו, מקבל את הכסף – אינה מקודשת.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "\"אביך\" מלמד כמה רחוקה הסיפא: עם התנאי, אפילו אביו יכול לקבל בשבילה.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "התנאי הופך את המקבל לשליח שלה, וקבלתו היא קבלתה.",
+                      "detail": 2,
+                      "source": "shiur"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "s18",
+                  "title": "פלוני: מדוע צריך גם את המקרה של הזר",
+                  "amud": "ח:",
+                  "text": {
+                    "from": "8b.8",
+                    "to": "8b.10"
+                  },
+                  "gist": "אותם שני דינים נאמרים גם בזר. כל מקרה לבדו היה יכול להתפרש בכיוון ההפוך, ולכן צריך את שניהם.",
+                  "bullets": [
+                    {
+                      "text": "ברייתא: \"תנם לפלוני\" – אינה מקודשת. \"על מנת שיקבלם לי\" – מקודשת.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "מהקרובים בלבד היה אפשר לחשוב שהתנאי מועיל רק משום שהיא סומכת עליהם שיחזיקו את הכסף בשבילה, ולא בזר.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "מהזר בלבד היה אפשר לחשוב ש\"תנם לפלוני\" אינו מועיל רק משום שאין דעתה קרובה אליו. אצל אביה או אביו, ייתכן שהיא נותנת להם במתנה כסף שכבר קיבלה, ואז מקודשת.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "רש\"י: אין זה דומה ל\"תן מנה לפלוני ואתקדש אני לך\". שם היא עצמה יזמה את ההסדר, וכאן היא לועגת לו.",
+                      "detail": 3,
+                      "source": "shiur"
+                    }
+                  ],
+                  "chart": {
+                    "caption": "מדוע הברייתא שונה גם את הקרובים וגם את הזר",
+                    "columns": [
+                      "אילו נשנה רק זה",
+                      "היינו חושבים",
+                      "מה מלמד המקרה השני"
+                    ],
+                    "rows": [
+                      [
+                        "אביה או אביו",
+                        "התנאי מועיל רק בקרובים שהיא סומכת עליהם שיחזיקו את הכסף בשבילה",
+                        "פלוני: התנאי מועיל אפילו בזר"
+                      ],
+                      [
+                        "פלוני",
+                        "בלי התנאי, אב יכול לקבל את הכסף כמתנה שנתנה לו אחרי שקיבלה אותו",
+                        "אבא: גם בלי התנאי – אינה מקודשת"
+                      ]
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "s19",
+              "title": "הסלע שלה, הכלב שלה: קבלה דרך מה ששייך לה",
+              "amud": "ח:",
+              "text": {
+                "from": "8b.11",
+                "to": "8b.13"
+              },
+              "gist": "כסף שהונח על הסלע שלה, או ככר שניתנה לכלב שלה, מקדשים אותה. סלע משותף וכלב שתוקף אותה נשארים בתיקו.",
+              "bullets": [],
+              "illustration": {
+                "caption": "מקרי הסלע והכלב (ח:): הסלע או הכלב שלה מקדשים אותה, של אחר אינם מקדשים, והשאלות של רב ביבי ורב מרי נשארות בתיקו.",
+                "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: מטבעות מונחים על שלושה סלעים – אחד שאינו שלה, אחד שלה ואחד של שניהם. משמאל: ככר שניתנת לכלב שאינו שלה, לכלב שלה, וכלב שרץ אחרי אישה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"376\" rx=\"14\" fill=\"#F3EBDD\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"376\" rx=\"14\" fill=\"#E3EAF3\"/><g fill=\"#A9A095\" stroke=\"#857B70\" stroke-width=\"2\"><path d=\"M35 245 L43 205 L67 188 L105 192 L131 210 L137 245 Z\"/><path d=\"M177 245 L185 205 L209 188 L247 192 L273 210 L279 245 Z\"/><path d=\"M319 245 L327 205 L351 188 L389 192 L415 210 L421 245 Z\"/></g><g fill=\"#D5D7DB\" stroke=\"#8E929A\" stroke-width=\"1.5\"><circle cx=\"77\" cy=\"184\" r=\"7\"/><circle cx=\"93\" cy=\"184\" r=\"7\"/><circle cx=\"85\" cy=\"176\" r=\"7\"/><circle cx=\"219\" cy=\"184\" r=\"7\"/><circle cx=\"235\" cy=\"184\" r=\"7\"/><circle cx=\"227\" cy=\"176\" r=\"7\"/><circle cx=\"361\" cy=\"184\" r=\"7\"/><circle cx=\"377\" cy=\"184\" r=\"7\"/><circle cx=\"369\" cy=\"176\" r=\"7\"/></g><use href=\"#mark-no\" x=\"70\" y=\"288\" width=\"30\" height=\"30\"/><use href=\"#mark-ok\" x=\"212\" y=\"288\" width=\"30\" height=\"30\"/><circle cx=\"369\" cy=\"303\" r=\"15\" fill=\"#ECEAE6\" stroke=\"#8A8F9A\" stroke-width=\"2.5\"/><g transform=\"translate(512,225)\"><path d=\"M-34 -4 q-14 -10 -10 -24\" fill=\"none\" stroke=\"#8A6A4A\" stroke-width=\"5\" stroke-linecap=\"round\"/><ellipse cx=\"0\" cy=\"0\" rx=\"34\" ry=\"14\" fill=\"#8A6A4A\"/><g fill=\"#6E5238\"><rect x=\"-28\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"-16\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"14\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"24\" y=\"6\" width=\"6\" height=\"22\"/></g><circle cx=\"38\" cy=\"-12\" r=\"12\" fill=\"#8A6A4A\"/><ellipse cx=\"34\" cy=\"-22\" rx=\"5\" ry=\"8\" fill=\"#6E5238\"/><ellipse cx=\"49\" cy=\"-8\" rx=\"7\" ry=\"5\" fill=\"#7A5C40\"/><circle cx=\"40\" cy=\"-15\" r=\"2\" fill=\"#1A1F2E\"/></g><ellipse cx=\"580\" cy=\"222\" rx=\"12\" ry=\"7\" fill=\"#C9954E\"/><g transform=\"translate(645,225)\"><path d=\"M-34 -4 q-14 -10 -10 -24\" fill=\"none\" stroke=\"#6E5238\" stroke-width=\"5\" stroke-linecap=\"round\"/><ellipse cx=\"0\" cy=\"0\" rx=\"34\" ry=\"14\" fill=\"#B08A5E\"/><g fill=\"#8A6A4A\"><rect x=\"-28\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"-16\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"14\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"24\" y=\"6\" width=\"6\" height=\"22\"/></g><circle cx=\"38\" cy=\"-12\" r=\"12\" fill=\"#B08A5E\"/><ellipse cx=\"34\" cy=\"-22\" rx=\"5\" ry=\"8\" fill=\"#8A6A4A\"/><ellipse cx=\"49\" cy=\"-8\" rx=\"7\" ry=\"5\" fill=\"#9A7A54\"/><circle cx=\"40\" cy=\"-15\" r=\"2\" fill=\"#1A1F2E\"/></g><ellipse cx=\"713\" cy=\"222\" rx=\"12\" ry=\"7\" fill=\"#C9954E\"/><g transform=\"translate(778,228)\"><path d=\"M-34 -4 q-14 -10 -10 -24\" fill=\"none\" stroke=\"#4A3A2E\" stroke-width=\"5\" stroke-linecap=\"round\"/><ellipse cx=\"0\" cy=\"0\" rx=\"34\" ry=\"14\" fill=\"#5E4E3E\"/><g fill=\"#4A3A2E\"><rect x=\"-28\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"-16\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"14\" y=\"6\" width=\"6\" height=\"22\"/><rect x=\"24\" y=\"6\" width=\"6\" height=\"22\"/></g><circle cx=\"38\" cy=\"-12\" r=\"12\" fill=\"#5E4E3E\"/><ellipse cx=\"34\" cy=\"-22\" rx=\"5\" ry=\"8\" fill=\"#4A3A2E\"/><ellipse cx=\"49\" cy=\"-8\" rx=\"7\" ry=\"5\" fill=\"#4A3A2E\"/><circle cx=\"40\" cy=\"-15\" r=\"2\" fill=\"#EDE3CF\"/></g><use href=\"#woman\" x=\"838\" y=\"150\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#mark-no\" x=\"513\" y=\"288\" width=\"30\" height=\"30\"/><use href=\"#mark-ok\" x=\"646\" y=\"288\" width=\"30\" height=\"30\"/><circle cx=\"807\" cy=\"303\" r=\"15\" fill=\"#ECEAE6\" stroke=\"#8A8F9A\" stroke-width=\"2.5\"/></g><text x=\"673\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#5A4A3A\">\"תנם על גבי סלע\"</text><text x=\"673\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">הברייתא ושאלת רב ביבי</text><text x=\"228\" y=\"46\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">\"תנהו לכלב\"</text><text x=\"228\" y=\"68\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">הברייתא ושאלת רב מרי</text><text x=\"815\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">לא שלה</text><text x=\"673\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">שלה</text><text x=\"531\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">של שניהם</text><text x=\"531\" y=\"309\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5B6478\">?</text><text x=\"815\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"673\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"531\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5B6478\">תיקו</text><text x=\"531\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">רב ביבי</text><text x=\"372\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">לא הכלב שלה</text><text x=\"239\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">הכלב שלה</text><text x=\"93\" y=\"270\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">רץ אחריה</text><text x=\"93\" y=\"309\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"18\" font-weight=\"600\" fill=\"#5B6478\">?</text><text x=\"372\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"239\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"93\" y=\"345\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5B6478\">תיקו</text><text x=\"93\" y=\"363\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">רב מרי</text><text x=\"450\" y=\"420\" direction=\"rtl\" text-anchor=\"middle\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#5B6478\">הצלה מן הכלב: הנאה שמקדשת אותה, או חובה שהוא חייב בה ממילא?</text></svg>"
+              },
+              "children": [
+                {
+                  "id": "s20",
+                  "title": "תנם על גבי סלע: שלה, לא שלה, או של שניהם? תיקו",
+                  "amud": "ח:",
+                  "text": {
+                    "from": "8b.11",
+                    "to": "8b.11"
+                  },
+                  "gist": "הסלע שלה מקדש אותה, וסלע של אחר אינו מקדש. שאלת רב ביבי על סלע ששייך לשניהם נשארת בלי הכרעה.",
+                  "bullets": [
+                    {
+                      "text": "ברייתא: \"תנם על גבי סלע\" – אינה מקודשת. ואם היה הסלע שלה – מקודשת.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "רב ביבי שואל: סלע של שניהם, מהו? תיקו.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "רש\"י: הסלע שלה קונה לה את הכסף בקנין חצר.",
+                      "detail": 2,
+                      "source": "shiur"
+                    },
+                    {
+                      "text": "התוספות: אילו היה זה קנין חצר, סלע משותף היה פשוט, שהרי רכוש משותף של שותפים אינו קונה לאחד מהם. השאלה היא אם היא בטוחה שתוכל לקחת את הכסף משם: על הסלע שלה – כן, על סלע של אחר – לא, ועל סלע משותף – לא ברור.",
+                      "detail": 3,
+                      "source": "shiur"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "s21",
+                  "title": "תנהו לכלב: רק לכלב שלה",
+                  "amud": "ח:",
+                  "text": {
+                    "from": "8b.12",
+                    "to": "8b.12"
+                  },
+                  "gist": "ככר שניתנה לכלב שלה מקדשת אותה; לכלב של אחר – אינה מקדשת.",
+                  "bullets": [
+                    {
+                      "text": "ברייתא: \"התקדשי לי בככר\" – \"תנהו לכלב\" – אינה מקודשת. ואם היה הכלב שלה – מקודשת.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "נשאר פתוח אם היא קונה את הככר דרך הכלב שלה, כמו בסלע, או שכסף הקידושין הוא ההנאה מכך שכלבה ניזון על חשבונו.",
+                      "detail": 3,
+                      "source": "shiur"
+                    }
+                  ],
+                  "children": []
+                },
+                {
+                  "id": "s22",
+                  "title": "רב מרי: כלב רץ אחריה – האם ההצלה היא הנאה? תיקו",
+                  "amud": "ח:",
+                  "text": {
+                    "from": "8b.12",
+                    "to": "8b.13"
+                  },
+                  "gist": "אם הכלב תקף אותה, האם ההצלה נחשבת הנאה שמקדשת אותה, או שהיא יכולה לומר שהוא היה חייב להציל אותה בכל מקרה? השאלה נשארת בלי הכרעה.",
+                  "flag": "על פי הגמרא בלבד",
+                  "bullets": [
+                    {
+                      "text": "רב מרי שואל: כלב רץ אחריה לנשוך אותה, והיא אמרה \"תנהו לכלב\" – מהו?",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "אולי בהנאה שהיא ניצלת מן הכלב \"גמרה ומקניא ליה נפשה\".",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "או שהיא יכולה לומר לו: \"מדאורייתא חיובי מחייבת לאצולן\", מכוח \"לֹא תַעֲמֹד עַל דַּם רֵעֶךָ\" (ויקרא יט, טז), ולכן אינה חייבת לו דבר.",
+                      "detail": 2,
+                      "source": "gemara"
+                    },
+                    {
+                      "text": "תיקו: השאלה נשארת במקומה.",
+                      "detail": 2,
+                      "source": "gemara"
+                    }
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
         }
-       ]
-      }
-     ]
+      ]
     }
-   ]
-  }
- ],
- "key_terms": [
-  {
-   "term": "שוה כסף",
-   "hebrew": "",
-   "sense": "חפץ בעל ערך כספי שבא במקום כסף",
-   "definition": "נכס שאינו מטבע אבל יש לו ערך כספי, ויכול לבוא במקום כסף במעשים שצריך בהם כסף, כמו קידושי כסף.",
-   "on_this_daf": "האם שוה כסף צריך שווי קבוע כמו כסף (רב יוסף), או רק ערך אמיתי, אפילו אישי (רבה), כפי שעולה מהערכת הכהן לעצמו.",
-   "aliases": [
-    "ששוה כסף",
-    "בשוה כסף"
-   ],
-   "sections": [
-    "s1",
-    "s2",
-    "s3"
-   ]
-  },
-  {
-   "term": "שומא",
-   "hebrew": "",
-   "sense": "הערכת שוויו של חפץ",
-   "definition": "הערכה מסודרת של שווי חפץ, שצריך אותה כשהסכמת הצדדים תלויה בידיעת ערכו.",
-   "on_this_daf": "השיעור קושר את ההבחנה של רבנו תם בין משי לאבנים טובות, ואת המנהג לקדש בטבעת פשוטה, לשאלה אם חפץ שמקדשים בו צריך שומא.",
-   "aliases": [
-    "שומה",
-    "בשומא"
-   ],
-   "sections": [
-    "s1",
-    "s2"
-   ]
-  },
-  {
-   "term": "פדיון הבן",
-   "hebrew": "",
-   "sense": "פדיון הבן הבכור",
-   "definition": "חובת האב לפדות את בנו הבכור בנתינת חמש סלעים לכהן, במטבע או בנכס ששווה סכום זה.",
-   "on_this_daf": "עגל או טלית \"שווים חמש סלעים\" פודים את הבן משום שהכהן קיבל אותם בשווי הזה, כמו שעשה רב כהנא בסודר. רב אשי מצמצם זאת לאדם גדול.",
-   "aliases": [
-    "מפדיון הבן",
-    "בפדיון הבן"
-   ],
-   "sections": [
-    "s1",
-    "s2",
-    "s3"
-   ]
-  },
-  {
-   "term": "על מנת",
-   "hebrew": "",
-   "sense": "תנאי שמוצמד למעשה קנין",
-   "definition": "תנאי שנאמר בלשון \"על מנת\", שלפיו המעשה חל מעכשיו, בתנאי שהתנאי יתקיים אחר כך.",
-   "on_this_daf": "רבי אלעזר רואה ב\"במנה\" ונתינת דינר אחד כאילו אמר \"על מנת שאתן לך מנה\", ולכן היא מקודשת מיד, כדברי רב הונא אמר רב.",
-   "aliases": [
-    "כל האומר על מנת כאומר מעכשיו דמי"
-   ],
-   "sections": [
-    "s4",
-    "s5"
-   ]
-  },
-  {
-   "term": "משכון",
-   "hebrew": "",
-   "sense": "בטוחה לחוב או לתשלום",
-   "definition": "חפץ שניתן כבטוחה לחוב או לתשלום שהובטח, ונשאר בידי המלווה עד שישולם.",
-   "on_this_daf": "משכון שניתן תמורת סכום שהובטח אינו מקדש ואינו קונה, אבל בעל חוב קונה משכון של אחר במידה שמאפשרת לו לקדש בו (רבי יצחק).",
-   "aliases": [
-    "המשכון",
-    "במשכון"
-   ],
-   "sections": [
-    "s10",
-    "s11",
-    "s12",
-    "s13"
-   ]
-  },
-  {
-   "term": "שליח",
-   "hebrew": "",
-   "sense": "מי שמקבל בשביל אחר",
-   "definition": "אדם שמונה לפעול בשביל אחר, ופעולתו, כמו קבלת כסף, נחשבת מבחינה הלכתית כפעולה של המשלח.",
-   "on_this_daf": "\"על מנת שיקבלום לי\" הופך את אביה, את אביו ואפילו זר לשליח שלה, ולכן הכסף מקדש אותה.",
-   "aliases": [
-    "לשליח",
-    "השליח"
-   ],
-   "sections": [
-    "s16",
-    "s17",
-    "s18"
-   ]
-  },
-  {
-   "term": "קנין חצר",
-   "hebrew": "",
-   "sense": "קנין דרך רשותו של אדם",
-   "definition": "הכלל שרשותו של אדם, כמו חצר, קונה בשבילו חפצים שמונחים בה.",
-   "on_this_daf": "רש\"י מסביר שכסף שהונח על הסלע שלה מקדש אותה בקנין חצר. התוספות דוחים זאת בגלל השאלה על סלע משותף.",
-   "aliases": [
-    "בקנין חצר"
-   ],
-   "sections": [
-    "s19",
-    "s20"
-   ]
-  }
- ]
+  ],
+  "key_terms": [
+    {
+      "term": "שוה כסף",
+      "hebrew": "",
+      "sense": "חפץ בעל ערך כספי שבא במקום כסף",
+      "definition": "נכס שאינו מטבע אבל יש לו ערך כספי, ויכול לבוא במקום כסף במעשים שצריך בהם כסף, כמו קידושי כסף.",
+      "on_this_daf": "האם שוה כסף צריך שווי קבוע כמו כסף (רב יוסף), או רק ערך אמיתי, אפילו אישי (רבה), כפי שעולה מהערכת הכהן לעצמו.",
+      "aliases": [
+        "ששוה כסף",
+        "בשוה כסף"
+      ],
+      "sections": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "term": "שומא",
+      "hebrew": "",
+      "sense": "הערכת שוויו של חפץ",
+      "definition": "הערכה מסודרת של שווי חפץ, שצריך אותה כשהסכמת הצדדים תלויה בידיעת ערכו.",
+      "on_this_daf": "השיעור קושר את ההבחנה של רבנו תם בין משי לאבנים טובות, ואת המנהג לקדש בטבעת פשוטה, לשאלה אם חפץ שמקדשים בו צריך שומא.",
+      "aliases": [
+        "שומה",
+        "בשומא"
+      ],
+      "sections": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "term": "פדיון הבן",
+      "hebrew": "",
+      "sense": "פדיון הבן הבכור",
+      "definition": "חובת האב לפדות את בנו הבכור בנתינת חמש סלעים לכהן, במטבע או בנכס ששווה סכום זה.",
+      "on_this_daf": "עגל או טלית \"שווים חמש סלעים\" פודים את הבן משום שהכהן קיבל אותם בשווי הזה, כמו שעשה רב כהנא בסודר. רב אשי מצמצם זאת לאדם גדול.",
+      "aliases": [
+        "מפדיון הבן",
+        "בפדיון הבן"
+      ],
+      "sections": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "term": "על מנת",
+      "hebrew": "",
+      "sense": "תנאי שמוצמד למעשה קנין",
+      "definition": "תנאי שנאמר בלשון \"על מנת\", שלפיו המעשה חל מעכשיו, בתנאי שהתנאי יתקיים אחר כך.",
+      "on_this_daf": "רבי אלעזר רואה ב\"במנה\" ונתינת דינר אחד כאילו אמר \"על מנת שאתן לך מנה\", ולכן היא מקודשת מיד, כדברי רב הונא אמר רב.",
+      "aliases": [
+        "כל האומר על מנת כאומר מעכשיו דמי"
+      ],
+      "sections": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "term": "משכון",
+      "hebrew": "",
+      "sense": "בטוחה לחוב או לתשלום",
+      "definition": "חפץ שניתן כבטוחה לחוב או לתשלום שהובטח, ונשאר בידי המלווה עד שישולם.",
+      "on_this_daf": "משכון שניתן תמורת סכום שהובטח אינו מקדש ואינו קונה, אבל בעל חוב קונה משכון של אחר במידה שמאפשרת לו לקדש בו (רבי יצחק).",
+      "aliases": [
+        "המשכון",
+        "במשכון"
+      ],
+      "sections": [
+        "s10",
+        "s11",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "term": "שליח",
+      "hebrew": "",
+      "sense": "מי שמקבל בשביל אחר",
+      "definition": "אדם שמונה לפעול בשביל אחר, ופעולתו, כמו קבלת כסף, נחשבת מבחינה הלכתית כפעולה של המשלח.",
+      "on_this_daf": "\"על מנת שיקבלום לי\" הופך את אביה, את אביו ואפילו זר לשליח שלה, ולכן הכסף מקדש אותה.",
+      "aliases": [
+        "לשליח",
+        "השליח"
+      ],
+      "sections": [
+        "s16",
+        "s17",
+        "s18"
+      ]
+    },
+    {
+      "term": "קנין חצר",
+      "hebrew": "",
+      "sense": "קנין דרך רשותו של אדם",
+      "definition": "הכלל שרשותו של אדם, כמו חצר, קונה בשבילו חפצים שמונחים בה.",
+      "on_this_daf": "רש\"י מסביר שכסף שהונח על הסלע שלה מקדש אותה בקנין חצר. התוספות דוחים זאת בגלל השאלה על סלע משותף.",
+      "aliases": [
+        "בקנין חצר"
+      ],
+      "sections": [
+        "s19",
+        "s20"
+      ]
+    }
+  ]
 }

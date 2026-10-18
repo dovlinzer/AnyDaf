@@ -1,0 +1,26 @@
+{"charts": {
+  "s2": [
+    [null, "acquires", "acquires", "not-acquired", "acquires"],
+    [null, "acquires", "not-acquired", "acquires", "acquires"],
+    [null, "acquires", "not-acquired", "not-acquired", "acquires"]
+  ],
+  "s5": [
+    [null, "acquires", "acquires", null],
+    [null, "acquires", "acquires", null],
+    [null, "acquires", "acquires", null],
+    [null, "acquires", "acquires", null],
+    [null, "acquires", "acquires", null]
+  ],
+  "s12": [
+    [null, "not-acquired", null],
+    [null, "not-acquired", null],
+    [null, "acquires", null],
+    [null, "acquires", null],
+    [null, "acquires", null]
+  ],
+  "s17": [
+    [null, null, "acquires", null],
+    [null, null, null, null]
+  ]
+},
+"tag_questions": []}

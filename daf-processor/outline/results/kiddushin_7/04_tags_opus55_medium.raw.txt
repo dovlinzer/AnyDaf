@@ -1,0 +1,30 @@
+{"charts": {
+  "s1": [
+    [null, null, null, "effective"],
+    [null, null, null, "effective"],
+    [null, null, null, "effective"],
+    [null, null, null, "effective"]
+  ],
+  "s11": [
+    [null, null, null, null, "holds"],
+    [null, null, null, null, "holds"],
+    [null, null, null, null, "holds"],
+    [null, null, null, null, "holds"],
+    [null, null, null, null, "holds"],
+    [null, null, null, null, "holds"],
+    [null, null, null, null, "holds"]
+  ],
+  "s15": [
+    [null, null, "not-effective", null],
+    [null, null, "not-effective", null],
+    [null, null, "not-effective", null]
+  ]
+},
+"tag_questions": [
+  {"section": "s15", "cell": "Rabba / \"Whatever it is worth\"", "note": "\"No shuma needed\" is the ruling itself but no tag in the list covers a procedural requirement/non-requirement of appraisal."},
+  {"section": "s15", "cell": "Rabba / \"Said 50, worth 50\"", "note": "\"No shuma needed\" - same issue, no matching tag for appraisal requirement."},
+  {"section": "s15", "cell": "Rav Yosef (first version) / \"Whatever it is worth\"", "note": "\"No shuma needed\" - no matching tag."},
+  {"section": "s15", "cell": "Rav Yosef (first version) / \"Said 50, worth 50\"", "note": "\"Shuma needed\" - no matching tag for this procedural ruling."},
+  {"section": "s15", "cell": "Rav Yosef (other version) / \"Whatever it is worth\"", "note": "\"Shuma needed\" - no matching tag."},
+  {"section": "s15", "cell": "Rav Yosef (other version) / \"Said 50, worth 50\"", "note": "\"Shuma needed\" - no matching tag."}
+]}

@@ -1,0 +1,17 @@
+{
+  "charts": {
+    "s1": [
+      [null, null, "oath", "divides:1/2,1/2"],
+      [null, null, "oath", "divides:3/4,1/4"],
+      [null, null, "oath", "divides:1/2,1/2"],
+      [null, null, "no-oath", "divides"]
+    ],
+    "s8": null,
+    "s12": [
+      [null, null, "divides:1/2,1/2", null],
+      [null, "divides", "oath", null],
+      [null, "divides", "oath", null]
+    ]
+  },
+  "tag_questions": []
+}

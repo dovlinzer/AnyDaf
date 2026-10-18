@@ -1,0 +1,13 @@
+```json
+{
+  "charts": {
+    "s1": null,
+    "s11": null,
+    "s12": [
+      [null, "not-effective", "effective"],
+      [null, "effective", "not-effective"]
+    ]
+  },
+  "tag_questions": []
+}
+```

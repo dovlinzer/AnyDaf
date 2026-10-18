@@ -1,0 +1,26 @@
+{"charts": {
+  "s4": [
+    [null, null, "effective", null],
+    [null, null, "not-effective", null],
+    [null, null, "not-effective", null],
+    [null, null, "not-effective", null],
+    [null, null, "effective", null]
+  ],
+  "s14": [
+    [null, "not-effective", null],
+    [null, "not-effective", null],
+    [null, "not-effective", null],
+    [null, "effective", null],
+    [null, "not-effective", null],
+    [null, "effective", null],
+    [null, null, null],
+    [null, "holds", null],
+    [null, null, null],
+    [null, "holds", null]
+  ],
+  "s18": null
+},
+"tag_questions": [
+  {"section": "s14", "cell": "row 7 col 2 (\"Not betrothed / Betrothed\" for rock not hers/hers)", "note": "Cell combines two outcomes for two sub-cases (not her rock vs her rock); no single tag can represent both results in one cell."},
+  {"section": "s14", "cell": "row 9 col 2 (\"Not betrothed / Betrothed\" for dog not hers/hers)", "note": "Cell combines two outcomes for two sub-cases (not her dog vs her dog); no single tag can represent both results in one cell."}
+]}

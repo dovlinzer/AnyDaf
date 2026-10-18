@@ -1,0 +1,23 @@
+{"charts": {
+  "s7": [
+    [null, null, null, "effective"],
+    [null, null, null, null]
+  ],
+  "s11": [
+    [null, "divides:1/2,1/2", "invalid", null],
+    [null, "divides:1/2,1/2", "divides:1/2,1/2", null]
+  ],
+  "s13": [
+    [null, null, null, null],
+    [null, null, "keeps", "returns"],
+    [null, null, "keeps", "returns"]
+  ],
+  "s19": [
+    [null, "divides:1/2,1/2", "takes", null],
+    [null, "divides:1/2,1/2", "takes", null]
+  ]
+},
+"tag_questions": [
+  {"section": "s7", "cell": "Bill of divorce (Rav Chisda) / Result", "note": "Cell gives a conditional outcome ('divorced if he cannot pull it back; not divorced if he can') rather than a single result, so no single effective/not-effective tag fits cleanly."},
+  {"section": "s13", "cell": "Reverse the tanna'im / R. Yosei on a ketubah, still married", "note": "Cell gives a compound/conditional outcome (returns it while married, but to neither after widowhood or divorce), so no single returns/not-returned tag fits."}
+]}

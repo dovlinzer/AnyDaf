@@ -1,0 +1,21 @@
+{"charts": {
+  "s2": [
+    [null, "exempt", null],
+    [null, "exempt", null],
+    [null, "exempt", null],
+    [null, "oath", null]
+  ],
+  "s8": [
+    [null, null, "oath", "exempt"],
+    [null, null, "exempt", "oath"]
+  ],
+  "s11": [
+    [null, null, "takes"],
+    [null, null, "no-oath"]
+  ],
+  "s15": null
+},
+"tag_questions": [
+  {"section": "s11", "cell": "row1 col3", "note": "Cell combines 'swears and collects' - tagged as 'takes' since that's the final result, but could also be read as 'oath'."},
+  {"section": "s11", "cell": "row2 col3", "note": "Cell says owners do not swear and collect; tagged as 'no-oath' but could also be read as 'no-claim' or left ambiguous."}
+]}

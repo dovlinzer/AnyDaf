@@ -1,0 +1,22 @@
+{"charts": {
+  "s2": [
+    [null, null, null, "not-effective"],
+    [null, null, null, "not-effective"],
+    [null, null, null, "effective"]
+  ],
+  "s12": [
+    [null, "divides:1/2,1/2", null, "not-effective"],
+    [null, "divides:1/2,1/2", "divides:1/2,1/2", "effective"]
+  ],
+  "s14": null,
+  "s20": [
+    [null, null, null, null],
+    [null, "divides:1/2,1/2", null, null],
+    [null, "divides:1/2,1/2", null, null]
+  ]
+},
+"tag_questions": [
+  {"section": "s12", "cell": "Rebbi / Unratified note", "note": "Cell bundles two conditional outcomes ('creditor gets nothing unless he ratifies it; then divide') — no single tag captures the conditional structure."},
+  {"section": "s20", "cell": "R. Elazar / Ruling", "note": "Describes each party taking his own held portion with a conditional equal division if both hold the same part — no single tag fits this compound rule."},
+  {"section": "s20", "cell": "R. Elazar / The garment baraita", "note": "'Each takes what he holds' describes independent possession rather than a shared division; unclear which tag (takes/keeps) applies without specified shares."}
+]}

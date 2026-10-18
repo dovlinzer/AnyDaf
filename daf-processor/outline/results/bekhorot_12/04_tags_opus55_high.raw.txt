@@ -1,0 +1,15 @@
+{"charts": {
+  "s2": [
+    [null, null, null, "invalid"],
+    [null, null, null, "valid"]
+  ],
+  "s6": [
+    [null, "forbidden", null, null],
+    [null, "permitted", null, null]
+  ],
+  "s10": null,
+  "s12": [
+    [null, null, null, "not-effective"],
+    [null, null, null, "effective"]
+  ]
+}, "tag_questions": []}

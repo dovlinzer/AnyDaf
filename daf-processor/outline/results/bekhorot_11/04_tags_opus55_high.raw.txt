@@ -1,0 +1,29 @@
+```json
+{
+  "charts": {
+    "s2": [
+      [null, null, null, null],
+      [null, null, null, null]
+    ],
+    "s8": [
+      [null, "forbidden", "valid", null],
+      [null, "permitted", "valid", null]
+    ],
+    "s16": null,
+    "s19": [
+      [null, null, null, null, null],
+      [null, null, null, null, null]
+    ]
+  },
+  "tag_questions": [
+    {"section": "s2", "cell": "row1 col4 (Not followed)", "note": "Describes whether a halakhic position is accepted, not a party outcome — no tag in the list fits 'not followed'."},
+    {"section": "s2", "cell": "row2 col4 (Followed)", "note": "Describes whether a halakhic position is accepted — no tag fits 'followed'."},
+    {"section": "s19", "cell": "row1 col3 (Like the gentile's own produce)", "note": "Describes the status/ownership outcome of the produce; no existing tag (acquires/keeps) clearly matches a status determination rather than an action."},
+    {"section": "s19", "cell": "row1 col4 (Separate terumah: Yes)", "note": "A ruling that one must separate tithes — no tag for 'must separate/tithe' exists."},
+    {"section": "s19", "cell": "row1 col5 (Give to priest: Yes)", "note": "A ruling that terumah must be given to the priest — no tag captures this transfer obligation."},
+    {"section": "s19", "cell": "row2 col3 (Demai)", "note": "Describes the uncertain status of the produce; no tag matches a status label like 'demai'."},
+    {"section": "s19", "cell": "row2 col4 (Separate terumah: Yes)", "note": "Same obligation as above, no matching tag."},
+    {"section": "s19", "cell": "row2 col5 (Only if priest brings proof)", "note": "A conditional ruling on giving terumah — no tag captures this nuanced conditional outcome."}
+  ]
+}
+```

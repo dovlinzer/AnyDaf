@@ -1,0 +1,14 @@
+{"charts": {
+  "s8": [
+    [null, null, null],
+    [null, null, "exempt"],
+    [null, null, "exempt"]
+  ],
+  "s11": [
+    [null, null, "permitted", "permitted", "forbidden"],
+    [null, null, "permitted", "forbidden", "forbidden"]
+  ]
+},
+"tag_questions": [
+  {"section": "s8", "cell": "row1,col3", "note": "\"Must always be covered\" describes an obligation to perform the mitzva of covering, not a monetary or status outcome from the given tag list; no existing tag fits this kind of ritual-obligation result."}
+]}

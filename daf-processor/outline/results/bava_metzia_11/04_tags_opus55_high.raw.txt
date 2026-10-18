@@ -1,0 +1,29 @@
+{
+  "charts": {
+    "s1": [
+      [null, null, "exempt", "exempt"],
+      [null, null, null, null]
+    ],
+    "s2": [
+      [null, "effective", "acquires", "acquires"],
+      [null, "effective", "not-acquired", "not-acquired"]
+    ],
+    "s10": [
+      [null, "not-returned", "keeps", null],
+      [null, "not-returned", "not-returned", null]
+    ],
+    "s14": [
+      [null, null, null, "valid"],
+      [null, null, null, "invalid"],
+      [null, null, null, "valid"],
+      [null, null, null, "valid"]
+    ]
+  },
+  "tag_questions": [
+    {
+      "section": "s1",
+      "cell": "row2 col3/col4 ('Sender liable...')",
+      "note": "Sender is liable for the transgression (not a monetary payment) because the agent himself wasn't bound by the prohibition. No tag in the list captures non-monetary liability for a sin; 'pays' doesn't fit since nothing is paid."
+    }
+  ]
+}

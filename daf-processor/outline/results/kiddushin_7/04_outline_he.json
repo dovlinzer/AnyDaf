@@ -1,817 +1,888 @@
 {
- "daf": "קידושין ז",
- "lang": "he",
- "scope": {
-  "start": "ו: 15 – המקרה של רבא: אישה האומרת \"תן מנה לפלוני ואקדש לך\"",
-  "end": "ח. 9 – ראייתו של רב יוסף מעבד עברי ששווה כסף צריך להיות קצוב (טקסט הגמרא שסופק מסתיים בח. 4)"
- },
- "sections": [
-  {
-   "id": "s1",
-   "title": "כסף קידושין דרך אדם שלישי: ערב, עבד כנעני, אדם חשוב",
-   "amud": "ו:–ז.",
-   "text": {
-    "from": "6b.15",
-    "to": "7a.10"
-   },
-   "gist": "רבא מכשיר כסף קידושין שאינו עובר בדרך הרגילה מן הנותן אל המקבל: מדין ערב, מדין עבד כנעני או מדין שניהם. הוא שואל על אישה שנותנת כסף לאיש, ומרחיב את הדינים גם לקנייני ממון.",
-   "bullets": [
+  "daf": "קידושין ז",
+  "lang": "he",
+  "scope": {
+    "start": "ו: 15 – המקרה של רבא: אישה האומרת \"תן מנה לפלוני ואקדש לך\"",
+    "end": "ח. 9 – ראייתו של רב יוסף מעבד עברי ששווה כסף צריך להיות קצוב (טקסט הגמרא שסופק מסתיים בח. 4)"
+  },
+  "sections": [
     {
-     "text": "בקידושי כסף רגילים האיש נותן לאישה דבר ששווה פרוטה לפחות. במקרים של רבא הכסף עובר לאדם שלישי, או שכיוונו מתהפך, והשאלה היא אם הקידושין חלים בכל זאת.",
-     "detail": 2,
-     "source": "shiur"
+      "id": "s1",
+      "title": "כסף קידושין דרך אדם שלישי: ערב, עבד כנעני, אדם חשוב",
+      "amud": "ו:–ז.",
+      "text": {
+        "from": "6b.15",
+        "to": "7a.10"
+      },
+      "gist": "רבא מכשיר כסף קידושין שאינו עובר בדרך הרגילה מן הנותן אל המקבל: מדין ערב, מדין עבד כנעני או מדין שניהם. הוא שואל על אישה שנותנת כסף לאיש, ומרחיב את הדינים גם לקנייני ממון.",
+      "bullets": [
+        {
+          "text": "בקידושי כסף רגילים האיש נותן לאישה דבר ששווה פרוטה לפחות. במקרים של רבא הכסף עובר לאדם שלישי, או שכיוונו מתהפך, והשאלה היא אם הקידושין חלים בכל זאת.",
+          "detail": 2,
+          "source": "shiur"
+        }
+      ],
+      "chart": {
+        "caption": "המקרים של רבא: כסף קידושין שאינו עובר בדרך הרגילה מן הנותן אל המקבל",
+        "columns": [
+          "המקרה",
+          "מי נותן למי, ולמי היא מתקדשת",
+          "החידוש",
+          "הדין והטעם"
+        ],
+        "rows": [
+          [
+            "ערב",
+            "האיש ← פלוני\nהיא מתקדשת לאיש שנתן",
+            "היא אינה מקבלת דבר",
+            "מקודשת: ערב משעבד את עצמו בלי שום הנאה"
+          ],
+          [
+            "עבד כנעני",
+            "האיש ← האישה\nהיא מתקדשת לפלוני",
+            "הבעל אינו משלם דבר",
+            "מקודשת: עבד כנעני יוצא לחירות בכסף של אחרים"
+          ],
+          [
+            "מדין שניהם",
+            "האיש ← פלוני\nהיא מתקדשת לפלוני",
+            "היא אינה מקבלת דבר, והבעל אינו משלם דבר",
+            "מקודשת: כל ראיה משלימה את מה שחסר בחברתה"
+          ],
+          [
+            "האישה נותנת לאיש",
+            "האישה ← האיש\nהיא מתקדשת לאיש שנתנה לו",
+            "הכסף עובר ממנה אליו",
+            "מר זוטרא: מקודשת, כשמדובר באדם חשוב"
+          ]
+        ],
+        "tags": [
+          [
+            null,
+            null,
+            null,
+            "effective"
+          ],
+          [
+            null,
+            null,
+            null,
+            "effective"
+          ],
+          [
+            null,
+            null,
+            null,
+            "effective"
+          ],
+          [
+            null,
+            null,
+            null,
+            "effective"
+          ]
+        ]
+      },
+      "illustration": {
+        "caption": "שלושת המקרים של רבא ושאלתו על אישה שנותנת כסף לאיש (קידושין ו:–ז.): מי נותן את המנה למי, ולמי האישה מתקדשת.",
+        "svg": "<svg viewBox=\"0 0 900 490\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבעה לוחות, ובכל אחד אישה, איש ולפעמים אדם שלישי, עם חץ למנה וקו מקווקו לקידושין: מקרה הערב, מקרה העבד הכנעני, המקרה המשולב, והאישה שנותנת כסף לאיש.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"490\" fill=\"#FBF8F1\"/><rect x=\"12\" y=\"14\" width=\"210\" height=\"412\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"234\" y=\"14\" width=\"210\" height=\"412\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"456\" y=\"14\" width=\"210\" height=\"412\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"678\" y=\"14\" width=\"210\" height=\"412\" rx=\"14\" fill=\"#EFE7F1\"/><g stroke=\"#9A6212\" stroke-width=\"3\"><line x1=\"125\" y1=\"150\" x2=\"169\" y2=\"150\"/><line x1=\"327\" y1=\"150\" x2=\"283\" y2=\"150\"/><line x1=\"569\" y1=\"150\" x2=\"613\" y2=\"150\"/><line x1=\"721\" y1=\"150\" x2=\"765\" y2=\"150\"/></g><g fill=\"#9A6212\"><polygon points=\"177,150 167,144 167,156\"/><polygon points=\"275,150 285,144 285,156\"/><polygon points=\"621,150 611,144 611,156\"/><polygon points=\"773,150 763,144 763,156\"/></g><g fill=\"#F3C95A\" stroke=\"#9A6212\" stroke-width=\"2\"><circle cx=\"150\" cy=\"131\" r=\"14\"/><circle cx=\"302\" cy=\"131\" r=\"14\"/><circle cx=\"594\" cy=\"131\" r=\"14\"/><circle cx=\"746\" cy=\"131\" r=\"14\"/></g><use href=\"#woman\" x=\"22\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"92\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"162\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"244\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"314\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"384\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"466\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"536\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"606\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"688\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"758\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#4B5E8C\"/><g stroke=\"#A8436E\" stroke-width=\"2.5\" stroke-dasharray=\"6 4\"><line x1=\"45\" y1=\"298\" x2=\"115\" y2=\"298\"/><line x1=\"267\" y1=\"298\" x2=\"407\" y2=\"298\"/><line x1=\"489\" y1=\"298\" x2=\"629\" y2=\"298\"/><line x1=\"711\" y1=\"298\" x2=\"781\" y2=\"298\"/></g><use href=\"#mark-ok\" x=\"42\" y=\"334\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"264\" y=\"334\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"486\" y=\"334\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"708\" y=\"334\" width=\"26\" height=\"26\"/></g><g font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" text-anchor=\"middle\"><text x=\"783\" y=\"44\" direction=\"rtl\" fill=\"#5A2A12\">ערב</text><text x=\"561\" y=\"44\" direction=\"rtl\" fill=\"#1B3A8A\">עבד כנעני</text><text x=\"339\" y=\"44\" direction=\"rtl\" fill=\"#24592E\">שניהם יחד</text><text x=\"117\" y=\"44\" direction=\"rtl\" fill=\"#5A3A6E\">האישה נותנת לאיש</text></g><g font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\"><text x=\"783\" y=\"68\" direction=\"rtl\" fill=\"#7A4A2A\">מדין ערב</text><text x=\"561\" y=\"68\" direction=\"rtl\" fill=\"#3A5692\">מדין עבד כנעני</text><text x=\"339\" y=\"68\" direction=\"rtl\" fill=\"#3C7446\">מדין שניהם</text><text x=\"117\" y=\"68\" direction=\"rtl\" fill=\"#5A3A6E\">אדם חשוב</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"783\" y=\"96\" direction=\"rtl\">״תן מנה לפלוני</text><text x=\"783\" y=\"113\" direction=\"rtl\">ואקדש לך״</text><text x=\"561\" y=\"96\" direction=\"rtl\">״הילך מנה</text><text x=\"561\" y=\"113\" direction=\"rtl\">והתקדשי לפלוני״</text><text x=\"339\" y=\"96\" direction=\"rtl\">״תן מנה לפלוני</text><text x=\"339\" y=\"113\" direction=\"rtl\">ואקדש אני לו״</text><text x=\"117\" y=\"96\" direction=\"rtl\">״הילך מנה</text><text x=\"117\" y=\"113\" direction=\"rtl\">ואקדש אני לך״</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#5A3A12\" text-anchor=\"middle\"><text x=\"750\" y=\"135\" direction=\"rtl\">100</text><text x=\"598\" y=\"135\" direction=\"rtl\">100</text><text x=\"306\" y=\"135\" direction=\"rtl\">100</text><text x=\"154\" y=\"135\" direction=\"rtl\">100</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"855\" y=\"280\" direction=\"rtl\">האישה</text><text x=\"785\" y=\"280\" direction=\"rtl\">האיש</text><text x=\"715\" y=\"280\" direction=\"rtl\">פלוני</text><text x=\"633\" y=\"280\" direction=\"rtl\">האישה</text><text x=\"563\" y=\"280\" direction=\"rtl\">האיש</text><text x=\"493\" y=\"280\" direction=\"rtl\">פלוני</text><text x=\"411\" y=\"280\" direction=\"rtl\">האישה</text><text x=\"341\" y=\"280\" direction=\"rtl\">האיש</text><text x=\"271\" y=\"280\" direction=\"rtl\">פלוני</text><text x=\"189\" y=\"280\" direction=\"rtl\">האישה</text><text x=\"107\" y=\"280\" direction=\"rtl\">אדם חשוב</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#A8436E\" text-anchor=\"middle\"><text x=\"820\" y=\"316\" direction=\"rtl\">קידושין</text><text x=\"563\" y=\"316\" direction=\"rtl\">קידושין</text><text x=\"341\" y=\"316\" direction=\"rtl\">קידושין</text><text x=\"154\" y=\"316\" direction=\"rtl\">קידושין</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\"><text x=\"826\" y=\"352\" direction=\"rtl\">מקודשת</text><text x=\"604\" y=\"352\" direction=\"rtl\">מקודשת</text><text x=\"382\" y=\"352\" direction=\"rtl\">מקודשת</text><text x=\"160\" y=\"352\" direction=\"rtl\">מקודשת</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"783\" y=\"388\" direction=\"rtl\">לא קיבלה דבר ובכל זאת</text><text x=\"783\" y=\"405\" direction=\"rtl\">שעבדה את עצמה, כמו ערב</text><text x=\"561\" y=\"388\" direction=\"rtl\">לא שילם דבר ובכל זאת קנה,</text><text x=\"561\" y=\"405\" direction=\"rtl\">כמו עבד כנעני שיצא לחירות</text><text x=\"339\" y=\"388\" direction=\"rtl\">הערב עונה על הקושיה עליה,</text><text x=\"339\" y=\"405\" direction=\"rtl\">והעבד – על הקושיה עליו</text><text x=\"117\" y=\"388\" direction=\"rtl\">מר זוטרא: אדם חשוב;</text><text x=\"117\" y=\"405\" direction=\"rtl\">נהנית מכך שקיבל ממנה</text></g><text x=\"450\" y=\"466\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">קידושין ו:–ז. · שלושת המקרים של רבא ושאלתו על אישה שנותנת כסף לאיש</text></svg>"
+      },
+      "children": [
+        {
+          "id": "s2",
+          "title": "מדין ערב: הכסף לאדם שלישי, והאישה אינה מקבלת דבר",
+          "amud": "ו:–ז.",
+          "text": {
+            "from": "6b.15",
+            "to": "7a.1"
+          },
+          "gist": "אישה שמבקשת מהאיש לתת מנה לאדם אחר מתקדשת לו, כמו ערב שמשעבד את עצמו אף שההלוואה ניתנת לאחר.",
+          "bullets": [
+            {
+              "text": "רבא: אישה אומרת \"תן מנה לפלוני ואקדש לך\" – מקודשת, מדין ערב.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "ערב משעבד את עצמו לפרוע, אף שכסף ההלוואה הולך ללווה. כך גם היא משעבדת ומקנה את עצמה לאיש, אף שהכסף הולך לאחר.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הראשונים נחלקו במנגנון. לרש\"י, כל אחד מן הדגמים (ערב, עבד, שניהם) הוא צורה מוכרת של קנין, ולכן הוא מועיל גם בקידושין. לרא\"ש, עצם העברת הממון היא שהקידושין נתלים בה, יהיה כיוונה אשר יהיה.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "לרמב\"ם, היא מקבלת הנאה ממשית ששווה פרוטה לפחות: הסיפוק שהאיש עושה כבקשתה בענייני ממון. הנאה שאינה מוחשית ככסף קידושין חוזרת בהמשך המסכת (\"רקוד לפני\"). הקושי: הגמרא אינה אומרת זאת כאן.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "רש\"י ואחרים מוסיפים שהקשר לקידושין צריך להיאמר במפורש, שאם לא כן תשלום לאדם זר אינו נוגע לה כלל. הריטב\"א הולך בדרך ביניים ומצרף את העברת הממון להנאה הנפשית.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "של מי הכסף שניתן לפלוני – גם בזה נחלקו הראשונים, והלשון סובלת את שתי הקריאות.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s3",
+          "title": "מדין עבד כנעני: הבעל אינו משלם דבר",
+          "amud": "ז.",
+          "text": {
+            "from": "7a.2",
+            "to": "7a.2"
+          },
+          "gist": "כסף שאיש אחד נותן לאישה מקדש אותה לאיש אחר, כמו עבד כנעני שיוצא לחירות בכסף שאחר נותן לרבו.",
+          "bullets": [
+            {
+              "text": "איש נותן לאישה מנה ואומר: \"הילך מנה והתקדשי לפלוני\". מקודשת, מדין עבד כנעני.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "עבד כנעני קונה את עצמו כשאדם אחר משלם לרבו, אף שהוא אינו מפסיד משלו כלום. כך גם פלוני קונה את האישה אף שאינו מפסיד כלום.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רקע: כל מה שבידי העבד שייך לרבו, ולכן אדם שלישי צריך לתת את הכסף. ובכל זאת המעשה הוא שינוי מעמדו של העבד עצמו, כמו שהקידושין הם של הבעל.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s4",
+          "title": "מדין שניהם: כל ראיה משלימה את מה שחסר בחברתה",
+          "amud": "ז.",
+          "text": {
+            "from": "7a.3",
+            "to": "7a.5"
+          },
+          "gist": "כשהאיש נותן לאדם שלישי והאישה מתקדשת לאותו אדם, אף דגם אחד אינו מספיק לבדו, אבל כל אחד עונה על הקושיה על חברו.",
+          "bullets": [
+            {
+              "text": "אישה אומרת \"תן מנה לפלוני ואקדש אני לו\" – מקודשת, מדין שניהם.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הערב מלמד שהיא יכולה לשעבד את עצמה בלי הנאה. קושיה: בערב, מי שקונה (המלווה) הוא שמוציא ממון, ואילו כאן פלוני אינו משלם כלום. \"עבד כנעני יוכיח\": הוא קונה את עצמו בלי לשלם.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "קושיה על העבד: שם מי שמקנה (הרב) הוא שמקבל את הכסף, ואילו כאן האישה מקנה את עצמה ואינה מקבלת כלום. \"ערב יוכיח\": הוא משעבד את עצמו בלי הנאה.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s5",
+          "title": "האישה נותנת לאיש: קנין אגב הפוך, או אדם חשוב?",
+          "amud": "ז.",
+          "text": {
+            "from": "7a.6",
+            "to": "7a.7"
+          },
+          "gist": "רבא שואל על אישה שנותנת כסף לאיש. מר זוטרא אומר שמקודשת; רב אשי מקשה שנכסים שיש להם אחריות אינם נקנים עם כסף; ומר זוטרא משיב שההנאה היא מכך שאדם חשוב מקבל ממנה מתנה.",
+          "bullets": [
+            {
+              "text": "רבא שואל: אישה אומרת \"הילך מנה ואקדש אני לך\" – מהו?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "מר זוטרא משמו של רב פפא: מקודשת.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רב אשי מקשה: אם כן, נכסים שיש להם אחריות (קרקע, ובכלל זה אדם, שהושווה לקרקע) נקנים עם נכסים שאין להם אחריות (כסף). והמשנה (כו.) שנתה את ההפך: \"נכסים שאין להם אחריות נקנין עם נכסים שיש להם אחריות\", ולא להפך.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "מר זוטרא: אין כאן קנין בכסף כלל. מדובר באדם חשוב, ובהנאה שהיא מקבלת מכך שהוא מסכים לקבל ממנה מתנה היא גומרת בדעתה ומקנה לו את עצמה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רש\"י: אדם חשוב אינו רגיל לקבל מתנות (\"וְשׂוֹנֵא מַתָּנֹת יִחְיֶה\", משלי טו, כז). כשהוא מקבל, הסיפוק של הנותנת ממשי ושווה פרוטה לפחות, כמו כשמארחים אורח נכבד שבדרך כלל מסרב.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "זה מקביל לפירוש הרמב\"ם במקרה של הערב, אלא שכאן הגמרא אומרת את ההנאה במפורש. למעשה המקרה מצומצם מאוד, וזו אחת הסיבות שאין האישה נותנת את הטבעת לאיש.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "האם בני חורין באמת דומים לקרקע? רש\"י משווה אדם לקרקע באופן כללי; תוספות מגבילים את ההשוואה לעבדים כנעניים, שהפסוק משווה אותם לקרקע. הש\"ך מביא ראיות רבות נגד תוספות.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s6",
+          "title": "וכן לעניין ממון: נכונות האישה, או ממון שניתן למחילה",
+          "amud": "ז.",
+          "text": {
+            "from": "7a.8",
+            "to": "7a.10"
+          },
+          "gist": "רבא מחיל את דגמי הערב והעבד גם על קנייני ממון, והגמרא מראה מדוע אי אפשר ללמוד קידושין מממון או ממון מקידושין.",
+          "bullets": [
+            {
+              "text": "משמו של רבא נאמר \"וכן לעניין ממונא\": דגמי הערב והעבד הכנעני מועילים גם בקנייני ממון. הגמרא מסבירה ששני הלימודים צריכים (\"וצריכא\").",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אילו נאמר רק בקידושין, היינו מצמצמים זאת לקידושין: אישה מתרצה בכל דהו, כדברי ריש לקיש: \"טב למיתב טן דו מלמיתב ארמלו\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אילו נאמר רק בממון, היינו מצמצמים זאת לממון: ממון ניתן למחילה. קידושין אינם תלויים רק בהסכמתה; היא צריכה לקבל כסף קידושין בפועל.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "במילים אחרות, אין מחילה בקידושין: המעשה הפורמלי הוא שעושה את הנישואין, והסכמה הדדית בלי קנין אינה מועילה כלום.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "returns_to": [
+            {
+              "id": "s2",
+              "note": "חוזר למקרי הערב והעבד הכנעני של רבא, אחרי השאלה על אישה שנותנת לאיש"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "חצי קידושין: \"לחציי\", \"חצייך\", והתפשטות",
+      "amud": "ז.–ז:",
+      "text": {
+        "from": "7a.11",
+        "to": "7b.2"
+      },
+      "gist": "שלושה שלבים: מדוע \"לחציי\" מועיל ו\"חצייך\" אינו מועיל, מדוע הקידושין אינם מתפשטים בכולה כמו הקדש בבהמה, והבהמה של שני שותפין של רבי יוחנן ושלושת הדינים בדיחוי שנלמדים ממנה.",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s8",
+          "title": "לחציי או חצייך: שתי נשים – כן, שני בעלים – לא",
+          "amud": "ז.",
+          "text": {
+            "from": "7a.11",
+            "to": "7a.12"
+          },
+          "gist": "רבא מכשיר \"התקדשי לי לחציי\" ופוסל \"חצייך מקודשת לי\", משום שאיש יכול לשאת שתי נשים ואישה אינה יכולה להינשא לשני אנשים.",
+          "bullets": [
+            {
+              "text": "רבא: \"התקדשי לי לחציי\" – מקודשת. \"חצייך מקודשת לי\" – אינה מקודשת.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אביי: אם הטעם הוא \"כִּי יִקַּח אִישׁ אִשָּׁה\" (דברים כד, א) – אישה ולא חצי אישה – הרי גם \"איש\" אמר רחמנא, ולא חצי איש!",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רבא: הטעם אינו הפסוק. מי שמקדש חצי אישה משאיר את חציה השני לאחר, ואישה אינה ראויה לשני אנשים (\"איתתא לבי תרי לא חזיא\").",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "איש יכול לשאת שתי נשים, ולכן \"לחציי\" פירושו רק: אם ארצה לשאת אישה אחרת – אשא.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "המקרה מניח איש שנכנס לנישואין ושומר לעצמו במפורש את הזכות לשאת אישה שנייה. האם עליו להתנות זאת מראש – בזה הגמרא אינה עוסקת.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "illustration": {
+            "caption": "תשובת רבא לאביי (קידושין ז.): \"לחציי\" משאיר מקום לאישה שנייה, וזה מותר; \"חצייך\" משאיר מקום לבעל שני, וזה אסור.",
+            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: איש, אישה ואישה שנייה דהויה – מקודשת. משמאל: איש, אישה ובעל שני דהוי – אינה מקודשת.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"362\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"362\" rx=\"14\" fill=\"#F7E1E1\"/><use href=\"#woman\" x=\"80\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"190\" y=\"108\" width=\"66\" height=\"132\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"300\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C4A60\" opacity=\"0.35\"/><use href=\"#man\" x=\"520\" y=\"108\" width=\"66\" height=\"132\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"640\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"750\" y=\"108\" width=\"66\" height=\"132\" style=\"color:#6B6F3A\" opacity=\"0.35\"/><use href=\"#mark-ok\" x=\"150\" y=\"328\" width=\"30\" height=\"30\"/><use href=\"#mark-no\" x=\"580\" y=\"328\" width=\"30\" height=\"30\"/></g><text x=\"673\" y=\"50\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">״התקדשי לי לחציי״</text><text x=\"228\" y=\"50\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">״חצייך מקודשת לי״</text><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\"><text x=\"790\" y=\"264\" direction=\"rtl\" fill=\"#1A1F2E\">האישה</text><text x=\"677\" y=\"264\" direction=\"rtl\" fill=\"#1A1F2E\">האיש</text><text x=\"570\" y=\"264\" direction=\"rtl\" fill=\"#5B6478\">אישה נוספת?</text><text x=\"347\" y=\"264\" direction=\"rtl\" fill=\"#1A1F2E\">האיש</text><text x=\"230\" y=\"264\" direction=\"rtl\" fill=\"#1A1F2E\">האישה</text><text x=\"117\" y=\"264\" direction=\"rtl\" fill=\"#5B6478\">בעל נוסף?</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"673\" y=\"296\" direction=\"rtl\">״אם ארצה לשאת אישה אחרת –</text><text x=\"673\" y=\"314\" direction=\"rtl\">אשא אישה אחרת״</text><text x=\"228\" y=\"296\" direction=\"rtl\">חציה השני נשאר לאחר,</text><text x=\"228\" y=\"314\" direction=\"rtl\">ואישה אינה ראויה לשני בעלים</text></g><text x=\"712\" y=\"349\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"282\" y=\"349\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"450\" y=\"404\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#4A3A2E\">אתתא לבי תרי לא חזיא · גברא חזי לבי תרי</text><text x=\"450\" y=\"428\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">קידושין ז. · תשובת רבא לאביי</text></svg>"
+          },
+          "children": []
+        },
+        {
+          "id": "s9",
+          "title": "האם יתפשט כמו בהקדש? בהמה מול דעת אחרת",
+          "amud": "ז.",
+          "text": {
+            "from": "7a.13",
+            "to": "7a.15"
+          },
+          "gist": "מר זוטרא בריה דרב מרי טוען ש\"חצייך\" צריך להתפשט בכולה, כמו שהקדשת רגל של בהמה מתפשטת בכל הבהמה; הגמרא משיבה שלאישה יש דעת משלה.",
+          "bullets": [
+            {
+              "text": "מר זוטרא בריה דרב מרי לרבינא: \"וניפשטו לה קידושי בכולה!\" והרי שנינו בברייתא (תוספתא תמורה א, ה): האומר \"רגלה של זו עולה\" – תהא כולה עולה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "ואפילו לשיטה שאין כולה עולה, זה רק בדבר שאין הנשמה תלויה בו, כמו רגל. המקדיש דבר שהנשמה תלויה בו – כולה עולה לדברי הכול, ואישה אינה יכולה לחיות בלי חצי גופה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הגמרא דוחה את ההשוואה: \"התם – בהמה, הכא – דעת אחרת\". לבהמה אין דעת, ואילו כאן יש דעת נוספת, של האישה, והיא צריכה לרצות שהקידושין יחולו.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הסכמתה ניתנה למילים המסוימות שהאיש אמר. היא קיבלה \"חצייך\", ודעתה אינה מגיעה מעבר למה שהוצע לה, ולכן הקידושין אינם יכולים להתרחב מעבר לכך.",
+              "detail": 2,
+              "source": "shiur"
+            }
+          ],
+          "illustration": {
+            "caption": "ההשוואה של מר זוטרא בריה דרב מרי ותשובת הגמרא (קידושין ז.): הקדשת רגל של בהמה מתפשטת בכל הבהמה, אבל דעתה של האישה מגבילה את הקידושין למה שקיבלה.",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: כבש שאחת מרגליו מסומנת, וחץ אל הכבש כולו זוהר – כולה עולה. משמאל: אישה, לצד הקושיה והתשובה – הקידושין אינם מתפשטים.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"342\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"342\" rx=\"14\" fill=\"#E3EAF3\"/><use href=\"#lamb\" x=\"50\" y=\"130\" width=\"150\" height=\"105\"/><rect x=\"82\" y=\"186\" width=\"17\" height=\"44\" rx=\"4\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"3\"/><line x1=\"212\" y1=\"185\" x2=\"244\" y2=\"185\" stroke=\"#5B6478\" stroke-width=\"3\"/><polygon points=\"252,185 242,179 242,191\" fill=\"#5B6478\"/><ellipse cx=\"335\" cy=\"185\" rx=\"88\" ry=\"60\" fill=\"#F7E3B0\"/><use href=\"#lamb\" x=\"260\" y=\"130\" width=\"150\" height=\"105\"/><use href=\"#woman\" x=\"520\" y=\"110\" width=\"66\" height=\"132\" style=\"color:#8C4A60\"/><use href=\"#mark-no\" x=\"540\" y=\"290\" width=\"30\" height=\"30\"/></g><text x=\"673\" y=\"46\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#5A2A12\">בבהמה: הקדושה מתפשטת</text><text x=\"673\" y=\"74\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">״רגלה של זו עולה״</text><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A2A12\" text-anchor=\"middle\"><text x=\"775\" y=\"270\" direction=\"rtl\">הרגל שהוקדשה</text><text x=\"565\" y=\"270\" direction=\"rtl\">כולה עולה</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"673\" y=\"306\" direction=\"rtl\">גם החולק מודה כשהקדיש</text><text x=\"673\" y=\"324\" direction=\"rtl\">דבר שהנשמה תלויה בו</text></g><text x=\"228\" y=\"46\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">באישה: דעת אחרת</text><text x=\"228\" y=\"74\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">״חצייך מקודשת לי״</text><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\" text-anchor=\"end\"><text x=\"290\" y=\"140\" direction=\"rtl\" font-weight=\"600\">מר זוטרא בריה דרב מרי:</text><text x=\"290\" y=\"160\" direction=\"rtl\">שיתפשטו הקידושין בכולה,</text><text x=\"290\" y=\"180\" direction=\"rtl\">שהרי אינה חיה בלי חציה</text><text x=\"290\" y=\"214\" direction=\"rtl\" font-weight=\"600\">הגמרא:</text><text x=\"290\" y=\"234\" direction=\"rtl\">כאן יש דעת אחרת –</text><text x=\"290\" y=\"254\" direction=\"rtl\">והיא צריכה לרצות שיחולו</text></g><text x=\"322\" y=\"311\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#8C2F2F\">הקידושין אינם מתפשטים</text><text x=\"450\" y=\"386\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#4A3A2E\">התם בהמה, הכא דעת אחרת</text><text x=\"450\" y=\"409\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">קידושין ז. · הקושיה מהקדש והתשובה</text></svg>"
+          },
+          "children": []
+        },
+        {
+          "id": "s10",
+          "title": "בהמת השותפין של רבי יוחנן: שלושה דינים בדיחוי",
+          "amud": "ז.–ז:",
+          "text": {
+            "from": "7a.16",
+            "to": "7b.2"
+          },
+          "gist": "במקום זה האישה מושווית לבהמה שהוקדשה חציה אחר חציה: קדושה ואינה קריבה, עושה תמורה, וממנה לומדים שלושה דינים בדיחוי.",
+          "bullets": [
+            {
+              "text": "המקרה של האישה דומה רק לדברי רבי יוחנן: בהמה של שני שותפין, הקדיש אחד מהם את חציו, וחזר וקנה את החצי השני והקדישו – קדושה ואינה קריבה. בשעה שהוקדשה לראשונה לא הייתה ראויה, והקדושה לא התפשטה בלי השותף.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "כיוון שהיא קדושה, היא עושה תמורה, ו\"תמורתה כיוצא בה\": גם התמורה קדושה ואינה קריבה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "\"שמע מינה תלת\": בעלי חיים נדחים; דחוי מעיקרא הוי דחוי; ויש דיחוי בדמים, כלומר גם כשהוקדשו רק דמי הבהמה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הבהמה היא למעשה שני חצאי בהמה מחוברים, ולא בהמה אחת שלמה, ולכן אינה קריבה; ובכל זאת יש בה די קדושת הגוף כדי לעשות תמורה.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "title": "תיקו: חלוקת הפרוטה – באישה או בקנין",
+      "amud": "ז:",
+      "text": {
+        "from": "7b.3",
+        "to": "7b.9"
+      },
+      "gist": "שאלות שלא נפשטו על צירוף: הסולם של רבא בקידושין לחצאין, שתי בנות לשני בנים בפרוטה אחת, ובת שנקנית יחד עם פרה או עם קרקע.",
+      "bullets": [
+        {
+          "text": "רוב הראשונים, ובהם הרמב\"ם, פוסקים לחומרה בספק שלא נפשט בקידושין.",
+          "detail": 3,
+          "source": "shiur"
+        }
+      ],
+      "chart": {
+        "caption": "השאלות שלא נפשטו בקידושין ז:",
+        "columns": [
+          "המקרה",
+          "השואל",
+          "צד אחד",
+          "צד שני",
+          "המסקנה"
+        ],
+        "rows": [
+          [
+            "חצייך בחצי פרוטה וחצייך בחצי פרוטה",
+            "רבא",
+            "כשאמר \"חצי פרוטה\" – הפסיק",
+            "מונה והולך עד פרוטה",
+            "תיקו"
+          ],
+          [
+            "חצייך בפרוטה וחצייך בפרוטה",
+            "רבא",
+            "כל פרוטה מפסיקה",
+            "כל מה שנעשה באותו יום מצטרף",
+            "תיקו"
+          ],
+          [
+            "חצייך היום וחצייך למחר",
+            "רבא",
+            "\"למחר\" מפסיק",
+            "הקידושין מתחילים עכשיו ונגמרים מחר",
+            "תיקו"
+          ],
+          [
+            "\"שני חצייך בפרוטה\"",
+            "רבא",
+            "אמירה אחת בבת אחת",
+            "אין אישה מתקדשת לחצאין כלל",
+            "תיקו"
+          ],
+          [
+            "שתי בנותיך לשני בניי בפרוטה",
+            "רבא",
+            "הולכים אחר הנותן והמקבל: יש פרוטה",
+            "הולכים אחר הזוגות: לכל אחד פחות מפרוטה",
+            "תיקו"
+          ],
+          [
+            "בתך ופרתך בפרוטה",
+            "רב פפא",
+            "חצי פרוטה לכל אחת: אף אחת אינה נקנית",
+            "הפרוטה לבת, והפרה במשיכה",
+            "תיקו"
+          ],
+          [
+            "בתך וקרקעך בפרוטה",
+            "רב אשי",
+            "חצי פרוטה לכל אחת",
+            "הפרוטה לבת, והקרקע בחזקה",
+            "תיקו"
+          ]
+        ],
+        "tags": [
+          [
+            null,
+            null,
+            null,
+            null,
+            "holds"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "holds"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "holds"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "holds"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "holds"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "holds"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "holds"
+          ]
+        ]
+      },
+      "children": [
+        {
+          "id": "s12",
+          "title": "הסולם של רבא בחצאים: מונה והולך או פסקה?",
+          "amud": "ז:",
+          "text": {
+            "from": "7b.3",
+            "to": "7b.6"
+          },
+          "gist": "ארבע שאלות עולות על קידושי אישה בשני חצאים, שכל אחת נשאלת רק אם הקודמת מצטרפת, ובסופן: האם אישה מתקדשת לחצאין בכלל.",
+          "bullets": [
+            {
+              "text": "\"חצייך בחצי פרוטה וחצייך בחצי פרוטה\": כיוון שאמר \"חצי פרוטה\" – פסקה, וחילק את דבריו לשני חצאים שאין בהם כלום? או שמא מונה והולך הוא, עד פרוטה שלמה?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אם תמצא לומר שמונה והולך הוא: \"חצייך בפרוטה וחצייך בפרוטה\". האם פרוטה שלמה לכל חצי מפסיקה, או שכל מה שנעשה באותו יום מצטרף (\"כל ביומיה מונה והולך הוא\")?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אם גם זה מצטרף: \"חצייך בפרוטה היום וחצייך בפרוטה למחר\". האם \"למחר\" מפסיק, או שהקידושין מתחילים עכשיו ונגמרים רק למחר?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "\"שני חצייך בפרוטה\": כאן ודאי אמר זאת בבת אחת, או שמא אין אישה מתקדשת לחצאין כלל? כל השאלות האלה נשארות: תיקו.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "ייתכן שעצם הצגת הנישואין בחצאים, גם חצאים שמשלימים שלם באמירה אחת, מבטאת תפיסה פגומה של נישואין – הצעה שהאישה אינה יכולה לקבל באמת.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "יחידות הזמן כאן הן ימים, לא שעות או דקות, וזה מעניין כשלעצמו.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "illustration": {
+            "caption": "השאלות העולות של רבא בקידושין לחצאין (קידושין ז:). כל אחת משלוש הראשונות נשאלת רק אם הקודמת מצטרפת; כל הארבע נשארות בתיקו.",
+            "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבע תיבות העולות כמדרגות מימין לשמאל. בכל אחת שאלה של רבא על קידושי אישה לחצאין, ועל כל אחת חותמת תיקו.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"290\" width=\"200\" height=\"140\" rx=\"12\" fill=\"#F3E6D8\" stroke=\"#C9B48E\"/><rect x=\"240\" y=\"230\" width=\"200\" height=\"140\" rx=\"12\" fill=\"#E3EAF3\" stroke=\"#A9B8D0\"/><rect x=\"460\" y=\"170\" width=\"200\" height=\"140\" rx=\"12\" fill=\"#E4EFE4\" stroke=\"#A9C4AC\"/><rect x=\"680\" y=\"100\" width=\"200\" height=\"140\" rx=\"12\" fill=\"#EFE7F1\" stroke=\"#B9A3C4\" stroke-dasharray=\"6 4\"/><g stroke=\"#5B6478\" stroke-width=\"2.5\"><line x1=\"222\" y1=\"330\" x2=\"234\" y2=\"306\"/><line x1=\"442\" y1=\"270\" x2=\"454\" y2=\"246\"/></g><g fill=\"#5B6478\"><polygon points=\"238,298 229,304 238,310\"/><polygon points=\"458,238 449,244 458,250\"/></g><g fill=\"#5B6478\"><rect x=\"82\" y=\"402\" width=\"76\" height=\"20\" rx=\"10\"/><rect x=\"302\" y=\"342\" width=\"76\" height=\"20\" rx=\"10\"/><rect x=\"522\" y=\"282\" width=\"76\" height=\"20\" rx=\"10\"/><rect x=\"742\" y=\"212\" width=\"76\" height=\"20\" rx=\"10\"/></g></g><text x=\"880\" y=\"38\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">שאלות רבא: האם שני חצאים עושים קידושין אחד?</text><text x=\"880\" y=\"62\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">כל אחת משלוש הראשונות נשאלת רק אם הקודמת מצטרפת. בכולן: תיקו.</text><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"780\" y=\"314\" direction=\"rtl\">שאלה 1</text><text x=\"560\" y=\"254\" direction=\"rtl\">שאלה 2</text><text x=\"340\" y=\"194\" direction=\"rtl\">שאלה 3</text><text x=\"120\" y=\"124\" direction=\"rtl\">שאלה 4</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"780\" y=\"338\" direction=\"rtl\">חצייך בחצי פרוטה,</text><text x=\"780\" y=\"355\" direction=\"rtl\">וחצייך בחצי פרוטה</text><text x=\"560\" y=\"278\" direction=\"rtl\">חצייך בפרוטה,</text><text x=\"560\" y=\"295\" direction=\"rtl\">וחצייך בפרוטה</text><text x=\"340\" y=\"218\" direction=\"rtl\">חצייך בפרוטה היום,</text><text x=\"340\" y=\"235\" direction=\"rtl\">וחצייך בפרוטה למחר</text><text x=\"120\" y=\"148\" direction=\"rtl\">״שני חצייך</text><text x=\"120\" y=\"165\" direction=\"rtl\">בפרוטה״</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"780\" y=\"378\" direction=\"rtl\">פסקה, או מונה והולך</text><text x=\"780\" y=\"394\" direction=\"rtl\">עד פרוטה?</text><text x=\"560\" y=\"318\" direction=\"rtl\">פסקה, או שכל מה שנעשה</text><text x=\"560\" y=\"334\" direction=\"rtl\">באותו יום מצטרף?</text><text x=\"340\" y=\"258\" direction=\"rtl\">״למחר״ פסקה, או מתחילים</text><text x=\"340\" y=\"274\" direction=\"rtl\">היום ונגמרים מחר?</text><text x=\"120\" y=\"188\" direction=\"rtl\">אמירה אחת, או שאין</text><text x=\"120\" y=\"204\" direction=\"rtl\">קידושין לחצאין כלל?</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\" text-anchor=\"middle\"><text x=\"780\" y=\"416\" direction=\"rtl\">תיקו</text><text x=\"560\" y=\"356\" direction=\"rtl\">תיקו</text><text x=\"340\" y=\"296\" direction=\"rtl\">תיקו</text><text x=\"120\" y=\"226\" direction=\"rtl\">תיקו</text></g><text x=\"450\" y=\"450\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">קידושין ז: · שאלות רבא על קידושי אישה לחצאין</text></svg>"
+          },
+          "children": []
+        },
+        {
+          "id": "s13",
+          "title": "שתי בנותיך לשני בניי בפרוטה: אחר הנותן והמקבל, או אחר הזוגות?",
+          "amud": "ז:",
+          "text": {
+            "from": "7b.7",
+            "to": "7b.7"
+          },
+          "gist": "האם פרוטה אחת שעוברת בין שני אבות מקדשת שני זוגות, כיוון שעברה פרוטה מיד ליד, או שכל זוג צריך פרוטה משלו?",
+          "bullets": [
+            {
+              "text": "רבא שואל: אדם אומר לחברו \"שתי בנותיך לשני בניי בפרוטה\" – מהו?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "\"בתר נותן ומקבל אזלינן\": פרוטה אחת ניתנה והתקבלה, ויש כאן ממון. או שמא הולכים אחר הבנים והבנות, ולאף אחד מהם אין פרוטה? תיקו.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "האב פועל כשליח שבניו מינו אותו, שהרי אינו יכול לקדש אישה לבנו הגדול מעצמו.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s14",
+          "title": "בתך ופרתך, בתך וקרקעך: חצי פרוטה לכל אחת, או קנין נפרד?",
+          "amud": "ז:",
+          "text": {
+            "from": "7b.8",
+            "to": "7b.9"
+          },
+          "gist": "כשפרוטה אחת ניתנת על בת ועל פרה, או על בת ועל קרקע – האם היא מתחלקת לחצאים, או שכולה הולכת לקידושין והנכס נקנה בקנין משלו?",
+          "bullets": [
+            {
+              "text": "רב פפא שואל: \"בתך ופרתך בפרוטה\" – חצי פרוטה לכל אחת, ואף אחת אינה נקנית? או הפרוטה כולה לבת, והפרה במשיכה? תיקו.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רב אשי שואל אותו דבר על \"בתך וקרקעך בפרוטה\": חצי פרוטה לכל אחת, או הפרוטה לבת והקרקע בחזקה? תיקו.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "למקרה של הקרקע יש גוון מיוחד, בגלל הרעיון שעלה קודם, שאדם דומה במובן מסוים לקרקע.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "returns_to": [
+            {
+              "id": "s5",
+              "note": "מהדהד את השוואת האדם לקרקע אצל רב אשי"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "title": "קידושין בשיראי: האם צריכים שומא?",
+      "amud": "ז: ← ח.",
+      "text": {
+        "from": "7b.10",
+        "to": "8a.9"
+      },
+      "gist": "רבה ורב יוסף נחלקו אם משי שערכו אינו ברור צריך שומא, בשתי לשונות: האם האישה סומכת על הערך שנאמר לה, או האם שווה כסף צריך להיות קצוב כמו כסף.",
+      "bullets": [
+        {
+          "text": "המשי היה בבבל, בדורם של רבה ורב יוסף, סחורה חדשה, יקרה וקשה לתמחור – בדיוק סוג הסחורה שצריך היה לברר את ערכה ההלכתי.",
+          "detail": 3,
+          "source": "shiur"
+        },
+        {
+          "text": "דרישת השומא עומדת ביסוד המנהג המאוחר לקדש בטבעת פשוטה שערכה ידוע בקלות, בלי אבנים טובות או מלאכה מורכבת.",
+          "detail": 2,
+          "source": "shiur"
+        },
+        {
+          "text": "הרמ\"א (אורח חיים תרצה) כותב שלא ישלח איש משלוח מנות לאלמנה, מחשש קידושי ספק. האחרונים תמהים על דבריו, אבל המנגנונים הרחבים של כסף קידושין בדף שלנו נותנים להם הקשר.",
+          "detail": 3,
+          "source": "shiur"
+        }
+      ],
+      "chart": {
+        "caption": "קידושין בשיראי: מתי צריך שומא?",
+        "columns": [
+          "",
+          "\"בכל דהו\"",
+          "אמר חמישים, ואינו שווה חמישים",
+          "אמר חמישים, ושווה חמישים"
+        ],
+        "rows": [
+          [
+            "רבה",
+            "אין צורך בשומא",
+            "אינה מקודשת",
+            "אין צורך בשומא"
+          ],
+          [
+            "רב יוסף (לשון ראשונה)",
+            "אין צורך בשומא",
+            "אינה מקודשת",
+            "צריך שומא: היא אינה בקיאה בשומא ואינה סומכת עליו"
+          ],
+          [
+            "רב יוסף (לשון אחרת)",
+            "צריך שומא: שווה כסף צריך להיות קצוב",
+            "אינה מקודשת",
+            "צריך שומא"
+          ]
+        ],
+        "tags": [
+          [
+            null,
+            null,
+            "not-effective",
+            null
+          ],
+          [
+            null,
+            null,
+            "not-effective",
+            null
+          ],
+          [
+            null,
+            null,
+            "not-effective",
+            null
+          ]
+        ]
+      },
+      "children": [
+        {
+          "id": "s16",
+          "title": "שיראי: המקרים המוסכמים, והמחלוקת ב\"אמר חמישים ושווה חמישים\"",
+          "amud": "ז:",
+          "text": {
+            "from": "7b.10",
+            "to": "7b.11"
+          },
+          "gist": "הכול מודים כשקידש בשיראי \"בכל דהו\", וכשהגזים בערכם; המחלוקת היא כשהערך שאמר נכון אבל האישה אינה יכולה לבדוק אותו.",
+          "bullets": [
+            {
+              "text": "מעשה באיש שקידש אישה בשיראי. רבה: אינם צריכים שומא, שהרי ודאי שווים פרוטה. רב יוסף: צריכים שומא.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אם אמר לה \"התקדשי בהם בכל דהו\" – הכול מודים שאינם צריכים שומא.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אם אמר לה שהם שווים חמישים זוז והם אינם שווים – הכול מודים שאינה מקודשת.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "נחלקו כשאמר חמישים והם שווים חמישים. רבה: אינם צריכים שומא, שהרי שווים חמישים. רב יוסף: צריכים שומא, כיוון שאישה אינה בקיאה בשומא, \"לא סמכה דעתה\" על דבריו, ואינה מסכימה בלב שלם.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "illustration": {
+            "caption": "שלושת מקרי השיראי (קידושין ז:): שניים שבהם רבה ורב יוסף מודים, והמקרה שבו הערך שנאמר נכון אבל האישה אינה יכולה לבדוק אותו.",
+            "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שלושה לוחות, ובכל אחד פיסת משי: ״בכל דהו״ – שניהם מודים שמקודשת; אמר חמישים ושווה פחות – שניהם מודים שאינה מקודשת; אמר חמישים ושווה חמישים – לרבה אין צורך בשומא, ולרב יוסף צריך שומא.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"480\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"280\" height=\"420\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"310\" y=\"14\" width=\"280\" height=\"420\" rx=\"14\" fill=\"#F7E1E1\"/><rect x=\"605\" y=\"14\" width=\"280\" height=\"420\" rx=\"14\" fill=\"#E3EAF3\"/><g fill=\"#C9D6EA\" stroke=\"#8A9BB8\" stroke-width=\"2\"><path d=\"M95 80 Q155 64 215 80 L205 140 Q155 128 105 140 Z\"/><path d=\"M390 80 Q450 64 510 80 L500 140 Q450 128 400 140 Z\"/><path d=\"M685 80 Q745 64 805 80 L795 140 Q745 128 695 140 Z\"/></g><g stroke=\"#FFFFFF\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\"><path d=\"M120 90 Q150 110 130 132\"/><path d=\"M415 90 Q445 110 425 132\"/><path d=\"M710 90 Q740 110 720 132\"/></g><g fill=\"#FFFFFF\" stroke=\"#8A9BB8\"><rect x=\"515\" y=\"96\" width=\"64\" height=\"22\" rx=\"4\"/><rect x=\"810\" y=\"96\" width=\"64\" height=\"22\" rx=\"4\"/></g><use href=\"#mark-ok\" x=\"45\" y=\"212\" width=\"28\" height=\"28\"/><use href=\"#mark-no\" x=\"340\" y=\"212\" width=\"28\" height=\"28\"/><use href=\"#mark-ok\" x=\"635\" y=\"208\" width=\"28\" height=\"28\"/><use href=\"#mark-no\" x=\"635\" y=\"288\" width=\"28\" height=\"28\"/></g><g font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"745\" y=\"46\" direction=\"rtl\">״בכל דהו״</text><text x=\"450\" y=\"46\" direction=\"rtl\">אמר חמישים, שווה פחות</text><text x=\"155\" y=\"46\" direction=\"rtl\">אמר חמישים, שווה חמישים</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"353\" y=\"111\" direction=\"rtl\">50 דינר</text><text x=\"58\" y=\"111\" direction=\"rtl\">50 דינר</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"745\" y=\"164\" direction=\"rtl\">כל סכום שהוא שווה</text><text x=\"450\" y=\"164\" direction=\"rtl\">ערכו האמיתי: פחות מ־50</text><text x=\"155\" y=\"164\" direction=\"rtl\">ערכו האמיתי: 50</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"745\" y=\"198\" direction=\"rtl\">רבה ורב יוסף</text><text x=\"450\" y=\"198\" direction=\"rtl\">רבה ורב יוסף</text></g><text x=\"819\" y=\"231\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">מקודשת, ואין צורך</text><text x=\"819\" y=\"249\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">בשומא</text><text x=\"524\" y=\"231\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"745\" y=\"320\" direction=\"rtl\">לשון אחרת: רב יוסף</text><text x=\"745\" y=\"338\" direction=\"rtl\">מצריך שומא גם כאן,</text><text x=\"745\" y=\"356\" direction=\"rtl\">שהרי שווה כסף צריך להיות קצוב</text></g><text x=\"265\" y=\"198\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">רבה</text><text x=\"229\" y=\"227\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">אין צורך בשומא</text><text x=\"265\" y=\"278\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">רב יוסף</text><text x=\"229\" y=\"307\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">צריך שומא:</text><text x=\"229\" y=\"325\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">היא אינה בקיאה</text><text x=\"229\" y=\"343\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">ואינה סומכת עליו</text><text x=\"450\" y=\"462\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">קידושין ז: · רבה ורב יוסף בקידושין בשיראי</text></svg>"
+          },
+          "children": []
+        },
+        {
+          "id": "s17",
+          "title": "לשון אחרת: שווה כסף צריך להיות קצוב כמו כסף",
+          "amud": "ז: ← ח.",
+          "text": {
+            "from": "7b.12",
+            "to": "8a.9"
+          },
+          "gist": "בלשון האחרת נחלקו גם ב\"בכל דהו\", כי לרב יוסף דבר שבא במקום כסף צריך ערך קצוב, והוא מוכיח זאת מפדיון עבד עברי.",
+          "bullets": [
+            {
+              "text": "יש אומרים (\"איכא דאמרי\") שנחלקו גם כשאמר לה \"בשיראי אלה, בכל דהו\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רב יוסף: \"שווה כסף הרי הוא ככסף; מה כסף דקיץ – אף שווה כסף נמי דקיץ\". כמו שלכסף יש ערך קצוב, כך גם לדבר שבא במקומו.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "המקור שלו הוא ברייתא על פדיון עבד עברי: \"מִכֶּסֶף מִקְנָתוֹ\" (ויקרא כה, נא) – \"בכסף הוא נקנה, ואינו נקנה בתבואה וכלים\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אי אפשר לפרש שתבואה וכלים אינם מועילים כלל, שהרי \"יָשִׁיב גְּאֻלָּתוֹ\" בא לרבות שווה כסף ככסף. וגם לא שאין בהם שווה פרוטה, שהרי אז אפילו כסף לא היה מועיל.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אם כן, התבואה והכלים שווים פרוטה אבל אין להם ערך קצוב, ועבד עברי נפדה רק בדבר שערכו מוגדר בבירור, כמו כסף.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אותו דין נוהג בכסף קידושין: כשהערך אינו ברור, דעתה של האישה אינה סומכת, והקידושין אינם יכולים לחול.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "continues": "הדיון בראייתו של רב יוסף ממשיך בדף ח.",
+          "children": []
+        }
+      ]
     }
-   ],
-   "chart": {
-    "caption": "המקרים של רבא: כסף קידושין שאינו עובר בדרך הרגילה מן הנותן אל המקבל",
-    "columns": [
-     "המקרה",
-     "מי נותן למי, ולמי היא מתקדשת",
-     "החידוש",
-     "הדין והטעם"
-    ],
-    "rows": [
-     [
-      "ערב",
-      "האיש ← פלוני\nהיא מתקדשת לאיש שנתן",
-      "היא אינה מקבלת דבר",
-      "מקודשת: ערב משעבד את עצמו בלי שום הנאה"
-     ],
-     [
-      "עבד כנעני",
-      "האיש ← האישה\nהיא מתקדשת לפלוני",
-      "הבעל אינו משלם דבר",
-      "מקודשת: עבד כנעני יוצא לחירות בכסף של אחרים"
-     ],
-     [
-      "מדין שניהם",
-      "האיש ← פלוני\nהיא מתקדשת לפלוני",
-      "היא אינה מקבלת דבר, והבעל אינו משלם דבר",
-      "מקודשת: כל ראיה משלימה את מה שחסר בחברתה"
-     ],
-     [
-      "האישה נותנת לאיש",
-      "האישה ← האיש\nהיא מתקדשת לאיש שנתנה לו",
-      "הכסף עובר ממנה אליו",
-      "מר זוטרא: מקודשת, כשמדובר באדם חשוב"
-     ]
-    ],
-    "tones": [
-     [
-      null,
-      null,
-      null,
-      "ok"
-     ],
-     [
-      null,
-      null,
-      null,
-      "ok"
-     ],
-     [
-      null,
-      null,
-      null,
-      "ok"
-     ],
-     [
-      null,
-      null,
-      null,
-      "ok"
-     ]
-    ]
-   },
-   "illustration": {
-    "caption": "שלושת המקרים של רבא ושאלתו על אישה שנותנת כסף לאיש (קידושין ו:–ז.): מי נותן את המנה למי, ולמי האישה מתקדשת.",
-    "svg": "<svg viewBox=\"0 0 900 490\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבעה לוחות, ובכל אחד אישה, איש ולפעמים אדם שלישי, עם חץ למנה וקו מקווקו לקידושין: מקרה הערב, מקרה העבד הכנעני, המקרה המשולב, והאישה שנותנת כסף לאיש.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"490\" fill=\"#FBF8F1\"/><rect x=\"12\" y=\"14\" width=\"210\" height=\"412\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"234\" y=\"14\" width=\"210\" height=\"412\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"456\" y=\"14\" width=\"210\" height=\"412\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"678\" y=\"14\" width=\"210\" height=\"412\" rx=\"14\" fill=\"#EFE7F1\"/><g stroke=\"#9A6212\" stroke-width=\"3\"><line x1=\"125\" y1=\"150\" x2=\"169\" y2=\"150\"/><line x1=\"327\" y1=\"150\" x2=\"283\" y2=\"150\"/><line x1=\"569\" y1=\"150\" x2=\"613\" y2=\"150\"/><line x1=\"721\" y1=\"150\" x2=\"765\" y2=\"150\"/></g><g fill=\"#9A6212\"><polygon points=\"177,150 167,144 167,156\"/><polygon points=\"275,150 285,144 285,156\"/><polygon points=\"621,150 611,144 611,156\"/><polygon points=\"773,150 763,144 763,156\"/></g><g fill=\"#F3C95A\" stroke=\"#9A6212\" stroke-width=\"2\"><circle cx=\"150\" cy=\"131\" r=\"14\"/><circle cx=\"302\" cy=\"131\" r=\"14\"/><circle cx=\"594\" cy=\"131\" r=\"14\"/><circle cx=\"746\" cy=\"131\" r=\"14\"/></g><use href=\"#woman\" x=\"22\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"92\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"162\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"244\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"314\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"384\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"466\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"536\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"606\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"688\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"758\" y=\"170\" width=\"46\" height=\"92\" style=\"color:#4B5E8C\"/><g stroke=\"#A8436E\" stroke-width=\"2.5\" stroke-dasharray=\"6 4\"><line x1=\"45\" y1=\"298\" x2=\"115\" y2=\"298\"/><line x1=\"267\" y1=\"298\" x2=\"407\" y2=\"298\"/><line x1=\"489\" y1=\"298\" x2=\"629\" y2=\"298\"/><line x1=\"711\" y1=\"298\" x2=\"781\" y2=\"298\"/></g><use href=\"#mark-ok\" x=\"42\" y=\"334\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"264\" y=\"334\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"486\" y=\"334\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"708\" y=\"334\" width=\"26\" height=\"26\"/></g><g font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" text-anchor=\"middle\"><text x=\"783\" y=\"44\" direction=\"rtl\" fill=\"#5A2A12\">ערב</text><text x=\"561\" y=\"44\" direction=\"rtl\" fill=\"#1B3A8A\">עבד כנעני</text><text x=\"339\" y=\"44\" direction=\"rtl\" fill=\"#24592E\">שניהם יחד</text><text x=\"117\" y=\"44\" direction=\"rtl\" fill=\"#5A3A6E\">האישה נותנת לאיש</text></g><g font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\"><text x=\"783\" y=\"68\" direction=\"rtl\" fill=\"#7A4A2A\">מדין ערב</text><text x=\"561\" y=\"68\" direction=\"rtl\" fill=\"#3A5692\">מדין עבד כנעני</text><text x=\"339\" y=\"68\" direction=\"rtl\" fill=\"#3C7446\">מדין שניהם</text><text x=\"117\" y=\"68\" direction=\"rtl\" fill=\"#5A3A6E\">אדם חשוב</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"783\" y=\"96\" direction=\"rtl\">״תן מנה לפלוני</text><text x=\"783\" y=\"113\" direction=\"rtl\">ואקדש לך״</text><text x=\"561\" y=\"96\" direction=\"rtl\">״הילך מנה</text><text x=\"561\" y=\"113\" direction=\"rtl\">והתקדשי לפלוני״</text><text x=\"339\" y=\"96\" direction=\"rtl\">״תן מנה לפלוני</text><text x=\"339\" y=\"113\" direction=\"rtl\">ואקדש אני לו״</text><text x=\"117\" y=\"96\" direction=\"rtl\">״הילך מנה</text><text x=\"117\" y=\"113\" direction=\"rtl\">ואקדש אני לך״</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#5A3A12\" text-anchor=\"middle\"><text x=\"750\" y=\"135\" direction=\"rtl\">100</text><text x=\"598\" y=\"135\" direction=\"rtl\">100</text><text x=\"306\" y=\"135\" direction=\"rtl\">100</text><text x=\"154\" y=\"135\" direction=\"rtl\">100</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"855\" y=\"280\" direction=\"rtl\">האישה</text><text x=\"785\" y=\"280\" direction=\"rtl\">האיש</text><text x=\"715\" y=\"280\" direction=\"rtl\">פלוני</text><text x=\"633\" y=\"280\" direction=\"rtl\">האישה</text><text x=\"563\" y=\"280\" direction=\"rtl\">האיש</text><text x=\"493\" y=\"280\" direction=\"rtl\">פלוני</text><text x=\"411\" y=\"280\" direction=\"rtl\">האישה</text><text x=\"341\" y=\"280\" direction=\"rtl\">האיש</text><text x=\"271\" y=\"280\" direction=\"rtl\">פלוני</text><text x=\"189\" y=\"280\" direction=\"rtl\">האישה</text><text x=\"107\" y=\"280\" direction=\"rtl\">אדם חשוב</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#A8436E\" text-anchor=\"middle\"><text x=\"820\" y=\"316\" direction=\"rtl\">קידושין</text><text x=\"563\" y=\"316\" direction=\"rtl\">קידושין</text><text x=\"341\" y=\"316\" direction=\"rtl\">קידושין</text><text x=\"154\" y=\"316\" direction=\"rtl\">קידושין</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\"><text x=\"826\" y=\"352\" direction=\"rtl\">מקודשת</text><text x=\"604\" y=\"352\" direction=\"rtl\">מקודשת</text><text x=\"382\" y=\"352\" direction=\"rtl\">מקודשת</text><text x=\"160\" y=\"352\" direction=\"rtl\">מקודשת</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"783\" y=\"388\" direction=\"rtl\">לא קיבלה דבר ובכל זאת</text><text x=\"783\" y=\"405\" direction=\"rtl\">שעבדה את עצמה, כמו ערב</text><text x=\"561\" y=\"388\" direction=\"rtl\">לא שילם דבר ובכל זאת קנה,</text><text x=\"561\" y=\"405\" direction=\"rtl\">כמו עבד כנעני שיצא לחירות</text><text x=\"339\" y=\"388\" direction=\"rtl\">הערב עונה על הקושיה עליה,</text><text x=\"339\" y=\"405\" direction=\"rtl\">והעבד – על הקושיה עליו</text><text x=\"117\" y=\"388\" direction=\"rtl\">מר זוטרא: אדם חשוב;</text><text x=\"117\" y=\"405\" direction=\"rtl\">נהנית מכך שקיבל ממנה</text></g><text x=\"450\" y=\"466\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">קידושין ו:–ז. · שלושת המקרים של רבא ושאלתו על אישה שנותנת כסף לאיש</text></svg>"
-   },
-   "children": [
+  ],
+  "key_terms": [
     {
-     "id": "s2",
-     "title": "מדין ערב: הכסף לאדם שלישי, והאישה אינה מקבלת דבר",
-     "amud": "ו:–ז.",
-     "text": {
-      "from": "6b.15",
-      "to": "7a.1"
-     },
-     "gist": "אישה שמבקשת מהאיש לתת מנה לאדם אחר מתקדשת לו, כמו ערב שמשעבד את עצמו אף שההלוואה ניתנת לאחר.",
-     "bullets": [
-      {
-       "text": "רבא: אישה אומרת \"תן מנה לפלוני ואקדש לך\" – מקודשת, מדין ערב.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "ערב משעבד את עצמו לפרוע, אף שכסף ההלוואה הולך ללווה. כך גם היא משעבדת ומקנה את עצמה לאיש, אף שהכסף הולך לאחר.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "הראשונים נחלקו במנגנון. לרש\"י, כל אחד מן הדגמים (ערב, עבד, שניהם) הוא צורה מוכרת של קנין, ולכן הוא מועיל גם בקידושין. לרא\"ש, עצם העברת הממון היא שהקידושין נתלים בה, יהיה כיוונה אשר יהיה.",
-       "detail": 2,
-       "source": "shiur"
-      },
-      {
-       "text": "לרמב\"ם, היא מקבלת הנאה ממשית ששווה פרוטה לפחות: הסיפוק שהאיש עושה כבקשתה בענייני ממון. הנאה שאינה מוחשית ככסף קידושין חוזרת בהמשך המסכת (\"רקוד לפני\"). הקושי: הגמרא אינה אומרת זאת כאן.",
-       "detail": 2,
-       "source": "shiur"
-      },
-      {
-       "text": "רש\"י ואחרים מוסיפים שהקשר לקידושין צריך להיאמר במפורש, שאם לא כן תשלום לאדם זר אינו נוגע לה כלל. הריטב\"א הולך בדרך ביניים ומצרף את העברת הממון להנאה הנפשית.",
-       "detail": 3,
-       "source": "shiur"
-      },
-      {
-       "text": "של מי הכסף שניתן לפלוני – גם בזה נחלקו הראשונים, והלשון סובלת את שתי הקריאות.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "children": []
+      "term": "ערב",
+      "hebrew": "",
+      "sense": "ערב שמשעבד את עצמו בלי הנאה",
+      "definition": "מי שמתחייב לפרוע הלוואה של אדם אחר אם הלווה לא יפרע. הוא משעבד את עצמו אף שכסף ההלוואה הולך ללווה והוא עצמו אינו מקבל דבר.",
+      "on_this_daf": "רבא לומד מן הערב שאישה יכולה לשעבד את עצמה בקידושין אף שהכסף הולך לאדם שלישי.",
+      "aliases": [
+        "מדין ערב",
+        "הערב"
+      ],
+      "sections": [
+        "s1",
+        "s2",
+        "s4",
+        "s6"
+      ]
     },
     {
-     "id": "s3",
-     "title": "מדין עבד כנעני: הבעל אינו משלם דבר",
-     "amud": "ז.",
-     "text": {
-      "from": "7a.2",
-      "to": "7a.2"
-     },
-     "gist": "כסף שאיש אחד נותן לאישה מקדש אותה לאיש אחר, כמו עבד כנעני שיוצא לחירות בכסף שאחר נותן לרבו.",
-     "bullets": [
-      {
-       "text": "איש נותן לאישה מנה ואומר: \"הילך מנה והתקדשי לפלוני\". מקודשת, מדין עבד כנעני.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "עבד כנעני קונה את עצמו כשאדם אחר משלם לרבו, אף שהוא אינו מפסיד משלו כלום. כך גם פלוני קונה את האישה אף שאינו מפסיד כלום.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "רקע: כל מה שבידי העבד שייך לרבו, ולכן אדם שלישי צריך לתת את הכסף. ובכל זאת המעשה הוא שינוי מעמדו של העבד עצמו, כמו שהקידושין הם של הבעל.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "children": []
+      "term": "אדם חשוב",
+      "hebrew": "",
+      "sense": "אדם חשוב, שעצם הסכמתו לקבל מתנה היא הנאה",
+      "definition": "אדם בעל מעמד שאינו רגיל לקבל מתנות, ולכן הסכמתו לקבל מתנה נותנת לנותן הנאה ממשית ששווה ממון.",
+      "on_this_daf": "מר זוטרא מכשיר קידושין כשהאישה נותנת כסף לאיש, משום שהוא אדם חשוב והיא נהנית מכך שקיבל את מתנתה.",
+      "aliases": [],
+      "sections": [
+        "s1",
+        "s5"
+      ]
     },
     {
-     "id": "s4",
-     "title": "מדין שניהם: כל ראיה משלימה את מה שחסר בחברתה",
-     "amud": "ז.",
-     "text": {
-      "from": "7a.3",
-      "to": "7a.5"
-     },
-     "gist": "כשהאיש נותן לאדם שלישי והאישה מתקדשת לאותו אדם, אף דגם אחד אינו מספיק לבדו, אבל כל אחד עונה על הקושיה על חברו.",
-     "bullets": [
-      {
-       "text": "אישה אומרת \"תן מנה לפלוני ואקדש אני לו\" – מקודשת, מדין שניהם.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "הערב מלמד שהיא יכולה לשעבד את עצמה בלי הנאה. קושיה: בערב, מי שקונה (המלווה) הוא שמוציא ממון, ואילו כאן פלוני אינו משלם כלום. \"עבד כנעני יוכיח\": הוא קונה את עצמו בלי לשלם.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "קושיה על העבד: שם מי שמקנה (הרב) הוא שמקבל את הכסף, ואילו כאן האישה מקנה את עצמה ואינה מקבלת כלום. \"ערב יוכיח\": הוא משעבד את עצמו בלי הנאה.",
-       "detail": 2,
-       "source": "gemara"
-      }
-     ],
-     "children": []
+      "term": "קנין אגב",
+      "hebrew": "",
+      "sense": "קניית מטלטלין אגב קרקע",
+      "definition": "קניית מטלטלין יחד עם קרקע במעשה קנין אחד שנעשה בקרקע. הקנין מועיל רק בכיוון הזה: קרקע אינה נקנית אגב מטלטלין.",
+      "on_this_daf": "רב אשי מקשה שאם האישה נותנת לאיש, נמצא שאדם, הדומה לקרקע, נקנה עם כסף – הפך ממה שהמשנה מתירה.",
+      "aliases": [],
+      "sections": [
+        "s5"
+      ]
     },
     {
-     "id": "s5",
-     "title": "האישה נותנת לאיש: קנין אגב הפוך, או אדם חשוב?",
-     "amud": "ז.",
-     "text": {
-      "from": "7a.6",
-      "to": "7a.7"
-     },
-     "gist": "רבא שואל על אישה שנותנת כסף לאיש. מר זוטרא אומר שמקודשת; רב אשי מקשה שנכסים שיש להם אחריות אינם נקנים עם כסף; ומר זוטרא משיב שההנאה היא מכך שאדם חשוב מקבל ממנה מתנה.",
-     "bullets": [
-      {
-       "text": "רבא שואל: אישה אומרת \"הילך מנה ואקדש אני לך\" – מהו?",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "מר זוטרא משמו של רב פפא: מקודשת.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "רב אשי מקשה: אם כן, נכסים שיש להם אחריות (קרקע, ובכלל זה אדם, שהושווה לקרקע) נקנים עם נכסים שאין להם אחריות (כסף). והמשנה (כו.) שנתה את ההפך: \"נכסים שאין להם אחריות נקנין עם נכסים שיש להם אחריות\", ולא להפך.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "מר זוטרא: אין כאן קנין בכסף כלל. מדובר באדם חשוב, ובהנאה שהיא מקבלת מכך שהוא מסכים לקבל ממנה מתנה היא גומרת בדעתה ומקנה לו את עצמה.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "רש\"י: אדם חשוב אינו רגיל לקבל מתנות (\"וְשׂוֹנֵא מַתָּנֹת יִחְיֶה\", משלי טו, כז). כשהוא מקבל, הסיפוק של הנותנת ממשי ושווה פרוטה לפחות, כמו כשמארחים אורח נכבד שבדרך כלל מסרב.",
-       "detail": 2,
-       "source": "shiur"
-      },
-      {
-       "text": "זה מקביל לפירוש הרמב\"ם במקרה של הערב, אלא שכאן הגמרא אומרת את ההנאה במפורש. למעשה המקרה מצומצם מאוד, וזו אחת הסיבות שאין האישה נותנת את הטבעת לאיש.",
-       "detail": 3,
-       "source": "shiur"
-      },
-      {
-       "text": "האם בני חורין באמת דומים לקרקע? רש\"י משווה אדם לקרקע באופן כללי; תוספות מגבילים את ההשוואה לעבדים כנעניים, שהפסוק משווה אותם לקרקע. הש\"ך מביא ראיות רבות נגד תוספות.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "children": []
+      "term": "דיחוי",
+      "hebrew": "",
+      "sense": "פסילה של קרבן לצמיתות",
+      "definition": "הכלל שבהמה מוקדשת שנפסלה מלהקרב נשארת דחויה מן המזבח לעולם, גם אם הסיבה לפסול חלפה אחר כך.",
+      "on_this_daf": "הבהמה של רבי יוחנן, שהוקדשה חציה אחר חציה, מלמדת שבעלי חיים נדחים, שדחוי מעיקרא הוי דחוי, ושיש דיחוי גם בדמים.",
+      "aliases": [
+        "הדיחוי",
+        "בדיחוי"
+      ],
+      "sections": [
+        "s10"
+      ]
     },
     {
-     "id": "s6",
-     "title": "וכן לעניין ממון: נכונות האישה, או ממון שניתן למחילה",
-     "amud": "ז.",
-     "text": {
-      "from": "7a.8",
-      "to": "7a.10"
-     },
-     "gist": "רבא מחיל את דגמי הערב והעבד גם על קנייני ממון, והגמרא מראה מדוע אי אפשר ללמוד קידושין מממון או ממון מקידושין.",
-     "bullets": [
-      {
-       "text": "משמו של רבא נאמר \"וכן לעניין ממונא\": דגמי הערב והעבד הכנעני מועילים גם בקנייני ממון. הגמרא מסבירה ששני הלימודים צריכים (\"וצריכא\").",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "אילו נאמר רק בקידושין, היינו מצמצמים זאת לקידושין: אישה מתרצה בכל דהו, כדברי ריש לקיש: \"טב למיתב טן דו מלמיתב ארמלו\".",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "אילו נאמר רק בממון, היינו מצמצמים זאת לממון: ממון ניתן למחילה. קידושין אינם תלויים רק בהסכמתה; היא צריכה לקבל כסף קידושין בפועל.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "במילים אחרות, אין מחילה בקידושין: המעשה הפורמלי הוא שעושה את הנישואין, והסכמה הדדית בלי קנין אינה מועילה כלום.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "returns_to": [
-      {
-       "id": "s2",
-       "note": "חוזר למקרי הערב והעבד הכנעני של רבא, אחרי השאלה על אישה שנותנת לאיש"
-      }
-     ],
-     "children": []
+      "term": "שווה כסף",
+      "hebrew": "",
+      "sense": "דבר בעל ערך שבא במקום כסף",
+      "definition": "נכס ששווה ממון וניתן במקום מטבעות בקנין, כמו בקידושין או בפדיון, ובדרך כלל נחשב לעניין זה ככסף.",
+      "on_this_daf": "בלשון האחרת רב יוסף סובר שדבר כזה צריך, כמו כסף, להיות קצוב, ומוכיח זאת מפדיון עבד עברי.",
+      "aliases": [],
+      "sections": [
+        "s15",
+        "s17"
+      ]
+    },
+    {
+      "term": "שומא",
+      "hebrew": "",
+      "sense": "הערכת שוויו של חפץ",
+      "definition": "הערכה מסודרת של שוויו של חפץ, הנדרשת כשערכו אינו ברור והקנין תלוי בערך זה.",
+      "on_this_daf": "רבה ורב יוסף נחלקו אם שיראי שניתנו ככסף קידושין צריכים שומא, כשערכם אינו ידוע לאישה.",
+      "aliases": [
+        "השומא",
+        "בשומא"
+      ],
+      "sections": [
+        "s15",
+        "s16",
+        "s17"
+      ]
     }
-   ]
-  },
-  {
-   "id": "s7",
-   "title": "חצי קידושין: \"לחציי\", \"חצייך\", והתפשטות",
-   "amud": "ז.–ז:",
-   "text": {
-    "from": "7a.11",
-    "to": "7b.2"
-   },
-   "gist": "שלושה שלבים: מדוע \"לחציי\" מועיל ו\"חצייך\" אינו מועיל, מדוע הקידושין אינם מתפשטים בכולה כמו הקדש בבהמה, והבהמה של שני שותפין של רבי יוחנן ושלושת הדינים בדיחוי שנלמדים ממנה.",
-   "bullets": [],
-   "children": [
-    {
-     "id": "s8",
-     "title": "לחציי או חצייך: שתי נשים – כן, שני בעלים – לא",
-     "amud": "ז.",
-     "text": {
-      "from": "7a.11",
-      "to": "7a.12"
-     },
-     "gist": "רבא מכשיר \"התקדשי לי לחציי\" ופוסל \"חצייך מקודשת לי\", משום שאיש יכול לשאת שתי נשים ואישה אינה יכולה להינשא לשני אנשים.",
-     "bullets": [
-      {
-       "text": "רבא: \"התקדשי לי לחציי\" – מקודשת. \"חצייך מקודשת לי\" – אינה מקודשת.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "אביי: אם הטעם הוא \"כִּי יִקַּח אִישׁ אִשָּׁה\" (דברים כד, א) – אישה ולא חצי אישה – הרי גם \"איש\" אמר רחמנא, ולא חצי איש!",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "רבא: הטעם אינו הפסוק. מי שמקדש חצי אישה משאיר את חציה השני לאחר, ואישה אינה ראויה לשני אנשים (\"איתתא לבי תרי לא חזיא\").",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "איש יכול לשאת שתי נשים, ולכן \"לחציי\" פירושו רק: אם ארצה לשאת אישה אחרת – אשא.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "המקרה מניח איש שנכנס לנישואין ושומר לעצמו במפורש את הזכות לשאת אישה שנייה. האם עליו להתנות זאת מראש – בזה הגמרא אינה עוסקת.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "illustration": {
-      "caption": "תשובת רבא לאביי (קידושין ז.): \"לחציי\" משאיר מקום לאישה שנייה, וזה מותר; \"חצייך\" משאיר מקום לבעל שני, וזה אסור.",
-      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: איש, אישה ואישה שנייה דהויה – מקודשת. משמאל: איש, אישה ובעל שני דהוי – אינה מקודשת.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"362\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"362\" rx=\"14\" fill=\"#F7E1E1\"/><use href=\"#woman\" x=\"80\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"190\" y=\"108\" width=\"66\" height=\"132\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"300\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C4A60\" opacity=\"0.35\"/><use href=\"#man\" x=\"520\" y=\"108\" width=\"66\" height=\"132\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"640\" y=\"120\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"750\" y=\"108\" width=\"66\" height=\"132\" style=\"color:#6B6F3A\" opacity=\"0.35\"/><use href=\"#mark-ok\" x=\"150\" y=\"328\" width=\"30\" height=\"30\"/><use href=\"#mark-no\" x=\"580\" y=\"328\" width=\"30\" height=\"30\"/></g><text x=\"673\" y=\"50\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">״התקדשי לי לחציי״</text><text x=\"228\" y=\"50\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">״חצייך מקודשת לי״</text><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" text-anchor=\"middle\"><text x=\"790\" y=\"264\" direction=\"rtl\" fill=\"#1A1F2E\">האישה</text><text x=\"677\" y=\"264\" direction=\"rtl\" fill=\"#1A1F2E\">האיש</text><text x=\"570\" y=\"264\" direction=\"rtl\" fill=\"#5B6478\">אישה נוספת?</text><text x=\"347\" y=\"264\" direction=\"rtl\" fill=\"#1A1F2E\">האיש</text><text x=\"230\" y=\"264\" direction=\"rtl\" fill=\"#1A1F2E\">האישה</text><text x=\"117\" y=\"264\" direction=\"rtl\" fill=\"#5B6478\">בעל נוסף?</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"673\" y=\"296\" direction=\"rtl\">״אם ארצה לשאת אישה אחרת –</text><text x=\"673\" y=\"314\" direction=\"rtl\">אשא אישה אחרת״</text><text x=\"228\" y=\"296\" direction=\"rtl\">חציה השני נשאר לאחר,</text><text x=\"228\" y=\"314\" direction=\"rtl\">ואישה אינה ראויה לשני בעלים</text></g><text x=\"712\" y=\"349\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"282\" y=\"349\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"450\" y=\"404\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#4A3A2E\">אתתא לבי תרי לא חזיא · גברא חזי לבי תרי</text><text x=\"450\" y=\"428\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">קידושין ז. · תשובת רבא לאביי</text></svg>"
-     },
-     "children": []
-    },
-    {
-     "id": "s9",
-     "title": "האם יתפשט כמו בהקדש? בהמה מול דעת אחרת",
-     "amud": "ז.",
-     "text": {
-      "from": "7a.13",
-      "to": "7a.15"
-     },
-     "gist": "מר זוטרא בריה דרב מרי טוען ש\"חצייך\" צריך להתפשט בכולה, כמו שהקדשת רגל של בהמה מתפשטת בכל הבהמה; הגמרא משיבה שלאישה יש דעת משלה.",
-     "bullets": [
-      {
-       "text": "מר זוטרא בריה דרב מרי לרבינא: \"וניפשטו לה קידושי בכולה!\" והרי שנינו בברייתא (תוספתא תמורה א, ה): האומר \"רגלה של זו עולה\" – תהא כולה עולה.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "ואפילו לשיטה שאין כולה עולה, זה רק בדבר שאין הנשמה תלויה בו, כמו רגל. המקדיש דבר שהנשמה תלויה בו – כולה עולה לדברי הכול, ואישה אינה יכולה לחיות בלי חצי גופה.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "הגמרא דוחה את ההשוואה: \"התם – בהמה, הכא – דעת אחרת\". לבהמה אין דעת, ואילו כאן יש דעת נוספת, של האישה, והיא צריכה לרצות שהקידושין יחולו.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "הסכמתה ניתנה למילים המסוימות שהאיש אמר. היא קיבלה \"חצייך\", ודעתה אינה מגיעה מעבר למה שהוצע לה, ולכן הקידושין אינם יכולים להתרחב מעבר לכך.",
-       "detail": 2,
-       "source": "shiur"
-      }
-     ],
-     "illustration": {
-      "caption": "ההשוואה של מר זוטרא בריה דרב מרי ותשובת הגמרא (קידושין ז.): הקדשת רגל של בהמה מתפשטת בכל הבהמה, אבל דעתה של האישה מגבילה את הקידושין למה שקיבלה.",
-      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: כבש שאחת מרגליו מסומנת, וחץ אל הכבש כולו זוהר – כולה עולה. משמאל: אישה, לצד הקושיה והתשובה – הקידושין אינם מתפשטים.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"342\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"342\" rx=\"14\" fill=\"#E3EAF3\"/><use href=\"#lamb\" x=\"50\" y=\"130\" width=\"150\" height=\"105\"/><rect x=\"82\" y=\"186\" width=\"17\" height=\"44\" rx=\"4\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"3\"/><line x1=\"212\" y1=\"185\" x2=\"244\" y2=\"185\" stroke=\"#5B6478\" stroke-width=\"3\"/><polygon points=\"252,185 242,179 242,191\" fill=\"#5B6478\"/><ellipse cx=\"335\" cy=\"185\" rx=\"88\" ry=\"60\" fill=\"#F7E3B0\"/><use href=\"#lamb\" x=\"260\" y=\"130\" width=\"150\" height=\"105\"/><use href=\"#woman\" x=\"520\" y=\"110\" width=\"66\" height=\"132\" style=\"color:#8C4A60\"/><use href=\"#mark-no\" x=\"540\" y=\"290\" width=\"30\" height=\"30\"/></g><text x=\"673\" y=\"46\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#5A2A12\">בבהמה: הקדושה מתפשטת</text><text x=\"673\" y=\"74\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">״רגלה של זו עולה״</text><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#5A2A12\" text-anchor=\"middle\"><text x=\"775\" y=\"270\" direction=\"rtl\">הרגל שהוקדשה</text><text x=\"565\" y=\"270\" direction=\"rtl\">כולה עולה</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"673\" y=\"306\" direction=\"rtl\">גם החולק מודה כשהקדיש</text><text x=\"673\" y=\"324\" direction=\"rtl\">דבר שהנשמה תלויה בו</text></g><text x=\"228\" y=\"46\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">באישה: דעת אחרת</text><text x=\"228\" y=\"74\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">״חצייך מקודשת לי״</text><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\" text-anchor=\"end\"><text x=\"290\" y=\"140\" direction=\"rtl\" font-weight=\"600\">מר זוטרא בריה דרב מרי:</text><text x=\"290\" y=\"160\" direction=\"rtl\">שיתפשטו הקידושין בכולה,</text><text x=\"290\" y=\"180\" direction=\"rtl\">שהרי אינה חיה בלי חציה</text><text x=\"290\" y=\"214\" direction=\"rtl\" font-weight=\"600\">הגמרא:</text><text x=\"290\" y=\"234\" direction=\"rtl\">כאן יש דעת אחרת –</text><text x=\"290\" y=\"254\" direction=\"rtl\">והיא צריכה לרצות שיחולו</text></g><text x=\"322\" y=\"311\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16\" font-weight=\"600\" fill=\"#8C2F2F\">הקידושין אינם מתפשטים</text><text x=\"450\" y=\"386\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#4A3A2E\">התם בהמה, הכא דעת אחרת</text><text x=\"450\" y=\"409\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">קידושין ז. · הקושיה מהקדש והתשובה</text></svg>"
-     },
-     "children": []
-    },
-    {
-     "id": "s10",
-     "title": "בהמת השותפין של רבי יוחנן: שלושה דינים בדיחוי",
-     "amud": "ז.–ז:",
-     "text": {
-      "from": "7a.16",
-      "to": "7b.2"
-     },
-     "gist": "במקום זה האישה מושווית לבהמה שהוקדשה חציה אחר חציה: קדושה ואינה קריבה, עושה תמורה, וממנה לומדים שלושה דינים בדיחוי.",
-     "bullets": [
-      {
-       "text": "המקרה של האישה דומה רק לדברי רבי יוחנן: בהמה של שני שותפין, הקדיש אחד מהם את חציו, וחזר וקנה את החצי השני והקדישו – קדושה ואינה קריבה. בשעה שהוקדשה לראשונה לא הייתה ראויה, והקדושה לא התפשטה בלי השותף.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "כיוון שהיא קדושה, היא עושה תמורה, ו\"תמורתה כיוצא בה\": גם התמורה קדושה ואינה קריבה.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "\"שמע מינה תלת\": בעלי חיים נדחים; דחוי מעיקרא הוי דחוי; ויש דיחוי בדמים, כלומר גם כשהוקדשו רק דמי הבהמה.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "הבהמה היא למעשה שני חצאי בהמה מחוברים, ולא בהמה אחת שלמה, ולכן אינה קריבה; ובכל זאת יש בה די קדושת הגוף כדי לעשות תמורה.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "children": []
-    }
-   ]
-  },
-  {
-   "id": "s11",
-   "title": "תיקו: חלוקת הפרוטה – באישה או בקנין",
-   "amud": "ז:",
-   "text": {
-    "from": "7b.3",
-    "to": "7b.9"
-   },
-   "gist": "שאלות שלא נפשטו על צירוף: הסולם של רבא בקידושין לחצאין, שתי בנות לשני בנים בפרוטה אחת, ובת שנקנית יחד עם פרה או עם קרקע.",
-   "bullets": [
-    {
-     "text": "רוב הראשונים, ובהם הרמב\"ם, פוסקים לחומרה בספק שלא נפשט בקידושין.",
-     "detail": 3,
-     "source": "shiur"
-    }
-   ],
-   "chart": {
-    "caption": "השאלות שלא נפשטו בקידושין ז:",
-    "columns": [
-     "המקרה",
-     "השואל",
-     "צד אחד",
-     "צד שני",
-     "המסקנה"
-    ],
-    "rows": [
-     [
-      "חצייך בחצי פרוטה וחצייך בחצי פרוטה",
-      "רבא",
-      "כשאמר \"חצי פרוטה\" – הפסיק",
-      "מונה והולך עד פרוטה",
-      "תיקו"
-     ],
-     [
-      "חצייך בפרוטה וחצייך בפרוטה",
-      "רבא",
-      "כל פרוטה מפסיקה",
-      "כל מה שנעשה באותו יום מצטרף",
-      "תיקו"
-     ],
-     [
-      "חצייך היום וחצייך למחר",
-      "רבא",
-      "\"למחר\" מפסיק",
-      "הקידושין מתחילים עכשיו ונגמרים מחר",
-      "תיקו"
-     ],
-     [
-      "\"שני חצייך בפרוטה\"",
-      "רבא",
-      "אמירה אחת בבת אחת",
-      "אין אישה מתקדשת לחצאין כלל",
-      "תיקו"
-     ],
-     [
-      "שתי בנותיך לשני בניי בפרוטה",
-      "רבא",
-      "הולכים אחר הנותן והמקבל: יש פרוטה",
-      "הולכים אחר הזוגות: לכל אחד פחות מפרוטה",
-      "תיקו"
-     ],
-     [
-      "בתך ופרתך בפרוטה",
-      "רב פפא",
-      "חצי פרוטה לכל אחת: אף אחת אינה נקנית",
-      "הפרוטה לבת, והפרה במשיכה",
-      "תיקו"
-     ],
-     [
-      "בתך וקרקעך בפרוטה",
-      "רב אשי",
-      "חצי פרוטה לכל אחת",
-      "הפרוטה לבת, והקרקע בחזקה",
-      "תיקו"
-     ]
-    ]
-   },
-   "children": [
-    {
-     "id": "s12",
-     "title": "הסולם של רבא בחצאים: מונה והולך או פסקה?",
-     "amud": "ז:",
-     "text": {
-      "from": "7b.3",
-      "to": "7b.6"
-     },
-     "gist": "ארבע שאלות עולות על קידושי אישה בשני חצאים, שכל אחת נשאלת רק אם הקודמת מצטרפת, ובסופן: האם אישה מתקדשת לחצאין בכלל.",
-     "bullets": [
-      {
-       "text": "\"חצייך בחצי פרוטה וחצייך בחצי פרוטה\": כיוון שאמר \"חצי פרוטה\" – פסקה, וחילק את דבריו לשני חצאים שאין בהם כלום? או שמא מונה והולך הוא, עד פרוטה שלמה?",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "אם תמצא לומר שמונה והולך הוא: \"חצייך בפרוטה וחצייך בפרוטה\". האם פרוטה שלמה לכל חצי מפסיקה, או שכל מה שנעשה באותו יום מצטרף (\"כל ביומיה מונה והולך הוא\")?",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "אם גם זה מצטרף: \"חצייך בפרוטה היום וחצייך בפרוטה למחר\". האם \"למחר\" מפסיק, או שהקידושין מתחילים עכשיו ונגמרים רק למחר?",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "\"שני חצייך בפרוטה\": כאן ודאי אמר זאת בבת אחת, או שמא אין אישה מתקדשת לחצאין כלל? כל השאלות האלה נשארות: תיקו.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "ייתכן שעצם הצגת הנישואין בחצאים, גם חצאים שמשלימים שלם באמירה אחת, מבטאת תפיסה פגומה של נישואין – הצעה שהאישה אינה יכולה לקבל באמת.",
-       "detail": 3,
-       "source": "shiur"
-      },
-      {
-       "text": "יחידות הזמן כאן הן ימים, לא שעות או דקות, וזה מעניין כשלעצמו.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "illustration": {
-      "caption": "השאלות העולות של רבא בקידושין לחצאין (קידושין ז:). כל אחת משלוש הראשונות נשאלת רק אם הקודמת מצטרפת; כל הארבע נשארות בתיקו.",
-      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבע תיבות העולות כמדרגות מימין לשמאל. בכל אחת שאלה של רבא על קידושי אישה לחצאין, ועל כל אחת חותמת תיקו.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"290\" width=\"200\" height=\"140\" rx=\"12\" fill=\"#F3E6D8\" stroke=\"#C9B48E\"/><rect x=\"240\" y=\"230\" width=\"200\" height=\"140\" rx=\"12\" fill=\"#E3EAF3\" stroke=\"#A9B8D0\"/><rect x=\"460\" y=\"170\" width=\"200\" height=\"140\" rx=\"12\" fill=\"#E4EFE4\" stroke=\"#A9C4AC\"/><rect x=\"680\" y=\"100\" width=\"200\" height=\"140\" rx=\"12\" fill=\"#EFE7F1\" stroke=\"#B9A3C4\" stroke-dasharray=\"6 4\"/><g stroke=\"#5B6478\" stroke-width=\"2.5\"><line x1=\"222\" y1=\"330\" x2=\"234\" y2=\"306\"/><line x1=\"442\" y1=\"270\" x2=\"454\" y2=\"246\"/></g><g fill=\"#5B6478\"><polygon points=\"238,298 229,304 238,310\"/><polygon points=\"458,238 449,244 458,250\"/></g><g fill=\"#5B6478\"><rect x=\"82\" y=\"402\" width=\"76\" height=\"20\" rx=\"10\"/><rect x=\"302\" y=\"342\" width=\"76\" height=\"20\" rx=\"10\"/><rect x=\"522\" y=\"282\" width=\"76\" height=\"20\" rx=\"10\"/><rect x=\"742\" y=\"212\" width=\"76\" height=\"20\" rx=\"10\"/></g></g><text x=\"880\" y=\"38\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">שאלות רבא: האם שני חצאים עושים קידושין אחד?</text><text x=\"880\" y=\"62\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">כל אחת משלוש הראשונות נשאלת רק אם הקודמת מצטרפת. בכולן: תיקו.</text><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"780\" y=\"314\" direction=\"rtl\">שאלה 1</text><text x=\"560\" y=\"254\" direction=\"rtl\">שאלה 2</text><text x=\"340\" y=\"194\" direction=\"rtl\">שאלה 3</text><text x=\"120\" y=\"124\" direction=\"rtl\">שאלה 4</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"780\" y=\"338\" direction=\"rtl\">חצייך בחצי פרוטה,</text><text x=\"780\" y=\"355\" direction=\"rtl\">וחצייך בחצי פרוטה</text><text x=\"560\" y=\"278\" direction=\"rtl\">חצייך בפרוטה,</text><text x=\"560\" y=\"295\" direction=\"rtl\">וחצייך בפרוטה</text><text x=\"340\" y=\"218\" direction=\"rtl\">חצייך בפרוטה היום,</text><text x=\"340\" y=\"235\" direction=\"rtl\">וחצייך בפרוטה למחר</text><text x=\"120\" y=\"148\" direction=\"rtl\">״שני חצייך</text><text x=\"120\" y=\"165\" direction=\"rtl\">בפרוטה״</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"780\" y=\"378\" direction=\"rtl\">פסקה, או מונה והולך</text><text x=\"780\" y=\"394\" direction=\"rtl\">עד פרוטה?</text><text x=\"560\" y=\"318\" direction=\"rtl\">פסקה, או שכל מה שנעשה</text><text x=\"560\" y=\"334\" direction=\"rtl\">באותו יום מצטרף?</text><text x=\"340\" y=\"258\" direction=\"rtl\">״למחר״ פסקה, או מתחילים</text><text x=\"340\" y=\"274\" direction=\"rtl\">היום ונגמרים מחר?</text><text x=\"120\" y=\"188\" direction=\"rtl\">אמירה אחת, או שאין</text><text x=\"120\" y=\"204\" direction=\"rtl\">קידושין לחצאין כלל?</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#FFFFFF\" text-anchor=\"middle\"><text x=\"780\" y=\"416\" direction=\"rtl\">תיקו</text><text x=\"560\" y=\"356\" direction=\"rtl\">תיקו</text><text x=\"340\" y=\"296\" direction=\"rtl\">תיקו</text><text x=\"120\" y=\"226\" direction=\"rtl\">תיקו</text></g><text x=\"450\" y=\"450\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">קידושין ז: · שאלות רבא על קידושי אישה לחצאין</text></svg>"
-     },
-     "children": []
-    },
-    {
-     "id": "s13",
-     "title": "שתי בנותיך לשני בניי בפרוטה: אחר הנותן והמקבל, או אחר הזוגות?",
-     "amud": "ז:",
-     "text": {
-      "from": "7b.7",
-      "to": "7b.7"
-     },
-     "gist": "האם פרוטה אחת שעוברת בין שני אבות מקדשת שני זוגות, כיוון שעברה פרוטה מיד ליד, או שכל זוג צריך פרוטה משלו?",
-     "bullets": [
-      {
-       "text": "רבא שואל: אדם אומר לחברו \"שתי בנותיך לשני בניי בפרוטה\" – מהו?",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "\"בתר נותן ומקבל אזלינן\": פרוטה אחת ניתנה והתקבלה, ויש כאן ממון. או שמא הולכים אחר הבנים והבנות, ולאף אחד מהם אין פרוטה? תיקו.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "האב פועל כשליח שבניו מינו אותו, שהרי אינו יכול לקדש אישה לבנו הגדול מעצמו.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "children": []
-    },
-    {
-     "id": "s14",
-     "title": "בתך ופרתך, בתך וקרקעך: חצי פרוטה לכל אחת, או קנין נפרד?",
-     "amud": "ז:",
-     "text": {
-      "from": "7b.8",
-      "to": "7b.9"
-     },
-     "gist": "כשפרוטה אחת ניתנת על בת ועל פרה, או על בת ועל קרקע – האם היא מתחלקת לחצאים, או שכולה הולכת לקידושין והנכס נקנה בקנין משלו?",
-     "bullets": [
-      {
-       "text": "רב פפא שואל: \"בתך ופרתך בפרוטה\" – חצי פרוטה לכל אחת, ואף אחת אינה נקנית? או הפרוטה כולה לבת, והפרה במשיכה? תיקו.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "רב אשי שואל אותו דבר על \"בתך וקרקעך בפרוטה\": חצי פרוטה לכל אחת, או הפרוטה לבת והקרקע בחזקה? תיקו.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "למקרה של הקרקע יש גוון מיוחד, בגלל הרעיון שעלה קודם, שאדם דומה במובן מסוים לקרקע.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "returns_to": [
-      {
-       "id": "s5",
-       "note": "מהדהד את השוואת האדם לקרקע אצל רב אשי"
-      }
-     ],
-     "children": []
-    }
-   ]
-  },
-  {
-   "id": "s15",
-   "title": "קידושין בשיראי: האם צריכים שומא?",
-   "amud": "ז: ← ח.",
-   "text": {
-    "from": "7b.10",
-    "to": "8a.9"
-   },
-   "gist": "רבה ורב יוסף נחלקו אם משי שערכו אינו ברור צריך שומא, בשתי לשונות: האם האישה סומכת על הערך שנאמר לה, או האם שווה כסף צריך להיות קצוב כמו כסף.",
-   "bullets": [
-    {
-     "text": "המשי היה בבבל, בדורם של רבה ורב יוסף, סחורה חדשה, יקרה וקשה לתמחור – בדיוק סוג הסחורה שצריך היה לברר את ערכה ההלכתי.",
-     "detail": 3,
-     "source": "shiur"
-    },
-    {
-     "text": "דרישת השומא עומדת ביסוד המנהג המאוחר לקדש בטבעת פשוטה שערכה ידוע בקלות, בלי אבנים טובות או מלאכה מורכבת.",
-     "detail": 2,
-     "source": "shiur"
-    },
-    {
-     "text": "הרמ\"א (אורח חיים תרצה) כותב שלא ישלח איש משלוח מנות לאלמנה, מחשש קידושי ספק. האחרונים תמהים על דבריו, אבל המנגנונים הרחבים של כסף קידושין בדף שלנו נותנים להם הקשר.",
-     "detail": 3,
-     "source": "shiur"
-    }
-   ],
-   "chart": {
-    "caption": "קידושין בשיראי: מתי צריך שומא?",
-    "columns": [
-     "",
-     "\"בכל דהו\"",
-     "אמר חמישים, ואינו שווה חמישים",
-     "אמר חמישים, ושווה חמישים"
-    ],
-    "rows": [
-     [
-      "רבה",
-      "אין צורך בשומא",
-      "אינה מקודשת",
-      "אין צורך בשומא"
-     ],
-     [
-      "רב יוסף (לשון ראשונה)",
-      "אין צורך בשומא",
-      "אינה מקודשת",
-      "צריך שומא: היא אינה בקיאה בשומא ואינה סומכת עליו"
-     ],
-     [
-      "רב יוסף (לשון אחרת)",
-      "צריך שומא: שווה כסף צריך להיות קצוב",
-      "אינה מקודשת",
-      "צריך שומא"
-     ]
-    ]
-   },
-   "children": [
-    {
-     "id": "s16",
-     "title": "שיראי: המקרים המוסכמים, והמחלוקת ב\"אמר חמישים ושווה חמישים\"",
-     "amud": "ז:",
-     "text": {
-      "from": "7b.10",
-      "to": "7b.11"
-     },
-     "gist": "הכול מודים כשקידש בשיראי \"בכל דהו\", וכשהגזים בערכם; המחלוקת היא כשהערך שאמר נכון אבל האישה אינה יכולה לבדוק אותו.",
-     "bullets": [
-      {
-       "text": "מעשה באיש שקידש אישה בשיראי. רבה: אינם צריכים שומא, שהרי ודאי שווים פרוטה. רב יוסף: צריכים שומא.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "אם אמר לה \"התקדשי בהם בכל דהו\" – הכול מודים שאינם צריכים שומא.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "אם אמר לה שהם שווים חמישים זוז והם אינם שווים – הכול מודים שאינה מקודשת.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "נחלקו כשאמר חמישים והם שווים חמישים. רבה: אינם צריכים שומא, שהרי שווים חמישים. רב יוסף: צריכים שומא, כיוון שאישה אינה בקיאה בשומא, \"לא סמכה דעתה\" על דבריו, ואינה מסכימה בלב שלם.",
-       "detail": 2,
-       "source": "gemara"
-      }
-     ],
-     "illustration": {
-      "caption": "שלושת מקרי השיראי (קידושין ז:): שניים שבהם רבה ורב יוסף מודים, והמקרה שבו הערך שנאמר נכון אבל האישה אינה יכולה לבדוק אותו.",
-      "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שלושה לוחות, ובכל אחד פיסת משי: ״בכל דהו״ – שניהם מודים שמקודשת; אמר חמישים ושווה פחות – שניהם מודים שאינה מקודשת; אמר חמישים ושווה חמישים – לרבה אין צורך בשומא, ולרב יוסף צריך שומא.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"480\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"280\" height=\"420\" rx=\"14\" fill=\"#E4EFE4\"/><rect x=\"310\" y=\"14\" width=\"280\" height=\"420\" rx=\"14\" fill=\"#F7E1E1\"/><rect x=\"605\" y=\"14\" width=\"280\" height=\"420\" rx=\"14\" fill=\"#E3EAF3\"/><g fill=\"#C9D6EA\" stroke=\"#8A9BB8\" stroke-width=\"2\"><path d=\"M95 80 Q155 64 215 80 L205 140 Q155 128 105 140 Z\"/><path d=\"M390 80 Q450 64 510 80 L500 140 Q450 128 400 140 Z\"/><path d=\"M685 80 Q745 64 805 80 L795 140 Q745 128 695 140 Z\"/></g><g stroke=\"#FFFFFF\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\"><path d=\"M120 90 Q150 110 130 132\"/><path d=\"M415 90 Q445 110 425 132\"/><path d=\"M710 90 Q740 110 720 132\"/></g><g fill=\"#FFFFFF\" stroke=\"#8A9BB8\"><rect x=\"515\" y=\"96\" width=\"64\" height=\"22\" rx=\"4\"/><rect x=\"810\" y=\"96\" width=\"64\" height=\"22\" rx=\"4\"/></g><use href=\"#mark-ok\" x=\"45\" y=\"212\" width=\"28\" height=\"28\"/><use href=\"#mark-no\" x=\"340\" y=\"212\" width=\"28\" height=\"28\"/><use href=\"#mark-ok\" x=\"635\" y=\"208\" width=\"28\" height=\"28\"/><use href=\"#mark-no\" x=\"635\" y=\"288\" width=\"28\" height=\"28\"/></g><g font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"745\" y=\"46\" direction=\"rtl\">״בכל דהו״</text><text x=\"450\" y=\"46\" direction=\"rtl\">אמר חמישים, שווה פחות</text><text x=\"155\" y=\"46\" direction=\"rtl\">אמר חמישים, שווה חמישים</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"353\" y=\"111\" direction=\"rtl\">50 דינר</text><text x=\"58\" y=\"111\" direction=\"rtl\">50 דינר</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"745\" y=\"164\" direction=\"rtl\">כל סכום שהוא שווה</text><text x=\"450\" y=\"164\" direction=\"rtl\">ערכו האמיתי: פחות מ־50</text><text x=\"155\" y=\"164\" direction=\"rtl\">ערכו האמיתי: 50</text></g><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\"><text x=\"745\" y=\"198\" direction=\"rtl\">רבה ורב יוסף</text><text x=\"450\" y=\"198\" direction=\"rtl\">רבה ורב יוסף</text></g><text x=\"819\" y=\"231\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">מקודשת, ואין צורך</text><text x=\"819\" y=\"249\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">בשומא</text><text x=\"524\" y=\"231\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><g font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\"><text x=\"745\" y=\"320\" direction=\"rtl\">לשון אחרת: רב יוסף</text><text x=\"745\" y=\"338\" direction=\"rtl\">מצריך שומא גם כאן,</text><text x=\"745\" y=\"356\" direction=\"rtl\">שהרי שווה כסף צריך להיות קצוב</text></g><text x=\"265\" y=\"198\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">רבה</text><text x=\"229\" y=\"227\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#24592E\">אין צורך בשומא</text><text x=\"265\" y=\"278\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">רב יוסף</text><text x=\"229\" y=\"307\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#8C2F2F\">צריך שומא:</text><text x=\"229\" y=\"325\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">היא אינה בקיאה</text><text x=\"229\" y=\"343\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" fill=\"#1A1F2E\">ואינה סומכת עליו</text><text x=\"450\" y=\"462\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\">קידושין ז: · רבה ורב יוסף בקידושין בשיראי</text></svg>"
-     },
-     "children": []
-    },
-    {
-     "id": "s17",
-     "title": "לשון אחרת: שווה כסף צריך להיות קצוב כמו כסף",
-     "amud": "ז: ← ח.",
-     "text": {
-      "from": "7b.12",
-      "to": "8a.9"
-     },
-     "gist": "בלשון האחרת נחלקו גם ב\"בכל דהו\", כי לרב יוסף דבר שבא במקום כסף צריך ערך קצוב, והוא מוכיח זאת מפדיון עבד עברי.",
-     "bullets": [
-      {
-       "text": "יש אומרים (\"איכא דאמרי\") שנחלקו גם כשאמר לה \"בשיראי אלה, בכל דהו\".",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "רב יוסף: \"שווה כסף הרי הוא ככסף; מה כסף דקיץ – אף שווה כסף נמי דקיץ\". כמו שלכסף יש ערך קצוב, כך גם לדבר שבא במקומו.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "המקור שלו הוא ברייתא על פדיון עבד עברי: \"מִכֶּסֶף מִקְנָתוֹ\" (ויקרא כה, נא) – \"בכסף הוא נקנה, ואינו נקנה בתבואה וכלים\".",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "אי אפשר לפרש שתבואה וכלים אינם מועילים כלל, שהרי \"יָשִׁיב גְּאֻלָּתוֹ\" בא לרבות שווה כסף ככסף. וגם לא שאין בהם שווה פרוטה, שהרי אז אפילו כסף לא היה מועיל.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "אם כן, התבואה והכלים שווים פרוטה אבל אין להם ערך קצוב, ועבד עברי נפדה רק בדבר שערכו מוגדר בבירור, כמו כסף.",
-       "detail": 2,
-       "source": "gemara"
-      },
-      {
-       "text": "אותו דין נוהג בכסף קידושין: כשהערך אינו ברור, דעתה של האישה אינה סומכת, והקידושין אינם יכולים לחול.",
-       "detail": 3,
-       "source": "shiur"
-      }
-     ],
-     "continues": "הדיון בראייתו של רב יוסף ממשיך בדף ח.",
-     "children": []
-    }
-   ]
-  }
- ],
- "key_terms": [
-  {
-   "term": "ערב",
-   "hebrew": "",
-   "sense": "ערב שמשעבד את עצמו בלי הנאה",
-   "definition": "מי שמתחייב לפרוע הלוואה של אדם אחר אם הלווה לא יפרע. הוא משעבד את עצמו אף שכסף ההלוואה הולך ללווה והוא עצמו אינו מקבל דבר.",
-   "on_this_daf": "רבא לומד מן הערב שאישה יכולה לשעבד את עצמה בקידושין אף שהכסף הולך לאדם שלישי.",
-   "aliases": [
-    "מדין ערב",
-    "הערב"
-   ],
-   "sections": [
-    "s1",
-    "s2",
-    "s4",
-    "s6"
-   ]
-  },
-  {
-   "term": "אדם חשוב",
-   "hebrew": "",
-   "sense": "אדם חשוב, שעצם הסכמתו לקבל מתנה היא הנאה",
-   "definition": "אדם בעל מעמד שאינו רגיל לקבל מתנות, ולכן הסכמתו לקבל מתנה נותנת לנותן הנאה ממשית ששווה ממון.",
-   "on_this_daf": "מר זוטרא מכשיר קידושין כשהאישה נותנת כסף לאיש, משום שהוא אדם חשוב והיא נהנית מכך שקיבל את מתנתה.",
-   "aliases": [],
-   "sections": [
-    "s1",
-    "s5"
-   ]
-  },
-  {
-   "term": "קנין אגב",
-   "hebrew": "",
-   "sense": "קניית מטלטלין אגב קרקע",
-   "definition": "קניית מטלטלין יחד עם קרקע במעשה קנין אחד שנעשה בקרקע. הקנין מועיל רק בכיוון הזה: קרקע אינה נקנית אגב מטלטלין.",
-   "on_this_daf": "רב אשי מקשה שאם האישה נותנת לאיש, נמצא שאדם, הדומה לקרקע, נקנה עם כסף – הפך ממה שהמשנה מתירה.",
-   "aliases": [],
-   "sections": [
-    "s5"
-   ]
-  },
-  {
-   "term": "דיחוי",
-   "hebrew": "",
-   "sense": "פסילה של קרבן לצמיתות",
-   "definition": "הכלל שבהמה מוקדשת שנפסלה מלהקרב נשארת דחויה מן המזבח לעולם, גם אם הסיבה לפסול חלפה אחר כך.",
-   "on_this_daf": "הבהמה של רבי יוחנן, שהוקדשה חציה אחר חציה, מלמדת שבעלי חיים נדחים, שדחוי מעיקרא הוי דחוי, ושיש דיחוי גם בדמים.",
-   "aliases": [
-    "הדיחוי",
-    "בדיחוי"
-   ],
-   "sections": [
-    "s10"
-   ]
-  },
-  {
-   "term": "שווה כסף",
-   "hebrew": "",
-   "sense": "דבר בעל ערך שבא במקום כסף",
-   "definition": "נכס ששווה ממון וניתן במקום מטבעות בקנין, כמו בקידושין או בפדיון, ובדרך כלל נחשב לעניין זה ככסף.",
-   "on_this_daf": "בלשון האחרת רב יוסף סובר שדבר כזה צריך, כמו כסף, להיות קצוב, ומוכיח זאת מפדיון עבד עברי.",
-   "aliases": [],
-   "sections": [
-    "s15",
-    "s17"
-   ]
-  },
-  {
-   "term": "שומא",
-   "hebrew": "",
-   "sense": "הערכת שוויו של חפץ",
-   "definition": "הערכה מסודרת של שוויו של חפץ, הנדרשת כשערכו אינו ברור והקנין תלוי בערך זה.",
-   "on_this_daf": "רבה ורב יוסף נחלקו אם שיראי שניתנו ככסף קידושין צריכים שומא, כשערכם אינו ידוע לאישה.",
-   "aliases": [
-    "השומא",
-    "בשומא"
-   ],
-   "sections": [
-    "s15",
-    "s16",
-    "s17"
-   ]
-  }
- ]
+  ]
 }
