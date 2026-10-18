@@ -107,6 +107,7 @@ Every section gets a summary line, the `gist`, readable on its own. Headers plus
 - If a summary names the principle behind a dispute, it says it concretely ("Beit Shammai favor the *olah*, given wholly to God, and Beit Hillel the *shelamim*, which its owners share"), never as an abstract label ("a question of emphasis in worship"). If it can't be said concretely in a clause, leave it to the bullets.
 - A lower-level summary narrates what happens: who says what, and how it comes out, with people (litigants, Rabbis, the Gemara) as the subjects of active verbs. If a second sentence helps, use it to map what the passage covers.
 - A section with several substantial children names its main sub-discussions in its summary, so the headlines view shows them even when they sit a level down.
+- State a position plainly in a short sentence of its own, then, separately and briefly, what it does for the argument ("Three pilgrimage offerings, each with its own unique feature. Since only the *chagigah* preceded Sinai, the Sinai *olah* must have been the *tamid*."). Folding the position into a sentence about where the argument goes makes both harder to follow.
 - A distinct discussion gets its own sentence. Don't chain it onto a dispute ("…, and Abaye adds that…") as if it were one more position on the same line.
 
 Instead of: "Four cases: both claim the whole garment, one claims all and the other half, two with an animal, and parties who admit or have witnesses, each with its oath and division."
