@@ -31,6 +31,16 @@
       who: "מי אמר", whoD: "התאימו כל חכם או בית מדרש לעמדה שלו.", whoQ: "מי סבור כך?", roundN: (i, n) => `סבב ${i} מתוך ${n}`, nextR: "הסבב הבא", review: "ראו בסכמה:", next1: "‹ הבא", peek: "ראו בסכמה", according: "לדעת", section: "פרק בסכמה", navPrev: "הקודם", navNext: "דלגו לבא", skipped: (n) => n ? ` ${n} דולגו.` : "", quiz: "חידון", quizD: "שאלות אמריקאיות על עיקרי הדף.", qN: (i, n) => `שאלה ${i} מתוך ${n}` },
   };
 
+  // Small line icons for the games menu, drawn in currentColor so they follow the theme.
+  const S = (b) => `<svg class="adg-ico" viewBox="0 0 40 40" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">${b}</svg>`;
+  const ICONS = {
+    quiz: S('<rect x="5" y="6" width="30" height="22" rx="5"/><path d="M14 34l3-6h6"/><path d="M16.5 13.5a3.5 3.5 0 1 1 5 3.2c-1 .5-1.5 1.2-1.5 2.3"/><circle cx="20" cy="23.3" r=".6" fill="currentColor"/>'),
+    chart: S('<rect x="5" y="7" width="30" height="26" rx="3"/><path d="M5 15h30M5 24h30M15 7v26M25 7v26"/><rect x="17.5" y="17.5" width="5" height="4" rx="1" fill="currentColor" stroke="none" opacity=".45"/>'),
+    match: S('<rect x="5" y="9" width="14" height="22" rx="3" transform="rotate(-8 12 20)"/><rect x="21" y="9" width="14" height="22" rx="3" transform="rotate(8 28 20)"/><path d="M10 20h4M26 18v4M24 20h4"/>'),
+    who: S('<circle cx="13" cy="15" r="5"/><path d="M4 33c1-6 5-9 9-9s8 3 9 9"/><path d="M23 6h12a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2h-7l-4 3v-3h-1a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2z"/>'),
+    kp: S('<rect x="4" y="9" width="15" height="22" rx="3"/><rect x="21" y="9" width="15" height="22" rx="3"/><path d="M8 20l3 3 5-6" stroke="var(--g-ok)"/><path d="M25 16l7 8M32 16l-7 8" stroke="var(--g-no)"/>'),
+  };
+
   // Every chart with the section it sits in: id (so a game can send the reader there) and a short trail of
   // section titles (the context a bare chart row lacks).
   function chartSections(outline) {
@@ -151,7 +161,7 @@
     function menu() {
       clear();
       el.innerHTML = `<div class="adg-menu"><p class="adg-sub">${esc(data.title || "")}</p>${games.length ? games.map((g) =>
-        `<button type="button" class="adg-game" data-g="${g.id}"><b>${esc(g.name)}</b><span>${esc(g.desc)}</span></button>`).join("") : `<p>${W.none}</p>`}</div>`;
+        `<button type="button" class="adg-game" data-g="${g.id}">${ICONS[g.id] || ""}<b>${esc(g.name)}</b><span>${esc(g.desc)}</span></button>`).join("") : `<p>${W.none}</p>`}</div>`;
       el.querySelectorAll("[data-g]").forEach((b) => b.onclick = () => games.find((g) => g.id === b.dataset.g).start());
     }
     function shell(name, inner, side = "") {

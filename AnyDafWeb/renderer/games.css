@@ -4,7 +4,9 @@
 .adg *{box-sizing:border-box}
 .adg-menu{padding:14px;display:grid;gap:10px}
 .adg-sub{margin:0;color:var(--muted,#5B6478);font-size:13px}
-.adg-game{text-align:start;font:inherit;border:1px solid var(--line,#DCE0EA);background:var(--panel,#fff);color:inherit;border-radius:10px;padding:12px 14px;cursor:pointer;display:grid;gap:2px}
+.adg-game{text-align:start;font:inherit;border:1px solid var(--line,#DCE0EA);background:var(--panel,#fff);color:inherit;border-radius:10px;padding:12px 14px;cursor:pointer;display:grid;grid-template-columns:auto 1fr;column-gap:12px;row-gap:2px;align-items:center}
+.adg-game .adg-ico{grid-row:1/3;width:38px;height:38px;color:var(--blue,#1B3A8A);flex:none}
+.adg-game:not(:has(.adg-ico)) b,.adg-game:not(:has(.adg-ico)) span{grid-column:1/3}
 .adg-game b{font:600 1.05rem var(--serif,Georgia,serif);color:var(--blue,#1B3A8A)}
 .adg-game span{font-size:13px;color:var(--muted,#5B6478)}
 .adg-game:hover{border-color:var(--blue,#1B3A8A)}
