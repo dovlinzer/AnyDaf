@@ -65,7 +65,9 @@
 .ado tbody th{font-weight:600}
 .ado .ado-ibox{background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px;overflow:hidden}
 .ado .ado-art{overflow-x:auto;border-top:1px solid var(--ado-line)}
-.ado .ado-ill svg{display:block;width:100%;min-width:560px;height:auto}
+.ado .ado-ill svg{display:block;width:100%;min-width:392px;height:auto}
+.ado .ado-ibox{max-width:70%}
+@media (max-width:600px){.ado .ado-ibox{max-width:none}}
 .ado .ado-ill figcaption{font-size:13px;color:var(--ado-muted);margin-top:6px;max-width:68ch}
 .ado[data-level="1"] ul{display:none}
 .ado[data-level="2"] li.ado-d3{display:none}
@@ -150,4 +152,4 @@
 .ado .ado-foldbar button:hover{border-color:var(--ado-blue);color:var(--ado-blue)}
 .ado.ado-collapsible .ado-foldbar+.ado-l1{margin-top:4px;padding-top:0}
 
-.ado[data-no-badges] .ado-badge,.ado[data-no-badges] .ado-key{display:none}
+.ado[data-no-badges] .ado-badge,.ado[data-no-badges] .ado-key{display:none!important}
