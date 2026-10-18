@@ -213,7 +213,7 @@
     pays: ["Pays", "משלם", null, "pays"], exempt: ["Exempt", "פטור", null, "exempt"],
     oath: ["Swears", "נשבע", null, "oath"], "no-oath": ["No oath", "אינו נשבע", null, "no-oath"],
     divides: ["Divides", "חולקים", null, "divides"], takes: ["Takes", "נוטל", null, "acquires"],
-    "no-claim": ["Has no claim", "אין לו טענה", "no", "no-claim"], keeps: ["Keeps it", "מחזיק בו", "ok", "keeps"],
+    "no-claim": ["Has no claim", "אין לו טענה", "no", "no-claim"], keeps: ["Keeps it", "מחזיק בו", "ok", "permitted"],
     returns: ["Returns it", "מחזיר", "ok", "returns"], "not-returned": ["Does not return it", "אינו מחזיר", "no", "not-returned"], holds: ["Holds it", "יהא מונח", "hold", "holds"],
     acquires: ["Acquires", "קנה", "ok", "acquires"], "not-acquired": ["Not acquired", "לא קנה", "no", "not-acquired"],
     permitted: ["Permitted", "מותר", "ok", "permitted"], forbidden: ["Forbidden", "אסור", "no", "forbidden"],
@@ -258,8 +258,13 @@
       }).join("")}</tr>`).join("");
     const title = c.title || c.caption || "";
     const note = c.title && c.caption ? `<p class="ado-cnote">${md(c.caption)}</p>` : "";
-    const key = used.size ? `<div class="ado-key"><span class="ado-keyl">${W.key}:</span>${[...used.values()].map(keyHTML).join("")}</div>` : "";
-    return `<div class="ado-chart"><table><caption><span class="ado-num">${W.chart} ${num}</span>${md(title)}</caption><thead><tr>${cols}</tr></thead><tbody>${rows}</tbody></table>${note}${key}</div>`;
+    // tags sharing one icon (keeps it / permitted) share one key entry: "✓ Permitted / Keeps it"
+    const byArt = new Map();
+    for (const t of used.values()) { const k = t.art || t.name, e = byArt.get(k); if (e) e.word += " / " + t.word; else byArt.set(k, { ...t }); }
+    const key = byArt.size ? `<div class="ado-key"><span class="ado-keyl">${W.key}:</span>${[...byArt.values()].map(keyHTML).join("")}</div>` : "";
+    // the key sits inside the chart's frame under a dividing line, or (container data-key="box") in a
+    // box of its own below the chart
+    return `<div class="ado-chartw"><div class="ado-chart"><table><caption><span class="ado-num">${W.chart} ${num}</span>${md(title)}</caption><thead><tr>${cols}</tr></thead><tbody>${rows}</tbody></table>${note}</div>${key}</div>`;
   }
 
   function illHTML(il, num, W) {

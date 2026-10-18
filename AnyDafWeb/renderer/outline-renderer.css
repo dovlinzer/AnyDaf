@@ -42,7 +42,12 @@
 .ado .ado-sage{font:inherit;color:var(--ado-teal);background:none;border:0;border-bottom:1px dotted var(--ado-teal);padding:0;cursor:pointer}
 .ado .ado-sage:hover{border-bottom-style:solid}
 .ado[data-no-sages] .ado-sage{color:inherit;border-bottom-color:transparent;pointer-events:none}
-.ado .ado-chart{margin-top:6px;overflow-x:auto;background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px}
+.ado .ado-chartw{margin-top:6px;background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px;overflow:hidden}
+.ado .ado-chart{overflow-x:auto}
+.ado .ado-chartw>.ado-key{border-top:1px solid var(--ado-line);padding:8px 12px}
+.ado[data-key="box"] .ado-chartw{background:none;border:0;border-radius:0;overflow:visible}
+.ado[data-key="box"] .ado-chart{background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px}
+.ado[data-key="box"] .ado-chartw>.ado-key{margin-top:6px;width:fit-content;max-width:100%;box-sizing:border-box;border:1px solid var(--ado-line);border-radius:6px;background:var(--ado-panel)}
 .ado .ado-chart caption{caption-side:top;text-align:start;font:600 14px/1.35 var(--ado-sans);color:var(--ado-ink,inherit);padding:10px 12px 2px}
 .ado .ado-num{display:block;font:600 11px var(--ado-sans);letter-spacing:.06em;text-transform:uppercase;color:var(--ado-muted);margin-bottom:2px}
 .ado .ado-ihead{font:600 14px/1.35 var(--ado-sans);margin:0 0 6px}
@@ -67,7 +72,7 @@
 .ado[data-level="1"] ul{display:none}
 .ado[data-level="2"] li.ado-d3{display:none}
 .ado[data-no-shiur] li.ado-shiur{display:none}
-.ado[data-no-charts] .ado-chart{display:none}
+.ado[data-no-charts] .ado-chartw{display:none}
 .ado .ado-chart .ado-ok{color:var(--ado-ok);font-weight:600}
 .ado .ado-chart .ado-no{color:var(--ado-no);font-weight:600}
 .ado .ado-chart td.ado-cell-ok{color:var(--ado-ok)}
