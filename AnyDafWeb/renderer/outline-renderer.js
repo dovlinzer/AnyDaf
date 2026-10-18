@@ -261,7 +261,9 @@
     // tags sharing one icon (keeps it / permitted) share one key entry: "✓ Permitted / Keeps it"
     const byArt = new Map();
     for (const t of used.values()) { const k = t.art || t.name, e = byArt.get(k); if (e) e.word += " / " + t.word; else byArt.set(k, { ...t }); }
-    const key = byArt.size ? `<div class="ado-key"><span class="ado-keyl">${W.key}:</span>${[...byArt.values()].map(keyHTML).join("")}</div>` : "";
+    // in the list's order, so opposites sit side by side (Swears, No oath; Acquires, Not acquired)
+    const ORDER = Object.keys(TAGS), entries = [...byArt.values()].sort((x, y) => ORDER.indexOf(x.name) - ORDER.indexOf(y.name));
+    const key = entries.length ? `<div class="ado-key"><span class="ado-keyl">${W.key}:</span>${entries.map(keyHTML).join("")}</div>` : "";
     // the key sits in a box of its own just below the chart
     return `<div class="ado-chartw"><div class="ado-chart"><table><caption><span class="ado-num">${W.chart} ${num}</span>${md(title)}</caption><thead><tr>${cols}</tr></thead><tbody>${rows}</tbody></table>${note}</div>${key}</div>`;
   }
