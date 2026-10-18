@@ -205,8 +205,10 @@
   }
   // Outcome tags (chart.tags): a closed list the outline pass picks from. Each has its word, the colour of
   // the cell (null = neutral: whether paying or swearing is the good outcome depends on the case) and the
-  // badge drawn for it in the figure library (null = no artwork yet: the word alone). A share follows a
-  // colon ("pays:1/2"). The words always show; the badges can be turned off (setOption("badges", false)).
+  // badge drawn for it in the figure library (null = no artwork yet: the word alone). Shares follow a
+  // colon, one per party ("divides:1/2,1/2", "divides:3/4,1/4"). In a cell the badge is the icon alone (plus
+  // any shares), the word only as a tooltip; the key under the chart pairs each icon with its word. The
+  // cell's text always shows; the badges can be turned off (setOption("badges", false)).
   const TAGS = {
     pays: ["Pays", "משלם", null, "pays"], exempt: ["Exempt", "פטור", null, "exempt"],
     oath: ["Swears", "נשבע", null, "oath"], "no-oath": ["No oath", "אינו נשבע", null, "no-oath"],
@@ -223,10 +225,16 @@
     if (!tag) return null;
     const [name, share] = String(tag).split(":"), t = TAGS[name];
     if (!t) return null;
-    const word = (he ? t[1] : t[0]) + (share ? " " + (FRAC[share] || share) : "");
-    return { name, word, tone: t[2], art: t[3] };
+    const shares = share ? share.split(/[,|]/).map((x) => FRAC[x.trim()] || x.trim()).join(", ") : "";
+    return { name, word: he ? t[1] : t[0], shares, tone: t[2], art: t[3] };
   }
-  const badgeHTML = (t) => `<span class="ado-badge ado-b-${esc(t.name)}">${t.art ? `<svg viewBox="0 0 40 40" aria-hidden="true"><use href="#badge-${t.art}"/></svg>` : ""}<span>${esc(t.word)}</span></span>`;
+  const svgOf = (t) => `<svg viewBox="0 0 40 40" aria-hidden="true"><use href="#badge-${t.art}"/></svg>`;
+  // in a cell: the icon and any shares, nothing else (a tag with no artwork yet falls back to its word)
+  const badgeHTML = (t) => t.art
+    ? `<span class="ado-badge ado-b-${esc(t.name)}" title="${esc(t.word)}" role="img" aria-label="${esc(t.word + (t.shares ? " " + t.shares : ""))}">${svgOf(t)}${t.shares ? `<span class="ado-share">${esc(t.shares)}</span>` : ""}</span>`
+    : `<span class="ado-badge ado-badge-w ado-b-${esc(t.name)}"><span>${esc(t.word)}</span></span>`;
+  // in the key: icon and word
+  const keyHTML = (t) => `<span class="ado-kitem">${t.art ? svgOf(t) : ""}<span>${esc(t.word)}</span></span>`;
   function cellHTML(x, given, tag) {
     // the outline's own marking (chart.tags, or the older chart.tones) when it has one; reading the
     // words only for outlines made before either. A cell may list several items, one per line.
@@ -250,8 +258,7 @@
       }).join("")}</tr>`).join("");
     const title = c.title || c.caption || "";
     const note = c.title && c.caption ? `<p class="ado-cnote">${md(c.caption)}</p>` : "";
-    const key = used.size ? `<div class="ado-key"><span class="ado-keyl">${W.key}:</span>${[...used.values()].map((t) =>
-      badgeHTML({ ...t, word: (TAGS[t.name] || [])[he ? 1 : 0] || t.word })).join("")}</div>` : "";
+    const key = used.size ? `<div class="ado-key"><span class="ado-keyl">${W.key}:</span>${[...used.values()].map(keyHTML).join("")}</div>` : "";
     return `<div class="ado-chart"><table><caption><span class="ado-num">${W.chart} ${num}</span>${md(title)}</caption><thead><tr>${cols}</tr></thead><tbody>${rows}</tbody></table>${note}${key}</div>`;
   }
 
