@@ -717,6 +717,49 @@ def check_sages(outline: dict, nodes: list, d: Path) -> list[str]:
     return probs
 
 
+def _num(tag, name, default=0.0):
+    m = re.search(rf"\b{name}\s*=\s*['\"]([-\d.]+)", tag)
+    return float(m.group(1)) if m else default
+
+
+def label_overlaps(svg: str) -> list[str]:
+    """Labels that run over a figure, an object or a straight line, estimated from the label's length
+    (about 0.55 em a character) and the drawing's boxes. A label wholly inside an object is taken as
+    meant. Rough by design: it only raises a flag."""
+    shapes = []
+    for u in re.finditer(r"<use\b[^>]*>", svg):
+        tag = u.group(0)
+        if re.search(r"#(?:bubble|thought)", tag):       # speech bubbles hold their text
+            continue
+        x, y, w, h = (_num(tag, k) for k in ("x", "y", "width", "height"))
+        if w and h:
+            ref = re.search(r"#([\w-]+)", tag)
+            shapes.append((x, y, x + w, y + h, ref.group(1) if ref else "drawing"))
+    for p in re.finditer(r"<path\b[^>]*\bd\s*=\s*['\"]M\s*([-\d.]+)[ ,]([-\d.]+)\s*L\s*([-\d.]+)[ ,]([-\d.]+)\s*['\"]", svg):
+        x1, y1, x2, y2 = (float(p.group(i)) for i in range(1, 5))
+        if x1 == x2 or y1 == y2:                          # straight horizontal or vertical lines only
+            shapes.append((min(x1, x2) - 1.5, min(y1, y2) - 1.5, max(x1, x2) + 1.5, max(y1, y2) + 1.5, "line"))
+    out = []
+    for m in re.finditer(r"(?s)<text\b([^>]*)>(.*?)</text>", svg):
+        attrs, body = m.group(1), re.sub(r"<[^>]+>", "", m.group(2))
+        fs, x, y = _num(attrs, "font-size", 14), _num(attrs, "x"), _num(attrs, "y")
+        w = len(body) * fs * 0.55
+        an = re.search(r"text-anchor\s*=\s*['\"](\w+)", attrs)
+        a = an.group(1) if an else "start"
+        rtl = "rtl" in attrs
+        x0 = x - w / 2 if a == "middle" else (x - w if (a == "end") != rtl else x)
+        box = (x0, y - fs * 0.8, x0 + w, y + fs * 0.2)
+        for s in shapes:
+            ix = max(0, min(box[2], s[2]) - max(box[0], s[0]))
+            iy = max(0, min(box[3], s[3]) - max(box[1], s[1]))
+            inside = s[0] <= box[0] and box[2] <= s[2] and s[1] <= box[1] and box[3] <= s[3]
+            # a label set wholly on an object (½ on a garment) is meant; one crossing its edge is not
+            if (s[4] == "line" and ix * iy > 0) or (not inside and ix * iy > 0.05 * w * fs):
+                out.append(f"'{body.strip()[:40]}' runs over the {s[4]}")
+                break
+    return out
+
+
 def check_output(outline: dict, d: Path) -> list[str]:
     """Free local checks beyond anchors: chart orientation (a column headed with a sage's name is
     almost always transposed), key terms (fields, sections, aliases), picture count, and spellings
@@ -737,6 +780,9 @@ def check_output(outline: dict, d: Path) -> list[str]:
         for s in [n.get("gist") or ""] + [b.get("text", "") for b in n.get("bullets") or []]:
             if re.search(r"\bover the (?:garment|item|animal|money|field|note|deposit)\b", s):
                 probs.append(f"'over the …' in '{n.get('title')}': use 'regarding' or 'in the case of'")
+    for n in nodes:
+        for o in label_overlaps((n.get("illustration") or {}).get("svg") or ""):
+            probs.append(f"picture in '{n.get('title')}': {o}")
     for t in outline.get("key_terms") or []:
         if re.search(r"\s(?:and|or|vs\.?)\s|/", str(t.get("term", ""))):
             probs.append(f"key term '{t.get('term')}' names two things: opposites are separate entries")
