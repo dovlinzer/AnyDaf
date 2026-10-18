@@ -43,6 +43,8 @@ below (glossary pilot, Chagigah 6 key terms, Sages panel).
   ~$12.50/M): lean +$0.04/daf (~$110 for Shas), middle +$0.10 (~$270, ~+15%), rich +$0.19 (~$500).
   Today the app makes these on demand with Haiku per section, per user.
 
+### Global glossary: plan in `AnyDafWeb/GLOSSARY.md` (2026-10-18; author asked for the full version, supersedes the note below)
+
 ### Master glossary: tie it to the run (proposed 2026-09-27)
 Today each daf picks and spells its key terms on its own, and consistency across Shas would be
 repaired afterwards by clustering 15,000+ terms. Proposed instead: build the master draft from

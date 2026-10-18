@@ -1982,6 +1982,8 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   Chagigah 6 only, since it is the one outline with anchors so far. Run with daf-processor's
   venv. Published: https://claude.ai/artifact/VyEhmmkY9siDtWvA6F2WbH
 
+#### Global glossary — see `AnyDafWeb/GLOSSARY.md` (plan, 2026-10-18; author wants one glossary for Shas)
+
 #### Study games — see `AnyDafWeb/GAMES.md` (the design brief; read it first)
 
 #### Hebrew outlines (2026-10-05) — model outline in review
