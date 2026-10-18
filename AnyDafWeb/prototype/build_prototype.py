@@ -385,10 +385,37 @@ def parse_spec(spec):
     return base, (tag or None), (mark or None)
 
 
+# Key terms of the other dafim of a tractate, so a term this daf's own list left out still links where
+# it comes up (derara de'mamona on BM 3, from BM 2). Filled by main() before the dafim are built.
+SHARED_TERMS = {}
+
+
+def _tnorm(s):
+    return re.sub(r"[\s'’ʼ\-]+", "", str(s or "").replace("*", "")).lower()
+
+
+def shared_terms(key, tractate, daf, outline, terms):
+    """Terms from other dafim of the tractate (nearest daf first) that this outline mentions but its
+    own list lacks; each says which daf it is from, and links to no section here."""
+    have = {_tnorm(x.get("term")) for x in terms} | {_tnorm(a) for x in terms for a in x.get("aliases") or []}
+    body = _tnorm(json.dumps({k: v for k, v in outline.items() if k in ("sections",)}, ensure_ascii=False))
+    lang = outline.get("lang") or "en"
+    out, seen = [], set()
+    for d, base, title, t in sorted(SHARED_TERMS.get((tractate, lang), []), key=lambda x: abs(x[0] - daf)):
+        n = _tnorm(t.get("term"))
+        if base == key or n in have or n in seen:
+            continue
+        if any(len(_tnorm(a)) >= 4 and _tnorm(a) in body for a in [t.get("term"), *(t.get("aliases") or [])]):
+            seen.add(n)
+            out.append({**t, "sections": [], "from": title})
+    return out
+
+
 def build_daf(spec, src, pages, out):
     key, tag, mark = parse_spec(spec)
     tractate, daf = parse_dir_name(key)
     outline, terms = src.aids(key, tractate, daf, tag) if tag else src.aids(key, tractate, daf)
+    terms = list(terms or []) + shared_terms(key, tractate, daf, outline, terms or [])
     outline = {k: v for k, v in outline.items() if k not in EDITORIAL and k != "key_terms"}
     clean(outline.get("sections"))
 
@@ -470,6 +497,15 @@ def main():
     out.mkdir(parents=True, exist_ok=True)
     src = Supa() if args.source == "supabase" else Local()
     pages = json.loads(PAGES_JSON.read_text(encoding="utf-8"))
+    for spec in args.dafim:
+        key, tag, _ = parse_spec(spec)
+        tr, daf = parse_dir_name(key)
+        try:
+            o, ts = src.aids(key, tr, daf, tag) if tag else src.aids(key, tr, daf)
+        except Exception:
+            continue
+        for t_ in ts or []:
+            SHARED_TERMS.setdefault((tr, o.get("lang") or "en"), []).append((daf, key, title_of(key).replace(" (no shiur)", ""), t_))
     index = [build_daf(k, src, pages, out) for k in args.dafim]
 
     r = HERE.parent / "renderer"

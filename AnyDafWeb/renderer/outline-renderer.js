@@ -36,8 +36,8 @@
 
   // Interface words, by the outline's language (outline.lang: "he" lays the outline out right to left).
   const WORDS = {
-    en: { chart: "Chart", picture: "Illustration", key: "Key", openAll: "Open all", closeAll: "Collapse all", fold: "Show or hide this section", glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", noTerms: "No key terms for this daf." },
-    he: { chart: "טבלה", picture: "איור", key: "מקרא", openAll: "פתיחת הכול", closeAll: "קיפול הכול", fold: "הצגה או הסתרה של הקטע", glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", noTerms: "אין מושגי מפתח לדף זה." },
+    en: { chart: "Chart", picture: "Illustration", key: "Key", openAll: "Open all", closeAll: "Collapse all", fold: "Show or hide this section", glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", onOther: "On", noTerms: "No key terms for this daf." },
+    he: { chart: "טבלה", picture: "איור", key: "מקרא", openAll: "פתיחת הכול", closeAll: "קיפול הכול", fold: "הצגה או הסתרה של הקטע", glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", onOther: "ב", noTerms: "אין מושגי מפתח לדף זה." },
   };
   const words = (lang) => WORDS[lang] || WORDS.en;
   const isHe = (o) => (o && o.lang) === "he";
@@ -499,7 +499,7 @@
         <h3><span class="ado-gname">${esc(t.term)}</span>${t.hebrew && t.hebrew !== t.term ? `<span class="ado-heb" lang="he" dir="rtl">${esc(t.hebrew)}</span>` : ""}</h3>
         <p class="ado-gsense">${esc(t.sense)}</p>
         <p>${md(t.definition)}</p>
-        <p class="ado-gdaf"><span>${W.onDaf}</span>${md(t.on_this_daf)}</p>
+        <p class="ado-gdaf"><span>${t.from ? `${W.onOther} ${esc(t.from)}` : W.onDaf}</span>${md(t.on_this_daf)}</p>
         <p class="ado-gsecs">${(t.sections || []).map((id) =>
           `<button type="button" data-goto="${esc(id)}">${md(titles[id] || id)}</button>`).join("")}</p>
       </article>`).join("");

@@ -767,7 +767,7 @@ function renderDaf(d){
  // A Hebrew outline reads right to left, its key-terms strip and glossary with it.
  const he=d.outline&&d.outline.lang==='he';
  $('outZoom').setAttribute('dir',he?'rtl':'ltr');$('outZoom').lang=he?'he':'en';
- $('terms').innerHTML=terms.length?`<span class="lbl">${he?'מושגי מפתח':'Key terms'}</span>${terms.map((t,i)=>`<button type="button" data-t="${i}">${esc(t.term)}${t.hebrew&&t.hebrew!==t.term?`<span lang="he">${esc(t.hebrew)}</span>`:''}</button>`).join('')}`:'';
+ $('terms').innerHTML=terms.length?`<span class="lbl">${he?'מושגי מפתח':'Key terms'}</span>${terms.map((t,i)=>t.from?'':`<button type="button" data-t="${i}">${esc(t.term)}${t.hebrew&&t.hebrew!==t.term?`<span lang="he">${esc(t.hebrew)}</span>`:''}</button>`).join('')}`:'';
  gloss=AnyDafOutline.glossary($('glist'),terms,{titles,onSection:id=>setCurrent(id,true),order:prefs.gOrder||'daf',lang:he?'he':'en'});$('gq').value='';
  $('gwinTitle').textContent=tr('Key terms · {0}',dispTitle(d));
  // Page images
@@ -785,7 +785,7 @@ function renderDaf(d){
   return d.quiz.map(x=>{const p=at(x.line);let best=null;
    if(p!=null)view.sections.forEach(s=>{const a=at(s.from),b=at(s.to);if(a!=null&&b!=null&&a<=p&&p<=b&&(!best||b-a<=best.b-best.a))best={id:s.id,a,b,t:s.title}});
    return {...x,id:best&&best.id,crumb:best&&String(best.t||'').replace(/\*+/g,'')}})}
- if(d.outline){games=AnyDafGames.mount($('pgames'),{outline:d.outline,keyTerms:terms,sages:d.sages,title:dispTitle(d),quiz:quizFor(d)},{lang:he?'he':'en',onReview:id=>{if(narrow.matches){setPractice(false);setView('outline')}setCurrent(id,true)}});
+ if(d.outline){games=AnyDafGames.mount($('pgames'),{outline:d.outline,keyTerms:terms.filter(t=>!t.from),sages:d.sages,title:dispTitle(d),quiz:quizFor(d)},{lang:he?'he':'en',onReview:id=>{if(narrow.matches){setPractice(false);setView('outline')}setCurrent(id,true)}});
   $('pwinTitle').textContent=he?'חידונים ומשחקים':'Quizzes & Games'}
  $('practiceBtn').hidden=!(games&&games.hasGames);if($('practiceBtn').hidden){$('pwin').hidden=true}
  countResources();if(!$('rwin').hidden)showResources();
