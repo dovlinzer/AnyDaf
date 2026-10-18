@@ -44,7 +44,7 @@
 .ado[data-no-sages] .ado-sage{color:inherit;border-bottom-color:transparent;pointer-events:none}
 .ado .ado-chartw{margin:18px 0;margin-inline:12px 0}
 .ado .ado-ill{margin:18px 0}
-.ado .ado-ibox,.ado .ado-ill figcaption{max-width:90%;margin-inline:auto}
+.ado .ado-ibox,.ado .ado-ill figcaption{max-width:min(90%,720px);margin-inline:auto}
 @media (max-width:600px){.ado .ado-chartw{margin-inline-start:6px}.ado .ado-ibox,.ado .ado-ill figcaption{max-width:none}}
 .ado .ado-chart{overflow-x:auto;background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px}
 .ado .ado-chartw>.ado-key{margin-top:6px;width:fit-content;max-width:100%;box-sizing:border-box;padding:8px 12px;border:1px solid var(--ado-line);border-radius:6px;background:var(--ado-panel)}
