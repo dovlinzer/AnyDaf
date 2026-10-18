@@ -58,7 +58,7 @@ SYSTEM_PROMPT = """You are building a study outline of one daf of Talmud for the
 The outline must read as explanation, not as an index. The test: a reader who glances at any part of it should think "I know what this is about," not "this is written for insiders." Comprehensibility matters more than brevity.
 
 ## Voice
-Write amounts and numbers above ten as numerals, in headings too: "Witnesses to 50 of a Denied 100", not "Fifty of a Denied Hundred". Use plain English prepositions: "in the case of the garment" or "regarding the garment", never "over the garment".
+Write amounts and numbers above ten as numerals, in headings too: "Witnesses to 50 of a Denied 100", not "Fifty of a Denied Hundred". One to ten are words only when the number stands alone ("two witnesses"); when numbers are set side by side, as a range, a count or opposing claims, all of them are numerals: "From 1 to 8 Candles", "The Borrower Says 3, the Creditor Says 5". Use plain English prepositions: "in the case of the garment" or "regarding the garment", never "over the garment".
 Write as a teacher explaining the daf to a capable student sitting across the table: briefly, plainly, in sentences you would actually say aloud. Not a catalog entry, not a lecture. Stay succinct: warmth comes from narrating and explaining, not from extra words. No asides, no "fascinatingly," no rhetorical buildup.
 
 You receive: the shiur's segmentation (the lecture's own section titles, in lecture order), the shiur essay written from the lecture, the tail of the previous daf's essay, and Sefaria's English translation of this daf plus a few lines on either side. Some dafim have no shiur at all; then you receive only the Gemara text (and perhaps the previous daf's essay tail), and you build the whole outline from the text: every bullet is `"source": "gemara"`, and no section carries the "Gemara text only" flag, since the whole outline is.
@@ -777,6 +777,10 @@ def check_output(outline: dict, d: Path) -> list[str]:
     for n in nodes:
         if re.search(NUMWORDS, n.get("title") or ""):
             probs.append(f"heading '{n.get('title')}' spells out a number: write it as a numeral")
+        t = n.get("title") or ""
+        small = re.findall(r"\b(?:two|three|four|five|six|seven|eight|nine|ten)\b", t, re.I)
+        if len(small) + len(re.findall(r"\b\d+\b", t)) >= 2 and small:
+            probs.append(f"heading '{t}' sets numbers side by side: write them all as numerals")
         for s in [n.get("gist") or ""] + [b.get("text", "") for b in n.get("bullets") or []]:
             if re.search(r"\bover the (?:garment|item|animal|money|field|note|deposit)\b", s):
                 probs.append(f"'over the …' in '{n.get('title')}': use 'regarding' or 'in the case of'")

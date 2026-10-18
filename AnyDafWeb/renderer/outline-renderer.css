@@ -23,6 +23,8 @@
 .ado .ado-t{margin:0;text-wrap:balance}
 .ado .ado-l1>.ado-head .ado-t{font:600 1.35rem/1.25 var(--ado-serif);color:var(--ado-blue)}
 .ado .ado-l2>.ado-head .ado-t{font:italic 500 1.12rem/1.3 var(--ado-serif);color:var(--ado-l2)}
+/* a term set in italics inside an italic heading stands out upright */
+.ado .ado-l2>.ado-head .ado-t i,.ado .ado-cont i,.ado-gloss .ado-gsense i{font-style:normal}
 .ado .ado-l3>.ado-head .ado-t{font:600 12.5px/1.35 var(--ado-sans);letter-spacing:.06em;text-transform:uppercase;color:var(--ado-teal)}
 .ado .ado-l4>.ado-head .ado-t,.ado .ado-l5>.ado-head .ado-t{font:500 13.5px/1.35 var(--ado-sans);color:var(--ado-teal)}
 .ado .ado-amud{font:600 11px var(--ado-sans);letter-spacing:.06em;text-transform:uppercase;color:var(--ado-muted);border:1px solid var(--ado-line);border-radius:4px;padding:1px 6px;font-variant-numeric:tabular-nums}
