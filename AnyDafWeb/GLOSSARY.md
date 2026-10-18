@@ -99,14 +99,24 @@ mentioned there). The index of where a concept appears comes from these rows.
 3. **Outline pass**: the master list goes into the prompt, and terms come back with ids. Test it in
    the next test run.
 4. **Review tooling**: the review page above.
+   Chapter glossaries with conceptual groups (see Decisions) come after the database.
 5. **Full run**: the outline pass assigns ids as it goes, and each batch ends with the review list.
 
-## Decisions for the author
+## Decisions (author, 2026-10-18)
 
-- Which entries need review before they show, and which may show as drafts?
-- Does each daf's list (6–12) stay as the "key terms of this daf", with every other glossary
-  mention linking quietly? Or should mentions of glossary terms count toward the daf's list?
-- Should the glossary page be public on the preview site from phase 1, or wait for reviewed
-  definitions?
-- How should homographs be handled? Two entries plus a sense choice on each daf, as proposed; or a
-  single entry listing several senses?
+- **Drafts may show**, marked as drafts. The author reviews the most common entries first.
+- **Each daf's list stays its own** (the 6–12 terms the daf turns on). Other glossary terms link
+  quietly where the daf mentions them, but stay off the list.
+- **Words with several senses: one dictionary-style headword with numbered senses**, each opening
+  with a short context label: *chatzer* (act of acquiring): …; *chatzer* (domain): … with its
+  Eruvin and Bava Kamma implications (a cow entering my domain and eating my fruit). In both
+  cases the word means courtyard; what differs is its legal import. Each daf links to the sense
+  it uses. (Data model: `glossary_entries` stays one row per sense, sharing a `headword`; the page
+  shows them together.)
+- **No A–Z list of all of Shas** ("too overwhelming, and an A-to-Z list does no one any good").
+  Instead, a **chapter glossary**: all the terms in one chapter, arranged in **conceptual groups**
+  (Types of sanctity: *bedek ha'bayit*, *kedushat ha'guf*, *kedushat damim*…; Acts of taking
+  possession: *kinyanim*…). Further on, **broader groupings across chapters** (e.g. the relevant
+  terms of Bava Kamma 1–6 under "Nizkei Mamon"), not tied to a chapter range: major and minor
+  divisions found by looking across all the terms. A project of its own; the taxonomy's
+  categories may help seed the groups.
