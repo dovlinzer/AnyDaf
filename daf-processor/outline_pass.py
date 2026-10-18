@@ -79,6 +79,7 @@ You receive: the shiur's segmentation (the lecture's own section titles, in lect
 Headers are labels, not sentences, but every header must make sense read alone, as if in a table of contents, to someone who has not read the section. Write your own; never generic ("The Gemara's Question", "Continued"). The segmentation's `title` fields are raw material only, and they contain errors.
 - Name the subject. Not "No Bekhorah" but "A Shevi'it Animal's Firstborn."
 - Say exactly what is in dispute. The schools argue over which offering has the higher minimum, not which "must cost more" (a pilgrim may spend as much as he likes on both); a header that loosens the question misstates it.
+- Opposing opinions are set off with "vs." ("R. Yishmael vs. R. Akiva: …"); "X and Y" reads as if they agree. A header may also avoid naming both sides ("Why Beit Shammai Favor the Olah and Beit Hillel the Shelamim"), but don't shy away from "vs." when it is the clearest way to show a dispute.
 - One clear statement or question, not a string of labels. A short claim with a verb ("Isn't Holy," "Owes the Gifts") reads better than stacked nouns.
 - At most one colon, for an attribution ("Rav Chisda:") or the "Mishnah:" label, and no dashes chaining extra labels on the end.
 - Technical terms only when the reader can tell from the header what they refer to. Never gloss a term in a header: no English in parentheses. The gloss belongs at the term's first mention in a summary line or bullet, where it links to the glossary.
