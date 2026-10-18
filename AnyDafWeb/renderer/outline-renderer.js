@@ -213,21 +213,26 @@
     pays: ["Pays", "משלם", null, "pays"], exempt: ["Exempt", "פטור", null, "exempt"],
     oath: ["Swears", "נשבע", null, "oath"], "no-oath": ["No oath", "אינו נשבע", null, "no-oath"],
     divides: ["Divides", "חולקים", null, "divides"], takes: ["Takes", "נוטל", null, "acquires"],
-    "no-claim": ["Has no claim", "אין לו טענה", "no", "no-claim"], keeps: ["Keeps it", "מחזיק בו", "ok", "permitted"],
+    "no-claim": ["Has no claim", "אין לו טענה", "no", "no-claim"], keeps: ["Keeps it", "מחזיק בו", null, "acquires"],
     returns: ["Returns it", "מחזיר", "ok", "returns"], "not-returned": ["Does not return it", "אינו מחזיר", "no", "not-returned"], holds: ["Holds it", "יהא מונח", "hold", "holds"],
     acquires: ["Acquires", "קנה", "ok", "acquires"], "not-acquired": ["Not acquired", "לא קנה", "no", "not-acquired"],
     permitted: ["Permitted", "מותר", "ok", "permitted"], forbidden: ["Forbidden", "אסור", "no", "forbidden"],
     valid: ["Valid", "כשר", "ok", "permitted"], invalid: ["Invalid", "פסול", "no", "forbidden"],
     effective: ["Takes effect", "חל", "ok", "permitted"], "not-effective": ["No effect", "לא חל", "no", "forbidden"],
   };
+  // outcomes that are neither good nor bad take a contrasting pair with no verdict, as in the pictures:
+  // blue for one side, amber for its opposite (the ruling words in a cell; see cellHTML)
+  const PAIR = { pays: "a", exempt: "b", oath: "a", "no-oath": "b", divides: "a", keeps: "b", takes: "a" };
   const FRAC = { "1/2": "½", "1/4": "¼", "3/4": "¾", "1/3": "⅓", "2/3": "⅔" };
   function tagInfo(tag, he) {
     if (!tag) return null;
     const [name, share] = String(tag).split(":"), t = TAGS[name];
     if (!t) return null;
     const shares = share ? share.split(/[,|]/).map((x) => FRAC[x.trim()] || x.trim()).join(", ") : "";
-    return { name, word: he ? t[1] : t[0], shares, tone: t[2], art: t[3] };
+    return { name, word: he ? t[1] : t[0], shares, tone: t[2], art: t[3], pair: PAIR[name] || null };
   }
+  // a cell may carry two outcomes that go together: "oath+takes", "no-oath+divides:1/2,1/2"
+  const tagsOf = (tag, he) => tag ? String(tag).split("+").map((x) => tagInfo(x.trim(), he)).filter(Boolean) : [];
   const svgOf = (t) => `<svg viewBox="0 0 40 40" aria-hidden="true"><use href="#badge-${t.art}"/></svg>`;
   // in a cell: the icon and any shares, nothing else (a tag with no artwork yet falls back to its word)
   const badgeHTML = (t) => t.art
@@ -239,7 +244,16 @@
     // the outline's own marking (chart.tags, or the older chart.tones) when it has one; reading the
     // words only for outlines made before either. A cell may list several items, one per line.
     const h = md(x).replace(/\n/g, "<br>");
-    if (tag) { const tc = tag.tone && tag.tone !== "hold" ? ` class="ado-cell-${tag.tone}"` : ""; return `<td${tc}>${badgeHTML(tag)}${h}</td>`; }
+    if (tag && tag.length) {
+      // the ruling's own words (**…** in the cell) a little larger, in the outcome's colour
+      const lead = tag.find((x) => x.tone === "ok" || x.tone === "no") || tag.find((x) => x.pair) || tag[0];
+      const rc = lead.tone === "ok" || lead.tone === "no" ? lead.tone : lead.pair ? `p${lead.pair}` : "";
+      const marked = /<b>/.test(h);
+      const body = marked ? h.replace(/<b>/g, `<b class="ado-rul${rc ? " ado-rul-" + rc : ""}">`) : h;
+      // a cell with marked ruling words keeps its text plain; otherwise a good/bad outcome colours it whole
+      const tc = !marked && (lead.tone === "ok" || lead.tone === "no") ? ` class="ado-cell-${lead.tone}"` : "";
+      return `<td${tc}><span class="ado-badges">${tag.map(badgeHTML).join("")}</span>${body}</td>`;
+    }
     const tone = given !== undefined ? given : cellTone(h);
     return tone ? `<td class="ado-cell-${tone}">${h}</td>` : `<td>${rulings(h)}</td>`;
   }
@@ -252,8 +266,8 @@
     const rows = (c.rows || []).map((r, ri) =>
       `<tr>${r.map((x, i) => {
         if (!i) return `<th scope="row">${md(x)}</th>`;
-        const t = tags ? tagInfo((tags[ri] || [])[i], he) : null;
-        if (t) used.set(t.name, t);
+        const t = tags ? tagsOf((tags[ri] || [])[i], he) : null;
+        if (t) t.forEach((x) => used.set(x.name, x));
         return cellHTML(x, tones ? ((tones[ri] || [])[i] ?? null) : (tags ? null : undefined), t);
       }).join("")}</tr>`).join("");
     const title = c.title || c.caption || "";

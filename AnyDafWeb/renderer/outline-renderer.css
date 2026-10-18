@@ -66,8 +66,6 @@
 .ado .ado-ibox{background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px;overflow:hidden}
 .ado .ado-art{overflow-x:auto;border-top:1px solid var(--ado-line)}
 .ado .ado-ill svg{display:block;width:100%;min-width:392px;height:auto}
-.ado .ado-ibox{max-width:85%}
-@media (max-width:600px){.ado .ado-ibox{max-width:none}}
 .ado .ado-ill figcaption{font-size:13px;color:var(--ado-muted);margin-top:6px;max-width:68ch}
 .ado[data-level="1"] ul{display:none}
 .ado[data-level="2"] li.ado-d3{display:none}
@@ -77,6 +75,11 @@
 .ado .ado-chart .ado-no{color:var(--ado-no);font-weight:600}
 .ado .ado-chart td.ado-cell-ok{color:var(--ado-ok)}
 .ado .ado-chart td.ado-cell-no{color:var(--ado-no)}
+.ado .ado-chart td .ado-badges{display:flex;gap:4px;width:fit-content}
+.ado .ado-chart td .ado-badges .ado-badge{display:inline-flex}
+.ado .ado-rul{font-size:1.08em;font-weight:700}
+.ado .ado-rul-ok{color:var(--ado-ok)}.ado .ado-rul-no{color:var(--ado-no)}
+.ado .ado-rul-pa{color:var(--ado-pa,#1B3A8A)}.ado .ado-rul-pb{color:var(--ado-pb,#9A6212)}
 .ado[data-no-pictures] .ado-ill{display:none}
 .ado button:focus-visible{outline:2px solid var(--ado-blue);outline-offset:2px}
 

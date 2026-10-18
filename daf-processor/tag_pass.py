@@ -111,7 +111,7 @@ def valid_grid(tags, rows):
         if not isinstance(t, list) or len(t) != len(r):
             return False
         for x in t:
-            if x is not None and str(x).split(":")[0] not in OUTCOME_TAGS:
+            if x is not None and any(y.split(":")[0].strip() not in OUTCOME_TAGS for y in str(x).split("+")):
                 return False
     return True
 
