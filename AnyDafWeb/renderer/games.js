@@ -47,7 +47,8 @@
     const out = [];
     (function walk(ns, trail) { (ns || []).forEach((n) => {
       const t = trail.concat(plain(n.title));
-      if (n.chart && (n.chart.rows || []).length) out.push({ c: n.chart, id: n.id, crumb: t.slice(-2).join(" › "), title: plain(n.title) });
+      // newer outlines state the case in the chart's title (the caption is then a note); the games show it as the setup
+      if (n.chart && (n.chart.rows || []).length) out.push({ c: { ...n.chart, caption: n.chart.title || n.chart.caption || "" }, id: n.id, crumb: t.slice(-2).join(" › "), title: plain(n.title) });
       walk(n.children || n.sections, t); }); })(outline && outline.sections, []);
     return out;
   }
