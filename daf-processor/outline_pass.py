@@ -153,7 +153,7 @@ A difference of interpretation is not a conflict: the lecturer's reading of the 
 - Every chart has a `title`: a mental anchor that tells the reader what they are about to look at. It follows the header rules (understandable alone, naming the case or the idea, not a string of labels), and when the chart is about a case it states the whole case: "A note with no sum: the creditor claims five *sela'im* and the debtor admits three," not "The baraita of the unspecified note." Don't number charts; the site numbers them. An optional one-sentence `caption` may add what the title can't.
 - `columns` is the header row; each entry in `rows` is a list of cell strings with the row label first. An empty first header cell is fine.
 - `tags` marks each cell's outcome so the site can put a badge and color beside it: the same shape as `rows`, one entry per cell, chosen from this closed list, or `null` for the row label and for any cell that is not an outcome:
-  `pays`, `exempt` (owes nothing), `oath`, `no-oath`, `divides`, `takes` (collects or is awarded it), `no-claim`, `keeps`, `returns`, `holds` (set aside, left pending, "until Eliyahu comes"), `acquires`, `not-acquired`, `permitted`, `forbidden`, `valid`, `invalid`, `effective` (betrothed, divorced, redeemed, consecrated, it takes effect), `not-effective`.
+  `pays`, `exempt` (owes nothing), `oath`, `no-oath`, `divides`, `takes` (collects or is awarded it), `no-claim`, `keeps`, `returns`, `not-returned` (does not return it), `holds` (holds it without deciding: set aside, left pending, "until Eliyahu comes"), `acquires`, `not-acquired`, `permitted`, `forbidden`, `valid`, `invalid`, `effective` (betrothed, divorced, redeemed, consecrated, it takes effect), `not-effective`.
   A share goes after a colon: `pays:1/2`, `takes:3/4`, `divides:1/2`. One tag per cell; a cell with two outcomes ("swears and collects") takes the one the column is about. The tag never replaces the words: every cell still says everything in full, as explicit and nuanced as the case needs, because readers can turn the badges off. Judge by what the cell means, not its wording. When a cell is an outcome but no tag fits, leave it `null` and list it in `tag_questions` ({"section", "cell", "note"}), so the author can decide whether a new badge is needed. Leave `tags` out of a chart with no outcomes in it. For example, a chart of the garment cases with columns "", "Claims", "Oath", "Result" might have `"tags": [[null, null, "oath", "divides:1/2"], [null, null, "oath", "takes:3/4"], [null, null, "no-oath", "divides:1/2"]]`.
 
 ## Illustrations
@@ -656,7 +656,7 @@ def check_anchors(outline: dict, d: Path) -> list[str]:
 
 
 # The closed list of chart outcome tags (the prompt's list; the site maps each to its word, colour and badge).
-OUTCOME_TAGS = {"pays", "exempt", "oath", "no-oath", "divides", "takes", "no-claim", "keeps", "returns", "holds",
+OUTCOME_TAGS = {"pays", "exempt", "oath", "no-oath", "divides", "takes", "no-claim", "keeps", "returns", "not-returned", "holds",
                 "acquires", "not-acquired", "permitted", "forbidden", "valid", "invalid", "effective", "not-effective"}
 
 

@@ -119,7 +119,6 @@
  <symbol id="garment" viewBox="0 0 120 80">
   <rect x="6" y="8" width="108" height="62" rx="4" fill="var(--cloth,#F2ECDD)" stroke="#B3A68C" stroke-width="2"/>
   <path d="M6 20 H114 M6 26 H114 M6 52 H114 M6 58 H114" stroke="var(--stripe,#4A6A9A)" stroke-width="3"/>
-  <g stroke="#B3A68C" stroke-width="2" stroke-linecap="round"><path d="M14 70 v8 M22 70 v8 M98 70 v8 M106 70 v8"/></g>
  </symbol>
  <!-- BADGES: one per outcome, all in one frame (cream disc, brown ring), the colour inside. The site places them in charts; pictures may place them by name under a figure. Always with the word beside them. -->
  <symbol id="badge-frame" viewBox="0 0 40 40"><circle cx="20" cy="20" r="18" fill="#F6EEDC" stroke="#8A6A44" stroke-width="2.4"/></symbol>
@@ -129,24 +128,22 @@
  <symbol id="badge-exempt" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/>
   <g fill="none" stroke="#5B4630" stroke-width="2" stroke-linecap="round"><path d="M20 9 V30 M14 31 H26 M8 15 H32"/><path d="M8 15 L5 23 M8 15 L11 23 M32 15 L29 23 M32 15 L35 23"/></g>
   <path d="M4 23 Q8 27 12 23 Z" fill="#5B4630"/><path d="M28 23 Q32 27 36 23 Z" fill="#5B4630"/></symbol>
- <symbol id="badge-oath" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/>
-  <path d="M15 31 V18 Q15 15.5 17 15.5 Q19 15.5 19 18 V12 Q19 9.5 21 9.5 Q23 9.5 23 12 V17 Q23 14.5 25 14.5 Q27 14.5 27 17 V24 Q27 31 21 31 Z" fill="#3E5A9A"/><path d="M15 22 Q12 19 10.5 21 Q10 23 15 27" fill="#3E5A9A"/></symbol>
- <symbol id="badge-no-oath" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/>
-  <path d="M9 24 H25 Q30 24 30 28 Q30 31 26 31 H11 Q9 31 9 28 Z" fill="#9AA2B2"/><path d="M12 24 V21 Q12 19 14 19 H22" fill="none" stroke="#9AA2B2" stroke-width="3" stroke-linecap="round"/><path d="M7 33 H33" stroke="#9AA2B2" stroke-width="2" stroke-linecap="round"/></symbol>
+ <symbol id="badge-oath" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/><path d="M16 34 L17.5 22 H22.5 L24 34 Z" fill="#3E5A9A"/><rect x="16.2" y="10.5" width="7.6" height="12" rx="3.2" fill="#D6AE86" stroke="#9A7A5E" stroke-width="1"/><ellipse cx="15.2" cy="18.6" rx="1.7" ry="3" transform="rotate(-28 15.2 18.6)" fill="#D6AE86" stroke="#9A7A5E" stroke-width="1"/><path d="M18.1 11.5 V15.5 M20 11 V15.5 M21.9 11.5 V15.5" stroke="#9A7A5E" stroke-width=".9" stroke-linecap="round"/></symbol>
+ <symbol id="badge-no-oath" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/><g opacity=".55"><path d="M16 34 L17.5 22 H22.5 L24 34 Z" fill="#3E5A9A"/><rect x="16.2" y="10.5" width="7.6" height="12" rx="3.2" fill="#D6AE86" stroke="#9A7A5E" stroke-width="1"/><ellipse cx="15.2" cy="18.6" rx="1.7" ry="3" transform="rotate(-28 15.2 18.6)" fill="#D6AE86" stroke="#9A7A5E" stroke-width="1"/><path d="M18.1 11.5 V15.5 M20 11 V15.5 M21.9 11.5 V15.5" stroke="#9A7A5E" stroke-width=".9" stroke-linecap="round"/></g><path d="M9 31 L31 9" stroke="#8C2F2F" stroke-width="3.2" stroke-linecap="round"/></symbol>
  <symbol id="badge-divides" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/>
   <rect x="9" y="12" width="22" height="16" rx="2" fill="#F2ECDD" stroke="#8A6A44" stroke-width="1.6"/><path d="M9 16 H31 M9 24 H31" stroke="#4A6A9A" stroke-width="1.6"/><path d="M20 8 V32" stroke="#8C2F2F" stroke-width="2" stroke-dasharray="3 2.4"/></symbol>
  <symbol id="badge-permitted" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/>
   <path d="M11.5 20.5 L17.5 26.5 L29 13.5" fill="none" stroke="#24592E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
  <symbol id="badge-forbidden" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/>
   <circle cx="20" cy="20" r="11" fill="none" stroke="#8C2F2F" stroke-width="3.2"/><path d="M12.5 27.5 L27.5 12.5" stroke="#8C2F2F" stroke-width="3.2" stroke-linecap="round"/></symbol>
- <symbol id="badge-acquires" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/>
-  <path d="M9 11 Q20 6 27 13" fill="none" stroke="#24592E" stroke-width="2.6" stroke-linecap="round"/><path d="M28 8 L28 15 L21 14" fill="none" stroke="#24592E" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="12" y="17" width="16" height="13" rx="2" fill="#E8B84A" stroke="#A97B1E" stroke-width="1.4"/><path d="M12 22 H28" stroke="#A97B1E" stroke-width="1.2"/><path d="M15 30 L15 33 M25 30 L25 33" stroke="#24592E" stroke-width="2.4" stroke-linecap="round"/><path d="M11 33 H29" stroke="#24592E" stroke-width="2.6" stroke-linecap="round"/></symbol>
- <symbol id="badge-not-acquired" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/>
-  <rect x="9" y="15" width="15" height="12" rx="2" fill="#E8B84A" stroke="#A97B1E" stroke-width="1.4"/><path d="M9 20 H24" stroke="#A97B1E" stroke-width="1.2"/>
-  <path d="M25 21 Q30 21 32 15" fill="none" stroke="#8C2F2F" stroke-width="2.6" stroke-linecap="round"/><path d="M27.5 13.5 L32.5 13.5 L32.5 18.5" fill="none" stroke="#8C2F2F" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><path d="M9 32 H31" stroke="#8C2F2F" stroke-width="2.6" stroke-linecap="round" stroke-dasharray="3 3"/></symbol>
- <symbol id="badge-holds" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/>
-  <path d="M13 9 H27 M13 31 H27 M14 9 Q14 18 20 20 Q14 22 14 31 M26 9 Q26 18 20 20 Q26 22 26 31" fill="none" stroke="#3E5A9A" stroke-width="2.2" stroke-linecap="round"/><path d="M16 28 Q20 23 24 28 Z" fill="#3E5A9A"/></symbol>
+ <symbol id="badge-acquires" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/><rect x="9" y="14" width="18" height="15" rx="2.5" fill="#E8B84A" stroke="#A97B1E" stroke-width="1.4"/><path d="M9 20 H27" stroke="#A97B1E" stroke-width="1.2"/><circle cx="27.5" cy="13" r="6" fill="#FFFFFF" stroke="#24592E" stroke-width="1.6"/><path d="M24.6 13.2 L26.8 15.4 L30.6 10.8" fill="none" stroke="#24592E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+ <symbol id="badge-not-acquired" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/><rect x="9" y="14" width="18" height="15" rx="2.5" fill="#E8B84A" stroke="#A97B1E" stroke-width="1.4"/><path d="M9 20 H27" stroke="#A97B1E" stroke-width="1.2"/><circle cx="27.5" cy="13" r="6" fill="#FFFFFF" stroke="#8C2F2F" stroke-width="1.6"/><path d="M25.2 10.7 L29.8 15.3 M29.8 10.7 L25.2 15.3" stroke="#8C2F2F" stroke-width="2.2" stroke-linecap="round"/></symbol>
+ <symbol id="badge-holds" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/><rect x="13" y="11" width="4.6" height="18" rx="1.4" fill="#3E5A9A"/><rect x="22.4" y="11" width="4.6" height="18" rx="1.4" fill="#3E5A9A"/></symbol>
+ <symbol id="badge-keeps" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/><path d="M11.5 20.5 L17.5 26.5 L29 13.5" fill="none" stroke="#24592E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+ <symbol id="badge-no-claim" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/><path d="M13 13 L27 27 M27 13 L13 27" fill="none" stroke="#B23A3A" stroke-width="4" stroke-linecap="round"/></symbol>
+ <symbol id="badge-returns" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/><path d="M27.5 16.5 A8.5 8.5 0 1 1 20 11.5" fill="none" stroke="#24592E" stroke-width="3.4" stroke-linecap="round"/><path d="M18 7.5 L23.5 11.5 L18 15.5 Z" fill="#24592E"/></symbol>
+ <symbol id="badge-not-returned" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/><path d="M15.2 8.5 H24.8 L31.5 15.2 V24.8 L24.8 31.5 H15.2 L8.5 24.8 V15.2 Z" fill="#B23A3A"/><rect x="12.5" y="18" width="15" height="4.2" rx="1" fill="#FFFFFF"/></symbol>
+ <symbol id="badge-follows" viewBox="0 0 40 40"><use href="#badge-frame" width="40" height="40"/><path d="M10 20 H27" stroke="#3E5A9A" stroke-width="3.6" stroke-linecap="round"/><path d="M23 13.5 L31 20 L23 26.5 Z" fill="#3E5A9A"/></symbol>
  <linearGradient id="fire" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#E4572E"/><stop offset=".6" stop-color="#F3A712"/><stop offset="1" stop-color="#FFE08A"/></linearGradient>
  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient>
 </defs></svg>
