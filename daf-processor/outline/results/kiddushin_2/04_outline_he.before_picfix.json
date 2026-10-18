@@ -1,0 +1,718 @@
+{
+  "daf": "קידושין ב",
+  "lang": "he",
+  "scope": {
+    "start": "ב. – המשנה: ״האשה נקנית בשלש דרכים״",
+    "end": "ב: – מדוע המשנה אומרת ״דרכים״ ולא ״דברים״ (באמצע הדיון; ממשיך בדף ב: ובדף ג.)"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "title": "משנה: כסף, שטר וביאה; גט ומיתת הבעל; והיבמה",
+      "amud": "ב.",
+      "text": {
+        "from": "2a.1",
+        "to": "2a.2"
+      },
+      "gist": "שלוש הדרכים שבהן אישה נכנסת לקידושין – כסף, שטר וביאה – ומחלוקת בשיעור הכסף; שתי הדרכים שבהן היא יוצאת; והדינים המקבילים ביבמה.",
+      "bullets": [
+        {
+          "text": "מסכת קידושין היא המסכת האחרונה בסדר נשים: ארבעה פרקים ביותר משמונים דפים. מלבד הקידושין היא עוסקת גם בהורים וילדים, בשליחות, בתנאים וביוחסין.",
+          "detail": 3,
+          "source": "shiur"
+        },
+        {
+          "text": "הפרק הראשון, בן ארבעים דפים, הוא הפרק הארוך ביותר בש״ס. הוא עוסק בקנין באופן כללי: אישה, יבמה, עבד עברי, עבד כנעני, קרקע ומטלטלין. כל משנה מציינת את הדבר הנקנה ומונה את הדרכים שבהן הוא נקנה.",
+          "detail": 3,
+          "source": "shiur"
+        }
+      ],
+      "chart": {
+        "caption": "שני המקרים שבמשנה: במה כל אחת נקנית ובמה היא קונה את עצמה",
+        "columns": [
+          "",
+          "נקנית",
+          "קונה את עצמה"
+        ],
+        "rows": [
+          [
+            "אישה",
+            "1. כסף (בית שמאי: דינר; בית הלל: פרוטה)\n2. שטר\n3. ביאה",
+            "1. גט\n2. מיתת הבעל"
+          ],
+          [
+            "יבמה",
+            "ביאה בלבד, על ידי היבם",
+            "1. חליצה\n2. מיתת היבם"
+          ]
+        ]
+      },
+      "illustration": {
+        "caption": "המשנה הפותחת את מסכת קידושין: לאישה שלוש דרכים להיכנס ושתיים לצאת, וליבמה דרך אחת להיכנס ושתיים לצאת (ב.).",
+        "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img'><title>שתי שורות. אישה נקנית בכסף, בשטר או בביאה, וקונה את עצמה בגט או במיתת בעלה. יבמה נקנית ליבם בביאה בלבד, וקונה את עצמה בחליצה או במיתת היבם.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='460' fill='#FBF8F1'/><rect x='20' y='52' width='860' height='226' rx='14' fill='#E3EAF3'/><use href='#woman' x='40' y='96' width='60' height='120' style='color:#8C4A60'/><rect x='130' y='104' width='120' height='50' rx='12' fill='#1B3A8A'/><rect x='270' y='104' width='120' height='50' rx='12' fill='#1B3A8A'/><rect x='410' y='104' width='120' height='50' rx='12' fill='#1B3A8A'/><line x1='545' y1='129' x2='593' y2='129' stroke='#5B6478' stroke-width='3'/><path d='M597 129 l-10 -6 v12 z' fill='#5B6478'/><rect x='610' y='104' width='110' height='50' rx='12' fill='#9A6212'/><rect x='740' y='104' width='120' height='50' rx='12' fill='#9A6212'/><rect x='20' y='294' width='860' height='150' rx='14' fill='#F3E6D8'/><use href='#woman' x='45' y='316' width='50' height='100' style='color:#6A4F7A'/><rect x='270' y='338' width='120' height='50' rx='12' fill='#1B3A8A'/><line x1='545' y1='363' x2='593' y2='363' stroke='#5B6478' stroke-width='3'/><path d='M597 363 l-10 -6 v12 z' fill='#5B6478'/><rect x='610' y='338' width='110' height='50' rx='12' fill='#9A6212'/><rect x='740' y='338' width='120' height='50' rx='12' fill='#9A6212'/></g><text x='450' y='36' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>כניסה לקידושין ויציאה מהם</text><text x='830' y='240' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>אישה</text><text x='570' y='88' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>נקנית בשלוש דרכים</text><text x='170' y='88' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>קונה את עצמה בשתי דרכים</text><text x='710' y='135' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17' font-weight='600' fill='#FFFFFF'>כסף</text><text x='570' y='135' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17' font-weight='600' fill='#FFFFFF'>שטר</text><text x='430' y='135' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17' font-weight='600' fill='#FFFFFF'>ביאה</text><text x='235' y='135' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17' font-weight='600' fill='#FFFFFF'>גט</text><text x='100' y='135' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#FFFFFF'>מיתת הבעל</text><text x='710' y='180' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>בית שמאי: דינר</text><text x='710' y='198' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>בית הלל: פרוטה</text><text x='710' y='216' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>(שמינית איסר איטלקי)</text><text x='170' y='250' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' font-weight='400' fill='#3A5692'>האשה נקנית בשלש דרכים</text><text x='830' y='436' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>יבמה</text><text x='570' y='322' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>נקנית ליבם</text><text x='170' y='322' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>קונה את עצמה</text><text x='570' y='360' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#FFFFFF'>ביאה</text><text x='570' y='378' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' font-weight='400' fill='#FFFFFF'>בלבד</text><text x='235' y='369' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#FFFFFF'>חליצה</text><text x='100' y='369' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#FFFFFF'>מיתת היבם</text><text x='570' y='414' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='16' font-weight='400' fill='#7A4A2A'>היבמה נקנית בביאה</text></svg>"
+      },
+      "children": [
+        {
+          "id": "s2",
+          "title": "כסף, שטר וביאה: מעשי קידושין, לא מעשי נישואין",
+          "amud": "ב.",
+          "text": {
+            "from": "2a.1",
+            "to": "2a.1"
+          },
+          "gist": "מה כוללת כל אחת משלוש הדרכים, ומדוע יש להבחין בין הקידושין לבין הנישואין – השלב המאוחר שבו בני הזוג מתחילים לחיות יחד.",
+          "bullets": [
+            {
+              "text": "משנה: ״האשה נקנית בשלש דרכים, וקונה את עצמה בשתי דרכים. נקנית בכסף, בשטר ובביאה״.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רש״י: ״וקונה את עצמה״ – כלומר, היא נעשית של עצמה ומותרת להינשא לאחר. זה עיקר מה שהקידושין עושים: הם קושרים אותה, כך שאסור לה להינשא לאחר או להיות עם אחר.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "כסף: הוא נותן לה דבר שיש בו שווי ואומר ״הרי את מקודשת לי״. צריך עדים – לא רק לראיה, אלא כדי שהמעשה יחול, כמו בגט.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "הטבעת אינה מוזכרת לא בבבלי ולא בירושלמי. היא מופיעה לראשונה בספר החילוקים מתקופת הגאונים, שמביא שבני ארץ ישראל קידשו בטבעת ובני מזרח לא.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "שטר: נייר שכתוב בו ״הרי את מקודשת לי״, שניתן לה בפני עדים. הוא כשר לגמרי, אבל אין סימן שהשתמשו בו בפועל: בגמרא יש סיפורים רבים על קידושי כסף, ואף לא סיפור אחד על קידושי שטר.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "טעות לזהות את הכסף, השטר והביאה עם הטבעת, הכתובה וחדר הייחוד: הכתובה והייחוד שייכים לנישואין. עם זאת, בכמה כתובות מן הגניזה כתוב ״הרי את מקודשת לי״, וייתכן שבקהילות מסוימות ההבחנה היטשטשה.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "ביאה: מעשה אחד שנעשה בכוונה לשם קידושין, בשונה מן הקשר המתמשך של הנישואין.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "הקידושין עושים אותה אשת איש: קידושין של אחר אינם תופסים בה, ביאה עם אחר היא ניאוף, וכדי לצאת היא צריכה גט. הנישואין (החופה, שבהם עוסקת מסכת כתובות) פותחים את חיי הבית המשותפים ואת החובות שבהם, כמו המזונות שהבעל חייב בהם ומעשה ידיה שהם לבעלה.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "שני השלבים התאימו לשידוכים: הקידושין קשרו את הצדדים – גם כשהייתה זו קטנה שאביה קידש אותה – והנישואין יכלו לבוא שנים אחר כך. בדורות מאוחרים השתמשו לשם כך בתנאים עם קנסות כספיים.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "זה מסביר את הדיוק של רש״י: הוא אינו מזכיר נדרים או מעשה ידיה, כי אלה נובעים מן הנישואין. הקידושין לבדם רק אוסרים אותה על אחרים.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "illustration": {
+            "caption": "שני השלבים כפי שהשיעור מציג אותם: הקידושין, שנעשים בכסף, בשטר או בביאה, והנישואין בחופה – לפעמים שנים אחר כך.",
+            "svg": "<svg viewBox='0 0 900 400' xmlns='http://www.w3.org/2000/svg' role='img'><title>ציר זמן. מימין איש ואישה עם טבעת – הקידושין, ותחתם התוצאות שלהם. משמאל בני הזוג תחת החופה – הנישואין, ותחתם התוצאות שלהם. ביניהם: יכולות לעבור שנים.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='400' fill='#FBF8F1'/><use href='#man' x='150' y='60' width='50' height='100' style='color:#4B5E8C'/><use href='#woman' x='212' y='60' width='50' height='100' style='color:#8C4A60'/><circle cx='206' cy='118' r='6' fill='none' stroke='#C9A15C' stroke-width='3'/><rect x='622' y='70' width='6' height='112' fill='#8B6A4E'/><rect x='772' y='70' width='6' height='112' fill='#8B6A4E'/><path d='M612 74 Q700 52 788 74 L788 82 L612 82 Z' fill='#E3EAF3' stroke='#9AA7BD'/><use href='#man' x='648' y='86' width='48' height='96' style='color:#4B5E8C'/><use href='#woman' x='704' y='86' width='48' height='96' style='color:#8C4A60'/><line x1='80' y1='200' x2='820' y2='200' stroke='#C9C1B2' stroke-width='3'/><circle cx='206' cy='200' r='9' fill='#1B3A8A'/><circle cx='700' cy='200' r='9' fill='#9A6212'/></g><text x='450' y='34' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>שני שלבים: קידושין ונישואין</text><text x='447' y='190' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#5B6478'>ביניהם יכולות לעבור שנים</text><text x='694' y='242' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='19' font-weight='600' fill='#1B3A8A'>קידושין (אירוסין)</text><text x='694' y='290' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>אסורה על כל שאר הגברים</text><text x='694' y='312' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>קידושין של אחר אינם תופסים בה</text><text x='694' y='334' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>כדי לצאת היא צריכה גט</text><text x='200' y='242' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='19' font-weight='600' fill='#9A6212'>נישואין (חופה)</text><text x='200' y='290' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>בני הזוג מתחילים לחיות יחד</text><text x='200' y='312' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>הבעל חייב במזונותיה</text><text x='200' y='334' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>מעשה ידיה לבעלה</text><text x='450' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' font-weight='400' fill='#5B6478'>כסף, שטר וביאה יוצרים קידושין; הכתובה והחופה שייכות לנישואין</text></svg>"
+          },
+          "children": []
+        },
+        {
+          "id": "s3",
+          "title": "כסף: דינר או פרוטה – מן המוהר אל הסמל",
+          "amud": "ב.",
+          "text": {
+            "from": "2a.1",
+            "to": "2a.1"
+          },
+          "gist": "בית שמאי מצריכים דינר ובית הלל פרוטה; השיעור רואה במחלוקת את הנקודה שבה הכסף נעשה סמלי.",
+          "bullets": [
+            {
+              "text": "בית שמאי אומרים: ״בדינר ובשוה דינר״. בית הלל אומרים: ״בפרוטה ובשוה פרוטה״ – מטבע נחושת קטן.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "וכמה היא פרוטה? ״אחד משמונה באיסר האיטלקי״.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "״ובשוה״ פירושו שהכסף אינו חייב להיות מטבע כלל. פרוטת הנחושת של בית הלל מראה שכסף כאן כבר אינו מתכת הכסף, אלא כל דבר שיש בו שווי מינימלי.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "המשנה בנויה בשכבות: גרעין קצר (כסף, שטר, ביאה), ביאור של הבתים מה פירוש כסף, והגדרת הפרוטה כביאור לביאור. ההצמדה לאיסר האיטלקי מרמזת שהיו בשימוש כמה סוגים של איסר.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "בלי הביאור, ״כסף״ היה נשמע כמחיר של ממש, כמו המוהר של חמישים כסף שבתורה. הסכום הזה עבר לכתובה כחוב שנפרע לעתיד, שהגן על האישה והקשה על הגירושין. כשלא שולם מראש שום סכום משמעותי, נאלצו הבתים לשאול מה פירוש הכסף עכשיו.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "השוו לקרקע, שנקנית בהמשך הפרק בכסף, בשטר ובחזקה: שם הכסף הוא מחיר השוק, ואיש אינו חושב שאפשר לקנות בית בפרוטה.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s4",
+          "title": "יציאה בגט או במיתה; יבמה – נקנית בביאה ויוצאת בחליצה או במיתה",
+          "amud": "ב.",
+          "text": {
+            "from": "2a.2",
+            "to": "2a.2"
+          },
+          "gist": "אישה קונה את עצמה בגט או במיתת בעלה; יבמה נקנית רק בביאה ומשתחררת בחליצה או במיתת היבם.",
+          "bullets": [
+            {
+              "text": "אישה קונה את עצמה בגט או במיתת הבעל.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "יבמה – אלמנה שבעלה מת בלי ילדים – נקנית ליבם (אחי בעלה) רק בביאה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "והיא קונה את עצמה בחליצה או במיתת היבם.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "מדוע ״נקנית״? לשון קנין בגלל הכסף, ואחר כך קידושין כהקדש",
+      "amud": "ב.–ב:",
+      "text": {
+        "from": "2a.3",
+        "to": "2b.2"
+      },
+      "gist": "מדוע רק משנה זו מדברת בלשון קנין: היא מלמדת כסף, שנלמד משדה עפרון; והיא פותחת בלשון התורה ועוברת ללשון חכמים, שקוראים לזה קידושין על שם ההקדש.",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s6",
+          "title": "כסף משדה עפרון: גזירה שווה של ״קיחה״",
+          "amud": "ב.–ב:",
+          "text": {
+            "from": "2a.3",
+            "to": "2b.1"
+          },
+          "gist": "כסף נלמד בגזירה שווה מקניית שדה עפרון בידי אברהם, שהתורה קוראת לה קנין; התוספות בודקים את ההשוואה, והשיעור מעיר שקיחה במקרא פירושה נישואין.",
+          "bullets": [
+            {
+              "text": "הגמרא שואלת: מדוע כאן שנינו ״האשה נקנית״, ובפרק הבא שנינו ״האיש מקדש״?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תשובה: משום שהמשנה רוצה ללמד כסף, הדרך הרגילה של קנין.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "כסף בקידושין נלמד בגזירה שווה של ״קיחה״ ״קיחה״: ״כִּי יִקַּח אִישׁ אִשָּׁה״ (דברים כד, א), ובשדה עפרון: ״נָתַתִּי כֶּסֶף הַשָּׂדֶה קַח מִמֶּנִּי״ (בראשית כג, יג). כשם שהשדה נקנה בכסף, כך גם האישה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "והקיחה של השדה נקראת קנין: ״הַשָּׂדֶה אֲשֶׁר קָנָה אַבְרָהָם״ (בראשית כה, י), או לחלופין: ״שָׂדוֹת בַּכֶּסֶף יִקְנוּ״ (ירמיהו לב, מד). לכן משנה שמלמדת כסף אומרת ״נקנית״.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תוספות: אפשר היה לחשוב שהכסף היה רק המחיר, והשדה נקנה במעשה אחר, כגון חזקה. ״שדות בכסף יקנו״ מראה שנתינת הכסף היא עצמה מעשה הקנין.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "התוספות שואלים: אם כסף כבר ידוע, למה צריך את שדה עפרון? תשובתם: כסף לבדו אינו בהכרח קנין; הגזירה שווה עושה את הכסף של הקידושין לקנין באותו מובן של קניית שדה.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "עוד מעירים התוספות שההשוואה אינה מושלמת: בדברי אברהם, ״קח ממני״, הדבר הנלקח הוא הכסף, ואילו ב״כי יקח איש אשה״ הנלקחת היא האישה.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "בתורה, קיחת אישה פירושה נישואין: ״וְאִישׁ אֲשֶׁר יִקַּח אֶת אֲחֹתוֹ״ (ויקרא כ, יז) פירושו ביאה, ו״כִּי יִקַּח אִישׁ אִשָּׁה וּבָא אֵלֶיהָ״ (דברים כב, יג) פירושו שהוא מכניס אותה לביתו. המילה של התורה לאירוסין היא ״ארש״: ״אֲשֶׁר אֵרַשׂ אִשָּׁה וְלֹא לְקָחָהּ״ (דברים כ, ז).",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "יוצא שחז״ל לומדים קידושין מפסוקים שבפשוטם עוסקים בנישואין. מודל הקנין של התורה נובע פחות מן המילה ״קיחה״, ויותר מכך שהאירוסין נעשו במוהר ששולם לאב.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "illustration": {
+            "caption": "הגזירה שווה שבדף ב.: ה״קיחה״ בקניית שדה עפרון בידי אברהם (בראשית כג, יג) וה״קיחה״ של אישה (דברים כד, א). כשם שהשדה נקנה בכסף, כך גם האישה.",
+            "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>מימין: אברהם נותן כסף לעפרון ליד שדה ובו מערה. משמאל: איש נותן מטבע לאישה. פס בתחתית מקשר ביניהם במילה המשותפת ״קיחה״.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='16' y='16' width='424' height='360' rx='14' fill='#E4EFE4'/><use href='#man' x='100' y='110' width='60' height='120' style='color:#6A4F7A'/><use href='#man' x='215' y='110' width='60' height='120' style='color:#8C5A3C'/><circle cx='178' cy='176' r='7' fill='#D2C6B0' stroke='#9A8A6A'/><circle cx='192' cy='168' r='7' fill='#D2C6B0' stroke='#9A8A6A'/><circle cx='188' cy='184' r='7' fill='#D2C6B0' stroke='#9A8A6A'/><rect x='40' y='262' width='376' height='60' rx='6' fill='#C9D5B8'/><path d='M330 322 L330 300 Q362 272 394 300 L394 322 Z' fill='#5E5248'/><rect x='460' y='16' width='424' height='360' rx='14' fill='#F3E6D8'/><use href='#man' x='590' y='110' width='60' height='120' style='color:#4B5E8C'/><use href='#woman' x='700' y='110' width='60' height='120' style='color:#8C4A60'/><circle cx='676' cy='180' r='7' fill='#D2C6B0' stroke='#9A8A6A'/><rect x='225' y='390' width='450' height='38' rx='19' fill='#1B3A8A'/></g><text x='672' y='48' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#24592E'>שדה עפרון</text><text x='672' y='68' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' font-weight='400' fill='#5B6478'>בראשית כג, יג</text><text x='672' y='94' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' font-weight='400' fill='#3C7446'>נתתי כסף השדה קח ממני</text><text x='770' y='250' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>אברהם</text><text x='655' y='250' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>עפרון</text><text x='672' y='346' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>״השדה אשר קנה אברהם״</text><text x='672' y='364' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' font-weight='400' fill='#5B6478'>בראשית כה, י</text><text x='228' y='48' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#9A6212'>קידושין</text><text x='228' y='68' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' font-weight='400' fill='#5B6478'>דברים כד, א</text><text x='228' y='94' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' font-weight='400' fill='#7A4A2A'>כי יקח איש אשה</text><text x='280' y='250' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>איש</text><text x='170' y='250' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>אישה</text><text x='228' y='296' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>כשם שהשדה נקנה בכסף,</text><text x='228' y='316' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>כך גם האישה</text><text x='450' y='414' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#FFFFFF'>גזירה שווה: ״קיחה״ ״קיחה״ משדה עפרון</text></svg>"
+          },
+          "children": []
+        },
+        {
+          "id": "s7",
+          "title": "לישנא דאורייתא ולישנא דרבנן: הקידושין אוסרים אותה כהקדש",
+          "amud": "ב:",
+          "text": {
+            "from": "2b.2",
+            "to": "2b.2"
+          },
+          "gist": "המשנה פותחת בלשון התורה – לשון קנין – וממשיכה בלשון חכמים – קידושין, שנקראים כך משום שהוא אוסר אותה על הכול כהקדש; השיעור מעמיד זו מול זו את תפיסת הקנין ואת תפיסת הקידושין.",
+          "bullets": [
+            {
+              "text": "הגמרא מקשה: אם כן, שגם בפרק הבא ישנה ״האיש קונה״!",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תשובה: ״מעיקרא תני לישנא דאורייתא, ולבסוף תני לישנא דרבנן״ – בתחילה נוקטת המשנה בלשון התורה, שבה מדובר בקיחה, ובהמשך בלשון חכמים.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "ומדוע חכמים קוראים לזה קידושין? ״דאסר לה אכולי עלמא כהקדש״ – הוא אוסר אותה על כל העולם, כמו דבר שהוקדש.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "ההשוואה אינה מלאה: הקדש אסור גם למי שהקדיש אותו, ואדם יכול להקדיש רק מה שכבר שלו. שני הדברים האלה אינם מתאימים לבעל.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "תוספות על ״הרי את מקודשת לי״: המילה ״לי״ מלמדת שהיא אסורה על העולם משום שהיא קשורה אליי, כמו שדברים שהוקדשו ״לשמים״ אסורים לכל שימוש אחר. הבלעדיות נשענת על קשר, לא על בעלות.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "גם הקדש אפשר להבין כייחוד ולא כהעברת בעלות, כמו בהמה שמייחדים לקרבן; וכך אפשר להבין גם את הקידושין כייחוד בלעדי.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "שתי תפיסות של הקשר בין איש לאשתו עוברות לאורך הפרק הראשון. תפיסת הקנין: האיש קונה משהו באישה – אולי את זכויות האישות (חובת האישה מונחת כמובנת מאליה ואינה נלמדת מפסוק) ואת הילדים (התורה מחייבת לשלם לבעל דמי ולדות). תפיסת הקידושין: מעמד אישי של בלעדיות, שנוצר מתוך קשר.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "כל המשניות במסכת מדברות בלשון קידושין, חוץ מזו. הרשימות הקצרות שבה, של דברים נקנים ושל דרכי קנין, משקפות שכבה קדומה; כשהתשלום נעשה סמלי והמוהר עבר לכתובה, קיבל המוסד את השם קידושין.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "chart": {
+            "caption": "שתי תפיסות של הקשר בין איש לאשתו שהפרק הראשון עוסק בהן",
+            "columns": [
+              "",
+              "מהו הקשר",
+              "מהו הכסף",
+              "הלשון"
+            ],
+            "rows": [
+              [
+                "תפיסת הקנין",
+                "האיש קונה זכויות באישה, כמו שקונים שדה",
+                "מחיר של ממש, כמו המוהר שבתורה",
+                "״האשה נקנית״ (לישנא דאורייתא)"
+              ],
+              [
+                "תפיסת הקידושין",
+                "מעמד של בלעדיות שנוצר מתוך קשר, כהקדש",
+                "פרוטה סמלית; הסכום הגדול עובר לכתובה",
+                "״האיש מקדש״ (לישנא דרבנן)"
+              ]
+            ]
+          },
+          "illustration": {
+            "caption": "הסבר הגמרא לשם קידושין: כשם שהקדש אסור לכול, כך הוא אוסר אותה על כל שאר הגברים (ב:). השיעור מוסיף שהקדש אסור גם לבעליו, ואילו היא אינה אסורה על בעלה – כפי שמסביר פירוש התוספות למילה ״לי״.",
+            "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>מימין: כבש מוקדש, אסור לבעליו ולכל אדם אחר. משמאל: אישה מקודשת, מותרת לבעלה ואסורה על שאר הגברים.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='16' y='16' width='424' height='408' rx='14' fill='#E3EAF3'/><use href='#lamb' x='150' y='110' width='130' height='91'/><use href='#person' x='70' y='250' width='40' height='80' style='color:#6B6F3A'/><use href='#mark-no' x='112' y='262' width='24' height='24'/><use href='#person' x='210' y='250' width='40' height='80' style='color:#4E7A8C'/><use href='#mark-no' x='252' y='262' width='24' height='24'/><use href='#person' x='350' y='250' width='40' height='80' style='color:#8C5A3C'/><use href='#mark-no' x='392' y='262' width='24' height='24'/><rect x='460' y='16' width='424' height='408' rx='14' fill='#F3E6D8'/><use href='#woman' x='644' y='100' width='56' height='112' style='color:#8C4A60'/><use href='#man' x='520' y='250' width='40' height='80' style='color:#4B5E8C'/><use href='#mark-ok' x='562' y='262' width='24' height='24'/><use href='#man' x='690' y='250' width='40' height='80' style='color:#6B6F3A'/><use href='#mark-no' x='732' y='262' width='24' height='24'/><use href='#man' x='790' y='250' width='40' height='80' style='color:#50706E'/><use href='#mark-no' x='832' y='262' width='24' height='24'/></g><text x='672' y='60' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='24' font-weight='600' fill='#1B3A8A'>הקדש</text><text x='810' y='350' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>הבעלים</text><text x='670' y='350' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>אחרים</text><text x='530' y='350' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>אחרים</text><text x='672' y='392' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>אסור לכולם –</text><text x='672' y='410' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#8C2F2F'>אפילו למי שהקדיש אותו</text><text x='228' y='48' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='22' font-weight='600' fill='#9A6212'>קידושין</text><text x='228' y='76' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' font-weight='400' fill='#7A4A2A'>דאסר לה אכולי עלמא כהקדש</text><text x='360' y='350' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#24592E'>הבעל</text><text x='140' y='350' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>גברים אחרים</text><text x='228' y='392' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#8C2F2F'>אסורה על כל שאר הגברים, כהקדש</text><text x='228' y='410' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='12.5' font-weight='400' fill='#5B6478'>תוספות על ״מקודשת לי״: משום שהיא קשורה אליי</text></svg>"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "״האשה נקנית״ ולא ״האיש קונה״: בגלל ״וקונה את עצמה״ או בגלל ״מדעתה״",
+      "amud": "ב:",
+      "text": {
+        "from": "2b.3",
+        "to": "2b.5"
+      },
+      "gist": "מדוע האישה היא נושא המשפט: כדי להתאים ל״וקונה את עצמה״, שהרי ״קונה ומקנה״ אינו מתאים כשהבעל מת; או כדי ללמד שהקידושין חלים רק מדעתה, כלומר בהסכמתה.",
+      "bullets": [],
+      "returns_to": [
+        {
+          "id": "s5",
+          "note": "חוזר לניסוח המשנה, והפעם שואל מדוע האישה ולא האיש היא נושא המשפט"
+        }
+      ],
+      "children": [
+        {
+          "id": "s9",
+          "title": "כדי להתאים ל״וקונה את עצמה״; ומדוע לא ״קונה ומקנה״",
+          "amud": "ב:",
+          "text": {
+            "from": "2b.3",
+            "to": "2b.4"
+          },
+          "gist": "האישה היא הנושא משום שהסיפא, ״וקונה את עצמה״, עוסקת בה; והאיש אינו יכול להיות הנושא לאורך כל המשנה, כי במיתתו מן השמים מתירים אותה.",
+          "bullets": [
+            {
+              "text": "הגמרא מקשה: שגם כאן ישנה ״האיש קונה״! מדוע לעשות את האישה לנושא?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תשובה: הסיפא אומרת ״וקונה את עצמה״, והיא עוסקת באישה; לכן גם הרישא עוסקת בה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הגמרא מקשה: אם כן, שישנה ״האיש קונה ומקנה״ – האיש קונה ומתיר.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תשובה: כשהבעל מת, לא הוא שמתיר אותה; ״מן שמיא הוא דמקני לה״ – מן השמים היא משתחררת.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "ההתמקדות בדבר הנקנה היא הדפוס של הפרק כולו: ״האשה נקנית״, ״היבמה נקנית״, ואחר כך עבד עברי, עבד כנעני וקרקע.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s10",
+          "title": "מדעתה: אין קידושין בעל כורחה",
+          "amud": "ב:",
+          "text": {
+            "from": "2b.5",
+            "to": "2b.5"
+          },
+          "gist": "תשובה שנייה: ״האיש קונה״ היה יכול להשתמע שהוא קונה אותה בעל כורחה, ולכן המשנה אומרת ״נקנית״, כדי ללמד שצריך שיהיה מדעתה.",
+          "bullets": [
+            {
+              "text": "ואי בעית אימא: אילו שנתה המשנה ״האיש קונה״, הייתי חושב שהוא קונה אותה אפילו בעל כורחה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "לכן שנתה ״האשה נקנית״: ״מדעתה – אין, שלא מדעתה – לא״.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "בתורה אב השיא את בתו בלי לשאול אותה; רק בסיפור רבקה (״נִקְרָא לַנַּעֲרָ וְנִשְׁאֲלָה אֶת פִּיהָ״, בראשית כד, נז) שואלים את הכלה. חז״ל צמצמו את כוחו של האב לבתו הקטנה בלבד.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "החידוש המפתיע: המשנה היחידה שמשתמשת בלשון קנין, שנלמדת מקניית שדה, מתפרשת כמשנה שמתעקשת שהאישה היא צד במעשה, ולא רק מושא שלו.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "title": "שלש או שלשה? ״דרך״ בלשון נקבה ובלשון זכר",
+      "amud": "ב:",
+      "text": {
+        "from": "2b.6",
+        "to": "2b.10"
+      },
+      "gist": "מדוע ״שלש״ בלשון נקבה: ״דרך״ היא לשון נקבה, אבל פסוק אחד והמשנה על בדיקת הזב (איש שראה זיבה) נוקטים בה לשון זכר; הגמרא מיישבת את שניהם, ואחר כך שואלת מדוע אמרה המשנה ״דרכים״ בכלל.",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s12",
+          "title": "״דרך״ לשון נקבה: ״הדרך ילכו בה״",
+          "amud": "ב:",
+          "text": {
+            "from": "2b.6",
+            "to": "2b.6"
+          },
+          "gist": "המשנה אומרת ״שלש״ ולא ״שלשה״, משום ש״דרך״ היא לשון נקבה, כפי שמוכיח פסוק.",
+          "bullets": [
+            {
+              "text": "הגמרא שואלת: מדוע ״שלש״ בלשון נקבה ולא ״שלשה״ בלשון זכר?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תשובה: המשנה רוצה לומר ״דרך״, ו״דרך״ לשון נקבה היא: ״וְהוֹדַעְתָּ לָהֶם אֶת הַדֶּרֶךְ יֵלְכוּ בָהּ״ (שמות יח, כ).",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s13",
+          "title": "יישוב הסתירות: תורה מול מלחמה, אישה מול זב",
+          "amud": "ב:",
+          "text": {
+            "from": "2b.7",
+            "to": "2b.9"
+          },
+          "gist": "משנה על הזב ופסוק על מלחמה נוקטים ״דרך״ בלשון זכר; הלשון הולכת אחר הנושא: התורה והאישה – בלשון נקבה, המלחמה ובדיקת הזב – עניינים של איש.",
+          "bullets": [
+            {
+              "text": "קושיה: המשנה בנזיר אומרת ״בשבעה דרכים בודקין את הזב״, בלשון זכר. מדוע לא ״שבע״ בלשון נקבה?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תשובה: ״דרך״ נמצאת גם בלשון זכר: ״בְּדֶרֶךְ אֶחָד יֵצְאוּ אֵלֶיךָ וּבְשִׁבְעָה דְרָכִים יָנוּסוּ לְפָנֶיךָ״ (דברים כח, ז).",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אם כן, ״קשו קראי אהדדי״ – הפסוקים סותרים זה את זה, וגם שתי המשניות סותרות זו את זו.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הפסוקים: שמות יח, כ עוסק בדרך התורה, והתורה בלשון נקבה (״תּוֹרַת ה׳ תְּמִימָה מְשִׁיבַת נָפֶשׁ״, תהלים יט, ח). דברים כח, ז עוסק במלחמה, ו״דרכו של איש לעשות מלחמה, ואין דרכה של אשה לעשות מלחמה״.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "המשניות: המשנה שלנו עוסקת באישה, ולכן היא נוקטת לשון נקבה. המשנה האחרת עוסקת בבדיקת הזב, שנעשית באיש.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אישה אינה נבדקת, שהרי היא נטמאת אפילו בזיבה שבאה מחמת אונס; האיש נבדק כדי לברר אם הזיבה באה מסיבה אחרת, ואז אינה זיבה.",
+              "detail": 3,
+              "source": "gemara"
+            },
+            {
+              "text": "הבדיקה בודקת אם הזיבה באה ממאכל, משינה, מאונס או מסיבה חיצונית אחרת; רק כשאין סיבה כזו יש לזיבה דין.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "chart": {
+            "caption": "היכן ״דרך״ בלשון נקבה והיכן בלשון זכר, והטעם של הגמרא בכל מקום",
+            "columns": [
+              "",
+              "הלשון",
+              "״דרך״ בלשון",
+              "הטעם"
+            ],
+            "rows": [
+              [
+                "שמות יח, כ",
+                "״הדרך ילכו בה״",
+                "נקבה",
+                "דרך התורה; התורה בלשון נקבה (״תמימה״)"
+              ],
+              [
+                "דברים כח, ז",
+                "״בדרך אחד... ובשבעה דרכים״",
+                "זכר",
+                "דרכו של איש לעשות מלחמה"
+              ],
+              [
+                "המשנה שלנו",
+                "״בשלש דרכים״",
+                "נקבה",
+                "עוסקת באישה"
+              ],
+              [
+                "המשנה על הזב",
+                "״בשבעה דרכים״",
+                "זכר",
+                "הבדיקה נוהגת באיש ולא באישה"
+              ]
+            ]
+          },
+          "illustration": {
+            "caption": "יישוב הגמרא: ״דרך״ בלשון נקבה כשמדובר בדרך התורה ובמשנה שלנו על האישה, ובלשון זכר כשמדובר במלחמה ובמשנה על בדיקת הזב (ב:).",
+            "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>מימין: אדם הולך בשביל אל ספר תורה – ״דרך״ בלשון נקבה. משמאל: דרך אחת שמתפצלת לשבע – ״דרך״ בלשון זכר, של מלחמה.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='16' y='16' width='424' height='392' rx='14' fill='#E3EAF3'/><path d='M50 270 Q180 250 300 205' fill='none' stroke='#C9B48E' stroke-width='14' stroke-linecap='round'/><use href='#person' x='120' y='176' width='40' height='80' style='color:#4E7A8C'/><rect x='300' y='150' width='60' height='50' fill='#F5EEDD' stroke='#BFAE8E'/><rect x='292' y='144' width='10' height='62' rx='4' fill='#8B6A4E'/><rect x='358' y='144' width='10' height='62' rx='4' fill='#8B6A4E'/><rect x='460' y='16' width='424' height='392' rx='14' fill='#F3E6D8'/><line x1='490' y1='200' x2='640' y2='200' stroke='#9A6212' stroke-width='6' stroke-linecap='round'/><g stroke='#C9B48E' stroke-width='4' stroke-linecap='round'><line x1='640' y1='200' x2='850' y2='120'/><line x1='640' y1='200' x2='850' y2='147'/><line x1='640' y1='200' x2='850' y2='173'/><line x1='640' y1='200' x2='850' y2='200'/><line x1='640' y1='200' x2='850' y2='227'/><line x1='640' y1='200' x2='850' y2='253'/><line x1='640' y1='200' x2='850' y2='280'/></g></g><text x='672' y='48' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#1B3A8A'>״דרך״ בלשון נקבה</text><text x='672' y='76' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='18' font-weight='400' fill='#3A5692'>הדרך ילכו בה</text><text x='672' y='96' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' font-weight='400' fill='#5B6478'>שמות יח, כ</text><text x='570' y='234' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>תורה: ״תמימה״</text><text x='672' y='300' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>התורה בלשון נקבה (תהלים יט, ח),</text><text x='672' y='318' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>ולכן גם דרכה בלשון נקבה</text><text x='672' y='352' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>המשנה שלנו: ״בשלש דרכים״</text><text x='672' y='372' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>עוסקת באישה</text><text x='228' y='48' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#9A6212'>״דרך״ בלשון זכר</text><text x='228' y='76' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='16' font-weight='400' fill='#7A4A2A'>בדרך אחד יצאו ובשבעה דרכים ינוסו</text><text x='228' y='96' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' font-weight='400' fill='#5B6478'>דברים כח, ז</text><text x='340' y='186' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>יוצאים בדרך אחד</text><text x='140' y='302' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>נסים בשבעה דרכים</text><text x='228' y='332' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>דרכו של איש לעשות מלחמה, ולא של אישה</text><text x='228' y='356' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>המשנה: ״בשבעה דרכים״</text><text x='228' y='376' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='400' fill='#1A1F2E'>בדיקת הזב – באיש</text><text x='450' y='428' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' font-weight='400' fill='#5B6478'>קידושין ב: – הפסוקים והמשניות אינם סותרים זה את זה</text></svg>"
+          },
+          "children": []
+        },
+        {
+          "id": "s14",
+          "title": "״דרכים״ או ״דברים״? ביאה נקראת דרך",
+          "amud": "ב:",
+          "text": {
+            "from": "2b.10",
+            "to": "2b.10"
+          },
+          "gist": "מדוע לא לומר ״שלשה דברים״ בלשון זכר? משום שהמשנה רוצה לכלול ביאה, והכתוב קורא לביאה ״דרך״; הדיון ממשיך.",
+          "flag": "על פי הגמרא בלבד",
+          "bullets": [
+            {
+              "text": "הגמרא שואלת: אם ״שלש״ נאמר רק בגלל ״דרכים״, שתשנה המשנה ״דברים״, שהיא לשון זכר, ותאמר ״שלשה״!",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תשובה: המשנה רוצה ללמד ביאה, וביאה נקראת ״דרך״: ״וְדֶרֶךְ גֶּבֶר בְּעַלְמָה, כֵּן דֶּרֶךְ אִשָּׁה מְנָאָפֶת״ (משלי ל, יט–כ).",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "continues": "ממשיך בדף ב: ובדף ג.: מדוע גם כסף ושטר נכללים ב״דרכים״, הסבר שני מברייתא על איש שמחזר אחר אישה, משניות אחרות שאומרות ״דרכים״, ולבסוף כלל לגבי ״דרכים״ ו״דברים״.",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "קידושין",
+      "hebrew": "",
+      "sense": "האירוסין, השלב הראשון של הקשר",
+      "definition": "המעשה שעושה את האישה לאשת איש ואוסר אותה על כל שאר הגברים עד שתקבל גט או עד מיתת הבעל. הם נעשים בכסף, בשטר או בביאה, בפני עדים.",
+      "on_this_daf": "הגמרא מסבירה את שמם בלשון חכמים – הוא אוסר אותה על הכול כהקדש – ומעמידה אותם מול לשון הקנין של התורה.",
+      "aliases": [
+        "הקידושין",
+        "בקידושין",
+        "לקידושין",
+        "וקידושין",
+        "קידושי"
+      ],
+      "sections": [
+        "s1",
+        "s2",
+        "s3",
+        "s5",
+        "s7",
+        "s8",
+        "s10"
+      ]
+    },
+    {
+      "term": "נישואין",
+      "hebrew": "",
+      "sense": "השלב השני, החופה",
+      "definition": "השלב השני, בחופה, שבו בני הזוג מתחילים לחיות יחד וחלות חובות הבית, כמו המזונות שהבעל חייב בהם.",
+      "on_this_daf": "השיעור מבחין בינם לבין הקידושין, ומעיר שהמילה ״קיחה״ שבתורה, שממנה נלמדים הקידושין, מתארת בעצם נישואין.",
+      "aliases": [
+        "הנישואין",
+        "בנישואין",
+        "לנישואין",
+        "ונישואין"
+      ],
+      "sections": [
+        "s2",
+        "s6"
+      ]
+    },
+    {
+      "term": "קנין",
+      "hebrew": "",
+      "sense": "רכישה משפטית",
+      "definition": "מעשה מוגדר שבו עוברת לאדם בעלות או זכות משפטית, כמו תשלום כסף, מסירת שטר או החזקה בדבר.",
+      "on_this_daf": "רק משנה זו מתארת את הקשר בלשון קנין, משום שהיא מלמדת כסף, שנלמד מקניית שדה עפרון בידי אברהם.",
+      "aliases": [
+        "הקנין",
+        "בקנין",
+        "לקנין",
+        "וקנין"
+      ],
+      "sections": [
+        "s1",
+        "s5",
+        "s6",
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "term": "כסף",
+      "hebrew": "",
+      "sense": "ממון או דבר שווה כסף שניתן כמעשה קנין או קידושין",
+      "definition": "נתינת כסף או חפץ שיש בו שווי, כמעשה שבו חלים קנין או קידושין.",
+      "on_this_daf": "בית שמאי מצריכים שווה דינר ובית הלל שווה פרוטה; הוא נלמד משדה עפרון בגזירה שווה.",
+      "aliases": [
+        "הכסף",
+        "בכסף",
+        "וכסף",
+        "שהכסף"
+      ],
+      "sections": [
+        "s1",
+        "s2",
+        "s3",
+        "s5",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "term": "גזירה שווה",
+      "hebrew": "",
+      "sense": "השוואה בין פסוקים על פי מילה משותפת",
+      "definition": "אחת המידות שהתורה נדרשת בהן: מעבירים דין ממקום אחד בתורה למקום אחר, משום שאותה מילה מופיעה בשניהם.",
+      "on_this_daf": "המילה ״קיחה״, שנאמרה באישה ובשדה עפרון, מלמדת שאישה נקנית בכסף.",
+      "aliases": [
+        "בגזירה שווה",
+        "הגזירה שווה"
+      ],
+      "sections": [
+        "s6"
+      ]
+    },
+    {
+      "term": "הקדש",
+      "hebrew": "",
+      "sense": "נכסים שהוקדשו",
+      "definition": "נכסים שהוקדשו למקדש, יצאו משימוש רגיל ואסורים בהנאה.",
+      "on_this_daf": "חכמים קוראים לאירוסין קידושין, משום שהוא אוסר אותה על הכול כמו שהקדש אסור.",
+      "aliases": [
+        "כהקדש",
+        "ההקדש",
+        "בהקדש",
+        "להקדש"
+      ],
+      "sections": [
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "term": "מדעתה",
+      "hebrew": "",
+      "sense": "הסכמת האישה לקידושין",
+      "definition": "הדרישה שהאישה תסכים כדי שהקידושין יחולו; קידושין שלא מדעתה אינם קידושין.",
+      "on_this_daf": "אחד ההסברים ללשון ״האשה נקנית״ הוא שהיא מלמדת שהקידושין חלים מדעתה ולא שלא מדעתה.",
+      "aliases": [
+        "שלא מדעתה"
+      ],
+      "sections": [
+        "s8",
+        "s10"
+      ]
+    }
+  ],
+  "sages": []
+}

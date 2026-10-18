@@ -277,7 +277,7 @@ def fix_hebrew_direction(svg: str) -> str:
         plain = re.sub(r"<[^>]+>", "", body)
         if re.search(r"\bdirection\s*=", attrs) or len(_HEB.findall(plain)) <= len(_LAT.findall(plain)):
             return m.group(0)
-        am = re.search(r'\btext-anchor\s*=\s*"(\w+)"', attrs)
+        am = re.search(r'\btext-anchor\s*=\s*["\'](\w+)["\']', attrs)
         if am:
             attrs = attrs[:am.start()] + f'text-anchor="{_ANCHOR_FLIP.get(am.group(1), am.group(1))}"' + attrs[am.end():]
         else:

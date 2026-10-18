@@ -1,0 +1,848 @@
+{
+  "daf": "בבא מציעא י",
+  "lang": "he",
+  "scope": {
+    "start": "י. – סיוע הגמרא לפירוש של עולא למילה \"תחילה\" במשנת הרוכב (הדף נפתח באמצע הדיון)",
+    "end": "י: – תשובת רב סמא בעניין שליח לדבר עבירה"
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "title": "המגביה מציאה לחבירו: האם קנה חבירו?",
+      "amud": "י.",
+      "text": {
+        "from": "10a.3",
+        "to": "10a.12"
+      },
+      "gist": "המשך המחלוקת בדין המגביה מציאה לחבירו. הסוגיה עוסקת בפירוש משנת הרוכב, במשל בעל החוב של רב נחמן, בקושיית רבא מפועל ובשיטתו החולקת של רבי יוחנן.",
+      "bullets": [],
+      "chart": {
+        "caption": "שלושה פירושים למשנת הרוכב",
+        "columns": [
+          "",
+          "האם המגביה לחבירו קונה לו?",
+          "מדוע ההולך ברגל יכול לזכות בה",
+          "מתי הרוכב קונה"
+        ],
+        "rows": [
+          [
+            "עולא",
+            "כן",
+            "הוא אומר שהגביה אותה לעצמו מתחילה",
+            "מיד כשמגביהים אותה בשבילו"
+          ],
+          [
+            "רב נחמן ורב חסדא",
+            "לא: הוא כתופס לבעל חוב במקום שחב לאחרים",
+            "לרוכב אין בה כלום לפני שקיבל אותה, תהיה כוונת ההולך אשר תהיה",
+            "רק כשנותנים לו אותה"
+          ],
+          [
+            "רבי יוחנן (במסורת רבי חייא בר אבא)",
+            "כן",
+            "הרוכב אמר \"תנה לי\" ולא \"זכה לי\"",
+            "בשעת ההגבהה, אם אמר \"זכה לי\". אחרת, כשהיא מגיעה לידו"
+          ]
+        ]
+      },
+      "children": [
+        {
+          "id": "s2",
+          "title": "\"תחילה\" בסיפא: גילוי לרישא או ניגוד לה?",
+          "amud": "י.",
+          "text": {
+            "from": "10a.3",
+            "to": "10a.4"
+          },
+          "gist": "המילה \"תחילה\" בסיפא של המשנה מסייעת לעולא: ההולך זוכה במציאה רק אם הגביה אותה לעצמו. רב נחמן מבין את המילה כניגוד לרישא.",
+          "bullets": [
+            {
+              "text": "הסיפא של המשנה: אם אחרי שנתן את המציאה לרוכב אמר ההולך \"אני זכיתי בה תחילה\", \"לא אמר כלום\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "למה צריך לומר \"תחילה\" בסיפא? פשוט שכוונתו לזמן שלפני שנתן לו. על כורחך המילה באה ללמד שגם הרישא עוסקת במי שאומר שזכה בה לעצמו תחילה. זה מסייע לעולא.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "לפי הפירוש הזה, המגביה מציאה לחבירו קנה חבירו. אילו הגביה ההולך את המציאה בשביל הרוכב, הרוכב היה קונה משעת ההגבהה, וההולך כבר לא היה יכול לחזור בו.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "רב נחמן: \"תנא סיפא לגלויי רישא\". הסיפא אומרת \"תחילה\" כדי להאיר את הרישא. ברישא ההולך זוכה במציאה גם בלי לטעון שהתכוון לכך מתחילה, כי הרוכב קונה רק כשנותנים לו אותה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "שאלת תלמיד: איך כוונה גוברת על אחיזה ממשית בחפץ של הפקר? כל קנין מורכב ממעשה ומכוונה. אפילו חצר שקונה לאדם שלא מדעתו נשענת על ההנחה שהוא רוצה לקנות, וכוונה מפורשת הפוכה מבטלת את ההנחה הזאת.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s3",
+          "title": "רב נחמן ורב חסדא: תופס לבעל חוב במקום שחב לאחרים",
+          "amud": "י.",
+          "text": {
+            "from": "10a.5",
+            "to": "10a.6"
+          },
+          "gist": "המגביה מציאה לחבירו לא קנה חבירו, משום שהוא תופס לבעל חוב במקום שחב לאחרים: אין לקחת בשביל אדם אחד דבר שגם לאחרים יש בו זכות שווה.",
+          "bullets": [
+            {
+              "text": "רב נחמן ורב חסדא: \"המגביה מציאה לחבירו – לא קנה חבירו\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הטעם: הוא תופס לבעל חוב במקום שחב לאחרים, כמי שתופס נכסי לווה בשביל מלווה אחד כשהלווה חייב גם לאחרים, ולא קנה. לכל אדם יש זכות שווה במציאה של הפקר, ולכן אין לאדם לקחת את הזכות הזאת מכל האחרים בשביל אחד.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "לדעת רש\"י, שליח שמונה במפורש היה מצליח לקנות. לדעת תוספות, גם מינוי אינו יכול לגבור על זכות האחרים.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "תוספות: אפשר לסבור שהתופס לבעל חוב לא קנה, ובכל זאת לסבור שהמגביה מציאה לחבירו קנה חבירו. המוצא היה יכול לזכות במציאה לעצמו (\"מיגו דזכי לנפשיה\"), ואילו לאדם מן הצד אין שום זכות משלו בנכסי הלווה.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "הבדל נוסף שמציע מגיד השיעור: הנושים האחרים מפסידים כסף שחייבים להם באמת, ואילו המוצאים האחרים מפסידים רק רווח מקרי.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "תוספות בשם רבנו תם: השואב מים מבור של רבים בשביל חבירו אינו נתקל בבעיה כזאת, כי המים מצויים בשפע ואיש אינו נפגע. ואם הקנין פועל מכוח המיגו, השואב זוכה תחילה ואחר כך מקנה, ולכן תחום המים הולך אחר מי ששאב אותם.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s4",
+          "title": "קושיית רבא: מציאת פועל – לבעל הבית?",
+          "amud": "י.",
+          "text": {
+            "from": "10a.7",
+            "to": "10a.11"
+          },
+          "gist": "ברייתא נותנת לבעל הבית את מציאת הפועל כששכר אותו למלאכה סתם. משמע שהמגביה מציאה לחבירו קנה חבירו. רב נחמן משיב שיד פועל כיד בעל הבית, אף שהפועל יכול לחזור בו.",
+          "bullets": [],
+          "children": [
+            {
+              "id": "s5",
+              "title": "\"נכש עמי\" או \"עשה עמי מלאכה\": של מי מציאת הפועל?",
+              "amud": "י.",
+              "text": {
+                "from": "10a.7",
+                "to": "10a.8"
+              },
+              "gist": "פועל שנשכר למלאכה מסוימת זוכה במציאה לעצמו. פועל שנשכר סתם \"לעשות מלאכה\" זוכה בה לבעל הבית.",
+              "bullets": [
+                {
+                  "text": "ברייתא: \"מציאת פועל לעצמו\", ולא לבעל הבית.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "במה דברים אמורים? כשבעל הבית קבע את המלאכה: \"נכש עמי היום\", \"עדור עמי היום\". אבל אם אמר לו \"עשה עמי מלאכה היום\", \"מציאתו של בעל הבית הוא\", כי גם הגבהת מציאות היא בכלל מלאכה סתם.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "אם כן, פועל יכול לזכות בשביל אחר, וזה נגד רב נחמן.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "כשהמלאכה מוגדרת, הגבהת המציאה אינה חלק מן העבודה. לכל היותר יכול בעל הבית לתבוע את הדקות של העבודה שהפסיד.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s6",
+              "title": "יד פועל כיד בעל הבית, אף שיכול לחזור בו: \"עבדי הם\"",
+              "amud": "י.",
+              "text": {
+                "from": "10a.9",
+                "to": "10a.11"
+              },
+              "gist": "רב נחמן: כל זמן שהפועל עובד, יד פועל כיד בעל הבית. זכותו לחזור בו באמצע היום באה ממקור אחר: \"עבדי הם, ולא עבדים לעבדים\".",
+              "bullets": [
+                {
+                  "text": "רב נחמן: פועל שונה, כי יד פועל כיד בעל הבית (\"שאני פועל, דידו כיד בעל הבית הוא\").",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "רבא: והרי אמר רב \"פועל יכול לחזור בו אפילו בחצי היום\". משמע שהקשר בין הפועל לבעל הבית נוטה לטובת הפועל.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "רב נחמן: כל זמן שלא חזר בו, ידו כיד בעל הבית. זכותו לחזור בו נשענת על טעם אחר: \"כִּי לִי בְנֵי יִשְׂרָאֵל עֲבָדִים, עֲבָדַי הֵם\" (ויקרא כה, נה), ולא עבדים לעבדים.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "הגמרא אינה מכחישה את הקשר כדי להימנע משעבוד. היא שומרת על הקשר כל זמן שהעבודה נמשכת, ומבטיחה דרך יציאה שמונעת ממנו להפוך לעבדות.",
+                  "detail": 2,
+                  "source": "shiur"
+                },
+                {
+                  "text": "תוספות: מותר להשכיר את עצמו. אסור רק שעבוד שאין ממנו דרך יציאה, כמו עבד עברי, שאינו יכול לצאת לפני תום זמנו בלי שישחררו אותו. עוד מוסיפים תוספות שאם מתנים מחדש את התנאים לשאר היום, ידו של הפועל על העליונה.",
+                  "detail": 3,
+                  "source": "shiur"
+                },
+                {
+                  "text": "הגר\"א מביא את הגהות מיימוניות: אסור להשכיר את עצמו ליותר משלוש שנים, כי התחייבות ארוכה כל כך קרובה לעבדות.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "s7",
+          "title": "רבי יוחנן: המגביה מציאה לחבירו קנה חבירו; \"תנה לי\" אינו \"זכה לי\"",
+          "amud": "י.",
+          "text": {
+            "from": "10a.12",
+            "to": "10a.12"
+          },
+          "gist": "לדעת רבי יוחנן, המגביה מציאה לחבירו קנה חבירו. ההולך שבמשנה יכול לזכות במציאה, כי הרוכב רק ביקש ממנו למסור לו אותה, ולא לזכות בה בשבילו.",
+          "bullets": [
+            {
+              "text": "רבי חייא בר אבא בשם רבי יוחנן: \"המגביה מציאה לחבירו – קנה חבירו\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "המשנה עוסקת ברוכב שאמר \"תנה לי\" ולא אמר \"זכה לי\". לכן הוא קונה רק כשהמציאה מגיעה לידו. אילו אמר \"זכה לי\", היה קונה מיד בהגבהה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "מסירה וזכייה הן שני מעשים נפרדים. ההולך הגביה את המציאה כדי למסור אותה, ולא כדי להקנות אותה לרוכב, ולכן הוא יכול לחזור בו עד שהוא נותן אותה.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "יש אפוא שלושה הסברים לכך שההולך יכול לזכות במציאה. לרב נחמן, הגבהה בשביל אחר אינה קונה לו כלל. לעולא, היא קונה, אבל ההולך טוען שהגביה לעצמו מתחילה. לרבי יוחנן, היא קונה, אבל ביקשו מן ההולך רק למסור.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": [],
+          "illustration": {
+            "caption": "פירושו של רבי יוחנן למשנת הרוכב: הלשון שבה השתמש הרוכב קובעת אם הוא קונה בשעת ההגבהה או רק כשנותנים לו את המציאה (י.).",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני לוחות. בכל אחד אדם רוכב על בהמה, והולך ברגל מחזיק מציאה. מימין: הרוכב אמר \"תנה לי\", והוא קונה רק כשנותנים לו. משמאל: הרוכב אמר \"זכה לי\", והוא קונה מיד בהגבהה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"30\" y=\"290\" width=\"395\" height=\"4\" fill=\"#BFAE8E\"/><rect x=\"80\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"96\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"140\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"156\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><ellipse cx=\"122\" cy=\"232\" rx=\"55\" ry=\"24\" fill=\"#8A7A6A\"/><ellipse cx=\"182\" cy=\"204\" rx=\"17\" ry=\"12\" fill=\"#7A6A5A\"/><path d=\"M176 194 l-4 -16 M186 194 l2 -16\" stroke=\"#7A6A5A\" stroke-width=\"5\" stroke-linecap=\"round\"/><use href=\"#man\" x=\"97\" y=\"140\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"282\" y=\"180\" width=\"55\" height=\"110\" style=\"color:#6B6F3A\"/><circle cx=\"272\" cy=\"246\" r=\"9\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"35\" y=\"318\" width=\"24\" height=\"24\"/><use href=\"#mark-ok\" x=\"35\" y=\"352\" width=\"24\" height=\"24\"/><rect x=\"460\" y=\"15\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"475\" y=\"290\" width=\"395\" height=\"4\" fill=\"#BFAE8E\"/><rect x=\"525\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"541\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"585\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><rect x=\"601\" y=\"245\" width=\"8\" height=\"45\" fill=\"#6E5B46\"/><ellipse cx=\"567\" cy=\"232\" rx=\"55\" ry=\"24\" fill=\"#8A7A6A\"/><ellipse cx=\"627\" cy=\"204\" rx=\"17\" ry=\"12\" fill=\"#7A6A5A\"/><path d=\"M621 194 l-4 -16 M631 194 l2 -16\" stroke=\"#7A6A5A\" stroke-width=\"5\" stroke-linecap=\"round\"/><use href=\"#man\" x=\"542\" y=\"140\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"727\" y=\"180\" width=\"55\" height=\"110\" style=\"color:#6B6F3A\"/><circle cx=\"717\" cy=\"246\" r=\"9\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"480\" y=\"318\" width=\"24\" height=\"24\"/></g><text x=\"673\" y=\"52\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#1B3A8A\">\"תנה לי\"</text><text x=\"673\" y=\"80\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#3A5692\">הרוכב מבקש שימסרו לו</text><text x=\"832\" y=\"335\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\">בהגבהה: הרוכב עדיין לא קנה</text><text x=\"832\" y=\"369\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\">כשנותנים לו: הרוכב קנה</text><text x=\"865\" y=\"396\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">עד אז ההולך יכול לזכות בה</text><text x=\"228\" y=\"52\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"24\" font-weight=\"600\" fill=\"#9A6212\">\"זכה לי\"</text><text x=\"228\" y=\"80\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#7A4A2A\">הרוכב מבקש שיזכו בה בשבילו</text><text x=\"387\" y=\"335\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\">בהגבהה: הרוכב קנה</text><text x=\"420\" y=\"369\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5B6478\">ההולך כבר אינו יכול לזכות בה</text></svg>"
+          }
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "משנה: נפל על המציאה, והיכן ארבע אמות קונות",
+      "amud": "י.–י:",
+      "text": {
+        "from": "10a.13",
+        "to": "10b.6"
+      },
+      "gist": "הנופל על מציאה לא קנה. על כלל ריש לקיש, שארבע אמות קונות בכל מקום, מקשים מן המשנה בפאה וממשנתנו. הגמרא מתרצת שבנפילתו גילה הנופל את כוונתו, ורב פפא ורב ששת מגבילים את המקומות שבהם ארבע אמות קונות.",
+      "bullets": [],
+      "chart": {
+        "caption": "רב פפא ורב ששת: היכן ארבע אמות של אדם קונות לו",
+        "columns": [
+          "",
+          "ארבע אמות קונות",
+          "ארבע אמות אינן קונות",
+          "מדוע לא שם"
+        ],
+        "rows": [
+          [
+            "רב פפא (תירוץ למשנה בפאה ד, ג: העני נפל על הפאה)",
+            "בעלמא, בשטח ציבורי",
+            "בשדה של בעל הבית",
+            "התורה זיכתה לעני להלך בשדה וללקט, ולא להחשיב אותה כחצרו"
+          ],
+          [
+            "רב ששת (תירוץ למשנתנו: נפל על המציאה)",
+            "בסמטא, ובצידי רשות הרבים",
+            "ברשות הרבים",
+            "שם הרבים דוחקים"
+          ]
+        ]
+      },
+      "illustration": {
+        "caption": "ההגבלות על ארבע אמות לפי סדר הגמרא. רב פפא מבחין בין שטח ציבורי לשדה של בעל הבית (י:). רב ששת מבחין בין סמטא לרשות הרבים הצפופה, ו\"בכל מקום\" מתפרש כצידי רשות הרבים (שם).",
+        "svg": "<svg viewBox=\"0 0 900 430\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>חמישה לוחות, מימין לשמאל: שטח ציבורי (קונות), שדה של בעל הבית (אינן קונות), סמטא (קונות), רשות הרבים הצפופה (אינן קונות) וצידי רשות הרבים (קונות). שני הלוחות הראשונים הם של רב פפא, ושלושת האחרונים של רב ששת.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"430\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"28\" width=\"345\" height=\"34\" rx=\"17\" fill=\"#1B3A8A\"/><rect x=\"365\" y=\"28\" width=\"520\" height=\"34\" rx=\"17\" fill=\"#9A6212\"/><rect x=\"15\" y=\"72\" width=\"170\" height=\"318\" rx=\"12\" fill=\"#EFE8DA\"/><rect x=\"190\" y=\"72\" width=\"170\" height=\"318\" rx=\"12\" fill=\"#EFE8DA\"/><rect x=\"365\" y=\"72\" width=\"170\" height=\"318\" rx=\"12\" fill=\"#EFE8DA\"/><rect x=\"540\" y=\"72\" width=\"170\" height=\"318\" rx=\"12\" fill=\"#EFE8DA\"/><rect x=\"715\" y=\"72\" width=\"170\" height=\"318\" rx=\"12\" fill=\"#EFE8DA\"/><rect x=\"35\" y=\"212\" width=\"130\" height=\"60\" fill=\"#D9C9A8\"/><rect x=\"60\" y=\"140\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#5B6478\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><use href=\"#man\" x=\"85\" y=\"152\" width=\"30\" height=\"60\" style=\"color:#4B5E8C\"/><use href=\"#mark-ok\" x=\"84\" y=\"284\" width=\"32\" height=\"32\"/><rect x=\"210\" y=\"212\" width=\"130\" height=\"60\" fill=\"#C9D5B8\"/><path d=\"M220 230 h110 M220 248 h110 M220 266 h110\" stroke=\"#9DB08A\" stroke-width=\"2\"/><rect x=\"235\" y=\"140\" width=\"80\" height=\"80\" fill=\"none\" stroke=\"#5B6478\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><use href=\"#man\" x=\"260\" y=\"152\" width=\"30\" height=\"60\" style=\"color:#4B5E8C\"/><use href=\"#mark-no\" x=\"259\" y=\"284\" width=\"32\" height=\"32\"/><rect x=\"380\" y=\"140\" width=\"18\" height=\"132\" fill=\"#BFAE8E\"/><rect x=\"502\" y=\"140\" width=\"18\" height=\"132\" fill=\"#BFAE8E\"/><rect x=\"398\" y=\"212\" width=\"104\" height=\"60\" fill=\"#D9C9A8\"/><use href=\"#man\" x=\"435\" y=\"152\" width=\"30\" height=\"60\" style=\"color:#4B5E8C\"/><use href=\"#mark-ok\" x=\"434\" y=\"284\" width=\"32\" height=\"32\"/><rect x=\"555\" y=\"212\" width=\"140\" height=\"60\" fill=\"#D9C9A8\"/><use href=\"#person\" x=\"558\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#6A4F7A\"/><use href=\"#person\" x=\"580\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#8C5A3C\"/><use href=\"#person\" x=\"602\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#50706E\"/><use href=\"#person\" x=\"624\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#7A4A55\"/><use href=\"#person\" x=\"646\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#6B6F3A\"/><use href=\"#person\" x=\"668\" y=\"160\" width=\"24\" height=\"48\" style=\"color:#4B5E8C\"/><use href=\"#person\" x=\"569\" y=\"200\" width=\"24\" height=\"48\" style=\"color:#4B5E8C\"/><use href=\"#person\" x=\"591\" y=\"200\" width=\"24\" height=\"48\" style=\"color:#7A4A55\"/><use href=\"#person\" x=\"613\" y=\"200\" width=\"24\" height=\"48\" style=\"color:#6B6F3A\"/><use href=\"#person\" x=\"635\" y=\"200\" width=\"24\" height=\"48\" style=\"color:#8C5A3C\"/><use href=\"#person\" x=\"657\" y=\"200\" width=\"24\" height=\"48\" style=\"color:#50706E\"/><use href=\"#mark-no\" x=\"609\" y=\"284\" width=\"32\" height=\"32\"/><rect x=\"730\" y=\"212\" width=\"104\" height=\"60\" fill=\"#D9C9A8\"/><rect x=\"836\" y=\"140\" width=\"38\" height=\"132\" fill=\"#CDBB98\"/><use href=\"#person\" x=\"843\" y=\"150\" width=\"24\" height=\"48\" style=\"color:#6A4F7A\"/><use href=\"#person\" x=\"843\" y=\"204\" width=\"24\" height=\"48\" style=\"color:#8C5A3C\"/><use href=\"#man\" x=\"767\" y=\"152\" width=\"30\" height=\"60\" style=\"color:#4B5E8C\"/><use href=\"#mark-ok\" x=\"784\" y=\"284\" width=\"32\" height=\"32\"/></g><text x=\"713\" y=\"51\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17.3\" font-weight=\"600\" fill=\"#FFFFFF\">רב פפא</text><text x=\"275\" y=\"51\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17.3\" font-weight=\"600\" fill=\"#FFFFFF\">רב ששת</text><text x=\"800\" y=\"104\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">שטח ציבורי</text><text x=\"800\" y=\"344\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">קונות</text><text x=\"800\" y=\"366\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">\"בעלמא\"</text><text x=\"625\" y=\"104\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">שדה של בעל הבית</text><text x=\"625\" y=\"344\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינן קונות</text><text x=\"625\" y=\"366\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">השדה אינו</text><text x=\"625\" y=\"382\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">חצרו של העני</text><text x=\"450\" y=\"104\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">סמטא</text><text x=\"450\" y=\"344\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">קונות</text><text x=\"450\" y=\"366\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">אין הרבים</text><text x=\"450\" y=\"382\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">דוחקים בה</text><text x=\"275\" y=\"104\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1A1F2E\">רשות הרבים</text><text x=\"275\" y=\"344\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">אינן קונות</text><text x=\"275\" y=\"366\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">הרבים דוחקים</text><text x=\"100\" y=\"104\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"600\" fill=\"#1A1F2E\">צידי רשות הרבים</text><text x=\"100\" y=\"344\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">קונות</text><text x=\"100\" y=\"366\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">\"בכל מקום\"</text><text x=\"100\" y=\"382\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">בא לרבות אותם</text><text x=\"450\" y=\"416\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">בבא מציעא י.–י: · הגבלות על ארבע האמות של ריש לקיש</text></svg>"
+      },
+      "children": [
+        {
+          "id": "s9",
+          "title": "נפל על המציאה ובא אחר והחזיק בה: המחזיק זכה",
+          "amud": "י.",
+          "text": {
+            "from": "10a.13",
+            "to": "10a.13"
+          },
+          "gist": "מי שמפיל את עצמו על מציאה לא עשה מעשה קנין. מי שמחזיק בה אחריו זוכה בה.",
+          "bullets": [
+            {
+              "text": "משנה: \"ראה את המציאה ונפל עליה, ובא אחר והחזיק בה – זה שהחזיק בה זכה בה\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "נפילה על המציאה אינה דרך קנין, גם כשהמגע מלא. החזקה בה היא דרך קנין.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": [],
+          "illustration": {
+            "caption": "המשנה (י.): מי שנפל על המציאה לא קנה, ומי שהחזיק בה קנה. לצדה, כלל ריש לקיש שארבע אמות של אדם קונות לו (י.), והגמרא בודקת אותו מיד מול המשנה הזאת.",
+            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>אדם שוכב על מציאה, ואדם אחר מושיט את ידו מתחתיו ולוקח אותה. משמאל, אדם עומד בתוך ריבוע מקווקו שמסמן את ארבע האמות שלו, ובתוכו חפץ.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"40\" y=\"292\" width=\"420\" height=\"4\" fill=\"#BFAE8E\"/><rect x=\"150\" y=\"252\" width=\"150\" height=\"34\" rx=\"17\" fill=\"#4B5E8C\"/><circle cx=\"132\" cy=\"266\" r=\"15\" fill=\"#D6AE86\"/><path d=\"M118 262 Q132 246 146 262 Q132 256 118 262 Z\" fill=\"#4A3A2E\"/><rect x=\"235\" y=\"280\" width=\"26\" height=\"12\" rx=\"2\" fill=\"#C9A15C\" stroke=\"#9A7440\"/><use href=\"#man\" x=\"320\" y=\"170\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><path d=\"M334 236 L264 284\" stroke=\"#D6AE86\" stroke-width=\"6\" stroke-linecap=\"round\"/><use href=\"#mark-no\" x=\"70\" y=\"330\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"70\" y=\"368\" width=\"26\" height=\"26\"/><rect x=\"500\" y=\"40\" width=\"385\" height=\"350\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"602\" y=\"126\" width=\"180\" height=\"180\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"2.5\" stroke-dasharray=\"7 5\"/><use href=\"#man\" x=\"662\" y=\"156\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><circle cx=\"752\" cy=\"284\" r=\"9\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/></g><text x=\"655\" y=\"50\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">המשנה: נפל עליה, ובא אחר והחזיק בה</text><text x=\"794\" y=\"349\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">הנופל עליה: לא קנה</text><text x=\"794\" y=\"387\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">המחזיק בה: קנה</text><text x=\"208\" y=\"74\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">ריש לקיש</text><text x=\"208\" y=\"102\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#7A4A2A\">ארבע אמות</text><text x=\"208\" y=\"336\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">קונות לו בכל מקום</text><text x=\"208\" y=\"360\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5B6478\">תקנת חכמים, כדי שלא יבואו לריב</text></svg>"
+          }
+        },
+        {
+          "id": "s10",
+          "title": "ריש לקיש: ארבע אמות קונות בכל מקום, כדי שלא יבואו לריב",
+          "amud": "י.",
+          "text": {
+            "from": "10a.14",
+            "to": "10a.14"
+          },
+          "gist": "ריש לקיש בשם אבא כהן ברדלא: ארבע אמות של אדם קונות לו בכל מקום. זו תקנת חכמים שנועדה למנוע מריבות. מיד אחר כך מובאות שתי קושיות על דבריו.",
+          "bullets": [
+            {
+              "text": "ריש לקיש בשם אבא כהן ברדלא: \"ארבע אמות של אדם קונות לו בכל מקום\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הטעם: \"תקינו רבנן, דלא ליתו לאנצויי\". חכמים תיקנו זאת כדי שאנשים לא יבואו לריב.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "ארבע אמות פועלות כמו חצר ניידת, המרחב האישי המוגדר של האדם. כשהכלל נותן בעלות לפי קרבה, הוא מסיים את התחרות לפני שהיא הופכת למאבק פיזי על החפץ.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "אביי: רבי חייא בר יוסף מקשה ממשנה בפאה. רבא: רבי יעקב בר אידי מקשה ממשנה בנזיקין.",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s11",
+          "title": "קושיה מפאה: נפל עליה ולא קנה – גילוי דעת או שדה של בעל הבית",
+          "amud": "י.–י:",
+          "text": {
+            "from": "10a.15",
+            "to": "10b.1"
+          },
+          "gist": "לפי המשנה בפאה (ד, ג), עני שנפל על הפאה אין לו בה כלום. הגמרא מתרצת שבנפילתו גילה באיזו דרך בחר לקנות. רב פפא מתרץ שארבע אמות אינן קונות בשדה של בעל הבית.",
+          "bullets": [],
+          "children": [
+            {
+              "id": "s12",
+              "title": "הנפילה מגלה את כוונתו: לא בארבע אמות",
+              "amud": "י.",
+              "text": {
+                "from": "10a.15",
+                "to": "10a.19"
+              },
+              "gist": "בתקנת חכמים אין משמעות לכך שלא אמר דבר. אבל בנפילתו גילה שרצה לקנות בנפילה, שאינה קונה, ולא בארבע אמות.",
+              "bullets": [
+                {
+                  "text": "פאה ד, ג: \"נטל מקצת פאה וזרק על השאר – אין לו בה כלום. נפל לו עליה, פירס טליתו עליה – מעבירין אותו הימנה. וכן בעומר שכחה\".",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "רבי חייא בר יוסף: אם ארבע אמות קונות בכל מקום, ארבע האמות שלו היו צריכות לקנות לו את הפאה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "תירוץ ראשון: מדובר כשלא אמר \"אקני\". הגמרא דוחה את התירוץ: אם חכמים תיקנו, מה בכך שלא אמר?",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "תירוץ: כיוון שנפל עליה, גילה דעתו שרצה לקנות בנפילה ולא בארבע אמות. נפילה אינה דרך קנין, ולכן לא קנה כלום.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "השוו למי שמתכוון לקנות כוס בהגבהה, אבל מגביה אותה פחות משלושה טפחים, ובפועל עשה משיכה. האם המעשה הכשר נחשב, או שהדרך שבחר ונכשל בה מבטלת אותו? הגמרא כאן אומרת שהדרך שבחר דוחה את הדרך שעמדה לרשותו.",
+                  "detail": 3,
+                  "source": "shiur"
+                },
+                {
+                  "text": "תוספות: מי שלוקח את הפאה מתחתיו אינו נקרא אפילו רשע. כינוי זה נאמר על מי שלוקח חפץ שאחר מחזר אחריו, כשאפשר להשיג חפץ דומה במקום אחר. למציאה של הפקר אין תחליף כזה.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s13",
+              "title": "רב פפא: לא בשדה של בעל הבית",
+              "amud": "י:",
+              "text": {
+                "from": "10b.1",
+                "to": "10b.1"
+              },
+              "gist": "ארבע אמות נתקנו לשטח ציבורי. זכות העני בשדה של בעל הבית היא להלך בה וללקט, ולא להחשיב אותה כחצרו.",
+              "bullets": [
+                {
+                  "text": "רב פפא: חכמים תיקנו ארבע אמות \"בעלמא\", כלומר בשטח ציבורי, ולא בשדה של בעל הבית.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "התורה זיכתה לעני להלך בשדה וללקט פאה. היא לא זיכתה לו שהשדה תהיה חצרו לעניין קנין.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "ארבע אמות פועלות כחצר אישית. המרחב האישי של אורח אינו יכול לגבור על אחיזת הבעלים בקרקע שהאורח עומד עליה.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "s14",
+          "title": "קושיה ממשנתנו: גילוי דעת, ורב ששת – לא ברשות הרבים",
+          "amud": "י:",
+          "text": {
+            "from": "10b.2",
+            "to": "10b.6"
+          },
+          "gist": "הנופל שבמשנתנו היה צריך לקנות בארבע אמות שלו. הגמרא חוזרת על תירוץ גילוי הדעת, ורב ששת מתרץ שארבע אמות אינן קונות במקום שהרבים דוחקים בו.",
+          "bullets": [],
+          "children": [
+            {
+              "id": "s15",
+              "title": "שוב: הנפילה מגלה את כוונתו",
+              "amud": "י:",
+              "text": {
+                "from": "10b.2",
+                "to": "10b.3"
+              },
+              "gist": "הקושיה של רבי יעקב בר אידי ממשנתנו מקבלת אותו תירוץ כמו הקושיה מפאה: הנופל בחר בנפילה ולא בארבע אמות שלו.",
+              "bullets": [
+                {
+                  "text": "רבי יעקב בר אידי: במשנתנו, ארבע אמות של האדם היו צריכות לקנות לו את המציאה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "אותו משא ומתן חוזר כאן: מדובר כשלא אמר \"אקני\". ואם חכמים תיקנו, מה בכך? כיוון שנפל עליה, גילה דעתו שרצה לקנות בנפילה, וויתר על הדרך שתיקנו חכמים.",
+                  "detail": 2,
+                  "source": "gemara"
+                }
+              ],
+              "children": [],
+              "returns_to": [
+                {
+                  "id": "s12",
+                  "note": "חוזר על התירוץ שניתן לקושיה מפאה"
+                }
+              ]
+            },
+            {
+              "id": "s16",
+              "title": "רב ששת: בסמטא ולא ברשות הרבים; \"בכל מקום\" – צידי רשות הרבים",
+              "amud": "י:",
+              "text": {
+                "from": "10b.4",
+                "to": "10b.6"
+              },
+              "gist": "ארבע אמות נתקנו למקומות כמו סמטא, ולא לרשות הרבים הצפופה. המילים \"בכל מקום\" של ריש לקיש מוסיפות רק את צידי רשות הרבים.",
+              "bullets": [
+                {
+                  "text": "רב ששת: חכמים תיקנו ארבע אמות בסמטא, שאין הרבים דוחקים בה, ולא ברשות הרבים, שהרבים דוחקים בה.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "והרי ריש לקיש אמר \"בכל מקום\"! תירוץ: המילים האלה באות לרבות את צידי רשות הרבים, שאין בהם דוחק.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "בצפיפות אין לאיש מרחב אישי, ולכן הרעיון של ארבע אמות מתבטל שם. זה מקביל למשיכה, שקונה בסמטא ולא ברשות הרבים.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": [],
+              "returns_to": [
+                {
+                  "id": "s10",
+                  "note": "מצמצם את \"בכל מקום\" של ריש לקיש"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "title": "חצר וארבע אמות לקטנה: משום ידה או משום שליחות?",
+      "amud": "י:",
+      "text": {
+        "from": "10b.7",
+        "to": "10b.14"
+      },
+      "gist": "השאלה אם קטנה קונה בחצרה ובארבע אמות שלה תלויה בשאלה אם החצר פועלת כידה או כשלוחה. אחר כך ברייתא על גניבה בודקת את שיטת השליחות מול הכלל שאין שליח לדבר עבירה.",
+      "bullets": [],
+      "chart": {
+        "caption": "האם קטנה קונה בחצרה ובארבע אמות שלה?",
+        "columns": [
+          "",
+          "מדוע חצר קונה",
+          "חצר של קטנה",
+          "ארבע אמות של קטנה"
+        ],
+        "rows": [
+          [
+            "רבי ינאי (במסורת רבי יוחנן)",
+            "היא כידה",
+            "קונה: יש לה יד",
+            "קונות"
+          ],
+          [
+            "אבא כהן ברדלא (במסורת ריש לקיש)",
+            "היא כשלוחה",
+            "אינה קונה: קטנה אינה יכולה למנות שליח",
+            "אינן קונות"
+          ]
+        ],
+        "tags": [
+          [
+            null,
+            null,
+            "acquires",
+            "acquires"
+          ],
+          [
+            null,
+            null,
+            "not-acquired",
+            "not-acquired"
+          ]
+        ]
+      },
+      "illustration": {
+        "caption": "המחלוקת בדף י:. אם החצר היא הרחבה של ידה, קטנה קונה בה. אם החצר פועלת כשלוחה, הקטנה אינה קונה בה, כי קטנה אינה יכולה למנות שליח. ארבע האמות שלה הולכות באותו קו.",
+        "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני לוחות, ובכל אחד ילדה קטנה ליד חצרה, ובחצר חפץ. מימין, רבי ינאי: החצר היא ידה, והיא קונה. משמאל, אבא כהן ברדלא: החצר היא שלוחה, והיא אינה קונה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"15\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"190\" y=\"132\" width=\"200\" height=\"150\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><circle cx=\"330\" cy=\"232\" r=\"10\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#child\" x=\"80\" y=\"192\" width=\"45\" height=\"90\" style=\"color:#8C4A60\"/><path d=\"M122 238 L186 238\" stroke=\"#1B3A8A\" stroke-width=\"3\" stroke-dasharray=\"6 4\"/><path d=\"M186 238 l-10 -6 v12 z\" fill=\"#1B3A8A\"/><use href=\"#mark-ok\" x=\"40\" y=\"305\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"40\" y=\"343\" width=\"26\" height=\"26\"/><rect x=\"460\" y=\"15\" width=\"425\" height=\"390\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"635\" y=\"132\" width=\"200\" height=\"150\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><circle cx=\"775\" cy=\"232\" r=\"10\" fill=\"#C9A15C\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#child\" x=\"525\" y=\"192\" width=\"45\" height=\"90\" style=\"color:#8C4A60\"/><path d=\"M567 238 L631 238\" stroke=\"#9A6212\" stroke-width=\"3\" stroke-dasharray=\"6 4\"/><use href=\"#mark-no\" x=\"586\" y=\"225\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"485\" y=\"305\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"485\" y=\"343\" width=\"26\" height=\"26\"/></g><text x=\"673\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">רבי ינאי</text><text x=\"673\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">(במסורת רבי יוחנן)</text><text x=\"673\" y=\"96\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">החצר היא הרחבה של ידה</text><text x=\"673\" y=\"120\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#3A5692\">משום ידה</text><text x=\"610\" y=\"154\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5A4A3A\">החצר שלה</text><text x=\"824\" y=\"324\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">החצר שלה קונה לה</text><text x=\"824\" y=\"362\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">וכן ארבע האמות שלה</text><text x=\"860\" y=\"392\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">יש לה יד, ולכן יש לה חצר</text><text x=\"228\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">אבא כהן ברדלא</text><text x=\"228\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">(במסורת ריש לקיש)</text><text x=\"228\" y=\"96\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">החצר פועלת כשלוחה שלה</text><text x=\"228\" y=\"120\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#7A4A2A\">משום שליחות</text><text x=\"165\" y=\"154\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5A4A3A\">החצר שלה</text><text x=\"379\" y=\"324\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">החצר שלה אינה קונה</text><text x=\"379\" y=\"362\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">וגם לא ארבע האמות שלה</text><text x=\"415\" y=\"392\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">קטנה אינה יכולה למנות שליח</text></svg>"
+      },
+      "children": [
+        {
+          "id": "s18",
+          "title": "אבא כהן ברדלא ורבי ינאי: חצר משום יד או משום שליחות",
+          "amud": "י:",
+          "text": {
+            "from": "10b.7",
+            "to": "10b.8"
+          },
+          "gist": "המסורת של ריש לקיש שוללת מקטנה את שתי הדרכים, והמסורת של רבי יוחנן נותנת לה את שתיהן. הגמרא תולה את המחלוקת בשאלה אם חצר נלמדת מידה או משליחות.",
+          "bullets": [
+            {
+              "text": "ריש לקיש בשם אבא כהן ברדלא: \"קטנה אין לה חצר, ואין לה ארבע אמות\". רבי יוחנן בשם רבי ינאי: \"יש לה חצר, ויש לה ארבע אמות\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רבי ינאי: \"חצר משום ידה איתרבאי\". החצר נתרבתה כדרך קנין משום שהיא כידה. קטנה יכולה לקנות בידה, ולכן היא יכולה לקנות גם בחצרה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אבא כהן ברדלא: החצר נתרבתה משום שליחות. לקטנה אין שליחות, ולכן אין לה חצר.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "שליחות צריכה דעת, ולקטנה אין דעת לעניין זה. שיטת השליחות רואה את הנכס כמעט כאדם שזוכה בשביל הבעלים.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "בשתי השיטות ארבע אמות הולכות אחר החצר, שהרי הן מעין חצר ניידת. בדיון על גט מוסיף מגיד השיעור שארבע אמות, אף שהן מדרבנן, יכולות להיחשב אז כחלק מ\"בידה\".",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s19",
+          "title": "גניבה בחצרו: האם יש שליח לדבר עבירה?",
+          "amud": "י:",
+          "text": {
+            "from": "10b.9",
+            "to": "10b.14"
+          },
+          "gist": "ברייתא מחייבת גנב כשהבהמה הגנובה נמצאת בחצרו, אף על פי שאין שליח לדבר עבירה. רבינא מתרץ שחצר אינה בת חיובא, ורב סמא מתרץ שאין לה ברירה.",
+          "bullets": [],
+          "chart": {
+            "caption": "שני תירוצים: מדוע בעל החצר חייב, אף על פי שאין שליח לדבר עבירה",
+            "columns": [
+              "",
+              "\"אין שליח לדבר עבירה\" נאמר כאשר…",
+              "מדוע בעל החצר חייב"
+            ],
+            "rows": [
+              [
+                "רבינא",
+                "השליח עצמו בר חיובא",
+                "חצר אינה בת חיובא, ולכן שולחה חייב"
+              ],
+              [
+                "רב סמא",
+                "השליח יכול לבחור אם לעשות את השליחות או לסרב",
+                "מניחים חפצים בחצר בעל כורחה, ולכן שולחה חייב"
+              ]
+            ]
+          },
+          "illustration": {
+            "caption": "ברייתת הגניבה (שמות כב, ג: \"הִמָּצֵא תִמָּצֵא\") מול הכלל שאין שליח לדבר עבירה. שליח אדם שגונב נושא בחיוב בעצמו, ואילו בהמה גנובה שנמצאה בחצרו של הגנב מחייבת את הבעלים (י:).",
+            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: אדם שולח אדם אחר לגנוב כבש, והשליח חייב ולא השולח. משמאל: שור גנוב עומד בתוך חצר סגורה ובעליה עומד מחוץ לה, והבעלים חייב.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"412\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#man\" x=\"70\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"230\" y=\"110\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><path d=\"M140 170 L222 170\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M222 170 l-10 -6 v12 z\" fill=\"#5B6478\"/><use href=\"#lamb\" x=\"305\" y=\"168\" width=\"90\" height=\"63\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"412\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"560\" y=\"100\" width=\"240\" height=\"150\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"3\"/><rect x=\"796\" y=\"150\" width=\"8\" height=\"50\" fill=\"#7B4B3A\"/><use href=\"#bull\" x=\"600\" y=\"150\" width=\"130\" height=\"84\"/><use href=\"#man\" x=\"820\" y=\"120\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/></g><text x=\"673\" y=\"46\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">שליח אדם</text><text x=\"673\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.5\" font-weight=\"400\" fill=\"#5B6478\">\"צאו גנבו לי\"</text><text x=\"800\" y=\"255\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">השולח</text><text x=\"640\" y=\"255\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">השליח</text><text x=\"673\" y=\"298\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">שליח שגנב:</text><text x=\"673\" y=\"322\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\">השליח חייב, ולא השולח</text><text x=\"673\" y=\"358\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">רבינא: השליח בר חיובא</text><text x=\"673\" y=\"378\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">רב סמא: השליח יכול היה לסרב</text><text x=\"673\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#7A4A2A\">אין שליח לדבר עבירה</text><text x=\"228\" y=\"46\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">חצרו</text><text x=\"228\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.5\" font-weight=\"400\" fill=\"#5B6478\">שמות כב, ג · \"הִמָּצֵא תִמָּצֵא\"</text><text x=\"220\" y=\"124\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5A4A3A\">גג, חצר או קרפף</text><text x=\"55\" y=\"240\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">הבעלים</text><text x=\"228\" y=\"298\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">נמצאה בחצרו:</text><text x=\"228\" y=\"322\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\">הבעלים חייב</text><text x=\"228\" y=\"358\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">רבינא: חצר אינה בת חיובא</text><text x=\"228\" y=\"378\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" font-weight=\"400\" fill=\"#5B6478\">רב סמא: מניחים בה בעל כורחה</text><text x=\"228\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#3A5692\">גגו, חצרו וקרפיפו</text></svg>"
+          },
+          "children": [
+            {
+              "id": "s20",
+              "title": "\"המצא תמצא\": גגו, חצרו וקרפיפו, ואין שליח לדבר עבירה",
+              "amud": "י:",
+              "text": {
+                "from": "10b.9",
+                "to": "10b.10"
+              },
+              "gist": "פסוק הגניבה מרחיב את החיוב לחצרו של הגנב. אם חצר היא שליח, יש כאן שליחות לדבר עבירה, אף שהכלל הוא שאין שליח לדבר עבירה.",
+              "bullets": [
+                {
+                  "text": "ברייתא על שמות כב, ג: \"בידו\" – אין לי אלא ידו. גגו, חצרו וקרפיפו מנין? תלמוד לומר \"הִמָּצֵא תִמָּצֵא\", מכל מקום.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "אם חצר נתרבתה משום שליחות, מצאנו כאן שליח לדבר עבירה. והרי הכלל הוא שאין שליח לדבר עבירה: השליח חייב, ולא השולח.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "כששליח אדם גונב, השולח אינו קונה את הגניבה ואינו חייב. אם כן, חצר הפועלת כשליח הייתה צריכה לפטור את בעליה, וזה בדיוק מה שהברייתא שוללת.",
+                  "detail": 3,
+                  "source": "shiur"
+                },
+                {
+                  "text": "טעם הכלל: \"דברי הרב ודברי התלמיד – דברי מי שומעין?\" השליח היה צריך לשמוע לציווי ה', ולכן הבחירה לשמוע לשולח היא בחירה שלו.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s21",
+              "title": "רבינא: רק שליח שהוא בר חיובא; ומה באשה ועבד?",
+              "amud": "י:",
+              "text": {
+                "from": "10b.11",
+                "to": "10b.13"
+              },
+              "gist": "רבינא מגביל את הכלל לשליח שהוא עצמו בר חיובא. אשה ועבד ששלחו אותם לגנוב נחשבים בני חיובא, אף שאינם יכולים לשלם עכשיו.",
+              "bullets": [
+                {
+                  "text": "רבינא: אין שליח לדבר עבירה רק כשהשליח בר חיובא. חצר אינה בת חיובא, ולכן בעליה חייב.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "קושיה: אם כן, האומר לאשה ועבד \"צאו גנבו לי\" יתחייב, שהרי אין להם נכסים לשלם מהם.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "תירוץ: אשה ועבד בני חיובא הם, אלא שכרגע אין להם במה לשלם. שכך שנינו במשנה (בבא קמא פז.) על נזקים שגרמו: \"נתגרשה האשה, נשתחרר העבד – חייבין לשלם\".",
+                  "detail": 2,
+                  "source": "gemara"
+                }
+              ],
+              "children": []
+            },
+            {
+              "id": "s22",
+              "title": "רב סמא: רק שליח שיכול לסרב",
+              "amud": "י:",
+              "text": {
+                "from": "10b.14",
+                "to": "10b.14"
+              },
+              "gist": "רב סמא מגביל את הכלל לשליח שיכול לבחור אם לעשות את השליחות. בחצר מניחים חפצים בעל כורחה, ולכן בעליה חייב.",
+              "bullets": [
+                {
+                  "text": "רב סמא: אין שליח לדבר עבירה רק כש\"אי בעי עביד ואי בעי לא עביד\", כלומר כשהשליח יכול לעשות את השליחות או לסרב כרצונו. בחצר מניחים חפצים בעל כורחה, ולכן שולחה, בעל החצר, חייב.",
+                  "detail": 2,
+                  "source": "gemara"
+                },
+                {
+                  "text": "גם לפי שיטת השליחות, אם כן, חצר אינה דומה לשליח אדם. היא פועלת בשביל הבעלים בלי רצון משלה, ולכן אינה יכולה לשאת באחריות במקומם.",
+                  "detail": 3,
+                  "source": "shiur"
+                }
+              ],
+              "children": [],
+              "continues": "ממשיך בהמשך דף י:. הגמרא שואלת מה הנפקא מינה בין רבינא לרב סמא: כהן ששלח ישראל לקדש לו גרושה, ומי שאמר לאשה להקיף פאת ראשו של קטן. אחר כך באה קושיה על אבא כהן ברדלא מגט שהונח בחצרה של אשה."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "המגביה מציאה לחבירו",
+      "hebrew": "",
+      "sense": "הגבהת מציאה בשביל אחר",
+      "definition": "עשיית מעשה קנין במציאה של הפקר בשביל אדם אחר, כדי שהוא, ולא המגביה, יהיה הבעלים שלה.",
+      "on_this_daf": "לרב נחמן ולרב חסדא זה אינו מועיל, ולרבי יוחנן זה מועיל. משנת הרוכב מתפרשת לפי כל אחת מן השיטות.",
+      "aliases": [
+        "מגביה מציאה לחבירו"
+      ],
+      "sections": [
+        "s1",
+        "s2",
+        "s3",
+        "s4",
+        "s7"
+      ]
+    },
+    {
+      "term": "תופס לבעל חוב במקום שחב לאחרים",
+      "hebrew": "",
+      "sense": "תפיסה בשביל נושה כשהיא פוגעת באחרים",
+      "definition": "מי שתופס נכסי לווה בשביל נושה אחד, כשבכך הוא פוגע בנושים האחרים של הלווה, לא קנה בשביל אותו נושה.",
+      "on_this_daf": "רב נחמן ורב חסדא משווים לכך את המגביה מציאה לחבירו, כי לכל אדם יש זכות שווה במציאה של הפקר.",
+      "aliases": [
+        "התופס לבעל חוב במקום שחב לאחרים",
+        "כתופס לבעל חוב במקום שחב לאחרים"
+      ],
+      "sections": [
+        "s3"
+      ]
+    },
+    {
+      "term": "יד פועל כיד בעל הבית",
+      "hebrew": "",
+      "sense": "ידו של פועל כיד מעסיקו",
+      "definition": "כל זמן שפועל שכיר עובד אצל בעל הבית, מעשי הקנין שלו במסגרת השכירות נחשבים מעשים של בעל הבית.",
+      "on_this_daf": "רב נחמן מסביר בכך מדוע פועל שנשכר \"לעשות מלאכה\" זוכה במציאה לבעל הבית, אף שהוא יכול לחזור בו בחצי היום.",
+      "aliases": [
+        "ידו כיד בעל הבית"
+      ],
+      "sections": [
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "term": "ארבע אמות",
+      "hebrew": "",
+      "sense": "ארבע אמות של אדם קונות לו",
+      "definition": "תקנת חכמים שלפיה השטח של ארבע אמות סביב האדם קונה לו חפצי הפקר שבתוכו, בלי שום מעשה נוסף.",
+      "on_this_daf": "לדעת ריש לקיש הן קונות בכל מקום, כדי למנוע מריבות. לפי הגמרא הן אינן קונות למי שבחר לקנות בנפילה, ורב פפא ורב ששת מוציאים מכללן את השדה של בעל הבית ואת רשות הרבים הצפופה.",
+      "aliases": [
+        "בארבע אמות",
+        "וארבע אמות",
+        "ארבע האמות"
+      ],
+      "sections": [
+        "s8",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18"
+      ]
+    },
+    {
+      "term": "קנין חצר",
+      "hebrew": "",
+      "sense": "קנין בנכסיו של אדם",
+      "definition": "חצרו של אדם, או נכס אחר שלו, קונה לו חפצים שנכנסים אליה, גם בלי שיעשה דבר.",
+      "on_this_daf": "רבי ינאי תולה את הקנין בידו של הבעלים, ואבא כהן ברדלא תולה אותו בשליחות. מכאן נקבע אם קטנה יכולה לקנות בחצרה.",
+      "aliases": [
+        "חצר",
+        "החצר",
+        "בחצר",
+        "חצרה",
+        "בחצרה",
+        "חצרו",
+        "בחצרו",
+        "כחצרו"
+      ],
+      "sections": [
+        "s2",
+        "s10",
+        "s13",
+        "s17",
+        "s18",
+        "s19",
+        "s20",
+        "s21",
+        "s22"
+      ]
+    },
+    {
+      "term": "אין שליח לדבר עבירה",
+      "hebrew": "",
+      "sense": "אין שליחות לעבירה",
+      "definition": "כשאדם שולח שליח לעבור עבירה, המעשה אינו מתייחס לשולח, והשליח לבדו נושא באחריות.",
+      "on_this_daf": "לכאורה הכלל שולל חצר הפועלת משום שליחות, שהרי גנב חייב על בהמה גנובה שנמצאה בחצרו. רבינא ורב סמא מגבילים כל אחד את הכלל כך שאינו חל על חצר.",
+      "aliases": [
+        "שאין שליח לדבר עבירה"
+      ],
+      "sections": [
+        "s19",
+        "s20",
+        "s21",
+        "s22"
+      ]
+    }
+  ]
+}

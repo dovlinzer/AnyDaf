@@ -1,0 +1,786 @@
+{
+  "daf": "קידושין ד",
+  "lang": "he",
+  "scope": {
+    "start": "ג: (שורה 8) – המקור של רב הונא למעשה ידי הבת, בתוך הדיון למי שייך כסף הקידושין של נערה (הקטע נפתח באמצע הדיון)",
+    "end": "ד: (שורה 9) – מדוע צריך גם \"אין כסף\" וגם \"כי יקח\""
+  },
+  "sections": [
+    {
+      "id": "s1",
+      "title": "קידושי נערה לאביה: הפרת נדרים, קנס, בושת ופגם או \"אין כסף\"?",
+      "amud": "ג: ← ד.",
+      "text": {
+        "from": "3b.8",
+        "to": "4a.2"
+      },
+      "gist": "הגמרא ממשיכה לשאול מדוע נערה, שיכולה להתקדש בעצמה, אינה זוכה בכסף הקידושין. הפרת נדרים, קנס ובושת ופגם נדחים כמקורות. \"אין כסף\" נדרש כיציאה הדומה ליציאת האמה העבריה, אף שהנערה נשארת בבית אביה עד החופה.",
+      "bullets": [],
+      "chart": {
+        "caption": "המקורות שהוצעו לכך שכסף הקידושין של נערה שייך לאביה",
+        "columns": [
+          "המקור",
+          "מה הוא נותן לאב",
+          "האם אפשר ללמוד ממנו כסף קידושין?"
+        ],
+        "rows": [
+          [
+            "\"בנעוריה בית אביה\"",
+            "הפרת נדרים",
+            "לא: הפסוק נאמר בהפרת נדרים, ואין לומדים ממון מאיסור"
+          ],
+          [
+            "אונס ומפתה",
+            "הקנס",
+            "לא: אין לומדים ממון מקנס"
+          ],
+          [
+            "בושת ופגם",
+            "תשלומי הבושת והפגם",
+            "לא: לאב יש בהם חלק משלו, שהרי הוא יכול להשיא אותה למנוול ומוכה שחין"
+          ],
+          [
+            "\"ויצאה חנם אין כסף\"",
+            "כסף כשהיא יוצאת ל\"אדון אחר\"",
+            "כן: היציאה צריכה להיות דומה ליציאת האמה, ולכן מקבל הכסף מי שיש לו רשות עליה – אביה"
+          ]
+        ]
+      },
+      "children": [
+        {
+          "id": "s2",
+          "title": "הפסוק של רב הונא למעשה ידיה, ו\"בנעוריה בית אביה\" שנאמר רק בהפרת נדרים",
+          "amud": "ג:",
+          "text": {
+            "from": "3b.8",
+            "to": "3b.9"
+          },
+          "gist": "רב הונא לומד את מעשה ידי הבת מפסוק האמה העבריה. מכאן ש\"בנעוריה בית אביה\" עוסק רק בהפרת נדרים, ולכן אי אפשר ללמוד ממנו גם כסף קידושין.",
+          "bullets": [
+            {
+              "text": "רב הונא אמר רב: מעשה ידיה של הבת שייכים לאביה, שנאמר \"וְכִי יִמְכֹּר אִישׁ אֶת בִּתּוֹ לְאָמָה\" (שמות כא, ז). \"מה אמה מעשה ידיה לרבה – אף בת נמי מעשה ידיה לאביה\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הגמרא שואלת: מדוע לא ללמוד זאת מ\"בנעוריה בית אביה\", שנראה שהוא נותן לאב את כל שבח נעוריה?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תשובה: הפסוק ההוא נאמר בהפרת נדרים, ולא בענייני קניין.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אם כן, גם כסף קידושין אי אפשר ללמוד ממנו. וגם מכוחו של האב להפר את נדריה אי אפשר ללמוד כסף קידושין, שהרי \"ממונא מאיסורא לא ילפינן\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "לאב יש שלוש זכויות נפרדות: למכור את בתו כאמה עבריה (ומעשה ידיה עמה), לקדש אותה (\"אֶת בִּתִּי נָתַתִּי לָאִישׁ הַזֶּה\"), ולהפר את נדריה.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "רש\"י: בקטנה אין צורך בפסוק למעשה ידיה – אם הוא יכול למכור את עבודתה לאחר, ודאי שהיא שלו. החידוש הוא בנערה, שאותה כבר אינו יכול למכור, ובכל זאת הזכות נלמדת מפסוק המכירה.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s3",
+          "title": "קנס או בושת ופגם: החלק של האב עצמו",
+          "amud": "ג:",
+          "text": {
+            "from": "3b.10",
+            "to": "3b.11"
+          },
+          "gist": "מקנס האונס אי אפשר ללמוד ממון רגיל, ותשלומי הבושת והפגם מגיעים לאב מסיבה משלהם.",
+          "bullets": [
+            {
+              "text": "הצעה: קנס האונס שייך לאב. נדחה: \"ממונא מקנסא לא ילפינן\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "קנס הוא עונש ולא פיצוי, ולכן דיניו אינם מלמדים דבר על עסקה רגילה כמו קידושי כסף.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "הצעה: גם בושת ופגם, שהם פיצוי ממשי על הביזיון ועל הירידה בערכה, שייכים לאב.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "נדחה: \"שאני בושת ופגם דאבוה שייך בגווייהו\". לאב יש בהם עניין משלו: הוא עצמו יכול להשיא אותה למנוול ומוכה שחין, ובכך לבייש אותה ולהוריד את ערכה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רש\"י מסביר שחלקו של האב הוא הערך שהוא מפסיד כשהוא משיא אותה. אבל לפי ההיגיון הזה נראה שגם כסף הקידושין צריך להיות שלו, וקשה לשרטט את הגבול בין המקרים.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "תוספות: השאלה היא רק על נערה שקידשה את עצמה. אביה עדיין יכול להשיא אותה, ולכן הבושת והפגם שלו; אבל בפעולה שהיא עצמה עשתה, אפשר היה לחשוב שהכסף נשאר לה.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s4",
+          "title": "\"אין כסף\": אין כסף לאדון זה, יש כסף לאדון אחר – לאביה",
+          "amud": "ג: ← ד.",
+          "text": {
+            "from": "3b.12",
+            "to": "4a.1"
+          },
+          "gist": "המקור הוא בכל זאת \"אין כסף\", וסברה מכריעה מי מקבל את הכסף: ה\"אדון\" האחר צריך להיות מקביל לאדון של האמה, ולכן הוא האב.",
+          "bullets": [
+            {
+              "text": "אלא, כסף הקידושין של נערה שייך לאביה מ\"וְיָצְאָה חִנָּם אֵין כָּסֶף\": אין כסף לאדון זה, אבל יש כסף לאדון אחר.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "ולמה לא לה? \"מסתברא דכי קא ממעט – יציאה דכוותה קא ממעט\": הפסוק מדבר על יציאה הדומה ליציאת האמה. שם מי שהיה אמור לקבל את הכסף הוא האדון, ולכן במקום שמשלמים כסף, הוא מגיע למי שיש לו רשות עליה – אביה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "זו סברה ולא הוכחה גמורה: בין שהאב מקדש אותה ובין שהיא מקדשת את עצמה, מי שעומד במקום \"האדון\" הוא האב.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "האם נערה יכולה לקדש את עצמה? הרמב\"ם: רק בהסכמת אביה מראש, כשהיא שלוחה שלו. הסכמה שלו לאחר מעשה אינה מועילה.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "יש אומרים שאם קידשה את עצמה ואביה הסכים אחר כך, ייתכן שהקידושין חלים.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "illustration": {
+            "caption": "הדרשה של \"אין כסף\": כשהאמה העבריה יוצאת לחירות אין כסף לאדונה, אבל ביציאה הדומה לה – קידושי הבת – הכסף מגיע למי שיש לו רשות עליה, אביה (קידושין ג:–ד.).",
+            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: אמה עבריה יוצאת מאדונה, ואין משלמים כסף. משמאל: כסף החתן עובר מעל הבת אל אביה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"380\" rx=\"14\" fill=\"#E3EAF3\"/><use href=\"#man\" x=\"60\" y=\"140\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"250\" y=\"140\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><circle cx=\"185\" cy=\"205\" r=\"18\" fill=\"#E9D9A6\" stroke=\"#B9983E\" stroke-width=\"2\"/><path d=\"M170 190 L200 220\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M330 230 H402\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><path d=\"M412 230 l-10 -6 v12 z\" fill=\"#1B3A8A\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"380\" rx=\"14\" fill=\"#F3E6D8\"/><path d=\"M790 150 Q660 95 540 148\" fill=\"none\" stroke=\"#9A6212\" stroke-width=\"3\" stroke-dasharray=\"6 5\"/><path d=\"M532 152 l14 -1 l-6 -10 z\" fill=\"#9A6212\"/><circle cx=\"662\" cy=\"122\" r=\"14\" fill=\"#E9D9A6\" stroke=\"#B9983E\" stroke-width=\"2\"/><use href=\"#man\" x=\"490\" y=\"140\" width=\"70\" height=\"140\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"625\" y=\"140\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"765\" y=\"140\" width=\"70\" height=\"140\" style=\"color:#3E6FA8\"/></g><text x=\"673\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">האמה יוצאת לחירות</text><text x=\"673\" y=\"72\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">שמות כא, יא · \"ויצאה חנם\"</text><text x=\"805\" y=\"305\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">אדונה</text><text x=\"615\" y=\"305\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">האמה</text><text x=\"673\" y=\"345\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17.3\" font-weight=\"600\" fill=\"#1B3A8A\">האדון אינו מקבל כסף</text><text x=\"673\" y=\"374\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#3A5692\">אין כסף לאדון זה</text><text x=\"228\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">הבת מתקדשת</text><text x=\"228\" y=\"72\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">יציאה הדומה ליציאת האמה</text><text x=\"375\" y=\"305\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">אביה</text><text x=\"240\" y=\"305\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">הבת</text><text x=\"100\" y=\"305\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">החתן</text><text x=\"228\" y=\"345\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17.3\" font-weight=\"600\" fill=\"#9A6212\">הכסף לאדון אחר – לאביה</text><text x=\"228\" y=\"374\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">יש כסף לאדון אחר</text><text x=\"450\" y=\"422\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">קידושין ג:–ד. · מקבל הכסף הוא מי שיש לו רשות עליה, כמו האדון</text></svg>"
+          },
+          "children": []
+        },
+        {
+          "id": "s5",
+          "title": "יוצאת מרשות אביה לפני החופה? רק לעניין נדרים",
+          "amud": "ד.",
+          "text": {
+            "from": "4a.2",
+            "to": "4a.2"
+          },
+          "gist": "ארוסה לא יצאה לגמרי מרשות אביה, כמו שאמה עבריה יוצאת מרשות אדונה, אבל לעניין נדרים יצאה מרשותו: מעתה אביה ובעלה מפירים את נדריה יחד.",
+          "bullets": [
+            {
+              "text": "קושיה: האמה העבריה שיצאה לחירות יוצאת מרשות האדון לגמרי, ואילו הארוסה \"אכתי מיחסרא מסירה לחופה\" ונשארת ברשות אביה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תירוץ: לעניין הפרת נדרים, לפחות, היא יוצאת מרשותו. משנה (נדרים סו:): \"נערה המאורסה – אביה ובעלה מפירין נדריה\", ואביה אינו יכול להפר לבדו.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "השינוי פורמלי וחלקי, ובכל זאת הגמרא מקבלת אותו. ואם היא נשארת ברובה ברשותו, על אחת כמה וכמה שהכסף שייך לו ולא לה.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "המודל שעובר לאורך הסוגיה הוא מכירת הבת בידי אביה: יש לו רשות עליה, היא עוברת לרשות אחרת, וכסף עובר מיד ליד.",
+              "detail": 2,
+              "source": "shiur"
+            },
+            {
+              "text": "הצד הכלכלי: הסכום שבתורה היה חמישים שקלי כסף (מאתיים זוז). מאז שקידושי כסף הפכו לטבעת סמלית, הנטל התהפך והאב הוא שמשלם נדוניה. הכתובה מאזנת בין הכספים שעוברים לשני הכיוונים.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "\"אין\" ביו\"ד: שני דינים ממילה אחת",
+      "amud": "ד.",
+      "text": {
+        "from": "4a.3",
+        "to": "4a.8"
+      },
+      "gist": "ברייתא כבר דורשת את \"אין כסף\" ליציאת האמה בימי נערות. רבינא מוצא דרשה נוספת ביו\"ד היתרה, והגמרא מוכיחה את דרך הדרשה הזאת מ\"וזרע אין לה\" ומהכתיב \"מאן\".",
+      "bullets": [],
+      "children": [
+        {
+          "id": "s7",
+          "title": "היציאה בימי נערות שבברייתא, והיו\"ד היתרה של רבינא",
+          "amud": "ד.",
+          "text": {
+            "from": "4a.3",
+            "to": "4a.4"
+          },
+          "gist": "שני חלקי הפסוק מוציאים את האמה העבריה בבגרות ובנערות; רבינא מוצא את הכסף של האב בכתיב המלא \"אין\".",
+          "bullets": [
+            {
+              "text": "קושיה: הפסוק נצרך לברייתא: \"'ויצאה חנם' – אלו ימי בגרות, 'אין כסף' – אלו ימי נערות\". האמה העבריה יוצאת בכל אחד משני השלבים.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רבינא: לשם כך בלבד יכלה התורה לכתוב \"אן כסף\" בלי יו\"ד. הכתיב המלא \"אין\" מלמד: \"אין כסף לאדון זה, אבל יש כסף לאדון אחר – ומאן ניהו? אב\".",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s8",
+          "title": "\"וזרע אין לה\": זרע זרעה או זרע פסול?",
+          "amud": "ד.",
+          "text": {
+            "from": "4a.5",
+            "to": "4a.8"
+          },
+          "gist": "אותה יו\"ד, שנקראת \"עיין לה\", נדרשת לזרעה של בת כהן. היא יכולה ללמד רק דין אחד, שהרי זרע זרעה אינו צריך פסוק.",
+          "bullets": [
+            {
+              "text": "ברייתא על ויקרא כב, יג: בת כהן שנישאה לזר, ונתאלמנה או נתגרשה וזרע אין לה, שבה אל בית אביה וחוזרת לאכול בתרומה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "זרע זרעה מנין? \"אין לה\", הכתוב ביו\"ד, נקרא \"עיין לה\" – בדוק אם יש לה זרע. וזרע פסול, כגון ממזרים, מנין? מאותה מילה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "קושיה: מילה אחת לשני דינים? תירוץ: זרע זרעה אינו צריך פסוק, ש\"בני בנים הרי הן כבנים\". המילה נצרכת רק לזרע פסול.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "מנין לתנא שהיו\"ד יתרה? \"מֵאֵן בִּלְעָם\" (במדבר כב, יד) ו\"מֵאֵן יְבָמִי\" (דברים כה, ז) נכתבו בלי יו\"ד, וכאן \"אין\" נכתב ביו\"ד.",
+              "detail": 3,
+              "source": "gemara"
+            }
+          ],
+          "illustration": {
+            "caption": "\"וזרע אין לה\" (ויקרא כב, יג), שנקרא \"עיין לה\": בת כהן שאין לה זרע מבעלה הזר חוזרת לאכול בתרומה, וכל זרע – בן, נכד או ממזר – מונע ממנה (קידושין ד.).",
+            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: בת כהן ששבה לבית אביה אוכלת בתרומה. משמאל: בן, נכד וממזר – כל אחד מהם מונע ממנה תרומה.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"380\" rx=\"14\" fill=\"#E4EFE4\"/><use href=\"#woman\" x=\"80\" y=\"130\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><use href=\"#sage\" x=\"250\" y=\"125\" width=\"80\" height=\"140\" style=\"color:#EDE7DA;--beard:#8E8A84;--wrap:#FFFFFF\"/><ellipse cx=\"195\" cy=\"240\" rx=\"22\" ry=\"10\" fill=\"#D9A45A\"/><use href=\"#mark-ok\" x=\"60\" y=\"325\" width=\"34\" height=\"34\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"380\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#child\" x=\"500\" y=\"180\" width=\"50\" height=\"100\" style=\"color:#4E7A8C\"/><use href=\"#person\" x=\"615\" y=\"160\" width=\"55\" height=\"110\" style=\"color:#6A4F7A\"/><use href=\"#child\" x=\"668\" y=\"220\" width=\"26\" height=\"52\" style=\"color:#4E7A8C\"/><use href=\"#child\" x=\"775\" y=\"180\" width=\"50\" height=\"100\" style=\"color:#7A4A55\"/><use href=\"#mark-no\" x=\"520\" y=\"335\" width=\"34\" height=\"34\"/></g><text x=\"673\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">שבה אל בית אביה</text><text x=\"673\" y=\"72\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">ויקרא כב, יג · בת כהן שנתאלמנה או נתגרשה</text><text x=\"673\" y=\"98\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#3A5692\">וזרע אין לה</text><text x=\"705\" y=\"222\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\">תרומה</text><text x=\"785\" y=\"300\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">בת הכהן</text><text x=\"610\" y=\"300\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">אביה הכהן</text><text x=\"796\" y=\"347\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\">אין לה זרע: אוכלת בתרומה</text><text x=\"228\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">בודקים את זרעה</text><text x=\"228\" y=\"72\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">כל זרע מן הזר מונע ממנה תרומה</text><text x=\"228\" y=\"98\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">עיין לה</text><text x=\"375\" y=\"300\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">בן</text><text x=\"245\" y=\"300\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">נכד</text><text x=\"245\" y=\"318\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\">(בני בנים כבנים)</text><text x=\"100\" y=\"300\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">ממזר</text><text x=\"100\" y=\"318\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\">(זרע פסול)</text><text x=\"336\" y=\"357\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\">יש לה זרע: אינה אוכלת</text><text x=\"450\" y=\"422\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">קידושין ד. · \"אין\" ביו\"ד נקרא \"עיין\": בודקים את זרעה</text></svg>"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "קידושיה ומעשה ידיה: למה כל אחד צריך פסוק משלו",
+      "amud": "ד.",
+      "text": {
+        "from": "4a.9",
+        "to": "4a.10"
+      },
+      "gist": "אף אחת מזכויות האב אינה נלמדת מחברתה: בכסף הקידושין היא לא טרחה, אבל הוא בא מבחוץ; במעשה ידיה היא טרחה, אבל הם כנגד מזונותיה.",
+      "bullets": [
+        {
+          "text": "צריך את שניהם: פסוק שנותן לאב את קידושיה (\"אין כסף\"), ופסוק שנותן לו את מעשה ידיה.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "אילו נאמר רק שקידושיה לאביה, היינו אומרים שהם שלו משום שלא טרחה בהם, אבל מעשה ידיה, שטרחה בהם, שלה.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "אילו נאמר רק שמעשה ידיה לאביה, היינו אומרים שהם שלו משום שהיא ניזונת ממנו, אבל קידושיה, \"דמעלמא קאתי לה\", שלה.",
+          "detail": 2,
+          "source": "gemara"
+        },
+        {
+          "text": "יחד הם מתארים הסדר הדדי: הוא זן אותה, היא עובדת, ואפילו רווח בלתי צפוי כמו קידושי כסף מגיע לו. ודווקא משום שהוא בלתי צפוי, הוא צריך פסוק משלו.",
+          "detail": 3,
+          "source": "shiur"
+        }
+      ],
+      "returns_to": [
+        {
+          "id": "s2",
+          "note": "חוזר לפסוק מעשה ידיה של רב הונא, ומעמיד אותו כעת לצד פסוק הקידושין"
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "s10",
+      "title": "בגרות ונערות: למה הפסוק מוציא את האמה העבריה פעמיים",
+      "amud": "ד.–ד:",
+      "text": {
+        "from": "4a.11",
+        "to": "4b.2"
+      },
+      "gist": "חזרה לברייתא: למה להזכיר יציאה בבגרות, אם האמה כבר יוצאת בנערות? שלוש תשובות: לרבה – \"בא זה ולימד על זה\"; לאביי – איילונית יוצאת בבגרות; ולמר בר רב אשי – עצם המכירה של איילונית.",
+      "bullets": [],
+      "chart": {
+        "caption": "שלושה הסברים ליציאה בבגרות שבפסוק",
+        "columns": [
+          "",
+          "לשם מה נאמרה הבגרות",
+          "החולשה"
+        ],
+        "rows": [
+          [
+            "רבה",
+            "בא זה ולימד על זה: לשון אחת לבדה הייתה מתפרשת כבגרות, כמו בתושב ושכיר",
+            "אביי: תושב ושכיר הם שני אנשים; האמה העבריה היא אדם אחד, שכבר יצאה בנערות"
+          ],
+          [
+            "אביי",
+            "איילונית, שעוברת מקטנות ישר לבגרות בגיל עשרים, יוצאת גם היא",
+            "מר בר רב אשי: זה נלמד בקל וחומר מרשות האב"
+          ],
+          [
+            "מר בר רב אשי",
+            "אפשר בכלל למכור איילונית כאמה עבריה",
+            "והרי לפעמים הכתוב טורח וכותב קל וחומר? רק כשאין הסבר טוב יותר לפסוק"
+          ]
+        ]
+      },
+      "returns_to": [
+        {
+          "id": "s7",
+          "note": "חוזר לברייתא על \"ויצאה חנם\" (בגרות) ו\"אין כסף\" (נערות)"
+        }
+      ],
+      "children": [
+        {
+          "id": "s11",
+          "title": "רבה: בא זה ולימד על זה, כמו תושב ושכיר",
+          "amud": "ד.",
+          "text": {
+            "from": "4a.11",
+            "to": "4a.15"
+          },
+          "gist": "לשון אחת לבדה הייתה מתפרשת כחידוש הקטן, ולכן הלשון השנייה נדרשת כדי לקבוע את פירוש הראשונה, כמו ש\"שכיר\" קובע את פירוש \"תושב\" לעניין תרומה.",
+          "bullets": [
+            {
+              "text": "שאלה: \"ולכתוב רחמנא נערות, ולא בעי בגרות!\" אם היא יוצאת כשהיא נערה, למה להזכיר בגרות?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "רבה: \"בא זה ולימד על זה\". אילו נאמרה לשון אחת, היינו מפרשים אותה כבגרות, החידוש הקטן; שתי הלשונות יחד מרחיבות את היציאה גם לנערות.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "המקבילה (ויקרא כב, י): תושב כהן ושכיר אינם אוכלים בתרומה. \"תושב – זה קנוי קנין עולם\": עבד עברי שנרצע ומשמש עד היובל. \"שכיר – זה קנוי קנין שנים\": עבד שנקנה לשש שנים.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "למה לא לכתוב רק \"תושב\" וללמוד את קנוי קנין שנים בקל וחומר? משום ש\"תושב\" לבדו היה מתפרש כקנוי קנין שנים, וקנוי קנין עולם היה אוכל. \"בא 'שכיר' ולימד על 'תושב'\".",
+              "detail": 2,
+              "source": "gemara"
+            }
+          ],
+          "illustration": {
+            "caption": "הברייתא שרבה מביא: תושב כהן (עבד עברי נרצע, קנוי קנין עולם) ושכירו (עבד לשש שנים) אינם אוכלים בתרומה. הלשון השנייה נדרשת כדי ש\"תושב\" לא יתפרש כעבד לשש שנים (קידושין ד.).",
+            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>כהן ובידו סל תרומה עומד בין שני עבדים עבריים, התושב הנרצע והשכיר לשש שנים; שניהם אינם אוכלים.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"110\" y=\"130\" width=\"80\" height=\"160\" style=\"color:#6F5E4C\"/><circle cx=\"133\" cy=\"172\" r=\"3\" fill=\"#5B4636\"/><use href=\"#sage\" x=\"410\" y=\"120\" width=\"80\" height=\"140\" style=\"color:#EDE7DA;--beard:#6A5646;--wrap:#FFFFFF\"/><ellipse cx=\"430\" cy=\"270\" rx=\"16\" ry=\"7\" fill=\"#D9A45A\"/><ellipse cx=\"468\" cy=\"270\" rx=\"16\" ry=\"7\" fill=\"#D9A45A\"/><rect x=\"405\" y=\"272\" width=\"90\" height=\"28\" rx=\"6\" fill=\"#C9A96E\"/><use href=\"#man\" x=\"710\" y=\"130\" width=\"80\" height=\"160\" style=\"color:#4E7A8C\"/><use href=\"#mark-no\" x=\"110\" y=\"352\" width=\"34\" height=\"34\"/><use href=\"#mark-no\" x=\"710\" y=\"352\" width=\"34\" height=\"34\"/></g><text x=\"450\" y=\"40\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">עבדיו העבריים של הכהן אינם אוכלים בתרומה</text><text x=\"450\" y=\"66\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#4A3A2E\">תושב כהן ושכיר לא יאכל קדש</text><text x=\"750\" y=\"318\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17.3\" font-weight=\"600\" fill=\"#1A1F2E\">תושב</text><text x=\"750\" y=\"338\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">נרצע, משמש עד היובל</text><text x=\"450\" y=\"112\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">כהן</text><text x=\"450\" y=\"322\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">תרומה</text><text x=\"150\" y=\"318\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"17.3\" font-weight=\"600\" fill=\"#1A1F2E\">שכיר</text><text x=\"150\" y=\"338\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">עבד לשש שנים</text><text x=\"748\" y=\"374\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\">אינו אוכל</text><text x=\"148\" y=\"374\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\">אינו אוכל</text><text x=\"450\" y=\"420\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">\"תושב\" לבדו היה מתפרש כקנוי קנין שנים, וקנוי קנין עולם היה אוכל</text></svg>"
+          },
+          "children": []
+        },
+        {
+          "id": "s12",
+          "title": "אביי: גוף אחד ולא שניים, ולכן הפסוק עוסק באיילונית",
+          "amud": "ד.",
+          "text": {
+            "from": "4a.16",
+            "to": "4a.19"
+          },
+          "gist": "ההשוואה לתושב ושכיר אינה עומדת, משום שהאמה העבריה היא אדם אחד; לכן אביי מעמיד את לשון הבגרות באיילונית, שלעולם אינה נעשית נערה.",
+          "bullets": [
+            {
+              "text": "אביי לרבה: \"התם תרי גופי נינהו\" – תושב ושכיר הם שני אנשים. גם אם אחד מהם נלמד בקל וחומר, לפעמים הכתוב טורח וכותב גם אותו.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "כאן \"חד גופא היא\" – אישה אחת: \"כי נפקא לה בנערות, בגרות מאי בעיא גביה?\" אם כבר יצאה בנערות, מה היא עושה ברשותו בבגרות?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אביי: לשון הבגרות נצרכת לאיילונית. אין לה סימני נערות, ולכן לעולם אינה נעשית נערה; היא נשארת קטנה עד גיל עשרים ואז נעשית בוגרת בבת אחת.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "בלי הפסוק היינו אומרים שהאמה יוצאת רק כשהיא נכנסת לנערות, ואיילונית לא הייתה יוצאת לעולם. הפסוק מלמד שהיא יוצאת כשהיא מגיעה ישר לבגרות.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "בת תשע עשרה בלי סימנים נחשבת קטנה, משום שהגדלות נקבעת בסימנים ולא בגיל בלבד. תוספות שואלים: איך אפשר לדעת בשעת המכירה שהיא איילונית?",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "הסדר האמה העבריה מכוון לנישואין: האדון או בנו אמורים לייעד אותה, ואם לא – היא יוצאת לחירות. עבודתה של ילדה צעירה הייתה שווה מעט.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "illustration": {
+            "caption": "מתי האמה העבריה יוצאת לחירות, בשרטוט סכמטי: בת רגילה יוצאת כשהיא נעשית נערה, ואילו איילונית נשארת קטנה עד גיל עשרים ויוצאת כשהיא נעשית בוגרת. אביי ומר בר רב אשי חלוקים במה שהפסוק מוסיף (קידושין ד.–ד:).",
+            "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני צירי זמן. בת רגילה עוברת מקטנה לנערה ולבוגרת, ויוצאת לחירות כשהיא נעשית נערה. איילונית נשארת קטנה עד גיל עשרים ויוצאת כשהיא נעשית בוגרת.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"180\" y=\"110\" width=\"280\" height=\"40\" fill=\"#4B5E8C\"/><rect x=\"460\" y=\"110\" width=\"140\" height=\"40\" fill=\"#9A6212\"/><rect x=\"600\" y=\"110\" width=\"280\" height=\"40\" fill=\"#6B6F3A\"/><path d=\"M460 101 V156\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><rect x=\"180\" y=\"260\" width=\"560\" height=\"40\" fill=\"#4B5E8C\"/><rect x=\"740\" y=\"260\" width=\"140\" height=\"40\" fill=\"#6B6F3A\"/><path d=\"M740 251 V306\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><rect x=\"20\" y=\"348\" width=\"860\" height=\"78\" rx=\"12\" fill=\"#E3EAF3\"/></g><text x=\"450\" y=\"38\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">מתי האמה העבריה יוצאת לחירות</text><text x=\"880\" y=\"136\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">בת רגילה</text><text x=\"650\" y=\"96\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">נמכרת כשהיא קטנה</text><text x=\"440\" y=\"96\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1B3A8A\">יוצאת: \"אין כסף\"</text><text x=\"580\" y=\"136\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\">קטנה</text><text x=\"370\" y=\"136\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\">נערה</text><text x=\"160\" y=\"136\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\">בוגרת</text><text x=\"440\" y=\"174\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">גיל 12, עם סימנים</text><text x=\"300\" y=\"174\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">12½</text><text x=\"880\" y=\"286\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">איילונית</text><text x=\"650\" y=\"246\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">נמכרת כשהיא קטנה?</text><text x=\"160\" y=\"246\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1B3A8A\">יוצאת: \"ויצאה חנם\"</text><text x=\"440\" y=\"286\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\">קטנה (בלי סימנים)</text><text x=\"90\" y=\"286\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#FFFFFF\">בוגרת</text><text x=\"160\" y=\"324\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">גיל 20</text><text x=\"860\" y=\"378\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\">אביי: הפסוק נצרך כדי שאיילונית, שאין לה ימי נערות, תצא בכל זאת בבגרות.</text><text x=\"860\" y=\"406\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\">מר בר רב אשי: זה נלמד בקל וחומר; הפסוק מלמד שאפשר בכלל למכור איילונית.</text><text x=\"450\" y=\"448\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\">קידושין ד.–ד: · השלבים משורטטים באופן סכמטי, לא בקנה מידה</text></svg>"
+          },
+          "children": []
+        },
+        {
+          "id": "s13",
+          "title": "מר בר רב אשי: קל וחומר, ולכן הפסוק מלמד שאפשר למכור איילונית",
+          "amud": "ד.–ד:",
+          "text": {
+            "from": "4a.20",
+            "to": "4b.2"
+          },
+          "gist": "יציאת האיילונית בבגרות נלמדת בקל וחומר, ולכן הפסוק מלמד שאפשר בכלל למכור אותה. הכתוב טורח וכותב קל וחומר רק כשאין הסבר טוב יותר.",
+          "bullets": [
+            {
+              "text": "מר בר רב אשי מקשה: \"ולאו קל וחומר הוא?\" סימנים אינם מוציאים מרשות האב, ובכל זאת מוציאים מרשות האדון. בגרות, שמוציאה מרשות האב, אינו דין שתוציא מרשות האדון?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אלא אמר מר בר רב אשי: הפסוק נצרך \"לעיקר זבינא דאיילונית\" – לעצם מכירתה. היינו חושבים שרק בת שעתידה להביא סימני נערות אפשר למכור, משום שהיציאה בנערות שבפסוק אינה שייכת באיילונית.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "לכן \"ויצאה חנם אין כסף\" מלמד שגם איילונית אפשר למכור כאמה עבריה, והיא יוצאת בבגרות.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "שאלה: הרי אמרנו שלפעמים הכתוב טורח וכותב קל וחומר? תשובה: \"הני מילי היכא דליכא לשנויי\" – רק כשאין דרך אחרת להסביר את הפסוק. במקום שיש הסבר טוב יותר, מסבירים כך.",
+              "detail": 3,
+              "source": "gemara"
+            }
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "title": "\"כי יקח\": מקור שני, קל וחומר פרוך, ולמה צריך את שני הפסוקים",
+      "amud": "ד:",
+      "text": {
+        "from": "4b.3",
+        "to": "4b.9"
+      },
+      "gist": "ברייתא לומדת קידושי כסף מ\"כי יקח איש\". רב אשי מראה מדוע הקל וחומר מאמה העבריה אינו עומד, והגמרא מסבירה למה צריך גם \"כי יקח\" וגם \"אין כסף\".",
+      "bullets": [],
+      "continues": "ממשיך בהמשך עמוד ד:: הברייתא לומדת קנין ביאה מ\"ובעלה\", בודקת אותו מול יבמה ומול אמה עבריה, ורב אשי שוב מוצא פירכה בקל וחומר; קנין שטר בא בדף ה.",
+      "children": [
+        {
+          "id": "s15",
+          "title": "אין קיחה אלא בכסף: שדה עפרון",
+          "amud": "ד:",
+          "text": {
+            "from": "4b.3",
+            "to": "4b.3"
+          },
+          "gist": "\"קיחה\" בדברים כד, א פירושה בכסף, כמו בקניית שדה עפרון בידי אברהם.",
+          "bullets": [
+            {
+              "text": "ברייתא: \"כִּי יִקַּח אִישׁ אִשָּׁה וּבְעָלָהּ\" (דברים כד, א) – \"אין קיחה אלא בכסף, וכן הוא אומר: 'נָתַתִּי כֶּסֶף הַשָּׂדֶה קַח מִמֶּנִּי'\" (בראשית כג, יג).",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "תוספות: לפי הפשט, הלקיחה בפסוק זה היא ביאה, והפסוק עוסק בנישואין. ובכל זאת הגמרא דורשת אותו לקידושי כסף.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "בסיפור עפרון, מה שנלקח הוא הכסף ולא השדה. אם כך גם בקידושין, ה\"לקיחה\" עשויה להיות שלה – וזה נוגד את ההבנה של קידושין כקניין של נכס.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "children": []
+        },
+        {
+          "id": "s16",
+          "title": "קל וחומר מאמה העבריה: יבמה, שטר ויציאה בכסף",
+          "amud": "ד:",
+          "text": {
+            "from": "4b.4",
+            "to": "4b.7"
+          },
+          "gist": "הקל וחומר עומד מול הפירכה מיבמה, אבל נופל בפירכה של רב אשי: אמה עבריה יוצאת בכסף, ואשה אינה יוצאת בכסף – ולכן נצרך פסוק.",
+          "bullets": [
+            {
+              "text": "למה צריך פסוק? \"והלא דין הוא\": אמה העבריה, שאינה נקנית בביאה, נקנית בכסף; זו, שנקנית בביאה, אינו דין שתיקנה בכסף?",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "פירכה: \"יבמה תוכיח\" – היא נקנית בביאה, ואינה נקנית בכסף.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "הגמרא דוחה את הפירכה: \"מה ליבמה, שכן אין נקנית בשטר\", ואילו אשה מתקדשת בשטר – ולכן גם כסף מועיל בה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אם כן, למה הפסוק? רב אשי: \"מעיקרא דדינא פירכא\". אמה העבריה יוצאת בכסף, ולכן היא נקנית בכסף; אשה אינה יוצאת (מתגרשת) בכסף. לכן נצרך הפסוק \"כי יקח איש\".",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "חוסר הסימטריה הזה מראה שקידושין אינם מכירה כמו מכירת האמה: אילו היו, הכסף היה גם קונה וגם מוציא. הפסוק קובע מנגנון משלו.",
+              "detail": 2,
+              "source": "shiur"
+            }
+          ],
+          "chart": {
+            "caption": "דרכי הקניין שמאחורי הקל וחומר",
+            "columns": [
+              "",
+              "נקנית בכסף?",
+              "נקנית בביאה?",
+              "נקודה נוספת"
+            ],
+            "rows": [
+              [
+                "אמה עבריה",
+                "כן",
+                "לא",
+                "יוצאת בכסף (רב אשי)"
+              ],
+              [
+                "יבמה",
+                "לא",
+                "כן",
+                "אינה נקנית גם בשטר"
+              ],
+              [
+                "אשה בקידושין",
+                "זו השאלה",
+                "כן",
+                "נקנית בשטר; אינה יוצאת בכסף"
+              ]
+            ]
+          },
+          "children": []
+        },
+        {
+          "id": "s17",
+          "title": "\"אין כסף\" ו\"כי יקח\": מי זוכה בכסף ומי נותן אותו",
+          "amud": "ד:",
+          "text": {
+            "from": "4b.8",
+            "to": "4b.9"
+          },
+          "gist": "\"כי יקח\" לבדו היה נותן את הכסף לאשה; \"אין כסף\" לבדו אינו אומר מי נותן למי. יחד: האיש נותן, ואביה זוכה בכסף עד שתבגור.",
+          "bullets": [
+            {
+              "text": "צריך את שני הפסוקים. אילו נכתב רק \"כי יקח\", היינו אומרים: \"קידושין דיהב לה בעל – דידה הוו\". \"ויצאה חנם\" מלמד שכל עוד אינה בוגרת, הם של אביה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "אילו נכתב רק \"ויצאה חנם\", שאינו אומר מי נותן למי, היינו אומרים שאם היא נתנה לו כסף וקידשה אותו – הקידושין חלים. לכן כתבה התורה \"כי יקח\" ולא \"כי תקח\": רק האיש מקדש את האשה.",
+              "detail": 2,
+              "source": "gemara"
+            },
+            {
+              "text": "\"כי יקח\" לבדו מרמז על עסקה בין שני צדדים, כמו אברהם ועפרון, בלי אב באמצע. לכן הוא היה משאיר את הכסף אצלה.",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "תוספות על פירוש רש\"י (היא נותנת את הכסף ואומרת \"קדשני\"): הלשון \"הרי את מקודשת לי\" אינה שייכת כאן, שהרי הקידושין אינם משנים את מעמדו של האיש. היא הייתה צריכה לומר \"הרי אני מקודשת לך\".",
+              "detail": 3,
+              "source": "shiur"
+            },
+            {
+              "text": "תוספות מוסיפים: מכיוון שהאב הוא שמקבל את הכסף, המקרה חייב להיות שהוא נותן את הכסף והיא אומרת את הדיבור. אבל פירוש רש\"י, שהיא מוסרת את הכסף, הוא הפשט.",
+              "detail": 3,
+              "source": "shiur"
+            }
+          ],
+          "illustration": {
+            "caption": "\"קיחה\" פירושה כסף, משדה עפרון שקנה אברהם. \"כי יקח\" קובע גם את הכיוון: איש שנותן כסף מקדש, ואשה שנותנת לו כסף – אינה מקודשת (קידושין ד:).",
+            "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: אברהם נותן כסף לעפרון תמורת השדה. משמאל: איש שנותן כסף לאשה – קידושין; אשה שנותנת כסף לאיש – אינם קידושין.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"400\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#sage\" x=\"80\" y=\"140\" width=\"80\" height=\"140\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#man\" x=\"280\" y=\"150\" width=\"70\" height=\"140\" style=\"color:#8C5A3C\"/><circle cx=\"215\" cy=\"205\" r=\"16\" fill=\"#E9D9A6\" stroke=\"#B9983E\" stroke-width=\"2\"/><path d=\"M168 238 H258\" stroke=\"#9A6212\" stroke-width=\"3\"/><path d=\"M268 238 l-10 -6 v12 z\" fill=\"#9A6212\"/><rect x=\"35\" y=\"292\" width=\"385\" height=\"26\" fill=\"#C9D5B8\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"400\" rx=\"14\" fill=\"#E3EAF3\"/><use href=\"#man\" x=\"490\" y=\"95\" width=\"55\" height=\"110\" style=\"color:#3E6FA8\"/><circle cx=\"590\" cy=\"140\" r=\"13\" fill=\"#E9D9A6\" stroke=\"#B9983E\" stroke-width=\"2\"/><path d=\"M565 168 H614\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><path d=\"M622 168 l-9 -5 v10 z\" fill=\"#1B3A8A\"/><use href=\"#woman\" x=\"630\" y=\"95\" width=\"55\" height=\"110\" style=\"color:#8C4A60\"/><use href=\"#mark-ok\" x=\"715\" y=\"122\" width=\"36\" height=\"36\"/><path d=\"M480 228 H865\" stroke=\"#C9D5E3\" stroke-width=\"2\"/><use href=\"#woman\" x=\"490\" y=\"245\" width=\"55\" height=\"110\" style=\"color:#8C4A60\"/><circle cx=\"590\" cy=\"290\" r=\"13\" fill=\"#E9D9A6\" stroke=\"#B9983E\" stroke-width=\"2\"/><path d=\"M565 318 H614\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><path d=\"M622 318 l-9 -5 v10 z\" fill=\"#1B3A8A\"/><use href=\"#man\" x=\"630\" y=\"245\" width=\"55\" height=\"110\" style=\"color:#3E6FA8\"/><use href=\"#mark-no\" x=\"715\" y=\"272\" width=\"36\" height=\"36\"/></g><text x=\"673\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">\"קח ממני\"</text><text x=\"673\" y=\"72\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">בראשית כג, יג · אין קיחה אלא בכסף</text><text x=\"780\" y=\"345\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">אברהם</text><text x=\"585\" y=\"345\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">עפרון</text><text x=\"673\" y=\"385\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" fill=\"#7A4A2A\">נתתי כסף השדה קח ממני</text><text x=\"228\" y=\"48\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">\"כי יקח\": האיש לוקח</text><text x=\"228\" y=\"72\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\">דברים כד, א · מי נותן למי</text><text x=\"138\" y=\"138\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\">הוא נותן:</text><text x=\"138\" y=\"158\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\">מקודשת</text><text x=\"138\" y=\"288\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\">היא נותנת:</text><text x=\"138\" y=\"308\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\">אינה מקודשת</text><text x=\"228\" y=\"390\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\">\"כי יקח\" ולא \"כי תקח\"</text><text x=\"450\" y=\"445\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\">קידושין ד: · \"אין כסף\" נותן לאב את קידושי הנערה; \"כי יקח\" קובע שהאיש הוא הלוקח</text></svg>"
+          },
+          "children": []
+        }
+      ]
+    }
+  ],
+  "key_terms": [
+    {
+      "term": "קידושי כסף",
+      "hebrew": "",
+      "sense": "קידושין בכסף",
+      "definition": "קידושין שנעשים כשהאיש נותן לאשה (או למי שרשאי לקבל בשבילה) כסף או חפץ ששווה פרוטה לפחות, לשם קידושין.",
+      "on_this_daf": "הגמרא מחפשת מקור לכך שכסף הקידושין של נערה שייך לאביה (\"אין כסף\"), ואחר כך מקור שני לעצם קידושי הכסף (\"כי יקח\").",
+      "aliases": [
+        "בקידושי כסף",
+        "לקידושי כסף"
+      ],
+      "sections": [
+        "s1",
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s9",
+        "s14",
+        "s15",
+        "s16",
+        "s17"
+      ]
+    },
+    {
+      "term": "נערה",
+      "hebrew": "",
+      "sense": "בת בין סימני הנערות לבגרות",
+      "definition": "בת מגיל שתים עשרה שהביאה סימנים, עד שישה חודשים אחר כך, כשהיא נעשית בוגרת. היא עדיין ברשות אביה לעניין קידושין ונדרים.",
+      "on_this_daf": "השאלה היא מדוע נערה, שיש לה מעמד משפטי מסוים, אינה זוכה בכסף קידושיה; ואמה עבריה יוצאת לחירות כשהיא נעשית נערה.",
+      "aliases": [
+        "הנערה",
+        "בנערה",
+        "נערה המאורסה"
+      ],
+      "sections": [
+        "s1",
+        "s2",
+        "s4",
+        "s5",
+        "s7",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s17"
+      ]
+    },
+    {
+      "term": "אמה עבריה",
+      "hebrew": "",
+      "sense": "בת ישראל שנמכרה לשפחה",
+      "definition": "בת ישראל שאביה מכר אותה כשהיא קטנה. היא יוצאת לחירות כשהיא נעשית נערה או כשמתקיים תנאי יציאה אחר, וההסדר כולו מכוון לכך שהאדון או בנו ייעדו אותה לאשה.",
+      "on_this_daf": "יציאתה \"אין כסף\" נדרשת כמקור לזכות האב בכסף הקידושין, וקנייתה בכסף עומדת ביסוד קל וחומר שרב אשי פורך, משום שהיא גם יוצאת בכסף.",
+      "aliases": [
+        "האמה העבריה",
+        "אמה העבריה",
+        "לאמה העבריה",
+        "מאמה העבריה",
+        "באמה העבריה",
+        "כאמה עבריה",
+        "לאמה עבריה"
+      ],
+      "sections": [
+        "s2",
+        "s4",
+        "s7",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s16"
+      ]
+    },
+    {
+      "term": "מעשה ידיה",
+      "hebrew": "",
+      "sense": "רווחי עבודתה של הבת, השייכים לאביה",
+      "definition": "רווחי עבודתה של אשה. כשהיא קטנה או נערה הם של אביה, ואחרי הנישואין – של בעלה.",
+      "on_this_daf": "רב הונא לומד את זכות האב מפסוק האמה, והגמרא מראה שזכות זו והזכות בכסף הקידושין אינן נלמדות זו מזו.",
+      "aliases": [
+        "ומעשה ידיה",
+        "ממעשה ידיה",
+        "מעשה ידי הבת"
+      ],
+      "sections": [
+        "s2",
+        "s9"
+      ]
+    },
+    {
+      "term": "הפרת נדרים",
+      "hebrew": "",
+      "sense": "ביטול נדרי האשה בידי אביה או בעלה",
+      "definition": "כוחו של אב על בתו הקטנה או הנערה, ושל בעל על אשתו, להפר את נדריה ביום שמעו.",
+      "on_this_daf": "הפסוק \"בנעוריה בית אביה\" מוגבל להפרת נדרים; אחרי האירוסין האב והבעל מפירים יחד, וזה נחשב כיציאה חלקית מרשות האב.",
+      "aliases": [
+        "בהפרת נדרים",
+        "להפרת נדרים"
+      ],
+      "sections": [
+        "s2",
+        "s5"
+      ]
+    },
+    {
+      "term": "איילונית",
+      "hebrew": "",
+      "sense": "אשה שאינה מביאה סימני נערות",
+      "definition": "אשה שאינה מפתחת סימני גדלות ואינה יכולה ללדת. היא לעולם אינה עוברת בשלב הנערות, ונחשבת בוגרת מגיל עשרים.",
+      "on_this_daf": "לאביי, היציאה בבגרות שבפסוק נאמרה באיילונית; למר בר רב אשי, הפסוק מלמד שאפשר בכלל למכור אותה כאמה.",
+      "aliases": [
+        "באיילונית",
+        "לאיילונית",
+        "דאיילונית",
+        "האיילונית"
+      ],
+      "sections": [
+        "s10",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "term": "קל וחומר",
+      "hebrew": "",
+      "sense": "לימוד מן הקל אל החמור",
+      "definition": "טיעון מקל לחמור (או להפך): אם דין חל במקום שבו פחות מצפים לו, ודאי שהוא חל במקום שבו מצפים לו יותר. אפשר לפרוך אותו כשמוצאים במקור תכונה שאין בנלמד.",
+      "on_this_daf": "מר בר רב אשי משתמש בקל וחומר כדי להראות שפסוק מיותר, והקל וחומר מאמה העבריה לקידושי כסף נבדק מול יבמה ונפרך בידי רב אשי.",
+      "aliases": [
+        "בקל וחומר",
+        "מקל וחומר",
+        "הקל וחומר"
+      ],
+      "sections": [
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s16"
+      ]
+    }
+  ]
+}

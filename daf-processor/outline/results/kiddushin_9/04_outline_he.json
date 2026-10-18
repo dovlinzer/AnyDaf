@@ -1,837 +1,838 @@
 {
-  "daf": "קידושין ט",
-  "lang": "he",
-  "scope": {
-    "start": "ח: – \"תנהו לעני\" (אחרי מקרי הכלב בדף ח:)",
-    "end": "ט: – רבי יוחנן לומד מ\"ובעלה\" שהאמה העבריה אינה נקנית בביאה (הדיון ממשיך בדף ט:)"
+ "daf": "קידושין ט",
+ "lang": "he",
+ "scope": {
+  "start": "ח: – \"תנהו לעני\" (אחרי מקרי הכלב בדף ח:)",
+  "end": "ט: – רבי יוחנן לומד מ\"ובעלה\" שהאמה העבריה אינה נקנית בביאה (הדיון ממשיך בדף ט:)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "הפניית המתנה או דחייתה: \"תנהו לעני\", \"הבה מיהבה\", מילה אחת",
+   "amud": "ח:–ט.",
+   "text": {
+    "from": "8b.14",
+    "to": "9a.4"
+   },
+   "gist": "אחרי מקרי הכלב, שלושה סוגי תשובה שאינם קבלת קידושין: שליחת הככר לעני, מילה כפולה כמו \"הבה מיהבה\", ומילה אחת בלבד, שבה נחלקו.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "\"תנהו לעני\": חובת צדקה משותפת, לא הסכמה",
+     "amud": "ח:",
+     "text": {
+      "from": "8b.14",
+      "to": "8b.14"
+     },
+     "gist": "היא אינה מקודשת גם כשהעני סמוך עליה, שהרי חובת הצדקה שלו שווה לשלה.",
+     "bullets": [
+      {
+       "text": "הוא אומר: \"התקדשי לי בככר\", והיא עונה: \"תנהו לעני\". היא אינה מקודשת, אפילו אם העני סמוך עליה דרך קבע לפרנסתו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "הטעם: היא יכולה לומר לו \"כי היכי דמחייבנא ביה אנא, הכי מחייבת ביה את\", כלומר כשם שאני חייבת לפרנס אותו, כך גם אתה חייב. בנתינה הוא פורע את חובתו שלו, ואין לה ממנה שום הנאה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "בהלכה יש קדימות מסוימת לעני שסמוך דרך קבע על נותן מסוים, כמעט חובה. ובכל זאת גם הקשר הזה אינו הופך את ההפניה שלה לקבלת קידושין.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "תשובות כפולות: \"הבה מיהבה\", \"אשקויי אשקיין\", \"שדי מישדא\"",
+     "amud": "ח:–ט.",
+     "text": {
+      "from": "8b.15",
+      "to": "9a.3"
+     },
+     "gist": "שלושה מעשים שבהם האישה מבקשת ראשונה ועונה להצעתו במילה כפולה. בכל אחד מהם היא אינה מקודשת.",
+     "bullets": [
+      {
+       "text": "אדם מכר חרוזי זכוכית. באה אישה וביקשה ממנו מחרוזת אחת. הוא שאל: \"אם אתן לך, תתקדשי לי?\" והיא ענתה: \"הבה מיהבה\". רב חמא: כל \"הבה מיהבה\" לאו כלום הוא.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אדם שתה יין בחנות. באה אישה וביקשה כוס אחת, והוא הציע לה אותה הצעה. היא אמרה: \"אשקויי אשקיין\", כלומר השקה, השקה אותי. רב חמא: גם זה לאו כלום הוא.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אדם הפיל תמרים מן הדקל. באה אישה ואמרה: \"שדי לי תרתי\", כלומר זרוק לי שניים. הוא הציע לה את ההצעה, והיא אמרה: \"שדי מישדא\". רב זביד: כל \"שדי מישדא\" לאו כלום הוא.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "הכפילות מראה שהיא דוחה אותו ומתעקשת לקבל את החפץ, ואינה מסכימה לתנאי שלו.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "מדוע שני תמרים ולא אחד? אולי משום שתמר אחד אינו שווה פרוטה.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "שלושת המעשים שבדף ט. לפי סדר הגמרא. כל אחד מהם מסתיים במילה כפולה ובפסק שהיא אינה מקודשת. למטה מופיעה השאלה על מילה אחת בלבד (ט.).",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>שלוש תמונות: אדם מוכר חרוזי זכוכית, אדם שותה יין בחנות ואדם מפיל תמרים מן הדקל. בכל אחת אישה מבקשת את הדבר, הוא שואל אם תתקדש לו בו, והיא עונה במילה כפולה ואינה מקודשת. למטה, המחלוקת על מילה אחת.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='14' width='275' height='330' rx='14' fill='#E3EAF3'/><use href='#man' x='35' y='70' width='55' height='110' style='color:#4B5E8C'/><use href='#woman' x='215' y='70' width='55' height='110' style='color:#8C4A60'/><rect x='100' y='150' width='105' height='10' rx='3' fill='#8B6A4E'/><rect x='108' y='160' width='6' height='22' fill='#8B6A4E'/><rect x='191' y='160' width='6' height='22' fill='#8B6A4E'/><path d='M112 140 Q152 118 192 140' fill='none' stroke='#5B6478' stroke-width='2'/><g fill='#7FB3C8' stroke='#4E7A8C'><circle cx='118' cy='136' r='5'/><circle cx='132' cy='131' r='5'/><circle cx='146' cy='129' r='5'/><circle cx='160' cy='129' r='5'/><circle cx='174' cy='131' r='5'/><circle cx='188' cy='136' r='5'/></g><rect x='312' y='14' width='275' height='330' rx='14' fill='#F3E6D8'/><use href='#man' x='332' y='70' width='55' height='110' style='color:#6B6F3A'/><use href='#woman' x='512' y='70' width='55' height='110' style='color:#6A4F7A'/><rect x='397' y='150' width='105' height='10' rx='3' fill='#8B6A4E'/><rect x='405' y='160' width='6' height='22' fill='#8B6A4E'/><rect x='488' y='160' width='6' height='22' fill='#8B6A4E'/><path d='M430 132 L448 132 L444 148 L434 148 Z' fill='#7E2A3A'/><rect x='462' y='126' width='14' height='24' rx='3' fill='#8C5A3C'/><rect x='609' y='14' width='276' height='330' rx='14' fill='#E4EFE4'/><path d='M650 182 Q646 130 656 80' stroke='#7A5A3A' stroke-width='10' fill='none'/><path d='M656 80 q-26 -4 -40 12 M656 80 q26 -6 40 8 M656 80 q-14 -18 -34 -16 M656 80 q12 -16 30 -14' stroke='#4E7A3E' stroke-width='4' fill='none' stroke-linecap='round'/><g fill='#9A5A2A'><circle cx='660' cy='92' r='4'/><circle cx='668' cy='96' r='4'/><circle cx='762' cy='112' r='5'/><circle cx='776' cy='136' r='5'/></g><use href='#man' x='676' y='70' width='55' height='110' style='color:#50706E'/><use href='#woman' x='815' y='70' width='55' height='110' style='color:#A8436E'/><rect x='15' y='356' width='870' height='70' rx='12' fill='#EFE6D2'/></g><text x='748' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#1B3A8A'>חרוזי זכוכית</text><text x='748' y='210' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>היא: \"תן לי מחרוזת אחת.\"</text><text x='748' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>הוא: \"אם אתן – תתקדשי לי?\"</text><text x='748' y='264' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17' font-weight='600' fill='#1A1F2E'>\"הבה מיהבה\" (תן, תן)</text><text x='748' y='300' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>רב חמא: \"לאו כלום הוא\"</text><text x='748' y='322' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1B3A8A'>אינה מקודשת</text><text x='451' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#9A6212'>יין בחנות</text><text x='451' y='210' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>היא: \"תן לי כוס אחת.\"</text><text x='451' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>הוא: \"אם אתן – תתקדשי לי?\"</text><text x='451' y='258' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>\"אשקויי אשקיין\"</text><text x='451' y='278' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>(השקה, השקה אותי)</text><text x='451' y='304' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>רב חמא: \"לאו כלום הוא\"</text><text x='451' y='326' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#9A6212'>אינה מקודשת</text><text x='140' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#3C5A2E'>תמרים מן הדקל</text><text x='153' y='210' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>היא: \"זרוק לי שניים.\"</text><text x='153' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>הוא: \"אם אזרוק – תתקדשי לי?\"</text><text x='153' y='264' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17' font-weight='600' fill='#1A1F2E'>\"שדי מישדא\" (זרוק, זרוק)</text><text x='153' y='300' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#3C5A2E'>רב זביד: \"לאו כלום הוא\"</text><text x='153' y='322' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#3C5A2E'>אינה מקודשת</text><text x='450' y='382' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>ואם אמרה מילה אחת בלבד: \"הב\", \"אשקי\", \"שדי\"?</text><text x='450' y='406' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>רבינא: מקודשת · רב סמא בר רקתא, \"תגא דמלכא!\": אינה מקודשת · והלכתא: אינה מקודשת</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "מילה אחת, \"הב\": רבינא ורב סמא בר רקתא",
+     "amud": "ט.",
+     "text": {
+      "from": "9a.4",
+      "to": "9a.4"
+     },
+     "gist": "אם ענתה במילה אחת, לדעת רבינא היא מקודשת, ורב סמא בר רקתא נשבע שאינה מקודשת. ההלכה כמותו.",
+     "bullets": [
+      {
+       "text": "איבעיא להו: אם אמרה רק \"הב\", \"אשקי\" או \"שדי\", בלי לכפול את המילה, מהו?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבינא: מקודשת.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רב סמא בר רקתא, בלשון שבועה \"תגא דמלכא!\": אינה מקודשת.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "והלכתא: אינה מקודשת.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבנו חננאל (מובא ברשב״א) מפרש את השבועה כך: אפילו היה נותן לה את כתר המלך, אינה מקודשת. תשובתה רק תובעת את החפץ, ואין בה שום קבלה של התנאי שלו.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "המילה הכפולה הופכת את הדחייה לברורה לגמרי. המחלוקת היא רק במילה האחת.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
   },
-  "sections": [
+  {
+   "id": "s5",
+   "title": "פסקי סיום: שיראי אינם צריכים שומא, מאה שהבטיח, משכון",
+   "amud": "ט.",
+   "text": {
+    "from": "9a.5",
+    "to": "9a.5"
+   },
+   "gist": "שלושה פסקים על המקרים הקודמים של קידושי כסף, ודברי התוספות שמהם נובע המנהג לקדש בטבעת חלקה.",
+   "bullets": [
     {
-      "id": "s1",
-      "title": "הפניית המתנה או דחייתה: \"תנהו לעני\", \"הבה מיהבה\", מילה אחת",
-      "amud": "ח:–ט.",
-      "text": {
-        "from": "8b.14",
-        "to": "9a.4"
-      },
-      "gist": "אחרי מקרי הכלב, שלושה סוגי תשובה שאינם קבלת קידושין: שליחת הככר לעני, מילה כפולה כמו \"הבה מיהבה\", ומילה אחת בלבד, שבה נחלקו.",
-      "bullets": [],
-      "children": [
-        {
-          "id": "s2",
-          "title": "\"תנהו לעני\": חובת צדקה משותפת, לא הסכמה",
-          "amud": "ח:",
-          "text": {
-            "from": "8b.14",
-            "to": "8b.14"
-          },
-          "gist": "היא אינה מקודשת גם כשהעני סמוך עליה, שהרי חובת הצדקה שלו שווה לשלה.",
-          "bullets": [
-            {
-              "text": "הוא אומר: \"התקדשי לי בככר\", והיא עונה: \"תנהו לעני\". היא אינה מקודשת, אפילו אם העני סמוך עליה דרך קבע לפרנסתו.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "הטעם: היא יכולה לומר לו \"כי היכי דמחייבנא ביה אנא, הכי מחייבת ביה את\", כלומר כשם שאני חייבת לפרנס אותו, כך גם אתה חייב. בנתינה הוא פורע את חובתו שלו, ואין לה ממנה שום הנאה.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "בהלכה יש קדימות מסוימת לעני שסמוך דרך קבע על נותן מסוים, כמעט חובה. ובכל זאת גם הקשר הזה אינו הופך את ההפניה שלה לקבלת קידושין.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s3",
-          "title": "תשובות כפולות: \"הבה מיהבה\", \"אשקויי אשקיין\", \"שדי מישדא\"",
-          "amud": "ח:–ט.",
-          "text": {
-            "from": "8b.15",
-            "to": "9a.3"
-          },
-          "gist": "שלושה מעשים שבהם האישה מבקשת ראשונה ועונה להצעתו במילה כפולה. בכל אחד מהם היא אינה מקודשת.",
-          "bullets": [
-            {
-              "text": "אדם מכר חרוזי זכוכית. באה אישה וביקשה ממנו מחרוזת אחת. הוא שאל: \"אם אתן לך, תתקדשי לי?\" והיא ענתה: \"הבה מיהבה\". רב חמא: כל \"הבה מיהבה\" לאו כלום הוא.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "אדם שתה יין בחנות. באה אישה וביקשה כוס אחת, והוא הציע לה אותה הצעה. היא אמרה: \"אשקויי אשקיין\", כלומר השקה, השקה אותי. רב חמא: גם זה לאו כלום הוא.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "אדם הפיל תמרים מן הדקל. באה אישה ואמרה: \"שדי לי תרתי\", כלומר זרוק לי שניים. הוא הציע לה את ההצעה, והיא אמרה: \"שדי מישדא\". רב זביד: כל \"שדי מישדא\" לאו כלום הוא.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "הכפילות מראה שהיא דוחה אותו ומתעקשת לקבל את החפץ, ואינה מסכימה לתנאי שלו.",
-              "detail": 2,
-              "source": "shiur"
-            },
-            {
-              "text": "מדוע שני תמרים ולא אחד? אולי משום שתמר אחד אינו שווה פרוטה.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "illustration": {
-            "caption": "שלושת המעשים שבדף ט. לפי סדר הגמרא. כל אחד מהם מסתיים במילה כפולה ובפסק שהיא אינה מקודשת. למטה מופיעה השאלה על מילה אחת בלבד (ט.).",
-            "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>שלוש תמונות: אדם מוכר חרוזי זכוכית, אדם שותה יין בחנות ואדם מפיל תמרים מן הדקל. בכל אחת אישה מבקשת את הדבר, הוא שואל אם תתקדש לו בו, והיא עונה במילה כפולה ואינה מקודשת. למטה, המחלוקת על מילה אחת.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='14' width='275' height='330' rx='14' fill='#E3EAF3'/><use href='#man' x='35' y='70' width='55' height='110' style='color:#4B5E8C'/><use href='#woman' x='215' y='70' width='55' height='110' style='color:#8C4A60'/><rect x='100' y='150' width='105' height='10' rx='3' fill='#8B6A4E'/><rect x='108' y='160' width='6' height='22' fill='#8B6A4E'/><rect x='191' y='160' width='6' height='22' fill='#8B6A4E'/><path d='M112 140 Q152 118 192 140' fill='none' stroke='#5B6478' stroke-width='2'/><g fill='#7FB3C8' stroke='#4E7A8C'><circle cx='118' cy='136' r='5'/><circle cx='132' cy='131' r='5'/><circle cx='146' cy='129' r='5'/><circle cx='160' cy='129' r='5'/><circle cx='174' cy='131' r='5'/><circle cx='188' cy='136' r='5'/></g><rect x='312' y='14' width='275' height='330' rx='14' fill='#F3E6D8'/><use href='#man' x='332' y='70' width='55' height='110' style='color:#6B6F3A'/><use href='#woman' x='512' y='70' width='55' height='110' style='color:#6A4F7A'/><rect x='397' y='150' width='105' height='10' rx='3' fill='#8B6A4E'/><rect x='405' y='160' width='6' height='22' fill='#8B6A4E'/><rect x='488' y='160' width='6' height='22' fill='#8B6A4E'/><path d='M430 132 L448 132 L444 148 L434 148 Z' fill='#7E2A3A'/><rect x='462' y='126' width='14' height='24' rx='3' fill='#8C5A3C'/><rect x='609' y='14' width='276' height='330' rx='14' fill='#E4EFE4'/><path d='M650 182 Q646 130 656 80' stroke='#7A5A3A' stroke-width='10' fill='none'/><path d='M656 80 q-26 -4 -40 12 M656 80 q26 -6 40 8 M656 80 q-14 -18 -34 -16 M656 80 q12 -16 30 -14' stroke='#4E7A3E' stroke-width='4' fill='none' stroke-linecap='round'/><g fill='#9A5A2A'><circle cx='660' cy='92' r='4'/><circle cx='668' cy='96' r='4'/><circle cx='762' cy='112' r='5'/><circle cx='776' cy='136' r='5'/></g><use href='#man' x='676' y='70' width='55' height='110' style='color:#50706E'/><use href='#woman' x='815' y='70' width='55' height='110' style='color:#A8436E'/><rect x='15' y='356' width='870' height='70' rx='12' fill='#EFE6D2'/></g><text x='748' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#1B3A8A'>חרוזי זכוכית</text><text x='748' y='210' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>היא: \"תן לי מחרוזת אחת.\"</text><text x='748' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>הוא: \"אם אתן – תתקדשי לי?\"</text><text x='748' y='264' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17' font-weight='600' fill='#1A1F2E'>\"הבה מיהבה\" (תן, תן)</text><text x='748' y='300' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>רב חמא: \"לאו כלום הוא\"</text><text x='748' y='322' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1B3A8A'>אינה מקודשת</text><text x='451' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#9A6212'>יין בחנות</text><text x='451' y='210' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>היא: \"תן לי כוס אחת.\"</text><text x='451' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>הוא: \"אם אתן – תתקדשי לי?\"</text><text x='451' y='258' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>\"אשקויי אשקיין\"</text><text x='451' y='278' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1A1F2E'>(השקה, השקה אותי)</text><text x='451' y='304' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>רב חמא: \"לאו כלום הוא\"</text><text x='451' y='326' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#9A6212'>אינה מקודשת</text><text x='140' y='44' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#3C5A2E'>תמרים מן הדקל</text><text x='153' y='210' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>היא: \"זרוק לי שניים.\"</text><text x='153' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>הוא: \"אם אזרוק – תתקדשי לי?\"</text><text x='153' y='264' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='17' font-weight='600' fill='#1A1F2E'>\"שדי מישדא\" (זרוק, זרוק)</text><text x='153' y='300' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#3C5A2E'>רב זביד: \"לאו כלום הוא\"</text><text x='153' y='322' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#3C5A2E'>אינה מקודשת</text><text x='450' y='382' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>ואם אמרה מילה אחת בלבד: \"הב\", \"אשקי\", \"שדי\"?</text><text x='450' y='406' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>רבינא: מקודשת · רב סמא בר רקתא, \"תגא דמלכא!\": אינה מקודשת · והלכתא: אינה מקודשת</text></svg>"
-          },
-          "children": []
-        },
-        {
-          "id": "s4",
-          "title": "מילה אחת, \"הב\": רבינא ורב סמא בר רקתא",
-          "amud": "ט.",
-          "text": {
-            "from": "9a.4",
-            "to": "9a.4"
-          },
-          "gist": "אם ענתה במילה אחת, לדעת רבינא היא מקודשת, ורב סמא בר רקתא נשבע שאינה מקודשת. ההלכה כמותו.",
-          "bullets": [
-            {
-              "text": "איבעיא להו: אם אמרה רק \"הב\", \"אשקי\" או \"שדי\", בלי לכפול את המילה, מהו?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רבינא: מקודשת.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רב סמא בר רקתא, בלשון שבועה \"תגא דמלכא!\": אינה מקודשת.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "והלכתא: אינה מקודשת.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רבנו חננאל (מובא ברשב״א) מפרש את השבועה כך: אפילו היה נותן לה את כתר המלך, אינה מקודשת. תשובתה רק תובעת את החפץ, ואין בה שום קבלה של התנאי שלו.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "המילה הכפולה הופכת את הדחייה לברורה לגמרי. המחלוקת היא רק במילה האחת.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "children": []
-        }
-      ]
+     "text": "בגדי משי ששווים יותר מפרוטה אינם צריכים שומא לפני שמקדשים בהם: \"שיראי לא צריכי שומא\".",
+     "detail": 2,
+     "source": "gemara"
     },
     {
-      "id": "s5",
-      "title": "פסקי סיום: שיראי אינם צריכים שומא, מאה שהבטיח, משכון",
-      "amud": "ט.",
-      "text": {
-        "from": "9a.5",
-        "to": "9a.5"
+     "text": "הלכה כרבי אלעזר: אם הבטיח לה מאה דינרים ונתן לה דינר אחד, היא מקודשת.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "הלכה כרבא אמר רב נחמן: אם הבטיח מאה ונתן לה רק משכון, אין אלה קידושין.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "הפסק על השיראי מכריע את המחלוקת הקודמת כרבה ולא כרב יוסף.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "תוספות (בשם הר״י): שוויים של שיראי ידוע, ואין טועים בו הרבה. אבנים טובות שונות מהם: אבן שנראית מרהיבה עשויה להיות כמעט חסרת ערך, וייתכן שהאישה הסכימה רק על סמך שווי שדימתה לעצמה.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "מתוספות זה נובע המנהג לקדש בטבעת חלקה ולא בטבעת משובצת באבן. בחפץ ששוויו ברור ועולה על פרוטה, שניתן בפני עדים, אין בעיה מצד עצמו.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": []
+  },
+  {
+   "id": "s6",
+   "title": "שטר קידושין: מי כותב, לשם מי, ובדעת מי",
+   "amud": "ט.–ט:",
+   "text": {
+    "from": "9a.6",
+    "to": "9b.6"
+   },
+   "gist": "קידושין בשטר: נוסח הברייתא, מדוע הבעל כותב ולא כמו במכר, הדין בקטנה ובבוגרת, שאלת הלשמה, והסכמתה לכתיבה.",
+   "bullets": [
+    {
+     "text": "כנראה קידשו בשטר רק לעיתים רחוקות, ולכן רבים מדיניו לא התפתחו ונשארו בלי הכרעה.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": [
+    {
+     "id": "s7",
+     "title": "הברייתא: \"בתך מקודשת לי\", אפילו על חרס שאין בו שווה פרוטה",
+     "amud": "ט.",
+     "text": {
+      "from": "9a.6",
+      "to": "9a.6"
+     },
+     "gist": "הבעל כותב לאב על נייר או על חרס שאין בהם שווה פרוטה, כי היא מתקדשת בכתב ולא בחומר.",
+     "bullets": [
+      {
+       "text": "\"בשטר כיצד?\" כותב לאביה על הנייר או על החרס \"בתך מקודשת לי\", \"בתך מאורסת לי\" או \"בתך לי לאינתו\", והרי זו מקודשת.",
+       "detail": 2,
+       "source": "gemara"
       },
-      "gist": "שלושה פסקים על המקרים הקודמים של קידושי כסף, ודברי התוספות שמהם נובע המנהג לקדש בטבעת חלקה.",
-      "bullets": [
-        {
-          "text": "בגדי משי ששווים יותר מפרוטה אינם צריכים שומא לפני שמקדשים בהם: \"שיראי לא צריכי שומא\".",
-          "detail": 2,
-          "source": "gemara"
-        },
-        {
-          "text": "הלכה כרבי אלעזר: אם הבטיח לה מאה דינרים ונתן לה דינר אחד, היא מקודשת.",
-          "detail": 2,
-          "source": "gemara"
-        },
-        {
-          "text": "הלכה כרבא אמר רב נחמן: אם הבטיח מאה ונתן לה רק משכון, אין אלה קידושין.",
-          "detail": 2,
-          "source": "gemara"
-        },
-        {
-          "text": "הפסק על השיראי מכריע את המחלוקת הקודמת כרבה ולא כרב יוסף.",
-          "detail": 3,
-          "source": "shiur"
-        },
-        {
-          "text": "תוספות (בשם הר״י): שוויים של שיראי ידוע, ואין טועים בו הרבה. אבנים טובות שונות מהם: אבן שנראית מרהיבה עשויה להיות כמעט חסרת ערך, וייתכן שהאישה הסכימה רק על סמך שווי שדימתה לעצמה.",
-          "detail": 2,
-          "source": "shiur"
-        },
-        {
-          "text": "מתוספות זה נובע המנהג לקדש בטבעת חלקה ולא בטבעת משובצת באבן. בחפץ ששוויו ברור ועולה על פרוטה, שניתן בפני עדים, אין בעיה מצד עצמו.",
-          "detail": 3,
-          "source": "shiur"
-        }
+      {
+       "text": "החומר אינו צריך להיות שווה פרוטה, שהרי היא אינה מתקדשת בשוויו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ברייתת הכסף דיברה אל האישה עצמה, ואילו הברייתא הזאת פונה אל אביה של בת קטנה.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "מה צריך לכתוב לכל הפחות? הרשב״א מצריך שמות ותאריך, ככל שטר. הריטב״א וראשונים רבים סוברים שדי במילים \"הרי את מקודשת לי\". ונחלקו אם צריך גם לומר את הדברים בפה.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "מדוע הבעל כותב? מכר וקידושין: פסוק או הלכה מסורה",
+     "amud": "ט.",
+     "text": {
+      "from": "9a.7",
+      "to": "9a.10"
+     },
+     "gist": "רבי זירא בר ממל מעיר שבמכר המוכר כותב ואילו כאן כותב הקונה. תשובתו של רבא מן הפסוקים נדחית, ולכן הוא קובע ששני הדינים הם הלכה מסורה. ואיבעית אימא: תפקיד המוכר מפורש בירמיהו.",
+     "bullets": [
+      {
+       "text": "רבי זירא בר ממל מקשה: השטר הזה אינו דומה לשטר מכר. שם המוכר כותב \"שדי מכורה לך\", וכאן הבעל, שהוא כמו הקונה, כותב \"בתך מקודשת לי\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבא: כל אחד נלמד מעניין הפסוק שלו. \"וּמָכַר מֵאֲחֻזָּתוֹ\" (ויקרא כה, כה): במוכר תלה רחמנא. \"כִּי יִקַּח אִישׁ אִשָּׁה\" (דברים כב, יג): בבעל תלה רחמנא.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "קושיה: הרי כתוב \"שָׂדוֹת בַּכֶּסֶף יִקְנוּ\" (ירמיהו לב, מד), והפסוק תולה בקונה. תירוץ: \"קרי ביה יַקְנוּ\", כלומר יקנו לאחרים, כדי שיתאים לפסוק שבתורה \"וּמָכַר\".",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "אבל לפי אותו היגיון יש לקרוא גם \"כִּי יַקַּח\", כלומר כשיינתן לו, כדי שיתאים ל\"אֶת בִּתִּי נָתַתִּי לָאִישׁ הַזֶּה\" (דברים כב, טז). כך נופלת הראיה מן הפסוקים.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "לכן רבא חוזר בו: אין ראיה מן הפסוקים. \"הלכתא נינהו ואסמכינהו רבנן אקראי\": אלה הלכות מסורות, וחכמים סמכו אותן על הפסוקים.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ואיבעית אימא: גם בירמיהו כתוב \"וָאֶקַּח אֶת סֵפֶר הַמִּקְנָה\" (ירמיהו לב, יא). מכאן שהקונה מקבל את השטר והמוכר כותב אותו.",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "תוספות: המכר אינו צריך הלכה מסורה, שהרי הפסוק שלו עומד בעינו. רק הדין שהבעל כותב את שטר הקידושין הוא הלכה מסורה.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "הרמב״ם מבחין בין הלכה למשה מסיני, כלומר דינים שאי אפשר ללמוד מן הכתוב כלל (כזית, ארבעים סאה), לבין פירושים מקובלים שאפשר בעיקרון לחזור ולמצוא בכתוב. ראשונים רבים רואים בכל ראיה מדברי הנביאים אסמכתא בלבד.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "קושיית רבי זירא בר ממל (ט.): במכר המוכר כותב את השטר ומוסר אותו לקונה, ואילו בקידושין הבעל, שהוא הקונה, כותב את השטר ומוסר אותו לאב.",
+      "svg": "<svg viewBox='0 0 900 430' xmlns='http://www.w3.org/2000/svg' role='img'><title>שתי תמונות. מימין: המוכר כותב \"שדי מכורה לך\" ומוסר את השטר לקונה. משמאל: הבעל כותב \"בתך מקודשת לי\" ומוסר את השטר לאב.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='430' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='322' rx='14' fill='#E3EAF3'/><use href='#man' x='35' y='90' width='60' height='120' style='color:#4B5E8C'/><rect x='160' y='120' width='135' height='70' fill='#FFFFFF' stroke='#BFAE8E' stroke-width='2'/><path d='M100 155 L150 155' stroke='#1B3A8A' stroke-width='3'/><path d='M154 155 l-10 -6 v12 z' fill='#1B3A8A'/><path d='M300 155 L350 155' stroke='#1B3A8A' stroke-width='3'/><path d='M354 155 l-10 -6 v12 z' fill='#1B3A8A'/><use href='#man' x='360' y='90' width='60' height='120' style='color:#6B6F3A'/><rect x='460' y='14' width='425' height='322' rx='14' fill='#F3E6D8'/><use href='#man' x='480' y='90' width='60' height='120' style='color:#50706E'/><rect x='605' y='120' width='135' height='70' fill='#FFFFFF' stroke='#BFAE8E' stroke-width='2'/><path d='M545 155 L595 155' stroke='#9A6212' stroke-width='3'/><path d='M599 155 l-10 -6 v12 z' fill='#9A6212'/><path d='M745 155 L795 155' stroke='#9A6212' stroke-width='3'/><path d='M799 155 l-10 -6 v12 z' fill='#9A6212'/><use href='#man' x='805' y='90' width='60' height='120' style='color:#8C5A3C'/><rect x='15' y='348' width='870' height='70' rx='12' fill='#EFE6D2'/></g><text x='673' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1B3A8A'>שטר מכר</text><text x='835' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>המוכר</text><text x='673' y='150' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>שדי מכורה</text><text x='673' y='170' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לך</text><text x='510' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>הקונה</text><text x='673' y='272' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>המוכר כותב ונותן</text><text x='673' y='296' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' fill='#5B6478'>\"וּמָכַר מֵאֲחֻזָּתוֹ\" (ויקרא כה, כה)</text><text x='228' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#9A6212'>שטר קידושין</text><text x='390' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>הבעל</text><text x='228' y='150' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>בתך מקודשת</text><text x='228' y='170' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לי</text><text x='65' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>האב</text><text x='228' y='272' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>הבעל כותב ונותן</text><text x='228' y='296' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' fill='#5B6478'>\"כִּי יִקַּח אִישׁ אִשָּׁה\" (דברים כב, יג)</text><text x='450' y='374' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>רבי זירא בר ממל: במכר המוכר כותב, ומדוע כאן כותב הבעל?</text><text x='450' y='400' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>רבא: כל אחד לפי הפסוק שלו · ולבסוף: הלכות מסורות שחכמים סמכו על הפסוקים</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s9",
+     "title": "קטנה או בוגרת: נמסר לאב או לבת, ובדעת מי",
+     "amud": "ט.",
+     "text": {
+      "from": "9a.11",
+      "to": "9a.12"
+     },
+     "gist": "רבא אמר רב נחמן: בקטנה כתוב בשטר \"בתך\", והוא פועל בדעת האב. בבוגרת כתוב בו \"הרי את\", והוא פועל בדעתה.",
+     "bullets": [
+      {
+       "text": "כתב \"בתך מקודשת לי\" (באחד משלושת הנוסחים) על נייר או על חרס שאין בהם שווה פרוטה: בין שמסר את השטר לאביה ובין שמסר אותו לה, היא מקודשת מדעת אביה, ובלבד שלא בגרה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "כתב \"הרי את מקודשת לי\": בין שמסר את השטר לאביה ובין שמסר אותו לה, היא מקודשת מדעתה, ובלבד שבגרה ועומדת ברשות עצמה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "בקטנה האב אינו רק שלוחה: הקידושין חלים מכוח מעמדו שלו.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "לאב אין סמכות על קידושי בתו הבוגרת. לכן מסבירים הראשונים שמסירת השטר לאב מועילה רק אם היא מינתה אותו שליח לקבל אותו.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "רבא אמר רב נחמן: השטר בקטנה ובבוגרת",
+      "columns": [
+       "",
+       "הנוסח",
+       "למי אפשר למסור",
+       "בדעת מי",
+       "התנאי"
       ],
-      "children": []
+      "rows": [
+       [
+        "בת קטנה",
+        "\"בתך מקודשת לי\"",
+        "לאביה או לה",
+        "בדעת אביה",
+        "שלא בגרה"
+       ],
+       [
+        "אישה בוגרת",
+        "\"הרי את מקודשת לי\"",
+        "לאביה או לה",
+        "בדעתה",
+        "שבגרה"
+       ]
+      ]
+     },
+     "children": []
     },
     {
-      "id": "s6",
-      "title": "שטר קידושין: מי כותב, לשם מי, ובדעת מי",
-      "amud": "ט.–ט:",
-      "text": {
-        "from": "9a.6",
+     "id": "s10",
+     "title": "שטר שנכתב שלא לשמה: צריך לשמה כמו גט, או לא כמו כסף?",
+     "amud": "ט.–ט:",
+     "text": {
+      "from": "9a.13",
+      "to": "9b.2"
+     },
+     "gist": "ריש לקיש שואל אם מקישים שטר אירוסין לגט, שצריך להיכתב לשמה, או לכסף קידושין, שאינו צריך להיות לשמה. הוא פושט את שאלתו מ\"וְיָצְאָה... וְהָיְתָה\".",
+     "bullets": [
+      {
+       "text": "ריש לקיש שואל: שטר אירוסין שנכתב שלא לשמה, כלומר לא לשם האישה הזאת, מהו?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "צד אחד: \"הויות ליציאות מקשינן\", כלומר מקישים את הכניסה לנישואין ליציאה מהם. כשם שגט צריך להיכתב לשמה, כך גם שטר אירוסין.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "צד שני: \"הויות להדדי מקשינן\", כלומר מקישים את דרכי הקידושין זו לזו. כסף קידושין אינו צריך מטבע שנטבע לשמה, ולכן גם השטר אינו צריך להיכתב לשמה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "הוא עצמו פושט: מקישים הויה ליציאה, שנאמר \"וְיָצְאָה מִבֵּיתוֹ וְהָלְכָה וְהָיְתָה\" (דברים כד, ב). לכן השטר צריך להיכתב לשמה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "כך נראה שטר שלא לשמה: סופר כותב חמישים טפסים ריקים של \"הרי את מקודשת לי\" ומוכר אותם מן המדף.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "ריש לקיש מחזיק בהקש הויה ליציאה לאורך כל המסכת. בדף מד., מול שיטתו המצמצמת של רבי יוחנן, הוא צווח עליו \"ככרוכיא\". השאלה היא אם הגירושין הם תמונת ראי של הקידושין, כשבפועל לגרושה יש מעמד חדש משלה (היא אסורה לכהן).",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "הרי״ף מביא ירושלמי: הלימוד הזה נוגע רק לשטר שאין בו שווה פרוטה. שטר ששווה פרוטה מועיל ממילא ככסף, ולכן לשאלות הפתוחות אין משקל מעשי רב.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "שאלתו של ריש לקיש (ט.–ט:): האם שטר אירוסין מוקש לגט, שצריך להיכתב לשמה, או לכסף קידושין, שאינו נעשה לשמה כלל? הוא מקיש אותו לגט.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>גט מימין, שטר אירוסין באמצע ומטבעות משמאל. חץ רציף מחבר את הגט לשטר האירוסין, וחץ מקווקו מחבר אליו את המטבעות.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='75' y='130' width='155' height='110' fill='#FFFFFF' stroke='#1B3A8A' stroke-width='2'/><path d='M92 160 h120 M92 180 h120 M92 200 h120 M92 220 h80' stroke='#C9C1B2' stroke-width='2'/><rect x='372' y='130' width='156' height='110' fill='#FFFFFF' stroke='#9A6212' stroke-width='2'/><g fill='#E0C070' stroke='#9A7440' stroke-width='2'><circle cx='712' cy='185' r='24'/><circle cx='752' cy='185' r='24'/><circle cx='792' cy='185' r='24'/></g><line x1='236' y1='185' x2='356' y2='185' stroke='#1B3A8A' stroke-width='4'/><path d='M366 185 l-12 -7 v14 z' fill='#1B3A8A'/><line x1='684' y1='185' x2='546' y2='185' stroke='#8A7560' stroke-width='3' stroke-dasharray='7 6'/><path d='M534 185 l12 -7 v14 z' fill='#8A7560'/><rect x='15' y='320' width='870' height='100' rx='12' fill='#E3EAF3'/></g><text x='450' y='40' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>שטר אירוסין שנכתב שלא לשמה?</text><text x='450' y='72' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='18' fill='#4A3A2E'>וְיָצְאָה מִבֵּיתוֹ וְהָלְכָה וְהָיְתָה</text><text x='450' y='96' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' fill='#5B6478'>דברים כד, ב</text><text x='748' y='266' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>גט (יציאה)</text><text x='748' y='286' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>צריך להיכתב לשמה</text><text x='450' y='192' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#6B4A1A'>הרי את מקודשת לי</text><text x='450' y='266' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>שטר אירוסין</text><text x='450' y='286' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>שנכתב שלא לשמה?</text><text x='148' y='266' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#6B4A1A'>כסף קידושין</text><text x='148' y='286' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>אין מטבע שנטבע לשמה</text><text x='600' y='150' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' font-weight='600' fill='#1B3A8A'>ריש לקיש:</text><text x='600' y='168' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#1B3A8A'>הויה ליציאה</text><text x='290' y='150' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>או: מקישים את</text><text x='290' y='168' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>דרכי הקידושין זו לזו?</text><text x='450' y='352' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1B3A8A'>ריש לקיש פושט: מקישים הויה ליציאה</text><text x='450' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לכן שטר אירוסין, כמו גט, צריך להיכתב לשמה.</text><text x='450' y='404' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' fill='#5B6478'>קידושין ט.–ט:</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "לשמה אבל שלא מדעתה: שתי קריאות בהקש לגט",
+     "amud": "ט:",
+     "text": {
+      "from": "9b.3",
+      "to": "9b.6"
+     },
+     "gist": "לדעת רבא ורבינא היא מקודשת, ולדעת רב פפא ורב שרביא אינה מקודשת. רב פפא מסביר את שתי השיטות מאותו פסוק, ואת המשנה שמצריכה את דעת שניהם מפרשים על שטרי פסיקתא.",
+     "bullets": [
+      {
+       "text": "שטר שנכתב לשמה אבל שלא מדעתה (והיא קיבלה אותו אחר כך): רבא ורבינא אומרים שהיא מקודשת, ורב פפא ורב שרביא אומרים שאינה מקודשת.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "שטר אירוסין שנכתב לשמה ושלא מדעתה",
+      "columns": [
+       "",
+       "הדין",
+       "מה לומדים מגט",
+       "ובשטר אירוסין"
+      ],
+      "rows": [
+       [
+        "רבא ורבינא",
+        "מקודשת",
+        "הגט צריך להיכתב לשמה, אבל אפשר לכתוב אותו שלא מדעתה",
+        "צריך לשמה, אבל אין צורך בדעתה בשעת הכתיבה"
+       ],
+       [
+        "רב פפא ורב שרביא",
+        "אינה מקודשת",
+        "הגט צריך דעת מקנה, כלומר את דעת הבעל",
+        "המקנה כאן היא האישה, ולכן צריך את דעתה"
+       ]
+      ],
+      "tags": [
+       [
+        null,
+        "effective",
+        null,
+        null
+       ],
+       [
+        null,
+        "not-effective",
+        null,
+        null
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s12",
+       "title": "רב פפא: לשמה בלי הסכמה, או דעת מקנה?",
+       "amud": "ט:",
+       "text": {
+        "from": "9b.3",
+        "to": "9b.4"
+       },
+       "gist": "שני הצדדים דורשים את \"וְיָצְאָה... וְהָיְתָה\". הם נחלקים באיזה מאפיין של הגט עובר לקידושין.",
+       "bullets": [
+        {
+         "text": "\"אימא טעמא דידהו\": הויה ליציאה. גט צריך להיות לשמה, אבל אפשר לכתוב אותו שלא מדעתה. לכן שטר אירוסין שנכתב לשמה מועיל גם שלא מדעתה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "\"ואימא טעמא דידי\": אותו פסוק, אבל בגט צריך דעת מקנה, כלומר את דעת הבעל, שמקנה אותה לעצמה. בקידושין המקנה היא האישה, ולכן צריך את דעתה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "למחלוקת הזאת אין נגיעה לקידושי כסף, שאינם בנויים על דפוס הגט.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s13",
+       "title": "קושיה מבבא בתרא: שטרי פסיקתא, וכדרב גידל",
+       "amud": "ט:",
+       "text": {
+        "from": "9b.5",
         "to": "9b.6"
-      },
-      "gist": "קידושין בשטר: נוסח הברייתא, מדוע הבעל כותב ולא כמו במכר, הדין בקטנה ובבוגרת, שאלת הלשמה, והסכמתה לכתיבה.",
-      "bullets": [
+       },
+       "gist": "לפי משנה כותבים שטרי אירוסין רק מדעת שני הצדדים, אבל מדובר בשטרי פסיקתא של הנדוניה. הם נקנים באמירה כשבני הזוג מתקדשים.",
+       "bullets": [
         {
-          "text": "כנראה קידשו בשטר רק לעיתים רחוקות, ולכן רבים מדיניו לא התפתחו ונשארו בלי הכרעה.",
-          "detail": 3,
-          "source": "shiur"
+         "text": "מיתיבי ממשנה (בבא בתרא קסז:): \"אין כותבין שטרי אירוסין ונישואין אלא מדעת שניהם\". האם הכוונה אינה לשטר האירוסין עצמו?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "לא: הכוונה לשטרי פסיקתא, שבהם רושמים את הנדוניה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "רב גידל אמר רב: אב אחד שואל \"כמה אתה נותן לבנך?\", והשני עונה \"כך וכך\". ושואל \"לבתך?\", ועונה \"כך וכך\". \"עמדו וקידשו, קנו\": אם בני הזוג התקדשו אחר כך, הם קונים את מה שהובטח. \"הן הן הדברים הנקנים באמירה\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "רש״י: אלה התנאים שבין המשפחות והממון שכל צד מתחייב לתת. כל הסכם ממוני צריך את דעת שני הצדדים.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "בימי התלמוד עשו את הקידושין חודשים לפני החתונה, בדומה לאירוסין של ימינו, ובכל זאת היה צריך גט כדי לבטל אותם. וכבר בימי רב קדמו להם הסכמות בין המשפחות.",
+         "detail": 3,
+         "source": "shiur"
         }
-      ],
-      "children": [
-        {
-          "id": "s7",
-          "title": "הברייתא: \"בתך מקודשת לי\", אפילו על חרס שאין בו שווה פרוטה",
-          "amud": "ט.",
-          "text": {
-            "from": "9a.6",
-            "to": "9a.6"
-          },
-          "gist": "הבעל כותב לאב על נייר או על חרס שאין בהם שווה פרוטה, כי היא מתקדשת בכתב ולא בחומר.",
-          "bullets": [
-            {
-              "text": "\"בשטר כיצד?\" כותב לאביה על הנייר או על החרס \"בתך מקודשת לי\", \"בתך מאורסת לי\" או \"בתך לי לאינתו\", והרי זו מקודשת.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "החומר אינו צריך להיות שווה פרוטה, שהרי היא אינה מתקדשת בשוויו.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "ברייתת הכסף דיברה אל האישה עצמה, ואילו הברייתא הזאת פונה אל אביה של בת קטנה.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "מה צריך לכתוב לכל הפחות? הרשב״א מצריך שמות ותאריך, ככל שטר. הריטב״א וראשונים רבים סוברים שדי במילים \"הרי את מקודשת לי\". ונחלקו אם צריך גם לומר את הדברים בפה.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s8",
-          "title": "מדוע הבעל כותב? מכר וקידושין: פסוק או הלכה מסורה",
-          "amud": "ט.",
-          "text": {
-            "from": "9a.7",
-            "to": "9a.10"
-          },
-          "gist": "רבי זירא בר ממל מעיר שבמכר המוכר כותב ואילו כאן כותב הקונה. תשובתו של רבא מן הפסוקים נדחית, ולכן הוא קובע ששני הדינים הם הלכה מסורה. ואיבעית אימא: תפקיד המוכר מפורש בירמיהו.",
-          "bullets": [
-            {
-              "text": "רבי זירא בר ממל מקשה: השטר הזה אינו דומה לשטר מכר. שם המוכר כותב \"שדי מכורה לך\", וכאן הבעל, שהוא כמו הקונה, כותב \"בתך מקודשת לי\".",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רבא: כל אחד נלמד מעניין הפסוק שלו. \"וּמָכַר מֵאֲחֻזָּתוֹ\" (ויקרא כה, כה): במוכר תלה רחמנא. \"כִּי יִקַּח אִישׁ אִשָּׁה\" (דברים כב, יג): בבעל תלה רחמנא.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "קושיה: הרי כתוב \"שָׂדוֹת בַּכֶּסֶף יִקְנוּ\" (ירמיהו לב, מד), והפסוק תולה בקונה. תירוץ: \"קרי ביה יַקְנוּ\", כלומר יקנו לאחרים, כדי שיתאים לפסוק שבתורה \"וּמָכַר\".",
-              "detail": 3,
-              "source": "gemara"
-            },
-            {
-              "text": "אבל לפי אותו היגיון יש לקרוא גם \"כִּי יַקַּח\", כלומר כשיינתן לו, כדי שיתאים ל\"אֶת בִּתִּי נָתַתִּי לָאִישׁ הַזֶּה\" (דברים כב, טז). כך נופלת הראיה מן הפסוקים.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "לכן רבא חוזר בו: אין ראיה מן הפסוקים. \"הלכתא נינהו ואסמכינהו רבנן אקראי\": אלה הלכות מסורות, וחכמים סמכו אותן על הפסוקים.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "ואיבעית אימא: גם בירמיהו כתוב \"וָאֶקַּח אֶת סֵפֶר הַמִּקְנָה\" (ירמיהו לב, יא). מכאן שהקונה מקבל את השטר והמוכר כותב אותו.",
-              "detail": 3,
-              "source": "gemara"
-            },
-            {
-              "text": "תוספות: המכר אינו צריך הלכה מסורה, שהרי הפסוק שלו עומד בעינו. רק הדין שהבעל כותב את שטר הקידושין הוא הלכה מסורה.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "הרמב״ם מבחין בין הלכה למשה מסיני, כלומר דינים שאי אפשר ללמוד מן הכתוב כלל (כזית, ארבעים סאה), לבין פירושים מקובלים שאפשר בעיקרון לחזור ולמצוא בכתוב. ראשונים רבים רואים בכל ראיה מדברי הנביאים אסמכתא בלבד.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "illustration": {
-            "caption": "קושיית רבי זירא בר ממל (ט.): במכר המוכר כותב את השטר ומוסר אותו לקונה, ואילו בקידושין הבעל, שהוא הקונה, כותב את השטר ומוסר אותו לאב.",
-            "svg": "<svg viewBox='0 0 900 430' xmlns='http://www.w3.org/2000/svg' role='img'><title>שתי תמונות. מימין: המוכר כותב \"שדי מכורה לך\" ומוסר את השטר לקונה. משמאל: הבעל כותב \"בתך מקודשת לי\" ומוסר את השטר לאב.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='430' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='322' rx='14' fill='#E3EAF3'/><use href='#man' x='35' y='90' width='60' height='120' style='color:#4B5E8C'/><rect x='160' y='120' width='135' height='70' fill='#FFFFFF' stroke='#BFAE8E' stroke-width='2'/><path d='M100 155 L150 155' stroke='#1B3A8A' stroke-width='3'/><path d='M154 155 l-10 -6 v12 z' fill='#1B3A8A'/><path d='M300 155 L350 155' stroke='#1B3A8A' stroke-width='3'/><path d='M354 155 l-10 -6 v12 z' fill='#1B3A8A'/><use href='#man' x='360' y='90' width='60' height='120' style='color:#6B6F3A'/><rect x='460' y='14' width='425' height='322' rx='14' fill='#F3E6D8'/><use href='#man' x='480' y='90' width='60' height='120' style='color:#50706E'/><rect x='605' y='120' width='135' height='70' fill='#FFFFFF' stroke='#BFAE8E' stroke-width='2'/><path d='M545 155 L595 155' stroke='#9A6212' stroke-width='3'/><path d='M599 155 l-10 -6 v12 z' fill='#9A6212'/><path d='M745 155 L795 155' stroke='#9A6212' stroke-width='3'/><path d='M799 155 l-10 -6 v12 z' fill='#9A6212'/><use href='#man' x='805' y='90' width='60' height='120' style='color:#8C5A3C'/><rect x='15' y='348' width='870' height='70' rx='12' fill='#EFE6D2'/></g><text x='673' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1B3A8A'>שטר מכר</text><text x='835' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>המוכר</text><text x='673' y='150' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>שדי מכורה</text><text x='673' y='170' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לך</text><text x='510' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>הקונה</text><text x='673' y='272' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>המוכר כותב ונותן</text><text x='673' y='296' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' fill='#5B6478'>\"וּמָכַר מֵאֲחֻזָּתוֹ\" (ויקרא כה, כה)</text><text x='228' y='46' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#9A6212'>שטר קידושין</text><text x='390' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>הבעל</text><text x='228' y='150' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>בתך מקודשת</text><text x='228' y='170' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לי</text><text x='65' y='232' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>האב</text><text x='228' y='272' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>הבעל כותב ונותן</text><text x='228' y='296' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' fill='#5B6478'>\"כִּי יִקַּח אִישׁ אִשָּׁה\" (דברים כב, יג)</text><text x='450' y='374' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>רבי זירא בר ממל: במכר המוכר כותב, ומדוע כאן כותב הבעל?</text><text x='450' y='400' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>רבא: כל אחד לפי הפסוק שלו · ולבסוף: הלכות מסורות שחכמים סמכו על הפסוקים</text></svg>"
-          },
-          "children": []
-        },
-        {
-          "id": "s9",
-          "title": "קטנה או בוגרת: נמסר לאב או לבת, ובדעת מי",
-          "amud": "ט.",
-          "text": {
-            "from": "9a.11",
-            "to": "9a.12"
-          },
-          "gist": "רבא אמר רב נחמן: בקטנה כתוב בשטר \"בתך\", והוא פועל בדעת האב. בבוגרת כתוב בו \"הרי את\", והוא פועל בדעתה.",
-          "bullets": [
-            {
-              "text": "כתב \"בתך מקודשת לי\" (באחד משלושת הנוסחים) על נייר או על חרס שאין בהם שווה פרוטה: בין שמסר את השטר לאביה ובין שמסר אותו לה, היא מקודשת מדעת אביה, ובלבד שלא בגרה.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "כתב \"הרי את מקודשת לי\": בין שמסר את השטר לאביה ובין שמסר אותו לה, היא מקודשת מדעתה, ובלבד שבגרה ועומדת ברשות עצמה.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "בקטנה האב אינו רק שלוחה: הקידושין חלים מכוח מעמדו שלו.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "לאב אין סמכות על קידושי בתו הבוגרת. לכן מסבירים הראשונים שמסירת השטר לאב מועילה רק אם היא מינתה אותו שליח לקבל אותו.",
-              "detail": 2,
-              "source": "shiur"
-            }
-          ],
-          "chart": {
-            "caption": "רבא אמר רב נחמן: השטר בקטנה ובבוגרת",
-            "columns": [
-              "",
-              "הנוסח",
-              "למי אפשר למסור",
-              "בדעת מי",
-              "התנאי"
-            ],
-            "rows": [
-              [
-                "בת קטנה",
-                "\"בתך מקודשת לי\"",
-                "לאביה או לה",
-                "בדעת אביה",
-                "שלא בגרה"
-              ],
-              [
-                "אישה בוגרת",
-                "\"הרי את מקודשת לי\"",
-                "לאביה או לה",
-                "בדעתה",
-                "שבגרה"
-              ]
-            ]
-          },
-          "children": []
-        },
-        {
-          "id": "s10",
-          "title": "שטר שנכתב שלא לשמה: צריך לשמה כמו גט, או לא כמו כסף?",
-          "amud": "ט.–ט:",
-          "text": {
-            "from": "9a.13",
-            "to": "9b.2"
-          },
-          "gist": "ריש לקיש שואל אם מקישים שטר אירוסין לגט, שצריך להיכתב לשמה, או לכסף קידושין, שאינו צריך להיות לשמה. הוא פושט את שאלתו מ\"וְיָצְאָה... וְהָיְתָה\".",
-          "bullets": [
-            {
-              "text": "ריש לקיש שואל: שטר אירוסין שנכתב שלא לשמה, כלומר לא לשם האישה הזאת, מהו?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "צד אחד: \"הויות ליציאות מקשינן\", כלומר מקישים את הכניסה לנישואין ליציאה מהם. כשם שגט צריך להיכתב לשמה, כך גם שטר אירוסין.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "צד שני: \"הויות להדדי מקשינן\", כלומר מקישים את דרכי הקידושין זו לזו. כסף קידושין אינו צריך מטבע שנטבע לשמה, ולכן גם השטר אינו צריך להיכתב לשמה.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "הוא עצמו פושט: מקישים הויה ליציאה, שנאמר \"וְיָצְאָה מִבֵּיתוֹ וְהָלְכָה וְהָיְתָה\" (דברים כד, ב). לכן השטר צריך להיכתב לשמה.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "כך נראה שטר שלא לשמה: סופר כותב חמישים טפסים ריקים של \"הרי את מקודשת לי\" ומוכר אותם מן המדף.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "ריש לקיש מחזיק בהקש הויה ליציאה לאורך כל המסכת. בדף מד., מול שיטתו המצמצמת של רבי יוחנן, הוא צווח עליו \"ככרוכיא\". השאלה היא אם הגירושין הם תמונת ראי של הקידושין, כשבפועל לגרושה יש מעמד חדש משלה (היא אסורה לכהן).",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "הרי״ף מביא ירושלמי: הלימוד הזה נוגע רק לשטר שאין בו שווה פרוטה. שטר ששווה פרוטה מועיל ממילא ככסף, ולכן לשאלות הפתוחות אין משקל מעשי רב.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "illustration": {
-            "caption": "שאלתו של ריש לקיש (ט.–ט:): האם שטר אירוסין מוקש לגט, שצריך להיכתב לשמה, או לכסף קידושין, שאינו נעשה לשמה כלל? הוא מקיש אותו לגט.",
-            "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img'><title>גט מימין, שטר אירוסין באמצע ומטבעות משמאל. חץ רציף מחבר את הגט לשטר האירוסין, וחץ מקווקו מחבר אליו את המטבעות.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='440' fill='#FBF8F1'/><rect x='75' y='130' width='155' height='110' fill='#FFFFFF' stroke='#1B3A8A' stroke-width='2'/><path d='M92 160 h120 M92 180 h120 M92 200 h120 M92 220 h80' stroke='#C9C1B2' stroke-width='2'/><rect x='372' y='130' width='156' height='110' fill='#FFFFFF' stroke='#9A6212' stroke-width='2'/><g fill='#E0C070' stroke='#9A7440' stroke-width='2'><circle cx='712' cy='185' r='24'/><circle cx='752' cy='185' r='24'/><circle cx='792' cy='185' r='24'/></g><line x1='236' y1='185' x2='356' y2='185' stroke='#1B3A8A' stroke-width='4'/><path d='M366 185 l-12 -7 v14 z' fill='#1B3A8A'/><line x1='684' y1='185' x2='546' y2='185' stroke='#8A7560' stroke-width='3' stroke-dasharray='7 6'/><path d='M534 185 l12 -7 v14 z' fill='#8A7560'/><rect x='15' y='320' width='870' height='100' rx='12' fill='#E3EAF3'/></g><text x='450' y='40' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='21' font-weight='600' fill='#1A1F2E'>שטר אירוסין שנכתב שלא לשמה?</text><text x='450' y='72' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='18' fill='#4A3A2E'>וְיָצְאָה מִבֵּיתוֹ וְהָלְכָה וְהָיְתָה</text><text x='450' y='96' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' fill='#5B6478'>דברים כד, ב</text><text x='748' y='266' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>גט (יציאה)</text><text x='748' y='286' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>צריך להיכתב לשמה</text><text x='450' y='192' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#6B4A1A'>הרי את מקודשת לי</text><text x='450' y='266' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#9A6212'>שטר אירוסין</text><text x='450' y='286' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>שנכתב שלא לשמה?</text><text x='148' y='266' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#6B4A1A'>כסף קידושין</text><text x='148' y='286' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>אין מטבע שנטבע לשמה</text><text x='600' y='150' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' font-weight='600' fill='#1B3A8A'>ריש לקיש:</text><text x='600' y='168' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#1B3A8A'>הויה ליציאה</text><text x='290' y='150' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>או: מקישים את</text><text x='290' y='168' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#5B6478'>דרכי הקידושין זו לזו?</text><text x='450' y='352' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='16' font-weight='600' fill='#1B3A8A'>ריש לקיש פושט: מקישים הויה ליציאה</text><text x='450' y='380' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#1A1F2E'>לכן שטר אירוסין, כמו גט, צריך להיכתב לשמה.</text><text x='450' y='404' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' fill='#5B6478'>קידושין ט.–ט:</text></svg>"
-          },
-          "children": []
-        },
-        {
-          "id": "s11",
-          "title": "לשמה אבל שלא מדעתה: שתי קריאות בהקש לגט",
-          "amud": "ט:",
-          "text": {
-            "from": "9b.3",
-            "to": "9b.6"
-          },
-          "gist": "לדעת רבא ורבינא היא מקודשת, ולדעת רב פפא ורב שרביא אינה מקודשת. רב פפא מסביר את שתי השיטות מאותו פסוק, ואת המשנה שמצריכה את דעת שניהם מפרשים על שטרי פסיקתא.",
-          "bullets": [
-            {
-              "text": "שטר שנכתב לשמה אבל שלא מדעתה (והיא קיבלה אותו אחר כך): רבא ורבינא אומרים שהיא מקודשת, ורב פפא ורב שרביא אומרים שאינה מקודשת.",
-              "detail": 2,
-              "source": "gemara"
-            }
-          ],
-          "chart": {
-            "caption": "שטר אירוסין שנכתב לשמה ושלא מדעתה",
-            "columns": [
-              "",
-              "הדין",
-              "מה לומדים מגט",
-              "ובשטר אירוסין"
-            ],
-            "rows": [
-              [
-                "רבא ורבינא",
-                "מקודשת",
-                "הגט צריך להיכתב לשמה, אבל אפשר לכתוב אותו שלא מדעתה",
-                "צריך לשמה, אבל אין צורך בדעתה בשעת הכתיבה"
-              ],
-              [
-                "רב פפא ורב שרביא",
-                "אינה מקודשת",
-                "הגט צריך דעת מקנה, כלומר את דעת הבעל",
-                "המקנה כאן היא האישה, ולכן צריך את דעתה"
-              ]
-            ],
-            "tags": [
-              [
-                null,
-                "effective",
-                null,
-                null
-              ],
-              [
-                null,
-                "not-effective",
-                null,
-                null
-              ]
-            ]
-          },
-          "children": [
-            {
-              "id": "s12",
-              "title": "רב פפא: לשמה בלי הסכמה, או דעת מקנה?",
-              "amud": "ט:",
-              "text": {
-                "from": "9b.3",
-                "to": "9b.4"
-              },
-              "gist": "שני הצדדים דורשים את \"וְיָצְאָה... וְהָיְתָה\". הם נחלקים באיזה מאפיין של הגט עובר לקידושין.",
-              "bullets": [
-                {
-                  "text": "\"אימא טעמא דידהו\": הויה ליציאה. גט צריך להיות לשמה, אבל אפשר לכתוב אותו שלא מדעתה. לכן שטר אירוסין שנכתב לשמה מועיל גם שלא מדעתה.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "\"ואימא טעמא דידי\": אותו פסוק, אבל בגט צריך דעת מקנה, כלומר את דעת הבעל, שמקנה אותה לעצמה. בקידושין המקנה היא האישה, ולכן צריך את דעתה.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "למחלוקת הזאת אין נגיעה לקידושי כסף, שאינם בנויים על דפוס הגט.",
-                  "detail": 3,
-                  "source": "shiur"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "s13",
-              "title": "קושיה מבבא בתרא: שטרי פסיקתא, וכדרב גידל",
-              "amud": "ט:",
-              "text": {
-                "from": "9b.5",
-                "to": "9b.6"
-              },
-              "gist": "לפי משנה כותבים שטרי אירוסין רק מדעת שני הצדדים, אבל מדובר בשטרי פסיקתא של הנדוניה. הם נקנים באמירה כשבני הזוג מתקדשים.",
-              "bullets": [
-                {
-                  "text": "מיתיבי ממשנה (בבא בתרא קסז:): \"אין כותבין שטרי אירוסין ונישואין אלא מדעת שניהם\". האם הכוונה אינה לשטר האירוסין עצמו?",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "לא: הכוונה לשטרי פסיקתא, שבהם רושמים את הנדוניה.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "רב גידל אמר רב: אב אחד שואל \"כמה אתה נותן לבנך?\", והשני עונה \"כך וכך\". ושואל \"לבתך?\", ועונה \"כך וכך\". \"עמדו וקידשו, קנו\": אם בני הזוג התקדשו אחר כך, הם קונים את מה שהובטח. \"הן הן הדברים הנקנים באמירה\".",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "רש״י: אלה התנאים שבין המשפחות והממון שכל צד מתחייב לתת. כל הסכם ממוני צריך את דעת שני הצדדים.",
-                  "detail": 3,
-                  "source": "shiur"
-                },
-                {
-                  "text": "בימי התלמוד עשו את הקידושין חודשים לפני החתונה, בדומה לאירוסין של ימינו, ובכל זאת היה צריך גט כדי לבטל אותם. וכבר בימי רב קדמו להם הסכמות בין המשפחות.",
-                  "detail": 3,
-                  "source": "shiur"
-                }
-              ],
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "s14",
-      "title": "קידושי ביאה: המקור, נערה המאורסה, האמה העבריה",
-      "amud": "ט:",
-      "text": {
-        "from": "9b.7",
-        "to": "9b.16"
-      },
-      "gist": "מאין לומדים קידושי ביאה, איך תיתכן נערה המאורסה בתולה אילו היו צריכים גם כסף וגם ביאה, ומה לומד רבי יוחנן מ\"ובעלה\".",
-      "bullets": [],
-      "children": [
-        {
-          "id": "s15",
-          "title": "\"בעולת בעל\" או \"ובעלה\"? מדוע הפסוק של רבי אינו מספיק",
-          "amud": "ט:",
-          "text": {
-            "from": "9b.7",
-            "to": "9b.8"
-          },
-          "gist": "רבי יוחנן לומד קידושי ביאה מ\"בעולת בעל\". מהפסוק של רבי לבדו היה אפשר לחשוב שצריך גם כסף וגם ביאה.",
-          "bullets": [
-            {
-              "text": "רבי אבהו אמר רבי יוחנן: \"כִּי יִמָּצֵא אִישׁ שֹׁכֵב עִם אִשָּׁה בְעֻלַת בַּעַל\" (דברים כב, כב) מלמד שנעשה לה בעל על ידי בעילה.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רבי זירא שאל את רבי אבהו (ויש אומרים: ריש לקיש את רבי יוחנן): \"כעורה זו ששנה רבי?\" כלומר, מה פגם יש בראיה של רבי מ\"כִּי יִקַּח אִישׁ אִשָּׁה וּבְעָלָהּ\" (דברים כד, א)?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "מן הפסוק ההוא לבדו היה אפשר לחשוב שצריך לקדש קודם בכסף (\"כי יקח\") ורק אחר כך לבעול. \"בעולת בעל\" מלמד שדי בביאה לבדה.",
-              "detail": 2,
-              "source": "gemara"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s16",
-          "title": "כסף ואחר כך ביאה? איך תיתכן נערה המאורסה",
-          "amud": "ט:",
-          "text": {
-            "from": "9b.9",
-            "to": "9b.13"
-          },
-          "gist": "רבי אבא בר ממל טוען שאילו היו צריכים את שניהם, לא הייתה בכלל נערה המאורסה בתולה שהבא עליה חייב סקילה. יש שני תירוצים: ביאה שלא כדרכה מן הארוס (ואביי דוחה אותו), וקידושין בשטר.",
-          "bullets": [
-            {
-              "text": "רבי אבא בר ממל מקשה על הפירוש הזה: התורה חייבה בסקילה את הבא על נערה המאורסה (דברים כב, כג–כד). \"היכי משכחת לה?\"",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "אם קידש אותה בכסף ואחר כך בעל, הרי היא בעולה, והסקילה נוהגת רק בבתולה. אם קידש בכסף ולא בעל, \"לאו כלום הוא\": הקידושין לא נגמרו.",
-              "detail": 2,
-              "source": "gemara"
-            }
-          ],
-          "illustration": {
-            "caption": "קושיית רבי אבא בר ממל ושני התירוצים (ט:): אילו היו צריכים לקידושין גם כסף וגם ביאה, באיזה מקרה תהיה נערה המאורסה שעדיין בתולה?",
-            "svg": "<svg viewBox='0 0 900 470' xmlns='http://www.w3.org/2000/svg' role='img'><title>ארבעה כרטיסים: כסף ואחר כך ביאה, והיא אינה בתולה; כסף בלבד, והקידושין לא נגמרו; כסף ואחר כך ביאה שלא כדרכה מן הארוס, ולדברי אביי היא בעולה; קידושין בשטר, והיא מקודשת לגמרי ועדיין בתולה.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='470' fill='#FBF8F1'/><rect x='15' y='82' width='204' height='300' rx='12' fill='#EEEAE2'/><rect x='35' y='150' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><rect x='35' y='196' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><rect x='237' y='82' width='204' height='300' rx='12' fill='#EEEAE2'/><rect x='257' y='150' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><rect x='257' y='196' width='164' height='34' rx='17' fill='none' stroke='#9A6212' stroke-dasharray='5 5'/><rect x='459' y='82' width='204' height='300' rx='12' fill='#EEEAE2'/><rect x='479' y='150' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><rect x='479' y='196' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><rect x='681' y='82' width='204' height='300' rx='12' fill='#E3EAF3'/><rect x='701' y='150' width='164' height='34' rx='17' fill='#1B3A8A'/><rect x='15' y='396' width='870' height='62' rx='12' fill='#F3E6D8'/></g><text x='450' y='38' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#1A1F2E'>אילו היו צריכים לקידושין כסף ואחר כך ביאה…</text><text x='450' y='62' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>רבי אבא בר ממל: היכן תימצא נערה המאורסה בתולה?</text><text x='783' y='116' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>כסף ואחר כך ביאה</text><text x='783' y='172' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>כסף</text><text x='783' y='218' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>ביאה</text><text x='783' y='272' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#5B6478'>אינה בתולה</text><text x='783' y='294' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>אין כאן דין סקילה</text><text x='561' y='116' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>כסף בלבד</text><text x='561' y='172' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>כסף</text><text x='561' y='218' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#6B4A1A'>בלי ביאה</text><text x='561' y='272' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#5B6478'>הקידושין לא נגמרו</text><text x='561' y='294' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>\"לאו כלום הוא\"</text><text x='339' y='108' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>כסף, ואחר כך הארוס</text><text x='339' y='126' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>בא עליה שלא כדרכה</text><text x='339' y='172' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>כסף</text><text x='339' y='218' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>ביאה שלא כדרכה</text><text x='339' y='250' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>רבנן קמיה דאביי:</text><text x='339' y='268' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>היא נשארת בתולה</text><text x='339' y='300' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>אביי: בבעל –</text><text x='339' y='320' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>עשאה בעולה</text><text x='117' y='116' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>קידושין בשטר</text><text x='117' y='172' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#FFFFFF'>שטר</text><text x='117' y='252' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>מקודשת לגמרי,</text><text x='117' y='272' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>ועדיין בתולה</text><text x='117' y='302' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>רב נחמן בר יצחק</text><text x='117' y='322' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#1A1F2E'>כשם שגט מוציא לגמרי,</text><text x='117' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#1A1F2E'>כך שטר מכניס לגמרי</text><text x='450' y='420' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>הסקילה נוהגת רק בנערה המאורסה שהיא בתולה (דברים כב, כג–כד)</text><text x='450' y='442' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' fill='#5B6478'>ברייתת עשרה אנשים: חכמים – כולם בסקילה; רבי – הראשון בסקילה והשאר בחנק</text></svg>"
-          },
-          "children": [
-            {
-              "id": "s17",
-              "title": "ביאה שלא כדרכה מן הארוס: דחייתו של אביי",
-              "amud": "ט:",
-              "text": {
-                "from": "9b.10",
-                "to": "9b.12"
-              },
-              "gist": "החכמים שלפני אביי מציעים שהארוס בא עליה שלא כדרכה. אביי משיב שכשמדובר בבעל, ביאה שלא כדרכה עושה אותה בעולה לדברי הכל.",
-              "bullets": [
-                {
-                  "text": "\"אמרוה רבנן קמיה דאביי\": מקרה כזה ייתכן כשהארוס בא עליה שלא כדרכה. היא נשארת בתולה, והקידושין נגמרו.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "אביי: רבי וחכמים נחלקו רק באחר. אבל בבעל, לדברי הכל, אם בא עליה שלא כדרכה \"עשאה בעולה\".",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "המחלוקת (תוספתא סנהדרין י, ד): עשרה אנשים באו על נערה המאורסה שלא כדרכה, ועדיין היא בתולה. חכמים: כולם בסקילה. רבי: הראשון בסקילה והשאר בחנק, כי אחרי הראשון היא כבר אינה בתולה.",
-                  "detail": 3,
-                  "source": "gemara"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "s18",
-              "title": "רב נחמן בר יצחק: השטר מקדש אותה, והיא נשארת בתולה",
-              "amud": "ט:",
-              "text": {
-                "from": "9b.13",
-                "to": "9b.13"
-              },
-              "gist": "נערה המאורסה הבתולה היא מי שקידשו אותה בשטר, שאינו צריך שום מעשה נוסף.",
-              "bullets": [
-                {
-                  "text": "רב נחמן בר יצחק: מקרה כזה ייתכן כשקידש אותה בשטר.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "לדברי הכל, \"הואיל וגומר ומוציא, גומר ומכניס\": גט מוציא אישה לגמרי בלי מעשה נוסף, ולכן גם שטר מכניס אותה לקידושין לגמרי, והיא נשארת בתולה.",
-                  "detail": 2,
-                  "source": "gemara"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "s19",
-          "title": "\"ובעלה\" לרבי יוחנן: אישה נקנית בביאה, ולא אמה העבריה",
-          "amud": "ט:",
-          "text": {
-            "from": "9b.14",
-            "to": "9b.16"
-          },
-          "gist": "רבי יוחנן לומד מן הפסוק של רבי שאמה העבריה אינה נקנית בביאה. בלי הפסוק היה אפשר ללמוד שהיא נקנית בביאה מיבמה, או מ\"אחרת\".",
-          "bullets": [
-            {
-              "text": "מה עושה רבי יוחנן ב\"ובעלה\"? הפסוק מלמד: \"זו נקנית בביאה, ואין אמה העבריה נקנית בביאה\".",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "אמה העבריה היא ילדה שאביה מכר אותה לשפחה. אדוניה רשאי לייעד אותה לו לאישה.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "היה אפשר ללמוד בקל וחומר מיבמה: יבמה אינה נקנית בכסף, ובכל זאת נקנית בביאה. אמה העבריה, שנקנית בכסף, אינו דין שתיקנה בביאה?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "הקל וחומר נדחה: \"מה ליבמה, שכן זקוקה ועומדת\". היבמה כבר קשורה ליבם וממתינה לו.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "אלא היה אפשר ללמוד מ\"אִם אַחֶרֶת יִקַּח לוֹ\" (שמות כא, י): הכתוב הקיש את אמה העבריה לאשתו האחרת, שנקנית בביאה. \"ובעלה\" מלמד שאין הדין כך.",
-              "detail": 2,
-              "source": "gemara"
-            }
-          ],
-          "chart": {
-            "caption": "קניין בכסף ובביאה: שלושה מקרים",
-            "columns": [
-              "",
-              "נקנית בכסף?",
-              "נקנית בביאה?",
-              "הטעם"
-            ],
-            "rows": [
-              [
-                "יבמה",
-                "לא",
-                "כן",
-                "זקוקה ועומדת ליבם, ולכן אי אפשר ללמוד ממנה"
-              ],
-              [
-                "אישה",
-                "כן",
-                "כן",
-                "\"בעולת בעל\" (לרבי יוחנן)"
-              ],
-              [
-                "אמה העבריה",
-                "כן",
-                "לא",
-                "\"ובעלה\" מוציא אותה, אף שנאמר \"אחרת\""
-              ]
-            ],
-            "tags": [
-              [
-                null,
-                "not-acquired",
-                "acquires",
-                null
-              ],
-              [
-                null,
-                "acquires",
-                "acquires",
-                null
-              ],
-              [
-                null,
-                "acquires",
-                "not-acquired",
-                null
-              ]
-            ]
-          },
-          "children": [],
-          "continues": "ממשיך בדף ט: – המקור של רבי להוצאת אמה העבריה, \"קידושין המסורין לביאה\" אצל רבא ובר אהינא, ומה עושה רבי ב\"בעולת בעל\". משם הדיון עובר לברייתת עשרה אנשים ולדף י."
-        }
-      ]
+       ],
+       "children": []
+      }
+     ]
     }
-  ],
-  "key_terms": [
+   ]
+  },
+  {
+   "id": "s14",
+   "title": "קידושי ביאה: המקור, נערה המאורסה, האמה העבריה",
+   "amud": "ט:",
+   "text": {
+    "from": "9b.7",
+    "to": "9b.16"
+   },
+   "gist": "מאין לומדים קידושי ביאה, איך תיתכן נערה המאורסה בתולה אילו היו צריכים גם כסף וגם ביאה, ומה לומד רבי יוחנן מ\"ובעלה\".",
+   "bullets": [],
+   "children": [
     {
-      "term": "שטר קידושין",
-      "hebrew": "",
-      "sense": "קידושין בשטר",
-      "definition": "אחת משלוש דרכי הקידושין: האיש מוסר לאישה (או לאביה) שטר שכתוב בו שהיא מקודשת לו. השטר פועל בתוכנו, לא בשוויו.",
-      "on_this_daf": "הגמרא שואלת מדוע הבעל כותב אותו, בשונה משטר מכר, בדעת מי הוא צריך להיכתב, והאם צריך לכתוב אותו לשמה.",
-      "aliases": [
-        "שטר הקידושין",
-        "שטר אירוסין",
-        "שטר האירוסין",
-        "שטרי אירוסין"
+     "id": "s15",
+     "title": "\"בעולת בעל\" או \"ובעלה\"? מדוע הפסוק של רבי אינו מספיק",
+     "amud": "ט:",
+     "text": {
+      "from": "9b.7",
+      "to": "9b.8"
+     },
+     "gist": "רבי יוחנן לומד קידושי ביאה מ\"בעולת בעל\". מהפסוק של רבי לבדו היה אפשר לחשוב שצריך גם כסף וגם ביאה.",
+     "bullets": [
+      {
+       "text": "רבי אבהו אמר רבי יוחנן: \"כִּי יִמָּצֵא אִישׁ שֹׁכֵב עִם אִשָּׁה בְעֻלַת בַּעַל\" (דברים כב, כב) מלמד שנעשה לה בעל על ידי בעילה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבי זירא שאל את רבי אבהו (ויש אומרים: ריש לקיש את רבי יוחנן): \"כעורה זו ששנה רבי?\" כלומר, מה פגם יש בראיה של רבי מ\"כִּי יִקַּח אִישׁ אִשָּׁה וּבְעָלָהּ\" (דברים כד, א)?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "מן הפסוק ההוא לבדו היה אפשר לחשוב שצריך לקדש קודם בכסף (\"כי יקח\") ורק אחר כך לבעול. \"בעולת בעל\" מלמד שדי בביאה לבדה.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s16",
+     "title": "כסף ואחר כך ביאה? איך תיתכן נערה המאורסה",
+     "amud": "ט:",
+     "text": {
+      "from": "9b.9",
+      "to": "9b.13"
+     },
+     "gist": "רבי אבא בר ממל טוען שאילו היו צריכים את שניהם, לא הייתה בכלל נערה המאורסה בתולה שהבא עליה חייב סקילה. יש שני תירוצים: ביאה שלא כדרכה מן הארוס (ואביי דוחה אותו), וקידושין בשטר.",
+     "bullets": [
+      {
+       "text": "רבי אבא בר ממל מקשה על הפירוש הזה: התורה חייבה בסקילה את הבא על נערה המאורסה (דברים כב, כג–כד). \"היכי משכחת לה?\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אם קידש אותה בכסף ואחר כך בעל, הרי היא בעולה, והסקילה נוהגת רק בבתולה. אם קידש בכסף ולא בעל, \"לאו כלום הוא\": הקידושין לא נגמרו.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "קושיית רבי אבא בר ממל ושני התירוצים (ט:): אילו היו צריכים לקידושין גם כסף וגם ביאה, באיזה מקרה תהיה נערה המאורסה שעדיין בתולה?",
+      "svg": "<svg viewBox='0 0 900 470' xmlns='http://www.w3.org/2000/svg' role='img'><title>ארבעה כרטיסים: כסף ואחר כך ביאה, והיא אינה בתולה; כסף בלבד, והקידושין לא נגמרו; כסף ואחר כך ביאה שלא כדרכה מן הארוס, ולדברי אביי היא בעולה; קידושין בשטר, והיא מקודשת לגמרי ועדיין בתולה.</title><g transform='matrix(-1 0 0 1 900 0)'><rect width='900' height='470' fill='#FBF8F1'/><rect x='15' y='82' width='204' height='300' rx='12' fill='#EEEAE2'/><rect x='35' y='150' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><rect x='35' y='196' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><rect x='237' y='82' width='204' height='300' rx='12' fill='#EEEAE2'/><rect x='257' y='150' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><rect x='257' y='196' width='164' height='34' rx='17' fill='none' stroke='#9A6212' stroke-dasharray='5 5'/><rect x='459' y='82' width='204' height='300' rx='12' fill='#EEEAE2'/><rect x='479' y='150' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><rect x='479' y='196' width='164' height='34' rx='17' fill='#F3E6D0' stroke='#9A6212'/><rect x='681' y='82' width='204' height='300' rx='12' fill='#E3EAF3'/><rect x='701' y='150' width='164' height='34' rx='17' fill='#1B3A8A'/><rect x='15' y='396' width='870' height='62' rx='12' fill='#F3E6D8'/></g><text x='450' y='38' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='20' font-weight='600' fill='#1A1F2E'>אילו היו צריכים לקידושין כסף ואחר כך ביאה…</text><text x='450' y='62' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>רבי אבא בר ממל: היכן תימצא נערה המאורסה בתולה?</text><text x='783' y='116' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>כסף ואחר כך ביאה</text><text x='783' y='172' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>כסף</text><text x='783' y='218' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>ביאה</text><text x='783' y='272' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#5B6478'>אינה בתולה</text><text x='783' y='294' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>אין כאן דין סקילה</text><text x='561' y='116' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>כסף בלבד</text><text x='561' y='172' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>כסף</text><text x='561' y='218' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#6B4A1A'>בלי ביאה</text><text x='561' y='272' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#5B6478'>הקידושין לא נגמרו</text><text x='561' y='294' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>\"לאו כלום הוא\"</text><text x='339' y='108' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>כסף, ואחר כך הארוס</text><text x='339' y='126' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>בא עליה שלא כדרכה</text><text x='339' y='172' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>כסף</text><text x='339' y='218' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#6B4A1A'>ביאה שלא כדרכה</text><text x='339' y='250' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>רבנן קמיה דאביי:</text><text x='339' y='268' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' fill='#5B6478'>היא נשארת בתולה</text><text x='339' y='300' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>אביי: בבעל –</text><text x='339' y='320' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1A1F2E'>עשאה בעולה</text><text x='117' y='116' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>קידושין בשטר</text><text x='117' y='172' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#FFFFFF'>שטר</text><text x='117' y='252' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>מקודשת לגמרי,</text><text x='117' y='272' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='15' font-weight='600' fill='#1B3A8A'>ועדיין בתולה</text><text x='117' y='302' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>רב נחמן בר יצחק</text><text x='117' y='322' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#1A1F2E'>כשם שגט מוציא לגמרי,</text><text x='117' y='340' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13' fill='#1A1F2E'>כך שטר מכניס לגמרי</text><text x='450' y='420' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='14' font-weight='600' fill='#1A1F2E'>הסקילה נוהגת רק בנערה המאורסה שהיא בתולה (דברים כב, כג–כד)</text><text x='450' y='442' text-anchor='middle' direction='rtl' font-family='Assistant, Arial, sans-serif' font-size='13.5' fill='#5B6478'>ברייתת עשרה אנשים: חכמים – כולם בסקילה; רבי – הראשון בסקילה והשאר בחנק</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s17",
+       "title": "ביאה שלא כדרכה מן הארוס: דחייתו של אביי",
+       "amud": "ט:",
+       "text": {
+        "from": "9b.10",
+        "to": "9b.12"
+       },
+       "gist": "החכמים שלפני אביי מציעים שהארוס בא עליה שלא כדרכה. אביי משיב שכשמדובר בבעל, ביאה שלא כדרכה עושה אותה בעולה לדברי הכל.",
+       "bullets": [
+        {
+         "text": "\"אמרוה רבנן קמיה דאביי\": מקרה כזה ייתכן כשהארוס בא עליה שלא כדרכה. היא נשארת בתולה, והקידושין נגמרו.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אביי: רבי וחכמים נחלקו רק באחר. אבל בבעל, לדברי הכל, אם בא עליה שלא כדרכה \"עשאה בעולה\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "המחלוקת (תוספתא סנהדרין י, ד): עשרה אנשים באו על נערה המאורסה שלא כדרכה, ועדיין היא בתולה. חכמים: כולם בסקילה. רבי: הראשון בסקילה והשאר בחנק, כי אחרי הראשון היא כבר אינה בתולה.",
+         "detail": 3,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s18",
+       "title": "רב נחמן בר יצחק: השטר מקדש אותה, והיא נשארת בתולה",
+       "amud": "ט:",
+       "text": {
+        "from": "9b.13",
+        "to": "9b.13"
+       },
+       "gist": "נערה המאורסה הבתולה היא מי שקידשו אותה בשטר, שאינו צריך שום מעשה נוסף.",
+       "bullets": [
+        {
+         "text": "רב נחמן בר יצחק: מקרה כזה ייתכן כשקידש אותה בשטר.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "לדברי הכל, \"הואיל וגומר ומוציא, גומר ומכניס\": גט מוציא אישה לגמרי בלי מעשה נוסף, ולכן גם שטר מכניס אותה לקידושין לגמרי, והיא נשארת בתולה.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s19",
+     "title": "\"ובעלה\" לרבי יוחנן: אישה נקנית בביאה, ולא אמה העבריה",
+     "amud": "ט:",
+     "text": {
+      "from": "9b.14",
+      "to": "9b.16"
+     },
+     "gist": "רבי יוחנן לומד מן הפסוק של רבי שאמה העבריה אינה נקנית בביאה. בלי הפסוק היה אפשר ללמוד שהיא נקנית בביאה מיבמה, או מ\"אחרת\".",
+     "bullets": [
+      {
+       "text": "מה עושה רבי יוחנן ב\"ובעלה\"? הפסוק מלמד: \"זו נקנית בביאה, ואין אמה העבריה נקנית בביאה\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אמה העבריה היא ילדה שאביה מכר אותה לשפחה. אדוניה רשאי לייעד אותה לו לאישה.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "היה אפשר ללמוד בקל וחומר מיבמה: יבמה אינה נקנית בכסף, ובכל זאת נקנית בביאה. אמה העבריה, שנקנית בכסף, אינו דין שתיקנה בביאה?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "הקל וחומר נדחה: \"מה ליבמה, שכן זקוקה ועומדת\". היבמה כבר קשורה ליבם וממתינה לו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אלא היה אפשר ללמוד מ\"אִם אַחֶרֶת יִקַּח לוֹ\" (שמות כא, י): הכתוב הקיש את אמה העבריה לאשתו האחרת, שנקנית בביאה. \"ובעלה\" מלמד שאין הדין כך.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "caption": "קניין בכסף ובביאה: שלושה מקרים",
+      "columns": [
+       "",
+       "נקנית בכסף?",
+       "נקנית בביאה?",
+       "הטעם"
       ],
-      "sections": [
-        "s6",
-        "s7",
-        "s8",
-        "s9",
-        "s10",
-        "s11",
-        "s18"
-      ]
-    },
-    {
-      "term": "לשמה",
-      "hebrew": "",
-      "sense": "שנכתב לשם האישה הזאת",
-      "definition": "הדרישה ששטר כמו גט ייכתב במיוחד לשם האישה ולשם המטרה. שטר שהוכן מראש לכל אחת נכתב שלא לשמה.",
-      "on_this_daf": "ריש לקיש פוסק ששטר אירוסין, כמו גט, צריך להיכתב לשמה. האמוראים נחלקים אם צריך גם את דעתה.",
-      "aliases": [
-        "שלא לשמה"
-      ],
-      "sections": [
-        "s10",
-        "s11",
-        "s12"
-      ]
-    },
-    {
-      "term": "הקש הויה ליציאה",
-      "hebrew": "",
-      "sense": "השוואת הקידושין לגירושין",
-      "definition": "ההקש מ\"וְיָצְאָה... וְהָיְתָה\" (דברים כד, ב), שלפיו חלים דיני הגירושין גם על הכניסה לנישואין.",
-      "on_this_daf": "ריש לקיש לומד ממנו שצריך לשמה. רב פפא מראה שאותו הקש משמש את שני הצדדים במחלוקת אם צריך את דעתה.",
-      "aliases": [
-        "הויה ליציאה"
-      ],
-      "sections": [
-        "s10",
-        "s12"
-      ]
-    },
-    {
-      "term": "דעת מקנה",
-      "hebrew": "",
-      "sense": "הסכמת הצד המקנה",
-      "definition": "הסכמתו של מי שמעביר בעלות או מעמד בפעולה משפטית, בשונה ממי שקונה.",
-      "on_this_daf": "רב פפא טוען שכשם שגט צריך את דעת הבעל, שהוא המקנה, כך שטר אירוסין צריך את דעת האישה.",
-      "aliases": [],
-      "sections": [
-        "s12"
-      ]
-    },
-    {
-      "term": "קידושי ביאה",
-      "hebrew": "",
-      "sense": "קידושין בביאה",
-      "definition": "אחת משלוש דרכי הקידושין: ביאה שנעשית לשם קידושין יוצרת את הקשר.",
-      "on_this_daf": "רבי יוחנן לומד אותם מ\"בעולת בעל\", כי מהפסוק של רבי היה אפשר לחשוב שצריך גם כסף וגם ביאה.",
-      "aliases": [],
-      "sections": [
-        "s14",
-        "s15",
-        "s16",
-        "s19"
-      ]
-    },
-    {
-      "term": "נערה המאורסה",
-      "hebrew": "",
-      "sense": "נערה מאורסה שהיא בתולה",
-      "definition": "נערה שהתארסה ועדיין היא בתולה. הבא עליה חייב סקילה ולא חנק.",
-      "on_this_daf": "רבי אבא בר ממל טוען שלא היה מקרה כזה אילו הקידושין היו צריכים ביאה. התירוצים: ביאה שלא כדרכה, וקידושין בשטר.",
-      "aliases": [
-        "נערה מאורסה"
-      ],
-      "sections": [
-        "s14",
-        "s16",
-        "s17",
-        "s18"
-      ]
-    },
-    {
-      "term": "אמה עבריה",
-      "hebrew": "",
-      "sense": "השפחה העבריה",
-      "definition": "ילדה קטנה שאביה מכר אותה לשפחה. אדוניה או בנו רשאים לייעד אותה לאישה.",
-      "on_this_daf": "רבי יוחנן לומד מ\"ובעלה\" שבשונה מאישה, היא אינה נקנית בביאה.",
-      "aliases": [
+      "rows": [
+       [
+        "יבמה",
+        "לא",
+        "כן",
+        "זקוקה ועומדת ליבם, ולכן אי אפשר ללמוד ממנה"
+       ],
+       [
+        "אישה",
+        "כן",
+        "כן",
+        "\"בעולת בעל\" (לרבי יוחנן)"
+       ],
+       [
         "אמה העבריה",
-        "האמה העבריה"
+        "כן",
+        "לא",
+        "\"ובעלה\" מוציא אותה, אף שנאמר \"אחרת\""
+       ]
       ],
-      "sections": [
-        "s19"
+      "tags": [
+       [
+        null,
+        "not-acquired",
+        "acquires",
+        null
+       ],
+       [
+        null,
+        "acquires",
+        "acquires",
+        null
+       ],
+       [
+        null,
+        "acquires",
+        "not-acquired",
+        null
+       ]
       ]
+     },
+     "children": [],
+     "continues": "ממשיך בדף ט: – המקור של רבי להוצאת אמה העבריה, \"קידושין המסורין לביאה\" אצל רבא ובר אהינא, ומה עושה רבי ב\"בעולת בעל\". משם הדיון עובר לברייתת עשרה אנשים ולדף י."
     }
-  ]
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "שטר קידושין",
+   "hebrew": "",
+   "sense": "קידושין בשטר",
+   "definition": "אחת משלוש דרכי הקידושין: האיש מוסר לאישה (או לאביה) שטר שכתוב בו שהיא מקודשת לו. השטר פועל בתוכנו, לא בשוויו.",
+   "on_this_daf": "הגמרא שואלת מדוע הבעל כותב אותו, בשונה משטר מכר, בדעת מי הוא צריך להיכתב, והאם צריך לכתוב אותו לשמה.",
+   "aliases": [
+    "שטר הקידושין",
+    "שטר אירוסין",
+    "שטר האירוסין",
+    "שטרי אירוסין"
+   ],
+   "sections": [
+    "s6",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s18"
+   ]
+  },
+  {
+   "term": "לשמה",
+   "hebrew": "",
+   "sense": "שנכתב לשם האישה הזאת",
+   "definition": "הדרישה ששטר כמו גט ייכתב במיוחד לשם האישה ולשם המטרה. שטר שהוכן מראש לכל אחת נכתב שלא לשמה.",
+   "on_this_daf": "ריש לקיש פוסק ששטר אירוסין, כמו גט, צריך להיכתב לשמה. האמוראים נחלקים אם צריך גם את דעתה.",
+   "aliases": [
+    "שלא לשמה"
+   ],
+   "sections": [
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "term": "הקש הויה ליציאה",
+   "hebrew": "",
+   "sense": "השוואת הקידושין לגירושין",
+   "definition": "ההקש מ\"וְיָצְאָה... וְהָיְתָה\" (דברים כד, ב), שלפיו חלים דיני הגירושין גם על הכניסה לנישואין.",
+   "on_this_daf": "ריש לקיש לומד ממנו שצריך לשמה. רב פפא מראה שאותו הקש משמש את שני הצדדים במחלוקת אם צריך את דעתה.",
+   "aliases": [
+    "הויה ליציאה"
+   ],
+   "sections": [
+    "s10",
+    "s12"
+   ]
+  },
+  {
+   "term": "דעת מקנה",
+   "hebrew": "",
+   "sense": "הסכמת הצד המקנה",
+   "definition": "הסכמתו של מי שמעביר בעלות או מעמד בפעולה משפטית, בשונה ממי שקונה.",
+   "on_this_daf": "רב פפא טוען שכשם שגט צריך את דעת הבעל, שהוא המקנה, כך שטר אירוסין צריך את דעת האישה.",
+   "aliases": [],
+   "sections": [
+    "s12"
+   ]
+  },
+  {
+   "term": "קידושי ביאה",
+   "hebrew": "",
+   "sense": "קידושין בביאה",
+   "definition": "אחת משלוש דרכי הקידושין: ביאה שנעשית לשם קידושין יוצרת את הקשר.",
+   "on_this_daf": "רבי יוחנן לומד אותם מ\"בעולת בעל\", כי מהפסוק של רבי היה אפשר לחשוב שצריך גם כסף וגם ביאה.",
+   "aliases": [],
+   "sections": [
+    "s14",
+    "s15",
+    "s16",
+    "s19"
+   ]
+  },
+  {
+   "term": "נערה המאורסה",
+   "hebrew": "",
+   "sense": "נערה מאורסה שהיא בתולה",
+   "definition": "נערה שהתארסה ועדיין היא בתולה. הבא עליה חייב סקילה ולא חנק.",
+   "on_this_daf": "רבי אבא בר ממל טוען שלא היה מקרה כזה אילו הקידושין היו צריכים ביאה. התירוצים: ביאה שלא כדרכה, וקידושין בשטר.",
+   "aliases": [
+    "נערה מאורסה"
+   ],
+   "sections": [
+    "s14",
+    "s16",
+    "s17",
+    "s18"
+   ]
+  },
+  {
+   "term": "אמה עבריה",
+   "hebrew": "",
+   "sense": "השפחה העבריה",
+   "definition": "ילדה קטנה שאביה מכר אותה לשפחה. אדוניה או בנו רשאים לייעד אותה לאישה.",
+   "on_this_daf": "רבי יוחנן לומד מ\"ובעלה\" שבשונה מאישה, היא אינה נקנית בביאה.",
+   "aliases": [
+    "אמה העבריה",
+    "האמה העבריה"
+   ],
+   "sections": [
+    "s19"
+   ]
+  }
+ ],
+ "_pictures_fixed": true
 }

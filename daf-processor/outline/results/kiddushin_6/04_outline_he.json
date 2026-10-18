@@ -1,826 +1,827 @@
 {
-  "daf": "קידושין ו",
-  "lang": "he",
-  "scope": {
-    "start": "ו. – ברייתא של שתי שלשות של לשונות קידושין, אחרי דברי שמואל על לשונות שמתארות את מעמדו של האיש",
-    "end": "ו: – פירושו של רב אשי לדברי רבא במתנה על מנת להחזיר"
+ "daf": "קידושין ו",
+ "lang": "he",
+ "scope": {
+  "start": "ו. – ברייתא של שתי שלשות של לשונות קידושין, אחרי דברי שמואל על לשונות שמתארות את מעמדו של האיש",
+  "end": "ו: – פירושו של רב אשי לדברי רבא במתנה על מנת להחזיר"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "לשונות קידושין: לשונות ברורות, לשונות מן הפסוקים ולשונות משונות",
+   "amud": "ו.",
+   "text": {
+    "from": "6a.2",
+    "to": "6a.10"
+   },
+   "gist": "אילו אמירות מקדשות: שתי שלשות של לשונות שמועילות, רשימת לשונות מן הפסוקים שנשארו בלי הכרעה, \"חרופתי\", ולמה בכלל שואלים על לשון, אם שתיקה מתוך ההקשר כבר מועילה.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "שתי שלשות: \"אשתי\", \"שלי\", \"זקוקה לי\"",
+     "amud": "ו.",
+     "text": {
+      "from": "6a.2",
+      "to": "6a.2"
+     },
+     "gist": "ברייתא מכשירה שש לשונות בשתי קבוצות של שלוש, והגמרא מסבירה מדוע הן מחולקות.",
+     "bullets": [
+      {
+       "text": "ברייתא: \"הרי את אשתי\", \"הרי את ארוסתי\" או \"הרי את קנויה לי\" – מקודשת.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "וכן \"הרי את שלי\", \"הרי את ברשותי\" או \"הרי את זקוקה לי\" – מקודשת.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "קושיה: אם לשתי הקבוצות אותו דין, מדוע לא שנה את כולן יחד? תשובה: התנא קיבל אותן כשתי שלשות, וכך שנה אותן.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"זקוקה לי\" מזכיר את הזיקה של ייבום – אישה שקשורה לאיש מבחינה הלכתית. לימוד בשלשות הוא דרך מוכרת לשמור מסורת, גם כשהתוכן עצמו אינו מחייב את החלוקה.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "לשונות מן הפסוקים: \"עזרתי\", \"צלעתי\"… ו\"לקוחתי\"",
+     "amud": "ו.",
+     "text": {
+      "from": "6a.3",
+      "to": "6a.4"
+     },
+     "gist": "שורה של בעיות על לשונות שמהדהדות פסוקים על אישה ונישואין. רק \"לקוחתי\" נפשטת, מן הפועל שהתורה עצמה משתמשת בו לקידושין.",
+     "bullets": [
+      {
+       "text": "בעיא: האם היא מקודשת אם אמר לה \"מיוחדת לי\", \"מיועדת לי\", \"עזרתי\", \"נגדתי\", \"עצורתי\", \"צלעתי\", \"סגורתי\", \"תחתי\", \"תפושתי\" או \"לקוחתי\"?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "כל לשון נשענת על פסוק: \"מיועדת\" – מן האמה העבריה שאדונה מייעד אותה לו; \"עזרתי\" ו\"נגדתי\" – מ\"עֵזֶר כְּנֶגְדּוֹ\"; \"צלעתי\" – מצלעו של אדם; \"סגורתי\" ו\"תחתי\" – מ\"וַיִּסְגֹּר בָּשָׂר תַּחְתֶּנָּה\"; \"תפושתי\" – מלשון הנערה שנתפשה.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "אחת מהן נפשטת מברייתא: \"לקוחתי\" – מקודשת, שנאמר \"כִּי יִקַּח אִישׁ אִשָּׁה\" (דברים כד, א).",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "\"חרופתי\": פסוק, לשון יהודה, או רק ביהודה?",
+     "amud": "ו.",
+     "text": {
+      "from": "6a.5",
+      "to": "6a.6"
+     },
+     "gist": "ברייתא מכשירה \"חרופתי\", והגמרא מנסחת את הטעם מחדש פעמיים, ומסיימת בדין שנוהג רק ביהודה.",
+     "bullets": [
+      {
+       "text": "בעיא: \"הרי את חרופתי\"? ברייתא: מקודשת, \"שכן ביהודה קורין לארוסה חרופה\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "קושיה: וכי יהודה היא רוב העולם? מדוע שדין כללי ייתלה בלשון מקומית?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ניסוח ראשון: מקודשת משום הפסוק \"וְהִוא שִׁפְחָה נֶחֱרֶפֶת לְאִישׁ\" (ויקרא יט, כ), ועוד – משום הלשון שביהודה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "קושיה: וכי מצרפים לשון מקומית ב\"ועוד\" לדין שנלמד מפסוק?",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "הקריאה האחרונה: האומר \"חרופה\" ביהודה – מקודשת, שכן שם זו המילה לארוסה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "מכאן שמחוץ ליהודה, שם אין למילה משמעות זו, הלשון לא תועיל. וכנראה הלשון שביהודה עצמה צמחה מן הפסוק.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s5",
+     "title": "למה לשאול? שתיקה מועילה מתוך ההקשר, אבל לשון משונה עלולה לערער אותו",
+     "amud": "ו.",
+     "text": {
+      "from": "6a.7",
+      "to": "6a.10"
+     },
+     "gist": "הגמרא שואלת באיזה מקרה עוסקות הבעיות, הרי שתיקה בתוך שיחה על קידושין כבר מועילה. התשובה: לשון משונה עשויה להעביר את השיחה לעניין אחר, והבעיות נשארות בתיקו.",
+     "bullets": [
+      {
+       "text": "אם לא דיברו על עסקי גיטה וקידושיה, מנין תדע מה פירוש הלשונות האלה?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "בשונה מגט, שאפשר לתת לאישה בעל כורחה, קידושין צריכים את הסכמתה, ולכן היא חייבת להבין מה קורה.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "ואם דיברו על כך – אפילו שתיקה מועילה. במשנה (מעשר שני ד, ז) רבי יוסי אומר שנתינה בלי פירוש – \"דיו\", ורבי יהודה אומר \"צריך לפרש\"; ורב הונא אמר שמואל: הלכה כרבי יוסי.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "תשובה: באמת מדובר כשדיברו על כך, ואילו שתק – הייתה מקודשת. המקרה הוא שנתן לה דבר ואמר אחת מן הלשונות האלה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "השאלה היא אם אמר זאת לשם קידושין, או כדי לשכור אותה למלאכה – וכך חזר בו מן הקידושין. הלשון הופכת את מעשהו לפחות ברור משתיקה. הבעיות נשארות בתיקו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "תוספות הרא\"ש: גם אם שניהם אומרים אחר כך שהתכוונו לקידושין – אינה מקודשת, כי בשעה שהעדים שמעו את הדברים, משמעותם לא הייתה ברורה להם.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "תוספות הרא\"ש: אם אמר לעדים מראש שיקדש אותה בלשון זו, והיא הבינה כך – ודאי מקודשת, כי המשמעות הייתה ברורה להם בשעה ששמעו.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "המבחן אובייקטיבי אבל גמיש: מה שמתבונן מן הצד היה מבין בשעת המעשה. לכן שתיקה באמצע השיחה ברורה, ואילו לשון משונה עשויה לרמז שעבר לנושא אחר.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "תשובת הגמרא בדף ו.: כסף שניתן בשתיקה בתוך שיחה על קידושין – מקודשת (רבי יוסי, וכן הלכה); אבל לשון משונה באותו רגע מעוררת את השאלה אם פנה לשכור אותה למלאכה.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שתי תמונות של איש ואישה המדברים על עסקי קידושיה. מימין הוא נותן לה כסף בשתיקה; משמאל הוא נותן לה כסף ואומר \"הרי את עצורתי\".</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"410\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"410\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"95\" y=\"96\" width=\"264\" height=\"44\" rx=\"22\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><use href=\"#man\" x=\"80\" y=\"186\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"300\" y=\"186\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><path d=\"M150 276 L290 276\" stroke=\"#8A7560\" stroke-width=\"3\"/><path d=\"M294 276 l-10 -6 v12 z\" fill=\"#8A7560\"/><circle cx=\"221\" cy=\"276\" r=\"12\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><rect x=\"480\" y=\"96\" width=\"230\" height=\"44\" rx=\"22\" fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\"/><use href=\"#man\" x=\"525\" y=\"186\" width=\"70\" height=\"140\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"745\" y=\"186\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><path d=\"M595 276 L735 276\" stroke=\"#8A7560\" stroke-width=\"3\"/><path d=\"M739 276 l-10 -6 v12 z\" fill=\"#8A7560\"/><circle cx=\"666\" cy=\"276\" r=\"12\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/></g><use href=\"#mark-ok\" x='828' y=\"344\" width=\"28\" height=\"28\"/><text x=\"673\" y=\"48\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\" direction=\"rtl\">כסף שניתן בשתיקה</text><text x=\"673\" y=\"72\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">משנה מעשר שני ד, ז, המובאת בדף ו.</text><text x=\"673\" y=\"123\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">…מדברים על עסקי קידושיה…</text><text x=\"820\" y=\"364\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor='start' direction=\"rtl\">מקודשת: רבי יוסי, וכן הלכה</text><text x=\"673\" y=\"398\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">רבי יהודה: צריך לפרש</text><text x=\"228\" y=\"48\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">כסף שניתן בלשון משונה</text><text x=\"228\" y=\"72\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">ו.: המקרה שבו עוסקות הבעיות</text><text x=\"305\" y=\"123\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">\"הרי את עצורתי\"</text><text x=\"228\" y=\"172\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">לקידושין, או לשכור אותה למלאכה?</text><text x=\"228\" y=\"364\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">תיקו: הבעיה נשארת במקומה</text><text x=\"228\" y=\"398\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">הלשון עשויה לרמז שעבר לעניין אחר</text></svg>"
+     },
+     "children": []
+    }
+   ]
   },
-  "sections": [
+  {
+   "id": "s6",
+   "title": "קידושין בשתיקה: רבי יוסי ורבי יהודה, ותנאי \"עסוקין באותו ענין\"",
+   "amud": "ו.",
+   "text": {
+    "from": "6a.11",
+    "to": "6a.14"
+   },
+   "gist": "הגמרא חוזרת למשנה שהביאה: עד כמה המעשה בשתיקה צריך להיות קשור לשיחה, ועד כמה ההלכה כרבי יוסי יסודית לדיין.",
+   "bullets": [],
+   "returns_to": [
     {
-      "id": "s1",
-      "title": "לשונות קידושין: לשונות ברורות, לשונות מן הפסוקים ולשונות משונות",
-      "amud": "ו.",
-      "text": {
-        "from": "6a.2",
-        "to": "6a.10"
-      },
-      "gist": "אילו אמירות מקדשות: שתי שלשות של לשונות שמועילות, רשימת לשונות מן הפסוקים שנשארו בלי הכרעה, \"חרופתי\", ולמה בכלל שואלים על לשון, אם שתיקה מתוך ההקשר כבר מועילה.",
-      "bullets": [],
-      "children": [
-        {
-          "id": "s2",
-          "title": "שתי שלשות: \"אשתי\", \"שלי\", \"זקוקה לי\"",
-          "amud": "ו.",
-          "text": {
-            "from": "6a.2",
-            "to": "6a.2"
-          },
-          "gist": "ברייתא מכשירה שש לשונות בשתי קבוצות של שלוש, והגמרא מסבירה מדוע הן מחולקות.",
-          "bullets": [
-            {
-              "text": "ברייתא: \"הרי את אשתי\", \"הרי את ארוסתי\" או \"הרי את קנויה לי\" – מקודשת.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "וכן \"הרי את שלי\", \"הרי את ברשותי\" או \"הרי את זקוקה לי\" – מקודשת.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "קושיה: אם לשתי הקבוצות אותו דין, מדוע לא שנה את כולן יחד? תשובה: התנא קיבל אותן כשתי שלשות, וכך שנה אותן.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "\"זקוקה לי\" מזכיר את הזיקה של ייבום – אישה שקשורה לאיש מבחינה הלכתית. לימוד בשלשות הוא דרך מוכרת לשמור מסורת, גם כשהתוכן עצמו אינו מחייב את החלוקה.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s3",
-          "title": "לשונות מן הפסוקים: \"עזרתי\", \"צלעתי\"… ו\"לקוחתי\"",
-          "amud": "ו.",
-          "text": {
-            "from": "6a.3",
-            "to": "6a.4"
-          },
-          "gist": "שורה של בעיות על לשונות שמהדהדות פסוקים על אישה ונישואין. רק \"לקוחתי\" נפשטת, מן הפועל שהתורה עצמה משתמשת בו לקידושין.",
-          "bullets": [
-            {
-              "text": "בעיא: האם היא מקודשת אם אמר לה \"מיוחדת לי\", \"מיועדת לי\", \"עזרתי\", \"נגדתי\", \"עצורתי\", \"צלעתי\", \"סגורתי\", \"תחתי\", \"תפושתי\" או \"לקוחתי\"?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "כל לשון נשענת על פסוק: \"מיועדת\" – מן האמה העבריה שאדונה מייעד אותה לו; \"עזרתי\" ו\"נגדתי\" – מ\"עֵזֶר כְּנֶגְדּוֹ\"; \"צלעתי\" – מצלעו של אדם; \"סגורתי\" ו\"תחתי\" – מ\"וַיִּסְגֹּר בָּשָׂר תַּחְתֶּנָּה\"; \"תפושתי\" – מלשון הנערה שנתפשה.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "אחת מהן נפשטת מברייתא: \"לקוחתי\" – מקודשת, שנאמר \"כִּי יִקַּח אִישׁ אִשָּׁה\" (דברים כד, א).",
-              "detail": 2,
-              "source": "gemara"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s4",
-          "title": "\"חרופתי\": פסוק, לשון יהודה, או רק ביהודה?",
-          "amud": "ו.",
-          "text": {
-            "from": "6a.5",
-            "to": "6a.6"
-          },
-          "gist": "ברייתא מכשירה \"חרופתי\", והגמרא מנסחת את הטעם מחדש פעמיים, ומסיימת בדין שנוהג רק ביהודה.",
-          "bullets": [
-            {
-              "text": "בעיא: \"הרי את חרופתי\"? ברייתא: מקודשת, \"שכן ביהודה קורין לארוסה חרופה\".",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "קושיה: וכי יהודה היא רוב העולם? מדוע שדין כללי ייתלה בלשון מקומית?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "ניסוח ראשון: מקודשת משום הפסוק \"וְהִוא שִׁפְחָה נֶחֱרֶפֶת לְאִישׁ\" (ויקרא יט, כ), ועוד – משום הלשון שביהודה.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "קושיה: וכי מצרפים לשון מקומית ב\"ועוד\" לדין שנלמד מפסוק?",
-              "detail": 3,
-              "source": "gemara"
-            },
-            {
-              "text": "הקריאה האחרונה: האומר \"חרופה\" ביהודה – מקודשת, שכן שם זו המילה לארוסה.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "מכאן שמחוץ ליהודה, שם אין למילה משמעות זו, הלשון לא תועיל. וכנראה הלשון שביהודה עצמה צמחה מן הפסוק.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s5",
-          "title": "למה לשאול? שתיקה מועילה מתוך ההקשר, אבל לשון משונה עלולה לערער אותו",
-          "amud": "ו.",
-          "text": {
-            "from": "6a.7",
-            "to": "6a.10"
-          },
-          "gist": "הגמרא שואלת באיזה מקרה עוסקות הבעיות, הרי שתיקה בתוך שיחה על קידושין כבר מועילה. התשובה: לשון משונה עשויה להעביר את השיחה לעניין אחר, והבעיות נשארות בתיקו.",
-          "bullets": [
-            {
-              "text": "אם לא דיברו על עסקי גיטה וקידושיה, מנין תדע מה פירוש הלשונות האלה?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "בשונה מגט, שאפשר לתת לאישה בעל כורחה, קידושין צריכים את הסכמתה, ולכן היא חייבת להבין מה קורה.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "ואם דיברו על כך – אפילו שתיקה מועילה. במשנה (מעשר שני ד, ז) רבי יוסי אומר שנתינה בלי פירוש – \"דיו\", ורבי יהודה אומר \"צריך לפרש\"; ורב הונא אמר שמואל: הלכה כרבי יוסי.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "תשובה: באמת מדובר כשדיברו על כך, ואילו שתק – הייתה מקודשת. המקרה הוא שנתן לה דבר ואמר אחת מן הלשונות האלה.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "השאלה היא אם אמר זאת לשם קידושין, או כדי לשכור אותה למלאכה – וכך חזר בו מן הקידושין. הלשון הופכת את מעשהו לפחות ברור משתיקה. הבעיות נשארות בתיקו.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "תוספות הרא\"ש: גם אם שניהם אומרים אחר כך שהתכוונו לקידושין – אינה מקודשת, כי בשעה שהעדים שמעו את הדברים, משמעותם לא הייתה ברורה להם.",
-              "detail": 2,
-              "source": "shiur"
-            },
-            {
-              "text": "תוספות הרא\"ש: אם אמר לעדים מראש שיקדש אותה בלשון זו, והיא הבינה כך – ודאי מקודשת, כי המשמעות הייתה ברורה להם בשעה ששמעו.",
-              "detail": 2,
-              "source": "shiur"
-            },
-            {
-              "text": "המבחן אובייקטיבי אבל גמיש: מה שמתבונן מן הצד היה מבין בשעת המעשה. לכן שתיקה באמצע השיחה ברורה, ואילו לשון משונה עשויה לרמז שעבר לנושא אחר.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "illustration": {
-            "caption": "תשובת הגמרא בדף ו.: כסף שניתן בשתיקה בתוך שיחה על קידושין – מקודשת (רבי יוסי, וכן הלכה); אבל לשון משונה באותו רגע מעוררת את השאלה אם פנה לשכור אותה למלאכה.",
-            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שתי תמונות של איש ואישה המדברים על עסקי קידושיה. מימין הוא נותן לה כסף בשתיקה; משמאל הוא נותן לה כסף ואומר \"הרי את עצורתי\".</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"425\" height=\"410\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"460\" y=\"14\" width=\"425\" height=\"410\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"95\" y=\"96\" width=\"264\" height=\"44\" rx=\"22\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><use href=\"#man\" x=\"80\" y=\"186\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"300\" y=\"186\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><path d=\"M150 276 L290 276\" stroke=\"#8A7560\" stroke-width=\"3\"/><path d=\"M294 276 l-10 -6 v12 z\" fill=\"#8A7560\"/><circle cx=\"221\" cy=\"276\" r=\"12\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"44\" y=\"344\" width=\"28\" height=\"28\"/><rect x=\"480\" y=\"96\" width=\"230\" height=\"44\" rx=\"22\" fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\"/><use href=\"#man\" x=\"525\" y=\"186\" width=\"70\" height=\"140\" style=\"color:#6B6F3A\"/><use href=\"#woman\" x=\"745\" y=\"186\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><path d=\"M595 276 L735 276\" stroke=\"#8A7560\" stroke-width=\"3\"/><path d=\"M739 276 l-10 -6 v12 z\" fill=\"#8A7560\"/><circle cx=\"666\" cy=\"276\" r=\"12\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/></g><text x=\"673\" y=\"48\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\" direction=\"rtl\">כסף שניתן בשתיקה</text><text x=\"673\" y=\"72\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">משנה מעשר שני ד, ז, המובאת בדף ו.</text><text x=\"673\" y=\"123\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">…מדברים על עסקי קידושיה…</text><text x=\"820\" y=\"364\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\" direction=\"rtl\">מקודשת: רבי יוסי, וכן הלכה</text><text x=\"673\" y=\"398\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">רבי יהודה: צריך לפרש</text><text x=\"228\" y=\"48\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">כסף שניתן בלשון משונה</text><text x=\"228\" y=\"72\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">ו.: המקרה שבו עוסקות הבעיות</text><text x=\"305\" y=\"123\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">\"הרי את עצורתי\"</text><text x=\"228\" y=\"172\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">לקידושין, או לשכור אותה למלאכה?</text><text x=\"228\" y=\"364\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">תיקו: הבעיה נשארת במקומה</text><text x=\"228\" y=\"398\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">הלשון עשויה לרמז שעבר לעניין אחר</text></svg>"
-          },
-          "children": []
-        }
-      ]
-    },
-    {
-      "id": "s6",
-      "title": "קידושין בשתיקה: רבי יוסי ורבי יהודה, ותנאי \"עסוקין באותו ענין\"",
-      "amud": "ו.",
-      "text": {
-        "from": "6a.11",
-        "to": "6a.14"
-      },
-      "gist": "הגמרא חוזרת למשנה שהביאה: עד כמה המעשה בשתיקה צריך להיות קשור לשיחה, ועד כמה ההלכה כרבי יוסי יסודית לדיין.",
-      "bullets": [],
-      "returns_to": [
-        {
-          "id": "s5",
-          "note": "חוזר למשנה של רבי יוסי ורבי יהודה שהובאה שם"
-        }
-      ],
-      "children": [
-        {
-          "id": "s7",
-          "title": "עדיין באותו נושא? עסוקין באותו ענין, ו\"מענין לענין\" של אביי",
-          "amud": "ו.",
-          "text": {
-            "from": "6a.11",
-            "to": "6a.13"
-          },
-          "gist": "אמוראים ותנאים מגבילים את רבי יוסי לשיחה שעדיין עוסקת באותו עניין. רבי אלעזר ברבי שמעון אינו מגביל, ואביי מסביר שגם נושא קרוב עדיין נושא את המשמעות.",
-          "bullets": [
-            {
-              "text": "המשנה: נתן לה גט או כסף קידושין באמצע השיחה ולא פירש – רבי יוסי אומר: \"דיו\"; רבי יהודה אומר: \"צריך לפרש\".",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רב יהודה אמר שמואל: \"והוא שעסוקין באותו ענין\" – כלומר, רק כשהם עדיין מדברים באותו דבר. וכן אמר רבי אלעזר אמר רבי אושעיא.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "מחלוקת תנאים: רבי מצריך שיהיו עדיין עסוקין באותו ענין; רבי אלעזר ברבי שמעון אומר שמועיל גם אם אינם עסוקין באותו ענין.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "קושיה: אם עברו לנושא אחר, מנין תדע למה הוא מתכוון? אביי: \"מענין לענין באותו ענין\" – הם עברו מנושא לנושא בתוך אותו תחום כללי.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "לפי רש\"י, למשל: מן הקידושין עצמם להסדרים הכספיים של הנישואין.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "chart": {
-            "caption": "כסף שניתן בשתיקה: האם השיחה עדיין נותנת לו את משמעותו?",
-            "columns": [
-              "",
-              "עדיין באותו נושא",
-              "עברו לנושא קרוב",
-              "עברו לנושא שאינו קשור"
-            ],
-            "rows": [
-              [
-                "רבי יהודה",
-                "לא מועיל: צריך לפרש",
-                "לא מועיל",
-                "לא מועיל"
-              ],
-              [
-                "רבי יוסי, כפי שמפרש אותו רבי (וכן שמואל ורבי אושעיא)",
-                "מועיל",
-                "לא מועיל",
-                "לא מועיל"
-              ],
-              [
-                "רבי יוסי, כפי שמפרש אותו רבי אלעזר ברבי שמעון",
-                "מועיל",
-                "מועיל (כהסבר אביי)",
-                "לא מועיל: היא אינה יכולה לדעת למה התכוון"
-              ]
-            ],
-            "tags": [
-              [
-                null,
-                "invalid",
-                "invalid",
-                "invalid"
-              ],
-              [
-                null,
-                "valid",
-                "invalid",
-                "invalid"
-              ],
-              [
-                null,
-                "valid",
-                "valid",
-                "invalid"
-              ]
-            ]
-          },
-          "children": []
-        },
-        {
-          "id": "s8",
-          "title": "הלכה כרבי יוסי, ומי רשאי לעסוק בגיטין וקידושין",
-          "amud": "ו.",
-          "text": {
-            "from": "6a.14",
-            "to": "6a.14"
-          },
-          "gist": "ההלכה כרבי יוסי יסודית כל כך, שחכם שאינו יודע אותה אינו רשאי לעסוק בענייני גירושין וקידושין.",
-          "bullets": [
-            {
-              "text": "רב הונא אמר שמואל: הלכה כרבי יוסי.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רב יימר שואל את רב אשי: שמואל אמר גם, כפי שמסר רב יהודה, \"כל שאינו יודע בטיב גיטין וקידושין לא יהא לו עסק עמהם\". האם זה כולל גם מי שפשוט לא שמע את ההלכה הזאת?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רב אשי: כן. זו הלכה חשובה בדיני קידושין, ומי שאינו מכיר אותה עלול לטעות.",
-              "detail": 2,
-              "source": "gemara"
-            }
-          ],
-          "children": []
-        }
-      ]
-    },
-    {
-      "id": "s9",
-      "title": "לשונות גירושין ושחרור: לשונות מוחלפות, \"לעצמך\", \"אין לי עסק בך\"",
-      "amud": "ו.–ו:",
-      "text": {
-        "from": "6a.15",
-        "to": "6b.6"
-      },
-      "gist": "חזרה ללשונות הגירושין של שמואל: לשונות שהוחלפו בין אישה לעבד, האם \"הרי את לעצמך\" מגרשת, והאם \"אין לי עסק בך\" משחררת עבד.",
-      "bullets": [],
-      "chart": {
-        "caption": "לשונות של שחרור: מה כל אחת מהן פועלת באישה ובעבד",
-        "columns": [
-          "הלשון",
-          "אמר לאשתו",
-          "אמר לעבדו"
-        ],
-        "rows": [
-          [
-            "\"הרי את מותרת לכל אדם\"",
-            "מגורשת (שמואל)",
-            "לא אמר כלום (כשאמר לשפחתו)"
-          ],
-          [
-            "\"הרי את בת חורין\" / \"הרי אתה בן חורין\"",
-            "לא אמר כלום",
-            "יצא לחירות: זהו גופו של גט שחרור"
-          ],
-          [
-            "\"הרי את לעצמך\"",
-            "מגורשת (מקל וחומר)",
-            "יצא לחירות (ברייתא)"
-          ]
-        ],
-        "tags": [
-          [
-            null,
-            "effective",
-            "not-effective"
-          ],
-          [
-            null,
-            "not-effective",
-            "effective"
-          ],
-          [
-            null,
-            "effective",
-            "effective"
-          ]
-        ]
-      },
-      "children": [
-        {
-          "id": "s10",
-          "title": "לשונות גירושין, ולשונות שהוחלפו בין אישה לעבד",
-          "amud": "ו.–ו:",
-          "text": {
-            "from": "6a.15",
-            "to": "6b.1"
-          },
-          "gist": "לשונות הגירושין הכשרות של שמואל, והדין הפשוט שלשון של עבד אינה מגרשת אישה, ולשון של אישה אינה משחררת עבד.",
-          "bullets": [
-            {
-              "text": "שמואל: בעל נותן לאשתו גט ואומר \"הרי את משולחת\", \"הרי את מגורשת\" או \"הרי את מותרת לכל אדם\" – מגורשת.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "פשוט: \"הרי את בת חורין\" שאמר לאשתו עם הגט, או \"הרי את מותרת לכל אדם\" שאמר לשפחתו הכנענית כשהוא משחרר אותה – \"לא אמר ולא כלום\".",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "כל לשון שייכת לשינוי המעמד שלה: לשון העבד אינה יכולה להתיר אישה, ולשון האישה אינה יכולה לשחרר עבד.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s11",
-          "title": "\"הרי את לעצמך\": מעשה ידיה או גירושין?",
-          "amud": "ו:",
-          "text": {
-            "from": "6b.2",
-            "to": "6b.3"
-          },
-          "gist": "האם \"הרי את לעצמך\" משחרר רק את מעשה ידיה, או מגרש אותה? רבינא מוכיח מגט שחרור שהיא מגורשת.",
-          "bullets": [
-            {
-              "text": "בעיא: בעל אומר לאשתו \"הרי את לעצמך\". האם התכוון רק למלאכה – שמעשה ידיה יהיו שלה – או שהיא לעצמה לגמרי, כלומר מגורשת?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "הפירוש הראשון הוא הסדר מותר בתוך הנישואין: הוא מפסיק לזון אותה, והיא שומרת לעצמה את מה שהיא מרוויחה.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "רבינא לרב אשי, מברייתא: \"גופו של גט שחרור: 'הרי אתה בן חורין', 'הרי אתה לעצמך'\".",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "קל וחומר: עבד כנעני, שרבו קונה את גופו, יוצא בלשון זו לחירות גמורה; אישה, שבעלה אינו קונה את גופה – כל שכן שהיא מגורשת.",
-              "detail": 2,
-              "source": "gemara"
-            }
-          ],
-          "illustration": {
-            "caption": "ראייתו של רבינא (ו:): \"הרי אתה לעצמך\" משחרר לגמרי עבד, שגופו קנוי לרבו – ולכן כל שכן שהוא מגרש אישה.",
-            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: אדון אומר לעבדו הכנעני \"הרי אתה לעצמך\", והעבד יוצא לחירות. משמאל: בעל אומר לאשתו אותם דברים, וכל שכן שהיא מגורשת.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"420\" height=\"390\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"465\" y=\"14\" width=\"420\" height=\"390\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"90\" y=\"92\" width=\"250\" height=\"42\" rx=\"21\" fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\"/><use href=\"#man\" x=\"70\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#6B6F3A\"/><use href=\"#person\" x=\"280\" y=\"170\" width=\"65\" height=\"130\" style=\"color:#8C5A3C\"/><use href=\"#mark-ok\" x=\"50\" y=\"334\" width=\"26\" height=\"26\"/><path d=\"M438 230 H456\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M462 230 l-8 -6 v12 z\" fill=\"#5B6478\"/><rect x=\"540\" y=\"92\" width=\"250\" height=\"42\" rx=\"21\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><use href=\"#man\" x=\"520\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"735\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><use href=\"#mark-ok\" x=\"500\" y=\"334\" width=\"26\" height=\"26\"/></g><text x=\"675\" y=\"48\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">עבד כנעני</text><text x=\"675\" y=\"72\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">גופו קנוי לרבו</text><text x=\"685\" y=\"118\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">\"הרי אתה לעצמך\"</text><text x=\"795\" y=\"318\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">האדון</text><text x=\"588\" y=\"318\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">העבד</text><text x=\"816\" y=\"352\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\" direction=\"rtl\">יצא לחירות: זהו גופו של גט שחרור</text><text x=\"675\" y=\"386\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">ברייתא: \"הרי אתה בן חורין\", \"הרי אתה לעצמך\"</text><text x=\"225\" y=\"48\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\" direction=\"rtl\">אישה</text><text x=\"225\" y=\"72\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">גופה אינו קנוי לבעלה</text><text x=\"235\" y=\"118\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">\"הרי את לעצמך\"</text><text x=\"345\" y=\"318\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">הבעל</text><text x=\"130\" y=\"318\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">האישה</text><text x=\"366\" y=\"352\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\" direction=\"rtl\">כל שכן: היא מגורשת</text><text x=\"225\" y=\"386\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">ראייתו של רבינא לפני רב אשי (ו:)</text></svg>"
-          },
-          "children": []
-        },
-        {
-          "id": "s12",
-          "title": "\"אין לי עסק בך\": פטור ממלאכה או שחרור? האונו",
-          "amud": "ו:",
-          "text": {
-            "from": "6b.4",
-            "to": "6b.6"
-          },
-          "gist": "האם \"אין לי עסק בך\" משחרר עבד, או רק פוטר אותו ממלאכה? נוסח האונו שנכתב כשעבד נמכר לנכרי מוכיח שהלשון משחררת.",
-          "bullets": [
-            {
-              "text": "רבינא לרב אשי: אדון אומר לעבדו הכנעני \"אין לי עסק בך\". האם התכוון לגמרי – לשחרר אותו – או רק שהעבד פטור ממלאכה?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "ההבדל הוא במעמד האישי, לא רק במלאכה: עבד משוחרר נעשה יהודי גמור.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "רב נחמן (ויש אומרים רב חנין מחוזאה) לרב אשי: המוכר עבדו לנכרי – יצא לחירות, וצריך גט שחרור מרבו הראשון. זה קנס, משום שמנע ממנו מצוות.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רבן שמעון בן גמליאל: זה דווקא כשלא כתב עליו אונו; אבל אם כתב עליו אונו – \"זהו שחרורו\".",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רב ששת: באונו כתוב \"כשתברח ממנו – אין לי עסק בך\". אם כן, הלשון הזאת היא לשון שחרור כשרה.",
-              "detail": 2,
-              "source": "gemara"
-            }
-          ],
-          "illustration": {
-            "caption": "הראיה (ו:): עבד שנמכר לנכרי יוצא לחירות, ולדברי רבן שמעון בן גמליאל, אונו שנכתב בשעת המכירה הוא שחרורו; רב ששת מביא את נוסחו.",
-            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שלוש תמונות: אדון מוכר את עבדו לנכרי; בשטר האונו כתוב \"כשתברח ממנו – אין לי עסק בך\"; בלי אונו העבד עדיין צריך גט שחרור, ועם אונו – האונו עצמו משחרר אותו.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"310\" y=\"14\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"605\" y=\"14\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#EDE7F3\"/><use href=\"#man\" x=\"35\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><use href=\"#person\" x=\"118\" y=\"140\" width=\"55\" height=\"110\" style=\"color:#8C5A3C\"/><use href=\"#person\" x=\"200\" y=\"140\" width=\"55\" height=\"110\" style=\"color:#4E7A8C\"/><rect x=\"365\" y=\"72\" width=\"170\" height=\"160\" rx=\"6\" fill=\"#FFFDF6\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><use href=\"#mark-ok\" x=\"625\" y=\"274\" width=\"24\" height=\"24\"/></g><text x=\"745\" y=\"46\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\" direction=\"rtl\">1. נמכר לנכרי</text><text x=\"835\" y=\"272\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">האדון</text><text x=\"755\" y=\"272\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">העבד</text><text x=\"672\" y=\"272\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">הקונה הנכרי</text><text x=\"745\" y=\"312\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">העבד יוצא לחירות,</text><text x=\"745\" y=\"334\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">אבל צריך גט שחרור</text><text x=\"745\" y=\"354\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">מרבו הראשון (קנס)</text><text x=\"450\" y=\"46\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">2. השטר (אונו)</text><text x=\"450\" y=\"115\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#4A3A2E\" text-anchor=\"middle\" direction=\"rtl\">\"כשתברח</text><text x=\"450\" y=\"143\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#4A3A2E\" text-anchor=\"middle\" direction=\"rtl\">ממנו –</text><text x=\"450\" y=\"171\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#4A3A2E\" text-anchor=\"middle\" direction=\"rtl\">אין לי</text><text x=\"450\" y=\"199\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#4A3A2E\" text-anchor=\"middle\" direction=\"rtl\">עסק בך\"</text><text x=\"450\" y=\"262\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">רב ששת: זה הוא</text><text x=\"450\" y=\"282\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">נוסח האונו</text><text x=\"155\" y=\"46\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#5A3A7A\" text-anchor=\"middle\" direction=\"rtl\">3. מה משחרר אותו?</text><text x=\"275\" y=\"90\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"end\" direction=\"rtl\">נמכר בלי אונו:</text><text x=\"275\" y=\"112\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"end\" direction=\"rtl\">עדיין צריך גט שחרור</text><text x=\"275\" y=\"132\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"end\" direction=\"rtl\">מרבו הראשון</text><text x=\"275\" y=\"176\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"end\" direction=\"rtl\">נכתב לו אונו:</text><text x=\"275\" y=\"198\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"end\" direction=\"rtl\">האונו עצמו</text><text x=\"275\" y=\"218\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"end\" direction=\"rtl\">הוא שחרורו</text><text x=\"275\" y=\"240\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"end\" direction=\"rtl\">(רבן שמעון בן גמליאל)</text><text x=\"244\" y=\"290\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\" direction=\"rtl\">לכן \"אין לי עסק בך\"</text><text x=\"244\" y=\"312\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\" direction=\"rtl\">משחרר את העבד</text><text x=\"450\" y=\"418\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">רב נחמן (ויש אומרים רב חנין מחוזאה) לרב אשי · ו:</text></svg>"
-          },
-          "children": []
-        }
-      ]
-    },
-    {
-      "id": "s13",
-      "title": "קידושין במלוה: המלוה עצמה, מחילת רבית, או הארכת זמן",
-      "amud": "ו:",
-      "text": {
-        "from": "6b.7",
-        "to": "6b.9"
-      },
-      "gist": "אביי: מלוה שכבר ניתנה אינה מקדשת, אבל הנאת מלוה מקדשת – אף שאסור לעשות כן מפני הערמת רבית. הגמרא מזהה את ההנאה הזאת עם הארכת זמן הפירעון.",
-      "bullets": [
-        {
-          "text": "אביי: המקדש במלוה שהלווה לה קודם – אינה מקודשת. בשעת הקידושין המלוה היא רק חוב, ולכן באותו רגע הוא אינו נותן לה כלום.",
-          "detail": 2,
-          "source": "gemara"
-        },
-        {
-          "text": "רש\"י: הוא אומר לה \"התקדשי לי במלוה שיש לי בידך\". מלוה להוצאה ניתנה, ולכן הכסף כבר שלה.",
-          "detail": 3,
-          "source": "shiur"
-        },
-        {
-          "text": "אביי: בהנאת מלוה – מקודשת, אבל אסור לעשות כן מפני הערמת רבית, כלומר תחבולה לעקוף את איסור הרבית.",
-          "detail": 2,
-          "source": "gemara"
-        },
-        {
-          "text": "איזו הנאה? לא מלוה של ארבעה בחמישה, שבה הוא מקדש אותה במחילת הזוז החמישי: זו רבית גמורה, ומחילת חוב היא כמו קידושין במלוה – ולכן אינה מקודשת.",
-          "detail": 2,
-          "source": "gemara"
-        },
-        {
-          "text": "אלא כשהגיע זמן הפירעון, הוא האריך לה את הזמן וקידש אותה בהנאת הזמן הנוסף. זה ערך ממשי שניתן עכשיו, אבל הוא דומה לרבית, כי תשלום על הארכת זמן נכלל באיסור רבית.",
-          "detail": 2,
-          "source": "gemara"
-        },
-        {
-          "text": "רש\"י: ההארכה שווה לה כמה שהייתה משלמת למי שישכנע אותו להאריך לה – פרוטה.",
-          "detail": 3,
-          "source": "shiur"
-        },
-        {
-          "text": "זו רק הערמה ולא רבית ממש, כי הוא אינו לוקח ממנה כסף; מה שהוא מרוויח מן המלוה הוא אישה.",
-          "detail": 3,
-          "source": "shiur"
-        },
-        {
-          "text": "רשב\"א: ההארכה נחשבת רק כשהמלוה עומדת לפירעון (\"כל העומד לגבות כגבוי דמי\"); כשזמן הפירעון רחוק, ההנאה מופשטת מדי.",
-          "detail": 3,
-          "source": "shiur"
-        },
-        {
-          "text": "הראשונים נחלקו במחילת המלוה כולה: לרש\"י, המחילה היא הנאה חדשה שניתנת עכשיו; לר\"ן, היא רק מבטלת את החוב הישן, ולכן רק הארכת הזמן מועילה.",
-          "detail": 3,
-          "source": "shiur"
-        }
-      ],
-      "chart": {
-        "caption": "אביי בקידושין במלוה: מה היא מקבלת בשעת הקידושין",
-        "columns": [
-          "המקרה",
-          "מה היא מקבלת בשעת הקידושין",
-          "הדין"
-        ],
-        "rows": [
-          [
-            "המלוה עצמה",
-            "כלום: הכסף היה שלה להוצאה, ונשאר רק חוב",
-            "אינה מקודשת"
-          ],
-          [
-            "מחילת הזוז החמישי במלוה של ארבעה בחמישה",
-            "רק פטור מחוב",
-            "רבית גמורה; אינה מקודשת"
-          ],
-          [
-            "הארכת הזמן כשהגיע זמן הפירעון",
-            "ההנאה מהזמן הנוסף",
-            "מקודשת, אבל אסור: הערמת רבית"
-          ]
-        ],
-        "tags": [
-          [
-            null,
-            null,
-            "not-effective"
-          ],
-          [
-            null,
-            null,
-            "not-effective"
-          ],
-          [
-            null,
-            null,
-            "effective"
-          ]
-        ]
-      },
-      "illustration": {
-        "caption": "המקרים של אביי (ו:): המלוה עצמה אינה נותנת לה כלום בשעת הקידושין, מחילת התוספת בארבעה בחמישה היא רבית ממש, והארכת הזמן מקדשת – אבל אסורה מפני הערמת רבית.",
-        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ציר זמן: הוא מלווה לה כסף, מגיע זמן הפירעון, הוא מאריך לה את הזמן ומקדש אותה בהנאה הזאת. למטה: שלושה מקרים ודיניהם.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><path d=\"M60 150 H850\" stroke=\"#C9C1B2\" stroke-width=\"3\"/><path d=\"M862 150 l-12 -7 v14 z\" fill=\"#C9C1B2\"/><circle cx=\"120\" cy=\"150\" r=\"14\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><circle cx=\"340\" cy=\"150\" r=\"14\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><circle cx=\"560\" cy=\"150\" r=\"14\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><circle cx=\"780\" cy=\"150\" r=\"14\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><rect x=\"20\" y=\"220\" width=\"270\" height=\"200\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"315\" y=\"220\" width=\"270\" height=\"200\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"610\" y=\"220\" width=\"270\" height=\"200\" rx=\"12\" fill=\"#E3EAF3\"/><use href=\"#mark-no\" x=\"40\" y=\"270\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"335\" y=\"270\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x=\"630\" y=\"270\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"630\" y=\"306\" width=\"26\" height=\"26\"/></g><text x=\"450\" y=\"36\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">אביי: המקדש אישה במלוה</text><text x=\"780\" y=\"110\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">הלווה לה כסף</text><text x=\"560\" y=\"110\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">הגיע זמן הפירעון</text><text x=\"340\" y=\"110\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">האריך לה את הזמן</text><text x=\"120\" y=\"110\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">\"התקדשי לי\"</text><text x=\"780\" y=\"188\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">הכסף שלה להוצאה</text><text x=\"560\" y=\"188\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">עכשיו היא חייבת לו</text><text x=\"340\" y=\"188\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">ההנאה מהזמן הנוסף</text><text x=\"120\" y=\"188\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">…בהנאה הזאת</text><text x=\"745\" y=\"250\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">במלוה עצמה</text><text x=\"826\" y=\"289\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\" text-anchor=\"end\" direction=\"rtl\">אינה מקודשת</text><text x=\"860\" y=\"322\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"end\" direction=\"rtl\">בשעת הקידושין אינה מקבלת כלום:</text><text x=\"860\" y=\"342\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"end\" direction=\"rtl\">המלוה היא רק חוב</text><text x=\"450\" y=\"250\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">מחילת החמישי בארבעה בחמישה</text><text x=\"531\" y=\"289\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\" text-anchor=\"end\" direction=\"rtl\">אינה מקודשת</text><text x=\"565\" y=\"322\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"end\" direction=\"rtl\">רבית גמורה, והוא רק</text><text x=\"565\" y=\"342\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"end\" direction=\"rtl\">מוחל לה על חוב</text><text x=\"155\" y=\"250\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">בהארכת זמן הפירעון</text><text x=\"236\" y=\"289\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\" direction=\"rtl\">מקודשת</text><text x=\"236\" y=\"325\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\" text-anchor=\"end\" direction=\"rtl\">אסור: הערמת רבית</text><text x=\"270\" y=\"356\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"end\" direction=\"rtl\">תשלום על זמן נוסף</text><text x=\"270\" y=\"376\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"end\" direction=\"rtl\">דומה לרבית</text></svg>"
-      },
-      "children": []
-    },
-    {
-      "id": "s14",
-      "title": "מתנה על מנת להחזיר: מכר, קידושין, פדיון הבן ותרומה",
-      "amud": "ו:",
-      "text": {
-        "from": "6b.10",
-        "to": "6b.14"
-      },
-      "gist": "דברי רבא בכסף שניתן על מנת שיוחזר (מתנה על מנת להחזיר): ארבעת דיניו, הקושיה מדבריו שלו באתרוג, וגרסת רב אשי, שלפיה רק הקידושין אינם חלים.",
-      "bullets": [],
-      "chart": {
-        "caption": "\"הילך מנה על מנת שתחזירהו לי\": שתי גרסאות בדברי רבא",
-        "columns": [
-          "",
-          "לא חל",
-          "חל",
-          "הטעם"
-        ],
-        "rows": [
-          [
-            "רבא, כפי שנאמרו דבריו תחילה",
-            "1. מכר: לא קנה\n2. קידושין: אינה מקודשת\n3. פדיון הבן: אין בנו פדוי",
-            "תרומה: יצא ידי נתינה, אבל אסור לעשות כן לכתחילה",
-            "כסף שניתן כדי שיוחזר אינו נותן למקבל כלום; והכהן נראה כמסייע בבית הגרנות"
-          ],
-          [
-            "רבא, לפי רב אשי ורב הונא מר",
-            "קידושין: אינה מקודשת",
-            "1. מכר: קנה\n2. פדיון הבן: בנו פדוי\n3. תרומה: יצא ידי נתינה",
-            "מתנה על מנת להחזיר שמה מתנה, אבל אין אישה נקנית בחליפין"
-          ]
-        ],
-        "tags": [
-          [
-            null,
-            null,
-            "effective",
-            null
-          ],
-          [
-            null,
-            "not-effective",
-            null,
-            null
-          ]
-        ]
-      },
-      "children": [
-        {
-          "id": "s15",
-          "title": "ארבעת המקרים של רבא: רק תרומה מועילה, ולא לכתחילה",
-          "amud": "ו:",
-          "text": {
-            "from": "6b.10",
-            "to": "6b.11"
-          },
-          "gist": "לפי הניסוח הראשון, כסף שניתן על מנת שיוחזר אינו מועיל במכר, בקידושין ובפדיון הבן, ואילו תרומה שניתנה כך – יצא ידי נתינה, אבל אסור לעשות כן.",
-          "bullets": [
-            {
-              "text": "רבא: \"הילך מנה על מנת שתחזירהו לי\" – במכר, לא קנה; באישה, אינה מקודשת; בפדיון הבן, אין בנו פדוי.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "תרומה שנתן לכהן על מנת שיחזיר אותה: יצא ידי נתינה. כשהיא חוזרת לידי הבעלים היא שלו; אסור לו לאכול אותה, אבל מותר לו למכור אותה לכהן אחר.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "אבל אסור לעשות כן לכתחילה, \"מפני שנראה ככהן המסייע בבית הגרנות\" כדי לקבל תרומות.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "חוסר האיזון בולט: התרומה כשרה אבל אין לעשות כך, ואילו בשאר המקרים המעשה פשוט אינו חל.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s16",
-          "title": "הקושיה: האם מתנה על מנת להחזיר שמה מתנה? האתרוג של רבא עצמו",
-          "amud": "ו:",
-          "text": {
-            "from": "6b.12",
-            "to": "6b.13"
-          },
-          "gist": "או שמתנה על מנת להחזיר היא מתנה או שאינה, ולכן אי אפשר לחלק בין ארבעת המקרים; ורבא עצמו פסק שהיא מתנה, באתרוג.",
-          "bullets": [
-            {
-              "text": "מה סובר רבא? אם מתנה על מנת להחזיר שמה מתנה – כל המקרים צריכים להועיל; ואם אין שמה מתנה – אפילו תרומה לא תועיל.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "ורבא עצמו אמר שהיא מתנה: \"הילך אתרוג זה על מנת שתחזירהו לי\" ביום הראשון של סוכות – נטלו, בירך והחזירו, יצא ידי חובתו, אף שביום זה האתרוג צריך להיות שלו.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "ואם לא החזירו – לא יצא, כי המתנה הייתה תלויה בהחזרה.",
-              "detail": 3,
-              "source": "gemara"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s17",
-          "title": "רב אשי: בכולם קנה חוץ מאישה, שאינה נקנית בחליפין",
-          "amud": "ו:",
-          "text": {
-            "from": "6b.14",
-            "to": "6b.14"
-          },
-          "gist": "רב אשי: מתנה על מנת להחזיר מועילה בכל המקרים חוץ מקידושין, כי כסף שנמסר כדי שיוחזר הוא חליפין; ורב הונא מר מאשר שכך מוסרים את דברי רבא.",
-          "bullets": [
-            {
-              "text": "רב אשי: בכל המקרים האלה המתנה חלה, חוץ מקידושי אישה, \"לפי שאין אשה נקנית בחליפין\".",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רב הונא מר בריה דרב נחמיה לרב אשי: כך אנו מוסרים את דברי רבא, כדבריך.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "קידושין נלמדים מן הכסף שנתן אברהם בשדה עפרון – העברה נקייה בכיוון אחד. כסף שניתן כדי שיוחזר פועל כמו הסודר של חליפין, שנלקח ומוחזר מיד.",
-              "detail": 2,
-              "source": "shiur"
-            }
-          ],
-          "illustration": {
-            "caption": "ארבעת המקרים של רבא לפי רב אשי (ו:): מתנה על מנת להחזיר מועילה במכר, בפדיון הבן ובתרומה, אבל לא בקידושין. האיסור לכתחילה בתרומה הוא מדברי רבא.",
-            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבעה כרטיסים לפי סדר דברי רבא: מכר, קידושין, פדיון הבן ותרומה, ובכל אחד הדין כשכסף או פירות ניתנים על מנת שיוחזרו.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"96\" width=\"205\" height=\"304\" rx=\"12\" fill=\"#E3EAF3\"/><rect x=\"237\" y=\"96\" width=\"205\" height=\"304\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"459\" y=\"96\" width=\"205\" height=\"304\" rx=\"12\" fill=\"#E3EAF3\"/><rect x=\"681\" y=\"96\" width=\"205\" height=\"304\" rx=\"12\" fill=\"#F3E6D8\"/><g fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"><circle cx=\"97\" cy=\"222\" r=\"12\"/><circle cx=\"117\" cy=\"222\" r=\"12\"/><circle cx=\"137\" cy=\"222\" r=\"12\"/><circle cx=\"107\" cy=\"202\" r=\"12\"/><circle cx=\"127\" cy=\"202\" r=\"12\"/><circle cx=\"117\" cy=\"182\" r=\"12\"/></g><use href=\"#mark-ok\" x=\"29\" y=\"280\" width=\"26\" height=\"26\"/><use href=\"#man\" x=\"280\" y=\"150\" width=\"45\" height=\"90\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"352\" y=\"150\" width=\"45\" height=\"90\" style=\"color:#8C4A60\"/><circle cx=\"338\" cy=\"222\" r=\"9\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#mark-no\" x=\"251\" y=\"280\" width=\"26\" height=\"26\"/><use href=\"#child\" x=\"480\" y=\"170\" width=\"40\" height=\"80\" style=\"color:#4E7A8C\"/><g fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"><circle cx=\"550\" cy=\"232\" r=\"9\"/><circle cx=\"570\" cy=\"232\" r=\"9\"/><circle cx=\"590\" cy=\"232\" r=\"9\"/><circle cx=\"610\" cy=\"232\" r=\"9\"/><circle cx=\"630\" cy=\"232\" r=\"9\"/></g><use href=\"#mark-ok\" x=\"473\" y=\"280\" width=\"26\" height=\"26\"/><ellipse cx=\"783\" cy=\"232\" rx=\"55\" ry=\"26\" fill=\"#D9B64A\"/><path d=\"M763 212 l-6 -40 M783 208 v-44 M803 212 l6 -40\" stroke=\"#9A7440\" stroke-width=\"3\" stroke-linecap=\"round\"/><use href=\"#mark-ok\" x=\"695\" y=\"280\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x=\"695\" y=\"312\" width=\"26\" height=\"26\"/></g><text x=\"450\" y=\"40\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">\"הילך מנה על מנת שתחזירהו לי\"</text><text x=\"450\" y=\"66\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">ארבעת המקרים של רבא לפי רב אשי: בכולם קנה, חוץ מקידושין</text><text x=\"783\" y=\"128\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\" direction=\"rtl\">מכר</text><text x=\"838\" y=\"299\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\" direction=\"rtl\">קנה</text><text x=\"783\" y=\"330\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">מתנה על מנת להחזיר</text><text x=\"783\" y=\"348\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">שמה מתנה</text><text x=\"561\" y=\"128\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">קידושין</text><text x=\"616\" y=\"299\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\" text-anchor=\"end\" direction=\"rtl\">אינה מקודשת</text><text x=\"561\" y=\"330\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">אין אישה נקנית</text><text x=\"561\" y=\"348\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">בחליפין</text><text x=\"339\" y=\"128\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\" direction=\"rtl\">פדיון הבן</text><text x=\"394\" y=\"299\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\" direction=\"rtl\">בנו פדוי</text><text x=\"339\" y=\"330\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">חמש הסלעים לכהן</text><text x=\"339\" y=\"348\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">נחשבות נתונות</text><text x=\"117\" y=\"128\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">תרומה</text><text x=\"172\" y=\"299\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor=\"end\" direction=\"rtl\">יצא ידי נתינה</text><text x=\"172\" y=\"331\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\" text-anchor=\"end\" direction=\"rtl\">אסור לעשות כן</text><text x=\"117\" y=\"362\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">נראה ככהן המסייע</text><text x=\"117\" y=\"380\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">בבית הגרנות</text><text x=\"450\" y=\"426\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">האתרוג של רבא: נטלו, בירך והחזירו – יצא ידי חובתו</text></svg>"
-          },
-          "children": []
-        }
-      ]
+     "id": "s5",
+     "note": "חוזר למשנה של רבי יוסי ורבי יהודה שהובאה שם"
     }
-  ],
-  "key_terms": [
+   ],
+   "children": [
     {
-      "term": "עסוקין באותו ענין",
-      "hebrew": "",
-      "sense": "עדיין עוסקים באותו עניין",
-      "definition": "התנאי שהצדדים עדיין מדברים על נושא המעשה ההלכתי בשעה שהוא נעשה, כך שהמעשה מובן מתוך ההקשר גם בלי אמירה מפורשת.",
-      "on_this_daf": "שמואל, רבי אושעיא ורבי מגבילים את הקידושין והגירושין בשתיקה של רבי יוסי למקרה זה; רבי אלעזר ברבי שמעון מרחיב אותם – לפי אביי, גם לנושא קרוב.",
-      "aliases": [
-        "שעסוקין באותו ענין"
+     "id": "s7",
+     "title": "עדיין באותו נושא? עסוקין באותו ענין, ו\"מענין לענין\" של אביי",
+     "amud": "ו.",
+     "text": {
+      "from": "6a.11",
+      "to": "6a.13"
+     },
+     "gist": "אמוראים ותנאים מגבילים את רבי יוסי לשיחה שעדיין עוסקת באותו עניין. רבי אלעזר ברבי שמעון אינו מגביל, ואביי מסביר שגם נושא קרוב עדיין נושא את המשמעות.",
+     "bullets": [
+      {
+       "text": "המשנה: נתן לה גט או כסף קידושין באמצע השיחה ולא פירש – רבי יוסי אומר: \"דיו\"; רבי יהודה אומר: \"צריך לפרש\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רב יהודה אמר שמואל: \"והוא שעסוקין באותו ענין\" – כלומר, רק כשהם עדיין מדברים באותו דבר. וכן אמר רבי אלעזר אמר רבי אושעיא.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "מחלוקת תנאים: רבי מצריך שיהיו עדיין עסוקין באותו ענין; רבי אלעזר ברבי שמעון אומר שמועיל גם אם אינם עסוקין באותו ענין.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "קושיה: אם עברו לנושא אחר, מנין תדע למה הוא מתכוון? אביי: \"מענין לענין באותו ענין\" – הם עברו מנושא לנושא בתוך אותו תחום כללי.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "לפי רש\"י, למשל: מן הקידושין עצמם להסדרים הכספיים של הנישואין.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "כסף שניתן בשתיקה: האם השיחה עדיין נותנת לו את משמעותו?",
+      "columns": [
+       "",
+       "עדיין באותו נושא",
+       "עברו לנושא קרוב",
+       "עברו לנושא שאינו קשור"
       ],
-      "sections": [
-        "s6",
-        "s7"
-      ]
-    },
-    {
-      "term": "גט שחרור",
-      "hebrew": "",
-      "sense": "שטר שחרור של עבד",
-      "definition": "השטר שבו אדון משחרר את עבדו הכנעני ומוציא אותו לגמרי מעבדות.",
-      "on_this_daf": "ברייתא מגדירה את גופו: \"הרי אתה בן חורין\" או \"הרי אתה לעצמך\". עבד שנמכר לנכרי צריך גט שחרור, אלא אם כן נכתב לו אונו.",
-      "aliases": [
-        "מגט שחרור",
-        "בגט שחרור"
+      "rows": [
+       [
+        "רבי יהודה",
+        "לא מועיל: צריך לפרש",
+        "לא מועיל",
+        "לא מועיל"
+       ],
+       [
+        "רבי יוסי, כפי שמפרש אותו רבי (וכן שמואל ורבי אושעיא)",
+        "מועיל",
+        "לא מועיל",
+        "לא מועיל"
+       ],
+       [
+        "רבי יוסי, כפי שמפרש אותו רבי אלעזר ברבי שמעון",
+        "מועיל",
+        "מועיל (כהסבר אביי)",
+        "לא מועיל: היא אינה יכולה לדעת למה התכוון"
+       ]
       ],
-      "sections": [
-        "s9",
-        "s11",
-        "s12"
+      "tags": [
+       [
+        null,
+        "invalid",
+        "invalid",
+        "invalid"
+       ],
+       [
+        null,
+        "valid",
+        "invalid",
+        "invalid"
+       ],
+       [
+        null,
+        "valid",
+        "valid",
+        "invalid"
+       ]
       ]
+     },
+     "children": []
     },
     {
-      "term": "אונו",
-      "hebrew": "",
-      "sense": "שטר שנותנים לעבד כשמוכרים אותו לנכרי",
-      "definition": "שטר שהאדון כותב לעבדו הכנעני כשהוא מוכר אותו לנכרי, ובו הוא מוותר על זכותו בעבד.",
-      "on_this_daf": "רבן שמעון בן גמליאל: האונו הוא שחרורו של העבד. רב ששת מביא את נוסחו: \"כשתברח ממנו – אין לי עסק בך\".",
-      "aliases": [
-        "האונו",
-        "באונו"
-      ],
-      "sections": [
-        "s12"
-      ]
-    },
-    {
-      "term": "הנאת מלוה",
-      "hebrew": "",
-      "sense": "ההנאה שבאה מן המלוה",
-      "definition": "טובת הנאה ממונית שהמלווה נותן ללווה בקשר למלוה קיימת, כמו הארכת זמן הפירעון – להבדיל מכסף המלוה עצמו.",
-      "on_this_daf": "אביי: היא מקדשת אף שהמלוה עצמה אינה מקדשת. הגמרא מזהה אותה עם הארכת הזמן, ולא עם מחילת התוספת בארבעה בחמישה.",
-      "aliases": [
-        "בהנאת מלוה"
-      ],
-      "sections": [
-        "s13"
-      ]
-    },
-    {
-      "term": "הערמת רבית",
-      "hebrew": "",
-      "sense": "תחבולה לעקוף את איסור הרבית",
-      "definition": "הסדר שאינו רבית אסורה מבחינה טכנית, אבל מאפשר למלווה להרוויח מן המלוה, ולכן חכמים אסרו אותו.",
-      "on_this_daf": "קידושין בהנאת הארכת המלוה חלים, אבל אסורים מטעם זה.",
-      "aliases": [],
-      "sections": [
-        "s13"
-      ]
-    },
-    {
-      "term": "מתנה על מנת להחזיר",
-      "hebrew": "",
-      "sense": "מתנה שניתנה על מנת שתוחזר",
-      "definition": "העברת בעלות בתנאי שהמקבל יחזיר את החפץ. השאלה היא אם היא נחשבת מתנה גמורה בזמן שהחפץ בידו.",
-      "on_this_daf": "רבא סובר שהיא מתנה (באתרוג), ולפי רב אשי היא מועילה במכר, בפדיון הבן ובתרומה, אבל לא בקידושין.",
-      "aliases": [],
-      "sections": [
-        "s14",
-        "s15",
-        "s16",
-        "s17"
-      ]
-    },
-    {
-      "term": "חליפין",
-      "hebrew": "",
-      "sense": "קנין באמצעות חפץ שנמסר ומוחזר",
-      "definition": "דרך קנין שבה צד אחד מוסר לחברו חפץ, בדרך כלל סודר, שנלקח ומוחזר, ובכך נקנה הנכס של הצד השני.",
-      "on_this_daf": "רב אשי: קידושין בכסף שניתן על מנת שיוחזר אינם חלים, כי אין אישה נקנית בחליפין.",
-      "aliases": [
-        "בחליפין",
-        "של חליפין"
-      ],
-      "sections": [
-        "s14",
-        "s17"
-      ]
+     "id": "s8",
+     "title": "הלכה כרבי יוסי, ומי רשאי לעסוק בגיטין וקידושין",
+     "amud": "ו.",
+     "text": {
+      "from": "6a.14",
+      "to": "6a.14"
+     },
+     "gist": "ההלכה כרבי יוסי יסודית כל כך, שחכם שאינו יודע אותה אינו רשאי לעסוק בענייני גירושין וקידושין.",
+     "bullets": [
+      {
+       "text": "רב הונא אמר שמואל: הלכה כרבי יוסי.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רב יימר שואל את רב אשי: שמואל אמר גם, כפי שמסר רב יהודה, \"כל שאינו יודע בטיב גיטין וקידושין לא יהא לו עסק עמהם\". האם זה כולל גם מי שפשוט לא שמע את ההלכה הזאת?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רב אשי: כן. זו הלכה חשובה בדיני קידושין, ומי שאינו מכיר אותה עלול לטעות.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
     }
-  ]
+   ]
+  },
+  {
+   "id": "s9",
+   "title": "לשונות גירושין ושחרור: לשונות מוחלפות, \"לעצמך\", \"אין לי עסק בך\"",
+   "amud": "ו.–ו:",
+   "text": {
+    "from": "6a.15",
+    "to": "6b.6"
+   },
+   "gist": "חזרה ללשונות הגירושין של שמואל: לשונות שהוחלפו בין אישה לעבד, האם \"הרי את לעצמך\" מגרשת, והאם \"אין לי עסק בך\" משחררת עבד.",
+   "bullets": [],
+   "chart": {
+    "caption": "לשונות של שחרור: מה כל אחת מהן פועלת באישה ובעבד",
+    "columns": [
+     "הלשון",
+     "אמר לאשתו",
+     "אמר לעבדו"
+    ],
+    "rows": [
+     [
+      "\"הרי את מותרת לכל אדם\"",
+      "מגורשת (שמואל)",
+      "לא אמר כלום (כשאמר לשפחתו)"
+     ],
+     [
+      "\"הרי את בת חורין\" / \"הרי אתה בן חורין\"",
+      "לא אמר כלום",
+      "יצא לחירות: זהו גופו של גט שחרור"
+     ],
+     [
+      "\"הרי את לעצמך\"",
+      "מגורשת (מקל וחומר)",
+      "יצא לחירות (ברייתא)"
+     ]
+    ],
+    "tags": [
+     [
+      null,
+      "effective",
+      "not-effective"
+     ],
+     [
+      null,
+      "not-effective",
+      "effective"
+     ],
+     [
+      null,
+      "effective",
+      "effective"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s10",
+     "title": "לשונות גירושין, ולשונות שהוחלפו בין אישה לעבד",
+     "amud": "ו.–ו:",
+     "text": {
+      "from": "6a.15",
+      "to": "6b.1"
+     },
+     "gist": "לשונות הגירושין הכשרות של שמואל, והדין הפשוט שלשון של עבד אינה מגרשת אישה, ולשון של אישה אינה משחררת עבד.",
+     "bullets": [
+      {
+       "text": "שמואל: בעל נותן לאשתו גט ואומר \"הרי את משולחת\", \"הרי את מגורשת\" או \"הרי את מותרת לכל אדם\" – מגורשת.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "פשוט: \"הרי את בת חורין\" שאמר לאשתו עם הגט, או \"הרי את מותרת לכל אדם\" שאמר לשפחתו הכנענית כשהוא משחרר אותה – \"לא אמר ולא כלום\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "כל לשון שייכת לשינוי המעמד שלה: לשון העבד אינה יכולה להתיר אישה, ולשון האישה אינה יכולה לשחרר עבד.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "\"הרי את לעצמך\": מעשה ידיה או גירושין?",
+     "amud": "ו:",
+     "text": {
+      "from": "6b.2",
+      "to": "6b.3"
+     },
+     "gist": "האם \"הרי את לעצמך\" משחרר רק את מעשה ידיה, או מגרש אותה? רבינא מוכיח מגט שחרור שהיא מגורשת.",
+     "bullets": [
+      {
+       "text": "בעיא: בעל אומר לאשתו \"הרי את לעצמך\". האם התכוון רק למלאכה – שמעשה ידיה יהיו שלה – או שהיא לעצמה לגמרי, כלומר מגורשת?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "הפירוש הראשון הוא הסדר מותר בתוך הנישואין: הוא מפסיק לזון אותה, והיא שומרת לעצמה את מה שהיא מרוויחה.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "רבינא לרב אשי, מברייתא: \"גופו של גט שחרור: 'הרי אתה בן חורין', 'הרי אתה לעצמך'\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "קל וחומר: עבד כנעני, שרבו קונה את גופו, יוצא בלשון זו לחירות גמורה; אישה, שבעלה אינו קונה את גופה – כל שכן שהיא מגורשת.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "ראייתו של רבינא (ו:): \"הרי אתה לעצמך\" משחרר לגמרי עבד, שגופו קנוי לרבו – ולכן כל שכן שהוא מגרש אישה.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>מימין: אדון אומר לעבדו הכנעני \"הרי אתה לעצמך\", והעבד יוצא לחירות. משמאל: בעל אומר לאשתו אותם דברים, וכל שכן שהיא מגורשת.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"420\" height=\"390\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"465\" y=\"14\" width=\"420\" height=\"390\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"90\" y=\"92\" width=\"250\" height=\"42\" rx=\"21\" fill=\"#FFFFFF\" stroke=\"#9A6212\" stroke-width=\"2\"/><use href=\"#man\" x=\"70\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#6B6F3A\"/><use href=\"#person\" x=\"280\" y=\"170\" width=\"65\" height=\"130\" style=\"color:#8C5A3C\"/><path d=\"M438 230 H456\" stroke=\"#5B6478\" stroke-width=\"3\"/><path d=\"M462 230 l-8 -6 v12 z\" fill=\"#5B6478\"/><rect x=\"540\" y=\"92\" width=\"250\" height=\"42\" rx=\"21\" fill=\"#FFFFFF\" stroke=\"#1B3A8A\" stroke-width=\"2\"/><use href=\"#man\" x=\"520\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"735\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/></g><use href=\"#mark-ok\" x='824' y=\"334\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x='374' y=\"334\" width=\"26\" height=\"26\"/><text x=\"675\" y=\"48\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">עבד כנעני</text><text x=\"675\" y=\"72\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">גופו קנוי לרבו</text><text x=\"685\" y=\"118\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">\"הרי אתה לעצמך\"</text><text x=\"795\" y=\"318\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">האדון</text><text x=\"588\" y=\"318\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">העבד</text><text x=\"816\" y=\"352\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\" text-anchor='start' direction=\"rtl\">יצא לחירות: זהו גופו של גט שחרור</text><text x=\"675\" y=\"386\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">ברייתא: \"הרי אתה בן חורין\", \"הרי אתה לעצמך\"</text><text x=\"225\" y=\"48\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\" direction=\"rtl\">אישה</text><text x=\"225\" y=\"72\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">גופה אינו קנוי לבעלה</text><text x=\"235\" y=\"118\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">\"הרי את לעצמך\"</text><text x=\"345\" y=\"318\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">הבעל</text><text x=\"130\" y=\"318\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">האישה</text><text x=\"366\" y=\"352\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\" text-anchor='start' direction=\"rtl\">כל שכן: היא מגורשת</text><text x=\"225\" y=\"386\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">ראייתו של רבינא לפני רב אשי (ו:)</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s12",
+     "title": "\"אין לי עסק בך\": פטור ממלאכה או שחרור? האונו",
+     "amud": "ו:",
+     "text": {
+      "from": "6b.4",
+      "to": "6b.6"
+     },
+     "gist": "האם \"אין לי עסק בך\" משחרר עבד, או רק פוטר אותו ממלאכה? נוסח האונו שנכתב כשעבד נמכר לנכרי מוכיח שהלשון משחררת.",
+     "bullets": [
+      {
+       "text": "רבינא לרב אשי: אדון אומר לעבדו הכנעני \"אין לי עסק בך\". האם התכוון לגמרי – לשחרר אותו – או רק שהעבד פטור ממלאכה?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ההבדל הוא במעמד האישי, לא רק במלאכה: עבד משוחרר נעשה יהודי גמור.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "רב נחמן (ויש אומרים רב חנין מחוזאה) לרב אשי: המוכר עבדו לנכרי – יצא לחירות, וצריך גט שחרור מרבו הראשון. זה קנס, משום שמנע ממנו מצוות.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבן שמעון בן גמליאל: זה דווקא כשלא כתב עליו אונו; אבל אם כתב עליו אונו – \"זהו שחרורו\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רב ששת: באונו כתוב \"כשתברח ממנו – אין לי עסק בך\". אם כן, הלשון הזאת היא לשון שחרור כשרה.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "illustration": {
+      "caption": "הראיה (ו:): עבד שנמכר לנכרי יוצא לחירות, ולדברי רבן שמעון בן גמליאל, אונו שנכתב בשעת המכירה הוא שחרורו; רב ששת מביא את נוסחו.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שלוש תמונות: אדון מוכר את עבדו לנכרי; בשטר האונו כתוב \"כשתברח ממנו – אין לי עסק בך\"; בלי אונו העבד עדיין צריך גט שחרור, ועם אונו – האונו עצמו משחרר אותו.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"14\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"310\" y=\"14\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"605\" y=\"14\" width=\"280\" height=\"370\" rx=\"14\" fill=\"#EDE7F3\"/><use href=\"#man\" x=\"35\" y=\"130\" width=\"60\" height=\"120\" style=\"color:#6B6F3A\"/><use href=\"#person\" x=\"118\" y=\"140\" width=\"55\" height=\"110\" style=\"color:#8C5A3C\"/><use href=\"#person\" x=\"200\" y=\"140\" width=\"55\" height=\"110\" style=\"color:#4E7A8C\"/><rect x=\"365\" y=\"72\" width=\"170\" height=\"160\" rx=\"6\" fill=\"#FFFDF6\" stroke=\"#BFAE8E\" stroke-width=\"2\"/></g><use href=\"#mark-ok\" x='251' y=\"274\" width=\"24\" height=\"24\"/><text x=\"745\" y=\"46\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\" direction=\"rtl\">1. נמכר לנכרי</text><text x=\"835\" y=\"272\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">האדון</text><text x=\"755\" y=\"272\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">העבד</text><text x=\"672\" y=\"272\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">הקונה הנכרי</text><text x=\"745\" y=\"312\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">העבד יוצא לחירות,</text><text x=\"745\" y=\"334\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">אבל צריך גט שחרור</text><text x=\"745\" y=\"354\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">מרבו הראשון (קנס)</text><text x=\"450\" y=\"46\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">2. השטר (אונו)</text><text x=\"450\" y=\"115\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#4A3A2E\" text-anchor=\"middle\" direction=\"rtl\">\"כשתברח</text><text x=\"450\" y=\"143\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#4A3A2E\" text-anchor=\"middle\" direction=\"rtl\">ממנו –</text><text x=\"450\" y=\"171\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#4A3A2E\" text-anchor=\"middle\" direction=\"rtl\">אין לי</text><text x=\"450\" y=\"199\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" fill=\"#4A3A2E\" text-anchor=\"middle\" direction=\"rtl\">עסק בך\"</text><text x=\"450\" y=\"262\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">רב ששת: זה הוא</text><text x=\"450\" y=\"282\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">נוסח האונו</text><text x=\"155\" y=\"46\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#5A3A7A\" text-anchor=\"middle\" direction=\"rtl\">3. מה משחרר אותו?</text><text x=\"275\" y=\"90\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor='start' direction=\"rtl\">נמכר בלי אונו:</text><text x=\"275\" y=\"112\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor='start' direction=\"rtl\">עדיין צריך גט שחרור</text><text x=\"275\" y=\"132\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor='start' direction=\"rtl\">מרבו הראשון</text><text x=\"275\" y=\"176\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor='start' direction=\"rtl\">נכתב לו אונו:</text><text x=\"275\" y=\"198\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor='start' direction=\"rtl\">האונו עצמו</text><text x=\"275\" y=\"218\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor='start' direction=\"rtl\">הוא שחרורו</text><text x=\"275\" y=\"240\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor='start' direction=\"rtl\">(רבן שמעון בן גמליאל)</text><text x=\"244\" y=\"290\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\" text-anchor='start' direction=\"rtl\">לכן \"אין לי עסק בך\"</text><text x=\"244\" y=\"312\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#24592E\" text-anchor='start' direction=\"rtl\">משחרר את העבד</text><text x=\"450\" y=\"418\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">רב נחמן (ויש אומרים רב חנין מחוזאה) לרב אשי · ו:</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "title": "קידושין במלוה: המלוה עצמה, מחילת רבית, או הארכת זמן",
+   "amud": "ו:",
+   "text": {
+    "from": "6b.7",
+    "to": "6b.9"
+   },
+   "gist": "אביי: מלוה שכבר ניתנה אינה מקדשת, אבל הנאת מלוה מקדשת – אף שאסור לעשות כן מפני הערמת רבית. הגמרא מזהה את ההנאה הזאת עם הארכת זמן הפירעון.",
+   "bullets": [
+    {
+     "text": "אביי: המקדש במלוה שהלווה לה קודם – אינה מקודשת. בשעת הקידושין המלוה היא רק חוב, ולכן באותו רגע הוא אינו נותן לה כלום.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "רש\"י: הוא אומר לה \"התקדשי לי במלוה שיש לי בידך\". מלוה להוצאה ניתנה, ולכן הכסף כבר שלה.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "אביי: בהנאת מלוה – מקודשת, אבל אסור לעשות כן מפני הערמת רבית, כלומר תחבולה לעקוף את איסור הרבית.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "איזו הנאה? לא מלוה של ארבעה בחמישה, שבה הוא מקדש אותה במחילת הזוז החמישי: זו רבית גמורה, ומחילת חוב היא כמו קידושין במלוה – ולכן אינה מקודשת.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "אלא כשהגיע זמן הפירעון, הוא האריך לה את הזמן וקידש אותה בהנאת הזמן הנוסף. זה ערך ממשי שניתן עכשיו, אבל הוא דומה לרבית, כי תשלום על הארכת זמן נכלל באיסור רבית.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "רש\"י: ההארכה שווה לה כמה שהייתה משלמת למי שישכנע אותו להאריך לה – פרוטה.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "זו רק הערמה ולא רבית ממש, כי הוא אינו לוקח ממנה כסף; מה שהוא מרוויח מן המלוה הוא אישה.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "רשב\"א: ההארכה נחשבת רק כשהמלוה עומדת לפירעון (\"כל העומד לגבות כגבוי דמי\"); כשזמן הפירעון רחוק, ההנאה מופשטת מדי.",
+     "detail": 3,
+     "source": "shiur"
+    },
+    {
+     "text": "הראשונים נחלקו במחילת המלוה כולה: לרש\"י, המחילה היא הנאה חדשה שניתנת עכשיו; לר\"ן, היא רק מבטלת את החוב הישן, ולכן רק הארכת הזמן מועילה.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "caption": "אביי בקידושין במלוה: מה היא מקבלת בשעת הקידושין",
+    "columns": [
+     "המקרה",
+     "מה היא מקבלת בשעת הקידושין",
+     "הדין"
+    ],
+    "rows": [
+     [
+      "המלוה עצמה",
+      "כלום: הכסף היה שלה להוצאה, ונשאר רק חוב",
+      "אינה מקודשת"
+     ],
+     [
+      "מחילת הזוז החמישי במלוה של ארבעה בחמישה",
+      "רק פטור מחוב",
+      "רבית גמורה; אינה מקודשת"
+     ],
+     [
+      "הארכת הזמן כשהגיע זמן הפירעון",
+      "ההנאה מהזמן הנוסף",
+      "מקודשת, אבל אסור: הערמת רבית"
+     ]
+    ],
+    "tags": [
+     [
+      null,
+      null,
+      "not-effective"
+     ],
+     [
+      null,
+      null,
+      "not-effective"
+     ],
+     [
+      null,
+      null,
+      "effective"
+     ]
+    ]
+   },
+   "illustration": {
+    "caption": "המקרים של אביי (ו:): המלוה עצמה אינה נותנת לה כלום בשעת הקידושין, מחילת התוספת בארבעה בחמישה היא רבית ממש, והארכת הזמן מקדשת – אבל אסורה מפני הערמת רבית.",
+    "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ציר זמן: הוא מלווה לה כסף, מגיע זמן הפירעון, הוא מאריך לה את הזמן ומקדש אותה בהנאה הזאת. למטה: שלושה מקרים ודיניהם.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><path d=\"M60 150 H850\" stroke=\"#C9C1B2\" stroke-width=\"3\"/><path d=\"M862 150 l-12 -7 v14 z\" fill=\"#C9C1B2\"/><circle cx=\"120\" cy=\"150\" r=\"14\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><circle cx=\"340\" cy=\"150\" r=\"14\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><circle cx=\"560\" cy=\"150\" r=\"14\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><circle cx=\"780\" cy=\"150\" r=\"14\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><rect x=\"20\" y=\"220\" width=\"270\" height=\"200\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"315\" y=\"220\" width=\"270\" height=\"200\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"610\" y=\"220\" width=\"270\" height=\"200\" rx=\"12\" fill=\"#E3EAF3\"/></g><use href=\"#mark-no\" x='834' y=\"270\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x='539' y=\"270\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x='244' y=\"270\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x='244' y=\"306\" width=\"26\" height=\"26\"/><text x=\"450\" y=\"36\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">אביי: המקדש אישה במלוה</text><text x=\"780\" y=\"110\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">הלווה לה כסף</text><text x=\"560\" y=\"110\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">הגיע זמן הפירעון</text><text x=\"340\" y=\"110\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">האריך לה את הזמן</text><text x=\"120\" y=\"110\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">\"התקדשי לי\"</text><text x=\"780\" y=\"188\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">הכסף שלה להוצאה</text><text x=\"560\" y=\"188\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">עכשיו היא חייבת לו</text><text x=\"340\" y=\"188\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">ההנאה מהזמן הנוסף</text><text x=\"120\" y=\"188\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">…בהנאה הזאת</text><text x=\"745\" y=\"250\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">במלוה עצמה</text><text x=\"826\" y=\"289\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\" text-anchor='start' direction=\"rtl\">אינה מקודשת</text><text x=\"860\" y=\"322\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor='start' direction=\"rtl\">בשעת הקידושין אינה מקבלת כלום:</text><text x=\"860\" y=\"342\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor='start' direction=\"rtl\">המלוה היא רק חוב</text><text x=\"450\" y=\"250\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">מחילת החמישי בארבעה בחמישה</text><text x=\"531\" y=\"289\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\" text-anchor='start' direction=\"rtl\">אינה מקודשת</text><text x=\"565\" y=\"322\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor='start' direction=\"rtl\">רבית גמורה, והוא רק</text><text x=\"565\" y=\"342\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#1A1F2E\" text-anchor='start' direction=\"rtl\">מוחל לה על חוב</text><text x=\"155\" y=\"250\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">בהארכת זמן הפירעון</text><text x=\"236\" y=\"289\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor='start' direction=\"rtl\">מקודשת</text><text x=\"236\" y=\"325\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\" text-anchor='start' direction=\"rtl\">אסור: הערמת רבית</text><text x=\"270\" y=\"356\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor='start' direction=\"rtl\">תשלום על זמן נוסף</text><text x=\"270\" y=\"376\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor='start' direction=\"rtl\">דומה לרבית</text></svg>"
+   },
+   "children": []
+  },
+  {
+   "id": "s14",
+   "title": "מתנה על מנת להחזיר: מכר, קידושין, פדיון הבן ותרומה",
+   "amud": "ו:",
+   "text": {
+    "from": "6b.10",
+    "to": "6b.14"
+   },
+   "gist": "דברי רבא בכסף שניתן על מנת שיוחזר (מתנה על מנת להחזיר): ארבעת דיניו, הקושיה מדבריו שלו באתרוג, וגרסת רב אשי, שלפיה רק הקידושין אינם חלים.",
+   "bullets": [],
+   "chart": {
+    "caption": "\"הילך מנה על מנת שתחזירהו לי\": שתי גרסאות בדברי רבא",
+    "columns": [
+     "",
+     "לא חל",
+     "חל",
+     "הטעם"
+    ],
+    "rows": [
+     [
+      "רבא, כפי שנאמרו דבריו תחילה",
+      "1. מכר: לא קנה\n2. קידושין: אינה מקודשת\n3. פדיון הבן: אין בנו פדוי",
+      "תרומה: יצא ידי נתינה, אבל אסור לעשות כן לכתחילה",
+      "כסף שניתן כדי שיוחזר אינו נותן למקבל כלום; והכהן נראה כמסייע בבית הגרנות"
+     ],
+     [
+      "רבא, לפי רב אשי ורב הונא מר",
+      "קידושין: אינה מקודשת",
+      "1. מכר: קנה\n2. פדיון הבן: בנו פדוי\n3. תרומה: יצא ידי נתינה",
+      "מתנה על מנת להחזיר שמה מתנה, אבל אין אישה נקנית בחליפין"
+     ]
+    ],
+    "tags": [
+     [
+      null,
+      null,
+      "effective",
+      null
+     ],
+     [
+      null,
+      "not-effective",
+      null,
+      null
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s15",
+     "title": "ארבעת המקרים של רבא: רק תרומה מועילה, ולא לכתחילה",
+     "amud": "ו:",
+     "text": {
+      "from": "6b.10",
+      "to": "6b.11"
+     },
+     "gist": "לפי הניסוח הראשון, כסף שניתן על מנת שיוחזר אינו מועיל במכר, בקידושין ובפדיון הבן, ואילו תרומה שניתנה כך – יצא ידי נתינה, אבל אסור לעשות כן.",
+     "bullets": [
+      {
+       "text": "רבא: \"הילך מנה על מנת שתחזירהו לי\" – במכר, לא קנה; באישה, אינה מקודשת; בפדיון הבן, אין בנו פדוי.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "תרומה שנתן לכהן על מנת שיחזיר אותה: יצא ידי נתינה. כשהיא חוזרת לידי הבעלים היא שלו; אסור לו לאכול אותה, אבל מותר לו למכור אותה לכהן אחר.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אבל אסור לעשות כן לכתחילה, \"מפני שנראה ככהן המסייע בבית הגרנות\" כדי לקבל תרומות.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "חוסר האיזון בולט: התרומה כשרה אבל אין לעשות כך, ואילו בשאר המקרים המעשה פשוט אינו חל.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s16",
+     "title": "הקושיה: האם מתנה על מנת להחזיר שמה מתנה? האתרוג של רבא עצמו",
+     "amud": "ו:",
+     "text": {
+      "from": "6b.12",
+      "to": "6b.13"
+     },
+     "gist": "או שמתנה על מנת להחזיר היא מתנה או שאינה, ולכן אי אפשר לחלק בין ארבעת המקרים; ורבא עצמו פסק שהיא מתנה, באתרוג.",
+     "bullets": [
+      {
+       "text": "מה סובר רבא? אם מתנה על מנת להחזיר שמה מתנה – כל המקרים צריכים להועיל; ואם אין שמה מתנה – אפילו תרומה לא תועיל.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ורבא עצמו אמר שהיא מתנה: \"הילך אתרוג זה על מנת שתחזירהו לי\" ביום הראשון של סוכות – נטלו, בירך והחזירו, יצא ידי חובתו, אף שביום זה האתרוג צריך להיות שלו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ואם לא החזירו – לא יצא, כי המתנה הייתה תלויה בהחזרה.",
+       "detail": 3,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s17",
+     "title": "רב אשי: בכולם קנה חוץ מאישה, שאינה נקנית בחליפין",
+     "amud": "ו:",
+     "text": {
+      "from": "6b.14",
+      "to": "6b.14"
+     },
+     "gist": "רב אשי: מתנה על מנת להחזיר מועילה בכל המקרים חוץ מקידושין, כי כסף שנמסר כדי שיוחזר הוא חליפין; ורב הונא מר מאשר שכך מוסרים את דברי רבא.",
+     "bullets": [
+      {
+       "text": "רב אשי: בכל המקרים האלה המתנה חלה, חוץ מקידושי אישה, \"לפי שאין אשה נקנית בחליפין\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רב הונא מר בריה דרב נחמיה לרב אשי: כך אנו מוסרים את דברי רבא, כדבריך.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "קידושין נלמדים מן הכסף שנתן אברהם בשדה עפרון – העברה נקייה בכיוון אחד. כסף שניתן כדי שיוחזר פועל כמו הסודר של חליפין, שנלקח ומוחזר מיד.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "ארבעת המקרים של רבא לפי רב אשי (ו:): מתנה על מנת להחזיר מועילה במכר, בפדיון הבן ובתרומה, אבל לא בקידושין. האיסור לכתחילה בתרומה הוא מדברי רבא.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>ארבעה כרטיסים לפי סדר דברי רבא: מכר, קידושין, פדיון הבן ותרומה, ובכל אחד הדין כשכסף או פירות ניתנים על מנת שיוחזרו.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><rect x=\"15\" y=\"96\" width=\"205\" height=\"304\" rx=\"12\" fill=\"#E3EAF3\"/><rect x=\"237\" y=\"96\" width=\"205\" height=\"304\" rx=\"12\" fill=\"#F3E6D8\"/><rect x=\"459\" y=\"96\" width=\"205\" height=\"304\" rx=\"12\" fill=\"#E3EAF3\"/><rect x=\"681\" y=\"96\" width=\"205\" height=\"304\" rx=\"12\" fill=\"#F3E6D8\"/><g fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"><circle cx=\"97\" cy=\"222\" r=\"12\"/><circle cx=\"117\" cy=\"222\" r=\"12\"/><circle cx=\"137\" cy=\"222\" r=\"12\"/><circle cx=\"107\" cy=\"202\" r=\"12\"/><circle cx=\"127\" cy=\"202\" r=\"12\"/><circle cx=\"117\" cy=\"182\" r=\"12\"/></g><use href=\"#man\" x=\"280\" y=\"150\" width=\"45\" height=\"90\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"352\" y=\"150\" width=\"45\" height=\"90\" style=\"color:#8C4A60\"/><circle cx=\"338\" cy=\"222\" r=\"9\" fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"/><use href=\"#child\" x=\"480\" y=\"170\" width=\"40\" height=\"80\" style=\"color:#4E7A8C\"/><g fill=\"#D9B64A\" stroke=\"#9A7440\" stroke-width=\"2\"><circle cx=\"550\" cy=\"232\" r=\"9\"/><circle cx=\"570\" cy=\"232\" r=\"9\"/><circle cx=\"590\" cy=\"232\" r=\"9\"/><circle cx=\"610\" cy=\"232\" r=\"9\"/><circle cx=\"630\" cy=\"232\" r=\"9\"/></g><ellipse cx=\"783\" cy=\"232\" rx=\"55\" ry=\"26\" fill=\"#D9B64A\"/><path d=\"M763 212 l-6 -40 M783 208 v-44 M803 212 l6 -40\" stroke=\"#9A7440\" stroke-width=\"3\" stroke-linecap=\"round\"/></g><use href=\"#mark-ok\" x='845' y=\"280\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x='623' y=\"280\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x='401' y=\"280\" width=\"26\" height=\"26\"/><use href=\"#mark-ok\" x='179' y=\"280\" width=\"26\" height=\"26\"/><use href=\"#mark-no\" x='179' y=\"312\" width=\"26\" height=\"26\"/><text x=\"450\" y=\"40\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1A1F2E\" text-anchor=\"middle\" direction=\"rtl\">\"הילך מנה על מנת שתחזירהו לי\"</text><text x=\"450\" y=\"66\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">ארבעת המקרים של רבא לפי רב אשי: בכולם קנה, חוץ מקידושין</text><text x=\"783\" y=\"128\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\" direction=\"rtl\">מכר</text><text x=\"838\" y=\"299\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor='start' direction=\"rtl\">קנה</text><text x=\"783\" y=\"330\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">מתנה על מנת להחזיר</text><text x=\"783\" y=\"348\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">שמה מתנה</text><text x=\"561\" y=\"128\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">קידושין</text><text x=\"616\" y=\"299\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#8C2F2F\" text-anchor='start' direction=\"rtl\">אינה מקודשת</text><text x=\"561\" y=\"330\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">אין אישה נקנית</text><text x=\"561\" y=\"348\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">בחליפין</text><text x=\"339\" y=\"128\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1B3A8A\" text-anchor=\"middle\" direction=\"rtl\">פדיון הבן</text><text x=\"394\" y=\"299\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor='start' direction=\"rtl\">בנו פדוי</text><text x=\"339\" y=\"330\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">חמש הסלעים לכהן</text><text x=\"339\" y=\"348\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">נחשבות נתונות</text><text x=\"117\" y=\"128\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#9A6212\" text-anchor=\"middle\" direction=\"rtl\">תרומה</text><text x=\"172\" y=\"299\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#24592E\" text-anchor='start' direction=\"rtl\">יצא ידי נתינה</text><text x=\"172\" y=\"331\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#8C2F2F\" text-anchor='start' direction=\"rtl\">אסור לעשות כן</text><text x=\"117\" y=\"362\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">נראה ככהן המסייע</text><text x=\"117\" y=\"380\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">בבית הגרנות</text><text x=\"450\" y=\"426\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.5\" fill=\"#5B6478\" text-anchor=\"middle\" direction=\"rtl\">האתרוג של רבא: נטלו, בירך והחזירו – יצא ידי חובתו</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "עסוקין באותו ענין",
+   "hebrew": "",
+   "sense": "עדיין עוסקים באותו עניין",
+   "definition": "התנאי שהצדדים עדיין מדברים על נושא המעשה ההלכתי בשעה שהוא נעשה, כך שהמעשה מובן מתוך ההקשר גם בלי אמירה מפורשת.",
+   "on_this_daf": "שמואל, רבי אושעיא ורבי מגבילים את הקידושין והגירושין בשתיקה של רבי יוסי למקרה זה; רבי אלעזר ברבי שמעון מרחיב אותם – לפי אביי, גם לנושא קרוב.",
+   "aliases": [
+    "שעסוקין באותו ענין"
+   ],
+   "sections": [
+    "s6",
+    "s7"
+   ]
+  },
+  {
+   "term": "גט שחרור",
+   "hebrew": "",
+   "sense": "שטר שחרור של עבד",
+   "definition": "השטר שבו אדון משחרר את עבדו הכנעני ומוציא אותו לגמרי מעבדות.",
+   "on_this_daf": "ברייתא מגדירה את גופו: \"הרי אתה בן חורין\" או \"הרי אתה לעצמך\". עבד שנמכר לנכרי צריך גט שחרור, אלא אם כן נכתב לו אונו.",
+   "aliases": [
+    "מגט שחרור",
+    "בגט שחרור"
+   ],
+   "sections": [
+    "s9",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "term": "אונו",
+   "hebrew": "",
+   "sense": "שטר שנותנים לעבד כשמוכרים אותו לנכרי",
+   "definition": "שטר שהאדון כותב לעבדו הכנעני כשהוא מוכר אותו לנכרי, ובו הוא מוותר על זכותו בעבד.",
+   "on_this_daf": "רבן שמעון בן גמליאל: האונו הוא שחרורו של העבד. רב ששת מביא את נוסחו: \"כשתברח ממנו – אין לי עסק בך\".",
+   "aliases": [
+    "האונו",
+    "באונו"
+   ],
+   "sections": [
+    "s12"
+   ]
+  },
+  {
+   "term": "הנאת מלוה",
+   "hebrew": "",
+   "sense": "ההנאה שבאה מן המלוה",
+   "definition": "טובת הנאה ממונית שהמלווה נותן ללווה בקשר למלוה קיימת, כמו הארכת זמן הפירעון – להבדיל מכסף המלוה עצמו.",
+   "on_this_daf": "אביי: היא מקדשת אף שהמלוה עצמה אינה מקדשת. הגמרא מזהה אותה עם הארכת הזמן, ולא עם מחילת התוספת בארבעה בחמישה.",
+   "aliases": [
+    "בהנאת מלוה"
+   ],
+   "sections": [
+    "s13"
+   ]
+  },
+  {
+   "term": "הערמת רבית",
+   "hebrew": "",
+   "sense": "תחבולה לעקוף את איסור הרבית",
+   "definition": "הסדר שאינו רבית אסורה מבחינה טכנית, אבל מאפשר למלווה להרוויח מן המלוה, ולכן חכמים אסרו אותו.",
+   "on_this_daf": "קידושין בהנאת הארכת המלוה חלים, אבל אסורים מטעם זה.",
+   "aliases": [],
+   "sections": [
+    "s13"
+   ]
+  },
+  {
+   "term": "מתנה על מנת להחזיר",
+   "hebrew": "",
+   "sense": "מתנה שניתנה על מנת שתוחזר",
+   "definition": "העברת בעלות בתנאי שהמקבל יחזיר את החפץ. השאלה היא אם היא נחשבת מתנה גמורה בזמן שהחפץ בידו.",
+   "on_this_daf": "רבא סובר שהיא מתנה (באתרוג), ולפי רב אשי היא מועילה במכר, בפדיון הבן ובתרומה, אבל לא בקידושין.",
+   "aliases": [],
+   "sections": [
+    "s14",
+    "s15",
+    "s16",
+    "s17"
+   ]
+  },
+  {
+   "term": "חליפין",
+   "hebrew": "",
+   "sense": "קנין באמצעות חפץ שנמסר ומוחזר",
+   "definition": "דרך קנין שבה צד אחד מוסר לחברו חפץ, בדרך כלל סודר, שנלקח ומוחזר, ובכך נקנה הנכס של הצד השני.",
+   "on_this_daf": "רב אשי: קידושין בכסף שניתן על מנת שיוחזר אינם חלים, כי אין אישה נקנית בחליפין.",
+   "aliases": [
+    "בחליפין",
+    "של חליפין"
+   ],
+   "sections": [
+    "s14",
+    "s17"
+   ]
+  }
+ ],
+ "_pictures_fixed": true
 }

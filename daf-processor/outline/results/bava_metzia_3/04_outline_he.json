@@ -1,832 +1,833 @@
 {
-  "daf": "בבא מציעא ג",
-  "lang": "he",
-  "scope": {
-    "start": "ג. – השבועה דרבנן של רבי יוחנן, תשובה לקל וחומר בשיטת סומכוס (דף ג. נפתח באמצע הדיון)",
-    "end": "ד. – החיפוש אחר מקור לקל וחומר של רבי חייא, דרך עד אחד וגלגול שבועה"
+ "daf": "בבא מציעא ג",
+ "lang": "he",
+ "scope": {
+  "start": "ג. – השבועה דרבנן של רבי יוחנן, תשובה לקל וחומר בשיטת סומכוס (דף ג. נפתח באמצע הדיון)",
+  "end": "ד. – החיפוש אחר מקור לקל וחומר של רבי חייא, דרך עד אחד וגלגול שבועה"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "סומכוס והשבועה: תקנת חכמים נגד תפיסה",
+   "amud": "ג.",
+   "text": {
+    "from": "3a.2",
+    "to": "3a.2"
+   },
+   "gist": "המשך השאלה מדוע סומכוס, שחולק בלי שבועה, יחייב כאן שבועה. רבי יוחנן אומר שזו תקנת חכמים, שלא יתפוס אדם בטלית של חברו.",
+   "bullets": [
+    {
+     "text": "תשובה לקל וחומר: המשנה יכולה להיות כסומכוס, משום שהשבועה הזאת מדרבנן, כדברי רבי יוחנן.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "רבי יוחנן: שבועת שניים האוחזים בטלית היא תקנת חכמים, \"שלא יהא כל אחד ואחד הולך ותוקף בטליתו של חבירו ואומר: שלי הוא\".",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "אם כן, השבועה הזאת אינה כלי לבירור האמת אלא אמצעי הרתעה. בלעדיה, כל מי שמעז יכול לתפוס טלית, לטעון שהיא שלו וללכת עם חציה.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "על השאלה מתי נולד העגל אי אפשר לביים מחלוקת. שם השבועה יכולה לשמש רק לבירור האמת, וסומכוס אינו מקבל שימוש כזה, ולכן הוא חולק בלי שבועה.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": []
   },
-  "sections": [
+  {
+   "id": "s2",
+   "title": "חולקים או מונח עד שיבוא אליהו: חכמים, רבי יוסי והחנווני",
+   "amud": "ג.",
+   "text": {
+    "from": "3a.3",
+    "to": "3a.13"
+   },
+   "gist": "האם חלוקת הטלית מתיישבת עם המחלוקת בפיקדון? שיטת חכמים, שתי ההבחנות המוצעות לרבי יוסי, ומדוע במקרה החנווני כל אחד מהשניים מקבל את מלוא תביעתו.",
+   "bullets": [],
+   "chart": {
+    "caption": "המקרים בהשוואה: מה מכריע בין חלוקה, הנחה עד שיבוא אליהו ותשלום לשניהם",
+    "columns": [
+     "המקרה",
+     "המבחנים של רבי יוסי:\n1. האם יש רמאי ודאי?\n2. האם ההנחה תפסיד לו משהו?",
+     "המבחן של חכמים: האם ייתכן שהחלוקה אמת?",
+     "הדין"
+    ],
+    "rows": [
+     [
+      "פיקדון של מנה ומאתיים",
+      "1. כן\n2. כן, כשהמנה שלו עצמו מעוכבת (רבי יוסי)",
+      "לא: המנה השנויה במחלוקת שייכת לאחד מהם",
+      "חכמים: המנה השנויה במחלוקת מונחת · רבי יוסי: הכול מונח"
+     ],
+     [
+      "טלית שנמצאה",
+      "1. לא: אולי הגביהו אותה שניהם יחד\n2. לא: הוא לא שילם עליה כלום",
+      "כן",
+      "כל אחד נשבע, וחולקים"
+     ],
+     [
+      "טלית שנקנתה",
+      "1. לא\n2. כן: שניהם שילמו, ולכן תשובת ההפסד אינה מועילה כאן",
+      "כן",
+      "כל אחד נשבע, וחולקים"
+     ],
+     [
+      "חנווני ושכיר",
+      "1. כן: אחד מהם משקר\n2. לא זו השאלה: כל אחד עומד רק מול בעל הבית",
+      "לא",
+      "שניהם נשבעים ונוטלים מבעל הבית"
+     ]
+    ],
+    "tags": [
+     [
+      null,
+      null,
+      null,
+      "holds"
+     ],
+     [
+      null,
+      null,
+      null,
+      "divides:1/2,1/2"
+     ],
+     [
+      null,
+      null,
+      null,
+      "divides:1/2,1/2"
+     ],
+     [
+      null,
+      null,
+      null,
+      "takes"
+     ]
+    ]
+   },
+   "children": [
     {
-      "id": "s1",
-      "title": "סומכוס והשבועה: תקנת חכמים נגד תפיסה",
-      "amud": "ג.",
-      "text": {
-        "from": "3a.2",
-        "to": "3a.2"
+     "id": "s3",
+     "title": "פיקדון של מנה ומאתיים: \"מה הפסיד רמאי?\"",
+     "amud": "ג.",
+     "text": {
+      "from": "3a.3",
+      "to": "3a.3"
+     },
+     "gist": "הגמרא מציעה שהמשנה אינה כרבי יוסי, שמניח את כל הפיקדון עד שיבוא אליהו כדי שהטוען בשקר לא ייצא בלי הפסד.",
+     "bullets": [
+      {
+       "text": "הצעה: המשנה אינה כרבי יוסי, הסובר שאין לפסוק באופן שאינו משאיר הרתעה לטוען בשקר (לז.).",
+       "detail": 2,
+       "source": "gemara"
       },
-      "gist": "המשך השאלה מדוע סומכוס, שחולק בלי שבועה, יחייב כאן שבועה. רבי יוחנן אומר שזו תקנת חכמים, שלא יתפוס אדם בטלית של חברו.",
-      "bullets": [
-        {
-          "text": "תשובה לקל וחומר: המשנה יכולה להיות כסומכוס, משום שהשבועה הזאת מדרבנן, כדברי רבי יוחנן.",
-          "detail": 2,
-          "source": "gemara"
-        },
-        {
-          "text": "רבי יוחנן: שבועת שניים האוחזים בטלית היא תקנת חכמים, \"שלא יהא כל אחד ואחד הולך ותוקף בטליתו של חבירו ואומר: שלי הוא\".",
-          "detail": 2,
-          "source": "gemara"
-        },
-        {
-          "text": "אם כן, השבועה הזאת אינה כלי לבירור האמת אלא אמצעי הרתעה. בלעדיה, כל מי שמעז יכול לתפוס טלית, לטעון שהיא שלו וללכת עם חציה.",
-          "detail": 2,
-          "source": "shiur"
-        },
-        {
-          "text": "על השאלה מתי נולד העגל אי אפשר לביים מחלוקת. שם השבועה יכולה לשמש רק לבירור האמת, וסומכוס אינו מקבל שימוש כזה, ולכן הוא חולק בלי שבועה.",
-          "detail": 3,
-          "source": "shiur"
-        }
+      {
+       "text": "המקרה: שניים הפקידו אצל נפקד אחד, זה מנה וזה מאתיים. הנפקד שכח של מי כל פיקדון, וכל אחד טוען שהמאתיים שלו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "חכמים: כל אחד נוטל מנה, והשאר יהא מונח עד שיבוא אליהו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבי יוסי: \"אם כן, מה הפסיד רמאי?\" אלא הכול יהא מונח עד שיבוא אליהו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "המהלך של רבי יוסי הוא אמצעי לחץ. השקרן רוצה לקבל בחזרה את המנה שלו, ולכן הוא עשוי להישבר ולהודות, ואילו הישר יעמוד בשלו. המחיר: גם כספו של הישר מעוכב.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "caption": "פיקדון של מנה ומאתיים, ומה כל שיטה אומרת על הטלית",
+      "columns": [
+       "",
+       "המנה שכל אחד הפקיד בוודאות",
+       "המנה השנויה במחלוקת",
+       "ובטלית"
       ],
-      "children": []
-    },
-    {
-      "id": "s2",
-      "title": "חולקים או מונח עד שיבוא אליהו: חכמים, רבי יוסי והחנווני",
-      "amud": "ג.",
-      "text": {
-        "from": "3a.3",
-        "to": "3a.13"
-      },
-      "gist": "האם חלוקת הטלית מתיישבת עם המחלוקת בפיקדון? שיטת חכמים, שתי ההבחנות המוצעות לרבי יוסי, ומדוע במקרה החנווני כל אחד מהשניים מקבל את מלוא תביעתו.",
-      "bullets": [],
-      "chart": {
-        "caption": "המקרים בהשוואה: מה מכריע בין חלוקה, הנחה עד שיבוא אליהו ותשלום לשניהם",
-        "columns": [
-          "המקרה",
-          "המבחנים של רבי יוסי:\n1. האם יש רמאי ודאי?\n2. האם ההנחה תפסיד לו משהו?",
-          "המבחן של חכמים: האם ייתכן שהחלוקה אמת?",
-          "הדין"
-        ],
-        "rows": [
-          [
-            "פיקדון של מנה ומאתיים",
-            "1. כן\n2. כן, כשהמנה שלו עצמו מעוכבת (רבי יוסי)",
-            "לא: המנה השנויה במחלוקת שייכת לאחד מהם",
-            "חכמים: המנה השנויה במחלוקת מונחת · רבי יוסי: הכול מונח"
-          ],
-          [
-            "טלית שנמצאה",
-            "1. לא: אולי הגביהו אותה שניהם יחד\n2. לא: הוא לא שילם עליה כלום",
-            "כן",
-            "כל אחד נשבע, וחולקים"
-          ],
-          [
-            "טלית שנקנתה",
-            "1. לא\n2. כן: שניהם שילמו, ולכן תשובת ההפסד אינה מועילה כאן",
-            "כן",
-            "כל אחד נשבע, וחולקים"
-          ],
-          [
-            "חנווני ושכיר",
-            "1. כן: אחד מהם משקר\n2. לא זו השאלה: כל אחד עומד רק מול בעל הבית",
-            "לא",
-            "שניהם נשבעים ונוטלים מבעל הבית"
-          ]
-        ],
-        "tags": [
-          [
-            null,
-            null,
-            null,
-            "holds"
-          ],
-          [
-            null,
-            null,
-            null,
-            "divides:1/2,1/2"
-          ],
-          [
-            null,
-            null,
-            null,
-            "divides:1/2,1/2"
-          ],
-          [
-            null,
-            null,
-            null,
-            "takes"
-          ]
-        ]
-      },
-      "children": [
-        {
-          "id": "s3",
-          "title": "פיקדון של מנה ומאתיים: \"מה הפסיד רמאי?\"",
-          "amud": "ג.",
-          "text": {
-            "from": "3a.3",
-            "to": "3a.3"
-          },
-          "gist": "הגמרא מציעה שהמשנה אינה כרבי יוסי, שמניח את כל הפיקדון עד שיבוא אליהו כדי שהטוען בשקר לא ייצא בלי הפסד.",
-          "bullets": [
-            {
-              "text": "הצעה: המשנה אינה כרבי יוסי, הסובר שאין לפסוק באופן שאינו משאיר הרתעה לטוען בשקר (לז.).",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "המקרה: שניים הפקידו אצל נפקד אחד, זה מנה וזה מאתיים. הנפקד שכח של מי כל פיקדון, וכל אחד טוען שהמאתיים שלו.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "חכמים: כל אחד נוטל מנה, והשאר יהא מונח עד שיבוא אליהו.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רבי יוסי: \"אם כן, מה הפסיד רמאי?\" אלא הכול יהא מונח עד שיבוא אליהו.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "המהלך של רבי יוסי הוא אמצעי לחץ. השקרן רוצה לקבל בחזרה את המנה שלו, ולכן הוא עשוי להישבר ולהודות, ואילו הישר יעמוד בשלו. המחיר: גם כספו של הישר מעוכב.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "chart": {
-            "caption": "פיקדון של מנה ומאתיים, ומה כל שיטה אומרת על הטלית",
-            "columns": [
-              "",
-              "המנה שכל אחד הפקיד בוודאות",
-              "המנה השנויה במחלוקת",
-              "ובטלית"
-            ],
-            "rows": [
-              [
-                "חכמים",
-                "חוזרת לכל מפקיד",
-                "מונח עד שיבוא אליהו",
-                "חולקים בשבועה: ייתכן שהיא של שניהם"
-              ],
-              [
-                "רבי יוסי",
-                "גם היא מונחת",
-                "מונח עד שיבוא אליהו",
-                "חולקים בשבועה: אין רמאי ודאי"
-              ]
-            ],
-            "tags": [
-              [
-                null,
-                "returns",
-                "holds",
-                "divides:1/2,1/2"
-              ],
-              [
-                null,
-                "holds",
-                "holds",
-                "divides:1/2,1/2"
-              ]
-            ]
-          },
-          "illustration": {
-            "caption": "מקרה הפיקדון המובא בדף ג. (מדף לז.): חכמים מחזירים לכל אחד את המנה שבוודאי שלו ומניחים רק את המנה השנויה במחלוקת. רבי יוסי מניח את כל השלוש מאות, כדי שגם הרמאי יפסיד.",
-            "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני מפקידים, וכל אחד טוען שהמאתיים שבידי הנפקד, ששכח, שלו. למטה: חכמים נותנים לכל אחד מנה ומניחים מנה אחת; רבי יוסי מניח את כל השלוש מאות.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"70\" y=\"56\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"270\" y=\"56\" width=\"50\" height=\"100\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"520\" y=\"56\" width=\"50\" height=\"100\" style=\"color:#6B6F3A\"/><circle cx=\"690\" cy=\"110\" r=\"26\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><circle cx=\"790\" cy=\"106\" r=\"36\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"20\" y=\"226\" width=\"420\" height=\"196\" rx=\"14\" fill=\"#E3EAF3\"/><circle cx=\"100\" cy=\"312\" r=\"28\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><circle cx=\"230\" cy=\"312\" r=\"28\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"324\" y=\"276\" width=\"72\" height=\"72\" rx=\"8\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><circle cx=\"360\" cy=\"312\" r=\"28\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"460\" y=\"226\" width=\"420\" height=\"196\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"515\" y=\"292\" width=\"310\" height=\"60\" rx=\"8\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><circle cx=\"570\" cy=\"322\" r=\"24\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><circle cx=\"670\" cy=\"322\" r=\"24\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><circle cx=\"770\" cy=\"322\" r=\"24\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/></g><text x=\"450\" y=\"34\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">שני פיקדונות אצל נפקד אחד, ששכח של מי כל פיקדון</text><text x=\"805\" y=\"178\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">מפקיד א</text><text x=\"805\" y=\"196\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"המאתיים שלי\"</text><text x=\"605\" y=\"178\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">מפקיד ב</text><text x=\"605\" y=\"196\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"המאתיים שלי\"</text><text x=\"355\" y=\"178\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">הנפקד</text><text x=\"355\" y=\"196\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">שכח של מי כל פיקדון</text><text x=\"210\" y=\"115\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"110\" y=\"111\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">200</text><text x=\"160\" y=\"178\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">הופקדו: 100 ו־200</text><text x=\"670\" y=\"256\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">חכמים</text><text x=\"800\" y=\"317\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"670\" y=\"317\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"540\" y=\"317\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"800\" y=\"368\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">למפקיד א</text><text x=\"670\" y=\"368\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">למפקיד ב</text><text x=\"540\" y=\"368\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1A1F2E\">מונח</text><text x=\"540\" y=\"386\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">עד שיבוא אליהו</text><text x=\"700\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">כל אחד נוטל את המנה שבוודאי שלו</text><text x=\"230\" y=\"256\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">רבי יוסי</text><text x=\"230\" y=\"280\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#6B4A1A\">\"אם כן, מה הפסיד רמאי?\"</text><text x=\"330\" y=\"327\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"230\" y=\"327\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"130\" y=\"327\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"230\" y=\"382\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">כל השלוש מאות מונחות עד שיבוא אליהו</text><text x=\"230\" y=\"406\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">גם המנה של הרמאי עצמו מעוכבת</text></svg>"
-          },
-          "children": []
-        },
-        {
-          "id": "s4",
-          "title": "חכמים: חולקים כשייתכן שהיא של שניהם, מניחים כשהיא של אחד",
-          "amud": "ג.",
-          "text": {
-            "from": "3a.4",
-            "to": "3a.5"
-          },
-          "gist": "חכמים מניחים את המנה השנויה במחלוקת משום שבוודאי היא של אחד בלבד. הטלית ייתכן שהיא של שניהם, ולכן חולקים אותה בשבועה.",
-          "bullets": [
-            {
-              "text": "קושיה מן הצד השני: גם לחכמים זה אינו מתיישב. כל הטלית מוטלת בספק, כמו המנה הנותרת, ולכן גם היא צריכה להיות מונחת עד שיבוא אליהו.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "תשובה: המנה ההיא בוודאי של אחד מהם, ולכן היא מונחת. הטלית ייתכן שהיא של שניהם, ולכן אמרו חכמים: חולקים בשבועה.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "המבחן: האם ייתכן שהחלוקה אמת? אם ייתכן – חולקים. אם החלוקה תהיה בוודאי דין שקר – מניחים את החפץ ומחכים.",
-              "detail": 2,
-              "source": "shiur"
-            },
-            {
-              "text": "תוספות: הסוגיה עוסקת בחפצים שלשני הצדדים יש בהם אחיזה כלשהי (שניהם אוחזים בטלית; הנפקד מחזיק את הכסף בשביל שניהם). במקום שאיש אינו מחזיק בחפץ, הגמרא אומרת במקום אחר \"כל דאלים גבר\".",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s5",
-          "title": "רבי יוסי: אין רמאי ודאי, או שהרמאי אינו מפסיד?",
-          "amud": "ג.",
-          "text": {
-            "from": "3a.6",
-            "to": "3a.9"
-          },
-          "gist": "בקל וחומר, רבי יוסי היה צריך להניח את הטלית. הגמרא מציעה שתי הבחנות, דוחה את השנייה בטלית שנקנתה ונשארת בראשונה: כאן ייתכן שאין רמאי כלל.",
-          "bullets": [
-            {
-              "text": "קל וחומר: רבי יוסי מניח אפילו את המנה שבוודאי שייכת לכל אחד. כאן ייתכן שכל הטלית של אחד מהם – לא כל שכן שתהיה מונחת עד שיבוא אליהו?",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "תשובה ראשונה: בפיקדון יש רמאי בוודאות. כאן, \"מי יימר דאיכא רמאי?\" אולי שניהם הגביהו את הטלית בבת אחת.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "תשובה שנייה: שם רבי יוסי קונס את הרמאי ומעכב את הפיקדון שלו, כדי שיודה. כאן הרמאי אינו מפסיד דבר אם הטלית מונחת, ולכן ההנחה לא תזיז אותו.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "התשובה השנייה נדחית: היא מתאימה למציאה, אבל במקח וממכר שניהם שילמו. לכן נשארים בתשובה הראשונה: כאן אין ודאות שמישהו משקר.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "הרמאי אמנם מפסיד רווח שקיווה לו. אבל הנחת החפץ היא אמצעי לחץ אמיתי רק כשהיא מעכבת משהו ששייך לו באמת.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "תוספות מבינים את שתי התשובות כשני תנאים להנחה: רמאי ודאי, והפסד ממשי לו.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "children": [],
-          "returns_to": [
-            {
-              "id": "s3",
-              "note": "חוזר לפסק של רבי יוסי בפיקדון כדי לבדוק מולו את המשנה"
-            }
-          ]
-        },
-        {
-          "id": "s6",
-          "title": "חנווני ושכיר: מדוע שניהם נשבעים ונוטלים",
-          "amud": "ג.",
-          "text": {
-            "from": "3a.10",
-            "to": "3a.13"
-          },
-          "gist": "מקרה שיש בו רמאי ודאי ובכל זאת הכסף אינו מונח: כל טוען עומד רק מול בעל הבית, שהאמין לשניהם בלי עדים, ולכן שניהם נשבעים ונוטלים ממנו.",
-          "bullets": [
-            {
-              "text": "שאלה בין לחכמים ובין לרבי יוסי: בעל הבית אמר לחנווני לתת לפועל שלו מזון תמורת שכרו. החנווני אומר שנתן, והפועל אומר שלא קיבל כלום. לפי המשנה (שבועות מה.), \"זה נשבע ונוטל, וזה נשבע ונוטל\" מבעל הבית.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "מדוע לא נוציא את הכסף מבעל הבית ויהא מונח עד שיבוא אליהו? הרי בוודאי אחד מהם רמאי.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "החנווני יכול לומר לבעל הבית: את שליחותך עשיתי, ואני עומד רק מולך. מה לי ולפועל? גם אם יישבע לי, אינו נאמן לי בשבועה. אתה האמנת לו, שלא אמרת לי לתת לו בפני עדים.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "והפועל יכול לומר לבעל הבית: אני עשיתי מלאכה אצלך. מה לי ולחנווני? גם אם יישבע לי, אינו נאמן לי. לכן שניהם נשבעים ונוטלים מבעל הבית.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "אין כאן לא חלוקה ולא הנחה. בעל הבית קבע הסדר בלי שום הגנה, והוא נושא בהפסד משני הצדדים.",
-              "detail": 2,
-              "source": "shiur"
-            }
-          ],
-          "illustration": {
-            "caption": "מקרה החנווני (ג., על פי שבועות מה.): כל טוען עומד רק מול בעל הבית ואינו סומך על שבועת חברו, ולכן שניהם נשבעים ונוטלים ממנו.",
-            "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>בעל הבית למעלה, בין החנווני שאומר שנתן את המזון לבין הפועל שאומר שלא קיבל כלום. כל אחד נשבע ונוטל מבעל הבית.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"415\" y=\"50\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"110\" y=\"250\" width=\"60\" height=\"120\" style=\"color:#9A6212\"/><use href=\"#man\" x=\"730\" y=\"250\" width=\"60\" height=\"120\" style=\"color:#5E7D4F\"/><line x1=\"175\" y1=\"270\" x2=\"405\" y2=\"165\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><line x1=\"725\" y1=\"270\" x2=\"495\" y2=\"165\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><line x1=\"185\" y1=\"320\" x2=\"715\" y2=\"320\" stroke=\"#C9C1B2\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/></g><text x=\"450\" y=\"212\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">בעל הבית</text><text x=\"450\" y=\"230\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">\"תן לפועל שלי מזון\"</text><text x=\"760\" y=\"392\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">החנווני</text><text x=\"760\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"נתתי לו את המזון\"</text><text x=\"140\" y=\"392\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">הפועל</text><text x=\"140\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"לא קיבלתי כלום\"</text><text x=\"660\" y=\"200\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1B3A8A\">נשבע ונוטל</text><text x=\"240\" y=\"200\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1B3A8A\">נשבע ונוטל</text><text x=\"450\" y=\"300\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"מה עסק יש לי איתו?\"</text><text x=\"450\" y=\"344\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">\"גם אם יישבע לי, אינו נאמן לי\"</text><text x=\"450\" y=\"446\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1A1F2E\">שניהם נוטלים מבעל הבית, שלא דרש עדים</text></svg>"
-          },
-          "children": [],
-          "returns_to": [
-            {
-              "id": "s5",
-              "note": "בודק את מבחן ה\"רמאי הוודאי\" שהתקבל זה עתה לשיטת רבי יוסי"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "s7",
-      "title": "הברייתא של רבי חייא: האם עדים על מקצת הטענה מחייבים שבועה?",
-      "amud": "ג. ← ד.",
-      "text": {
-        "from": "3a.14",
-        "to": "4a.14"
-      },
-      "gist": "רבי חייא לומד שבועה מעדים על מקצת הטענה, בקל וחומר ממודה במקצת. הגמרא קושרת זאת למשנה, מסבירה למה צריך את הקל וחומר, בודקת אותו מול מה שרק הודאה עושה, ומחפשת מקור חדש בעד אחד.",
-      "bullets": [],
-      "children": [
-        {
-          "id": "s8",
-          "title": "עדים על חמישים: נותן חמישים ונשבע על השאר",
-          "amud": "ג.",
-          "text": {
-            "from": "3a.14",
-            "to": "3a.15"
-          },
-          "gist": "תביעה של מנה, כפירה בכול, ועדים על חמישים: נותן חמישים ונשבע על השאר, כדי שלא תהיה הודאת פיו גדולה מהעדאת עדים.",
-          "bullets": [
-            {
-              "text": "הברייתא של רבי חייא: \"מנה לי בידך\", והלה אומר \"אין לך בידי כלום\", והעדים מעידים שיש לו חמישים זוז – נותן לו חמישים זוז, ויישבע על השאר.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "המקור: קל וחומר ממודה במקצת, שמודה בחלק מהטענה ונשבע על השאר – \"שלא תהא הודאת פיו גדולה מהעדאת עדים\".",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "שלא כמו שבועת הטלית, שהיא מדרבנן, שבועת מודה במקצת היא מן התורה. הברייתא של רבי חייא מרחיבה אותה לחלק שהוכח בעדים.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "children": []
-        },
-        {
-          "id": "s9",
-          "title": "המשנה כמקבילה: מה שכל אחד תופס – כעדים",
-          "amud": "ג.",
-          "text": {
-            "from": "3a.16",
-            "to": "3a.16"
-          },
-          "gist": "הגמרא קוראת את המשנה כאותו דין: מה שכל אחד תופס הוא בבירור שלו, כמו עדים על חלק מטענתו, ובכל זאת כל אחד נשבע.",
-          "bullets": [
-            {
-              "text": "\"ותנא תונא\": המשנה שנתה אותו דבר – שניים אוחזים בטלית, כל אחד אומר \"אני מצאתיה\", כל אחד נשבע וחולקים.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "מאחר שכל אחד תופס חלק, \"אנן סהדי\" שמה שבידו של כל אחד שלו הוא. זה כמו עדים על חלק מטענת כל אחד, ובכל זאת כל אחד נשבע.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "ההשוואה מוזרה: ה\"עדות\" הזאת קודמת לטענות, והיא פועלת לשני הכיוונים בבת אחת. ובכל זאת היא פותחת דרך לקרוא את שבועת המשנה כשבועה של התורה על חלק שהוכח בראיה.",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "illustration": {
-            "caption": "המשנה כפי שהגמרא קוראת אותה בדף ג.: האחיזה של כל טוען מראה שמה שהוא תופס שלו, כמו עדים על חלק מטענתו, ולכן כל אחד נשבע על השאר וחולקים.",
-            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני אנשים אוחזים כל אחד בקצה אחד של טלית, וכל אחד אומר \"אני מצאתיה\". קו מקווקו מחלק את הטלית, ומתחת לכל חצי: מה שזה תופס שלו הוא.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"150\" y=\"150\" width=\"80\" height=\"160\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"670\" y=\"150\" width=\"80\" height=\"160\" style=\"color:#8C5A3C\"/><rect x=\"225\" y=\"215\" width=\"450\" height=\"60\" rx=\"6\" fill=\"#D9B26A\" stroke=\"#A8854A\" stroke-width=\"2\"/><circle cx=\"228\" cy=\"240\" r=\"8\" fill=\"#D6AE86\"/><circle cx=\"672\" cy=\"240\" r=\"8\" fill=\"#D6AE86\"/><line x1=\"450\" y1=\"205\" x2=\"450\" y2=\"285\" stroke=\"#5A4A3A\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><rect x=\"60\" y=\"350\" width=\"780\" height=\"56\" rx=\"12\" fill=\"#E3EAF3\"/></g><text x=\"450\" y=\"40\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">שניים שאוחזים בטלית</text><text x=\"450\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"400\" fill=\"#5A4A3A\">שנים אוחזין בטלית, זה אומר: אני מצאתיה</text><text x=\"710\" y=\"138\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\">\"אני מצאתיה\"</text><text x=\"190\" y=\"138\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#9A6212\">\"אני מצאתיה\"</text><text x=\"563\" y=\"304\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">מה שזה תופס</text><text x=\"563\" y=\"322\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">שלו הוא</text><text x=\"337\" y=\"304\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">מה שזה תופס</text><text x=\"337\" y=\"322\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">שלו הוא</text><text x=\"450\" y=\"372\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1B3A8A\">כאילו יש עדים על חלק מטענת כל אחד,</text><text x=\"450\" y=\"394\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1B3A8A\">ולכן כל אחד נשבע על השאר, וחולקים</text></svg>"
-          },
-          "children": []
-        },
-        {
-          "id": "s10",
-          "title": "למה צריך את הקל וחומר: רבה על הלווה שאינו כופר בכול",
-          "amud": "ג.–ג:",
-          "text": {
-            "from": "3a.17",
-            "to": "3b.2"
-          },
-          "gist": "לפי ההסבר של רבה, הודאה במקצת מגלה לווה שמתחמק ולא גונב, ושבועה יכולה להזיז אותו. מי שהתחייב רק על פי עדים ייתכן שהוא רמאי גמור, ולכן צריך את הקל וחומר.",
-          "bullets": [
-            {
-              "text": "למה צריך את הקל וחומר? שלא תאמר שהתורה הטילה שבועה רק על הודאת פיו, כפי שרבה מסביר.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רבה: יש חזקה ש\"אין אדם מעיז פניו בפני בעל חובו\" – אדם אינו מעז פנים מול מי שהלווה לו ועשה עמו טובה. הוא היה רוצה לכפור בכול, אבל אינו מסוגל.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "באמת הוא היה רוצה להודות בכול, אבל אין לו כסף עכשיו. הוא חושב: אדחה אותו עד שיהיה לי כסף, ואז אפרע לו הכול. לכן התורה הטילה עליו שבועה, כדי שיודה בכול.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "כשעדים מחייבים אותו בחלק, הנימוק הזה אינו קיים. אולי אינו מתכוון לפרוע כלל, ושבועתו חסרת ערך. לכן הברייתא מלמדת את השבועה בקל וחומר.",
-              "detail": 2,
-              "source": "gemara"
-            },
-            {
-              "text": "רש״י: הרתיעה נובעת מן הטובה שבהלוואה. תוספות: היא קיימת גם בשבועת השומרים, שאין בה טובה, ולכן זו רתיעה כללית משקר בפני אדם.",
-              "detail": 3,
-              "source": "shiur"
-            },
-            {
-              "text": "שבועה פועלת כאן משום שהיא שוברת את ההונאה העצמית, בדומה לחשבון נפש כן. גם מול כופר בכול היא עשויה לפעול: גם הוא אולי מתחמק, או ש\"חשוד אממונא לא חשוד אשבועתא\".",
-              "detail": 3,
-              "source": "shiur"
-            }
-          ],
-          "illustration": {
-            "caption": "ההסבר של רבה למודה במקצת (ג.–ג:): הלווה לא יכפור בכל ההלוואה בפני המלווה, והוא כופר בחלק רק כדי להרוויח זמן, ולכן השבועה מביאה אותו להודות בכול.",
-            "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>המלווה אומר \"מנה לי בידך\"; הלווה אומר \"אין לך בידי אלא חמישים\", וחושב שיפרע הכול כשיהיה לו כסף.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><ellipse cx=\"660\" cy=\"80\" rx=\"200\" ry=\"48\" fill=\"#FFFFFF\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><circle cx=\"644\" cy=\"136\" r=\"6\" fill=\"#FFFFFF\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><circle cx=\"636\" cy=\"149\" r=\"4\" fill=\"#FFFFFF\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><use href=\"#man\" x=\"150\" y=\"140\" width=\"80\" height=\"160\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"620\" y=\"150\" width=\"80\" height=\"160\" style=\"color:#8C5A3C\"/><rect x=\"60\" y=\"370\" width=\"780\" height=\"40\" rx=\"12\" fill=\"#E4EFE4\"/></g><text x=\"870\" y=\"40\" text-anchor=\"end\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">רבה: מדוע מודה במקצת חייב שבועה</text><text x=\"240\" y=\"74\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\">\"עכשיו אין לי כסף;</text><text x=\"240\" y=\"94\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\">כשיהיה לי, אפרע לו הכול\"</text><text x=\"710\" y=\"128\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\">\"מנה לי בידך\"</text><text x=\"710\" y=\"322\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">המלווה</text><text x=\"240\" y=\"330\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">הלווה</text><text x=\"240\" y=\"350\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#9A6212\">\"אין לך בידי אלא חמישים\"</text><text x=\"450\" y=\"210\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1A1F2E\">אינו מעז לכפור בכול</text><text x=\"450\" y=\"230\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">בפני מי שהלווה לו את הכסף</text><text x=\"450\" y=\"256\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#5A4A3A\">אין אדם מעיז פניו בפני בעל חובו</text><text x=\"450\" y=\"395\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">לכן התורה מטילה עליו שבועה, כדי שיודה בכול</text></svg>"
-          },
-          "children": []
-        },
-        {
-          "id": "s11",
-          "title": "בדיקת הקל וחומר: קנס, קרבן, חומש והזמה",
-          "amud": "ג:",
-          "text": {
-            "from": "3b.3",
-            "to": "3b.12"
-          },
-          "gist": "הקל וחומר מנוסח מחדש סביב קנס, ואז נבדק מול מה שרק הודאה עושה: קרבן, אשם וחומש (שמתורצים בשיטת רבי מאיר), והעובדה שהודאה אינה בהכחשה ובהזמה – פירכא שנשארת בעינה.",
-          "bullets": [],
-          "chart": {
-            "caption": "מה פועלת הודאת פיו ומה פועלים שני עדים, לפי הפירכות על רבי חייא",
-            "columns": [
-              "",
-              "ממון רגיל",
-              "קנס",
-              "קרבן, וגם אשם",
-              "חומש",
-              "הכחשה והזמה"
-            ],
-            "rows": [
-              [
-                "הודאת פיו",
-                "מחייבת: כמאה עדים",
-                "פוטרת",
-                "מחייבת",
-                "מחייבת",
-                "אינה בהכחשה ובהזמה"
-              ],
-              [
-                "שני עדים",
-                "מחייבים",
-                "מחייבים",
-                "חכמים: לא · רבי מאיר: כן",
-                "לרבי מאיר (וכך רבי חייא): כן",
-                "ישנם בהכחשה ובהזמה"
-              ]
-            ],
-            "tags": [
-              [
-                null,
-                "pays",
-                "exempt",
-                "pays",
-                "pays",
-                null
-              ],
-              [
-                null,
-                "pays",
-                "pays",
-                null,
-                "pays",
-                null
-              ]
-            ]
-          },
-          "children": [
-            {
-              "id": "s12",
-              "title": "הניסוח: הודאה אינה מחייבת קנס, עדים מחייבים",
-              "amud": "ג:",
-              "text": {
-                "from": "3b.3",
-                "to": "3b.5"
-              },
-              "gist": "בתחילה נוסח הקל וחומר \"פיו אינו מחייבו ממון\". מאחר שהודאת בעל דין כמאה עדים, הוא מתוקן ל\"פיו אינו מחייבו קנס\".",
-              "bullets": [
-                {
-                  "text": "הקל וחומר: \"ומה פיו שאין מחייבו ממון – מחייבו שבועה, עדים שמחייבין אותו ממון – אינו דין שמחייבין אותו שבועה?\"",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "קושיה: פיו אינו מחייבו ממון? \"והא הודאת בעל דין כמאה עדים דמי!\"",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "תשובה: הממון שנאמר כאן הוא קנס. המודה במעשה שיש בו קנס פטור ממנו, ואילו עדים מחייבים אותו. הקל וחומר מנוסח מחדש על בסיס זה.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "הטיעון הוא פורמלי. הוא מדרג את שני סוגי הראיות ומתעלם מן הפסיכולוגיה שרבה נתן כטעם לשבועה.",
-                  "detail": 3,
-                  "source": "shiur"
-                },
-                {
-                  "text": "קנס, כמו תשלומי כפל של גנב, הוא עונש ולא חוב, ולכן כמו שאר העונשים הוא צריך עדים מבחוץ.",
-                  "detail": 3,
-                  "source": "shiur"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "s13",
-              "title": "קרבן: רבי מאיר וחכמים בעדים שאכל חלב",
-              "amud": "ג:",
-              "text": {
-                "from": "3b.6",
-                "to": "3b.9"
-              },
-              "gist": "הודאה מחייבת קרבן, ועדים אולי לא. הגמרא מתרצת שרבי חייא סובר כרבי מאיר, שמחייב קרבן על פי עדים בקל וחומר משלו.",
-              "bullets": [
-                {
-                  "text": "פירכא: בדבר אחד הודאה חמורה יותר. המודה שחטא בשוגג מביא קרבן, ואילו עדים אינם מחייבים אותו אם הוא מכחיש.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "תשובה: רבי חייא סובר כרבי מאיר, שאמר: \"עדים מחייבין אותו קרבן מקל וחומר\".",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "משנה (כריתות יא:): \"אמרו לו שנים 'אכלת חלב', והוא אומר 'לא אכלתי' – רבי מאיר מחייב, וחכמים פוטרים\".",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "רבי מאיר: \"אם הביאוהו שנים לידי מיתה חמורה, לא יביאוהו לידי קרבן הקל?\" חכמים: \"מה אם ירצה לומר 'מזיד הייתי' – ייפטר\". על מזיד אין מביאים קרבן, ולכן העדים אינם יכולים לחייב קרבן.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "חכמים רואים בקרבן דבר שנשען על ההודאה של החוטא עצמו, בדומה לווידוי, ואת זה עדים אינם יכולים לספק. רבי מאיר רואה בו תגובה לחטא עצמו, יהיו דברי החוטא אשר יהיו.",
-                  "detail": 3,
-                  "source": "shiur"
-                }
-              ],
-              "illustration": {
-                "caption": "המשנה בכריתות (מובאת בדף ג:): עדים אומרים שאכל חלב, והוא מכחיש. רבי מאיר מחייב קרבן, חכמים פוטרים, והגמרא אומרת שרבי חייא סובר כרבי מאיר.",
-                "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני עדים אומרים לאדם שאכל חלב, והוא מכחיש. מימין רבי מאיר אומר שהוא חייב קרבן; משמאל חכמים פוטרים אותו.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"60\" width=\"280\" height=\"330\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"600\" y=\"60\" width=\"280\" height=\"330\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#man\" x=\"330\" y=\"80\" width=\"50\" height=\"100\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"390\" y=\"80\" width=\"50\" height=\"100\" style=\"color:#50706E\"/><use href=\"#man\" x=\"500\" y=\"80\" width=\"50\" height=\"100\" style=\"color:#8C4A3C\"/><use href=\"#sage\" x=\"130\" y=\"76\" width=\"60\" height=\"105\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"670\" y=\"76\" width=\"60\" height=\"105\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"750\" y=\"76\" width=\"60\" height=\"105\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\"/></g><text x=\"450\" y=\"36\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">שני עדים: \"אכלת חלב\". והוא: \"לא אכלתי\"</text><text x=\"515\" y=\"205\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1A1F2E\">שני העדים</text><text x=\"375\" y=\"205\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1A1F2E\">הנאשם</text><text x=\"450\" y=\"300\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">רבי חייא סובר</text><text x=\"450\" y=\"320\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">כרבי מאיר</text><text x=\"740\" y=\"204\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\">רבי מאיר</text><text x=\"740\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">חייב להביא</text><text x=\"740\" y=\"254\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">קרבן</text><text x=\"740\" y=\"292\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"אם הביאוהו שנים לידי</text><text x=\"740\" y=\"310\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">מיתה חמורה, לא יביאוהו</text><text x=\"740\" y=\"328\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">לידי קרבן הקל?\"</text><text x=\"160\" y=\"204\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#9A6212\">חכמים</text><text x=\"160\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">פטור</text><text x=\"160\" y=\"254\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">מקרבן</text><text x=\"160\" y=\"292\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"מה אם ירצה לומר:</text><text x=\"160\" y=\"310\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">מזיד הייתי?\"</text><text x=\"160\" y=\"328\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">על מזיד אין מביאים קרבן</text><text x=\"450\" y=\"430\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" font-weight=\"400\" fill=\"#5B6478\">משנה כריתות יא:, מובאת בבבא מציעא ג:</text></svg>"
-              },
-              "children": []
-            },
-            {
-              "id": "s14",
-              "title": "אשם וחומש: גם כאן כרבי מאיר",
-              "amud": "ג:",
-              "text": {
-                "from": "3b.10",
-                "to": "3b.11"
-              },
-              "gist": "עוד שני דברים שהודאה מחייבת – אשם הגזלן והחומש – מתורצים באותה דרך: רבי חייא סובר כרבי מאיר.",
-              "flag": "על פי הגמרא בלבד",
-              "bullets": [
-                {
-                  "text": "פירכא: הודאה מחייבת את הגזלן להביא אשם, ועדים אינם מחייבים. תשובה: \"אשם היינו קרבן\" – הוא כשאר הקרבנות, ובו נחלקו רבי מאיר וחכמים.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "פירכא: המודה שהחזיק שלא כדין בממון חברו ומחזיר אותו מוסיף חומש (ויקרא ה, כ–כו); כשיש עדים אינו מוסיף. תשובה: רבי חייא סובר כרבי מאיר, שמחייב גם חומש בקל וחומר כשעדים מעידים.",
-                  "detail": 2,
-                  "source": "gemara"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "s15",
-              "title": "הודאה אינה בהכחשה ובהזמה",
-              "amud": "ג:",
-              "text": {
-                "from": "3b.12",
-                "to": "3b.12"
-              },
-              "gist": "פירכא אחרונה נשארת בלי תשובה: עדים ישנם בהכחשה ובהזמה, והודאה לא – ולכן בדברים מסוימים עדים חלשים יותר.",
-              "flag": "על פי הגמרא בלבד",
-              "bullets": [
-                {
-                  "text": "פירכא: \"מה לפיו שכן אינו בהכחשה ובהזמה\" – עדים אינם יכולים לבטל את הודאת בעל הדין עצמו. עדים, לעומת זאת, ישנם בהכחשה ובהזמה.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "אם כן, בדברים מסוימים עדים חלשים מהודאה. הגמרא אינה עונה על כך, ופונה למקור אחר לשבועה של רבי חייא.",
-                  "detail": 2,
-                  "source": "gemara"
-                }
-              ],
-              "children": []
-            }
-          ]
-        },
-        {
-          "id": "s16",
-          "title": "מקור חדש: עד אחד, ואחר כך גלגול שבועה",
-          "amud": "ג: ← ד.",
-          "text": {
-            "from": "3b.13",
-            "to": "4a.14"
-          },
-          "gist": "לאחר שוויתרה על ההודאה כמקור, הגמרא לומדת את שבועת רבי חייא מעד אחד, אחר כך רב פפא לומד מגלגול שבועה של עד אחד, ולבסוף מהודאת פיו ועד אחד יחד.",
-          "flag": "על פי הגמרא בלבד",
-          "bullets": [],
-          "children": [
-            {
-              "id": "s17",
-              "title": "עד אחד מחייב שבועה: קל וחומר לשניים?",
-              "amud": "ג: ← ד.",
-              "text": {
-                "from": "3b.13",
-                "to": "4a.1"
-              },
-              "gist": "עד אחד, שאינו מחייב ממון, מחייב שבועה – כל שכן שניים. הלימוד נדחה: השבועה באה כאן על חלק אחר של הטענה.",
-              "flag": "על פי הגמרא בלבד",
-              "bullets": [
-                {
-                  "text": "קל וחומר: \"ומה עד אחד שאין מחייבו ממון, מחייבו שבועה – עדים שמחייבין אותו ממון, אינו דין שמחייבין אותו שבועה!\"",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "נדחה: בעד אחד הנתבע נשבע על מה שהעד העיד עליו בדיוק. בשני עדים הוא נשבע על מה שכפר בו, ולא על החוב שהעידו עליו.",
-                  "detail": 2,
-                  "source": "gemara"
-                }
-              ],
-              "children": []
-            },
-            {
-              "id": "s18",
-              "title": "רב פפא: גלגול שבועה, ואחר כך הודאת פיו ועד אחד יחד",
-              "amud": "ד.",
-              "text": {
-                "from": "4a.2",
-                "to": "4a.14"
-              },
-              "gist": "רב פפא לומד את השבועה מגלגול שבועה. כשהלימוד נדחה, מצרפים את הודאת פיו ועד אחד, וכל אחד מהם עונה על החולשה של חברו.",
-              "flag": "על פי הגמרא בלבד",
-              "bullets": [
-                {
-                  "text": "רב פפא: \"אתי מגלגול שבועה דעד אחד\". מאחר שעד אחד מחייב שבועה, התובע יכול לגלגל עליה טענות נוספות.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "נדחה: שם \"שבועה גוררת שבועה\", והעד אינו גורם ישירות לשבועה השנייה. עדים מחייבים אותו לשלם חלק, וחיוב תשלום אינו גורר שבועה על השאר.",
-                  "detail": 2,
-                  "source": "gemara"
-                },
-                {
-                  "text": "תשובה: \"פיו יוכיח\" – ההודאה מראה שגם דבר שאינו שבועה יכול להביא שבועה על שאר הטענה. ו\"עד אחד יוכיח\" שגם עדות שיש בה הכחשה יכולה לחייב שבועה.",
-                  "detail": 2,
-                  "source": "gemara"
-                }
-              ],
-              "children": [],
-              "continues": "הגמרא ממשיכה לבחון את הלימוד המצורף הזה לשבועת רבי חייא."
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "key_terms": [
-    {
-      "term": "תקנת חכמים",
-      "hebrew": "",
-      "sense": "תקנה מדרבנן",
-      "definition": "תקנה שתיקנו חכמים, ולא דין מן התורה, כדי לענות על צורך מעשי או חברתי.",
-      "on_this_daf": "רבי יוחנן מכנה את שבועת שניים האוחזים בטלית תקנת חכמים, שלא יתפוס אדם בטלית של חברו – ולכן גם סומכוס יכול לחייב אותה.",
-      "aliases": [
-        "תקנה"
-      ],
-      "sections": [
-        "s1"
-      ]
-    },
-    {
-      "term": "יהא מונח עד שיבוא אליהו",
-      "hebrew": "",
-      "sense": "השארת ממון שבספק עד שיתברר",
-      "definition": "פסק של בית דין שממון שאי אפשר לברר את בעליו מונח ואינו ניתן לאיש, \"עד שיבוא אליהו\" ויברר את האמת.",
-      "on_this_daf": "בפיקדון חכמים מניחים רק את המנה השנויה במחלוקת, ורבי יוסי את כל הפיקדון. הגמרא מסבירה מדוע את הטלית חולקים, ומדוע במקרה החנווני שניהם נוטלים.",
-      "aliases": [
+      "rows": [
+       [
+        "חכמים",
+        "חוזרת לכל מפקיד",
         "מונח עד שיבוא אליהו",
-        "עד שיבוא אליהו",
-        "מונחת עד שיבוא אליהו"
+        "חולקים בשבועה: ייתכן שהיא של שניהם"
+       ],
+       [
+        "רבי יוסי",
+        "גם היא מונחת",
+        "מונח עד שיבוא אליהו",
+        "חולקים בשבועה: אין רמאי ודאי"
+       ]
       ],
-      "sections": [
-        "s2",
-        "s3",
-        "s4",
-        "s5",
-        "s6"
+      "tags": [
+       [
+        null,
+        "returns",
+        "holds",
+        "divides:1/2,1/2"
+       ],
+       [
+        null,
+        "holds",
+        "holds",
+        "divides:1/2,1/2"
+       ]
       ]
+     },
+     "illustration": {
+      "caption": "מקרה הפיקדון המובא בדף ג. (מדף לז.): חכמים מחזירים לכל אחד את המנה שבוודאי שלו ומניחים רק את המנה השנויה במחלוקת. רבי יוסי מניח את כל השלוש מאות, כדי שגם הרמאי יפסיד.",
+      "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני מפקידים, וכל אחד טוען שהמאתיים שבידי הנפקד, ששכח, שלו. למטה: חכמים נותנים לכל אחד מנה ומניחים מנה אחת; רבי יוסי מניח את כל השלוש מאות.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"70\" y=\"56\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"270\" y=\"56\" width=\"50\" height=\"100\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"520\" y=\"56\" width=\"50\" height=\"100\" style=\"color:#6B6F3A\"/><circle cx=\"690\" cy=\"110\" r=\"26\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><circle cx=\"790\" cy=\"106\" r=\"36\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"20\" y=\"226\" width=\"420\" height=\"196\" rx=\"14\" fill=\"#E3EAF3\"/><circle cx=\"100\" cy=\"312\" r=\"28\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><circle cx=\"230\" cy=\"312\" r=\"28\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"324\" y=\"276\" width=\"72\" height=\"72\" rx=\"8\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><circle cx=\"360\" cy=\"312\" r=\"28\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><rect x=\"460\" y=\"226\" width=\"420\" height=\"196\" rx=\"14\" fill=\"#F3E6D8\"/><rect x=\"515\" y=\"292\" width=\"310\" height=\"60\" rx=\"8\" fill=\"none\" stroke=\"#8A7560\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><circle cx=\"570\" cy=\"322\" r=\"24\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><circle cx=\"670\" cy=\"322\" r=\"24\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/><circle cx=\"770\" cy=\"322\" r=\"24\" fill=\"#EDE3CF\" stroke=\"#BFAE8E\" stroke-width=\"2\"/></g><text x=\"450\" y=\"34\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">שני פיקדונות אצל נפקד אחד, ששכח של מי כל פיקדון</text><text x=\"805\" y=\"178\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">מפקיד א</text><text x=\"805\" y=\"196\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"המאתיים שלי\"</text><text x=\"605\" y=\"178\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">מפקיד ב</text><text x=\"605\" y=\"196\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"המאתיים שלי\"</text><text x=\"355\" y=\"178\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">הנפקד</text><text x=\"355\" y=\"196\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">שכח של מי כל פיקדון</text><text x=\"210\" y=\"115\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"110\" y=\"111\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">200</text><text x=\"160\" y=\"178\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">הופקדו: 100 ו־200</text><text x=\"670\" y=\"256\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#1B3A8A\">חכמים</text><text x=\"800\" y=\"317\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"670\" y=\"317\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"540\" y=\"317\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"800\" y=\"368\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">למפקיד א</text><text x=\"670\" y=\"368\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">למפקיד ב</text><text x=\"540\" y=\"368\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1A1F2E\">מונח</text><text x=\"540\" y=\"386\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">עד שיבוא אליהו</text><text x=\"700\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">כל אחד נוטל את המנה שבוודאי שלו</text><text x=\"230\" y=\"256\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">רבי יוסי</text><text x=\"230\" y=\"280\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#6B4A1A\">\"אם כן, מה הפסיד רמאי?\"</text><text x=\"330\" y=\"327\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"230\" y=\"327\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"130\" y=\"327\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#5A4A3A\">100</text><text x=\"230\" y=\"382\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">כל השלוש מאות מונחות עד שיבוא אליהו</text><text x=\"230\" y=\"406\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">גם המנה של הרמאי עצמו מעוכבת</text></svg>"
+     },
+     "children": []
     },
     {
-      "term": "מודה במקצת",
-      "hebrew": "",
-      "sense": "נתבע שמודה בחלק מהטענה",
-      "definition": "נתבע שמודה בחלק מן הטענה נגדו וכופר בשאר. מן התורה הוא משלם את מה שהודה ונשבע על השאר.",
-      "on_this_daf": "ממנו לומד רבי חייא שבועה למי שהתחייב בחלק על פי עדים, ורבה מסביר מדוע התורה הטילה כאן שבועה.",
-      "aliases": [
-        "ממודה במקצת",
-        "למודה במקצת"
-      ],
-      "sections": [
-        "s7",
-        "s8",
-        "s10"
-      ]
+     "id": "s4",
+     "title": "חכמים: חולקים כשייתכן שהיא של שניהם, מניחים כשהיא של אחד",
+     "amud": "ג.",
+     "text": {
+      "from": "3a.4",
+      "to": "3a.5"
+     },
+     "gist": "חכמים מניחים את המנה השנויה במחלוקת משום שבוודאי היא של אחד בלבד. הטלית ייתכן שהיא של שניהם, ולכן חולקים אותה בשבועה.",
+     "bullets": [
+      {
+       "text": "קושיה מן הצד השני: גם לחכמים זה אינו מתיישב. כל הטלית מוטלת בספק, כמו המנה הנותרת, ולכן גם היא צריכה להיות מונחת עד שיבוא אליהו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "תשובה: המנה ההיא בוודאי של אחד מהם, ולכן היא מונחת. הטלית ייתכן שהיא של שניהם, ולכן אמרו חכמים: חולקים בשבועה.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "המבחן: האם ייתכן שהחלוקה אמת? אם ייתכן – חולקים. אם החלוקה תהיה בוודאי דין שקר – מניחים את החפץ ומחכים.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "תוספות: הסוגיה עוסקת בחפצים שלשני הצדדים יש בהם אחיזה כלשהי (שניהם אוחזים בטלית; הנפקד מחזיק את הכסף בשביל שניהם). במקום שאיש אינו מחזיק בחפץ, הגמרא אומרת במקום אחר \"כל דאלים גבר\".",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
     },
     {
-      "term": "קל וחומר",
-      "hebrew": "",
-      "sense": "היסק מן הקל אל החמור",
-      "definition": "טיעון ממקרה קל למקרה חמור: אם דין חל במקום שהסיבה חלשה יותר, כל שכן שיחול במקום שהיא חזקה יותר. הטיעון נופל אם מתברר שבמקרה הקל יש תכונה שאין בחמור.",
-      "on_this_daf": "כמה כאלה נבחנים כאן: על סומכוס, על רבי יוסי, של רבי חייא מהודאה לעדים, של רבי מאיר בקרבן, והניסיונות מעד אחד.",
-      "aliases": [
-        "הקל וחומר",
-        "בקל וחומר",
-        "מקל וחומר"
-      ],
-      "sections": [
-        "s1",
-        "s5",
-        "s7",
-        "s8",
-        "s10",
-        "s11",
-        "s12",
-        "s13",
-        "s14",
-        "s17"
-      ]
+     "id": "s5",
+     "title": "רבי יוסי: אין רמאי ודאי, או שהרמאי אינו מפסיד?",
+     "amud": "ג.",
+     "text": {
+      "from": "3a.6",
+      "to": "3a.9"
+     },
+     "gist": "בקל וחומר, רבי יוסי היה צריך להניח את הטלית. הגמרא מציעה שתי הבחנות, דוחה את השנייה בטלית שנקנתה ונשארת בראשונה: כאן ייתכן שאין רמאי כלל.",
+     "bullets": [
+      {
+       "text": "קל וחומר: רבי יוסי מניח אפילו את המנה שבוודאי שייכת לכל אחד. כאן ייתכן שכל הטלית של אחד מהם – לא כל שכן שתהיה מונחת עד שיבוא אליהו?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "תשובה ראשונה: בפיקדון יש רמאי בוודאות. כאן, \"מי יימר דאיכא רמאי?\" אולי שניהם הגביהו את הטלית בבת אחת.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "תשובה שנייה: שם רבי יוסי קונס את הרמאי ומעכב את הפיקדון שלו, כדי שיודה. כאן הרמאי אינו מפסיד דבר אם הטלית מונחת, ולכן ההנחה לא תזיז אותו.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "התשובה השנייה נדחית: היא מתאימה למציאה, אבל במקח וממכר שניהם שילמו. לכן נשארים בתשובה הראשונה: כאן אין ודאות שמישהו משקר.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "הרמאי אמנם מפסיד רווח שקיווה לו. אבל הנחת החפץ היא אמצעי לחץ אמיתי רק כשהיא מעכבת משהו ששייך לו באמת.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "תוספות מבינים את שתי התשובות כשני תנאים להנחה: רמאי ודאי, והפסד ממשי לו.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "returns_to": [
+      {
+       "id": "s3",
+       "note": "חוזר לפסק של רבי יוסי בפיקדון כדי לבדוק מולו את המשנה"
+      }
+     ]
     },
     {
-      "term": "אין אדם מעיז פניו בפני בעל חובו",
-      "hebrew": "",
-      "sense": "לווה לא יכפור בהלוואה בפני המלווה",
-      "definition": "החזקה שלווה לא יעז לכפור בכל ההלוואה בפני המלווה שהלווה לו.",
-      "on_this_daf": "רבה משתמש בה כדי להסביר מדוע הודאה במקצת מסמנת לווה שמתחמק, ששבועה יכולה להביא אותו להודות בכול.",
-      "aliases": [],
-      "sections": [
-        "s10"
-      ]
-    },
-    {
-      "term": "קנס",
-      "hebrew": "",
-      "sense": "תשלום עונשי שקבעה התורה",
-      "definition": "תשלום שהתורה מטילה מעבר לנזק עצמו, כמו תשלומי כפל. המודה במעשה מעצמו פטור ממנו; רק עדים יכולים לחייב אותו.",
-      "on_this_daf": "הקל וחומר מנוסח מחדש סביב קנס: הודאה אינה מחייבת קנס, ועדים מחייבים.",
-      "aliases": [
-        "הקנס",
-        "בקנס"
-      ],
-      "sections": [
-        "s11",
-        "s12"
-      ]
-    },
-    {
-      "term": "הזמה",
-      "hebrew": "",
-      "sense": "הפרכת עדים בטענה שהיו במקום אחר",
-      "definition": "הפרכת עדים בעדות שבשעת המעשה הם היו במקום אחר. העדים הזוממים נענשים במה שזממו להביא על הנאשם.",
-      "on_this_daf": "הודאה אינה בהכחשה ובהזמה – סימן שבדברים מסוימים עדים חלשים יותר, והלימוד מהודאה נופל.",
-      "aliases": [
-        "ובהזמה",
-        "בהזמה"
-      ],
-      "sections": [
-        "s11",
-        "s15"
-      ]
-    },
-    {
-      "term": "גלגול שבועה",
-      "hebrew": "",
-      "sense": "הרחבת שבועה לטענות נוספות",
-      "definition": "כשנתבע חייב שבועה על טענה אחת, התובע רשאי לגלגל עליה טענות אחרות, גם כאלה שלא היו מחייבות שבועה בפני עצמן.",
-      "on_this_daf": "רב פפא מנסה ללמוד את שבועת רבי חייא מגלגול השבועה של עד אחד; הלימוד נדחה, כי שם שבועה גוררת שבועה.",
-      "aliases": [
-        "מגלגול שבועה",
-        "גלגול השבועה"
-      ],
-      "sections": [
-        "s16",
-        "s18"
-      ]
+     "id": "s6",
+     "title": "חנווני ושכיר: מדוע שניהם נשבעים ונוטלים",
+     "amud": "ג.",
+     "text": {
+      "from": "3a.10",
+      "to": "3a.13"
+     },
+     "gist": "מקרה שיש בו רמאי ודאי ובכל זאת הכסף אינו מונח: כל טוען עומד רק מול בעל הבית, שהאמין לשניהם בלי עדים, ולכן שניהם נשבעים ונוטלים ממנו.",
+     "bullets": [
+      {
+       "text": "שאלה בין לחכמים ובין לרבי יוסי: בעל הבית אמר לחנווני לתת לפועל שלו מזון תמורת שכרו. החנווני אומר שנתן, והפועל אומר שלא קיבל כלום. לפי המשנה (שבועות מה.), \"זה נשבע ונוטל, וזה נשבע ונוטל\" מבעל הבית.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "מדוע לא נוציא את הכסף מבעל הבית ויהא מונח עד שיבוא אליהו? הרי בוודאי אחד מהם רמאי.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "החנווני יכול לומר לבעל הבית: את שליחותך עשיתי, ואני עומד רק מולך. מה לי ולפועל? גם אם יישבע לי, אינו נאמן לי בשבועה. אתה האמנת לו, שלא אמרת לי לתת לו בפני עדים.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "והפועל יכול לומר לבעל הבית: אני עשיתי מלאכה אצלך. מה לי ולחנווני? גם אם יישבע לי, אינו נאמן לי. לכן שניהם נשבעים ונוטלים מבעל הבית.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "אין כאן לא חלוקה ולא הנחה. בעל הבית קבע הסדר בלי שום הגנה, והוא נושא בהפסד משני הצדדים.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "מקרה החנווני (ג., על פי שבועות מה.): כל טוען עומד רק מול בעל הבית ואינו סומך על שבועת חברו, ולכן שניהם נשבעים ונוטלים ממנו.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>בעל הבית למעלה, בין החנווני שאומר שנתן את המזון לבין הפועל שאומר שלא קיבל כלום. כל אחד נשבע ונוטל מבעל הבית.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"415\" y=\"50\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"110\" y=\"250\" width=\"60\" height=\"120\" style=\"color:#9A6212\"/><use href=\"#man\" x=\"730\" y=\"250\" width=\"60\" height=\"120\" style=\"color:#5E7D4F\"/><line x1=\"175\" y1=\"270\" x2=\"405\" y2=\"165\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><line x1=\"725\" y1=\"270\" x2=\"495\" y2=\"165\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><line x1=\"185\" y1=\"320\" x2=\"715\" y2=\"320\" stroke=\"#C9C1B2\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/></g><text x=\"450\" y=\"212\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">בעל הבית</text><text x=\"450\" y=\"230\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">\"תן לפועל שלי מזון\"</text><text x=\"760\" y=\"392\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">החנווני</text><text x=\"760\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"נתתי לו את המזון\"</text><text x=\"140\" y=\"392\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">הפועל</text><text x=\"140\" y=\"410\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"לא קיבלתי כלום\"</text><text x=\"660\" y=\"200\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1B3A8A\">נשבע ונוטל</text><text x=\"240\" y=\"200\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1B3A8A\">נשבע ונוטל</text><text x=\"450\" y=\"300\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"מה עסק יש לי איתו?\"</text><text x=\"450\" y=\"344\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#5B6478\">\"גם אם יישבע לי, אינו נאמן לי\"</text><text x=\"450\" y=\"446\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1A1F2E\">שניהם נוטלים מבעל הבית, שלא דרש עדים</text></svg>"
+     },
+     "children": [],
+     "returns_to": [
+      {
+       "id": "s5",
+       "note": "בודק את מבחן ה\"רמאי הוודאי\" שהתקבל זה עתה לשיטת רבי יוסי"
+      }
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "id": "s7",
+   "title": "הברייתא של רבי חייא: האם עדים על מקצת הטענה מחייבים שבועה?",
+   "amud": "ג. ← ד.",
+   "text": {
+    "from": "3a.14",
+    "to": "4a.14"
+   },
+   "gist": "רבי חייא לומד שבועה מעדים על מקצת הטענה, בקל וחומר ממודה במקצת. הגמרא קושרת זאת למשנה, מסבירה למה צריך את הקל וחומר, בודקת אותו מול מה שרק הודאה עושה, ומחפשת מקור חדש בעד אחד.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s8",
+     "title": "עדים על חמישים: נותן חמישים ונשבע על השאר",
+     "amud": "ג.",
+     "text": {
+      "from": "3a.14",
+      "to": "3a.15"
+     },
+     "gist": "תביעה של מנה, כפירה בכול, ועדים על חמישים: נותן חמישים ונשבע על השאר, כדי שלא תהיה הודאת פיו גדולה מהעדאת עדים.",
+     "bullets": [
+      {
+       "text": "הברייתא של רבי חייא: \"מנה לי בידך\", והלה אומר \"אין לך בידי כלום\", והעדים מעידים שיש לו חמישים זוז – נותן לו חמישים זוז, ויישבע על השאר.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "המקור: קל וחומר ממודה במקצת, שמודה בחלק מהטענה ונשבע על השאר – \"שלא תהא הודאת פיו גדולה מהעדאת עדים\".",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "שלא כמו שבועת הטלית, שהיא מדרבנן, שבועת מודה במקצת היא מן התורה. הברייתא של רבי חייא מרחיבה אותה לחלק שהוכח בעדים.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s9",
+     "title": "המשנה כמקבילה: מה שכל אחד תופס – כעדים",
+     "amud": "ג.",
+     "text": {
+      "from": "3a.16",
+      "to": "3a.16"
+     },
+     "gist": "הגמרא קוראת את המשנה כאותו דין: מה שכל אחד תופס הוא בבירור שלו, כמו עדים על חלק מטענתו, ובכל זאת כל אחד נשבע.",
+     "bullets": [
+      {
+       "text": "\"ותנא תונא\": המשנה שנתה אותו דבר – שניים אוחזים בטלית, כל אחד אומר \"אני מצאתיה\", כל אחד נשבע וחולקים.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "מאחר שכל אחד תופס חלק, \"אנן סהדי\" שמה שבידו של כל אחד שלו הוא. זה כמו עדים על חלק מטענת כל אחד, ובכל זאת כל אחד נשבע.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "ההשוואה מוזרה: ה\"עדות\" הזאת קודמת לטענות, והיא פועלת לשני הכיוונים בבת אחת. ובכל זאת היא פותחת דרך לקרוא את שבועת המשנה כשבועה של התורה על חלק שהוכח בראיה.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "המשנה כפי שהגמרא קוראת אותה בדף ג.: האחיזה של כל טוען מראה שמה שהוא תופס שלו, כמו עדים על חלק מטענתו, ולכן כל אחד נשבע על השאר וחולקים.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני אנשים אוחזים כל אחד בקצה אחד של טלית, וכל אחד אומר \"אני מצאתיה\". קו מקווקו מחלק את הטלית, ומתחת לכל חצי: מה שזה תופס שלו הוא.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><use href=\"#man\" x=\"150\" y=\"150\" width=\"80\" height=\"160\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"670\" y=\"150\" width=\"80\" height=\"160\" style=\"color:#8C5A3C\"/><rect x=\"225\" y=\"215\" width=\"450\" height=\"60\" rx=\"6\" fill=\"#D9B26A\" stroke=\"#A8854A\" stroke-width=\"2\"/><circle cx=\"228\" cy=\"240\" r=\"8\" fill=\"#D6AE86\"/><circle cx=\"672\" cy=\"240\" r=\"8\" fill=\"#D6AE86\"/><line x1=\"450\" y1=\"205\" x2=\"450\" y2=\"285\" stroke=\"#5A4A3A\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><rect x=\"60\" y=\"350\" width=\"780\" height=\"56\" rx=\"12\" fill=\"#E3EAF3\"/></g><text x=\"450\" y=\"40\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1A1F2E\">שניים שאוחזים בטלית</text><text x=\"450\" y=\"70\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"400\" fill=\"#5A4A3A\">שנים אוחזין בטלית, זה אומר: אני מצאתיה</text><text x=\"710\" y=\"138\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\">\"אני מצאתיה\"</text><text x=\"190\" y=\"138\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#9A6212\">\"אני מצאתיה\"</text><text x=\"563\" y=\"304\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">מה שזה תופס</text><text x=\"563\" y=\"322\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">שלו הוא</text><text x=\"337\" y=\"304\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">מה שזה תופס</text><text x=\"337\" y=\"322\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">שלו הוא</text><text x=\"450\" y=\"372\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1B3A8A\">כאילו יש עדים על חלק מטענת כל אחד,</text><text x=\"450\" y=\"394\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1B3A8A\">ולכן כל אחד נשבע על השאר, וחולקים</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s10",
+     "title": "למה צריך את הקל וחומר: רבה על הלווה שאינו כופר בכול",
+     "amud": "ג.–ג:",
+     "text": {
+      "from": "3a.17",
+      "to": "3b.2"
+     },
+     "gist": "לפי ההסבר של רבה, הודאה במקצת מגלה לווה שמתחמק ולא גונב, ושבועה יכולה להזיז אותו. מי שהתחייב רק על פי עדים ייתכן שהוא רמאי גמור, ולכן צריך את הקל וחומר.",
+     "bullets": [
+      {
+       "text": "למה צריך את הקל וחומר? שלא תאמר שהתורה הטילה שבועה רק על הודאת פיו, כפי שרבה מסביר.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רבה: יש חזקה ש\"אין אדם מעיז פניו בפני בעל חובו\" – אדם אינו מעז פנים מול מי שהלווה לו ועשה עמו טובה. הוא היה רוצה לכפור בכול, אבל אינו מסוגל.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "באמת הוא היה רוצה להודות בכול, אבל אין לו כסף עכשיו. הוא חושב: אדחה אותו עד שיהיה לי כסף, ואז אפרע לו הכול. לכן התורה הטילה עליו שבועה, כדי שיודה בכול.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "כשעדים מחייבים אותו בחלק, הנימוק הזה אינו קיים. אולי אינו מתכוון לפרוע כלל, ושבועתו חסרת ערך. לכן הברייתא מלמדת את השבועה בקל וחומר.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "רש״י: הרתיעה נובעת מן הטובה שבהלוואה. תוספות: היא קיימת גם בשבועת השומרים, שאין בה טובה, ולכן זו רתיעה כללית משקר בפני אדם.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "שבועה פועלת כאן משום שהיא שוברת את ההונאה העצמית, בדומה לחשבון נפש כן. גם מול כופר בכול היא עשויה לפעול: גם הוא אולי מתחמק, או ש\"חשוד אממונא לא חשוד אשבועתא\".",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "caption": "ההסבר של רבה למודה במקצת (ג.–ג:): הלווה לא יכפור בכל ההלוואה בפני המלווה, והוא כופר בחלק רק כדי להרוויח זמן, ולכן השבועה מביאה אותו להודות בכול.",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>המלווה אומר \"מנה לי בידך\"; הלווה אומר \"אין לך בידי אלא חמישים\", וחושב שיפרע הכול כשיהיה לו כסף.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><ellipse cx=\"660\" cy=\"80\" rx=\"200\" ry=\"48\" fill=\"#FFFFFF\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><circle cx=\"644\" cy=\"136\" r=\"6\" fill=\"#FFFFFF\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><circle cx=\"636\" cy=\"149\" r=\"4\" fill=\"#FFFFFF\" stroke=\"#C9C1B2\" stroke-width=\"2\"/><use href=\"#man\" x=\"150\" y=\"140\" width=\"80\" height=\"160\" style=\"color:#4B5E8C\"/><use href=\"#man\" x=\"620\" y=\"150\" width=\"80\" height=\"160\" style=\"color:#8C5A3C\"/><rect x=\"60\" y=\"370\" width=\"780\" height=\"40\" rx=\"12\" fill=\"#E4EFE4\"/></g><text x=\"870\" y=\"40\" text-anchor='start' direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">רבה: מדוע מודה במקצת חייב שבועה</text><text x=\"240\" y=\"74\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\">\"עכשיו אין לי כסף;</text><text x=\"240\" y=\"94\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#1A1F2E\">כשיהיה לי, אפרע לו הכול\"</text><text x=\"710\" y=\"128\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\">\"מנה לי בידך\"</text><text x=\"710\" y=\"322\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">המלווה</text><text x=\"240\" y=\"330\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">הלווה</text><text x=\"240\" y=\"350\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"400\" fill=\"#9A6212\">\"אין לך בידי אלא חמישים\"</text><text x=\"450\" y=\"210\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1A1F2E\">אינו מעז לכפור בכול</text><text x=\"450\" y=\"230\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">בפני מי שהלווה לו את הכסף</text><text x=\"450\" y=\"256\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#5A4A3A\">אין אדם מעיז פניו בפני בעל חובו</text><text x=\"450\" y=\"395\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"15.1\" font-weight=\"600\" fill=\"#1A1F2E\">לכן התורה מטילה עליו שבועה, כדי שיודה בכול</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s11",
+     "title": "בדיקת הקל וחומר: קנס, קרבן, חומש והזמה",
+     "amud": "ג:",
+     "text": {
+      "from": "3b.3",
+      "to": "3b.12"
+     },
+     "gist": "הקל וחומר מנוסח מחדש סביב קנס, ואז נבדק מול מה שרק הודאה עושה: קרבן, אשם וחומש (שמתורצים בשיטת רבי מאיר), והעובדה שהודאה אינה בהכחשה ובהזמה – פירכא שנשארת בעינה.",
+     "bullets": [],
+     "chart": {
+      "caption": "מה פועלת הודאת פיו ומה פועלים שני עדים, לפי הפירכות על רבי חייא",
+      "columns": [
+       "",
+       "ממון רגיל",
+       "קנס",
+       "קרבן, וגם אשם",
+       "חומש",
+       "הכחשה והזמה"
+      ],
+      "rows": [
+       [
+        "הודאת פיו",
+        "מחייבת: כמאה עדים",
+        "פוטרת",
+        "מחייבת",
+        "מחייבת",
+        "אינה בהכחשה ובהזמה"
+       ],
+       [
+        "שני עדים",
+        "מחייבים",
+        "מחייבים",
+        "חכמים: לא · רבי מאיר: כן",
+        "לרבי מאיר (וכך רבי חייא): כן",
+        "ישנם בהכחשה ובהזמה"
+       ]
+      ],
+      "tags": [
+       [
+        null,
+        "pays",
+        "exempt",
+        "pays",
+        "pays",
+        null
+       ],
+       [
+        null,
+        "pays",
+        "pays",
+        null,
+        "pays",
+        null
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s12",
+       "title": "הניסוח: הודאה אינה מחייבת קנס, עדים מחייבים",
+       "amud": "ג:",
+       "text": {
+        "from": "3b.3",
+        "to": "3b.5"
+       },
+       "gist": "בתחילה נוסח הקל וחומר \"פיו אינו מחייבו ממון\". מאחר שהודאת בעל דין כמאה עדים, הוא מתוקן ל\"פיו אינו מחייבו קנס\".",
+       "bullets": [
+        {
+         "text": "הקל וחומר: \"ומה פיו שאין מחייבו ממון – מחייבו שבועה, עדים שמחייבין אותו ממון – אינו דין שמחייבין אותו שבועה?\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "קושיה: פיו אינו מחייבו ממון? \"והא הודאת בעל דין כמאה עדים דמי!\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תשובה: הממון שנאמר כאן הוא קנס. המודה במעשה שיש בו קנס פטור ממנו, ואילו עדים מחייבים אותו. הקל וחומר מנוסח מחדש על בסיס זה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "הטיעון הוא פורמלי. הוא מדרג את שני סוגי הראיות ומתעלם מן הפסיכולוגיה שרבה נתן כטעם לשבועה.",
+         "detail": 3,
+         "source": "shiur"
+        },
+        {
+         "text": "קנס, כמו תשלומי כפל של גנב, הוא עונש ולא חוב, ולכן כמו שאר העונשים הוא צריך עדים מבחוץ.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s13",
+       "title": "קרבן: רבי מאיר וחכמים בעדים שאכל חלב",
+       "amud": "ג:",
+       "text": {
+        "from": "3b.6",
+        "to": "3b.9"
+       },
+       "gist": "הודאה מחייבת קרבן, ועדים אולי לא. הגמרא מתרצת שרבי חייא סובר כרבי מאיר, שמחייב קרבן על פי עדים בקל וחומר משלו.",
+       "bullets": [
+        {
+         "text": "פירכא: בדבר אחד הודאה חמורה יותר. המודה שחטא בשוגג מביא קרבן, ואילו עדים אינם מחייבים אותו אם הוא מכחיש.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תשובה: רבי חייא סובר כרבי מאיר, שאמר: \"עדים מחייבין אותו קרבן מקל וחומר\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "משנה (כריתות יא:): \"אמרו לו שנים 'אכלת חלב', והוא אומר 'לא אכלתי' – רבי מאיר מחייב, וחכמים פוטרים\".",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "רבי מאיר: \"אם הביאוהו שנים לידי מיתה חמורה, לא יביאוהו לידי קרבן הקל?\" חכמים: \"מה אם ירצה לומר 'מזיד הייתי' – ייפטר\". על מזיד אין מביאים קרבן, ולכן העדים אינם יכולים לחייב קרבן.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "חכמים רואים בקרבן דבר שנשען על ההודאה של החוטא עצמו, בדומה לווידוי, ואת זה עדים אינם יכולים לספק. רבי מאיר רואה בו תגובה לחטא עצמו, יהיו דברי החוטא אשר יהיו.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "caption": "המשנה בכריתות (מובאת בדף ג:): עדים אומרים שאכל חלב, והוא מכחיש. רבי מאיר מחייב קרבן, חכמים פוטרים, והגמרא אומרת שרבי חייא סובר כרבי מאיר.",
+        "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>שני עדים אומרים לאדם שאכל חלב, והוא מכחיש. מימין רבי מאיר אומר שהוא חייב קרבן; משמאל חכמים פוטרים אותו.</title><g transform=\"matrix(-1 0 0 1 900 0)\"><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"60\" width=\"280\" height=\"330\" rx=\"14\" fill=\"#E3EAF3\"/><rect x=\"600\" y=\"60\" width=\"280\" height=\"330\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#man\" x=\"330\" y=\"80\" width=\"50\" height=\"100\" style=\"color:#6A4F7A\"/><use href=\"#man\" x=\"390\" y=\"80\" width=\"50\" height=\"100\" style=\"color:#50706E\"/><use href=\"#man\" x=\"500\" y=\"80\" width=\"50\" height=\"100\" style=\"color:#8C4A3C\"/><use href=\"#sage\" x=\"130\" y=\"76\" width=\"60\" height=\"105\" style=\"color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"670\" y=\"76\" width=\"60\" height=\"105\" style=\"color:#8C5A3C;--beard:#6A5646;--wrap:#E4D8C0\"/><use href=\"#sage\" x=\"750\" y=\"76\" width=\"60\" height=\"105\" style=\"color:#6B6F3A;--beard:#9C9892;--wrap:#D9CBB0\"/></g><text x=\"450\" y=\"36\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"600\" fill=\"#1A1F2E\">שני עדים: \"אכלת חלב\". והוא: \"לא אכלתי\"</text><text x=\"515\" y=\"205\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1A1F2E\">שני העדים</text><text x=\"375\" y=\"205\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"600\" fill=\"#1A1F2E\">הנאשם</text><text x=\"450\" y=\"300\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">רבי חייא סובר</text><text x=\"450\" y=\"320\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">כרבי מאיר</text><text x=\"740\" y=\"204\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1B3A8A\">רבי מאיר</text><text x=\"740\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">חייב להביא</text><text x=\"740\" y=\"254\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">קרבן</text><text x=\"740\" y=\"292\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"אם הביאוהו שנים לידי</text><text x=\"740\" y=\"310\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">מיתה חמורה, לא יביאוהו</text><text x=\"740\" y=\"328\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">לידי קרבן הקל?\"</text><text x=\"160\" y=\"204\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#9A6212\">חכמים</text><text x=\"160\" y=\"236\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">פטור</text><text x=\"160\" y=\"254\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"16.2\" font-weight=\"600\" fill=\"#1A1F2E\">מקרבן</text><text x=\"160\" y=\"292\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">\"מה אם ירצה לומר:</text><text x=\"160\" y=\"310\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">מזיד הייתי?\"</text><text x=\"160\" y=\"328\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"14.0\" font-weight=\"400\" fill=\"#1A1F2E\">על מזיד אין מביאים קרבן</text><text x=\"450\" y=\"430\" text-anchor=\"middle\" direction=\"rtl\" font-family=\"Assistant, Arial, sans-serif\" font-size=\"13.0\" font-weight=\"400\" fill=\"#5B6478\">משנה כריתות יא:, מובאת בבבא מציעא ג:</text></svg>"
+       },
+       "children": []
+      },
+      {
+       "id": "s14",
+       "title": "אשם וחומש: גם כאן כרבי מאיר",
+       "amud": "ג:",
+       "text": {
+        "from": "3b.10",
+        "to": "3b.11"
+       },
+       "gist": "עוד שני דברים שהודאה מחייבת – אשם הגזלן והחומש – מתורצים באותה דרך: רבי חייא סובר כרבי מאיר.",
+       "flag": "על פי הגמרא בלבד",
+       "bullets": [
+        {
+         "text": "פירכא: הודאה מחייבת את הגזלן להביא אשם, ועדים אינם מחייבים. תשובה: \"אשם היינו קרבן\" – הוא כשאר הקרבנות, ובו נחלקו רבי מאיר וחכמים.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "פירכא: המודה שהחזיק שלא כדין בממון חברו ומחזיר אותו מוסיף חומש (ויקרא ה, כ–כו); כשיש עדים אינו מוסיף. תשובה: רבי חייא סובר כרבי מאיר, שמחייב גם חומש בקל וחומר כשעדים מעידים.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s15",
+       "title": "הודאה אינה בהכחשה ובהזמה",
+       "amud": "ג:",
+       "text": {
+        "from": "3b.12",
+        "to": "3b.12"
+       },
+       "gist": "פירכא אחרונה נשארת בלי תשובה: עדים ישנם בהכחשה ובהזמה, והודאה לא – ולכן בדברים מסוימים עדים חלשים יותר.",
+       "flag": "על פי הגמרא בלבד",
+       "bullets": [
+        {
+         "text": "פירכא: \"מה לפיו שכן אינו בהכחשה ובהזמה\" – עדים אינם יכולים לבטל את הודאת בעל הדין עצמו. עדים, לעומת זאת, ישנם בהכחשה ובהזמה.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "אם כן, בדברים מסוימים עדים חלשים מהודאה. הגמרא אינה עונה על כך, ופונה למקור אחר לשבועה של רבי חייא.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s16",
+     "title": "מקור חדש: עד אחד, ואחר כך גלגול שבועה",
+     "amud": "ג: ← ד.",
+     "text": {
+      "from": "3b.13",
+      "to": "4a.14"
+     },
+     "gist": "לאחר שוויתרה על ההודאה כמקור, הגמרא לומדת את שבועת רבי חייא מעד אחד, אחר כך רב פפא לומד מגלגול שבועה של עד אחד, ולבסוף מהודאת פיו ועד אחד יחד.",
+     "flag": "על פי הגמרא בלבד",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s17",
+       "title": "עד אחד מחייב שבועה: קל וחומר לשניים?",
+       "amud": "ג: ← ד.",
+       "text": {
+        "from": "3b.13",
+        "to": "4a.1"
+       },
+       "gist": "עד אחד, שאינו מחייב ממון, מחייב שבועה – כל שכן שניים. הלימוד נדחה: השבועה באה כאן על חלק אחר של הטענה.",
+       "flag": "על פי הגמרא בלבד",
+       "bullets": [
+        {
+         "text": "קל וחומר: \"ומה עד אחד שאין מחייבו ממון, מחייבו שבועה – עדים שמחייבין אותו ממון, אינו דין שמחייבין אותו שבועה!\"",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "נדחה: בעד אחד הנתבע נשבע על מה שהעד העיד עליו בדיוק. בשני עדים הוא נשבע על מה שכפר בו, ולא על החוב שהעידו עליו.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s18",
+       "title": "רב פפא: גלגול שבועה, ואחר כך הודאת פיו ועד אחד יחד",
+       "amud": "ד.",
+       "text": {
+        "from": "4a.2",
+        "to": "4a.14"
+       },
+       "gist": "רב פפא לומד את השבועה מגלגול שבועה. כשהלימוד נדחה, מצרפים את הודאת פיו ועד אחד, וכל אחד מהם עונה על החולשה של חברו.",
+       "flag": "על פי הגמרא בלבד",
+       "bullets": [
+        {
+         "text": "רב פפא: \"אתי מגלגול שבועה דעד אחד\". מאחר שעד אחד מחייב שבועה, התובע יכול לגלגל עליה טענות נוספות.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "נדחה: שם \"שבועה גוררת שבועה\", והעד אינו גורם ישירות לשבועה השנייה. עדים מחייבים אותו לשלם חלק, וחיוב תשלום אינו גורר שבועה על השאר.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "תשובה: \"פיו יוכיח\" – ההודאה מראה שגם דבר שאינו שבועה יכול להביא שבועה על שאר הטענה. ו\"עד אחד יוכיח\" שגם עדות שיש בה הכחשה יכולה לחייב שבועה.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "continues": "הגמרא ממשיכה לבחון את הלימוד המצורף הזה לשבועת רבי חייא."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "תקנת חכמים",
+   "hebrew": "",
+   "sense": "תקנה מדרבנן",
+   "definition": "תקנה שתיקנו חכמים, ולא דין מן התורה, כדי לענות על צורך מעשי או חברתי.",
+   "on_this_daf": "רבי יוחנן מכנה את שבועת שניים האוחזים בטלית תקנת חכמים, שלא יתפוס אדם בטלית של חברו – ולכן גם סומכוס יכול לחייב אותה.",
+   "aliases": [
+    "תקנה"
+   ],
+   "sections": [
+    "s1"
+   ]
+  },
+  {
+   "term": "יהא מונח עד שיבוא אליהו",
+   "hebrew": "",
+   "sense": "השארת ממון שבספק עד שיתברר",
+   "definition": "פסק של בית דין שממון שאי אפשר לברר את בעליו מונח ואינו ניתן לאיש, \"עד שיבוא אליהו\" ויברר את האמת.",
+   "on_this_daf": "בפיקדון חכמים מניחים רק את המנה השנויה במחלוקת, ורבי יוסי את כל הפיקדון. הגמרא מסבירה מדוע את הטלית חולקים, ומדוע במקרה החנווני שניהם נוטלים.",
+   "aliases": [
+    "מונח עד שיבוא אליהו",
+    "עד שיבוא אליהו",
+    "מונחת עד שיבוא אליהו"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "term": "מודה במקצת",
+   "hebrew": "",
+   "sense": "נתבע שמודה בחלק מהטענה",
+   "definition": "נתבע שמודה בחלק מן הטענה נגדו וכופר בשאר. מן התורה הוא משלם את מה שהודה ונשבע על השאר.",
+   "on_this_daf": "ממנו לומד רבי חייא שבועה למי שהתחייב בחלק על פי עדים, ורבה מסביר מדוע התורה הטילה כאן שבועה.",
+   "aliases": [
+    "ממודה במקצת",
+    "למודה במקצת"
+   ],
+   "sections": [
+    "s7",
+    "s8",
+    "s10"
+   ]
+  },
+  {
+   "term": "קל וחומר",
+   "hebrew": "",
+   "sense": "היסק מן הקל אל החמור",
+   "definition": "טיעון ממקרה קל למקרה חמור: אם דין חל במקום שהסיבה חלשה יותר, כל שכן שיחול במקום שהיא חזקה יותר. הטיעון נופל אם מתברר שבמקרה הקל יש תכונה שאין בחמור.",
+   "on_this_daf": "כמה כאלה נבחנים כאן: על סומכוס, על רבי יוסי, של רבי חייא מהודאה לעדים, של רבי מאיר בקרבן, והניסיונות מעד אחד.",
+   "aliases": [
+    "הקל וחומר",
+    "בקל וחומר",
+    "מקל וחומר"
+   ],
+   "sections": [
+    "s1",
+    "s5",
+    "s7",
+    "s8",
+    "s10",
+    "s11",
+    "s12",
+    "s13",
+    "s14",
+    "s17"
+   ]
+  },
+  {
+   "term": "אין אדם מעיז פניו בפני בעל חובו",
+   "hebrew": "",
+   "sense": "לווה לא יכפור בהלוואה בפני המלווה",
+   "definition": "החזקה שלווה לא יעז לכפור בכל ההלוואה בפני המלווה שהלווה לו.",
+   "on_this_daf": "רבה משתמש בה כדי להסביר מדוע הודאה במקצת מסמנת לווה שמתחמק, ששבועה יכולה להביא אותו להודות בכול.",
+   "aliases": [],
+   "sections": [
+    "s10"
+   ]
+  },
+  {
+   "term": "קנס",
+   "hebrew": "",
+   "sense": "תשלום עונשי שקבעה התורה",
+   "definition": "תשלום שהתורה מטילה מעבר לנזק עצמו, כמו תשלומי כפל. המודה במעשה מעצמו פטור ממנו; רק עדים יכולים לחייב אותו.",
+   "on_this_daf": "הקל וחומר מנוסח מחדש סביב קנס: הודאה אינה מחייבת קנס, ועדים מחייבים.",
+   "aliases": [
+    "הקנס",
+    "בקנס"
+   ],
+   "sections": [
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "term": "הזמה",
+   "hebrew": "",
+   "sense": "הפרכת עדים בטענה שהיו במקום אחר",
+   "definition": "הפרכת עדים בעדות שבשעת המעשה הם היו במקום אחר. העדים הזוממים נענשים במה שזממו להביא על הנאשם.",
+   "on_this_daf": "הודאה אינה בהכחשה ובהזמה – סימן שבדברים מסוימים עדים חלשים יותר, והלימוד מהודאה נופל.",
+   "aliases": [
+    "ובהזמה",
+    "בהזמה"
+   ],
+   "sections": [
+    "s11",
+    "s15"
+   ]
+  },
+  {
+   "term": "גלגול שבועה",
+   "hebrew": "",
+   "sense": "הרחבת שבועה לטענות נוספות",
+   "definition": "כשנתבע חייב שבועה על טענה אחת, התובע רשאי לגלגל עליה טענות אחרות, גם כאלה שלא היו מחייבות שבועה בפני עצמן.",
+   "on_this_daf": "רב פפא מנסה ללמוד את שבועת רבי חייא מגלגול השבועה של עד אחד; הלימוד נדחה, כי שם שבועה גוררת שבועה.",
+   "aliases": [
+    "מגלגול שבועה",
+    "גלגול השבועה"
+   ],
+   "sections": [
+    "s16",
+    "s18"
+   ]
+  }
+ ],
+ "_pictures_fixed": true
 }
