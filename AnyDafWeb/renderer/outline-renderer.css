@@ -42,8 +42,10 @@
 .ado .ado-sage{font:inherit;color:var(--ado-teal);background:none;border:0;border-bottom:1px dotted var(--ado-teal);padding:0;cursor:pointer}
 .ado .ado-sage:hover{border-bottom-style:solid}
 .ado[data-no-sages] .ado-sage{color:inherit;border-bottom-color:transparent;pointer-events:none}
-.ado .ado-chartw,.ado .ado-ill{margin:18px 0 18px 12px;margin-inline:12px 0}
-@media (max-width:600px){.ado .ado-chartw,.ado .ado-ill{margin-inline-start:6px}}
+.ado .ado-chartw{margin:18px 0;margin-inline:12px 0}
+.ado .ado-ill{margin:18px 0}
+.ado .ado-ibox,.ado .ado-ill figcaption{max-width:90%;margin-inline:auto}
+@media (max-width:600px){.ado .ado-chartw{margin-inline-start:6px}.ado .ado-ibox,.ado .ado-ill figcaption{max-width:none}}
 .ado .ado-chart{overflow-x:auto;background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px}
 .ado .ado-chartw>.ado-key{margin-top:6px;width:fit-content;max-width:100%;box-sizing:border-box;padding:8px 12px;border:1px solid var(--ado-line);border-radius:6px;background:var(--ado-panel)}
 .ado .ado-chart caption{caption-side:top;text-align:start;font:600 14px/1.35 var(--ado-sans);color:var(--ado-ink,inherit);padding:10px 12px 2px}
@@ -66,7 +68,7 @@
 .ado .ado-ibox{background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px;overflow:hidden}
 .ado .ado-art{overflow-x:auto;border-top:1px solid var(--ado-line)}
 .ado .ado-ill svg{display:block;width:100%;min-width:392px;height:auto}
-.ado .ado-ill figcaption{font-size:13px;color:var(--ado-muted);margin-top:6px;max-width:68ch}
+.ado .ado-ill figcaption{font-size:13px;color:var(--ado-muted);margin-top:6px}
 .ado[data-level="1"] ul{display:none}
 .ado[data-level="2"] li.ado-d3{display:none}
 .ado[data-no-shiur] li.ado-shiur{display:none}

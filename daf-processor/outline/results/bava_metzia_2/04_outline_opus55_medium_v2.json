@@ -484,19 +484,19 @@
               [
                 null,
                 "keeps",
-                "divides:1/2,1/2+oath",
+                "divides+oath",
                 null
               ],
               [
                 null,
-                "divides:1/2,1/2+no-oath",
-                "divides:1/2,1/2+oath",
+                "divides+no-oath",
+                "divides+oath",
                 null
               ],
               [
                 null,
-                "divides:1/2,1/2+no-oath",
-                "divides:1/2,1/2+oath",
+                "divides+no-oath",
+                "divides+oath",
                 null
               ]
             ]

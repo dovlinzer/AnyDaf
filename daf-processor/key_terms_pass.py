@@ -2,7 +2,7 @@
 """Key conceptual terms (glossary) pilot: one Batch API request per daf per model.
 
 Reads the daf's Sefaria text (Hebrew + English) and an existing study outline
-(outline/results/<key>/04_outline_<outline-model>.json), and asks for the 3-8 legal
+(outline/results/<key>/04_outline_<outline-model>.json), and asks for the 6-12 legal
 categories and principles the sugya turns on, each with a general definition, one line on
 how this daf uses it, the spellings that appear in the outline (for highlighting), and the
 outline sections where it matters.
@@ -42,7 +42,7 @@ SYSTEM_PROMPT = """You are choosing the key conceptual terms for one daf of Talm
 A key term is a legal category, institution or principle that the sugya turns on: a learner who doesn't grasp it can't follow the argument. Examples: chatzer (a person's property acquiring for him), yad (a legal "hand" that acquires), shaliach (agency), ona'ah (overcharging), garuf ve'katum, mitztamek ve'yafeh lo, chinukh, olat re'iyah.
 - NOT a vocabulary list. Leave out hard Aramaic words and Gemara idioms (teiku, kashya, ibaya lehu, mai beinaihu), people, places, books, and generic words any learner knows (mitzvah, Shabbat, Torah).
 - NOT every concept mentioned. A term that appears once in passing isn't key. Prefer the terms the discussion is built on, and the distinctions that recur across sections.
-- 3-8 terms per daf. Fewer is fine for a short or aggadic daf; an aggadic daf may have none worth listing, and then the list is empty.
+- Usually 6-12 terms per daf: every legal category or principle the argument uses more than in passing, including those carried over from the previous daf when the discussion still turns on them (a reader who starts here needs them too). Fewer is fine for a short or aggadic daf; an aggadic daf may have none worth listing, and then the list is empty.
 - One entry per sense. If the daf uses a word in one specific legal sense (chatzer as a means of acquisition, not a courtyard), the entry is that sense, and "sense" says which.
 - Opposites and contrasting cases are separate entries: *mitztamek ve'yafeh lo* (improves as it shrivels) and *mitztamek ve'ra lo* (deteriorates as it shrivels) are two terms, as are *chatzer ha'mishtameret* and *chatzer she'einah mishtameret*. Never list one side of a pair as another spelling of the other, or a reader who taps it gets the opposite definition. If the daf only ever names the pair together, one entry may cover both, but then "term" names both sides and "definition" explains each.
 
