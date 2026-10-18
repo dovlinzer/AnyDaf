@@ -32,7 +32,7 @@
   <path d="M33 60 L40 96 L47 60" fill="none" stroke="#00000022" stroke-width="1.5"/>
   <circle cx="40" cy="36" r="14" fill="#D6AE86"/>
   <path d="M28 39 Q29 60 40 63 Q51 60 52 39 Q46 47 40 47 Q34 47 28 39 Z" fill="var(--beard,#4A3A2E)"/>
-  <path d="M22 35 Q21 13 40 12 Q59 13 58 35 L60 52 Q56 40 52 33 Q46 24 40 24 Q34 24 28 33 Q24 40 20 52 Z" fill="var(--wrap,#E4D8C0)"/>
+  <path d="M24 38 Q21 13 40 12 Q59 13 56 38 Q55 30 52 28 Q46 23 40 23 Q34 23 28 28 Q25 30 24 38 Z" fill="var(--wrap,#E4D8C0)"/>
   <g transform="rotate(-18 40 104)"><rect x="24" y="98" width="32" height="12" rx="3" fill="#F3E7C9" stroke="#9A7A4E" stroke-width="1.6"/><rect x="20" y="96" width="7" height="16" rx="3" fill="#B98E57"/><rect x="53" y="96" width="7" height="16" rx="3" fill="#B98E57"/></g>
  </symbol>
  <symbol id="person" viewBox="0 0 60 120">
@@ -72,7 +72,7 @@
  <!-- a kohen: white robe, coloured sash, the tall wound head-dress -->
  <symbol id="kohen" viewBox="0 0 60 120">
   <path d="M14 50 Q30 42 46 50 L54 118 H6 Z" fill="#F7F4EC" stroke="#D7CFBE" stroke-width="1.5"/>
-  <path d="M10 76 Q30 82 50 76 L50 82 Q30 88 10 82 Z" fill="var(--sash,#3E5A9A)"/><path d="M36 82 L40 104" stroke="var(--sash,#3E5A9A)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M10 76 Q30 82 50 76 L50 82 Q30 88 10 82 Z" fill="var(--sash,#3E5A9A)"/>
   <circle cx="30" cy="32" r="12" fill="#D6AE86"/>
   <path d="M20 35 Q21 52 30 54 Q39 52 40 35 Q35 42 30 42 Q25 42 20 35 Z" fill="var(--beard,#4A3A2E)"/>
   <path d="M17 28 Q16 6 30 4 Q44 6 43 28 Q36 22 30 22 Q24 22 17 28 Z" fill="#FFFFFF" stroke="#D7CFBE" stroke-width="1.5"/>
