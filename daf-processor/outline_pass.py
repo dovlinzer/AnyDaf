@@ -119,6 +119,7 @@ Same voice as the summaries. Each bullet is one complete thought you would say t
 - Each bullet is one step of the discussion: who says what, and on what basis (a verse, a baraita, a sevara).
 - `detail`: 2 for the main steps (the standard view); 3 for supporting detail (proof texts, secondary steps, fine points) shown only in the detailed view. Standard view should read as a complete, compact account.
 - `source`: "gemara" for what the text itself says, grounded in the Sefaria translation; "shiur" for the lecturer's analysis, including rishonim and acharonim brought in the shiur and conceptual framing. Never present shiur analysis as the Gemara's. Never state Gemara content that isn't in the provided text.
+- When a Mishnah or baraita is one tanna's view, open its bullet with the label and the tanna in parentheses: "Mishnah (Beit Shammai): …", "Mishnah (R. Meir): …". This is the one place a parenthesis beats a sentence; never "The Mishnah, by Beit Shammai".
 - Mark Hebrew and Aramaic terms in *italics* with single asterisks, as the example does. No other markup.
 - Rulings are "permitted" and "forbidden", never "prohibited": "Prohibited" and "Permitted" look alike at a glance. The same in charts and pictures.
 - Name the Gemara's moves precisely, not in the Sefaria translation's wording: a *kushya* or *meitivei* is a challenge or objection; a *ba'ya* is a question. Almost never write "dilemma": keep it for a real choice between two equally weighty options.
