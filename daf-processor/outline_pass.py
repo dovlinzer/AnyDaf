@@ -78,6 +78,7 @@ You receive: the shiur's segmentation (the lecture's own section titles, in lect
 ## Headers
 Headers are labels, not sentences, but every header must make sense read alone, as if in a table of contents, to someone who has not read the section. Write your own; never generic ("The Gemara's Question", "Continued"). The segmentation's `title` fields are raw material only, and they contain errors.
 - Name the subject. Not "No Bekhorah" but "A Shevi'it Animal's Firstborn."
+- Say exactly what is in dispute. The schools argue over which offering has the higher minimum, not which "must cost more" (a pilgrim may spend as much as he likes on both); a header that loosens the question misstates it.
 - One clear statement or question, not a string of labels. A short claim with a verb ("Isn't Holy," "Owes the Gifts") reads better than stacked nouns.
 - At most one colon, for an attribution ("Rav Chisda:") or the "Mishnah:" label, and no dashes chaining extra labels on the end.
 - Technical terms only when the reader can tell from the header what they refer to. Never gloss a term in a header: no English in parentheses. The gloss belongs at the term's first mention in a summary line or bullet, where it links to the glossary.
@@ -100,7 +101,9 @@ Headers are labels, not sentences, but every header must make sense read alone, 
 
 ## Summary lines
 Every section gets a summary line, the `gist`, readable on its own. Headers plus summary lines together form the outline's "headlines" view, so they must carry the flow by themselves.
-- A top-level summary opens by stating what is at stake and the principle that drives it, in a sentence or two you would say to a student. Only then, if useful, map what the section covers. Never open with "Three steps:" or any label and colon followed by a list.
+- A summary orients; it doesn't summarize. Its job is to tell the reader what the section is about and what is coming, so they know where they are; the bullets supply the detail. Short is good: often one sentence, rarely more than two or three.
+- A top-level summary states the core of the discussion: the question or dispute, and how the sides divide, in a sentence you would say to a student. Leave out background that comes before the debate (what the offerings are, why the question arises at all, that a minor has no obligation of his own); the reader meets it in the bullets. Only then, if useful, map what the section covers. Never open with "Three steps:" or any label and colon followed by a list.
+- If a summary names the principle behind a dispute, it says it concretely ("Beit Shammai favor the *olah*, given wholly to God, and Beit Hillel the *shelamim*, which its owners share"), never as an abstract label ("a question of emphasis in worship"). If it can't be said concretely in a clause, leave it to the bullets.
 - A lower-level summary narrates what happens: who says what, and how it comes out, with people (litigants, Rabbis, the Gemara) as the subjects of active verbs. If a second sentence helps, use it to map what the passage covers.
 - A section with several substantial children names its main sub-discussions in its summary, so the headlines view shows them even when they sit a level down.
 - A distinct discussion gets its own sentence. Don't chain it onto a dispute ("…, and Abaye adds that…") as if it were one more position on the same line.
@@ -109,7 +112,7 @@ Instead of: "Four cases: both claim the whole garment, one claims all and the ot
 Write: "Two litigants holding one item each swear to their minimum share and divide it. The Mishnah covers equal claims, a whole-versus-half claim, an animal ridden or led, and when no oath is needed."
 
 Instead of: "Three steps: whether an animal bought with Shevi'it produce may redeem a peter chamor, Rav Chisda's ruling that it is exempt from bekhorah but owes the priestly gifts, and the challenge from challah."
-Write: "Produce of Shevi'it must be eaten, not traded or destroyed, so the question is what an animal bought with it may be used for. It may not redeem a certain peter chamor, which would be commerce, though Rav Chisda allows a doubtful one. Its firstborn is not a bekhor, since parts of a bekhor are burned, but it owes the priestly gifts, which are eaten. A challenge from challah tests that distinction."
+Write: "What an animal bought with Shevi'it produce may be used for. It may not redeem a certain peter chamor, though Rav Chisda allows a doubtful one; its firstborn is not a bekhor, but it owes the priestly gifts, a distinction the Gemara tests against challah."
 
 ## Bullets
 Same voice as the summaries. Each bullet is one complete thought you would say to that student, and it makes sense without the Gemara open. Explain a technical term on first use. Where it helps, orient the student directly ("To follow the cases, keep three parties in view…") or raise the question the Gemara is answering ("How, if Torah money is Tyrian?").
