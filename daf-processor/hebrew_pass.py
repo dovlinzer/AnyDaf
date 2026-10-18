@@ -21,6 +21,7 @@ import time
 from pathlib import Path
 
 import anthropic
+from fix_he_pictures import fix_outline
 from dotenv import load_dotenv
 
 from outline_pass import (HERE, RESULTS, SPRITE, STATE_DIR, POLL_INTERVAL, EXAMPLE_SAGES, _pool,
@@ -59,7 +60,7 @@ Each key term is written in Hebrew: `term` is the term in Hebrew letters (the Ge
 
 ## Pictures
 Each picture is redrawn for a right-to-left page, as the Hebrew example shows:
-- A sequence, a list, a set of compared items or a timeline that runs left to right in English runs right to left in Hebrew. Do this by wrapping everything except the text labels (background, shapes, figures, arrows, marks) in `<g transform="matrix(-1 0 0 1 900 0)">`, and placing each label outside that group at x = 900 minus its English x, with `text-anchor` "start" and "end" swapped ("middle" stays). Labels must never be inside the mirrored group, or they would read backwards. Check that each label still sits where it belongs on its drawing.
+- A sequence, a list, a set of compared items or a timeline that runs left to right in English runs right to left in Hebrew. Do this by wrapping everything except the text labels (background, shapes, figures, arrows, marks) in `<g transform="matrix(-1 0 0 1 900 0)">`, and placing each label outside that group at x = 900 minus its English x, with `text-anchor` "start" and "end" swapped ("middle" stays). Labels must never be inside the mirrored group, or they would read backwards. The ✓ / ✗ marks (`#mark-ok`, `#mark-no`) also stay outside the group, at x = 900 minus their English x minus their width: a check mark reads the same in Hebrew. Don't add `direction` to the labels; the site sets it. Check that each label still sits where it belongs on its drawing.
 - A picture of a real physical layout (the Temple, a courtyard with directions, a map) is not mirrored: keep the drawing as it is and only translate the labels.
 - Translate every label, the `<title>` and the caption into Hebrew. Every Hebrew `<text>` gets `direction="rtl"`. Use Frank Ruhl Libre for titles and Assistant for labels, as the Hebrew example does. Hebrew text runs longer or shorter than English: make sure no label now runs over a drawing, a figure, another label or the edge, and break, shorten or move it where it would.
 - Keep the shared figure library's symbols (`<use href="#...">`), the colors (permitted green, forbidden red, `#mark-ok` / `#mark-no`), the viewBox and everything else as they are.
@@ -165,6 +166,8 @@ def harvest(client, batch_id, usage_log, src, source_tag):
         try:
             he = parse_outline(text)
             out = outdir / f"04_outline_{TAG}.json"
+            fix_outline(he)                          # marks unmirrored, label anchors in the rtl sense
+            he["_pictures_fixed"] = True
             out.write_text(json.dumps(he, ensure_ascii=False, indent=1), encoding="utf-8")
             print(f"  wrote {out.relative_to(HERE)}")
             en = json.loads((outdir / f"04_outline_{source_tag}.json").read_text(encoding="utf-8"))

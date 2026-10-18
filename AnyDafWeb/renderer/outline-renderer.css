@@ -42,12 +42,13 @@
 .ado .ado-sage{font:inherit;color:var(--ado-teal);background:none;border:0;border-bottom:1px dotted var(--ado-teal);padding:0;cursor:pointer}
 .ado .ado-sage:hover{border-bottom-style:solid}
 .ado[data-no-sages] .ado-sage{color:inherit;border-bottom-color:transparent;pointer-events:none}
-.ado .ado-chartw{margin-top:6px}
+.ado .ado-chartw,.ado .ado-ill{margin:18px 0 18px 12px;margin-inline:12px 0}
+@media (max-width:600px){.ado .ado-chartw,.ado .ado-ill{margin-inline-start:6px}}
 .ado .ado-chart{overflow-x:auto;background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px}
 .ado .ado-chartw>.ado-key{margin-top:6px;width:fit-content;max-width:100%;box-sizing:border-box;padding:8px 12px;border:1px solid var(--ado-line);border-radius:6px;background:var(--ado-panel)}
 .ado .ado-chart caption{caption-side:top;text-align:start;font:600 14px/1.35 var(--ado-sans);color:var(--ado-ink,inherit);padding:10px 12px 2px}
 .ado .ado-num{display:block;font:600 11px var(--ado-sans);letter-spacing:.06em;text-transform:uppercase;color:var(--ado-muted);margin-bottom:2px}
-.ado .ado-ihead{font:600 14px/1.35 var(--ado-sans);margin:0 0 6px}
+.ado .ado-ihead{font:600 14px/1.35 var(--ado-sans);padding:10px 12px 8px}
 .ado .ado-cnote{font-size:13px;color:var(--ado-muted);margin:0;padding:0 12px 10px}
 .ado .ado-badge{display:inline-flex;align-items:center;gap:4px;margin:0 0 3px;font:600 13px var(--ado-sans);color:#5B4630;white-space:nowrap;vertical-align:middle}
 .ado .ado-badge svg{width:26px;height:26px;flex:none}
@@ -62,8 +63,8 @@
 .ado th,.ado td{padding:8px 12px;text-align:start;vertical-align:top;border-top:1px solid var(--ado-line)}
 .ado thead th{font-weight:600;color:var(--ado-muted);font-size:12px;border-top:0}
 .ado tbody th{font-weight:600}
-.ado .ado-ill{margin:8px 0 2px}
-.ado .ado-art{overflow-x:auto;border-radius:10px;border:1px solid var(--ado-line)}
+.ado .ado-ibox{background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px;overflow:hidden}
+.ado .ado-art{overflow-x:auto;border-top:1px solid var(--ado-line)}
 .ado .ado-ill svg{display:block;width:100%;min-width:560px;height:auto}
 .ado .ado-ill figcaption{font-size:13px;color:var(--ado-muted);margin-top:6px;max-width:68ch}
 .ado[data-level="1"] ul{display:none}

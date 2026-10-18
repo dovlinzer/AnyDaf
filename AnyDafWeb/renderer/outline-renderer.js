@@ -267,7 +267,7 @@
   }
 
   function illHTML(il, num, W) {
-    return `<figure class="ado-ill"><div class="ado-ihead"><span class="ado-num">${W.picture} ${num}</span>${il.title ? md(il.title) : ""}</div><div class="ado-art">${il.svg}</div><figcaption>${md(il.caption)}</figcaption></figure>`;
+    return `<figure class="ado-ill"><div class="ado-ibox"><div class="ado-ihead"><span class="ado-num">${W.picture} ${num}</span>${il.title ? md(il.title) : ""}</div><div class="ado-art">${il.svg}</div></div><figcaption>${md(il.caption)}</figcaption></figure>`;
   }
 
   function rangeLabel(t) {
