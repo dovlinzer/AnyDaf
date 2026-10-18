@@ -99,6 +99,7 @@ Headers are labels, not sentences, but every header must make sense read alone, 
 | Rabbi Yochanan: Neither Owner Nor Thief Can Sanctify a Stolen Object (acceptable) | Rabbi Yochanan: Possession as a Component of Full Ownership (better) |
 | Ein Shaliach Li'dvar Aveirah: Could the Agent Refuse, or Is He Bound? (a principle section) | Why Can a Courtyard Commit Theft for Its Owner, When an Agent Can't? |
 | A Minor's Chatzer as Yad: Get, Found Items, Girl or Boy? (a detail section) | Can a Minor Acquire Through a Courtyard? Girl vs. Boy, Divorce vs. Found Items |
+| The Re'iyah Among the Mitzvot with No Fixed Measure (says where it is listed, not what is discussed) | Does the Re'iyah Have No Minimum, or Only No Maximum? |
 | Which Child Must Be Brought Up to the Temple? (sounds like a choice between two children) | When a Minor's Obligation Starts and the Nature of Chinukh |
 
 ## Summary lines
