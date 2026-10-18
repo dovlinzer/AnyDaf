@@ -33,7 +33,7 @@ SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://zewdazoijdpakugfvnzt.supa
 TABLE = "daf_study_aids"
 MODEL_IDS = {"sonnet5": "claude-sonnet-5", "opus5": "claude-opus-5", "opus55": "claude-opus-5-5"}
 PROMPT_VERSION = "2026-09-24-test"
-EDITORIAL = ("judgment_calls", "coverage_notes", "runners_up")
+EDITORIAL = ("judgment_calls", "coverage_notes", "runners_up", "tag_questions")
 
 
 def sanitize(nodes):

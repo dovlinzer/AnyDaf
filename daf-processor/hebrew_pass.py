@@ -31,7 +31,7 @@ load_dotenv(Path(__file__).parent / ".env", override=True)
 MODEL = "claude-opus-5-5"
 EFFORT = "medium"
 TAG = "he"
-EDITORIAL = ("judgment_calls", "coverage_notes", "runners_up")
+EDITORIAL = ("judgment_calls", "coverage_notes", "runners_up", "tag_questions")
 
 SYSTEM = """You are adapting a study outline of one daf of Talmud from English into Hebrew, for Israeli readers, mainly students in religious (mamlachti-dati) high schools and midrashot. The English outline has been reviewed and its structure is settled; your job is to make the same outline read as if it had been written in Hebrew from the start.
 
@@ -82,7 +82,8 @@ def strip_editorial(o: dict) -> dict:
 
 
 def example_pair() -> str:
-    en = json.loads((HERE / "outline" / "example_chagigah_6.json").read_text(encoding="utf-8"))
+    # the English version the Hebrew model was written from (the example was revised afterwards, 2026-10-18)
+    en = json.loads((HERE / "outline" / "example_chagigah_6.before_voice.json").read_text(encoding="utf-8"))
     en["key_terms"] = json.loads((HERE / "outline" / "key_terms_example_chagigah_6.json").read_text(encoding="utf-8"))["key_terms"]
     en["sages"] = EXAMPLE_SAGES
     he = json.loads((HERE / "outline" / "example_chagigah_6_he.json").read_text(encoding="utf-8"))

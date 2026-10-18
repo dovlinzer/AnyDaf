@@ -46,7 +46,7 @@ DAFIM = ["chagigah_6", "gittin_18", "shabbat_38", "berakhot_31b", "bava_metzia_1
          "niddah_60", "kiddushin_2", "sanhedrin_6b", "yevamot_33", "hullin_88", "shabbat_21"]
 PAGES_JSON = HERE.parent.parent.parent / "AnyTorah" / "AnyTorahWeb" / "public" / "pages.json"
 IMG_CACHE = DP / "outline" / ".page_cache"     # downloaded page images, reused across builds
-EDITORIAL = ("judgment_calls", "coverage_notes", "runners_up")
+EDITORIAL = ("judgment_calls", "coverage_notes", "runners_up", "tag_questions")
 SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://zewdazoijdpakugfvnzt.supabase.co")
 
 
@@ -432,7 +432,7 @@ def build_daf(spec, src, pages, out):
             # one-sentence summary of the daf, shown under its title above the outline (drafts, 2026-10-16)
             "summary": (SUMMARIES.get(key) if not (outline or {}).get("lang") == "he" else None),
             # Hebrew outlines get the Hebrew translation of the same questions (<key>_he.json)
-            "quiz": QUIZZES.get(f"{key}_he" if (outline or {}).get("lang") == "he" else key),
+            "quiz": (outline or {}).get("quiz") or QUIZZES.get(f"{key}_he" if (outline or {}).get("lang") == "he" else key),
             # Sages: the outline's own list when it has one, else the name-matching pilot's guesses;
             # read from daf-processor's local files in both --source modes for now.
             "sages": sages_panel(key, outline) or []}

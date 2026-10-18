@@ -43,7 +43,18 @@
 .ado .ado-sage:hover{border-bottom-style:solid}
 .ado[data-no-sages] .ado-sage{color:inherit;border-bottom-color:transparent;pointer-events:none}
 .ado .ado-chart{margin-top:6px;overflow-x:auto;background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px}
-.ado .ado-chart caption{caption-side:top;text-align:start;font:600 12px var(--ado-sans);letter-spacing:.04em;text-transform:uppercase;color:var(--ado-muted);padding:10px 12px 0}
+.ado .ado-chart caption{caption-side:top;text-align:start;font:600 14px/1.35 var(--ado-sans);color:var(--ado-ink,inherit);padding:10px 12px 2px}
+.ado .ado-num{display:block;font:600 11px var(--ado-sans);letter-spacing:.06em;text-transform:uppercase;color:var(--ado-muted);margin-bottom:2px}
+.ado .ado-ihead{font:600 14px/1.35 var(--ado-sans);margin:0 0 6px}
+.ado .ado-cnote{font-size:13px;color:var(--ado-muted);margin:0;padding:0 12px 10px}
+.ado .ado-badge{display:inline-flex;align-items:center;gap:4px;margin:0 0 3px;padding:1px 8px 1px 2px;border-radius:999px;background:color-mix(in srgb,var(--ado-panel) 70%,#F6EEDC);border:1px solid color-mix(in srgb,#8A6A44 35%,transparent);font:600 11.5px var(--ado-sans);color:#5B4630;white-space:nowrap;vertical-align:middle}
+.ado .ado-badge svg{width:22px;height:22px;flex:none}
+.ado .ado-badge:not(:has(svg)){padding-inline-start:8px}
+.ado .ado-chart td .ado-badge{display:flex;width:fit-content}
+.ado .ado-key{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;padding:6px 12px 10px;font-size:12px;color:var(--ado-muted)}
+.ado .ado-keyl{font:600 11px var(--ado-sans);text-transform:uppercase;letter-spacing:.05em}
+.ado[data-no-badges] .ado-badge,.ado[data-no-badges] .ado-key{display:none}
+.ado .ado-chart td.ado-cell-hold{color:var(--ado-hold,#3E5A9A)}
 .ado table{border-collapse:collapse;width:100%;font-size:13.5px;min-width:480px}
 .ado th,.ado td{padding:8px 12px;text-align:start;vertical-align:top;border-top:1px solid var(--ado-line)}
 .ado thead th{font-weight:600;color:var(--ado-muted);font-size:12px;border-top:0}

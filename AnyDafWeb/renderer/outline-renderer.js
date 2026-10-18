@@ -36,8 +36,8 @@
 
   // Interface words, by the outline's language (outline.lang: "he" lays the outline out right to left).
   const WORDS = {
-    en: { openAll: "Open all", closeAll: "Collapse all", fold: "Show or hide this section", glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", noTerms: "No key terms for this daf." },
-    he: { openAll: "פתיחת הכול", closeAll: "קיפול הכול", fold: "הצגה או הסתרה של הקטע", glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", noTerms: "אין מושגי מפתח לדף זה." },
+    en: { chart: "Chart", picture: "Illustration", key: "Key", openAll: "Open all", closeAll: "Collapse all", fold: "Show or hide this section", glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", noTerms: "No key terms for this daf." },
+    he: { chart: "טבלה", picture: "איור", key: "מקרא", openAll: "פתיחת הכול", closeAll: "קיפול הכול", fold: "הצגה או הסתרה של הקטע", glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", noTerms: "אין מושגי מפתח לדף זה." },
   };
   const words = (lang) => WORDS[lang] || WORDS.en;
   const isHe = (o) => (o && o.lang) === "he";
@@ -203,24 +203,60 @@
     const ok = (text.replace(CELL_NO, " ").match(CELL_OK) || []).length;
     return no && !ok ? "no" : ok && !no ? "ok" : null;
   }
-  function cellHTML(x, given) {
-    // the outline's own marking (chart.tones) when it has one; reading the words only for older outlines
-    // a cell may list several items, one per line ("1. ...\n2. ...")
-    const h = md(x).replace(/\n/g, "<br>"), tone = given !== undefined ? given : cellTone(h);
+  // Outcome tags (chart.tags): a closed list the outline pass picks from. Each has its word, the colour of
+  // the cell (null = neutral: whether paying or swearing is the good outcome depends on the case) and the
+  // badge drawn for it in the figure library (null = no artwork yet: the word alone). A share follows a
+  // colon ("pays:1/2"). The words always show; the badges can be turned off (setOption("badges", false)).
+  const TAGS = {
+    pays: ["Pays", "משלם", null, "pays"], exempt: ["Exempt", "פטור", null, "exempt"],
+    oath: ["Swears", "נשבע", null, "oath"], "no-oath": ["No oath", "אינו נשבע", null, "no-oath"],
+    divides: ["Divides", "חולקים", null, "divides"], takes: ["Takes", "נוטל", null, "acquires"],
+    "no-claim": ["No claim", "אין לו טענה", "no", "not-acquired"], keeps: ["Keeps", "מחזיק", "ok", "acquires"],
+    returns: ["Returns it", "מחזיר", "ok", null], holds: ["Set aside", "יהא מונח", "hold", "holds"],
+    acquires: ["Acquires", "קנה", "ok", "acquires"], "not-acquired": ["Not acquired", "לא קנה", "no", "not-acquired"],
+    permitted: ["Permitted", "מותר", "ok", "permitted"], forbidden: ["Forbidden", "אסור", "no", "forbidden"],
+    valid: ["Valid", "כשר", "ok", "permitted"], invalid: ["Invalid", "פסול", "no", "forbidden"],
+    effective: ["Takes effect", "חל", "ok", "permitted"], "not-effective": ["No effect", "לא חל", "no", "forbidden"],
+  };
+  const FRAC = { "1/2": "½", "1/4": "¼", "3/4": "¾", "1/3": "⅓", "2/3": "⅔" };
+  function tagInfo(tag, he) {
+    if (!tag) return null;
+    const [name, share] = String(tag).split(":"), t = TAGS[name];
+    if (!t) return null;
+    const word = (he ? t[1] : t[0]) + (share ? " " + (FRAC[share] || share) : "");
+    return { name, word, tone: t[2], art: t[3] };
+  }
+  const badgeHTML = (t) => `<span class="ado-badge ado-b-${esc(t.name)}">${t.art ? `<svg viewBox="0 0 40 40" aria-hidden="true"><use href="#badge-${t.art}"/></svg>` : ""}<span>${esc(t.word)}</span></span>`;
+  function cellHTML(x, given, tag) {
+    // the outline's own marking (chart.tags, or the older chart.tones) when it has one; reading the
+    // words only for outlines made before either. A cell may list several items, one per line.
+    const h = md(x).replace(/\n/g, "<br>");
+    if (tag) { const tc = tag.tone && tag.tone !== "hold" ? ` class="ado-cell-${tag.tone}"` : ""; return `<td${tc}>${badgeHTML(tag)}${h}</td>`; }
+    const tone = given !== undefined ? given : cellTone(h);
     return tone ? `<td class="ado-cell-${tone}">${h}</td>` : `<td>${rulings(h)}</td>`;
   }
 
-  function chartHTML(c) {
+  // Charts and pictures carry a title and a number the page assigns in order ("Chart 2", "Illustration 3").
+  function chartHTML(c, num, W, he) {
     const cols = (c.columns || []).map((h) => `<th scope="col">${md(h)}</th>`).join("");
-    const tones = Array.isArray(c.tones) ? c.tones : null;
+    const tags = Array.isArray(c.tags) ? c.tags : null, tones = !tags && Array.isArray(c.tones) ? c.tones : null;
+    const used = new Map();
     const rows = (c.rows || []).map((r, ri) =>
-      `<tr>${r.map((x, i) => (i ? cellHTML(x, tones ? ((tones[ri] || [])[i] ?? null) : undefined)
-                                 : `<th scope="row">${md(x)}</th>`)).join("")}</tr>`).join("");
-    return `<div class="ado-chart"><table><caption>${md(c.caption)}</caption><thead><tr>${cols}</tr></thead><tbody>${rows}</tbody></table></div>`;
+      `<tr>${r.map((x, i) => {
+        if (!i) return `<th scope="row">${md(x)}</th>`;
+        const t = tags ? tagInfo((tags[ri] || [])[i], he) : null;
+        if (t) used.set(t.name, t);
+        return cellHTML(x, tones ? ((tones[ri] || [])[i] ?? null) : (tags ? null : undefined), t);
+      }).join("")}</tr>`).join("");
+    const title = c.title || c.caption || "";
+    const note = c.title && c.caption ? `<p class="ado-cnote">${md(c.caption)}</p>` : "";
+    const key = used.size ? `<div class="ado-key"><span class="ado-keyl">${W.key}:</span>${[...used.values()].map((t) =>
+      badgeHTML({ ...t, word: (TAGS[t.name] || [])[he ? 1 : 0] || t.word })).join("")}</div>` : "";
+    return `<div class="ado-chart"><table><caption><span class="ado-num">${W.chart} ${num}</span>${md(title)}</caption><thead><tr>${cols}</tr></thead><tbody>${rows}</tbody></table>${note}${key}</div>`;
   }
 
-  function illHTML(il) {
-    return `<figure class="ado-ill"><div class="ado-art">${il.svg}</div><figcaption>${md(il.caption)}</figcaption></figure>`;
+  function illHTML(il, num, W) {
+    return `<figure class="ado-ill"><div class="ado-ihead"><span class="ado-num">${W.picture} ${num}</span>${il.title ? md(il.title) : ""}</div><div class="ado-art">${il.svg}</div><figcaption>${md(il.caption)}</figcaption></figure>`;
   }
 
   function rangeLabel(t) {
@@ -319,6 +355,7 @@
     // (Detailed bullets, shiur insights) gets a link without using up that first mention, so the
     // first one always stays visible.
     const termsSeen = new Set(), sagesSeen = new Set();
+    let chartN = 0, picN = 0;
     function nodeHTML(n, depth) {
       const m = (s, hideable) => (mark ? mark(md(s), hideable ? new Set(termsSeen) : termsSeen,
                                                hideable ? new Set(sagesSeen) : sagesSeen) : md(s));
@@ -344,8 +381,8 @@
         ${ret}
         ${gist}
         ${bullets}
-        ${n.chart ? chartHTML(n.chart) : ""}
-        ${n.illustration ? illHTML(n.illustration) : ""}
+        ${n.chart ? chartHTML(n.chart, ++chartN, W, isHe(outline)) : ""}
+        ${n.illustration ? illHTML(n.illustration, ++picN, W) : ""}
         ${n.continues ? `<p class="ado-cont">${md(n.continues)}</p>` : ""}
         ${collapsible ? `</div>` : ""}
         ${(n.children || []).map((k) => nodeHTML(k, depth + 1)).join("")}

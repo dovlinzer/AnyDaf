@@ -53,7 +53,12 @@ POLL_INTERVAL = 60
 
 MODEL_TAGS = {"claude-sonnet-5": "sonnet5", "claude-opus-5": "opus5", "claude-opus-5-5": "opus55"}
 
-SYSTEM_PROMPT = """You are building a study outline of one daf of Talmud for the AnyDaf app. The outline's job is to give a learner a bird's-eye view of how the daf's discussion is built: reading only the headings and their one-line gists, a learner should see what the daf discusses, how the parts relate, and where the Gemara goes next. The bullets then fill in each step.
+SYSTEM_PROMPT = """You are building a study outline of one daf of Talmud for the AnyDaf app. The outline's job is to give a learner a bird's-eye view of how the daf's discussion is built: reading only the headings and their summary lines, a learner should see what the daf discusses, how the parts relate, and where the Gemara goes next. The bullets then fill in each step.
+
+The outline must read as explanation, not as an index. The test: a reader who glances at any part of it should think "I know what this is about," not "this is written for insiders." Comprehensibility matters more than brevity.
+
+## Voice
+Write as a teacher explaining the daf to a capable student sitting across the table: briefly, plainly, in sentences you would actually say aloud. Not a catalog entry, not a lecture. Stay succinct: warmth comes from narrating and explaining, not from extra words. No asides, no "fascinatingly," no rhetorical buildup.
 
 You receive: the shiur's segmentation (the lecture's own section titles, in lecture order), the shiur essay written from the lecture, the tail of the previous daf's essay, and Sefaria's English translation of this daf plus a few lines on either side. Some dafim have no shiur at all; then you receive only the Gemara text (and perhaps the previous daf's essay tail), and you build the whole outline from the text: every bullet is `"source": "gemara"`, and no section carries the "Gemara text only" flag, since the whole outline is.
 
@@ -70,19 +75,50 @@ You receive: the shiur's segmentation (the lecture's own section titles, in lect
 - Keep the Gemara's order. Never move a section. When the Gemara returns to an earlier point, leave the section where it falls and add a `returns_to` link to the earlier section's id, with a short note.
 - There will be judgment calls. Make the call, and record in `judgment_calls` each place where a different structure would also be reasonable, saying briefly what the alternative was and why you chose as you did.
 
-## Headings and gists
-- Write your own headings, never generic ("The Gemara's Question", "Continued"). The segmentation's `title` fields are raw material only, and they contain errors.
-- A heading is a small summary in itself: it names the options, positions or issues the section lays out, not only its topic. "*Bitzua*: Sin, Mitzvah, or a Window That Closes" and "'*Lo Taguru*': Fear, Recusal and Speech in Court" tell the learner what the section holds; "Compromise in Court" does not. When a section turns on a key term, put the term in the heading. Up to about 12 words and no more than three or four items; "Term: A, B or C" works well, and so does a question the section answers ("The Olah at Sinai: *Re'iyah* or *Tamid*?"). The example's headings show the style.
-- A section that opens a new Mishnah says so: its heading starts with "Mishnah:" ("Mishnah: Pulling, Measuring, Renting the Spot, and Lifting Flax"), so the learner sees where each Mishnah begins.
-- Every section gets a `gist`: one sentence, readable on its own. Headings plus gists together form the outline's "headlines" view, so they must carry the flow by themselves. A section with several substantial children names its main sub-discussions in its gist ("Three questions: whether the gentile must have seen blood, unequal loss, and attributing a stain to a woman who has one"), so the headlines view shows them even when they sit a level down.
+## Headers
+Headers are labels, not sentences, but every header must make sense read alone, as if in a table of contents, to someone who has not read the section. Write your own; never generic ("The Gemara's Question", "Continued"). The segmentation's `title` fields are raw material only, and they contain errors.
+- Name the subject. Not "No Bekhorah" but "A Shevi'it Animal's Firstborn."
+- One clear statement or question, not a string of labels. A short claim with a verb ("Isn't Holy," "Owes the Gifts") reads better than stacked nouns.
+- At most one colon, for an attribution ("Rav Chisda:") or the "Mishnah:" label, and no dashes chaining extra labels on the end.
+- Technical terms only when the reader can tell from the header what they refer to.
+- Name the idea, not just the ruling. When a section turns on a conceptual principle, above all one the Gemara or the shiur names explicitly, the header names that principle rather than restating the ruling. Fall back to the ruling only when no clear principle emerges.
+- Open with "Why" when the section, or much of it, explains or debates the underlying principle: why a courtyard acquires, why an oath is imposed. Sections about details and applications (which cases, which people, what amounts) get a plain topic or a "what" / "can" question, not "Why."
+- Name a sage only when the section is about his position: it is challenged, defended or disputed. If his ruling is simply accepted and developed, leave the name out.
+- Reasons go in the summary line, not the header. A header may point to the reason in label form when it is the crux, or use "Why…" as above.
+- A section that opens a new Mishnah says so: its header starts with "Mishnah:", so the learner sees where each Mishnah begins.
+- These rules apply to top-level headers too; a top-level header stays in topic form, as clear as possible.
+
+| Instead of | Write |
+| --- | --- |
+| Shevi'it Animal: Redeeming a Donkey, Its Own Bekhorah, and Challah | Permissible Uses for an Animal Bought with Shevi'it Produce |
+| Rav Chisda: No Bekhorah, but Priestly Gifts — Burning vs. Eating | Rav Chisda: A Shevi'it Animal's Firstborn Isn't Holy, but It Owes the Priestly Gifts |
+| Rabbi Yochanan: Neither Owner Nor Thief Can Sanctify a Stolen Object (acceptable) | Rabbi Yochanan: Possession as a Component of Full Ownership (better) |
+| Ein Shaliach Li'dvar Aveirah: Could the Agent Refuse, or Is He Bound? (a principle section) | Why Can a Courtyard Commit Theft for Its Owner, When an Agent Can't? |
+| A Minor's Chatzer as Yad: Get, Found Items, Girl or Boy? (a detail section) | Can a Minor Acquire Through a Courtyard? Girl vs. Boy, Divorce vs. Found Items |
+
+## Summary lines
+Every section gets a summary line, the `gist`, readable on its own. Headers plus summary lines together form the outline's "headlines" view, so they must carry the flow by themselves.
+- A top-level summary opens by stating what is at stake and the principle that drives it, in a sentence or two you would say to a student. Only then, if useful, map what the section covers. Never open with "Three steps:" or any label and colon followed by a list.
+- A lower-level summary narrates what happens: who says what, and how it comes out, with people (litigants, Rabbis, the Gemara) as the subjects of active verbs. If a second sentence helps, use it to map what the passage covers.
+- A section with several substantial children names its main sub-discussions in its summary, so the headlines view shows them even when they sit a level down.
+
+Instead of: "Four cases: both claim the whole garment, one claims all and the other half, two with an animal, and parties who admit or have witnesses, each with its oath and division."
+Write: "Two litigants holding one item each swear to their minimum share and divide it. The Mishnah covers equal claims, a whole-versus-half claim, an animal ridden or led, and when no oath is needed."
+
+Instead of: "Three steps: whether an animal bought with Shevi'it produce may redeem a peter chamor, Rav Chisda's ruling that it is exempt from bekhorah but owes the priestly gifts, and the challenge from challah."
+Write: "Produce of Shevi'it must be eaten, not traded or destroyed, so the question is what an animal bought with it may be used for. It may not redeem a certain peter chamor, which would be commerce, though Rav Chisda allows a doubtful one. Its firstborn is not a bekhor, since parts of a bekhor are burned, but it owes the priestly gifts, which are eaten. A challenge from challah tests that distinction."
 
 ## Bullets
+Same voice as the summaries. Each bullet is one complete thought you would say to that student, and it makes sense without the Gemara open. Explain a technical term on first use. Where it helps, orient the student directly ("To follow the cases, keep three parties in view…") or raise the question the Gemara is answering ("How, if Torah money is Tyrian?").
 - Each bullet is one step of the discussion: who says what, and on what basis (a verse, a baraita, a sevara).
 - `detail`: 2 for the main steps (the standard view); 3 for supporting detail (proof texts, secondary steps, fine points) shown only in the detailed view. Standard view should read as a complete, compact account.
 - `source`: "gemara" for what the text itself says, grounded in the Sefaria translation; "shiur" for the lecturer's analysis, including rishonim and acharonim brought in the shiur and conceptual framing. Never present shiur analysis as the Gemara's. Never state Gemara content that isn't in the provided text.
 - Mark Hebrew and Aramaic terms in *italics* with single asterisks, as the example does. No other markup.
 - Rulings are "permitted" and "forbidden", never "prohibited": "Prohibited" and "Permitted" look alike at a glance. The same in charts and pictures.
 - Name the Gemara's moves precisely, not in the Sefaria translation's wording: a *kushya* or *meitivei* is a challenge or objection; a *ba'ya* is a question. Almost never write "dilemma": keep it for a real choice between two equally weighty options.
+
+## Give the reason
+In every summary line and bullet (headers are exempt), give the reason. When a ruling, distinction or objection appears, state the principle or reasoning behind it, not just the conclusion: why the oath is imposed, why the firstborn is exempt but the gifts are owed. A ruling without its reason is the most common thing that makes an outline feel like a list. Not just "Rav Nachman concludes that every kohen is suspect," but "…since any kohen may talk himself into using the donkey before he redeems it."
 
 ## Hebrew and Aramaic words: key terms in the original
 Anything that merits a key-term entry (see "Key terms"), and any legal category, principle or technical term of that kind, is written in the original, transliterated and in italics, every time it comes up: headings, gists, bullets, charts and picture labels (*garuf ve'katum*, *chazarah*, *mitztamek ve'ra lo*, *kinyan chatzer*, *ona'ah*). The first time a term appears on the daf, give its English once in parentheses right after it, e.g. *gerufah u'ketumah* (swept of coals or banked with ashes); after that use the term alone. Never write a key term's English translation in its place ("swept", "returning", "shrivels and deteriorates"), and never let the English stand in for it in later bullets: the glossary links the term, and its English is only a gloss. Ordinary things that are not terms of art stay in English: "one kind", not *min echad*; "wax", not *sha'avah*. Never use both names for one thing, least of all in one heading ("*Min Echad* or Two Kinds?").
@@ -114,11 +150,16 @@ A difference of interpretation is not a conflict: the lecturer's reading of the 
 - When a party has several items of one kind (two arguments, three conditions, two replies), put them in one cell as a numbered list, one item per line, with a line break between them ("1. ...\n2. ..."), rather than a column for each.
 - Keep what answers what side by side. When each side's arguments draw replies from the other side, put the replies to a row's arguments in that same row, in a column such as "The other school's reply", numbered to match: reply 1 sits beside argument 1. Never make the reader trace a reply to a cell in another row.
 - Orientation, always: the parties go on the rows (tanna'im, amora'im, schools, versions of a tradition such as "R. Meir's version"), and the cases, questions or aspects being compared go on the columns. Beit Shammai and Beit Hillel are two rows; "left on a swept stove" and "taken off on Shabbat" are two columns. When the grid compares things rather than people (the three pilgrimage offerings and what is unique to each), the things are the rows.
+- Every chart has a `title`: a mental anchor that tells the reader what they are about to look at. It follows the header rules (understandable alone, naming the case or the idea, not a string of labels), and when the chart is about a case it states the whole case: "A note with no sum: the creditor claims five *sela'im* and the debtor admits three," not "The baraita of the unspecified note." Don't number charts; the site numbers them. An optional one-sentence `caption` may add what the title can't.
 - `columns` is the header row; each entry in `rows` is a list of cell strings with the row label first. An empty first header cell is fine.
-- `tones` marks what each cell rules, so the app can color it: the same shape as `rows`, one entry per cell, `"ok"` for a cell that permits, validates or says something takes effect (permitted, may be eaten, acquires, betrothed, valid), `"no"` for one that forbids, invalidates or fails (forbidden, may not, does not acquire, not betrothed, invalid), and `null` for everything else, including the row label, a cell that says both, and cells about liability or exemption (whether those are the good outcome depends on the case). Judge by what the cell means, not its wording: "Beit Hillel permit leaving the food" is `"ok"`, "Concern that he may sin" is `null`. Leave `tones` out of a chart with no rulings in it.
+- `tags` marks each cell's outcome so the site can put a badge and color beside it: the same shape as `rows`, one entry per cell, chosen from this closed list, or `null` for the row label and for any cell that is not an outcome:
+  `pays`, `exempt` (owes nothing), `oath`, `no-oath`, `divides`, `takes` (collects or is awarded it), `no-claim`, `keeps`, `returns`, `holds` (set aside, left pending, "until Eliyahu comes"), `acquires`, `not-acquired`, `permitted`, `forbidden`, `valid`, `invalid`, `effective` (betrothed, divorced, redeemed, consecrated, it takes effect), `not-effective`.
+  A share goes after a colon: `pays:1/2`, `takes:3/4`, `divides:1/2`. One tag per cell; a cell with two outcomes ("swears and collects") takes the one the column is about. The tag never replaces the words: every cell still says everything in full, as explicit and nuanced as the case needs, because readers can turn the badges off. Judge by what the cell means, not its wording. When a cell is an outcome but no tag fits, leave it `null` and list it in `tag_questions` ({"section", "cell", "note"}), so the author can decide whether a new badge is needed. Leave `tags` out of a chart with no outcomes in it. For example, a chart of the garment cases with columns "", "Claims", "Oath", "Result" might have `"tags": [[null, null, "oath", "divides:1/2"], [null, null, "oath", "takes:3/4"], [null, null, "no-oath", "divides:1/2"]]`.
 
 ## Illustrations
-Visual learners get 4 to 7 illustrations per daf, scaled to the daf: more for a long daf with several major disputes or many physical cases, fewer for a short or mostly aggadic one. Each is a flat, labeled SVG drawing attached to the section it illustrates, as `"illustration": {"caption", "svg"}`. Their purpose is to visualize the discussion, not to decorate it.
+Visual learners get 4 to 7 illustrations per daf, scaled to the daf: more for a long daf with several major disputes or many physical cases, fewer for a short or mostly aggadic one. Each is a flat, labeled SVG drawing attached to the section it illustrates, as `"illustration": {"title", "caption", "svg"}`. A picture's job is to let the reader see the case: choose and draw for the reader who can't picture it from the text alone. The `title` follows the header rules and names the case or the idea; don't number pictures, the site numbers them.
+
+Illustrate concrete scenarios, not abstractions. When a case has two or more scenarios, show them side by side, even if each is simple: visual learners grasp a case by seeing its versions. Cases with several parties, or money and objects changing hands, also call for a picture. A point about what a word means is an abstraction; leave it to the text. Don't skip a complicated scenario because it is hard to draw: that is where a picture helps most.
 
 Choose what to draw in this order:
 1. A Mishnah with some complexity gets a picture that distills its cases (not a simple one; a judgment, not a rule).
@@ -133,10 +174,30 @@ Good subjects:
 - counts and comparisons drawn out (Shavuot's 10 olot vs. 2 shelamim, animal by animal);
 - a sequence or timeline (Sinai, Ohel Mo'ed, Arvot Mo'av);
 - a vivid story or aggada in the text (Rebbi and R. Chama bar Chanina eating shriveled eggs).
+How to draw it:
+- Show the ruling on the object itself: a dashed line dividing the garment, the document cut in two, the coins going to each party. No abstract stand-ins (bars, proportion meters) when the object can show it.
+- Draw the relationships. When a case turns on how the parties stand toward each other (who claims from whom, who swears to whom, who owes whom), arrange the figures so the layout mirrors that structure: three parties in a triangle, two adversaries facing each other. Draw a line for each relationship and label it with the ruling on that line; a dashed line, or none, where there is no claim. Never set the parties in a row when the case is about how they connect. Example, BM 3 (Shevuot 45a): the employer at the top, the storekeeper and the laborer below, "swears and collects" on each line to the employer, and a dashed line between the two of them marked "what business do I have with him?"
+- Keep the case and the ruling apart. When a picture shows both a scenario and the sages' positions on it, put them in separate bands: the case in one, the disputing sages and their rulings in another, visibly distinct (a light panel behind each, a small label such as "The case" / "The ruling"). Never set the sages in the same row as the people in the case.
+- Put the outcome in the picture: a short caption under each figure or object saying what that party does, gets or swears.
+- When the Gemara has a term for the concept, use it as a label and pair it with a concrete instance (*derara de'mamona*: a cow and its calf, with ownership of the calf in doubt).
+- When a scene turns on what someone says or thinks, put it in a speech bubble (`#bubble`, `#bubble-r`) whose tail points to the speaker, or a thought cloud (`#thought`, `#thought-r`), with the text inside it. Don't caption speech as floating quoted text under a figure. Most scenes with dialogue have at least one bubble. Keep bubble text to a line or two, in the speaker's own voice.
+Weaker and stronger choices, from BM 2:
+| Case | Weaker | Stronger |
+| --- | --- | --- |
+| Two holding a garment | A bar below the garment split into halves | A dashed line down the garment itself |
+| Which case to draw | Two things "I found it" could mean (a linguistic point) | *Mori ve'amar*: the find vs. the purchase, two real scenarios |
+| Two buyers, one shopkeeper | Skipped | Both buyers handing money to the shopkeeper |
+| Storekeeper and laborer | The parties' claims, without the document or the ruling | The document divided, with the ruling captioned under the storekeeper |
+| *Derara de'mamona* | A general scene | The term as a label, with a cow and calf as the case |
 Rules:
 - Every label is exact text: names as the text has them, a Hebrew or Aramaic key phrase where it helps (as in the example), nothing the outline doesn't support. Never depict God.
 - Pictures read left to right, since the page is in English: a sequence, a list, or a set of items being compared runs left to right in the order the text gives it (the Mishnah's oven, *kupach* and stove, in that order). A picture of a real physical layout (the Temple, a courtyard, directions) follows the real arrangement and labels the directions instead. Give each Hebrew `<text>` element `direction="rtl"`.
-- Draw with simple shapes plus the shared figure library below, which the page already contains: reference symbols with `<use href="#id" x y width height/>` and never redefine them. Sages are `#sage`, colored per figure with `style="color:<robe>;--beard:<color>;--wrap:<head-cloth>"`, drawn at width w and height 1.75w. They stand plainly: no waving, no tallit or tzitzit, no modern dress.
+- Draw with simple shapes plus the shared figure library below, which the page already contains: reference symbols with `<use href="#id" x y width height/>` and never redefine them, and never draw a person of your own. Which figure for whom:
+  - `#sage` for a tanna, an amora, or any voice that rules on the case (scholar's mantle and scroll), at width w and height 1.75w, colored per figure with `style="color:<robe>;--beard:<color>;--wrap:<head-cloth>;--mantle:<color>"`. Sages stand plainly: no waving, no tallit or tzitzit, no modern dress.
+  - the people in the case: `#man` (`style="color:<tunic>;--beard:<c>;--hair:<c>"`; leave the beard off a young man with `--beard:transparent`), `#woman`, `#girl` (a minor daughter), `#child` (a boy or a small child), `#kohen` (`--sash`), each 1:2 (children 1:2 at about half an adult's height). Use women and girls wherever the case has them (a wife, a daughter, a betrothed woman, a widow), and say who each figure is in a label.
+  - roles and places: `#court` (a beit din of three; width w, height 0.6w), `#counter` (a shop; put the seller behind it).
+  - objects that change hands: `#coins`, `#coin`, `#document` (a note, a get, a bill of sale), `#garment`; animals `#lamb`, `#ram`, `#goat`, `#bull`.
+  - `#bubble`, `#bubble-r`, `#thought`, `#thought-r` stretch to any width and height you give them.
 - `viewBox="0 0 900 H"` with H between 380 and 560. Start with a full-size background rect. Use the example's palette of soft panel colors, its font families (Newsreader for titles, Public Sans for labels, Frank Ruhl Libre for Hebrew) and minimum text size 12. Keep every element inside the viewBox. No text may run over a drawing, a figure or another label: place labels in open space, and where room is short, break the label onto two lines, shorten it, or move or shrink the drawing to make room. Before finishing each picture, check every label's extent against what lies beneath it.
 - Give the root `<svg>` `role="img"` and a `<title>` describing the scene. No scripts, no external images or links, no `<style>` blocks, no ids that could collide with the library's.
 - Show rulings in color, the same way every time, because it makes a big difference for visual learners: whatever the picture marks as permitted is green (text `#24592E`, or `#mark-ok` beside it), whatever it marks as forbidden is red (text `#8C2F2F`, or `#mark-no`). Use the marks wherever a case in the picture has a ruling. Only rulings get these colors.
@@ -151,13 +212,23 @@ List in `sages` every tanna, amora and other sage of the Mishnah and Talmud whom
 - `name` is the name as the outline writes it; write each sage's name the same way throughout the outline. `hebrew` is his name as the text has it (or the usual Hebrew form). `sections` lists the ids of the sections that name him.
 - Leave out biblical figures (Shmuel the prophet is not the amora Shmuel), schools (Beit Shammai, Beit Hillel), anonymous voices (the Gemara, the Rabbanan, "a tanna", "the Sages"), and rishonim and acharonim brought in the shiur.
 
+## Quiz
+Write 8 multiple-choice questions on the daf, in `quiz`, in the order of the Gemara. They are a self-test for the learner, so:
+- Test the bottom lines, the themes and the key distinctions (what is the ruling and why, what separates two cases, what a key term means), never the shakla ve'tarya (who asked which question, what came first).
+- The question states the whole case it asks about, so it can be answered without the outline open: "A note with no sum: the creditor claims five and the debtor admits three. What does R. Shimon ben Elazar rule?", not "The baraita of the unspecified note: what does R. Shimon ben Elazar say?"
+- Four `options`, the right one first (the site shuffles them). Wrong options are plausible: rulings and reasons a learner might confuse, often the other side's view, never jokes.
+- `why` is one or two sentences: the reason the right answer is right, in the outline's voice.
+- `line` is the Sefaria label where the answer is found, from the lines you were given.
+- Same markup as the bullets: Hebrew and Aramaic terms in single-asterisk italics.
+
 ## Output
 Return only a JSON object, with no prose before or after it and no code fence, in exactly the shape of the example:
-{"daf", "scope": {"start", "end"}, "sections": [node], "key_terms": [term], "sages": [sage], "judgment_calls": [string], "coverage_notes": [string], "runners_up": {"charts": [{"section", "subject", "why_not"}], "illustrations": [{"section", "subject", "why_not"}]}}
-node = {"id": "s1", "title", "amud", "text": {"from", "to"}, "gist", "flag"?, "bullets": [{"text", "detail": 2|3, "source": "gemara"|"shiur"}], "chart"?: {"caption", "columns": [string], "rows": [[string]] (a cell may hold "\n" line breaks), "tones"?: [["ok"|"no"|null]]}, "illustration"?: {"caption", "svg"}, "returns_to"?: [{"id", "note"}], "continues"?: string, "children": [node]}
+{"daf", "scope": {"start", "end"}, "sections": [node], "key_terms": [term], "sages": [sage], "quiz": [question], "judgment_calls": [string], "coverage_notes": [string], "runners_up": {"charts": [{"section", "subject", "why_not"}], "illustrations": [{"section", "subject", "why_not"}]}, "tag_questions": [{"section", "cell", "note"}]}
+node = {"id": "s1", "title", "amud", "text": {"from", "to"}, "gist", "flag"?, "bullets": [{"text", "detail": 2|3, "source": "gemara"|"shiur"}], "chart"?: {"title", "caption"?, "columns": [string], "rows": [[string]] (a cell may hold "\n" line breaks), "tags"?: [[string|null]]}, "illustration"?: {"title", "caption", "svg"}, "returns_to"?: [{"id", "note"}], "continues"?: string, "children": [node]}
+question = {"q", "options": [string, string, string, string] (the right one first), "why", "line"}
 term = {"term", "hebrew", "sense", "definition", "on_this_daf", "aliases": [string], "sections": [id]}
 sage = {"id": string|null, "name", "full_name"?, "hebrew", "sections": [id]}
-Ids are unique across the whole outline ("s1", "s2", ... in document order). `amud` is a short label such as "6a", "6a–6b" or "6b → 7a". `judgment_calls`, `coverage_notes` and `runners_up` are editorial notes for the author, never shown to learners.
+Ids are unique across the whole outline ("s1", "s2", ... in document order). `amud` is a short label such as "6a", "6a–6b" or "6b → 7a". `judgment_calls`, `coverage_notes`, `runners_up` and `tag_questions` are editorial notes for the author, never shown to learners.
 Before you finish, check every chart once more: parties (tanna'im, amora'im, schools, versions) on the rows, cases or aspects on the columns. A column headed with a sage's name is almost always the wrong way round.
 
 ## Figure library (already on the page; reference these ids, never redefine them)
@@ -458,9 +529,12 @@ def system_blocks() -> list[dict]:
     return [{"type": "text", "text": text + example_text(), "cache_control": {"type": "ephemeral"}}]
 
 
+TAG_SUFFIX = ""   # --suffix: a prompt revision's results go beside the earlier ones, not over them
+
+
 def run_tag(model: str, effort: str | None) -> str:
-    """Result tag: 'opus55', or 'opus55_medium' when comparing effort levels."""
-    return MODEL_TAGS[model] + (f"_{effort}" if effort else "")
+    """Result tag: 'opus55', or 'opus55_medium' when comparing effort levels, plus any --suffix."""
+    return MODEL_TAGS[model] + (f"_{effort}" if effort else "") + (f"_{TAG_SUFFIX}" if TAG_SUFFIX else "")
 
 
 def build_request(spec: str, model: str, effort: str | None = None) -> dict:
@@ -581,6 +655,11 @@ def check_anchors(outline: dict, d: Path) -> list[str]:
     return problems
 
 
+# The closed list of chart outcome tags (the prompt's list; the site maps each to its word, colour and badge).
+OUTCOME_TAGS = {"pays", "exempt", "oath", "no-oath", "divides", "takes", "no-claim", "keeps", "returns", "holds",
+                "acquires", "not-acquired", "permitted", "forbidden", "valid", "invalid", "effective", "not-effective"}
+
+
 # A column header that starts with a sage's name or title ("R. Yannai", "Abba Kohen Bardela", "Rav
 # Sheshet's reading"). Deliberately broad: it only raises a flag for review.
 SAGE_HEADER = re.compile(r"^(?:R\.\s|Rav\b|Rabbi\b|Rabban\b|Rabbeinu\b|Beit\s|Abba\b|Abaye\b|Rava\b|Rabba\b|"
@@ -642,13 +721,50 @@ def check_output(outline: dict, d: Path) -> list[str]:
             if len(tones) != len(rows) or any(len(t or []) != len(r) for t, r in zip(tones, rows)) or \
                any(x not in ("ok", "no", None) for t in tones for x in (t or [])):
                 probs.append(f"chart in '{n.get('title')}': tones don't match the rows (shape or values)")
+        if ch.get("tags") is not None:
+            rows, tags = ch.get("rows") or [], ch.get("tags") or []
+            bad = [x for t in tags for x in (t or []) if x is not None and str(x).split(":")[0] not in OUTCOME_TAGS]
+            if len(tags) != len(rows) or any(len(t or []) != len(r) for t, r in zip(tags, rows)):
+                probs.append(f"chart in '{n.get('title')}': tags don't match the rows' shape")
+            if bad:
+                probs.append(f"chart in '{n.get('title')}': tags not on the list {bad}")
+        if ch and not ch.get("title"):
+            probs.append(f"chart in '{n.get('title')}' has no title")
+        il = n.get("illustration") or {}
+        if il and not il.get("title"):
+            probs.append(f"picture in '{n.get('title')}' has no title")
+        # speech drawn as floating quoted text rather than in a bubble
+        svg = il.get("svg") or ""
+        if re.search(r'<text[^>]*>\s*[“"][^<]{6,}', svg) and not re.search(r'#(?:bubble|thought)', svg):
+            probs.append(f"picture in '{n.get('title')}' quotes speech but has no bubble")
+        # headers: at most one colon, no dash-chained labels
+        t = n.get("title") or ""
+        if t.count(":") > 1 or re.search(r"\s[—–-]\s", t):
+            probs.append(f"header '{t}': more than one colon or a dash-chained label")
+        # summaries: no "Three steps:" / label-colon-list openings
+        g = n.get("gist") or ""
+        if re.match(r"^[\w' ]{1,24}:\s", g) and "," in g.split(":", 1)[1][:120]:
+            probs.append(f"summary of '{t}' opens with a label and a list: '{g[:50]}…'")
     pics = sum(1 for n in nodes if n.get("illustration"))
     if not 4 <= pics <= 7:
         probs.append(f"{pics} illustrations (target 4-7)")
     if outline.get("key_terms") is not None:
         probs += [f"key term: {p}" for p in check_terms(outline, outline, d) if "may be fine" not in p]
+    quiz = outline.get("quiz")
+    if quiz is None:
+        probs.append("no quiz")
+    else:
+        pool = set(label_pool(d))
+        if len(quiz) != 8:
+            probs.append(f"quiz has {len(quiz)} questions (8 asked)")
+        for k, q in enumerate(quiz, 1):
+            o = q.get("options") or []
+            if len(o) != 4 or len(set(o)) != 4 or not q.get("q") or not q.get("why"):
+                probs.append(f"quiz {k}: needs a question, four different options and a why")
+            if q.get("line") not in pool:
+                probs.append(f"quiz {k}: line {q.get('line')!r} isn't one of the daf's labels")
     probs += check_sages(outline, nodes, d)
-    text = json.dumps({k: v for k, v in outline.items() if k not in ("judgment_calls", "coverage_notes", "runners_up")},
+    text = json.dumps({k: v for k, v in outline.items() if k not in ("judgment_calls", "coverage_notes", "runners_up", "tag_questions")},
                       ensure_ascii=False).lower()
     for t in json.loads(EXCEPTIONS.read_text(encoding="utf-8"))["terms"]:
         for bad in t["not"]:
@@ -723,8 +839,11 @@ def main():
     ap.add_argument("--models", nargs="+", default=list(MODEL_TAGS))
     ap.add_argument("--efforts", nargs="+", choices=["low", "medium", "high", "xhigh", "max"],
                     help="compare effort levels: one batch per model per effort, results tagged e.g. opus55_medium")
+    ap.add_argument("--suffix", default="", help="added to the result tag, e.g. v2 -> opus55_medium_v2")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
+    global TAG_SUFFIX
+    TAG_SUFFIX = args.suffix
 
     for spec in args.dafim:
         key, d, textonly = parse_spec(spec)
