@@ -431,21 +431,21 @@
       const see = (ids) => (ids || []).filter((id) => titles[id]).length
         ? `<span class="ado-see">${W.see}: ${(ids || []).filter((id) => titles[id]).map((id) =>
             `<button type="button" class="ado-sgo" data-goto="${esc(id)}">${md(titles[id])}</button>`).join(" · ")}</span>` : "";
-      const tk = (ds.takeaways || []).length ? `<h3>${W.takeaways}</h3><ul class="ado-tk">${ds.takeaways.map((t) =>
-        `<li>${md(t.text)} ${see(t.sections)}</li>`).join("")}</ul>` : "";
-      const db = (ds.debates || []).length ? `<h3>${W.debates}</h3>${ds.debates.map((d) => `<div class="ado-deb">
+      const tk = (ds.takeaways || []).length ? `<div class="ado-sumsec"><h3>${W.takeaways}</h3><ul class="ado-tk">${ds.takeaways.map((t) =>
+        `<li>${md(t.text)} ${see(t.sections)}</li>`).join("")}</ul></div>` : "";
+      const db = (ds.debates || []).length ? `<div class="ado-sumsec"><h3>${W.debates}</h3>${ds.debates.map((d) => `<div class="ado-deb">
           <p class="ado-debq">${md(d.question)}</p>
-          <dl>${(d.sides || []).map((x) => `<dt>${md(x.who)}</dt><dd>${md(x.view)}</dd>`).join("")}</dl>
-          ${d.outcome ? `<p class="ado-debo"><b>${W.outcome}:</b> ${md(d.outcome)}</p>` : ""}${see(d.sections)}</div>`).join("")}` : "";
+          <ul class="ado-sides">${(d.sides || []).map((x) => `<li><b>${md(x.who)}:</b> ${md(x.view)}</li>`).join("")}</ul>
+          ${d.outcome ? `<p class="ado-debo"><b>${W.outcome}:</b> ${md(d.outcome)}</p>` : ""}${see(d.sections)}</div>`).join("")}</div>` : "";
       const terms = (ds.key_terms || []).map((name) => {
         const i = keyTerms.findIndex((t) => t.term === name);
         const t = keyTerms[i];
         if (!t) return "";
         const short = String(t.definition || "").split(/(?<=[.!?])\s/)[0];
-        return `<dt><button type="button" class="ado-term ado-sumterm" data-term="${i}"><i>${esc(t.term)}</i></button>${t.hebrew ? ` <span class="ado-heb" lang="he">${esc(t.hebrew)}</span>` : ""}</dt><dd>${md(short)}</dd>`;
+        return `<dt>${t.hebrew ? `<span class="ado-heb" lang="he" dir="rtl">${esc(t.hebrew)}</span>, ` : ""}<button type="button" class="ado-term ado-sumterm" data-term="${i}"><i>${esc(t.term)}</i></button></dt><dd>${md(short)}</dd>`;
       }).join("");
       return `<section class="ado-sum"><button type="button" class="ado-sumtog" aria-expanded="false">${W.summary}</button>
-        <div class="ado-sumbody" hidden>${tk}${db}${terms ? `<h3>${W.sumTerms}</h3><dl class="ado-sumterms">${terms}</dl>` : ""}</div></section>`;
+        <div class="ado-sumbody" hidden>${tk}${db}${terms ? `<div class="ado-sumsec"><h3>${W.sumTerms}</h3><dl class="ado-sumterms">${terms}</dl></div>` : ""}</div></section>`;
     }
 
     container.innerHTML = (glance && !collapsible ? `<div class="ado-glwrap"></div>` : "") + foldbar
