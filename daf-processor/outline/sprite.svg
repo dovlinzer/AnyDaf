@@ -54,6 +54,21 @@
   <circle cx="30" cy="31" r="11.5" fill="#D8B38E"/>
   <path d="M17 30 Q30 10 43 30 Q30 22 17 30 Z" fill="#C9A15C"/>
  </symbol>
+ <!-- REACHING FIGURES: one arm bent forward, the hand at (59, 67.5) of the 60x120 box (to the right; -r to the left, hand at (1, 67.5)). Put what is held or handed over at the hand. -->
+ <symbol id="man-reach" viewBox="0 0 60 120" overflow="visible">
+  <use href="#man" width="60" height="120"/>
+  <path d="M41 53 Q47 58 47 70 Q48 74 52 72 L58 68" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M41 53 Q47 58 47 70 Q48 74 52 72 L58 68" fill="none" stroke="#00000022" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 3.5)"/>
+  <circle cx="59" cy="67.5" r="4.2" fill="#D6AE86"/>
+ </symbol>
+ <symbol id="man-reach-r" viewBox="0 0 60 120" overflow="visible"><g transform="matrix(-1 0 0 1 60 0)"><use href="#man-reach" width="60" height="120"/></g></symbol>
+ <symbol id="woman-reach" viewBox="0 0 60 120" overflow="visible">
+  <use href="#woman" width="60" height="120"/>
+  <path d="M42 55 Q47 58 47 70 Q48 74 52 72 L58 68" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 55 Q47 58 47 70 Q48 74 52 72 L58 68" fill="none" stroke="#00000022" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 3.5)"/>
+  <circle cx="59" cy="67.5" r="4.2" fill="#D8B38E"/>
+ </symbol>
+ <symbol id="woman-reach-r" viewBox="0 0 60 120" overflow="visible"><g transform="matrix(-1 0 0 1 60 0)"><use href="#woman-reach" width="60" height="120"/></g></symbol>
  <symbol id="child" viewBox="0 0 30 60">
   <path d="M8 26 Q15 22 22 26 L26 58 H4 Z" fill="currentColor"/>
   <circle cx="15" cy="15" r="8" fill="#D8B38E"/><path d="M7 13 Q15 3 23 13 Q15 9 7 13Z" fill="#5A4030"/>

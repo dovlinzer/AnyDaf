@@ -251,8 +251,9 @@
       const rc = lead.tone === "ok" || lead.tone === "no" ? lead.tone : lead.pair ? `p${lead.pair}` : "";
       const marked = /<b>/.test(h);
       const body = marked ? h.replace(/<b>/g, `<b class="ado-rul${rc ? " ado-rul-" + rc : ""}">`) : h;
-      // a cell with marked ruling words keeps its text plain; otherwise a good/bad outcome colours it whole
-      const tc = !marked && (lead.tone === "ok" || lead.tone === "no") ? ` class="ado-cell-${lead.tone}"` : "";
+      // a cell with marked ruling words keeps its text plain; otherwise its outcome colours it whole
+      // (green/red for a good/bad outcome, blue/amber for a pair such as swears / no oath)
+      const tc = !marked && rc ? ` class="ado-cell-${rc}"` : "";
       return `<td${tc}><span class="ado-badges">${tag.map(badgeHTML).join("")}</span>${body}</td>`;
     }
     const tone = given !== undefined ? given : cellTone(h);

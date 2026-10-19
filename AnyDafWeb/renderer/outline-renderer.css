@@ -79,6 +79,7 @@
 .ado .ado-chart .ado-no{color:var(--ado-no);font-weight:600}
 .ado .ado-chart td.ado-cell-ok{color:var(--ado-ok)}
 .ado .ado-chart td.ado-cell-no{color:var(--ado-no)}
+.ado .ado-chart td.ado-cell-pa{color:var(--ado-pa,#1B3A8A)}.ado .ado-chart td.ado-cell-pb{color:var(--ado-pb,#9A6212)}
 .ado .ado-chart td .ado-badges{display:flex;gap:4px;width:fit-content}
 .ado .ado-chart td .ado-badges .ado-badge{display:inline-flex}
 .ado .ado-rul{font-size:1.08em;font-weight:700}
