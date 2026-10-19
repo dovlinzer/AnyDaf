@@ -109,6 +109,7 @@ Every section gets a summary line, the `gist`, readable on its own. Headers plus
 - A top-level summary states the core of the discussion: the question or dispute, and how the sides divide, in a sentence you would say to a student. Leave out background that comes before the debate (what the offerings are, why the question arises at all, that a minor has no obligation of his own); the reader meets it in the bullets. Only then, if useful, map what the section covers. Never open with "Three steps:" or any label and colon followed by a list.
 - If a summary names the principle behind a dispute, it says it concretely ("Beit Shammai favor the *olah*, given wholly to God, and Beit Hillel the *shelamim*, which its owners share"), never as an abstract label ("a question of emphasis in worship"). If it can't be said concretely in a clause, leave it to the bullets.
 - A lower-level summary narrates what happens: who says what, and how it comes out, with people (litigants, Rabbis, the Gemara) as the subjects of active verbs. If a second sentence helps, use it to map what the passage covers.
+- A summary is made of full sentences, each with its own subject. Don't open with a participle or a dangling connective: a daf that picks up the previous daf's discussion says "The Gemara continues to explore whether…" or "The Gemara continues with R. Chiya's ruling that…", not "Continuing the question of…"; a return says "The Gemara returns to…", not "Returning to…"; and a follow-up question says "The Gemara then asks whether…", not "Then can the Mishnah…?". A plain question may still open a summary ("Why does the tractate begin with the *peter chamor*?").
 - A section with several substantial children names its main sub-discussions in its summary, so the headlines view shows them even when they sit a level down.
 - State a position plainly in a short sentence of its own, then, separately and briefly, what it does for the argument ("Three pilgrimage offerings, each with its own unique feature. Since only the *chagigah* preceded Sinai, the Sinai *olah* must have been the *tamid*."). Folding the position into a sentence about where the argument goes makes both harder to follow.
 - A distinct discussion gets its own sentence. Don't chain it onto a dispute ("…, and Abaye adds that…") as if it were one more position on the same line.
@@ -796,6 +797,8 @@ def check_output(outline: dict, d: Path) -> list[str]:
         texts += [str(x) for r in ((n.get("chart") or {}).get("rows") or []) for x in r]
         texts += re.findall(r">([^<]+)<", il.get("svg") or "")
         bad = sorted({m.group(0) for t in texts for m in re.finditer(DATA, t, re.I)})
+        if re.match(r"(?:Continuing|Returning to|Then)\b", (n.get("gist") or "").strip()):
+            probs.append(f"summary of '{n.get('title')}' opens with a participle or 'Then': give it a subject (\"The Gemara continues…\")")
         if bad:
             probs.append(f"'{n.get('title')}' spells out amounts in the case ({', '.join(bad[:3])}): write them as numerals")
         if re.search(r"<(?:path|line|polyline)\b[^>]*stroke\s*=\s*['\"]#(?:D6AE86|D8B38E)", il.get("svg") or "", re.I):
