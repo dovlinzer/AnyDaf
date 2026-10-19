@@ -2,7 +2,7 @@
  * page defines (web app, or the WebView wrapper in the phone apps), with fallbacks here. */
 .ado{
   --ado-ink:var(--ink,#1A1F2E);--ado-muted:var(--muted,#5B6478);--ado-line:var(--line,#DCE0EA);
-  --ado-panel:var(--panel,#FFFFFF);--ado-l2:var(--l2,#3A62A8);--ado-blue:var(--blue,#1B3A8A);--ado-teal:var(--teal,#2C6A6E);
+  --ado-panel:var(--panel,#FFFFFF);--ado-mat:color-mix(in srgb,var(--ado-ink) 7%,var(--ado-panel));--ado-l2:var(--l2,#3A62A8);--ado-blue:var(--blue,#1B3A8A);--ado-teal:var(--teal,#2C6A6E);
   --ado-teal-line:var(--teal-line,#B9D3D4);--ado-amber:var(--amber,#9A6212);--ado-amber-soft:var(--amber-soft,#FBF1DF);
   --ado-grey-soft:var(--grey-soft,#EEF0F4);--ado-link:var(--link,#6B4FA0);--ado-term:var(--term,#E4EAF8);
   --ado-current:var(--current,#1B3A8A);--ado-ok:var(--ok,#24592E);--ado-no:var(--no,#8C2F2F);
@@ -44,10 +44,11 @@
 .ado .ado-sage{font:inherit;color:var(--ado-teal);background:none;border:0;border-bottom:1px dotted var(--ado-teal);padding:0;cursor:pointer}
 .ado .ado-sage:hover{border-bottom-style:solid}
 .ado[data-no-sages] .ado-sage{color:inherit;border-bottom-color:transparent;pointer-events:none}
-.ado .ado-chartw{margin:18px 0;margin-inline:12px 0}
-.ado .ado-ill{margin:18px 0}
-.ado .ado-ibox,.ado .ado-ill figcaption{max-width:min(90%,720px);margin-inline:auto}
-@media (max-width:600px){.ado .ado-chartw{margin-inline-start:6px}.ado .ado-ibox,.ado .ado-ill figcaption{max-width:none}}
+/* charts and pictures sit on a light gray mat, their white boxes inside it */
+.ado .ado-chartw{margin:18px 0;margin-inline:12px 0;padding:12px;background:var(--ado-mat);border-radius:8px}
+.ado .ado-ill{max-width:min(90%,744px);box-sizing:border-box;margin:18px auto;padding:12px;background:var(--ado-mat);border-radius:8px}
+
+@media (max-width:600px){.ado .ado-chartw{margin-inline-start:6px}.ado .ado-ill{max-width:none;padding:8px}.ado .ado-chartw{padding:8px}}
 .ado .ado-chart{overflow-x:auto;background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px}
 .ado .ado-chartw>.ado-key{margin-top:6px;width:fit-content;max-width:100%;box-sizing:border-box;padding:8px 12px;border:1px solid var(--ado-line);border-radius:6px;background:var(--ado-panel)}
 .ado .ado-chart caption{caption-side:top;text-align:start;font:600 14px/1.35 var(--ado-sans);color:var(--ado-ink,inherit);padding:10px 12px 2px}
