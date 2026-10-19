@@ -249,9 +249,17 @@ Write 8 multiple-choice questions on the daf, in `quiz`, in the order of the Gem
 - `line` is the Sefaria label where the answer is found, from the lines you were given.
 - Same markup as the bullets: Hebrew and Aramaic terms in single-asterisk italics.
 
+## Daf summary
+Write it last, in `daf_summary`, from your own outline: nothing that isn't in the sections. It closes the page as a panel the reader opens to review the daf.
+- `summary`: one sentence, "Discussion of: …", naming the daf's main topics in order, each with its positions in a few words. It also heads the page.
+- `takeaways`: 3 to 5 bottom lines a learner should leave with: rulings, principles and the distinctions that decide them, each a full sentence that is concrete enough to stand alone. Not the shakla ve'tarya (who asked what), and not the section titles restated. `sections` lists the ids it comes from.
+- `debates`: 2 to 4 of the daf's main disputes, the ones the daf is built around. `question` as a question; `sides`, each {"who", "view"}, with the parties named as in the outline and the view in a short clause; `outcome`: how it comes out (a ruling, the Gemara's resolution, or that it is left open), or null when the daf moves on without one; `sections`.
+- `key_terms`: 3 to 6 of your `key_terms`, written exactly as their `term`, only the ones the takeaways and debates turn on.
+- The same voice and markup as the rest of the outline: Hebrew and Aramaic terms in single-asterisk italics, numbers as numerals by the rules above.
+
 ## Output
 Return only a JSON object, with no prose before or after it and no code fence, in exactly the shape of the example:
-{"daf", "scope": {"start", "end"}, "sections": [node], "key_terms": [term], "sages": [sage], "quiz": [question], "judgment_calls": [string], "coverage_notes": [string], "runners_up": {"charts": [{"section", "subject", "why_not"}], "illustrations": [{"section", "subject", "why_not"}]}, "tag_questions": [{"section", "cell", "note"}]}
+{"daf", "scope": {"start", "end"}, "sections": [node], "key_terms": [term], "sages": [sage], "quiz": [question], "daf_summary": {"summary", "takeaways": [{"text", "sections": [id]}], "debates": [{"question", "sides": [{"who", "view"}], "outcome": string|null, "sections": [id]}], "key_terms": [string]}, "judgment_calls": [string], "coverage_notes": [string], "runners_up": {"charts": [{"section", "subject", "why_not"}], "illustrations": [{"section", "subject", "why_not"}]}, "tag_questions": [{"section", "cell", "note"}]}
 node = {"id": "s1", "title", "amud", "text": {"from", "to"}, "gist", "flag"?, "bullets": [{"text", "detail": 2|3, "source": "gemara"|"shiur"}], "chart"?: {"title", "caption"?, "columns": [string], "rows": [[string]] (a cell may hold "\n" line breaks), "tags"?: [[string|null]]}, "illustration"?: {"title", "caption", "svg"}, "returns_to"?: [{"id", "note"}], "continues"?: string, "children": [node]}
 question = {"q", "options": [string, string, string, string] (the right one first), "why", "line"}
 term = {"term", "hebrew", "sense", "definition", "on_this_daf", "aliases": [string], "sections": [id]}
@@ -852,6 +860,30 @@ def check_output(outline: dict, d: Path) -> list[str]:
         probs.append(f"{pics} illustrations (target 4-7)")
     if outline.get("key_terms") is not None:
         probs += [f"key term: {p}" for p in check_terms(outline, outline, d) if "may be fine" not in p]
+    ds = outline.get("daf_summary")
+    if not isinstance(ds, dict):
+        probs.append("no daf_summary")
+    else:
+        ids = {n["id"] for n in nodes}
+        terms = {t.get("term") for t in outline.get("key_terms") or []}
+        if not str(ds.get("summary") or "").startswith("Discussion of"):
+            probs.append("daf_summary.summary should start 'Discussion of:'")
+        if not 3 <= len(ds.get("takeaways") or []) <= 5:
+            probs.append(f"daf_summary has {len(ds.get('takeaways') or [])} takeaways (3-5 asked)")
+        if not 2 <= len(ds.get("debates") or []) <= 4:
+            probs.append(f"daf_summary has {len(ds.get('debates') or [])} debates (2-4 asked)")
+        for x in (ds.get("takeaways") or []) + (ds.get("debates") or []):
+            bad = [i for i in x.get("sections") or [] if i not in ids]
+            if bad or not x.get("sections"):
+                probs.append(f"daf_summary item needs section ids from the outline (bad: {bad})")
+        for db in ds.get("debates") or []:
+            if len(db.get("sides") or []) < 2:
+                probs.append(f"daf_summary debate '{db.get('question')}' needs at least two sides")
+        missing = [t for t in ds.get("key_terms") or [] if t not in terms]
+        if missing:
+            probs.append(f"daf_summary key_terms not in key_terms: {missing}")
+        if not 3 <= len(ds.get("key_terms") or []) <= 6:
+            probs.append(f"daf_summary has {len(ds.get('key_terms') or [])} key terms (3-6 asked)")
     quiz = outline.get("quiz")
     if quiz is None:
         probs.append("no quiz")

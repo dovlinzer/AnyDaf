@@ -162,3 +162,25 @@
 .ado.ado-collapsible .ado-foldbar+.ado-l1{margin-top:4px;padding-top:0}
 
 .ado[data-no-badges] .ado-badge,.ado[data-no-badges] .ado-key{display:none!important}
+
+/* daf summary: a closed panel after the last section */
+.ado .ado-sum{margin:36px 0 12px;padding:14px 18px 16px;background:var(--ado-mat);border-radius:8px}
+.ado .ado-sumtog{font:600 1.05rem/1.3 var(--ado-serif);color:var(--ado-blue);background:none;border:0;padding:0;cursor:pointer;display:flex;align-items:center;gap:8px}
+.ado .ado-sumtog::before{content:"";width:0;height:0;border-inline-start:6px solid currentColor;border-block:5px solid transparent;transition:transform .15s}
+.ado .ado-sumtog[aria-expanded="true"]::before{transform:rotate(90deg)}
+.ado:where([dir="rtl"]) .ado-sumtog[aria-expanded="true"]::before{transform:rotate(-90deg)}
+.ado .ado-sumbody{margin-top:10px;background:var(--ado-panel);border:1px solid var(--ado-line);border-radius:6px;padding:4px 18px 14px}
+.ado .ado-sumbody h3{font:600 12px var(--ado-sans);text-transform:uppercase;letter-spacing:.06em;color:var(--ado-muted);margin:16px 0 6px}
+.ado .ado-tk{margin:0;padding-inline-start:20px}.ado .ado-tk li{margin:6px 0}
+.ado .ado-see{display:block;font-size:12.5px;color:var(--ado-muted);margin-top:2px}
+.ado .ado-sgo{font:inherit;color:var(--ado-l2);background:none;border:0;padding:0;cursor:pointer;text-align:start}
+.ado .ado-sgo:hover{text-decoration:underline}
+.ado .ado-deb{padding:8px 0 10px;border-top:1px solid var(--ado-line)}.ado .ado-deb:first-of-type{border-top:0}
+.ado .ado-debq{font-weight:600;margin:0 0 4px}
+.ado .ado-deb dl,.ado .ado-sumterms{display:grid;grid-template-columns:max-content 1fr;gap:3px 12px;margin:0}
+.ado .ado-deb dt,.ado .ado-sumterms dt{font-weight:600}
+.ado .ado-deb dd,.ado .ado-sumterms dd{margin:0}
+.ado .ado-debo{margin:6px 0 0}
+.ado .ado-sumterm{font:inherit;font-weight:600;background:none;border:0;padding:0;cursor:pointer;color:inherit;border-bottom:1px dotted currentColor}
+.ado .ado-heb{font-weight:400;color:var(--ado-muted)}
+@media (max-width:600px){.ado .ado-deb dl,.ado .ado-sumterms{grid-template-columns:1fr}.ado .ado-deb dd,.ado .ado-sumterms dd{margin-bottom:6px}}

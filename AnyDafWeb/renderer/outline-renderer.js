@@ -36,8 +36,8 @@
 
   // Interface words, by the outline's language (outline.lang: "he" lays the outline out right to left).
   const WORDS = {
-    en: { chart: "Chart", picture: "Illustration", key: "Key", openAll: "Open all", closeAll: "Collapse all", fold: "Show or hide this section", glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", onOther: "On", noTerms: "No key terms for this daf." },
-    he: { chart: "טבלה", picture: "איור", key: "מקרא", openAll: "פתיחת הכול", closeAll: "קיפול הכול", fold: "הצגה או הסתרה של הקטע", glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", onOther: "ב", noTerms: "אין מושגי מפתח לדף זה." },
+    en: { chart: "Chart", picture: "Illustration", key: "Key", openAll: "Open all", closeAll: "Collapse all", fold: "Show or hide this section", glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", onOther: "On", noTerms: "No key terms for this daf.", summary: "Daf summary", takeaways: "Key takeaways", debates: "Key debates", sumTerms: "Key terms", see: "See", outcome: "Outcome" },
+    he: { chart: "טבלה", picture: "איור", key: "מקרא", openAll: "פתיחת הכול", closeAll: "קיפול הכול", fold: "הצגה או הסתרה של הקטע", glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", onOther: "ב", noTerms: "אין מושגי מפתח לדף זה.", summary: "סיכום הדף", takeaways: "עיקרי הדברים", debates: "מחלוקות מרכזיות", sumTerms: "מושגי מפתח", see: "ראו", outcome: "הכרעה" },
   };
   const words = (lang) => WORDS[lang] || WORDS.en;
   const isHe = (o) => (o && o.lang) === "he";
@@ -424,8 +424,32 @@
     container.classList.toggle("ado-collapsible", !!collapsible);
     const foldbar = collapsible
       ? `<div class="ado-foldbar"><button type="button" data-foldall="1">${W.openAll}</button><button type="button" data-foldall="0">${W.closeAll}</button></div>` : "";
+    // The daf summary (outline.daf_summary): a closed panel after the last section. Takeaways and
+    // debates link to the sections they come from; its key terms are a few of the daf's own.
+    function summaryHTML(ds) {
+      if (!ds || !((ds.takeaways || []).length || (ds.debates || []).length)) return "";
+      const see = (ids) => (ids || []).filter((id) => titles[id]).length
+        ? `<span class="ado-see">${W.see}: ${(ids || []).filter((id) => titles[id]).map((id) =>
+            `<button type="button" class="ado-sgo" data-goto="${esc(id)}">${md(titles[id])}</button>`).join(" · ")}</span>` : "";
+      const tk = (ds.takeaways || []).length ? `<h3>${W.takeaways}</h3><ul class="ado-tk">${ds.takeaways.map((t) =>
+        `<li>${md(t.text)} ${see(t.sections)}</li>`).join("")}</ul>` : "";
+      const db = (ds.debates || []).length ? `<h3>${W.debates}</h3>${ds.debates.map((d) => `<div class="ado-deb">
+          <p class="ado-debq">${md(d.question)}</p>
+          <dl>${(d.sides || []).map((x) => `<dt>${md(x.who)}</dt><dd>${md(x.view)}</dd>`).join("")}</dl>
+          ${d.outcome ? `<p class="ado-debo"><b>${W.outcome}:</b> ${md(d.outcome)}</p>` : ""}${see(d.sections)}</div>`).join("")}` : "";
+      const terms = (ds.key_terms || []).map((name) => {
+        const i = keyTerms.findIndex((t) => t.term === name);
+        const t = keyTerms[i];
+        if (!t) return "";
+        const short = String(t.definition || "").split(/(?<=[.!?])\s/)[0];
+        return `<dt><button type="button" class="ado-term ado-sumterm" data-term="${i}"><i>${esc(t.term)}</i></button>${t.hebrew ? ` <span class="ado-heb" lang="he">${esc(t.hebrew)}</span>` : ""}</dt><dd>${md(short)}</dd>`;
+      }).join("");
+      return `<section class="ado-sum"><button type="button" class="ado-sumtog" aria-expanded="false">${W.summary}</button>
+        <div class="ado-sumbody" hidden>${tk}${db}${terms ? `<h3>${W.sumTerms}</h3><dl class="ado-sumterms">${terms}</dl>` : ""}</div></section>`;
+    }
+
     container.innerHTML = (glance && !collapsible ? `<div class="ado-glwrap"></div>` : "") + foldbar
-      + (outline.sections || []).map((n) => nodeHTML(n, 1)).join("");
+      + (outline.sections || []).map((n) => nodeHTML(n, 1)).join("") + summaryHTML(outline.daf_summary);
 
     const sections = flat(outline.sections).map(({ n, depth }) => {
       const el = container.querySelector(`.ado-node[data-id="${CSS.escape(n.id)}"]`);
@@ -454,6 +478,11 @@
       if (f) { toggle(f.closest(".ado-node")); return; }
       const fa = e.target.closest("[data-foldall]");
       if (fa) { setAll(fa.dataset.foldall === "1"); return; }
+      const st = e.target.closest(".ado-sumtog");
+      if (st) { setSummary(st.getAttribute("aria-expanded") !== "true"); return; }
+      const sgo = e.target.closest(".ado-sgo");
+      if (sgo) { const id = sgo.dataset.goto; if (collapsible && byId[id]) setOpen(byId[id].el, true);
+                 scrollToSection(id); onSection && onSection(id); return; }
       const g = e.target.closest(".ado-ret");
       if (g) { scrollToSection(g.dataset.goto); onSection && onSection(g.dataset.goto); return; }
       const h = e.target.closest(".ado-head");
@@ -468,6 +497,13 @@
       if (b) b.setAttribute("aria-expanded", String(on));
     }
     function toggle(el) { setOpen(el, !el.classList.contains("ado-open")); }
+    function setSummary(on) {
+      const b = container.querySelector(".ado-sumtog"), body = container.querySelector(".ado-sumbody");
+      if (!b) return false;
+      b.setAttribute("aria-expanded", String(on));
+      body.hidden = !on;
+      return true;
+    }
     function setAll(on) { sections.forEach((s) => setOpen(s.el, on)); }
 
     return {
@@ -475,6 +511,9 @@
       scrollToSection,
       setLevel(lv) { container.dataset.level = String(lv); },
       setGlanceDepth(d) { inline && inline.setDepth(d); },
+      hasSummary: !!container.querySelector(".ado-sum"),
+      // open the daf summary and bring it into view
+      openSummary() { if (setSummary(true)) container.querySelector(".ado-sum").scrollIntoView({ behavior: "smooth", block: "start" }); },
       setOption(name, on) { container.toggleAttribute(`data-no-${name}`, !on); },
       // collapsible outlines: open a section (its own text), or open / fold them all
       open(id) { if (collapsible && byId[id]) setOpen(byId[id].el, true); },

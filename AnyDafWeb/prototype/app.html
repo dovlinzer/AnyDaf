@@ -623,7 +623,7 @@ function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch
 // the code goes through tr(), keyed by the English.
 const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='he'||q==='en'){prefs.ui=q;savePrefs()}return prefs.ui==='he'?'he':'en'})();
 const RTL=UI==='he';
-const HEW={
+const HEW={'Daf summary':'סיכום הדף',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
  "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
@@ -734,7 +734,7 @@ function renderDaf(d){
  if(d.outline){
   // the daf's title and one-sentence summary frame the outline
   $('outTitle').textContent=RTL?dispTitle(d):d.title.replace(/ \([^)]*\)$/,'');
-  const sm=d.summary||'';$('outSum').hidden=!sm;$('outSum').innerHTML=sm?md(sm).replace(/^(Discussions? of:)/,'<b>$1</b>'):'';$('outHead').hidden=false;
+  const sm=(d.outline.daf_summary&&d.outline.daf_summary.summary)||d.summary||'';$('outSum').hidden=!sm;$('outSum').innerHTML=sm?md(sm).replace(/^(Discussions? of:)/,'<b>$1</b>'):'';$('outHead').hidden=false;
   view=AnyDafOutline.render($('outline'),{outline:d.outline,keyTerms:terms,onTerm:i=>openGloss(i),onSection:id=>setCurrent(id,true),glanceDepth:gd,onGlanceDepth:onDepth,
    glanceOpen:prefs.glanceOpen===true,onGlanceOpen:o=>{prefs.glanceOpen=o;savePrefs()},
    sages:d.sages||[],onSage:i=>openSage(i),collapsible:prefs.collapse!==false});
@@ -742,7 +742,10 @@ function renderDaf(d){
   // Open all / Collapse all sit under the title and summary, above the outline's first line
   $('outHead').querySelectorAll('.ado-foldbar').forEach(x=>x.remove());
   const fb=$('outline').querySelector(':scope>.ado-foldbar');
-  if(fb){$('outHead').appendChild(fb);fb.onclick=e=>{const b=e.target.closest('[data-foldall]');if(b)view.setAll(b.dataset.foldall==='1')}}
+  if(fb){$('outHead').appendChild(fb);
+   // the daf summary panel at the end of the outline: a button here opens it and goes there
+   if(view.hasSummary){const sb=document.createElement('button');sb.type='button';sb.dataset.sum='1';sb.className='sumbtn';sb.textContent=tr('Daf summary');fb.appendChild(sb)}
+   fb.onclick=e=>{if(e.target.closest('[data-sum]')){view.openSummary();return}const b=e.target.closest('[data-foldall]');if(b)view.setAll(b.dataset.foldall==='1')}}
   // each daf opens folded unless Settings → "Start with sections open"
   if(prefs.foldOpen)view.setAll(true);
   applyOptions();
