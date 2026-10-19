@@ -32,7 +32,8 @@
   "use strict";
 
   const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-  const md = (s) => esc(s).replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>").replace(/\*([^*]+)\*/g, "<i>$1</i>");
+  // **bold** may hold *italics* ("**not a *bekhor***")
+  const md = (s) => esc(s).replace(/\*\*((?:[^*]|\*[^*]+\*)+)\*\*/g, "<b>$1</b>").replace(/\*([^*]+)\*/g, "<i>$1</i>");
 
   // Interface words, by the outline's language (outline.lang: "he" lays the outline out right to left).
   const WORDS = {

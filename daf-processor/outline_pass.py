@@ -20,8 +20,11 @@ still sent, as it would be in production.
 
 Each model gets its own batch, so one model's slow queue doesn't hold back the others.
 
-The worked example in the prompt is outline/example_chagigah_6.json, the hand-built outline
-the author approved (2026-09-23). Keep Chagigah 6 out of any test set — it is the answer key.
+The worked examples in the prompt are outline/example_bekhorot_13.json and
+outline/example_bava_metzia_3.json: V2 outlines (2026-10-18) finished by hand to the author's review
+and the later rules, with a daf summary each (2026-10-19). Keep Bekhorot 13 and Bava Metzia 3 out of
+any test set — they are the answer key. (Chagigah 6, the earlier example, still pairs with its Hebrew
+version as hebrew_pass.py's model.)
 
 Usage:
     python -u outline_pass.py --dafim gittin_18 shabbat_21 --models claude-sonnet-5 claude-opus-5
@@ -42,7 +45,9 @@ load_dotenv(Path(__file__).parent / ".env", override=True)
 
 HERE = Path(__file__).parent
 OUTPUT = HERE / "output"
-EXAMPLE = HERE / "outline" / "example_chagigah_6.json"
+EXAMPLES = [("Bekhorot 13", HERE / "outline" / "example_bekhorot_13.json"),
+            ("Bava Metzia 3", HERE / "outline" / "example_bava_metzia_3.json")]
+EXAMPLE_KEYS = {"bekhorot_13", "bava_metzia_3"}
 SPRITE = HERE / "outline" / "sprite.svg"      # shared figure/animal symbols the illustrations draw on
 STATE_DIR = HERE / "outline"
 RESULTS = HERE / "outline" / "results"
@@ -70,7 +75,7 @@ You receive: the shiur's segmentation (the lecture's own section titles, in lect
 
 ## Structure: this is the heart of the task
 - Build the hierarchy from the logic of the sugya, not from the shiur segmentation. The segmentation is flat and follows the lecture; use it only as a guide to where topics change.
-- A top-level section is a self-contained discussion. Its children are the parts of that discussion. Children share the parent's question even when their topics differ: in the example, "The Olah at Mount Sinai" holds the positions of the tanna'im, the working out of those positions, R. Yosi HaGlili's baraita, the realignment of R. Yishmael and the parsing of the verse. They are different topics in one bucket, because they all serve the question of what the olah at Sinai was.
+- A top-level section is a self-contained discussion. Its children are the parts of that discussion. Children share the parent's question even when their topics differ: in the Bekhorot 13 example, "Acquiring from a Gentile by *Kesef* or by *Meshikhah*" holds R. Oshaya's baraita, the purchase in each direction, and Ameimar's view under R. Yochanan and Reish Lakish, with its excursion into *ona'ah* and robbing a gentile. They are different topics in one bucket, because they all serve the question of which act acquires between a Jew and a gentile.
 - Nest as deep as the logic requires: often two or three levels, sometimes four. A section with no natural parts has no children; don't invent a single child.
 - Anchor every section to the Gemara lines it covers with `"text": {"from": "6a.8", "to": "6a.15"}`, using the bracketed labels on the Sefaria lines you are given (a label from the previous amud, such as "5b.24", is fine when the section starts there). A parent's range spans its children's. Ranges follow the Gemara's order; a section that `returns_to` an earlier one still anchors to where it falls in the text. The app uses these anchors to scroll the Gemara text in step with the outline, so they must be exact.
 - Keep the Gemara's order. Never move a section. When the Gemara returns to an earlier point, leave the section where it falls and add a `returns_to` link to the earlier section's id, with a short note.
@@ -126,7 +131,7 @@ Same voice as the summaries. Each bullet is one complete thought you would say t
 - `detail`: 2 for the main steps (the standard view); 3 for supporting detail (proof texts, secondary steps, fine points) shown only in the detailed view. Standard view should read as a complete, compact account.
 - `source`: "gemara" for what the text itself says, grounded in the Sefaria translation; "shiur" for the lecturer's analysis, including rishonim and acharonim brought in the shiur and conceptual framing. Never present shiur analysis as the Gemara's. Never state Gemara content that isn't in the provided text.
 - When a Mishnah or baraita is one tanna's view, open its bullet with the label and the tanna in parentheses: "Mishnah (Beit Shammai): …", "Mishnah (R. Meir): …". This is the one place a parenthesis beats a sentence; never "The Mishnah, by Beit Shammai".
-- Mark Hebrew and Aramaic terms in *italics* with single asterisks, as the example does, in headings and summary lines as well as bullets and charts ("Sumakhos Divides Only Where There Is *Derara de'Mamona*"). In a picture, set a transliterated word in italics with `<tspan font-style="italic">`. No other markup, except the ruling words in a chart cell (see Charts).
+- Mark Hebrew and Aramaic terms in *italics* with single asterisks, as the examples do, in headings and summary lines as well as bullets and charts ("Sumakhos Divides Only Where There Is *Derara de'Mamona*"). In a picture, set a transliterated word in italics with `<tspan font-style="italic">`. No other markup, except the ruling words in a chart cell (see Charts).
 - Rulings are "permitted" and "forbidden", never "prohibited": "Prohibited" and "Permitted" look alike at a glance. The same in charts and pictures.
 - Name the Gemara's moves precisely, not in the Sefaria translation's wording: a *kushya* or *meitivei* is a challenge or objection; a *ba'ya* is a question. Almost never write "dilemma": keep it for a real choice between two equally weighty options.
 
@@ -210,7 +215,7 @@ Weaker and stronger choices, from BM 2:
 | Storekeeper and laborer | The parties' claims, without the document or the ruling | The document divided, with the ruling captioned under the storekeeper |
 | *Derara de'mamona* | A general scene | The term as a label, with a cow and calf as the case |
 Rules:
-- Every label is exact text: names as the text has them, a Hebrew or Aramaic key phrase where it helps (as in the example), nothing the outline doesn't support. Never depict God.
+- Every label is exact text: names as the text has them, a Hebrew or Aramaic key phrase where it helps (as in the examples), nothing the outline doesn't support. Never depict God.
 - Pictures read left to right, since the page is in English: a sequence, a list, or a set of items being compared runs left to right in the order the text gives it (the Mishnah's oven, *kupach* and stove, in that order). A picture of a real physical layout (the Temple, a courtyard, directions) follows the real arrangement and labels the directions instead. Give each Hebrew `<text>` element `direction="rtl"`.
 - Draw with simple shapes plus the shared figure library below, which the page already contains: reference symbols with `<use href="#id" x y width height/>` and never redefine them, and never draw a person of your own. Which figure for whom:
   - `#sage` for a tanna, an amora, or any voice that rules on the case (scholar's mantle and scroll), at width w and height 1.75w, colored per figure with `style="color:<robe>;--beard:<color>;--wrap:<head-cloth>;--mantle:<color>"`. Sages stand plainly: no waving, no tallit or tzitzit, no modern dress.
@@ -220,7 +225,7 @@ Rules:
   - objects that change hands: `#coins`, `#coin`, `#document` (a note, a get, a bill of sale), `#garment`; animals `#lamb`, `#ram`, `#goat`, `#bull`.
   - `#bubble`, `#bubble-r`, `#thought`, `#thought-r` stretch to any width and height you give them.
   - outcome badges, the same set the charts use: `#badge-pays`, `#badge-exempt`, `#badge-oath`, `#badge-no-oath`, `#badge-divides`, `#badge-keeps` (the item in hand, as `#badge-acquires`), `#badge-no-claim`, `#badge-returns`, `#badge-not-returned`, `#badge-holds`, `#badge-follows`, `#badge-acquires`, `#badge-not-acquired`, `#badge-permitted`, `#badge-forbidden` (square, about 26-32 wide). Wherever a picture shows an outcome, place its badge beside it: under a figure next to what that party does or gets, or in a ruling band between the sage and his ruling, one badge per opinion. The words always appear with the badge.
-- `viewBox="0 0 900 H"` with H between 380 and 560, or up to 620 for a picture with a case band and a ruling band. Start with a full-size background rect. Use the example's palette of soft panel colors, its font families (Newsreader for titles, Public Sans for labels, Frank Ruhl Libre for Hebrew) and minimum text size 12. Keep every element inside the viewBox. No text may run over or touch a drawing, a line, a figure or another label: a line's label sits beside the line in open space, never on it; place labels in open space, and where room is short, break the label onto two lines, shorten it, or move or shrink the drawing to make room. Before finishing each picture, check every label's extent against what lies beneath it.
+- `viewBox="0 0 900 H"` with H between 380 and 560, or up to 620 for a picture with a case band and a ruling band. Start with a full-size background rect. Use the examples' palette of soft panel colors, its font families (Newsreader for titles, Public Sans for labels, Frank Ruhl Libre for Hebrew) and minimum text size 12. Keep every element inside the viewBox. No text may run over or touch a drawing, a line, a figure or another label: a line's label sits beside the line in open space, never on it; place labels in open space, and where room is short, break the label onto two lines, shorten it, or move or shrink the drawing to make room. Before finishing each picture, check every label's extent against what lies beneath it.
 - Give the root `<svg>` `role="img"` and a `<title>` describing the scene. No scripts, no external images or links, no `<style>` blocks, no ids that could collide with the library's.
 - Show rulings in color, the same way every time, because it makes a big difference for visual learners: whatever the picture marks as permitted is green (text `#24592E`, or `#mark-ok` beside it), whatever it marks as forbidden is red (text `#8C2F2F`, or `#mark-no`). Use the marks wherever a case in the picture has a ruling. Only rulings get these colors.
 - When a picture sets out a debate over a ruling, make the difference jump out. Word the opinions in parallel, so that only the contested words differ ("both collect with an oath" / "both collect without an oath", not "both swear and collect" / "no oath"), and set those contested words 1px larger, bold, each opinion in its own color. Mark the whole ruling, not just the word that differs: "**can obligate** an oath" / "**cannot obligate** an oath", never "**can** obligate" / "**cannot** obligate", since "can" alone doesn't tell the reader what is ruled. The same goes for the ruling words in a chart cell. Use green and red only when the opinions really are permitted against forbidden; otherwise use a contrasting pair that carries no verdict, such as blue (#1B3A8A) and amber (#9A6212), the same pair for the same two sides throughout the daf. The reason that follows each opinion stays in the plain text color.
@@ -258,7 +263,7 @@ Write it last, in `daf_summary`, from your own outline: nothing that isn't in th
 - The same voice and markup as the rest of the outline: Hebrew and Aramaic terms in single-asterisk italics, numbers as numerals by the rules above.
 
 ## Output
-Return only a JSON object, with no prose before or after it and no code fence, in exactly the shape of the example:
+Return only a JSON object, with no prose before or after it and no code fence, in exactly the shape of the examples:
 {"daf", "scope": {"start", "end"}, "sections": [node], "key_terms": [term], "sages": [sage], "quiz": [question], "daf_summary": {"summary", "takeaways": [{"text", "sections": [id]}], "debates": [{"question", "sides": [{"who", "view"}], "outcome": string|null, "sections": [id]}], "key_terms": [string]}, "judgment_calls": [string], "coverage_notes": [string], "runners_up": {"charts": [{"section", "subject", "why_not"}], "illustrations": [{"section", "subject", "why_not"}]}, "tag_questions": [{"section", "cell", "note"}]}
 node = {"id": "s1", "title", "amud", "text": {"from", "to"}, "gist", "flag"?, "bullets": [{"text", "detail": 2|3, "source": "gemara"|"shiur"}], "chart"?: {"title", "caption"?, "columns": [string], "rows": [[string]] (a cell may hold "\n" line breaks), "tags"?: [[string|null]]}, "illustration"?: {"title", "caption", "svg"}, "returns_to"?: [{"id", "note"}], "continues"?: string, "children": [node]}
 question = {"q", "options": [string, string, string, string] (the right one first), "why", "line"}
@@ -270,7 +275,8 @@ Before you finish, check every chart once more: parties (tanna'im, amora'im, sch
 ## Figure library (already on the page; reference these ids, never redefine them)
 {LIBRARY}
 
-## Worked example: Chagigah 6, approved by the author as the model
+## Worked examples, approved by the author as the model
+Two dafim, outlined in full. Follow their method, voice and markup; their content is theirs alone.
 """
 
 
@@ -498,23 +504,7 @@ def sage_candidates(d: Path, scope) -> str:
 
 
 EXCEPTIONS = HERE / "outline" / "transliteration_exceptions.json"
-KEY_TERMS_EXAMPLE = HERE / "outline" / "key_terms_example_chagigah_6.json"
-# Editorial runners-up for the worked example (never shown to learners).
-EXAMPLE_RUNNERS_UP = {
-    "charts": [
-        {"section": "s1", "subject": "The lame and the blind child under each school",
-         "why_not": "Two cases and one principle (Abaye's rule); the bullets carry it without a grid."},
-        {"section": "s9", "subject": "The two readings of Shemot 24:5",
-         "why_not": "One question with two readings and no further dimensions; a chart would repeat the bullets."},
-    ],
-    "illustrations": [
-        {"section": "s10", "subject": "The five mitzvot with no fixed measure",
-         "why_not": "A list of mitzvot, not a scene or a comparison; nothing to picture."},
-    ],
-}
-
-
-# The worked example's sages (the example itself predates the field). Rebbi and R. Yochanan show
+# Chagigah 6's sages (the earlier worked example, still hebrew_pass.py's model and shown on the site). Rebbi and R. Yochanan show
 # the id-null case: Rebbi's bare "רבי" isn't matched locally, and R. Yochanan comes from the shiur.
 # Shmuel in 6a.3 is the prophet and is left out.
 EXAMPLE_SAGES = [
@@ -550,11 +540,9 @@ def exceptions_text() -> str:
 
 
 def example_text() -> str:
-    ex = json.loads(EXAMPLE.read_text(encoding="utf-8"))
-    ex["key_terms"] = json.loads(KEY_TERMS_EXAMPLE.read_text(encoding="utf-8"))["key_terms"]
-    ex["sages"] = EXAMPLE_SAGES
-    ex["runners_up"] = EXAMPLE_RUNNERS_UP
-    return json.dumps(ex, ensure_ascii=False, indent=1)
+    # compact JSON: the examples are about a third of the prompt, and indentation is pure overhead
+    return "".join(f"\n### {name}\n" + json.dumps(json.loads(p.read_text(encoding="utf-8")), ensure_ascii=False, separators=(",", ":"))
+                   for name, p in EXAMPLES)
 
 
 def system_blocks() -> list[dict]:
@@ -795,7 +783,8 @@ def check_output(outline: dict, d: Path) -> list[str]:
         if len(small) + len(re.findall(r"\b\d+\b", t)) >= 2 and small:
             probs.append(f"heading '{t}' sets numbers side by side: write them all as numerals")
         for s in [n.get("gist") or ""] + [b.get("text", "") for b in n.get("bullets") or []]:
-            if re.search(r"\bover the (?:garment|item|animal|money|field|note|deposit)\b", s):
+            # not "hands over the money", where over belongs to the verb
+            if re.search(r"(?<!hand )(?<!hands )(?<!handed )(?<!handing )\bover the (?:garment|item|animal|money|field|note|deposit)\b", s):
                 probs.append(f"'over the …' in '{n.get('title')}': use 'regarding' or 'in the case of'")
     NUMW = r"(?:two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred)"
     DATA = rf"\b(?:{NUMW})\s+(?:zuz|dinars?|dinarim|sela'?im|sela|ma'?neh|manim|perutah|perutot|coins|silver|gold|cubits?|amot|tefachim|handbreadths|fingerbreadths|days|years)\b|\b(?:claims?|admits?|admitted|denies|denied|owes|lent|pays?|paid|hands? over|handed over|returns?)\s+(?:only\s+|the\s+other\s+|all\s+)?(?:{NUMW})\b"
@@ -983,8 +972,8 @@ def main():
         key, d, textonly = parse_spec(spec)
         if not (d / "sefaria.md").exists():
             sys.exit(f"no sefaria.md for {spec} (looked in {d})")
-        if d.name == "chagigah_6":
-            sys.exit("chagigah_6 is the worked example; leave it out of the run")
+        if d.name in EXAMPLE_KEYS:
+            sys.exit(f"{d.name} is a worked example; leave it out of the run")
 
     runs = [(m, e) for m in args.models for e in (args.efforts or [None])]
     sys_chars = len(system_blocks()[0]["text"])
