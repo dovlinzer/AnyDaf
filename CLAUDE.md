@@ -1467,7 +1467,8 @@ levels, optional charts, 4–5 SVG illustrations, `returns_to` links when the Ge
 | File | Role |
 |---|---|
 | `outline_pass.py` | Batch API pass (one batch per model). `--dafim x y:textonly`; `--dry-run`. Writes `outline/results/<key>/04_outline_<model>.json` |
-| `outline/example_chagigah_6.json` | The author-approved worked example embedded in the prompt. **Never include Chagigah 6 in a test set** |
+| `outline/example_bekhorot_13.json`, `outline/example_bava_metzia_3.json` | The worked examples in the prompt since 2026-10-19 (V2 outlines finished by hand, with daf summaries; on the site as "(Example)"). **Never include Bekhorot 13 or BM 3 in a test set** |
+| `outline/example_chagigah_6.json` | The earlier example (2026-09-23); now only `hebrew_pass.py`'s English/Hebrew model pair |
 | `outline/sprite.svg` | Shared SVG symbols (sage, man, woman, child, lamb, ram, goat, bull, gradients) the illustrations reference by id |
 | `outline/textonly/<daf>/` | Hand-assembled `sefaria*.md` for dafim with no output dir (e.g. `shabbat_38`) |
 | `build_outline_review.py` | Bundles results into one side-by-side review page; sanitizes model-written SVG |
