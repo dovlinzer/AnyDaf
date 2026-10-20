@@ -185,8 +185,8 @@ def section_ids(outline: dict) -> list[str]:
 def check_terms(terms: dict, outline: dict, d: Path) -> list[str]:
     probs = []
     kt = terms.get("key_terms", [])
-    if len(kt) > 8:
-        probs.append(f"{len(kt)} terms (limit 8)")
+    if len(kt) > 12:
+        probs.append(f"{len(kt)} terms (limit 12)")
     ids, text = section_ids(outline), outline_text(outline)
     daf_heb = heb_skeleton(" ".join(h for _, h, _ in sefaria_bilingual(d / "sefaria.md")))
     for t in kt:

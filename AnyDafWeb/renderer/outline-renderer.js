@@ -223,7 +223,7 @@
   };
   // outcomes that are neither good nor bad take a contrasting pair with no verdict, as in the pictures:
   // blue for one side, amber for its opposite (the ruling words in a cell; see cellHTML)
-  const PAIR = { pays: "a", exempt: "b", oath: "a", "no-oath": "b", divides: "a", keeps: "b", takes: "a" };
+  const PAIR = { pays: "a", exempt: "b", oath: "a", "no-oath": "b", divides: "a", keeps: "b", takes: "a", holds: "b" };
   // shares show full size ("3/4"): the single fraction characters read too small (author, 2026-10-18)
   const FRAC = {};
   function tagInfo(tag, he) {
