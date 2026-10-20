@@ -1802,6 +1802,9 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   `daf-processor/outline/.page_cache/`). Artifacts can't load outside images or call Supabase from
   the viewer's browser, so the images ship as published files and `--source supabase` pulls from
   Supabase at build time (verified identical to the local build).
+  The hosted build (`--feedback`, Vercel) no longer bundles the scans (2026-10-20): they load through
+  `api/dafImage` like every other daf, since each Vercel deployment keeps a full copy of the site and
+  the scans (80 of 119 MB) filled the account's storage. Keep only the latest two deployments.
 - `daf-processor/anchor_pass.py` (2026-09-24) added `text` anchors to the 11 test outlines after the
   fact: Sonnet 5, effort medium, batch, $0.26 for 11. Original outlines kept as
   `04_outline_opus55.pre_anchors.json`. The model tended to end a parent on its own first line when
