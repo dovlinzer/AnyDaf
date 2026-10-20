@@ -550,8 +550,10 @@ def system_blocks() -> list[dict]:
     library = SPRITE.read_text(encoding="utf-8")
     text = (SYSTEM_PROMPT.replace("{LIBRARY}", library).replace("{EXCEPTIONS}", exceptions_text())
             .replace("{KEY_TERMS}", key_terms_section()))
-    # One cached block: instructions + library + example are identical across every request.
-    return [{"type": "text", "text": text + example_text(), "cache_control": {"type": "ephemeral"}}]
+    # One cached block: instructions + library + examples are identical across every request.
+    # 1-hour cache: batch requests run over many minutes, and a 5-minute entry was read on only
+    # 13 of 60 requests in the 30-daf run.
+    return [{"type": "text", "text": text + example_text(), "cache_control": {"type": "ephemeral", "ttl": "1h"}}]
 
 
 TAG_SUFFIX = ""   # --suffix: a prompt revision's results go beside the earlier ones, not over them
