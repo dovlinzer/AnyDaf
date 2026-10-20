@@ -226,12 +226,20 @@ class Supa:
         return rows[0]["final"] if rows else None
 
 
+PROXY_IMAGES = False   # hosted build: scans load through api/dafImage instead of shipping in the site
+
+
 def page_image(tractate: str, amud: str, pages: dict, key: str, out: Path) -> str | None:
     """key names the image file; two versions of one daf pass the same key and share it."""
     n, side = int(amud[:-1]), amud[-1]
     fid = pages.get(tractate, {}).get(str((n - 1) * 2 + (side == "b")))
     if not fid:
         return None
+    if PROXY_IMAGES:
+        # Each Vercel deployment keeps a full copy of the site, and the scans were two-thirds of
+        # it (80 of 119 MB), filling the account's storage. The proxy is what dafim without an
+        # outline already use; the CDN keeps each page for a year.
+        return f"api/dafImage?id={fid}"
     IMG_CACHE.mkdir(parents=True, exist_ok=True)
     raw = IMG_CACHE / f"{fid}.jpg"
     if not raw.exists():
@@ -492,6 +500,8 @@ def main():
                     help="hosted build: Flag notes go to Supabase outline_feedback (public anon key, insert only); "
                          "also marks the site noindex and writes vercel.json")
     args = ap.parse_args()
+    global PROXY_IMAGES
+    PROXY_IMAGES = args.feedback   # an artifact can't call the proxy, so it keeps image files
 
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
