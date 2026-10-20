@@ -232,6 +232,7 @@ Rules:
 - One picture, one point. Draw the contrast the section turns on and leave out what doesn't serve it: where Ben Nannas treats two cases differently, show his two cases side by side and leave the Rabbis' view out, since adding a third opinion turns a clear contrast into a puzzle.
 - Opposing claims go in separate speech bubbles, one over each party ("I gave him the food" / "I got nothing"). A line between two figures carries what they share or how they are related, never their competing claims.
 - Show each party's outcome once, in one place: on the line to him or under his figure, not both.
+- A badge states the same ruling as the marked words beside it. If the badge says "not acquired", the marked words say what fails to acquire ("**kesef does not acquire**: it is not his until he **performs meshikhah**"), not what does.
 - Badges that belong together go together: a party who swears and collects gets the oath badge and the collect badge side by side, in the same place.
 - Oath and no oath, pays and exempt, divided and kept are not good and bad outcomes: show them in the blue and amber pair, not green and red, and use the outcome badges for them, never the ✓ and ✗ marks, which are only for permitted and forbidden.
 - The caption is one or two sentences saying what the picture shows and where it comes from in the text.
