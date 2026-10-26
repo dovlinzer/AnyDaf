@@ -37,8 +37,8 @@
 
   // Interface words, by the outline's language (outline.lang: "he" lays the outline out right to left).
   const WORDS = {
-    en: { chart: "Chart", picture: "Illustration", key: "Key", openAll: "Open all", closeAll: "Collapse all", fold: "Show or hide this section", glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", onOther: "On", noTerms: "No key terms for this daf.", summary: "Daf summary", takeaways: "Key takeaways", debates: "Key debates", sumTerms: "Key terms", see: "See", outcome: "Outcome" },
-    he: { chart: "טבלה", picture: "איור", key: "מקרא", openAll: "פתיחת הכול", closeAll: "קיפול הכול", fold: "הצגה או הסתרה של הקטע", glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", onOther: "ב", noTerms: "אין מושגי מפתח לדף זה.", summary: "סיכום הדף", takeaways: "עיקרי הדברים", debates: "מחלוקות מרכזיות", sumTerms: "מושגי מפתח", see: "ראו", outcome: "הכרעה" },
+    en: { chart: "Chart", picture: "Illustration", key: "Key", openAll: "Open all", closeAll: "Collapse all", fold: "Show or hide this section", glance: "At a glance", depth: "Depth", depthLabel: "Contents depth", returns: "Returns to", onDaf: "On this daf", onOther: "On", noTerms: "No key terms for this daf.", summary: "Daf summary", takeaways: "Key takeaways", debates: "Key debates", sumTerms: "Key terms", see: "See", outcome: "Outcome", daf: "Daf" },
+    he: { chart: "טבלה", picture: "איור", key: "מקרא", openAll: "פתיחת הכול", closeAll: "קיפול הכול", fold: "הצגה או הסתרה של הקטע", glance: "במבט על", depth: "עומק", depthLabel: "עומק התוכן", returns: "חוזר אל", onDaf: "בדף זה", onOther: "ב", noTerms: "אין מושגי מפתח לדף זה.", summary: "סיכום הדף", takeaways: "עיקרי הדברים", debates: "מחלוקות מרכזיות", sumTerms: "מושגי מפתח", see: "ראו", outcome: "הכרעה", daf: "דף" },
   };
   const words = (lang) => WORDS[lang] || WORDS.en;
   const isHe = (o) => (o && o.lang) === "he";
@@ -289,6 +289,27 @@
     return `<figure class="ado-ill"><div class="ado-ibox"><div class="ado-ihead"><span class="ado-num">${W.picture} ${num}</span>${il.title ? md(il.title) : ""}</div><div class="ado-art">${il.svg}</div></div><figcaption>${md(il.caption)}</figcaption></figure>`;
   }
 
+  // The amud a section starts on ("6b" from "6b.3"), and how a divider names it: "Daf 6b",
+  // or in Hebrew "דף ו:" (a dot for amud a, a colon for amud b).
+  function startAmud(n) {
+    const m = /^(\d+)([ab])\./.exec((n.text && n.text.from) || "");
+    return m ? { daf: +m[1], side: m[2], key: m[1] + m[2] } : null;
+  }
+  function hebNum(x) {
+    const ones = "אבגדהוזחט", tens = "יכלמנסעפצ", hund = "קרשת";
+    let s = "";
+    for (; x >= 400; x -= 400) s += "ת";
+    if (x >= 100) { s += hund[Math.floor(x / 100) - 1]; x %= 100; }
+    if (x === 15) return s + "טו";
+    if (x === 16) return s + "טז";
+    if (x >= 10) { s += tens[Math.floor(x / 10) - 1]; x %= 10; }
+    return x ? s + ones[x - 1] : s;
+  }
+  function amudDivider(a, W, he) {
+    const name = he ? `${hebNum(a.daf)}${a.side === "a" ? "." : ":"}` : a.key;
+    return `<div class="ado-amudline" role="separator" aria-label="${esc(W.daf + " " + name)}"><span>${esc(W.daf)} ${esc(name)}</span></div>`;
+  }
+
   function rangeLabel(t) {
     if (!t || !t.from) return "";
     return t.from === t.to || !t.to ? t.from : `${t.from}–${t.to}`;
@@ -385,8 +406,16 @@
     // (Detailed bullets, shiur insights) gets a link without using up that first mention, so the
     // first one always stays visible.
     const termsSeen = new Set(), sagesSeen = new Set();
-    let chartN = 0, picN = 0;
+    let chartN = 0, picN = 0, lastAmud = null;
     function nodeHTML(n, depth) {
+      // A dotted line where the outline moves to a new amud, before the first section that starts
+      // on it, mirroring the page. Sections are visited in reading order, parents before children.
+      const a = startAmud(n);
+      let divider = "";
+      if (a) {
+        if (lastAmud && a.key !== lastAmud) divider = amudDivider(a, W, isHe(outline));
+        lastAmud = a.key;
+      }
       const m = (s, hideable) => (mark ? mark(md(s), hideable ? new Set(termsSeen) : termsSeen,
                                                hideable ? new Set(sagesSeen) : sagesSeen) : md(s));
       const ret = (n.returns_to || []).map((x) =>
@@ -403,7 +432,7 @@
       const own = !!(ret || gist || bullets || n.chart || n.illustration || n.continues);
       const fold = collapsible && own
         ? `<button type="button" class="ado-fold" aria-expanded="false" aria-label="${W.fold}" title="${W.fold}"></button>` : "";
-      return `<section class="ado-node ado-l${Math.min(depth, 5)}" data-id="${esc(n.id)}">
+      return `${divider}<section class="ado-node ado-l${Math.min(depth, 5)}" data-id="${esc(n.id)}">
         <div class="ado-head">${fold}<h${Math.min(depth + 1, 6)} class="ado-t">${md(n.title)}</h${Math.min(depth + 1, 6)}>
           <span class="ado-amud" title="${esc(rangeLabel(n.text))}">${esc(n.amud)}</span>
           ${n.flag ? `<span class="ado-flag">${esc(n.flag)}</span>` : ""}</div>

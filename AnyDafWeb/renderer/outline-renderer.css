@@ -187,3 +187,8 @@
 .ado .ado-sumterm{font:inherit;font-weight:600;background:none;border:0;padding:0;cursor:pointer;color:inherit;border-bottom:1px dotted currentColor}
 .ado .ado-sumterms .ado-heb{font:600 1.08em var(--ado-hebrew);color:var(--ado-ink)}
 @media (max-width:600px){.ado .ado-sumterms{grid-template-columns:1fr}.ado .ado-sumterms dd{margin-bottom:6px}}
+
+/* Amud divider: a dotted rule with the new amud's name, where the outline crosses onto it. */
+.ado .ado-amudline{display:flex;align-items:center;gap:12px;margin:24px 0 16px;color:var(--ado-blue);font:700 12px var(--ado-sans);letter-spacing:.09em;text-transform:uppercase}
+.ado .ado-amudline::before,.ado .ado-amudline::after{content:"";flex:1;border-top:2px dotted currentColor;opacity:.45}
+.ado .ado-amudline span{white-space:nowrap}
