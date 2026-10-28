@@ -1589,8 +1589,11 @@ an animal "a *shoteh* (disoriented)", the Gemara's insults "Fool"; Davidson's "i
 on lines whose Hebrew has שוטה (Sotah 27a's "insane person" is שעמום). Applied to daf_text, the
 sefaria caches, essays and segmentations (`apply_term_fixes.py`); `sefaria.py` and
 `build_daf_text.py` apply it on fetch; the outline prompt has the rule and `check_output()` flags
-"imbecile"/"insane". Keep the Python and JS rules in step. Supabase `daf_text`/`shiur_content` still
-have the old wording until re-uploaded.
+"imbecile"/"insane". The apps do the same for Sefaria's live HTML: `TermFixes` at the bottom of
+`SefariaClient.swift` and `TermFixes.kt` (Android), run in `fetchText` and, with the Hebrew, at the
+top of `parseSections`. Keep all four copies in step (Python, JS, Swift, Kotlin). Supabase
+`daf_text` and the 90 affected `shiur_content` rows were re-uploaded 2026-10-28 (plus a PATCH to the
+stale `Bekhorot 45.5` row, an orphan of the bekhorot_45b -> bekhorot_46 rename).
 
 **"Dilemma" rule (author's pet peeve, 2026-09-24):** Sefaria's translation says "dilemma" loosely;
 the prompt's Bullets section now asks for challenge/objection (*kushya*, *meitivei*) or question

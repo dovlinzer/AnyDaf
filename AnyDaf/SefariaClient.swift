@@ -169,10 +169,11 @@ class SefariaClient {
         guard !textArray.isEmpty else { throw SefariaError.noTextFound }
         let filtered = textArray.filter { !$0.trimmingCharacters(in: .whitespaces).isEmpty }
         guard !filtered.isEmpty else { throw SefariaError.noTextFound }
+        let worded = language == "he" ? filtered : filtered.map { TermFixes.fix($0) }
         if tractate == "Kinnim" || tractate == "Middot" {
-            return applyMishnaLabels(to: filtered, ref: ref, hebrew: language == "he")
+            return applyMishnaLabels(to: worded, ref: ref, hebrew: language == "he")
         }
-        return filtered
+        return worded
     }
 
     /// Prepends [ch:mishna] labels to each segment of a Mishnah-only tractate fetch.
@@ -257,6 +258,10 @@ class SefariaClient {
     static func parseSections(from segments: [String],
                               hebrewSegments: [String]? = nil,
                               offset: Int = 0) -> [StudySection] {
+        // The "insane" wording rules need each segment's Hebrew (see TermFixes)
+        let segments = segments.enumerated().map { i, en in
+            TermFixes.fix(en, hebrew: hebrewSegments.flatMap { i < $0.count ? $0[i] : nil })
+        }
 
         // ── Phase 1: header-based split, tracking original segment indices ──────
         // Each part stores its English text fragments AND the original segment indices
@@ -458,5 +463,118 @@ class SefariaClient {
             .replacingOccurrences(of: "&gt;", with: ">")
             .replacingOccurrences(of: "&#x27;", with: "'")
             .replacingOccurrences(of: "&quot;", with: "\"")
+    }
+}
+
+// MARK: - Wording rules
+
+/// The author's wording for the English we show (2026-10-28): שוטה is "a person with psychosis",
+/// never the William Davidson translation's "imbecile"; an animal that is a shoteh is "disoriented";
+/// where the Gemara uses the word as an insult it is "Fool". Davidson's "insane" changes only on a
+/// line whose Hebrew has שוטה (Sotah 27a's "insane person" is שעמום). Same rules as
+/// daf-processor/term_fixes.py and the web renderer's fixTerms, for Sefaria's HTML.
+enum TermFixes {
+    private static let tag = "(?:</?(?:b|strong|i|em|big|small)>)"
+    private static let sep = "((?:\\s|\(tag))+)"
+    private static let nouns = "(man|woman|partner|priest|wife|husband|person|son|daughter|girl|boy|slave)"
+    private static let animal = "a <i>shoteh</i> (disoriented)"
+    private static let develop = ["went": "developed", "goes": "develops", "go": "develop", "gone": "developed",
+                                  "had gone": "had developed", "became": "developed", "become": "develop",
+                                  "becomes": "develops"]
+
+    private typealias Rule = (NSRegularExpression, ([String]) -> String)
+
+    private static func rule(_ pattern: String, _ make: @escaping ([String]) -> String) -> Rule {
+        (try! NSRegularExpression(pattern: pattern), make)
+    }
+    private static func rule(_ pattern: String, _ template: String) -> Rule {
+        rule(pattern) { g in
+            var out = template
+            for i in stride(from: g.count - 1, through: 1, by: -1) { out = out.replacingOccurrences(of: "$\(i)", with: g[i]) }
+            return out
+        }
+    }
+    private static func art(_ a: String) -> String { a == "an" ? "a" : a == "An" ? "A" : a }
+    /// "an imbecile</b> priest" -> "a priest with psychosis</b>": opening tags stay before the noun, closing ones move after.
+    private static func withPsychosis(_ noun: String, _ between: String) -> String {
+        let tags = between.components(separatedBy: .whitespacesAndNewlines).joined()
+        let opening = tags.replacingOccurrences(of: "</[^>]+>", with: "", options: .regularExpression)
+        let closing = tags.replacingOccurrences(of: "<[^/][^>]*>", with: "", options: .regularExpression)
+        return opening + noun + " with psychosis" + closing
+    }
+
+    private static let rules: [Rule] = [
+        rule("\\b(ox|animal)((?:\\s|\(tag))+that(?:\\s|\(tag))+(?:is|was)(?:(?:\\s|\(tag))+impaired by being)?(?:\\s|\(tag))+(?:deaf,(?:\\s|\(tag))+)?)an imbecile\\b",
+             "$1$2" + animal),
+        rule("\\b([Aa])n imbecile among animals\\b", "$1 <i>shoteh</i> (a disoriented one) among animals"),
+        rule("(:\\s*\(tag)*)Imbeciles\\b", "$1Fools"),
+        rule("(:\\s*\(tag)*)Imbecile\\b(?=\(tag)*\\s*[,!])", "$1Fool"),
+        rule("\\b([Gg])reatest imbecile\\b", "$1reatest fool"),
+        rule("\\bcertain imbecile named\\b", "certain fool named"),
+        rule("\\b(merely|essentially) an imbecile\\b", "$1 a fool"),
+        rule("\\b(became|become)\(sep)imbecilic\\b") { g in develop[g[1]]! + g[2] + "psychosis" },
+        rule("\\b(became|become|becomes)\(sep)an\(sep)imbecile\\b") { g in develop[g[1]]! + g[2] + "psychosis" },
+        rule("\\btimes imbecilic\\b", "times in a state of psychosis"),
+        rule("\\b(an|An|the|The|this|This|that|That|a|A)\(sep)imbecil(?:ic|e)\(sep)\(nouns)\\b") { g in
+            art(g[1]) + g[2] + withPsychosis(g[4], g[3]) },
+        rule("\\bimbecilic\(sep)\(nouns)\\b") { g in withPsychosis(g[2], g[1]) },
+        rule("\\(imbecile\\)", "(a person with psychosis)"),
+        rule("\\bImbeciles\\b", "People with psychosis"),
+        rule("\\bimbeciles\\b", "people with psychosis"),
+        rule("\\b(an|An)\(sep)imbecile\\b") { g in art(g[1]) + g[2] + "person with psychosis" },
+        rule("\\bImbecile\\b", "Person with psychosis"),
+        rule("\\bimbecile\\b", "person with psychosis"),
+        rule("\\b(is|was|are|were|be|being)\(sep)imbecilic\\b", "$1$2in a state of psychosis"),
+        rule("\\bimbecility\\b", "psychosis"),
+    ]
+
+    private static let insaneRules: [Rule] = [
+        rule("\\b(went|goes|go|gone|had gone|became|become|becomes)\(sep)insane\\b") { g in develop[g[1]]! + g[2] + "psychosis" },
+        rule("\\b(an|An)\(sep)insane\(sep)person\\b") { g in art(g[1]) + g[2] + withPsychosis("person", g[3]) },
+        rule("\\binsane\(sep)(person|people|man|woman)\\b") { g in withPsychosis(g[2], g[1]) },
+        rule("\\b(a|A)\(sep)mentally incompetent\(sep)(person|man|woman)\\b") { g in g[1] + g[2] + withPsychosis(g[4], g[3]) },
+        rule("\\bthe mentally incompetent\\b", "people with psychosis"),
+        rule("\\b(a|A)\(sep)crazy\(sep)person\\b") { g in g[1] + g[2] + withPsychosis("person", g[3]) },
+        rule("\\bconsidered insane\\b", "considered a person with psychosis"),
+        rule("\\bappear insane\\b", "appear to be in a state of psychosis"),
+        rule("\\b(is|was|are|were|be|times)\(sep)insane\\b", "$1$2in a state of psychosis"),
+        rule("\\binsanity\\b", "psychosis"),
+    ]
+
+    private static let shotehHebrew = try! NSRegularExpression(
+        pattern: "(?<![א-ת])[והלבמשכד]{0,3}(שוט(ה|ים|ות|ית)|נשת?טה|נשתטית|נשתטו|שטיא|שוטא|שטותא)(?![א-ת])")
+
+    private static func apply(_ rules: [Rule], to text: String) -> String {
+        var s = text
+        for (re, make) in rules {
+            let ns = s as NSString
+            let matches = re.matches(in: s, range: NSRange(location: 0, length: ns.length))
+            guard !matches.isEmpty else { continue }
+            var out = "", last = 0
+            for m in matches {
+                out += ns.substring(with: NSRange(location: last, length: m.range.location - last))
+                let groups = (0..<m.numberOfRanges).map { i -> String in
+                    let r = m.range(at: i); return r.location == NSNotFound ? "" : ns.substring(with: r)
+                }
+                out += make(groups)
+                last = m.range.location + m.range.length
+            }
+            s = out + ns.substring(from: last)
+        }
+        return s
+    }
+
+    /// Fix one English segment; pass its Hebrew to apply the "insane" rules too.
+    static func fix(_ english: String, hebrew: String? = nil) -> String {
+        var s = english
+        if s.contains("mbecil") { s = apply(rules, to: s) }
+        if let he = hebrew {
+            let plain = he.replacingOccurrences(of: "[\\u0591-\\u05C7]|<[^>]+>", with: "", options: .regularExpression)
+            if !plain.contains("שעמ"),
+               shotehHebrew.firstMatch(in: plain, range: NSRange(location: 0, length: (plain as NSString).length)) != nil {
+                s = apply(insaneRules, to: s)
+            }
+        }
+        return s
     }
 }

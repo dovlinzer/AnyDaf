@@ -150,7 +150,7 @@ object SefariaClient {
         if (amud != null) {
             val special = sefariaRef(tractate, daf, amud)
             if (special != null) {
-                val segments = fetchTextV3(special, language)
+                val segments = fetchTextV3(special, language).let { if (language == "he") it else it.map { e -> TermFixes.fix(e) } }
                 return if (tractate == "Kinnim" || tractate == "Middot")
                     applyMishnaLabels(segments, special, hebrew = language == "he")
                 else segments
@@ -176,7 +176,8 @@ object SefariaClient {
         val json = JSONObject(body)
         val key = if (language == "he") "he" else "text"
 
-        return flattenTextValue(json.opt(key))
+        val segments = flattenTextValue(json.opt(key))
+        return if (language == "he") segments else segments.map { TermFixes.fix(it) }
     }
 
     /** Fetches text via the Sefaria v3 API using a direct ref string (e.g. a chapter:halakha range). */
@@ -240,8 +241,10 @@ object SefariaClient {
         return "$num$side"
     }
 
-    fun parseSections(enSegs: List<String>, heSegs: List<String>?, offset: Int = 0): List<StudySection> {
-        if (enSegs.isEmpty()) return emptyList()
+    fun parseSections(rawEnSegs: List<String>, heSegs: List<String>?, offset: Int = 0): List<StudySection> {
+        if (rawEnSegs.isEmpty()) return emptyList()
+        // The "insane" wording rules need each segment's Hebrew (see TermFixes)
+        val enSegs = rawEnSegs.mapIndexed { i, en -> TermFixes.fix(en, heSegs?.getOrNull(i)) }
 
         val maxSegments = 6
         val headerPattern = Regex("""<(?:strong|b)>([A-Z][A-Z ]*):?</(?:strong|b)>""")
