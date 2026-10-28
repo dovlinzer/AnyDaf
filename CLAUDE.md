@@ -1581,6 +1581,17 @@ report pending. Review page: https://claude.ai/artifact/Er6eCeed7H8dEUTef61RPH
   nothing is ruled out; (5) 4–7 per daf, scaled to the daf; list the runners-up (considered but
   not drawn, with a reason) in the editorial notes.
 
+**שוטה = "a person with psychosis" (author's rule, 2026-10-28), everywhere we show English.** Davidson
+says "imbecile" (~250 times), Kulp "an insane person" / "an idiot". `daf-processor/term_fixes.py`
+(`fix_terms(en, he)`) and its twin `fixTerms` in `outline-renderer.js` (run by `md()`, so the site
+fixes even text loaded from Supabase) do it: plural "people with psychosis", "developed psychosis",
+an animal "a *shoteh* (disoriented)", the Gemara's insults "Fool"; Davidson's "insane" changes only
+on lines whose Hebrew has שוטה (Sotah 27a's "insane person" is שעמום). Applied to daf_text, the
+sefaria caches, essays and segmentations (`apply_term_fixes.py`); `sefaria.py` and
+`build_daf_text.py` apply it on fetch; the outline prompt has the rule and `check_output()` flags
+"imbecile"/"insane". Keep the Python and JS rules in step. Supabase `daf_text`/`shiur_content` still
+have the old wording until re-uploaded.
+
 **"Dilemma" rule (author's pet peeve, 2026-09-24):** Sefaria's translation says "dilemma" loosely;
 the prompt's Bullets section now asks for challenge/objection (*kushya*, *meitivei*) or question
 (*ba'ya*), keeping "dilemma" for a real choice between two equal options, and `check_output()` flags
