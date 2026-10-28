@@ -38,7 +38,7 @@
 
 **10.**
 *Hebrew/Aramaic:* גְּמָ׳ מַאי ״אֵינוֹ יָכוֹל לוֹמַר״? אִילֵימָא חֵרֵשׁ, חֵרֵשׁ בַּר אֵתוֹיֵי גִּיטָּא הוּא?! וְהָתְנַן: הַכֹּל כְּשֵׁרִין לְהָבִיא אֶת הַגֵּט, חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן!
-*Translation:* GEMARA: The Gemara asks: **What** is the meaning of the statement: **He is unable to say? If we say** that this is referring to **a deaf-mute, is a deaf-mute fit to bring a bill of divorce? But didn’t we learn** in a mishna (23a): **Anyone is fit** to serve as an agent **to bring a bill of divorce** to a woman **except for a deaf-mute, an imbecile, and a minor,** all of whom may not be appointed as agents at all, as they are not intellectually competent according to *halakha*?
+*Translation:* GEMARA: The Gemara asks: **What** is the meaning of the statement: **He is unable to say? If we say** that this is referring to **a deaf-mute, is a deaf-mute fit to bring a bill of divorce? But didn’t we learn** in a mishna (23a): **Anyone is fit** to serve as an agent **to bring a bill of divorce** to a woman **except for a deaf-mute, a person with psychosis, and a minor,** all of whom may not be appointed as agents at all, as they are not intellectually competent according to *halakha*?
 
 **11.**
 *Hebrew/Aramaic:* אָמַר רַב יוֹסֵף: הָכָא בְּמַאי עָסְקִינַן – כְּגוֹן שֶׁנְּתָנוֹ לָהּ כְּשֶׁהוּא פִּיקֵּחַ, וְלֹא הִסְפִּיק לוֹמַר ״בְּפָנַי נִכְתַּב וּבְפָנַי נֶחְתַּם״ עַד שֶׁנִּתְחָרֵשׁ.

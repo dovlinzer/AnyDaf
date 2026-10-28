@@ -151,7 +151,7 @@
 
 **12.**
 *Hebrew/Aramaic:* מַתְנִי' הַחֵרֶשֶׁת, וְהַשּׁוֹטָה, וְהַסּוֹמָא, וְשֶׁנִּטְרְפָה דַּעְתָּהּ — אִם יֵשׁ לָהֶם פִּקְּחוֹת, מְתַקְּנוֹת אוֹתָן, וְהֵן אוֹכְלוֹת בִּתְרוּמָה.
-*Translation:* MISHNA: In the case of a woman **who is deaf [*haḥereshet*], or an imbecile, or blind, or who went insane,** and is therefore unable to examine herself reliably, **if** such women **have competent** friends, those friends **prepare them** by examining them and immersing them in a ritual bath. **And** on that basis the incompetent women **may partake of *teruma*** after the sun sets.
+*Translation:* MISHNA: In the case of a woman **who is deaf [*haḥereshet*], or a person with psychosis, or blind, or who developed psychosis,** and is therefore unable to examine herself reliably, **if** such women **have competent** friends, those friends **prepare them** by examining them and immersing them in a ritual bath. **And** on that basis the incompetent women **may partake of *teruma*** after the sun sets.
 
 **13.**
 *Hebrew/Aramaic:* גְּמָ' חֵרֶשֶׁת — אִיהִי תִּבְדּוֹק לְנַפְשַׁהּ! דְּתַנְיָא, אָמַר רַבִּי: חֵרֶשֶׁת הָיְתָה בִּשְׁכוּנָתֵינוּ, לֹא דַּיָּה שֶׁבּוֹדֶקֶת לְעַצְמָהּ, אֶלָּא שֶׁחַבְרוֹתֶיהָ רוֹאוֹת וּמַרְאוֹת לָהּ!
@@ -167,15 +167,15 @@
 
 **16.**
 *Hebrew/Aramaic:* וְשֶׁנִּטְרְפָה דַּעְתָּהּ — הַיְינוּ שׁוֹטָה! שֶׁנִּטְרְפָה דַּעְתָּהּ מֵחֲמַת חוֹלִי.
-*Translation:* § The mishna also states that competent women must assist **a woman who went insane.** The Gemara asks: With regard to her ability to examine herself, **isn’t this** the same as **an imbecile,** who is already mentioned in the mishna? The Gemara answers: Here, the mishna is referring to a woman **who went insane due to illness,** which is a different category than that of an imbecile.
+*Translation:* § The mishna also states that competent women must assist **a woman who developed psychosis.** The Gemara asks: With regard to her ability to examine herself, **isn’t this** the same as **a person with psychosis,** who is already mentioned in the mishna? The Gemara answers: Here, the mishna is referring to a woman **who developed psychosis due to illness,** which is a different category than that of a person with psychosis.
 
 **17.**
 *Hebrew/Aramaic:* תָּנוּ רַבָּנַן: כֹּהֵן שׁוֹטֶה — מַטְבִּילִין אוֹתוֹ, וּמַאֲכִילִין אוֹתוֹ תְּרוּמָה לָעֶרֶב, וּמְשַׁמְּרִין אוֹתוֹ שֶׁלֹּא יִישַׁן. יָשַׁן — טָמֵא, לֹא יָשַׁן — טָהוֹר.
-*Translation:* The Gemara further discusses *halakhot* pertaining to an imbecile. **The Sages taught** in a *baraita*: With regard to **an imbecile priest** who was ritually impure, competent men deal with his purification: **They immerse him, and** then **enable him to partake of *teruma* in the evening,** like any other priest who was impure. **And** those taking care of him must **watch over him** to ensure **that he does not sleep** before he partakes of *teruma*, in case he experiences a seminal emission, which would render him impure. If **he slept,** he is once again **impure,** and may not partake of *teruma*; if he **did not sleep** he is **pure.**
+*Translation:* The Gemara further discusses *halakhot* pertaining to a person with psychosis. **The Sages taught** in a *baraita*: With regard to **a priest with psychosis** who was ritually impure, competent men deal with his purification: **They immerse him, and** then **enable him to partake of *teruma* in the evening,** like any other priest who was impure. **And** those taking care of him must **watch over him** to ensure **that he does not sleep** before he partakes of *teruma*, in case he experiences a seminal emission, which would render him impure. If **he slept,** he is once again **impure,** and may not partake of *teruma*; if he **did not sleep** he is **pure.**
 
 **18.**
 *Hebrew/Aramaic:* רַבִּי אֱלִיעֶזֶר בְּרַבִּי צָדוֹק אוֹמֵר: עוֹשִׂין לוֹ כִּיס שֶׁל עוֹר. אָמְרוּ לוֹ: כׇּל שֶׁכֵּן שֶׁמֵּבִיא לִידֵי חִימּוּם! אָמַר לָהֶן: לְדִבְרֵיכֶם, שׁוֹטֶה אֵין לוֹ תַּקָּנָה.
-*Translation:* **Rabbi Eliezer, son of Rabbi Tzadok, says** that there is another method of allowing an imbecile priest to partake of *teruma*: **One prepares for him a leather pouch,** which is wrapped around his penis, and before giving him *teruma* to partake of one checks this pouch to see if he has emitted semen. The other Sages **said to him:** It is improper to do this, as **all the more so** he will be prevented from partaking of *teruma*; this pouch **warms him** and increases the likelihood of a seminal emission. Rabbi Eliezer, son of Rabbi Tzadok, **said to them: According to your statement, an imbecile** priest **has no remedy** that will enable him to partake of *teruma*.
+*Translation:* **Rabbi Eliezer, son of Rabbi Tzadok, says** that there is another method of allowing a priest with psychosis to partake of *teruma*: **One prepares for him a leather pouch,** which is wrapped around his penis, and before giving him *teruma* to partake of one checks this pouch to see if he has emitted semen. The other Sages **said to him:** It is improper to do this, as **all the more so** he will be prevented from partaking of *teruma*; this pouch **warms him** and increases the likelihood of a seminal emission. Rabbi Eliezer, son of Rabbi Tzadok, **said to them: According to your statement, a priest with psychosis** **has no remedy** that will enable him to partake of *teruma*.
 
 **19.**
 *Hebrew/Aramaic:* אָמְרוּ לוֹ: לִדְבָרֵינוּ — יָשַׁן טָמֵא, לֹא יָשַׁן טָהוֹר; לִדְבָרֶיךָ — שֶׁמָּא יִרְאֶה טִפָּה כְּחַרְדָּל, וְתִבָּלַע בַּכִּיס!
@@ -183,7 +183,7 @@
 
 **20.**
 *Hebrew/Aramaic:* תָּנָא מִשּׁוּם רַבִּי אֶלְעָזָר אָמְרוּ: עוֹשִׂין לוֹ כִּיס שֶׁל מַתֶּכֶת.
-*Translation:* The Gemara continues to discuss the methods by which an imbecile priest can partake of *teruma*. It was **taught** in a *baraita* that the Sages **said in the name of Rabbi Elazar: One prepares for him a metal pouch,** which is placed on his penis and does not warm it.
+*Translation:* The Gemara continues to discuss the methods by which a priest with psychosis can partake of *teruma*. It was **taught** in a *baraita* that the Sages **said in the name of Rabbi Elazar: One prepares for him a metal pouch,** which is placed on his penis and does not warm it.
 
 **21.**
 *Hebrew/Aramaic:* אָמַר אַבָּיֵי: וְשֶׁל נְחֹשֶׁת, כִּדְתַנְיָא: רַבִּי יְהוּדָה אוֹמֵר: רוֹאִין אוֹתָן גִּבְעוֹלִין שֶׁל אֵזוֹב כְּאִילּוּ הֵן שֶׁל נְחֹשֶׁת.

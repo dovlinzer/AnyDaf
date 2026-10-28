@@ -34,7 +34,7 @@
 
 **9.**
 *Hebrew/Aramaic:* וְאֵלּוּ שֶׁבֵּית דִּין מְקַנִּין לָהֶן: מִי שֶׁנִּתְחָרֵשׁ בַּעְלָהּ, אוֹ נִשְׁתַּטָּה, אוֹ שֶׁהָיָה חָבוּשׁ בְּבֵית הָאֲסוּרִין. לֹא לְהַשְׁקוֹתָהּ אָמְרוּ, אֶלָּא לְפוֹסְלָהּ מִכְּתוּבָּתָהּ. רַבִּי יוֹסֵי אוֹמֵר: אַף לְהַשְׁקוֹתָהּ. לִכְשֶׁיֵּצֵא בַּעְלָהּ מִבֵּית הָאֲסוּרִין יַשְׁקֶנָּה.
-*Translation:* **And these** are the women **to whom the court issues a warning** in place of their husbands: **One whose husband became a deaf-mute or became an imbecile, or was incarcerated in prison.** The Sages **said** that the court warns her **not** in order **to have her drink** the bitter water if she disobeys the warning, **but** in order **to disqualify her from** receiving payment of **her marriage contract. Rabbi Yosei says:** The court’s warning **also** serves **to have her drink,** and **when her husband is released from prison he has her drink.**
+*Translation:* **And these** are the women **to whom the court issues a warning** in place of their husbands: **One whose husband became a deaf-mute or developed psychosis, or was incarcerated in prison.** The Sages **said** that the court warns her **not** in order **to have her drink** the bitter water if she disobeys the warning, **but** in order **to disqualify her from** receiving payment of **her marriage contract. Rabbi Yosei says:** The court’s warning **also** serves **to have her drink,** and **when her husband is released from prison he has her drink.**
 
 **10.**
 *Hebrew/Aramaic:* גְּמָ׳ מִישְׁתָּא הוּא דְּלָא שָׁתְיָיא, הָא קַנּוֹיֵ[י] מְקַנֵּי לַהּ: מְנָא הָנֵי מִילֵּי? דְּתָנוּ רַבָּנַן: ״דַּבֵּר אֶל בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ״ — לְרַבּוֹת אֲרוּסָה וְשׁוֹמֶרֶת יָבָם לְקִינּוּי.
@@ -58,7 +58,7 @@
 
 **15.**
 *Hebrew/Aramaic:* וְרַבִּי יוֹנָתָן, הַאי ״אִישׁ אִישׁ״ מַאי עָבֵיד לֵיהּ? מִיבְּעֵי לֵיהּ לְרַבּוֹת אֵשֶׁת חֵרֵשׁ, וְאֵשֶׁת שׁוֹטֶה, וְאֵשֶׁת
-*Translation:* The Gemara asks: **And Rabbi Yonatan,** who excludes both a betrothed woman and a widow awaiting her *yavam* from drinking the bitter water, **what does he do with this** term **“any man”?** What does it serve to include? The Gemara answers: Rabbi Yonatan **requires it** in order **to include the wife of a deaf-mute and the wife of an imbecile, and the wife of**
+*Translation:* The Gemara asks: **And Rabbi Yonatan,** who excludes both a betrothed woman and a widow awaiting her *yavam* from drinking the bitter water, **what does he do with this** term **“any man”?** What does it serve to include? The Gemara answers: Rabbi Yonatan **requires it** in order **to include the wife of a deaf-mute and the wife of a person with psychosis, and the wife of**
 
 
 ---

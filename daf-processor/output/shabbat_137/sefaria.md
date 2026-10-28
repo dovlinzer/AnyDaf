@@ -6,7 +6,7 @@
 
 **2.**
 *Hebrew/Aramaic:* אָמַר רַב נַחְמָן בַּר יִצְחָק: אַף אֲנַן נָמֵי תְּנֵינָא: הַכֹּל כְּשֵׁרִים לְקַדֵּשׁ, חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן. רַבִּי יְהוּדָה מַכְשִׁיר בְּקָטָן וּפוֹסֵל בְּאִשָּׁה וְאַנְדְּרוֹגִינוֹס. שְׁמַע מִינַּהּ.
-*Translation:* **Rav Naḥman bar Yitzḥak said: We too also learned** in a mishna that Rabbi Yehuda does not consider a hermaphrodite to be a male in every sense. The Sages disagreed over sanctification of the waters of a purification offering, i.e., the placing of the ashes of the red heifer in potable, running spring water: **Everyone is fit to sanctify** the waters of a purification offering, **except for a deaf-mute, an imbecile, and a minor. Rabbi Yehuda deems a minor fit, but deems a woman and a hermaphrodite unfit.** Apparently, Rabbi Yehuda does not consider the legal status of a hermaphrodite to be like that of a male. The Gemara concludes: **Conclude from this.**
+*Translation:* **Rav Naḥman bar Yitzḥak said: We too also learned** in a mishna that Rabbi Yehuda does not consider a hermaphrodite to be a male in every sense. The Sages disagreed over sanctification of the waters of a purification offering, i.e., the placing of the ashes of the red heifer in potable, running spring water: **Everyone is fit to sanctify** the waters of a purification offering, **except for a deaf-mute, a person with psychosis, and a minor. Rabbi Yehuda deems a minor fit, but deems a woman and a hermaphrodite unfit.** Apparently, Rabbi Yehuda does not consider the legal status of a hermaphrodite to be like that of a male. The Gemara concludes: **Conclude from this.**
 
 **3.**
 *Hebrew/Aramaic:* וּמַאי שְׁנָא מִילָה? מִשּׁוּם דִּכְתִיב: ״הִמּוֹל לָכֶם כׇּל זָכָר״.

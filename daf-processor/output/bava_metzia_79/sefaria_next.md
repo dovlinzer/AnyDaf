@@ -14,7 +14,7 @@
 
 **4.**
 *Hebrew/Aramaic:* תַּנְיָא נָמֵי הָכִי: הַמּוֹכֵר שִׁפְחָה לַחֲבֵירוֹ, וְאָמַר לוֹ: שִׁפְחָה זוֹ שׁוֹטָה הִיא, נִיכְפֵּית הִיא, מְשׁוּעְמֶמֶת הִיא, וְהָיָה בָּהּ מוּם אֶחָד וּסְנָפוֹ בֵּין הַמּוּמִין – הֲרֵי זֶה מִקַּח טָעוּת. מוּם זֶה וּמוּם אַחֵר – אֵין זֶה מִקַּח טָעוּת.
-*Translation:* The Gemara notes that **this is also taught** in a *baraita* (*Tosefta*, *Bava Batra* 4:3): With regard to **one who sells a maidservant to another and says to him: This maidservant is an imbecile, she is epileptic, she is crazy [*meshuamemet*]; but** in reality **she had** only **one defect and he inserted it among the** other **defects, this is a mistaken transaction.** But if the seller stated: The maidservant has **this defect,** i.e., the defect that she in fact has, **and other defects,** without specifying what they were, **this is not a mistaken transaction.**
+*Translation:* The Gemara notes that **this is also taught** in a *baraita* (*Tosefta*, *Bava Batra* 4:3): With regard to **one who sells a maidservant to another and says to him: This maidservant is a person with psychosis, she is epileptic, she is crazy [*meshuamemet*]; but** in reality **she had** only **one defect and he inserted it among the** other **defects, this is a mistaken transaction.** But if the seller stated: The maidservant has **this defect,** i.e., the defect that she in fact has, **and other defects,** without specifying what they were, **this is not a mistaken transaction.**
 
 **5.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: הָיוּ בָּהּ כׇּל הַמּוּמִין הַלָּלוּ, מַהוּ? אֲמַר לֵיהּ רַב מָרְדֳּכַי לְרַב אָשֵׁי, הָכִי אָמְרִינַן מִשְּׁמֵיהּ דְּרָבָא: הָיוּ בָּהּ כׇּל הַמּוּמִין הַלָּלוּ – אֵין זֶה מִקַּח טָעוּת.

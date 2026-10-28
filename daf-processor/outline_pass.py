@@ -132,6 +132,7 @@ Same voice as the summaries. Each bullet is one complete thought you would say t
 - `source`: "gemara" for what the text itself says, grounded in the Sefaria translation; "shiur" for the lecturer's analysis, including rishonim and acharonim brought in the shiur and conceptual framing. Never present shiur analysis as the Gemara's. Never state Gemara content that isn't in the provided text.
 - When a Mishnah or baraita is one tanna's view, open its bullet with the label and the tanna in parentheses: "Mishnah (Beit Shammai): …", "Mishnah (R. Meir): …". This is the one place a parenthesis beats a sentence; never "The Mishnah, by Beit Shammai".
 - Mark Hebrew and Aramaic terms in *italics* with single asterisks, as the examples do, in headings and summary lines as well as bullets and charts ("Sumakhos Divides Only Where There Is *Derara de'Mamona*"). In a picture, set a transliterated word in italics with `<tspan font-style="italic">`. No other markup, except the ruling words in a chart cell (see Charts).
+- A *shoteh* (שוטה) is "a person with psychosis" (plural "people with psychosis"; "developed psychosis" for one who becomes one), never "imbecile", "idiot" or "insane", even where the Sefaria translation you are shown says "imbecile". As a key term it is *shoteh* (a person with psychosis). An animal that is a *shoteh* is "disoriented". Where the Gemara hurls the word as an insult ("Shoteh, go to the end of the verse!"), write "Fool".
 - Rulings are "permitted" and "forbidden", never "prohibited": "Prohibited" and "Permitted" look alike at a glance. The same in charts and pictures.
 - Name the Gemara's moves precisely, not in the Sefaria translation's wording: a *kushya* or *meitivei* is a challenge or objection; a *ba'ya* is a question. Almost never write "dilemma": keep it for a real choice between two equally weighty options.
 
@@ -918,6 +919,10 @@ def check_output(outline: dict, d: Path) -> list[str]:
     n_pro = len(re.findall(r"\bprohibited\b", text, re.I))
     if n_pro:
         probs.append(f"'prohibited' used {n_pro}x: the author's word is 'forbidden'")
+    # The author's rule: shoteh is "a person with psychosis" (term_fixes.py), never Davidson's "imbecile".
+    n_imb = len(re.findall(r"\b(imbecil\w*|idiots?|insane|insanity|lunatics?)\b", text, re.I))
+    if n_imb:
+        probs.append(f"'imbecile'/'insane' used {n_imb}x: shoteh is 'a person with psychosis'")
     # The author's rule: "dilemma" almost never (Sefaria uses it for a plain question or challenge).
     n_dil = len(re.findall(r"\bdilemma", text))
     if n_dil:

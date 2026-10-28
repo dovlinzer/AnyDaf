@@ -107,7 +107,7 @@
 
 **14.**
 *Hebrew/Aramaic:* מַתְנִי׳ הַשּׁוֹלֵחַ עֵירוּבוֹ בְּיַד חֵרֵשׁ שׁוֹטֶה וְקָטָן, אוֹ בְּיַד מִי שֶׁאֵינוֹ מוֹדֶה בְּעֵירוּב — אֵינוֹ עֵירוּב. וְאִם אָמַר לְאַחֵר לְקַבְּלוֹ מִמֶּנּוּ — הֲרֵי זֶה עֵירוּב.
-*Translation:* MISHNA: If **one sends his *eiruv* in the hands of a deaf-mute, an imbecile, or a minor,** all of whom are regarded as legally incompetent, **or in the hands of one who does not accept** the principle of ***eiruv*, it is not** a valid ***eiruv*.** But **if one told another** person **to receive it from him** at a specific location and set it down in that spot, **it is a** valid ***eiruv*.** The critical point in the establishment of an *eiruv* is that it must be deposited in the proper location by a competent person; but it is immaterial how the *eiruv* arrives there.
+*Translation:* MISHNA: If **one sends his *eiruv* in the hands of a deaf-mute, a person with psychosis, or a minor,** all of whom are regarded as legally incompetent, **or in the hands of one who does not accept** the principle of ***eiruv*, it is not** a valid ***eiruv*.** But **if one told another** person **to receive it from him** at a specific location and set it down in that spot, **it is a** valid ***eiruv*.** The critical point in the establishment of an *eiruv* is that it must be deposited in the proper location by a competent person; but it is immaterial how the *eiruv* arrives there.
 
 **15.**
 *Hebrew/Aramaic:* גְּמָ׳ וְקָטָן לָא? וְהָאָמַר רַב הוּנָא: קָטָן גּוֹבֶה אֶת הָעֵירוּב! לָא קַשְׁיָא: כָּאן בְּעֵירוּבֵי תְּחוּמִין, כָּאן בְּעֵירוּבֵי חֲצֵירוֹת.
@@ -123,7 +123,7 @@
 
 **18.**
 *Hebrew/Aramaic:* וְלֵיחוּשׁ דִּילְמָא לָא שָׁקֵיל מִינֵּיהּ? כִּדְאָמַר רַב יְחִיאֵל: חֲזָקָה שָׁלִיחַ עוֹשֶׂה שְׁלִיחוּתוֹ, הָכָא נָמֵי — חֲזָקָה שָׁלִיחַ עוֹשֶׂה שְׁלִיחוּתוֹ.
-*Translation:* The Gemara asks: But nonetheless, **let us be concerned that perhaps** the other person will **not take** the *eiruv* **from** the deaf-mute, imbecile, or minor and deposit it in the designated place. From a distance, one cannot see exactly what is happening. He only saw that the messenger arrived at his destination. The Gemara answers this question **as** follows: **Rav Yeḥiel said** in a different context that there is a legal **presumption** that **an agent fulfills his agency. Here, too,** there is a legal **presumption** that the **agent** appointed to accept the *eiruv* **fulfills his agency.**
+*Translation:* The Gemara asks: But nonetheless, **let us be concerned that perhaps** the other person will **not take** the *eiruv* **from** the deaf-mute, person with psychosis, or minor and deposit it in the designated place. From a distance, one cannot see exactly what is happening. He only saw that the messenger arrived at his destination. The Gemara answers this question **as** follows: **Rav Yeḥiel said** in a different context that there is a legal **presumption** that **an agent fulfills his agency. Here, too,** there is a legal **presumption** that the **agent** appointed to accept the *eiruv* **fulfills his agency.**
 
 **19.**
 *Hebrew/Aramaic:* וְהֵיכָא אִיתְּמַר דְּרַב חִסְדָּא וְרַב יְחִיאֵל? אַהָא אִתְּמַר, דְּתַנְיָא: נְתָנוֹ לַפִּיל וְהוֹלִיכוֹ, לַקּוֹף וְהוֹלִיכוֹ, אֵין זֶה עֵירוּב. וְאִם אָמַר לְאַחֵר לְקַבְּלוֹ הֵימֶנּוּ — הֲרֵי זֶה עֵירוּב. וְדִילְמָא לָא מַמְטֵי לֵיהּ? אָמַר רַב חִסְדָּא בְּעוֹמֵד וְרוֹאֵהוּ. וְדִילְמָא לָא מְקַבֵּל לֵיהּ מִינֵּיהּ? אָמַר רַב יְחִיאֵל: חֲזָקָה שָׁלִיחַ עוֹשֶׂה שְׁלִיחוּתוֹ.

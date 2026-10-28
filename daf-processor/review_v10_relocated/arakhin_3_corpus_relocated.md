@@ -271,11 +271,11 @@ The straightforward explanation, however, remains that the *kohen* must genuinel
 The *gemara* turns to a series of laws relating to *parah adumah*, the red heifer. *Hakol kesherin l'kadesh* — everybody may perform the *kiddush*, the mixing of the ashes of the *parah adumah* with water to create the purification waters. *L'atuyei mai* — who does this include?
 
 > **Hebrew/Aramaic:** ״הַכֹּל כְּשֵׁרִין לְקַדֵּשׁ״ — לְאֵתוֹיֵי מַאי? לְרַבִּי יְהוּדָה לְאֵתוֹיֵי קָטָן, וּלְרַבָּנַן לְאֵתוֹיֵי אִשָּׁה. דִּתְנַן: הַכֹּל כְּשֵׁרִין לְקַדֵּשׁ, חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן; רַבִּי יְהוּדָה מַכְשִׁיר בְּקָטָן, וּפוֹסֵל בְּאִשָּׁה וּבְאַנְדְּרוֹגִינוֹס.
-> **Translation:** § The Gemara asks: **What is added** by the statement of the mishna (*Para* 5:4): **Everyone** is **fit to sanctify** the ashes of the red heifer, i.e., to pour the water over them? The Gemara answers that **according to Rabbi Yehuda** the statement serves **to add a minor, and according to the Rabbis,** who disqualify a minor, it serves **to add a woman. As we learned** in a mishna (*Para* 5:4): **Everyone is fit to sanctify** the ashes of the red heifer **except for a deaf-mute, an imbecile, and a minor. Rabbi Yehuda deems a minor fit, but deems a woman and a hermaphrodite,** who has both male and female characteristics, **unfit.**
+> **Translation:** § The Gemara asks: **What is added** by the statement of the mishna (*Para* 5:4): **Everyone** is **fit to sanctify** the ashes of the red heifer, i.e., to pour the water over them? The Gemara answers that **according to Rabbi Yehuda** the statement serves **to add a minor, and according to the Rabbis,** who disqualify a minor, it serves **to add a woman. As we learned** in a mishna (*Para* 5:4): **Everyone is fit to sanctify** the ashes of the red heifer **except for a deaf-mute, a person with psychosis, and a minor. Rabbi Yehuda deems a minor fit, but deems a woman and a hermaphrodite,** who has both male and female characteristics, **unfit.**
 
 ### Normal Exclusions
 
-A *Mishna* provides the baseline: everybody may perform the *kiddush* — *chutz mechereish shoteh v'katan*, with the exception of those who lack halachic competence: the deaf-mute, the imbecile, and the minor. Women are ordinarily included.
+A *Mishna* provides the baseline: everybody may perform the *kiddush* — *chutz mechereish shoteh v'katan*, with the exception of those who lack halachic competence: the deaf-mute, the person with psychosis, and the minor. Women are ordinarily included.
 
 ### Gender vs. Age
 

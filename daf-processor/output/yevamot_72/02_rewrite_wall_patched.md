@@ -190,7 +190,7 @@ The *Gemara* acknowledges that this response somewhat undercuts Rava's objection
 
 The *Gemara* continues with the broader dispute about who may perform the various functions of the *parah adumah* service, following the principle *ve-azdu le-taimeihu* — Rabbi Yehuda and the *Rabbanan* proceed according to their respective reasoning.
 
-A *braita* states: *hakol keshairin lekadesh* — anyone is eligible to perform the *kiddush* of the *parah adumah*, mixing the ashes with water, *chutz mi-cheresh shoteh ve-katan* — with the exception of a deaf-mute, an imbecile, and a minor.
+A *braita* states: *hakol keshairin lekadesh* — anyone is eligible to perform the *kiddush* of the *parah adumah*, mixing the ashes with water, *chutz mi-cheresh shoteh ve-katan* — with the exception of a deaf-mute, a person with psychosis, and a minor.
 
 ### Androgynos Status
 

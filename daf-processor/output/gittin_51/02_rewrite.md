@@ -170,7 +170,7 @@ Rav resolves the difficulty: *b'ta'anat katan* — the case involves a *katan*. 
 
 ### Katan Objection
 
-The Gemara objects: a *katan*'s claim has no *halachic* standing at all. *D'tnan: ein nishba'in al ta'anat cheresh, shoteh, v'katan* — one does not take an oath in response to the claim of a deaf-mute, an imbecile, or a minor. If the *katan*'s challenge carries no legal weight, why does it neutralize the debtor's *migo*? The *migo* should still apply: even facing a *katan*, I could simply have denied everything, so my partial admission should be credited.
+The Gemara objects: a *katan*'s claim has no *halachic* standing at all. *D'tnan: ein nishba'in al ta'anat cheresh, shoteh, v'katan* — one does not take an oath in response to the claim of a deaf-mute, a person with psychosis, or a minor. If the *katan*'s challenge carries no legal weight, why does it neutralize the debtor's *migo*? The *migo* should still apply: even facing a *katan*, I could simply have denied everything, so my partial admission should be credited.
 
 ### Ignorant = Katan
 

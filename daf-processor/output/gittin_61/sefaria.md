@@ -6,7 +6,7 @@
 
 **2.**
 *Hebrew/Aramaic:* מְצִיאַת חֵרֵשׁ, שׁוֹטֶה וְכוּ׳ רַבִּי יוֹסֵי אוֹמֵר: גָּזֵל גָּמוּר: אָמַר רַב חִסְדָּא: גָּזֵל גָּמוּר מִדִּבְרֵיהֶם. לְמַאי נָפְקָא מִינַּהּ? לְהוֹצִיאוֹ בְּדַיָּינִין.
-*Translation:* § The mishna teaches: Taking **a lost item** found by **a deaf-mute, an imbecile,** or a minor is considered robbery on account of the ways of peace. **Rabbi Yosei says:** It is **full-fledged robbery. Rav Ḥisda says:** Rabbi Yosei means that it is **full-fledged robbery by rabbinic law** but not by Torah law. The Gemara asks: **What difference is there** between full-fledged robbery by rabbinic law and robbery on account of the ways of peace? The Gemara answers: If it is full-fledged robbery by rabbinic law, the victim of robbery can **recover** the property from the robber **by** appealing to **judges,** i.e., the court can expropriate it from him by force.
+*Translation:* § The mishna teaches: Taking **a lost item** found by **a deaf-mute, a person with psychosis,** or a minor is considered robbery on account of the ways of peace. **Rabbi Yosei says:** It is **full-fledged robbery. Rav Ḥisda says:** Rabbi Yosei means that it is **full-fledged robbery by rabbinic law** but not by Torah law. The Gemara asks: **What difference is there** between full-fledged robbery by rabbinic law and robbery on account of the ways of peace? The Gemara answers: If it is full-fledged robbery by rabbinic law, the victim of robbery can **recover** the property from the robber **by** appealing to **judges,** i.e., the court can expropriate it from him by force.
 
 **3.**
 *Hebrew/Aramaic:* עָנִי הַמְנַקֵּף בְּרֹאשׁ הַזַּיִת, מַה שֶּׁתַּחְתָּיו וְכוּ׳: תָּנָא: אִם לִיקֵּט וְנָתַן בַּיָּד – הֲרֵי זֶה גָּזֵל גָּמוּר.

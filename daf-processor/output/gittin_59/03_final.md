@@ -309,7 +309,7 @@ Rabbi Yose says: *gezel gamur* — it is real theft. The Gemara will explain tha
 ### Lost Property
 
 > **Hebrew/Aramaic:** מְצִיאַת חֵרֵשׁ שׁוֹטֶה וְקָטָן, יֵשׁ בָּהֶן מִשּׁוּם גָּזֵל – מִפְּנֵי דַּרְכֵי שָׁלוֹם; רַבִּי יוֹסֵי אוֹמֵר: גָּזֵל גָּמוּר.
-> **Translation:** Similarly, **a lost item** found by **a deaf-mute, an imbecile, or a minor** is not acquired by him, since he lacks the legal competence to effect acquisition. Nevertheless, taking such an item from him **is considered robbery on account of the ways of peace. Rabbi Yosei says:** This is **full-fledged robbery.**
+> **Translation:** Similarly, **a lost item** found by **a deaf-mute, a person with psychosis, or a minor** is not acquired by him, since he lacks the legal competence to effect acquisition. Nevertheless, taking such an item from him **is considered robbery on account of the ways of peace. Rabbi Yosei says:** This is **full-fledged robbery.**
 
 *Metziat cheresh shoteh v'katan yesh bahem mishum gezel mipnei darchei shalom* — lost objects found by a *cheresh*, *shoteh*, or minor are treated as their property for purposes of *darchei shalom*, even though these individuals lack the full legal capacity to effect a *kinyan* through finding. Taking from them what they have found is treated as *gezel*. Rabbi Yose again: *gezel gamur* — real rabbinic theft.
 

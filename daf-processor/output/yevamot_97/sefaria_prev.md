@@ -34,7 +34,7 @@
 
 **9.**
 *Hebrew/Aramaic:* נָשָׂא אִשָּׁה וּמֵת כּוּ׳. תְּנֵינָא לְהָא דְּתָנוּ רַבָּנַן: שׁוֹטֶה וְקָטָן שֶׁנָּשְׂאוּ וּמֵתוּ — נְשׁוֹתֵיהֶן פְּטוּרוֹת מִן הַחֲלִיצָה וּמִן הַיִּיבּוּם.
-*Translation:* § The mishna teaches that if a nine-year-old boy **married a woman and died,** she is exempt from levirate marriage and *ḥalitza*. The Gemara comments: **We** already **learned this, as the Sages taught** in a *baraita*: With regard to **an imbecile and a minor who married** women **and died, their wives are exempt from *ḥalitza* and from levirate marriage,** as the marriage of a minor or an imbecile is of no account.
+*Translation:* § The mishna teaches that if a nine-year-old boy **married a woman and died,** she is exempt from levirate marriage and *ḥalitza*. The Gemara comments: **We** already **learned this, as the Sages taught** in a *baraita*: With regard to **a person with psychosis and a minor who married** women **and died, their wives are exempt from *ḥalitza* and from levirate marriage,** as the marriage of a minor or a person with psychosis is of no account.
 
 **10.**
 *Hebrew/Aramaic:* בֶּן תֵּשַׁע וְכוּ׳ מִשֶּׁהִגְדִּיל וְכוּ׳. וְיַעֲשׂוּ בִּיאַת בֶּן תֵּשַׁע כְּמַאֲמָר בַּגָּדוֹל, וְתִדָּחֶה צָרָה מִיִּבּוּם! אָמַר רַב: לֹא עָשׂוּ בִּיאַת בֶּן תֵּשַׁע כְּמַאֲמָר בַּגָּדוֹל. וּשְׁמוּאֵל אָמַר: עָשׂוּ וְעָשׂוּ. וְכֵן אָמַר רַבִּי יוֹחָנָן: עָשׂוּ וְעָשׂוּ.

@@ -42,7 +42,7 @@
 
 **11.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ רַבִּי זֵירָא לְרַבִּי חִיָּיא בַּר אַבָּא: וְדִילְמָא בְּשׁוֹתֵת? אֲמַר לֵיהּ: תְּרָדָא! ״כְּדֵי שֶׁיַּעַבְרוּ מַיִם לֶחָבִית״ תְּנַן!
-*Translation:* **Rabbi Zeira said to Rabbi Ḥiyya bar Abba: But perhaps** the mishna is referring to a case **where** the water **flows weakly** straight from the hand into the vessel itself, since the hand is situated directly on the edge of the vessel, with no air separating them? Rabbi Ḥiyya bar Abba **said to him: Imbecile, we learned** in the mishna: **In order** to allow flowing **water to pass** through them **to** the **barrel.** This indicates that the water is traveling in a stream and will pass through the air before reaching the barrel.
+*Translation:* **Rabbi Zeira said to Rabbi Ḥiyya bar Abba: But perhaps** the mishna is referring to a case **where** the water **flows weakly** straight from the hand into the vessel itself, since the hand is situated directly on the edge of the vessel, with no air separating them? Rabbi Ḥiyya bar Abba **said to him: Fool, we learned** in the mishna: **In order** to allow flowing **water to pass** through them **to** the **barrel.** This indicates that the water is traveling in a stream and will pass through the air before reaching the barrel.
 
 **12.**
 *Hebrew/Aramaic:* וְאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן: מֵעֵדוּתוֹ שֶׁל רַבִּי צָדוֹק נִישְׁנֵית מִשְׁנָה זוֹ; דִּתְנַן: הֵעִיד רַבִּי צָדוֹק עַל הַזּוֹחֲלִין שֶׁקִּילְּחָן בַּעֲלֵי אֱגוֹזִין – שֶׁהֵן כְּשֵׁירִין; זֶה הָיָה מַעֲשֶׂה בְּאוֹהָלִיָּיא, וּבָא מַעֲשֶׂה לִפְנֵי חֲכָמִים בְּלִשְׁכַּת הַגָּזִית, וְהִכְשִׁירוּ.

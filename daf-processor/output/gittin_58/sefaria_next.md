@@ -99,7 +99,7 @@
 
 **3.**
 *Hebrew/Aramaic:* מְצִיאַת חֵרֵשׁ שׁוֹטֶה וְקָטָן, יֵשׁ בָּהֶן מִשּׁוּם גָּזֵל – מִפְּנֵי דַּרְכֵי שָׁלוֹם; רַבִּי יוֹסֵי אוֹמֵר: גָּזֵל גָּמוּר.
-*Translation:* Similarly, **a lost item** found by **a deaf-mute, an imbecile, or a minor** is not acquired by him, since he lacks the legal competence to effect acquisition. Nevertheless, taking such an item from him **is considered robbery on account of the ways of peace. Rabbi Yosei says:** This is **full-fledged robbery.**
+*Translation:* Similarly, **a lost item** found by **a deaf-mute, a person with psychosis, or a minor** is not acquired by him, since he lacks the legal competence to effect acquisition. Nevertheless, taking such an item from him **is considered robbery on account of the ways of peace. Rabbi Yosei says:** This is **full-fledged robbery.**
 
 **4.**
 *Hebrew/Aramaic:* עָנִי הַמְנַקֵּף בְּרֹאשׁ הַזַּיִת, מַה שֶּׁתַּחְתָּיו גָּזֵל – מִפְּנֵי דַּרְכֵי שָׁלוֹם; רַבִּי יוֹסֵי אוֹמֵר: גָּזֵל גָּמוּר.

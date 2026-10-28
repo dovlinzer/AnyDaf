@@ -82,7 +82,7 @@
 
 **21.**
 *Hebrew/Aramaic:* וְעוֹד, בִּתְרוּמָה נָמֵי אָכְלָה, דִּתְנַן: הַחֵרֶשֶׁת, וְהַשּׁוֹטָה, וְהַסּוֹמָא, וְשֶׁנִּטְרְפָה דַּעְתָּהּ, אִם יֵשׁ לָהֶן פִּקְּחוֹת מְתַקְּנוֹת אוֹתָן – אוֹכְלוֹת בִּתְרוּמָה.
-*Translation:* **And furthermore,** in that case the immersion enables her to **partake of *teruma* as well, as we learned** in a mishna (*Nidda* 13b): In the case of a woman who is **a deaf-mute, or an imbecile, or blind, or who went insane,** and is therefore unable to examine herself reliably, **if** one of these women **has a competent** friend, that friend **prepares her** by examining her and immersing them in a ritual bath. And on that basis the incompetent woman **may partake of *teruma*.**
+*Translation:* **And furthermore,** in that case the immersion enables her to **partake of *teruma* as well, as we learned** in a mishna (*Nidda* 13b): In the case of a woman who is **a deaf-mute, or a person with psychosis, or blind, or who developed psychosis,** and is therefore unable to examine herself reliably, **if** one of these women **has a competent** friend, that friend **prepares her** by examining her and immersing them in a ritual bath. And on that basis the incompetent woman **may partake of *teruma*.**
 
 **22.**
 *Hebrew/Aramaic:* אָמַר רַב פָּפָּא: לְרַבִּי נָתָן, שֶׁנָּפְלָה מִן הַגֶּשֶׁר, וּלְרַבָּנַן, שֶׁיָּרְדָה לְהָקֵר.

@@ -22,7 +22,7 @@
 
 **6.**
 *Hebrew/Aramaic:* וְהָא דִּתְנַן: הַשּׁוֹלֵחַ אֶת הַבְּעֵירָה בְּיַד חֵרֵשׁ שׁוֹטֶה וְקָטָן – פָּטוּר מִדִּינֵי אָדָם, וְחַיָּיב בְּדִינֵי שָׁמַיִם. שִׁילַּח בְּיַד פִּיקֵּחַ – פִּיקֵּחַ חַיָּיב.
-*Translation:* § The Gemara returns to discuss various aspects of agency. **And** there is a difficulty from **that which we learned** in a mishna (*Bava Kamma* 59b): In the case of **one who sends** an item that causes **a fire in the hands of a deaf-mute, an imbecile, or a minor,** the one who sent it **is exempt according to human laws but liable according to the laws of Heaven.** If **he sent** it **in the hands of** a halakhically **competent person,** only **the** halakhically **competent person is liable.**
+*Translation:* § The Gemara returns to discuss various aspects of agency. **And** there is a difficulty from **that which we learned** in a mishna (*Bava Kamma* 59b): In the case of **one who sends** an item that causes **a fire in the hands of a deaf-mute, a person with psychosis, or a minor,** the one who sent it **is exempt according to human laws but liable according to the laws of Heaven.** If **he sent** it **in the hands of** a halakhically **competent person,** only **the** halakhically **competent person is liable.**
 
 **7.**
 *Hebrew/Aramaic:* וְאַמַּאי? נֵימָא: שְׁלוּחוֹ שֶׁל אָדָם כְּמוֹתוֹ! שָׁאנֵי הָתָם דְּאֵין שָׁלִיחַ לִדְבַר עֲבֵירָה. דְּאָמְרִינַן: דִּבְרֵי הָרַב וְדִבְרֵי תַּלְמִיד – דִּבְרֵי מִי שׁוֹמְעִים?

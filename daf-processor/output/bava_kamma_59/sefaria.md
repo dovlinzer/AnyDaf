@@ -127,7 +127,7 @@
 
 **11.**
 *Hebrew/Aramaic:* מַתְנִי׳ הַשּׁוֹלֵחַ אֶת הַבְּעֵרָה בְּיַד חֵרֵשׁ שׁוֹטֶה וְקָטָן – פָּטוּר בְּדִינֵי אָדָם, וְחַיָּיב בְּדִינֵי שָׁמַיִם. שִׁלַּח בְּיַד פִּקֵּחַ – הַפִּקֵּחַ חַיָּיב.
-*Translation:* MISHNA: **One who sends a fire,** i.e., places a burning object, **in the hand of a deaf-mute, an imbecile, or a minor** is **exempt** for any damage later caused by the fire **according to human laws but liable according to the laws of Heaven.** If **he sent** it **in the hand of a** halakhically **competent** person, **the** halakhically **competent** person is **liable,** not the one who sent him.
+*Translation:* MISHNA: **One who sends a fire,** i.e., places a burning object, **in the hand of a deaf-mute, a person with psychosis, or a minor** is **exempt** for any damage later caused by the fire **according to human laws but liable according to the laws of Heaven.** If **he sent** it **in the hand of a** halakhically **competent** person, **the** halakhically **competent** person is **liable,** not the one who sent him.
 
 **12.**
 *Hebrew/Aramaic:* אֶחָד הֵבִיא אֶת הָאוּר וְאֶחָד הֵבִיא אֶת הָעֵצִים – הַמֵּבִיא אֶת הָעֵצִים חַיָּיב. אֶחָד הֵבִיא אֶת הָעֵצִים וְאֶחָד הֵבִיא אֶת הָאוּר – הַמֵּבִיא אֶת הָאוּר חַיָּיב.
@@ -139,7 +139,7 @@
 
 **14.**
 *Hebrew/Aramaic:* גְּמָ׳ אָמַר רֵישׁ לָקִישׁ מִשְּׁמֵיהּ דְּחִזְקִיָּה: לֹא שָׁנוּ אֶלָּא שֶׁמָּסַר לוֹ גַּחֶלֶת וְלִיבָּהּ, אֲבָל מָסַר לוֹ שַׁלְהֶבֶת – חַיָּיב, מַאי טַעְמָא? מַעֲשָׂיו קָא גָרְמוּ לוֹ.
-*Translation:* GEMARA: **Reish Lakish says in the name of Ḥizkiyya: They taught** that one who sends fire in the hand of a deaf-mute, an imbecile, or a minor is exempt **only when he conveyed to him** a glowing **coal and** one of these people **fanned** it himself and set it alight. **But** if one **conveyed a torch to** a deaf-mute, imbecile, or minor, the one who gave it to him is **liable. What is the reason** for this *halakha*? **The action** of the one who gave it to him directly **caused** the fire to spread.
+*Translation:* GEMARA: **Reish Lakish says in the name of Ḥizkiyya: They taught** that one who sends fire in the hand of a deaf-mute, a person with psychosis, or a minor is exempt **only when he conveyed to him** a glowing **coal and** one of these people **fanned** it himself and set it alight. **But** if one **conveyed a torch to** a deaf-mute, person with psychosis, or minor, the one who gave it to him is **liable. What is the reason** for this *halakha*? **The action** of the one who gave it to him directly **caused** the fire to spread.
 
 **15.**
 *Hebrew/Aramaic:* וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ מָסַר לוֹ שַׁלְהֶבֶת – פָּטוּר, מַאי טַעְמָא? צְבָתָא דְחֵרֵשׁ גָּרְמָה לוֹ. וְלָא מִחַיַּיב עַד שֶׁיִּמְסוֹר לוֹ גְּווֹזָא,

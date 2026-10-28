@@ -34,7 +34,7 @@
 
 **9.**
 *Hebrew/Aramaic:* וְהָאִיכָּא הַשּׁוֹלֵחַ אֶת הַבְּעֵרָה בְּיַד חֵרֵשׁ שׁוֹטֶה וְקָטָן – פָּטוּר מִדִּינֵי אָדָם, וְחַיָּיב בְּדִינֵי שָׁמַיִם!
-*Translation:* The Gemara adds: **But there is** the case of **one who sends** an exposed **flame in the hand of a deaf-mute, an imbecile, or a minor,** and the fire spreads, causing damage; he is **exempt according to human laws but liable according to the laws of Heaven.**
+*Translation:* The Gemara adds: **But there is** the case of **one who sends** an exposed **flame in the hand of a deaf-mute, a person with psychosis, or a minor,** and the fire spreads, causing damage; he is **exempt according to human laws but liable according to the laws of Heaven.**
 
 **10.**
 *Hebrew/Aramaic:* וְהָאִיכָּא הַמַּבְעִית אֶת חֲבֵירוֹ – פָּטוּר מִדִּינֵי אָדָם, וְחַיָּיב בְּדִינֵי שָׁמַיִם!
@@ -82,7 +82,7 @@
 
 **21.**
 *Hebrew/Aramaic:* אֶלָּא מַתְנִיתִין בְּכוֹתֶל בָּרִיא, וַאֲפִילּוּ לֹא חָתְרָה. וְכִי אִיתְּמַר דְּרַבָּה – אַסֵּיפָא אִיתְּמַר: הַנִּיחָה בַּחַמָּה, אוֹ שֶׁמְּסָרָהּ לְחֵרֵשׁ שׁוֹטֶה וְקָטָן, וְיָצְתָה וְהִזִּיקָה – חַיָּיב. אָמַר רַבָּה: וַאֲפִילּוּ חָתְרָה.
-*Translation:* **Rather,** the case of **the mishna concerns a stable wall, and even** if the animal **did not tunnel** under the wall the owner is exempt. **And when** the statement **of Rabba was stated, it was stated with regard to the latter clause** of the mishna that says: If the owner **left** the animal **in the sun or conveyed it to a deaf-mute, an imbecile, or a minor, and** the animal **went out and caused damage,** the owner is **liable.** Concerning this **Rabba stated: And** the owner is liable **even if** the animal **tunneled** its way out under the wall of the pen.
+*Translation:* **Rather,** the case of **the mishna concerns a stable wall, and even** if the animal **did not tunnel** under the wall the owner is exempt. **And when** the statement **of Rabba was stated, it was stated with regard to the latter clause** of the mishna that says: If the owner **left** the animal **in the sun or conveyed it to a deaf-mute, a person with psychosis, or a minor, and** the animal **went out and caused damage,** the owner is **liable.** Concerning this **Rabba stated: And** the owner is liable **even if** the animal **tunneled** its way out under the wall of the pen.
 
 **22.**
 *Hebrew/Aramaic:* לָא מִבַּעְיָא הֵיכָא דְּלָא חָתְרָה – דְּכוּלַּהּ בִּפְשִׁיעָה הוּא, אֶלָּא אֲפִילּוּ חָתְרָה נָמֵי. מַהוּ דְּתֵימָא: הָוְיָא לַהּ תְּחִילָּתוֹ בִּפְשִׁיעָה וְסוֹפוֹ בְּאוֹנֶס; קָא מַשְׁמַע לַן דְּכוּלַּהּ פְּשִׁיעָה הִיא,

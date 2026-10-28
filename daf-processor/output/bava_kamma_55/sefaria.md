@@ -79,7 +79,7 @@
 
 **3.**
 *Hebrew/Aramaic:* הִנִּיחָה בַּחַמָּה, אוֹ שֶׁמְּסָרָהּ לְחֵרֵשׁ שׁוֹטֶה וְקָטָן, וְיָצְאָה וְהִזִּיקָה – חַיָּיב.
-*Translation:* If the owner **left** the animal **in the sun,** causing it to suffer, **or** if **he conveyed it to a deaf-mute, an imbecile, or a minor,** who are not able to safeguard it, **and** the animal **went out and caused damage,** the owner is **liable** because he was negligent.
+*Translation:* If the owner **left** the animal **in the sun,** causing it to suffer, **or** if **he conveyed it to a deaf-mute, a person with psychosis, or a minor,** who are not able to safeguard it, **and** the animal **went out and caused damage,** the owner is **liable** because he was negligent.
 
 **4.**
 *Hebrew/Aramaic:* מְסָרָהּ לְרוֹעֶה – נִכְנַס הָרוֹעֶה תַּחְתָּיו.

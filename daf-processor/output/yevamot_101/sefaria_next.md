@@ -143,7 +143,7 @@
 
 **15.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ: שׁוֹטֶה, מִי כְּתִיב ״חָלַץ לָהֶם״? ״חָלַץ מֵהֶם״ כְּתִיב, וְאִילּוּ יְבָמָה דְּחָלְצוּ לָהּ אַחִין — מִידֵּי מְשָׁשָׁא אִית בֵּיהּ?
-*Translation:* **He,** Rabban Gamliel, **said to him: Imbecile, does it say: He performed *ḥalitza* to them [*lahem*]?** Rather, **it says “*ḥalatz* from them [*meihem*],”** meaning it is as if they, the Jewish people, performed *ḥalitza* on Him. **But if a *yevama* had her shoe removed by her *yevamin*, does this have any significance?** Here too, the meaning of the verse is that the nation of Israel abandoned God by removing themselves from Him, and this abandonment has no significance.
+*Translation:* **He,** Rabban Gamliel, **said to him: Fool, does it say: He performed *ḥalitza* to them [*lahem*]?** Rather, **it says “*ḥalatz* from them [*meihem*],”** meaning it is as if they, the Jewish people, performed *ḥalitza* on Him. **But if a *yevama* had her shoe removed by her *yevamin*, does this have any significance?** Here too, the meaning of the verse is that the nation of Israel abandoned God by removing themselves from Him, and this abandonment has no significance.
 
 **16.**
 *Hebrew/Aramaic:* בְּאַנְפִּילְיָא חֲלִיצָתָהּ פְּסוּלָה כּוּ׳. לְמֵימְרָא דְּאַנְפִּילְיָא לָאו מִנְעָל הוּא?

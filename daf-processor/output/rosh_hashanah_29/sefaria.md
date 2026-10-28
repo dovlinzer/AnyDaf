@@ -30,7 +30,7 @@
 
 **8.**
 *Hebrew/Aramaic:* חֵרֵשׁ שׁוֹטֶה וְקָטָן אֵין מוֹצִיאִין אֶת הָרַבִּים יְדֵי חוֹבָתָן. זֶה הַכְּלָל: כׇּל שֶׁאֵינוֹ מְחוּיָּיב בַּדָּבָר — אֵינוֹ מוֹצִיא אֶת הָרַבִּים יְדֵי חוֹבָתָן.
-*Translation:* Returning to its halakhic discussion, the mishna continues: **A deaf-mute, an imbecile, or a minor** who sounds the *shofar* **cannot discharge the obligation on behalf of the community. This is the principle** with regard to similar matters: **Whoever is not obligated to** do **a** certain **matter cannot discharge the obligation on behalf of the community.**
+*Translation:* Returning to its halakhic discussion, the mishna continues: **A deaf-mute, a person with psychosis, or a minor** who sounds the *shofar* **cannot discharge the obligation on behalf of the community. This is the principle** with regard to similar matters: **Whoever is not obligated to** do **a** certain **matter cannot discharge the obligation on behalf of the community.**
 
 **9.**
 *Hebrew/Aramaic:* גְּמָ׳ תָּנוּ רַבָּנַן: הַכֹּל חַיָּיבִין בִּתְקִיעַת שׁוֹפָר. כֹּהֲנִים וּלְוִיִּם וְיִשְׂרְאֵלִים. גֵּרִים וַעֲבָדִים מְשׁוּחְרָרִים. וְטוּמְטוּם וְאַנְדְּרוֹגִינוֹס. מִי שֶׁחֶצְיוֹ עֶבֶד וְחֶצְיוֹ בֶּן חוֹרִין.

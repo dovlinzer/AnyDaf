@@ -30,7 +30,7 @@
 
 **8.**
 *Hebrew/Aramaic:* חֵרֵשׁ, שׁוֹטֶה וְקָטָן פְּגִיעָתָן רָעָה, הַחוֹבֵל בָּהֶן – חַיָּיב, וְהֵם שֶׁחָבְלוּ בַּאֲחֵרִים – פְּטוּרִין.
-*Translation:* The mishna continues: With regard to **a deaf-mute, an imbecile, or a minor, an encounter with them is disadvantageous.** In other words, no favorable outcome is possible for someone involved in an incident with one of these people, since **one who injures them** is **liable. But** if **they were** the ones **who injured others, they** are **exempt.** This is because they lack awareness and are not responsible for their actions.
+*Translation:* The mishna continues: With regard to **a deaf-mute, a person with psychosis, or a minor, an encounter with them is disadvantageous.** In other words, no favorable outcome is possible for someone involved in an incident with one of these people, since **one who injures them** is **liable. But** if **they were** the ones **who injured others, they** are **exempt.** This is because they lack awareness and are not responsible for their actions.
 
 **9.**
 *Hebrew/Aramaic:* הָעֶבֶד וְהָאִשָּׁה פְּגִיעָתָן רָעָה, הַחוֹבֵל בָּהֶם – חַיָּיב, וְהֵם שֶׁחָבְלוּ בַּאֲחֵרִים – פְּטוּרִין, אֲבָל מְשַׁלְּמִין לְאַחַר זְמַן. נִתְגָּרְשָׁה הָאִשָּׁה, נִשְׁתַּחְרֵר הָעֶבֶד – חַיָּיבִין לְשַׁלֵּם.

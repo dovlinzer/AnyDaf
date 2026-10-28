@@ -32,8 +32,45 @@
   "use strict";
 
   const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  // שוטה is "a person with psychosis", never Davidson's "imbecile"; "fool" where the Gemara uses it
+  // as an insult. Same rules as daf-processor/term_fixes.py (keep the two in step).
+  const art = (a) => ({ an: "a", An: "A" })[a] || a;
+  const S = String.raw`(\s+\**|\**\s+|\s+)`, NOUNS = "(man|woman|partner|priest|wife|husband|person|son|daughter|girl|boy|slave)";
+  const STARS = (sep) => (sep.includes("*") ? "**" : "");
+  const DEVELOP = { became: "developed", become: "develop", becomes: "develops" };
+  const ANIMAL = "a *shoteh* (disoriented)";   // an animal that is a shoteh (Bava Kamma 52-54)
+  const TERM_RULES = [
+    [/\b(ox|animal)([\s*]+that[\s*]+(?:is|was)(?:[\s*]+impaired by being)?[\s*]+(?:deaf,[\s*]+)?)an imbecile\b/g, `$1$2${ANIMAL}`],
+    [/\b([Aa])n imbecile among animals\b/g, "$1 *shoteh* (a disoriented one) among animals"],
+    [/\(imbecile\)(?=,? or \*katan\* \(minor\) ox)/g, "(disoriented)"],
+    [/(:\s*\**)Imbeciles\b/g, "$1Fools"],
+    [/(:\s*\**)Imbecile\b(?=\**\s*[,!])/g, "$1Fool"],
+    [/\b([Gg])reatest imbecile\b/g, "$1reatest fool"],
+    [/\bcertain imbecile named\b/g, "certain fool named"],
+    [/\b(merely|essentially) an imbecile\b/g, "$1 a fool"],
+    [/\b(became|become)( \**| )imbecilic\b/g, (m, v, s) => DEVELOP[v] + s + "psychosis"],
+    [/\b(became|become|becomes)( \**| )an( \**| )imbecile\b/g, (m, v, s) => DEVELOP[v] + s + "psychosis"],
+    [/\btimes imbecilic\b/g, "times in a state of psychosis"],
+    [new RegExp(String.raw`\b(an|An|the|The|this|This|that|That|a|A)${S}imbecil(?:ic|e)${S}${NOUNS}\b`, "g"),
+      (m, a, s1, s2, n) => art(a) + s1 + n + " with psychosis" + STARS(s2)],
+    [new RegExp(String.raw`\bimbecilic${S}${NOUNS}\b`, "g"), (m, s1, n) => n + " with psychosis" + STARS(s1)],
+    [/\(imbecile\)/g, "(a person with psychosis)"],
+    [/\bImbeciles\b/g, "People with psychosis"],
+    [/\bimbeciles\b/g, "people with psychosis"],
+    [/\b(an|An)(\s+\**|\**\s+|\s+)imbecile\b/g, (m, a, s) => art(a) + s + "person with psychosis"],
+    [/\bImbecile\b/g, "Person with psychosis"],
+    [/\bimbecile\b/g, "person with psychosis"],
+    [/\b(is|was|are|were|be|being)( \**| )imbecilic\b/g, "$1$2in a state of psychosis"],
+    [/\bimbecility\b/g, "psychosis"],
+  ];
+  const fixTerms = (s) => {
+    s = String(s ?? "");
+    if (!s.includes("mbecil")) return s;
+    for (const [re, to] of TERM_RULES) s = s.replace(re, to);
+    return s;
+  };
   // **bold** may hold *italics* ("**not a *bekhor***")
-  const md = (s) => esc(s).replace(/\*\*((?:[^*]|\*[^*]+\*)+)\*\*/g, "<b>$1</b>").replace(/\*([^*]+)\*/g, "<i>$1</i>");
+  const md = (s) => esc(fixTerms(s)).replace(/\*\*((?:[^*]|\*[^*]+\*)+)\*\*/g, "<b>$1</b>").replace(/\*([^*]+)\*/g, "<i>$1</i>");
 
   // Interface words, by the outline's language (outline.lang: "he" lays the outline out right to left).
   const WORDS = {
@@ -608,5 +645,5 @@
     };
   }
 
-  global.AnyDafOutline = { render, glance, glossary, md, esc, cellTone, RULING };
+  global.AnyDafOutline = { render, glance, glossary, md, esc, fixTerms, cellTone, RULING };
 })(typeof window !== "undefined" ? window : globalThis);

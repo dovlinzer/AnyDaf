@@ -2,7 +2,7 @@
 
 **1.**
 *Hebrew/Aramaic:* חַיָּיב בְּשִׂמְחָה. וְאֶת שֶׁאֵינוֹ לֹא שׁוֹמֵעַ וְלֹא מְדַבֵּר, וְשׁוֹטֶה וְקָטָן — פְּטוּרִין אַף מִן הַשִּׂמְחָה, הוֹאִיל וּפְטוּרִין מִכׇּל מִצְוֹת הָאֲמוּרוֹת בַּתּוֹרָה. מַאי שְׁנָא לְעִנְיַן רְאִיָּה דִּפְטִירִי, וּמַאי שְׁנָא לְעִנְיַן שִׂמְחָה דִּמְחַיְּיבִי?
-*Translation:* they are **obligated in rejoicing. And one who does not hear and does not speak, an imbecile, and a minor are** all **exempt even from rejoicing, since they are exempt from all the mitzvot mentioned in the Torah.** The Gemara asks: **What is different with regard to** the mitzva of **appearance, that** a deaf person and a mute **are exempt** from this mitzva? **And what is different with regard to** the mitzva of **rejoicing, that they are obligated?**
+*Translation:* they are **obligated in rejoicing. And one who does not hear and does not speak, a person with psychosis, and a minor are** all **exempt even from rejoicing, since they are exempt from all the mitzvot mentioned in the Torah.** The Gemara asks: **What is different with regard to** the mitzva of **appearance, that** a deaf person and a mute **are exempt** from this mitzva? **And what is different with regard to** the mitzva of **rejoicing, that they are obligated?**
 
 **2.**
 *Hebrew/Aramaic:* לְעִנְיַן רְאִיָּה גָּמַר ״רְאִיָּה״ ״רְאִיָּה״ מֵהַקְהֵל, דִּכְתִיב: ״הַקְהֵל אֶת הָעָם הָאֲנָשִׁים וְהַנָּשִׁים וְהַטַּף״, וּכְתִיב: ״בְּבֹא כׇּל יִשְׂרָאֵל לֵרָאוֹת״.
@@ -127,11 +127,11 @@
 
 **12.**
 *Hebrew/Aramaic:* תָּנוּ רַבָּנַן: אֵיזֶהוּ שׁוֹטֶה? הַיּוֹצֵא יְחִידִי בַּלַּיְלָה, וְהַלָּן בְּבֵית הַקְּבָרוֹת, וְהַמְקָרֵעַ אֶת כְּסוּתוֹ. אִיתְּמַר, רַב הוּנָא אָמַר: עַד שֶׁיְּהוּ כּוּלָּן בְּבַת אַחַת, רַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ בְּאַחַת מֵהֶן.
-*Translation:* § **The Sages taught: Who is** considered **an imbecile? One who goes out alone at night, and one who sleeps in a cemetery, and one who rends his garment. It was stated** that **Rav Huna said:** One does not have the halakhic status of an imbecile **until there are all** of these signs present in him **at the same time. Rabbi Yoḥanan said:** He is considered an imbecile **even** due to the appearance **of one of** these signs.
+*Translation:* § **The Sages taught: Who is** considered **a person with psychosis? One who goes out alone at night, and one who sleeps in a cemetery, and one who rends his garment. It was stated** that **Rav Huna said:** One does not have the halakhic status of a person with psychosis **until there are all** of these signs present in him **at the same time. Rabbi Yoḥanan said:** He is considered a person with psychosis **even** due to the appearance **of one of** these signs.
 
 **13.**
 *Hebrew/Aramaic:* הֵיכִי דָמֵי? אִי דְּעָבֵיד לְהוּ דֶּרֶךְ שְׁטוּת — אֲפִילּוּ בַּחֲדָא נָמֵי, אִי דְּלָא עָבֵיד לְהוּ דֶּרֶךְ שְׁטוּת — אֲפִילּוּ כּוּלְּהוּ נָמֵי לָא.
-*Translation:* The Gemara asks: **What are the circumstances** of the case under discussion? **If he performs them in a deranged manner,** then **even** the appearance **of one** sign should be enough to classify him as an imbecile. **If** he **does not perform these** actions **in a deranged manner,** but has a reason to act this way, then **even** if he performs **all of them** he should **not** be deemed an imbecile.
+*Translation:* The Gemara asks: **What are the circumstances** of the case under discussion? **If he performs them in a deranged manner,** then **even** the appearance **of one** sign should be enough to classify him as a person with psychosis. **If** he **does not perform these** actions **in a deranged manner,** but has a reason to act this way, then **even** if he performs **all of them** he should **not** be deemed a person with psychosis.
 
 **14.**
 *Hebrew/Aramaic:* לְעוֹלָם דְּקָא עָבֵיד לְהוּ דֶּרֶךְ שְׁטוּת, וְהַלָּן בְּבֵית הַקְּבָרוֹת — אֵימוֹר כְּדֵי שֶׁתִּשְׁרֶה עָלָיו רוּחַ טוּמְאָה הוּא דְּקָא עָבֵיד. וְהַיּוֹצֵא יְחִידִי בַּלַּיְלָה — אֵימוֹר גַּנְדְּרִיפַס אַחְדֵּיהּ, וְהַמְקָרֵעַ אֶת כְּסוּתוֹ — אֵימוֹר בַּעַל מַחְשָׁבוֹת הוּא, כֵּיוָן דְּעַבְדִינְהוּ לְכוּלְּהוּ, הָוֵה לְהוּ

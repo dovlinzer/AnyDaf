@@ -302,9 +302,9 @@ Rav resolves the difficulty: *b'ta'anat katan* — the case involves a *katan*. 
 ### Katan Objection
 
 > **Hebrew/Aramaic:** קָטָן, מִידֵּי מְשָׁשָׁא אִית בֵּיהּ?! וְהָתְנַן: אֵין נִשְׁבָּעִין עַל טַעֲנַת חֵרֵשׁ, שׁוֹטֶה וְקָטָן!
-> **Translation:** The Gemara asks: Does the claim of **a minor have any substance? But didn’t we learn** in a mishna (*Shevuot* 38b): **One does not take an oath** in response **to the claim of a deaf-mute, an imbecile, or a minor,** as the claim of one who lacks halakhic competence has no significance whatsoever. According to this, if a minor brought a claim against the borrower, it is as though there were no claim at all but only the borrower’s admission, and so the borrower should be exempt from taking an oath.
+> **Translation:** The Gemara asks: Does the claim of **a minor have any substance? But didn’t we learn** in a mishna (*Shevuot* 38b): **One does not take an oath** in response **to the claim of a deaf-mute, a person with psychosis, or a minor,** as the claim of one who lacks halakhic competence has no significance whatsoever. According to this, if a minor brought a claim against the borrower, it is as though there were no claim at all but only the borrower’s admission, and so the borrower should be exempt from taking an oath.
 
-The Gemara objects: a *katan*'s claim has no *halachic* standing at all. *D'tnan: ein nishba'in al ta'anat cheresh, shoteh, v'katan* — one does not take an oath in response to the claim of a deaf-mute, an imbecile, or a minor. If the *katan*'s challenge carries no legal weight, why does it neutralize the debtor's *migo*? The *migo* should still apply: even facing a *katan*, I could simply have denied everything, so my partial admission should be credited.
+The Gemara objects: a *katan*'s claim has no *halachic* standing at all. *D'tnan: ein nishba'in al ta'anat cheresh, shoteh, v'katan* — one does not take an oath in response to the claim of a deaf-mute, a person with psychosis, or a minor. If the *katan*'s challenge carries no legal weight, why does it neutralize the debtor's *migo*? The *migo* should still apply: even facing a *katan*, I could simply have denied everything, so my partial admission should be credited.
 
 ### Ignorant = Katan
 

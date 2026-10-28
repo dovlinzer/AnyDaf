@@ -18,7 +18,7 @@
 
 **5.**
 *Hebrew/Aramaic:* הֶעֱלוּם חֵרֵשׁ שׁוֹטֶה וְקָטָן, אַף עַל פִּי שֶׁנִּתְכַּוְּונוּ לְכָךְ, אֵינָן בְּ״כִי יוּתַּן״, מִפְּנֵי שֶׁיֵּשׁ לָהֶן מַעֲשֶׂה וְאֵין לָהֶן מַחְשָׁבָה.
-*Translation:* That mishna continues: In a case where **a deaf-mute, an imbecile, or a minor took** the produce **up** to the roof, **even if they intended** that the produce would be dampened by dew, the produce **is not in** the category of the verse “But **when** water **is placed** upon the seed” **due to** the fact **that they have** the capacity to perform **an action but they do not have** the capacity for halakhically effective **thought.**
+*Translation:* That mishna continues: In a case where **a deaf-mute, a person with psychosis, or a minor took** the produce **up** to the roof, **even if they intended** that the produce would be dampened by dew, the produce **is not in** the category of the verse “But **when** water **is placed** upon the seed” **due to** the fact **that they have** the capacity to perform **an action but they do not have** the capacity for halakhically effective **thought.**
 
 **6.**
 *Hebrew/Aramaic:* וְאָמַר רַבִּי יוֹחָנָן: לֹא שָׁנוּ אֶלָּא שֶׁלֹּא הִיפֵּךְ בָּהֶן, אֲבָל הִיפֵּךְ בָּהֶן – הֲרֵי זֶה בְּ״כִי יוּתַּן״.
@@ -34,7 +34,7 @@
 
 **9.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ רַבִּי אַמֵּי: וְתִיבְּעֵי לֵיהּ מַחְשָׁבָה! מַאי שְׁנָא מַחְשָׁבָה דְּלָא קָא מִיבַּעְיָא לֵיהּ? דִּתְנַן: אֵין לָהֶן מַחְשָׁבָה. מַעֲשֶׂה נָמֵי לָא תִּיבְּעֵי לֵיהּ, דִּתְנַן: יֵשׁ לָהֶן מַעֲשֶׂה.
-*Translation:* **Rabbi Ami said to** Rabbi Ḥiyya bar Abba: **And let** Rabbi Yoḥanan **raise this dilemma** with regard to the **thought** of a minor. **What is different** about the **thought** of a minor **that** Rabbi Yoḥanan **does not raise a dilemma?** Is it due to the fact **that we learned** in a mishna (*Kelim* 17:15): A deaf-mute, an imbecile, and a minor **do not have** the capacity for effective **thought?** With regard to **action as well let him not raise this dilemma, as we learned** in the same mishna: **They have** the capacity to perform **an action.**
+*Translation:* **Rabbi Ami said to** Rabbi Ḥiyya bar Abba: **And let** Rabbi Yoḥanan **raise this dilemma** with regard to the **thought** of a minor. **What is different** about the **thought** of a minor **that** Rabbi Yoḥanan **does not raise a dilemma?** Is it due to the fact **that we learned** in a mishna (*Kelim* 17:15): A deaf-mute, a person with psychosis, and a minor **do not have** the capacity for effective **thought?** With regard to **action as well let him not raise this dilemma, as we learned** in the same mishna: **They have** the capacity to perform **an action.**
 
 **10.**
 *Hebrew/Aramaic:* הָכִי קָא מִיבַּעְיָא לֵיהּ: דְּאוֹרָיְיתָא אוֹ דְּרַבָּנַן? וּפָשֵׁיט: יֵשׁ לָהֶן מַעֲשֶׂה, וַאֲפִילּוּ מִדְּאוֹרָיְיתָא, אֵין לָהֶן מַחְשָׁבָה, וַאֲפִילּוּ מִדְּרַבָּנַן. מַחְשַׁבְתּוֹ נִיכֶּרֶת מִתּוֹךְ מַעֲשָׂיו – מִדְּאוֹרָיְיתָא אֵין לוֹ, מִדְּרַבָּנַן יֵשׁ לוֹ.

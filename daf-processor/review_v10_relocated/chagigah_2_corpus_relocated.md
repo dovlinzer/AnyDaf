@@ -15,7 +15,7 @@ The *mishna* opens: *hakol chayavin bere'iyah* — everyone is obligated in the 
 It is this first *korban* — the *korban re'iyah* — that the *mishna* declares universally obligatory. The *mishna* then proceeds to enumerate those categories of individuals who are nonetheless exempt.
 
 > **Hebrew/Aramaic:** הַכֹּל חַיָּיבִין בִּרְאִיָּיה, חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן, וְטוּמְטוּם וְאַנְדְּרוֹגִינוֹס, וְנָשִׁים, וַעֲבָדִים שֶׁאֵינָם מְשׁוּחְרָרִים, הַחִיגֵּר וְהַסּוֹמֵא, וְהַחוֹלֶה וְהַזָּקֵן, וּמִי שֶׁאֵינוֹ יָכוֹל לַעֲלוֹת בְּרַגְלָיו.
-> **Translation:** MISHNA: **All are obligated** on the three pilgrim Festivals **in the** mitzva of **appearance,** i.e., to appear in the Temple as well as to sacrifice an offering, **except for a deaf-mute, an imbecile, and a minor; and a *tumtum*, and a hermaphrodite, and women, and slaves who are not emancipated; and the lame, and the blind, and the sick, and the old, and one who is unable to ascend** to Jerusalem **on his** own **legs.**
+> **Translation:** MISHNA: **All are obligated** on the three pilgrim Festivals **in the** mitzva of **appearance,** i.e., to appear in the Temple as well as to sacrifice an offering, **except for a deaf-mute, a person with psychosis, and a minor; and a *tumtum*, and a hermaphrodite, and women, and slaves who are not emancipated; and the lame, and the blind, and the sick, and the old, and one who is unable to ascend** to Jerusalem **on his** own **legs.**
 
 ---
 

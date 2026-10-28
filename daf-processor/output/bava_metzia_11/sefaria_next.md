@@ -42,7 +42,7 @@
 
 **11.**
 *Hebrew/Aramaic:* וְסָבַר רַבִּי יוֹסֵי קָטָן אִית לֵיהּ זְכִיָּיה מִדְּאוֹרָיְיתָא? וְהָתְנַן: מְצִיאַת חֵרֵשׁ, שׁוֹטֶה וְקָטָן יֵשׁ בָּהֶן מִשּׁוּם גָּזֵל מִפְּנֵי דַּרְכֵי שָׁלוֹם. רַבִּי יוֹסֵי אוֹמֵר: גָּזֵל גָּמוּר.
-*Translation:* The Gemara asks: **And does Rabbi Yosei hold** that **a minor has** the capability of **acquiring** property **by Torah** law? **But didn’t we learn** in a mishna (*Gittin* 59b): With regard to the **found items of a deaf-mute, an imbecile, or a minor,** i.e., lost items that they found, although they are not considered to be halakhically competent and are unable to acquire found items by Torah law, taking such items from them **is considered robbery,** by rabbinic law, **for the sake of the ways of peace. Rabbi Yosei says:** This is **full-fledged robbery.**
+*Translation:* The Gemara asks: **And does Rabbi Yosei hold** that **a minor has** the capability of **acquiring** property **by Torah** law? **But didn’t we learn** in a mishna (*Gittin* 59b): With regard to the **found items of a deaf-mute, a person with psychosis, or a minor,** i.e., lost items that they found, although they are not considered to be halakhically competent and are unable to acquire found items by Torah law, taking such items from them **is considered robbery,** by rabbinic law, **for the sake of the ways of peace. Rabbi Yosei says:** This is **full-fledged robbery.**
 
 **12.**
 *Hebrew/Aramaic:* וְאָמַר רַב חִסְדָּא: גָּזֵל גָּמוּר מִדִּבְרֵיהֶן. נָפְקָא מִינַּהּ לְהוֹצִיאָהּ בְּדַיָּינִין.

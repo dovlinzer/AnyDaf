@@ -50,7 +50,7 @@
 
 **13.**
 *Hebrew/Aramaic:* אָמַר לוֹ אַל תִּשְׁנֶה אוֹתָהּ אֶלָּא בִּלְשׁוֹן בֶּן תַּדָּל, וְהָא טַעְמָא קָאָמַר, דְּאָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: מַאי דִּכְתִיב ״עָנִי וָרָשׁ הַצְדִּיקוּ״? מַאי ״הַצְדִּיקוּ״?
-*Translation:* Rabbi Shimon ben Lakish **said to** Rabbi Yoḥanan: Even if **you teach that** *baraita* **only in a language** whereby a certain imbecile named **ben Tedal** states that this is the opinion of Rabbi Meir, a question remains, as **isn’t** there **a stated reason** for stringency in cases of uncertainties with regard to gifts left for the poor? **As Rabbi Shimon ben Lakish said: What** is the meaning of that **which is written: “Do justice to the afflicted and destitute”** (Psalms 82:3)? Specifically, **what is** the meaning of **“do justice”?**
+*Translation:* Rabbi Shimon ben Lakish **said to** Rabbi Yoḥanan: Even if **you teach that** *baraita* **only in a language** whereby a certain fool named **ben Tedal** states that this is the opinion of Rabbi Meir, a question remains, as **isn’t** there **a stated reason** for stringency in cases of uncertainties with regard to gifts left for the poor? **As Rabbi Shimon ben Lakish said: What** is the meaning of that **which is written: “Do justice to the afflicted and destitute”** (Psalms 82:3)? Specifically, **what is** the meaning of **“do justice”?**
 
 **14.**
 *Hebrew/Aramaic:* אִילֵּימָא בְּדִינִים, וְהָא כְּתִיב ״וְדָל לֹא תֶהְדַּר בְּרִיבוֹ״? אֶלָּא, צַדֵּק מִשֶּׁלְּךָ וְתֵן לוֹ.

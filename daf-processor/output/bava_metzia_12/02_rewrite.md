@@ -196,11 +196,11 @@ The *gemara* resolves this by reframing Shmuel's statement: *Shmuel ta'ama de-ta
 
 ---
 
-## Deaf Imbecile Minor
+## Cheresh, Shoteh, Katan
 
 ### Darchei Shalom Rule
 
-The *gemara* now cites a *mishnah*: *metziat cheresh shoteh ve-katan — yesh bahem mishum gezel mipnei darchei shalom* — if a deaf-mute, an imbecile, or a minor finds a lost object, taking it from them constitutes something of a wrongful taking by reason of *darchei shalom* — maintaining social order and peaceful relations. The underlying reasoning is that these individuals lack sufficient *da'at* to perform a fully valid legal act of acquisition; technically, therefore, they have not acquired the *metzia* in a legally operative sense. Nevertheless, to preserve a well-functioning society, the rabbis declared that one may not take the object from them.
+The *gemara* now cites a *mishnah*: *metziat cheresh shoteh ve-katan — yesh bahem mishum gezel mipnei darchei shalom* — if a deaf-mute, a person with psychosis, or a minor finds a lost object, taking it from them constitutes something of a wrongful taking by reason of *darchei shalom* — maintaining social order and peaceful relations. The underlying reasoning is that these individuals lack sufficient *da'at* to perform a fully valid legal act of acquisition; technically, therefore, they have not acquired the *metzia* in a legally operative sense. Nevertheless, to preserve a well-functioning society, the rabbis declared that one may not take the object from them.
 
 ### Yose: Gezel
 

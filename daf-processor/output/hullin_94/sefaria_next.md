@@ -6,7 +6,7 @@
 
 **2.**
 *Hebrew/Aramaic:* אָמַר רַבִּי: בִּשְׁבִיל שׁוֹטֶה זֶה שֶׁעָשָׂה שֶׁלֹּא כַּהוֹגֶן, אָנוּ נֶאֱסוֹר כׇּל הַמָּקוֹלִין?!
-*Translation:* **Rabbi** Yehuda HaNasi **said** when he heard of this incident: **Because of this imbecile who acted improperly** and sold non-kosher meat to the gentile butcher without publicizing that he did so, should **we forbid all** of **the** meat from gentile **butcher shops** in the city?
+*Translation:* **Rabbi** Yehuda HaNasi **said** when he heard of this incident: **Because of this person with psychosis who acted improperly** and sold non-kosher meat to the gentile butcher without publicizing that he did so, should **we forbid all** of **the** meat from gentile **butcher shops** in the city?
 
 **3.**
 *Hebrew/Aramaic:* רַבִּי לְטַעְמֵיהּ, דַּאֲמַר: מָקוֹלִין וְטַבָּחֵי יִשְׂרָאֵל, בָּשָׂר הַנִּמְצָא בְּיַד גּוֹי – מוּתָּר.
@@ -14,7 +14,7 @@
 
 **4.**
 *Hebrew/Aramaic:* אִיכָּא דְאָמְרִי, אָמַר רַבִּי: מִפְּנֵי שׁוֹטֶה זֶה דְּאִיכַּוַּון לְצַעוֹרֵיהּ לְחַבְרֵיהּ, אָנוּ נֶאֱסוֹר כָּל הַמָּקוֹלִין?!
-*Translation:* The Gemara presents an alternate version of Rabbi Yehuda HaNasi’s reaction to the incident cited above: **There are** those **who say** that **Rabbi** Yehuda HaNasi **said: Because of this imbecile, who intended** only **to cause distress to his fellow,** should **we forbid all** of **the** meat from gentile **butcher shops?** That butcher was presumably lying about the meat having been from a *tereifa*.
+*Translation:* The Gemara presents an alternate version of Rabbi Yehuda HaNasi’s reaction to the incident cited above: **There are** those **who say** that **Rabbi** Yehuda HaNasi **said: Because of this person with psychosis, who intended** only **to cause distress to his fellow,** should **we forbid all** of **the** meat from gentile **butcher shops?** That butcher was presumably lying about the meat having been from a *tereifa*.
 
 **5.**
 *Hebrew/Aramaic:* טַעְמָא דְּאִיכַּוַּון לְצַעוֹרֵיהּ לְחַבְרֵיהּ, הָא לָאו הָכִי, אָסוּר. וְהָתַנְיָא: רַבִּי אוֹמֵר: מָקוֹלִין וְטַבָּחֵי יִשְׂרָאֵל, בָּשָׂר הַנִּמְצָא בְּיַד גּוֹי מוּתָּר! שָׁאנֵי הָכָא, דְּאִיתַּחְזַק אִיסּוּרָא.
@@ -111,7 +111,7 @@
 
 **15.**
 *Hebrew/Aramaic:* בְּעָא מִינֵּיהּ רַב הוּנָא מֵרַב: בַּחֲרוּזִין מַהוּ? אֲמַר לֵיהּ: אַל תְּהִי שׁוֹטֶה, בַּחֲרוּזִין הֲרֵי זֶה סִימָן. אִיכָּא דְּאָמְרִי: אָמַר רַב הוּנָא אָמַר רַב: בַּחֲרוּזִין הֲרֵי זֶה סִימָן.
-*Translation:* § The Gemara returns to discuss distinguishing marks that prevent meat from being prohibited despite its having been obscured from sight. **Rav Huna inquired of Rav:** If pieces of meat were **strung** together and then were obscured from sight, **what is** the *halakha*? Rav **said to him: Do not be an imbecile;** of course if the meat is **strung** together **it is** considered to be **a distinguishing mark,** and the meat is permitted. **There are** those **who say** this *halakha* as follows: **Rav Huna said** that **Rav said:** If pieces of meat are **strung** together **it is a distinguishing mark,** and the meat remains permitted even if it is obscured from sight.
+*Translation:* § The Gemara returns to discuss distinguishing marks that prevent meat from being prohibited despite its having been obscured from sight. **Rav Huna inquired of Rav:** If pieces of meat were **strung** together and then were obscured from sight, **what is** the *halakha*? Rav **said to him: Do not be a person with psychosis;** of course if the meat is **strung** together **it is** considered to be **a distinguishing mark,** and the meat is permitted. **There are** those **who say** this *halakha* as follows: **Rav Huna said** that **Rav said:** If pieces of meat are **strung** together **it is a distinguishing mark,** and the meat remains permitted even if it is obscured from sight.
 
 **16.**
 *Hebrew/Aramaic:* רַב נַחְמָן מִנְּהַרְדְּעָא אִיקְּלַע לְגַבֵּי רַב כָּהֲנָא לְפוּם נַהֲרָא בְּמַעֲלֵי יוֹמָא דְכִפּוּרֵי, אֲתוֹ עוֹרְבֵי שָׁדוּ כַּבְדֵי וְכוּלְיָתָא, אֲמַר לֵיהּ: שְׁקוֹל וֶאֱכוֹל, הָאִידָּנָא דְּהֶיתֵּרָא שְׁכִיחַ טְפֵי.

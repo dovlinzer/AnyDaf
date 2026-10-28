@@ -58,7 +58,7 @@
 
 **15.**
 *Hebrew/Aramaic:* וְאָזְדוּ לְטַעְמַיְיהוּ. דְּתַנְיָא: הַכֹּל כְּשֵׁרִים לְקַדֵּשׁ — חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן, רַבִּי יְהוּדָה מַכְשִׁיר בַּקָּטָן וּפוֹסֵל בְּאִשָּׁה וּבְאַנְדְּרוֹגִינוֹס.
-*Translation:* The Gemara comments: **And** the Rabbis and Rabbi Yehuda **follow their** usual line of **reasoning** with regard to a hermaphrodite. **As it is taught** in a *baraita*: **All are fit to sanctify** the purification waters **except for a deaf-mute, an imbecile, and a minor. Rabbi Yehuda deems a minor fit** for the task, **but deems a woman and a hermaphrodite unfit.**
+*Translation:* The Gemara comments: **And** the Rabbis and Rabbi Yehuda **follow their** usual line of **reasoning** with regard to a hermaphrodite. **As it is taught** in a *baraita*: **All are fit to sanctify** the purification waters **except for a deaf-mute, a person with psychosis, and a minor. Rabbi Yehuda deems a minor fit** for the task, **but deems a woman and a hermaphrodite unfit.**
 
 **16.**
 *Hebrew/Aramaic:* מַאי טַעְמָא דְּרַבָּנַן — דִּכְתִיב: ״וְלָקְחוּ לַטָּמֵא מֵעֲפַר שְׂרֵיפַת הַחַטָּאת״, הָנָךְ דְּפָסְלִי בַּאֲסִיפָה — פְּסוּלִין בְּקִידּוּשׁ, הָנָךְ דִּכְשֵׁרִין בַּאֲסִיפָה — כְּשֵׁרִים בְּקִידּוּשׁ.

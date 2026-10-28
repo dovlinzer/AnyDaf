@@ -216,7 +216,7 @@ The *gemara* turns to a series of laws relating to *parah adumah*, the red heife
 
 ### Normal Exclusions
 
-A *Mishna* provides the baseline: everybody may perform the *kiddush* — *chutz mechereish shoteh v'katan*, with the exception of those who lack halachic competence: the deaf-mute, the imbecile, and the minor. Women are ordinarily included.
+A *Mishna* provides the baseline: everybody may perform the *kiddush* — *chutz mechereish shoteh v'katan*, with the exception of those who lack halachic competence: the deaf-mute, the person with psychosis, and the minor. Women are ordinarily included.
 
 ### Gender vs. Age
 

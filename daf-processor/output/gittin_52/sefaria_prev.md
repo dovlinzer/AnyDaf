@@ -14,7 +14,7 @@
 
 **4.**
 *Hebrew/Aramaic:* קָטָן, מִידֵּי מְשָׁשָׁא אִית בֵּיהּ?! וְהָתְנַן: אֵין נִשְׁבָּעִין עַל טַעֲנַת חֵרֵשׁ, שׁוֹטֶה וְקָטָן!
-*Translation:* The Gemara asks: Does the claim of **a minor have any substance? But didn’t we learn** in a mishna (*Shevuot* 38b): **One does not take an oath** in response **to the claim of a deaf-mute, an imbecile, or a minor,** as the claim of one who lacks halakhic competence has no significance whatsoever. According to this, if a minor brought a claim against the borrower, it is as though there were no claim at all but only the borrower’s admission, and so the borrower should be exempt from taking an oath.
+*Translation:* The Gemara asks: Does the claim of **a minor have any substance? But didn’t we learn** in a mishna (*Shevuot* 38b): **One does not take an oath** in response **to the claim of a deaf-mute, a person with psychosis, or a minor,** as the claim of one who lacks halakhic competence has no significance whatsoever. According to this, if a minor brought a claim against the borrower, it is as though there were no claim at all but only the borrower’s admission, and so the borrower should be exempt from taking an oath.
 
 **5.**
 *Hebrew/Aramaic:* מַאי ״קָטָן״ – גָּדוֹל; וְאַמַּאי קָרֵי לֵיהּ ״קָטָן״? דִּלְגַבֵּי מִילֵּי דְאָבִיו, קָטָן הוּא.

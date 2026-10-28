@@ -18,7 +18,7 @@
 
 **5.**
 *Hebrew/Aramaic:* בְּמַאי קָמִיפַּלְגִי? רֵישׁ לָקִישׁ מְדַמֵּי לֵיהּ לְיָשֵׁן, וְרַבִּי יוֹחָנָן מְדַמֵּי לֵיהּ לְשׁוֹטֶה.
-*Translation:* The Gemara asks: **With regard to what** principle **do** Reish Lakish and Rabbi Yoḥanan **disagree? Reish Lakish compares** one afflicted with temporary insanity **to one who is sleeping.** If one said to write a bill of divorce and went to sleep then the court may write it without waiting for him to awaken. **And Rabbi Yoḥanan compares him to an imbecile:** When he is afflicted with temporary insanity he is not of sound mind and is therefore unfit to give a bill of divorce.
+*Translation:* The Gemara asks: **With regard to what** principle **do** Reish Lakish and Rabbi Yoḥanan **disagree? Reish Lakish compares** one afflicted with temporary psychosis **to one who is sleeping.** If one said to write a bill of divorce and went to sleep then the court may write it without waiting for him to awaken. **And Rabbi Yoḥanan compares him to a person with psychosis:** When he is afflicted with temporary psychosis he is not of sound mind and is therefore unfit to give a bill of divorce.
 
 **6.**
 *Hebrew/Aramaic:* וְרַבִּי יוֹחָנָן נָמֵי לִידַמְּיֵהּ לְיָשֵׁן! יָשֵׁן – לָא מְחוּסָּר מַעֲשֶׂה, הַאי – מְחוּסָּר מַעֲשֶׂה.
@@ -26,7 +26,7 @@
 
 **7.**
 *Hebrew/Aramaic:* וְרֵישׁ לָקִישׁ נָמֵי נִידַמְּיֵיהּ לְשׁוֹטֶה! שׁוֹטֶה לָא סַמֵּיהּ בִּידַן, הַאי, סַמֵּיהּ בִּידַן – בִּישְׂרָא סוּמָּקָא אַגּוּמְרֵי, וְחַמְרָא מַרְקָא.
-*Translation:* The Gemara asks: **And Reish Lakish could also compare him to an imbecile,** so why does he not do so? The Gemara answers: There is a difference, as **there is no remedy in our possession** that can cure **an imbecile.** And since there is no remedy, a bill of divorce may not be written on his behalf. By contrast, for **this** one, who is afflicted with temporary insanity, **there is a remedy in our possession.** As the Gemara explained (67b): The remedy for this disease is for the afflicted person to eat lean **red meat** roasted **over coals and** drink **wine** that has been **diluted** with a large amount of water.
+*Translation:* The Gemara asks: **And Reish Lakish could also compare him to a person with psychosis,** so why does he not do so? The Gemara answers: There is a difference, as **there is no remedy in our possession** that can cure **a person with psychosis.** And since there is no remedy, a bill of divorce may not be written on his behalf. By contrast, for **this** one, who is afflicted with temporary psychosis, **there is a remedy in our possession.** As the Gemara explained (67b): The remedy for this disease is for the afflicted person to eat lean **red meat** roasted **over coals and** drink **wine** that has been **diluted** with a large amount of water.
 
 **8.**
 *Hebrew/Aramaic:* וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי?! וְהָאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: שָׁחַט בּוֹ שְׁנַיִם, אוֹ רוֹב שְׁנַיִם, וְרָמַז וְאָמַר: ״כִּתְבוּ גֵּט לְאִשְׁתִּי״ – הֲרֵי אֵלּוּ יִכְתְּבוּ וְיִתְּנוּ;

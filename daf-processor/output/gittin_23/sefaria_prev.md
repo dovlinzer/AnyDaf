@@ -22,8 +22,8 @@
 
 **6.**
 *Hebrew/Aramaic:* מַתְנִי׳ הַכֹּל כְּשֵׁרִין לִכְתּוֹב אֶת הַגֵּט, אֲפִילּוּ חֵרֵשׁ, שׁוֹטֶה וְקָטָן. הָאִשָּׁה כּוֹתֶבֶת אֶת גִּיטָּהּ, וְהָאִישׁ כּוֹתֵב אֶת שׁוֹבָרוֹ. שֶׁאֵין קִיּוּם הַגֵּט אֶלָּא בְּחוֹתְמָיו.
-*Translation:* MISHNA: **Anyone is qualified to write a bill of divorce, even a deaf-mute, an imbecile, or a minor.** Additionally, **a woman may write her** own **bill of divorce** and give it to her husband so that he can present it to her. **And a man may write his** own **receipt,** which must be given to him by the woman to confirm that he has paid her the value of her marriage contract. This is because **the ratification of a bill of divorce is only through its signatories,** and it is irrelevant who wrote it.
+*Translation:* MISHNA: **Anyone is qualified to write a bill of divorce, even a deaf-mute, a person with psychosis, or a minor.** Additionally, **a woman may write her** own **bill of divorce** and give it to her husband so that he can present it to her. **And a man may write his** own **receipt,** which must be given to him by the woman to confirm that he has paid her the value of her marriage contract. This is because **the ratification of a bill of divorce is only through its signatories,** and it is irrelevant who wrote it.
 
 **7.**
 *Hebrew/Aramaic:* גְּמָ׳ וְהָא לָאו בְּנֵי דֵּיעָה נִינְהוּ! אָמַר רַב הוּנָא:
-*Translation:* GEMARA: The Gemara asks: **But** how can a deaf-mute, imbecile, or a minor write a bill of divorce? **They are not** halakhically **competent,** and they are not capable of writing a bill of divorce with the intent that it be for a particular woman. **Rav Huna says:**
+*Translation:* GEMARA: The Gemara asks: **But** how can a deaf-mute, person with psychosis, or a minor write a bill of divorce? **They are not** halakhically **competent,** and they are not capable of writing a bill of divorce with the intent that it be for a particular woman. **Rav Huna says:**

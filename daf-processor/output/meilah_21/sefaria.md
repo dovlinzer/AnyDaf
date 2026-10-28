@@ -10,7 +10,7 @@
 
 **3.**
 *Hebrew/Aramaic:* שִׁלַּח בְּיַד חֵרֵשׁ שׁוֹטֶה וְקָטָן, אִם עָשׂוּ שְׁלִיחוּתוֹ – בַּעַל הַבַּיִת מָעַל, לֹא עָשׂוּ שְׁלִיחוּתוֹ – חֶנְווֹנִי מֵעַל.
-*Translation:* In a case where the homeowner **sent** consecrated money **in the hand of a deaf-mute, an imbecile, or a minor,** who lack halakhic competence and cannot be commissioned as agents, in order to purchase an item from a storekeeper, **if they performed his agency, the homeowner is liable for misuse,** as his instructions were fulfilled. If **they did not perform his agency** but purchased a different item from the storekeeper, **the storekeeper is liable for misuse.**
+*Translation:* In a case where the homeowner **sent** consecrated money **in the hand of a deaf-mute, a person with psychosis, or a minor,** who lack halakhic competence and cannot be commissioned as agents, in order to purchase an item from a storekeeper, **if they performed his agency, the homeowner is liable for misuse,** as his instructions were fulfilled. If **they did not perform his agency** but purchased a different item from the storekeeper, **the storekeeper is liable for misuse.**
 
 **4.**
 *Hebrew/Aramaic:* שִׁלַּח בְּיַד פִּקֵּחַ, וְנִזְכַּר עַד שֶׁלֹּא הִגִּיעַ אֵצֶל חֶנְווֹנִי – חֶנְווֹנִי מָעַל לִכְשֶׁיּוֹצִיא.
@@ -26,7 +26,7 @@
 
 **7.**
 *Hebrew/Aramaic:* שִׁילַּח בְּיַד חֵרֵשׁ שׁוֹטֶה וְקָטָן, אִם עָשׂוּ [וְכוּ׳]. וְהָא לָאו בְּנֵי שְׁלִיחוּתָא נִינְהוּ!
-*Translation:* § The mishna teaches: In a case where the homeowner **sent** consecrated money **in the hand of a deaf-mute, an imbecile, or a minor,** who lack halakhic competence and cannot be commissioned as agents, in order to purchase an item from a storekeeper, **if they performed** his agency, the homeowner is liable for misuse, as his instructions were fulfilled. The Gemara raises a difficulty: **But they cannot be** involved in **agency.** Since these groups of people lack halakhic competence, they cannot be agents; if so, how can the homeowner be liable for misuse?
+*Translation:* § The mishna teaches: In a case where the homeowner **sent** consecrated money **in the hand of a deaf-mute, a person with psychosis, or a minor,** who lack halakhic competence and cannot be commissioned as agents, in order to purchase an item from a storekeeper, **if they performed** his agency, the homeowner is liable for misuse, as his instructions were fulfilled. The Gemara raises a difficulty: **But they cannot be** involved in **agency.** Since these groups of people lack halakhic competence, they cannot be agents; if so, how can the homeowner be liable for misuse?
 
 **8.**
 *Hebrew/Aramaic:* אָמַר רַבִּי אֶלְעָזָר: עֲשָׂאוּם כְּמַעֲטָן שֶׁל זֵיתִים,
@@ -38,7 +38,7 @@
 
 **10.**
 *Hebrew/Aramaic:* רַבִּי יוֹחָנָן אָמַר: כְּאוֹתָהּ שֶׁשָּׁנִינוּ, נְתָנוֹ עַל גַּבֵּי הַקּוֹף וְהוֹלִיכוֹ, אוֹ עַל גַּבֵּי הַפִּיל וְהוֹלִיכוֹ, וְאָמַר לְאַחֵר לְקַבְּלוֹ מִמֶּנּוּ – הֲרֵי זֶה עֵירוּב. אַלְמָא קָא עָבְדָא שְׁלִיחוּתֵיהּ. הָכִי נָמֵי, אִיתְעֲבִיד שְׁלִיחוּתֵיהּ.
-*Translation:* **Rabbi Yoḥanan says:** This case of a deaf-mute, imbecile or minor, is **like that which we learned** in a *baraita* with regard to placing food for a joining of Shabbat boundaries, i.e., an *eiruv*: If **one placed** the food of the *eiruv* **on a monkey, and** the monkey **brought it** to the place where he wanted the *eiruv* deposited, **or** if he placed it **on** a trained **elephant, and** the elephant **brought it** to the proper location, **and he told another** person **to receive it from** the animal, **it is** a valid ***eiruv*. Evidently, the agency is performed** by the monkey or elephant, despite the fact that they are unfit to serve as agents. **So too,** in the case of the deaf-mute, imbecile, or minor, **the agency is performed** despite the fact that they cannot be involved in agency.
+*Translation:* **Rabbi Yoḥanan says:** This case of a deaf-mute, person with psychosis or minor, is **like that which we learned** in a *baraita* with regard to placing food for a joining of Shabbat boundaries, i.e., an *eiruv*: If **one placed** the food of the *eiruv* **on a monkey, and** the monkey **brought it** to the place where he wanted the *eiruv* deposited, **or** if he placed it **on** a trained **elephant, and** the elephant **brought it** to the proper location, **and he told another** person **to receive it from** the animal, **it is** a valid ***eiruv*. Evidently, the agency is performed** by the monkey or elephant, despite the fact that they are unfit to serve as agents. **So too,** in the case of the deaf-mute, person with psychosis, or minor, **the agency is performed** despite the fact that they cannot be involved in agency.
 
 **11.**
 *Hebrew/Aramaic:* שִׁלַּח בְּיַד פִּקֵּחַ וְכוּ׳. וְאַף עַל גַּב דְּלָא אִידְּכַר שָׁלִיחַ. וּרְמִינְהִי: נִזְכַּר בַּעַל הַבַּיִת וְלֹא נִזְכַּר שָׁלִיחַ – הַשָּׁלִיחַ מָעַל, נִזְכְּרוּ שְׁנֵיהֶם – חֶנְוָנִי מָעַל!

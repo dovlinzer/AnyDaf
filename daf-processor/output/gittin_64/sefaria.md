@@ -103,7 +103,7 @@
 
 **8.**
 *Hebrew/Aramaic:* מַתְקֵיף לַהּ רַב הוּנָא בַּר מָנוֹחַ: הָא שׁוֹטָה בְּעָלְמָא הִיא! אֶלָּא אָמַר רַב הוּנָא בַּר מָנוֹחַ מִשְּׁמֵיהּ דְּרַב אַחָא בְּרֵיהּ דְּרַב אִיקָא: כֹּל שֶׁמַּבְחֶנֶת בֵּין גִּיטָּהּ לְדָבָר אַחֵר.
-*Translation:* **Rav Huna bar Manoaḥ objects to this: That** minor girl **is merely an imbecile,** as she keeps something else in lieu of her bill of divorce. **Rather, Rav Huna bar Manoaḥ says in the name of Rav Aḥa, son of Rav Ika:** The reference is to **any** girl **who distinguishes between her bill of divorce and something else,** and safeguards her bill of divorce and does not safeguard less significant items.
+*Translation:* **Rav Huna bar Manoaḥ objects to this: That** minor girl **is merely a fool,** as she keeps something else in lieu of her bill of divorce. **Rather, Rav Huna bar Manoaḥ says in the name of Rav Aḥa, son of Rav Ika:** The reference is to **any** girl **who distinguishes between her bill of divorce and something else,** and safeguards her bill of divorce and does not safeguard less significant items.
 
 **9.**
 *Hebrew/Aramaic:* אָמַר רַב יְהוּדָה אָמַר רַבִּי אַסִּי: צְרוֹר וְזוֹרְקוֹ, אֱגוֹז וְנוֹטְלוֹ – זוֹכֶה לְעַצְמוֹ, וְאֵין זוֹכֶה לַאֲחֵרִים. חֵפֶץ – וּמַחְזִירוֹ לְאַחַר שָׁעָה, זוֹכֶה בֵּין לְעַצְמוֹ וּבֵין לַאֲחֵרִים.

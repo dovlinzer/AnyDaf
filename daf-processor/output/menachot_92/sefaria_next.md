@@ -42,7 +42,7 @@
 
 **11.**
 *Hebrew/Aramaic:* מַתְנִי׳ הַכֹּל סוֹמְכִין, חוּץ מֵחֵרֵשׁ, שׁוֹטֶה, וְקָטָן, וְסוֹמֵא, וְגוֹי, וְהָעֶבֶד, וְהַשָּׁלִיחַ, וְהָאִשָּׁה.
-*Translation:* MISHNA: **Everyone** who brings an animal offering **places hands** upon its head, **except for a deaf-mute, an imbecile, a minor, a blind person, a gentile,** a Canaanite **slave, the agent** of the owner of the offering who brings the offering on the owner’s behalf, **and a woman.**
+*Translation:* MISHNA: **Everyone** who brings an animal offering **places hands** upon its head, **except for a deaf-mute, a person with psychosis, a minor, a blind person, a gentile,** a Canaanite **slave, the agent** of the owner of the offering who brings the offering on the owner’s behalf, **and a woman.**
 
 **12.**
 *Hebrew/Aramaic:* וּסְמִיכָה – שְׁיָרֵי מִצְוָה.
@@ -54,7 +54,7 @@
 
 **14.**
 *Hebrew/Aramaic:* גְּמָ׳ בִּשְׁלָמָא חֵרֵשׁ שׁוֹטֶה וְקָטָן, דְּלָאו בְּנֵי דֵעָה נִינְהוּ. גּוֹי נָמֵי – ״בְּנֵי יִשְׂרָאֵל״ סוֹמְכִין וְאֵין גּוֹיִם סוֹמְכִין. אֶלָּא סוֹמֵא מַאי טַעְמָא לָא?
-*Translation:* GEMARA: The Gemara explains why certain types of people do not place hands on an offering: **Granted, a deaf-mute, an imbecile, and a minor** do not place their hands on the offering, **as they are not mentally competent.** The exclusion of **a gentile** is also understandable, as the verses concerning placing hands are introduced with: “Speak to the children of Israel and say to them” (Leviticus 1:2), which indicates that **the children of Israel place hands** upon their offerings, **but gentiles do not place** their **hands** upon their offerings. **But** with regard to **a blind person, what is the reason** that he does **not** place his hands on his offering?
+*Translation:* GEMARA: The Gemara explains why certain types of people do not place hands on an offering: **Granted, a deaf-mute, a person with psychosis, and a minor** do not place their hands on the offering, **as they are not mentally competent.** The exclusion of **a gentile** is also understandable, as the verses concerning placing hands are introduced with: “Speak to the children of Israel and say to them” (Leviticus 1:2), which indicates that **the children of Israel place hands** upon their offerings, **but gentiles do not place** their **hands** upon their offerings. **But** with regard to **a blind person, what is the reason** that he does **not** place his hands on his offering?
 
 **15.**
 *Hebrew/Aramaic:* רַב חִסְדָּא וְרַב יִצְחָק בַּר אַבְדִּימִי, חַד אָמַר: אָתְיָא סְמִיכָה סְמִיכָה מִ״זִּקְנֵי עֵדָה״.

@@ -55,7 +55,7 @@
 
 **3.**
 *Hebrew/Aramaic:* נִטְפַּל לָהֶן רַבָּן יוֹחָנָן בֶּן זַכַּאי, אָמַר לָהֶם: שׁוֹטִים, מִנַּיִן זֶה לָכֶם? וְלֹא הָיָה אָדָם שֶׁהֶחְזִירוֹ דָּבָר, חוּץ מִזָּקֵן אֶחָד שֶׁהָיָה מְפַטְפֵּט כְּנֶגְדּוֹ, וְאוֹמֵר: וּמָה בַּת בְּנוֹ הַבָּאָה מִכֹּחַ בְּנוֹ – תִּירָשֶׁנּוּ; בִּתּוֹ הַבָּאָה מִכֹּחוֹ – לֹא כׇּל שֶׁכֵּן?
-*Translation:* The *baraita* continues: **Rabban Yoḥanan ben Zakkai joined them** to discuss their ruling, and **said to them: Imbeciles, from where** do **you** derive **this** ruling? **And there was no person that answered him anything, except for one old** man **who was chattering at him and saying** that it is an *a fortiori* inference: **And just as a daughter of** the deceased’s **son, who comes** to claim her inheritance from her grandfather **by virtue of his son, inherits** her grandfather’s property, so too, with regard to the deceased’s own **daughter, who comes** to inherit **by virtue of** the deceased, **all the more so** is it **not** clear that she should inherit his property?
+*Translation:* The *baraita* continues: **Rabban Yoḥanan ben Zakkai joined them** to discuss their ruling, and **said to them: Fools, from where** do **you** derive **this** ruling? **And there was no person that answered him anything, except for one old** man **who was chattering at him and saying** that it is an *a fortiori* inference: **And just as a daughter of** the deceased’s **son, who comes** to claim her inheritance from her grandfather **by virtue of his son, inherits** her grandfather’s property, so too, with regard to the deceased’s own **daughter, who comes** to inherit **by virtue of** the deceased, **all the more so** is it **not** clear that she should inherit his property?
 
 **4.**
 *Hebrew/Aramaic:* קָרָא עָלָיו אֶת הַמִּקְרָא הַזֶּה: ״אֵלֶּה בְנֵי שֵׂעִיר הַחֹרִי יֹשְׁבֵי הָאָרֶץ: לוֹטָן וְשׁוֹבָל וְצִבְעוֹן וַעֲנָה״, וּכְתִיב: ״אֵלֶּה בְּנֵי צִבְעוֹן, וְאַיָּה וַעֲנָה״! אֶלָּא מְלַמֵּד שֶׁבָּא צִבְעוֹן עַל אִמּוֹ, וְהוֹלִיד עֲנָה.
@@ -67,4 +67,4 @@
 
 **6.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ: רַבִּי, בְּכָךְ אַתָּה פּוֹטְרֵנִי?! אָמַר לוֹ: שׁוֹטֶה,
-*Translation:* The *baraita* continues: The Sadducee **said to** Rabban Yoḥanan ben Zakkai: **My teacher, you dismiss me with this** retort? I agree that the son of a son precedes a daughter, as the verse you quoted suggests; I am asserting that a daughter inherits together with the daughter of a son, and the verse you quoted has no bearing on that claim. Rabban Yoḥanan ben Zakkai **said to him: Imbecile,**
+*Translation:* The *baraita* continues: The Sadducee **said to** Rabban Yoḥanan ben Zakkai: **My teacher, you dismiss me with this** retort? I agree that the son of a son precedes a daughter, as the verse you quoted suggests; I am asserting that a daughter inherits together with the daughter of a son, and the verse you quoted has no bearing on that claim. Rabban Yoḥanan ben Zakkai **said to him: Fool,**

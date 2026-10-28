@@ -186,7 +186,7 @@ Tosafot answers that *igun* for the slave is not primarily about marriage at all
 ### Deafness/Muteness
 
 > **Hebrew/Aramaic:** גְּמָ׳ מַאי ״אֵינוֹ יָכוֹל לוֹמַר״? אִילֵימָא חֵרֵשׁ, חֵרֵשׁ בַּר אֵתוֹיֵי גִּיטָּא הוּא?! וְהָתְנַן: הַכֹּל כְּשֵׁרִין לְהָבִיא אֶת הַגֵּט, חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן!
-> **Translation:** GEMARA: The Gemara asks: **What** is the meaning of the statement: **He is unable to say? If we say** that this is referring to **a deaf-mute, is a deaf-mute fit to bring a bill of divorce? But didn’t we learn** in a mishna (23a): **Anyone is fit** to serve as an agent **to bring a bill of divorce** to a woman **except for a deaf-mute, an imbecile, and a minor,** all of whom may not be appointed as agents at all, as they are not intellectually competent according to *halakha*?
+> **Translation:** GEMARA: The Gemara asks: **What** is the meaning of the statement: **He is unable to say? If we say** that this is referring to **a deaf-mute, is a deaf-mute fit to bring a bill of divorce? But didn’t we learn** in a mishna (23a): **Anyone is fit** to serve as an agent **to bring a bill of divorce** to a woman **except for a deaf-mute, a person with psychosis, and a minor,** all of whom may not be appointed as agents at all, as they are not intellectually competent according to *halakha*?
 
 Returning to the question raised by the *gemara* regarding *eino yachol lomar*: the straightforward reading might be that the agent is mute, physically unable to speak. But as noted, the language of the *mishnah* specifically raises the scenario in the context of an agent who is otherwise qualified to bring the *get*, while the *mishnah* elsewhere explicitly excludes a *cheresh* — a deaf-mute — from serving in this role.
 

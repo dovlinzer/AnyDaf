@@ -22,7 +22,7 @@
 
 **6.**
 *Hebrew/Aramaic:* הַהִיא ״זֹאת תּוֹרַת הַיֹּלֶדֶת״, בֵּין פִּקַּחַת בֵּין שׁוֹטָה, שֶׁכֵּן אָדָם מֵבִיא קׇרְבָּן עַל אִשְׁתּוֹ שׁוֹטָה,
-*Translation:* The Gemara explains: **That** verse: **“This is the law of a woman after childbirth,”** does not come to include a minor. Rather, it comes to teach that the *halakhot* of a woman after childbirth apply to **both a halakhically competent woman and a woman** who is **an imbecile, as a man brings an offering for his wife who is an imbecile.**
+*Translation:* The Gemara explains: **That** verse: **“This is the law of a woman after childbirth,”** does not come to include a minor. Rather, it comes to teach that the *halakhot* of a woman after childbirth apply to **both a halakhically competent woman and a woman** who is **a person with psychosis, as a man brings an offering for his wife who is a person with psychosis.**
 
 **7.**
 *Hebrew/Aramaic:* כְּדִבְרֵי רַבִּי יְהוּדָה. דְּתַנְיָא, רַבִּי יְהוּדָה אוֹמֵר: אָדָם מֵבִיא קׇרְבַּן עָשִׁיר עַל אִשְׁתּוֹ, וְכׇל קׇרְבָּנוֹת שֶׁחַיֶּיבֶת,

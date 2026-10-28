@@ -107,7 +107,7 @@
 
 **1.**
 *Hebrew/Aramaic:* אִיּוֹב מִן הַסְּעָרָה וַיֹּאמַר״ אֵלָיו: שׁוֹטֶה שֶׁבָּעוֹלָם, הַרְבֵּה נִימִין בָּרָאתִי בְּרֹאשׁוֹ שֶׁל אָדָם, וּלְכֹל נִימָא וְנִימָא בָּרָאתִי לוֹ גּוּמָּא בִּפְנֵי עַצְמָהּ שֶׁלֹּא יִהְיוּ שְׁתַּיִם יוֹנְקוֹת מִגּוּמָּא אַחַת, שֶׁאִלְמָלֵא שְׁתַּיִם יוֹנְקוֹת מִגּוּמָּא אַחַת מַכְחִישׁ מְאוֹר עֵינָיו שֶׁל אָדָם. גּוּמָּא בְּגוּמָּא לֹא נִתְחַלֵּף לִי, ״אִיּוֹב״ בְּ״אוֹיֵב״ נִתְחַלֵּף לִי?!
-*Translation:* **Job out of the tempest, and said”** (Job 38:1–3) **to him:** Greatest **imbecile in the world! I have created many hairs on a person’s head, and for each and every hair I created** its own **distinct follicle, so that two hairs should not draw** sustenance **from one follicle. As, were two** hairs **to draw** sustenance **from one follicle,** it would **weaken a man’s vision.** Now if **I did not confuse one follicle with another, would I confuse** a man named **Iyyov with *oyev*?** This indicates that two hairs do not grow from one follicle.
+*Translation:* **Job out of the tempest, and said”** (Job 38:1–3) **to him:** Greatest **person with psychosis in the world! I have created many hairs on a person’s head, and for each and every hair I created** its own **distinct follicle, so that two hairs should not draw** sustenance **from one follicle. As, were two** hairs **to draw** sustenance **from one follicle,** it would **weaken a man’s vision.** Now if **I did not confuse one follicle with another, would I confuse** a man named **Iyyov with *oyev*?** This indicates that two hairs do not grow from one follicle.
 
 **2.**
 *Hebrew/Aramaic:* לָא קַשְׁיָא: הָא בְּגוּפָא, הָא בְּרֵישָׁא.

@@ -126,7 +126,7 @@ On a second level, the *Mishnah* is actively demystifying narratives that could 
 ### Obligation Principle
 
 > **Hebrew/Aramaic:** חֵרֵשׁ שׁוֹטֶה וְקָטָן אֵין מוֹצִיאִין אֶת הָרַבִּים יְדֵי חוֹבָתָן. זֶה הַכְּלָל: כׇּל שֶׁאֵינוֹ מְחוּיָּיב בַּדָּבָר — אֵינוֹ מוֹצִיא אֶת הָרַבִּים יְדֵי חוֹבָתָן.
-> **Translation:** Returning to its halakhic discussion, the mishna continues: **A deaf-mute, an imbecile, or a minor** who sounds the *shofar* **cannot discharge the obligation on behalf of the community. This is the principle** with regard to similar matters: **Whoever is not obligated to** do **a** certain **matter cannot discharge the obligation on behalf of the community.**
+> **Translation:** Returning to its halakhic discussion, the mishna continues: **A deaf-mute, a person with psychosis, or a minor** who sounds the *shofar* **cannot discharge the obligation on behalf of the community. This is the principle** with regard to similar matters: **Whoever is not obligated to** do **a** certain **matter cannot discharge the obligation on behalf of the community.**
 
 The *Mishnah* now establishes a principle that was already implicit in the preceding discussion of *kavanah lehotzi*: *cheresh, shote, v'katan ein motzi'in es harabim yedei chovasan* — a deaf-mute, a *shote* (a person not anchored in rational reality, with a fuller definition reserved for discussion elsewhere), and a minor cannot discharge the public from its obligations. The governing principle is stated explicitly: *ze haklal — kol she'eino mechuyav badavar eino motzi es harabim yedei chovasan* — whoever is not themselves obligated in a matter cannot be the one through whom the community discharges its obligation.
 

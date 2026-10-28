@@ -111,7 +111,7 @@ Rabbi Yaakov bar Idi's reply is stinging: *dami hai me-rabbanan ke-dlo gmir inas
 
 ### Kutim as Non-Jews
 
-This conclusion carries a weighty implication. We know of only one category of individuals whose Shechita is invalid even under complete, direct Jewish supervision: the non-Jew. Even a Cheresh, Shoteh, or Katan — a deaf-mute, an imbecile, or a minor — can perform valid Shechita when directly supervised. If Rabban Gamliel's ruling extends to cases of direct observation, the only coherent explanation is that Kutim are being classified as non-Jews, whose Shechita is categorically invalid regardless of supervision. That is precisely the direction in which the Gemara will develop the discussion.
+This conclusion carries a weighty implication. We know of only one category of individuals whose Shechita is invalid even under complete, direct Jewish supervision: the non-Jew. Even a Cheresh, Shoteh, or Katan — a deaf-mute, a person with psychosis, or a minor — can perform valid Shechita when directly supervised. If Rabban Gamliel's ruling extends to cases of direct observation, the only coherent explanation is that Kutim are being classified as non-Jews, whose Shechita is categorically invalid regardless of supervision. That is precisely the direction in which the Gemara will develop the discussion.
 
 ### Later Amoraim Eat
 

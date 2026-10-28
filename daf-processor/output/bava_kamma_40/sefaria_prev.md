@@ -10,11 +10,11 @@
 
 **3.**
 *Hebrew/Aramaic:* דְּתַנְיָא: שׁוֹר שֶׁנִּתְחָרְשׁוּ בְּעָלָיו, וְשֶׁנִּשְׁתַּטּוּ בְּעָלָיו, וְשֶׁהָלְכוּ בְּעָלָיו לִמְדִינַת הַיָּם – יְהוּדָה בֶּן נְקוֹסָא אָמַר סוֹמְכוֹס: הֲרֵי הוּא בְּתַמּוּתוֹ עַד שֶׁיָּעִידוּ בּוֹ בִּפְנֵי הַבְּעָלִים. וַחֲכָמִים אוֹמְרִים: מַעֲמִידִין לָהֶן אַפּוֹטְרוֹפִּין, וּמְעִידִין בָּהֶן בִּפְנֵי אַפּוֹטְרוֹפִּין.
-*Translation:* **As it is taught** in a *baraita*: With regard to **an ox whose owner became a deaf-mute, or whose owner became an imbecile, or whose owner went overseas,** if the ox gores, **Yehuda ben Nakosa** said that **Sumakhos said: It retains its** status of **innocuousness until** the court **renders it forewarned in the presence of the owner. And the Rabbis say:** The court **appoints stewards for them, and** the ox **is rendered forewarned in the presence of the stewards.**
+*Translation:* **As it is taught** in a *baraita*: With regard to **an ox whose owner became a deaf-mute, or whose owner developed psychosis, or whose owner went overseas,** if the ox gores, **Yehuda ben Nakosa** said that **Sumakhos said: It retains its** status of **innocuousness until** the court **renders it forewarned in the presence of the owner. And the Rabbis say:** The court **appoints stewards for them, and** the ox **is rendered forewarned in the presence of the stewards.**
 
 **4.**
 *Hebrew/Aramaic:* נִתְפַּקֵּחַ הַחֵרֵשׁ, נִשְׁתַּפָּה הַשּׁוֹטֶה וְהִגְדִּיל הַקָּטָן – וּבָאוּ בְּעָלָיו מִמְּדִינַת הַיָּם, יְהוּדָה בֶּן נְקוֹסָא אָמַר סוֹמְכוֹס: חָזַר לְתַמּוּתוֹ, עַד שֶׁיָּעִידוּ בּוֹ בִּפְנֵי בְעָלִים. רַבִּי יוֹסֵי אָמַר: הֲרֵי הוּא בְּחֶזְקָתוֹ.
-*Translation:* If **the deaf-mute regained his hearing,** or **the imbecile became** halakhically **competent, or the minor reached majority, or its owner came** back **from overseas, Yehuda ben Nakosa** said that **Sumakhos said:** The ox **has reverted to its** previous status of **innocuousness, until it is rendered forewarned in the presence of the owner. Rabbi Yosei said:** The ox **retains its status** of being forewarned.
+*Translation:* If **the deaf-mute regained his hearing,** or **the person with psychosis became** halakhically **competent, or the minor reached majority, or its owner came** back **from overseas, Yehuda ben Nakosa** said that **Sumakhos said:** The ox **has reverted to its** previous status of **innocuousness, until it is rendered forewarned in the presence of the owner. Rabbi Yosei said:** The ox **retains its status** of being forewarned.
 
 **5.**
 *Hebrew/Aramaic:* אֲמַרוּ: מַאי ״הֲרֵי הוּא בְּתַמּוּתוֹ״ דְּקָאָמַר סוֹמְכוֹס? אִילֵּימָא דְּלָא מִיַּיעַד כְּלָל – הָא מִדְּקָתָנֵי סֵיפָא ״חָזַר לְתַמּוּתוֹ״, מִכְּלָל דְּאִיַּיעַד!
@@ -30,7 +30,7 @@
 
 **8.**
 *Hebrew/Aramaic:* תָּנוּ רַבָּנַן: שׁוֹר חֵרֵשׁ שׁוֹטֶה וְקָטָן שֶׁנָּגַח – רַבִּי יַעֲקֹב מְשַׁלֵּם חֲצִי נֶזֶק.
-*Translation:* § **The Sages taught** in a *baraita*: With regard to **an ox that gored** that belonged to **a deaf-mute, an imbecile, or a minor, Rabbi Ya’akov pays half** the cost of **the damage.**
+*Translation:* § **The Sages taught** in a *baraita*: With regard to **an ox that gored** that belonged to **a deaf-mute, a person with psychosis, or a minor, Rabbi Ya’akov pays half** the cost of **the damage.**
 
 **9.**
 *Hebrew/Aramaic:* רַבִּי יַעֲקֹב מַאי עֲבִידְתֵּיהּ? אֶלָּא אֵימָא, רַבִּי יַעֲקֹב אוֹמֵר: מְשַׁלֵּם חֲצִי נֶזֶק.
@@ -54,7 +54,7 @@
 
 **14.**
 *Hebrew/Aramaic:* אֲמַר לֵיהּ אַבָּיֵי: וְלָא פְּלִיגִי?! וְהָתַנְיָא: שׁוֹר שֶׁל חֵרֵשׁ, שׁוֹטֶה וְקָטָן שֶׁנָּגַח – רַבִּי יְהוּדָה מְחַיֵּיב, וְרַבִּי יַעֲקֹב אוֹמֵר: חֲצִי נֶזֶק הוּא דִּמְשַׁלֵּם! אָמַר רַבָּה בַּר עוּלָּא: מַה שֶּׁמְּחַיֵּיב רַבִּי יְהוּדָה פֵּירֵשׁ רַבִּי יַעֲקֹב.
-*Translation:* **Abaye said to** Rava: **But do** Rabbi Yehuda and Rabbi Ya’akov **not disagree** with regard to this matter? **But isn’t it taught** in a *baraita* that with regard to **an ox of a deaf-mute, an imbecile, or a minor, that gored, Rabbi Yehuda deems** the owner **liable, and Rabbi Ya’akov says that he pays** only **half** the cost of **the damage? Rabba bar Ulla says:** There is no disagreement here; **Rabbi Ya’akov** merely **explained what Rabbi Yehuda deems him liable** to pay.
+*Translation:* **Abaye said to** Rava: **But do** Rabbi Yehuda and Rabbi Ya’akov **not disagree** with regard to this matter? **But isn’t it taught** in a *baraita* that with regard to **an ox of a deaf-mute, a person with psychosis, or a minor, that gored, Rabbi Yehuda deems** the owner **liable, and Rabbi Ya’akov says that he pays** only **half** the cost of **the damage? Rabba bar Ulla says:** There is no disagreement here; **Rabbi Ya’akov** merely **explained what Rabbi Yehuda deems him liable** to pay.
 
 **15.**
 *Hebrew/Aramaic:* וּלְאַבָּיֵי דְּאָמַר פְּלִיגִי, בְּמַאי פְּלִיגִי?

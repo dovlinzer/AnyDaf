@@ -5,6 +5,8 @@ from typing import List, Optional, Tuple
 
 import requests
 
+from term_fixes import fix_terms
+
 logger = logging.getLogger(__name__)
 
 # Maps any recognisable spelling/transliteration → canonical Sefaria tractate name.
@@ -308,6 +310,7 @@ def _fetch_amud(masechta: str, daf: int, amud: str) -> Optional[str]:
         he = _html_to_md(_flatten(he_segments[i])) if i < len(he_segments) else ''
         en = _html_to_md(_flatten(en_segments[i])) if i < len(en_segments) else ''
         if he or en:
+            en = fix_terms(en, he)   # the author's wording: שוטה = "a person with psychosis"
             parts.append(f"**{i + 1}.**\n*Hebrew/Aramaic:* {he}\n*Translation:* {en}\n")
 
     return '\n'.join(parts)

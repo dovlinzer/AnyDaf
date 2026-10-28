@@ -71,7 +71,7 @@
 
 **6.**
 *Hebrew/Aramaic:* דָּבָר אַחֵר: אֵין שׁוֹטֶה נִפְגָּע.
-*Translation:* **Alternatively:** Why do we not record the days of salvation from troubles? Just as **a crazy person is not hurt,** as he is not aware of the troubles that befall him, so too, we cannot appreciate the magnitude of the calamities that befall us.
+*Translation:* **Alternatively:** Why do we not record the days of salvation from troubles? Just as **a person with psychosis is not hurt,** as he is not aware of the troubles that befall him, so too, we cannot appreciate the magnitude of the calamities that befall us.
 
 **7.**
 *Hebrew/Aramaic:* דָּבָר אַחֵר: אֵין בְּשַׂר הַמֵּת מַרְגִּישׁ בָּאִיזְמֵל. אִינִי?! וְהָאָמַר רַב יִצְחָק: קָשָׁה רִימָּה לַמֵּת כְּמַחַט בַּבָּשָׂר הַחַי, שֶׁנֶּאֱמַר: ״אַךְ בְּשָׂרוֹ עָלָיו יִכְאָב וְנַפְשׁוֹ עָלָיו תֶּאֱבָל״! אֵימָא: אֵין בָּשָׂר הַמֵּת שֶׁבַּחַי מַרְגִּישׁ בָּאִיזְמֵל.

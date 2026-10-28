@@ -22,7 +22,7 @@
 
 **6.**
 *Hebrew/Aramaic:* מַתְנִי׳ הַכֹּל כְּשֵׁרִין לִקְרוֹת אֶת הַמְּגִילָּה, חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן. רַבִּי יְהוּדָה מַכְשִׁיר בְּקָטָן.
-*Translation:* MISHNA: **Everyone is fit to read the Megilla, except for a deaf person, an imbecile, and a minor. Rabbi Yehuda** disagrees and **says that a minor is fit** to read the Megilla.
+*Translation:* MISHNA: **Everyone is fit to read the Megilla, except for a deaf person, a person with psychosis, and a minor. Rabbi Yehuda** disagrees and **says that a minor is fit** to read the Megilla.
 
 **7.**
 *Hebrew/Aramaic:* גְּמָ׳ מַאן תְּנָא חֵרֵשׁ דִּיעֲבַד נָמֵי לָא? אָמַר רַב מַתְנָה: רַבִּי יוֹסֵי הִיא, דִּתְנַן: הַקּוֹרֵא אֶת שְׁמַע וְלֹא הִשְׁמִיעַ לְאׇזְנוֹ — יָצָא, רַבִּי יוֹסֵי אוֹמֵר: לֹא יָצָא.
@@ -34,11 +34,11 @@
 
 **9.**
 *Hebrew/Aramaic:* לָא סָלְקָא דַּעְתָּךְ, דְּקָתָנֵי חֵרֵשׁ דּוּמְיָא דְּשׁוֹטֶה וְקָטָן: מָה שׁוֹטֶה וְקָטָן — דִּיעֲבַד נָמֵי לָא, אַף חֵרֵשׁ — דִּיעֲבַד נָמֵי לָא.
-*Translation:* The Gemara rejects this proposal: **This should not enter your mind, as** the mishna **teaches** the *halakha* of a deaf person, an imbecile, and a minor together, implying that **a deaf person is similar to an imbecile or a minor.** Therefore, it may be inferred that **just as** the readings of **an imbecile and a minor** are **not** valid **even after the fact, so too, even after the fact, no,** the reading of **a deaf person** is not valid.
+*Translation:* The Gemara rejects this proposal: **This should not enter your mind, as** the mishna **teaches** the *halakha* of a deaf person, a person with psychosis, and a minor together, implying that **a deaf person is similar to a person with psychosis or a minor.** Therefore, it may be inferred that **just as** the readings of **a person with psychosis and a minor** are **not** valid **even after the fact, so too, even after the fact, no,** the reading of **a deaf person** is not valid.
 
 **10.**
 *Hebrew/Aramaic:* וְדִלְמָא הָא כִּדְאִיתָא וְהָא כִּדְאִיתָא! מִדְּקָתָנֵי סֵיפָא: רַבִּי יְהוּדָה מַכְשִׁיר בְּקָטָן — מִכְּלָל דְּרֵישָׁא לָאו רַבִּי יְהוּדָה הִיא.
-*Translation:* The Gemara asks: **But perhaps** it is not so that all three cases are equivalent. Perhaps with regard to the imbecile and the minor, **this** *halakha* is **as it is, and** with regard to a deaf person, **that** *halakha* is **as it is.** Although all three cases are taught together, this may be merely because in all three cases he may not read *ab initio*; there may be a difference between them with regard to their status after the fact. It is possible that the mishna means that the reading of a deaf person is valid after the fact, and is citing the opinion of Rabbi Yehuda. The Gemara rejects this: It is impossible to say that the anonymous first *tanna* of the mishna is Rabbi Yehuda, as **from** the fact **that the latter clause teaches: Rabbi Yehuda says that a minor is fit, it may be inferred that the first clause** of the mishna **was not** taught by **Rabbi Yehuda.**
+*Translation:* The Gemara asks: **But perhaps** it is not so that all three cases are equivalent. Perhaps with regard to the person with psychosis and the minor, **this** *halakha* is **as it is, and** with regard to a deaf person, **that** *halakha* is **as it is.** Although all three cases are taught together, this may be merely because in all three cases he may not read *ab initio*; there may be a difference between them with regard to their status after the fact. It is possible that the mishna means that the reading of a deaf person is valid after the fact, and is citing the opinion of Rabbi Yehuda. The Gemara rejects this: It is impossible to say that the anonymous first *tanna* of the mishna is Rabbi Yehuda, as **from** the fact **that the latter clause teaches: Rabbi Yehuda says that a minor is fit, it may be inferred that the first clause** of the mishna **was not** taught by **Rabbi Yehuda.**
 
 **11.**
 *Hebrew/Aramaic:* וְדִלְמָא כּוּלַּהּ רַבִּי יְהוּדָה הִיא! מִי דָּמֵי? רֵישָׁא לִפְסוּלָה, וְסֵיפָא לִכְשֵׁירָה.
@@ -46,7 +46,7 @@
 
 **12.**
 *Hebrew/Aramaic:* וְדִלְמָא כּוּלַּהּ רַבִּי יְהוּדָה הִיא, וּתְרֵי גַוְונֵי קָטָן קָתָנֵי לַהּ, וְחַסּוֹרֵי מִיחַסְּרָא וְהָכִי קָתָנֵי: הַכֹּל כְּשֵׁרִין לִקְרוֹת אֶת הַמְּגִילָּה חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן, בַּמֶּה דְּבָרִים אֲמוּרִים — בְּקָטָן שֶׁלֹּא הִגִּיעַ לְחִינּוּךְ, אֲבָל בְּקָטָן שֶׁהִגִּיעַ לְחִינּוּךְ — אֲפִילּוּ לְכַתְּחִלָּה. שֶׁרַבִּי יְהוּדָה מַכְשִׁיר בְּקָטָן.
-*Translation:* The Gemara asks: **But perhaps** the mishna **in its entirety** expresses the opinion of **Rabbi Yehuda** after all. **And it is teaching** the *halakha* concerning **two** different **types of minors, and** the mishna **is incomplete,** lacking some words of elaboration, **and is teaching the following: Everyone is fit to read the Megilla except for a deaf person, an imbecile, and a minor. In what** case **is this statement said?** Only **with regard to a minor who has not reached** the age of **training** in mitzvot. **But a minor who has reached** the age of **training** in mitzvot may read the Megilla **even *ab initio*, as Rabbi Yehuda says that a minor** who has reached that requisite age **is fit** to read the Megilla.
+*Translation:* The Gemara asks: **But perhaps** the mishna **in its entirety** expresses the opinion of **Rabbi Yehuda** after all. **And it is teaching** the *halakha* concerning **two** different **types of minors, and** the mishna **is incomplete,** lacking some words of elaboration, **and is teaching the following: Everyone is fit to read the Megilla except for a deaf person, a person with psychosis, and a minor. In what** case **is this statement said?** Only **with regard to a minor who has not reached** the age of **training** in mitzvot. **But a minor who has reached** the age of **training** in mitzvot may read the Megilla **even *ab initio*, as Rabbi Yehuda says that a minor** who has reached that requisite age **is fit** to read the Megilla.
 
 **13.**
 *Hebrew/Aramaic:* בְּמַאי אוֹקֵימְתָּא — כְּרַבִּי יְהוּדָה, וְדִיעֲבַד?

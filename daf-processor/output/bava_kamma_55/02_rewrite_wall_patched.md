@@ -100,7 +100,7 @@ The *mishna* then presents exceptions. *Nifretzah balaila* — if it broke out a
 
 The case of *listim* introduces a further *chiddush*: if bandits broke the fence and the animal wandered off and damaged, the *listim* are *patur* and the owner is also *patur* — the *listim* do not acquire liability for the animal's actions because they did not take physical possession. However, *hotziuha listim* — if the bandits physically removed the animals and thereby established a form of possession — then *listim chayavin*. Like a *shomer* or a *ganav* who takes something into their domain, they assume responsibility for what it does, even without acquiring ownership.
 
-The *mishna* then addresses *lo na'al b'faneha k'rauy* in different terms: *henichah bachamah* — leaving the animal in blazing sun — or entrusting it to a *cheiresh shoteh v'katan* — a deaf-mute, imbecile, or minor. In such cases, despite locking the pen, the owner is *chayav*, because the conditions themselves create a predictable impetus for the animal to escape.
+The *mishna* then addresses *lo na'al b'faneha k'rauy* in different terms: *henichah bachamah* — leaving the animal in blazing sun — or entrusting it to a *cheiresh shoteh v'katan* — a deaf-mute, person with psychosis, or minor. In such cases, despite locking the pen, the owner is *chayav*, because the conditions themselves create a predictable impetus for the animal to escape.
 
 ### Nuances
 

@@ -50,7 +50,7 @@
 
 **13.**
 *Hebrew/Aramaic:* אִיתְּמַר נָמֵי, אָמַר רַבִּי יִרְמְיָה אָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן: אָכַל חֵלֶב וְהִפְרִישׁ קׇרְבָּן, וְנִשְׁתַּטָּה, וְחָזַר וְנִשְׁתַּפָּה – הוֹאִיל וְנִדְחָה, יִדָּחֶה.
-*Translation:* **It was also stated** that **Rabbi Yirmeya says** that **Rabbi Abbahu says** that **Rabbi Yoḥanan says:** If one unwittingly **ate** forbidden **fat and separated an offering** for this sin, **and** he then **became insane, and** later he **regained his sanity,** the animal that he had dedicated as a sin-offering may not be sacrificed. **Since** the offering **was rejected** from being sacrificed while he was insane, **it shall** remain **rejected.**
+*Translation:* **It was also stated** that **Rabbi Yirmeya says** that **Rabbi Abbahu says** that **Rabbi Yoḥanan says:** If one unwittingly **ate** forbidden **fat and separated an offering** for this sin, **and** he then **developed psychosis, and** later he **regained his sanity,** the animal that he had dedicated as a sin-offering may not be sacrificed. **Since** the offering **was rejected** from being sacrificed while he was in a state of psychosis, **it shall** remain **rejected.**
 
 **14.**
 *Hebrew/Aramaic:* וּצְרִיכָא, דְּאִי אַשְׁמְעִינַן קַמַּיְיתָא – מִשּׁוּם דְּאִיהוּ דְּחָה נַפְשֵׁיהּ בְּיָדַיִם, אֲבָל הַאי דְּמִמֵּילָא קָא דָחֵי – אֵימָא כְּיָשֵׁן דָּמֵי.

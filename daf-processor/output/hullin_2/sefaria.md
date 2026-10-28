@@ -2,7 +2,7 @@
 
 **1.**
 *Hebrew/Aramaic:* מַתְנִי׳ הַכֹּל שׁוֹחֲטִין וּשְׁחִיטָתָן כְּשֵׁרָה, חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן, שֶׁמָּא יְקַלְקְלוּ אֶת שְׁחִיטָתָן. וְכוּלָּן שֶׁשָּׁחֲטוּ וַאֲחֵרִים רוֹאִין אוֹתָן – שְׁחִיטָתָן כְּשֵׁרָה.
-*Translation:* MISHNA: **Everyone slaughters** an animal, i.e., can perform halakhically valid slaughter, **and their slaughter is valid, except for a deaf-mute, an imbecile, and a minor, lest they ruin their slaughter** because they lack competence. **And** for **all of them, when they slaughtered** an animal **and others see** and supervise **them, their slaughter is valid.**
+*Translation:* MISHNA: **Everyone slaughters** an animal, i.e., can perform halakhically valid slaughter, **and their slaughter is valid, except for a deaf-mute, a person with psychosis, and a minor, lest they ruin their slaughter** because they lack competence. **And** for **all of them, when they slaughtered** an animal **and others see** and supervise **them, their slaughter is valid.**
 
 **2.**
 *Hebrew/Aramaic:* גְּמָ׳ ״הַכֹּל שׁוֹחֲטִין״ – לְכַתְּחִלָּה, ״וּשְׁחִיטָתָן כְּשֵׁרָה״ – דִּיעֲבַד!
@@ -63,11 +63,11 @@
 
 **9.**
 *Hebrew/Aramaic:* חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן, דַּאֲפִילּוּ בְּחוּלִּין גְּרֵידֵי, דִּיעֲבַד נָמֵי לָא, שֶׁמָּא יִשְׁהוּ, שֶׁמָּא יִדְרְסוּ, וְשֶׁמָּא יַחֲלִידוּ.
-*Translation:* And it teaches: This is the *halakha* with regard to all people **except for a deaf-mute, an imbecile, and a minor, who, even** if they slaughtered **only non-sacred** animals, their slaughter is **not** valid **even after the fact.** The reason the Sages deemed such slaughter not valid is **lest** people in these categories **interrupt** the slaughter, **lest they press** the knife in the course of slaughter, **and lest they conceal** the knife beneath the windpipe or the gullet in the course of an inverted slaughter.
+*Translation:* And it teaches: This is the *halakha* with regard to all people **except for a deaf-mute, a person with psychosis, and a minor, who, even** if they slaughtered **only non-sacred** animals, their slaughter is **not** valid **even after the fact.** The reason the Sages deemed such slaughter not valid is **lest** people in these categories **interrupt** the slaughter, **lest they press** the knife in the course of slaughter, **and lest they conceal** the knife beneath the windpipe or the gullet in the course of an inverted slaughter.
 
 **10.**
 *Hebrew/Aramaic:* וְכוּלָּן שֶׁשָּׁחֲטוּ, אַהֵיָיא? אִילֵּימָא אַחֵרֵשׁ שׁוֹטֶה וְקָטָן – עֲלַהּ קָאֵי, ״וְאִם שָׁחֲטוּ״ מִיבְּעֵי לֵיהּ! אֶלָּא אַטָּמֵא בְּחוּלִּין – הָא אָמְרַתְּ: לְכַתְּחִלָּה נָמֵי שָׁחֵיט!
-*Translation:* The Gemara asks: If so, with regard to the clause that follows in the mishna: **And any of them who slaughtered** an animal and others see and supervise them, their slaughter is valid, **to which** case in the mishna is it referring? **If we say** that the reference is to the case **of a deaf-mute, an imbecile, and a minor,** why was it formulated: And any of them who slaughtered? Since **it stands adjacent** to that *halakha*, the *tanna* **should have** formulated the phrase: **And if they slaughtered. Rather,** perhaps the reference is to the case **of a ritually impure** person who slaughtered **a non-sacred** animal. The Gemara rejects that possibility as well. **But didn’t you say** in that case: **He slaughters** the animal **even *ab initio*?**
+*Translation:* The Gemara asks: If so, with regard to the clause that follows in the mishna: **And any of them who slaughtered** an animal and others see and supervise them, their slaughter is valid, **to which** case in the mishna is it referring? **If we say** that the reference is to the case **of a deaf-mute, a person with psychosis, and a minor,** why was it formulated: And any of them who slaughtered? Since **it stands adjacent** to that *halakha*, the *tanna* **should have** formulated the phrase: **And if they slaughtered. Rather,** perhaps the reference is to the case **of a ritually impure** person who slaughtered **a non-sacred** animal. The Gemara rejects that possibility as well. **But didn’t you say** in that case: **He slaughters** the animal **even *ab initio*?**
 
 **11.**
 *Hebrew/Aramaic:* וְאֶלָּא, אַטָּמֵא בְּמוּקְדָּשִׁים – בְּ״בָרִי לִי״ סַגִּי! דְּלֵיתֵיהּ קַמַּן דִּנְשַׁיְּילֵיהּ.

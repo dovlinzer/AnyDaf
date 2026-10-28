@@ -22,7 +22,7 @@
 
 **6.**
 *Hebrew/Aramaic:* בִּשְׁלָמָא לִשְׁמוּאֵל — מִשּׁוּם הָכִי יוֹצִיא וְיִתֵּן כְּתוּבָּה. אֶלָּא לְמַתְנִיתָא מַאי נָפְקָא לַהּ מִינַּהּ? תִּיעְבֵּיד! אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: מִפְּנֵי שֶׁנִּרְאִיתָ כְּשׁוֹטֶה.
-*Translation:* The Gemara asks: **Granted** that **according to Shmuel,** who explains that the mishna is referring to a case where the husband insists that she not become pregnant, **due to that** reason **he must divorce** her **and give** her the payment of her **marriage contract. But according to the *baraita*,** which explains that he simply wants her to engage in pointless work, **what difference does it make to her? Let her do it. Rabba bar bar Ḥanna said** that **Rabbi Yoḥanan said: Because she** would **appear insane** if she were to perform pointless actions, she may therefore demand a divorce.
+*Translation:* The Gemara asks: **Granted** that **according to Shmuel,** who explains that the mishna is referring to a case where the husband insists that she not become pregnant, **due to that** reason **he must divorce** her **and give** her the payment of her **marriage contract. But according to the *baraita*,** which explains that he simply wants her to engage in pointless work, **what difference does it make to her? Let her do it. Rabba bar bar Ḥanna said** that **Rabbi Yoḥanan said: Because she** would **appear to be in a state of psychosis** if she were to perform pointless actions, she may therefore demand a divorce.
 
 **7.**
 *Hebrew/Aramaic:* אָמַר רַב כָּהֲנָא: הַמַּדִּיר אֶת אִשְׁתּוֹ שֶׁלֹּא תִּשְׁאַל וְשֶׁלֹּא תַּשְׁאִיל נָפָה וּכְבָרָה וְרֵיחַיִם וְתַנּוּר — יוֹצִיא וְיִתֵּן כְּתוּבָּה. שֶׁמַּשִּׂיאָהּ שֵׁם רַע בִּשְׁכֵינוֹתֶיהָ.

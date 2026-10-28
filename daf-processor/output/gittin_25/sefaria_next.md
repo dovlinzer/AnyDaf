@@ -34,7 +34,7 @@
 
 **9.**
 *Hebrew/Aramaic:* וּצְרִיכָא;
-*Translation:* The Gemara notes: **And** it is **necessary** for Shmuel to mention that the mishna is in accordance with the opinion of Rabbi Elazar in this mishna, as well as Rabbi Elazar’s opinion in the previous chapter with regard to the *mishnayot* that discuss writing a bill of divorce on a surface that is attached to the ground (21b) and the writing of a bill of divorce by a deaf-mute, an imbecile, or a minor (22b).
+*Translation:* The Gemara notes: **And** it is **necessary** for Shmuel to mention that the mishna is in accordance with the opinion of Rabbi Elazar in this mishna, as well as Rabbi Elazar’s opinion in the previous chapter with regard to the *mishnayot* that discuss writing a bill of divorce on a surface that is attached to the ground (21b) and the writing of a bill of divorce by a deaf-mute, a person with psychosis, or a minor (22b).
 
 **10.**
 *Hebrew/Aramaic:* דְּאִי אַשְׁמְעִינַן הָךְ קַמַּיְיתָא, בְּהַהִיא הוּא דְּאִיכָּא לְאוֹקֹמַהּ כְּרַבִּי אֶלְעָזָר, דְּקָתָנֵי ״אֵין כּוֹתְבִין״ וְקָתָנֵי ״כִּתְבוּ״;
@@ -42,7 +42,7 @@
 
 **11.**
 *Hebrew/Aramaic:* אֲבָל סֵיפָא, דְּקָתָנֵי ״שֶׁאֵין קִיּוּם הַגֵּט אֶלָּא בְּחוֹתְמָיו״, אֵימָא רַבִּי מֵאִיר הִיא, דְּאָמַר: עֵדֵי חֲתִימָה כָּרְתִי.
-*Translation:* **However,** in **the latter clause** of the next mishna (22b), **which teaches** that the reason a bill of divorce may be written by a deaf-mute, an imbecile, or a minor is that **the ratification of a bill of divorce is only through its signatories,** one could **say** that **this is** the opinion of **Rabbi Meir, who said: Signatory witnesses** on the bill of divorce **effect** the divorce, and the mishna is discussing a case where the entire bill of divorce was written by the deaf-mute, imbecile, or minor. Therefore, it was necessary for Shmuel to state that this mishna is in accordance with the opinion of Rabbi Elazar and is discussing a case where the essential part of the bill of divorce was left empty.
+*Translation:* **However,** in **the latter clause** of the next mishna (22b), **which teaches** that the reason a bill of divorce may be written by a deaf-mute, a person with psychosis, or a minor is that **the ratification of a bill of divorce is only through its signatories,** one could **say** that **this is** the opinion of **Rabbi Meir, who said: Signatory witnesses** on the bill of divorce **effect** the divorce, and the mishna is discussing a case where the entire bill of divorce was written by the deaf-mute, person with psychosis, or minor. Therefore, it was necessary for Shmuel to state that this mishna is in accordance with the opinion of Rabbi Elazar and is discussing a case where the essential part of the bill of divorce was left empty.
 
 **12.**
 *Hebrew/Aramaic:* וְאִי אַשְׁמְעִינַן בְּהַהִיא, הָהִיא נָמֵי אִיכָּא לְאוֹקֹמַהּ כְּרַבִּי אֶלְעָזָר; אֲבָל הָא, אֵימָא מִדְּסֵיפָא רַבִּי אֶלְעָזָר הָוֵי – רֵישָׁא לָאו רַבִּי אֶלְעָזָר; צְרִיכָא.

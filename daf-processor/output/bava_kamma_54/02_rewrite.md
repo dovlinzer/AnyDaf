@@ -52,7 +52,7 @@ The answer is *kesef yashiv liv'alav* — "he shall pay money to its owners" —
 
 ### Mishna Case
 
-The *mishna* teaches a seemingly peculiar rule: *nafal l'tocho shor cheresh shoteh v'katan chayav* — if a *cheresh* (deaf-mute), *shoteh* (imbecile), or *katan* (minor) ox fell in, the owner of the *bor* is liable. The *gemara* immediately challenges the formulation: what exactly is a "*shor cheresh shoteh v'katan*"?
+The *mishna* teaches a seemingly peculiar rule: *nafal l'tocho shor cheresh shoteh v'katan chayav* — if a *cheresh* (deaf-mute), *shoteh* (disoriented), or *katan* (minor) ox fell in, the owner of the *bor* is liable. The *gemara* immediately challenges the formulation: what exactly is a "*shor cheresh shoteh v'katan*"?
 
 ### The Paradox
 

@@ -74,7 +74,7 @@
 
 **19.**
 *Hebrew/Aramaic:* אֵין נִשְׁבָּעִין עַל טַעֲנַת חֵרֵשׁ שׁוֹטֶה וְקָטָן, וְאֵין מַשְׁבִּיעִין אֶת הַקָּטָן; אֲבָל נִשְׁבָּעִין לַקָּטָן וְלַהֶקְדֵּשׁ.
-*Translation:* **One does not take an oath concerning the claim of a deaf-mute, an imbecile, or a minor. And** the court **does not administer an oath to a minor. But one does take an oath to a minor, or to** a representative of **the Temple** treasury with regard to consecrated property.
+*Translation:* **One does not take an oath concerning the claim of a deaf-mute, a person with psychosis, or a minor. And** the court **does not administer an oath to a minor. But one does take an oath to a minor, or to** a representative of **the Temple** treasury with regard to consecrated property.
 
 **20.**
 *Hebrew/Aramaic:* גְּמָ׳ הֵיכִי מַשְׁבְּעִינַן לֵיהּ? אָמַר רַב יְהוּדָה אָמַר רַב: מַשְׁבִּיעִין אוֹתוֹ בִּשְׁבוּעָה הָאֲמוּרָה בְּתוֹרָה, דִּכְתִיב: ״וְאַשְׁבִּיעֲךָ בַּה׳ אֱלֹהֵי הַשָּׁמַיִם״.

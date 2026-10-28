@@ -58,15 +58,15 @@
 
 **15.**
 *Hebrew/Aramaic:* וְהָא אַמְרַהּ רָבָא חֲדָא זִימְנָא, דִּתְנַן: וְכוּלָּן שֶׁשָּׁחֲטוּ וַאֲחֵרִים רוֹאִין אוֹתָן – שְׁחִיטָתָן כְּשֵׁרָה. וְאָמְרִינַן: מַאן תַּנָּא דְּלָא בָּעֵי כַּוָּונָה לִשְׁחִיטָה? וְאָמַר רָבָא: רַבִּי נָתָן הִיא.
-*Translation:* The Gemara asks: **But didn’t Rava** already **say it one time** that the mishna is in accordance with the opinion of Rabbi Natan? **As we learned** in a mishna (2a): **And** with regard to **any of them,** a deaf-mute, an imbecile, or a minor, **who slaughtered** an animal **and others see** and supervise **them, their slaughter is valid** even though they are incapable of intent. **And we said: Who is the *tanna*** who holds **that we do not require intent for slaughter? And Rava said:** It **is Rabbi Natan.**
+*Translation:* The Gemara asks: **But didn’t Rava** already **say it one time** that the mishna is in accordance with the opinion of Rabbi Natan? **As we learned** in a mishna (2a): **And** with regard to **any of them,** a deaf-mute, a person with psychosis, or a minor, **who slaughtered** an animal **and others see** and supervise **them, their slaughter is valid** even though they are incapable of intent. **And we said: Who is the *tanna*** who holds **that we do not require intent for slaughter? And Rava said:** It **is Rabbi Natan.**
 
 **16.**
 *Hebrew/Aramaic:* צְרִיכָא, דְּאִי אַשְׁמְועִינַן הָתָם – מִשּׁוּם דְּקָא מִיכַּוֵּין לְשׁוּם חֲתִיכָה בְּעוֹלָם, אֲבָל הָכָא, דְּלָא קָא מִיכַּוֵּין – אֵימָא לָא.
-*Translation:* The Gemara answers: Both statements **are necessary. As had** Rava **taught us** his statement **there** with regard to a deaf-mute, an imbecile, and a minor, one would have thought that the slaughter is valid **due to** the fact **that** although the individual lacks intent to slaughter the animal, **he intends** his action **for the sake of cutting in general. But here,** with regard to throwing a knife at the wall, **where he does not intend** to cut at all, **say no,** the slaughter is not valid.
+*Translation:* The Gemara answers: Both statements **are necessary. As had** Rava **taught us** his statement **there** with regard to a deaf-mute, a person with psychosis, and a minor, one would have thought that the slaughter is valid **due to** the fact **that** although the individual lacks intent to slaughter the animal, **he intends** his action **for the sake of cutting in general. But here,** with regard to throwing a knife at the wall, **where he does not intend** to cut at all, **say no,** the slaughter is not valid.
 
 **17.**
 *Hebrew/Aramaic:* וְאִי אַשְׁמְעִינַן הָכָא, מִשּׁוּם דְּקָאָתֵי מִכֹּחַ בֶּן דַּעַת, אֲבָל הָתָם דְּלָא קָאָתֵי מִכֹּחַ בֶּן דַּעַת – אֵימָא לָא, צְרִיכָא.
-*Translation:* **And had** Rava **taught us** his statement **here** with regard to throwing the knife, one would have thought that the slaughter is valid is **due to** the fact **that** it **comes due to** the action **of a mentally competent person. But there,** with regard to slaughter by a deaf-mute, an imbecile, or a minor, **where** the slaughter **does not come due to** the action **of a mentally competent person, say** that the slaughter is **not** valid. Therefore, it is **necessary** for Rava to teach both cases.
+*Translation:* **And had** Rava **taught us** his statement **here** with regard to throwing the knife, one would have thought that the slaughter is valid is **due to** the fact **that** it **comes due to** the action **of a mentally competent person. But there,** with regard to slaughter by a deaf-mute, a person with psychosis, or a minor, **where** the slaughter **does not come due to** the action **of a mentally competent person, say** that the slaughter is **not** valid. Therefore, it is **necessary** for Rava to teach both cases.
 
 **18.**
 *Hebrew/Aramaic:* אִתְּמַר: נִדָּה שֶׁנֶּאֶנְסָה וְטָבְלָה, אָמַר רַב יְהוּדָה אָמַר רַב: טְהוֹרָה לְבֵיתָהּ, וַאֲסוּרָה לֶאֱכוֹל בִּתְרוּמָה. וְרַבִּי יוֹחָנָן אָמַר: אַף לְבֵיתָהּ לֹא טָהֲרָה.
@@ -171,7 +171,7 @@
 
 **21.**
 *Hebrew/Aramaic:* וְעוֹד, בִּתְרוּמָה נָמֵי אָכְלָה, דִּתְנַן: הַחֵרֶשֶׁת, וְהַשּׁוֹטָה, וְהַסּוֹמָא, וְשֶׁנִּטְרְפָה דַּעְתָּהּ, אִם יֵשׁ לָהֶן פִּקְּחוֹת מְתַקְּנוֹת אוֹתָן – אוֹכְלוֹת בִּתְרוּמָה.
-*Translation:* **And furthermore,** in that case the immersion enables her to **partake of *teruma* as well, as we learned** in a mishna (*Nidda* 13b): In the case of a woman who is **a deaf-mute, or an imbecile, or blind, or who went insane,** and is therefore unable to examine herself reliably, **if** one of these women **has a competent** friend, that friend **prepares her** by examining her and immersing them in a ritual bath. And on that basis the incompetent woman **may partake of *teruma*.**
+*Translation:* **And furthermore,** in that case the immersion enables her to **partake of *teruma* as well, as we learned** in a mishna (*Nidda* 13b): In the case of a woman who is **a deaf-mute, or a person with psychosis, or blind, or who developed psychosis,** and is therefore unable to examine herself reliably, **if** one of these women **has a competent** friend, that friend **prepares her** by examining her and immersing them in a ritual bath. And on that basis the incompetent woman **may partake of *teruma*.**
 
 **22.**
 *Hebrew/Aramaic:* אָמַר רַב פָּפָּא: לְרַבִּי נָתָן, שֶׁנָּפְלָה מִן הַגֶּשֶׁר, וּלְרַבָּנַן, שֶׁיָּרְדָה לְהָקֵר.

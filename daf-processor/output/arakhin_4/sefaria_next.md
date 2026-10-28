@@ -131,7 +131,7 @@
 
 **11.**
 *Hebrew/Aramaic:* מִפְּנֵי שֶׁרִיבָּה הַכָּתוּב בַּנֶּעֱרָכִין יוֹתֵר מִבַּמַּעֲרִיכִין, שֶׁהֲרֵי חֵרֵשׁ שׁוֹטֶה וְקָטָן נֶעֱרָךְ, אֲבָל לֹא מַעֲרִיכִין.
-*Translation:* It is **due to** the fact **that the verse included more** people **in** the category of those **who are** the object **of a valuation than in** the category of those **who take** a vow of **valuation. As** the mishna teaches (2a): **A deaf-mute, an imbecile, and a minor** are the object of a vow and **are valuated, but** they can neither vow to donate the assessment of a person **nor take** a vow of **valuation.**
+*Translation:* It is **due to** the fact **that the verse included more** people **in** the category of those **who are** the object **of a valuation than in** the category of those **who take** a vow of **valuation. As** the mishna teaches (2a): **A deaf-mute, a person with psychosis, and a minor** are the object of a vow and **are valuated, but** they can neither vow to donate the assessment of a person **nor take** a vow of **valuation.**
 
 **12.**
 *Hebrew/Aramaic:* רַבִּי יְהוּדָה אוֹמֵר: בְּנֵי יִשְׂרָאֵל נֶעֱרָכִין וְאֵין הַגּוֹיִם נֶעֱרָכִין; יָכוֹל לֹא יְהוּ מַעֲרִיכִין? תַּלְמוּד לוֹמַר ״אִישׁ״.
@@ -147,7 +147,7 @@
 
 **15.**
 *Hebrew/Aramaic:* הִלְכְתֵיהּ דְּרַבִּי מֵאִיר מִסְתַּבְּרָא, דִּכְתִיב: ״לֹא לָכֶם וָלָנוּ לִבְנוֹת אֶת בֵּית אֱלֹהֵינוּ״, טַעְמֵיהּ לָא מִסְתַּבְּרָא, דְּקָא מַיְיתֵי לֵיהּ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן, שָׁאנֵי חֵרֵשׁ שׁוֹטֶה וְקָטָן דְּלָאו בְּנֵי דֵעָה נִינְהוּ.
-*Translation:* Rava elaborates: **Rabbi Meir’s *halakha*** that gentiles cannot take a valuation vow **is reasonable, as it is written** that the Jews who returned to Eretz Yisrael from Babylonia rejected the Samaritans’ request to assist them in the construction of the Second Temple, saying: **“You have nothing to do with us to build a house to our God”** (Ezra 4:3). This supports Rabbi Meir’s contention that gentiles may not take vows of valuation, which are used for Temple maintenance. But **his explanation is not reasonable, as he adduces** proof **for** his *halakha* **from** the fact that **a deaf-mute, an imbecile, and a minor** cannot take a vow of valuation. This proof is unconvincing, since **a deaf-mute, an imbecile, and a minor are different, as** unlike gentiles, they **lack the** presumed **mental competence** to make a commitment.
+*Translation:* Rava elaborates: **Rabbi Meir’s *halakha*** that gentiles cannot take a valuation vow **is reasonable, as it is written** that the Jews who returned to Eretz Yisrael from Babylonia rejected the Samaritans’ request to assist them in the construction of the Second Temple, saying: **“You have nothing to do with us to build a house to our God”** (Ezra 4:3). This supports Rabbi Meir’s contention that gentiles may not take vows of valuation, which are used for Temple maintenance. But **his explanation is not reasonable, as he adduces** proof **for** his *halakha* **from** the fact that **a deaf-mute, a person with psychosis, and a minor** cannot take a vow of valuation. This proof is unconvincing, since **a deaf-mute, a person with psychosis, and a minor are different, as** unlike gentiles, they **lack the** presumed **mental competence** to make a commitment.
 
 **16.**
 *Hebrew/Aramaic:* טַעְמָא דְּרַבִּי יְהוּדָה מִסְתַּבְּרָא, דְּקָא מַיְיתֵי לֵיהּ מִטּוּמְטוּם וְאַנְדְּרוֹגִינוֹס, דְּאַף עַל גַּב דִּבְנֵי דֵעָה נִינְהוּ מַעֲטִינְהוּ רַחֲמָנָא. הִלְכְתֵיהּ לָא מִסְתַּבְּרָא, דִּכְתִיב: ״לֹא לָכֶם וָלָנוּ לִבְנוֹת אֶת בֵּית אֱלֹהֵינוּ״.

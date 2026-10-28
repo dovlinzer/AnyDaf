@@ -10,7 +10,7 @@
 
 **3.**
 *Hebrew/Aramaic:* חֵרֵשׁ שׁוֹטֶה וְקָטָן נִידָּרִין וְנֶעֱרָכִין, אֲבָל לֹא נוֹדְרִין וְלֹא מַעֲרִיכִין, מִפְּנֵי שֶׁאֵין בָּהֶם דַּעַת.
-*Translation:* **A deaf-mute, an imbecile, and a minor** are the object of **a vow and are valuated, but neither vow** to donate the assessment of a person **nor take** a vow of **valuation, because they lack the** presumed **mental competence** to make a commitment.
+*Translation:* **A deaf-mute, a person with psychosis, and a minor** are the object of **a vow and are valuated, but neither vow** to donate the assessment of a person **nor take** a vow of **valuation, because they lack the** presumed **mental competence** to make a commitment.
 
 **4.**
 *Hebrew/Aramaic:* גְּמָ׳ ״הַכֹּל מַעֲרִיכִין״ — לְאֵתוֹיֵי מַאי? לְאֵתוֹיֵי מוּפְלָא סָמוּךְ לְאִישׁ.
@@ -34,7 +34,7 @@
 
 **9.**
 *Hebrew/Aramaic:* ״נִידָּרִין״ — לְאֵתוֹיֵי מַאי? אִי לְאֵתוֹיֵי טוּמְטוּם וְאַנְדְּרוֹגִינוֹס — בְּהֶדְיָא קָתָנֵי לְהוּ! וְאִי לְאֵתוֹיֵי חֵרֵשׁ שׁוֹטֶה וְקָטָן — בְּהֶדְיָא קָתָנֵי לְהוּ!
-*Translation:* The Gemara inquires: **What,** then, **is added** by the clause: And everyone is the object of **a vow? If** one were to suggest that this serves **to add a *tumtum* and a hermaphrodite,** that cannot be correct, as they **are explicitly taught** in the mishna itself. **And if** one were to suggest that it serves **to add a deaf-mute, an imbecile, and a minor,** they too **are explicitly taught** in the mishna.
+*Translation:* The Gemara inquires: **What,** then, **is added** by the clause: And everyone is the object of **a vow? If** one were to suggest that this serves **to add a *tumtum* and a hermaphrodite,** that cannot be correct, as they **are explicitly taught** in the mishna itself. **And if** one were to suggest that it serves **to add a deaf-mute, a person with psychosis, and a minor,** they too **are explicitly taught** in the mishna.
 
 **10.**
 *Hebrew/Aramaic:* אִי לְאֵתוֹיֵי פָּחוֹת מִבֶּן חוֹדֶשׁ, בְּהֶדְיָא קָתָנֵי לְהוּ! וְאִי לְאֵתוֹיֵי נָכְרִי, בְּהֶדְיָא קָתָנֵי לְהוּ! לְעוֹלָם לְאֵתוֹיֵי פָּחוֹת מִבֶּן חוֹדֶשׁ, וְתָנֵי וַהֲדַר מְפָרֵשׁ.

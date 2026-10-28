@@ -94,7 +94,7 @@
 
 **24.**
 *Hebrew/Aramaic:* תְּנַן הָתָם: הַכֹּל כְּשֵׁרִים לִקְרוֹת אֶת הַמְּגִילָּה, חוּץ מֵחֵרֵשׁ, שׁוֹטֶה וְקָטָן. וְרַבִּי יְהוּדָה מַכְשִׁיר בְּקָטָן.
-*Translation:* The Gemara cites a similar discussion with regard to the reading of the Megilla: **We learned** in a mishna **there** in tractate *Megilla*: **All are fit to read the Megilla except a deaf person, an imbecile, and a minor. And Rabbi Yehuda deems a minor fit.**
+*Translation:* The Gemara cites a similar discussion with regard to the reading of the Megilla: **We learned** in a mishna **there** in tractate *Megilla*: **All are fit to read the Megilla except a deaf person, a person with psychosis, and a minor. And Rabbi Yehuda deems a minor fit.**
 
 **25.**
 *Hebrew/Aramaic:* מַאן תָּנָא חֵרֵשׁ דִּיעֲבַד נָמֵי לָא? אָמַר רַב מַתְנָה: רַבִּי יוֹסֵי הִיא. דִּתְנַן: הַקּוֹרֵא אֶת ״שְׁמַע״ וְלֹא הִשְׁמִיעַ לְאׇזְנוֹ — יָצָא, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי יוֹסֵי אוֹמֵר: לֹא יָצָא.
@@ -115,7 +115,7 @@
 
 **2.**
 *Hebrew/Aramaic:* לָא סָלְקָא דַּעְתָּךְ, דְּקָתָנֵי, חֵרֵשׁ דּוּמְיָא דְּשׁוֹטֶה וְקָטָן. מָה שׁוֹטֶה וְקָטָן דִּיעֲבַד נָמֵי לָא — אַף חֵרֵשׁ דִּיעֲבַד נָמֵי לָא.
-*Translation:* The Gemara responds: **This could not enter your mind, as it was taught:** A deaf-mute, an imbecile, and a minor, in one phrase in our mishna; to teach that **a deaf-mute** is **similar** to **an imbecile and a minor. Just as** in the case of **an imbecile and a minor, even after the fact,** their reading is **not** valid, **so too** the reading of **a deaf-mute, even after the fact,** is **not** valid.
+*Translation:* The Gemara responds: **This could not enter your mind, as it was taught:** A deaf-mute, a person with psychosis, and a minor, in one phrase in our mishna; to teach that **a deaf-mute** is **similar** to **a person with psychosis and a minor. Just as** in the case of **a person with psychosis and a minor, even after the fact,** their reading is **not** valid, **so too** the reading of **a deaf-mute, even after the fact,** is **not** valid.
 
 **3.**
 *Hebrew/Aramaic:* וְדִילְמָא הָא כִּדְאִיתָא וְהָא כִּדְאִיתָא.
@@ -127,7 +127,7 @@
 
 **5.**
 *Hebrew/Aramaic:* וְדִילְמָא כּוּלַּהּ רַבִּי יְהוּדָה הִיא וּתְרֵי גַוְונֵי קָטָן, וְחַסּוֹרֵי מְחַסְּרָא, וְהָכִי קָתָנֵי: הַכֹּל כְּשֵׁרִין לִקְרוֹת אֶת הַמְּגִילָּה, חוּץ מֵחֵרֵשׁ שׁוֹטֶה וְקָטָן. בַּמֶּה דְּבָרִים אֲמוּרִים — בְּקָטָן שֶׁלֹּא הִגִּיעַ לְחִנּוּךְ, אֲבָל קָטָן שֶׁהִגִּיעַ לְחִנּוּךְ — אֲפִילּוּ לְכַתְּחִלָּה כָּשֵׁר, דִּבְרֵי רַבִּי יְהוּדָה, שֶׁרַבִּי יְהוּדָה מַכְשִׁיר בְּקָטָן.
-*Translation:* The Gemara rejects this challenge as well: **And perhaps the entire** mishna **is** in accordance with the opinion of **Rabbi Yehuda,** and there are **two types of minors, and the mishna is incomplete and it teaches as follows: All are fit to read the Megilla except a deaf-mute, an imbecile, and a minor. In what** case **is this said?** With regard to **a minor who has not** yet **reached** the age of **training** to fulfill the mitzvot. **However** in the case of **a minor who has reached** the age of **training, even *ab initio* he is fit** to read the Megilla. This is the **statement of Rabbi Yehuda, as Rabbi Yehuda deems a minor fit,** and his statement here comes to elucidate and not to dispute.
+*Translation:* The Gemara rejects this challenge as well: **And perhaps the entire** mishna **is** in accordance with the opinion of **Rabbi Yehuda,** and there are **two types of minors, and the mishna is incomplete and it teaches as follows: All are fit to read the Megilla except a deaf-mute, a person with psychosis, and a minor. In what** case **is this said?** With regard to **a minor who has not** yet **reached** the age of **training** to fulfill the mitzvot. **However** in the case of **a minor who has reached** the age of **training, even *ab initio* he is fit** to read the Megilla. This is the **statement of Rabbi Yehuda, as Rabbi Yehuda deems a minor fit,** and his statement here comes to elucidate and not to dispute.
 
 **6.**
 *Hebrew/Aramaic:* בְּמַאי אוֹקִימְתָּא, כְּרַבִּי יְהוּדָה — וְדִיעֲבַד אִין, לְכַתְּחִלָּה לָא? אֶלָּא הָא דְתָנֵי רַבִּי יְהוּדָה בְּרֵיהּ דְּרַבִּי שִׁמְעוֹן בֶּן פַּזִּי, חֵרֵשׁ הַמְדַבֵּר וְאֵינוֹ שׁוֹמֵעַ — תּוֹרֵם לְכַתְּחִלָּה,

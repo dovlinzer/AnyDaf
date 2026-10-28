@@ -6,7 +6,7 @@
 
 **2.**
 *Hebrew/Aramaic:* אֲחוֹתוֹ בּוֹגֶרֶת נָמֵי, הָא אִיכָּא בּוֹשֶׁת וּפְגָם! בְּשׁוֹטָה. וְהָא אִיכָּא צַעֲרָא! בִּמְפוּתָּה.
-*Translation:* The Gemara asks: In the case of one who has relations with **his sister** who is a **grown woman, too,** although he does not pay a fine, **isn’t there** compensation for **humiliation and degradation?** He should be exempt from lashes in that case as well. The Gemara answers: **There,** the *halakha* in the mishna is **with regard to** his sister who is **an imbecile,** with regard to whom there is no humiliation or degradation beyond her status as an imbecile. The Gemara asks: **But isn’t** there payment for **pain** even in the rape of an imbecile? The Gemara responds: The *halakha* is **with regard to a seduced woman,** who is not entitled to payment for pain, as she engaged in relations willingly.
+*Translation:* The Gemara asks: In the case of one who has relations with **his sister** who is a **grown woman, too,** although he does not pay a fine, **isn’t there** compensation for **humiliation and degradation?** He should be exempt from lashes in that case as well. The Gemara answers: **There,** the *halakha* in the mishna is **with regard to** his sister who is **a person with psychosis,** with regard to whom there is no humiliation or degradation beyond her status as a person with psychosis. The Gemara asks: **But isn’t** there payment for **pain** even in the rape of a person with psychosis? The Gemara responds: The *halakha* is **with regard to a seduced woman,** who is not entitled to payment for pain, as she engaged in relations willingly.
 
 **3.**
 *Hebrew/Aramaic:* הַשְׁתָּא דְּאָתֵית לְהָכִי, אֲפִילּוּ תֵּימָא אֲחוֹתוֹ נַעֲרָה, בִּיתוֹמָה וּמְפוּתָּה.

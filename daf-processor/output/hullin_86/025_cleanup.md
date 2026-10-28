@@ -88,7 +88,7 @@ The philosophical weight of this is worth pausing over, even if the *gemara* doe
 
 ### Observation & Validity
 
-The *gemara* now returns to the opening *mishna* of the *masechet*, which ruled: <!-- cheresh shoteh vekatan she'shachatu ve'acherim ro'im otam --> if a deaf-mute, an imbecile, or a minor performed *shechita* while others observed them and verified that the *shechita* was done properly, the *shechita* is valid. If observed and found correct, <!-- chayav lechasot --> one is obligated to cover the blood.
+The *gemara* now returns to the opening *mishna* of the *masechet*, which ruled: <!-- cheresh shoteh vekatan she'shachatu ve'acherim ro'im otam --> if a deaf-mute, a person with psychosis, or a minor performed *shechita* while others observed them and verified that the *shechita* was done properly, the *shechita* is valid. If observed and found correct, <!-- chayav lechasot --> one is obligated to cover the blood.
 
 ### Blood Covering Concern
 

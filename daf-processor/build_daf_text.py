@@ -39,6 +39,7 @@ import requests
 from dotenv import load_dotenv
 
 import sefaria
+from term_fixes import fix_terms
 
 load_dotenv(Path(__file__).parent / ".env", override=True)
 
@@ -332,6 +333,10 @@ def main():
     if args.steinsaltz:
         fetch_steinsaltz(books, args.refetch)
     merge_steinsaltz(books)
+    for b in books.values():   # the author's wording (שוטה = "a person with psychosis"), see term_fixes.py
+        for a in b["amudim"].values():
+            for seg in a.get("segments", []):
+                seg["en"] = fix_terms(seg.get("en"), seg.get("he"))
     for t, b in books.items():
         b["amudim"] = dict(sorted(b["amudim"].items(), key=lambda kv: amud_key(kv[0])))
         (OUT / f"{t}.json").write_text(json.dumps(b, ensure_ascii=False), encoding="utf-8")

@@ -62,7 +62,7 @@
 
 **16.**
 *Hebrew/Aramaic:* וְהָאִיכָּא שׁוֹטָה! מוֹדֶה שַׁמַּאי בְּשׁוֹטָה. הָא ״כׇּל הַנָּשִׁים״ קָתָנֵי! ״כׇּל הַנָּשִׁים״ — פִּקְּחוֹת.
-*Translation:* The Gemara raises another difficulty with regard to the opinion of Shammai: **But there** is the case of **a mentally incompetent** woman, who does not properly understand what she is sensing. She might have previously experienced a flow of menstrual blood that she did not notice. The Gemara answers: **Shammai concedes** in the case **of a mentally incompetent** woman that she is impure retroactively. The Gemara asks: **But** the mishna explicitly **teaches** that Shammai mentioned **all women,** which apparently includes even the mentally incompetent. The Gemara answers: When the mishna teaches: **All women,** it is referring to all **mentally competent** women.
+*Translation:* The Gemara raises another difficulty with regard to the opinion of Shammai: **But there** is the case of **a woman with psychosis**, who does not properly understand what she is sensing. She might have previously experienced a flow of menstrual blood that she did not notice. The Gemara answers: **Shammai concedes** in the case **of a woman with psychosis** that she is impure retroactively. The Gemara asks: **But** the mishna explicitly **teaches** that Shammai mentioned **all women,** which apparently includes even people with psychosis. The Gemara answers: When the mishna teaches: **All women,** it is referring to all **mentally competent** women.
 
 **17.**
 *Hebrew/Aramaic:* וְלִיתְנֵי ״נָשִׁים״! לְאַפּוֹקֵי מִדְּרַבִּי אֱלִיעֶזֶר, דְּאָמַר רַבִּי אֱלִיעֶזֶר: ״אַרְבַּע נָשִׁים״ וְתוּ לָא, קָא מַשְׁמַע לַן: כׇּל הַנָּשִׁים.
