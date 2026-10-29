@@ -721,7 +721,7 @@
     if (!ys.length) return '';
     const a = Math.min(...ys.map(y => y[0])), b = Math.max(...ys.map(y => y[1]));
     const f = y => y < 0 ? `${-y}` : `${y}`;
-    return a < 0 && b <= 0 ? `${f(a)}–${f(b)} ${t('bce')}` : a < 0 ? `${f(a)} ${t('bce')}–${b}` : `${a}–${b}`;
+    return a < 0 && b <= 0 ? `${f(a)}–${f(b)} ${t('bce')}` : a < 0 ? `${f(a)} ${t('bce')}–${b} ${t('ce')}` : `${a}–${b} ${t('ce')}`;
   }
   function cells() {
     const by = {};
