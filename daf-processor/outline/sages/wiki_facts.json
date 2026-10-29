@@ -796,21 +796,6 @@
   "active_from": "דור שני אמוראים",
   "active_to": "דור שני אמוראים"
  },
- "rabbah-b-hanah": {
-  "wiki": "רבה בר בר חנה",
-  "teachers": [
-   {
-    "slug": "rabbi-yochanan-b-napacha"
-   }
-  ],
-  "colleagues": [
-   {
-    "slug": "rav-yehudah-b-yechezkel"
-   }
-  ],
-  "active_from": "דור שלישי לאמוראים",
-  "active_to": "דור שלישי לאמוראים"
- },
  "rabbah-b-nachmani": {
   "wiki": "רבה בר נחמני",
   "teachers": [
@@ -1406,36 +1391,6 @@
   "active_from": "דור שלישי לאמוראים",
   "active_to": "דור שלישי לאמוראים"
  },
- "rabbi-avin-(ravin)": {
-  "wiki": "רבי אבין",
-  "teachers": [
-   {
-    "slug": "rabbi-yochanan-b-napacha"
-   }
-  ],
-  "colleagues": [
-   {
-    "slug": "rabbi-elazar-b-pedat"
-   },
-   {
-    "slug": "rabbi-abahu"
-   },
-   {
-    "name": "חייא בר אבא",
-    "notes": [
-     "רבי"
-    ]
-   },
-   {
-    "name": "ירמיה",
-    "notes": [
-     "רבי"
-    ]
-   }
-  ],
-  "active_from": "דור שלישי לאמוראי ארץ ישראל",
-  "active_to": "דור שלישי לאמוראי ארץ ישראל"
- },
  "rabbi-berekhyah": {
   "wiki": "רבי ברכיה",
   "teachers": [
@@ -1625,39 +1580,6 @@
   ],
   "active_from": "דור ראשון לתנאים",
   "active_to": "דור ראשון לתנאים"
- },
- "rabbi-chiyya-b-abba": {
-  "wiki": "רבי חייא",
-  "teachers": [
-   {
-    "slug": "rabi"
-   }
-  ],
-  "students": [
-   {
-    "slug": "rabbi-oshaya"
-   }
-  ],
-  "father": [
-   {
-    "name": "אבא בר אחא בר סלא מכפרי"
-   }
-  ],
-  "children": [
-   {
-    "name": "יהודה"
-   }
-  ],
-  "spouse": [
-   {
-    "notes": [
-     "אשת רבי חייא"
-    ],
-    "name": "יהודית"
-   }
-  ],
-  "active_from": "דור המעבר בין התנאים לאמוראים",
-  "active_to": "דור המעבר בין התנאים לאמוראים"
  },
  "rabbi-chiyya": {
   "wiki": "רבי חייא",
@@ -1951,14 +1873,6 @@
     "slug": "shimon-bar-yochai"
    }
   ],
-  "mother": [
-   {
-    "notes": [
-     "מסורת עממית"
-    ],
-    "name": "שרה"
-   }
-  ],
   "children": [
    {
     "name": "רבי יוסי ברבי אלעזר"
@@ -2151,143 +2065,6 @@
   "active_from": "תחילת המאה ה-1",
   "active_to": "סוף המאה ה-1"
  },
- "rabbi-eliezer-b-hyrcanus": {
-  "wiki": "רבי אליעזר בן הורקנוס",
-  "teachers": [
-   {
-    "slug": "rabban-yochanan-b-zakkai"
-   }
-  ],
-  "students": [
-   {
-    "slug": "rabbi-akiva"
-   },
-   {
-    "slug": "rabbi-yishmael-b-elisha"
-   },
-   {
-    "name": "אונקלוס הגר"
-   },
-   {
-    "slug": "rabbi-hananyah-b-teradyon"
-   },
-   {
-    "slug": "rabbi-elazar-b-azaryah"
-   },
-   {
-    "slug": "rabbi-yohanan-b-nuri"
-   },
-   {
-    "slug": "rabbi-yose-b-dormasqit"
-   },
-   {
-    "slug": "rabbi-ilai-(i)"
-   },
-   {
-    "name": "אבא חנן"
-   },
-   {
-    "slug": "rabbi-dostai-b-r-yannai"
-   },
-   {
-    "name": "יהודה בן גדיש"
-   },
-   {
-    "name": "יוחנן ברבי אילעאי"
-   },
-   {
-    "slug": "rabbi-yose-b-yehudah"
-   },
-   {
-    "name": "יוסי בן פרידא"
-   },
-   {
-    "name": "יוסי בן פרטא"
-   },
-   {
-    "name": "מרינוס"
-   },
-   {
-    "slug": "rabbi-shimon-b-elazar"
-   },
-   {
-    "name": "שמעון בר כהנא"
-   },
-   {
-    "slug": "rabbi-yose-b-kippar",
-    "notes": [
-     "שנוי במחלוקת"
-    ]
-   }
-  ],
-  "colleagues": [
-   {
-    "slug": "rabban-gamliel"
-   },
-   {
-    "slug": "rabbi-yehoshua-b-hananyah"
-   },
-   {
-    "slug": "rabbi-yose-hakohen"
-   },
-   {
-    "name": "יעקב איש כפר סכניא"
-   },
-   {
-    "slug": "rabbi-elazar-b-arakh"
-   },
-   {
-    "name": "שמעון בן נתנאל"
-   },
-   {
-    "slug": "rabbi-tzadok-(i)"
-   },
-   {
-    "slug": "rabbi-tarfon"
-   }
-  ],
-  "father": [
-   {
-    "notes": [
-     "אבי רבי אליעזר"
-    ],
-    "name": "הורקנוס"
-   }
-  ],
-  "children": [
-   {
-    "name": "הורקנוס בן אליעזר"
-   }
-  ],
-  "spouse": [
-   {
-    "name": "אימא שלום / בת אחותו",
-    "alts": true,
-    "notes": [
-     "בת אחותו: נישואין שניים"
-    ]
-   }
-  ],
-  "in_laws": [
-   {
-    "slug": "rabban-shimon-b-gamliel"
-   }
-  ],
-  "born": "המאה ה-1",
-  "born_year": [
-   0,
-   99,
-   "century"
-  ],
-  "died": "המאה ה-2",
-  "died_year": [
-   100,
-   199,
-   "century"
-  ],
-  "active_from": "דור שני לתנאים",
-  "active_to": "דור שני לתנאים"
- },
  "rabbi-eliezer-b-r-yose-hagelili": {
   "wiki": "רבי אליעזר בן רבי יוסי הגלילי",
   "teachers": [
@@ -2313,7 +2090,7 @@
   ],
   "students": [
    {
-    "slug": "rabbi-mana-(i)"
+    "slug": "rabbi-mana-(ii)"
    },
    {
     "name": "יעקב איש כפר נבוריא"
@@ -2550,7 +2327,7 @@
   ],
   "students": [
    {
-    "slug": "rabbi-mana-(i)"
+    "slug": "rabbi-mana-(ii)"
    }
   ],
   "colleagues": [
@@ -2561,66 +2338,7 @@
   "active_from": "רביעי אמוראים,",
   "active_to": "רביעי אמוראים,"
  },
- "rabbi-ilai-(i)": {
-  "wiki": "רבי אלעאי (תנא)",
-  "teachers": [
-   {
-    "slug": "rabbi-eliezer-b-hyrcanus"
-   },
-   {
-    "slug": "rabban-gamliel"
-   },
-   {
-    "slug": "rabbi-yehoshua-b-hananyah"
-   },
-   {
-    "slug": "rabbi-eliezer-b-yaakov-(i)"
-   },
-   {
-    "slug": "rabbi-elazar-b-azaryah"
-   },
-   {
-    "slug": "rabbi-yishmael-b-elisha"
-   }
-  ],
-  "students": [
-   {
-    "slug": "rabbi-yehudah-b-ilai"
-   },
-   {
-    "name": "רבי יצחק"
-   }
-  ],
-  "children": [
-   {
-    "slug": "rabbi-yehudah-b-ilai"
-   },
-   {
-    "name": "יוחנן ברבי אילעאי"
-   },
-   {
-    "notes": [
-     "נכד"
-    ],
-    "slug": "rabbi-yose-b-yehudah"
-   }
-  ],
-  "born": "המאה ה-1",
-  "born_year": [
-   0,
-   99,
-   "century"
-  ],
-  "died": "המאה ה-2",
-  "died_year": [
-   100,
-   199,
-   "century"
-  ],
-  "active_from": "דור שלישי לתנאים",
-  "active_to": "דור שלישי לתנאים"
- },
- "rabbi-mana-(i)": {
+ "rabbi-mana-(ii)": {
   "wiki": "רבי מנא",
   "teachers": [
    {
@@ -2955,9 +2673,6 @@
   ],
   "father": [
    {
-    "notes": [
-     "על פי מסורת עממית, נקבר יחדיו בצפת"
-    ],
     "name": "יאיר"
    }
   ],
@@ -3099,53 +2814,6 @@
   ],
   "active_from": "דור שני לאמוראי ארץ ישראל",
   "active_to": "דור שני לאמוראי ארץ ישראל"
- },
- "rabbi-shimon-b-menasya": {
-  "wiki": "רבי שמעון בן מנסיא",
-  "teachers": [
-   {
-    "slug": "rabbi-meir",
-    "notes": [
-     "ו"
-    ]
-   },
-   {
-    "slug": "shimon-bar-yochai",
-    "notes": [
-     "ו"
-    ]
-   }
-  ],
-  "students": [
-   {
-    "slug": "levi-b-sisi"
-   }
-  ],
-  "colleagues": [
-   {
-    "slug": "rabi"
-   },
-   {
-    "slug": "rabbi-shimon-b-elazar"
-   },
-   {
-    "slug": "sumkhos",
-    "notes": [
-     "השני"
-    ]
-   },
-   {
-    "slug": "rabban-shimon-b-gamliel-(ii)",
-    "notes": [
-     "השני"
-    ]
-   },
-   {
-    "name": "רבי יוסי בן משולם"
-   }
-  ],
-  "active_from": "תנא בדור הרביעי",
-  "active_to": "תנא בדור הרביעי"
  },
  "rabbi-shimon-b-rabbi": {
   "wiki": "רבי שמעון ברבי",
@@ -3806,9 +3474,6 @@
   "active_to": "הדור השלישי תנאים"
  },
  "rabbi-yehudah-b-betera-(i)": {
-  "wiki": "רבי יהודה בן בתירא"
- },
- "rabbi-yehudah-b-betera-(ii)": {
   "wiki": "רבי יהודה בן בתירא"
  },
  "rabbi-yehudah-b-ilai": {
@@ -5300,7 +4965,7 @@
     "slug": "rafram-(i)"
    },
    {
-    "name": "אידי בר אבין",
+    "slug": "rav-idi-b-avin-(i)",
     "notes": [
      "רב"
     ]
@@ -5811,21 +5476,6 @@
   "active_from": "רביעי לאמוראי בבל אמוראים",
   "active_to": "רביעי לאמוראי בבל אמוראים"
  },
- "rav-idi-b-avin-(ii)": {
-  "wiki": "רב אידי בר אבין",
-  "father": [
-   {
-    "name": "רבי אבין נגרא"
-   }
-  ],
-  "children": [
-   {
-    "name": "רב ששת ורב שישא בריה דרב אידי, רב יהושע בריה דרב אידי"
-   }
-  ],
-  "active_from": "רביעי לאמוראי בבל אמוראים",
-  "active_to": "רביעי לאמוראי בבל אמוראים"
- },
  "rav-ketina": {
   "wiki": "רב קטינא",
   "active_from": "דור שני לאמוראים",
@@ -5981,7 +5631,7 @@
     ]
    },
    {
-    "name": "רב אידי בר אבין"
+    "slug": "rav-idi-b-avin-(i)"
    }
   ],
   "students": [
@@ -6729,94 +6379,19 @@
   "active_to": "דור שלישי לאמוראים"
  },
  "rebbi-hanina-of-sepphoris": {
-  "wiki": "רבי חנינא בר חמא",
+  "wiki": "רב חנניה",
   "teachers": [
    {
-    "slug": "rabi"
-   },
-   {
-    "slug": "rabbi-yishmael-b-yose",
-    "notes": [
-     "רבי"
-    ]
-   },
-   {
-    "name": "רבי חייא",
-    "notes": [
-     "ו"
-    ]
-   },
-   {
-    "slug": "bar-kappara",
-    "notes": [
-     "ו"
-    ]
-   }
-  ],
-  "students": [
-   {
-    "slug": "rabbi-yehoshua-b-levi"
-   },
-   {
-    "slug": "rabbi-yochanan-b-napacha"
-   },
-   {
-    "slug": "rabbi-oshaya"
-   },
-   {
-    "slug": "rabbi-elazar-b-pedat"
-   },
-   {
-    "slug": "rabbi-shimon-b-lakish",
-    "notes": [
-     "ועוד"
-    ]
+    "name": "רבי פנחס"
    }
   ],
   "colleagues": [
    {
-    "slug": "rabbi-aphes"
-   },
-   {
-    "slug": "levi-b-sisi"
-   },
-   {
-    "slug": "rav"
+    "slug": "rabbi-mana-(ii)"
    }
   ],
-  "father": [
-   {
-    "notes": [
-     "חמא הכהן / חמא בר אבא - משוער"
-    ],
-    "name": "חמא"
-   }
-  ],
-  "children": [
-   {
-    "notes": [
-     "הראשון"
-    ],
-    "slug": "rabbi-hama-b-r-hanina"
-   }
-  ],
-  "sons_in_law": [
-   {
-    "name": "שמואל סבא"
-   }
-  ],
-  "born": "145",
-  "born_year": [
-   145,
-   145
-  ],
-  "died": "240",
-  "died_year": [
-   240,
-   240
-  ],
-  "active_from": "ראשון אמוראים",
-  "active_to": "ראשון אמוראים"
+  "active_from": "הדור החמישי לאמוראי ארץ ישראל אמוראים",
+  "active_to": "הדור החמישי לאמוראי ארץ ישראל אמוראים"
  },
  "rebbi-hilqiah": {
   "wiki": "רבי חלקיה",
@@ -6837,7 +6412,7 @@
   "wiki": "רבי יוסטא בר שונם",
   "teachers": [
    {
-    "slug": "rabbi-mana-(i)"
+    "slug": "rabbi-mana-(ii)"
    }
   ],
   "colleagues": [
@@ -7119,14 +6694,10 @@
   ],
   "mother": [
    {
-    "name": "חמי / שרה / אסתר",
-    "alts": true,
     "notes": [
-     "חמי: זיהוי מהמאה ה-13",
-     "שרה: זיהוי עממי מהמאה ה-20",
-     "אסתר: זיהוי עממי מהמאה ה-21",
-     "אסתר: רבי אביגדור הכהן הבין מהירושלמי שלאמו קראו חמי (פירושים ופסקים על התורה לרבינו אביגדור הצרפתי, פרשת בשלח, וראו בספרו של רבי יעקב חיים סופר מנוחת שלום חלק ט' סימן י\"ג, ירושלים תשס\"ח) ככל הנראה, נגד פשטות דברי הירושלמי. לפי מקור מאוחר יותר, היא נקראה שרה (ספר 'נחלת אבות', של רבי יוסף משאש, דרוש קמו). הרב חיים כהן (\"החלבן\") טוען שהיו לה שני שמות ואחד מהם היה אסתר (הרב יהודה שינפלד בספר אוסרי לגפן חלק יד בירושלים תשע\"א, במדור \"מילי דחסידותא\")"
-    ]
+     "זיהוי מהמאה ה-13"
+    ],
+    "name": "חמי"
    }
   ],
   "children": [
@@ -7153,14 +6724,6 @@
    {
     "f": 0,
     "name": "רבי יוסי ברבי אלעזר"
-   }
-  ],
-  "spouse": [
-   {
-    "notes": [
-     "מסורת עממית"
-    ],
-    "name": "שרה"
    }
   ],
   "in_laws": [

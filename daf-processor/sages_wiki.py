@@ -32,7 +32,9 @@ DATES = {"תאריך לידה": "born", "תאריך פטירה": "died", "התח
 # Also where Sefaria's own heWikiLink is wrong: it swaps Rabban Gamliel of Yavneh and his grandson.
 WIKI_TITLES = {"shmuel-(amora)": "שמואל (אמורא)",
                "rabban-gamliel": "רבן גמליאל דיבנה",
-               "rabban-gamliel-b-rabbi-(iii)": "רבן גמליאל ברבי"}
+               "rabban-gamliel-b-rabbi-(iii)": "רבן גמליאל ברבי",
+               # Sefaria links Rabbi Mana I (A2) to the page of Rabbi Mana II (A5)
+               "rabbi-mana-(ii)": "רבי מנא", "rabbi-mana-(i)": None}
 
 
 def guess_more(sages, have):
@@ -46,7 +48,9 @@ def guess_more(sages, have):
     for slug in ranked:
         if slug in have:
             continue
-        names = [WIKI_TITLES[slug]] if slug in WIKI_TITLES else []
+        if slug in WIKI_TITLES and WIKI_TITLES[slug] is None:
+            continue
+        names = [WIKI_TITLES[slug]] if WIKI_TITLES.get(slug) else []
         for t in sages[slug]["titles_he"]:
             names += [t, re.sub(r"^(?:רבי|רב|רבן) ", "", t)]
         tries[slug] = list(dict.fromkeys(names))
@@ -55,15 +59,27 @@ def guess_more(sages, have):
     for i in range(0, len(flat), 50):
         got.update(query(flat[i:i + 50], content=True))
         time.sleep(0.5)
+    # pages other sages already have: a name that redirects to one of them is a namesake
+    taken = {json.loads(f.read_text(encoding="utf-8")).get("title") for f in PAGES.glob("*.json")}
+    ords = {"ראשון": 1, "שני": 2, "שלישי": 3, "רביעי": 4, "חמישי": 5, "שישי": 6, "שביעי": 7, "שמיני": 8}
     out = {}
     for slug, names in tries.items():
         for n in names:
             title, text = got.get(n, (None, None))
             info = infobox(text or "")
             era = " ".join(info.get(k, "") for k in ("התחלת פעילות", "סיום פעילות"))
-            if info and (word[sages[slug]["kind"]] in era or slug in WIKI_TITLES):
-                out[slug] = (n, title, text)
-                break
+            if not info or not (word[sages[slug]["kind"]] in era or slug in WIKI_TITLES):
+                continue
+            if slug not in WIKI_TITLES:
+                # "רבי חנינא" redirects to R. Chanina b. Chama: not this sage's page
+                if title in taken or title in {t for t, _, _ in out.values()}:
+                    continue
+                gens = [ords[w] for w in re.findall(r"דור (\S+)", era) if w in ords]
+                g = sages[slug]["generation"]
+                if gens and g is not None and min(abs(x - g) for x in gens) >= 1:
+                    continue
+            out[slug] = (n, title, text)
+            break
     return out
 
 
@@ -76,6 +92,8 @@ def candidate_titles(sages, wiki_cats):
             owners[t] = owners.get(t, 0) + 1
     out = {}
     for slug, s in sages.items():
+        if slug in WIKI_TITLES and WIKI_TITLES[slug] is None:
+            continue
         t = WIKI_TITLES.get(slug) or wiki_title((s.get("links") or {}).get("heWikiLink"))
         if not t:
             t = next((n for n in s["titles_he"] if n in wiki_cats and owners.get(n) == 1), None)
@@ -124,6 +142,9 @@ def fetch():
             (PAGES / f"{slug}.json").write_text(json.dumps({"asked": t, "title": title, "text": text},
                                                            ensure_ascii=False), encoding="utf-8")
         time.sleep(0.5)
+    for f in PAGES.glob("*.json"):
+        if json.loads(f.read_text(encoding="utf-8")).get("guessed"):
+            f.unlink()
     have = {f.stem for f in PAGES.glob("*.json") if json.loads(f.read_text(encoding="utf-8")).get("text")}
     extra = guess_more(sages, have)
     for slug, (asked, title, text) in extra.items():
@@ -316,6 +337,12 @@ def family_entries(field_key, value):
             notes = [n for n in (plain(x) for x in re.findall(r"\(([^()]*)\)", seg)) if n]
             body = re.sub(r"\([^()]*\)", "", seg)
             links = wikilinks(body)
+            # folk traditions are left out altogether (author, 2026-10-29): a relative known only
+            # from one is dropped, and folk-tradition remarks on others are removed
+            if any(re.match(r"(?:מסורת עממית|זיהוי עממי)", n) for n in notes):
+                continue
+            notes = [n for n in notes if "עממי" not in n]
+            refs = [r for r in refs if "עממי" not in r]
             e = {"rel": rel, "notes": qual + notes + refs}
             if f is not None:
                 e["f"] = f
@@ -334,6 +361,28 @@ def family_entries(field_key, value):
                 e["name"] = name
             out.append(e)
     return out
+
+
+ORDS = {"ראשון": 1, "שני": 2, "שלישי": 3, "רביעי": 4, "חמישי": 5, "שישי": 6, "שביעי": 7, "שמיני": 8}
+
+
+def page_gens(info):
+    """The generations a page's infobox gives, on one scale (tanna'im 1-6, amora'im 7-14):
+    Sefaria and Wikipedia number the transition differently (Rav Shela: tanna 6 / amora 1)."""
+    txt = " ".join(info.get(k, "") for k in ("התחלת פעילות", "סיום פעילות"))
+    out = []
+    for m in re.finditer(r"(ראשון|שני|שלישי|רביעי|חמישי|שישי|שביעי|שמיני)", txt):
+        after = txt[m.end():m.end() + 25]
+        n = ORDS[m.group(1)]
+        out += [n + 6] if "אמורא" in after else [n] if "תנא" in after else []
+    return out
+
+
+def sage_scale(x):
+    g = x.get("generation")
+    if g is None or x.get("kind") not in ("tanna", "amora"):
+        return None
+    return g + 6 if x["kind"] == "amora" else g
 
 
 def build():
@@ -373,6 +422,26 @@ def build():
         info = infobox(d.get("text") or "")
         if not info:
             continue
+        # a page whose generation is two or more away from the sage's is a namesake's page; a page
+        # two sages were given (Rabbi Chiyya and Rabbi Chiyya b. Abba) belongs to the one whose
+        # generation it matches, or to neither
+        gens, g = page_gens(info), sage_scale(sages.get(slug, {}))
+        if slug not in WIKI_TITLES:
+            if gens and g and min(abs(x - g) for x in gens) >= 2:
+                print(f"  skipped {slug}: page {d['title']} is generation {gens}, sage is {g}")
+                continue
+            sharing = page_of.get(d["title"], [])
+            if len(sharing) > 1:
+                dist = {k: (min(abs(x - sage_scale(sages[k])) for x in gens) if gens and sage_scale(sages[k]) else 9)
+                        for k in sharing}
+                # no usable generation on the page: the sage whose own name is the page's title
+                exact = [k for k in sharing if sages[k]["he"] == d["title"]]
+                if len(exact) == 1 and (not gens or dist[exact[0]] <= 1):
+                    dist = {k: 0 if k == exact[0] else 9 for k in sharing}
+                best = min(dist.values())
+                if dist[slug] != best or list(dist.values()).count(best) > 1 or best > 1:
+                    print(f"  skipped {slug}: page {d['title']} is shared with {[k for k in sharing if k != slug]}")
+                    continue
         rec = {"wiki": d["title"]}
         for field, key in FIELDS.items():
             if field not in info:

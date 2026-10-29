@@ -2050,6 +2050,13 @@ them (`SAGES_KIT`) and copies the data to `sages/`; a "Relationships" button on 
 calls `AnySages.open(slug)`; "All sages" in the Sages window and the page `sages.html`
 (`sages_page()`) show the Shas-wide chart (`AnySages.openChart()` / `chart(el)`). Tier 1 = the
 250 most quoted (author). Never edit the kit's JSON by hand.
+Wikipedia's family fields are read line by line (`family_entries` in `sages_wiki.py`): several
+names in a one-person field are alternatives for one person, "his daughter, wife of X" is an
+unnamed daughter, footnotes are matched by braces and kept as notes (shown behind an ⓘ marker),
+and folk traditions are dropped (author, 2026-10-29). A page is refused when its generation is two
+or more from the sage's, or when two sages were given it and it fits neither better (namesakes).
+`sages_kit.py` drops links impossible by generation (`auto_dropped_links.json`); `sages_audit.py`
+writes `outline/sages/audit.md`, the flags left for the author.
 
 #### Study games — see `AnyDafWeb/GAMES.md` (the design brief; read it first)
 

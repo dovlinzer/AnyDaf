@@ -125,6 +125,45 @@ def main():
         if not b.startswith("name:") and b in sages:
             back = links.setdefault((b, REL[rel], a), {"from": set(), "notes": list(e["notes"]), "f": None, "alts": False})
             back["from"] |= e["from"]
+    # A Wikipedia link that is impossible by generation (a teacher two or more generations after
+    # his student, a father after his son, an amora teaching a tanna) is a namesake matched to the
+    # wrong sage: dropped, both ways, and listed for the review. Sefaria's own links are left for
+    # the author (sages_audit.py flags them), except links generations too far apart to be
+    # possible at all (a teacher four or more generations earlier, colleagues three apart).
+    def era(k):
+        x = sages[k]
+        c = (x["generation_code"] or "").split("/")[0]
+        if c in ("TA", "T0"):
+            return 6.5
+        if not c and x["generation"] is not None:
+            c = {"tanna": "T", "amora": "A", "zug": "Z"}.get(x["kind"], "?") + str(x["generation"])
+        try:
+            return {"Z": int(c[1:]) - 5, "T": int(c[1:]), "A": int(c[1:]) + 6}.get(c[0])
+        except (ValueError, IndexError):
+            return None
+    auto_dropped = []
+    for (a, rel, b), e in list(links.items()):
+        if b.startswith("name:") or b not in sages or "author" in e["from"]:
+            continue
+        ea, eb = era(a), era(b)
+        if ea is None or eb is None:
+            continue
+        wiki_only = e["from"] == {"wikipedia"}
+        d = eb - ea                      # generations b comes after a
+        bad = ((wiki_only and rel in ("teachers", "father", "mother", "parents") and d >= 2)
+               or (wiki_only and rel == "teachers" and sages[a]["kind"] == "tanna" and sages[b]["kind"] == "amora")
+               # far too far apart to be teacher, parent or colleague, whoever says so: a namesake
+               or (rel == "teachers" and d <= -4) or (rel in ("father", "mother", "parents") and d <= -3)
+               or (rel == "colleagues" and abs(d) >= 3))
+        if bad:
+            links.pop((a, rel, b), None)
+            links.pop((b, REL[rel], a), None)
+            auto_dropped.append([a, rel, b])
+    (SAGES / "auto_dropped_links.json").write_text(json.dumps(auto_dropped, indent=0), encoding="utf-8")
+    # "father" and its reverse "parents" for the same person: keep the specific one
+    for (a, rel, b) in list(links):
+        if rel == "parents" and ((a, "father", b) in links or (a, "mother", b) in links):
+            del links[(a, rel, b)]
     # a sage whose only link is to a kept sage comes along (as someone's teacher, say)
     keep |= {b for (a, _, b) in links if a in keep and b in sages}
 
@@ -203,6 +242,7 @@ def main():
     quoted = {k: {"bavli": bavli.get(k, {}).get("amudim", {}), "mishnah": mishnah.get(k, {}).get("mishnayot", {})}
               for k in out if k in bavli or k in mishnah}
     (KIT / "quoted.json").write_text(json.dumps(quoted, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"{len(auto_dropped)} impossible links dropped (auto_dropped_links.json)")
     n = {t: sum(1 for r in out.values() if r["tier"] == t) for t in (1, 2, 3)}
     size = (KIT / "sages.json").stat().st_size // 1024
     print(f"{len(out)} sages (tier 1: {n[1]}, tier 2: {n[2]}, tier 3: {n[3]}); "
