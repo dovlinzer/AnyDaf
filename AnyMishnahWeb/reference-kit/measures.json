@@ -432,6 +432,20 @@
     "It is also the time in which one must eat for smaller portions, each less than a zayit, to combine into a full zayit.",
     "The shiur is the time, not the volume: this picture shows the amount of bread, not the time (about four to nine minutes)."
    ]
+  },
+  "ekotevet": {
+   "family": "eating",
+   "he": "כותבת",
+   "tr": "kotevet",
+   "en": "kotevet (plump date)",
+   "cc_rashi": 50.3,
+   "cc_rambam": 50.3,
+   "shape": "date",
+   "noratio": true,
+   "buys": [
+    "A plump date (kotevet haGasa, כותבת הגסה): smaller than an egg and larger than two olives (Keritot 14a; Shulchan Arukh, Orach Chayim 612:1). This does not fit Rashi, for whom two olives are the size of an egg. In practice it is close to an egg. The opinions differ, so no ratio is shown.",
+    "The minimum amount of food for which one is liable for eating on Yom Kippur (Mishnah Yoma 8:2)."
+   ]
   }
  },
  "ladders": {
@@ -501,6 +515,7 @@
   "eating": [
    "egrogeret",
    "ezayit",
+   "ekotevet",
    "ebeitzah",
    "elugmav",
    "erevit",
@@ -577,6 +592,14 @@
    "src": "img/measures/ruler.jpg",
    "w": 220,
    "h": 1173
+  },
+  "e_date": {
+   "src": "img/measures/eat-date.png",
+   "ar": 1.7213,
+   "wf": 1.55,
+   "lx": 0.371,
+   "ly": 0.493,
+   "placeholder": true
   }
  },
  "hand": {
