@@ -149,11 +149,14 @@
       <button type="button" class="sgx-x" aria-label="${t('close')}">×</button></header>
       <div class="sgx-scroll"><div class="sgx-views" role="group" hidden><button type="button" data-view="ts"></button><button type="button" data-view="fam"></button></div><div class="sgx-graph"><svg class="sgx-lines" aria-hidden="true"><defs>
       <marker id="sgxArrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto">
-      <path d="M0,0 L10,5 L0,10 z" fill="currentColor"/></marker></defs></svg></div>
+      <path d="M0,0 L10,5 L0,10 z" fill="currentColor"/></marker>
+      <marker id="sgxArrowT" class="t" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z"/></marker>
+      <marker id="sgxArrowS" class="s" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z"/></marker></defs></svg></div>
       <p class="sgx-key"><span><i class="sw zug"></i>${t('keyZ')}</span><span><i class="sw tanna"></i>${t('keyTa')}</span>
       <span><i class="sw ey"></i>${t('keyEY')}</span><span><i class="sw bavel"></i>${t('keyBV')}</span>
-      <span class="sgx-roles"><span><i class="sw role r-teachers"></i>${t('keyRT')}</span><span><i class="sw role r-students"></i>${t('keyRS')}</span><span><i class="sw role r-colleagues"></i>${t('keyRC')}</span></span>
-      <span><svg width="30" height="12"><path d="M1,6 L15,6 L29,6" fill="none" stroke="currentColor" stroke-width="1.6" marker-mid="url(#sgxArrow)"/></svg>${t('keyT')}</span>
+      <span class="sgx-roles"><span><i class="sw role r-teachers"></i><svg class="sgx-lk t" width="30" height="12"><path d="M1,6 L15,6 L29,6" marker-mid="url(#sgxArrowT)"/></svg>${t('keyRT')}</span><span><i class="sw role r-students"></i><svg class="sgx-lk s" width="30" height="12"><path d="M1,6 L15,6 L29,6" marker-mid="url(#sgxArrowS)"/></svg>${t('keyRS')}</span><span><i class="sw role r-colleagues"></i>${t('keyRC')}</span></span>
       </p>
       <div class="sgx-info" aria-live="polite"></div></div>`;
     if (HE()) b.dir = 'rtl';
@@ -537,9 +540,10 @@
       const P = box(n.el), rel = n.p.rel;
       // an arrowhead halfway along each line, pointing from teacher to student, so the direction
       // reads even where many lines meet at the centre
-      const arrow = (x1, y1, x2, y2) => `<path d="M${x1},${y1} L${(x1 + x2) / 2},${(y1 + y2) / 2} L${x2},${y2}" marker-mid="url(#sgxArrow)"/>`;
-      if (rel === 'teachers') out += arrow(P.x, P.y + P.h, C.x, C.y - C.h);
-      else if (rel === 'students') out += arrow(C.x, C.y + C.h, P.x, P.y - P.h);
+      // teacher lines purple, student lines green, like the boxes
+      const arrow = (x1, y1, x2, y2, k) => `<path class="${k}" d="M${x1},${y1} L${(x1 + x2) / 2},${(y1 + y2) / 2} L${x2},${y2}" marker-mid="url(#sgxArrow${k.toUpperCase()})"/>`;
+      if (rel === 'teachers') out += arrow(P.x, P.y + P.h, C.x, C.y - C.h, 't');
+      else if (rel === 'students') out += arrow(C.x, C.y + C.h, P.x, P.y - P.h, 's');
       else if (rel === 'colleagues') continue;   // no line: standing beside him at his level says it
       else if (P.y < C.y) out += `<line class="fam" x1="${P.x}" y1="${P.y + P.h}" x2="${C.x}" y2="${C.y - C.h}"/>`;
       else out += `<line class="fam" x1="${C.x}" y1="${C.y + C.h}" x2="${P.x}" y2="${P.y - P.h}"/>`;

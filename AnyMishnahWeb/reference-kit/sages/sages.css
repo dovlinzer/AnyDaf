@@ -168,3 +168,9 @@
 .sgc-body::-webkit-scrollbar-thumb{background:color-mix(in srgb,var(--fg,#222) 35%,transparent);border-radius:6px;border:3px solid var(--card,#fff)}
 .sgc-body::-webkit-scrollbar-track{background:color-mix(in srgb,var(--fg,#222) 6%,transparent)}
 .sgc-body .sgc-c,.sgc-body .sgc-more{cursor:pointer}
+
+/* teacher and student lines and arrowheads in the colour of their boxes */
+.sgx-lines path.t,.sgx-lk.t path{stroke:var(--role-t)}.sgx-lines marker.t path{fill:var(--role-t)}
+.sgx-lines path.s,.sgx-lk.s path{stroke:var(--role-s)}.sgx-lines marker.s path{fill:var(--role-s)}
+.sgx-lk path{fill:none;stroke-width:1.6}
+.sgx-graph:not(.clay) .sgx-lines path.t,.sgx-graph:not(.clay) .sgx-lines path.s{stroke-width:1.8;opacity:.85}
