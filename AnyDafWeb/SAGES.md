@@ -110,6 +110,14 @@ alike.
    page, like the planned glossary review. A wrong "teacher of" is a factual error a learned reader
    will catch.
 
+Other sites checked (2026-10-29): **Torah Tech** (torahtech.co/sages) takes its list of 1,188
+people from Sefaria, but its few full pages (about 15) give teachers, students and family each tied
+to a passage (Rabbi Akiva: 3 teachers, 5 students, 19 sources), which is the standard to copy; no
+license is stated, so ask before reusing. **Bonei aTalmud** (boneiatalmud.co.il) has its own
+written profiles (73 on the main page, all rights reserved), with relationships mostly in prose and
+not reliable enough to import (Rabbi Yehuda bar Ilai's colleagues include Resh Lakish, a later
+Amora). Neither replaces the Wikipedia step.
+
 Each link keeps its source (sefaria / wikipedia / author), so a reviewed link isn't overwritten on
 a rebuild.
 
