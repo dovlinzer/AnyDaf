@@ -490,6 +490,7 @@ __SPRITE__
   <button class="btn tool" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
  </div>
  <button class="refbtn" id="refBtn" type="button" aria-label="Reference: weights, measures and money" title="Reference: weights, measures and money"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect x="2.5" y="8" width="19" height="8" rx="1.5" fill="currentColor"/><path d="M6 8v4M9 8v3M12 8v4M15 8v3M18 8v4" stroke="var(--panel)" stroke-width="1.4"/></svg></button>
+ <button class="refbtn" id="sagesBtn" type="button" aria-label="Sages of the Talmud" title="Sages of the Talmud"><svg viewBox="0 0 24 24" width="21" height="21" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M7.5 9.5a4.5 4.5 0 0 1 9 0"/><path d="M7.5 9.5v1.5c0 .8.2 1.6.6 2.3"/><path d="M16.5 9.5v1.5c0 .8-.2 1.6-.6 2.3"/><path d="M8.1 13.3c.6 3.4 2.2 6.2 3.9 6.7 1.7-.5 3.3-3.3 3.9-6.7" fill="currentColor" fill-opacity=".22"/><path d="M9.6 14.6c.8.5 1.6.7 2.4.7s1.6-.2 2.4-.7"/><circle cx="10" cy="10.6" r=".6" fill="currentColor" stroke="none"/><circle cx="14" cy="10.6" r=".6" fill="currentColor" stroke="none"/><path d="M6.8 8.2c.3-2.6 2.4-4.4 5.2-4.4s4.9 1.8 5.2 4.4"/></svg></button>
  <button class="iconbtn gear" id="moreBtn" type="button" aria-expanded="false" aria-controls="more" aria-label="Settings" title="Settings"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M19.4 13a7.6 7.6 0 0 0 0-2l2.1-1.6a.5.5 0 0 0 .1-.6l-2-3.5a.5.5 0 0 0-.6-.2l-2.5 1a7.4 7.4 0 0 0-1.7-1l-.4-2.6a.5.5 0 0 0-.5-.4h-4a.5.5 0 0 0-.5.4l-.4 2.6a7.4 7.4 0 0 0-1.7 1l-2.5-1a.5.5 0 0 0-.6.2l-2 3.5a.5.5 0 0 0 .1.6L4.6 11a7.6 7.6 0 0 0 0 2l-2.1 1.6a.5.5 0 0 0-.1.6l2 3.5a.5.5 0 0 0 .6.2l2.5-1a7.4 7.4 0 0 0 1.7 1l.4 2.6a.5.5 0 0 0 .5.4h4a.5.5 0 0 0 .5-.4l.4-2.6a7.4 7.4 0 0 0 1.7-1l2.5 1a.5.5 0 0 0 .6-.2l2-3.5a.5.5 0 0 0-.1-.6zM12 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7z"/></svg></button>
  <div class="more opts" id="more" role="dialog" aria-label="Settings">
   <div class="morehead"><span class="mt">Settings</span><button class="iconbtn" id="moreClose" type="button" aria-label="Close settings">×</button></div>
@@ -500,6 +501,10 @@ __SPRITE__
    <label class="tog" title="A small icon on each outcome in a chart; the words show either way"><input type="checkbox" id="optBadges" checked> Icons in charts</label>
    <label class="tog" title="Every heading shows, each with an arrow that opens its text, charts and pictures; off: the full outline with the At a glance list"><input type="checkbox" id="optCollapse"> Collapsible outline</label>
    <label class="tog" id="foldOpenOpt" title="Off: each daf opens with every section folded, headings only"><input type="checkbox" id="optFoldOpen"> Start with sections open</label>
+  </div>
+  <div class="grp"><span class="gl">Sages</span>
+   <label class="tog" title="Open the chart of the sages with every name in each box"><input type="checkbox" id="sagesAllTog"> Sages chart: show every sage</label>
+   <a class="fine" href="sages" target="_blank" rel="noopener">The chart as a page ↗</a>
   </div>
   <div class="grp" id="unitsGrp"><span class="gl">Measures</span>
    <div class="seg" data-key="units" id="unitsSeg" role="group" aria-label="Units"><button data-v="us">U.S.</button><button data-v="metric">Metric</button></div>
@@ -648,7 +653,7 @@ function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch
 // the code goes through tr(), keyed by the English.
 const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='he'||q==='en'){prefs.ui=q;savePrefs()}return prefs.ui==='he'?'he':'en'})();
 const RTL=UI==='he';
-const HEW={'Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים',
+const HEW={'Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
  "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
@@ -1276,6 +1281,9 @@ $('slist').onclick=e=>{const s=e.target.closest('[data-s]'),c=e.target.closest('
 $('sOrder').onclick=e=>{const b=e.target.closest('[data-o]');if(!b)return;prefs.sOrder=b.dataset.o;savePrefs();renderSages(D.sages||[])};
 $('swinClose').onclick=()=>{$('swin').hidden=true};
 $('swinAll').onclick=()=>AnySages.openChart();
+$('sagesBtn').onclick=()=>AnySages.openChart();
+$('sagesAllTog').checked=!!prefs.sagesAll;
+$('sagesAllTog').onchange=()=>{prefs.sagesAll=$('sagesAllTog').checked;savePrefs();AnySages.setChartAllOpen(prefs.sagesAll)};
 // The last window touched sits on top.
 let zTop=20;function front(w){w.style.zIndex=++zTop}
 ['gwin','swin','pwin'].forEach(id=>$(id).addEventListener('pointerdown',()=>front($(id))));
@@ -1858,7 +1866,7 @@ $('dedDlg').addEventListener('click',e=>{if(e.target===$('dedDlg'))$('dedDlg').c
 <script>__SAGES_JS__</script>
 <script>
 // The relationship box (shared kit): a place a sage is named becomes a link to that daf here
-AnySages.init({base:'sages/',corpus:'bavli',lang:RTL?'he':'en',
+AnySages.init({base:'sages/',corpus:'bavli',lang:RTL?'he':'en',chartAllOpen:!!prefs.sagesAll,
  tractateName:tr=>{const x=TRACTATES.find(t=>t.text===tr||t.name===tr);return x?(RTL?x.he:x.name):tr},
  link:(corpus,tr,place)=>{const x=TRACTATES.find(t=>t.text===tr||t.name===tr);return x?hashFor(x.name,parseInt(place)):'#'}});
 // following a place closes the box, so the daf it opens is in view

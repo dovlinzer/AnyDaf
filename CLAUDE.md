@@ -2048,7 +2048,7 @@ Tier list for the author: `outline/sages/tiers_review.md`.
 `stories.json`); `sages.js`/`sages.css` there are the relationship box. iTalmud's build inlines
 them (`SAGES_KIT`) and copies the data to `sages/`; a "Relationships" button on each Sages card
 calls `AnySages.open(slug)`; "All sages" in the Sages window and the page `sages.html`
-(`sages_page()`) show the Shas-wide chart (`AnySages.openChart()` / `chart(el)`). Tier 1 = the
+(`sages_page()`) show the Shas-wide chart (`AnySages.openChart()` / `chart(el)`), also opened by the bearded-face button beside the ruler; Settings "Sages chart: show every sage" (`prefs.sagesAll`, kit option `chartAllOpen`). Tier 1 = the
 250 most quoted (author). Never edit the kit's JSON by hand.
 Wikipedia's family fields are read line by line (`family_entries` in `sages_wiki.py`): several
 names in a one-person field are alternatives for one person, "his daughter, wife of X" is an

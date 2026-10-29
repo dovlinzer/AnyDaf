@@ -491,7 +491,7 @@
       for (const c of cols) {
         if (row === 1 && tall(c)) continue;
         const k = row + ':' + c, ids = (by[k] || []).filter(id => C.filter === 'all' || (C.filter === 'tanna' ? sage(id).kind !== 'amora' : sage(id).kind === 'amora'));
-        const open = C.open.has(k);
+        const open = S.o.chartAllOpen ? !C.open.has(k) : C.open.has(k);   // with "show every sage", a click closes
         const major = ids.filter(id => tierOf(sage(id)) <= 2);
         // the cell's most quoted (by Bavli or Mishnah count), then A–Z; opened, all of them A–Z.
         // The Zugot keep their historical order.
@@ -596,6 +596,8 @@
     init(o) { Object.assign(S.o, o || {}); },
     open,
     close,
+    // the chart opens with every sage listed (a host setting), redrawn if it is on screen
+    setChartAllOpen(v) { S.o.chartAllOpen = !!v; C.open.clear(); if (C.host && S.data) chartDraw(); },
     chart,          // render the Shas-wide chart into an element (a page of its own)
     openChart,      // or open it over the page
     // for hosts that want the data (search, the timeline later)
