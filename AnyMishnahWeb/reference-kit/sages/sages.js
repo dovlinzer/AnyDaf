@@ -154,7 +154,6 @@
       <span><i class="sw ey"></i>${t('keyEY')}</span><span><i class="sw bavel"></i>${t('keyBV')}</span>
       <span class="sgx-roles"><span><i class="sw role r-teachers"></i>${t('keyRT')}</span><span><i class="sw role r-students"></i>${t('keyRS')}</span><span><i class="sw role r-colleagues"></i>${t('keyRC')}</span></span>
       <span><svg width="30" height="12"><path d="M1,6 L15,6 L29,6" fill="none" stroke="currentColor" stroke-width="1.6" marker-mid="url(#sgxArrow)"/></svg>${t('keyT')}</span>
-      <span><svg width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" stroke="currentColor" stroke-width="1.6" stroke-dasharray="3 3"/></svg>${t('keyC')}</span>
       </p>
       <div class="sgx-info" aria-live="polite"></div></div>`;
     if (HE()) b.dir = 'rtl';
@@ -385,8 +384,9 @@
     if (S.view === 'fam') return drawFamily(animate);
     S.box.dataset.view = 'ts'; S.box.querySelector('.sgx-graph').style.width = ''; S.box.querySelector('.sgx-graph').classList.remove('famview');
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg');
-    const clay = !!S.o.clay, width = g.clientWidth || 600, phone = width < 560, cap = clay ? (phone ? 3 : 3 + Math.floor(Math.max(0, width - 760) / 170)) : phone ? 3 : 6, nodeW = clay ? (phone ? 96 : 120) : phone ? 92 : 124;
+    const clay = !!S.o.clay, width = g.clientWidth || 600, phone = width < 560, cap = clay ? (phone ? 3 : 3 + Math.floor(Math.max(0, width - 760) / 170)) : phone ? 3 : Math.max(6, Math.floor(width / 150)), nodeW = clay ? (phone ? 96 : 120) : phone ? 92 : 124;
     g.classList.toggle('clay', clay);
+    S.box.style.setProperty('--cc', `var(--c-${group(sage(S.cur))})`);
     narrow = phone;
     const rtl = HE(), X = x => rtl ? width - x : x;
     const id = S.cur, x = sage(id);
@@ -414,7 +414,7 @@
     [...rows.teachers, ...rows.students].forEach(p => { if (p.id && famOf[p.id]) p.famRel = famOf[p.id]; });
     const place = [];   // {key, id, name, x, y, cls, label}
     const more = [];    // "+N more" buttons
-    let y = clay ? 76 : 34;
+    let y = clay ? 76 : 50;
     function band(name, list, perLine, all) {
       if (!list.length) return null;
       // a "+1 more" button would take the space of the one it hides: show it instead
@@ -429,24 +429,24 @@
         ln.forEach((p, i) => place.push({ ...p, x: X((i + 1) * width / (n + 1)), y, maxW: width / (n + 1) - 10 }));
         if (btn)
           more.push({ row: name, x: clay ? X(width - 34) : X(n * width / (n + 1)), y: clay ? y + (phone ? 92 : 20) : y, label: extra > 0 ? t('more', extra) : t('fewer') });
-        ys.push(y); y += clay ? 124 : 56;
+        ys.push(y); y += clay ? 124 : phone ? 58 : 64;
       });
       return ys;
     }
     const tY = band('teachers', rows.teachers, cap);
-    if (tY) y += clay ? 98 : rows.famUp.length ? 8 : 34;
+    if (tY) y += clay ? 98 : rows.famUp.length ? 8 : phone ? 40 : 62;
     if (rows.famUp.length) { band('famUp', rows.famUp, phone ? 3 : 5); y += 20; }
     const cY = y;
     place.push({ key: id, id, name: fullName(x), x: width / 2, y: cY, centre: true });
     // colleagues on both sides of the centre, nearest first
     // colleagues on both sides of the centre, nearest first; the rest (opened) wrap onto lines below
-    const side = phone ? 1 : 3, cols = rows.colleagues, beside = cols.slice(0, side * 2);
+    const side = phone ? 1 : Math.max(3, Math.floor(width / 330)), cols = rows.colleagues, beside = cols.slice(0, side * 2);
     const cw = phone ? width * 0.36 : Math.min(width * 0.3, nodeW * 1.6), slot = (width / 2 - cw / 2 - 8) / side;
     beside.forEach((p, i) => {
       const dir = i % 2 === 0 ? -1 : 1, k = Math.floor(i / 2);
       place.push({ ...p, x: X(width / 2 + dir * (cw / 2 + 8 + slot * (k + 0.5))), y: cY, maxW: slot - 10 });
     });
-    y += clay ? (phone ? 190 : 214) : phone ? 66 : 58;
+    y += clay ? (phone ? 190 : 214) : phone ? 66 : 70;
     const restC = cols.slice(side * 2);
     if (restC.length === 1) band('colleagues_more', restC, cap, true);   // one more: just show him
     else if (restC.length) {
@@ -456,7 +456,7 @@
     }
     const fY = rows.famDown.length ? band('famDown', rows.famDown, phone ? 3 : 5) : null;
     if (fY) y += 6;
-    if (rows.students.length) y += clay ? 0 : 30;
+    if (rows.students.length) y += clay ? 0 : phone ? 36 : 56;
     const sY = band('students', rows.students, cap);
     g.style.height = (y + (sY ? 4 : 20)) + 'px';
     svg.setAttribute('width', width); svg.setAttribute('height', y + 20);
@@ -540,10 +540,8 @@
       const arrow = (x1, y1, x2, y2) => `<path d="M${x1},${y1} L${(x1 + x2) / 2},${(y1 + y2) / 2} L${x2},${y2}" marker-mid="url(#sgxArrow)"/>`;
       if (rel === 'teachers') out += arrow(P.x, P.y + P.h, C.x, C.y - C.h);
       else if (rel === 'students') out += arrow(C.x, C.y + C.h, P.x, P.y - P.h);
-      else if (rel === 'colleagues') {
-        const dir = P.x < C.x ? 1 : -1;
-        out += `<line class="dot" x1="${P.x + dir * P.w}" y1="${P.y}" x2="${C.x - dir * C.w}" y2="${C.y}"/>`;
-      } else if (P.y < C.y) out += `<line class="fam" x1="${P.x}" y1="${P.y + P.h}" x2="${C.x}" y2="${C.y - C.h}"/>`;
+      else if (rel === 'colleagues') continue;   // no line: standing beside him at his level says it
+      else if (P.y < C.y) out += `<line class="fam" x1="${P.x}" y1="${P.y + P.h}" x2="${C.x}" y2="${C.y - C.h}"/>`;
       else out += `<line class="fam" x1="${C.x}" y1="${C.y + C.h}" x2="${P.x}" y2="${P.y - P.h}"/>`;
     }
     const defs = svg.querySelector('defs').outerHTML;

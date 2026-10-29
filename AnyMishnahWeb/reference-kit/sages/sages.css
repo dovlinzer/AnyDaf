@@ -1,5 +1,5 @@
 /* Sages relationship box (sages.js). Uses the host's --bg --fg --card --blue variables. */
-.sgx{position:fixed;inset:16px;margin:auto;z-index:70;width:min(920px,calc(100vw - 16px));max-height:calc(100vh - 32px);
+.sgx{position:fixed;inset:16px;margin:auto;z-index:70;width:min(1180px,calc(100vw - 16px));max-height:calc(100vh - 32px);
  display:flex;flex-direction:column;box-sizing:border-box;background:var(--card,#fff);color:var(--fg,#222);
  border:1.5px solid var(--blue,#1b3a8a);border-radius:14px;box-shadow:0 10px 30px #0006;font:15px/1.45 'Public Sans',system-ui,sans-serif;
  --c-tanna:#b7791f;--c-ey:#2f855a;--c-bavel:#2b6cb0;--c-zug:#6b46c1;--c-na:#718096;--c-fam:#b83280}
@@ -10,7 +10,7 @@
 .sgx-trail button{font:inherit;border:0;background:none;color:var(--blue,#1b3a8a);cursor:pointer;padding:0 2px;text-decoration:underline}
 .sgx-x{border:0;background:none;color:inherit;font-size:22px;cursor:pointer;line-height:1}
 .sgx-scroll{overflow:auto;padding:0 14px 14px}
-.sgx-graph{position:relative;min-height:200px;margin-top:6px}
+.sgx-graph{position:relative;min-height:200px;margin-top:14px}
 .sgx-lines{position:absolute;inset:0;overflow:visible;color:color-mix(in srgb,var(--fg,#222) 55%,transparent);pointer-events:none}
 .sgx-lines line,.sgx-lines path{stroke:currentColor;stroke-width:1.6;fill:none}
 .sgx-lines marker path{fill:currentColor;stroke:none}
@@ -154,7 +154,9 @@
    green and blue. The border keeps the era colour. */
 .sgx{--role-t:#805ad5;--role-s:#38a169;--role-c:#3182ce}
 .sgx .r-teachers{--role:var(--role-t)}.sgx .r-students{--role:var(--role-s)}.sgx .r-colleagues{--role:var(--role-c)}
-.sgx .r-teachers,.sgx .r-students,.sgx .r-colleagues{--tint:color-mix(in srgb,var(--role) 20%,var(--card,#fff))}
+.sgx .r-teachers,.sgx .r-students{--tint:color-mix(in srgb,var(--role) 20%,var(--card,#fff))}
+/* colleagues: a light shade of the centre sage's own colour (he is at 22%), at his level and with no line */
+.sgx .r-colleagues{--role:var(--cc,var(--c-tanna));--tint:color-mix(in srgb,var(--cc,var(--c-tanna)) 9%,var(--card,#fff))}
 .sgx-graph:not(.clay) .sgx-n.r-teachers,.sgx-graph:not(.clay) .sgx-n.r-students,.sgx-graph:not(.clay) .sgx-n.r-colleagues{background:var(--tint)}
 .sgx-graph:not(.clay) .sgx-n.r-teachers:hover,.sgx-graph:not(.clay) .sgx-n.r-students:hover,.sgx-graph:not(.clay) .sgx-n.r-colleagues:hover{background:color-mix(in srgb,var(--role) 34%,var(--card,#fff))}
 
