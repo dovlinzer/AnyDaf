@@ -120,3 +120,6 @@ mentioned there). The index of where a concept appears comes from these rows.
   terms of Bava Kamma 1–6 under "Nizkei Mamon"), not tied to a chapter range: major and minor
   divisions found by looking across all the terms. A project of its own; the taxonomy's
   categories may help seed the groups.
+- **Possibly an A–Z sort as an option** (author, 2026-10-29): the conceptual groups stay the
+  default, with a switch to show the same entries alphabetically, as the daf glossary's
+  "As they appear / A–Z" switch does now.

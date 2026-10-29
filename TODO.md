@@ -185,9 +185,12 @@ daf's terms link to master entries from the start. Not built; awaiting the autho
 - [ ] **Reference Tools button (author, 2026-10-28; later).** The ruler button becomes a
       "Reference Tools" button holding three tools: (1) this weights-and-measures Reference;
       (2) the global glossary, browsed in sections, not A–Z (chapter glossaries in conceptual
-      groups, then broader groupings across chapters; see `AnyDafWeb/GLOSSARY.md`, Decisions);
-      (3) a comprehensive Sages chart for all of Shas. How to keep the Sages chart from being
-      overwhelming is still to be worked out (today's Sages window shows one daf's sages).
+      groups, then broader groupings across chapters; see `AnyDafWeb/GLOSSARY.md`, Decisions;
+      possibly with an A–Z sort as an option, author 2026-10-29);
+      (3) a comprehensive Sages chart for all of Shas, with a relationship graph (a sage in the
+      centre, teachers above, students below, colleagues alongside; click to recentre).
+      Draft plan: `AnyDafWeb/SAGES.md` (tiers by Bavli mentions, search reaches everyone,
+      relationship data to fill in from Hebrew Wikipedia first).
 - [ ] **Back burner (author, 2026-10-28): links in the text when the outline is closed.** With
       only the Gemara on screen, should glossary terms, sages and measures link from the Gemara
       text? Today they link only from the outline.
