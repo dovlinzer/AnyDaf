@@ -380,7 +380,9 @@ def foot_html():
     body += (f'<p>{esc("Sages icon:")} <a href="https://www.flaticon.com/free-icon/rabbi_5317326" target="_blank" rel="noopener">{esc("Rabbi icon")}</a> '
              f'{esc("by")} <a href="https://www.flaticon.com/authors/magnific" target="_blank" rel="noopener">{esc("Magnific")}</a> - '
              f'<a href="https://www.flaticon.com/" target="_blank" rel="noopener">{esc("Flaticon")}</a>.</p>')
-    return (f'<footer>{esc(short)} <a href="#" class="aboutlink">{esc("Sources and credits")}</a></footer>'
+    import datetime as _dt
+    stamp = _dt.datetime.now().strftime("%b %d, %H:%M")   # lets a reader see which build their phone loaded
+    return (f'<footer>{esc(short)} <a href="#" class="aboutlink">{esc("Sources and credits")}</a> <span style="opacity:.55;white-space:nowrap">· build {stamp}</span></footer>'
             f'<div class="about" id="about" hidden><div class="abox"><button class="gx" type="button" aria-label="Close">\u00d7</button><h3>{esc("Sources and credits")}</h3>{body}</div></div>'
             "<script>(function(){var a=document.getElementById('about');if(!a)return;document.addEventListener('click',function(e){var l=e.target.closest&&e.target.closest('.aboutlink');if(l){e.preventDefault();a.hidden=!a.hidden;return}if(!a.hidden&&(e.target.closest('.gx')||!e.target.closest('.abox')))a.hidden=true});document.addEventListener('keydown',function(e){if(e.key==='Escape')a.hidden=true})})()</script>")
 
