@@ -454,16 +454,22 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
   // A sage keeps his picture when he moves (a student who is clicked glides to the middle with his own face);
   // among the sages on screen no two share one while there are pictures left.
   function assignFaces(placed) {
-    const used = new Set(), faceOf = S.faceOf;
-    for (const p of placed) { const k = p.id || p.name, f = faceOf.get(k); if (f != null && !used.has(f)) { used.add(f); p.fig = f; } }
+    const used = new Set(), row = { teachers: new Set(), students: new Set() }, faceOf = S.faceOf;
+    const take = (p, f) => { used.add(f); if (row[p.rel]) row[p.rel].add(f); p.fig = f; };
     const ordered = [...placed].sort((a, b) => (b.centre ? 1 : 0) - (a.centre ? 1 : 0));   // the middle sage chooses first
+    for (const p of ordered) { const f = faceOf.get(p.id || p.name); if (f != null && !used.has(f)) take(p, f); }
     for (const p of ordered) {
       if (p.fig != null) continue;
       const k = p.id || p.name, pref = FACE_PREF[p.centre ? 'centre' : p.rel] || [], rest = [...FACES.keys()].filter(f => !pref.includes(f));
       const h = figHash(k);
       const order = [...pref.map((_, i) => pref[(h + i) % pref.length]), ...rest.map((_, i) => rest[(h + i) % rest.length])];   // his own kind of picture first
-      const f = order.find(c => !used.has(c)) ?? order[0];
-      used.add(f); p.fig = f; faceOf.set(k, f);
+      let f = order.find(c => !used.has(c));
+      if (f != null) faceOf.set(k, f);                 // a picture nobody else on screen has: he keeps it from now on
+      else {                                           // more sages than pictures: repeat one, but never within a row or with the middle sage
+        const mid = placed.find(q => q.centre)?.fig;
+        f = order.find(c => c !== mid && !(row[p.rel] && row[p.rel].has(c))) ?? order[0];
+      }
+      take(p, f);
     }
   }
   function figure(n, colour) {   // colour: gold (the middle sage), blue (a teacher), green (a student): his own picture, dressed for his role
