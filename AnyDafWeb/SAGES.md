@@ -120,6 +120,25 @@ Amora). Neither replaces the Wikipedia step.
 Each link keeps its source (sefaria / wikipedia / author), so a reviewed link isn't overwritten on
 a rebuild.
 
+## Designing for missing data (author, 2026-10-29)
+
+Many sages appear only a handful of times, and nothing anywhere records their teachers, students
+or generation; better data won't fix that. So the chart should show such a sage honestly:
+
+- **Say what isn't known** rather than leave a blank: "No teachers or students are recorded."
+- **For a rarely quoted sage, the passages are the content.** When a sage is quoted fewer than
+  about ten times, the info box shows every passage in full, Hebrew and English.
+- **"Appears with"** (computed, free): the sages quoted in the same passages, such as the one whose
+  teaching he passes on ("Rabbi X said in the name of Rabbi Y") or the one he argues with. It is
+  shown apart from the graph's teacher/student lines and labelled as what it is, never presented
+  as a relationship.
+- **An estimated place on the timeline** where the generation is unknown: worked out from whom he
+  quotes and who quotes him, and drawn as a faint bar across the possible generations with
+  "approximate"; with nothing to go on, a "generation unknown" row at the end of each era.
+- **Check coverage where readers look.** After the Wikipedia step, measure how many tier-1 and
+  tier-2 sages have teachers, students and a generation. Most readers start there, and the gaps
+  are mostly in tier 3.
+
 ## Order of work
 
 1. Count mentions across Shas and assign tiers (local, free).
