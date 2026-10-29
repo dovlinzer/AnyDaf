@@ -396,13 +396,15 @@
    "he": "מלא לוגמיו",
    "tr": "melo lugmav",
    "en": "melo lugmav (a mouthful)",
-   "cc_rashi": 41,
-   "cc_rambam": 41,
+   "cc_rashi": 44.4,
+   "cc_rambam": 44.4,
    "shape": "cup",
    "kind": "liquid",
    "approx": true,
    "buys": [
-    "The amount of drink that makes one liable for drinking on Yom Kippur; held by the Shulchan Arukh to be more than half a revi'it for an average person. It depends on the person, so this figure is only a guide (Yoma 80a; Shulchan Arukh, Orach Chayim 612)."
+    "The amount of drink that makes one liable for drinking on Yom Kippur (Yoma 80a). It depends on the person, so this figure is only a guide.",
+    "For an average person, a little more than half a revi'it (Tosafot, Pesachim 107a; Shulchan Arukh, Orach Chayim 612). The chart shows 1.5 fl oz, about .52 of a revi'it.",
+    "According to the Mishnah Berurah (Beur Halakha, Orach Chayim 271) it is about 1.7 to 1.8 fl oz, about .6 of a revi'it."
    ]
   },
   "erevit": {
@@ -410,13 +412,14 @@
    "he": "רביעית",
    "tr": "revi'it",
    "en": "revi'it",
-   "cc_rashi": 81,
-   "cc_rambam": 81,
+   "cc_rashi": 86.4,
+   "cc_rambam": 86.4,
    "shape": "cup",
    "kind": "liquid",
    "buys": [
     "The minimum amount of drinking for kiddush, for mitzvot and for transgressions.",
-    "A beitzah and a half (Halachipedia); a quarter of a log (Rif on Pesachim 23b)."
+    "A beitzah and a half (Halachipedia); a quarter of a log (Rif on Pesachim 23b).",
+    "R. Chaim Naeh: 86.4 cc, about 2.9 fl oz (the figure generally accepted); his Shiurei Tzion figure is 81 cc."
    ]
   },
   "eperas": {
