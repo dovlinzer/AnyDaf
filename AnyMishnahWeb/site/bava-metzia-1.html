@@ -401,19 +401,19 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     // "More about him" opens below the pictures, often out of sight: bring what it opened into view
     b.addEventListener('toggle', e => { if (e.target.matches && e.target.matches('.sgx-moreinfo') && e.target.open) setTimeout(() => e.target.querySelector('summary').scrollIntoView({ block: 'start', behavior: 'smooth' }), 30); }, true);
     b.addEventListener('click', e => {
-      const vb = e.target.closest('[data-view]');
+      const vb = e.target.closest('button[data-view]');   // (not the box itself, which carries data-view too)
       if (vb) { S.view = vb.dataset.view; fit(S.cur); draw(true); views(); return; }
       const nb = e.target.closest('.sgx-note');
       if (nb) { showNote(nb); return; }
       if (e.target.closest('.sgx-popx') || !e.target.closest('.sgx-pop')) S.box.querySelector('.sgx-pop')?.remove();
       const n = e.target.closest('[data-go]');
-      if (n) { go(n.dataset.go); return; }
+      if (n) { S.view = 'ts'; go(n.dataset.go); return; }   // a click always opens that sage's own page (teachers and students), even from the family tree
       const m = e.target.closest('[data-more]');
       if (m) { S.open[m.dataset.more] = !S.open[m.dataset.more]; draw(true); return; }
       const tr = e.target.closest('[data-tr]');
       if (tr) { showPlaces(tr.dataset.tr); return; }
       const bk = e.target.closest('[data-back]');
-      if (bk) { const i = +bk.dataset.back; const id = S.trail[i]; S.trail = S.trail.slice(0, i); go(id, true); }
+      if (bk) { const i = +bk.dataset.back; const id = S.trail[i]; S.trail = S.trail.slice(0, i); S.view = 'ts'; go(id, true); }
     });
     let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => !b.hidden && draw(false), 120); });
     // the box can be dragged to a new size (the corner handle); the sages spread out or close up to fit
