@@ -398,6 +398,8 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     S.box = b;
     b.querySelector('.sgx-x').onclick = close;
     b.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
+    // "More about him" opens below the pictures, often out of sight: bring what it opened into view
+    b.addEventListener('toggle', e => { if (e.target.matches && e.target.matches('.sgx-moreinfo') && e.target.open) setTimeout(() => e.target.querySelector('summary').scrollIntoView({ block: 'start', behavior: 'smooth' }), 30); }, true);
     b.addEventListener('click', e => {
       const vb = e.target.closest('[data-view]');
       if (vb) { S.view = vb.dataset.view; fit(S.cur); draw(true); views(); return; }
