@@ -2,7 +2,7 @@
 .sgx{position:fixed;inset:16px;margin:auto;z-index:70;width:min(920px,calc(100vw - 16px));max-height:calc(100vh - 32px);
  display:flex;flex-direction:column;box-sizing:border-box;background:var(--card,#fff);color:var(--fg,#222);
  border:1.5px solid var(--blue,#1b3a8a);border-radius:14px;box-shadow:0 10px 30px #0006;font:15px/1.45 'Public Sans',system-ui,sans-serif;
- --c-tanna:#b7791f;--c-ey:#2f855a;--c-bavel:#2b6cb0;--c-zug:#6b46c1;--c-na:#718096}
+ --c-tanna:#b7791f;--c-ey:#2f855a;--c-bavel:#2b6cb0;--c-zug:#6b46c1;--c-na:#718096;--c-fam:#b83280}
 .sgx[hidden]{display:none}
 .sgx-bar{display:flex;align-items:center;gap:10px;padding:10px 14px;border-bottom:1px solid color-mix(in srgb,var(--fg,#222) 15%,transparent)}
 .sgx-bar h2{margin:0;font-size:17px}
@@ -15,7 +15,10 @@
 .sgx-lines line,.sgx-lines path{stroke:currentColor;stroke-width:1.6;fill:none}
 .sgx-lines marker path{fill:currentColor;stroke:none}
 .sgx-lines line.dot{stroke-dasharray:4 4}
-.sgx-lines line.fam{stroke-width:1.2;opacity:.6}
+.sgx-lines line.fam{stroke:var(--c-fam);stroke-width:2;opacity:.8}
+.sgx-key .famkey{stroke:var(--c-fam)}
+.sgx-n.fam{border-width:1.5px;border-style:dotted;background:color-mix(in srgb,var(--c) 6%,var(--card,#fff));color:color-mix(in srgb,var(--fg,#222) 72%,transparent);font-size:12.5px}
+.sgx-n.fam small,.sgx-n small{color:var(--c-fam)}
 .sgx-n{position:absolute;left:0;top:0;box-sizing:border-box;padding:5px 9px;border-radius:10px;font:inherit;font-size:13.5px;
  line-height:1.2;text-align:center;cursor:pointer;border:2px solid var(--c);color:inherit;
  background:color-mix(in srgb,var(--c) 14%,var(--card,#fff));transition:transform .45s ease,opacity .35s ease;will-change:transform}

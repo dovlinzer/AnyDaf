@@ -26,7 +26,7 @@
           sons_in_law: 'Son-in-law', siblings: 'Brother', relatives: 'Relative', stories: 'Stories about him',
           sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
           keyT: 'teacher → student', keyC: 'colleagues', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
-          keyBV: 'Amora, Bavel', keyZ: 'Zugot', est: 'a rough count: the name fits more than one sage' },
+          keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', est: 'a rough count: the name fits more than one sage' },
     he: { title: 'חכמים', rel: 'קשרים', back: 'חזרה', close: 'סגירה', teachers: 'רבותיו', students: 'תלמידיו',
           colleagues: 'בני דורו', family: 'משפחה', more: 'ועוד {0}', fewer: 'פחות', tanna: 'תנא', amora: 'אמורא',
           zug: 'מן הזוגות', gen: 'דור {0}', trans: 'דור המעבר', ey: 'ארץ ישראל', bavel: 'בבל', about: 'בערך {0}',
@@ -36,7 +36,7 @@
           spouse: 'אשתו', in_laws: 'חמיו', sons_in_law: 'חתנו', siblings: 'אחיו', relatives: 'קרוב משפחה',
           stories: 'סיפורים עליו', sefaria: 'ספריא', wiki: 'ויקיפדיה', approx: 'התאריכים משוערים, לפי הדור.',
           loading: 'טוען…', keyT: 'רב ← תלמיד', keyC: 'בני דורו', keyTa: 'תנא', keyEY: 'אמורא, ארץ ישראל',
-          keyBV: 'אמורא, בבל', keyZ: 'זוגות', est: 'מספר משוער: השם מתאים ליותר מחכם אחד' },
+          keyBV: 'אמורא, בבל', keyZ: 'זוגות', keyF: 'משפחה', est: 'מספר משוער: השם מתאים ליותר מחכם אחד' },
   };
   const t = (k, ...a) => (W[S.o.lang] || W.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
   const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -100,6 +100,7 @@
     return out.filter(p => { const k = p.id || p.name; if (seen.has(k)) return false; seen.add(k); return true; });
   }
   const NOTES = { 'שנוי במחלוקת': 'disputed', 'לפי חלק מהדעות': 'by some accounts', 'לפי המסורת': 'by tradition' };
+  const FAM_UP = ['father', 'mother', 'parents', 'in_laws'];
   const FAMILY = ['father', 'mother', 'parents', 'children', 'spouse', 'in_laws', 'sons_in_law', 'siblings'];
 
   // ---------- box ----------
@@ -115,7 +116,8 @@
       <p class="sgx-key"><span><i class="sw zug"></i>${t('keyZ')}</span><span><i class="sw tanna"></i>${t('keyTa')}</span>
       <span><i class="sw ey"></i>${t('keyEY')}</span><span><i class="sw bavel"></i>${t('keyBV')}</span>
       <span><svg width="30" height="12"><path d="M1,6 L15,6 L29,6" fill="none" stroke="currentColor" stroke-width="1.6" marker-mid="url(#sgxArrow)"/></svg>${t('keyT')}</span>
-      <span><svg width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" stroke="currentColor" stroke-width="1.6" stroke-dasharray="3 3"/></svg>${t('keyC')}</span></p>
+      <span><svg width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" stroke="currentColor" stroke-width="1.6" stroke-dasharray="3 3"/></svg>${t('keyC')}</span>
+      <span><svg width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" class="famkey" stroke-width="2"/></svg>${t('keyF')}</span></p>
       <div class="sgx-info" aria-live="polite"></div></div>`;
     if (HE()) b.dir = 'rtl';
     document.body.appendChild(b);
@@ -168,8 +170,15 @@
       if (!p.id && !HE()) return false;          // a name we only have in Hebrew stays in the info box
       const k = p.id || p.name; if (used.has(k)) return false; used.add(k); return true; });
     const rows = {};
+    // Family: the generation above (father, mother, father-in-law) above him, the one below
+    // (children, sons-in-law) and his wife and brothers below him, drawn lighter than the teachers
+    // and students. A teacher who is also his father stays a teacher, labelled "Father".
+    const famOf = {};
+    FAMILY.forEach(r => (x.links[r] || []).forEach(l => { if (l.id && !famOf[l.id]) famOf[l.id] = r; }));
     rows.teachers = row(['teachers']); rows.students = row(['students']);
-    rows.family = row(FAMILY); rows.colleagues = row(['colleagues']);
+    rows.famUp = row(FAM_UP); rows.famDown = row(FAMILY.filter(r => !FAM_UP.includes(r)));
+    rows.colleagues = row(['colleagues']);
+    [...rows.teachers, ...rows.students].forEach(p => { if (p.id && famOf[p.id]) p.famRel = famOf[p.id]; });
     const place = [];   // {key, id, name, x, y, cls, label}
     const more = [];    // "+N more" buttons
     let y = 34;
@@ -192,7 +201,8 @@
       return ys;
     }
     const tY = band('teachers', rows.teachers, cap);
-    if (tY) y += 34;
+    if (tY) y += rows.famUp.length ? 8 : 34;
+    if (rows.famUp.length) { band('famUp', rows.famUp, phone ? 3 : 5); y += 20; }
     const cY = y;
     place.push({ key: id, id, name: fullName(x), x: width / 2, y: cY, centre: true });
     // colleagues on both sides of the centre, nearest first
@@ -211,7 +221,7 @@
       more.push({ row: 'colleagues', x: X(width - slot / 2), y: cY + 32, small: true,
                   label: S.open.colleagues ? t('fewer') : t('more', restC.length) });
     }
-    const fY = rows.family.length ? band('family', rows.family, phone ? 3 : 5) : null;
+    const fY = rows.famDown.length ? band('famDown', rows.famDown, phone ? 3 : 5) : null;
     if (fY) y += 6;
     if (rows.students.length) y += 30;
     const sY = band('students', rows.students, cap);
@@ -234,8 +244,9 @@
         g.appendChild(el);
       }
       const sx = p.centre ? x : p.id ? sage(p.id) : null;
-      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}`;
-      el.innerHTML = `${esc(p.centre ? fullName(x) : p.name)}${p.rel && FAMILY.includes(p.rel) ? `<small>${esc(t(p.rel))}</small>` : ''}`;
+      const fam = p.rel && FAMILY.includes(p.rel), famLabel = fam ? p.rel : p.famRel;
+      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam ? ' fam' : ''}`;
+      el.innerHTML = `${esc(p.centre ? fullName(x) : p.name)}${famLabel ? `<small>${esc(t(famLabel))}</small>` : ''}`;
       if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
       el.style.maxWidth = (p.centre ? cw : Math.min(nodeW, p.maxW || nodeW)) + 'px';
@@ -278,7 +289,8 @@
       else if (rel === 'colleagues') {
         const dir = P.x < C.x ? 1 : -1;
         out += `<line class="dot" x1="${P.x + dir * P.w}" y1="${P.y}" x2="${C.x - dir * C.w}" y2="${C.y}"/>`;
-      } else out += `<line class="fam" x1="${C.x}" y1="${C.y + C.h}" x2="${P.x}" y2="${P.y - P.h}"/>`;
+      } else if (P.y < C.y) out += `<line class="fam" x1="${P.x}" y1="${P.y + P.h}" x2="${C.x}" y2="${C.y - C.h}"/>`;
+      else out += `<line class="fam" x1="${C.x}" y1="${C.y + C.h}" x2="${P.x}" y2="${P.y - P.h}"/>`;
     }
     const defs = svg.querySelector('defs').outerHTML;
     svg.innerHTML = defs + out;
