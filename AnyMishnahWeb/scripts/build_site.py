@@ -436,7 +436,7 @@ JS = JS.replace("__MEASURES_JS__", open(KIT + "/measures.js", encoding="utf-8").
 SAGES = KIT + "/sages"
 _sj = open(SAGES + "/sages.js", encoding="utf-8").read().rstrip("\n")
 _sinit = r"""(function(){var lang=document.documentElement.lang==='he'?'he':'en',CH={'Bava Kamma':['bava-kamma',[1,2,3,4,5,6],[1,2,3]],'Bava Metzia':['bava-metzia',[1],[]]};
-AnySages.init({base:'sages/',corpus:'mishnah',lang:lang,link:function(c,t,p){var a=String(p).split(':'),i=CH[t];if(i&&i[1].indexOf(+a[0])>=0)return i[0]+'-'+a[0]+(lang==='he'&&i[2].indexOf(+a[0])>=0?'-he':'')+'.html#m'+a[1];return 'https://www.sefaria.org/Mishnah_'+t.replace(/ /g,'_')+'.'+a[0]+'.'+a[1]}});document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a.sg');if(a){e.preventDefault();AnySages.open(a.dataset.sg);return}if(e.target.closest&&e.target.closest('.sgbtn'))AnySages.openChart()})})();"""
+AnySages.init({base:'sages/',corpus:'mishnah',clay:true,lang:lang,link:function(c,t,p){var a=String(p).split(':'),i=CH[t];if(i&&i[1].indexOf(+a[0])>=0)return i[0]+'-'+a[0]+(lang==='he'&&i[2].indexOf(+a[0])>=0?'-he':'')+'.html#m'+a[1];return 'https://www.sefaria.org/Mishnah_'+t.replace(/ /g,'_')+'.'+a[0]+'.'+a[1]}});document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a.sg');if(a){e.preventDefault();AnySages.open(a.dataset.sg);return}if(e.target.closest&&e.target.closest('.sgbtn'))AnySages.openChart()})})();"""
 _i = JS.rindex("</script>")
 JS = JS[:_i] + "\n" + _sj + "\n" + _sinit + "\n" + JS[_i:]
 css += open(SAGES + "/sages.css", encoding="utf-8").read().replace("\n", "")

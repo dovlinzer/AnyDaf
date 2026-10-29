@@ -101,7 +101,8 @@
         out.push({ key: (l.id || 'name:' + l.name) + '|' + r, id: y ? l.id : null, name: y ? shortName(y) : l.name,
                    rel: r, x: y, f: y ? y.f : l.f });
       }
-    out.sort((a, b) => (a.x ? tierOf(a.x) : 4) - (b.x ? tierOf(b.x) : 4) || (b.x ? countOf(b.x) : 0) - (a.x ? countOf(a.x) : 0));
+    const named = p => (S.o.clay && !(p.x && countOf(p.x) > 0)) ? 1 : 0;   // clay: sages the Mishnah names come first
+    out.sort((a, b) => named(a) - named(b) || (a.x ? tierOf(a.x) : 4) - (b.x ? tierOf(b.x) : 4) || (b.x ? countOf(b.x) : 0) - (a.x ? countOf(a.x) : 0));
     const seen = new Set();
     return out.filter(p => { const k = p.id || p.name; if (seen.has(k)) return false; seen.add(k); return true; });
   }
@@ -190,9 +191,20 @@
   }
 
   // ---------- graph ----------
+  // Clay look (Mishnah): a figure with the name under it. A placeholder until the clay pictures exist:
+  // the middle one is large, the others small and soft. Swap the SVG for an <img> of each sage's clay picture.
+  function figure(big) {
+    return `<svg class="sgx-fig" viewBox="0 0 80 92" aria-hidden="true"><defs><radialGradient id="sgxClay${big ? 'B' : 'S'}" cx="38%" cy="30%" r="75%">
+      <stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".18"/></radialGradient></defs>
+      <path d="M12,90 C10,62 22,50 40,50 C58,50 70,62 68,90 Z" fill="var(--c)"/><path d="M12,90 C10,62 22,50 40,50 C58,50 70,62 68,90 Z" fill="url(#sgxClay${big ? 'B' : 'S'})"/>
+      <circle cx="40" cy="30" r="19" fill="#e9c9a0"/><circle cx="40" cy="30" r="19" fill="url(#sgxClay${big ? 'B' : 'S'})"/>
+      <path d="M24,22 C27,8 53,8 56,22 C50,16 30,16 24,22 Z" fill="var(--c)" opacity=".9"/>
+      <circle cx="33" cy="31" r="2.3" fill="#3a2a1a"/><circle cx="47" cy="31" r="2.3" fill="#3a2a1a"/><path d="M33,39 Q40,44 47,39" fill="none" stroke="#3a2a1a" stroke-width="2" stroke-linecap="round"/></svg>`;
+  }
   function draw(animate) {
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg');
-    const width = g.clientWidth || 600, phone = width < 560, cap = phone ? 3 : 6, nodeW = phone ? 92 : 124;
+    const clay = !!S.o.clay, width = g.clientWidth || 600, phone = width < 560, cap = clay ? 3 : phone ? 3 : 6, nodeW = clay ? (phone ? 96 : 120) : phone ? 92 : 124;
+    g.classList.toggle('clay', clay);
     narrow = phone;
     const rtl = HE(), X = x => rtl ? width - x : x;
     const id = S.cur, x = sage(id);
@@ -215,10 +227,11 @@
     const famRow = rels => row(rels, p => !p.id || rels.includes(famOf[p.id]));
     rows.famUp = famRow(FAM_UP); rows.famDown = famRow(FAMILY.filter(r => !FAM_UP.includes(r)));
     rows.colleagues = row(['colleagues']);
+    if (clay) { rows.famUp = []; rows.famDown = []; rows.colleagues = []; }   // clay: teachers and students only
     [...rows.teachers, ...rows.students].forEach(p => { if (p.id && famOf[p.id]) p.famRel = famOf[p.id]; });
     const place = [];   // {key, id, name, x, y, cls, label}
     const more = [];    // "+N more" buttons
-    let y = 34;
+    let y = clay ? 48 : 34;
     function band(name, list, perLine, all) {
       if (!list.length) return null;
       // a "+1 more" button would take the space of the one it hides: show it instead
@@ -233,12 +246,12 @@
         ln.forEach((p, i) => place.push({ ...p, x: X((i + 1) * width / (n + 1)), y, maxW: width / (n + 1) - 10 }));
         if (btn)
           more.push({ row: name, x: X(n * width / (n + 1)), y, label: extra > 0 ? t('more', extra) : t('fewer') });
-        ys.push(y); y += 56;
+        ys.push(y); y += clay ? 112 : 56;
       });
       return ys;
     }
     const tY = band('teachers', rows.teachers, cap);
-    if (tY) y += rows.famUp.length ? 8 : 34;
+    if (tY) y += clay ? 26 : rows.famUp.length ? 8 : 34;
     if (rows.famUp.length) { band('famUp', rows.famUp, phone ? 3 : 5); y += 20; }
     const cY = y;
     place.push({ key: id, id, name: fullName(x), x: width / 2, y: cY, centre: true });
@@ -250,7 +263,7 @@
       const dir = i % 2 === 0 ? -1 : 1, k = Math.floor(i / 2);
       place.push({ ...p, x: X(width / 2 + dir * (cw / 2 + 8 + slot * (k + 0.5))), y: cY, maxW: slot - 10 });
     });
-    y += phone ? 66 : 58;
+    y += clay ? (phone ? 120 : 130) : phone ? 66 : 58;
     const restC = cols.slice(side * 2);
     if (restC.length === 1) band('colleagues_more', restC, cap, true);   // one more: just show him
     else if (restC.length) {
@@ -260,7 +273,7 @@
     }
     const fY = rows.famDown.length ? band('famDown', rows.famDown, phone ? 3 : 5) : null;
     if (fY) y += 6;
-    if (rows.students.length) y += 30;
+    if (rows.students.length) y += clay ? 0 : 30;
     const sY = band('students', rows.students, cap);
     g.style.height = (y + (sY ? 4 : 20)) + 'px';
     svg.setAttribute('width', width); svg.setAttribute('height', y + 20);
@@ -283,10 +296,10 @@
       const sx = p.centre ? x : p.id ? sage(p.id) : null;
       const fam = p.rel && FAMILY.includes(p.rel), famLabel = fam ? p.rel : p.famRel;
       el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam ? ' fam' : ''}`;
-      el.innerHTML = `${esc(p.centre ? fullName(x) : p.name)}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
+      el.innerHTML = (clay ? figure(p.centre) : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
       if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
-      el.style.maxWidth = (p.centre ? cw : Math.min(nodeW, p.maxW || nodeW)) + 'px';
+      el.style.maxWidth = (p.centre ? (clay ? Math.min(width * 0.7, 220) : cw) : Math.min(nodeW, p.maxW || nodeW)) + 'px';
       requestAnimationFrame(() => {
         el.style.opacity = '1';
         el.style.transform = `translate(${p.x}px,${p.y}px) translate(-50%,-50%)`;
