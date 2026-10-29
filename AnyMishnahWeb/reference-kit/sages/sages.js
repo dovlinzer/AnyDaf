@@ -50,7 +50,7 @@
   // "Rabbi Yehudah [b. Il'ai]" -> "Rabbi Yehudah"; on a narrow screen "Rabbi" -> "R."
   let narrow = false;
   const shortName = x => HE() ? x.he || x.en
-    : x.en.replace(/\s*\[.*?\]|\s*\(.*?\)/g, '').replace(narrow ? /^Rabbi /u : /^$/, 'R. ').trim();
+    : x.en.replace(/\s*\[.*?\]|\s*\((?!Rebbe\)).*?\)/g, '').replace(narrow ? /^Rabbi /u : /^$/, 'R. ').trim();
   const fullName = x => HE() ? x.he || x.en : x.en.replace(/[\[\]]/g, '');
   // Colour: Zugot, tanna'im, amora'im of Eretz Yisrael, of Bavel (both: by the first listed).
   function group(x) {
@@ -389,7 +389,6 @@
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg');
     const clay = !!S.o.clay, width = g.clientWidth || 600, phone = width < 560, cap = clay ? (phone ? 3 : 3 + Math.floor(Math.max(0, width - 760) / 170)) : phone ? 3 : Math.max(6, Math.floor(width / 150)), nodeW = clay ? (phone ? 96 : 120) : phone ? 92 : 124;
     g.classList.toggle('clay', clay);
-    S.box.style.setProperty('--cc', `var(--c-${group(sage(S.cur))})`);
     narrow = phone;
     const rtl = HE(), X = x => rtl ? width - x : x;
     const id = S.cur, x = sage(id);
@@ -728,24 +727,33 @@
   function chartHTML() {
     const phone = (C.host.clientWidth || 800) < 560, first = simple() ? 5 : 6, by = cells();   // six on a phone too (author)
     const cols = COLS.filter(c => simple() ? /^(Z|T[1-6]|TA)$/.test(c) && (by['0:' + c] || []).length > 0 : false || C.filter === 'all' || (C.filter === 'tanna' ? /^[ZT]/.test(c) || c === '?' : /^A/.test(c) || c === '?'));
-    let h = `<div class="sgc-grid" style="grid-template-columns:${simple() ? '' : 'auto '}repeat(${cols.length},minmax(${phone ? 104 : 122}px,1fr))">`;
+    const rows = simple() ? [ct('ey')] : [ct('ey'), ct('bavel')];
+    // each cell's list: its most quoted (by Bavli or Mishnah count), then A–Z; opened, all of them A–Z.
+    // The Zugot keep their historical order.
+    const cell = {};
+    rows.forEach((_, row) => cols.forEach(c => {
+      if (row === 1 && tall(c)) return;
+      const k = row + ':' + c, ids = (by[k] || []).filter(id => C.filter === 'all' || (C.filter === 'tanna' ? sage(id).kind !== 'amora' : sage(id).kind === 'amora'));
+      const open = S.o.chartAllOpen ? !C.open.has(k) : C.open.has(k);   // with "show every sage", a click closes
+      const major = simple() ? ids : ids.filter(id => tierOf(sage(id)) <= 2);
+      const pick = open || major.length === first + 1 ? major : major.slice(0, first);
+      const shown = c === 'Z' ? pick : [...pick].sort(byName);
+      const extra = ids.filter(id => C.show.has(id) && !shown.includes(id));
+      cell[k] = { open, major, shown, list: shown.concat(extra) };
+    }));
+    // a long list continues in a second column, and its generation's column widens for it
+    const LONG = 12, wide = c => !phone && rows.some((_, row) => (cell[row + ':' + c]?.list.length || 0) > LONG);
+    const w = phone ? 104 : 132;
+    let h = `<div class="sgc-grid" style="grid-template-columns:${simple() ? '' : 'auto '}${cols.map(c => `minmax(${wide(c) ? 2 * w : w}px,${wide(c) ? 2 : 1}fr)`).join(' ')}">`;
     h += (simple() ? '' : `<div class="sgc-corner"></div>`) + cols.map(c => { const [a, b] = colHead(c);
       return `<div class="sgc-h${c[0] === 'A' ? ' am' : c === '?' ? ' unk' : ''}"><b>${esc(a)}</b>${b ? `<small>${esc(b)}</small>` : ''}</div>`; }).join('');
-    (simple() ? [ct('ey')] : [ct('ey'), ct('bavel')]).forEach((label, row) => {
+    rows.forEach((label, row) => {
       if (!simple()) h += `<div class="sgc-rh">${esc(label)}</div>`;
       for (const c of cols) {
         if (row === 1 && tall(c)) continue;
-        const k = row + ':' + c, ids = (by[k] || []).filter(id => C.filter === 'all' || (C.filter === 'tanna' ? sage(id).kind !== 'amora' : sage(id).kind === 'amora'));
-        const open = S.o.chartAllOpen ? !C.open.has(k) : C.open.has(k);   // with "show every sage", a click closes
-        const major = simple() ? ids : ids.filter(id => tierOf(sage(id)) <= 2);
-        // the cell's most quoted (by Bavli or Mishnah count), then A–Z; opened, all of them A–Z.
-        // The Zugot keep their historical order.
-        const pick = open || major.length === first + 1 ? major : major.slice(0, first);
-        const shown = c === 'Z' ? pick : [...pick].sort(byName);
-        const extra = ids.filter(id => C.show.has(id) && !shown.includes(id));
-        const list = shown.concat(extra);
-        const more = major.length - shown.length;
-        h += `<div class="sgc-cell${row === 0 && tall(c) ? ' tall' : ''}" data-k="${k}">${list.map(id => { const x = sage(id);
+        const k = row + ':' + c, { open, major, shown, list } = cell[k];
+        const more = major.length - shown.length, two = !phone && list.length > LONG;
+        h += `<div class="sgc-cell${row === 0 && tall(c) ? ' tall' : ''}${two ? ' two' : ''}" data-k="${k}"${two ? ` style="--rows:${Math.ceil(list.length / 2)};--last:${Math.ceil(list.length / 2) + 1}"` : ''}>${list.map(id => { const x = sage(id);
           return `<button type="button" class="sgc-c g-${group(x)} t${tierOf(x)}${(x.region || '').includes('/') ? ' moved' : ''}${C.hit === id ? ' hit' : ''}" data-go="${esc(id)}" title="${esc(fullName(x))} · ${esc(meta(x))}">${esc(shortName(x))}</button>`; }).join('')}
           ${more > 0 ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('more', more)}</button>` : open && major.length > first + 1 ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('fewer')}</button>` : ''}</div>`;
       }

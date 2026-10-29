@@ -46,7 +46,8 @@ HEB_ORDINAL = {"הראשון": 1, "השני": 2, "השלישי": 3, "הרביע�
                "השביעי": 7, "השמיני": 8}
 
 
-EN_NAMES = {"rabi": "Rebbe"}     # Sefaria: "Rabi" (R. Yehudah haNasi)
+EN_NAMES = {"rabi": "R. Yehuda HaNassi (Rebbe)"}     # Sefaria: "Rabi"; sorted under Y (author)
+HE_NAMES = {"rabi": "רבי יהודה הנשיא (רבי)"}           # Sefaria: "רבי"
 
 
 def get(url, **params):
@@ -246,8 +247,12 @@ def build():
     # English names as learners say them, in place of Sefaria's (author, 2026-10-29)
     for slug, name in EN_NAMES.items():
         if slug in sages:
-            sages[slug]["titles_en"] = sorted(set(sages[slug]["titles_en"]) | {sages[slug]["en"]})
+            sages[slug]["titles_en"] = sorted(set(sages[slug]["titles_en"]) | {sages[slug]["en"], "Rebbe"} if slug == "rabi"
+                                              else set(sages[slug]["titles_en"]) | {sages[slug]["en"]})
             sages[slug]["en"] = name
+    for slug, name in HE_NAMES.items():
+        if slug in sages:
+            sages[slug]["he"] = name
     ov = json.loads((OUT / "overrides.json").read_text(encoding="utf-8"))
     for slug, facts in ov.items():
         if slug in sages:
