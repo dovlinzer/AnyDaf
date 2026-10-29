@@ -87,6 +87,13 @@
     if (S.quoted) return;
     S.quoted = await (await fetch(S.o.base + 'quoted.json')).json();
   }
+  // tractates in the order of the books (Sefaria's spellings, and the variants the data uses), the rest last
+  const SEDER = {
+    mishnah: 'Berakhot,Peah,Demai,Kilayim,Sheviit,Terumot,Maasrot,Maaser Sheni,Challah,Orlah,Bikkurim,Shabbat,Eruvin,Pesachim,Shekalim,Yoma,Sukkah,Beitzah,Rosh Hashanah,Taanit,Megillah,Moed Katan,Chagigah,Yevamot,Ketubot,Nedarim,Nazir,Sotah,Gittin,Kiddushin,Bava Kamma,Bava Metzia,Bava Batra,Sanhedrin,Makkot,Shevuot,Eduyot,Avodah Zarah,Avot,Horayot,Zevachim,Menachot,Chullin,Bekhorot,Arakhin,Temurah,Keritot,Meilah,Tamid,Middot,Kinnim,Kelim,Oholot,Negaim,Parah,Tahorot,Mikvaot,Niddah,Makhshirin,Zavim,Tevul Yom,Yadayim,Oktzin',
+    bavli: 'Berakhot,Shabbat,Eruvin,Pesachim,Shekalim,Yoma,Sukkah,Beitzah,Rosh Hashanah,Taanit,Megillah,Moed Katan,Chagigah,Yevamot,Ketubot,Nedarim,Nazir,Sotah,Gittin,Kiddushin,Bava Kamma,Bava Metzia,Bava Batra,Sanhedrin,Makkot,Shevuot,Avodah Zarah,Horayot,Zevachim,Menachot,Chullin,Bekhorot,Arakhin,Temurah,Keritot,Meilah,Kinnim,Tamid,Middot,Niddah' };
+  const SEDER_ALT = { Eiruvin: 'Eruvin', Hullin: 'Chullin', "Ta'anit": 'Taanit' };   // the data's spellings -> the ones listed above
+  const seder = tr => { const list = SEDER[S.o.corpus] || SEDER.bavli, k = SEDER_ALT[tr] || tr; const i = list.split(',').indexOf(k); return i < 0 ? 999 : i; };
+  const byTractate = ([a], [b]) => seder(a) - seder(b) || a.localeCompare(b);
   const tierOf = x => S.o.corpus === 'mishnah' ? x.tier_mishnah : x.tier;
   const countOf = x => (x.count || {})[S.o.corpus] || 0;
   // a row's people, most important first; family keeps its relation as a label
@@ -420,7 +427,7 @@
     S.box.querySelector('.sgx-trail').innerHTML = S.trail.map((id, i) =>
       `<button type="button" data-back="${i}">${esc(shortName(sage(id)))}</button>`).join('<span>›</span>');
     const n = countOf(x), q = (x.quoted || {})[S.o.corpus] || {};
-    const top = Object.entries(q).slice(0, 5);
+    const top = Object.entries(q).slice(0, 5).sort(byTractate);   // the five he is named in most, in the order of the books
     const name = S.o.tractateName || (s => s);
     // one line per relation and sex: "Sons: …", "Daughter: …"
     const groups = [];
@@ -438,11 +445,7 @@
       return txt + noteMark(l.notes, l.alts);
     }).join(', ')}</span>`).join('');
     const noRel = !['teachers', 'students', 'colleagues'].some(r => (x.links[r] || []).some(l => l.id));
-    let bio = HE() && x.bio_he ? x.bio_he : x.bio, bioRest = '';
-    if (S.o.clay && bio) {   // clay: the first two sentences up front, the rest under "More about him"
-      const sent = bio.split(/(?<=[a-z0-9)\]\u201d"\u2019\u05d0-\u05ea][.!?])(?<!\bb\.)(?<!\bbar\.)(?<!\bvs\.)\s+(?=[A-Z"\u201c\u05d0-\u05ea])/);
-      if (sent.length > 2) { bioRest = sent.slice(2).join(' '); bio = sent.slice(0, 2).join(' '); }
-    }
+    const bio = HE() && x.bio_he ? x.bio_he : x.bio;
     const bioLang = HE() && !x.bio_he ? ' lang="en" dir="ltr"' : '';
     const stories = x.stories && x.stories.length ? `<h4>${t('stories')}</h4><ul class="sgx-stories">${x.stories.map(s =>
         `<li><a href="${esc(S.o.link ? S.o.link(S.o.corpus, s.tractate, s.place) : '#')}">${esc(HE() && s.title_he ? s.title_he : s.title)}</a> <span>${esc(s.ref || '')}</span></li>`).join('')}</ul>` : '';
@@ -456,7 +459,7 @@
         <p class="sgx-meta">${esc(meta(x))}${x.years && !x.died ? ` <i title="${esc(t('approx'))}">*</i>` : ''}</p>
         ${bio ? `<p class="sgx-bio"${bioLang}>${bioHTML(bio)}</p>` : ''}
         <details class="sgx-moreinfo"><summary>${t('moreAbout')}</summary>
-        ${bioRest ? `<p class="sgx-bio"${bioLang}>${bioHTML(bioRest)}</p>` : ''}${fam ? `<p class="sgx-fam">${fam}</p>` : ''}${stories}${where}${links}</details>`;
+        ${fam ? `<p class="sgx-fam">${fam}</p>` : ''}${stories}${where}${links}</details>`;
       return;
     }
     box.innerHTML = `<h3>${esc(fullName(x))} <span lang="${HE() ? 'en' : 'he'}" dir="${HE() ? 'ltr' : 'rtl'}">${esc(HE() ? x.en : x.he)}</span></h3>
@@ -476,7 +479,7 @@
     const x = sage(S.cur), host = S.box.querySelector('.sgx-places'), name = S.o.tractateName || (s => s);
     if (tr === '*') {
       const q = (x.quoted || {})[S.o.corpus] || {};
-      host.innerHTML = `<p class="sgx-where">${Object.entries(q).map(([k, c]) => `<button type="button" data-tr="${esc(k)}">${esc(name(k))} <b>${c}</b></button>`).join('')}</p>`;
+      host.innerHTML = `<p class="sgx-where">${Object.entries(q).sort(byTractate).map(([k, c]) => `<button type="button" data-tr="${esc(k)}">${esc(name(k))} <b>${c}</b></button>`).join('')}</p>`;
       return;
     }
     host.textContent = t('loading');

@@ -135,3 +135,7 @@
 /* the box can be resized from its corner */
 .sgx{resize:both;overflow:hidden;min-width:340px;min-height:360px;max-width:calc(100vw - 16px);max-height:calc(100vh - 16px)}
 @media (max-width:560px){.sgx{resize:none}}
+/* lines pass behind names and pictures, never over them */
+.sgx-lines{z-index:0}.sgx-n,.sgx-more{z-index:1}
+.sgx-graph.clay .sgx-nm{background:var(--card,#fff);padding:0 4px;border-radius:5px}
+.sgx-graph.clay .sgx-ring{background:radial-gradient(ellipse at 50% 70%,color-mix(in srgb,var(--role,#999) 55%,transparent),color-mix(in srgb,var(--role,#999) 12%,transparent) 70%,transparent),var(--card,#fff)}
