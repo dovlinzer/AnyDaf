@@ -494,7 +494,7 @@
     : shortName(x).replace(/^(?:Rabbi|Rebbi|Rabban|Rav|Mar|R\.)\s+/, '').replace(/^\[|\]/g, '');
   const byName = (a, b) => sortKey(sage(a)).localeCompare(sortKey(sage(b)), HE() ? 'he' : 'en');
   function chartHTML() {
-    const phone = (C.host.clientWidth || 800) < 560, first = phone ? 4 : 6, by = cells();
+    const phone = (C.host.clientWidth || 800) < 560, first = 6, by = cells();   // six on a phone too (author)
     const cols = COLS.filter(c => C.filter === 'all' || (C.filter === 'tanna' ? /^[ZT]/.test(c) || c === '?' : /^A/.test(c) || c === '?'));
     let h = `<div class="sgc-grid" style="grid-template-columns:auto repeat(${cols.length},minmax(${phone ? 104 : 122}px,1fr))">`;
     h += `<div class="sgc-corner"></div>` + cols.map(c => { const [a, b] = colHead(c);
