@@ -159,7 +159,12 @@ or generation; better data won't fix that. So the chart should show such a sage 
 - **The graph opens from a "Relationships" button on each card in the Sages window.** A sage's
   name in the outline keeps opening the Sages window, as now; a direct way in can come later.
 
-## Ideas taken from the other sites (2026-10-29, proposed)
+## Ideas taken from the other sites (2026-10-29)
+
+**Order (author, 2026-10-29): the readers are mostly casual learners and high-school students, not
+scholars, so what makes a sage vivid comes first: stories, family and dates in stage 1; evidence
+for each link, where they are quoted, and "what we don't know" in stage 2.** Each link still stores
+a source field from the start (empty for now), so stage 2 adds passages without reworking the data.
 
 - **Every link shows its evidence** (Torah Tech): click a line in the graph to see the passage
   that makes them teacher and student, with a note where it is only the usual identification
