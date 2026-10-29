@@ -446,6 +446,8 @@ css += open(SAGES + "/sages.css", encoding="utf-8").read().replace("\n", "")
 css += ".reftop{display:flex;gap:8px;margin:0 0 12px}.reftop button{font:inherit;font-size:15px;border:1.5px solid var(--blue);background:var(--card);color:var(--blue);border-radius:16px;padding:4px 18px;cursor:pointer}.reftop button.on{background:var(--blue);color:#fff}"
 css += ".sgbtn{position:absolute;top:10px;right:106px;width:38px;height:38px;border-radius:19px;border:0;background:#fff;box-shadow:0 1px 4px #0005;padding:0;display:grid;place-items:center;cursor:pointer}html[lang=he] .sgbtn{right:60px}"
 css += ".sg{color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb,currentColor 45%,transparent);cursor:pointer}.sg:hover{background:var(--tint)}"
+css += "html[lang=he] .gear{right:auto;left:14px}html[lang=he] .sgbtn{right:auto;left:60px}"
+css += "@media(max-width:560px){header{padding-left:14px;padding-right:14px}.brand{gap:8px}.brand img{height:34px}.brand span{font-size:17px;white-space:nowrap}.gear,.refbtn,.sgbtn{width:32px;height:32px;top:9px;border-radius:16px}.gear{right:10px}.refbtn{right:48px}.sgbtn{right:86px}html[lang=he] .gear{left:10px}html[lang=he] .sgbtn{left:48px}.gear svg,.refbtn svg{width:20px;height:20px}.sgbtn img{width:22px;height:22px}}"
 os.makedirs("site/sages", exist_ok=True)
 shutil.rmtree("site/sages/fig", ignore_errors=True)
 shutil.copytree(SAGES + "/fig", "site/sages/fig", dirs_exist_ok=True, ignore=shutil.ignore_patterns("spare"))   # the clay pictures

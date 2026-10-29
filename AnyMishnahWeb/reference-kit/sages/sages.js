@@ -446,6 +446,9 @@
     }).join(', ')}</span>`).join('');
     const noRel = !['teachers', 'students', 'colleagues'].some(r => (x.links[r] || []).some(l => l.id));
     const bio = HE() && x.bio_he ? x.bio_he : x.bio;
+    // the background in two short paragraphs, not one block: the first two sentences, then the rest
+    const bioParas = !bio ? [] : (() => { const sent = bio.split(/(?<=[a-z0-9)\]\u201d"\u2019\u05d0-\u05ea][.!?])(?<!\bb\.)(?<!\bbar\.)(?<!\bvs\.)\s+(?=[A-Z"\u201c\u05d0-\u05ea])/);
+      return sent.length > 2 ? [sent.slice(0, 2).join(' '), sent.slice(2).join(' ')] : [bio]; })();
     const bioLang = HE() && !x.bio_he ? ' lang="en" dir="ltr"' : '';
     const stories = x.stories && x.stories.length ? `<h4>${t('stories')}</h4><ul class="sgx-stories">${x.stories.map(s =>
         `<li><a href="${esc(S.o.link ? S.o.link(S.o.corpus, s.tractate, s.place) : '#')}">${esc(HE() && s.title_he ? s.title_he : s.title)}</a> <span>${esc(s.ref || '')}</span></li>`).join('')}</ul>` : '';
@@ -457,7 +460,7 @@
     if (S.o.clay) {
       box.innerHTML = `<h3>${esc(fullName(x))} <span lang="${HE() ? 'en' : 'he'}" dir="${HE() ? 'ltr' : 'rtl'}">${esc(HE() ? x.en : x.he)}</span></h3>
         <p class="sgx-meta">${esc(meta(x))}${x.years && !x.died ? ` <i title="${esc(t('approx'))}">*</i>` : ''}</p>
-        ${bio ? `<p class="sgx-bio"${bioLang}>${bioHTML(bio)}</p>` : ''}
+        ${bioParas.map(t => `<p class="sgx-bio"${bioLang}>${bioHTML(t)}</p>`).join('')}
         <details class="sgx-moreinfo"><summary>${t('moreAbout')}</summary>
         ${fam ? `<p class="sgx-fam">${fam}</p>` : ''}${stories}${where}${links}</details>`;
       return;
