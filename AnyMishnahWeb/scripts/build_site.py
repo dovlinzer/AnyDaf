@@ -443,6 +443,7 @@ AnySages.init({base:'sages/',corpus:'mishnah',clay:true,lang:lang,link:function(
 _i = JS.rindex("</script>")
 JS = JS[:_i] + "\n" + _sj + "\n" + _sinit + "\n" + JS[_i:]
 css += open(SAGES + "/sages.css", encoding="utf-8").read().replace("\n", "")
+css += ".reftop{display:flex;gap:8px;margin:0 0 12px}.reftop button{font:inherit;font-size:15px;border:1.5px solid var(--blue);background:var(--card);color:var(--blue);border-radius:16px;padding:4px 18px;cursor:pointer}.reftop button.on{background:var(--blue);color:#fff}"
 css += ".sgbtn{position:absolute;top:10px;right:106px;width:38px;height:38px;border-radius:19px;border:0;background:#fff;box-shadow:0 1px 4px #0005;padding:0;display:grid;place-items:center;cursor:pointer}html[lang=he] .sgbtn{right:60px}"
 css += ".sg{color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb,currentColor 45%,transparent);cursor:pointer}.sg:hover{background:var(--tint)}"
 os.makedirs("site/sages", exist_ok=True)
@@ -454,6 +455,9 @@ for _f in ("sages.json", "quoted.json"):   # the box loads these on first use
 # ---- sage links: a sage's name in the mishnah, outline and summary opens the relationship box.
 # Which sage a name means comes from data/sage_links.json (scripts/sage_links.py: iTalmud's matcher, with the chapter as context).
 # A name that means more than one sage in a chapter (Rabbi Elazar) is left unlinked. The first use in each block is linked.
+REFTOP_JS = r"""(function(){var nav=document.querySelector('.reftop');if(!nav)return;var m=document.getElementById('refhost'),s=document.getElementById('sgpage'),done=false;
+function show(p){m.hidden=p==='s';s.hidden=p!=='s';nav.querySelectorAll('button').forEach(function(b){b.classList.toggle('on',b.dataset.p===p)});if(p==='s'&&!done){done=true;AnySages.chart(s)}try{history.replaceState(null,'',p==='s'?'#sages':location.pathname)}catch(e){}}
+nav.addEventListener('click',function(e){var b=e.target.closest('button');if(b)show(b.dataset.p)});if(location.hash==='#sages')show('s')})();"""
 SG_DATA = json.load(open("data/sage_links.json", encoding="utf-8"))
 _SGS = json.load(open(SAGES + "/sages.json", encoding="utf-8"))["sages"]
 _SGFOLD = [("yehudah", "yehuda"), ("judah", "yehuda"), ("yosei", "yose"), ("jose", "yose"), ("gamaliel", "gamliel"), ("azariah", "azarya"), ("azaria", "azarya"), ("azaryah", "azarya"),
@@ -656,7 +660,7 @@ def tractate_page(slug, name, he, blurb, chapters):
     more = '<p class="d">More chapters will follow.</p>'
     return (head_html(name).replace("</style>", CSS_HOME[7:-8] + "</style>", 1) + f'<header><a class="brand" href="index.html"><img src="img/yct-logo-white.png" alt="YCT Vibrant Torah Leadership"><span>{esc("Illustrated Mishna")}</span></a><h1>{esc(name)} <span lang="he">{he}</span></h1><div>Choose a chapter, or go straight to a mishnah</div></header><div class="banner">Draft for review. <a href="index.html">All tractates</a></div><main>' + rows + more + "</main>" + foot_html() + "</body></html>")
 cards = "".join(f'<a class="tcard" href="{slug}-1.html"><h2>{name}</h2><div class="hx" lang="he">{he}</div></a>' for slug, name, he, blurb, chs in TRACTATES)
-cards += '<a class="tcard" href="reference.html"><h2>Reference</h2><div class="hx" style="font-size:18px">Weights, measures and money</div></a>'
+cards += '<a class="tcard" href="reference.html"><h2>Reference</h2><div class="hx" style="font-size:18px">Weights, measures, money and sages</div></a>'
 open("site/index.html", "w").write(head_html("Illustrated Mishna").replace("</style>", CSS_HOME[7:-8] + "</style>", 1) + '<header><a class="brand" href="index.html"><img src="img/yct-logo-white.png" alt="YCT Vibrant Torah Leadership"><span>Illustrated Mishna</span></a><div>Mishnah with outlines, charts and illustrations</div></header><div class="banner">Prototype for review. Link-only; not indexed.</div><main><div class="tcards">' + cards + '</div></main>' + foot_html() + "</body></html>")
 os.makedirs("data/he", exist_ok=True)
 _need = sorted(x for x in SEEN if x not in HE and not (re.fullmatch(r"[\w./#:\-]+", x) and re.search(r"[\d./#:_]", x)))
@@ -667,7 +671,7 @@ LANG = "en"
 _b1 = open("site/bava-kamma-1.html").read()
 _gear = re.search(r'<button type="button" class="gear".*?</button>', _b1, re.S).group(0)
 _unit = '<span><b>Measures</b><span class="seg" data-key="units"><button type="button" data-v="us">U.S.</button><button type="button" data-v="metric">Metric</button></span></span>'
-open("site/reference.html", "w").write(head_html("Reference: weights, measures and money") + '<header><a class="brand" href="index.html"><img src="img/yct-logo-white.png" alt="YCT Vibrant Torah Leadership"><span>Illustrated Mishna</span></a><h1>Reference</h1><div>Weights, measures and money, as used in the Mishnah</div>' + _gear + '<div class="opts">' + _unit + '</div></header><div class="banner">Draft for review. <a href="index.html">All tractates</a></div><main><div id="refhost"></div></main>' + ms_json("") + foot_html() + js.replace("__L__", EN_L) + "</body></html>")
+open("site/reference.html", "w").write(head_html("Reference: measures, money and sages") + '<header><a class="brand" href="index.html"><img src="img/yct-logo-white.png" alt="YCT Vibrant Torah Leadership"><span>Illustrated Mishna</span></a><h1>Reference</h1><div>Weights, measures and money, and the sages, as used in the Mishnah</div>' + _gear + '<div class="opts">' + _unit + '</div></header><div class="banner">Draft for review. <a href="index.html">All tractates</a></div><main><nav class="reftop" aria-label="Reference sections"><button type="button" data-p="m" class="on">Measures</button><button type="button" data-p="s">Sages</button></nav><div id="refhost"></div><div id="sgpage" hidden></div></main>' + ms_json("") + foot_html() + js.replace("__L__", EN_L).replace("</script>", REFTOP_JS + "</script>", 1) + "</body></html>")
 print("site/reference.html")
 open("site/sages.html", "w").write(head_html("Sages") + '<header><a class="brand" href="index.html"><img src="img/yct-logo-white.png" alt="YCT Vibrant Torah Leadership"><span>Illustrated Mishna</span></a><h1>Sages</h1><div>The sages of the Mishnah, by generation. Tap a name to see his teachers and students.</div></header><div class="banner">Draft for review. <a href="index.html">All tractates</a></div><main><div id="sgpage"></div></main>' + foot_html() + js.replace("__L__", EN_L).replace("</script>", "AnySages.chart(document.getElementById('sgpage'));</script>") + "</body></html>")
 print("site/sages.html")
