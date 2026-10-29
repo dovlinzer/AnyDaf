@@ -377,6 +377,9 @@ def foot_html():
              "Outlines, charts, glossary and diagrams were drafted by Claude (Anthropic) from the mishnah and Kehati, in our own words, and are under review.",
              "The illustrations are AI-generated; the round symbols are interim. Prototype for discussion, not for distribution."]
     body = "".join(f"<p>{esc(x)}</p>" for x in paras)
+    body += (f'<p>{esc("Sages icon:")} <a href="https://www.flaticon.com/free-icon/rabbi_5317326" target="_blank" rel="noopener">{esc("Rabbi icon")}</a> '
+             f'{esc("by")} <a href="https://www.flaticon.com/authors/magnific" target="_blank" rel="noopener">{esc("Magnific")}</a> - '
+             f'<a href="https://www.flaticon.com/" target="_blank" rel="noopener">{esc("Flaticon")}</a>.</p>')
     return (f'<footer>{esc(short)} <a href="#" class="aboutlink">{esc("Sources and credits")}</a></footer>'
             f'<div class="about" id="about" hidden><div class="abox"><button class="gx" type="button" aria-label="Close">\u00d7</button><h3>{esc("Sources and credits")}</h3>{body}</div></div>'
             "<script>(function(){var a=document.getElementById('about');if(!a)return;document.addEventListener('click',function(e){var l=e.target.closest&&e.target.closest('.aboutlink');if(l){e.preventDefault();a.hidden=!a.hidden;return}if(!a.hidden&&(e.target.closest('.gx')||!e.target.closest('.abox')))a.hidden=true});document.addEventListener('keydown',function(e){if(e.key==='Escape')a.hidden=true})})()</script>")
