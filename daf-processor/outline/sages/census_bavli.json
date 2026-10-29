@@ -1253,86 +1253,6 @@
    "Zevachim": "4b 8b 10b 12a 15b 16a 22b 24a 37a 37b 40b 41a 41b 46a 50a 50b 51a 52a 52b 53a 53b 57a 60b 61a 65a 76a 86a 88b 94b 100a 102a 103b 105a 107a 107b 111a 115b 119a 119b"
   }
  },
- "rabbi-elazar-b-pedat": {
-  "total": 870,
-  "guessed": 865,
-  "by_tractate": {
-   "Yevamot": 65,
-   "Sanhedrin": 61,
-   "Gittin": 57,
-   "Berakhot": 52,
-   "Bava Kamma": 49,
-   "Zevachim": 41,
-   "Hullin": 37,
-   "Bava Batra": 36,
-   "Yoma": 32,
-   "Ketubot": 30,
-   "Menachot": 30,
-   "Sotah": 30,
-   "Shabbat": 29,
-   "Temurah": 29,
-   "Shekalim": 27,
-   "Megillah": 25,
-   "Bava Metzia": 24,
-   "Kiddushin": 20,
-   "Bekhorot": 19,
-   "Avodah Zarah": 18,
-   "Pesachim": 17,
-   "Sukkah": 17,
-   "Moed Katan": 12,
-   "Shevuot": 12,
-   "Eiruvin": 11,
-   "Keritot": 11,
-   "Makkot": 11,
-   "Niddah": 11,
-   "Taanit": 11,
-   "Arakhin": 8,
-   "Chagigah": 8,
-   "Nazir": 7,
-   "Nedarim": 7,
-   "Meilah": 6,
-   "Beitzah": 5,
-   "Rosh Hashanah": 5
-  },
-  "amudim": {
-   "Arakhin": "3a 8b 16b 31b 33b",
-   "Avodah Zarah": "4b 5a 5b 14a 15a 17a 19b 24b 25a 32b 51a 70b",
-   "Bava Batra": "3a 7b 9a 9b 15a 24b 50a 50b 51b 69a 73b 75b 80b 81a 87a 91b 99a 109b 122b 125b 129a 135b 156a 176a",
-   "Bava Kamma": "11a 11b 12a 14a 16b 18b 29b 41a 48b 51b 57a 68a 74b 76b 78a 79a 87b 91b 92a 104a 117b 118a",
-   "Bava Metzia": "7b 9b 26b 37a 41b 52b 54b 56a 58a 58b 60a 61b 65b 72b 84a 85a 105b 107b",
-   "Beitzah": "10b 13b 14a",
-   "Bekhorot": "3a 5a 9b 11b 14b 18a 26b 35a 39b 42b 52b 56a 56b",
-   "Berakhot": "4b 5b 6b 7a 7b 9b 11b 12b 16a 16b 17a 20b 21a 25b 28a 30b 31b 32a 32b 55a 55b 62b",
-   "Chagigah": "4b 5b 13a 13b 16a 18a 26a 27a",
-   "Eiruvin": "20a 20b 22a 46a 65a 78b",
-   "Gittin": "5b 9b 12b 19b 20a 20b 22a 22b 23a 23b 26b 31a 34b 36a 47a 53a 57a 60b 64a 65a 65b 67b 70a 73a 76b 78a 79a 80a 86b 90b",
-   "Hullin": "4a 7a 7b 11a 16a 19b 21a 28b 30a 32b 36a 41b 44b 45a 48b 50a 50b 77b 83a 86b 91a 95b 101b 103b 106a 109b 125a",
-   "Keritot": "7a 17a 20a 22a 24a 25b 27a 28b",
-   "Ketubot": "5a 9a 10b 13b 33a 40a 47b 50a 50b 53a 53b 68a 75a 77a 77b 96a 104a 111a 111b 112a",
-   "Kiddushin": "8a 9a 14b 31b 33b 39a 41a 48b 56b 62b 69b 70b 71b",
-   "Makkot": "5b 10a 10b 16a 18b",
-   "Megillah": "5a 10b 11a 12a 13a 13b 16a 16b 18a 22b 28a 29a",
-   "Meilah": "3a 3b 12a 12b 13b 21a",
-   "Menachot": "7b 8a 8b 9b 12b 15b 36b 55a 57b 70b 84a 84b 86b 89b 93b 97a 99b 108a",
-   "Moed Katan": "3a 3b 4a 6a 8b 14a 20a 26a 28a",
-   "Nazir": "35a 36a 38a 43a",
-   "Nedarim": "8b 21b 32a 36a 41b 46b",
-   "Niddah": "20a 20b 23a 29a 31a 63a",
-   "Pesachim": "6b 19b 24a 49b 50a 70b 71a 81b 87b 88a 108a",
-   "Rosh Hashanah": "3a 6a 11a 17b 31b",
-   "Sanhedrin": "8a 14a 16a 17b 22a 23a 26b 28b 30a 31b 35a 39b 44b 49a 57a 58b 63a 74a 82b 92a 94a 94b 98b 99b 103b 108a 108b 110a 111a 111b 112b",
-   "Shabbat": "12b 27b 31b 38b 59a 63a 64a 76a 88a 95a 113b 123a 123b 124b 127a 140a 145b 150a",
-   "Shekalim": "4a 4a 4b 5a 5a 6a 6b 7a 7a 7b 7b 10b 11a 12a 12b 13a 13a 18b 19a 19b 20a 20b",
-   "Shevuot": "12a 16b 26a 36a 37b 48b 49b",
-   "Sotah": "4b 10a 10b 11a 11b 12a 12b 13b 15b 35a 41b 42a 45a 46b 47b 48b 49b",
-   "Sukkah": "21a 21b 40b 43b 49b 51b 53a 55b",
-   "Taanit": "4b 14b 16b 20a 25a 29b 31a",
-   "Temurah": "3b 4a 6a 6b 11b 17b 18b 19a 19b 25a 25b 29a",
-   "Yevamot": "14a 20b 21a 28a 29a 29b 36a 37a 39a 47b 48b 57a 58b 63a 70b 72a 72b 76a 78b 85a 89b 90b 92a 94a 95b 96b 104a 109a 109b 110a 119b 120a",
-   "Yoma": "9a 9b 11a 28b 29a 35b 38b 44a 52b 53a 57a 69b 71a 72a 72b 78a 78b 80a",
-   "Zevachim": "5b 14b 25b 45b 46b 53a 60a 62a 63a 65b 70b 74b 77b 79a 81a 86a 93a 93b 101b 104b 106a 110b 116a 118b 119b"
-  }
- },
  "ravina-(i)": {
   "total": 866,
   "guessed": 17,
@@ -1411,6 +1331,86 @@
    "Yevamot": "8a 10a 11a 17a 22a 23a 36b 39b 41b 45b 46a 47a 48b 53a 54a 54b 61a 66a 68b 71b 75b 76b 78b 87a 90b 91b 98a 104a 110a 115b 116a 118b",
    "Yoma": "3b 5a 6b 13b 18a 29b 30b 33a 33b 38b 39a 42a 52a 61b 62b 63b 66b 71b 78a 81a 81b 85b 86a",
    "Zevachim": "2b 4b 8a 18b 19b 22a 24a 33b 34b 36b 39a 43b 48b 49b 50a 56a 58a 60b 64b 66a 76a 77a 81b 83b 88a 89b 90b 91a 94b 95b 99a 100b 103a 105a 106b 107b 111a 115a"
+  }
+ },
+ "rabbi-elazar-b-pedat": {
+  "total": 866,
+  "guessed": 861,
+  "by_tractate": {
+   "Yevamot": 65,
+   "Sanhedrin": 61,
+   "Gittin": 57,
+   "Berakhot": 52,
+   "Bava Kamma": 49,
+   "Zevachim": 41,
+   "Hullin": 37,
+   "Bava Batra": 36,
+   "Ketubot": 30,
+   "Menachot": 30,
+   "Sotah": 30,
+   "Shabbat": 29,
+   "Temurah": 29,
+   "Yoma": 28,
+   "Shekalim": 27,
+   "Megillah": 25,
+   "Bava Metzia": 24,
+   "Kiddushin": 20,
+   "Bekhorot": 19,
+   "Avodah Zarah": 18,
+   "Pesachim": 17,
+   "Sukkah": 17,
+   "Moed Katan": 12,
+   "Shevuot": 12,
+   "Eiruvin": 11,
+   "Keritot": 11,
+   "Makkot": 11,
+   "Niddah": 11,
+   "Taanit": 11,
+   "Arakhin": 8,
+   "Chagigah": 8,
+   "Nazir": 7,
+   "Nedarim": 7,
+   "Meilah": 6,
+   "Beitzah": 5,
+   "Rosh Hashanah": 5
+  },
+  "amudim": {
+   "Arakhin": "3a 8b 16b 31b 33b",
+   "Avodah Zarah": "4b 5a 5b 14a 15a 17a 19b 24b 25a 32b 51a 70b",
+   "Bava Batra": "3a 7b 9a 9b 15a 24b 50a 50b 51b 69a 73b 75b 80b 81a 87a 91b 99a 109b 122b 125b 129a 135b 156a 176a",
+   "Bava Kamma": "11a 11b 12a 14a 16b 18b 29b 41a 48b 51b 57a 68a 74b 76b 78a 79a 87b 91b 92a 104a 117b 118a",
+   "Bava Metzia": "7b 9b 26b 37a 41b 52b 54b 56a 58a 58b 60a 61b 65b 72b 84a 85a 105b 107b",
+   "Beitzah": "10b 13b 14a",
+   "Bekhorot": "3a 5a 9b 11b 14b 18a 26b 35a 39b 42b 52b 56a 56b",
+   "Berakhot": "4b 5b 6b 7a 7b 9b 11b 12b 16a 16b 17a 20b 21a 25b 28a 30b 31b 32a 32b 55a 55b 62b",
+   "Chagigah": "4b 5b 13a 13b 16a 18a 26a 27a",
+   "Eiruvin": "20a 20b 22a 46a 65a 78b",
+   "Gittin": "5b 9b 12b 19b 20a 20b 22a 22b 23a 23b 26b 31a 34b 36a 47a 53a 57a 60b 64a 65a 65b 67b 70a 73a 76b 78a 79a 80a 86b 90b",
+   "Hullin": "4a 7a 7b 11a 16a 19b 21a 28b 30a 32b 36a 41b 44b 45a 48b 50a 50b 77b 83a 86b 91a 95b 101b 103b 106a 109b 125a",
+   "Keritot": "7a 17a 20a 22a 24a 25b 27a 28b",
+   "Ketubot": "5a 9a 10b 13b 33a 40a 47b 50a 50b 53a 53b 68a 75a 77a 77b 96a 104a 111a 111b 112a",
+   "Kiddushin": "8a 9a 14b 31b 33b 39a 41a 48b 56b 62b 69b 70b 71b",
+   "Makkot": "5b 10a 10b 16a 18b",
+   "Megillah": "5a 10b 11a 12a 13a 13b 16a 16b 18a 22b 28a 29a",
+   "Meilah": "3a 3b 12a 12b 13b 21a",
+   "Menachot": "7b 8a 8b 9b 12b 15b 36b 55a 57b 70b 84a 84b 86b 89b 93b 97a 99b 108a",
+   "Moed Katan": "3a 3b 4a 6a 8b 14a 20a 26a 28a",
+   "Nazir": "35a 36a 38a 43a",
+   "Nedarim": "8b 21b 32a 36a 41b 46b",
+   "Niddah": "20a 20b 23a 29a 31a 63a",
+   "Pesachim": "6b 19b 24a 49b 50a 70b 71a 81b 87b 88a 108a",
+   "Rosh Hashanah": "3a 6a 11a 17b 31b",
+   "Sanhedrin": "8a 14a 16a 17b 22a 23a 26b 28b 30a 31b 35a 39b 44b 49a 57a 58b 63a 74a 82b 92a 94a 94b 98b 99b 103b 108a 108b 110a 111a 111b 112b",
+   "Shabbat": "12b 27b 31b 38b 59a 63a 64a 76a 88a 95a 113b 123a 123b 124b 127a 140a 145b 150a",
+   "Shekalim": "4a 4a 4b 5a 5a 6a 6b 7a 7a 7b 7b 10b 11a 12a 12b 13a 13a 18b 19a 19b 20a 20b",
+   "Shevuot": "12a 16b 26a 36a 37b 48b 49b",
+   "Sotah": "4b 10a 10b 11a 11b 12a 12b 13b 15b 35a 41b 42a 45a 46b 47b 48b 49b",
+   "Sukkah": "21a 21b 40b 43b 49b 51b 53a 55b",
+   "Taanit": "4b 14b 16b 20a 25a 29b 31a",
+   "Temurah": "3b 4a 6a 6b 11b 17b 18b 19a 19b 25a 25b 29a",
+   "Yevamot": "14a 20b 21a 28a 29a 29b 36a 37a 39a 47b 48b 57a 58b 63a 70b 72a 72b 76a 78b 85a 89b 90b 92a 94a 95b 96b 104a 109a 109b 110a 119b 120a",
+   "Yoma": "9a 9b 11a 28b 29a 38b 44a 52b 53a 57a 69b 71a 72a 72b 78a 78b 80a",
+   "Zevachim": "5b 14b 25b 45b 46b 53a 60a 62a 63a 65b 70b 74b 77b 79a 81a 86a 93a 93b 101b 104b 106a 110b 116a 118b 119b"
   }
  },
  "rav-yosef-b-chiyya": {
@@ -2074,8 +2074,8 @@
   }
  },
  "rabbi-elazar-b-shamua": {
-  "total": 629,
-  "guessed": 610,
+  "total": 633,
+  "guessed": 614,
   "by_tractate": {
    "Yevamot": 56,
    "Shabbat": 39,
@@ -2085,10 +2085,10 @@
    "Pesachim": 29,
    "Bava Batra": 28,
    "Bava Kamma": 27,
+   "Yoma": 27,
    "Kiddushin": 25,
    "Sotah": 24,
    "Zevachim": 24,
-   "Yoma": 23,
    "Menachot": 22,
    "Bava Metzia": 19,
    "Niddah": 18,
@@ -2153,7 +2153,7 @@
    "Tamid": "30b",
    "Temurah": "17a 20b 29b 30a 30b 34a",
    "Yevamot": "4a 11b 14b 41a 42b 43a 45a 56b 57b 58a 59a 59b 60a 61b 62b 70a 75a 80a 84a 87b 91a 100a 101b 102b 104b 107b 108a 108b 111b 113a 118a 122b",
-   "Yoma": "3b 4b 22b 27a 41a 41b 46a 55a 60a 61a 61b 79b 84b 85b 86a",
+   "Yoma": "3b 4b 22b 27a 35b 41a 41b 46a 55a 60a 61a 61b 79b 84b 85b 86a",
    "Zevachim": "3b 11b 16a 29b 35a 36a 44b 47a 53b 65b 74a 80a 105a 116b 120a"
   }
  },
@@ -2564,14 +2564,14 @@
   }
  },
  "rabbi-yitzhak-nappaha": {
-  "total": 517,
-  "guessed": 450,
+  "total": 515,
+  "guessed": 448,
   "by_tractate": {
-   "Sanhedrin": 43,
+   "Sanhedrin": 42,
    "Berakhot": 38,
    "Hullin": 30,
-   "Shabbat": 23,
    "Megillah": 22,
+   "Shabbat": 22,
    "Bava Metzia": 21,
    "Sotah": 21,
    "Yevamot": 20,
@@ -2630,8 +2630,8 @@
    "Niddah": "13a 25b 27a 27b 28a 31a 31b 34b 35b 36b 52a 54b 56a 66b 67b",
    "Pesachim": "8b 22a 33b 34a 49a 56a 64b 75b 79a 83a 90b 96a 107b 109a 111a 113b 114a",
    "Rosh Hashanah": "3b 4a 16a 16b 17a",
-   "Sanhedrin": "16b 20a 21a 21b 35a 38b 39b 56a 56b 60a 63b 69b 70a 70b 75a 76a 82a 89a 92b 92b 94a 94b 95b 95b 96a 96b 97a 100a 102a 106b 107b",
-   "Shabbat": "15a 17b 25b 28b 31b 40b 43a 43b 52b 80b 86b 89b 99b 119b 126b 131b 139a 145b 149b 152a",
+   "Sanhedrin": "16b 20a 21a 21b 35a 38b 39b 56a 56b 60a 63b 69b 70a 70b 75a 76a 82a 89a 92b 92b 94a 94b 95b 95b 96a 96b 97a 100a 102a 106b",
+   "Shabbat": "17b 25b 28b 31b 40b 43a 43b 52b 80b 86b 89b 99b 119b 126b 131b 139a 145b 149b 152a",
    "Shekalim": "7b 9a 10b 12b 19a 21a",
    "Shevuot": "12a 40a 40b 44a 45b",
    "Sotah": "9b 11a 13a 31b 34a 34b 36b 40a 41a 42b 43b 46b 47a 48a 48b",
@@ -5272,14 +5272,14 @@
   }
  },
  "rabbi-yitzhak": {
-  "total": 156,
-  "guessed": 71,
+  "total": 158,
+  "guessed": 73,
   "by_tractate": {
+   "Shabbat": 13,
    "Menachot": 12,
    "Niddah": 12,
-   "Shabbat": 12,
    "Eiruvin": 10,
-   "Sanhedrin": 9,
+   "Sanhedrin": 10,
    "Berakhot": 8,
    "Yevamot": 8,
    "Avodah Zarah": 7,
@@ -5332,8 +5332,8 @@
    "Niddah": "6b 7a 20b 28b 33a 35a 45b 47b 64b 65b 65b 66b",
    "Pesachim": "31b 38b 45b 48a 54a 104b",
    "Rosh Hashanah": "18a",
-   "Sanhedrin": "4a 13b 22a 22b 24a 41a 53b 74a 109b",
-   "Shabbat": "13b 20b 33b 35b 51a 105a 128a 130a 132a 153a 153b",
+   "Sanhedrin": "4a 13b 22a 22b 24a 41a 53b 74a 107b 109b",
+   "Shabbat": "13b 15a 20b 33b 35b 51a 105a 128a 130a 132a 153a 153b",
    "Shekalim": "21b",
    "Shevuot": "26a 26a 36a",
    "Sotah": "2a 22a 34a 45b 47b",
@@ -8929,6 +8929,40 @@
    "Zevachim": "94a 97b"
   }
  },
+ "shammai": {
+  "total": 39,
+  "guessed": 0,
+  "by_tractate": {
+   "Shabbat": 13,
+   "Niddah": 7,
+   "Beitzah": 3,
+   "Avodah Zarah": 2,
+   "Hullin": 2,
+   "Kiddushin": 2,
+   "Nazir": 2,
+   "Sukkah": 2,
+   "Yevamot": 2,
+   "Chagigah": 1,
+   "Gittin": 1,
+   "Sanhedrin": 1,
+   "Yoma": 1
+  },
+  "amudim": {
+   "Avodah Zarah": "36a 39b",
+   "Beitzah": "16a 20a",
+   "Chagigah": "16a",
+   "Gittin": "57a",
+   "Hullin": "36b 107b",
+   "Kiddushin": "43a",
+   "Nazir": "52b 53a",
+   "Niddah": "2a 3a 3b 4a 12b",
+   "Sanhedrin": "88b",
+   "Shabbat": "14b 15a 17a 19a 31a",
+   "Sukkah": "28a 28b",
+   "Yevamot": "15a 15b",
+   "Yoma": "77b"
+  }
+ },
  "rav-hiyya-b-yosef": {
   "total": 38,
   "guessed": 0,
@@ -9477,6 +9511,36 @@
    "Yoma": "53b"
   }
  },
+ "shimon-b-shetach": {
+  "total": 32,
+  "guessed": 0,
+  "by_tractate": {
+   "Sanhedrin": 7,
+   "Chagigah": 5,
+   "Berakhot": 4,
+   "Makkot": 3,
+   "Taanit": 3,
+   "Hullin": 2,
+   "Ketubot": 2,
+   "Shabbat": 2,
+   "Shevuot": 2,
+   "Kiddushin": 1,
+   "Sotah": 1
+  },
+  "amudim": {
+   "Berakhot": "19a 48a",
+   "Chagigah": "16a 16b",
+   "Hullin": "119b",
+   "Ketubot": "82b",
+   "Kiddushin": "66a",
+   "Makkot": "5b 7a",
+   "Sanhedrin": "19a 19b 37b 45b 46a 107b",
+   "Shabbat": "14b 16b",
+   "Shevuot": "34a",
+   "Sotah": "47a",
+   "Taanit": "19a 23a"
+  }
+ },
  "mar-b-ravina": {
   "total": 31,
   "guessed": 0,
@@ -9505,6 +9569,44 @@
    "Pesachim": "40a 68b",
    "Sanhedrin": "84b 105a 106b",
    "Shabbat": "38b 80b 108a 136a 141a 145b"
+  }
+ },
+ "hillel": {
+  "total": 31,
+  "guessed": 0,
+  "by_tractate": {
+   "Shabbat": 10,
+   "Bava Metzia": 4,
+   "Avodah Zarah": 2,
+   "Gittin": 2,
+   "Niddah": 2,
+   "Sukkah": 2,
+   "Bava Batra": 1,
+   "Beitzah": 1,
+   "Berakhot": 1,
+   "Chagigah": 1,
+   "Hullin": 1,
+   "Ketubot": 1,
+   "Nedarim": 1,
+   "Yoma": 1,
+   "Zevachim": 1
+  },
+  "amudim": {
+   "Avodah Zarah": "36a 39b",
+   "Bava Batra": "134a",
+   "Bava Metzia": "75a 104a",
+   "Beitzah": "16a",
+   "Berakhot": "63a",
+   "Chagigah": "16a",
+   "Gittin": "36a 74b",
+   "Hullin": "36b",
+   "Ketubot": "67b",
+   "Nedarim": "9b",
+   "Niddah": "2a 3b",
+   "Shabbat": "14b 15a 17a 31a 148b",
+   "Sukkah": "28a 53a",
+   "Yoma": "35b",
+   "Zevachim": "79a"
   }
  },
  "rabbi-shimon-b-nannas": {
@@ -10707,6 +10809,38 @@
    "Yoma": "75a"
   }
  },
+ "shemaiah": {
+  "total": 20,
+  "guessed": 0,
+  "by_tractate": {
+   "Pesachim": 6,
+   "Yoma": 4,
+   "Avodah Zarah": 1,
+   "Beitzah": 1,
+   "Berakhot": 1,
+   "Chagigah": 1,
+   "Gittin": 1,
+   "Ketubot": 1,
+   "Sanhedrin": 1,
+   "Shabbat": 1,
+   "Temurah": 1,
+   "Yevamot": 1
+  },
+  "amudim": {
+   "Avodah Zarah": "37a",
+   "Beitzah": "25a",
+   "Berakhot": "19a",
+   "Chagigah": "16a",
+   "Gittin": "57b",
+   "Ketubot": "63a",
+   "Pesachim": "27b 49a 66a 70b",
+   "Sanhedrin": "96b",
+   "Shabbat": "15a",
+   "Temurah": "34a",
+   "Yevamot": "67a",
+   "Yoma": "35b 53b 71b"
+  }
+ },
  "rabbi-alexandri": {
   "total": 19,
   "guessed": 0,
@@ -11189,6 +11323,28 @@
    "Niddah": "33a",
    "Shabbat": "152b",
    "Zevachim": "102b"
+  }
+ },
+ "yose-b-yoezer": {
+  "total": 17,
+  "guessed": 0,
+  "by_tractate": {
+   "Pesachim": 4,
+   "Shabbat": 3,
+   "Temurah": 3,
+   "Avodah Zarah": 2,
+   "Chagigah": 2,
+   "Sotah": 2,
+   "Nedarim": 1
+  },
+  "amudim": {
+   "Avodah Zarah": "37a 37a",
+   "Chagigah": "16a 20a",
+   "Nedarim": "19a",
+   "Pesachim": "16a 16b 16b 17b",
+   "Shabbat": "14b 15a",
+   "Sotah": "47a 47b",
+   "Temurah": "15b"
   }
  },
  "rabbi-yohanan-hasandlar": {
@@ -12433,6 +12589,18 @@
    "Taanit": "13a 13b"
   }
  },
+ "yehudah-b-tabbai": {
+  "total": 9,
+  "guessed": 0,
+  "by_tractate": {
+   "Chagigah": 7,
+   "Makkot": 2
+  },
+  "amudim": {
+   "Chagigah": "16a 16b 16b",
+   "Makkot": "5b"
+  }
+ },
  "rabbi-elazar-b-yose": {
   "total": 8,
   "guessed": 0,
@@ -12779,6 +12947,22 @@
    "Shabbat": "147b"
   }
  },
+ "yehoshua-b-perachya": {
+  "total": 7,
+  "guessed": 0,
+  "by_tractate": {
+   "Sotah": 3,
+   "Sanhedrin": 2,
+   "Chagigah": 1,
+   "Menachot": 1
+  },
+  "amudim": {
+   "Chagigah": "16a",
+   "Menachot": "109b",
+   "Sanhedrin": "107b",
+   "Sotah": "47a 47a"
+  }
+ },
  "rav-rechumi": {
   "total": 7,
   "guessed": 0,
@@ -13001,6 +13185,22 @@
    "Hullin": "131a 132a",
    "Shabbat": "136a",
    "Yevamot": "85a"
+  }
+ },
+ "yose-b-yochanan": {
+  "total": 6,
+  "guessed": 0,
+  "by_tractate": {
+   "Shabbat": 3,
+   "Keritot": 1,
+   "Temurah": 1,
+   "Yevamot": 1
+  },
+  "amudim": {
+   "Keritot": "6b",
+   "Shabbat": "14b 15a 15a",
+   "Temurah": "15b",
+   "Yevamot": "53b"
   }
  },
  "rabbi-yehudah-nesia-(i)": {
@@ -13467,18 +13667,6 @@
    "Sanhedrin": "80b"
   }
  },
- "yehudah-b-tabbai": {
-  "total": 4,
-  "guessed": 0,
-  "by_tractate": {
-   "Chagigah": 2,
-   "Makkot": 2
-  },
-  "amudim": {
-   "Chagigah": "16b",
-   "Makkot": "5b"
-  }
- },
  "rabbi-aviyatar": {
   "total": 4,
   "guessed": 0,
@@ -13533,20 +13721,6 @@
    "Sanhedrin": "63a",
    "Shekalim": "6b",
    "Zevachim": "9a"
-  }
- },
- "shimon-b-shetach": {
-  "total": 4,
-  "guessed": 0,
-  "by_tractate": {
-   "Shevuot": 2,
-   "Makkot": 1,
-   "Sanhedrin": 1
-  },
-  "amudim": {
-   "Makkot": "7a",
-   "Sanhedrin": "37b",
-   "Shevuot": "34a"
   }
  },
  "rebbi-ahiyya": {
@@ -13971,18 +14145,6 @@
    "Niddah": "19a"
   }
  },
- "yose-b-yoezer": {
-  "total": 2,
-  "guessed": 0,
-  "by_tractate": {
-   "Avodah Zarah": 1,
-   "Pesachim": 1
-  },
-  "amudim": {
-   "Avodah Zarah": "37a",
-   "Pesachim": "16b"
-  }
- },
  "rabbi-abba-b-zutra": {
   "total": 2,
   "guessed": 0,
@@ -14153,6 +14315,18 @@
    "Berakhot": "28b"
   }
  },
+ "avtalyon": {
+  "total": 2,
+  "guessed": 0,
+  "by_tractate": {
+   "Chagigah": 1,
+   "Yoma": 1
+  },
+  "amudim": {
+   "Chagigah": "16a",
+   "Yoma": "35b"
+  }
+ },
  "rebbi-yose-b-rebbi-abba": {
   "total": 2,
   "guessed": 0,
@@ -14297,18 +14471,6 @@
   "amudim": {
    "Ketubot": "65a",
    "Niddah": "26b"
-  }
- },
- "yehoshua-b-perachya": {
-  "total": 2,
-  "guessed": 0,
-  "by_tractate": {
-   "Menachot": 1,
-   "Sotah": 1
-  },
-  "amudim": {
-   "Menachot": "109b",
-   "Sotah": "47a"
   }
  },
  "rabbi-yonatan-b-akhmai": {

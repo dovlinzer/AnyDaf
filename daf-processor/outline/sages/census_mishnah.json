@@ -1643,6 +1643,28 @@
    "Mikvaot": "5:5"
   }
  },
+ "shammai": {
+  "total": 16,
+  "guessed": 0,
+  "by_tractate": {
+   "Eduyot": 8,
+   "Maaser Sheni": 2,
+   "Avot": 2,
+   "Sukkah": 1,
+   "Chagigah": 1,
+   "Kelim": 1,
+   "Niddah": 1
+  },
+  "mishnayot": {
+   "Maaser Sheni": "2:4 2:9",
+   "Sukkah": "2:8",
+   "Chagigah": "2:2",
+   "Eduyot": "1:1 1:2 1:3 1:4 1:7 1:8 1:10 1:11",
+   "Avot": "1:12 1:15",
+   "Kelim": "22:4",
+   "Niddah": "1:1"
+  }
+ },
  "rabbi-yehudah-b-betera-(ii)": {
   "total": 13,
   "guessed": 13,
@@ -1707,6 +1729,28 @@
    "Mikvaot": "2:10",
    "Niddah": "8:4",
    "Oktzin": "1:6"
+  }
+ },
+ "hillel": {
+  "total": 12,
+  "guessed": 0,
+  "by_tractate": {
+   "Avot": 4,
+   "Eduyot": 3,
+   "Sheviit": 1,
+   "Chagigah": 1,
+   "Bava Metzia": 1,
+   "Arakhin": 1,
+   "Niddah": 1
+  },
+  "mishnayot": {
+   "Sheviit": "10:3",
+   "Chagigah": "2:2",
+   "Bava Metzia": "5:9",
+   "Eduyot": "1:1 1:2 1:3",
+   "Avot": "1:12 2:4 4:5 5:17",
+   "Arakhin": "9:4",
+   "Niddah": "1:1"
   }
  },
  "rabbi-yose-b-yehudah": {
@@ -2113,6 +2157,22 @@
    "Temurah": "3:1"
   }
  },
+ "shimon-b-shetach": {
+  "total": 5,
+  "guessed": 0,
+  "by_tractate": {
+   "Avot": 2,
+   "Ta'anit": 1,
+   "Chagigah": 1,
+   "Sanhedrin": 1
+  },
+  "mishnayot": {
+   "Ta'anit": "3:8",
+   "Chagigah": "2:2",
+   "Sanhedrin": "6:4",
+   "Avot": "1:8 1:9"
+  }
+ },
  "rabbi-yehoshua-b-korha": {
   "total": 4,
   "guessed": 0,
@@ -2157,6 +2217,48 @@
    "Negaim": "9:3"
   }
  },
+ "yose-b-yochanan": {
+  "total": 4,
+  "guessed": 0,
+  "by_tractate": {
+   "Avot": 2,
+   "Chagigah": 1,
+   "Sotah": 1
+  },
+  "mishnayot": {
+   "Chagigah": "2:2",
+   "Sotah": "9:9",
+   "Avot": "1:4 1:5"
+  }
+ },
+ "shemaiah": {
+  "total": 4,
+  "guessed": 0,
+  "by_tractate": {
+   "Eduyot": 2,
+   "Chagigah": 1,
+   "Avot": 1
+  },
+  "mishnayot": {
+   "Chagigah": "2:2",
+   "Eduyot": "1:3 5:6",
+   "Avot": "1:10"
+  }
+ },
+ "avtalyon": {
+  "total": 4,
+  "guessed": 0,
+  "by_tractate": {
+   "Avot": 2,
+   "Chagigah": 1,
+   "Eduyot": 1
+  },
+  "mishnayot": {
+   "Chagigah": "2:2",
+   "Eduyot": "5:6",
+   "Avot": "1:10 1:11"
+  }
+ },
  "rabbi-yohanan-hasandlar": {
   "total": 4,
   "guessed": 0,
@@ -2199,6 +2301,32 @@
    "Beitzah": "4:5",
    "Temurah": "4:4",
    "Negaim": "12:3"
+  }
+ },
+ "yose-b-yoezer": {
+  "total": 3,
+  "guessed": 0,
+  "by_tractate": {
+   "Chagigah": 1,
+   "Sotah": 1,
+   "Avot": 1
+  },
+  "mishnayot": {
+   "Chagigah": "2:2",
+   "Sotah": "9:9",
+   "Avot": "1:4"
+  }
+ },
+ "nittai-haarbeli": {
+  "total": 3,
+  "guessed": 0,
+  "by_tractate": {
+   "Avot": 2,
+   "Chagigah": 1
+  },
+  "mishnayot": {
+   "Chagigah": "2:2",
+   "Avot": "1:6 1:7"
   }
  },
  "rabbi-nehorai": {
@@ -2261,6 +2389,30 @@
   "mishnayot": {
    "Chagigah": "1:7",
    "Avot": "6:8"
+  }
+ },
+ "yehoshua-b-perachya": {
+  "total": 2,
+  "guessed": 0,
+  "by_tractate": {
+   "Chagigah": 1,
+   "Avot": 1
+  },
+  "mishnayot": {
+   "Chagigah": "2:2",
+   "Avot": "1:6"
+  }
+ },
+ "yehudah-b-tabbai": {
+  "total": 2,
+  "guessed": 0,
+  "by_tractate": {
+   "Chagigah": 1,
+   "Avot": 1
+  },
+  "mishnayot": {
+   "Chagigah": "2:2",
+   "Avot": "1:8"
   }
  },
  "rabbi-hanina-b-gamliel": {

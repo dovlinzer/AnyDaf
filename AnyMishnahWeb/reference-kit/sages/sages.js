@@ -49,9 +49,11 @@
   const sage = id => S.data.sages[id];
   // "Rabbi Yehudah [b. Il'ai]" -> "Rabbi Yehudah"; on a narrow screen "Rabbi" -> "R."
   let narrow = false;
+  // "[Shimon] b. Azzai", known by his father's name alone: "Ben Azzai" (and "Shimon ben Azzai" in full)
+  const benName = en => en.replace(/^\[[^\]]*\]\s*b\. /, 'Ben ');
   const shortName = x => HE() ? x.he || x.en
-    : x.en.replace(/\s*\[.*?\]|\s*\((?!Rebbe\)).*?\)/g, '').replace(narrow ? /^Rabbi /u : /^$/, 'R. ').trim();
-  const fullName = x => HE() ? x.he || x.en : x.en.replace(/[\[\]]/g, '');
+    : benName(x.en).replace(/\s*\[.*?\]|\s*\((?!Rebbe\)).*?\)/g, '').replace(narrow ? /^Rabbi /u : /^$/, 'R. ').trim();
+  const fullName = x => HE() ? x.he || x.en : x.en.replace(/^\[([^\]]*)\]\s*b\. /, '$1 ben ').replace(/[\[\]]/g, '');
   // Colour: Zugot, tanna'im, amora'im of Eretz Yisrael, of Bavel (both: by the first listed).
   function group(x) {
     if (!x) return 'na';
@@ -735,9 +737,9 @@
       if (row === 1 && tall(c)) return;
       const k = row + ':' + c, ids = (by[k] || []).filter(id => C.filter === 'all' || (C.filter === 'tanna' ? sage(id).kind !== 'amora' : sage(id).kind === 'amora'));
       const open = S.o.chartAllOpen ? !C.open.has(k) : C.open.has(k);   // with "show every sage", a click closes
-      const major = simple() ? ids : ids.filter(id => tierOf(sage(id)) <= 2);
-      const lim = simple() && c === 'Z' ? 12 : first;   // the ten Zugot are few: all of them, Hillel and Shammai included
-        const pick = open || major.length <= lim + 1 ? major : major.slice(0, lim);
+      const major = simple() || c === 'Z' ? ids : ids.filter(id => tierOf(sage(id)) <= 2);
+      const lim = c === 'Z' ? 12 : first;   // the ten Zugot are few: all of them, Hillel and Shammai included
+      const pick = open || major.length <= lim + 1 ? major : major.slice(0, lim);
       const shown = c === 'Z' ? pick : [...pick].sort(byName);
       const extra = ids.filter(id => C.show.has(id) && !shown.includes(id));
       cell[k] = { open, major, shown, list: shown.concat(extra) };

@@ -281,6 +281,12 @@ AMAR = r"(?:אמר|ואמר|דאמר|כדאמר|אמרי|מתקיף לה|משמ�
 # usually the amora (Nappacha), whom Sefaria files only under his full names.
 EXTRA_CANDIDATES = {"רבי יצחק": ["rabbi-yitzhak-nappaha"]}
 # Bare "Rabbi" is Rebbi (Yehudah haNasi) when a verb or the like follows, not another name.
+# Hillel and Shammai are counted only as the men, not their schools ("בית הלל") or the Hallel prayer:
+# never after "בית", and only before one of these (a verb, "the Elder", the other's name).
+ZUG_SOLO = ("הלל", "שמאי", "שמעיה", "אבטליון")
+ZUG_NEXT = ("הזקן", "אומר", "אמר", "אמרו", "לטעמיה", "סבר", "שמאי", "ושמאי", "הלל", "והלל", "ותלמידיו", "גזרו",
+            "נחלקו", "קיבלו", "קבלו", "מקבלים", "שנו", "היה", "הוא", "עצמו", "עמד", "אומרים", "ואבטליון", "אבטליון",
+            "ושמעיה", "שמעיה")
 REBBI_NEXT = ("אומר", "אמר", "סבר", "קסבר", "היא", "הוא", "לטעמיה", "נמי", "מתיר", "אוסר", "מחייב",
               "פוטר", "מכשיר", "פוסל", "מטמא", "מטהר", "אית", "לית", "דריש", "שנה", "תני", "ורבנן",
               "ורבן", "בעי", "התיר", "גזר", "הורה", "מודה", "סבירא", "מאי")
@@ -295,6 +301,9 @@ def name_index(sages):
             t = re.sub(r"^ר ", "רבי ", t)
             if (t.startswith(TITLES) and " " in t) or t in ONE_WORD or t in AFTER_AMAR:
                 idx.setdefault(t, set()).add(s["slug"])
+            # the Zugot carry no title ("שמעון בן שטח", "שמעיה"): any of their names counts
+            elif s.get("kind") == "zug" and " " in t and t not in ZUG_SOLO:
+                idx.setdefault(t, set()).add(s["slug"])
     # One-word names that mean one sage in the Bavli, whatever else carries them as an alias
     # (Sefaria lists "רבא" among Rabbi Abba's names).
     for name, slug in FIXED.items():
@@ -304,6 +313,9 @@ def name_index(sages):
         idx.setdefault(name, set()).update(x for x in extra if x in sages)
     if "rabi" in sages:
         idx["רבי"] = {"rabi"}
+    for name, slug in (("הלל", "hillel"), ("שמאי", "shammai"), ("שמעיה", "shemaiah"), ("אבטליון", "avtalyon")):
+        if slug in sages:
+            idx[name] = {slug}
     return {k: sorted(v) for k, v in idx.items()}
 
 
@@ -367,10 +379,11 @@ def matcher():
     if _MATCHER is None:
         sages = json.loads((OUT / "sages.json").read_text(encoding="utf-8"))
         idx = name_index(sages)
-        names = sorted((n for n in idx if n not in AFTER_AMAR and n != "רבי"), key=len, reverse=True)   # longest first
+        names = sorted((n for n in idx if n not in AFTER_AMAR and n != "רבי" and n not in ZUG_SOLO), key=len, reverse=True)   # longest first
         pat = re.compile(r"(?<![א-ת])(?:ו|ד|כ|ל|ש|וד|דל|וכ)?(" + "|".join(map(re.escape, names)) + r")(?![א-ת])"
                          r"|(?<![א-ת])" + AMAR + r"(" + "|".join(AFTER_AMAR) + r")(?![א-ת])"
-                         r"|(?<![א-ת])(?:ו|ד|כ|ל|ש)?(רבי)(?= (?:" + "|".join(REBBI_NEXT) + r")(?![א-ת]))")
+                         r"|(?<![א-ת])(?:ו|ד|כ|ל|ש)?(רבי)(?= (?:" + "|".join(REBBI_NEXT) + r")(?![א-ת]))"
+                         r"|(?<![א-ת])(?<!בית )(?:ו|ד|כ|ל|ש)?(" + "|".join(ZUG_SOLO) + r")(?= (?:" + "|".join(ZUG_NEXT) + r")(?![א-ת]))")
         _MATCHER = (sages, idx, pat)
     return _MATCHER
 
@@ -383,7 +396,7 @@ def find_names(segs):
         text = re.sub(r"[^\sא-ת״׳\"']", " ", strip_nikud(he))
         text = re.sub(r"\s+", " ", text)
         for m in pat.finditer(text):
-            name = m.group(1) or m.group(2) or m.group(3)
+            name = m.group(1) or m.group(2) or m.group(3) or m.group(4)
             f = found.setdefault(name, {"name": name, "candidates": idx[name], "lines": []})
             if label not in f["lines"]:
                 f["lines"].append(label)
