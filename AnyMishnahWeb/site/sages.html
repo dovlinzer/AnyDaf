@@ -1,0 +1,821 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Sages</title><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;700&family=Public+Sans:wght@400;600;700&display=swap" rel="stylesheet"><style>:root{--bg:#f7f4ec;--fg:#222;--card:#fff;--blue:#1b3a8a;--tint:#f1f3fb;--amber:#a85d00;--add:#5d5d5d}@media(prefers-color-scheme:dark){:root{--bg:#14161c;--fg:#e8e6df;--card:#1d2028;--tint:#232838;--amber:#f2b04a;--add:#b9b6ad}}
+html{scroll-behavior:smooth}body{font:17px/1.55 'Public Sans',system-ui,sans-serif;margin:0;background:var(--bg);color:var(--fg)}header{position:relative;background:var(--blue);color:#fff;padding:14px 24px 18px}.brand{display:inline-flex;align-items:center;gap:12px;margin:0 0 12px;color:#fff;text-decoration:none}.brand img{height:44px;width:auto;display:block}.brand span{font-family:Newsreader,Georgia,serif;font-size:22px;font-weight:600;letter-spacing:.01em}header h1{margin:0;font-family:Newsreader,Georgia,serif}
+.pills{position:sticky;top:0;z-index:5;background:var(--bg);padding:8px 16px;border-bottom:1px solid #8884;display:flex;gap:8px;align-items:center;flex-wrap:wrap}.pills span{font-weight:600;margin-right:6px}
+.pills a{display:inline-grid;place-items:center;min-width:34px;height:34px;border-radius:17px;padding:0 6px;background:var(--card);color:var(--blue);text-decoration:none;font-weight:700;border:1.5px solid var(--blue)}.pills a.on,.pills a:hover{background:var(--blue);color:#fff}
+main{max-width:1240px;margin:auto;padding:12px 16px}section{scroll-margin-top:70px;margin:26px 0}section h2{font-family:Newsreader,Georgia,serif;margin:0 0 2px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:start}@media(max-width:900px){.grid{grid-template-columns:1fr}.grid .text{order:-1}}
+.grid>*{min-width:0}td,th{overflow-wrap:anywhere}.panel{background:var(--card);border-radius:14px;padding:16px 20px;box-shadow:0 1px 4px #0002}.aids{background:var(--tint)}
+.he{font:24px/1.9 'Times New Roman',serif;margin-bottom:10px}.sum{font-style:italic;opacity:.8;margin:0 0 10px}
+h4{margin:12px 0 2px}ul{margin:0 0 4px;padding-left:22px}li{margin:3px 0}table{border-collapse:collapse;width:100%;font-size:17px}td,th{border:1px solid #bbb8;padding:7px 10px;text-align:left}th{background:#1b3a8a22}.chart{margin:14px 0}.chart svg{width:100%;height:auto;display:block}
+.stage{position:relative}.hot{position:absolute;background:transparent;border:2px dashed transparent;border-radius:10px;cursor:pointer;padding:0}.hot:hover,.hot:focus,.hot:focus-visible,.hot:active{border-color:transparent;background:transparent;outline:none;-webkit-tap-highlight-color:transparent}
+.hot::after{content:"tap";position:absolute;left:50%;bottom:6px;transform:translateX(-50%);background:#1b3a8acc;color:#fff;font:600 12px 'Public Sans',sans-serif;padding:2px 9px;border-radius:10px;opacity:.9;animation:tp 2.2s ease-in-out infinite}.hot[aria-pressed=true]::after{display:none}
+@keyframes tp{50%{opacity:.35}}.ov{position:absolute;height:auto;opacity:0;transform:var(--t) scale(.5);transition:opacity .25s,transform .25s;pointer-events:none;filter:drop-shadow(0 3px 4px #0006)}.ov.on{opacity:1;transform:var(--t) scale(1)}
+.hint{opacity:.85;font-style:italic}.en p,.he p{margin:0 0 .85em}.he p{line-height:1.45;margin-bottom:.6em}.en p:last-child,.he p:last-child{margin-bottom:0}.en{color:var(--add)}.en b{color:var(--amber);font-weight:600}.en.en-s{color:var(--fg)}.kt{border-bottom:1px dotted currentColor;cursor:help}.kti{color:inherit;text-decoration:underline dotted;cursor:help}.kt1[data-k],.kt{cursor:help}.ktn{border-bottom:0}.kt1:not([data-k]) i{font-style:italic}.about{position:fixed;inset:0;background:#0007;z-index:80;display:flex;align-items:center;justify-content:center;padding:16px}.about[hidden]{display:none}.abox{background:var(--card);color:var(--fg);max-width:560px;max-height:88vh;overflow:auto;border-radius:12px;padding:16px 20px;box-shadow:0 12px 40px #0006;font-size:15px}.abox h3{margin:0 0 8px}.abox .gx{float:right;border:0;background:none;color:inherit;font-size:22px;cursor:pointer}footer .aboutlink{white-space:nowrap}.gpop{position:absolute;z-index:60;max-width:320px;background:var(--card);color:var(--fg);border:1.5px solid var(--blue);border-radius:10px;box-shadow:0 8px 24px #0005;padding:10px 12px;font:14px/1.45 'Public Sans',system-ui,sans-serif}.tlist details{border-bottom:1px solid #8885;padding:6px 0}.tlist details:last-child{border-bottom:0}.tlist summary{cursor:pointer;font-size:17px}.tlist summary .he{font-size:18px;margin:0 4px;line-height:1.4}.tlist summary b{font-weight:600}.tbody{padding:2px 0 4px 18px;font-size:16px}.tlist .refs{font-size:12px}.tord{font-size:13px;margin:0 0 10px;display:flex;flex-wrap:wrap;gap:6px 6px;align-items:center;line-height:1.6}.tord [data-all]{margin-left:auto}.tord button{font:inherit;border:1px solid var(--blue);background:var(--card);color:var(--blue);border-radius:10px;padding:0 9px;margin-left:5px;cursor:pointer}.tord button.on{background:var(--blue);color:#fff}.gpop p{margin:6px 0 0}.gpop b{font-weight:700}.gpop .gh{font-size:15px}.gpop .loc{margin-top:6px;font-size:13px;opacity:.85}.gpop .gx{float:right;border:0;background:none;color:inherit;font-size:16px;cursor:pointer;margin:-4px -4px 0 6px}.loc{margin-top:4px;font-size:13px;opacity:.85}.en-s i{font-style:italic}html[data-eng=s] .en-d,html[data-eng=s] .ecd,html[data-eng=d] .en-s,html[data-eng=d] .ecs{display:none}.encredit{margin:6px 0 0;font-size:12.5px;opacity:.8}.all{margin-left:8px;font:600 12px 'Public Sans',sans-serif;border:1.5px solid var(--blue);color:var(--blue);background:var(--card);border-radius:12px;padding:1px 10px;cursor:pointer}
+.pic{margin:16px 0}.pic img{width:100%;height:auto;border-radius:12px;display:block}figcaption{font-size:14px;opacity:.7;margin-top:4px}details{margin-top:10px}summary{cursor:pointer;font-weight:600}
+.legend{background:var(--card);border-radius:12px;padding:12px 20px;margin:14px 0;display:flex;gap:0;align-items:center;flex-wrap:wrap}.legend .grp{display:flex;gap:18px;align-items:center;padding:0 22px;border-left:1px solid #8886}.legend .grp:first-child{padding-left:0;border-left:0}.legend .grp>span{display:flex;align-items:center;gap:8px}.legend .t{display:block}.b{flex:none}.b.wide{width:auto;height:40px}
+@media(max-width:1000px){.legend{flex-direction:column;align-items:stretch}.legend .grp{flex-wrap:wrap;padding:12px 0;border-left:0;border-top:1px solid #8886;gap:10px 22px}.legend .grp:first-child{border-top:0;padding-top:0}.legend .grp:last-child{padding-bottom:0}}.b{width:44px;height:44px;vertical-align:middle;margin-right:6px}
+.v{display:none}html[data-aud=y][data-mode=i] .v[data-aud=y][data-mode=i],html[data-aud=y][data-mode=s] .v[data-aud=y][data-mode=s],html[data-aud=o][data-mode=i] .v[data-aud=o][data-mode=i],html[data-aud=o][data-mode=s] .v[data-aud=o][data-mode=s],html[data-aud=y][data-mode=q] .v[data-aud=y][data-mode=i],html[data-aud=o][data-mode=q] .v[data-aud=o][data-mode=i]{display:block}html[data-mode=s] .ionly,html[data-mode=q] .ionly,html:not([data-mode=q]) .qlegend{display:none}.note{font-style:italic;color:#8a5a00}
+.qonly,.qs{display:none}html[data-mode=q] .qonly{display:block}html[data-mode=q] .qs{display:inline}html[data-mode=q] .qbtns,html[data-mode=q] .qhint{display:inline}html[data-mode=q] .all,html[data-mode=q] .hint,html[data-mode=q] figure:has(.tray) .ctext{display:none}
+.tray{display:flex;gap:10px;flex-wrap:wrap;align-items:center;background:var(--tint);border-radius:12px;padding:8px 12px;margin-top:8px}html:not([data-mode=q]) .tray{display:none}.tl{font-weight:600;font-size:13px;opacity:.75}.tb{border:2px solid transparent;background:var(--card);border-radius:12px;padding:3px 6px;cursor:grab;touch-action:none;user-select:none}.tb img{height:46px;width:auto;display:block;border-radius:0;pointer-events:none}.tb.sel{border-color:var(--blue);box-shadow:0 0 0 3px #1b3a8a33}
+.ghost{position:fixed;height:52px;width:auto;transform:translate(-50%,-50%);pointer-events:none;z-index:60;filter:drop-shadow(0 6px 8px #0006);opacity:.95}
+html[data-mode=q] .hot{border-color:transparent;background:none;pointer-events:none}html[data-mode=q] .hot::after{display:none!important}.qchip{display:none;position:absolute;width:30px;height:30px;margin:8px 0 0 8px;border-radius:50%;background:#1b3a8aee;color:#fff;font:700 15px 'Public Sans',sans-serif;place-items:center;pointer-events:none;z-index:4;box-shadow:0 1px 4px #0006}html[data-mode=q] .qchip{display:grid}.qchip.over{background:#c98a00;transform:scale(1.25)}.qchip.ok{background:#1f7a3d}.qchip.ok::before{content:'\2713'}.qchip.ok{font-size:0}.qchip.ok::before{font-size:17px}.qchip.gave{background:#8a6a1a}.qchip.wrong{background:#b03a2e;animation:shk .45s}html[data-mode=q] .hot::after{content:attr(data-q);left:5px;top:5px;bottom:auto;transform:none;min-width:22px;text-align:center;border-radius:12px;padding:1px 7px;font-size:13px;animation:none;opacity:.95}.ov{z-index:3}.qask{display:none;flex-direction:column;gap:6px;font-size:15px;margin-top:10px}html[data-mode=q] .qask{display:flex}.qa b{background:#1b3a8acc;color:#fff;border-radius:10px;padding:0 7px;margin-right:2px}html[data-mode=q] .hot.ok::after{display:none}html[data-mode=q] .hot.ok,html[data-mode=q] .hot.over,html[data-mode=q] .hot.gave{border-color:transparent;background:none}html[data-mode=q] .hot.wrong{animation:none;border-color:transparent!important;background:none!important}html[data-mode=q] .hot.right{box-shadow:none}
+.hot.wrong{animation:shk .45s;border-color:#c0392b!important;background:#c0392b33!important}.hot.right{box-shadow:0 0 0 4px #2a8a4a88}@keyframes shk{20%,60%{transform:translateX(-7px)}40%,80%{transform:translateX(7px)}}
+html[data-mode=q] .hot.tg::after{display:none!important}.qmsg{font-size:15px;font-weight:600;min-height:1.4em;margin-top:6px}.qmsg.good{color:#1f7a3d}.qmsg.bad{color:#b03a2e}.qbtns button{margin-left:8px;font:600 12px 'Public Sans',sans-serif;border:1.5px solid var(--blue);color:var(--blue);background:var(--card);border-radius:12px;padding:1px 10px;cursor:pointer}.qhint{font-style:italic;opacity:.85}.qs{font-weight:600}.qbar{padding:0 24px}.qbar:has(.qs:empty){display:none}
+.opts{color:var(--fg);font-size:14px;display:none;position:absolute;top:50px;right:12px;z-index:70;flex-direction:column;align-items:flex-start;border:1.5px solid var(--blue);border-radius:12px;background:var(--card);box-shadow:0 8px 24px #0005;padding:12px 16px;gap:10px}.opts.open{display:flex}
+.gear{position:absolute;top:10px;right:14px;width:38px;height:38px;border-radius:19px;border:0;background:#fff;color:var(--blue);box-shadow:0 1px 4px #0005;padding:0;display:grid;place-items:center;cursor:pointer;line-height:1}.opts_x{display:flex;gap:22px;flex-wrap:wrap;align-items:center;padding:8px 16px;background:var(--tint);border-bottom:1px solid #8884;font-size:14px}.opts b{margin-right:6px}.seg{display:inline-flex;border:1.5px solid var(--blue);border-radius:16px;overflow:hidden}.seg button{font:600 13px 'Public Sans',sans-serif;border:0;background:var(--card);color:var(--blue);padding:4px 14px;cursor:pointer}.seg button[aria-pressed=true]{background:var(--blue);color:#fff}
+.grid3{display:grid;grid-template-columns:1.25fr 1fr 1fr;gap:18px;align-items:start}@media(max-width:1000px){.grid3{grid-template-columns:1fr}}.grid3>*{min-width:0}.grid3 h3{margin:0 0 6px;font-family:Newsreader,Georgia,serif}.pr li{margin:0 0 10px}.refs{white-space:nowrap}.mref{font-size:12px;font-weight:600;background:var(--card);border:1px solid var(--blue);border-radius:9px;padding:0 6px;margin-left:4px;text-decoration:none}.pnote{font-size:14px;opacity:.8;font-style:italic}dl{margin:0}dt{margin-top:10px}dd{margin:2px 0 0}dt .he{font-size:18px;margin:0 4px}.debate{margin:0 0 14px}.debate h4{margin:0 0 4px}.sides{display:grid;gap:8px}.sides p{margin:2px 0 0}.sides>div{background:var(--card);border-radius:10px;padding:8px 12px}
+.pills .sep{width:1px;align-self:stretch;background:#8886;margin:0 6px}.pills .lbl{font-weight:700;color:var(--blue)}@media(max-width:1000px){.pills{flex-wrap:nowrap;overflow-x:auto}.pills>*{flex:none}}.pgroup{border:1.5px solid var(--blue);border-radius:14px;padding:6px 14px 2px;margin:18px 0;background:var(--tint)}.pgroup .gh{margin:6px 0 0;font-family:Newsreader,Georgia,serif;font-size:21px;color:var(--blue)}.pgroup .gh span{font-size:15px;font-weight:400;opacity:.8}.pgroup .pic{margin:10px 0}section+section{border-top:1px solid #8888;padding-top:24px}#summary{border-top:2px solid var(--blue)}i{font-style:italic}.biur{margin:12px 0;background:var(--tint);border-radius:10px;padding:6px 14px}.biur summary{cursor:pointer;font-weight:700}.biur p{font-size:18px;line-height:1.85;margin:8px 0;opacity:.92}.biur p b{opacity:1}.biur-credit{font-size:12px;opacity:.7;margin:6px 0 2px}html[data-terms=en] .t-he,html[data-terms=he] .t-en{display:none}.chnav{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:10px 24px;background:var(--card);border-bottom:1px solid #8884}.chnav span{font-weight:600;margin-right:6px}.chnav a{display:inline-grid;place-items:center;min-width:38px;height:38px;border-radius:19px;color:var(--blue);text-decoration:none;font-weight:700;border:1.5px solid var(--blue);padding:0 8px}.chnav a.on,.chnav a:hover{background:var(--blue);color:#fff}.banner{background:#fff3cd;color:#5a4500;padding:10px 24px;font-size:14px}footer{font-size:12px;opacity:.7;padding:14px 24px;max-width:1240px;margin:auto}a{color:var(--blue)}.mu{border-bottom:1px dotted currentColor;cursor:pointer}.mpop{position:fixed;max-height:calc(100vh - 16px);overflow:auto;z-index:61;width:min(540px,calc(100vw - 16px));background:var(--card);color:var(--fg);border:1.5px solid var(--blue);border-radius:12px;box-shadow:0 8px 24px #0005;padding:12px 14px;font:14px/1.45 'Public Sans',system-ui,sans-serif}.mpop .gx{float:right;border:0;background:none;color:inherit;font-size:18px;cursor:pointer}.mpop .mbuys{font-size:13.5px;margin:4px 0 0}.mpop .mbuys ul{margin:2px 0 0;padding-left:18px}.mpop h4{margin:0 0 2px;font-size:16px}.mpop .mrel{margin:6px 0;font-size:13.5px}.mpop .msrc{font-size:11.5px;opacity:.75;margin-top:6px}.mpop g[data-k]:hover path{filter:brightness(1.08)}.mpop g[data-k]:focus{outline:none}.mpop g[data-k]:focus-visible path{stroke:#2a4;stroke-width:3}.mpop svg text{font-family:'Public Sans',sans-serif}.refbtn{position:absolute;top:10px;right:60px;width:38px;height:38px;border-radius:19px;border:0;background:#fff;box-shadow:0 1px 4px #0005;padding:0;display:grid;place-items:center;cursor:pointer}.mpop.inline{position:static;transform:none;max-height:none;width:100%;max-width:880px;margin:16px auto;box-shadow:none}.mpop.inline .gx{display:none}.mtabs{display:flex;flex-wrap:wrap;gap:6px;margin:0 28px 8px 0}.mtabs button,.mvf button{font:inherit;font-size:13px;border:1px solid var(--blue);background:var(--card);color:var(--blue);border-radius:12px;padding:1px 11px;cursor:pointer}.mtabs button.on,.mvf button.on{background:var(--blue);color:#fff}.mvf{font-size:13px;margin:2px 0 4px;display:flex;gap:6px;align-items:center}.mvf.eo{flex-direction:column;align-items:flex-start;gap:5px;width:max-content;max-width:100%;margin-left:auto}.mvf.eo span{opacity:.75}/* Sages relationship box (sages.js). Uses the host's --bg --fg --card --blue variables. */.sgx{position:fixed;inset:16px;margin:auto;z-index:70;width:min(920px,calc(100vw - 16px));max-height:calc(100vh - 32px); display:flex;flex-direction:column;box-sizing:border-box;background:var(--card,#fff);color:var(--fg,#222); border:1.5px solid var(--blue,#1b3a8a);border-radius:14px;box-shadow:0 10px 30px #0006;font:15px/1.45 'Public Sans',system-ui,sans-serif; --c-tanna:#b7791f;--c-ey:#2f855a;--c-bavel:#2b6cb0;--c-zug:#6b46c1;--c-na:#718096;--c-fam:#b83280}.sgx[hidden]{display:none}.sgx-bar{display:flex;align-items:center;gap:10px;padding:10px 14px;border-bottom:1px solid color-mix(in srgb,var(--fg,#222) 15%,transparent)}.sgx-bar h2{margin:0;font-size:17px}.sgx-trail{flex:1;display:flex;flex-wrap:wrap;gap:4px;align-items:center;font-size:13px;opacity:.85;min-width:0}.sgx-trail button{font:inherit;border:0;background:none;color:var(--blue,#1b3a8a);cursor:pointer;padding:0 2px;text-decoration:underline}.sgx-x{border:0;background:none;color:inherit;font-size:22px;cursor:pointer;line-height:1}.sgx-scroll{overflow:auto;padding:0 14px 14px}.sgx-graph{position:relative;min-height:200px;margin-top:6px}.sgx-lines{position:absolute;inset:0;overflow:visible;color:color-mix(in srgb,var(--fg,#222) 55%,transparent);pointer-events:none}.sgx-lines line,.sgx-lines path{stroke:currentColor;stroke-width:1.6;fill:none}.sgx-lines marker path{fill:currentColor;stroke:none}.sgx-lines line.dot{stroke-dasharray:4 4}.sgx-lines line.fam{stroke:var(--c-fam);stroke-width:2;opacity:.8}.sgx-key .famkey{stroke:var(--c-fam)}.sgx-n.fam{border-width:1.5px;border-style:dotted;background:color-mix(in srgb,var(--c) 6%,var(--card,#fff));color:color-mix(in srgb,var(--fg,#222) 72%,transparent);font-size:12.5px}.sgx-n.fam small,.sgx-n small{color:var(--c-fam)}.sgx-n{position:absolute;left:0;top:0;box-sizing:border-box;padding:5px 9px;border-radius:10px;font:inherit;font-size:13.5px; line-height:1.2;text-align:center;cursor:pointer;border:2px solid var(--c);color:inherit; background:color-mix(in srgb,var(--c) 14%,var(--card,#fff));transition:transform .45s ease,opacity .35s ease;will-change:transform}.sgx-n small{display:block;font-size:11px;opacity:.75}.sgx-n:hover{background:color-mix(in srgb,var(--c) 26%,var(--card,#fff))}.sgx-n:focus-visible{outline:3px solid var(--blue,#1b3a8a);outline-offset:2px}.sgx-n.t3{font-size:12px;padding:3px 7px;border-width:1.5px}.sgx-n.centre{font-size:17px;font-weight:700;padding:9px 16px;border-width:3px;cursor:default; background:color-mix(in srgb,var(--c) 22%,var(--card,#fff));z-index:2}.sgx-n.plain{cursor:default;border-style:dashed}.sgx-n.g-tanna{--c:var(--c-tanna)}.sgx-n.g-ey{--c:var(--c-ey)}.sgx-n.g-bavel{--c:var(--c-bavel)}.sgx-n.g-zug{--c:var(--c-zug)}.sgx-n.g-na{--c:var(--c-na)}.sgx-more{position:absolute;left:0;top:0;font:inherit;font-size:12.5px;border:1px dashed currentColor;border-radius:10px; background:var(--card,#fff);color:var(--blue,#1b3a8a);padding:3px 9px;cursor:pointer}.sgx-more.small{font-size:11.5px;padding:1px 7px}.sgx-key{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;opacity:.8;margin:6px 0 10px;justify-content:center;align-items:center}.sgx-key span{display:inline-flex;align-items:center;gap:5px}.sgx-key .sw{display:inline-block;width:12px;height:12px;border-radius:3px;border:2px solid var(--c);background:color-mix(in srgb,var(--c) 14%,transparent)}.sgx-key .sw.tanna{--c:var(--c-tanna)}.sgx-key .sw.ey{--c:var(--c-ey)}.sgx-key .sw.bavel{--c:var(--c-bavel)}.sgx-key .sw.zug{--c:var(--c-zug)}.sgx-info{border-top:1px solid color-mix(in srgb,var(--fg,#222) 15%,transparent);padding-top:10px}.sgx-info h3{margin:0;font-size:19px}.sgx-info h3 span{font-weight:400;opacity:.75;margin-inline-start:8px}.sgx-info h4{margin:14px 0 4px;font-size:14.5px}.sgx-meta{margin:2px 0 8px;opacity:.85}.sgx-none{font-style:italic;opacity:.75}.sgx-fam{display:flex;flex-wrap:wrap;gap:4px 16px;margin:4px 0 8px;font-size:14px}.sgx-info button[data-go]{font:inherit;border:0;background:none;color:var(--blue,#1b3a8a);cursor:pointer;padding:0;text-decoration:underline}.sgx-bio{margin:6px 0}.sgx-where{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0}.sgx-where button{font:inherit;font-size:13px;border:1px solid var(--blue,#1b3a8a);background:var(--card,#fff);color:var(--blue,#1b3a8a);border-radius:12px;padding:1px 10px;cursor:pointer}.sgx-where button b{font-weight:600;opacity:.7;margin-inline-start:4px}.sgx-placelist{font-size:13.5px;line-height:1.9}.sgx-placelist a{margin-inline-end:8px;color:var(--blue,#1b3a8a)}.sgx-stories{margin:2px 0;padding-inline-start:20px}.sgx-stories span{opacity:.7;font-size:13px}.sgx-links{display:flex;gap:14px;font-size:13px;margin-top:12px}.sgx-links a{color:var(--blue,#1b3a8a)}@media (max-width:560px){.sgx{inset:6px;width:calc(100vw - 12px);max-height:calc(100vh - 12px)}.sgx-n{font-size:12.5px}.sgx-n.centre{font-size:15px}}/* The Shas-wide chart (AnySages.chart / openChart) */.sgc-wrap{position:fixed;inset:12px;z-index:69;display:flex;flex-direction:column;box-sizing:border-box;background:var(--card,#fff);color:var(--fg,#222); border:1.5px solid var(--blue,#1b3a8a);border-radius:14px;box-shadow:0 10px 30px #0006;font:15px/1.45 'Public Sans',system-ui,sans-serif}.sgc-wrap[hidden]{display:none}.sgc-in{flex:1;min-height:0;display:flex;flex-direction:column;padding:0 12px 12px}.sgc{--c-tanna:#b7791f;--c-ey:#2f855a;--c-bavel:#2b6cb0;--c-zug:#6b46c1;--c-na:#718096;font:15px/1.45 'Public Sans',system-ui,sans-serif}.sgc-tools{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding-top:10px}.sgc-find{position:relative;flex:1 1 220px;max-width:360px}.sgc-find input{width:100%;box-sizing:border-box;font:inherit;padding:6px 10px;border:1px solid color-mix(in srgb,var(--fg,#222) 30%,transparent);border-radius:10px;background:var(--card,#fff);color:inherit}.sgc-res{position:absolute;inset-inline:0;top:calc(100% + 4px);z-index:3;background:var(--card,#fff);border:1px solid color-mix(in srgb,var(--fg,#222) 25%,transparent);border-radius:10px;box-shadow:0 6px 18px #0003;max-height:340px;overflow:auto}.sgc-res button{display:block;width:100%;text-align:start;font:inherit;font-size:14px;border:0;border-bottom:1px solid color-mix(in srgb,var(--fg,#222) 10%,transparent);background:none;color:inherit;padding:6px 10px;cursor:pointer}.sgc-res button:hover,.sgc-res button:focus{background:color-mix(in srgb,var(--blue,#1b3a8a) 10%,transparent)}.sgc-res span{opacity:.7;margin-inline-start:6px}.sgc-res small{display:block;opacity:.7;font-size:12px}.sgc-res p{margin:8px 10px;opacity:.75}.sgc-filter{display:flex;gap:4px}.sgc-filter button{font:inherit;font-size:13px;border:1px solid var(--blue,#1b3a8a);background:var(--card,#fff);color:var(--blue,#1b3a8a);border-radius:12px;padding:2px 11px;cursor:pointer}.sgc-filter button[aria-pressed=true]{background:var(--blue,#1b3a8a);color:#fff}.sgc-tip{font-size:12.5px;opacity:.85;margin:6px 0}.sgc-key{display:inline-flex;flex-wrap:wrap;gap:4px 10px;align-items:center;margin-inline-start:8px}.sgc-key .sw{display:inline-block;width:11px;height:11px;border-radius:3px;border:2px solid var(--c);background:color-mix(in srgb,var(--c) 14%,transparent);vertical-align:-1px}.sgc-key .sw.tanna{--c:var(--c-tanna)}.sgc-key .sw.ey{--c:var(--c-ey)}.sgc-key .sw.bavel{--c:var(--c-bavel)}.sgc-key .sw.zug{--c:var(--c-zug)}.sgc-key .mv,.sgc-c.moved::after{display:inline-block;width:7px;height:7px;border-radius:50%;background:#d69e2e;content:""}.sgc-body{flex:1;min-height:0;overflow:auto;border:1px solid color-mix(in srgb,var(--fg,#222) 12%,transparent);border-radius:10px}.sgc-grid{display:grid;width:max-content;min-width:100%}.sgc-grid>div{border-inline-end:1px solid color-mix(in srgb,var(--fg,#222) 8%,transparent);border-bottom:1px solid color-mix(in srgb,var(--fg,#222) 8%,transparent)}.sgc-h{position:sticky;top:0;z-index:2;background:var(--card,#fff);padding:6px;text-align:center;font-size:12.5px;line-height:1.25}.sgc-h b{display:block}.sgc-h small{opacity:.7}.sgc-h.am{background:color-mix(in srgb,var(--c-bavel) 6%,var(--card,#fff))}.sgc-corner{position:sticky;top:0;inset-inline-start:0;z-index:3;background:var(--card,#fff)}.sgc-rh{position:sticky;inset-inline-start:0;z-index:1;background:var(--card,#fff);padding:8px 6px;font-weight:600;font-size:12.5px;writing-mode:vertical-rl;transform:rotate(180deg);text-align:center}[dir=rtl] .sgc-rh{transform:none}.sgc-cell{padding:6px;display:flex;flex-direction:column;gap:4px;align-items:stretch;min-height:60px}.sgc-c{font:inherit;font-size:12.5px;line-height:1.2;padding:3px 6px;border-radius:8px;border:1.5px solid var(--c);color:inherit;cursor:pointer;text-align:center; background:color-mix(in srgb,var(--c) 12%,var(--card,#fff))}.sgc-c:hover{background:color-mix(in srgb,var(--c) 26%,var(--card,#fff))}.sgc-c.t2,.sgc-c.t3{font-size:11.5px;border-width:1px}.sgc-c.moved::after{margin-inline-start:4px;vertical-align:1px}.sgc-c.hit{outline:3px solid var(--blue,#1b3a8a);outline-offset:1px}.sgc-c.g-tanna{--c:var(--c-tanna)}.sgc-c.g-ey{--c:var(--c-ey)}.sgc-c.g-bavel{--c:var(--c-bavel)}.sgc-c.g-zug{--c:var(--c-zug)}.sgc-c.g-na{--c:var(--c-na)}.sgc-more{font:inherit;font-size:11.5px;border:1px dashed currentColor;border-radius:8px;background:none;color:var(--blue,#1b3a8a);padding:2px 6px;cursor:pointer}.sgc .sgc-in{padding:0}.sgc-cell.tall{grid-row:span 2}.sgx-note{font:italic 600 11px/1 Georgia,serif;width:16px;height:16px;border-radius:50%;border:1px solid currentColor;background:none; color:var(--blue,#1b3a8a);cursor:pointer;padding:0;margin-inline-start:4px;vertical-align:2px;text-decoration:none!important}.sgx-scroll{position:relative}.sgx-pop{position:absolute;z-index:5;max-width:min(420px,calc(100% - 16px));box-sizing:border-box;background:var(--card,#fff);color:var(--fg,#222); border:1px solid color-mix(in srgb,var(--fg,#222) 25%,transparent);border-radius:10px;box-shadow:0 6px 18px #0003;padding:8px 28px 8px 12px;font-size:13px;line-height:1.5}.sgx-pop p{margin:0 0 6px}.sgx-pop p:last-of-type{margin-bottom:0}.sgx-popx{position:absolute;top:2px;inset-inline-end:6px;border:0;background:none;color:inherit;font-size:16px;cursor:pointer}.sgx-bio button[data-go]{font:inherit;border:0;background:none;color:var(--blue,#1b3a8a);cursor:pointer;padding:0;text-decoration:underline}.sgbtn{position:absolute;top:10px;right:106px;width:38px;height:38px;border-radius:19px;border:0;background:#fff;box-shadow:0 1px 4px #0005;padding:0;display:grid;place-items:center;cursor:pointer}html[lang=he] .sgbtn{right:60px}.sg{color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb,currentColor 45%,transparent);cursor:pointer}.sg:hover{background:var(--tint)}</style><script>(function(){var d=document.documentElement,a="y",m="i",t="en",g="s";try{a=localStorage.getItem("mAud")||a;m=localStorage.getItem("mMode")||m;t=localStorage.getItem("mTerms")||t;g=localStorage.getItem("mEng")||g}catch(e){}d.dataset.units=(function(){try{return localStorage.getItem("mUnits")||"us"}catch(e){return"us"}})();d.dataset.aud=a;d.dataset.mode=m;d.dataset.terms=t;d.dataset.eng=g})()</script></head><body><svg class="sprite" style="position:absolute;width:0;height:0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><defs>
+ <symbol id="lamb" viewBox="0 0 150 105">
+  <rect x="38" y="78" width="9" height="22" rx="3" fill="#3B3431"/><rect x="58" y="80" width="9" height="20" rx="3" fill="#3B3431"/>
+  <rect x="88" y="80" width="9" height="20" rx="3" fill="#3B3431"/><rect x="104" y="78" width="9" height="22" rx="3" fill="#3B3431"/>
+  <g fill="#F6F1E7" stroke="#D9CFBD" stroke-width="2"><circle cx="32" cy="46" r="10"/><circle cx="50" cy="50" r="22"/><circle cx="72" cy="42" r="23"/><circle cx="94" cy="46" r="22"/><circle cx="108" cy="56" r="17"/><circle cx="60" cy="68" r="20"/><circle cx="88" cy="68" r="20"/><circle cx="40" cy="62" r="14"/><circle cx="104" cy="68" r="16"/></g>
+  <ellipse cx="128" cy="40" rx="14" ry="19" transform="rotate(20 128 40)" fill="#3B3431"/>
+  <ellipse cx="114" cy="28" rx="10" ry="4.5" transform="rotate(-15 114 28)" fill="#3B3431"/>
+  <circle cx="131" cy="35" r="2.2" fill="#F6F1E7"/>
+ </symbol>
+ <symbol id="ram" viewBox="0 0 150 105"><use href="#lamb" width="150" height="105"/><path d="M124 30 C106 18 92 38 106 48 C116 54 124 42 115 36" fill="none" stroke="#9A7440" stroke-width="8" stroke-linecap="round"/><path d="M124 30 C106 18 92 38 106 48 C116 54 124 42 115 36" fill="none" stroke="#C4A670" stroke-width="2.2" stroke-linecap="round"/></symbol>
+ <symbol id="goat" viewBox="0 0 150 105">
+  
+  
+  <path d="M44 68 L45 92 L44 98 L41 101 L51 101 L50 98 L51 92 L53 80Z" fill="#4A3F3A"/><path d="M100 68 L101 92 L100 98 L97 101 L107 101 L106 98 L107 92 L109 80Z" fill="#4A3F3A"/><g transform="translate(0,10) scale(1,.95)"><path d="M28 40 L22 28 L30 32 L34 40Z" fill="#8A7B6E"/>
+  <path d="M26 46 C26 36 40 32 56 34 C74 36 94 32 108 32 C118 30 124 34 128 40 C128 50 124 58 118 64 C100 68 70 68 48 66 C36 64 26 58 26 46Z" fill="#B8A793"/>
+  <path d="M34 58 C54 68 92 68 116 64 C122 60 126 54 127 48 C118 58 96 62 70 62 C52 62 40 60 34 58Z" fill="#9A8977"/>
+  <path d="M82 36 C96 30 112 32 120 38 C108 36 94 38 82 42Z" fill="#CDBDA8"/>
+  <path d="M120 36 C128 28 138 30 142 38 C146 46 144 54 138 58 C132 60 128 54 126 50 C124 46 122 42 120 40Z" fill="#A89684"/>
+  <path d="M134 56 C138 58 142 58 144 54 C144 62 140 70 136 76 C136 68 136 62 134 56Z" fill="#E8DFD0"/>
+  <path d="M126 36 C122 26 126 16 134 12 C132 20 132 28 134 34Z" fill="#6B5D50"/>
+  <path d="M128 32 C128 24 134 18 142 18 C138 24 136 28 136 34Z" fill="#8A7B6E"/>
+  <path d="M120 38 C112 36 108 40 110 46 C114 46 118 44 122 42Z" fill="#8A7B6E"/>
+  <ellipse cx="136" cy="42" rx="2.6" ry="2" fill="#1c1008"/>
+  
+  
+  
+  
+  
+  
+</g><path d="M36 68 L37 92 L36 98 L33 101 L44 101 L43 98 L44 92 L46 78Z" fill="#A89684"/><path d="M110 68 L111 92 L110 98 L107 101 L118 101 L117 98 L118 92 L120 78Z" fill="#A89684"/><path d="M33 99 L44 99 L44 102 L33 102Z M107 99 L118 99 L118 102 L107 102Z M41 99 L51 99 L51 102 L41 102Z M97 99 L107 99 L107 102 L97 102Z" fill="#2A211C"/></symbol>
+ <symbol id="bull" viewBox="0 0 170 110">
+  <!-- far legs (darker) -->
+  <path d="M50 80 L51 92 L50 98 L47 104 L57 104 L56 98 L57 92 L58 72Z" fill="#3A2417"/>
+  <path d="M122 80 L124 92 L123 98 L120 104 L131 104 L130 98 L130 92 L130 72Z" fill="#3A2417"/>
+  <!-- tail -->
+  <path d="M25 46 C14 52 12 66 15 80" stroke="#5A3622" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M15 76 C10 82 11 92 16 94 C21 90 20 82 15 76Z" fill="#2E1B10"/>
+  <g transform="translate(0,7)"><!-- body: rump, back, shoulder hump, neck, chest, belly -->
+  <path d="M24 50 C24 38 38 32 56 34 C74 36 92 32 108 30 C120 24 132 26 138 34 C146 36 152 42 154 48 C150 56 144 60 138 64 C136 72 128 78 118 80 C100 82 76 82 58 80 C46 80 36 76 30 68 C24 62 22 56 24 50Z" fill="#7A4B30"/>
+  <!-- belly shadow and shoulder highlight -->
+  <path d="M30 66 C46 80 78 82 118 80 C128 78 136 72 138 64 C130 74 112 76 84 76 C58 76 40 74 30 66Z" fill="#5F3822"/>
+  <path d="M96 38 C108 30 124 30 132 38 C122 36 108 38 96 44Z" fill="#8E5A3A"/>
+  <!-- dewlap -->
+  <path d="M136 56 C140 70 138 78 132 82 C132 72 130 64 128 58Z" fill="#6A3E27"/>
+  <!-- head, lowered, facing right -->
+  <path d="M136 30 C146 24 158 26 164 36 C168 44 168 52 164 58 C160 64 152 64 148 58 C144 52 140 46 136 40Z" fill="#6A3E27"/>
+  <path d="M156 52 C162 50 168 52 168 58 C166 64 158 66 154 62Z" fill="#B58A68"/>
+  <circle cx="162" cy="56" r="1.6" fill="#2E1B10"/>
+  <!-- horn (curved, ivory) and ear -->
+  <path d="M142 28 C140 16 148 8 158 8 C152 14 150 20 150 28Z" fill="#EDE3CF"/>
+  <path d="M136 34 C128 30 124 34 126 40 C130 40 134 40 138 38Z" fill="#4A2E1F"/>
+  <path d="M146 27 C148 16 156 12 164 14 C158 17 156 22 154 28Z" fill="#CFC4AC"/>
+  <!-- eye -->
+  <ellipse cx="152" cy="38" rx="3" ry="2.2" fill="#1c1008"/><circle cx="152.8" cy="37.4" r=".8" fill="#EDE3CF"/>
+  </g><!-- near legs with hooves -->
+  <path d="M34 80 L36 92 L35 98 L32 104 L43 104 L42 98 L43 92 L46 70Z" fill="#6A3E27"/>
+  <path d="M31 101 L43 101 L43 106 L31 106Z" fill="#1c1008"/>
+  <path d="M110 82 L112 92 L111 98 L108 104 L120 104 L119 98 L120 92 L124 76Z" fill="#6A3E27"/>
+  <path d="M107 101 L120 101 L120 106 L107 106Z" fill="#1c1008"/>
+  <path d="M47 101 L57 101 L57 106 L47 106Z M120 101 L131 101 L131 106 L120 106Z" fill="#1c1008"/>
+</symbol>
+ <!-- a tanna / amora: same simple figure as the villager by the bull, a little larger; robe colour, beard and head-cloth vary per sage -->
+ <symbol id="sage" viewBox="0 0 80 140">
+  <path d="M18 58 Q40 50 62 58 L72 138 H8 Z" fill="currentColor"/>
+  <circle cx="40" cy="36" r="14" fill="#D6AE86"/>
+  <path d="M28 39 Q29 60 40 63 Q51 60 52 39 Q46 47 40 47 Q34 47 28 39 Z" fill="var(--beard,#4A3A2E)"/>
+  <path d="M25 33 Q24 16 40 15 Q56 16 55 33 Q48 24 40 24 Q32 24 25 33 Z" fill="var(--wrap,#E4D8C0)"/>
+ </symbol>
+ <symbol id="person" viewBox="0 0 60 120">
+  <path d="M14 50 Q30 42 46 50 L54 118 H6 Z" fill="currentColor"/>
+  <circle cx="30" cy="30" r="13" fill="#D8B38E"/>
+  <path d="M16 26 Q30 8 44 26 Q30 20 16 26Z" fill="#4A3A2E"/>
+ </symbol>
+ <symbol id="man" viewBox="0 0 60 120">
+  <path d="M14 50 Q30 42 46 50 L54 118 H6 Z" fill="currentColor"/>
+  <circle cx="30" cy="30" r="12" fill="#D6AE86"/>
+  <path d="M20 33 Q21 50 30 52 Q39 50 40 33 Q35 40 30 40 Q25 40 20 33 Z" fill="#4A3A2E"/>
+  <path d="M18 28 Q17 14 30 13 Q43 14 42 28 Q36 21 30 21 Q24 21 18 28 Z" fill="#E4D8C0"/>
+ </symbol>
+ <symbol id="woman" viewBox="0 0 60 120">
+  <path d="M16 30 Q30 6 44 30 L50 60 Q30 52 10 60 Z" fill="#C9A15C"/>
+  <path d="M14 52 Q30 44 46 52 L54 118 H6 Z" fill="currentColor"/>
+  <circle cx="30" cy="31" r="11.5" fill="#D8B38E"/>
+  <path d="M17 30 Q30 10 43 30 Q30 22 17 30 Z" fill="#C9A15C"/>
+ </symbol>
+ <symbol id="child" viewBox="0 0 30 60">
+  <path d="M8 26 Q15 22 22 26 L26 58 H4 Z" fill="currentColor"/>
+  <circle cx="15" cy="15" r="8" fill="#D8B38E"/><path d="M7 13 Q15 3 23 13 Q15 9 7 13Z" fill="#5A4030"/>
+ </symbol>
+ <!-- rulings: a green check for permitted, a red x for forbidden (draw at any square size) -->
+ <symbol id="mark-ok" viewBox="0 0 40 40"><circle cx="20" cy="20" r="18" fill="#E3F1E5" stroke="#24592E" stroke-width="2.5"/>
+  <path d="M11.5 20.5 L17.5 26.5 L29 13.5" fill="none" stroke="#24592E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+ <symbol id="mark-no" viewBox="0 0 40 40"><circle cx="20" cy="20" r="18" fill="#F7E1E1" stroke="#8C2F2F" stroke-width="2.5"/>
+  <path d="M13 13 L27 27 M27 13 L13 27" fill="none" stroke="#8C2F2F" stroke-width="4" stroke-linecap="round"/></symbol>
+ <linearGradient id="fire" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#E4572E"/><stop offset=".6" stop-color="#F3A712"/><stop offset="1" stop-color="#FFE08A"/></linearGradient>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient>
+</defs></svg><svg style="position:absolute;width:0;height:0"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D6EA"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient></defs></svg><header><a class="brand" href="index.html"><img src="img/yct-logo-white.png" alt="YCT Vibrant Torah Leadership"><span>Illustrated Mishna</span></a><h1>Sages</h1><div>Tannaim and amoraim by generation and place. Tap a name for the relationship box.</div></header><div class="banner">Draft for review. <a href="index.html">All tractates</a></div><main><div id="sgpage"></div></main><footer>English: smoothed by Claude from the William Davidson Edition (Koren), via Sefaria, CC BY-NC 4.0. <a href="#" class="aboutlink">Sources and credits</a></footer><div class="about" id="about" hidden><div class="abox"><button class="gx" type="button" aria-label="Close">×</button><h3>Sources and credits</h3><p>Hebrew: Mishnah, ed. Romm, Vilna 1913 (public domain).</p><p>English: a smoothed rendering written by Claude from the Hebrew and the William Davidson Edition (Koren, based on the Steinsaltz Talmud), via Sefaria, licensed CC BY-NC 4.0. A draft under review.</p><p>Hebrew explanation (biur): Rabbi Adin Even-Israel Steinsaltz, William Davidson Edition, via Sefaria, CC BY-NC 4.0.</p><p>Outlines, charts, glossary and diagrams were drafted by Claude (Anthropic) from the mishnah and Kehati, in our own words, and are under review.</p><p>The illustrations are AI-generated; the round symbols are interim. Prototype for discussion, not for distribution.</p></div></div><script>(function(){var a=document.getElementById('about');if(!a)return;document.addEventListener('click',function(e){var l=e.target.closest&&e.target.closest('.aboutlink');if(l){e.preventDefault();a.hidden=!a.hidden;return}if(!a.hidden&&(e.target.closest('.gx')||!e.target.closest('.abox')))a.hidden=true});document.addEventListener('keydown',function(e){if(e.key==='Escape')a.hidden=true})})()</script><script>
+(function(){
+var root=document.documentElement, sel=null, LL={pick:'Pick a badge from the tray first, then tap where it belongs.',tapPart:'Tap on the part of the picture you mean.',right:'Right!',rightLater:'Right, on another try.',principle:'The principle:',wrong:'Not that one. Look at the picture again and try another badge.',shown:'Answers shown.',hideAll:'Hide all',showAll:'Show all',score:function(ok,n,d){return 'Quiz: '+ok+' of '+n+' right on the first try'+(d<n?' ('+(n-d)+' still to place)':'')},allPlaced:function(ok,n){return 'All placed: '+ok+' of '+n+' right on the first try.'}};
+function $$(q,r){return [].slice.call((r||document).querySelectorAll(q))}
+function msg(fig,t,c){var m=fig.querySelector('.qmsg');if(m){m.innerHTML=t;m.className='qmsg qonly '+(c||'')}}
+function score(){var ok=0,n=0,done=0;$$('.v[data-mode=i]').filter(function(f){return f.offsetParent!==null&&f.querySelector('.tray')}).forEach(function(f){$$('.hot',f).forEach(function(h){n++;if(h._done)done++;if(h._first)ok++})});var e=document.getElementById('qscore');if(e)e.textContent=LL.score(ok,n,done)}
+function resetQuiz(){sel=null;$$('.ghost').forEach(function(g){g.remove()});$$('.stage').forEach(function(st){var hs=$$('.hot',st);hs.forEach(function(h,i){st._set(i,false);h.classList.remove('ok','wrong','right','over','gave');h._t=0;h._first=false;h._done=false});$$('.qchip',st).forEach(function(c){c.classList.remove('ok','wrong','over','gave')});var f=st.parentElement;$$('.tb',f).forEach(function(b){b.classList.remove('sel')});msg(f,'')});score()}
+function select(fig,b){var same=sel&&sel.fig===fig&&sel.kind===b.dataset.k;$$('.tb.sel').forEach(function(x){x.classList.remove('sel')});if(same){sel=null;return}sel={fig:fig,kind:b.dataset.k};b.classList.add('sel')}
+function finished(st){var hs=$$('.hot',st);if(hs.every(function(h){return h._done})){var ok=hs.filter(function(h){return h._first}).length;if(hs.length>1){var q=st.parentElement.querySelector('.qmsg');if(q)q.textContent+=' '+LL.allPlaced(ok,hs.length)}}}
+function nearest(st,x,y){var best=-1,bd=1e9,ba=1e9,R=st.getBoundingClientRect();if(x<R.left-24||x>R.right+24||y<R.top-24||y>R.bottom+24)return null;st._hs.forEach(function(h,i){var r=h.getBoundingClientRect(),dx=Math.max(r.left-x,0,x-r.right),dy=Math.max(r.top-y,0,y-r.bottom),d=Math.hypot(dx,dy),a=r.width*r.height;if(d<bd-0.5||(Math.abs(d-bd)<=0.5&&a<ba)){best=i;bd=d;ba=a}});if(st._hs.length>1&&bd>140)return null;return best<0?null:st._hs[best]}
+function mark0(st,h){var c=chip(st,h);if(c)c.classList.remove('over')}
+function chip(st,h){return st.querySelector('.qchip[data-h="'+st._hs.indexOf(h)+'"]')}
+function mark(st,h,cls,ms){var c=chip(st,h);if(!c)return;c.classList.add(cls);if(ms)setTimeout(function(){c.classList.remove(cls)},ms)}
+function place(st,h,k){if(h._done)return;var fig=st.parentElement,i=st._hs.indexOf(h);if(k===h.dataset.ans){h._first=!(h._t>0);h._done=true;st._set(i,true);h.classList.add('ok','right');mark(st,h,'ok');setTimeout(function(){h.classList.remove('right')},900);msg(fig,(h._first?LL.right:LL.rightLater)+(h.dataset.pr?' '+LL.principle+' '+h.dataset.pr:''),'good');finished(st)}else{h._t=(h._t||0)+1;h.classList.add('wrong');mark(st,h,'wrong',500);setTimeout(function(){h.classList.remove('wrong')},500);msg(fig,LL.wrong,'bad')}score()}
+$$('.seg').forEach(function(g){var k=g.dataset.key,K={aud:'mAud',mode:'mMode',terms:'mTerms',eng:'mEng',units:'mUnits'}[k];function sync(){$$('button',g).forEach(function(b){b.setAttribute('aria-pressed',b.dataset.v===root.dataset[k])})}sync();$$('button',g).forEach(function(b){b.addEventListener('click',function(){root.dataset[k]=b.dataset.v;try{localStorage.setItem(K,b.dataset.v)}catch(e){}sync();if(k==='mode')resetQuiz();else if(k==='aud')score()})})});
+$$('.stage').forEach(function(st){var hs=$$('.hot',st),fig=st.parentElement;function set(i,on){hs[i].setAttribute('aria-pressed',on);$$('.ov[data-h="'+i+'"]',st).forEach(function(o){o.classList.toggle('on',on)})}st._set=set;st._hs=hs;
+hs.forEach(function(h,i){h.addEventListener('click',function(){if(root.dataset.mode==='q'){if(!sel||sel.fig!==fig){msg(fig,LL.pick,'');return}place(st,h,sel.kind)}else set(i,h.getAttribute('aria-pressed')!=='true')})});
+st.addEventListener('click',function(e){if(root.dataset.mode!=='q'||e.target.closest&&e.target.closest('.hot')&&e.detail===0)return;if(!sel||sel.fig!==fig){msg(fig,LL.pick,'');return}var h=nearest(st,e.clientX,e.clientY);if(!h){msg(fig,LL.tapPart,'');return}place(st,h,sel.kind)});
+var btn=fig.querySelector('.all');if(btn)btn.addEventListener('click',function(){var on=btn.dataset.on!=='1';hs.forEach(function(_,i){set(i,on)});btn.dataset.on=on?'1':'';btn.textContent=on?LL.hideAll:LL.showAll});
+var show=fig.querySelector('.qshow'),rs=fig.querySelector('.qreset');
+if(show)show.addEventListener('click',function(){hs.forEach(function(h,i){if(!h._done){h._done=true;h._first=false;set(i,true);h.classList.add('ok','gave');mark(st,h,'ok');mark(st,h,'gave')}});msg(fig,LL.shown,'');score()});
+if(rs)rs.addEventListener('click',function(){sel=null;hs.forEach(function(h,i){set(i,false);h.classList.remove('ok','wrong','right','over','gave');h._t=0;h._first=false;h._done=false});$$('.qchip',st).forEach(function(c){c.classList.remove('ok','wrong','over','gave')});$$('.tb',fig).forEach(function(b){b.classList.remove('sel')});msg(fig,'');score()});
+$$('.tb',fig).forEach(function(b){
+b.addEventListener('click',function(e){if(e.detail===0&&root.dataset.mode==='q')select(fig,b)});
+b.addEventListener('pointerdown',function(e){if(root.dataset.mode!=='q')return;e.preventDefault();$$('.ghost').forEach(function(g){g.remove()});var sx=e.clientX,sy=e.clientY,ghost=null,over=null,fin=false;try{b.setPointerCapture(e.pointerId)}catch(x){}
+function tgt(x,y){return nearest(st,x,y)}
+function mv(ev){if(fin)return;if(ev.pointerType==='mouse'&&ev.buttons===0){up({type:'pointercancel'});return}if(!ghost&&Math.hypot(ev.clientX-sx,ev.clientY-sy)>6){ghost=b.querySelector('img').cloneNode();ghost.className='ghost';document.body.appendChild(ghost)}if(ghost){ghost.style.left=ev.clientX+'px';ghost.style.top=ev.clientY+'px';var t=tgt(ev.clientX,ev.clientY);if(over&&over!==t)mark0(st,over);if(t)chip(st,t)&&chip(st,t).classList.add('over');over=t}}
+var EV=['pointermove','pointerup','pointercancel','lostpointercapture'];
+function stop(){up({type:'pointercancel'})}
+function key(k){if(k.key==='Escape')stop()}
+function up(ev){if(fin)return;fin=true;EV.forEach(function(n){var f=n==='pointermove'?mv:up;b.removeEventListener(n,f);document.removeEventListener(n,f,true)});window.removeEventListener('blur',stop);document.removeEventListener('keydown',key,true);document.removeEventListener('contextmenu',stop,true);document.removeEventListener('visibilitychange',stop);if(over)mark0(st,over);if(ghost){ghost.remove();ghost=null;var t=ev.type==='pointerup'?tgt(ev.clientX,ev.clientY):null;if(t){sel={fig:fig,kind:b.dataset.k};place(st,t,b.dataset.k)}}else if(ev.type==='pointerup')select(fig,b)}
+EV.forEach(function(n){var f=n==='pointermove'?mv:up;b.addEventListener(n,f);document.addEventListener(n,f,true)});window.addEventListener('blur',stop);document.addEventListener('keydown',key,true);document.addEventListener('contextmenu',stop,true);document.addEventListener('visibilitychange',stop)})})});
+var L=$$('.pills a[href^="#"]');var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){L.forEach(function(a){a.classList.toggle('on',a.getAttribute('href')==='#'+e.target.id)})}})},{rootMargin:'-30% 0px -60% 0px'});$$('section').forEach(function(s){io.observe(s)});
+(function(){var b=document.querySelectorAll('.tord button[data-o]'),ab=document.querySelector('.tord [data-all]');if(!b.length)return;var dl=document.querySelector('.tlist'),it=[].slice.call(dl.children);it.forEach(function(e,i){e.dataset.i=i});var az=document.querySelector('.tord [data-o=en]');ab.onclick=function(){var open=ab.textContent==='Open all';it.forEach(function(e){e.open=open});ab.textContent=open?'Collapse all':'Open all'};b.forEach(function(x){x.onclick=function(){var o=x.dataset.o;b.forEach(function(y){y.classList.toggle('on',y===x)});it.slice().sort(function(a,c){return o==='i'?a.dataset.i-c.dataset.i:a.dataset[o].localeCompare(c.dataset[o],o==='he'?'he':'en')}).forEach(function(e){dl.appendChild(e)})}});az.click()})();
+(function(){var g=document.querySelector('.gear'),o=document.querySelector('.opts');if(!g||!o)return;g.onclick=function(e){e.stopPropagation();var v=o.classList.toggle('open');g.setAttribute('aria-expanded',v)};document.addEventListener('click',function(e){if(!o.contains(e.target)&&e.target!==g){o.classList.remove('open');g.setAttribute('aria-expanded','false')}})})();
+(function(){var E=document.getElementById('ms');if(!E)return;var M=JSON.parse(E.textContent),U=M.units,root=document.documentElement,pop=null;function ee(x){return String(x).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function fmt(cc){var us=root.dataset.units!=='metric';if(!us){return cc>=1000?(cc/1000).toFixed(cc>=10000?0:2).replace(/\.?0+$/,'')+' liters':Math.round(cc)+' ml'}var oz=cc/29.5735;if(oz<32)return oz.toFixed(1)+' fl oz ('+(oz/8).toFixed(1)+' cups)';if(oz<128)return (oz/32).toFixed(1)+' quarts';var g=oz/128;return g.toFixed(g<10?1:0)+' gallons'}
+function short(u){if(u.family==='eating')return fmtSmall(ccOf(u))+(u.approx?'+':'');if(u.family==='distance')return distLabel(u);if(u.family==='weight')return fmtWt(u.g);if(u.family==='length')return fmtLen(u.cm);if(u.family==='area')return fmtArea(u.sqm);if(u.family==='money')return u.ratio===1?'1 perutah':u.ratio.toLocaleString('en-US')+' perutot';return fmt(u.cc).replace(/ \(.*\)/,'').replace(/(\d+)\.\d+ gallons/,'$1 gallons').replace(/(\d+)\.0 fl oz/,'$1 fl oz')}
+function fmtLen(cm){var us=root.dataset.units!=='metric';if(!us)return cm>=100?(cm/100).toFixed(2).replace(/\.?0+$/,'')+' m':(cm%1?cm.toFixed(1):cm)+' cm';var i=cm/2.54;return i<36?i.toFixed(i<10?2:1).replace(/\.?0+$/,'')+' in':(i/12).toFixed(1)+' ft'}
+function fmtArea(m2){var us=root.dataset.units!=='metric';if(!us)return m2>=10000?(m2/10000).toFixed(2).replace(/\.?0+$/,'')+' hectares':Math.round(m2).toLocaleString('en-US')+' m\u00b2';var sf=m2*10.7639;return sf>=43560?(sf/43560).toFixed(1)+' acres':Math.round(sf/10)*10>=1000?(Math.round(sf/50)*50).toLocaleString('en-US')+' sq ft':Math.round(sf)+' sq ft'}
+function fmtWt(g){var us=root.dataset.units!=='metric';if(!us)return g>=1000?(g/1000).toFixed(2).replace(/\.?0+$/,'')+' kg':(g%1?g.toFixed(1):g)+' g';var oz=g/28.3495;return oz<16?oz.toFixed(oz<1?2:1)+' oz':(g/453.592).toFixed(2)+' lb'}
+function distLabel(u){var us=root.dataset.units!=='metric';return fmtDist(u.m)+(us&&u.kmnote?' ('+u.kmnote+')':'')}
+function fmtDist(m){var us=root.dataset.units!=='metric';if(!us)return m>=1000?(m/1000).toFixed(2).replace(/\.?0+$/,'')+' km':Math.round(m)+' m';var ft=m*3.28084;return ft<1320?Math.round(ft/10)*10+' ft':(m/1609.344).toFixed(1).replace(/\.0$/,'')+' miles'}
+var vfilter='all',eopin='rashi';
+function ccOf(u){return u['cc_'+eopin]||u.cc}
+function fmtSmall(cc){var us=root.dataset.units!=='metric';return us?(cc/29.5735).toFixed(1)+' fl oz':Math.round(cc)+' cc'}
+function dim(u){var f=u.family;if(f==='eating')return Math.cbrt(ccOf(u));if(f==='weight')return Math.cbrt(u.g);return f==='money'?Math.cbrt(u.ratio):f==='volume'?Math.cbrt(u.cc):f==='length'?u.cm:Math.sqrt(u.sqm)}
+function amount(u){if(u.family==='eating')return 'About <b>'+fmtSmall(ccOf(u))+'</b>'+(u.approx?' (more than this, and it varies by person)':'');if(u.family==='money')return u.ratio===1?'the smallest coin':'= '+u.ratio.toLocaleString('en-US')+' perutot';if(u.family==='distance')return 'About <b>'+distLabel(u)+'</b>';if(u.family==='weight')return 'About <b>'+fmtWt(u.g)+'</b> of silver';if(u.family==='length')return 'About <b>'+fmtLen(u.cm)+'</b>';if(u.family==='area')return 'About <b>'+fmtArea(u.sqm)+'</b>';return 'About <b>'+fmt(u.cc)+'</b>'}
+function frac(r){if(r>=1)return r===Math.round(r)?String(r):r.toFixed(1);var d=1/r;return Math.abs(d-Math.round(d))<1e-9?'1/'+Math.round(d):r.toFixed(2)}
+var MET={copper:['#c98a5a','#9a5a2c'],silver:['#d8d8dc','#6a6a72'],gold:['#f0c030','#a07800']};
+function ladderDist(sel){var u0=U[sel],L=M.ladders.distance,mx=U[L[L.length-1]].m,LW=118,BW=380,sc=BW/mx,W=LW+BW+150,rowH=72,out='<svg viewBox="0 0 '+W+' '+(L.length*rowH+8)+'" width="100%" style="display:block;margin:0 auto;max-width:'+Math.round(W*1.25)+'px" role="img" aria-label="Distances drawn to scale as roads">'+(M.images.road?'<defs><pattern id="road" patternUnits="userSpaceOnUse" width="'+(36*M.images.road.ar)+'" height="36"><image href="'+M.images.road.src+'" width="'+(36*M.images.road.ar)+'" height="36" preserveAspectRatio="none"/></pattern></defs>':'');
+L.forEach(function(k,i){var u=U[k],on=k===sel,y=i*rowH+10,w=Math.max(6,u.m*sc),r=u.ratio/u0.ratio,t='';out+='<g data-k="'+k+'" tabindex="0" role="button" aria-label="Compare everything to one '+ee(u.tr)+'" style="cursor:pointer"><rect x="0" y="'+(y-4)+'" width="'+W+'" height="'+(rowH-6)+'" fill="transparent"/><text x="'+(LW-10)+'" y="'+(y+16)+'" font-size="13" text-anchor="end" font-weight="'+(on?700:500)+'" fill="currentColor">'+ee(u.tr)+'</text><text x="'+(LW-10)+'" y="'+(y+36)+'" font-size="14" text-anchor="end" font-weight="'+(on?700:400)+'" fill="currentColor" lang="he">'+ee(u.he)+'&#8207;</text>';
+out+='<rect x="'+LW+'" y="'+y+'" width="'+w+'" height="36" rx="4" fill="'+(M.images.road?'url(#road)':(on?'#e0b24a':'#d8bf8f'))+'" stroke="'+(on?'#1b3a8a':'#5a4a38')+'" stroke-width="'+(on?4:1.2)+'"/>';
+var ticks=k==='parsah'?4:0;for(var n=1;n<ticks;n++)out+='<line x1="'+(LW+w*n/ticks)+'" x2="'+(LW+w*n/ticks)+'" y1="'+y+'" y2="'+(y+(k==='parsah'?36:16))+'" stroke="#f5ecd9" stroke-width="'+(k==='parsah'?1.6:.8)+'"/>';
+out+='<text x="'+(LW+w+10)+'" y="'+(y+24)+'" font-size="12" font-weight="800" fill="#2a1700" stroke="#fff6e0" stroke-width="3" paint-order="stroke">'+frac(r)+'</text><text x="'+(LW+w+10+(String(frac(r)).length*9+8))+'" y="'+(y+24)+'" font-size="11.5" font-weight="'+(on?700:500)+'" fill="currentColor">\u2248 '+ee(fmtDist(u.m))+'</text>'+(root.dataset.units!=='metric'&&u.kmnote?'<text x="'+(LW+w+10)+'" y="'+(y+44)+'" font-size="11" font-style="italic" fill="currentColor">('+ee(u.kmnote)+')</text>':'')+'</g>'});return out+'</svg>'}
+function ladder(sel){if(U[sel].family==='distance')return ladderDist(sel);var u0=U[sel],fam=u0.family,L=(fam==='volume'&&vfilter!=='all')?M.ladders['volume_'+vfilter]:(fam==='volume'?M.ladders.volume_all:(fam==='eating'?M.ladders.eating.slice().sort(function(a,b){return ccOf(U[a])-ccOf(U[b])}):M.ladders[fam])),money=fam==='money',dfs=(fam==='money'||fam==='eating')?0:2,gp=fam==='eating'?26:(money?30:((fam==='area'||fam==='weight')?34:14)),max=U[L[L.length-1]],H=money?260:(fam==='eating'?150:(fam==='length'?85:200)),sc=H/dim(max),x=money?6:40,W=money?6:40,base=H+(money?20:16),out='';L.forEach(function(k){var u=U[k],v=(k==='dinarzahav'?Math.cbrt(2*U.dinar.ratio):dim(u))*sc,h=Math.max((money||fam==='length'||fam==='area'||fam==='weight'||fam==='eating')?8:14,v);u._h=h;var im=(M.images&&(money?(k==='maneh'?M.images.maneh:M.images['coin_'+(u.metal||'silver')]):M.images[(fam==='volume'&&vfilter!=='all')?(vfilter==='liquid'?'liquid':'dry'):(fam==='weight'?'weight':(fam==='eating'&&M.images['e_'+u.shape]?'e_'+u.shape:u.kind))]))||null;u._im=im;u._w=money?h:h*(im?im.ar:.85);u._hh=(money&&im)?h/im.ar:h;if(fam==='eating'){if(im&&im.wf){u._w=im.wf*v;u._h=u._w/im.ar}else if(im&&im.hf){u._h=im.hf*v;u._w=u._h*im.ar}else u._w=h*({olive:1.5,egg:.82,fig:1.05,bread:1.4,cup:.82}[u.shape]||1)}if(fam==='length')u._w=27;if(fam==='area')u._w=h;if(fam==='weight')u._w=h*(im?im.ar:1.1);if(k==='maneh'){u._w=Math.cbrt(U.sela.ratio)*sc;u._th=Math.max(2.6,u._w*.08);u._h=25*u._th}if(k==='maneh'&&u._im){u._hh=u._w/u._im.ar;u._h=u._hh}u._s=Math.max(u._w,money?62:(fam==='area'?78:50));u._L=(fam==='eating'&&im&&im.lx!=null)?u._w*im.lx+(u._s-u._w)/2:u._s/2;W+=u._s+gp});W+=money?12:18;if(fam==='volume')base+=34;out='<svg viewBox="0 0 '+W+' '+(base+(money?102:66))+'" width="100%" style="display:block;margin:0 auto;max-width:'+Math.round(W*1.3)+'px" role="img" aria-label="Measures drawn in proportion; each is marked with how many of the highlighted one it equals">'+'<defs><pattern id="plow" width="96" height="176" patternUnits="userSpaceOnUse"><image href="img/measures/plow.jpg" width="96" height="176" preserveAspectRatio="none"/></pattern><linearGradient id="gsl" x1="0" x2="1"><stop offset="0" stop-color="#b3b4bb"/><stop offset=".45" stop-color="#f1f1f5"/><stop offset="1" stop-color="#9fa0a8"/></linearGradient></defs><line x1="0" x2="'+W+'" y1="'+base+'" y2="'+base+'" stroke="#b8ad98" stroke-width="1.6"/>';
+L.forEach(function(k,ix){var u=U[k],on=k===sel,r=(fam==='eating'?ccOf(u)/ccOf(u0):u.ratio/u0.ratio),cx=x+u._L,bx=cx-u._w*((fam==='eating'&&u._im&&u._im.lx!=null)?u._im.lx:.5),end=(ix===0||ix===L.length-1),lastm=money&&ix===L.length-1,ax=cx,an='middle',small=u._w<(money?30:28),fs=(small?11-dfs:Math.max(11-dfs,Math.min(20-dfs,u._w*.4)))*((k==='wdinar'||k==='wshekel')?.8:1),y=base-u._h,f=on?'#d9a21b':(money?'#c8c8cc':'#c9a574'),st=on?'#6b4700':(money?'#6a6a72':'#6b4f2b'),shape,ty;
+if(money){var mc=MET[u.metal]||MET.silver;if(k==='maneh'&&!u._im){var q='',n,ry=u._w*.14,st2=on?'#1b3a8a':'#7b7b84',th=u._th;for(n=0;n<25;n++){var jx=((n*37)%5-2)*.5,yb=base-n*th-ry*.55,yt=yb-th;q+='<ellipse cx="'+(cx+jx)+'" cy="'+yb+'" rx="'+(u._w/2)+'" ry="'+ry+'" fill="#a4a5ad" stroke="'+st2+'" stroke-width=".5"/><rect x="'+(bx+jx)+'" y="'+yt+'" width="'+u._w+'" height="'+th+'" fill="url(#gsl)" stroke="none"/><line x1="'+(bx+jx)+'" x2="'+(bx+jx)+'" y1="'+yt+'" y2="'+yb+'" stroke="'+st2+'" stroke-width=".7"/><line x1="'+(bx+jx+u._w)+'" x2="'+(bx+jx+u._w)+'" y1="'+yt+'" y2="'+yb+'" stroke="'+st2+'" stroke-width=".7"/>'}var ty0=base-25*th-ry*.55-th;q+='<ellipse cx="'+cx+'" cy="'+ty0+'" rx="'+(u._w/2)+'" ry="'+ry+'" fill="#ececf0" stroke="'+(on?'#1b3a8a':'#6a6a72')+'" stroke-width="'+(on?2.2:1)+'"/><ellipse cx="'+cx+'" cy="'+ty0+'" rx="'+(u._w/2*.78)+'" ry="'+(ry*.78)+'" fill="none" stroke="#9a9aa2" stroke-width=".6"/>';shape=q;u._top=ty0;ty=base-u._h/2+fs*.35}else if(u._im){var hh=u._hh;shape=(on?(k==='maneh'?'<rect x="'+(bx-3)+'" y="'+(base-hh-3)+'" width="'+(u._w+6)+'" height="'+(hh+6)+'" rx="8" fill="none" stroke="#1b3a8a" stroke-width="3"/>':'<circle cx="'+cx+'" cy="'+(base-hh/2)+'" r="'+(Math.max(u._w,hh)/2+3)+'" fill="none" stroke="#1b3a8a" stroke-width="3"/>'):'')+'<image href="'+u._im.src+'" x="'+bx+'" y="'+(base-hh)+'" width="'+u._w+'" height="'+hh+'" preserveAspectRatio="none"/>';ty=small?base-hh-6:base-hh/2+fs*.35}else{shape='<circle cx="'+cx+'" cy="'+(base-u._h/2)+'" r="'+(u._h/2)+'" fill="'+mc[0]+'" stroke="'+(on?'#1b3a8a':mc[1])+'" stroke-width="'+(on?3:1.2)+'"/><circle cx="'+cx+'" cy="'+(base-u._h/2)+'" r="'+(u._h/2*.78)+'" fill="none" stroke="'+mc[1]+'" stroke-width=".7" opacity=".7"/>';ty=small?y-6:base-u._h/2+fs*.35}}
+else if(fam==='length'){var rm=M.images.ruler,BW=27,HB=BW/2;shape=(rm?'<svg x="'+(cx-HB)+'" y="'+y+'" width="'+BW+'" height="'+u._h+'" viewBox="0 0 '+rm.w+' '+rm.h+'" preserveAspectRatio="xMidYMin slice"><image href="'+rm.src+'" width="'+rm.w+'" height="'+rm.h+'"/></svg><rect x="'+(cx-HB)+'" y="'+y+'" width="'+BW+'" height="'+u._h+'" fill="none" stroke="'+(on?'#1b3a8a':'#6b4f2b')+'" stroke-width="'+(on?3:1.2)+'"/>':'<rect x="'+(cx-HB)+'" y="'+y+'" width="'+BW+'" height="'+u._h+'" rx="2" fill="'+(on?'#e0b24a':'#d8bf8f')+'" stroke="'+(on?'#6b4700':'#8a6f3c')+'" stroke-width="'+(on?2.5:1.2)+'"/>')+(function(){var t='',n;for(n=1;n<u._h/8;n++)t+='<line x1="'+(cx-HB)+'" x2="'+(cx-HB+(n%4?7:13))+'" y1="'+(base-n*8)+'" y2="'+(base-n*8)+'" stroke="#5a4426" stroke-width=".7"/>';return t})();ty=y-6}
+else if(fam==='eating'&&!u._im){var fc={olive:['#7d8a3c','#4c5722'],egg:['#f4ecd8','#9c8f6f'],fig:['#8a5a44','#4e2f22'],bread:['#dfae6c','#8a5f2a'],cup:['#c9a574','#6b4f2b']}[u.shape]||['#ccc','#666'],ed=u.shape==='bread'?'<rect x="'+bx+'" y="'+y+'" width="'+u._w+'" height="'+u._h+'" rx="'+(u._h*.35)+'" fill="'+fc[0]+'" stroke="'+(on?'#1b3a8a':fc[1])+'" stroke-width="'+(on?3:1.4)+'"/><path d="M'+(bx+u._w*.12)+' '+(y+u._h*.4)+' Q'+cx+' '+(y+u._h*.1)+' '+(bx+u._w*.88)+' '+(y+u._h*.4)+'" fill="none" stroke="'+fc[1]+'" stroke-width="1.2" opacity=".6"/>':'<ellipse cx="'+cx+'" cy="'+(base-u._h/2)+'" rx="'+(u._w/2)+'" ry="'+(u._h/2)+'" fill="'+fc[0]+'" stroke="'+(on?'#1b3a8a':fc[1])+'" stroke-width="'+(on?3:1.4)+'"/>';shape=ed;ty=small?y-6:base-u._h/2+fs*.35}
+else if(fam==='weight'&&u._im){shape=(on?'<ellipse cx="'+cx+'" cy="'+(base+1)+'" rx="'+(u._w*.62)+'" ry="4.5" fill="#d9a21b" opacity=".9"/>':'')+'<image href="'+u._im.src+'" x="'+bx+'" y="'+y+'" width="'+u._w+'" height="'+u._h+'" preserveAspectRatio="none"/>';ty=small?y-6:y+u._h*.62+fs*.35}
+else if(fam==='weight'){var wk=u._w*.09;shape='<path d="M'+bx+' '+base+' L'+(bx+u._w)+' '+base+' L'+(bx+u._w*.86)+' '+(y+u._h*.34)+' Q'+cx+' '+(y+u._h*.12)+' '+(bx+u._w*.14)+' '+(y+u._h*.34)+' Z" fill="'+(on?'#b08a4a':'#8d8478')+'" stroke="'+(on?'#1b3a8a':'#4d463c')+'" stroke-width="'+(on?3:1.4)+'"/><ellipse cx="'+cx+'" cy="'+(y+u._h*.2)+'" rx="'+(u._w*.12)+'" ry="'+(u._h*.1)+'" fill="'+(on?'#b08a4a':'#8d8478')+'" stroke="'+(on?'#1b3a8a':'#4d463c')+'" stroke-width="1.2"/>';ty=small?y-6:base-u._h*.3+fs*.35}
+else if(fam==='area'){shape='<rect x="'+bx+'" y="'+y+'" width="'+u._w+'" height="'+u._h+'" fill="url(#plow)" stroke="'+(on?'#1b3a8a':'#5a3b1e')+'" stroke-width="'+(on?3:1.4)+'"/>';ty=small?y-6:y+u._h/2+fs*.35}
+else if(u._im){shape=(on?'<ellipse cx="'+cx+'" cy="'+(base+1)+'" rx="'+(u._w*.62)+'" ry="4.5" fill="#d9a21b" opacity=".9"/>':'')+'<image href="'+u._im.src+'" x="'+bx+'" y="'+y+'" width="'+u._w+'" height="'+u._h+'" preserveAspectRatio="none"/>';ty=small?y-6:y+u._h*((fam==='eating'&&u._im.ly)?u._im.ly:.62)+fs*.35}
+else{shape='<path d="M'+bx+' '+y+' L'+(bx+u._w)+' '+y+' L'+(bx+u._w*.9)+' '+base+' L'+(bx+u._w*.1)+' '+base+' Z" fill="'+f+'" stroke="'+st+'" stroke-width="'+(on?2.5:1.2)+'"/><ellipse cx="'+cx+'" cy="'+y+'" rx="'+(u._w/2)+'" ry="'+Math.max(2.5,u._w*.07)+'" fill="#efe1c3" stroke="'+st+'"/>';ty=small?y-6:y+u._h*.58+fs*.35}
+out+='<g data-k="'+k+'" tabindex="0" role="button" aria-label="Compare everything to one '+ee(u.tr)+'" style="cursor:pointer"><rect x="'+x+'" y="'+(Math.min(y,ty-fs)-(k==='ephah'&&fam==='volume'?u._h+36:0))+'" width="'+u._s+'" height="'+(base+70-Math.min(y,ty-fs)+(k==='ephah'&&fam==='volume'?u._h+36:0))+'" fill="transparent"/>'+shape+'<text x="'+((fam==='eating'&&u._im&&u._im.lbx!=null)?bx+u._w*u._im.lbx:cx)+'" y="'+ty+'" font-size="'+fs+'" text-anchor="middle" fill="#2a1700" stroke="#fff6e0" stroke-width="2.6" paint-order="stroke" font-weight="800">'+frac(r)+'</text><text x="'+cx+'" y="'+(base+19)+'" font-size="'+(15-dfs)+'" text-anchor="middle" fill="currentColor" font-weight="'+(on?700:500)+'">'+ee(u.tr)+'</text><text x="'+cx+'" y="'+(base+38)+'" font-size="'+(16-dfs)+'" text-anchor="middle" fill="currentColor" font-weight="'+(on?700:400)+'" lang="he">'+ee(u.he)+'&#8207;</text>'+(money?'<text x="'+ax+'" y="'+(base+55)+'" font-size="13" font-style="italic" text-anchor="'+an+'" fill="currentColor" font-weight="500">'+ee(u.metal||'')+'</text>'+(k==='maneh'?'<text x="'+ax+'" y="'+(base+73)+'" font-size="13" font-style="italic" text-anchor="middle" fill="currentColor" font-weight="500">(25 sela; 100 dinar/zuz)</text>':''):'')+(u.note?'<text x="'+ax+'" y="'+(base+(money?73:75))+'" font-size="12.5" font-style="italic" text-anchor="middle" fill="currentColor" font-weight="500">'+ee(u.note)+'</text>':'')+((end||(on&&!money))?'<text x="'+ax+'" y="'+(base+(money?(k==='maneh'?91:73):57))+'" font-size="'+(13.5-dfs)+'" text-anchor="'+an+'" fill="currentColor" font-weight="'+(on?700:500)+'">≈ '+ee(short(u))+'</text>':'')+'</g>';x+=u._s+gp});return out+'</svg>'}
+function walkPanel(sel){var u=U[sel];if(u.family!=='distance'||!M.images.walker)return '';var im=M.images.walker,mins=u.ratio*18,t=mins<2?'about a minute':(mins>=60?'about '+Math.floor(mins/60)+' hour'+(mins>=120?'s':'')+(Math.round(mins%60)?' '+Math.round(mins%60)+' minutes':''):'about '+Math.round(mins)+' minutes');return '<div class="mwalk" style="display:flex;align-items:center;gap:14px;margin:8px 0 2px"><img src="'+im.src+'" alt="A traveller walking" style="height:120px;width:auto"><div style="font-size:14px"><b>On foot:</b> '+t+'\u2019 walk'+(sel==='mil'?'':', at 18 minutes to the mil')+' (Shulchan Arukh, Orach Chayim 459:2; others say 22.5 or 24 minutes).</div></div>'}
+function handPanel(sel){if(U[sel].family!=='length'||!M.hand)return '';var H=M.hand,spread=sel==='zeret',im=spread?H.spread:H.closed;
+function br(a,on,lab,lx,ly,anc,hz){var x1=a[0],y1=a[1],x2=a[2],y2=a[3],col=on?'#1b3a8a':'#6f7a91',w=on?8:4.5,t=hz?[0,-18]:[-18,0];return '<g'+(on?'':' opacity=".9"')+'><line x1="'+x1+'" y1="'+y1+'" x2="'+x2+'" y2="'+y2+'" stroke="'+col+'" stroke-width="'+w+'"/>'+(hz?'<line x1="'+x1+'" y1="'+(y1-18)+'" x2="'+x1+'" y2="'+(y1+18)+'" stroke="'+col+'" stroke-width="'+w+'"/><line x1="'+x2+'" y1="'+(y2-18)+'" x2="'+x2+'" y2="'+(y2+18)+'" stroke="'+col+'" stroke-width="'+w+'"/>':'<line x1="'+(x1-18)+'" y1="'+y1+'" x2="'+(x1+18)+'" y2="'+y1+'" stroke="'+col+'" stroke-width="'+w+'"/><line x1="'+(x2-18)+'" y1="'+y2+'" x2="'+(x2+18)+'" y2="'+y2+'" stroke="'+col+'" stroke-width="'+w+'"/>')+'<text x="'+lx+'" y="'+ly+'" font-size="34" text-anchor="'+anc+'" font-weight="'+(on?700:500)+'" fill="'+col+'" stroke="#fff" stroke-width="8" paint-order="stroke">'+lab+'</text></g>'}
+var o='<div class="mhand"><div style="font-size:13px;margin:6px 0 0">Where this falls on the arm and hand, approximately <span style="opacity:.75">(a real arm varies; the measures are fixed)</span></div><svg viewBox="0 0 '+H.w+' '+H.h+'" width="100%" style="display:block;margin:0 auto;max-width:440px" role="img" aria-label="An arm and hand with the finger, handbreadth, span and cubit marked"><image href="'+im.src+'" x="0" y="0" width="'+H.w+'" height="'+H.h+'"/>';
+if(spread){var z=im.zeret;o+=br(z,true,'zeret',(z[0]+z[2])/2+34,(z[1]+z[3])/2,'start')}
+else{var e=im.etzba,t=im.tefach,a=im.amah;o+=br(e,sel==='etzba','etzba',e[0]+30,(e[1]+e[3])/2+12,'start');o+=br(t,sel==='tefach','tefach',t[0]-30,(t[1]+t[3])/2+12,'end');o+=br(a,sel==='amah','amah (elbow to middle fingertip)',(a[0]+a[2])/2,a[1]+52,'middle',true)}
+o+='</svg></div>';return o}
+function close(){if(pop){pop.remove();pop=null}}
+function altName(u){return u.alt?' ('+ee(u.alt)+')':''}
+function refUI(u){var fam=u.family,t='<div class="mtabs" role="tablist">';Object.keys(M.family_names).forEach(function(f){t+='<button type="button" data-fam="'+f+'" class="'+(f===fam?'on':'')+'">'+ee(M.family_names[f])+'</button>'});t+='</div>';if(fam==='eating'){t+='<div class="mvf eo"><span>Opinion</span>';[['rashi','Rashi (zayit \u00bd egg; peras 4 eggs)'],['rambam','Rambam (zayit \u2153 egg; peras 3 eggs)']].forEach(function(v){t+='<button type="button" data-eo="'+v[0]+'" class="'+(v[0]===eopin?'on':'')+'">'+v[1]+'</button>'});t+='</div>'}if(false){t+='<div class="mvf">Show: ';[['all','All'],['dry','Dry'],['liquid','Liquid']].forEach(function(v){t+='<button type="button" data-vf="'+v[0]+'" class="'+(v[0]===vfilter?'on':'')+'">'+v[1]+'</button>'});t+=(vfilter==='all'?' <span style="opacity:.75">An ephah (dry) and a bath (liquid) are the same size.</span>':'')+'</div>'}return t}
+function fill(k){var u=U[k],ref=pop.dataset.ref==='1',b=(u.buys&&u.buys.length)?'<div class="mbuys"><b>'+'In the Mishnah and Talmud'+'</b><ul>'+u.buys.map(function(t){return'<li>'+ee(t)+'</li>'}).join('')+'</ul></div>':'';pop.dataset.m=k;if(!pop.classList.contains('inline'))pop.style.width=((u.family==='money'||ref)?'min(800px,calc(100vw - 16px))':'');pop.innerHTML='<button class="gx" aria-label="Close">×</button>'+(ref?refUI(u):'')+'<h4><i>'+ee(u.tr)+'</i>'+altName(u)+' <span lang="he" dir="rtl">'+ee(u.he)+'</span></h4><div>'+amount(u)+'</div>'+ladder(k)+walkPanel(k)+handPanel(k)+b+'<div class="msrc">Tap any one to compare everything to it.'+(u.family==='volume'?' All contemporary equivalents follow R. Chaim Naeh.':'')+'</div>';pop.querySelector('.gx').addEventListener('click',close);pop.querySelectorAll('g[data-k]').forEach(function(g){g.addEventListener('click',function(e){e.stopPropagation();fill(g.dataset.k)});g.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();fill(g.dataset.k)}})});
+pop.querySelectorAll('.mtabs button').forEach(function(bt){bt.addEventListener('click',function(e){e.stopPropagation();fill(M.reference[bt.dataset.fam])})});
+pop.querySelectorAll('.mvf button[data-eo]').forEach(function(bt){bt.addEventListener('click',function(e){e.stopPropagation();eopin=bt.dataset.eo;fill(pop.dataset.m)})});pop.querySelectorAll('.mvf button[data-vf]').forEach(function(bt){bt.addEventListener('click',function(e){e.stopPropagation();vfilter=bt.dataset.vf;var cur=pop.dataset.m,L=vfilter==='all'?M.ladders.volume_all:M.ladders['volume_'+vfilter];fill(L.indexOf(cur)>=0?cur:(vfilter==='liquid'?'log':'seah'))})})}
+function place(){pop.style.top='8px';pop.style.left='50%';pop.style.transform='translateX(-50%)'}
+function open(el){var k=el.dataset.m,u=U[k];if(!u)return;var idx=String([].indexOf.call(document.querySelectorAll('.mu'),el)),again=pop&&pop.dataset.i===idx;close();if(again)return;vfilter='all';pop=document.createElement('div');pop.className='mpop';pop.dataset.i=idx;document.body.appendChild(pop);fill(k);place()}
+function openRef(fam,host){var wasRef=pop&&pop.dataset.ref==='1';close();if(wasRef&&!host)return;pop=document.createElement('div');pop.className='mpop'+(host?' inline':'');pop.dataset.ref='1';pop.dataset.i='ref';(host||document.body).appendChild(pop);fill(M.reference[fam||'volume']);if(!host)place()}
+window.openRef=openRef;
+document.addEventListener('click',function(e){var rb=e.target.closest&&e.target.closest('.refbtn');if(rb){e.preventDefault();openRef('volume');return}var t=e.target.closest&&e.target.closest('.mu');if(t){e.preventDefault();open(t)}else if(pop&&!pop.classList.contains('inline')&&!pop.contains(e.target)&&!(e.target.closest&&e.target.closest('.opts')))close()});document.addEventListener('keydown',function(e){if(e.key==='Escape'&&pop&&!pop.classList.contains('inline'))close();if((e.key==='Enter'||e.key===' ')&&e.target.classList&&e.target.classList.contains('mu')){e.preventDefault();open(e.target)}});
+var sg=document.querySelector('.seg[data-key=units]');if(sg)sg.addEventListener('click',function(){if(pop)fill(pop.dataset.m)});var host=document.getElementById('refhost');if(host){var h0=(location.hash||'').replace('#','');openRef(M.reference[h0]?h0:'volume',host)}})();
+resetQuiz();
+var GL=null;try{GL=JSON.parse(document.getElementById('gl').textContent)}catch(e){}
+var pop=null;function popsrc(el){var all=document.querySelectorAll('[data-k="'+el.dataset.k+'"]');return Array.prototype.indexOf.call(all,el)}function closePop(){if(pop){pop.remove();pop=null}}
+function ee(x){return String(x).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function openPop(el){var again=pop&&pop.dataset.k===el.dataset.k&&pop.dataset.src===String(popsrc(el));closePop();if(again)return;var k=el.dataset.k,g=GL&&GL.t[k];if(!g)return;var he=root.dataset.terms==='he';
+var head='<i>'+ee(g.tr)+'</i> ('+ee(g.en)+')';
+var h='<button class="gx" aria-label="Close">×</button><div class="gh"><b>'+head+'</b>'+(g.he?' <span lang="he" dir="rtl">'+ee(g.he)+'</span>':'')+'</div>'+(g.def?'<p>'+ee(g.def)+'</p>':'')+(g.more?'<p>'+ee(g.more)+'</p>':'')+(g.here?'<p><b>In this tractate:</b> '+ee(g.here)+'</p>':'')+(g.loc?'<div class="loc">Primary discussion: '+ee(g.loc)+'</div>':'');
+pop=document.createElement('div');pop.className='gpop';pop.dataset.k=k;pop.dataset.src=String(popsrc(el));pop.innerHTML=h;document.body.appendChild(pop);
+var r=el.getBoundingClientRect(),w=pop.offsetWidth,l=Math.min(Math.max(8,r.left),window.innerWidth-w-8);pop.style.left=(l+window.scrollX)+'px';pop.style.top=(r.bottom+window.scrollY+6)+'px';
+pop.querySelector('.gx').addEventListener('click',closePop)}
+document.addEventListener('click',function(e){var t=e.target.closest&&e.target.closest('.kt,.kt1,.kti');if(t){e.preventDefault();openPop(t);return}if(pop&&!pop.contains(e.target))closePop()});
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();if((e.key==='Enter'||e.key===' ')&&e.target.dataset&&e.target.dataset.k){e.preventDefault();openPop(e.target)}});
+})();
+
+/* Sages: relationship graph + info box. Shared by iTalmud and Illustrated Mishna (edit only here).
+   A plain script, no libraries. The host page calls
+
+     AnySages.init({base:'sages/', corpus:'bavli'|'mishnah', lang:'en'|'he',
+                    link:(corpus, tractate, place) => url,      // place: '11a' or '3:4'
+                    tractateName:(tractate) => label})          // optional
+     AnySages.open(id)                                          // a slug from sages.json
+
+   and the box opens over the page: the sage in the centre, teachers above (arrows down to him),
+   students below (arrows down from him), colleagues beside him (dotted, no arrows), family
+   under him, and an info box. Clicking another sage makes them the centre; the sages who stay in
+   the picture glide to their new places. Data: sages.json (loaded on first open) and quoted.json
+   (loaded when a reader opens "where quoted"). */
+(function () {
+  const S = { o: { base: 'sages/', corpus: 'bavli', lang: 'en' }, data: null, quoted: null, trail: [], cur: null,
+              open: {}, nodes: new Map(), box: null };
+  const HE = () => S.o.lang === 'he';
+  const W = {
+    en: { title: 'Sages', rel: 'Relationships', back: 'Back', close: 'Close', teachers: 'Teachers', students: 'Students',
+          colleagues: 'Colleagues', family: 'Family', more: '+{0} more', fewer: 'Fewer', tanna: 'Tanna', amora: 'Amora',
+          zug: 'One of the Pairs (Zugot)', gen: '{0} generation', trans: 'transitional generation', ey: 'Eretz Yisrael',
+          bavel: 'Bavel', about: 'about {0}', ce: 'CE', bce: 'BCE', born: 'born {0}', died: 'died {0}',
+          quotedB: 'Named on {0} lines of the Talmud', quotedM: 'Named in {0} mishnayot', most: 'Most in:',
+          all: 'All places', allT: 'All tractates', none: 'No teachers or students are recorded.',
+          father: 'Father', mother: 'Mother', parents: 'Parent', children: 'Children', spouse: 'Wife', in_laws: 'Father-in-law',
+          sons_in_law: 'Son-in-law', siblings: 'Brother', relatives: 'Relative', stories: 'Stories about him',
+          sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
+          keyT: 'teacher → student', keyC: 'colleagues', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
+          keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', notes: 'Notes and sources',
+          wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of',
+          alts: 'The sources give more than one name; each is a later identification or tradition.', est: 'a rough count: the name fits more than one sage' },
+    he: { title: 'חכמים', rel: 'קשרים', back: 'חזרה', close: 'סגירה', teachers: 'רבותיו', students: 'תלמידיו',
+          colleagues: 'בני דורו', family: 'משפחה', more: 'ועוד {0}', fewer: 'פחות', tanna: 'תנא', amora: 'אמורא',
+          zug: 'מן הזוגות', gen: 'דור {0}', trans: 'דור המעבר', ey: 'ארץ ישראל', bavel: 'בבל', about: 'בערך {0}',
+          ce: 'לספירה', bce: 'לפנה"ס', born: 'נולד {0}', died: 'נפטר {0}', quotedB: 'נזכר ב־{0} שורות בתלמוד',
+          quotedM: 'נזכר ב־{0} משניות', most: 'בעיקר ב:', all: 'כל המקומות', allT: 'כל המסכתות',
+          none: 'לא ידוע על רבותיו ותלמידיו.', father: 'אביו', mother: 'אמו', parents: 'הורה', children: 'ילדיו',
+          spouse: 'אשתו', in_laws: 'חמיו', sons_in_law: 'חתנו', siblings: 'אחיו', relatives: 'קרוב משפחה',
+          stories: 'סיפורים עליו', sefaria: 'ספריא', wiki: 'ויקיפדיה', approx: 'התאריכים משוערים, לפי הדור.',
+          loading: 'טוען…', keyT: 'רב ← תלמיד', keyC: 'בני דורו', keyTa: 'תנא', keyEY: 'אמורא, ארץ ישראל',
+          keyBV: 'אמורא, בבל', keyZ: 'זוגות', keyF: 'משפחה', notes: 'הערות ומקורות',
+          wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של',
+          alts: 'במקורות יותר משם אחד; כל אחד מהם זיהוי או מסורת מאוחרים.', est: 'מספר משוער: השם מתאים ליותר מחכם אחד' },
+  };
+  const t = (k, ...a) => (W[S.o.lang] || W.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
+  const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const ORD = n => n + (n % 10 === 1 && n !== 11 ? 'st' : n % 10 === 2 && n !== 12 ? 'nd' : n % 10 === 3 && n !== 13 ? 'rd' : 'th');
+  const HE_ORD = ['', 'ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שביעי', 'שמיני'];
+  const sage = id => S.data.sages[id];
+  // "Rabbi Yehudah [b. Il'ai]" -> "Rabbi Yehudah"; on a narrow screen "Rabbi" -> "R."
+  let narrow = false;
+  const shortName = x => HE() ? x.he || x.en
+    : x.en.replace(/\s*\[.*?\]|\s*\(.*?\)/g, '').replace(narrow ? /^Rabbi /u : /^$/, 'R. ').trim();
+  const fullName = x => HE() ? x.he || x.en : x.en.replace(/[\[\]]/g, '');
+  // Colour: Zugot, tanna'im, amora'im of Eretz Yisrael, of Bavel (both: by the first listed).
+  function group(x) {
+    if (!x) return 'na';
+    if (x.kind === 'zug') return 'zug';
+    if (x.kind === 'tanna') return 'tanna';
+    if (x.kind === 'amora') return (x.region || '').startsWith('Bavel') ? 'bavel' : 'ey';
+    return 'na';
+  }
+  const year = y => y < 0 ? `${-y} ${t('bce')}` : `${y}${HE() ? '' : ''}`;
+  function dates(x) {
+    if (x.born && x.died) return t('about', `${year(x.born[0])}–${year(x.died[x.died.length - 1])}${x.died[0] > 0 ? ' ' + t('ce') : ''}`);
+    if (x.died) return t('died', (x.died[0] !== x.died[1] ? t('about', '') : '') + year(x.died[x.died.length - 1])) + (x.died[0] > 0 ? ' ' + t('ce') : '');
+    if (x.years) {
+      const [a, b] = x.years;
+      return t('about', a < 0 && b <= 0 ? `${-a}–${-b} ${t('bce')}` : a < 0 ? `${-a} ${t('bce')}–${b} ${t('ce')}` : `${a}–${b} ${t('ce')}`);
+    }
+    return '';
+  }
+  function meta(x) {
+    const kind = x.kind ? t(x.kind) : '';
+    const gen = x.gen == null ? '' : x.gen === 0 ? t('trans') : HE() ? t('gen', HE_ORD[x.gen] || x.gen) : t('gen', ORD(x.gen));
+    const reg = (x.region || '').split(' / ').map(r => r.startsWith('Bavel') ? t('bavel') : t('ey')).join(' / ');
+    return [kind && gen ? `${kind}, ${gen}` : kind || gen, x.region ? reg : '', dates(x)].filter(Boolean).join(' · ');
+  }
+
+  // ---------- data ----------
+  async function load() {
+    if (S.data) return;
+    const r = await fetch(S.o.base + 'sages.json');
+    S.data = await r.json();
+  }
+  async function loadQuoted() {
+    if (S.quoted) return;
+    S.quoted = await (await fetch(S.o.base + 'quoted.json')).json();
+  }
+  const tierOf = x => S.o.corpus === 'mishnah' ? x.tier_mishnah : x.tier;
+  const countOf = x => (x.count || {})[S.o.corpus] || 0;
+  // a row's people, most important first; family keeps its relation as a label
+  function people(id, rels) {
+    const x = sage(id), out = [];
+    for (const r of rels)
+      for (const l of (x.links[r] || [])) {
+        const y = l.id && sage(l.id);
+        if (!y && r !== 'family' && !FAMILY.includes(r)) continue;   // a bare name only in the family row
+        if (!y && !l.name) continue;                                  // unnamed ("his daughter"): info box only
+        if (!y && l.alts) continue;                                   // several proposed names: info box only
+        out.push({ key: (l.id || 'name:' + l.name) + '|' + r, id: y ? l.id : null, name: y ? shortName(y) : l.name,
+                   rel: r, x: y, f: y ? y.f : l.f });
+      }
+    out.sort((a, b) => (a.x ? tierOf(a.x) : 4) - (b.x ? tierOf(b.x) : 4) || (b.x ? countOf(b.x) : 0) - (a.x ? countOf(a.x) : 0));
+    const seen = new Set();
+    return out.filter(p => { const k = p.id || p.name; if (seen.has(k)) return false; seen.add(k); return true; });
+  }
+  const NOTES = { 'שנוי במחלוקת': 'Disputed.', 'לפי חלק מהדעות': 'By some accounts.', 'לפי המסורת': 'By tradition.',
+                  'מסורת עממית': 'A folk tradition.', 'לפי הזוהר': 'According to the Zohar.',
+                  'לפי חלקים מהזוהר': 'According to parts of the Zohar.', 'לפי חלק מהזוהר': 'According to part of the Zohar.',
+                  'נינו': 'Great-grandson.' };
+  const FAM_UP = ['grandparents', 'father', 'mother', 'parents', 'in_laws'];
+  // the family word for a relation, by the relative's sex (and, for a spouse, the centre's)
+  const FW = {
+    en: { children: ['Son', 'Daughter', 'Sons', 'Daughters'], parents: ['Father', 'Mother'], father: ['Father', 'Mother'],
+          mother: ['Mother', 'Mother'], siblings: ['Brother', 'Sister', 'Brothers', 'Sisters'], spouse: ['Wife', 'Husband'],
+          in_laws: ['Father-in-law', 'Mother-in-law'], sons_in_law: ['Son-in-law', 'Son-in-law', 'Sons-in-law', 'Sons-in-law'],
+          grandchildren: ['Grandson', 'Granddaughter', 'Grandsons', 'Granddaughters'],
+          grandparents: ['Grandfather', 'Grandmother', 'Grandparents', 'Grandparents'] },
+    he: { children: ['בנו', 'בתו', 'בניו', 'בנותיו'], parents: ['אביו', 'אמו'], father: ['אביו', 'אמו'], mother: ['אמו', 'אמו'],
+          siblings: ['אחיו', 'אחותו', 'אחיו', 'אחיותיו'], spouse: ['אשתו', 'בעלה'], in_laws: ['חמיו', 'חמותו'],
+          sons_in_law: ['חתנו', 'חתנו', 'חתניו', 'חתניו'],
+          grandchildren: ['נכדו', 'נכדתו', 'נכדיו', 'נכדותיו'], grandparents: ['סבו', 'סבתו', 'סביו', 'סביו'] },
+  };
+  function famWord(rel, female, centreFemale, plural) {
+    const w = (FW[S.o.lang] || FW.en)[rel];
+    if (!w) return t(rel);
+    if (rel === 'spouse') return w[centreFemale ? 1 : 0];
+    const i = (female ? 1 : 0) + (plural && w.length > 2 ? 2 : 0);
+    return w[i];
+  }
+  const FAMILY = ['grandparents', 'father', 'mother', 'parents', 'in_laws', 'spouse', 'siblings', 'children',
+                  'sons_in_law', 'grandchildren'];
+
+  // ---------- box ----------
+  function build() {
+    if (S.box) return;
+    const b = document.createElement('div');
+    b.className = 'sgx'; b.hidden = true; b.setAttribute('role', 'dialog'); b.setAttribute('aria-label', t('rel'));
+    b.innerHTML = `<header class="sgx-bar"><h2>${t('rel')}</h2><nav class="sgx-trail" aria-label="${t('back')}"></nav>
+      <button type="button" class="sgx-x" aria-label="${t('close')}">×</button></header>
+      <div class="sgx-scroll"><div class="sgx-graph"><svg class="sgx-lines" aria-hidden="true"><defs>
+      <marker id="sgxArrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="currentColor"/></marker></defs></svg></div>
+      <p class="sgx-key"><span><i class="sw zug"></i>${t('keyZ')}</span><span><i class="sw tanna"></i>${t('keyTa')}</span>
+      <span><i class="sw ey"></i>${t('keyEY')}</span><span><i class="sw bavel"></i>${t('keyBV')}</span>
+      <span><svg width="30" height="12"><path d="M1,6 L15,6 L29,6" fill="none" stroke="currentColor" stroke-width="1.6" marker-mid="url(#sgxArrow)"/></svg>${t('keyT')}</span>
+      <span><svg width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" stroke="currentColor" stroke-width="1.6" stroke-dasharray="3 3"/></svg>${t('keyC')}</span>
+      <span><svg width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" class="famkey" stroke-width="2"/></svg>${t('keyF')}</span></p>
+      <div class="sgx-info" aria-live="polite"></div></div>`;
+    if (HE()) b.dir = 'rtl';
+    document.body.appendChild(b);
+    S.box = b;
+    b.querySelector('.sgx-x').onclick = close;
+    b.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
+    b.addEventListener('click', e => {
+      const nb = e.target.closest('.sgx-note');
+      if (nb) { showNote(nb); return; }
+      if (e.target.closest('.sgx-popx') || !e.target.closest('.sgx-pop')) S.box.querySelector('.sgx-pop')?.remove();
+      const n = e.target.closest('[data-go]');
+      if (n) { go(n.dataset.go); return; }
+      const m = e.target.closest('[data-more]');
+      if (m) { S.open[m.dataset.more] = !S.open[m.dataset.more]; draw(true); return; }
+      const tr = e.target.closest('[data-tr]');
+      if (tr) { showPlaces(tr.dataset.tr); return; }
+      const bk = e.target.closest('[data-back]');
+      if (bk) { const i = +bk.dataset.back; const id = S.trail[i]; S.trail = S.trail.slice(0, i); go(id, true); }
+    });
+    let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => !b.hidden && draw(false), 120); });
+  }
+  function close() { if (S.box) S.box.hidden = true; }
+
+  async function open(id) {
+    build();
+    S.box.hidden = false;
+    S.box.querySelector('.sgx-info').textContent = t('loading');
+    await load();
+    if (!sage(id)) { S.box.querySelector('.sgx-info').textContent = ''; return; }
+    S.trail = []; S.cur = null; S.nodes.forEach(n => n.el.remove()); S.nodes.clear();
+    go(id);
+    S.box.querySelector('.sgx-x').focus({ preventScroll: true });
+  }
+  function go(id, fromTrail) {
+    if (!sage(id) || id === S.cur) return;
+    if (S.cur && !fromTrail) S.trail.push(S.cur);
+    if (S.trail.length > 8) S.trail = S.trail.slice(-8);
+    S.cur = id; S.open = {};
+    draw(true); info();
+    S.box.querySelector('.sgx-scroll').scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  // ---------- graph ----------
+  function draw(animate) {
+    const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg');
+    const width = g.clientWidth || 600, phone = width < 560, cap = phone ? 3 : 6, nodeW = phone ? 92 : 124;
+    narrow = phone;
+    const rtl = HE(), X = x => rtl ? width - x : x;
+    const id = S.cur, x = sage(id);
+    // a sage linked two ways appears once: teacher, then student, family, colleague
+    const used = new Set();
+    const row = (rels, keep) => people(id, rels).filter(p => {
+      if (keep && !keep(p)) return false;
+      if (!p.id && !HE()) return false;          // a name we only have in Hebrew stays in the info box
+      const k = p.id || p.name; if (used.has(k)) return false; used.add(k); return true; });
+    const rows = {};
+    // Family: the generation above (father, mother, father-in-law) above him, the one below
+    // (children, sons-in-law) and his wife and brothers below him, drawn lighter than the teachers
+    // and students. A teacher who is also his father stays a teacher, labelled "Father".
+    const famOf = {};
+    // a relative listed two ways (son-in-law, and by one tradition father-in-law) is drawn by the
+    // link with no qualifying note
+    FAMILY.forEach(r => (x.links[r] || []).forEach(l => { if (l.id && !l.notes && !famOf[l.id]) famOf[l.id] = r; }));
+    FAMILY.forEach(r => (x.links[r] || []).forEach(l => { if (l.id && !famOf[l.id]) famOf[l.id] = r; }));
+    rows.teachers = row(['teachers']); rows.students = row(['students']);
+    const famRow = rels => row(rels, p => !p.id || rels.includes(famOf[p.id]));
+    rows.famUp = famRow(FAM_UP); rows.famDown = famRow(FAMILY.filter(r => !FAM_UP.includes(r)));
+    rows.colleagues = row(['colleagues']);
+    [...rows.teachers, ...rows.students].forEach(p => { if (p.id && famOf[p.id]) p.famRel = famOf[p.id]; });
+    const place = [];   // {key, id, name, x, y, cls, label}
+    const more = [];    // "+N more" buttons
+    let y = 34;
+    function band(name, list, perLine, all) {
+      if (!list.length) return null;
+      // a "+1 more" button would take the space of the one it hides: show it instead
+      const open = all || S.open[name] || list.length === perLine + 1, shown = open ? list : list.slice(0, perLine);
+      const extra = list.length - shown.length;
+      const lines = [];
+      for (let i = 0; i < shown.length; i += perLine) lines.push(shown.slice(i, i + perLine));
+      const ys = [];
+      lines.forEach((ln, li) => {
+        const btn = !all && li === lines.length - 1 && (extra > 0 || (S.open[name] && list.length > perLine + 1));
+        const n = ln.length + (btn ? 1 : 0);
+        ln.forEach((p, i) => place.push({ ...p, x: X((i + 1) * width / (n + 1)), y, maxW: width / (n + 1) - 10 }));
+        if (btn)
+          more.push({ row: name, x: X(n * width / (n + 1)), y, label: extra > 0 ? t('more', extra) : t('fewer') });
+        ys.push(y); y += 56;
+      });
+      return ys;
+    }
+    const tY = band('teachers', rows.teachers, cap);
+    if (tY) y += rows.famUp.length ? 8 : 34;
+    if (rows.famUp.length) { band('famUp', rows.famUp, phone ? 3 : 5); y += 20; }
+    const cY = y;
+    place.push({ key: id, id, name: fullName(x), x: width / 2, y: cY, centre: true });
+    // colleagues on both sides of the centre, nearest first
+    // colleagues on both sides of the centre, nearest first; the rest (opened) wrap onto lines below
+    const side = phone ? 1 : 3, cols = rows.colleagues, beside = cols.slice(0, side * 2);
+    const cw = phone ? width * 0.36 : Math.min(width * 0.3, nodeW * 1.6), slot = (width / 2 - cw / 2 - 8) / side;
+    beside.forEach((p, i) => {
+      const dir = i % 2 === 0 ? -1 : 1, k = Math.floor(i / 2);
+      place.push({ ...p, x: X(width / 2 + dir * (cw / 2 + 8 + slot * (k + 0.5))), y: cY, maxW: slot - 10 });
+    });
+    y += phone ? 66 : 58;
+    const restC = cols.slice(side * 2);
+    if (restC.length === 1) band('colleagues_more', restC, cap, true);   // one more: just show him
+    else if (restC.length) {
+      if (S.open.colleagues) band('colleagues_more', restC.map(p => ({ ...p })), cap, true);
+      more.push({ row: 'colleagues', x: X(width - slot / 2), y: cY + 32, small: true,
+                  label: S.open.colleagues ? t('fewer') : t('more', restC.length) });
+    }
+    const fY = rows.famDown.length ? band('famDown', rows.famDown, phone ? 3 : 5) : null;
+    if (fY) y += 6;
+    if (rows.students.length) y += 30;
+    const sY = band('students', rows.students, cap);
+    g.style.height = (y + (sY ? 4 : 20)) + 'px';
+    svg.setAttribute('width', width); svg.setAttribute('height', y + 20);
+
+    // nodes: reuse what is already on screen so it glides
+    const want = new Map(place.map(p => [p.id || p.key, p]));
+    const prev = S.nodes;
+    const next = new Map();
+    for (const [k, p] of want) {
+      const sameSage = p.id ? prev.get(p.id) : prev.get(k);
+      let el = sameSage && sameSage.el;
+      if (!el) {
+        el = document.createElement(p.id ? 'button' : 'span');
+        if (p.id) { el.type = 'button'; el.dataset.go = p.id; }
+        el.className = 'sgx-n';
+        el.style.opacity = '0';
+        el.style.transform = `translate(${p.x}px,${p.y}px) translate(-50%,-50%)`;
+        g.appendChild(el);
+      }
+      const sx = p.centre ? x : p.id ? sage(p.id) : null;
+      const fam = p.rel && FAMILY.includes(p.rel), famLabel = fam ? p.rel : p.famRel;
+      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam ? ' fam' : ''}`;
+      el.innerHTML = `${esc(p.centre ? fullName(x) : p.name)}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
+      if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
+      el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
+      el.style.maxWidth = (p.centre ? cw : Math.min(nodeW, p.maxW || nodeW)) + 'px';
+      requestAnimationFrame(() => {
+        el.style.opacity = '1';
+        el.style.transform = `translate(${p.x}px,${p.y}px) translate(-50%,-50%)`;
+      });
+      next.set(p.id || k, { el, p });
+    }
+    for (const [k, n] of prev) if (!next.has(k)) { n.el.style.opacity = '0'; setTimeout(() => n.el.remove(), 400); }
+    S.nodes = next;
+    g.querySelectorAll('.sgx-more').forEach(e => e.remove());
+    for (const m of more) {
+      const b = document.createElement('button');
+      b.type = 'button'; b.className = 'sgx-more' + (m.small ? ' small' : ''); b.dataset.more = m.row; b.textContent = m.label;
+      b.style.transform = `translate(${m.x}px,${m.y}px) translate(-50%,-50%)`;
+      g.appendChild(b);
+    }
+    if (!animate) S.nodes.forEach(n => { n.el.style.transition = 'none'; requestAnimationFrame(() => n.el.style.transition = ''); });
+    // lines follow the nodes while they move
+    const t0 = performance.now();
+    const tick = () => { lines(); if (performance.now() - t0 < 520) requestAnimationFrame(tick); };
+    requestAnimationFrame(tick);
+  }
+  function lines() {
+    const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg'), gb = g.getBoundingClientRect();
+    const c = S.nodes.get(S.cur);
+    if (!c) return;
+    const box = el => { const r = el.getBoundingClientRect(); return { x: r.left - gb.left + r.width / 2, y: r.top - gb.top + r.height / 2, w: r.width / 2, h: r.height / 2 }; };
+    const C = box(c.el);
+    let out = '';
+    for (const [k, n] of S.nodes) {
+      if (k === S.cur) continue;
+      const P = box(n.el), rel = n.p.rel;
+      // an arrowhead halfway along each line, pointing from teacher to student, so the direction
+      // reads even where many lines meet at the centre
+      const arrow = (x1, y1, x2, y2) => `<path d="M${x1},${y1} L${(x1 + x2) / 2},${(y1 + y2) / 2} L${x2},${y2}" marker-mid="url(#sgxArrow)"/>`;
+      if (rel === 'teachers') out += arrow(P.x, P.y + P.h, C.x, C.y - C.h);
+      else if (rel === 'students') out += arrow(C.x, C.y + C.h, P.x, P.y - P.h);
+      else if (rel === 'colleagues') {
+        const dir = P.x < C.x ? 1 : -1;
+        out += `<line class="dot" x1="${P.x + dir * P.w}" y1="${P.y}" x2="${C.x - dir * C.w}" y2="${C.y}"/>`;
+      } else if (P.y < C.y) out += `<line class="fam" x1="${P.x}" y1="${P.y + P.h}" x2="${C.x}" y2="${C.y - C.h}"/>`;
+      else out += `<line class="fam" x1="${C.x}" y1="${C.y + C.h}" x2="${P.x}" y2="${P.y - P.h}"/>`;
+    }
+    const defs = svg.querySelector('defs').outerHTML;
+    svg.innerHTML = defs + out;
+  }
+
+  // ---------- info box ----------
+  // A small marker that opens the notes and sources behind an entry, so the box itself stays plain
+  function noteMark(notes, alts) {
+    const list = (notes || []).map(n => (!HE() && NOTES[n]) || n);
+    if (!list.length && !alts) return '';
+    const body = (alts ? [t('alts')] : []).concat(list);
+    return `<button type="button" class="sgx-note" aria-label="${esc(t('notes'))}" data-note="${esc(JSON.stringify(body))}">i</button>`;
+  }
+  // Sefaria's bios link names as [R. Akiva](https://www.sefaria.org/topics/rabbi-akiva?tab=sources):
+  // a sage we have opens in the box, anything else is plain text
+  function bioHTML(bio) {
+    let out = '', i = 0;
+    const re = /\[([^\]]+)\]\(([^)\s]+)\)/g;
+    let m;
+    while ((m = re.exec(bio))) {
+      out += esc(bio.slice(i, m.index));
+      const slug = (m[2].match(/sefaria\.org(?:\.il)?\/topics\/([^?#/]+)/) || [])[1];
+      const id = slug && decodeURIComponent(slug);
+      out += id && sage(id) ? `<button type="button" data-go="${esc(id)}">${esc(m[1])}</button>` : esc(m[1]);
+      i = m.index + m[0].length;
+    }
+    return (out + esc(bio.slice(i))).replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>');
+  }
+  function showNote(btn) {
+    const old = S.box.querySelector('.sgx-pop');
+    if (old) { const same = old._for === btn; old.remove(); if (same) return; }
+    const pop = document.createElement('div');
+    pop._for = btn;
+    pop.className = 'sgx-pop';
+    pop.innerHTML = JSON.parse(btn.dataset.note).map(n => `<p${/[\u05d0-\u05ea]/.test(n) ? ' lang="he" dir="rtl"' : ''}>${esc(n)}</p>`).join('')
+      + `<button type="button" class="sgx-popx" aria-label="${esc(t('close'))}">×</button>`;
+    const host = S.box.querySelector('.sgx-scroll');
+    host.appendChild(pop);
+    const hb = host.getBoundingClientRect(), bb = btn.getBoundingClientRect();
+    pop.style.top = (bb.bottom - hb.top + host.scrollTop + 6) + 'px';
+    pop.style.left = Math.max(8, Math.min(bb.left - hb.left - 20, hb.width - pop.offsetWidth - 8)) + 'px';
+  }
+  function info() {
+    const x = sage(S.cur), box = S.box.querySelector('.sgx-info');
+    S.box.querySelector('.sgx-trail').innerHTML = S.trail.map((id, i) =>
+      `<button type="button" data-back="${i}">${esc(shortName(sage(id)))}</button>`).join('<span>›</span>');
+    const n = countOf(x), q = (x.quoted || {})[S.o.corpus] || {};
+    const top = Object.entries(q).slice(0, 5);
+    const name = S.o.tractateName || (s => s);
+    // one line per relation and sex: "Sons: …", "Daughter: …"
+    const groups = [];
+    FAMILY.forEach(r => [0, 1].forEach(f => {
+      const ls = (x.links[r] || []).filter(l => ((l.id && sage(l.id)) ? sage(l.id).f : l.f) ? f : !f);
+      if (ls.length) groups.push([famWord(r, f, x.f, ls.length > 1), ls]);
+    }));
+    const who = l => { const y = l.id && sage(l.id);
+      return y ? `<button type="button" data-go="${esc(l.id)}">${esc(shortName(y))}</button>` : `<span lang="he" dir="rtl">${esc(l.name || '')}</span>`; };
+    const fam = groups.map(([label, ls]) => `<span><b>${esc(label)}:</b> ${ls.map(l => {
+      let txt;
+      if (l.wife_of) txt = `${t('wifeOf')} ${who(l.wife_of)}`;
+      else if (l.child_of) txt = `${t(l.f ? 'daughterOf' : 'sonOf')} ${who(l.child_of)}`;
+      else txt = who(l);
+      return txt + noteMark(l.notes, l.alts);
+    }).join(', ')}</span>`).join('');
+    const noRel = !['teachers', 'students', 'colleagues'].some(r => (x.links[r] || []).some(l => l.id));
+    const bio = HE() && x.bio_he ? x.bio_he : x.bio;
+    box.innerHTML = `<h3>${esc(fullName(x))} <span lang="${HE() ? 'en' : 'he'}" dir="${HE() ? 'ltr' : 'rtl'}">${esc(HE() ? x.en : x.he)}</span></h3>
+      <p class="sgx-meta">${esc(meta(x))}${x.years && !x.died ? ` <i title="${esc(t('approx'))}">*</i>` : ''}</p>
+      ${noRel ? `<p class="sgx-none">${t('none')}</p>` : ''}
+      ${fam ? `<p class="sgx-fam">${fam}</p>` : ''}
+      ${bio ? `<p class="sgx-bio"${HE() && !x.bio_he ? ' lang="en" dir="ltr"' : ''}>${bioHTML(bio)}</p>` : ''}
+      ${x.stories && x.stories.length ? `<h4>${t('stories')}</h4><ul class="sgx-stories">${x.stories.map(s =>
+        `<li><a href="${esc(S.o.link ? S.o.link(S.o.corpus, s.tractate, s.place) : '#')}">${esc(HE() && s.title_he ? s.title_he : s.title)}</a> <span>${esc(s.ref || '')}</span></li>`).join('')}</ul>` : ''}
+      ${n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
+      <p class="sgx-where">${top.map(([tr, c]) => `<button type="button" data-tr="${esc(tr)}">${esc(name(tr))} <b>${c}</b></button>`).join('')}
+      ${Object.keys(q).length > 5 ? `<button type="button" data-tr="*" class="all">${t('allT')}</button>` : ''}</p><div class="sgx-places"></div>` : ''}
+      <p class="sgx-links"><a href="https://www.sefaria.org${HE() ? '.il' : ''}/topics/${encodeURIComponent(x.sefaria)}" target="_blank" rel="noopener">${t('sefaria')}</a>
+      ${x.wiki_he ? `<a href="${esc(x.wiki_he)}" target="_blank" rel="noopener">${t('wiki')}</a>` : ''}</p>`;
+  }
+  async function showPlaces(tr) {
+    const x = sage(S.cur), host = S.box.querySelector('.sgx-places'), name = S.o.tractateName || (s => s);
+    if (tr === '*') {
+      const q = (x.quoted || {})[S.o.corpus] || {};
+      host.innerHTML = `<p class="sgx-where">${Object.entries(q).map(([k, c]) => `<button type="button" data-tr="${esc(k)}">${esc(name(k))} <b>${c}</b></button>`).join('')}</p>`;
+      return;
+    }
+    host.textContent = t('loading');
+    await loadQuoted();
+    const places = (((S.quoted[S.cur] || {})[S.o.corpus] || {})[tr] || '').split(' ').filter(Boolean);
+    const uniq = [...new Set(places)];
+    host.innerHTML = `<p class="sgx-placelist"><b>${esc(name(tr))}:</b> ${uniq.map(p =>
+      `<a href="${esc(S.o.link ? S.o.link(S.o.corpus, tr, p) : '#')}">${esc(p)}</a>`).join(' ')}</p>`;
+  }
+
+
+  // ---------- the Shas-wide chart ----------
+  // Generations across (Zugot, tanna'im 1-6 and the transition, amora'im 1-8, then "unknown"),
+  // Eretz Yisrael above and Bavel below. A cell shows its most quoted sages; "+N more" opens the
+  // rest of the major ones and the next tier. Anyone at all is reached by search, which opens
+  // the cell and marks the name. A name opens the relationship box.
+  const C = { open: new Set(), show: new Set(), filter: 'all', host: null, hit: null };
+  const CW = {
+    en: { chart: 'Sages of the Talmud', search: 'Find a sage', all: 'All', tannaim: "Tanna'im", amoraim: "Amora'im",
+          zugot: 'Zugot', unknown: 'Generation unknown', ey: 'Eretz Yisrael', bavel: 'Bavel', trans: 'Transition',
+          more: '+{0} more', fewer: 'Fewer', nohit: 'No sage by that name.', moved: 'Moved between Bavel and Eretz Yisrael',
+          tip: 'Tap a name to see his teachers, students and colleagues.' },
+    he: { chart: 'חכמי התלמוד', search: 'חיפוש חכם', all: 'הכול', tannaim: 'תנאים', amoraim: 'אמוראים',
+          zugot: 'זוגות', unknown: 'דור לא ידוע', ey: 'ארץ ישראל', bavel: 'בבל', trans: 'מעבר',
+          more: 'ועוד {0}', fewer: 'פחות', nohit: 'לא נמצא חכם בשם הזה.', moved: 'עבר בין בבל לארץ ישראל',
+          tip: 'לחיצה על שם מציגה את רבותיו, תלמידיו ובני דורו.' },
+  };
+  const ct = (k, ...a) => (CW[S.o.lang] || CW.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
+  const COLS = ['Z', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'TA', 'A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', '?'];
+  function colOf(x) {
+    if (x.kind === 'zug') return 'Z';
+    let c = (x.gen_code || '').split('/')[0];
+    if (!c && x.gen != null) c = (x.kind === 'tanna' ? 'T' : 'A') + x.gen;
+    if (c === 'T0') c = 'TA';
+    return COLS.includes(c) ? c : '?';
+  }
+  const rowOf = x => x.kind === 'amora' && (x.region || '').startsWith('Bavel') ? 1 : 0;
+  // the tanna'im and the Zugot were all in Eretz Yisrael: their columns are one tall cell
+  const tall = c => /^[ZT]/.test(c);
+  function colHead(c) {
+    if (c === 'Z') return [ct('zugot'), yearsOf(['Z1', 'Z5'])];
+    if (c === '?') return [ct('unknown'), ''];
+    if (c === 'TA') return [ct('trans'), yearsOf(['TA'])];
+    const n = +c.slice(1);
+    return [HE() ? (c[0] === 'T' ? 'תנאים' : 'אמוראים') + ' ' + HE_ORD[n] : (c[0] === 'T' ? 'Tanna’im ' : 'Amora’im ') + n, yearsOf([c])];
+  }
+  function yearsOf(codes) {
+    const g = S.data.gen_years, ys = codes.map(c => g[c]).filter(Boolean);
+    if (!ys.length) return '';
+    const a = Math.min(...ys.map(y => y[0])), b = Math.max(...ys.map(y => y[1]));
+    const f = y => y < 0 ? `${-y}` : `${y}`;
+    return a < 0 && b <= 0 ? `${f(a)}–${f(b)} ${t('bce')}` : a < 0 ? `${f(a)} ${t('bce')}–${b}` : `${a}–${b}`;
+  }
+  function cells() {
+    const by = {};
+    for (const [id, x] of Object.entries(S.data.sages)) {
+      if (!['tanna', 'amora', 'zug'].includes(x.kind)) continue;
+      const k = rowOf(x) + ':' + colOf(x);
+      (by[k] = by[k] || []).push(id);
+    }
+    for (const k in by) by[k].sort((a, b) => k.endsWith(':Z') ? (sage(a).gen ?? 9) - (sage(b).gen ?? 9)   // the pairs in order
+      : tierOf(sage(a)) - tierOf(sage(b)) || countOf(sage(b)) - countOf(sage(a)));
+    return by;
+  }
+  function chartHTML() {
+    const phone = (C.host.clientWidth || 800) < 560, first = phone ? 4 : 6, by = cells();
+    const cols = COLS.filter(c => C.filter === 'all' || (C.filter === 'tanna' ? /^[ZT]/.test(c) || c === '?' : /^A/.test(c) || c === '?'));
+    let h = `<div class="sgc-grid" style="grid-template-columns:auto repeat(${cols.length},minmax(${phone ? 104 : 122}px,1fr))">`;
+    h += `<div class="sgc-corner"></div>` + cols.map(c => { const [a, b] = colHead(c);
+      return `<div class="sgc-h${c[0] === 'A' ? ' am' : c === '?' ? ' unk' : ''}"><b>${esc(a)}</b>${b ? `<small>${esc(b)}</small>` : ''}</div>`; }).join('');
+    [ct('ey'), ct('bavel')].forEach((label, row) => {
+      h += `<div class="sgc-rh">${esc(label)}</div>`;
+      for (const c of cols) {
+        if (row === 1 && tall(c)) continue;
+        const k = row + ':' + c, ids = (by[k] || []).filter(id => C.filter === 'all' || (C.filter === 'tanna' ? sage(id).kind !== 'amora' : sage(id).kind === 'amora'));
+        const open = C.open.has(k);
+        const major = ids.filter(id => tierOf(sage(id)) <= 2);
+        const shown = open || major.length === first + 1 ? major : major.slice(0, first);
+        const extra = ids.filter(id => C.show.has(id) && !shown.includes(id));
+        const list = shown.concat(extra);
+        const more = major.length - shown.length;
+        h += `<div class="sgc-cell${row === 0 && tall(c) ? ' tall' : ''}" data-k="${k}">${list.map(id => { const x = sage(id);
+          return `<button type="button" class="sgc-c g-${group(x)} t${tierOf(x)}${(x.region || '').includes('/') ? ' moved' : ''}${C.hit === id ? ' hit' : ''}" data-go="${esc(id)}" title="${esc(fullName(x))} · ${esc(meta(x))}">${esc(shortName(x))}</button>`; }).join('')}
+          ${more > 0 ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('more', more)}</button>` : open && major.length > first + 1 ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('fewer')}</button>` : ''}</div>`;
+      }
+    });
+    return h + '</div>';
+  }
+  function chartDraw() { C.host.querySelector('.sgc-body').innerHTML = chartHTML(); }
+  function norm(s) { return String(s || '').toLowerCase().replace(/[֑-ׇ]/g, '').replace(/[^a-zא-ת ]/g, '').replace(/\s+/g, ' ').trim(); }
+  function find(q) {
+    q = norm(q); if (q.length < 2) return [];
+    const out = [];
+    for (const [id, x] of Object.entries(S.data.sages)) {
+      if (!['tanna', 'amora', 'zug'].includes(x.kind)) continue;
+      const names = [x.en, x.he, ...(x.alt_en || []), ...(x.alt_he || [])].map(norm);
+      const exact = names.some(n => n === q), start = names.some(n => n.startsWith(q) || n.split(' ').some(w => w.startsWith(q)));
+      if (exact || start || names.some(n => n.includes(q))) out.push([exact ? 0 : start ? 1 : 2, tierOf(x), -countOf(x), id]);
+    }
+    return out.sort((a, b) => a[0] - b[0] || a[1] - b[1] || a[2] - b[2]).slice(0, 12).map(r => r[3]);
+  }
+  function reveal(id) {
+    const x = sage(id), k = rowOf(x) + ':' + colOf(x);
+    C.show.add(id); C.hit = id;
+    if (C.filter !== 'all' && (C.filter === 'tanna') === (x.kind === 'amora')) { C.filter = 'all'; syncFilter(); }
+    chartDraw();
+    // On a phone the keyboard closes after a pick, which resizes the page and redraws the chart; a
+    // smooth scroll would be cut off part way. So jump there, and again once the keyboard is gone.
+    C.host.querySelector('input')?.blur();
+    centreHit();
+    setTimeout(centreHit, 450);
+  }
+  function centreHit() {
+    const b = C.hit && C.host.querySelector(`.sgc-c[data-go="${CSS.escape(C.hit)}"]`);
+    if (!b) return;
+    const box = C.host.querySelector('.sgc-body'), bb = box.getBoundingClientRect(), r = b.getBoundingClientRect();
+    box.scrollLeft += (r.left + r.width / 2) - (bb.left + bb.width / 2);
+    box.scrollTop += (r.top + r.height / 2) - (bb.top + bb.height / 2);
+    b.focus({ preventScroll: true });
+  }
+  function syncFilter() { C.host.querySelectorAll('.sgc-filter button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.f === C.filter))); }
+  async function chart(el) {
+    C.host = el;
+    el.classList.add('sgc');
+    if (HE()) el.dir = 'rtl';
+    el.innerHTML = `<div class="sgc-tools"><div class="sgc-find"><input type="search" placeholder="${ct('search')}" aria-label="${ct('search')}"><div class="sgc-res" hidden></div></div>
+      <div class="sgc-filter" role="group"><button type="button" data-f="all" aria-pressed="true">${ct('all')}</button><button type="button" data-f="tanna">${ct('tannaim')}</button><button type="button" data-f="amora">${ct('amoraim')}</button></div></div>
+      <p class="sgc-tip">${ct('tip')} <span class="sgc-key"><i class="sw zug"></i>${t('keyZ')} <i class="sw tanna"></i>${t('keyTa')} <i class="sw ey"></i>${t('keyEY')} <i class="sw bavel"></i>${t('keyBV')} <i class="mv"></i>${ct('moved')}</span></p>
+      <div class="sgc-body">${t('loading')}</div>`;
+    await load();
+    chartDraw();
+    const inp = el.querySelector('input'), res = el.querySelector('.sgc-res');
+    inp.addEventListener('input', () => {
+      const hits = find(inp.value);
+      res.hidden = !inp.value.trim();
+      res.innerHTML = hits.length ? hits.map(id => { const x = sage(id);
+        return `<button type="button" data-pick="${esc(id)}"><b>${esc(fullName(x))}</b> <span>${esc(HE() ? x.en : x.he)}</span><small>${esc(meta(x))}</small></button>`; }).join('')
+        : `<p>${ct('nohit')}</p>`;
+    });
+    inp.addEventListener('keydown', e => { if (e.key === 'Enter') { const f = res.querySelector('[data-pick]'); if (f) f.click(); } if (e.key === 'Escape') { res.hidden = true; } });
+    el.addEventListener('click', e => {
+      const p = e.target.closest('[data-pick]');
+      if (p) { res.hidden = true; inp.value = fullName(sage(p.dataset.pick)); reveal(p.dataset.pick); return; }
+      const m = e.target.closest('[data-cell]');
+      if (m) { const k = m.dataset.cell; C.open.has(k) ? C.open.delete(k) : C.open.add(k); chartDraw(); return; }
+      const f = e.target.closest('[data-f]');
+      if (f) { C.filter = f.dataset.f; syncFilter(); chartDraw(); return; }
+      const g = e.target.closest('.sgc-c[data-go]');
+      if (g) { C.hit = g.dataset.go; el.querySelectorAll('.sgc-c.hit').forEach(b => b.classList.remove('hit')); g.classList.add('hit'); open(g.dataset.go); }
+    });
+    // redraw on a real change of width only (not the phone keyboard opening or closing), keeping
+    // the marked sage in view
+    let rt, lastW = el.clientWidth;
+    window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => {
+      if (!C.host || C.host.clientWidth === lastW) return;
+      lastW = C.host.clientWidth; chartDraw(); centreHit(); }, 150); });
+  }
+  let chartBox = null;
+  function openChart() {
+    if (!chartBox) {
+      chartBox = document.createElement('div');
+      chartBox.className = 'sgc-wrap'; chartBox.setAttribute('role', 'dialog'); chartBox.setAttribute('aria-label', ct('chart'));
+      chartBox.innerHTML = `<header class="sgx-bar"><h2>${ct('chart')}</h2><span style="flex:1"></span><button type="button" class="sgx-x" aria-label="${t('close')}">×</button></header><div class="sgc-in"></div>`;
+      if (HE()) chartBox.dir = 'rtl';
+      document.body.appendChild(chartBox);
+      chartBox.querySelector('.sgx-x').onclick = () => { chartBox.hidden = true; };
+      chartBox.addEventListener('keydown', e => { if (e.key === 'Escape' && (!S.box || S.box.hidden)) chartBox.hidden = true; });
+      chart(chartBox.querySelector('.sgc-in'));
+    }
+    chartBox.hidden = false;
+    setTimeout(() => chartBox.querySelector('input')?.focus(), 50);
+  }
+
+  window.AnySages = {
+    init(o) { Object.assign(S.o, o || {}); },
+    open,
+    close,
+    chart,          // render the Shas-wide chart into an element (a page of its own)
+    openChart,      // or open it over the page
+    // for hosts that want the data (search, the timeline later)
+    data: async () => { await load(); return S.data; },
+  };
+})();
+(function(){var lang=document.documentElement.lang==='he'?'he':'en',CH={'Bava Kamma':['bava-kamma',[1,2,3,4,5,6],[1,2,3]],'Bava Metzia':['bava-metzia',[1],[]]};
+AnySages.init({base:'sages/',corpus:'mishnah',lang:lang,link:function(c,t,p){var a=String(p).split(':'),i=CH[t];if(i&&i[1].indexOf(+a[0])>=0)return i[0]+'-'+a[0]+(lang==='he'&&i[2].indexOf(+a[0])>=0?'-he':'')+'.html#m'+a[1];return 'https://www.sefaria.org/Mishnah_'+t.replace(/ /g,'_')+'.'+a[0]+'.'+a[1]}});document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a.sg');if(a){e.preventDefault();AnySages.open(a.dataset.sg);return}if(e.target.closest&&e.target.closest('.sgbtn'))AnySages.openChart()})})();
+AnySages.chart(document.getElementById('sgpage'));</script></body></html>

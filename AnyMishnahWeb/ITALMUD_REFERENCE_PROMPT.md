@@ -1,5 +1,17 @@
 # Paste this into the iTalmud session
 
+## Shared source (read this first)
+The kit is the single source of truth shared by Illustrated Mishna and iTalmud. Do not copy it into iTalmud.
+- Make iTalmud's build read these files directly from `/Users/dovlinzer/claudecode/AnyDaf/AnyMishnahWeb/reference-kit/`:
+  - `measures.json`
+  - `measures.js`
+  - `measures.css`
+  - the `img/` folder, copied into iTalmud's output folder at build time (as Illustrated Mishna's `build_site.py` does)
+- If iTalmud already has a pasted copy of any of these, delete it, so nothing can drift. The right-to-left fix for "דינר (זוז)" is already in the kit and arrives with the next build.
+- Never edit measure code, data or images inside iTalmud. Edit them in the kit, then rebuild and redeploy both sites.
+- The kit must stay at that path on this machine.
+- When done, rebuild and redeploy iTalmud and check that "דינר (זוז)" in the money chart looks right.
+
 Port the interactive "Reference" system (weights, measures, money, distance, eating sizes) from Illustrated Mishna into iTalmud.
 
 Source kit: `/Users/dovlinzer/claudecode/AnyDaf/AnyMishnahWeb/reference-kit/` (read its README.md first). The live source of truth is `/Users/dovlinzer/claudecode/AnyDaf/AnyMishnahWeb` (`data/measures.json`, the measure IIFE and CSS in `scripts/build_site.py`, `site/img/measures/`, and the stand-alone page generator at the end of `build_site.py`). Live example: https://www.imishna.com/reference
@@ -23,10 +35,10 @@ Source kit: `/Users/dovlinzer/claudecode/AnyDaf/AnyMishnahWeb/reference-kit/` (r
 - Tag the measures in the Bavli text (Berakhot, Shabbat, Eruvin, Pesachim, Yoma ...) by searching for the unit names in the English and the Hebrew; confirm each tag.
 
 ## Steps
-1. Copy the kit (json, js, css, images) into iTalmud and wire the embed, the popup, the header Reference button and a stand-alone Reference page.
+1. Do NOT copy the kit. Make iTalmud's build read `measures.json`, `measures.js`, `measures.css` and `img/` directly from `/Users/dovlinzer/claudecode/AnyDaf/AnyMishnahWeb/reference-kit/` (copy `img/` into iTalmud's output folder at build time, as Illustrated Mishna does), so there is one shared source. Wire the embed, the popup, the header Reference button and a stand-alone Reference page.
 2. Match iTalmud's theme variables (`--bg --fg --blue --card`) and its settings gear (add a U.S./Metric choice).
 3. Tag the units in the text, build, and check in the browser at a narrow (phone) width and a wide one.
-4. Keep `measures.json` as one shared file if the two projects can share it; otherwise note which copy is the master.
+4. The kit is the master. Never edit measure code, data or images inside iTalmud; edit them in the kit and rebuild both sites.
 
 ## Still open (do not present these as settled)
 - Kotevet (a large date, somewhat less than an egg), grogeret and melo lugmav: sizes under review by the author. The kotevet is not in the chart yet.

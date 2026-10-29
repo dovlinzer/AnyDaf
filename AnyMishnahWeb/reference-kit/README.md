@@ -1,5 +1,11 @@
 # Reference kit (weights, measures, money, distance, eating sizes)
 
+**This folder is the single source of truth, shared by Illustrated Mishna and iTalmud.** Edit only here.
+Illustrated Mishna's `scripts/build_site.py` reads `measures.json`, `measures.js`, `measures.css` and copies `img/` to `site/img/measures/` on every build. iTalmud's build must read the same files from this path (`/Users/dovlinzer/claudecode/AnyDaf/AnyMishnahWeb/reference-kit/`), not a copy. Then a fix or addition made here reaches both sites with one rebuild and deploy of each.
+
+(Original notes follow.)
+
+
 Built for Illustrated Mishna (AnyMishnahWeb), 2026-10-28. This is a snapshot for porting to iTalmud.
 The live source of truth is `/Users/dovlinzer/claudecode/AnyDaf/AnyMishnahWeb`:
 `data/measures.json`, `scripts/build_site.py` (the measure IIFE, the CSS, the standalone `reference.html` generator at the end of the file), `site/img/measures/`.

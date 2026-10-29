@@ -10,7 +10,11 @@
    "cc": 81,
    "ratio": 0.25,
    "kind": "liquid",
-   "use": "liquid"
+   "use": "liquid",
+   "buys": [
+    "The minimum cup of wine for kiddush: a revi'it, of which one must drink a cheekful, most of a revi'it (Shulchan Arukh, Orach Chayim 271:13).",
+    "The same revi'it is the minimum amount of drinking for havdalah, for mitzvot and for transgressions (see Drinking measures)."
+   ]
   },
   "log": {
    "family": "volume",
@@ -20,7 +24,10 @@
    "cc": 324,
    "ratio": 1,
    "kind": "liquid",
-   "use": "both"
+   "use": "both",
+   "buys": [
+    "The oil that the metzora brings on the eighth day: one log (Leviticus 14:10). The priest sprinkles from it seven times and puts it on the metzora (Negaim 14:10)."
+   ]
   },
   "kav": {
    "family": "volume",
@@ -30,7 +37,13 @@
    "cc": 1296,
    "ratio": 4,
    "kind": "dry",
-   "use": "dry"
+   "use": "dry",
+   "buys": [
+    "The minimum dough that must have challah separated: five-fourths of a kav of flour (Challah 2:6).",
+    "Ten kav of wisdom descended to the world: Eretz Yisrael took nine and the rest of the world one. So too beauty, wealth, poverty and arrogance (Kiddushin 49b).",
+    "A person prefers a kav of his own produce to nine kav of another's (Rav Kahana, Bava Metzia 38a).",
+    "One who had a seminal emission is purified by nine kav of water poured over him (Berakhot 22a)."
+   ]
   },
   "seah": {
    "family": "volume",
@@ -40,7 +53,10 @@
    "cc": 7776,
    "ratio": 24,
    "kind": "dry",
-   "use": "dry"
+   "use": "dry",
+   "buys": [
+    "The minimum for a mikveh: forty se'ah of water, about 311 liters or 82 US gallons, the contents of a bit more than one and a half bathtubs (Mikvaot 1:7)."
+   ]
   },
   "ephah": {
    "family": "volume",
@@ -50,7 +66,11 @@
    "cc": 23328,
    "ratio": 72,
    "kind": "dry",
-   "use": "both"
+   "use": "both",
+   "buys": [
+    "The poor person's sin offering: a tenth of an ephah of fine flour (Leviticus 5:11).",
+    "The flour for a meal offering is counted in tenths of an ephah: a tenth with a lamb, two tenths with a ram, three tenths with a bull (Numbers 15:4-9; Menachot 9:1)."
+   ]
   },
   "kor": {
    "family": "volume",
@@ -60,7 +80,10 @@
    "cc": 233280,
    "ratio": 720,
    "kind": "dry",
-   "use": "both"
+   "use": "both",
+   "buys": [
+    "A bailee who returns different produce deducts the standard decrease per kor: for wheat and rice nine half-kav, for barley and millet nine kav, for spelt and flaxseed three se'ah (Bava Metzia 3:7; Bava Metzia 40a)."
+   ]
   },
   "perutah": {
    "family": "money",
@@ -322,17 +345,10 @@
    "cc": 3888,
    "ratio": 12,
    "kind": "liquid",
-   "use": "liquid"
-  },
-  "bath": {
-   "family": "volume",
-   "he": "בת",
-   "tr": "bath",
-   "en": "bath",
-   "cc": 23328,
-   "ratio": 72,
-   "kind": "liquid",
-   "use": "liquid"
+   "use": "liquid",
+   "buys": [
+    "The oil mixed into a meal offering: a quarter of a hin with a lamb, a third with a ram, a half with a bull (Numbers 15:4-9)."
+   ]
   },
   "egrogeret": {
    "family": "eating",
@@ -478,7 +494,6 @@
    "revit",
    "log",
    "hin",
-   "bath",
    "kor"
   ],
   "eating": [
