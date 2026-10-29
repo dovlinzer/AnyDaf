@@ -21,6 +21,10 @@ body{background:var(--ground);color:var(--ink);font:15px/1.55 var(--sans);displa
 __RENDERER_CSS__
 __GAMES_CSS__
 __MEASURES_CSS__
+__SAGES_CSS__
+/* the sages relationship box (shared kit): its rules read --card, --fg and --blue */
+.sgx{--card:var(--panel);--fg:var(--ink);--blue:var(--accent,#1b3a8a)}
+.sage .relbtn{font:inherit;font-size:13px;border:1px solid var(--accent,#1b3a8a);background:none;color:var(--accent,#1b3a8a);border-radius:12px;padding:1px 10px;cursor:pointer;margin-top:4px}
 /* The Reference popup (weights, measures, money) from Illustrated Mishna: its rules read --card and
    --fg; the button sits in the bar beside the gear instead of floating over a header */
 .mpop{--card:var(--panel);--fg:var(--ink);z-index:62;box-sizing:border-box}
@@ -643,7 +647,7 @@ function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch
 // the code goes through tr(), keyed by the English.
 const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='he'||q==='en'){prefs.ui=q;savePrefs()}return prefs.ui==='he'?'he':'en'})();
 const RTL=UI==='he';
-const HEW={'Daf summary':'סיכום הדף',
+const HEW={'Daf summary':'סיכום הדף','Relationships':'קשרים',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
  "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
@@ -1231,6 +1235,7 @@ function renderSages(list){
   ${where(i,x).length?`<div class="row"><span>${tr('In the outline')}</span>${where(i,x).map(s=>`<button data-sec="${esc(s.id)}">${md(s.title)}</button>`).join('')}</div>`:''}
   ${ppl('Teachers',x.teachers)}${ppl('Students',x.students)}${ppl('Colleagues',x.colleagues)}
   ${bio?`<details open><summary>${tr('About')}${bioEn?' (באנגלית)':''}</summary><p${bioEn?' lang="en" dir="ltr"':''}>${esc(bio)}</p></details>`:''}
+  ${x.id?`<p><button type="button" class="relbtn" data-rel="${esc(x.id)}">${tr('Relationships')}</button></p>`:''}
   <p class="links"><a href="${esc(sef)}" target="_blank" rel="noopener">${tr('Sefaria')}</a>${wiki?`<a href="${esc(wiki)}" target="_blank" rel="noopener">${tr('Wikipedia')}</a>`:''}</p></article>`}).join('');
  $('slist').innerHTML=cards+unplacedNote+`<p class="credit">${tr("Sources: Sefaria's topic pages (names, generation, teachers and students, bio); Hebrew Wikipedia's categories (Eretz Yisrael / Bavel). Found on the daf by name matching: a pilot, not yet reviewed.")}</p>`;
 }
@@ -1264,7 +1269,8 @@ $('slist').addEventListener('scroll',()=>{if(Date.now()<sageJump)return;const L=
  const card=[...L.querySelectorAll('.sage')].find(c=>c.getBoundingClientRect().bottom>top);
  if(card)markChip(+card.id.slice(2),false)},{passive:true});
 $('stl').onclick=e=>{const s=e.target.closest('[data-s]');if(s)showSage(+s.dataset.s)};
-$('slist').onclick=e=>{const s=e.target.closest('[data-s]'),c=e.target.closest('[data-sec]');
+$('slist').onclick=e=>{const s=e.target.closest('[data-s]'),c=e.target.closest('[data-sec]'),r=e.target.closest('[data-rel]');
+ if(r){AnySages.open(r.dataset.rel);return}
  if(s)showSage(+s.dataset.s);else if(c)setCurrent(c.dataset.sec,true)};
 $('sOrder').onclick=e=>{const b=e.target.closest('[data-o]');if(!b)return;prefs.sOrder=b.dataset.o;savePrefs();renderSages(D.sages||[])};
 $('swinClose').onclick=()=>{$('swin').hidden=true};
@@ -1846,5 +1852,14 @@ setWidths();
  $('dedDlg').showModal();try{localStorage.setItem('anydaf:lastDedicationShown',today)}catch(e){}})();
 $('dedClose').onclick=()=>$('dedDlg').close();
 $('dedDlg').addEventListener('click',e=>{if(e.target===$('dedDlg'))$('dedDlg').close()});   // a click outside the box
+</script>
+<script>__SAGES_JS__</script>
+<script>
+// The relationship box (shared kit): a place a sage is named becomes a link to that daf here
+AnySages.init({base:'sages/',corpus:'bavli',lang:RTL?'he':'en',
+ tractateName:tr=>{const x=TRACTATES.find(t=>t.text===tr||t.name===tr);return x?(RTL?x.he:x.name):tr},
+ link:(corpus,tr,place)=>{const x=TRACTATES.find(t=>t.text===tr||t.name===tr);return x?hashFor(x.name,parseInt(place)):'#'}});
+// following a place closes the box, so the daf it opens is in view
+document.addEventListener('click',e=>{const a=e.target.closest('.sgx a[href^="#"]');if(a)AnySages.close()});
 </script>
 __MEASURES__

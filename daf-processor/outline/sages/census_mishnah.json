@@ -64,6 +64,69 @@
    "Avot": 1,
    "Horayot": 1,
    "Tamid": 1
+  },
+  "mishnayot": {
+   "Berakhot": "2:1 2:2 2:3 3:4 3:6 4:1 4:7 6:1 6:3 6:4 7:2 9:2",
+   "Peah": "1:3 2:2 3:5 4:6 5:5 6:10 7:4 7:5 8:1",
+   "Demai": "1:1 2:2 2:3 3:6 4:7 5:3 5:4 5:5 6:1 6:2 6:5",
+   "Kilayim": "1:2 1:7 1:9 3:1 3:3 4:3 4:7 4:9 8:4 9:10",
+   "Sheviit": "2:5 2:6 3:1 4:2 4:5 5:1 5:5 7:4 9:1 9:4 9:8 10:1",
+   "Terumot": "1:3 2:2 2:4 2:5 2:6 3:9 4:3 9:6 9:7 10:1 10:3 10:8 10:11 11:1 11:10",
+   "Maasrot": "1:2 1:7 1:8 2:2 2:3 2:5 2:8 3:5 3:7 4:2 5:5 5:6",
+   "Maaser Sheni": "3:10 4:7 4:10 5:8",
+   "Challah": "2:2 4:9",
+   "Orlah": "1:2",
+   "Shabbat": "1:11 2:4 3:5 4:1 5:2 7:4 8:2 8:4 8:6 8:7 9:5 9:6 9:7 10:4 13:5 15:2 16:7 17:5 18:2 19:3 20:2 20:5 21:1 22:1 22:3 24:2 24:4",
+   "Eruvin": "1:1 1:4 1:10 2:1 2:3 2:4 2:5 3:1 3:4 3:5 3:7 3:8 4:4 4:5 4:9 4:10 5:6 6:2 6:4 7:11 8:2 8:4 8:5 8:6 8:7 9:3 9:4 10:2 10:3 10:5 10:11 10:12 10:15",
+   "Pesachim": "1:3 1:4 1:5 2:1 3:5 3:8 4:2 4:3 5:4 5:7 5:8 8:7",
+   "Shekalim": "1:2 1:4 2:4 6:5 7:4 7:6",
+   "Yoma": "1:1 4:5 4:6 5:4 6:1 6:8",
+   "Sukkah": "1:1 1:2 1:6 1:7 2:1 2:2 3:1 3:6 3:7 3:8 3:15 4:5 4:9 5:4 5:8",
+   "Beitzah": "1:10 2:8 2:10 3:4 3:6 3:8 4:2 4:4 5:4",
+   "Rosh Hashanah": "3:5",
+   "Ta'anit": "1:2 2:3 4:7",
+   "Megillah": "1:3 2:3 2:4 3:1 3:2 3:3 4:6 4:7 4:10",
+   "Moed Katan": "1:6 1:7 1:9 2:1 2:2 2:5 3:4",
+   "Chagigah": "3:7",
+   "Yevamot": "2:9 4:7 4:10 6:5 8:6 11:1 12:6 15:1 15:5 16:5",
+   "Ketubot": "2:8 3:2 4:2 4:4 5:1 5:7 6:6 7:1 7:2 8:1 8:5 9:1",
+   "Nedarim": "1:3 1:4 2:4 4:4 5:5 6:3 6:6 6:10 7:3 8:5 11:10",
+   "Nazir": "1:7 2:1 2:2 3:6 4:3 6:2 6:7",
+   "Sotah": "1:3 1:5 2:2 2:3 7:4 7:6 8:3 8:7 9:1",
+   "Gittin": "1:2 2:1 2:4 3:2 3:8 4:7 4:8 6:2 7:4 7:6 9:3",
+   "Kiddushin": "2:8 4:3 4:6 4:8 4:14",
+   "Bava Kamma": "2:4 3:1 3:9 4:2 4:7 4:9 6:5 6:6 8:3 8:6 9:4",
+   "Bava Metzia": "2:1 2:6 3:7 3:8 3:11 4:4 4:5 4:9 4:12 5:7 6:7 7:9 9:5 9:6 10:3 10:6",
+   "Bava Batra": "1:6 2:5 2:14 3:2 3:6 4:1 5:1 5:2 5:8 5:9 8:7 10:5 10:6",
+   "Sanhedrin": "1:3 1:6 2:1 2:2 2:3 2:4 3:3 3:4 4:3 5:3 6:2 6:3 7:2 7:3 7:4 8:4 9:1 9:3 10:2 11:1 11:4",
+   "Makkot": "1:5 2:3 2:6 2:8 3:4 3:10 3:14",
+   "Shevuot": "1:4 7:1 7:2 7:3 7:6",
+   "Eduyot": "1:6 3:12 4:6 5:1 5:6 8:2 8:7",
+   "Avodah Zarah": "1:1 1:5 1:6 1:8 2:5",
+   "Avot": "4:13",
+   "Horayot": "1:5",
+   "Zevachim": "2:5 3:6 6:7 7:6 8:6 8:12 9:2 11:3 14:10",
+   "Menachot": "1:4 2:2 3:2 4:5 5:1 5:9 6:5 8:4 10:5 10:8 11:2 11:4 11:5 13:1",
+   "Chullin": "2:1 3:1 3:4 3:7 5:3 6:4 6:5 6:6 7:1 7:2 7:3 7:6 9:1 9:2 9:6 10:4 12:4",
+   "Bekhorot": "3:4 4:3 4:9 5:2 6:10 7:1 7:6 8:3 8:4 8:6 9:8",
+   "Arakhin": "1:2 4:2 5:1 7:4 7:5 8:5 9:5",
+   "Temurah": "1:5 2:2 7:6",
+   "Keritot": "2:3 2:4 4:2 4:3 5:1",
+   "Meilah": "3:6 6:4 6:5",
+   "Tamid": "7:2",
+   "Middot": "1:7 3:6 4:1 4:2 4:6",
+   "Kelim": "1:5 3:2 4:1 4:4 5:1 5:2 5:6 5:11 6:1 7:1 7:2 8:8 8:9 8:10 9:7 9:8 10:3 10:5 12:2 12:8 13:1 14:6 14:8 15:1 15:3 15:6 16:1 16:4 16:8 17:6 17:7 17:10 17:11 18:2 18:4 19:1 20:1 20:7 21:2 21:3 22:1 22:7 22:8 25:1 25:2 25:3 26:1 26:9 27:11 28:7",
+   "Oholot": "3:5 3:7 6:3 6:4 7:1 7:4 10:3 15:8 16:2 17:5",
+   "Negaim": "2:1 2:2 2:4 2:5 6:7 10:2 10:4 10:9 10:10 11:3 11:4 11:8 12:4 12:5 13:3 13:10 13:11 14:8 14:9 14:11 14:12",
+   "Parah": "2:2 2:4 2:5 3:9 4:1 5:1 5:4 5:6 7:9 8:8 8:9 8:10 8:11 9:5 11:8 11:9 12:1 12:2 12:5",
+   "Tahorot": "1:1 4:1 4:8 5:5 5:6 6:8 7:8 8:1 9:4 10:1",
+   "Mikvaot": "2:10 5:2 5:4 5:5 6:1 6:5 6:9 7:6 9:1 9:6 9:7 10:5",
+   "Niddah": "1:7 3:1 4:5 6:11 7:3 7:4 9:5 9:9 9:11 10:2 10:5",
+   "Makhshirin": "2:4 2:5 2:7 2:8 3:1 3:3 3:5 3:6 3:7 6:2 6:3",
+   "Zavim": "2:2 3:1 3:2 3:3",
+   "Tevul Yom": "1:1 1:2 1:5 2:3 2:7 3:1",
+   "Yadayim": "3:4 3:5",
+   "Oktzin": "1:2 2:1 2:4 3:2 3:8"
   }
  },
  "rabbi-yose-b-chalafta": {
@@ -128,6 +191,66 @@
    "Bava Kamma": 1,
    "Shevuot": 1,
    "Kinnim": 1
+  },
+  "mishnayot": {
+   "Berakhot": "2:3",
+   "Peah": "3:4 3:7 6:9 7:1 7:8",
+   "Demai": "2:5 3:3 3:5 7:3",
+   "Kilayim": "2:1 2:7 3:7 5:4 6:5 6:7 7:4 7:5 8:5 8:6 9:7 9:9",
+   "Sheviit": "2:6 3:1 3:9 9:4 9:8 10:1",
+   "Terumot": "1:3 3:3 4:7 4:13 7:5 7:6 7:7 8:5 10:3 10:8 10:11 11:10",
+   "Maasrot": "1:8 3:5 3:7 5:8",
+   "Maaser Sheni": "3:6 3:11 4:7 4:11 5:2 5:14",
+   "Challah": "4:8",
+   "Orlah": "1:1 1:6 1:7 1:9",
+   "Shabbat": "2:5 3:3 5:2 6:8 8:7 12:3 14:2 16:2 16:4 16:5 17:4 17:8 18:3",
+   "Eruvin": "1:6 1:7 2:5 3:4 7:9 8:5 9:3 10:9 10:10",
+   "Pesachim": "1:7 8:7 9:2 10:8",
+   "Shekalim": "4:1 7:7 8:1 8:2",
+   "Yoma": "4:4 4:6 5:1 6:3",
+   "Sukkah": "1:9 3:7 3:14",
+   "Beitzah": "4:2",
+   "Rosh Hashanah": "1:5 1:7 3:2 4:6",
+   "Ta'anit": "2:8 2:9 3:6 3:7",
+   "Megillah": "2:3",
+   "Moed Katan": "1:5 1:8 2:1 2:2 2:5",
+   "Yevamot": "4:10 7:3 8:6 10:1 10:4 16:4",
+   "Ketubot": "1:10 5:7 5:8 6:7 7:3",
+   "Nedarim": "3:11 4:8 6:5 6:10 8:2 8:6 11:1 11:2",
+   "Nazir": "4:7 6:2 9:1 9:5",
+   "Sotah": "2:3 4:5 8:5 9:12 9:15",
+   "Gittin": "5:8 6:7 7:4 7:9",
+   "Kiddushin": "3:9 4:5 4:7",
+   "Bava Kamma": "4:4",
+   "Bava Metzia": "3:2 3:4 3:5 5:7 8:8 10:2",
+   "Bava Batra": "1:3 2:10 2:11 8:7 10:5 10:6",
+   "Sanhedrin": "3:4 5:1 6:4 8:2 9:4",
+   "Makkot": "1:8 1:9",
+   "Shevuot": "7:4",
+   "Eduyot": "1:2 5:2 8:4",
+   "Avodah Zarah": "1:8 2:7 3:3 3:8",
+   "Avot": "2:9 2:12 4:6",
+   "Zevachim": "4:5 4:6 6:1 7:6 13:3",
+   "Menachot": "2:1 2:2 6:5 9:5 11:7",
+   "Chullin": "2:7 3:7 8:1 9:2",
+   "Bekhorot": "2:6 2:7 2:8 3:3 3:4 4:1 5:5 6:1",
+   "Arakhin": "1:3 2:4 5:1 8:1",
+   "Temurah": "1:3 5:3 5:4",
+   "Keritot": "1:4 3:5 4:2 5:4 5:5 5:6 5:7 5:8 6:1",
+   "Middot": "2:2 3:1",
+   "Kinnim": "1:4",
+   "Kelim": "1:9 2:6 3:7 3:8 8:8 8:10 12:1 13:1 16:6 16:7 17:5 17:6 17:12 18:1 18:3 18:4 19:3 19:4 19:9 22:2 23:2 23:4 25:7 26:1 26:4 26:6 27:9 27:10 28:3 28:6 29:2 29:4 30:3 30:4",
+   "Oholot": "2:7 3:6 4:1 4:2 7:2 8:5 10:3 11:1 11:7 12:3 12:8 14:2 17:1 18:1",
+   "Negaim": "6:5 13:12",
+   "Parah": "3:1 3:2 3:3 3:7 5:1 5:6 7:7 7:11 8:8 9:4 10:3 11:3 11:8 11:9",
+   "Tahorot": "1:1 1:2 4:5 4:8 4:10 5:2 5:5 5:6 7:1 8:1 8:2 8:8 9:7 10:1 10:3 10:8",
+   "Mikvaot": "2:2 3:1 4:1 4:3 5:2 5:4 5:5 6:11 7:3 8:2 8:4 9:2 9:6 10:6",
+   "Niddah": "1:5 2:6 4:2 4:5 5:8 7:1 9:1 9:2 9:9 10:5",
+   "Makhshirin": "1:4 1:5 3:3 5:6 5:11 6:7",
+   "Zavim": "1:5 2:3 4:2 4:7",
+   "Tevul Yom": "1:3 1:4 3:2 3:3 3:4 4:7",
+   "Yadayim": "1:1 1:4 1:5 2:1 2:4 3:5 4:3",
+   "Oktzin": "1:4 1:5 1:6 3:2"
   }
  },
  "rabbi-meir": {
@@ -192,6 +315,66 @@
    "Middot": 1,
    "Yadayim": 1,
    "Oktzin": 1
+  },
+  "mishnayot": {
+   "Berakhot": "2:1",
+   "Peah": "2:1 4:11 5:3 7:2 7:5 8:5",
+   "Demai": "1:2 2:5 5:3 5:4",
+   "Kilayim": "2:9 2:11 3:7 4:9 5:1 6:5 7:2 8:3 8:6",
+   "Sheviit": "2:9 3:1 3:3 3:9 5:2 7:2",
+   "Terumot": "4:1 4:2 6:3 6:5 7:2 7:5 7:6 7:7 10:3 11:10",
+   "Maasrot": "2:3 2:5 4:4 5:8",
+   "Maaser Sheni": "2:8 5:14",
+   "Challah": "1:2",
+   "Orlah": "1:5 3:1 3:2 3:6 3:7",
+   "Bikkurim": "4:5",
+   "Shabbat": "6:3 6:8 6:10 8:7 15:1",
+   "Eruvin": "1:7 2:1 3:4 4:4 4:9 4:10 5:2 5:4 6:1 6:4 8:2 8:5 9:1 10:9",
+   "Pesachim": "1:4 1:7 2:8 3:6 3:8 4:6 6:5",
+   "Shekalim": "1:6 1:7 2:5 8:1 8:2",
+   "Yoma": "3:6 3:7 4:6",
+   "Sukkah": "1:6 1:7 3:6 3:7 3:8",
+   "Beitzah": "4:3",
+   "Ta'anit": "1:2 2:10",
+   "Megillah": "2:3 3:2",
+   "Moed Katan": "1:5",
+   "Yevamot": "15:5 16:4",
+   "Ketubot": "1:3 5:1 5:4 6:7 7:8 7:10 8:3 8:7 12:4",
+   "Nedarim": "1:4 2:4 2:5 3:9 4:4 7:2 7:4 7:5 8:2 8:5 8:7 9:3 9:4 9:8 11:7",
+   "Nazir": "1:1 2:6 6:8 7:4 9:1",
+   "Sotah": "2:5 4:3 9:15",
+   "Gittin": "1:2 1:6 4:7 5:1 6:7",
+   "Kiddushin": "1:3 1:4 2:8 3:4 3:9 4:14",
+   "Bava Kamma": "2:4 3:9 4:1 4:4 4:9 9:2 9:4",
+   "Bava Metzia": "1:6 2:1 2:6 3:11 4:5 6:5 7:9 10:6",
+   "Bava Batra": "5:4 9:6",
+   "Sanhedrin": "1:1 1:2 2:1 3:1 3:2 6:5 7:8",
+   "Makkot": "1:2 1:3 2:3 2:5 2:8",
+   "Shevuot": "1:4 4:1 4:13 5:1 5:3 6:6 7:4",
+   "Eduyot": "1:9 3:1",
+   "Avodah Zarah": "1:3 1:5 1:8 2:2 2:4 3:1",
+   "Avot": "3:8 4:10 6:1",
+   "Horayot": "1:5",
+   "Zevachim": "4:3 4:5 7:6 10:6 10:7",
+   "Menachot": "2:4 2:5 5:1 6:5 9:1 10:4 10:5 11:5",
+   "Chullin": "3:2 4:4 4:5 5:3 6:2 6:3 7:1 9:7 9:8",
+   "Bekhorot": "2:8 4:3 5:4 8:1 8:3 8:4 8:10 9:2 9:5 9:8",
+   "Arakhin": "1:2 2:1 2:4 7:5 9:5",
+   "Temurah": "2:1 5:3 5:4",
+   "Keritot": "1:2 1:3 3:1 3:3 3:4 6:1",
+   "Meilah": "6:5",
+   "Middot": "2:2",
+   "Kelim": "3:2 3:5 5:1 5:3 5:7 7:2 7:5 8:10 13:4 15:1 15:4 16:1 17:4 17:5 17:10 17:11 18:4 19:3 19:4 19:9 19:10 25:1 25:2 25:3 25:5 25:7 26:4 27:2 28:6",
+   "Oholot": "2:3 3:1 6:3 7:5 8:2 10:2 10:3 11:7 13:6 15:9 16:2 18:2",
+   "Negaim": "1:1 2:2 2:5 4:4 6:3 8:6 11:3 12:5 13:12",
+   "Parah": "1:1 1:2 2:5 3:5 5:6 6:2 8:8 11:4 11:5 11:6 11:8",
+   "Tahorot": "1:1 3:2 3:8 5:7 5:9 6:9 7:2 7:3 7:4 8:4 9:4 10:1 10:3",
+   "Mikvaot": "2:10 4:1 5:4 6:10",
+   "Niddah": "1:4 2:6 3:2 4:5 4:7 6:1 6:13 7:3 9:1 9:5",
+   "Makhshirin": "2:10 3:3 6:2 6:5",
+   "Tevul Yom": "1:5 3:1 3:6",
+   "Yadayim": "2:1",
+   "Oktzin": "1:2"
   }
  },
  "shimon-bar-yochai": {
@@ -252,6 +435,62 @@
    "Sukkah": 1,
    "Chagigah": 1,
    "Kinnim": 1
+  },
+  "mishnayot": {
+   "Peah": "1:3 2:6 3:8 4:1",
+   "Demai": "3:4 5:3",
+   "Kilayim": "2:1 2:2 2:7 4:9 5:2 7:4 7:8",
+   "Sheviit": "1:8 2:1 2:2 2:3 2:5 2:6 2:8 2:10 3:2 3:3 6:5 6:6 7:6 8:6 8:7 9:1 9:3 9:5",
+   "Terumot": "3:5 3:9 4:12 5:8 10:11 11:10",
+   "Maasrot": "1:4 2:4 3:8",
+   "Maaser Sheni": "2:2 3:2 3:11 3:13 5:6",
+   "Orlah": "2:1 2:9 2:10 2:14 2:15 2:16",
+   "Shabbat": "3:6 8:1 10:5 10:6 13:6 14:4",
+   "Eruvin": "3:4 4:6 4:11 5:6 6:5 8:2 8:5 9:1 10:2 10:3 10:15",
+   "Pesachim": "5:4 8:3 9:8",
+   "Shekalim": "2:4 3:1 7:6 8:5 8:8",
+   "Yoma": "5:7 6:6 6:7",
+   "Sukkah": "2:1",
+   "Beitzah": "1:9 3:4",
+   "Rosh Hashanah": "1:1 1:7",
+   "Chagigah": "1:7",
+   "Yevamot": "2:2 3:4 3:9 6:3 6:4 8:3 8:6 10:1 10:7 10:8 10:9 12:5 15:5",
+   "Ketubot": "2:8 4:1 8:2 8:4 9:8 10:3 11:2",
+   "Nazir": "2:4 2:8 5:6 6:9 6:10",
+   "Sotah": "3:2 3:5",
+   "Gittin": "1:5 2:2",
+   "Kiddushin": "2:2 4:12",
+   "Bava Kamma": "4:1 6:2 6:4 7:2 7:4",
+   "Bava Metzia": "2:10 4:2 4:5 4:9 5:10 10:6",
+   "Bava Batra": "2:2 2:14 4:9 6:8",
+   "Sanhedrin": "1:3 2:4 3:3 7:1 9:2 9:3 10:6",
+   "Makkot": "1:7 2:3 3:2 3:6 3:15",
+   "Shevuot": "1:4 1:7 3:4 4:3 5:2 5:3 5:4 6:5",
+   "Eduyot": "8:1 8:7",
+   "Avodah Zarah": "3:7 4:10",
+   "Avot": "2:8 2:9 2:13 3:3 3:7 4:13 6:8",
+   "Horayot": "1:2 1:5 2:7 3:3",
+   "Zevachim": "1:4 2:1 4:3 4:4 4:5 8:3 8:12 9:1 9:2 10:7 10:8 11:7 12:6 13:3 13:7 14:2",
+   "Menachot": "3:4 4:2 4:3 4:4 4:5 5:5 5:7 5:9 6:1 6:4 6:7 9:2 9:7 10:8 11:2 11:9 12:3 12:4 13:10",
+   "Chullin": "2:3 2:5 2:6 2:10 3:1 5:3 9:7 9:8",
+   "Bekhorot": "4:9 5:2 8:2 9:5",
+   "Arakhin": "7:4 7:5 8:5 9:5",
+   "Temurah": "1:2 1:6 2:2 3:1 3:3 3:5 7:3 7:4",
+   "Keritot": "1:5 3:9 4:3 5:4 5:5 5:6 5:7 5:8 6:9",
+   "Meilah": "3:4 3:6 4:6",
+   "Kinnim": "3:6",
+   "Kelim": "3:2 3:5 5:7 7:5 9:4 9:8 14:2 15:2 17:3 17:4 17:11 17:17 18:4 22:6 24:17 25:3 26:8 27:4 27:11 27:12 28:6 28:7 30:3",
+   "Oholot": "2:2 2:7 3:2 7:2 9:14 10:2 11:7 13:1 16:5 18:5",
+   "Negaim": "4:4 4:6 6:6 10:2 10:4 10:8 10:9 11:3 11:9 12:5 13:11 14:9 14:10 14:11",
+   "Parah": "2:2 5:1 6:2 9:2 11:8 12:1",
+   "Tahorot": "4:8 6:1 9:1 9:3 9:4 10:1 10:3",
+   "Mikvaot": "1:3 1:5 2:5 2:6 2:10 8:5",
+   "Niddah": "3:4 4:5 5:1 7:2 9:2",
+   "Makhshirin": "1:6 3:5 4:10 5:3 5:10 6:5 6:6 6:8",
+   "Zavim": "3:2 4:3 4:4 4:5 4:7 5:4 5:5",
+   "Tevul Yom": "3:4 4:7",
+   "Yadayim": "3:3 3:5",
+   "Oktzin": "2:9 3:2 3:3 3:4"
   }
  },
  "rabbi-eliezer-b-hyrcanus": {
@@ -315,6 +554,65 @@
    "Bava Metzia": 1,
    "Makkot": 1,
    "Tamid": 1
+  },
+  "mishnayot": {
+   "Berakhot": "1:1 1:2 4:4 5:2 7:5",
+   "Peah": "3:6 4:9 5:2 5:4 7:7",
+   "Demai": "4:3 5:9 6:3",
+   "Kilayim": "2:10 3:4 5:3 5:8 6:2",
+   "Sheviit": "5:3 8:9 8:10 9:5 9:9 10:7",
+   "Terumot": "2:1 4:5 4:7 4:8 4:9 4:10 4:11 5:2 5:4 5:5 5:6 6:6 8:1 8:2 8:3 8:8 8:9 8:10 8:11 11:2",
+   "Maasrot": "2:4 4:3 4:5 4:6",
+   "Challah": "1:3 2:1 2:4 2:8 4:7",
+   "Orlah": "1:7 2:1 2:11 2:13",
+   "Shabbat": "1:10 2:3 6:4 8:6 10:6 12:4 13:1 17:7 19:1 19:4 20:1 22:1",
+   "Eruvin": "1:2 2:5 3:3 3:6 4:5 4:11 7:10 7:11 9:2 10:10",
+   "Pesachim": "1:7 3:1 3:3 5:9 6:1 6:2 6:5 9:2 9:4",
+   "Shekalim": "4:7 8:7",
+   "Yoma": "5:5 7:3 8:1",
+   "Sukkah": "1:11 2:6 4:5",
+   "Beitzah": "4:6 4:7",
+   "Ta'anit": "1:1 3:9",
+   "Megillah": "4:10",
+   "Moed Katan": "3:6",
+   "Chagigah": "3:8",
+   "Yevamot": "3:1 6:3 6:4 8:6 12:2 12:3 13:2 13:6 13:7 16:7",
+   "Ketubot": "1:6 1:7 1:8 1:9 5:5 5:6 9:4",
+   "Nedarim": "4:3 9:1 9:2 10:5 10:6 10:7",
+   "Nazir": "3:3 3:4 3:5 6:11 7:1 7:4",
+   "Sotah": "1:1 3:4 4:3 6:1 8:3 9:2 9:3 9:4 9:15",
+   "Gittin": "1:1 4:7 6:3 6:4 8:8 9:1",
+   "Kiddushin": "1:4 1:9 3:13 4:3 4:13",
+   "Bava Kamma": "1:4 4:9 6:4",
+   "Bava Metzia": "6:8",
+   "Bava Batra": "3:8 4:4 4:5 9:7",
+   "Sanhedrin": "1:4 6:4 10:3",
+   "Makkot": "3:5",
+   "Shevuot": "2:5 5:3",
+   "Eduyot": "2:7 5:4 5:5 6:2 6:3 7:1 7:5 7:6 7:7 8:6",
+   "Avodah Zarah": "1:8 3:9",
+   "Avot": "2:8 2:9 2:10",
+   "Horayot": "1:2 2:7",
+   "Zevachim": "1:1 1:4 3:3 7:4 8:4 8:5 8:7 8:8 8:9 8:10 8:11 8:12 11:3",
+   "Menachot": "3:1 3:4 7:3",
+   "Chullin": "2:6 2:7 12:2",
+   "Bekhorot": "1:6 4:7 5:3 7:6 8:10 9:5",
+   "Arakhin": "3:2 6:1 6:3 7:4 9:8",
+   "Temurah": "3:1 3:3 6:5",
+   "Keritot": "3:3 3:10 4:2 4:3 6:1 6:3",
+   "Meilah": "1:2 1:3",
+   "Tamid": "3:8",
+   "Kelim": "2:8 3:2 5:10 8:1 10:1 11:5 11:8 14:1 14:7 15:2 17:1 18:9 26:2 26:4 26:5 27:5 27:12 28:2",
+   "Oholot": "2:2 2:4 6:1 9:14 9:15 11:7 12:3 12:8 14:4 14:5 17:5",
+   "Negaim": "6:7 7:4 7:5 9:3 11:7 14:9",
+   "Parah": "1:1 2:1 2:3 2:5 4:1 4:3 5:4 7:10 9:1 9:3 9:4 9:7 10:1 10:3 11:2 11:7",
+   "Tahorot": "2:2 2:7 8:7 9:3",
+   "Mikvaot": "2:4 2:7 2:8 2:10 8:1 9:3",
+   "Niddah": "1:3 1:5 4:4 4:6 5:9 10:3",
+   "Makhshirin": "6:6 6:7",
+   "Zavim": "1:1 2:2 5:3 5:7",
+   "Yadayim": "4:2 4:3",
+   "Oktzin": "2:3 3:10"
   }
  },
  "rabbi-akiva": {
@@ -374,6 +672,61 @@
    "Beitzah": 1,
    "Avot": 1,
    "Temurah": 1
+  },
+  "mishnayot": {
+   "Berakhot": "4:3 5:2 6:8 7:3",
+   "Peah": "1:6 3:2 3:6 4:5 4:10 7:7 8:5",
+   "Kilayim": "1:3 3:3 3:6 5:7 6:1 7:5",
+   "Sheviit": "1:8 3:10 4:6 6:2 8:9 9:6",
+   "Terumot": "3:3 4:5 4:8 4:13 6:6 9:2",
+   "Maasrot": "3:5 3:9 4:6",
+   "Maaser Sheni": "2:4 2:7 2:9 5:8",
+   "Challah": "2:1 2:3 3:6 4:4 4:5 4:9",
+   "Orlah": "3:7",
+   "Shabbat": "2:3 8:5 9:1 11:1 15:3 19:1",
+   "Eruvin": "1:2 2:4 2:5 4:1 5:8 5:9 6:9 10:15",
+   "Pesachim": "1:6 3:4 6:2 7:1 9:2 9:6 10:6 10:9",
+   "Shekalim": "3:1 4:3 4:4 4:6 4:7 8:7",
+   "Yoma": "2:3 7:3 8:9",
+   "Sukkah": "3:4 3:9",
+   "Beitzah": "3:3",
+   "Rosh Hashanah": "1:6 2:9 4:5",
+   "Ta'anit": "3:3 3:4 4:4",
+   "Yevamot": "4:12 4:13 8:4 12:3 12:5 15:6 15:7 16:7",
+   "Ketubot": "3:3 5:2 9:2 9:3 11:4",
+   "Nedarim": "1:1 7:1 9:5 9:6 10:6 11:4",
+   "Nazir": "4:5 6:1 6:6 7:4",
+   "Sotah": "5:1 5:2 5:3 5:4 8:5 9:3 9:4 9:15",
+   "Gittin": "8:10 9:10",
+   "Bava Kamma": "3:8 6:4 8:6",
+   "Bava Metzia": "2:7 3:12",
+   "Bava Batra": "1:6 2:9 3:1 4:2 4:9 6:4 7:2 9:10",
+   "Sanhedrin": "1:4 3:4 7:11 9:6 10:1 10:3 10:6 11:4",
+   "Makkot": "1:7 1:10 2:7",
+   "Shevuot": "2:5 3:1 3:5",
+   "Eduyot": "1:8 1:10 2:1 2:2 2:6 2:7 2:8 8:1 8:5",
+   "Avodah Zarah": "2:3 3:5 3:6",
+   "Avot": "3:13",
+   "Horayot": "1:2 2:5",
+   "Zevachim": "8:11 9:3 12:4",
+   "Menachot": "4:3 9:5 10:4 11:3 12:5",
+   "Chullin": "2:4 8:4 9:4",
+   "Bekhorot": "2:6 2:7 2:8 2:9 3:1 4:4 6:6 7:5 8:6 9:5",
+   "Temurah": "1:1",
+   "Keritot": "2:5 3:7 3:8 3:9 3:10 5:2 5:3 5:4 5:5 5:7",
+   "Meilah": "1:2 1:3 5:1 6:6",
+   "Kelim": "2:2 2:4 3:8 11:6 12:5 14:1 17:5 17:13 17:17 20:4 20:6 22:7 22:9 22:10 25:4 25:7 27:5 28:2 28:7 30:2",
+   "Oholot": "1:3 2:2 2:6 2:7 3:5 5:1 5:2 5:7 13:3 16:1",
+   "Negaim": "1:2 1:4 2:1 4:7 4:8 4:9 4:10 5:3 5:4 6:5 7:2 7:4 10:1 12:3 14:10",
+   "Parah": "2:5 3:4 3:9 8:11 10:4 10:5",
+   "Tahorot": "5:1 5:2 7:9",
+   "Mikvaot": "3:3 7:1 8:3",
+   "Niddah": "2:3 5:8 6:12 8:3 10:3",
+   "Makhshirin": "4:9 5:4 6:8",
+   "Zavim": "1:2 2:2",
+   "Tevul Yom": "3:4 3:5",
+   "Yadayim": "3:1 3:5 4:1",
+   "Oktzin": "3:5 3:6 3:8"
   }
  },
  "rabbi-yehoshua-b-hananyah": {
@@ -425,6 +778,53 @@
    "Temurah": 1,
    "Kinnim": 1,
    "Makhshirin": 1
+  },
+  "mishnayot": {
+   "Berakhot": "1:2 4:3 4:4",
+   "Peah": "3:6",
+   "Kilayim": "6:4",
+   "Sheviit": "1:8 2:3 3:10 5:3 9:5",
+   "Terumot": "4:7 4:8 4:9 4:10 4:11 8:1 8:2 8:3 8:8 8:9 8:10 8:11 11:2",
+   "Maaser Sheni": "5:9",
+   "Challah": "2:5",
+   "Orlah": "1:7",
+   "Shabbat": "12:4 12:5 19:4",
+   "Eruvin": "4:1 7:10",
+   "Pesachim": "1:7 3:3 6:2 6:5 9:6",
+   "Shekalim": "4:7",
+   "Yoma": "2:3",
+   "Rosh Hashanah": "2:8",
+   "Ta'anit": "1:1 2:6 4:4",
+   "Yevamot": "4:13 8:4 13:7 16:1 16:7",
+   "Ketubot": "1:6 1:7 1:8 1:9 2:2",
+   "Nedarim": "10:6",
+   "Nazir": "7:4 8:1",
+   "Sotah": "1:1 3:4 5:1 5:2 5:5 6:1 9:12 9:15",
+   "Bava Batra": "9:7",
+   "Sanhedrin": "7:11",
+   "Eduyot": "2:5 2:7 3:7 6:2 6:3 7:1 7:5 7:6 8:1 8:3 8:5 8:6 8:7",
+   "Avodah Zarah": "2:5",
+   "Avot": "2:8 2:9 2:11",
+   "Zevachim": "1:3 7:4 8:10 9:1",
+   "Menachot": "3:4",
+   "Chullin": "2:4",
+   "Bekhorot": "1:6 9:4",
+   "Arakhin": "6:1",
+   "Temurah": "3:1",
+   "Keritot": "3:7 3:9 4:2 4:3",
+   "Meilah": "1:1 4:3",
+   "Kinnim": "3:6",
+   "Kelim": "11:4 13:7 14:7 17:1 28:2",
+   "Oholot": "2:4 9:15 12:3 12:8 14:3 14:4 14:5 17:2",
+   "Negaim": "4:11 7:4 8:2 14:13",
+   "Parah": "1:1 2:5 5:3 5:4 9:4 10:1 10:2 10:6",
+   "Tahorot": "2:2 6:2 8:7 8:9",
+   "Mikvaot": "2:7 2:8 2:10 3:1",
+   "Niddah": "1:3 4:4 6:14 10:3",
+   "Makhshirin": "1:3",
+   "Zavim": "4:1 5:1",
+   "Tevul Yom": "3:4 3:5 4:6",
+   "Yadayim": "3:1 3:2 4:3 4:4"
   }
  },
  "rabban-shimon-b-gamliel-(ii)": {
@@ -467,6 +867,44 @@
    "Temurah": 1,
    "Keritot": 1,
    "Oholot": 1
+  },
+  "mishnayot": {
+   "Berakhot": "2:8",
+   "Peah": "5:1",
+   "Demai": "7:3",
+   "Sheviit": "1:7 3:4 4:10",
+   "Maasrot": "4:6 5:5",
+   "Maaser Sheni": "3:5 5:1",
+   "Shabbat": "1:9 13:5 18:1",
+   "Eruvin": "8:6",
+   "Pesachim": "2:3 4:5",
+   "Shekalim": "8:5",
+   "Beitzah": "3:1",
+   "Ta'anit": "4:7 4:8",
+   "Megillah": "1:8",
+   "Ketubot": "2:8 5:5 6:4 7:9 8:5 9:1 9:9 11:4 11:5 12:4",
+   "Nedarim": "8:5",
+   "Nazir": "6:8",
+   "Sotah": "9:12 9:15",
+   "Gittin": "1:1 4:4 4:6 6:1 6:6 7:5 7:6",
+   "Bava Kamma": "3:3 5:4",
+   "Bava Metzia": "1:8 3:6 5:5 7:1 8:6 8:8 9:8 9:13 10:5",
+   "Bava Batra": "1:5 4:7 5:10 5:11 6:1 6:4 6:8 8:5 10:1 10:4 10:7",
+   "Sanhedrin": "1:2 3:8",
+   "Makkot": "1:10",
+   "Shevuot": "7:7",
+   "Eduyot": "8:3",
+   "Avodah Zarah": "2:3 3:1 3:3 5:3 5:4 5:10",
+   "Avot": "1:18",
+   "Menachot": "11:9",
+   "Chullin": "2:6 3:2 6:7 8:2",
+   "Bekhorot": "2:4 3:2 5:4 6:9 7:6",
+   "Temurah": "5:2",
+   "Keritot": "1:7",
+   "Kelim": "7:6 11:1 17:4 26:1",
+   "Oholot": "18:9",
+   "Mikvaot": "6:7 9:5",
+   "Yadayim": "2:2 3:1"
   }
  },
  "rabbi-yishmael-b-elisha": {
@@ -514,6 +952,49 @@
    "Zavim": 1,
    "Yadayim": 1,
    "Oktzin": 1
+  },
+  "mishnayot": {
+   "Berakhot": "7:3",
+   "Peah": "4:10",
+   "Demai": "6:4",
+   "Kilayim": "3:3 3:6 3:7 6:4",
+   "Sheviit": "1:4",
+   "Terumot": "4:5",
+   "Maasrot": "3:5",
+   "Challah": "4:4",
+   "Shabbat": "2:2 15:3",
+   "Eruvin": "1:2",
+   "Pesachim": "10:9",
+   "Shekalim": "3:2 4:3 4:4",
+   "Yoma": "4:1 6:8",
+   "Sukkah": "3:4",
+   "Moed Katan": "3:8",
+   "Ketubot": "5:8",
+   "Nedarim": "3:11 9:10",
+   "Nazir": "6:3",
+   "Sotah": "9:15",
+   "Bava Batra": "3:1 6:4 10:8",
+   "Sanhedrin": "1:2",
+   "Shevuot": "2:5 3:5",
+   "Eduyot": "2:4 2:5 2:6 5:3",
+   "Avodah Zarah": "1:2 2:5 4:1",
+   "Avot": "3:12 4:5 4:7",
+   "Menachot": "3:7 10:1",
+   "Chullin": "9:4",
+   "Bekhorot": "3:1 6:6 6:12 7:5",
+   "Arakhin": "8:7",
+   "Keritot": "2:5",
+   "Meilah": "3:3",
+   "Kelim": "2:2 5:3 7:3",
+   "Oholot": "3:5",
+   "Negaim": "1:2 2:1 8:9 11:5 12:3",
+   "Parah": "1:3 3:11 8:11",
+   "Tahorot": "1:2",
+   "Mikvaot": "7:1 8:3 9:6",
+   "Niddah": "3:7 6:12",
+   "Zavim": "1:2",
+   "Yadayim": "4:3",
+   "Oktzin": "2:2"
   }
  },
  "rabbi-tarfon": {
@@ -552,6 +1033,40 @@
    "Mikvaot": 1,
    "Makhshirin": 1,
    "Yadayim": 1
+  },
+  "mishnayot": {
+   "Berakhot": "1:3 6:8",
+   "Peah": "3:6",
+   "Kilayim": "5:8",
+   "Terumot": "4:5 9:2",
+   "Maasrot": "3:9",
+   "Maaser Sheni": "2:4 2:9",
+   "Shabbat": "2:2",
+   "Eruvin": "4:4",
+   "Pesachim": "10:6",
+   "Sukkah": "3:4",
+   "Beitzah": "3:5",
+   "Ta'anit": "3:9",
+   "Yevamot": "15:6 15:7",
+   "Ketubot": "5:2 7:6 9:2 9:3",
+   "Nedarim": "6:6",
+   "Nazir": "5:5 6:6",
+   "Kiddushin": "3:13",
+   "Bava Kamma": "2:5",
+   "Bava Metzia": "2:7 4:3",
+   "Makkot": "1:10",
+   "Eduyot": "1:10",
+   "Avot": "2:15",
+   "Zevachim": "10:8 11:7",
+   "Menachot": "12:5",
+   "Bekhorot": "2:6 2:7 2:8 2:9 4:4",
+   "Keritot": "5:2 5:3",
+   "Kelim": "11:4 11:7 25:7",
+   "Oholot": "13:3 16:1",
+   "Parah": "1:3",
+   "Mikvaot": "10:5",
+   "Makhshirin": "5:4",
+   "Yadayim": "4:3"
   }
  },
  "rabbi-elazar-b-shamua": {
@@ -579,6 +1094,29 @@
    "Niddah": 1,
    "Makhshirin": 1,
    "Oktzin": 1
+  },
+  "mishnayot": {
+   "Kilayim": "9:3",
+   "Sheviit": "2:8",
+   "Shekalim": "3:1 4:8",
+   "Yoma": "5:7",
+   "Rosh Hashanah": "1:1 4:1",
+   "Yevamot": "8:4 10:1 10:3 13:11 16:2",
+   "Ketubot": "2:8 3:6",
+   "Nazir": "6:7",
+   "Gittin": "3:2 3:8 9:4",
+   "Avot": "2:9 2:14 4:12",
+   "Zevachim": "13:4 13:6",
+   "Bekhorot": "1:5",
+   "Arakhin": "4:4 8:4 9:1",
+   "Temurah": "2:3 3:3 3:4",
+   "Oholot": "3:5 17:2",
+   "Negaim": "13:2 13:6",
+   "Tahorot": "6:4 6:5 6:6 7:9",
+   "Mikvaot": "6:11",
+   "Niddah": "6:12",
+   "Makhshirin": "4:5",
+   "Oktzin": "1:2"
   }
  },
  "rabban-gamliel": {
@@ -606,6 +1144,29 @@
    "Keritot": 1,
    "Negaim": 1,
    "Yadayim": 1
+  },
+  "mishnayot": {
+   "Berakhot": "1:1 4:3 6:8",
+   "Sheviit": "1:5",
+   "Terumot": "8:8",
+   "Maaser Sheni": "2:7 5:9",
+   "Challah": "4:7 4:8",
+   "Shabbat": "12:6",
+   "Eruvin": "4:1 4:2",
+   "Pesachim": "3:4 10:5",
+   "Shekalim": "3:3",
+   "Rosh Hashanah": "2:8 2:9 4:9",
+   "Moed Katan": "3:6",
+   "Yevamot": "13:7 16:7",
+   "Ketubot": "1:6 1:7 1:8 1:9",
+   "Bava Batra": "9:1",
+   "Eduyot": "3:9 3:10 7:7",
+   "Avodah Zarah": "3:4",
+   "Keritot": "3:7",
+   "Kelim": "12:3 12:6 28:4",
+   "Negaim": "7:4",
+   "Parah": "9:3 11:1",
+   "Yadayim": "4:4"
   }
  },
  "rabbi-yohanan-b-nuri": {
@@ -634,6 +1195,30 @@
    "Keritot": 1,
    "Parah": 1,
    "Tahorot": 1
+  },
+  "mishnayot": {
+   "Kilayim": "6:1",
+   "Terumot": "10:11",
+   "Challah": "4:2",
+   "Eruvin": "4:5",
+   "Rosh Hashanah": "2:8 4:5 4:6",
+   "Yevamot": "14:1",
+   "Ketubot": "1:10",
+   "Nedarim": "11:4",
+   "Bava Metzia": "3:7",
+   "Eduyot": "2:10",
+   "Chullin": "9:2 9:3",
+   "Bekhorot": "6:6",
+   "Temurah": "1:1",
+   "Keritot": "3:6",
+   "Kelim": "2:7 11:3 17:5 17:14 17:17 30:2",
+   "Oholot": "2:7 6:7 8:1 12:1 14:3",
+   "Negaim": "10:1 14:10",
+   "Parah": "12:8",
+   "Tahorot": "8:6",
+   "Mikvaot": "7:1 7:5",
+   "Tevul Yom": "2:5 2:6",
+   "Oktzin": "3:5 3:6"
   }
  },
  "rabbi-elazar-b-azaryah": {
@@ -667,6 +1252,35 @@
    "Tahorot": 1,
    "Makhshirin": 1,
    "Oktzin": 1
+  },
+  "mishnayot": {
+   "Berakhot": "1:5 4:7",
+   "Sheviit": "1:8 3:3",
+   "Maasrot": "5:1",
+   "Shabbat": "4:2 5:4 19:3",
+   "Eruvin": "4:1",
+   "Yoma": "8:9",
+   "Beitzah": "2:8",
+   "Moed Katan": "1:2",
+   "Ketubot": "4:6 5:1",
+   "Nedarim": "3:11",
+   "Nazir": "6:2",
+   "Sotah": "9:15",
+   "Bava Kamma": "6:4",
+   "Makkot": "1:10",
+   "Eduyot": "3:12",
+   "Avot": "3:17",
+   "Zevachim": "1:3",
+   "Menachot": "13:6",
+   "Arakhin": "8:4",
+   "Keritot": "2:5",
+   "Kelim": "3:8",
+   "Negaim": "7:2 8:9 13:6",
+   "Tahorot": "7:7",
+   "Mikvaot": "3:2 8:3",
+   "Makhshirin": "6:6",
+   "Yadayim": "3:5 4:2 4:3",
+   "Oktzin": "1:5"
   }
  },
  "rabban-gamliel-b-rabbi-(iii)": {
@@ -695,6 +1309,30 @@
    "Zevachim": 1,
    "Negaim": 1,
    "Tahorot": 1
+  },
+  "mishnayot": {
+   "Peah": "2:4 2:6 4:5 6:6",
+   "Demai": "3:1",
+   "Sheviit": "9:5",
+   "Orlah": "1:4",
+   "Shabbat": "16:8",
+   "Eruvin": "6:2 10:1 10:10",
+   "Pesachim": "1:5",
+   "Sukkah": "2:1",
+   "Beitzah": "1:8 2:6 3:2",
+   "Rosh Hashanah": "1:6",
+   "Ta'anit": "1:3 2:10",
+   "Yevamot": "5:1",
+   "Ketubot": "8:1",
+   "Sotah": "2:1",
+   "Gittin": "1:1 1:5",
+   "Bava Metzia": "5:8 5:10",
+   "Shevuot": "6:3",
+   "Avot": "2:2",
+   "Zevachim": "9:1",
+   "Kelim": "5:4 8:9 17:2",
+   "Negaim": "6:5",
+   "Tahorot": "9:1"
   }
  },
  "rabbi-eliezer-b-yaakov-(ii)": {
@@ -719,6 +1357,26 @@
    "Keritot": 1,
    "Tahorot": 1,
    "Makhshirin": 1
+  },
+  "mishnayot": {
+   "Kilayim": "2:9 4:8 5:3",
+   "Sheviit": "2:10",
+   "Shabbat": "15:2",
+   "Eruvin": "6:1 8:10",
+   "Shekalim": "6:3",
+   "Moed Katan": "1:3",
+   "Nedarim": "3:1 5:1 5:2",
+   "Kiddushin": "4:7",
+   "Makkot": "2:2",
+   "Avot": "4:11",
+   "Menachot": "5:6 9:3",
+   "Arakhin": "2:6",
+   "Keritot": "2:1",
+   "Middot": "1:2 1:9 2:5 2:6",
+   "Kelim": "7:3 28:9",
+   "Negaim": "10:4 11:11",
+   "Tahorot": "3:8",
+   "Makhshirin": "6:3"
   }
  },
  "rabi": {
@@ -742,6 +1400,25 @@
    "Temurah": 1,
    "Meilah": 1,
    "Middot": 1
+  },
+  "mishnayot": {
+   "Sheviit": "6:4",
+   "Maasrot": "5:5",
+   "Shabbat": "6:5",
+   "Nedarim": "3:11",
+   "Nazir": "1:4 4:5",
+   "Sotah": "3:5 5:1",
+   "Bava Kamma": "5:3",
+   "Makkot": "1:8 2:1",
+   "Avodah Zarah": "4:5 5:11",
+   "Avot": "2:1 4:20",
+   "Menachot": "13:2 13:5 13:8 13:9",
+   "Chullin": "3:4",
+   "Bekhorot": "7:6",
+   "Arakhin": "4:2 8:5 9:3",
+   "Temurah": "6:2",
+   "Meilah": "5:3",
+   "Middot": "3:4"
   }
  },
  "rabbi-yose-hagelili": {
@@ -767,6 +1444,27 @@
    "Horayot": 1,
    "Menachot": 1,
    "Niddah": 1
+  },
+  "mishnayot": {
+   "Berakhot": "7:3",
+   "Sheviit": "4:6",
+   "Eruvin": "1:7",
+   "Pesachim": "7:1",
+   "Ketubot": "3:3",
+   "Sotah": "8:5",
+   "Gittin": "2:3",
+   "Bava Kamma": "8:6",
+   "Bava Metzia": "2:10",
+   "Sanhedrin": "10:6",
+   "Makkot": "2:7",
+   "Avodah Zarah": "3:5",
+   "Horayot": "2:5",
+   "Zevachim": "8:12 13:1 13:2",
+   "Menachot": "5:8",
+   "Chullin": "4:3 5:3 8:4",
+   "Bekhorot": "2:6 8:1",
+   "Parah": "1:2 3:4",
+   "Niddah": "5:8"
   }
  },
  "shimon-b-azzai": {
@@ -788,6 +1486,23 @@
    "Zevachim": 1,
    "Bekhorot": 1,
    "Niddah": 1
+  },
+  "mishnayot": {
+   "Berakhot": "9:4",
+   "Shekalim": "3:1 4:6 5:3",
+   "Yoma": "2:3",
+   "Ta'anit": "4:4",
+   "Yevamot": "4:13",
+   "Sotah": "3:4 9:15",
+   "Bava Batra": "9:10",
+   "Avot": "4:2",
+   "Horayot": "1:2",
+   "Zevachim": "1:3",
+   "Bekhorot": "9:5",
+   "Kinnim": "2:5 3:6",
+   "Parah": "1:1 1:3",
+   "Niddah": "5:8",
+   "Yadayim": "3:5 3:5 4:2 4:2"
   }
  },
  "rabban-yochanan-b-zakkai": {
@@ -806,6 +1521,20 @@
    "Sanhedrin": 1,
    "Avot": 1,
    "Menachot": 1
+  },
+  "mishnayot": {
+   "Shabbat": "16:7 22:3",
+   "Shekalim": "1:4",
+   "Sukkah": "2:5 3:12",
+   "Rosh Hashanah": "4:1 4:3 4:4",
+   "Ketubot": "13:1 13:2",
+   "Sotah": "5:2 5:5 9:9 9:15",
+   "Sanhedrin": "5:2",
+   "Eduyot": "8:3 8:7",
+   "Avot": "2:8",
+   "Menachot": "10:5",
+   "Kelim": "2:2 17:16",
+   "Yadayim": "4:3 4:6"
   }
  },
  "abba-shaul": {
@@ -828,6 +1557,24 @@
    "Sanhedrin": 1,
    "Makkot": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Peah": "8:5",
+   "Kilayim": "2:3",
+   "Shabbat": "23:3 24:5",
+   "Shekalim": "4:2",
+   "Beitzah": "3:8",
+   "Ketubot": "7:6",
+   "Nedarim": "6:5",
+   "Gittin": "5:4",
+   "Kiddushin": "4:2",
+   "Bava Metzia": "4:12 6:7",
+   "Bava Batra": "2:7 2:13",
+   "Sanhedrin": "10:1",
+   "Makkot": "2:2",
+   "Avot": "2:8",
+   "Menachot": "8:3 11:5",
+   "Middot": "2:5 5:4"
   }
  },
  "rabbi-nehemiyah": {
@@ -849,6 +1596,23 @@
    "Niddah": 1,
    "Makhshirin": 1,
    "Tevul Yom": 1
+  },
+  "mishnayot": {
+   "Terumot": "8:7",
+   "Maasrot": "3:5",
+   "Shabbat": "8:4 17:4",
+   "Yevamot": "5:6",
+   "Nedarim": "3:11",
+   "Nazir": "9:4",
+   "Sotah": "5:4",
+   "Sanhedrin": "1:6 9:1 10:3",
+   "Zevachim": "13:6",
+   "Kelim": "18:5",
+   "Negaim": "11:5",
+   "Niddah": "9:3",
+   "Makhshirin": "3:2",
+   "Zavim": "4:3 4:7",
+   "Tevul Yom": "3:1"
   }
  },
  "rabbi-tzadok-(i)": {
@@ -865,6 +1629,18 @@
    "Avot": 1,
    "Bekhorot": 1,
    "Mikvaot": 1
+  },
+  "mishnayot": {
+   "Terumot": "10:9",
+   "Shabbat": "20:2 24:5",
+   "Pesachim": "7:2",
+   "Sukkah": "2:5",
+   "Nedarim": "9:1",
+   "Eduyot": "3:8 7:1 7:2 7:3 7:4",
+   "Avot": "4:5",
+   "Bekhorot": "1:6",
+   "Kelim": "12:4 12:5",
+   "Mikvaot": "5:5"
   }
  },
  "rabbi-yehudah-b-betera-(ii)": {
@@ -884,6 +1660,21 @@
    "Oholot": 1,
    "Negaim": 1,
    "Mikvaot": 1
+  },
+  "mishnayot": {
+   "Peah": "3:6",
+   "Shabbat": "9:7",
+   "Yevamot": "4:9",
+   "Ketubot": "6:1",
+   "Nedarim": "6:8",
+   "Gittin": "2:4",
+   "Shevuot": "3:6",
+   "Eduyot": "8:3",
+   "Arakhin": "8:6",
+   "Kelim": "2:4",
+   "Oholot": "11:7",
+   "Negaim": "11:7",
+   "Mikvaot": "4:5"
   }
  },
  "rabbi-elazar-b-tzadok-(i)": {
@@ -902,6 +1693,20 @@
    "Mikvaot": 1,
    "Niddah": 1,
    "Oktzin": 1
+  },
+  "mishnayot": {
+   "Kilayim": "7:2",
+   "Maasrot": "4:4",
+   "Pesachim": "10:3",
+   "Rosh Hashanah": "2:7",
+   "Eduyot": "2:5",
+   "Menachot": "9:2",
+   "Chullin": "3:6",
+   "Kelim": "2:5 2:6",
+   "Tahorot": "2:8",
+   "Mikvaot": "2:10",
+   "Niddah": "8:4",
+   "Oktzin": "1:6"
   }
  },
  "rabbi-yose-b-yehudah": {
@@ -919,6 +1724,19 @@
    "Chullin": 1,
    "Bekhorot": 1,
    "Temurah": 1
+  },
+  "mishnayot": {
+   "Eruvin": "1:10",
+   "Pesachim": "4:6",
+   "Gittin": "4:7",
+   "Bava Metzia": "7:3",
+   "Sanhedrin": "8:3",
+   "Makkot": "2:3 2:6",
+   "Zevachim": "6:1",
+   "Menachot": "8:7",
+   "Chullin": "1:3",
+   "Bekhorot": "9:7",
+   "Temurah": "2:3"
   }
  },
  "rabbi-dosa-b-harkinas": {
@@ -933,6 +1751,16 @@
    "Chullin": 1,
    "Oholot": 1,
    "Negaim": 1
+  },
+  "mishnayot": {
+   "Eruvin": "3:9",
+   "Rosh Hashanah": "2:8 2:9",
+   "Ketubot": "13:1 13:2",
+   "Eduyot": "3:1 3:2 3:5",
+   "Avot": "3:10",
+   "Chullin": "11:2",
+   "Oholot": "3:1",
+   "Negaim": "1:4"
   }
  },
  "rabbi-yohanan-b-berokah": {
@@ -950,6 +1778,19 @@
    "Avot": 1,
    "Bekhorot": 1,
    "Kelim": 1
+  },
+  "mishnayot": {
+   "Eruvin": "8:2 10:15",
+   "Pesachim": "7:9",
+   "Sukkah": "4:6",
+   "Yevamot": "6:6",
+   "Ketubot": "2:1",
+   "Bava Kamma": "10:2",
+   "Bava Batra": "8:5",
+   "Shevuot": "7:7",
+   "Avot": "4:4",
+   "Bekhorot": "8:10",
+   "Kelim": "17:11"
   }
  },
  "rabban-gamliel-hazaken-(i)": {
@@ -964,6 +1805,16 @@
    "Yevamot": 1,
    "Sotah": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Orlah": "2:12",
+   "Shekalim": "6:1",
+   "Rosh Hashanah": "2:5",
+   "Yevamot": "16:7",
+   "Ketubot": "13:3 13:4 13:5",
+   "Sotah": "9:15",
+   "Gittin": "4:2 4:3",
+   "Avot": "1:16"
   }
  },
  "rabbi-hanina-segan-hakohanim": {
@@ -978,6 +1829,16 @@
    "Menachot": 1,
    "Negaim": 1,
    "Parah": 1
+  },
+  "mishnayot": {
+   "Pesachim": "1:6",
+   "Shekalim": "4:4 6:1",
+   "Eduyot": "2:1 2:2",
+   "Avot": "3:2",
+   "Zevachim": "9:3 12:4",
+   "Menachot": "10:1",
+   "Negaim": "1:4",
+   "Parah": "3:1"
   }
  },
  "rabbi-elazar-b-tzadok-(ii)": {
@@ -994,6 +1855,18 @@
    "Kelim": 1,
    "Mikvaot": 1,
    "Oktzin": 1
+  },
+  "mishnayot": {
+   "Peah": "2:4",
+   "Kilayim": "7:2",
+   "Sheviit": "2:4",
+   "Pesachim": "3:6",
+   "Sanhedrin": "7:2",
+   "Meilah": "3:7",
+   "Middot": "3:8",
+   "Kelim": "26:9",
+   "Mikvaot": "6:10",
+   "Oktzin": "2:7"
   }
  },
  "rabbi-eliezer-b-yaakov-(i)": {
@@ -1009,6 +1882,17 @@
    "Middot": 1,
    "Negaim": 1,
    "Parah": 1
+  },
+  "mishnayot": {
+   "Kilayim": "6:2",
+   "Terumot": "3:5",
+   "Yevamot": "13:3",
+   "Sotah": "9:4",
+   "Bekhorot": "3:1",
+   "Tamid": "5:2",
+   "Middot": "5:4",
+   "Negaim": "7:1",
+   "Parah": "9:2"
   }
  },
  "rabbi-dosa": {
@@ -1020,6 +1904,13 @@
    "Chullin": 1,
    "Bekhorot": 1,
    "Tahorot": 1
+  },
+  "mishnayot": {
+   "Shabbat": "20:4",
+   "Eduyot": "3:1 3:2 3:3 3:4 3:6",
+   "Chullin": "1:7",
+   "Bekhorot": "7:2",
+   "Tahorot": "8:8"
   }
  },
  "rabbi-shimon-shezuri": {
@@ -1034,6 +1925,16 @@
    "Kelim": 1,
    "Tahorot": 1,
    "Tevul Yom": 1
+  },
+  "mishnayot": {
+   "Demai": "4:1",
+   "Sheviit": "2:8",
+   "Gittin": "6:5",
+   "Chullin": "4:5",
+   "Keritot": "4:3",
+   "Kelim": "18:1",
+   "Tahorot": "3:2",
+   "Tevul Yom": "4:5"
   }
  },
  "rabbi-shimon-b-elazar": {
@@ -1047,6 +1948,15 @@
    "Bava Metzia": 1,
    "Avodah Zarah": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Kilayim": "9:8",
+   "Sotah": "9:13",
+   "Kiddushin": "4:14",
+   "Bava Metzia": "2:1",
+   "Avodah Zarah": "4:11",
+   "Avot": "4:18",
+   "Makhshirin": "4:1 6:7"
   }
  },
  "rabbi-shimon-b-nannas": {
@@ -1060,6 +1970,15 @@
    "Gittin": 1,
    "Shevuot": 1,
    "Menachot": 1
+  },
+  "mishnayot": {
+   "Shabbat": "16:5",
+   "Eruvin": "10:15",
+   "Ketubot": "10:5",
+   "Gittin": "8:10",
+   "Bava Batra": "7:3 10:8",
+   "Shevuot": "7:5",
+   "Menachot": "4:3"
   }
  },
  "rabbi-yehudah-b-bava": {
@@ -1069,6 +1988,11 @@
    "Yevamot": 3,
    "Eruvin": 2,
    "Eduyot": 2
+  },
+  "mishnayot": {
+   "Eruvin": "2:4 2:5",
+   "Yevamot": "16:3 16:5 16:7",
+   "Eduyot": "6:1 8:2"
   }
  },
  "shimon-b-zoma": {
@@ -1081,6 +2005,14 @@
    "Avot": 1,
    "Menachot": 1,
    "Chullin": 1
+  },
+  "mishnayot": {
+   "Berakhot": "1:5",
+   "Nazir": "8:1",
+   "Sotah": "9:15",
+   "Avot": "4:1",
+   "Menachot": "11:4",
+   "Chullin": "5:5"
   }
  },
  "rabbi-elazar-hisma": {
@@ -1092,6 +2024,13 @@
    "Bava Metzia": 1,
    "Avot": 1,
    "Mikvaot": 1
+  },
+  "mishnayot": {
+   "Terumot": "3:5",
+   "Bava Metzia": "7:5",
+   "Avot": "3:18",
+   "Negaim": "7:2 13:3",
+   "Mikvaot": "8:3"
   }
  },
  "rabbi-hananyah-b-akabia": {
@@ -1102,6 +2041,12 @@
    "Arakhin": 2,
    "Ketubot": 1,
    "Bekhorot": 1
+  },
+  "mishnayot": {
+   "Ketubot": "8:1",
+   "Makkot": "3:15 3:16",
+   "Bekhorot": "6:9",
+   "Arakhin": "1:3 2:4"
   }
  },
  "rabbi-nehunya-b-hakanah": {
@@ -1111,6 +2056,11 @@
    "Eduyot": 3,
    "Berakhot": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Berakhot": "4:2",
+   "Eduyot": "6:2 6:3 7:9",
+   "Avot": "3:5"
   }
  },
  "rabbi-shimon-b-yehudah": {
@@ -1122,6 +2072,13 @@
    "Shevuot": 1,
    "Avot": 1,
    "Negaim": 1
+  },
+  "mishnayot": {
+   "Maaser Sheni": "3:6",
+   "Makkot": "3:6",
+   "Shevuot": "1:5",
+   "Avot": "6:8",
+   "Negaim": "10:8"
   }
  },
  "rabban-shimon-b-gamliel": {
@@ -1132,6 +2089,12 @@
    "Shabbat": 1,
    "Arakhin": 1,
    "Kelim": 1
+  },
+  "mishnayot": {
+   "Shabbat": "12:1",
+   "Ketubot": "13:10 13:11",
+   "Arakhin": "6:1",
+   "Kelim": "28:3"
   }
  },
  "rabbi-pappeyas": {
@@ -1142,6 +2105,12 @@
    "Shekalim": 1,
    "Nazir": 1,
    "Temurah": 1
+  },
+  "mishnayot": {
+   "Shekalim": "4:7",
+   "Nazir": "3:2",
+   "Eduyot": "7:5 7:6",
+   "Temurah": "3:1"
   }
  },
  "rabbi-yehoshua-b-korha": {
@@ -1152,6 +2121,12 @@
    "Rosh Hashanah": 1,
    "Nedarim": 1,
    "Sanhedrin": 1
+  },
+  "mishnayot": {
+   "Berakhot": "2:2",
+   "Rosh Hashanah": "4:4",
+   "Nedarim": "3:11",
+   "Sanhedrin": "7:5"
   }
  },
  "rabbi-elazar-b-yehudah-of-bartota": {
@@ -1161,6 +2136,11 @@
    "Tevul Yom": 2,
    "Orlah": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Orlah": "1:4",
+   "Avot": "3:7",
+   "Tevul Yom": "3:4 3:5"
   }
  },
  "rabbi-yehudah-b-betera-(i)": {
@@ -1170,6 +2150,11 @@
    "Pesachim": 2,
    "Avodah Zarah": 1,
    "Negaim": 1
+  },
+  "mishnayot": {
+   "Pesachim": "3:3 4:3",
+   "Avodah Zarah": "1:6",
+   "Negaim": "9:3"
   }
  },
  "rabbi-yohanan-hasandlar": {
@@ -1180,6 +2165,12 @@
    "Ketubot": 1,
    "Avot": 1,
    "Kelim": 1
+  },
+  "mishnayot": {
+   "Yevamot": "12:5",
+   "Ketubot": "5:4",
+   "Avot": "4:11",
+   "Kelim": "5:5"
   }
  },
  "rabbi-chanina-b-dosa": {
@@ -1189,6 +2180,11 @@
    "Berakhot": 1,
    "Sotah": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Berakhot": "5:5",
+   "Sotah": "9:15",
+   "Avot": "3:9"
   }
  },
  "rabbi-elazar-b-shimon": {
@@ -1198,6 +2194,11 @@
    "Beitzah": 1,
    "Temurah": 1,
    "Negaim": 1
+  },
+  "mishnayot": {
+   "Beitzah": "4:5",
+   "Temurah": "4:4",
+   "Negaim": "12:3"
   }
  },
  "rabbi-nehorai": {
@@ -1207,6 +2208,11 @@
    "Nazir": 1,
    "Kiddushin": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Nazir": "9:5",
+   "Kiddushin": "4:14",
+   "Avot": "4:14"
   }
  },
  "rabbi-natan-habavli": {
@@ -1215,6 +2221,10 @@
   "by_tractate": {
    "Berakhot": 1,
    "Shekalim": 1
+  },
+  "mishnayot": {
+   "Berakhot": "9:5",
+   "Shekalim": "2:5"
   }
  },
  "rabbi-dostai-b-r-yannai": {
@@ -1223,6 +2233,10 @@
   "by_tractate": {
    "Eruvin": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Eruvin": "5:4",
+   "Avot": "3:8"
   }
  },
  "rabbi-mattia-b-heresh": {
@@ -1231,6 +2245,10 @@
   "by_tractate": {
    "Yoma": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Yoma": "8:6",
+   "Avot": "4:15"
   }
  },
  "rabbi-shimon-b-menasya": {
@@ -1239,6 +2257,10 @@
   "by_tractate": {
    "Chagigah": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Chagigah": "1:7",
+   "Avot": "6:8"
   }
  },
  "rabbi-hanina-b-gamliel": {
@@ -1247,6 +2269,10 @@
   "by_tractate": {
    "Kiddushin": 1,
    "Bava Batra": 1
+  },
+  "mishnayot": {
+   "Kiddushin": "3:4",
+   "Bava Batra": "10:1"
   }
  },
  "rabbi-yishmael-b-yohanan-b-berokah": {
@@ -1255,6 +2281,10 @@
   "by_tractate": {
    "Bava Kamma": 1,
    "Sanhedrin": 1
+  },
+  "mishnayot": {
+   "Bava Kamma": "10:2",
+   "Sanhedrin": "11:1"
   }
  },
  "rabbi-yose-hakohen": {
@@ -1263,6 +2293,10 @@
   "by_tractate": {
    "Eduyot": 1,
    "Avot": 1
+  },
+  "mishnayot": {
+   "Eduyot": "8:2",
+   "Avot": "2:8"
   }
  },
  "rabbi-hananyah-b-hakhinai": {
@@ -1270,6 +2304,9 @@
   "guessed": 1,
   "by_tractate": {
    "Avot": 2
+  },
+  "mishnayot": {
+   "Avot": "3:4 6:11"
   }
  },
  "rebbi-yose-b-the-snatcher-from-efrat": {
@@ -1277,6 +2314,9 @@
   "guessed": 0,
   "by_tractate": {
    "Kilayim": 1
+  },
+  "mishnayot": {
+   "Kilayim": "3:7"
   }
  },
  "rabbi-ilai-(i)": {
@@ -1284,6 +2324,9 @@
   "guessed": 0,
   "by_tractate": {
    "Eruvin": 1
+  },
+  "mishnayot": {
+   "Eruvin": "2:6"
   }
  },
  "rav-bivi": {
@@ -1291,6 +2334,9 @@
   "guessed": 0,
   "by_tractate": {
    "Shekalim": 1
+  },
+  "mishnayot": {
+   "Shekalim": "5:1"
   }
  },
  "abba-halafta": {
@@ -1298,6 +2344,9 @@
   "guessed": 0,
   "by_tractate": {
    "Ta'anit": 1
+  },
+  "mishnayot": {
+   "Ta'anit": "2:5"
   }
  },
  "rabbi-hananyah-b-teradyon": {
@@ -1305,6 +2354,9 @@
   "guessed": 0,
   "by_tractate": {
    "Ta'anit": 1
+  },
+  "mishnayot": {
+   "Ta'anit": "2:5"
   }
  },
  "rabbi-eliezer-b-r-yose-hagelili": {
@@ -1312,6 +2364,9 @@
   "guessed": 0,
   "by_tractate": {
    "Sotah": 1
+  },
+  "mishnayot": {
+   "Sotah": "5:3"
   }
  },
  "rabbi-pinchas-b-yair": {
@@ -1319,6 +2374,9 @@
   "guessed": 0,
   "by_tractate": {
    "Sotah": 1
+  },
+  "mishnayot": {
+   "Sotah": "9:15"
   }
  },
  "rabbi-elazar-b-parta": {
@@ -1326,6 +2384,9 @@
   "guessed": 0,
   "by_tractate": {
    "Gittin": 1
+  },
+  "mishnayot": {
+   "Gittin": "3:4"
   }
  },
  "rabbi-hanina-a-man-of-ono": {
@@ -1333,6 +2394,9 @@
   "guessed": 0,
   "by_tractate": {
    "Gittin": 1
+  },
+  "mishnayot": {
+   "Gittin": "6:7"
   }
  },
  "rabbi-shimon-b-rabbi": {
@@ -1340,6 +2404,9 @@
   "guessed": 0,
   "by_tractate": {
    "Makkot": 1
+  },
+  "mishnayot": {
+   "Makkot": "3:15"
   }
  },
  "rabbi-elazar-b-arakh": {
@@ -1347,6 +2414,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "2:8"
   }
  },
  "rabbi-halafta-of-kefar-hanania": {
@@ -1354,6 +2424,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "3:6"
   }
  },
  "rabbi-elazar-hamodai": {
@@ -1361,6 +2434,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "3:11"
   }
  },
  "rabbi-levitas-of-yavneh": {
@@ -1368,6 +2444,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "4:4"
   }
  },
  "rabbi-yonatan": {
@@ -1375,6 +2454,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "4:9"
   }
  },
  "rabbi-yaakov-b-qorshai": {
@@ -1382,6 +2464,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "4:16"
   }
  },
  "rabbi-yose-b-yehudah-of-kefar-habavli": {
@@ -1389,6 +2474,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "4:20"
   }
  },
  "rabbi-elazar-hakappar": {
@@ -1396,6 +2484,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "4:21"
   }
  },
  "yochanan-ben-bag-bag": {
@@ -1403,6 +2494,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "5:22"
   }
  },
  "ben-he-he": {
@@ -1410,6 +2504,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "5:23"
   }
  },
  "rabbi-yose-b-kisma": {
@@ -1417,6 +2514,9 @@
   "guessed": 0,
   "by_tractate": {
    "Avot": 1
+  },
+  "mishnayot": {
+   "Avot": "6:9"
   }
  },
  "rabbi-hananiah-b-gamaliel": {
@@ -1424,6 +2524,9 @@
   "guessed": 0,
   "by_tractate": {
    "Menachot": 1
+  },
+  "mishnayot": {
+   "Menachot": "5:8"
   }
  },
  "abba-yosei-b-hanan": {
@@ -1431,6 +2534,9 @@
   "guessed": 0,
   "by_tractate": {
    "Middot": 1
+  },
+  "mishnayot": {
+   "Middot": "2:6"
   }
  },
  "shimon-b-chalafta": {
@@ -1438,6 +2544,9 @@
   "guessed": 0,
   "by_tractate": {
    "Oktzin": 1
+  },
+  "mishnayot": {
+   "Oktzin": "3:12"
   }
  }
 }

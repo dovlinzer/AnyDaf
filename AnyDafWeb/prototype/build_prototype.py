@@ -29,6 +29,7 @@ DP = HERE.parent.parent / "daf-processor"
 # it on every build and used as they are. Never copy or edit them here; edit the kit, then rebuild
 # and redeploy both sites.
 MEASURES_KIT = HERE.parent.parent / "AnyMishnahWeb" / "reference-kit"
+SAGES_KIT = MEASURES_KIT / "sages"            # shared with Illustrated Mishna; built by daf-processor/sages_kit.py
 SUMMARIES = (lambda f: json.loads(f.read_text(encoding="utf-8")) if f.exists() else {})(DP / "outline" / "daf_summaries.json")
 # hand-written multiple-choice quizzes for the demo, one file per base daf key (2026-10-16); in production the
 # outline pass would write them. Each question: q, options (the right one first), why, line (a Sefaria label).
@@ -566,6 +567,8 @@ def main():
                 .replace("__RENDERER_JS__", (r / "outline-renderer.js").read_text(encoding="utf-8"))
                 .replace("__MEASURE_TAGS_JS__", (r / "measure-tags.js").read_text(encoding="utf-8"))
                 .replace("__MEASURES_CSS__", (MEASURES_KIT / "measures.css").read_text(encoding="utf-8"))
+                .replace("__SAGES_CSS__", (SAGES_KIT / "sages.css").read_text(encoding="utf-8"))
+                .replace("__SAGES_JS__", (SAGES_KIT / "sages.js").read_text(encoding="utf-8"))
                 .replace("__SPRITE__", (DP / "outline" / "sprite.svg").read_text(encoding="utf-8"))
                 .replace("__DAFIM__", json.dumps(index, ensure_ascii=False))
                 .replace("__TRACTATES__", json.dumps(tractates(), ensure_ascii=False))
@@ -589,6 +592,9 @@ def main():
     (out / "reference.html").write_text(reference_page(html), encoding="utf-8")
     html = html.replace("__MEASURES__", measures_embed())
     copy_measure_images(out)
+    (out / "sages").mkdir(exist_ok=True)          # the sages kit's data, loaded when the box opens
+    for f in ("sages.json", "quoted.json"):
+        (out / "sages" / f).write_bytes((SAGES_KIT / f).read_bytes())
     (out / "index.html").write_text(html, encoding="utf-8")
     size = sum(f.stat().st_size for f in out.rglob("*") if f.is_file())
     print(f"wrote {out}/index.html + {len(index)} dafim ({size / 1e6:.1f} MB total)")

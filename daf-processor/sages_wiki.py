@@ -224,12 +224,13 @@ def year(v):
     """An approximate year from a date field: '132', 'בין שנת 132 לשנת 136' -> 132-136,
     'המאה ה-2' -> 100-199, 'לפנה"ס' makes it negative. None if nothing usable."""
     t = plain(v)
+    t = re.sub(r"\(.*?\)|ב?גיל \d+|\d+ ב(?:ינואר|פברואר|מרץ|אפריל|מאי|יוני|יולי|אוגוסט|ספטמבר|אוקטובר|נובמבר|דצמבר)", " ", t)
     neg = 'לפנה"ס' in t or "לפני הספירה" in t
     c = re.search(r"המאה ה-?(\d+)", t)
     if c:
         n = int(c.group(1))
         lo, hi = (n - 1) * 100, n * 100 - 1
-        return [-hi, -lo] if neg else [lo, hi]
+        return [-hi, -lo, "century"] if neg else [lo, hi, "century"]
     ys = [int(x) for x in re.findall(r"(?<!\d)(\d{2,4})(?!\d)", t) if 1 <= int(x) <= 700]
     if not ys:
         return None

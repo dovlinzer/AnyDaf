@@ -459,8 +459,8 @@ def census():
     """How many lines of the Bavli name each sage, by tractate, from the saved text (daf_text/).
     Each amud is matched with its neighbours for context, so an ambiguous name (Rabbi Elazar)
     gets the same era guess find_names gives on a daf. Lines, not occurrences: a sage named
-    twice in one line counts once."""
-    counts, guessed = {}, {}
+    twice in one line counts once. Also records the amudim where each sage is named."""
+    counts, guessed, places = {}, {}, {}
     for f in sorted(DAF_TEXT.glob("*.json")):
         book = json.loads(f.read_text(encoding="utf-8"))
         tractate = book.get("tractate") or f.stem
@@ -472,10 +472,12 @@ def census():
             for r in find_names(segs):
                 c = counts.setdefault(r["pick"], {})
                 c[tractate] = c.get(tractate, 0) + r["count"]
+                places.setdefault(r["pick"], {}).setdefault(tractate, []).append(amud)
                 if r["ambiguous"]:
                     guessed[r["pick"]] = guessed.get(r["pick"], 0) + r["count"]
     out = {slug: {"total": sum(t.values()), "guessed": guessed.get(slug, 0),
-                  "by_tractate": dict(sorted(t.items(), key=lambda kv: -kv[1]))}
+                  "by_tractate": dict(sorted(t.items(), key=lambda kv: -kv[1])),
+                  "amudim": {tr: " ".join(a) for tr, a in places[slug].items()}}
            for slug, t in counts.items()}
     out = dict(sorted(out.items(), key=lambda kv: -kv[1]["total"]))
     (OUT / "census_bavli.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -519,7 +521,7 @@ def census_mishnah():
     """Mishnayot naming each sage, by tractate (a mishnah naming a sage twice counts once).
     Each chapter is matched as one passage, for context on ambiguous names."""
     sages = matcher()[0]
-    counts, guessed = {}, {}
+    counts, guessed, places = {}, {}, {}
     for tractate, items in mishnah_text().items():
         chapters = {}
         for label, he in items:
@@ -537,10 +539,13 @@ def census_mishnah():
                     r["pick"] = max(tannaim, key=lambda c: sages[c]["num_sources"])
                 c = counts.setdefault(r["pick"], {})
                 c[tractate] = c.get(tractate, 0) + r["count"]
+                where = places.setdefault(r["pick"], {}).setdefault(tractate, [])
+                where.extend(l.replace("a.", ":") for l in r["lines"])   # back to "3:4"
                 if r["ambiguous"]:
                     guessed[r["pick"]] = guessed.get(r["pick"], 0) + r["count"]
     out = {slug: {"total": sum(t.values()), "guessed": guessed.get(slug, 0),
-                  "by_tractate": dict(sorted(t.items(), key=lambda kv: -kv[1]))}
+                  "by_tractate": dict(sorted(t.items(), key=lambda kv: -kv[1])),
+                  "mishnayot": {tr: " ".join(a) for tr, a in places[slug].items()}}
            for slug, t in counts.items()}
     out = dict(sorted(out.items(), key=lambda kv: -kv[1]["total"]))
     (OUT / "census_mishnah.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")

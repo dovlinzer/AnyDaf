@@ -166,6 +166,19 @@ chapter page in Illustrated Mishna). The host calls something like
 The Mishnah counts need the whole Mishnah's text; Illustrated Mishna has only the chapters it has
 built, so the script fetches it once from Sefaria (free) for counting.
 
+## Status (2026-10-29)
+
+Done: steps 1–4 below. The relationship box is live on iTalmud (Sages window → a card's
+"Relationships"), from the shared kit `AnyMishnahWeb/reference-kit/sages/` (see its README).
+Dates come from the generation (`GEN_YEARS` in `sages_kit.py`, draft years for the author) unless
+Wikipedia gives a year. Tiers can be changed at any time in `kit_overrides.json` and one rebuild.
+Still to do: the author's review (tiers, links, stories), stories drafted from Wikipedia's
+citations, Illustrated Mishna wiring, then the Shas-wide timeline.
+
+Known data errors seen so far, for the review: Sefaria lists Rabbi Chanina b. Chama (an amora) as
+a student of Rabbi Akiva; Sefaria's Wikipedia links for Rabban Gamliel of Yavneh and Gamliel III
+were swapped (fixed in `sages_wiki.py`).
+
 ## Next steps (all local, no AI calls)
 
 1. **Count mentions across the Bavli and the Mishnah**, using the name matcher we already have, and

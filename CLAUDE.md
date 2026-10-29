@@ -2043,6 +2043,11 @@ fetched once into `cache/mishnah/`; amora picks are dropped there). The matcher 
 colleagues, family, dates) -> `outline/sages/wiki_facts.json`; facts only, no wording (CC BY-SA).
 Sefaria's heWikiLink swaps Rabban Gamliel of Yavneh and Gamliel III (`WIKI_TITLES` fixes it).
 Tier list for the author: `outline/sages/tiers_review.md`.
+`sages_kit.py` writes the shared kit's `sages.json` + `quoted.json` into
+`AnyMishnahWeb/reference-kit/sages/` (from the files above plus `kit_overrides.json` and
+`stories.json`); `sages.js`/`sages.css` there are the relationship box. iTalmud's build inlines
+them (`SAGES_KIT`) and copies the data to `sages/`; a "Relationships" button on each Sages card
+calls `AnySages.open(slug)`. Never edit the kit's JSON by hand.
 
 #### Study games — see `AnyDafWeb/GAMES.md` (the design brief; read it first)
 
