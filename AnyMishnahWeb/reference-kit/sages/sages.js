@@ -467,11 +467,13 @@
           zugot: 'Zugot', unknown: 'Generation unknown', ey: 'Eretz Yisrael', bavel: 'Bavel', trans: 'Transition',
           more: '+{0} more', fewer: 'Fewer', nohit: 'No sage by that name.', moved: 'Moved between Bavel and Eretz Yisrael',
           chartM: 'Sages of the Mishnah', tipM: 'Tap a name to see his teachers and students.',
+          sources: 'Sources: Sefaria (names, generations, bios) and Hebrew Wikipedia (family, teachers and students).',
           tip: 'In each box: the most quoted sages, A–Z (“more” adds the rest). Tap a name to see his teachers, students and colleagues.' },
     he: { chart: 'חכמי התלמוד', search: 'חיפוש חכם', all: 'הכול', tannaim: 'תנאים', amoraim: 'אמוראים',
           zugot: 'זוגות', unknown: 'דור לא ידוע', ey: 'ארץ ישראל', bavel: 'בבל', trans: 'מעבר',
           more: 'ועוד {0}', fewer: 'פחות', nohit: 'לא נמצא חכם בשם הזה.', moved: 'עבר בין בבל לארץ ישראל',
           chartM: 'חכמי המשנה', tipM: 'לחיצה על שם מציגה את רבותיו ותלמידיו.',
+          sources: 'מקורות: ספריא (שמות, דורות, תולדות) וויקיפדיה העברית (משפחה, רבותיו ותלמידיו).',
           tip: 'בכל תא: החכמים המצוטטים ביותר, לפי א״ב (״עוד״ מוסיף את השאר). לחיצה על שם מציגה את רבותיו, תלמידיו ובני דורו.' },
   };
   const ct = (k, ...a) => (CW[S.o.lang] || CW.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
@@ -585,7 +587,8 @@
     el.innerHTML = `<div class="sgc-tools"><div class="sgc-find"><input type="search" placeholder="${ct('search')}" aria-label="${ct('search')}"><div class="sgc-res" hidden></div></div>
       <div class="sgc-filter" role="group"${simple() ? ' hidden' : ''}><button type="button" data-f="all" aria-pressed="true">${ct('all')}</button><button type="button" data-f="tanna">${ct('tannaim')}</button><button type="button" data-f="amora">${ct('amoraim')}</button></div></div>
       <p class="sgc-tip">${ct(simple() ? 'tipM' : 'tip')} <span class="sgc-key"${simple() ? ' hidden' : ''}><i class="sw zug"></i>${t('keyZ')} <i class="sw tanna"></i>${t('keyTa')} <i class="sw ey"></i>${t('keyEY')} <i class="sw bavel"></i>${t('keyBV')} <i class="mv"></i>${ct('moved')}</span></p>
-      <div class="sgc-body">${t('loading')}</div>`;
+      <div class="sgc-body">${t('loading')}</div>
+      <p class="sgc-credit">${ct('sources')}${S.o.credit ? ' · ' + S.o.credit : ''}</p>`;
     await load();
     chartDraw();
     const inp = el.querySelector('input'), res = el.querySelector('.sgc-res');

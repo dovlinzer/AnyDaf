@@ -25,7 +25,8 @@ AnySages.init({base: 'sages/',            // where the site serves sages.json an
                corpus: 'bavli',           // or 'mishnah': which counts, tiers and places to show
                lang: 'en',                // or 'he'
                link: (corpus, tractate, place) => url,   // place: '11a' or '3:4'
-               tractateName: tractate => label});        // optional
+               tractateName: tractate => label,          // optional
+               credit: html});                           // optional: a credit line under the chart (e.g. the site's icon)
 AnySages.open('rabbi-akiva');             // the relationship box, for any key of sages.json
 AnySages.chart(element);                  // the Shas-wide chart, rendered into a page
 AnySages.openChart();                     // or opened over the page

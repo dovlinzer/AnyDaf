@@ -121,3 +121,4 @@
 .sgx-moreinfo{margin:8px 0}.sgx-moreinfo summary{cursor:pointer;font-weight:600;color:var(--blue,#1b3a8a)}
 .sgc-filter[hidden]{display:none}
 .sgc-key[hidden]{display:none}
+.sgc-credit{font-size:11.5px;opacity:.7;margin:6px 0 0}.sgc-credit a{color:inherit}

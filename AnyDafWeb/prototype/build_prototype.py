@@ -547,6 +547,7 @@ def sages_page(html):
             "if(he){document.documentElement.dir='rtl';document.getElementById('sgh1').textContent='חכמי התלמוד';document.getElementById('sgback').textContent='חזרה לתלמוד המאויר'}"
             "var T=function(tr){return TRACTATES.find(function(t){return t.text===tr||t.name===tr})};"
             "AnySages.init({base:'sages/',corpus:'bavli',lang:he?'he':'en',chartAllOpen:!!p.sagesAll,"
+            "credit:'Rabbi icon created by <a href=\"https://www.flaticon.com/free-icons/rabbi\" target=\"_blank\" rel=\"noopener\">Magnific – Flaticon</a>',"
             "tractateName:function(tr){var x=T(tr);return x?(he?x.he:x.name):tr},"
             "link:function(c,tr,place){var x=T(tr);return x?'./#'+x.name.replace(/’/g,\"'\").replace(/ /g,'_')+'/'+parseInt(place):'#'}});"
             "AnySages.chart(document.getElementById('sghost'))})()</script></body></html>")

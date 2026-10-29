@@ -1869,6 +1869,7 @@ $('dedDlg').addEventListener('click',e=>{if(e.target===$('dedDlg'))$('dedDlg').c
 <script>
 // The relationship box (shared kit): a place a sage is named becomes a link to that daf here
 AnySages.init({base:'sages/',corpus:'bavli',lang:RTL?'he':'en',chartAllOpen:!!prefs.sagesAll,
+ credit:'Rabbi icon created by <a href="https://www.flaticon.com/free-icons/rabbi" target="_blank" rel="noopener" title="rabbi icons">Magnific – Flaticon</a>',
  tractateName:tr=>{const x=TRACTATES.find(t=>t.text===tr||t.name===tr);return x?(RTL?x.he:x.name):tr},
  link:(corpus,tr,place)=>{const x=TRACTATES.find(t=>t.text===tr||t.name===tr);return x?hashFor(x.name,parseInt(place)):'#'}});
 // following a place closes the box, so the daf it opens is in view
