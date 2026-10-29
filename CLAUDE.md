@@ -2034,6 +2034,8 @@ GLOSSARY.md) and a Shas-wide Sages chart.
 
 #### Global glossary — see `AnyDafWeb/GLOSSARY.md` (plan, 2026-10-18; author wants one glossary for Shas)
 
+#### Shas-wide Sages chart + relationship graph — see `AnyDafWeb/SAGES.md` (draft plan, 2026-10-29)
+
 #### Study games — see `AnyDafWeb/GAMES.md` (the design brief; read it first)
 
 #### Hebrew outlines (2026-10-05) — model outline in review
