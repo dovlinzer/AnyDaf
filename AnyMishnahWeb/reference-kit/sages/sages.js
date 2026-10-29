@@ -25,7 +25,7 @@
           father: 'Father', mother: 'Mother', parents: 'Parent', children: 'Children', spouse: 'Wife', in_laws: 'Father-in-law',
           sons_in_law: 'Son-in-law', siblings: 'Brother', relatives: 'Relative', stories: 'Stories about him',
           sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
-          keyT: 'teacher → student', keyC: 'colleagues', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
+          keyT: 'teacher → student', keyC: 'colleagues', keyRT: 'teacher', keyRS: 'student', keyRC: 'colleague', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
           keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', notes: 'Notes and sources',
           wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of', moreAbout: 'More about him', vTS: 'Teachers & students', vFam: 'Family',
           alts: 'The sources give more than one name; each is a later identification or tradition.', est: 'a rough count: the name fits more than one sage' },
@@ -37,7 +37,7 @@
           none: 'לא ידוע על רבותיו ותלמידיו.', father: 'אביו', mother: 'אמו', parents: 'הורה', children: 'ילדיו',
           spouse: 'אשתו', in_laws: 'חמיו', sons_in_law: 'חתנו', siblings: 'אחיו', relatives: 'קרוב משפחה',
           stories: 'סיפורים עליו', sefaria: 'ספריא', wiki: 'ויקיפדיה', approx: 'התאריכים משוערים, לפי הדור.',
-          loading: 'טוען…', keyT: 'רב ← תלמיד', keyC: 'בני דורו', keyTa: 'תנא', keyEY: 'אמורא, ארץ ישראל',
+          loading: 'טוען…', keyT: 'רב ← תלמיד', keyC: 'בני דורו', keyRT: 'רב', keyRS: 'תלמיד', keyRC: 'בן דורו', keyTa: 'תנא', keyEY: 'אמורא, ארץ ישראל',
           keyBV: 'אמורא, בבל', keyZ: 'זוגות', keyF: 'משפחה', notes: 'הערות ומקורות',
           wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של', moreAbout: 'עוד עליו', vTS: 'רבותיו ותלמידיו', vFam: 'משפחה',
           alts: 'במקורות יותר משם אחד; כל אחד מהם זיהוי או מסורת מאוחרים.', est: 'מספר משוער: השם מתאים ליותר מחכם אחד' },
@@ -152,6 +152,7 @@
       <path d="M0,0 L10,5 L0,10 z" fill="currentColor"/></marker></defs></svg></div>
       <p class="sgx-key"><span><i class="sw zug"></i>${t('keyZ')}</span><span><i class="sw tanna"></i>${t('keyTa')}</span>
       <span><i class="sw ey"></i>${t('keyEY')}</span><span><i class="sw bavel"></i>${t('keyBV')}</span>
+      <span class="sgx-roles"><span><i class="sw role r-teachers"></i>${t('keyRT')}</span><span><i class="sw role r-students"></i>${t('keyRS')}</span><span><i class="sw role r-colleagues"></i>${t('keyRC')}</span></span>
       <span><svg width="30" height="12"><path d="M1,6 L15,6 L29,6" fill="none" stroke="currentColor" stroke-width="1.6" marker-mid="url(#sgxArrow)"/></svg>${t('keyT')}</span>
       <span><svg width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" stroke="currentColor" stroke-width="1.6" stroke-dasharray="3 3"/></svg>${t('keyC')}</span>
       </p>
@@ -483,7 +484,7 @@
       }
       const sx = p.centre ? x : p.id ? sage(p.id) : null;
       const fam = p.rel && FAMILY.includes(p.rel), famLabel = fam ? p.rel : p.famRel;
-      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${clay ? ' r-' + (p.centre ? 'centre' : p.rel) : ''}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam || p.famNode ? ' fam' : ''}`;
+      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3} r-${p.centre ? 'centre' : p.rel}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam || p.famNode ? ' fam' : ''}`;
       el.innerHTML = (clay ? figure(p.fig, p.centre ? 'gold' : p.colour || (p.rel === 'teachers' ? 'blue' : 'green')) : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${p.label ? `<small>${esc(p.label)}</small>` : famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
       if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
@@ -812,6 +813,34 @@
       const g = e.target.closest('.sgc-c[data-go]');
       if (g) { C.hit = g.dataset.go; el.querySelectorAll('.sgc-c.hit').forEach(b => b.classList.remove('hit')); g.classList.add('hit'); open(g.dataset.go); }
     });
+    // Move the chart by dragging it with the mouse, or with the arrow keys (Page Up / Down, Home / End
+    // too). A drag that moves more than a few pixels does not count as a click on a name.
+    const body = el.querySelector('.sgc-body');
+    body.tabIndex = 0;
+    let drag = null, dragged = false;
+    body.addEventListener('pointerdown', e => {
+      if (e.pointerType !== 'mouse' || e.button !== 0) return;
+      drag = { x: e.clientX, y: e.clientY, l: body.scrollLeft, t: body.scrollTop }; dragged = false;
+    });
+    window.addEventListener('pointermove', e => {
+      if (!drag) return;
+      const dx = e.clientX - drag.x, dy = e.clientY - drag.y;
+      if (!dragged && Math.hypot(dx, dy) < 5) return;
+      if (!dragged) { dragged = true; body.classList.add('dragging'); }
+      body.scrollLeft = drag.l - dx; body.scrollTop = drag.t - dy;
+    });
+    window.addEventListener('pointerup', () => { if (drag) { drag = null; body.classList.remove('dragging'); } });
+    body.addEventListener('click', e => { if (dragged) { e.stopPropagation(); e.preventDefault(); dragged = false; } }, true);
+    const keyMove = e => {
+      if (!el.isConnected || el.closest('[hidden]') || e.target.closest?.('input,textarea,select')) return;
+      if (S.box && !S.box.hidden) return;
+      const st = 80, pg = body.clientHeight * 0.85, rtl = getComputedStyle(body).direction === 'rtl' ? -1 : 1;
+      const mv = { ArrowLeft: [-st * rtl, 0], ArrowRight: [st * rtl, 0], ArrowUp: [0, -st], ArrowDown: [0, st],
+                   PageUp: [0, -pg], PageDown: [0, pg] }[e.key];
+      if (mv) { body.scrollBy({ left: mv[0], top: mv[1] }); e.preventDefault(); e.stopPropagation(); return; }
+      if (e.key === 'Home' || e.key === 'End') { body.scrollTo({ top: e.key === 'Home' ? 0 : body.scrollHeight }); e.preventDefault(); e.stopPropagation(); }
+    };
+    document.addEventListener('keydown', keyMove, true);   // before the page's own arrow keys (next daf)
     // redraw on a real change of width only (not the phone keyboard opening or closing), keeping
     // the marked sage in view
     let rt, lastW = el.clientWidth;

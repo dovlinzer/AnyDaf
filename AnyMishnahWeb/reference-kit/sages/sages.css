@@ -35,7 +35,9 @@
 .sgx-more.small{font-size:11.5px;padding:1px 7px}
 .sgx-key{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;opacity:.8;margin:6px 0 10px;justify-content:center;align-items:center}
 .sgx-key span{display:inline-flex;align-items:center;gap:5px}
-.sgx-key .sw{display:inline-block;width:12px;height:12px;border-radius:3px;border:2px solid var(--c);background:color-mix(in srgb,var(--c) 14%,transparent)}
+.sgx-key .sw{display:inline-block;width:12px;height:12px;border-radius:3px;border:2px solid var(--c);background:var(--card,#fff)}
+.sgx-key .sw.role{--c:color-mix(in srgb,var(--role) 45%,var(--card,#fff));background:var(--tint)}
+.sgx-roles{display:contents}
 .sgx-key .sw.tanna{--c:var(--c-tanna)}.sgx-key .sw.ey{--c:var(--c-ey)}.sgx-key .sw.bavel{--c:var(--c-bavel)}.sgx-key .sw.zug{--c:var(--c-zug)}
 .sgx-info{border-top:1px solid color-mix(in srgb,var(--fg,#222) 15%,transparent);padding-top:10px}
 .sgx-info h3{margin:0;font-size:19px}
@@ -147,3 +149,20 @@
 .sgx-lines path.tree{stroke:var(--c-fam);stroke-width:2;opacity:.85}
 .sgx[data-view=fam] .sgx-key{display:none}
 .sgx-graph.famview.clay .sgx-fig{height:64px}.sgx-graph.famview.clay .sgx-n.centre .sgx-fig{height:92px}
+
+/* Teachers, students and colleagues are told apart by the box's fill as well as the line: purple,
+   green and blue. The border keeps the era colour. */
+.sgx{--role-t:#805ad5;--role-s:#38a169;--role-c:#3182ce}
+.sgx .r-teachers{--role:var(--role-t)}.sgx .r-students{--role:var(--role-s)}.sgx .r-colleagues{--role:var(--role-c)}
+.sgx .r-teachers,.sgx .r-students,.sgx .r-colleagues{--tint:color-mix(in srgb,var(--role) 20%,var(--card,#fff))}
+.sgx-graph:not(.clay) .sgx-n.r-teachers,.sgx-graph:not(.clay) .sgx-n.r-students,.sgx-graph:not(.clay) .sgx-n.r-colleagues{background:var(--tint)}
+.sgx-graph:not(.clay) .sgx-n.r-teachers:hover,.sgx-graph:not(.clay) .sgx-n.r-students:hover,.sgx-graph:not(.clay) .sgx-n.r-colleagues:hover{background:color-mix(in srgb,var(--role) 34%,var(--card,#fff))}
+
+/* The chart's scroll bars always show (macOS hides them until you scroll), and the chart can be dragged */
+.sgc-body{cursor:grab;scrollbar-width:auto;scrollbar-color:color-mix(in srgb,var(--fg,#222) 40%,transparent) transparent}
+.sgc-body.dragging{cursor:grabbing;user-select:none}
+.sgc-body:focus-visible{outline:2px solid var(--blue,#1b3a8a);outline-offset:1px}
+.sgc-body::-webkit-scrollbar{width:12px;height:12px}
+.sgc-body::-webkit-scrollbar-thumb{background:color-mix(in srgb,var(--fg,#222) 35%,transparent);border-radius:6px;border:3px solid var(--card,#fff)}
+.sgc-body::-webkit-scrollbar-track{background:color-mix(in srgb,var(--fg,#222) 6%,transparent)}
+.sgc-body .sgc-c,.sgc-body .sgc-more{cursor:pointer}

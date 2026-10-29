@@ -34,7 +34,22 @@ WIKI_TITLES = {"shmuel-(amora)": "שמואל (אמורא)",
                "rabban-gamliel": "רבן גמליאל דיבנה",
                "rabban-gamliel-b-rabbi-(iii)": "רבן גמליאל ברבי",
                # Sefaria links Rabbi Mana I (A2) to the page of Rabbi Mana II (A5)
-               "rabbi-mana-(ii)": "רבי מנא", "rabbi-mana-(i)": None}
+               "rabbi-mana-(ii)": "רבי מנא", "rabbi-mana-(i)": None,
+               # found by hand (2026-10-29): generation and teachers checked against Sefaria
+               "rabbi-chiyya-b-abba": "רבי חייא בר אבא",   # Sefaria links R. Chiyya the tanna
+               "rav-aha": "רבי אחא (אמורא)", "hizkiyah-b-hiyya": "חזקיה בן רבי חייא",
+               "ravin": "רבין (אמורא)", "rabbi-avin-(ravin)": "רבי אבין (השני)",
+               "rav-kahana-(i)": "רב כהנא (הראשון)", "rav-kahana-(ii)": "רב כהנא (השני)",
+               "rav-kahana-(iii)": "רב כהנא מפום נהרא", "rav-kahana-(iv)": "רב כהנא (הרביעי)",
+               "rabbi-ilai-(ii)": "רבי אילעא (אמורא)", "rav-zevid": "רב זביד (השני)",
+               "rav-yirmeyah-b-abba": "רב ירמיה בר אבא", "rav-hamnuna-(ii)": "רב המנונא (השלישי)",
+               "rabbi-hama-b-r-hanina": "רבי חמא בר חנינא (הראשון)", "rabbi-levi": "רבי לוי",
+               "rabbi-shimon-b-pazzi": "רבי סימון", "rabbi-helbo": "רבי חלבו",
+               "rav-aha-b-rav-iqa": "רב אחא בר רב איקא", "rebbi-abba-b-zavida": "רבי אבא בר זבדא",
+               "rav-yosef-b-chama": "רב יוסף בר חמא", "rav-hama-b-gurya": "רב חמא בר גוריא",
+               "rav-berona": "רב ברונא", "rav-chananel": "רב חננאל",
+               "rav-yitzhak-b-shmuel-b-marta": "רב יצחק בר שמואל בר מרתא",
+               "abba-b-marta": "אבא בר מרתא", "rabbi-abba-b-pappa": "רבי אבא בר פפא"}
 
 
 def guess_more(sages, have):

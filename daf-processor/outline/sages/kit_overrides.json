@@ -1,5 +1,5 @@
 {
- "_note": "The author's picks for the shared sages chart (sages_kit.py reads this). major: slugs always in tier 1. tier / tier_mishnah: {slug: 1|2|3} to set a tier outright. drop_links / add_links: [slug, relation, slug] with relation teachers | students | colleagues | father | children | spouse | in_laws | sons_in_law | siblings.",
+ "_note": "The author's picks for the shared sages chart (sages_kit.py reads this). major: slugs always in tier 1. tier / tier_mishnah: {slug: 1|2|3} to set a tier outright. drop_links / add_links: [slug, relation, slug] with relation teachers | students | colleagues | father | children | spouse | in_laws | sons_in_law | siblings | grandparents | grandchildren.",
  "major": [],
  "tier": {},
  "tier_mishnah": {},
@@ -96,16 +96,6 @@
    "rav-idi-b-avin-(i)"
   ],
   [
-   "rav-hiyya-b-avin",
-   "father",
-   "rabbi-avin-(ravin)"
-  ],
-  [
-   "rav-idi-b-avin-(i)",
-   "father",
-   "rabbi-avin-(ravin)"
-  ],
-  [
    "rav-mari-b-rachel",
    "grandparents",
    "shmuel-(amora)"
@@ -134,6 +124,71 @@
    "rabbi-yehudah-b-pazi",
    "father",
    "rabbi-shimon-b-pazzi"
+  ],
+  [
+   "hizkiyah-b-hiyya",
+   "father",
+   "rabbi-chiyya"
+  ],
+  [
+   "mar-zutra",
+   "siblings",
+   "rav-adda-the-elder"
+  ],
+  [
+   "rabban-gamliel-hazaken-(i)",
+   "grandparents",
+   "hillel"
+  ],
+  [
+   "rabi",
+   "grandparents",
+   "rabban-gamliel"
+  ],
+  [
+   "rabban-shimon-b-gamliel-(ii)",
+   "grandparents",
+   "rabban-shimon-b-gamliel"
+  ],
+  [
+   "rabbi-ilai-(ii)",
+   "siblings",
+   "rav-berona"
+  ],
+  [
+   "rabbi-yehudah-nesia-(i)",
+   "grandchildren",
+   "rabbi-yehudah-nesia-(ii)"
+  ],
+  [
+   "rabi",
+   "grandchildren",
+   "rabbi-yehudah-nesia-(i)"
+  ],
+  [
+   "rabbi-yose-b-chalafta",
+   "father",
+   "abba-halafta"
+  ],
+  [
+   "rabbi-yishmael-b-yose",
+   "grandparents",
+   "abba-halafta"
+  ],
+  [
+   "rav-hiyya-b-avin",
+   "father",
+   "name:רבי אבין נגרא"
+  ],
+  [
+   "rav-idi-b-avin-(i)",
+   "father",
+   "name:רבי אבין נגרא"
+  ],
+  [
+   "rav-yosef-b-rava",
+   "teachers",
+   "rav-yosef-b-chiyya"
   ]
  ],
  "_family_note": "Added 2026-10-29 at the author's request, from English Wikipedia (Gamaliel II: son of Shimon ben Gamaliel, grandson of Gamaliel I; Gamaliel the Elder: son of Simeon ben Hillel, grandson of Hillel the Elder). Completes Rebbe's line up to Hillel.",

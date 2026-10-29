@@ -2057,6 +2057,10 @@ and folk traditions are dropped (author, 2026-10-29). A page is refused when its
 or more from the sage's, or when two sages were given it and it fits neither better (namesakes).
 `sages_kit.py` drops links impossible by generation (`auto_dropped_links.json`); `sages_audit.py`
 writes `outline/sages/audit.md`, the flags left for the author.
+Pages found by hand go in `WIKI_TITLES` (sages_wiki.py); after changing one, delete that slug's file in
+`outline/sages/cache/hewiki_pages/` or `fetch` keeps the old page. 2026-10-29: 27 amoraim added there
+(names that are ambiguous or shared). In the box, teachers / students / colleagues are tinted purple /
+green / blue (border = era); the chart scrolls by mouse drag and the arrow keys.
 
 #### Study games — see `AnyDafWeb/GAMES.md` (the design brief; read it first)
 

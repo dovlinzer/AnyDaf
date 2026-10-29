@@ -316,7 +316,7 @@
     "slug": "rabbi-chanina-b-chama"
    },
    {
-    "name": "חזקיה בן רבי חייא"
+    "slug": "hizkiyah-b-hiyya"
    },
    {
     "slug": "ilfa"
@@ -586,6 +586,60 @@
   "active_from": "70 לפנה\"ס",
   "active_to": "10 לספירה"
  },
+ "hizkiyah-b-hiyya": {
+  "wiki": "חזקיה בן רבי חייא",
+  "teachers": [
+   {
+    "slug": "rabi"
+   },
+   {
+    "slug": "rabbi-chiyya",
+    "notes": [
+     "אביו -"
+    ]
+   },
+   {
+    "name": "רב יצחק"
+   },
+   {
+    "slug": "rav-kahana-(i)"
+   }
+  ],
+  "students": [
+   {
+    "slug": "rabbi-yochanan-b-napacha"
+   }
+  ],
+  "colleagues": [
+   {
+    "name": "יהודה בריה דרבי חייא",
+    "notes": [
+     "אחיו -"
+    ]
+   },
+   {
+    "slug": "rabbi-yannai"
+   },
+   {
+    "slug": "bar-kappara"
+   }
+  ],
+  "father": [
+   {
+    "slug": "rabbi-chiyya"
+   }
+  ],
+  "mother": [
+   {
+    "notes": [
+     "אשת רבי חייא"
+    ],
+    "name": "יהודית"
+   }
+  ],
+  "active_from": "ראשון לאמוראים סוף תקופת התנאים ותחילת תקופת האמוראים",
+  "active_to": "ראשון לאמוראים סוף תקופת התנאים ותחילת תקופת האמוראים"
+ },
  "ilfa": {
   "wiki": "אילפא",
   "colleagues": [
@@ -620,7 +674,7 @@
     "name": "רבי יעקב בר אבונא"
    },
    {
-    "name": "חייא בר אבא",
+    "slug": "rabbi-chiyya-b-abba",
     "notes": [
      "רבי"
     ]
@@ -1080,7 +1134,7 @@
     ]
    },
    {
-    "name": "רבי חייא בר אבא",
+    "slug": "rabbi-chiyya-b-abba",
     "notes": [
      "ו"
     ]
@@ -1314,7 +1368,7 @@
     "slug": "rabbi-yehudah-nesia-(i)"
    },
    {
-    "name": "חייא בר אבא"
+    "slug": "rabbi-chiyya-b-abba"
    }
   ],
   "father": [
@@ -1432,7 +1486,7 @@
     ]
    },
    {
-    "name": "רבי חייא",
+    "slug": "rabbi-chiyya",
     "notes": [
      "ו"
     ]
@@ -1580,6 +1634,42 @@
   ],
   "active_from": "דור ראשון לתנאים",
   "active_to": "דור ראשון לתנאים"
+ },
+ "rabbi-chiyya-b-abba": {
+  "wiki": "רבי חייא בר אבא",
+  "teachers": [
+   {
+    "slug": "rabbi-yochanan-b-napacha"
+   },
+   {
+    "slug": "rabbi-elazar-b-pedat"
+   }
+  ],
+  "colleagues": [
+   {
+    "slug": "rabbi-ammi"
+   },
+   {
+    "slug": "rav-assi"
+   },
+   {
+    "slug": "rabbi-abahu"
+   },
+   {
+    "name": "רבי ירמיה (השני)",
+    "notes": [
+     "ו"
+    ]
+   }
+  ],
+  "born": "המאה ה-2",
+  "born_year": [
+   100,
+   199,
+   "century"
+  ],
+  "active_from": "שלישי תקופת האמוראים",
+  "active_to": "שלישי תקופת האמוראים"
  },
  "rabbi-chiyya": {
   "wiki": "רבי חייא",
@@ -2136,6 +2226,29 @@
   "born": "המאה השנייה?",
   "died": "המאה השלישית?"
  },
+ "rabbi-hama-b-r-hanina": {
+  "wiki": "רבי חמא בר חנינא (הראשון)",
+  "students": [
+   {
+    "slug": "rabbi-levi",
+    "notes": [
+     "הדרשן"
+    ]
+   }
+  ],
+  "colleagues": [
+   {
+    "slug": "rabbi-oshaya"
+   }
+  ],
+  "father": [
+   {
+    "name": "רב חנינא"
+   }
+  ],
+  "active_from": "ראשון לאמוראים",
+  "active_to": "ראשון לאמוראים"
+ },
  "rabbi-hananyah-b-hakhinai": {
   "wiki": "רבי חנניה בן חכינאי",
   "teachers": [
@@ -2581,7 +2694,7 @@
   "wiki": "רבי אושעיא",
   "teachers": [
    {
-    "name": "רבי חייא"
+    "slug": "rabbi-chiyya"
    },
    {
     "slug": "bar-kappara"
@@ -2829,7 +2942,7 @@
   ],
   "in_laws": [
    {
-    "name": "רבי חייא"
+    "slug": "rabbi-chiyya"
    }
   ],
   "born": "המאה ה-2",
@@ -2987,7 +3100,7 @@
     "slug": "shmuel-(amora)"
    },
    {
-    "name": "רב כהנא"
+    "slug": "rav-kahana-(i)"
    }
   ],
   "children": [
@@ -3008,7 +3121,7 @@
     "slug": "rav-huna"
    },
    {
-    "name": "רבי חייא בר אבא"
+    "slug": "rabbi-chiyya-b-abba"
    }
   ],
   "colleagues": [
@@ -3365,7 +3478,7 @@
     "slug": "rabbi-shimon-b-pazzi"
    },
    {
-    "name": "חייא בר אבא",
+    "slug": "rabbi-chiyya-b-abba",
     "notes": [
      "רבי"
     ]
@@ -3572,7 +3685,7 @@
     "slug": "rav-huna"
    },
    {
-    "name": "רבי אחא"
+    "slug": "rav-aha"
    }
   ],
   "active_from": "הדור השלישי-רביעי לאמוראים. אמוראים",
@@ -3585,7 +3698,7 @@
     "slug": "rabban-gamliel-b-rabbi-(iii)"
    },
    {
-    "name": "רבי חייא"
+    "slug": "rabbi-chiyya"
    }
   ],
   "students": [
@@ -3692,7 +3805,7 @@
     "slug": "rav-dimi"
    },
    {
-    "name": "רבין"
+    "slug": "ravin"
    },
    {
     "name": "רב הונא (השני)"
@@ -3803,12 +3916,12 @@
     "slug": "rabbi-shimon-b-rabbi"
    },
    {
-    "name": "רב כהנא"
+    "slug": "rav-kahana-(i)"
    }
   ],
   "colleagues": [
    {
-    "name": "חייא הגדול"
+    "slug": "rabbi-chiyya"
    },
    {
     "name": "אבא יודן"
@@ -3910,7 +4023,7 @@
     "slug": "rabbi-oshaya"
    },
    {
-    "name": "חזקיה"
+    "slug": "hizkiyah-b-hiyya"
    }
   ],
   "students": [
@@ -3921,10 +4034,10 @@
     "slug": "rabbi-abahu"
    },
    {
-    "slug": "rabbi-avin-(ravin)"
+    "name": "רבי אבין"
    },
    {
-    "name": "חייא בר אבא",
+    "slug": "rabbi-chiyya-b-abba",
     "notes": [
      "רבי"
     ]
@@ -4555,7 +4668,7 @@
     "slug": "rabbi-shimon-b-rabbi"
    },
    {
-    "name": "רבי חייא"
+    "slug": "rabbi-chiyya"
    },
    {
     "slug": "rabbi-yannai"
@@ -4697,11 +4810,22 @@
   "active_from": "דור רביעי לאמוראי בבל",
   "active_to": "דור רביעי לאמוראי בבל"
  },
+ "rav-aha-b-rav-iqa": {
+  "wiki": "רב אחא בר רב איקא",
+  "colleagues": [
+   {
+    "slug": "rav-pappa"
+   },
+   {
+    "slug": "rav-ashi"
+   }
+  ]
+ },
  "rav-aha-b-rava": {
   "wiki": "רב אחא בריה דרבא",
   "teachers": [
    {
-    "name": "רב כהנא מפום נהרא"
+    "slug": "rav-kahana-(iii)"
    },
    {
     "slug": "rav-ashi"
@@ -4765,6 +4889,21 @@
   "active_from": "רביעי לאמוראי בבל",
   "active_to": "רביעי לאמוראי בבל"
  },
+ "rav-aha": {
+  "wiki": "רבי אחא (אמורא)",
+  "teachers": [
+   {
+    "slug": "rabbi-yose-b-chanina"
+   }
+  ],
+  "colleagues": [
+   {
+    "slug": "rabbi-yehudah-b-pazi"
+   }
+  ],
+  "active_from": "הדור הרביעי לאמוראים.",
+  "active_to": "הדור הרביעי לאמוראים."
+ },
  "rav-amram": {
   "wiki": "רב עמרם",
   "teachers": [
@@ -4810,7 +4949,7 @@
   "wiki": "רב אשי",
   "teachers": [
    {
-    "name": "רב כהנא מפום נהרא"
+    "slug": "rav-kahana-(iii)"
    },
    {
     "slug": "amemar"
@@ -5088,6 +5227,27 @@
   "active_from": "חמישי לאמוראי בבל",
   "active_to": "חמישי לאמוראי בבל"
  },
+ "rav-hamnuna-(ii)": {
+  "wiki": "רב המנונא (השלישי)",
+  "teachers": [
+   {
+    "slug": "rav-yehudah-b-yechezkel"
+   },
+   {
+    "slug": "rav-huna"
+   },
+   {
+    "slug": "ulla"
+   }
+  ],
+  "colleagues": [
+   {
+    "slug": "rav-chisda"
+   }
+  ],
+  "active_from": "שלישי אמוראים",
+  "active_to": "שלישי אמוראים"
+ },
  "rav-hanan-b-rabbah": {
   "wiki": "רב חנן בר רבא",
   "teachers": [
@@ -5206,7 +5366,7 @@
     "slug": "rav-giddel"
    },
    {
-    "name": "רבי חייא בר אבא"
+    "slug": "rabbi-chiyya-b-abba"
    }
   ],
   "colleagues": [
@@ -5266,7 +5426,7 @@
     "slug": "shmuel-(amora)"
    },
    {
-    "name": "רב כהנא"
+    "slug": "rav-kahana-(ii)"
    },
    {
     "slug": "rav-nachman-b-yaakov"
@@ -5476,6 +5636,107 @@
   "active_from": "רביעי לאמוראי בבל אמוראים",
   "active_to": "רביעי לאמוראי בבל אמוראים"
  },
+ "rav-kahana-(i)": {
+  "wiki": "רב כהנא (הראשון)",
+  "teachers": [
+   {
+    "slug": "rav"
+   }
+  ],
+  "colleagues": [
+   {
+    "slug": "rav-assi"
+   },
+   {
+    "slug": "rabbi-chiyya",
+    "notes": [
+     "בני"
+    ]
+   }
+  ],
+  "active_from": "ראשון (תקופת המעבר) אמוראים",
+  "active_to": "ראשון (תקופת המעבר) אמוראים"
+ },
+ "rav-kahana-(ii)": {
+  "wiki": "רב כהנא (השני)",
+  "teachers": [
+   {
+    "slug": "rav"
+   },
+   {
+    "slug": "rabbi-yochanan-b-napacha"
+   },
+   {
+    "slug": "rabbi-shimon-b-lakish"
+   },
+   {
+    "slug": "rav-huna"
+   },
+   {
+    "slug": "rav-yehudah-b-yechezkel"
+   }
+  ],
+  "students": [
+   {
+    "slug": "rabbah-b-nachmani"
+   },
+   {
+    "slug": "rav-yosef-b-chiyya"
+   }
+  ],
+  "active_from": "שני אמוראים",
+  "active_to": "שני אמוראים"
+ },
+ "rav-kahana-(iii)": {
+  "wiki": "רב כהנא מפום נהרא",
+  "teachers": [
+   {
+    "slug": "rabbah-b-nachmani"
+   }
+  ],
+  "students": [
+   {
+    "slug": "rav-ashi"
+   }
+  ],
+  "colleagues": [
+   {
+    "slug": "rav-nahman-b-yitzhak"
+   },
+   {
+    "slug": "abaye"
+   },
+   {
+    "slug": "rava"
+   }
+  ],
+  "active_from": "שלישי ורביעי אמוראים",
+  "active_to": "שלישי ורביעי אמוראים"
+ },
+ "rav-kahana-(iv)": {
+  "wiki": "רב כהנא (הרביעי)",
+  "colleagues": [
+   {
+    "slug": "rav-pappa",
+    "notes": [
+     "ו"
+    ]
+   },
+   {
+    "slug": "rav-huna-b-r-yehoshua",
+    "notes": [
+     "ו"
+    ]
+   }
+  ],
+  "died": "414",
+  "died_year": [
+   414,
+   414
+  ],
+  "active_from": "הדור השישי לאמוראי בבל",
+  "active_to": "הדור השישי לאמוראי בבל"
+ },
  "rav-ketina": {
   "wiki": "רב קטינא",
   "active_from": "דור שני לאמוראים",
@@ -5662,7 +5923,7 @@
     "slug": "rav-shesha-b-rav-idi"
    },
    {
-    "name": "רב זביד"
+    "slug": "rav-zevid"
    },
    {
     "name": "יהודה בר מרימר"
@@ -5704,7 +5965,7 @@
     "slug": "rav-huna-b-r-yehoshua"
    },
    {
-    "name": "רב כהנא מפום נהרא"
+    "slug": "rav-kahana-(iii)"
    }
   ],
   "active_from": "חמישי לאמוראי בבל",
@@ -5735,7 +5996,7 @@
     "slug": "abaye"
    },
    {
-    "name": "רב כהנא"
+    "slug": "rav-kahana-(iii)"
    },
    {
     "slug": "rav-huna-b-rav-ika"
@@ -5814,7 +6075,7 @@
     "slug": "rav-pappa"
    },
    {
-    "name": "רב כהנא מפום נהרא"
+    "slug": "rav-kahana-(iii)"
    }
   ],
   "colleagues": [
@@ -5872,7 +6133,7 @@
     "slug": "rabbi-abba"
    },
    {
-    "name": "רב כהנא"
+    "slug": "rav-kahana-(ii)"
    },
    {
     "name": "רחבה מפומבדיתא"
@@ -5908,7 +6169,7 @@
   "wiki": "רב יימר",
   "teachers": [
    {
-    "name": "רב כהנא מפום נהרא"
+    "slug": "rav-kahana-(iii)"
    }
   ],
   "colleagues": [
@@ -6055,11 +6316,43 @@
   "active_from": "דור שלישי לאמוראי בבל וארץ ישראל",
   "active_to": "דור שלישי לאמוראי בבל וארץ ישראל"
  },
+ "rav-zevid": {
+  "wiki": "רב זביד (השני)",
+  "teachers": [
+   {
+    "slug": "abaye"
+   },
+   {
+    "slug": "rava"
+   }
+  ],
+  "students": [
+   {
+    "slug": "rav-kahana-(iv)"
+   }
+  ],
+  "colleagues": [
+   {
+    "slug": "rav-pappa"
+   },
+   {
+    "slug": "rav-ashi"
+   },
+   {
+    "slug": "amemar"
+   },
+   {
+    "slug": "mar-zutra"
+   }
+  ],
+  "active_from": "דור רביעי וחמישי לאמוראי בבל אמוראים",
+  "active_to": "דור רביעי וחמישי לאמוראי בבל אמוראים"
+ },
  "rav": {
   "wiki": "רב (אמורא)",
   "teachers": [
    {
-    "name": "רבי חייא"
+    "slug": "rabbi-chiyya"
    },
    {
     "slug": "rabi"
@@ -6178,6 +6471,22 @@
   ],
   "active_from": "שלישי אמוראים",
   "active_to": "שלישי אמוראים"
+ },
+ "ravin": {
+  "wiki": "רבין (אמורא)",
+  "teachers": [
+   {
+    "slug": "rabbi-abahu"
+   },
+   {
+    "slug": "rav-zera"
+   },
+   {
+    "slug": "rabbi-ilai-(ii)"
+   }
+  ],
+  "active_from": "דור רביעי לאמוראים",
+  "active_to": "דור רביעי לאמוראים"
  },
  "ravina-(i)": {
   "wiki": "רבינא",
@@ -6306,7 +6615,7 @@
   ],
   "colleagues": [
    {
-    "name": "רבי חייא בר אבא"
+    "slug": "rabbi-chiyya-b-abba"
    }
   ],
   "active_from": "שלישי תקופת האמוראים",
@@ -6442,7 +6751,7 @@
   "wiki": "רבי שמעון בר כרסנא",
   "teachers": [
    {
-    "name": "רב אחא"
+    "slug": "rav-aha"
    }
   ],
   "students": [
@@ -6609,7 +6918,7 @@
   ],
   "colleagues": [
    {
-    "name": "רבי חייא"
+    "slug": "rabbi-chiyya"
    },
    {
     "slug": "rabbi-shimon-b-rabbi"
