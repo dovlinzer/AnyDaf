@@ -446,6 +446,7 @@ css += open(SAGES + "/sages.css", encoding="utf-8").read().replace("\n", "")
 css += ".sgbtn{position:absolute;top:10px;right:106px;width:38px;height:38px;border-radius:19px;border:0;background:#fff;box-shadow:0 1px 4px #0005;padding:0;display:grid;place-items:center;cursor:pointer}html[lang=he] .sgbtn{right:60px}"
 css += ".sg{color:inherit;text-decoration:none;border-bottom:1px solid color-mix(in srgb,currentColor 45%,transparent);cursor:pointer}.sg:hover{background:var(--tint)}"
 os.makedirs("site/sages", exist_ok=True)
+shutil.copytree(SAGES + "/fig", "site/sages/fig", dirs_exist_ok=True, ignore=shutil.ignore_patterns("spare"))   # the clay pictures
 for _f in ("sages.json", "quoted.json"):   # the box loads these on first use
     shutil.copy2(os.path.join(SAGES, _f), os.path.join("site/sages", _f))
 

@@ -191,15 +191,13 @@
   }
 
   // ---------- graph ----------
-  // Clay look (Mishnah): a figure with the name under it. A placeholder until the clay pictures exist:
-  // the middle one is large, the others small and soft. Swap the SVG for an <img> of each sage's clay picture.
-  function figure(big) {
-    return `<svg class="sgx-fig" viewBox="0 0 80 92" aria-hidden="true"><defs><radialGradient id="sgxClay${big ? 'B' : 'S'}" cx="38%" cy="30%" r="75%">
-      <stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".18"/></radialGradient></defs>
-      <path d="M12,90 C10,62 22,50 40,50 C58,50 70,62 68,90 Z" fill="var(--c)"/><path d="M12,90 C10,62 22,50 40,50 C58,50 70,62 68,90 Z" fill="url(#sgxClay${big ? 'B' : 'S'})"/>
-      <circle cx="40" cy="30" r="19" fill="#e9c9a0"/><circle cx="40" cy="30" r="19" fill="url(#sgxClay${big ? 'B' : 'S'})"/>
-      <path d="M24,22 C27,8 53,8 56,22 C50,16 30,16 24,22 Z" fill="var(--c)" opacity=".9"/>
-      <circle cx="33" cy="31" r="2.3" fill="#3a2a1a"/><circle cx="47" cy="31" r="2.3" fill="#3a2a1a"/><path d="M33,39 Q40,44 47,39" fill="none" stroke="#3a2a1a" stroke-width="2" stroke-linecap="round"/></svg>`;
+  // Clay look (Mishnah): a clay picture with the name under it. The middle sage has his own picture; teachers and
+  // students each have three, and a sage keeps the same one (from his name), moving on if it is already used in the row.
+  const FIGS = { main: ['main'], teachers: ['teacher-1', 'teacher-2', 'teacher-3'], students: ['student-1', 'student-2', 'student-3'] };
+  const figHash = k => { let h = 5381; for (const c of String(k)) h = (h * 33 + c.charCodeAt(0)) >>> 0; return h; };
+  function figure(role, n) {
+    const list = FIGS[role] || FIGS.main;
+    return `<img class="sgx-fig" src="${esc(S.o.base)}fig/${list[(n || 0) % list.length]}.png" alt="" draggable="false">`;
   }
   function draw(animate) {
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg');
@@ -231,7 +229,7 @@
     [...rows.teachers, ...rows.students].forEach(p => { if (p.id && famOf[p.id]) p.famRel = famOf[p.id]; });
     const place = [];   // {key, id, name, x, y, cls, label}
     const more = [];    // "+N more" buttons
-    let y = clay ? 48 : 34;
+    let y = clay ? 76 : 34;
     function band(name, list, perLine, all) {
       if (!list.length) return null;
       // a "+1 more" button would take the space of the one it hides: show it instead
@@ -242,11 +240,11 @@
       const ys = [];
       lines.forEach((ln, li) => {
         const btn = !all && li === lines.length - 1 && (extra > 0 || (S.open[name] && list.length > perLine + 1));
-        const n = ln.length + (btn ? 1 : 0);
+        const n = clay ? ln.length : ln.length + (btn ? 1 : 0);   // clay: the "+N more" button goes at the edge, so the sages stay symmetrical
         ln.forEach((p, i) => place.push({ ...p, x: X((i + 1) * width / (n + 1)), y, maxW: width / (n + 1) - 10 }));
         if (btn)
-          more.push({ row: name, x: X(n * width / (n + 1)), y, label: extra > 0 ? t('more', extra) : t('fewer') });
-        ys.push(y); y += clay ? 112 : 56;
+          more.push({ row: name, x: clay ? X(width - 34) : X(n * width / (n + 1)), y: clay ? y + (phone ? 92 : 20) : y, label: extra > 0 ? t('more', extra) : t('fewer') });
+        ys.push(y); y += clay ? 124 : 56;
       });
       return ys;
     }
@@ -263,7 +261,7 @@
       const dir = i % 2 === 0 ? -1 : 1, k = Math.floor(i / 2);
       place.push({ ...p, x: X(width / 2 + dir * (cw / 2 + 8 + slot * (k + 0.5))), y: cY, maxW: slot - 10 });
     });
-    y += clay ? (phone ? 120 : 130) : phone ? 66 : 58;
+    y += clay ? (phone ? 128 : 140) : phone ? 66 : 58;
     const restC = cols.slice(side * 2);
     if (restC.length === 1) band('colleagues_more', restC, cap, true);   // one more: just show him
     else if (restC.length) {
@@ -278,6 +276,8 @@
     g.style.height = (y + (sY ? 4 : 20)) + 'px';
     svg.setAttribute('width', width); svg.setAttribute('height', y + 20);
 
+    const usedFig = { teachers: new Set(), students: new Set() };
+    if (clay) place.forEach(p => { const u = usedFig[p.rel]; if (!u) return; let v = figHash(p.id || p.name) % 3; while (u.has(v) && u.size < 3) v = (v + 1) % 3; u.add(v); p.fig = v; });
     // nodes: reuse what is already on screen so it glides
     const want = new Map(place.map(p => [p.id || p.key, p]));
     const prev = S.nodes;
@@ -296,7 +296,7 @@
       const sx = p.centre ? x : p.id ? sage(p.id) : null;
       const fam = p.rel && FAMILY.includes(p.rel), famLabel = fam ? p.rel : p.famRel;
       el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam ? ' fam' : ''}`;
-      el.innerHTML = (clay ? figure(p.centre) : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
+      el.innerHTML = (clay ? figure(p.centre ? 'main' : p.rel, p.fig) : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
       if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
       el.style.maxWidth = (p.centre ? (clay ? Math.min(width * 0.7, 220) : cw) : Math.min(nodeW, p.maxW || nodeW)) + 'px';
