@@ -45,6 +45,20 @@ FAMILY = ("father", "mother", "parents", "children", "spouse", "in_laws", "sons_
           "relatives")
 
 
+# Sefaria records no women's sex, so women are named here or known by their names.
+FEMALE = {"beruriah", "rachel-(rabbi-akiva)", "yalta", "ima-shalom", "homa"}
+FEMALE_NAME = re.compile(r"^(?:אשת|אשתו|בת |בתו|אמו |אסתר|אגרת|אימא|אמא |ילתא|יהודית|שרה|שושנדוחט|חומא|ברוריה)")
+# Names from Wikipedia's infobox that are fragments, not people
+JUNK = re.compile(r"[{}\[\]\(\)\"=:;/0-9]|http|^(?:בנו|בתו|בת|בן|רבו|נכדו|נינו|מספר|שני |שלושה|היה |חלק|תולדות|המאה|לפי)\b|^(?:בנו|בתו|נכדו)$|^(?:אהרן היימן|חמורו|חכמי )")   # Toldot Tannaim's author; a donkey; "the sages of"
+
+
+def clean_name(n):
+    n = n.strip(" .,'")
+    if not n or JUNK.search(n) or not re.search(r"[א-ת]", n) or len(n.split()) > 6:
+        return None
+    return n
+
+
 def load(name, default=None):
     p = SAGES / name
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else default
@@ -84,7 +98,9 @@ def main():
         w = wiki.get(k, {})
         for rel in REL:
             for e in w.get(rel) or []:
-                b = e.get("slug") or ("name:" + e["name"])
+                if not e.get("slug") and not clean_name(e["name"]):
+                    continue
+                b = e.get("slug") or ("name:" + clean_name(e["name"]))
                 add(k, rel, b, "wikipedia", e.get("note", ""))
     for a, rel, b in ov.get("add_links", []):
         add(a, rel, b, "author")
@@ -127,6 +143,8 @@ def main():
             if a != k or (a, rel, b) in drop:
                 continue
             item = ({"id": b} if not b.startswith("name:") else {"name": b[5:]})
+            if b.startswith("name:") and FEMALE_NAME.search(b[5:]):
+                item["f"] = 1
             item.update({"by": sorted(e["from"]), "source": ""})
             if e["note"]:
                 item["note"] = e["note"]
@@ -135,7 +153,7 @@ def main():
             return y if y and len(y) == 2 else None   # a 'century' range is too rough to show
         born, died = exact(w.get("born_year")), exact(w.get("died_year"))
         rec = {
-            "en": x["en"], "he": x["he"], "alt_en": x["titles_en"], "alt_he": x["titles_he"],
+            "en": x["en"], "he": x["he"], "f": 1 if k in FEMALE else 0, "alt_en": x["titles_en"], "alt_he": x["titles_he"],
             "kind": x["kind"], "gen": x["generation"], "gen_code": x["generation_code"],
             "region": x["region"],
             # approximate, from the generation (Sefaria's code, else Wikipedia's generation number)

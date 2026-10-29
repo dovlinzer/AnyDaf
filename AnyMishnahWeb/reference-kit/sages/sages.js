@@ -93,7 +93,7 @@
         const y = l.id && sage(l.id);
         if (!y && r !== 'family' && !FAMILY.includes(r)) continue;   // a bare name only in the family row
         out.push({ key: (l.id || 'name:' + l.name) + '|' + r, id: y ? l.id : null, name: y ? shortName(y) : l.name,
-                   rel: r, x: y });
+                   rel: r, x: y, f: y ? y.f : l.f });
       }
     out.sort((a, b) => (a.x ? tierOf(a.x) : 4) - (b.x ? tierOf(b.x) : 4) || (b.x ? countOf(b.x) : 0) - (a.x ? countOf(a.x) : 0));
     const seen = new Set();
@@ -101,6 +101,22 @@
   }
   const NOTES = { 'שנוי במחלוקת': 'disputed', 'לפי חלק מהדעות': 'by some accounts', 'לפי המסורת': 'by tradition' };
   const FAM_UP = ['father', 'mother', 'parents', 'in_laws'];
+  // the family word for a relation, by the relative's sex (and, for a spouse, the centre's)
+  const FW = {
+    en: { children: ['Son', 'Daughter', 'Sons', 'Daughters'], parents: ['Father', 'Mother'], father: ['Father', 'Mother'],
+          mother: ['Mother', 'Mother'], siblings: ['Brother', 'Sister', 'Brothers', 'Sisters'], spouse: ['Wife', 'Husband'],
+          in_laws: ['Father-in-law', 'Mother-in-law'], sons_in_law: ['Son-in-law', 'Son-in-law', 'Sons-in-law', 'Sons-in-law'] },
+    he: { children: ['בנו', 'בתו', 'בניו', 'בנותיו'], parents: ['אביו', 'אמו'], father: ['אביו', 'אמו'], mother: ['אמו', 'אמו'],
+          siblings: ['אחיו', 'אחותו', 'אחיו', 'אחיותיו'], spouse: ['אשתו', 'בעלה'], in_laws: ['חמיו', 'חמותו'],
+          sons_in_law: ['חתנו', 'חתנו', 'חתניו', 'חתניו'] },
+  };
+  function famWord(rel, female, centreFemale, plural) {
+    const w = (FW[S.o.lang] || FW.en)[rel];
+    if (!w) return t(rel);
+    if (rel === 'spouse') return w[centreFemale ? 1 : 0];
+    const i = (female ? 1 : 0) + (plural && w.length > 2 ? 2 : 0);
+    return w[i];
+  }
   const FAMILY = ['father', 'mother', 'parents', 'children', 'spouse', 'in_laws', 'sons_in_law', 'siblings'];
 
   // ---------- box ----------
@@ -246,7 +262,7 @@
       const sx = p.centre ? x : p.id ? sage(p.id) : null;
       const fam = p.rel && FAMILY.includes(p.rel), famLabel = fam ? p.rel : p.famRel;
       el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam ? ' fam' : ''}`;
-      el.innerHTML = `${esc(p.centre ? fullName(x) : p.name)}${famLabel ? `<small>${esc(t(famLabel))}</small>` : ''}`;
+      el.innerHTML = `${esc(p.centre ? fullName(x) : p.name)}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
       if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
       el.style.maxWidth = (p.centre ? cw : Math.min(nodeW, p.maxW || nodeW)) + 'px';
@@ -304,7 +320,13 @@
     const n = countOf(x), q = (x.quoted || {})[S.o.corpus] || {};
     const top = Object.entries(q).slice(0, 5);
     const name = S.o.tractateName || (s => s);
-    const fam = FAMILY.filter(r => (x.links[r] || []).length).map(r => `<span><b>${esc(t(r))}:</b> ${x.links[r].map(l => {
+    // one line per relation and sex: "Sons: …", "Daughter: …"
+    const groups = [];
+    FAMILY.forEach(r => [0, 1].forEach(f => {
+      const ls = (x.links[r] || []).filter(l => ((l.id && sage(l.id)) ? sage(l.id).f : l.f) ? f : !f);
+      if (ls.length) groups.push([famWord(r, f, x.f, ls.length > 1), ls]);
+    }));
+    const fam = groups.map(([label, ls]) => `<span><b>${esc(label)}:</b> ${ls.map(l => {
       const y = l.id && sage(l.id), nm = y ? shortName(y) : l.name;
       const note = l.note ? (HE() ? l.note : NOTES[l.note] || '') : '';
       return (y ? `<button type="button" data-go="${esc(l.id)}">${esc(nm)}</button>` : `<span lang="he" dir="rtl">${esc(nm)}</span>`)
@@ -436,8 +458,19 @@
     C.show.add(id); C.hit = id;
     if (C.filter !== 'all' && (C.filter === 'tanna') === (x.kind === 'amora')) { C.filter = 'all'; syncFilter(); }
     chartDraw();
-    const b = C.host.querySelector(`.sgc-c[data-go="${CSS.escape(id)}"]`);
-    if (b) { b.scrollIntoView({ block: 'center', inline: 'center', behavior: 'smooth' }); b.focus({ preventScroll: true }); }
+    // On a phone the keyboard closes after a pick, which resizes the page and redraws the chart; a
+    // smooth scroll would be cut off part way. So jump there, and again once the keyboard is gone.
+    C.host.querySelector('input')?.blur();
+    centreHit();
+    setTimeout(centreHit, 450);
+  }
+  function centreHit() {
+    const b = C.hit && C.host.querySelector(`.sgc-c[data-go="${CSS.escape(C.hit)}"]`);
+    if (!b) return;
+    const box = C.host.querySelector('.sgc-body'), bb = box.getBoundingClientRect(), r = b.getBoundingClientRect();
+    box.scrollLeft += (r.left + r.width / 2) - (bb.left + bb.width / 2);
+    box.scrollTop += (r.top + r.height / 2) - (bb.top + bb.height / 2);
+    b.focus({ preventScroll: true });
   }
   function syncFilter() { C.host.querySelectorAll('.sgc-filter button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.f === C.filter))); }
   async function chart(el) {
@@ -469,7 +502,12 @@
       const g = e.target.closest('.sgc-c[data-go]');
       if (g) { C.hit = g.dataset.go; el.querySelectorAll('.sgc-c.hit').forEach(b => b.classList.remove('hit')); g.classList.add('hit'); open(g.dataset.go); }
     });
-    let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => C.host && chartDraw(), 150); });
+    // redraw on a real change of width only (not the phone keyboard opening or closing), keeping
+    // the marked sage in view
+    let rt, lastW = el.clientWidth;
+    window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => {
+      if (!C.host || C.host.clientWidth === lastW) return;
+      lastW = C.host.clientWidth; chartDraw(); centreHit(); }, 150); });
   }
   let chartBox = null;
   function openChart() {
