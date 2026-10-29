@@ -135,11 +135,30 @@ a rebuild.
 - **Major sages can be hand-picked.** The Bavli mention count sets the tiers, but the author can
   mark any sage as major (tier 1) by judgement, for a figure who matters more than the Gemara's
   count shows. Stored with the other overrides.
-- **Yerushalmi sages:** by default they show only in the graph (as someone's teacher or student)
-  and in search, plus a switch to include them in the timeline directly. That needs their
-  generation and region, which Sefaria mostly lacks for them (most of the 680 unclassed people).
+- **Yerushalmi sages** show only in the graph (as someone's teacher or student) and in search. No
+  switch to add them to the timeline: Sefaria mostly lacks their generation and region.
+- **Colleagues: a dotted line, no arrows.**
+- **The graph opens from a "Relationships" button on each card in the Sages window.** A sage's
+  name in the outline keeps opening the Sages window, as now; a direct way in can come later.
+
+## Ideas taken from the other sites (2026-10-29, proposed)
+
+- **Every link shows its evidence** (Torah Tech): click a line in the graph to see the passage
+  that makes them teacher and student, with a note where it is only the usual identification
+  rather than what the text says. Links with no passage yet are marked "source not yet found".
+- **Where they are quoted:** the info box lists the tractates where the sage is quoted most, with
+  counts, and opens a full list of dafim, each a link into iTalmud (any daf opens there, outline or
+  not). From the same Shas-wide count that sets the tiers, so no new cost.
+- **Stories about them:** a short hand-picked list of the passages that tell us who the sage was
+  (Rabbi Akiva's beginnings in Ketubot 62b–63a, his death in Berakhot 61b), separate from the
+  places he is merely quoted. Hebrew Wikipedia's articles cite most of these; the author approves.
+- **Family links** (Torah Tech lists them) move up from "later": a fourth kind of line, beside the
+  centre sage and labelled (father, son, father-in-law).
+- **Approximate dates** (Bonei aTalmud, "c. 120–140 CE") under each name in the info box and as a
+  date scale on the timeline. Hebrew Wikipedia gives them for many sages.
+- **"What we don't know"** (Torah Tech): a line in the info box for disputed identifications, e.g.
+  whether two names are one person.
 
 ## Questions for the author
 
-- Colleagues: dotted with no arrows (recommended), or two-way arrows?
-- Should the graph also open from a sage's name in the outline, or only from the Sages window?
+- Which of the ideas above to keep.
