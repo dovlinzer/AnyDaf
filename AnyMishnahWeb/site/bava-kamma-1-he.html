@@ -445,7 +445,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
   function fit(id) {
     if (!S.o.clay || S.manualW || innerWidth < 700) return;
     let n = Math.min(8, Math.max(people(id, ['teachers']).length, people(id, ['students']).length)), w = n <= 3 ? 0 : Math.min(innerWidth - 16, 760 + 170 * (n - 3) + 32);
-    if (S.view === 'fam') { const fg = famGraph(id), lay = famLayout(fg, 112, 138, 0); w = lay.need > 700 ? Math.min(innerWidth - 16, lay.need + 40) : 0; }
+    if (S.view === 'fam') { const fg = famGraph(id), lay = famLayout(fg, 112, 170, 0); w = lay.need > 700 ? Math.min(innerWidth - 16, lay.need + 40) : 0; }
     S.autoW = w; S.box.style.width = w ? w + 'px' : '';
   }
   // ---------- graph ----------
@@ -595,7 +595,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg'), clay = !!S.o.clay;
     S.box.dataset.view = 'fam'; g.classList.toggle('clay', clay); g.classList.add('famview');
     const sc = S.box.querySelector('.sgx-scroll'), avail = sc.clientWidth - 2 || 600, phone = avail < 560;
-    const nodeW = clay ? (phone ? 92 : 112) : phone ? 88 : 118, rowH = clay ? (phone ? 128 : 138) : 74;
+    const nodeW = clay ? (phone ? 92 : 112) : phone ? 88 : 118, rowH = clay ? (phone ? 158 : 170) : 74;   // room under each name for the line down to the next generation
     const fg = famGraph(S.cur), lay = famLayout(fg, nodeW, rowH, avail), centre = fg.nodes.get(S.cur), cx = sage(S.cur);
     const width = Math.max(avail, lay.need);
     g.style.width = width + 'px';
