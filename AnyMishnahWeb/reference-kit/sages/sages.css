@@ -19,13 +19,13 @@
 .sgx-key .famkey{stroke:var(--c-fam)}
 .sgx-n.fam{border-width:1.5px;border-style:dotted;background:color-mix(in srgb,var(--c) 6%,var(--card,#fff));color:color-mix(in srgb,var(--fg,#222) 72%,transparent);font-size:12.5px}
 .sgx-n.fam small,.sgx-n small{color:var(--c-fam)}
-.sgx-n{position:absolute;left:0;top:0;box-sizing:border-box;padding:5px 9px;border-radius:10px;font:inherit;font-size:13.5px;
+.sgx-n{position:absolute;left:0;top:0;box-sizing:border-box;padding:5px 7px;border-radius:10px;font:inherit;font-size:13.5px;
  line-height:1.2;text-align:center;cursor:pointer;border:2px solid var(--c);color:inherit;
  background:color-mix(in srgb,var(--c) 14%,var(--card,#fff));transition:transform .45s ease,opacity .35s ease;will-change:transform}
 .sgx-n small{display:block;font-size:11px;opacity:.75}
 .sgx-n:hover{background:color-mix(in srgb,var(--c) 26%,var(--card,#fff))}
 .sgx-n:focus-visible{outline:3px solid var(--blue,#1b3a8a);outline-offset:2px}
-.sgx-n.t3{font-size:12px;padding:3px 7px;border-width:1.5px}
+
 .sgx-n.centre{font-size:17px;font-weight:700;padding:9px 16px;border-width:3px;cursor:default;
  background:color-mix(in srgb,var(--c) 22%,var(--card,#fff));z-index:2}
 .sgx-n.plain{cursor:default;border-style:dashed}
@@ -179,3 +179,6 @@
 .sgx-lk path{fill:none;stroke-width:1.6}
 .sgx-graph:not(.clay) .sgx-lines path.t,.sgx-graph:not(.clay) .sgx-lines path.s{stroke-width:1.8;opacity:.85}
 .sgx-trail .sgx-backbtn{color:#fff;opacity:1;text-decoration:none;font-size:14px;border:1px solid #fff9;border-radius:12px;padding:1px 10px}.sgx-trail .sgx-backbtn:hover{background:#fff2}
+
+/* the boxes around him are all one size (width set in sages.js): the name centred, two lines' height */
+.sgx-graph:not(.clay) .sgx-n:not(.centre){min-height:48px;display:flex;flex-direction:column;justify-content:center;align-items:center}

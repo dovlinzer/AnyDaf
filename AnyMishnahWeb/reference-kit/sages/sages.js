@@ -430,10 +430,12 @@
       const ys = [];
       lines.forEach((ln, li) => {
         const btn = !all && li === lines.length - 1 && (extra > 0 || (S.open[name] && list.length > perLine + 1));
-        const n = clay ? ln.length : ln.length + (btn ? 1 : 0);   // clay: the "+N more" button goes at the edge, so the sages stay symmetrical
-        ln.forEach((p, i) => place.push({ ...p, x: X((i + 1) * width / (n + 1)), y, maxW: width / (n + 1) - 10 }));
+        // the "+N more" button takes a narrow slot at the row's end, so the names keep their full width
+        // (clay: it goes at the edge, so the sages stay symmetrical)
+        const BW = 84, avail = !clay && btn ? width - BW : width, n = ln.length;
+        ln.forEach((p, i) => place.push({ ...p, x: X((i + 1) * avail / (n + 1)), y, maxW: avail / (n + 1) - 10 }));
         if (btn)
-          more.push({ row: name, x: clay ? X(width - 34) : X(n * width / (n + 1)), y: clay ? y + (phone ? 92 : 20) : y, label: extra > 0 ? t('more', extra) : t('fewer') });
+          more.push({ row: name, x: clay ? X(width - 34) : X(width - BW / 2), y: clay ? y + (phone ? 92 : 20) : y, label: extra > 0 ? t('more', extra) : t('fewer') });
         ys.push(y); y += clay ? 124 : phone ? 58 : 64;
       });
       return ys;
@@ -467,11 +469,11 @@
     g.style.height = (y + (sY ? 4 : 20)) + 'px';
     svg.setAttribute('width', width); svg.setAttribute('height', y + 20);
 
-    commit(place, more, animate, { g, clay, width, nodeW, cw, x });
+    commit(place, more, animate, { g, clay, width, nodeW, cw, x, boxW: Math.min(nodeW, (width - 84) / (cap + 1) - 10) });
   }
   // put the nodes on screen (reusing those already there, so they glide), and the "+N more" buttons, and the lines
   function commit(place, more, animate, ctx) {
-    const { g, clay, width, nodeW, cw, x } = ctx;
+    const { g, clay, width, nodeW, cw, x, boxW } = ctx;
     if (clay) assignFaces(place);
     // nodes: reuse what is already on screen so it glides
     const want = new Map(place.map(p => [p.id || p.key, p]));
@@ -495,6 +497,8 @@
       if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
       el.style.maxWidth = (p.centre ? (clay ? Math.min(width * 0.7, 220) : cw || nodeW * 1.5) : Math.min(nodeW, p.maxW || nodeW)) + 'px';
+      // every box in a row the same size, whatever the name's length: a small box would read as a lesser sage
+      el.style.width = !clay && !p.centre ? Math.min(boxW || nodeW, p.maxW || nodeW) + 'px' : '';
       requestAnimationFrame(() => {
         el.style.opacity = '1';
         el.style.transform = `translate(${p.x}px,${p.y}px) translate(-50%,-50%)`;
