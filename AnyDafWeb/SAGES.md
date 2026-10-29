@@ -99,7 +99,8 @@ alike.
 
 ## Fixing the relationships first
 
-1. **Hebrew Wikipedia** (free, already cached for 1,032 pages): many sage articles have infobox
+1. **Hebrew Wikipedia** (free; only its category lists are cached today, so the articles, about
+   350 for the classed sages, must be fetched first): many sage articles have infobox
    fields רבותיו / תלמידיו, and the opening lines name colleagues ("בן דורו ובר-פלוגתיה של…"). We
    parse them and match names to slugs with the matcher we already have.
 2. **The Talmud itself**, later and only if needed: phrases like "תלמידו של" and "אמר רב X אמר רב Y"
@@ -139,14 +140,50 @@ or generation; better data won't fix that. So the chart should show such a sage 
   tier-2 sages have teachers, students and a generation. Most readers start there, and the gaps
   are mostly in tier 3.
 
-## Order of work
+## Shared with Illustrated Mishna (like the measures kit)
 
-1. Count mentions across Shas and assign tiers (local, free).
-2. Pull relationships from Hebrew Wikipedia and merge them with Sefaria's (local, free).
-3. **Build the graph view first, inside today's daf Sages window:** a "Relationships" button on
-   each card, centred on that sage. It is useful at once, and it is a small, testable step.
-4. Author review of the top two tiers' links.
-5. The Shas timeline with tiers, zoom and search, under Reference Tools.
+One source for both sites, built the way the Reference kit is: the files live in
+`AnyMishnahWeb/reference-kit/sages/`, both sites' builds read them from that path on every build,
+and neither site keeps a copy or edits them.
+
+| File | What it is |
+|---|---|
+| `sages.json` | one record per sage: names (English, Hebrew, spellings), kind, generation, region, approximate dates, tier and the author's "major" picks, teachers / students / colleagues / family (each link with a `source` field, empty until stage 2), bio, stories, and mention counts per corpus (`bavli`, `mishnah`) by tractate |
+| `sages.js` | the whole UI, a plain script with no libraries: the relationship graph, the info box, later the timeline and search. English and Hebrew |
+| `sages.css` | its styles, on the host site's colour variables |
+| `README.md` | the contract, as the measures kit has |
+
+**Written by one script, not by hand:** `daf-processor/build_sages.py kit` writes `sages.json` from
+Sefaria, Hebrew Wikipedia, `overrides.json` (the author's corrections and picks) and
+`stories.json` (the approved stories), so edits go into those inputs and a rebuild carries them.
+
+**What differs per site is passed in, not built in:** which corpus's counts set the tiers and fill
+"where they are quoted" (Bavli for iTalmud, Mishnah for Illustrated Mishna, so the Mishnah site's
+major sages are its tanna'im), and how a quotation becomes a link (`#Bava_Metzia/11` in iTalmud, a
+chapter page in Illustrated Mishna). The host calls something like
+`AnySages.init({corpus:'bavli', link:(tractate, ref) => url, lang:'en'})`.
+
+The Mishnah counts need the whole Mishnah's text; Illustrated Mishna has only the chapters it has
+built, so the script fetches it once from Sefaria (free) for counting.
+
+## Next steps (all local, no AI calls)
+
+1. **Count mentions across the Bavli and the Mishnah**, using the name matcher we already have, and
+   set the tiers. Report: how many sages in each tier, and the top names, for you to check.
+2. **Fetch the Hebrew Wikipedia articles** for the classed sages and pull teachers, students,
+   colleagues, family and dates. Merge with Sefaria's links. Report coverage for tiers 1 and 2
+   (how many have teachers, students, a generation, dates).
+3. **Set up the kit folder** and `build_sages.py kit`, writing `sages.json`.
+4. **Build the graph and info box** in `sages.js`, and wire it into iTalmud's Sages window (a
+   "Relationships" button on each card). Test it on a few dafim.
+5. **Your review:** the tier-1 picks, the links among tiers 1 and 2, and stories (I draft each
+   major sage's list from Wikipedia's citations; you approve).
+6. **Wire it into Illustrated Mishna** (its own Sages box is still to come; the graph can arrive
+   with it).
+7. Later: the Shas-wide timeline and search under Reference Tools; stage 2.
+
+**Licence note:** facts (who taught whom, dates) are free to use, but Wikipedia's wording is
+CC BY-SA. So the bios stay Sefaria's (as now), and nothing is copied from Wikipedia's text.
 
 ## Decisions (author, 2026-10-29)
 
@@ -162,8 +199,8 @@ or generation; better data won't fix that. So the chart should show such a sage 
 ## Ideas taken from the other sites (2026-10-29)
 
 **Order (author, 2026-10-29): the readers are mostly casual learners and high-school students, not
-scholars, so what makes a sage vivid comes first: stories, family and dates in stage 1; evidence
-for each link, where they are quoted, and "what we don't know" in stage 2.** Each link still stores
+scholars, so what makes a sage vivid comes first: stories, family, dates and where they are quoted in
+stage 1; evidence for each link and "what we don't know" in stage 2.** Each link still stores
 a source field from the start (empty for now), so stage 2 adds passages without reworking the data.
 
 - **Every link shows its evidence** (Torah Tech): click a line in the graph to see the passage
