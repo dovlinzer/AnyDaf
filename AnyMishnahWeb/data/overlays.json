@@ -1468,5 +1468,51 @@
     "answer": "pay-benefit"
    }
   ]
+ },
+ "bk3-6": {
+  "clean": "img/clean/bk3-6.jpg",
+  "w": 1264,
+  "h": 848,
+  "hint": "Tap a person to see the ruling.",
+  "hotspots": [
+   {
+    "label": "The woman",
+    "rect": [
+     257,
+     168,
+     573,
+     752
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 415.0,
+      "y": 170,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   },
+   {
+    "label": "The man",
+    "rect": [
+     608,
+     169,
+     1081,
+     858
+    ],
+    "badges": [
+     {
+      "src": "tag-notpay.png",
+      "x": 844.5,
+      "y": 171,
+      "w": 104,
+      "anchor": "bottom"
+     }
+    ],
+    "answer": "notpay"
+   }
+  ]
  }
 }

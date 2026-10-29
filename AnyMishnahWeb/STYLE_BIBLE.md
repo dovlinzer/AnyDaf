@@ -219,3 +219,60 @@ When a mishnah sets out key categories (BK 1:1: shor, bor, mav'eh, hev'er; later
 
 ## Hebrew pages (author, 2026-10-13)
 Hebrew is WRITTEN, not translated: scripts/write_he.py writes each mishnah's notes fresh in Hebrew (model: claude-opus-4-5, chosen because idiomatic and accurate halakhic Hebrew is a judgment task; sonnet invented/garbled words) with the Hebrew mishnah and Steinsaltz's explanation as context; UI strings keep short translations (translate_he.py). The text lives in data/he/strings.json (keyed by the English string; edit by hand and rebuild). Steinsaltz's biur (Sefaria, William Davidson Edition - Hebrew, CC-BY-NC, credited on the page) sits under each Hebrew mishnah: scripts/fetch_steinsaltz_bk.py. Key terms are bare Hebrew, no parentheses. Mishnah column stays on the right. Never copy Kehati's or Steinsaltz's sentences into our notes. All Hebrew is a DRAFT until the author has reviewed it.
+
+## RULE: when to describe an expression (author, 2026-10-14, from melakhot batch 1)
+A single action shot (one person doing one thing: sowing, plowing, threshing) gets NO expression description: neutral is the safe default. Any named effort or mood ("frowning", "furrowed brow", "strained", "intense", "concentrating", "shows effort") made Gemini draw the farmer angry or mean. State expressions only in fuller scenes, especially with several people, where each figure's reaction matters to the case. check_prompts.py flags the angry-making words on melakhot files and no longer demands an expression there.
+Also: one moment means one pose. 'Raised overhead' plus 'blade landing in the ground' made Gemini draw the hoe twice (a loose second blade in the soil). Pick the impact OR the raised moment, never both.
+
+## RULE: a process picture must not already contain the next stage's product (author, 2026-10-14)
+In a sequence of melakhot (a process), draw each stage's product as it really is at THAT stage. Grinding yields coarse meal, flour mixed with bran, not pure white flour: pure white flour would make the next stage (sifting) pointless. Check each stage's product against the next stage's job before sending prompts.
+
+## RULES from melakhot batch 2 (author, 2026-10-14)
+1. In an edit chain, CHANGE THE SETTING when the stage happens somewhere else. Gemini keeps the old scene unless told: grinding, sifting, kneading and baking do not happen in the field (they were drawn in the middle of a wheat field). Grinding and sifting: a courtyard; kneading and baking: inside the house with the oven.
+2. Remove what an earlier stage used up: after reaping there is no standing wheat (threshing onward: bare ground, stubble only).
+3. For anything thrown, poured or released, say where it comes FROM and goes TO ('the kernels rise directly from the shovel in an arc'); otherwise the model invents the source (winnowing drew grain from nowhere).
+4. Leftover motifs from the previous picture creep back in by themselves (grinding drew a circle of single wheat stalks round the farmer). When the setting changes, say what is NOT there ('no wheat stalks anywhere on the ground') and keep the 'exactly one ...' count list complete.
+5. Don't put an object in an early picture that a later stage must introduce (kneading showed the oven in the corner; baking then drew a second oven, or could not move the farmer 'in front of' the far one). Introduce the key object of a stage in that stage's own edit, in the centre, facing the camera. An edit cannot move the camera: if the action needs a different viewpoint or a different position relative to a fixed object, state the new viewpoint, or make a fresh picture with the farmer attached as the character reference.
+
+6. (Corrects rule 5.) What WORKED for kneading then baking: the SAME room from the same camera, with the oven already there UNLIT against the right-hand wall in kneading, and in baking the oven simply LIT, the table/trough/jug removed and the farmer kneeling to its left. Keep the object and the camera fixed; change only the state (unlit to lit). Winnowing: hold the shovel HIGH (level with his head, tipped forward) or the grain reads as rising from the ground into the shovel.
+
+7. 'Separating X from Y' scenes (selecting, sifting, winnowing): state the SIZE of the waste relative to the good (pebbles much smaller than a kernel), where each is (clean kernels only in the tray; the mixture in his palm; the waste in a small separate heap) and what the hand is doing (lifting a pebble OUT of the kernels). Never leave the model to guess the waste: 'a piece of stalk' made it draw kernels being picked off a stalk, and unsized stones came out as big rocks in a huge pile.
+
+8. Baking: do not empty the room. The table, trough and jug stay, pushed to the left side, so the room does not look naked (author's preference, 2026-10-14). A clay oven must be described as a bread oven with its arched opening in the SIDE facing the room, unlit and empty before baking; unprompted it is drawn with the mouth on top (like a jar), and 'with fire' draws loaves already baking inside.
+
+## RULE: draw the ESSENCE of the melakha, not just the farm act (author, 2026-10-14)
+For every melakha, first write its essence: what is different between before and after, as Kehati defines it. Then check the picture SHOWS that difference. Selecting: waste is removed from the food (so: a mixture in hand, clean food in the tray, a heap of waste, a hand lifting waste out), not 'picking things up'. Sifting: a thoroughly mixed meal goes in, only the pure white flour comes out below, the bran stays in the sieve. If the before-state is not visibly a mixture, or the after-state is not visibly pure, the picture does not show the melakha. Put an ESSENCE line in each Review note, and write it in data/melakhot_kehati_notes.md before the prompt.
+
+## RULE (author, 2026-10-14; ALWAYS): READ KEHATI BEFORE WRITING ANY PROMPT
+YOU MUST ALWAYS READ KEHATI TO FULLY UNDERSTAND THE TOPIC AND THE RELEVANT FACTS AND DETAILS BEFORE WRITING THE PROMPT. Read the passage closely (the commentary, not only the large-print mishnah), write the melakha's essence and the facts the picture must show into data/melakhot_kehati_notes.md, and only then draft the prompt. If Kehati gives several readings, record them and say which is drawn. Anything in a picture that is not from Kehati (tools, clothing, setting) must be listed as such in the notes. Never draft from a quick skim, from memory, or from general knowledge. The same applies to every other source text this project illustrates (read the source first).
+
+## RULE: balance men and women across the melakhot sets (author, 2026-10-14)
+Actors are chosen per SET, one consistent person within a set, and balanced across the whole 39. So far: Bread = a farmer (man); Garment = a woman (rust-red dress, white head covering; the modern-look versions too). Decide the actor for each remaining set (Scroll, Building, Carrying) before drafting it, and keep the overall balance.
+
+9. Flows and separations (winnowing): give EVERY object a fixed left/right position and every flow a direction ('the source heap at his feet to his right'; 'the kernels rise from the shovel in an arc and fall away from him to the left into a small clean heap on the left'; 'the chaff blows to the left'). Do NOT write 'flinging a shovelful FROM that heap': the model draws the arc going back to the source heap. Say only 'flinging a shovelful of grain into the air'. Winning version, 2026-10-14: scripts/make_prompts_melakhot_b2.py no. 6 (author's own wording).
+
+## DECISION: the look stays 1st-century clay/graphic novel (author, 2026-10-14)
+The modern-look comparison pictures (dyeing, spinning, sewing in present-day clothes and rooms) 'didn't look right'. All 39 melakhot keep the 1st-century setting and the same look and feel as the Bread set. No modern-dress versions are to be made.
+
+## DECISION (author, 2026-10-28): sources are the mishnah, Kehati and the William Davidson English; NO Kulp
+English translation = William Davidson Edition (Koren/Steinsaltz), via Sefaria, CC BY-NC 4.0, shown with the mishnah's own words in amber (<b>) and the editors' added explanation in grey. Kulp (text, commentary and outline bullets) is removed from the pages and data; the 97 Kulp-sourced outline bullets were rewritten from Kehati (own words, never his wording). Danby (Oxford UP, 1933) was considered and NOT used: likely still in US copyright (restored foreign work) until 2029 unless Oxford permits. Gaps in Davidson (Zeraim except Berakhot; Taharot except Niddah; also Eduyot, Avot, Middot, Kinnim) are undecided: candidates Sefaria Community (CC0), Silverstein (CC-BY), Open Mishnah (CC-BY-SA), the 1843 'Eighteen Treatises' (public domain). Data backup before the swap: data/_backup_before_davidson/. Helpers: scripts/fetch_davidson_en.py, edit_bullets.py, edit_summary.py.
+
+## RULE: terminology (author, 2026-10-28)
+שוטה (shoteh), a person, is ALWAYS rendered "a person with psychosis". Never "imbecile", "idiot" or "insane person" (offensive/inaccurate). This applies to the Davidson text shown on the site (applied when fetched: scripts/fetch_davidson_en.py), the smoothed text (scripts/make_smooth_en.py), the outline bullets, summaries, quiz lines, charts and prompts. Exception, flagged for the author: an ox that is a shoteh (BK 5:6) is "disoriented (shoteh)", since an ox is not a person. Hebrew pages use שוטה.
+## English display (2026-10-28) (Illustrated Mishna; iTalmud will NOT smooth)
+Default = the smoothed English (data field "en_smooth", written by Claude from the Hebrew and Davidson's amber words; a draft under review). The "English" option in the bar switches to the full William Davidson text (amber = mishnah's words, grey = editors' explanation).
+
+## RULE: three kinds of terms in the smoothed English (author, 2026-10-28)
+1. CORE terms (used repeatedly across a unit, one stable gloss: mazik, nizak, tam, mu'ad, shomer, ...): marked {{key}} in data "en_smooth"; first use in a mishnah = the pair (italic term + gloss, order follows 'Terms first'); later uses = bare term/gloss with a dotted underline.
+2. INCIDENTAL technical terms (a real technical term elsewhere in Shas, only mentioned in passing here: me'ilah; also e.g. yibbum, shekhiv me'ra when mentioned in passing): marked {{key|i}}; ALWAYS English first with the term in parentheses and underlined, in either setting; it links to a glossary entry that says it is incidental and points to where the primary discussion is. Keeps the mishnah from reading too technical.
+3. NOT terms: phrases that only describe a principle in the mishnah's own sentence and are never reused (hichsharti): plain English, and NOT in the glossary.
+Term table: TERMS in scripts/build_site.py. Glossary entries: data/bava_*_summary.json "terms" (optional "id" gives the anchor).
+
+## RULE: tam / mu'ad (author, 2026-10-30)
+tam = "unattested danger" (it CAN gore; it is not an established danger), mu'ad = "attested danger". Never "harmless". Never "an unattested ox": the form is "an ox that is a tam (unattested danger)" (first gloss), then "a tam ox / the tam". Applied to outlines, summaries, charts, quiz and the smoothed English.
+## RULE: leading prepositions (author, 2026-10-30)
+Glossary terms (Hebrew, transliteration and English gloss) are given WITHOUT the leading preposition or article that the text attaches (ב, ל, מ, ו, ה, כ, ש): e.g. מיטב הארץ / meitav ha'aretz / "the best of the land", not "from/with the best of the land". The running text keeps the natural preposition.
+
+## Paragraph rule (author, 2026-10-28)
+Start a new paragraph whenever the speaker switches or a different tanna states a position ("They said to him", "He said to them", "Rabbi X says/said", "The Sages say"), in both English and Hebrew. Paragraph spacing is .25em. scripts/split_speakers.py applies this; use it for any new text.
+- No etymologies in glossary entries (author, 2026-10-28).

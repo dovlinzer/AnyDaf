@@ -1,7 +1,7 @@
 {
  "tractate": "Bava Kamma",
  "chapter": 1,
- "status": "Draft from the mishnah, R. Kulp and Kehati (pages 1-21 of the scan).",
+ "status": "Draft from the mishnah and Kehati, under review.",
  "mishnayot": [
   {
    "n": 1,
@@ -16,8 +16,8 @@
        "Mishnah 1:1"
       ],
       [
-       "Each comes from the Torah: the ox (Exodus 21:35-36), the pit (21:33-34), the crop-destroying beast (22:4) and fire (22:5).",
-       "Kulp 1:1"
+       "Each has its source in the Torah: the pit in Exodus 21:33; the \"ox\" (the foot) in \"and he lets his animal loose\" (22:4, compare Isaiah 32:20); the crop-destroying beast (the tooth) in \"and it feeds in another's field\" (22:4); fire in 22:5.",
+       "Kehati 1:1"
       ]
      ]
     },
@@ -29,8 +29,8 @@
        "Mishnah 1:1"
       ],
       [
-       "The Rabbis held that no law in the Torah is superfluous, so each case must teach something the others could not.",
-       "Kulp 1:1"
+       "Because they differ in character, none of the four could be learned from another, so the Torah had to write all four.",
+       "Kehati 1:1"
       ]
      ]
     },
@@ -42,7 +42,7 @@
        "Mishnah 1:1"
       ],
       [
-       "When one of them does injury, whoever is responsible pays from the best of his land.",
+       "When one of them does injury, whoever is responsible pays with the best of the land.",
        "Mishnah 1:1"
       ]
      ]
@@ -51,7 +51,7 @@
      "h": "Kehati's notes",
      "b": [
       [
-       "The Gemara disputes what the four are. Rav says the mishnah names the main kinds of damage in the Torah (the ox covers horn, tooth and foot, the \"crop-destroying beast\" is a person who damages). Shmuel says it names only four kinds of property damage that are attested dangers from the start: the foot (\"ox\"), the tooth (\"crop-destroyer\", from a word meaning to bulge out), the pit and fire. Kehati explains the mishnah as Shmuel does, with Rambam and Bartenura.",
+       "The Gemara disputes what the four are. Rav says the mishnah names the main kinds of damage in the Torah (the ox covers horn, tooth and foot, the \"crop-destroying beast\" is a person who damages). Shmuel says it names only four kinds of property damage that are attested dangers from the start: the foot (\"ox\"), the tooth (\"crop-destroyer\"), the pit and fire.",
        "Kehati 1:1"
       ]
      ]
@@ -117,16 +117,12 @@
      "h": "The principle",
      "b": [
       [
-       "Anything I am responsible to guard, I have rendered it possible to do injury (hichsharti).",
+       "Anything I am responsible to guard, I have rendered it possible to do injury.",
        "Mishnah 1:2"
       ],
       [
        "If I partially rendered it possible, I pay as if I totally did.",
        "Mishnah 1:2"
-      ],
-      [
-       "Example: a pit that was already four feet deep, and a six foot pit would kill an animal; if I deepen it to six, I am liable as if I dug the whole pit.",
-       "Kulp 1:2"
       ]
      ]
     },
@@ -142,7 +138,7 @@
        "Mishnah 1:2"
       ],
       [
-       "Payment is from the best of his land.",
+       "Payment is with the best of the land.",
        "Mishnah 1:2"
       ]
      ]
@@ -176,8 +172,8 @@
        "Mishnah 1:3"
       ],
       [
-       "Two things are assessed: what the damaged animal was worth, and how large a piece of land the damager must give.",
-       "Kulp 1:3"
+       "The assessment is in money only: the court sets the money value of the damage, and that is what the damager pays.",
+       "Kehati 1:3"
       ]
      ]
     },
@@ -187,10 +183,6 @@
       [
        "Women may be parties in suits concerning injury.",
        "Mishnah 1:3"
-      ],
-      [
-       "The Torah uses \"man\" in many of these verses, so one might have thought only men's damages count.",
-       "Kulp 1:3"
       ],
       [
        "Kehati: the Torah's law applies to women too, from the verse that follows the Sinai chapters, \"these are the laws that you shall set before them\" (Exodus 21:1).",
@@ -206,8 +198,8 @@
        "Mishnah 1:3"
       ],
       [
-       "The clearest case is half damages: the owner of an ox not known to gore pays only half, so the injured owner bears the other half.",
-       "Kulp 1:3"
+       "Sometimes both share the loss. When a tam ox gores, the damager pays only half the damage, so the injured party bears the other half.",
+       "Kehati 1:3"
       ]
      ]
     },
@@ -219,7 +211,7 @@
        "Kehati 1:3"
       ],
       [
-       "The Gemara disputes whether the half damages of a harmless ox is money or a fine (Rav Pappa: money; Rav Huna: a fine).",
+       "The Gemara disputes whether the half damages of a tam ox is money or a fine (Rav Pappa: money; Rav Huna: a fine).",
        "Kehati 1:3"
       ]
      ]
@@ -259,11 +251,11 @@
   },
   {
    "n": 4,
-   "title": "Harmless and attested dangers",
-   "summary": "Five agents are harmless (tam) and five are attested dangers (mu'ad). A harmless one pays half damages from its own body; an attested danger pays full damages from the best property.",
+   "title": "Unattested and attested dangers",
+   "summary": "Five agents are unattested danger (tam) and five are attested dangers (mu'ad). A tam pays half damages from its own body; an attested danger pays full damages with the best of the land.",
    "outline": [
     {
-     "h": "Five harmless",
+     "h": "Five tamim",
      "b": [
       [
        "An animal is not an attested danger to butt, push, bite, lie down or kick.",
@@ -288,12 +280,12 @@
      "h": "The difference",
      "b": [
       [
-       "The harmless pays half damages from its own body; the attested danger pays full damages from the best property.",
+       "The tam pays half damages from its own body; the attested danger pays full damages with the best of the land.",
        "Mishnah 1:4"
       ],
       [
-       "The idea: an owner whose animal is likely to do a certain damage should guard it more carefully.",
-       "Kulp 1:4"
+       "Some damagers are attested dangers from the start, because doing that damage is what they usually do by their nature, like the tooth eating and the foot breaking as it walks.",
+       "Kehati 1:4"
       ]
      ]
     },
@@ -301,7 +293,7 @@
      "h": "Kehati's notes",
      "b": [
       [
-       "The Torah (Exodus 21:35): \"sell the live ox and divide its price\": a harmless ox pays only from its own value. If it died or was lost, the owner pays nothing more.",
+       "The Torah (Exodus 21:35): \"sell the live ox and divide its price\": a tam ox pays only from its own value. If it died or was lost, the owner pays nothing more.",
        "Kehati 1:4"
       ]
      ]
@@ -317,7 +309,7 @@
     }
    ],
    "chart": {
-    "title": "Harmless and attested dangers",
+    "title": "Unattested and attested dangers",
     "cols": [
      "",
      "What it does",
@@ -325,14 +317,14 @@
     ],
     "rows": [
      [
-      "Harmless (tam)",
+      "Unattested danger (tam)",
       "butts, pushes, bites, lies down, kicks",
       "half damages, from the body of the animal"
      ],
      [
       "Attested danger (mu'ad)",
       "eats what it likes, breaks as it walks, a warned ox, an ox in the damaged party's domain, a person, wild beasts and the snake",
-      "full damages, from the best property"
+      "full damages, with the best of the land"
      ]
     ]
    },

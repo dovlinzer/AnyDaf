@@ -1,5 +1,5 @@
 {
- "status": "Draft from the mishnah and R. Kulp's commentary only (each item carries its mishnah number). To be deepened with Kehati. Definitions are provisional until AnyDaf's master glossary covers them.",
+ "status": "Draft from the mishnah and Kehati (each item carries its mishnah number). Definitions are provisional until AnyDaf's master glossary covers them.",
  "principles": [
   {
    "t": "Two people hold an object, each says it is his, and neither can prove it: each swears that he owns no less than half, and they split it. This applies whether they say 'I found it' or 'it's all mine'.",
@@ -14,37 +14,37 @@
    "m": [
     1
    ],
-   "src": "Mishnah 1:1",
-   "note": "Why three quarters? The mishnah's own numbers suggest that the half nobody disputes is his, and the other half is split, but R. Kulp leaves this as a question, so it is to be confirmed from Kehati."
+   "src": "Mishnah 1:1; Kehati 1:1",
+   "note": "Kehati (1:1): the claimant of half is conceding that the other half is his opponent's, so the dispute is only over the other half, which is divided; hence three quarters and a quarter."
   },
   {
-   "t": "Oaths are the tool when there are no witnesses; they work because oaths were taken extremely seriously. When both sides admit the other's claim, or witnesses testify, no oath is needed, since it is preferable to avoid oaths altogether.",
+   "t": "When neither side has witnesses, each swears. When both admit the other's claim, or there are witnesses, they divide without an oath.",
    "m": [
     1,
     2
    ],
-   "src": "Kulp 1:1, 1:2"
+   "src": "Mishnah 1:1-1:2; Kehati 1:2"
   },
   {
-   "t": "A claim of ownership over a found object must be made at the time of holding it, not after handing it to someone else.",
+   "t": "One who found something must claim it at the time he takes hold of it, not after handing it to someone else.",
    "m": [
     3
    ],
-   "src": "Kulp 1:3"
+   "src": "Mishnah 1:3; Kehati 1:3"
   },
   {
    "t": "Falling on a found object does not acquire (zakhah) it: whoever seizes it acquires it. A person's field can acquire an animal for him only if three conditions hold: others have not yet claimed it, the animal physically cannot leave the field, and the owner declares that his field acquires it.",
    "m": [
     4
    ],
-   "src": "Mishnah 1:4; Kulp 1:4"
+   "src": "Mishnah 1:4; Kehati 1:4"
   },
   {
    "t": "What a person who is supported by him finds (minor children, Canaanite slave, wife) belongs to the supporter. What those independent of him find (adult children, a Hebrew slave, a divorced wife even before the ketubah is paid) is their own.",
    "m": [
     5
    ],
-   "src": "Kulp 1:5"
+   "src": "Mishnah 1:5; Kehati 1:5"
   },
   {
    "t": "Found documents are returned or not according to whether we can be sure the owner lost them. A found loan document that records a lien (acharayut nekhasim) is not returned, since the court would collect from the property (the Sages say the same even without a lien; R. Meir disagrees, see below). Documents of giving (divorce, release of a slave, wills, gifts, receipts) are not returned, since the writer may have changed his mind and never given them.",
@@ -52,26 +52,26 @@
     6,
     7
    ],
-   "src": "Mishnah 1:6-1:7; Kulp 1:7"
+   "src": "Mishnah 1:6-1:7; Kehati 1:7"
   },
   {
    "t": "Returned: documents drawn up by the court and the like, documents found in an identifiable bag, and a bundle (three documents tied together) whose names point to who lost it. A document of unknown nature among one's own documents waits until Elijah comes; torn documents are handled as their postscripts (simpon) say.",
    "m": [
     8
    ],
-   "src": "Mishnah 1:8; Kulp 1:8"
+   "src": "Mishnah 1:8; Kehati 1:8"
   }
  ],
  "terms": [
   {
    "term": "oath",
    "he": "שבועה",
-   "def": "The means of testing the truth of a claim when there are no witnesses. Oaths were taken extremely seriously, and the assumption is that no one swears falsely.",
+   "def": "The means of settling a claim when there are no witnesses.",
    "m": [
     1,
     2
    ],
-   "src": "Kulp 1:1, 1:2"
+   "src": "Mishnah 1:1-1:2; Kehati 1:1"
   },
   {
    "term": "acquire (zakhah)",
@@ -81,7 +81,7 @@
     3,
     4
    ],
-   "src": "Kulp 1:3, 1:4"
+   "src": "Mishnah 1:3-1:4; Kehati 1:3"
   },
   {
    "term": "my field acquires it for me",
@@ -90,25 +90,25 @@
    "m": [
     4
    ],
-   "src": "Kulp 1:4"
+   "src": "Mishnah 1:4; Kehati 1:4"
   },
   {
    "term": "ketubah",
    "he": "כתובה",
-   "def": "Here, the divorce settlement. Until it is paid, the husband still supports his divorced wife, yet he does not receive what she finds.",
+   "def": "Here, the divorce settlement that a husband owes his wife. Even before it is paid, what his divorced wife finds is hers.",
    "m": [
     5
    ],
-   "src": "Kulp 1:5"
+   "src": "Mishnah 1:5; Kehati 1:5"
   },
   {
    "term": "Canaanite slave and Hebrew slave",
    "he": "עבד כנעני, עבד עברי",
-   "def": "A Canaanite (non-Jewish) slave is wholly owned and cannot own property, so what he finds is his master's. A Hebrew slave is treated more like a hired worker who can own possessions, so what he finds is his own.",
+   "def": "A Canaanite (non-Jewish) slave is wholly owned, so what he finds belongs to his master. A Hebrew slave keeps what he finds.",
    "m": [
     5
    ],
-   "src": "Kulp 1:5"
+   "src": "Mishnah 1:5; Kehati 1:5"
   },
   {
    "term": "lien (acharayut nekhasim)",
@@ -126,7 +126,7 @@
    "m": [
     8
    ],
-   "src": "Kulp 1:8"
+   "src": "Mishnah 1:8; Kehati 1:8"
   },
   {
    "term": "until Elijah comes",
@@ -135,7 +135,7 @@
    "m": [
     8
    ],
-   "src": "Mishnah and Kulp 1:8"
+   "src": "Mishnah 1:8; Kehati 1:8"
   }
  ],
  "debates": [
@@ -151,9 +151,9 @@
   {
    "m": 8,
    "title": "Three documents found together: whose are they?",
-   "a": "Three documents in which one man borrowed from three others go back to the borrower; three in which one man lent to three go back to the lender. Kulp: a set of three documents with the same name was probably lost by that named person.",
-   "b": "A bundle (three tied together) is returned. Kulp does not present the other rule as a dispute with it.",
-   "src": "Mishnah and Kulp 1:8",
+   "a": "Three documents in which one man borrowed from three others go back to the borrower; three in which one man lent to three go back to the lender. Kehati: if all three name the same man, he is the one who lost them.",
+   "b": "A bundle (three tied together) is returned.",
+   "src": "Mishnah 1:8; Kehati 1:8",
    "wa": "Rabban Shimon ben Gamaliel",
    "wb": "The first statement"
   }

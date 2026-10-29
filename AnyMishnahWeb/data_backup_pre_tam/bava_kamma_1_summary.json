@@ -1,0 +1,258 @@
+{
+ "status": "Draft from the mishnah and Kehati. Chapters 1-6 form a unit about damage caused by one's property or act.",
+ "principles": [
+  {
+   "t": "Four primary causes of injury (avot nezikin): the ox (shor), the pit (bor), the crop-destroying beast (mav'eh) and fire (hev'er). Each is in the Torah, and each has a feature the others lack.",
+   "m": [
+    1
+   ],
+   "src": "Mishnah 1:1; Kehati 1:1"
+  },
+  {
+   "t": "What I am bound to guard, if I did not guard it, I have prepared its damage, even if only partly.",
+   "m": [
+    2
+   ],
+   "src": "Mishnah 1:2"
+  },
+  {
+   "t": "Damages are paid only for property that is not sacred, belongs to Jews, is owned, and is damaged outside the damager's own domain and the domain shared by both.",
+   "m": [
+    2
+   ],
+   "src": "Mishnah 1:2"
+  },
+  {
+   "t": "Damages are assessed in money before a court of experts on the evidence of free Jewish witnesses. Women are included.",
+   "m": [
+    3
+   ],
+   "src": "Mishnah 1:3; Kehati 1:3"
+  },
+  {
+   "t": "A harmless animal (tam) pays half damages from its own body; an attested danger (mu'ad) pays full damages with the best of the land.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 1:4"
+  }
+ ],
+ "terms": [
+  {
+   "term": "primary causes of injury (avot nezikin)",
+   "he": "אבות נזיקין",
+   "def": "The four basic categories of damage in the Torah: ox, pit, crop-destroying beast and fire.",
+   "m": [
+    1
+   ],
+   "src": "Mishnah 1:1",
+   "id": "avot nezikin",
+   "locus": [
+    {
+     "t": "bava-kamma",
+     "name": "Bava Kamma",
+     "why": "Listed in 1:1; the tooth in 2:2, the pit in 5:5–5:7 and fire in 6:4–6:6."
+    }
+   ],
+   "more": ""
+  },
+  {
+   "term": "harmless (tam)",
+   "he": "תם",
+   "def": "An animal not yet attested as a danger for a given damage; it can still do damage.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 1:4",
+   "id": "tam",
+   "locus": [
+    {
+     "t": "bava-kamma",
+     "name": "Bava Kamma",
+     "refs": "chs. 1–5",
+     "why": "Defined in 1:4; how an ox stops being a tam in 2:4; half damages for a tam in 3:8, 4:1 and 5:1."
+    }
+   ],
+   "more": "Its owner pays half damages from the animal's own value."
+  },
+  {
+   "term": "attested danger (mu'ad)",
+   "he": "מועד",
+   "def": "An animal or person whose way is to do damage, or an animal that has been warned (attested) to do it.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 1:4",
+   "id": "muad",
+   "locus": [
+    {
+     "t": "bava-kamma",
+     "name": "Bava Kamma",
+     "refs": "chs. 1–6",
+     "why": "Defined in 1:4; the foot and tooth in 2:1–2:2; a person in 2:6; how an ox becomes a mu'ad in 2:4; a mu'ad for some damage only in 4:2."
+    }
+   ],
+   "more": "The one responsible pays full damages with the best of the land. A human being is always a mu'ad."
+  },
+  {
+   "term": "with the best of the land",
+   "he": "מיטב הארץ",
+   "def": "The payment for full damages comes with the best of the land.",
+   "m": [
+    1,
+    2
+   ],
+   "src": "Mishnah 1:1-1:2"
+  },
+  {
+   "term": "misuse of consecrated property (me'ilah)",
+   "he": "מעילה",
+   "id": "meilah",
+   "def": "Using sacred property (hekdesh) for one's own benefit.",
+   "m": [
+    2
+   ],
+   "src": "Mishnah 1:2; Kehati 1:2; 4:3",
+   "locus": [
+    {
+     "t": "meilah",
+     "name": "Tractate Me'ilah",
+     "refs": ""
+    }
+   ],
+   "more": "It appears here only in passing: the laws of damages cover property that is not subject to me'ilah, that is, an ordinary person's property and not the Temple's."
+  },
+  {
+   "term": "damaging party (mazik)",
+   "he": "מזיק",
+   "id": "mazik",
+   "def": "The one responsible for the damage: the owner of the ox, pit or fire that did the damage, or the person who did it.",
+   "m": [
+    1,
+    2,
+    3
+   ],
+   "src": "Mishnah 1:1-1:3; Kehati 1:2",
+   "locus": [
+    {
+     "t": "bava-kamma",
+     "name": "Bava Kamma",
+     "why": "Throughout the tractate; the domains in 1:2."
+    }
+   ],
+   "more": "He pays full damages with the best of the land, assessed in money before a court. There is no payment for damage in his own private domain."
+  },
+  {
+   "term": "damaged party (nizak)",
+   "he": "ניזק",
+   "id": "nizak",
+   "def": "The one who suffered the damage: the owner of the damaged property, or the injured person.",
+   "m": [
+    2,
+    3,
+    4
+   ],
+   "src": "Mishnah 1:2-1:4; Kehati 1:2",
+   "locus": [
+    {
+     "t": "bava-kamma",
+     "name": "Bava Kamma",
+     "why": "Throughout the tractate; the domains in 1:2."
+    }
+   ],
+   "more": "He collects only for property that is not sacred, belongs to Jews and is owned."
+  },
+  {
+   "term": "ox (shor)",
+   "he": "שור",
+   "id": "shor",
+   "def": "The ox: one of the four primary causes of injury. It is alive, and its way is to go out and do damage.",
+   "m": [
+    1
+   ],
+   "locus": [
+    {
+     "t": "bava-kamma",
+     "name": "Bava Kamma",
+     "why": "The foot in 2:1; the horn in 2:4–2:5; oxen that gore in chapter 4."
+    }
+   ],
+   "src": "Mishnah 1:1; Kehati 1:1",
+   "more": "The Gemara disputes what the mishnah's \"ox\" includes: Rav says damage by horn, tooth and foot; Shmuel says only the foot, damage by its walking. Goring with the horn is treated separately, in 2:4-2:5 and chapter 4."
+  },
+  {
+   "term": "pit (bor)",
+   "he": "בור",
+   "id": "bor",
+   "def": "The pit: one of the four primary causes of injury. Unlike the ox and fire, its way is not to go out and do damage: the victim walks or falls into it.",
+   "m": [
+    1
+   ],
+   "locus": [
+    {
+     "t": "bava-kamma",
+     "name": "Bava Kamma",
+     "why": "The laws of the pit in 5:5–5:7."
+    }
+   ],
+   "src": "Mishnah 1:1, 5:5-5:6; Kehati 5:5-5:6",
+   "more": "One who digs or opens a pit where he has no right to is liable for an animal that falls in and dies or is injured, but only if the pit is ten handbreadths deep for a death (a shallower one makes him liable for an injury only), and not for vessels or for a person."
+  },
+  {
+   "term": "crop-destroying beast (mav'eh)",
+   "he": "מבעה",
+   "id": "mav'eh",
+   "def": "The crop-destroying beast, named from a word meaning to bulge out: one of the four primary causes of injury. Like the ox, its way is to go out and do damage.",
+   "m": [
+    1
+   ],
+   "locus": [
+    {
+     "t": "bava-kamma",
+     "name": "Bava Kamma",
+     "why": "The tooth in 2:2."
+    }
+   ],
+   "src": "Mishnah 1:1; Kehati 1:1",
+   "more": "Shmuel takes it as the tooth: an animal eating what is fit for it, an attested danger (mu'ad) from the start. Rav takes it as a person who damages."
+  },
+  {
+   "term": "fire (hev'er)",
+   "he": "הבער",
+   "id": "hev'er",
+   "def": "Fire: something with no living spirit whose way is to go out and do damage. One of the four primary causes of injury.",
+   "m": [
+    1
+   ],
+   "locus": [
+    {
+     "t": "bava-kamma",
+     "name": "Bava Kamma",
+     "why": "The laws of fire in 6:4–6:6."
+    }
+   ],
+   "src": "Mishnah 1:1, 6:4; Kehati 6:4",
+   "more": "The one who kindles it must guard it, and pays for what it burns, wood, stones and earth included."
+  }
+ ],
+ "debates": [
+  {
+   "m": 1,
+   "title": "What are the four primary causes of injury?",
+   "a": "The mishnah names the main kinds of damage in the Torah.",
+   "b": "It names only four kinds of property damage that are attested dangers from the start (foot, tooth, pit, fire).",
+   "src": "Kehati 1:1",
+   "wa": "Rav",
+   "wb": "Shmuel"
+  },
+  {
+   "m": 4,
+   "title": "Do tame wild animals count as attested dangers?",
+   "a": "The wolf, lion, bear, leopard, panther and snake are attested dangers.",
+   "b": "Tame ones are not, but the snake always is. The halakha does not follow him.",
+   "src": "Mishnah 1:4; Kehati 1:4",
+   "wa": "The first view",
+   "wb": "R. Eliezer"
+  }
+ ]
+}

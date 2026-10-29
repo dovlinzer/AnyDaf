@@ -30,12 +30,15 @@ for fn in sys.argv[1:]:
             if re.search(r"\b" + w + r"\b", low): flags.append(f"possible second moment: '{w}' (a case that needs 'then' is two pictures)")
         for w in BAD_EXPR:
             if re.search(r"\b" + w + r"\b", low): flags.append(f"expression word that has misfired: '{w}' (use worried / puzzled / alarmed / concerned / frowning / dismayed)")
+        if "melakhot" in fn:
+            for w in ["frowning", "strained", "furrowed", "intense", r"grimac\w*", r"scowl\w*"]:
+                if re.search(r"\b" + w + r"\b", low): flags.append(f"action-scene expression word that turns the face ANGRY: '{w}' (use 'a concentrating expression' or 'shows effort')")
         for w in RISK:
             if re.search(r"\b" + w + r"\b", low): flags.append(f"risk word: '{w}'")
         for w in POSE:
             if w in low: flags.append(f"pose the model draws badly: '{w}' (draw it in profile, or change the pose)")
         n_people = len(set(re.findall(r"(?:a|the|one) (?:\w+ )?" + PEOPLE, low)))
-        if not is_edit and low.count("expression") < max(1, min(n_people, 2)): flags.append("a person may have no stated expression")
+        if "melakhot" not in fn and not is_edit and low.count("expression") < max(1, min(n_people, 2)): flags.append("a person may have no stated expression")
         if not is_edit and "exactly" not in low: flags.append("no 'Exactly ...' count line")
         if is_edit:
             for s in sents(scene):

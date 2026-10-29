@@ -1,0 +1,117 @@
+{
+ "tractate": "Bava Metzia",
+ "chapter": 1,
+ "status": "draft - for review",
+ "note": "Kulp's commentary on 1:1 quotes the oath wording two ways ('not less' and 'not more' than half); no oath wording is drawn. Briefs for 1:6 rest on the mishnah text alone (no Kulp explanation available). Correction 2026-10-09: 1:4 previously invented a fenced field; Kulp's condition (the animal cannot leave) is shown by the animal's broken leg.",
+ "briefs": [
+  {
+   "n": 1,
+   "teaching": "Two people grip a cloak, each claiming it (or one claims all and the other half): each swears, and they split it half and half; or three quarters and one quarter.",
+   "kind": "case",
+   "render": "clay",
+   "layout": "diptych (two scenes, same setup)",
+   "scenes": {
+    "a": "Both claim all: two men grip opposite ends of a plain cloak in a market street, each pulling and pointing at himself. Outcome box: the cloak shown cut into two EQUAL halves.",
+    "b": "One claims all, one claims half: one man holds his arms wide, the other holds one hand flat as if showing half. Outcome box: the cloak cut into two UNEQUAL pieces, one three times as large as the other."
+   },
+   "badge_later": "none (the outcome box shows the split; fractions are overlay text, not drawn)",
+   "avoid": "Oath wording (Kulp quotes it two ways); any violence; text on the cloak.",
+   "source": "Mishnah 1:1 and Kulp 1:1"
+  },
+  {
+   "n": 2,
+   "teaching": "Two men on one animal, both saying it is all theirs: each swears and they split it. If they later agree, or there are witnesses, they split without an oath.",
+   "kind": "case",
+   "render": "clay",
+   "layout": "scene + two boxes",
+   "scenes": {
+    "main": "On a dirt road, a donkey with one man sitting on it and a second man walking beside holding its rope; both point at themselves and look indignant.",
+    "left_box": "Both men with a raised right hand (swearing) and the donkey's value shown as two equal heaps of gold coins.",
+    "right_box": "The two men shaking hands, a third man (a witness) standing between them, and the same two equal heaps of coins."
+   },
+   "badge_later": "none",
+   "avoid": "Splitting the live animal; cruelty.",
+   "source": "Mishnah 1:2 and Kulp 1:2"
+  },
+  {
+   "n": 3,
+   "teaching": "A rider sees a lost object and tells his friend 'give it to me'; the friend picks it up and says 'I acquired it': he keeps it. If he first gave it to the rider and then said 'I got it first', his claim means nothing.",
+   "kind": "case",
+   "render": "clay",
+   "layout": "diptych (two scenes, same setup)",
+   "scenes": {
+    "a": "A man sits on a donkey pointing down at a leather purse on the road; his friend, on foot, picks it up and hugs it to his chest with a triumphant grin while the rider looks surprised. Badge later: KEEPS on the friend.",
+    "b": "The same road: the friend has handed the purse up to the rider, who holds it; the friend now points to himself, clearly too late, while the rider holds the purse firmly. Badge later: NO-CLAIM on the friend."
+   },
+   "badge_later": "KEEPS (new) / NO-CLAIM (new)",
+   "avoid": "Making either man look dishonest; the mishnah says only that he said he acquired it.",
+   "source": "Mishnah 1:3 and Kulp 1:3"
+  },
+  {
+   "n": 4,
+   "teaching": "If a man says 'my field acquires it' while others chase a lost deer with a broken leg or pigeons that cannot fly, he acquires it. If the deer runs freely or the pigeons fly, what he said means nothing.",
+   "kind": "case",
+   "render": "clay",
+   "layout": "diptych (two scenes, same setup)",
+   "scenes": {
+    "a": "An open field. A deer with a splinted, bandaged broken front leg lies on the grass, unable to stand or get away. Two chasers run toward it; the owner of the field stands near it with a hand on his chest, claiming it. No fence is needed: the deer cannot leave because of its leg.",
+    "b": "The same field. A healthy deer bounds away across it toward open hills, pigeons fly overhead, the same two chasers run after it, the owner stands with a hand on his chest."
+   },
+   "badge_later": "KEEPS (new) / NO-CLAIM (new)",
+   "avoid": "Any fence, wall or gate (not in the source; Kulp's condition is that the ANIMAL is physically unable to leave); cruelty; graphic injury.",
+   "source": "Mishnah 1:4 and Kulp 1:4"
+  },
+  {
+   "n": 5,
+   "teaching": "What a man's minor children, Canaanite slaves and wife find belongs to him; what his adult children, Hebrew slaves and divorced wife find belongs to them.",
+   "kind": "list",
+   "render": "svg + clay",
+   "scenes": {
+    "main": "A household: a father at a table smiling; a small child hands him a found purse.",
+    "left_box": "A small child giving a purse to the father, the father keeping it.",
+    "right_box": "A grown daughter holding a purse of her own, the father looking on."
+   },
+   "svg": "Matrix: found by minor son or daughter; Canaanite slave; wife; adult son or daughter; Hebrew slave; divorced wife. Column: whose it is.",
+   "badge_later": "KEEPS (new): father in the left box, the finder in the right box",
+   "avoid": "Implying slavery is approved; the SVG states the mishnah's rule neutrally.",
+   "source": "Mishnah 1:5 and Kulp 1:5"
+  },
+  {
+   "n": 6,
+   "teaching": "Found debt documents: if they record a lien on the debtor's property, do not return them, since the court would collect from the property. If there is no lien, Rabbi Meir says he may return them; the Sages say not to return them in either case.",
+   "kind": "dispute",
+   "render": "svg",
+   "layout": "matrix",
+   "svg": "Matrix: columns 'With a lien on property' and 'Without a lien'; rows 'Rabbi Meir' and 'The Sages'. Cells: 'Do not return' or 'Return it', drawn with two small icons (a curved return arrow; a stop hand).",
+   "badge_later": "RETURN / DO-NOT-RETURN icons (drawn inside the SVG)",
+   "avoid": "Stating the reason beyond what Kulp says (the mishnah's reason: the court could collect from the property).",
+   "source": "Mishnah 1:6 text only (Sefaria has no Kulp explanation for 1:6, only his questions)"
+  },
+  {
+   "n": 7,
+   "teaching": "Found bills of divorce, writs of emancipation, wills, deeds of gift and receipts are not returned, since the writer may have written them and then changed his mind.",
+   "kind": "case",
+   "render": "clay",
+   "layout": "scene + two boxes",
+   "scenes": {
+    "main": "A man standing on a path holding up a rolled document he found, looking uncertain; Badge later: DO-NOT-RETURN near him.",
+    "left_box": "The document was lost after being given: a woman receives it from a man's hand and later loses it.",
+    "right_box": "The writer wrote it, changed his mind and set it aside: a man at a desk pushing the document away, shaking his head; it falls to the ground."
+   },
+   "badge_later": "DO-NOT-RETURN (new) over the finder",
+   "avoid": "Specifying the document type in the picture; implying the finder is at fault.",
+   "source": "Mishnah 1:7 and Kulp 1:7"
+  },
+  {
+   "n": 8,
+   "teaching": "Documents that must be returned (court documents, a satchel or bundle of three, three documents with one borrower or one lender per Rabban Shimon ben Gamaliel), the document of unknown type that waits until Elijah comes, and postscripts.",
+   "kind": "list",
+   "render": "svg",
+   "layout": "matrix",
+   "svg": "List with sprite figures: court documents -> return; found in a satchel or a bundle of three tied together -> return; three documents where one man borrowed from three -> to the borrower; one man lent to three -> to the lender; a document of unknown nature among his own -> keep until Elijah comes; postscript -> follow it.",
+   "badge_later": "RETURN icon drawn inside the SVG",
+   "avoid": "Drawing Elijah as a figure.",
+   "source": "Mishnah 1:8 and Kulp 1:8"
+  }
+ ]
+}

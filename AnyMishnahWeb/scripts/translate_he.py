@@ -10,7 +10,7 @@ todo = [x for x in NEED if x not in HE]
 GLOSS = {}
 for c in (1, 2, 3):
     for t in json.load(open(f"data/bava_kamma_{c}_summary.json"))["terms"]: GLOSS[t["term"]] = t["he"]
-MANUAL = {"attested danger / mu'ad": "מועד", "harmless / tam": "תם", "tooth / shen": "שן", "foot / regel": "רגל", "horn / keren": "קרן", "ransom / kofer": "כופר", "it is enough / dayo": "דיו", "the four primary causes of injury / avot nezikin": "אבות נזיקין",
+MANUAL = {"person with psychosis": "שוטה", "a person with psychosis": "שוטה", "shoteh": "שוטה", "attested danger / mu'ad": "מועד", "harmless / tam": "תם", "tooth / shen": "שן", "foot / regel": "רגל", "horn / keren": "קרן", "ransom / kofer": "כופר", "it is enough / dayo": "דיו", "the four primary causes of injury / avot nezikin": "אבות נזיקין",
           "ox / shor": "שור", "pit / bor": "בור", "crop-destroying beast / mav'eh": "מבעה", "fire / hev'er": "הבער (כשם הקטגוריה במשנה א:א; אחרת: אש)", "damage / nezek": "נזק", "indirect cause / grama": "גרמא",
           "guardian / apotropos": "אפוטרופוס", "handbreadth / tefach": "טפח", "burden of proof / hamotzi mechavero alav hara'ayah": "המוציא מחברו עליו הראיה", "I have prepared / hichsharti": "הכשרתי",
           "public domain": "רשות הרבים", "domain of the damaged party": "רשות הניזק", "half damages": "חצי נזק", "full damages": "נזק שלם", "pays / is liable": "משלם / חייב", "does not pay / is exempt": "אינו משלם / פטור",

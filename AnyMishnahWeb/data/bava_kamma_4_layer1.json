@@ -1,12 +1,12 @@
 {
  "tractate": "Bava Kamma",
  "chapter": 4,
- "status": "Draft from the mishnah, R. Kulp and Kehati.",
+ "status": "Draft from the mishnah and Kehati, under review.",
  "mishnayot": [
   {
    "n": 1,
-   "title": "A harmless ox that gores several oxen",
-   "summary": "A harmless ox pays only from its own body. When it gored several oxen in turn, Rabbi Meir has the last victim paid first; Rabbi Shimon has the victims share.",
+   "title": "A tam ox that gores several oxen",
+   "summary": "A tam ox pays only from its own body. When it gored several oxen in turn, Rabbi Meir has the last victim paid first; Rabbi Shimon has the victims share.",
    "outline": [
     {
      "h": "The case",
@@ -30,8 +30,8 @@
      "h": "The two views",
      "b": [
       [
-       "One opinion: the owner of the injured ox becomes the new owner of the harmless ox, so he is responsible for its later damage. The other: he becomes a partner in the ox.",
-       "Kulp 4:1"
+       "Rabbi Meir: the injured owner seized the ox to collect his half damages and so became its paid guard; if it then gores again, the later victim is paid from what remains of it. Rabbi Shimon: the injured owner and the ox's owner become partners in it.",
+       "Kehati 4:1"
       ],
       [
        "The Gemara: Rabbi Meir follows Rabbi Yishmael (the injured is a creditor of the damager), Rabbi Shimon follows Rabbi Akiva (the injured becomes a partner in the ox).",
@@ -41,7 +41,7 @@
     }
    ],
    "chart": {
-    "title": "Three oxen injured in turn (each worth 200; Kulp's table)",
+    "title": "Three oxen injured in turn (each worth 200)",
     "cols": [
      "",
      "Owner of the injuring ox keeps",
@@ -71,7 +71,7 @@
   {
    "n": 2,
    "title": "An attested danger for some things only",
-   "summary": "An ox can be an attested danger to one kind of victim and harmless to another, or on one day and not another. For the first it pays full damages, for the other half.",
+   "summary": "An ox can be an attested danger to one kind of victim and a tam to another, or on one day and not another. For the first it pays full damages, for the other half.",
    "outline": [
     {
      "h": "By kind of victim",
@@ -81,8 +81,8 @@
        "Mishnah 4:2"
       ],
       [
-       "The owner must be extra careful where the ox is known to injure.",
-       "Kulp 4:2"
+       "An ox attested as a danger to its own kind (for example, to gore oxen) is not thereby attested as a danger to other kinds.",
+       "Kehati 4:2"
       ],
       [
        "For example, an ox seen standing with horses and camels and not goring is not an attested danger to those.",
@@ -98,7 +98,7 @@
        "Mishnah 4:2"
       ],
       [
-       "It becomes harmless again after it refrains from injury for three Sabbath days.",
+       "It becomes a tam again after it refrains from injury for three Sabbath days.",
        "Mishnah 4:2"
       ]
      ]
@@ -139,7 +139,7 @@
   {
    "n": 3,
    "title": "Property of the Temple, of a gentile",
-   "summary": "An Israelite's ox that gores a sacred ox or a gentile's ox is exempt. A gentile's ox that gores an Israelite's pays full damages, harmless or not.",
+   "summary": "An Israelite's ox that gores a sacred ox or a gentile's ox is exempt. A gentile's ox that gores an Israelite's pays full damages, a tam or not.",
    "outline": [
     {
      "h": "The cases",
@@ -149,7 +149,7 @@
        "Mishnah 4:3"
       ],
       [
-       "An Israelite's ox that gored a gentile's: exempt. A gentile's ox that gored an Israelite's, harmless or not: full damages.",
+       "An Israelite's ox that gored a gentile's: exempt. A gentile's ox that gored an Israelite's, a tam or not: full damages.",
        "Mishnah 4:3"
       ]
      ]
@@ -157,10 +157,6 @@
     {
      "h": "Why",
      "b": [
-      [
-       "The first clause is a midrash on the words \"his neighbour\".",
-       "Kulp 4:3"
-      ],
       [
        "For the gentile cases Kehati gives reasons: the Gemara says the seven commandments of Noah were not kept by the nations, so their property was released to Israel; Rambam says it is a fine, since gentiles do not guard against damage; Meiri says it applies to nations not bound by religious norms.",
        "Kehati 4:3"
@@ -172,19 +168,15 @@
   },
   {
    "n": 4,
-   "title": "Oxen of a deaf-mute, an insane person, a minor",
-   "summary": "The owner of a sound ox who injures the ox of a deaf-mute, insane person or minor pays. Their ox that injures a sound person's ox: exempt. The court appoints a guardian.",
+   "title": "Oxen of a deaf-mute, a person with psychosis, a minor",
+   "summary": "The owner of a sound ox who injures the ox of a deaf-mute, person with psychosis or minor pays. Their ox that injures a sound person's ox: exempt. The court appoints a guardian.",
    "outline": [
     {
      "h": "Who pays",
      "b": [
       [
-       "An ox of a person of sound senses that gored the ox of a deaf-mute, insane person or minor: obligated. The reverse: exempt.",
+       "An ox of a person of sound senses that gored the ox of a deaf-mute, person with psychosis or minor: obligated. The reverse: exempt.",
        "Mishnah 4:4"
-      ],
-      [
-       "These are people not capable of fully knowing the consequences of their actions, so they cannot be held responsible.",
-       "Kulp 4:4"
       ]
      ]
     },
@@ -196,11 +188,11 @@
        "Mishnah 4:4"
       ],
       [
-       "If the deaf-mute becomes of sound senses, the insane person recovers, or the minor comes of age: Rabbi Meir says the ox is harmless again; Rabbi Yose says it remains as it was.",
+       "If the deaf-mute becomes of sound senses, the person with psychosis recovers, or the minor comes of age: Rabbi Meir says the ox is a tam again; Rabbi Yose says it remains as it was.",
        "Mishnah 4:4"
       ],
       [
-       "Rambam follows Rabbi Yose. The Gemara gives Rabbi Meir's reason: a change of owner changes the ox's status.",
+       "The Gemara gives Rabbi Meir's reason: a change of owner changes the ox's status.",
        "Kehati 4:4"
       ]
      ]
@@ -225,11 +217,11 @@
     "rows": [
      [
       "a person of sound senses",
-      "a deaf-mute, insane person or minor",
+      "a deaf-mute, person with psychosis or minor",
       "pays"
      ],
      [
-      "a deaf-mute, insane person or minor",
+      "a deaf-mute, person with psychosis or minor",
       "a person of sound senses",
       "exempt"
      ]
@@ -249,13 +241,13 @@
   {
    "n": 5,
    "title": "An ox that kills a person",
-   "summary": "An ox that kills a person is stoned. An attested danger's owner also pays ransom; a harmless ox's owner does not. For a slave, thirty sela.",
+   "summary": "An ox that kills a person is stoned. An attested danger's owner also pays ransom; a tam ox's owner does not. For a slave, thirty sela.",
    "outline": [
     {
      "h": "The cases",
      "b": [
       [
-       "An ox gored a person and he died: if it was an attested danger, its owner pays the ransom (kofer); if harmless, he is exempt from it. In both cases the ox is put to death.",
+       "An ox gored a person and he died: if it was an attested danger, its owner pays the ransom (kofer); if a tam, he is exempt from it. In both cases the ox is put to death.",
        "Mishnah 4:5"
       ],
       [
@@ -268,8 +260,8 @@
      "h": "Background",
      "b": [
       [
-       "The Torah's verses: Exodus 21:28-32. The ox is stoned and its meat forbidden; the owner of an attested danger could in principle deserve death, but the Torah allows him to ransom his life.",
-       "Kulp 4:5"
+       "An attested-danger ox that kills a person is stoned and its owner pays ransom (kofer) to the heirs (Exodus 21:28-30). A tam ox is stoned but its owner pays no kofer, since the Torah ordered kofer only for an attested danger.",
+       "Kehati 4:5"
       ],
       [
        "Kofer is the value of the person killed.",
@@ -282,7 +274,7 @@
     "title": "An ox that kills a person",
     "cols": [
      "Victim",
-     "Harmless ox",
+     "Tam ox",
      "Attested danger"
     ],
     "rows": [
@@ -313,8 +305,8 @@
        "Mishnah 4:6"
       ],
       [
-       "In all of these the ox meant to kill something for which it would not be liable to death. We judge the ox by its intention, not its action.",
-       "Kulp 4:6"
+       "In each case the ox did not intend to kill a person whose killing carries death, so it is not put to death.",
+       "Kehati 4:6"
       ]
      ]
     }
@@ -363,8 +355,8 @@
        "Mishnah 4:7"
       ],
       [
-       "Rabbi Judah derives this from Exodus 21:28-29: the ox is put to death only where the owners can be warned.",
-       "Kulp 4:7"
+       "Rabbi Judah looks at the time of judgment: if the ox then has no owner it is exempt, even if it gored while it had one.",
+       "Kehati 4:7"
       ]
      ]
     },
@@ -402,8 +394,8 @@
        "Mishnah 4:8"
       ],
       [
-       "He tries to cheat the system by getting credit for a sacrifice or food and leather for himself.",
-       "Kulp 4:8"
+       "The mishnah teaches from when the owners lose their power over an ox that killed: once its sentence is complete they have no right to dedicate it.",
+       "Kehati 4:8"
       ]
      ]
     },
@@ -448,7 +440,7 @@
      "h": "A guard takes the owner's place",
      "b": [
       [
-       "If one handed it to an unpaid guardian, a borrower, a paid guardian or a hirer, they take the place of the owners: full damages for an attested danger, half for a harmless one.",
+       "If one handed it to an unpaid guardian, a borrower, a paid guardian or a hirer, they take the place of the owners: full damages for an attested danger, half for a tam.",
        "Mishnah 4:9"
       ]
      ]
@@ -457,11 +449,11 @@
      "h": "An ox properly guarded",
      "b": [
       [
-       "If its owner tied it with a halter or locked it up properly, but it came out and caused damage: Rabbi Meir: liable, whether an attested danger or harmless.",
+       "If its owner tied it with a halter or locked it up properly, but it came out and caused damage: Rabbi Meir: liable, whether an an attested danger or a tam.",
        "Mishnah 4:9"
       ],
       [
-       "Rabbi Judah: if harmless he is liable; if an attested danger he is exempt, as it says \"and its owner did not guard it\", but this one was guarded.",
+       "Rabbi Judah: if a tam he is liable; if an attested danger he is exempt, as it says \"and its owner did not guard it\", but this one was guarded.",
        "Mishnah 4:9"
       ],
       [
@@ -502,8 +494,8 @@
     ],
     "rows": [
      [
-      "liable, harmless or attested danger",
-      "harmless: liable; attested danger: exempt",
+      "liable, a tam or an attested danger",
+      "tam: liable; attested danger: exempt",
       "its only guarding is the knife"
      ]
     ]

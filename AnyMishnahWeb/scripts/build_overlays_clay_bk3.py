@@ -49,6 +49,7 @@ tags("bk3-5s", 0, [("the man in the brown tunic carrying a long wooden beam on h
 tags("bk3-5a", 30, [("the man in the brown cloak carrying a long wooden beam on his shoulder, on the left", "notpay", "The owner of the beam", "notpay")])
 tags("bk3-5b", 30, [("the man in the brown cloak carrying a long wooden beam on his shoulder, on the left", "pay", "The owner of the beam", "pay")])
 tags("bk3-5c", 30, [("the man in the brown cloak carrying a long wooden beam on his shoulder, with a raised hand", "notpay", "The owner of the beam", "notpay")])
+tags("bk3-6", 0, [("the woman in the purple dress and white head covering sitting on the ground at the left", "notpay", "The woman", "notpay"), ("the bearded man in the tan tunic sitting on the ground at the right", "notpay", "The man", "notpay")])
 tags("bk3-7", 70, [("the woman in the rust-coloured dress holding an axe, at the left", "pay", "The woman splitting wood", "pay")])
 tags("bk3-11a", 0, [("the woman in the green dress and white head covering, in the middle", "notpay", "The owner of the red ox", "notpay"), ("the bald man in the yellow tunic at the right", "notpay", "The owner of the black ox", "notpay")])
 tags("bk3-11b", 0, [("the woman in the green dress and white head covering standing at the wall", "pay", "The owner of both chasing oxen", "pay")])

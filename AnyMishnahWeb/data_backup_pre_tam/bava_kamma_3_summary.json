@@ -1,0 +1,155 @@
+{
+ "status": "Draft from the mishnah and Kehati (each item carries its mishnah number). Definitions are provisional until AnyDaf's master glossary covers them.",
+ "principles": [
+  {
+   "t": "The one who stumbles over an object left in the public domain is exempt, since walkers are not watching the ground; if he is hurt, the owner of the object pays for the injury.",
+   "m": [
+    1
+   ],
+   "src": "Mishnah 3:1; Kehati 3:1"
+  },
+  {
+   "t": "Pouring water, hiding thorns or glass, or letting a thorn fence fall into the public domain makes one liable for the injury, as for a pit: he left a hazard where he had no right to.",
+   "m": [
+    2
+   ],
+   "src": "Mishnah 3:2; Kehati 3:2"
+  },
+  {
+   "t": "What a person puts out in the public domain and damages with, he pays for, yet anyone who comes first may take it. One who turns over ownerless dung to take it becomes its owner and is liable for its injuries.",
+   "m": [
+    3
+   ],
+   "src": "Mishnah 3:3; Kehati 3:3"
+  },
+  {
+   "t": "The one who stumbles pays for the injury he causes if he could have got up in time. If he could not, it is an accident and he is exempt.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 3:4; Kehati 3:4"
+  },
+  {
+   "t": "In a collision in the public domain the one walking behind must always take care, as long as the one in front does not stop suddenly without warning. If both ran, neither pays, since each caused it to himself.",
+   "m": [
+    5,
+    6
+   ],
+   "src": "Mishnah 3:5-3:6; Kehati 3:5-3:6"
+  },
+  {
+   "t": "One who splits wood is liable for any injury he causes, whichever domain either is in, since a person is always an attested danger and should have taken extra care.",
+   "m": [
+    7
+   ],
+   "src": "Mishnah 3:7; Kehati 3:7"
+  },
+  {
+   "t": "When two oxen or people hurt each other, the payment is on the surplus (the difference between the two hurts): half of it for harmless oxen (tam), all of it for attested dangers (mu'ad) and people.",
+   "m": [
+    8
+   ],
+   "src": "Mishnah 3:8; Kehati 3:8"
+  },
+  {
+   "t": "The same injury can bind the owner of the ox but not the person, and the reverse (embarrassment, a slave's eye, parents, fire on Shabbat). A man does not both die and pay.",
+   "m": [
+    10
+   ],
+   "src": "Mishnah 3:10; Kehati 3:10"
+  },
+  {
+   "t": "The burden of proof is on the one who wants payment (hamotzi mechavero alav hara'ayah). Without positive proof the defendant is exempt; two oxen with one owner make that owner liable.",
+   "m": [
+    11
+   ],
+   "src": "Mishnah 3:11; Kehati 3:11"
+  }
+ ],
+ "terms": [
+  {
+   "term": "public domain",
+   "he": "רשות הרבים",
+   "def": "The street and other common ground. No one may leave obstacles or hazards in it; one who does is liable for the injury.",
+   "m": [
+    1,
+    2
+   ],
+   "src": "Mishnah 3:1-3:2; Kehati 3:2"
+  },
+  {
+   "term": "harmless ox (tam)",
+   "he": "תם",
+   "def": "An ox that has not been warned against that kind of damage. Its owner pays half damages, from the value of the ox itself.",
+   "m": [
+    8
+   ],
+   "src": "Mishnah 1:4; Kehati 3:8"
+  },
+  {
+   "term": "attested danger (mu'ad)",
+   "he": "מועד",
+   "def": "An ox that has been warned, or an animal that damages in its usual way. Its owner pays full damages with the best of the land. A human being is always an attested danger.",
+   "m": [
+    8
+   ],
+   "src": "Mishnah 1:4; Kehati 3:8"
+  },
+  {
+   "term": "half damages, full damages",
+   "he": "חצי נזק, נזק שלם",
+   "def": "The payment for the harm done: half for a harmless animal, the whole for an attested danger or a person.",
+   "m": [
+    8
+   ],
+   "src": "Mishnah 3:8; Kehati 3:8"
+  },
+  {
+   "term": "burden of proof",
+   "he": "",
+   "def": "The duty of the one who wants payment to bring proof. Without it the defendant pays nothing.",
+   "m": [
+    11
+   ],
+   "src": "Mishnah 3:11; Kehati 3:11"
+  }
+ ],
+ "debates": [
+  {
+   "m": 1,
+   "title": "Does intention matter for a jug that breaks in the public domain?",
+   "a": "He is liable for the injury, with no distinction.",
+   "b": "Only if he broke it with intention; without intention he is not liable.",
+   "src": "Mishnah 3:1; Kehati 3:1",
+   "wa": "The first view",
+   "wb": "R. Judah"
+  },
+  {
+   "m": 3,
+   "title": "Does Rabban Shimon ben Gamaliel disagree with the first view?",
+   "a": "The one who put out the straw is liable for injuries, and whoever comes first may take it.",
+   "b": "Whoever leaves disruptive things in the public domain must make restitution if they cause damage, and whoever comes first may take them. Kehati: this covers even those who put things out with permission.",
+   "src": "Mishnah 3:3; Kehati 3:3",
+   "wa": "The first view",
+   "wb": "Rabban Shimon ben Gamaliel"
+  },
+  {
+   "m": 8,
+   "title": "What does a harmless ox owe for hurting a man?",
+   "a": "The ox's owner pays only half damages.",
+   "b": "Even a harmless ox that hurt a man pays full damages for the greater hurt.",
+   "src": "Mishnah 3:8",
+   "wa": "The first view",
+   "wb": "R. Akiva"
+  },
+  {
+   "m": 9,
+   "title": "How is Exodus 21:35 applied?",
+   "a": "With two oxen worth 200 and a worthless carcass, sell the live ox and divide its price.",
+   "b": "That is the halakhah, but it fulfils only half the verse. The verse speaks of selling the live ox and also dividing the dead animal, as when the carcass is worth 50.",
+   "src": "Mishnah 3:9; Kehati 3:9",
+   "wa": "R. Meir",
+   "wb": "R. Judah"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "folder": "data/generated_originals/bm1",
+ "pictures": {
+  "bm1-1a": {
+   "boxes": 1,
+   "cast": "Man A in a red tunic, Man B in a green tunic",
+   "numerals": "",
+   "scene": "two men grip opposite ends of a white cloak, both pointing at themselves; an outcome box shows the cloak cut into two equal halves",
+   "expect_qmark": false
+  },
+  "bm1-1b": {
+   "boxes": 1,
+   "cast": "Man A in a red tunic, Man B in a green tunic",
+   "numerals": "",
+   "scene": "two men grip a white cloak; one claims all with a wide arm, one claims half with a flat hand; an outcome box shows the cloak in two unequal pieces, one three times the other",
+   "expect_qmark": false
+  },
+  "bm1-2": {
+   "boxes": 2,
+   "cast": "a man on a donkey, a man walking with its rope; in the boxes the same two men, the donkey, and a witness in the right box",
+   "numerals": "",
+   "scene": "two men and a donkey, both claiming it; left box: two raised right hands and the donkey between them; right box: a handshake with a witness between and the donkey between them; no coins anywhere",
+   "expect_qmark": false
+  },
+  "bm1-3a": {
+   "boxes": 0,
+   "cast": "a rider on a donkey, his friend on foot",
+   "numerals": "",
+   "scene": "the friend has picked up a purse and hugs it with a triumphant grin while the rider looks surprised",
+   "single": [
+    "leather purse"
+   ],
+   "expect_qmark": false
+  },
+  "bm1-3b": {
+   "boxes": 0,
+   "cast": "a rider on a donkey, his friend on foot",
+   "numerals": "",
+   "scene": "the friend has handed the purse up to the rider, who holds it, while the friend points at himself too late",
+   "single": [
+    "leather purse"
+   ],
+   "expect_qmark": false
+  },
+  "bm1-4a": {
+   "boxes": 0,
+   "cast": "a field owner, two chasers, a deer",
+   "numerals": "",
+   "scene": "an open field with olive trees and no fence; a deer stands on three legs, one front leg in a splint held off the ground, hobbling slowly; two chasers run toward it; the owner stands near it with a hand on his chest",
+   "expect_qmark": false
+  },
+  "bm1-4b": {
+   "boxes": 0,
+   "cast": "a field owner, two chasers, a deer, a flock of pigeons overhead",
+   "numerals": "",
+   "scene": "the same open field; a healthy deer bounds away from the two chasers, who are close behind it, toward the hills; pigeons fly overhead; the owner has a hand on his chest",
+   "expect_qmark": false
+  },
+  "bm1-7": {
+   "boxes": 2,
+   "cast": "the finder (orange tunic, black beard, holding a scroll); in the boxes: a man in a dark blue tunic and white cap, a woman in a grey hood, a bald writer in a green tunic with a grey beard",
+   "numerals": "",
+   "scene": "a man on a path holding a found rolled document; left box: a man hands a document to a woman and a document later lies on the ground; right box: a writer at a desk pushes the document away and it falls; a question mark between the boxes; no text or labels",
+   "expect_qmark": true
+  },
+  "bm1-5a": {
+   "boxes": 0,
+   "cast": "a father seated at a table, a small child in yellow",
+   "numerals": "",
+   "scene": "the small child hands a leather purse to the seated father; exactly two people; one purse; a scroll, no bound book",
+   "single": [
+    "leather purse"
+   ],
+   "expect_qmark": false
+  },
+  "bm1-5b": {
+   "boxes": 0,
+   "cast": "a father seated at a table, a grown daughter in green",
+   "numerals": "",
+   "scene": "the grown daughter holds the purse close to herself; the father looks on with empty hands; exactly two people; one purse",
+   "single": [
+    "leather purse"
+   ],
+   "expect_qmark": false
+  }
+ },
+ "reviewed_ok_by_author": {
+  "bm1-1a": "pointing and outcome box fine at full size",
+  "bm1-1b": "3/4 vs 1/4 box fine at full size",
+  "bm1-4b": "pigeons are in the brief",
+  "bm1-5": "good except a small bound book on the table (1 redo line given)"
+ }
+}

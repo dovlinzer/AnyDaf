@@ -1,7 +1,7 @@
 {
  "tractate": "Bava Kamma",
  "chapter": 5,
- "status": "draft - outlines written by Claude from Kulp's text, under review",
+ "status": "Draft from the mishnah and Kehati, under review.",
  "mishnayot": [
   {
    "n": 1,
@@ -12,12 +12,12 @@
      "h": "The case",
      "b": [
       [
-       "An ox that is accounted harmless gored a cow and killed it. A dead newborn calf lies beside her.",
-       "Kulp 5:1"
+       "A tam ox gored a cow and killed it, and its newborn calf was found beside her.",
+       "Mishnah 5:1"
       ],
       [
-       "It is unclear whether the calf was born before the goring or lost because of it.",
-       "Kulp 5:1"
+       "It is not known whether she gave birth before the goring or because of it.",
+       "Mishnah 5:1"
       ]
      ]
     },
@@ -25,12 +25,12 @@
      "h": "What he pays",
      "b": [
       [
-       "For the cow: half damages, the usual law for a harmless animal.",
-       "Kulp 5:1"
+       "For the cow: half damages, as for any tam ox.",
+       "Mishnah 5:1"
       ],
       [
-       "For the calf: if the goring caused the miscarriage he would owe half damages for it; if it was lost earlier, nothing. The mishnah splits the doubt: a quarter damages.",
-       "Kulp 5:1"
+       "For the calf: a quarter damages. If the goring caused the loss of the calf he would owe half damages for it, if not, nothing; the money in doubt is divided.",
+       "Kehati 5:1"
       ]
      ]
     },
@@ -38,12 +38,12 @@
      "h": "The reverse case",
      "b": [
       [
-       "A cow gored an ox, and a living newborn is at her side. The gored owner collects up to half damages from the cow, and a quarter of the damages from the newborn if more is owed.",
-       "Kulp 5:1"
+       "A cow gored an ox and a living newborn is found beside her, and it is not known whether she gave birth before the goring: half damages from the cow and a quarter damages from the newborn.",
+       "Mishnah 5:1"
       ],
       [
-       "An example: the ox was worth 500, so half damages is 250. The cow is worth 200, so he collects 200 from her and 25 from the newborn.",
-       "Kulp 5:1"
+       "If the cow is there, half damages is collected from her; if she is gone, a quarter damages is collected from the calf's own body, since it is doubtful whether the calf's strength helped in the goring.",
+       "Kehati 5:1"
       ]
      ]
     },
@@ -51,8 +51,8 @@
      "h": "Why split the money?",
      "b": [
       [
-       "When it is a doubt about whose money it is, the mishnah has the two sides split it. The usual rule is that the one who wants the money must bring proof (3:11); here the doubt is split instead. The Mishnah is a collection of laws and traditions, not a code without contradictions.",
-       "Mishnah 5:1; Kulp 5:1"
+       "The mishnah follows Sumchus, who divides money that is in doubt.",
+       "Kehati 5:1"
       ]
      ]
     },
@@ -101,16 +101,16 @@
      "h": "Without permission",
      "b": [
       [
-       "A potter brought pots into a householder's courtyard without permission and the cattle broke them: the householder is not liable.",
-       "Kulp 5:2"
+       "A potter brought his pots into a householder's courtyard without permission and the householder's cattle broke them: the householder is not liable.",
+       "Mishnah 5:2"
       ],
       [
        "If the cattle were injured by the pots, the owner of the pots is liable.",
-       "Kulp 5:2"
+       "Mishnah 5:2"
       ],
       [
-       "This is trespassing: the householder can say, I never gave you permission.",
-       "Kulp 5:2"
+       "The householder could say: who gave you permission to bring them in?",
+       "Kehati 5:2"
       ]
      ]
     },
@@ -131,8 +131,8 @@
      "h": "Produce",
      "b": [
       [
-       "The same rules apply to a man who brought produce that the cattle ate.",
-       "Kulp 5:2"
+       "The same applies to a man who brought produce into the courtyard and the cattle ate it.",
+       "Mishnah 5:2"
       ]
      ]
     },
@@ -193,20 +193,20 @@
      "h": "Without permission",
      "b": [
       [
-       "If the householder's ox gored the visiting ox, or his dog bit it, the householder is not liable.",
-       "Kulp 5:3"
+       "If the householder's ox gored the visiting ox, or the householder's dog bit it, the householder is not liable.",
+       "Mishnah 5:3"
       ],
       [
        "If the visiting ox gored the householder's ox, its owner is liable.",
-       "Kulp 5:3"
+       "Mishnah 5:3"
       ],
       [
-       "If it fell into the cistern and polluted its water, he is liable.",
-       "Kulp 5:3"
+       "If the visiting ox fell into the cistern and fouled its water, its owner is liable.",
+       "Mishnah 5:3"
       ],
       [
-       "If it fell in and killed the householder's father or son, the ox's owner pays the ransom price (Exodus 21:30).",
-       "Kulp 5:3"
+       "If the householder's father or son was in the cistern and the ox fell in and killed him, the ox's owner pays the ransom (kofer).",
+       "Mishnah 5:3"
       ]
      ]
     },
@@ -215,7 +215,7 @@
      "b": [
       [
        "The owner of the courtyard is liable.",
-       "Kulp 5:3"
+       "Mishnah 5:3"
       ]
      ]
     },
@@ -223,8 +223,8 @@
      "h": "Rabbi's view",
      "b": [
       [
-       "Rabbi (Rabbi Judah Hanasi): the householder is liable only if he agreed to watch over it. Letting someone enter does not by itself accept responsibility for his belongings. The first view holds that it does.",
-       "Kulp 5:3"
+       "Rabbi: in all of these the householder is not liable until he accepts to guard. Permission to enter does not by itself make him the guard of the visitor's things.",
+       "Mishnah 5:3; Kehati 5:3"
       ]
      ]
     },
@@ -261,16 +261,16 @@
      "h": "Who pays",
      "b": [
       [
-       "An ox aimed at another ox and struck a woman, and she miscarried: its owner does not pay for the offspring.",
-       "Kulp 5:4"
+       "An ox that aimed at another ox and struck a woman, and her children came out: its owner does not pay for the offspring.",
+       "Mishnah 5:4"
       ],
       [
        "A man who aimed at another man and struck a woman: he pays for the offspring.",
-       "Kulp 5:4"
+       "Mishnah 5:4"
       ],
       [
-       "Exodus 21:22 speaks of men fighting, so the law does not apply to an ox.",
-       "Kulp 5:4"
+       "The payment for offspring comes from the verse about men who fight (Exodus 21:22), so it applies to a person and not to an ox, even if the ox aimed at the woman.",
+       "Kehati 5:4"
       ]
      ]
     },
@@ -278,16 +278,16 @@
      "h": "How the value is set",
      "b": [
       [
-       "First view: they assess the woman's value before she gave birth and after.",
-       "Kulp 5:4"
+       "The first view: they assess the woman's value before she gave birth and after.",
+       "Mishnah 5:4"
       ],
       [
-       "Rabban Shimon ben Gamaliel: a woman is worth more after giving birth, since childbirth was dangerous, so that cannot work. Instead they assess what the offspring itself would be worth.",
-       "Kulp 5:4"
+       "Rabban Shimon ben Gamliel: then a woman who gives birth would be worth more after, since childbirth endangers her. Instead they assess what the offspring would be worth, and the payment is given to the husband.",
+       "Mishnah 5:4; Kehati 5:4"
       ],
       [
-       "The payment goes to the husband, or to his heirs if she has no husband.",
-       "Kulp 5:4"
+       "The payment goes to the husband, or to his heirs if he is no longer living.",
+       "Mishnah 5:4"
       ],
       [
        "The Gemara limits Rabban Shimon ben Gamaliel's point to a woman giving birth for the first time, since that is dangerous. For one who has given birth before he too would assess her value before and after.",
@@ -299,8 +299,8 @@
      "h": "No penalty",
      "b": [
       [
-       "If she was a freed bondwoman or a convert, no penalty is incurred. Two explanations: there is no legal father to collect, or the husband has no heirs.",
-       "Kulp 5:4"
+       "If the woman was a bondwoman who was freed, or a convert: no payment.",
+       "Mishnah 5:4"
       ]
      ]
     },
@@ -328,16 +328,12 @@
      "h": "Where it applies",
      "b": [
       [
-       "This is the second archetypal cause of damage (Exodus 21:33-34). A pit dug in a private domain opening to the public, or the reverse, or one private domain opening into another: he is liable.",
-       "Kulp 5:5"
+       "One who digs a pit in a private domain and opens it to the public, or in the public domain, or in one private domain and opens it to another private domain: he is liable.",
+       "Mishnah 5:5"
       ],
       [
-       "If he digs it in the public domain and an ox or donkey falls in and dies, he is liable.",
-       "Kulp 5:5"
-      ],
-      [
-       "The one exception: someone entered his private land without permission and fell in.",
-       "Kulp 5:5"
+       "If an ox or a donkey falls into a pit dug in the public domain and dies, he is liable.",
+       "Mishnah 5:5"
       ]
      ]
     },
@@ -345,12 +341,12 @@
      "h": "Any hole",
      "b": [
       [
-       "It makes no difference whether it is a pit, trench, cavern, ditch or channel.",
-       "Kulp 5:5"
+       "It makes no difference whether it is a pit, a ditch, a cave, a trench or a channel.",
+       "Mishnah 5:5"
       ],
       [
-       "Why does the Torah say pit? To teach the depth: ten handbreadths, about a yard, which is deep enough to cause death.",
-       "Kulp 5:5"
+       "Why does the Torah say \"pit\"? To teach that, like a pit deep enough to kill, a hole must be ten handbreadths deep for a death; a shallower one still makes him liable for an injury.",
+       "Kehati 5:5"
       ]
      ]
     },
@@ -419,12 +415,12 @@
      "h": "Partners and covering",
      "b": [
       [
-       "Two partners own a pit. One passed it and did not cover it, then the other also did not: the second is liable. Even if the first covered it and the second found it open and did not cover it, the second is liable.",
-       "Kulp 5:6"
+       "Two partners own a pit. The first passed and did not cover it, then the second also did not: the second is liable. If the first covered it and the second found it uncovered and did not cover it, the second is liable.",
+       "Mishnah 5:6"
       ],
       [
-       "If it was properly covered and an ox or donkey still fell in and died, he is not liable.",
-       "Kulp 5:6"
+       "If it was properly covered and an ox or donkey fell in and died, he is not liable.",
+       "Mishnah 5:6"
       ]
      ]
     },
@@ -432,8 +428,8 @@
      "h": "The sound of digging",
      "b": [
       [
-       "An animal frightened by the sound of digging and falling in forward: the owner is liable. Backward: not liable.",
-       "Mishnah 5:6; Kulp 5:6"
+       "An animal that fell into the pit in front of the sound of digging: the owner is liable; behind it: not liable.",
+       "Mishnah 5:6"
       ],
       [
        "Kehati: \"backward\" means it fell outside, behind the pit; then the damage did not come from the pit itself but from the sound, which is only an indirect cause (gerama).",
@@ -449,7 +445,7 @@
        "Mishnah 5:6; Kehati 5:6"
       ],
       [
-       "A deaf, insane or young ox falling in: the owner is liable. A clever ox that falls by day is exempt, since it could see and be careful, and that is an accident. An ox walking at night is not so.",
+       "A deaf, disoriented (shoteh) or young ox falling in: the owner is liable. A clever ox that falls by day is exempt, since it could see and be careful, and that is an accident. An ox walking at night is not so.",
        "Mishnah 5:6; Kehati 5:6 (Baraita)"
       ],
       [
@@ -496,7 +492,7 @@
       "No (yes for the animal)"
      ],
      [
-      "A deaf, insane or young ox falls in",
+      "A deaf, disoriented (shoteh) or young ox falls in",
       "Yes"
      ],
      [
@@ -519,8 +515,8 @@
      "h": "The list",
      "b": [
       [
-       "Falling into a pit; keeping away from Mount Sinai (Exodus 19:13); two-fold restitution (Exodus 22:3, 8); lost property (Exodus 23:4, Deuteronomy 22:1); unloading (Exodus 23:5); muzzling (Deuteronomy 25:4); diverse kinds (Leviticus 19:19, Deuteronomy 22:10); the Sabbath (Exodus 20:10, Deuteronomy 5:14).",
-       "Kulp 5:7"
+       "The ox is an example for the pit (Exodus 21:33), keeping away from Mount Sinai (19:13), double payment (22:3, 22:8), lost property (23:4, Deuteronomy 22:1), unloading (Exodus 23:5), muzzling (Deuteronomy 25:4), diverse kinds (Leviticus 19:19, Deuteronomy 22:10) and the Sabbath (Exodus 20:10, Deuteronomy 5:14): all animals are the same.",
+       "Kehati 5:7"
       ]
      ]
     },
@@ -528,8 +524,8 @@
      "h": "Why does it say ox or donkey?",
      "b": [
       [
-       "The Torah spoke of prevailing conditions: oxen were the most frequently used animals.",
-       "Kulp 5:7"
+       "The Torah spoke of the usual case: people most often use an ox or a donkey.",
+       "Kehati 5:7"
       ]
      ]
     },

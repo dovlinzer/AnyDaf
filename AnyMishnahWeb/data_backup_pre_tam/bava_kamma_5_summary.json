@@ -1,0 +1,174 @@
+{
+ "status": "Draft from the mishnah and Kehati (each item carries its mishnah number). Definitions are provisional until AnyDaf's master glossary covers them.",
+ "principles": [
+  {
+   "t": "An animal accounted harmless (tam) that does damage: its owner pays half damages, and the payment cannot exceed the value of the animal itself.",
+   "m": [
+    1
+   ],
+   "src": "Mishnah 5:1; Kehati 1:4"
+  },
+  {
+   "t": "When it is unclear whether a loss was caused by the goring, the mishnah divides the money in doubt: a quarter damages for the calf. This follows Sumchus. The Sages hold the claimant must bring proof (hamotzi mechavero alav hara'ayah), and the halakha follows the Sages: nothing is paid unless he proves it.",
+   "m": [
+    1
+   ],
+   "src": "Mishnah 5:1; Kehati 5:1"
+  },
+  {
+   "t": "Someone who brings his belongings into another person's courtyard without permission has no claim if the householder's animals damage them, and is liable if they injure the householder's animals. The householder can say: who gave you permission?",
+   "m": [
+    2,
+    3
+   ],
+   "src": "Mishnah 5:2-5:3; Kehati 5:2"
+  },
+  {
+   "t": "With permission, the mishnah says the householder is liable (he is taken to have accepted to guard). The halakha follows Rabbi (5:3): only if he accepted to guard. If the visitor's things injure the householder's cattle with permission, the visitor is exempt.",
+   "m": [
+    2,
+    3
+   ],
+   "src": "Mishnah 5:2; Kehati 5:2-5:3"
+  },
+  {
+   "t": "A person who strikes a woman and causes a miscarriage pays for the offspring, to the husband (or his heirs). An ox's owner does not, because the verse (Exodus 21:22) speaks of men who fight.",
+   "m": [
+    4
+   ],
+   "src": "Mishnah 5:4; Kehati 5:4",
+   "note": ""
+  },
+  {
+   "t": "The pit (bor) is the second of the four archetypal causes of damage (avot nezikin). Whoever digs or uncovers a pit, in a private or public domain, is liable if an animal falls in and dies. The same holds for any hole (trench, cavern, ditch, channel).",
+   "m": [
+    5
+   ],
+   "src": "Mishnah 5:5; Kehati 5:5"
+  },
+  {
+   "t": "A hole counts as a pit if it is ten handbreadths (tefachim, about a yard) deep, the depth that can cause death. Shallower: no liability for a death, but full damages for an injury.",
+   "m": [
+    5
+   ],
+   "src": "Mishnah 5:5; Kehati 5:5"
+  },
+  {
+   "t": "If a pit has two owners, the last one to leave it uncovered is liable. If it was properly covered and an animal still fell in, he is not liable.",
+   "m": [
+    6
+   ],
+   "src": "Mishnah 5:6"
+  },
+  {
+   "t": "Pit liability is limited to the animal itself: not the load or trappings, and not a person who falls in, even a child or a slave. This is learned from Exodus 21:33, 'an ox, and not a person; an ass, and not trappings'. A clever ox that falls by day is exempt (an accident); a deaf, disoriented (shoteh) or young ox, or an ox that falls at night, is not.",
+   "m": [
+    6
+   ],
+   "src": "Mishnah 5:6; Kehati 5:6"
+  },
+  {
+   "t": "'Ox' in the Torah is an example. For several laws, including falling into a pit, the rule applies to every animal, wild animals and birds too. The Torah says ox because it spoke of the usual case.",
+   "m": [
+    7
+   ],
+   "src": "Mishnah 5:7; Kehati 5:7"
+  }
+ ],
+ "terms": [
+  {
+   "term": "tam",
+   "he": "תם",
+   "def": "An animal that has not been warned against that kind of damage. If it gores, its owner pays half damages from the animal itself.",
+   "m": [
+    1
+   ],
+   "src": "Mishnah 1:4; Kehati 5:1"
+  },
+  {
+   "term": "half damages, quarter damages",
+   "he": "חצי נזק, רביע נזק",
+   "def": "Half damages is the payment for harm done by a tam. A quarter damages is half of half damages: the share the mishnah awards when half of the half is in doubt.",
+   "m": [
+    1
+   ],
+   "src": "Mishnah 5:1; Kehati 5:1"
+  },
+  {
+   "term": "without permission",
+   "he": "שלא ברשות",
+   "def": "Entering another person's property without his permission (trespassing). In 5:2-5:3 this decides who is liable.",
+   "m": [
+    2,
+    3
+   ],
+   "src": "Mishnah 5:2; Kehati 5:2"
+  },
+  {
+   "term": "ransom",
+   "he": "כופר",
+   "def": "The payment an ox's owner makes to the family when his ox kills a person (Exodus 21:30). In 5:3 it also applies when the ox kills someone by falling into a cistern.",
+   "m": [
+    3
+   ],
+   "src": "Mishnah 5:3; Kehati 5:3"
+  },
+  {
+   "term": "av nezikin (archetypal cause of damage)",
+   "he": "אב נזיקין",
+   "def": "One of the four archetypal causes of damage listed in the first mishnah of the tractate. The pit (bor) is the second.",
+   "m": [
+    5
+   ],
+   "src": "Mishnah 1:1; Kehati 5:5"
+  },
+  {
+   "term": "pit",
+   "he": "בור",
+   "def": "Exodus 21:33-34: one who opens or digs a pit and does not cover it, and an ox or donkey falls in, pays the owner of the animal and keeps the carcass.",
+   "m": [
+    5,
+    6
+   ],
+   "src": "Mishnah 5:5; Kehati 5:5"
+  },
+  {
+   "term": "handbreadth (tefach)",
+   "he": "טפח",
+   "def": "A measure of length. A pit ten handbreadths deep is deep enough to kill.",
+   "m": [
+    5
+   ],
+   "src": "Mishnah 5:5; Kehati 5:5"
+  }
+ ],
+ "debates": [
+  {
+   "m": 3,
+   "title": "Does permission to enter mean the owner is watching the visitor's things?",
+   "a": "By letting him in, the householder takes on guarding the visitor's things, so he is liable if they are damaged.",
+   "b": "Letting someone in is not accepting to guard; the householder is liable only if he accepted to guard. The halakha follows Rabbi.",
+   "src": "Mishnah 5:3; Kehati 5:3",
+   "wa": "The first view",
+   "wb": "Rabbi (R. Judah Hanasi)"
+  },
+  {
+   "m": 4,
+   "title": "How is the offspring valued?",
+   "a": "Assess the woman's value before the pregnancy and after; the difference is the payment.",
+   "b": "A woman is worth more after giving birth, since childbirth endangers her, so that method cannot work. Instead assess what the offspring would have been worth.",
+   "src": "Mishnah 5:4; Kehati 5:4",
+   "wa": "The first view",
+   "wb": "Rabban Shimon ben Gamaliel"
+  },
+  {
+   "m": 1,
+   "title": "Is money in doubt divided?",
+   "a": "Divide it: a quarter damages for the calf, since it is doubtful whether the goring caused its loss.",
+   "b": "The claimant must bring proof. If he cannot prove the goring caused the loss, nothing is paid for the calf. The halakha follows this view.",
+   "src": "Mishnah 5:1; Kehati 5:1",
+   "wa": "Sumchus (the mishnah)",
+   "wb": "The Sages"
+  }
+ ]
+}

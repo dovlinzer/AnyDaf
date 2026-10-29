@@ -1,0 +1,403 @@
+{
+ "tractate": "Bava Metzia",
+ "chapter": 1,
+ "status": "Draft from the mishnah and Kehati, under review.",
+ "mishnayot": [
+  {
+   "n": 1,
+   "title": "Two people grip a cloak",
+   "summary": "When two people each claim a cloak and neither can prove it, each swears and they divide it by what each claims.",
+   "outline": [
+    {
+     "h": "The case",
+     "b": [
+      [
+       "Two people are holding a garment, each saying \"I found it\" and \"it is all mine\". Neither can bring proof, so each must take an oath.",
+       "Kehati 1:1"
+      ],
+      [
+       "Each is in possession of the garment and each claims it, so the law is that they divide it. Taking the oath is how each shows his claim is genuine.",
+       "Kehati 1:1"
+      ]
+     ]
+    },
+    {
+     "h": "Both claim all of it",
+     "b": [
+      [
+       "Each swears that he owns no less than half of the cloak, and they split it.",
+       "Mishnah 1:1"
+      ]
+     ]
+    },
+    {
+     "h": "One claims all, the other claims half",
+     "b": [
+      [
+       "The one who says \"it's all mine\" swears that he owns no less than three quarters; the one who says \"half is mine\" swears that he owns no less than a quarter.",
+       "Mishnah 1:1"
+      ],
+      [
+       "The first takes three quarters and the second takes a quarter.",
+       "Mishnah 1:1"
+      ]
+     ]
+    }
+   ],
+   "chart": {
+    "title": "How the cloak is divided",
+    "cols": [
+     "What each claims",
+     "Each swears",
+     "They divide it"
+    ],
+    "rows": [
+     [
+      "Both say all of it",
+      "no less than half",
+      "half and half"
+     ],
+     [
+      "One says all, the other says half",
+      "three quarters / a quarter",
+      "three quarters and a quarter"
+     ]
+    ]
+   },
+   "picture": [
+    "bm1-1a.jpg",
+    "Both claim all of it: they swear, and divide it in half."
+   ],
+   "picture2": [
+    "bm1-1b.jpg",
+    "One claims all, the other half: three quarters and a quarter."
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Two men and a donkey",
+   "summary": "Two men on one animal each say it is all theirs: they swear and split its value. If they agree or there are witnesses, no oath is needed.",
+   "outline": [
+    {
+     "h": "The case",
+     "b": [
+      [
+       "Two men were riding on an animal, or one was riding and the other leading it. Each says it is all his.",
+       "Mishnah 1:2"
+      ],
+      [
+       "Each swears that he owns no less than half, and they split it.",
+       "Mishnah 1:2"
+      ]
+     ]
+    },
+    {
+     "h": "No oath needed",
+     "b": [
+      [
+       "If after the case is settled they both admit the other's claim, or there are witnesses, they split the animal without an oath.",
+       "Mishnah 1:2"
+      ],
+      [
+       "If they admit, or there are witnesses, no oath is needed: the oath is only to settle a doubt.",
+       "Kehati 1:2"
+      ]
+     ]
+    }
+   ],
+   "chart": {
+    "title": "Splitting the animal",
+    "cols": [
+     "Situation",
+     "Oath?",
+     "Result"
+    ],
+    "rows": [
+     [
+      "Each claims all of it",
+      "Each swears",
+      "They split it"
+     ],
+     [
+      "They later admit each other's claim, or there are witnesses",
+      "No oath",
+      "They split it"
+     ]
+    ]
+   },
+   "picture": [
+    "bm1-2.jpg",
+    "Two men, one donkey, both claiming it. Left: they swear. Right: they agree, with a witness, and no oath is needed. Either way they split it half and half."
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Lost property seen from a donkey",
+   "summary": "A claim of ownership has to come when you hold the object, not after you have already given it away.",
+   "outline": [
+    {
+     "h": "Acquiring it",
+     "b": [
+      [
+       "A man was riding on a beast and saw lost property and said to his friend, \"Give it to me.\" The friend picked it up and said \"I have acquired it\": he has acquired it.",
+       "Mishnah 1:3"
+      ]
+     ]
+    },
+    {
+     "h": "Too late",
+     "b": [
+      [
+       "But if he first handed it to the rider and only then said \"I acquired it first,\" he has said nothing.",
+       "Mishnah 1:3"
+      ],
+      [
+       "The finder who said \"I acquired it\" must say so at the moment he picks it up, before handing it over; after that, it already belongs to the rider.",
+       "Kehati 1:3"
+      ]
+     ]
+    }
+   ],
+   "chart": {
+    "title": "Who keeps the lost object?",
+    "cols": [
+     "What the friend does",
+     "Result"
+    ],
+    "rows": [
+     [
+      "Picks it up and says \"I acquired it\"",
+      "He acquires it"
+     ],
+     [
+      "Gives it to the rider, then says \"I had it first\"",
+      "His words mean nothing"
+     ]
+    ]
+   },
+   "picture": [
+    "bm1-3a.jpg",
+    "He picked it up and said he acquired it: it is his."
+   ],
+   "picture2": [
+    "bm1-3b.jpg",
+    "He handed it to the rider and only then claimed it: his claim means nothing."
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Seizing lost property, and the field that acquires",
+   "summary": "Someone who falls on a lost object loses it to whoever seizes it first. A field can acquire an animal that cannot leave it.",
+   "outline": [
+    {
+     "h": "Falling on it",
+     "b": [
+      [
+       "If a man saw lost property and fell upon it, and someone else came and seized it, the one who seized it acquired it.",
+       "Mishnah 1:4"
+      ]
+     ]
+    },
+    {
+     "h": "\"My field acquires it\"",
+     "b": [
+      [
+       "He saw people running in his field after lost property, such as a deer with a broken leg or pigeons that cannot fly, and said \"my field acquires it\": he has acquired it.",
+       "Mishnah 1:4"
+      ],
+      [
+       "But if the deer was running normally or the pigeons flying, and he said it, he has said nothing.",
+       "Mishnah 1:4"
+      ]
+     ]
+    },
+    {
+     "h": "Three conditions",
+     "b": [
+      [
+       "The finder acquires it only if no one else can take it first, the deer or pigeons cannot get away, and the owner of the field says \"my field acquires it\".",
+       "Kehati 1:4"
+      ]
+     ]
+    }
+   ],
+   "chart": {
+    "title": "Does the field acquire it?",
+    "cols": [
+     "The animal",
+     "Result"
+    ],
+    "rows": [
+     [
+      "Deer with a broken leg, or pigeons that cannot fly",
+      "The field acquires it"
+     ],
+     [
+      "A deer running normally, or pigeons flying",
+      "He has said nothing"
+     ]
+    ]
+   },
+   "picture": [
+    "bm1-4a.jpg",
+    "A deer with a broken leg can only hobble: it cannot leave the field, so \"my field acquires it\" works."
+   ],
+   "picture2": [
+    "bm1-4b.jpg",
+    "A healthy deer runs away from its chasers and the pigeons fly: the field cannot acquire them."
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Who owns what a family member finds?",
+   "summary": "What those who are supported by him find belongs to him; what those who are independent of him find is their own.",
+   "outline": [
+    {
+     "h": "Belongs to him",
+     "b": [
+      [
+       "What is found by his minor son or daughter, his Canaanite slave or female slave, or his wife.",
+       "Mishnah 1:5"
+      ],
+      [
+       "A minor son or daughter, a Canaanite slave, and a wife are supported by him, so their finds are his.",
+       "Kehati 1:5"
+      ]
+     ]
+    },
+    {
+     "h": "Belongs to them",
+     "b": [
+      [
+       "What is found by his grown son or daughter, his Hebrew slave or female slave, or his divorced wife, even if he has not yet paid her ketubah.",
+       "Mishnah 1:5"
+      ],
+      [
+       "A grown son or daughter, a Hebrew slave and a divorced wife are not under his authority in this way, so they keep what they find.",
+       "Kehati 1:5"
+      ]
+     ]
+    }
+   ],
+   "picture": [
+    "bm1-5a.jpg",
+    "A small child's find goes to the father: he keeps it."
+   ],
+   "picture2": [
+    "bm1-5b.jpg",
+    "A grown daughter's find is her own: she keeps it."
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Found debt documents",
+   "summary": "Whether to return a found loan document depends on whether it records a lien on the debtor's property.",
+   "outline": [
+    {
+     "h": "A lien on the debtor's property",
+     "b": [
+      [
+       "He should not return it, since the court would collect repayment from the property.",
+       "Mishnah 1:6"
+      ]
+     ]
+    },
+    {
+     "h": "No lien",
+     "b": [
+      [
+       "Rabbi Meir: he may return it, since the court would not collect from the property.",
+       "Mishnah 1:6"
+      ],
+      [
+       "The Sages: in either case he should not return it, since in either case the court would collect from the property.",
+       "Mishnah 1:6"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Found documents of giving",
+   "summary": "Documents that give something to another person are not returned, since the writer may have changed his mind.",
+   "outline": [
+    {
+     "h": "Do not return",
+     "b": [
+      [
+       "A man who found bills of divorce, writs of emancipation, wills, deeds of gift or receipts should not return them.",
+       "Mishnah 1:7"
+      ],
+      [
+       "The writer may have written one and then changed his mind and decided not to give it.",
+       "Mishnah 1:7"
+      ],
+      [
+       "These documents are written for the one who receives them, but we do not know that the one who found it received it: perhaps the writer decided not to give it.",
+       "Kehati 1:7"
+      ]
+     ]
+    }
+   ],
+   "picture": [
+    "bm1-7.jpg",
+    "A found document of this kind is not returned: perhaps it was lost after it was given (left), or the writer changed his mind and never gave it (right)."
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Documents that are returned, and the one that waits for Elijah",
+   "summary": "Which found documents are returned, and what to do with one of unknown nature.",
+   "outline": [
+    {
+     "h": "Return them",
+     "b": [
+      [
+       "Letters of evaluation or sustenance, documents of halitzah or refusal, documents of arbitration, and any document drawn up by the court.",
+       "Mishnah 1:8"
+      ],
+      [
+       "Documents found in a satchel or bag, or a bundle of documents (three tied together).",
+       "Mishnah 1:8"
+      ],
+      [
+       "If a satchel or bag has an identifying mark, return it to the one who can identify it.",
+       "Kehati 1:8"
+      ]
+     ]
+    },
+    {
+     "h": "Rabban Shimon ben Gamaliel",
+     "b": [
+      [
+       "Three documents in which one man borrowed from three others: return them to the borrower.",
+       "Mishnah 1:8"
+      ],
+      [
+       "Three documents in which one man lent to three: return them to the lender.",
+       "Mishnah 1:8"
+      ],
+      [
+       "If one man's name appears in all three, he is the borrower or the lender, so we return them to him.",
+       "Kehati 1:8"
+      ]
+     ]
+    },
+    {
+     "h": "Not sure, and the simpon",
+     "b": [
+      [
+       "A document of unknown kind that was found among his own documents waits until Elijah comes: he may not discard it, and may not give it to the creditor or the debtor.",
+       "Mishnah 1:8; Kehati 1:8"
+      ],
+      [
+       "If there are postscripts in the documents, he does what the postscript says.",
+       "Mishnah 1:8; Kehati 1:8"
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}
