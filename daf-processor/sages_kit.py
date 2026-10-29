@@ -34,7 +34,9 @@ GEN_YEARS = {
     "A1": (220, 250), "A2": (250, 290), "A3": (290, 320), "A4": (320, 350), "A5": (350, 375),
     "A6": (375, 425), "A7": (425, 460), "A8": (460, 500),
 }
-TIER1, TIER2 = 60, 250          # by rank in the Bavli count, then the author's overrides
+# By rank in the Bavli count, then the author's overrides. The author (2026-10-29): the 250 most
+# quoted are all names a learner knows, so all are major; tier 2 is the next 150.
+TIER1, TIER2 = 250, 400
 REL = {"teachers": "students", "students": "teachers", "colleagues": "colleagues",
        "father": "children", "mother": "children", "children": "parents", "parents": "children",
        "spouse": "spouse", "in_laws": "sons_in_law", "sons_in_law": "in_laws",
@@ -136,7 +138,10 @@ def main():
             "en": x["en"], "he": x["he"], "alt_en": x["titles_en"], "alt_he": x["titles_he"],
             "kind": x["kind"], "gen": x["generation"], "gen_code": x["generation_code"],
             "region": x["region"],
-            "years": years(x["generation_code"]),          # approximate, from the generation
+            # approximate, from the generation (Sefaria's code, else Wikipedia's generation number)
+            "years": years(x["generation_code"] or (
+                {"tanna": "T", "amora": "A", "zug": "Z"}.get(x["kind"], "?") + str(x["generation"])
+                if x["generation"] is not None else None)),
             "born": born, "died": died,                   # from Wikipedia, when it gives a year
             "tier": tier(k), "tier_mishnah": mtier(k) if k in mishnah else 3,
             "bio": x.get("bio") or "", "bio_he": x.get("bio_he") or "",

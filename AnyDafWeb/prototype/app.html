@@ -24,7 +24,8 @@ __MEASURES_CSS__
 __SAGES_CSS__
 /* the sages relationship box (shared kit): its rules read --card, --fg and --blue */
 .sgx{--card:var(--panel);--fg:var(--ink);--blue:var(--accent,#1b3a8a)}
-.sage .relbtn{font:inherit;font-size:13px;border:1px solid var(--accent,#1b3a8a);background:none;color:var(--accent,#1b3a8a);border-radius:12px;padding:1px 10px;cursor:pointer;margin-top:4px}
+#swinAll{margin-inline-start:auto;margin-top:0}
+.sage .relbtn,#swinAll{font:inherit;font-size:13px;border:1px solid var(--accent,#1b3a8a);background:none;color:var(--accent,#1b3a8a);border-radius:12px;padding:1px 10px;cursor:pointer;margin-top:4px}
 /* The Reference popup (weights, measures, money) from Illustrated Mishna: its rules read --card and
    --fg; the button sits in the bar beside the gear instead of floating over a header */
 .mpop{--card:var(--panel);--fg:var(--ink);z-index:62;box-sizing:border-box}
@@ -582,7 +583,7 @@ __SPRITE__
  <div class="glist" id="glist"></div>
 </div>
 <div class="gwin" id="swin" hidden role="dialog" aria-labelledby="swinTitle">
- <header id="swinBar"><h2 id="swinTitle">Sages</h2><button type="button" id="swinBig" aria-pressed="false" aria-label="Make the box larger" title="Larger / smaller">⤢</button><button type="button" id="swinClose" aria-label="Close sages">×</button></header>
+ <header id="swinBar"><h2 id="swinTitle">Sages</h2><button type="button" id="swinAll" class="relbtn" title="All the sages of the Talmud, by generation">All sages</button><button type="button" id="swinBig" aria-pressed="false" aria-label="Make the box larger" title="Larger / smaller">⤢</button><button type="button" id="swinClose" aria-label="Close sages">×</button></header>
  <div class="swtools"><span>Order</span><div class="seg" id="sOrder" role="group" aria-label="Order"><button data-o="daf" aria-pressed="true">As they appear</button><button data-o="alpha">A–Z</button><button data-o="era">By era</button></div></div>
  <div class="stl" id="stl"></div>
  <div class="sgrip" id="sgrip" role="separator" aria-orientation="horizontal" aria-label="Resize the timeline" title="Drag to show more or less of the timeline · double-click to reset"></div>
@@ -647,7 +648,7 @@ function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch
 // the code goes through tr(), keyed by the English.
 const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='he'||q==='en'){prefs.ui=q;savePrefs()}return prefs.ui==='he'?'he':'en'})();
 const RTL=UI==='he';
-const HEW={'Daf summary':'סיכום הדף','Relationships':'קשרים',
+const HEW={'Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
  "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
@@ -1274,6 +1275,7 @@ $('slist').onclick=e=>{const s=e.target.closest('[data-s]'),c=e.target.closest('
  if(s)showSage(+s.dataset.s);else if(c)setCurrent(c.dataset.sec,true)};
 $('sOrder').onclick=e=>{const b=e.target.closest('[data-o]');if(!b)return;prefs.sOrder=b.dataset.o;savePrefs();renderSages(D.sages||[])};
 $('swinClose').onclick=()=>{$('swin').hidden=true};
+$('swinAll').onclick=()=>AnySages.openChart();
 // The last window touched sits on top.
 let zTop=20;function front(w){w.style.zIndex=++zTop}
 ['gwin','swin','pwin'].forEach(id=>$(id).addEventListener('pointerdown',()=>front($(id))));
@@ -1860,6 +1862,7 @@ AnySages.init({base:'sages/',corpus:'bavli',lang:RTL?'he':'en',
  tractateName:tr=>{const x=TRACTATES.find(t=>t.text===tr||t.name===tr);return x?(RTL?x.he:x.name):tr},
  link:(corpus,tr,place)=>{const x=TRACTATES.find(t=>t.text===tr||t.name===tr);return x?hashFor(x.name,parseInt(place)):'#'}});
 // following a place closes the box, so the daf it opens is in view
-document.addEventListener('click',e=>{const a=e.target.closest('.sgx a[href^="#"]');if(a)AnySages.close()});
+document.addEventListener('click',e=>{const a=e.target.closest('.sgx a[href^="#"]');if(!a)return;AnySages.close();
+ const c=document.querySelector('.sgc-wrap');if(c)c.hidden=true});
 </script>
 __MEASURES__

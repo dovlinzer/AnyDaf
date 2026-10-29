@@ -168,12 +168,15 @@ built, so the script fetches it once from Sefaria (free) for counting.
 
 ## Status (2026-10-29)
 
-Done: steps 1–4 below. The relationship box is live on iTalmud (Sages window → a card's
-"Relationships"), from the shared kit `AnyMishnahWeb/reference-kit/sages/` (see its README).
+Done: steps 1–4 below and the Shas-wide chart (step 7's timeline and search): the relationship
+box is live on iTalmud (Sages window → a card's "Relationships"), and the chart from "All sages"
+in the Sages window's header and at www.italmud.com/sages. All 250 most quoted sages are tier 1
+(author, 2026-10-29); a cell shows its top 6, "+N more" the rest. Both come from the shared kit `AnyMishnahWeb/reference-kit/sages/` (see its README).
 Dates come from the generation (`GEN_YEARS` in `sages_kit.py`, draft years for the author) unless
 Wikipedia gives a year. Tiers can be changed at any time in `kit_overrides.json` and one rebuild.
 Still to do: the author's review (tiers, links, stories), stories drafted from Wikipedia's
-citations, Illustrated Mishna wiring, then the Shas-wide timeline.
+citations, Illustrated Mishna wiring (instructions: the kit's `ANYMISHNA_PROMPT.md`), and moving
+the chart into the Reference Tools button.
 
 Known data errors seen so far, for the review: Sefaria lists Rabbi Chanina b. Chama (an amora) as
 a student of Rabbi Akiva; Sefaria's Wikipedia links for Rabban Gamliel of Yavneh and Gamliel III

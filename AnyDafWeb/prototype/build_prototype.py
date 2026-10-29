@@ -531,6 +531,27 @@ def reference_page(html):
             + measures_embed() + "</body></html>")
 
 
+def sages_page(html):
+    """sages.html: the Shas-wide chart of the sages on a page of its own (shared kit)."""
+    head = re.sub(r"<title>.*?</title>", "<title>Sages of the Talmud</title>", html[:html.index("</style>")], count=1)
+    return (head + "\n.sgp{max-width:1500px;margin:0 auto;padding:12px 16px;height:100%;box-sizing:border-box;display:flex;flex-direction:column}"
+            ".sgp h1{font:600 1.6rem/1.2 var(--serif);color:var(--blue);margin:6px 0 0}.sgp .top a{color:var(--link)}"
+            "#sghost{flex:1;min-height:0;display:flex;flex-direction:column}"
+            "\n</style>"
+            '<div class="sgp"><div class="top"><h1 id="sgh1">Sages of the Talmud</h1><a href="./" id="sgback">Back to the Illustrated Talmud</a></div>'
+            '<div id="sghost"></div></div>'
+            "<script>const TRACTATES=" + json.dumps(tractates(), ensure_ascii=False) + ";</script>"
+            "<script>" + (SAGES_KIT / "sages.js").read_text(encoding="utf-8") + "</script>"
+            "<script>(function(){var p={};try{p=JSON.parse(localStorage.getItem('adw')||'{}')}catch(e){}"
+            "var he=(new URLSearchParams(location.search).get('lang')||p.ui)==='he';"
+            "if(he){document.documentElement.dir='rtl';document.getElementById('sgh1').textContent='חכמי התלמוד';document.getElementById('sgback').textContent='חזרה לתלמוד המאויר'}"
+            "var T=function(tr){return TRACTATES.find(function(t){return t.text===tr||t.name===tr})};"
+            "AnySages.init({base:'sages/',corpus:'bavli',lang:he?'he':'en',"
+            "tractateName:function(tr){var x=T(tr);return x?(he?x.he:x.name):tr},"
+            "link:function(c,tr,place){var x=T(tr);return x?'./#'+x.name.replace(/’/g,\"'\").replace(/ /g,'_')+'/'+parseInt(place):'#'}});"
+            "AnySages.chart(document.getElementById('sghost'))})()</script></body></html>")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dafim", nargs="+", default=DAFIM)
@@ -590,6 +611,7 @@ def main():
             "headers": [{"source": "/(.*)", "headers": [{"key": "X-Robots-Tag", "value": "noindex, nofollow"}]}],
             "cleanUrls": True}, indent=1))
     (out / "reference.html").write_text(reference_page(html), encoding="utf-8")
+    (out / "sages.html").write_text(sages_page(html), encoding="utf-8")
     html = html.replace("__MEASURES__", measures_embed())
     copy_measure_images(out)
     (out / "sages").mkdir(exist_ok=True)          # the sages kit's data, loaded when the box opens

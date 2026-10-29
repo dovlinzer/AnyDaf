@@ -2047,7 +2047,9 @@ Tier list for the author: `outline/sages/tiers_review.md`.
 `AnyMishnahWeb/reference-kit/sages/` (from the files above plus `kit_overrides.json` and
 `stories.json`); `sages.js`/`sages.css` there are the relationship box. iTalmud's build inlines
 them (`SAGES_KIT`) and copies the data to `sages/`; a "Relationships" button on each Sages card
-calls `AnySages.open(slug)`. Never edit the kit's JSON by hand.
+calls `AnySages.open(slug)`; "All sages" in the Sages window and the page `sages.html`
+(`sages_page()`) show the Shas-wide chart (`AnySages.openChart()` / `chart(el)`). Tier 1 = the
+250 most quoted (author). Never edit the kit's JSON by hand.
 
 #### Study games — see `AnyDafWeb/GAMES.md` (the design brief; read it first)
 

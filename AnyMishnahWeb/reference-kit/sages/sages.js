@@ -323,10 +323,159 @@
       `<a href="${esc(S.o.link ? S.o.link(S.o.corpus, tr, p) : '#')}">${esc(p)}</a>`).join(' ')}</p>`;
   }
 
+
+  // ---------- the Shas-wide chart ----------
+  // Generations across (Zugot, tanna'im 1-6 and the transition, amora'im 1-8, then "unknown"),
+  // Eretz Yisrael above and Bavel below. A cell shows its most quoted sages; "+N more" opens the
+  // rest of the major ones and the next tier. Anyone at all is reached by search, which opens
+  // the cell and marks the name. A name opens the relationship box.
+  const C = { open: new Set(), show: new Set(), filter: 'all', host: null, hit: null };
+  const CW = {
+    en: { chart: 'Sages of the Talmud', search: 'Find a sage', all: 'All', tannaim: "Tanna'im", amoraim: "Amora'im",
+          zugot: 'Zugot', unknown: 'Generation unknown', ey: 'Eretz Yisrael', bavel: 'Bavel', trans: 'Transition',
+          more: '+{0} more', fewer: 'Fewer', nohit: 'No sage by that name.', moved: 'Moved between Bavel and Eretz Yisrael',
+          tip: 'Tap a name to see his teachers, students and colleagues.' },
+    he: { chart: 'חכמי התלמוד', search: 'חיפוש חכם', all: 'הכול', tannaim: 'תנאים', amoraim: 'אמוראים',
+          zugot: 'זוגות', unknown: 'דור לא ידוע', ey: 'ארץ ישראל', bavel: 'בבל', trans: 'מעבר',
+          more: 'ועוד {0}', fewer: 'פחות', nohit: 'לא נמצא חכם בשם הזה.', moved: 'עבר בין בבל לארץ ישראל',
+          tip: 'לחיצה על שם מציגה את רבותיו, תלמידיו ובני דורו.' },
+  };
+  const ct = (k, ...a) => (CW[S.o.lang] || CW.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
+  const COLS = ['Z', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'TA', 'A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', '?'];
+  function colOf(x) {
+    if (x.kind === 'zug') return 'Z';
+    let c = (x.gen_code || '').split('/')[0];
+    if (!c && x.gen != null) c = (x.kind === 'tanna' ? 'T' : 'A') + x.gen;
+    if (c === 'T0') c = 'TA';
+    return COLS.includes(c) ? c : '?';
+  }
+  const rowOf = x => x.kind === 'amora' && (x.region || '').startsWith('Bavel') ? 1 : 0;
+  // the tanna'im and the Zugot were all in Eretz Yisrael: their columns are one tall cell
+  const tall = c => /^[ZT]/.test(c);
+  function colHead(c) {
+    if (c === 'Z') return [ct('zugot'), yearsOf(['Z1', 'Z5'])];
+    if (c === '?') return [ct('unknown'), ''];
+    if (c === 'TA') return [ct('trans'), yearsOf(['TA'])];
+    const n = +c.slice(1);
+    return [HE() ? (c[0] === 'T' ? 'תנאים' : 'אמוראים') + ' ' + HE_ORD[n] : (c[0] === 'T' ? 'Tanna’im ' : 'Amora’im ') + n, yearsOf([c])];
+  }
+  function yearsOf(codes) {
+    const g = S.data.gen_years, ys = codes.map(c => g[c]).filter(Boolean);
+    if (!ys.length) return '';
+    const a = Math.min(...ys.map(y => y[0])), b = Math.max(...ys.map(y => y[1]));
+    const f = y => y < 0 ? `${-y}` : `${y}`;
+    return a < 0 && b <= 0 ? `${f(a)}–${f(b)} ${t('bce')}` : a < 0 ? `${f(a)} ${t('bce')}–${b}` : `${a}–${b}`;
+  }
+  function cells() {
+    const by = {};
+    for (const [id, x] of Object.entries(S.data.sages)) {
+      if (!['tanna', 'amora', 'zug'].includes(x.kind)) continue;
+      const k = rowOf(x) + ':' + colOf(x);
+      (by[k] = by[k] || []).push(id);
+    }
+    for (const k in by) by[k].sort((a, b) => k.endsWith(':Z') ? (sage(a).gen ?? 9) - (sage(b).gen ?? 9)   // the pairs in order
+      : tierOf(sage(a)) - tierOf(sage(b)) || countOf(sage(b)) - countOf(sage(a)));
+    return by;
+  }
+  function chartHTML() {
+    const phone = (C.host.clientWidth || 800) < 560, first = phone ? 4 : 6, by = cells();
+    const cols = COLS.filter(c => C.filter === 'all' || (C.filter === 'tanna' ? /^[ZT]/.test(c) || c === '?' : /^A/.test(c) || c === '?'));
+    let h = `<div class="sgc-grid" style="grid-template-columns:auto repeat(${cols.length},minmax(${phone ? 104 : 122}px,1fr))">`;
+    h += `<div class="sgc-corner"></div>` + cols.map(c => { const [a, b] = colHead(c);
+      return `<div class="sgc-h${c[0] === 'A' ? ' am' : c === '?' ? ' unk' : ''}"><b>${esc(a)}</b>${b ? `<small>${esc(b)}</small>` : ''}</div>`; }).join('');
+    [ct('ey'), ct('bavel')].forEach((label, row) => {
+      h += `<div class="sgc-rh">${esc(label)}</div>`;
+      for (const c of cols) {
+        if (row === 1 && tall(c)) continue;
+        const k = row + ':' + c, ids = (by[k] || []).filter(id => C.filter === 'all' || (C.filter === 'tanna' ? sage(id).kind !== 'amora' : sage(id).kind === 'amora'));
+        const open = C.open.has(k);
+        const major = ids.filter(id => tierOf(sage(id)) <= 2);
+        const shown = open ? major : major.slice(0, first);
+        const extra = ids.filter(id => C.show.has(id) && !shown.includes(id));
+        const list = shown.concat(extra);
+        const more = major.length - shown.length;
+        h += `<div class="sgc-cell${row === 0 && tall(c) ? ' tall' : ''}" data-k="${k}">${list.map(id => { const x = sage(id);
+          return `<button type="button" class="sgc-c g-${group(x)} t${tierOf(x)}${(x.region || '').includes('/') ? ' moved' : ''}${C.hit === id ? ' hit' : ''}" data-go="${esc(id)}" title="${esc(fullName(x))} · ${esc(meta(x))}">${esc(shortName(x))}</button>`; }).join('')}
+          ${more > 0 ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('more', more)}</button>` : open && major.length > first ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('fewer')}</button>` : ''}</div>`;
+      }
+    });
+    return h + '</div>';
+  }
+  function chartDraw() { C.host.querySelector('.sgc-body').innerHTML = chartHTML(); }
+  function norm(s) { return String(s || '').toLowerCase().replace(/[֑-ׇ]/g, '').replace(/[^a-zא-ת ]/g, '').replace(/\s+/g, ' ').trim(); }
+  function find(q) {
+    q = norm(q); if (q.length < 2) return [];
+    const out = [];
+    for (const [id, x] of Object.entries(S.data.sages)) {
+      if (!['tanna', 'amora', 'zug'].includes(x.kind)) continue;
+      const names = [x.en, x.he, ...(x.alt_en || []), ...(x.alt_he || [])].map(norm);
+      const exact = names.some(n => n === q), start = names.some(n => n.startsWith(q) || n.split(' ').some(w => w.startsWith(q)));
+      if (exact || start || names.some(n => n.includes(q))) out.push([exact ? 0 : start ? 1 : 2, tierOf(x), -countOf(x), id]);
+    }
+    return out.sort((a, b) => a[0] - b[0] || a[1] - b[1] || a[2] - b[2]).slice(0, 12).map(r => r[3]);
+  }
+  function reveal(id) {
+    const x = sage(id), k = rowOf(x) + ':' + colOf(x);
+    C.show.add(id); C.hit = id;
+    if (C.filter !== 'all' && (C.filter === 'tanna') === (x.kind === 'amora')) { C.filter = 'all'; syncFilter(); }
+    chartDraw();
+    const b = C.host.querySelector(`.sgc-c[data-go="${CSS.escape(id)}"]`);
+    if (b) { b.scrollIntoView({ block: 'center', inline: 'center', behavior: 'smooth' }); b.focus({ preventScroll: true }); }
+  }
+  function syncFilter() { C.host.querySelectorAll('.sgc-filter button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.f === C.filter))); }
+  async function chart(el) {
+    C.host = el;
+    el.classList.add('sgc');
+    if (HE()) el.dir = 'rtl';
+    el.innerHTML = `<div class="sgc-tools"><div class="sgc-find"><input type="search" placeholder="${ct('search')}" aria-label="${ct('search')}"><div class="sgc-res" hidden></div></div>
+      <div class="sgc-filter" role="group"><button type="button" data-f="all" aria-pressed="true">${ct('all')}</button><button type="button" data-f="tanna">${ct('tannaim')}</button><button type="button" data-f="amora">${ct('amoraim')}</button></div></div>
+      <p class="sgc-tip">${ct('tip')} <span class="sgc-key"><i class="sw tanna"></i>${t('keyTa')} <i class="sw ey"></i>${t('keyEY')} <i class="sw bavel"></i>${t('keyBV')} <i class="sw zug"></i>${t('keyZ')} <i class="mv"></i>${ct('moved')}</span></p>
+      <div class="sgc-body">${t('loading')}</div>`;
+    await load();
+    chartDraw();
+    const inp = el.querySelector('input'), res = el.querySelector('.sgc-res');
+    inp.addEventListener('input', () => {
+      const hits = find(inp.value);
+      res.hidden = !inp.value.trim();
+      res.innerHTML = hits.length ? hits.map(id => { const x = sage(id);
+        return `<button type="button" data-pick="${esc(id)}"><b>${esc(fullName(x))}</b> <span>${esc(HE() ? x.en : x.he)}</span><small>${esc(meta(x))}</small></button>`; }).join('')
+        : `<p>${ct('nohit')}</p>`;
+    });
+    inp.addEventListener('keydown', e => { if (e.key === 'Enter') { const f = res.querySelector('[data-pick]'); if (f) f.click(); } if (e.key === 'Escape') { res.hidden = true; } });
+    el.addEventListener('click', e => {
+      const p = e.target.closest('[data-pick]');
+      if (p) { res.hidden = true; inp.value = fullName(sage(p.dataset.pick)); reveal(p.dataset.pick); return; }
+      const m = e.target.closest('[data-cell]');
+      if (m) { const k = m.dataset.cell; C.open.has(k) ? C.open.delete(k) : C.open.add(k); chartDraw(); return; }
+      const f = e.target.closest('[data-f]');
+      if (f) { C.filter = f.dataset.f; syncFilter(); chartDraw(); return; }
+      const g = e.target.closest('.sgc-c[data-go]');
+      if (g) { C.hit = g.dataset.go; el.querySelectorAll('.sgc-c.hit').forEach(b => b.classList.remove('hit')); g.classList.add('hit'); open(g.dataset.go); }
+    });
+    let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => C.host && chartDraw(), 150); });
+  }
+  let chartBox = null;
+  function openChart() {
+    if (!chartBox) {
+      chartBox = document.createElement('div');
+      chartBox.className = 'sgc-wrap'; chartBox.setAttribute('role', 'dialog'); chartBox.setAttribute('aria-label', ct('chart'));
+      chartBox.innerHTML = `<header class="sgx-bar"><h2>${ct('chart')}</h2><span style="flex:1"></span><button type="button" class="sgx-x" aria-label="${t('close')}">×</button></header><div class="sgc-in"></div>`;
+      if (HE()) chartBox.dir = 'rtl';
+      document.body.appendChild(chartBox);
+      chartBox.querySelector('.sgx-x').onclick = () => { chartBox.hidden = true; };
+      chartBox.addEventListener('keydown', e => { if (e.key === 'Escape' && (!S.box || S.box.hidden)) chartBox.hidden = true; });
+      chart(chartBox.querySelector('.sgc-in'));
+    }
+    chartBox.hidden = false;
+    setTimeout(() => chartBox.querySelector('input')?.focus(), 50);
+  }
+
   window.AnySages = {
     init(o) { Object.assign(S.o, o || {}); },
     open,
     close,
+    chart,          // render the Shas-wide chart into an element (a page of its own)
+    openChart,      // or open it over the page
     // for hosts that want the data (search, the timeline later)
     data: async () => { await load(); return S.data; },
   };
