@@ -317,6 +317,11 @@
     // his brothers and sisters: the other children of his parents
     [...nodes.values()].filter(n => n.gen === -1 && n.id).forEach(par => (sage(par.id).links.children || []).forEach(l => {
       if (l.id === id) return; const q = mk(l, 0, { sib: true }); if (q) edge(par, q, 'pc'); }));
+    // a dotted line (a grandfather, a grandson) is drawn only when the tree has no way to him in one-generation steps
+    const kids = new Map(); edges.filter(e => e.type === 'pc').forEach(e => (kids.get(e.a) || kids.set(e.a, []).get(e.a)).push(e.b));
+    const reach = (from, to) => { const seen = new Set([from]), st = [from]; while (st.length) { const c = st.pop(); for (const k of kids.get(c) || []) { if (k === to) return true; if (!seen.has(k)) { seen.add(k); st.push(k); } } } return false; };
+    const keep = edges.filter(e => e.type !== 'far' || !(reach(e.a, e.b)));
+    edges.length = 0; edges.push(...keep);
     return { nodes, edges };
   }
   // generations in rows, parents above children; each row ordered under its parents, a spouse next to her partner
