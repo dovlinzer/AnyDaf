@@ -13,7 +13,7 @@
    (loaded when a reader opens "where quoted"). */
 (function () {
   const S = { o: { base: 'sages/', corpus: 'bavli', lang: 'en' }, data: null, quoted: null, trail: [], cur: null,
-              open: {}, nodes: new Map(), box: null };
+              open: {}, nodes: new Map(), box: null, faceOf: new Map() };
   const HE = () => S.o.lang === 'he';
   const W = {
     en: { title: 'Sages', rel: 'Relationships', back: 'Back', close: 'Close', teachers: 'Teachers', students: 'Students',
@@ -168,6 +168,8 @@
       if (bk) { const i = +bk.dataset.back; const id = S.trail[i]; S.trail = S.trail.slice(0, i); go(id, true); }
     });
     let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => !b.hidden && draw(false), 120); });
+    // the box can be dragged to a new size (the corner handle); the sages spread out or close up to fit
+    if (window.ResizeObserver) { let lw = 0, ro; new ResizeObserver(() => { const w = b.querySelector('.sgx-graph').clientWidth; if (b.hidden || !w || w === lw) return; lw = w; clearTimeout(ro); ro = setTimeout(() => draw(false), 80); }).observe(b.querySelector('.sgx-graph')); }
   }
   function close() { if (S.box) S.box.hidden = true; }
 
@@ -193,15 +195,30 @@
   // ---------- graph ----------
   // Clay look (Mishnah): a clay picture with the name under it. The middle sage has his own picture; teachers and
   // students each have three, and a sage keeps the same one (from his name), moving on if it is already used in the row.
-  const FIGS = { main: ['main'], teachers: ['teacher-1', 'teacher-2', 'teacher-3'], students: ['student-1', 'student-2', 'student-3'] };
+  const FACES = ['main', 'teacher-1', 'teacher-2', 'teacher-3', 'student-1', 'student-2', 'student-3'];
+  const FACE_PREF = { centre: [0], teachers: [1, 2, 3], students: [4, 5, 6] };   // what a sage gets the first time, by his role
   const figHash = k => { let h = 5381; for (const c of String(k)) h = (h * 33 + c.charCodeAt(0)) >>> 0; return h; };
-  function figure(role, n) {
-    const list = FIGS[role] || FIGS.main;
-    return `<img class="sgx-fig" src="${esc(S.o.base)}fig/${list[(n || 0) % list.length]}.png" alt="" draggable="false">`;
+  // A sage keeps his picture when he moves (a student who is clicked glides to the middle with his own face);
+  // among the sages on screen no two share one while there are pictures left.
+  function assignFaces(placed) {
+    const used = new Set(), faceOf = S.faceOf;
+    for (const p of placed) { const k = p.id || p.name, f = faceOf.get(k); if (f != null && !used.has(f)) { used.add(f); p.fig = f; } }
+    const ordered = [...placed].sort((a, b) => (b.centre ? 1 : 0) - (a.centre ? 1 : 0));   // the middle sage chooses first
+    for (const p of ordered) {
+      if (p.fig != null) continue;
+      const k = p.id || p.name, pref = FACE_PREF[p.centre ? 'centre' : p.rel] || [], rest = [...FACES.keys()].filter(f => !pref.includes(f));
+      const h = figHash(k);
+      const order = [...pref.map((_, i) => pref[(h + i) % pref.length]), ...rest.map((_, i) => rest[(h + i) % rest.length])];   // his own kind of picture first
+      const f = order.find(c => !used.has(c)) ?? order[0];
+      used.add(f); p.fig = f; faceOf.set(k, f);
+    }
+  }
+  function figure(n) {
+    return `<span class="sgx-ring"><img class="sgx-fig" src="${esc(S.o.base)}fig/${FACES[n % FACES.length]}.png" alt="" draggable="false"></span>`;
   }
   function draw(animate) {
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg');
-    const clay = !!S.o.clay, width = g.clientWidth || 600, phone = width < 560, cap = clay ? 3 : phone ? 3 : 6, nodeW = clay ? (phone ? 96 : 120) : phone ? 92 : 124;
+    const clay = !!S.o.clay, width = g.clientWidth || 600, phone = width < 560, cap = clay ? (phone ? 3 : 3 + Math.floor(Math.max(0, width - 760) / 170)) : phone ? 3 : 6, nodeW = clay ? (phone ? 96 : 120) : phone ? 92 : 124;
     g.classList.toggle('clay', clay);
     narrow = phone;
     const rtl = HE(), X = x => rtl ? width - x : x;
@@ -249,7 +266,7 @@
       return ys;
     }
     const tY = band('teachers', rows.teachers, cap);
-    if (tY) y += clay ? 26 : rows.famUp.length ? 8 : 34;
+    if (tY) y += clay ? 98 : rows.famUp.length ? 8 : 34;
     if (rows.famUp.length) { band('famUp', rows.famUp, phone ? 3 : 5); y += 20; }
     const cY = y;
     place.push({ key: id, id, name: fullName(x), x: width / 2, y: cY, centre: true });
@@ -261,7 +278,7 @@
       const dir = i % 2 === 0 ? -1 : 1, k = Math.floor(i / 2);
       place.push({ ...p, x: X(width / 2 + dir * (cw / 2 + 8 + slot * (k + 0.5))), y: cY, maxW: slot - 10 });
     });
-    y += clay ? (phone ? 128 : 140) : phone ? 66 : 58;
+    y += clay ? (phone ? 190 : 214) : phone ? 66 : 58;
     const restC = cols.slice(side * 2);
     if (restC.length === 1) band('colleagues_more', restC, cap, true);   // one more: just show him
     else if (restC.length) {
@@ -276,8 +293,7 @@
     g.style.height = (y + (sY ? 4 : 20)) + 'px';
     svg.setAttribute('width', width); svg.setAttribute('height', y + 20);
 
-    const usedFig = { teachers: new Set(), students: new Set() };
-    if (clay) place.forEach(p => { const u = usedFig[p.rel]; if (!u) return; let v = figHash(p.id || p.name) % 3; while (u.has(v) && u.size < 3) v = (v + 1) % 3; u.add(v); p.fig = v; });
+    if (clay) assignFaces(place);
     // nodes: reuse what is already on screen so it glides
     const want = new Map(place.map(p => [p.id || p.key, p]));
     const prev = S.nodes;
@@ -295,8 +311,8 @@
       }
       const sx = p.centre ? x : p.id ? sage(p.id) : null;
       const fam = p.rel && FAMILY.includes(p.rel), famLabel = fam ? p.rel : p.famRel;
-      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam ? ' fam' : ''}`;
-      el.innerHTML = (clay ? figure(p.centre ? 'main' : p.rel, p.fig) : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
+      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${clay ? ' r-' + (p.centre ? 'centre' : p.rel) : ''}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam ? ' fam' : ''}`;
+      el.innerHTML = (clay ? figure(p.fig) : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
       if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
       el.style.maxWidth = (p.centre ? (clay ? Math.min(width * 0.7, 220) : cw) : Math.min(nodeW, p.maxW || nodeW)) + 'px';

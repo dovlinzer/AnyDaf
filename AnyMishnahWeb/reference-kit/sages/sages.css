@@ -127,3 +127,11 @@
 .sgx-graph.clay .sgx-n.centre .sgx-fig{width:auto;height:128px;opacity:1;filter:drop-shadow(0 5px 5px #0004)}
 .sgx-graph.clay .sgx-lines{color:color-mix(in srgb,var(--fg,#222) 88%,transparent)}
 .sgx-graph.clay .sgx-lines path,.sgx-graph.clay .sgx-lines line{opacity:.8;stroke-width:1.8}
+/* role colour behind each sage (the picture is his own and goes with him): gold the middle sage, blue a teacher, green a student */
+.sgx-graph.clay .sgx-ring{display:inline-flex;align-items:flex-end;justify-content:center;border-radius:50% 50% 8px 8px / 42% 42% 8px 8px;padding:0 8px;
+ background:radial-gradient(ellipse at 50% 70%,color-mix(in srgb,var(--role,#999) 55%,transparent),color-mix(in srgb,var(--role,#999) 12%,transparent) 70%,transparent);transition:background .4s}
+.sgx-graph.clay .r-centre{--role:#d9a21b}.sgx-graph.clay .r-teachers{--role:#4f7fc0}.sgx-graph.clay .r-students{--role:#3f9f7c}
+.sgx-graph.clay .sgx-n{transition:opacity .4s,transform .5s}
+/* the box can be resized from its corner */
+.sgx{resize:both;overflow:hidden;min-width:340px;min-height:360px;max-width:calc(100vw - 16px);max-height:calc(100vh - 16px)}
+@media (max-width:560px){.sgx{resize:none}}
