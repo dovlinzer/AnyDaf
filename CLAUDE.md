@@ -2035,6 +2035,14 @@ GLOSSARY.md) and a Shas-wide Sages chart.
 #### Global glossary — see `AnyDafWeb/GLOSSARY.md` (plan, 2026-10-18; author wants one glossary for Shas)
 
 #### Shas-wide Sages chart + relationship graph — see `AnyDafWeb/SAGES.md` (draft plan, 2026-10-29)
+Data so far (no API): `build_sages.py census` / `census-mishnah` count the lines (Bavli) and
+mishnayot naming each sage -> `outline/sages/census_{bavli,mishnah}.json` (the Mishnah text is
+fetched once into `cache/mishnah/`; amora picks are dropped there). The matcher now counts bare
+"רבי" before a verb as Rebbi, and gives bare "רבי יצחק" the amora Nappacha as a candidate.
+`sages_wiki.py fetch|build` reads Hebrew Wikipedia's אישיות רבנית infobox (teachers, students,
+colleagues, family, dates) -> `outline/sages/wiki_facts.json`; facts only, no wording (CC BY-SA).
+Sefaria's heWikiLink swaps Rabban Gamliel of Yavneh and Gamliel III (`WIKI_TITLES` fixes it).
+Tier list for the author: `outline/sages/tiers_review.md`.
 
 #### Study games — see `AnyDafWeb/GAMES.md` (the design brief; read it first)
 

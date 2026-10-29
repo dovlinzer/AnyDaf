@@ -5,6 +5,8 @@ No Anthropic API calls.
     venv/bin/python build_sages.py fetch               # cache Sefaria people topics + Hebrew Wikipedia categories
     venv/bin/python build_sages.py build               # merge into outline/sages/sages.json
     venv/bin/python build_sages.py mentions KEY ...    # sages named on each daf -> outline/sages/mentions/<key>.json
+    venv/bin/python build_sages.py census              # lines naming each sage, across the Bavli -> outline/sages/census_bavli.json
+    venv/bin/python build_sages.py census-mishnah      # the same for the Mishnah (text fetched once from Sefaria, cached)
 
 Sources:
 - Sefaria topics (the 925 members of "talmudic-people"): names in Hebrew and English, generation
@@ -262,6 +264,13 @@ ONE_WORD = {"אביי", "רבא", "רבה", "עולא", "רבינא", "זעיר�
 AFTER_AMAR = {"רב", "לוי"}
 FIXED = {"רבא": "rava", "אביי": "abaye", "רב": "rav", "שמואל": "shmuel-(amora)", "עולא": "ulla"}
 AMAR = r"(?:אמר|ואמר|דאמר|כדאמר|אמרי|מתקיף לה|משמיה ד)\s"
+# Names that fit more sages than Sefaria lists under them: bare "Rabbi Yitzchak" in the Bavli is
+# usually the amora (Nappacha), whom Sefaria files only under his full names.
+EXTRA_CANDIDATES = {"רבי יצחק": ["rabbi-yitzhak-nappaha"]}
+# Bare "Rabbi" is Rebbi (Yehudah haNasi) when a verb or the like follows, not another name.
+REBBI_NEXT = ("אומר", "אמר", "סבר", "קסבר", "היא", "הוא", "לטעמיה", "נמי", "מתיר", "אוסר", "מחייב",
+              "פוטר", "מכשיר", "פוסל", "מטמא", "מטהר", "אית", "לית", "דריש", "שנה", "תני", "ורבנן",
+              "ורבן", "בעי", "התיר", "גזר", "הורה", "מודה", "סבירא", "מאי")
 
 
 def name_index(sages):
@@ -278,6 +287,10 @@ def name_index(sages):
     for name, slug in FIXED.items():
         if slug in sages:
             idx[name] = {slug}
+    for name, extra in EXTRA_CANDIDATES.items():
+        idx.setdefault(name, set()).update(x for x in extra if x in sages)
+    if "rabi" in sages:
+        idx["רבי"] = {"rabi"}
     return {k: sorted(v) for k, v in idx.items()}
 
 
@@ -341,9 +354,10 @@ def matcher():
     if _MATCHER is None:
         sages = json.loads((OUT / "sages.json").read_text(encoding="utf-8"))
         idx = name_index(sages)
-        names = sorted((n for n in idx if n not in AFTER_AMAR), key=len, reverse=True)   # longest first
+        names = sorted((n for n in idx if n not in AFTER_AMAR and n != "רבי"), key=len, reverse=True)   # longest first
         pat = re.compile(r"(?<![א-ת])(?:ו|ד|כ|ל|ש|וד|דל|וכ)?(" + "|".join(map(re.escape, names)) + r")(?![א-ת])"
-                         r"|(?<![א-ת])" + AMAR + r"(" + "|".join(AFTER_AMAR) + r")(?![א-ת])")
+                         r"|(?<![א-ת])" + AMAR + r"(" + "|".join(AFTER_AMAR) + r")(?![א-ת])"
+                         r"|(?<![א-ת])(?:ו|ד|כ|ל|ש)?(רבי)(?= (?:" + "|".join(REBBI_NEXT) + r")(?![א-ת]))")
         _MATCHER = (sages, idx, pat)
     return _MATCHER
 
@@ -356,7 +370,7 @@ def find_names(segs):
         text = re.sub(r"[^\sא-ת״׳\"']", " ", strip_nikud(he))
         text = re.sub(r"\s+", " ", text)
         for m in pat.finditer(text):
-            name = m.group(1) or m.group(2)
+            name = m.group(1) or m.group(2) or m.group(3)
             f = found.setdefault(name, {"name": name, "candidates": idx[name], "lines": []})
             if label not in f["lines"]:
                 f["lines"].append(label)
@@ -441,6 +455,98 @@ def mentions(keys):
         print(f"  {key}: {len(rows)} names, {amb} ambiguous")
 
 
+def census():
+    """How many lines of the Bavli name each sage, by tractate, from the saved text (daf_text/).
+    Each amud is matched with its neighbours for context, so an ambiguous name (Rabbi Elazar)
+    gets the same era guess find_names gives on a daf. Lines, not occurrences: a sage named
+    twice in one line counts once."""
+    counts, guessed = {}, {}
+    for f in sorted(DAF_TEXT.glob("*.json")):
+        book = json.loads(f.read_text(encoding="utf-8"))
+        tractate = book.get("tractate") or f.stem
+        amudim = book["amudim"]
+        for amud, a in amudim.items():
+            segs = [(f"{amud}.{x['n']}", x["he"], "") for x in a.get("segments", [])]
+            if not segs:
+                continue
+            for r in find_names(segs):
+                c = counts.setdefault(r["pick"], {})
+                c[tractate] = c.get(tractate, 0) + r["count"]
+                if r["ambiguous"]:
+                    guessed[r["pick"]] = guessed.get(r["pick"], 0) + r["count"]
+    out = {slug: {"total": sum(t.values()), "guessed": guessed.get(slug, 0),
+                  "by_tractate": dict(sorted(t.items(), key=lambda kv: -kv[1]))}
+           for slug, t in counts.items()}
+    out = dict(sorted(out.items(), key=lambda kv: -kv[1]["total"]))
+    (OUT / "census_bavli.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{len(out)} sages named; wrote census_bavli.json")
+
+
+def mishnah_text():
+    """{tractate: [(label '1:1', hebrew)]} for the whole Mishnah (Torat Emet, Sefaria's default
+    Hebrew), cached in cache/mishnah/. Fetched once, a request per tractate."""
+    d = CACHE / "mishnah"
+    d.mkdir(parents=True, exist_ok=True)
+    idx_path = d / "_titles.json"
+    if not idx_path.exists():
+        titles = []
+        def walk(nodes):
+            for x in nodes:
+                t = x.get("title", "")
+                if t.startswith("Mishnah ") or t == "Pirkei Avot":
+                    titles.append(t)
+                walk(x.get("contents", []))
+        tree = get("https://www.sefaria.org/api/index/")
+        cat = next(x for x in tree if x.get("category") == "Mishnah")
+        walk(cat["contents"])
+        idx_path.write_text(json.dumps(titles, ensure_ascii=False), encoding="utf-8")
+    out = {}
+    for title in json.loads(idx_path.read_text(encoding="utf-8")):
+        f = d / f"{title}.json"
+        if not f.exists():
+            r = get("https://www.sefaria.org/api/v3/texts/" + urllib.parse.quote(title.replace(" ", "_")),
+                    version="hebrew")
+            f.write_text(json.dumps(r["versions"][0]["text"], ensure_ascii=False), encoding="utf-8")
+            time.sleep(0.3)
+        chapters = json.loads(f.read_text(encoding="utf-8"))
+        name = title.removeprefix("Mishnah ").replace("Pirkei Avot", "Avot")
+        out[name] = [(f"{c + 1}:{m + 1}", re.sub(r"<[^>]+>", "", t))
+                     for c, ch in enumerate(chapters) for m, t in enumerate(ch) if t]
+    return out
+
+
+def census_mishnah():
+    """Mishnayot naming each sage, by tractate (a mishnah naming a sage twice counts once).
+    Each chapter is matched as one passage, for context on ambiguous names."""
+    sages = matcher()[0]
+    counts, guessed = {}, {}
+    for tractate, items in mishnah_text().items():
+        chapters = {}
+        for label, he in items:
+            ch, m = label.split(":")
+            # find_names sorts by daf-style labels, so mishnah 3:4 goes in as "3a.4"
+            chapters.setdefault(ch, []).append((f"{ch}a.{m}", he, ""))
+        for segs in chapters.values():
+            for r in find_names(segs):
+                # No amora speaks in the Mishnah: שמואל there is the prophet, רבה a word. Take
+                # the most cited tanna the name could be, or drop it.
+                if sages[r["pick"]]["kind"] == "amora":
+                    tannaim = [c for c in r["candidates"] if sages[c]["kind"] in ("tanna", "zug")]
+                    if not tannaim:
+                        continue
+                    r["pick"] = max(tannaim, key=lambda c: sages[c]["num_sources"])
+                c = counts.setdefault(r["pick"], {})
+                c[tractate] = c.get(tractate, 0) + r["count"]
+                if r["ambiguous"]:
+                    guessed[r["pick"]] = guessed.get(r["pick"], 0) + r["count"]
+    out = {slug: {"total": sum(t.values()), "guessed": guessed.get(slug, 0),
+                  "by_tractate": dict(sorted(t.items(), key=lambda kv: -kv[1]))}
+           for slug, t in counts.items()}
+    out = dict(sorted(out.items(), key=lambda kv: -kv[1]["total"]))
+    (OUT / "census_mishnah.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{len(out)} sages named; wrote census_mishnah.json")
+
+
 # ---------- panel payload ----------
 
 def outline_rows(key, outline):
@@ -511,5 +617,9 @@ if __name__ == "__main__":
         build()
     elif cmd == "mentions":
         mentions(rest)
+    elif cmd == "census":
+        census()
+    elif cmd == "census-mishnah":
+        census_mishnah()
     else:
         sys.exit(__doc__)
