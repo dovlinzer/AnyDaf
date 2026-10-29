@@ -398,7 +398,8 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     });
     let rt; window.addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(() => !b.hidden && draw(false), 120); });
     // the box can be dragged to a new size (the corner handle); the sages spread out or close up to fit
-    if (window.ResizeObserver) { let lw = 0, ro; new ResizeObserver(() => { const w = b.querySelector('.sgx-graph').clientWidth; if (b.hidden || !w || w === lw) return; lw = w; clearTimeout(ro); ro = setTimeout(() => draw(false), 80); }).observe(b.querySelector('.sgx-graph')); }
+    if (window.ResizeObserver) { new ResizeObserver(() => { if (S.o.clay && !b.hidden && S.autoW != null && Math.abs(b.offsetWidth - (S.autoW || Math.min(920, innerWidth - 16))) > 3 && !S.fitting) S.manualW = true; }).observe(b);
+      let lw = 0, ro; new ResizeObserver(() => { const w = b.querySelector('.sgx-graph').clientWidth; if (b.hidden || !w || w === lw) return; lw = w; clearTimeout(ro); ro = setTimeout(() => draw(false), 80); }).observe(b.querySelector('.sgx-graph')); }
   }
   function close() { if (S.box) S.box.hidden = true; }
 
@@ -408,7 +409,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     S.box.querySelector('.sgx-info').textContent = t('loading');
     await load();
     if (!sage(id)) { S.box.querySelector('.sgx-info').textContent = ''; return; }
-    S.trail = []; S.cur = null; S.nodes.forEach(n => n.el.remove()); S.nodes.clear();
+    S.trail = []; S.cur = null; S.nodes.forEach(n => n.el.remove()); S.nodes.clear(); S.manualW = false;
     go(id);
     S.box.querySelector('.sgx-x').focus({ preventScroll: true });
   }
@@ -417,10 +418,19 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     if (S.cur && !fromTrail) S.trail.push(S.cur);
     if (S.trail.length > 8) S.trail = S.trail.slice(-8);
     S.cur = id; S.open = {};
+    fit(id);
     draw(true); info();
     S.box.querySelector('.sgx-scroll').scrollTo({ top: 0, behavior: 'smooth' });
   }
 
+  // Clay look: when a sage has many teachers or students the box widens to show them in one row, as far as the window
+  // allows; with few, it goes back to its usual width. Not once the reader has dragged the box to a size himself.
+  function fit(id) {
+    if (!S.o.clay || S.manualW || innerWidth < 700) return;
+    const n = Math.min(8, Math.max(people(id, ['teachers']).length, people(id, ['students']).length));
+    const w = n <= 3 ? 0 : Math.min(innerWidth - 16, 760 + 170 * (n - 3) + 32);
+    S.autoW = w; S.box.style.width = w ? w + 'px' : '';
+  }
   // ---------- graph ----------
   // Clay look (Mishnah): a clay picture with the name under it. The middle sage has his own picture; teachers and
   // students each have three, and a sage keeps the same one (from his name), moving on if it is already used in the row.
