@@ -2028,7 +2028,9 @@ Davidson's forms and the outlines' transliterations (*tefachim*, *kezayit*, *se'
 *zuz*...) are both listed. Corpus check of the Gemara rules (node over `daf_text/`): 5,616 of
 82,001 lines would get a marker. Davidson bolds and italicizes inside units ("a
 **quarter**-*log*"); `tail()` wraps the part whose tags nest. Back burner (TODO.md): whether
-terms, sages and measures should link from the Gemara when the outline is closed.
+terms, sages and measures should link from the Gemara when the outline is closed. Later (TODO.md): the ruler
+button becomes a "Reference Tools" button with this tool, the global glossary (in sections, per
+GLOSSARY.md) and a Shas-wide Sages chart.
 
 #### Global glossary — see `AnyDafWeb/GLOSSARY.md` (plan, 2026-10-18; author wants one glossary for Shas)
 

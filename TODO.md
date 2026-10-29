@@ -182,6 +182,12 @@ daf's terms link to master entries from the start. Not built; awaiting the autho
       button by the gear, U.S./Metric in Settings, `/reference`. Measures are marked in the
       outline, once per section; marking them in the Gemara is built but off
       (`MEASURES_IN_TEXT` in app.html).
+- [ ] **Reference Tools button (author, 2026-10-28; later).** The ruler button becomes a
+      "Reference Tools" button holding three tools: (1) this weights-and-measures Reference;
+      (2) the global glossary, browsed in sections, not A–Z (chapter glossaries in conceptual
+      groups, then broader groupings across chapters; see `AnyDafWeb/GLOSSARY.md`, Decisions);
+      (3) a comprehensive Sages chart for all of Shas. How to keep the Sages chart from being
+      overwhelming is still to be worked out (today's Sages window shows one daf's sages).
 - [ ] **Back burner (author, 2026-10-28): links in the text when the outline is closed.** With
       only the Gemara on screen, should glossary terms, sages and measures link from the Gemara
       text? Today they link only from the outline.
