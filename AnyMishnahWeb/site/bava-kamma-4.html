@@ -442,7 +442,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     pickView(id);
     fit(id);
     draw(true); views(); info();
-    S.box.querySelector('.sgx-scroll').scrollTo({ top: 0, behavior: 'smooth' });
+    if (S.view === 'fam') centreFamily(); else S.box.querySelector('.sgx-scroll').scrollTo({ top: 0, behavior: 'smooth' });
   }
 
   // Clay look: when a sage has many teachers or students the box widens to show them in one row, as far as the window
@@ -607,6 +607,17 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     g.style.height = (lay.height + 70) + 'px';
     svg.setAttribute('width', width); svg.setAttribute('height', lay.height + 70);
     commit(place, [], animate, { g, clay, width, nodeW, cw: nodeW * 1.5, x: cx });
+    centreFamily();
+  }
+  // a long tree opens with the chosen sage in the middle of what is shown (up and down, and sideways when it is wide)
+  function centreFamily() {
+    const go = () => {
+      const n = S.nodes.get(S.cur), sc = S.box.querySelector('.sgx-scroll'); if (!n || S.view !== 'fam') return;
+      const r = n.el.getBoundingClientRect(), b = sc.getBoundingClientRect();
+      sc.scrollTop += (r.top + r.height / 2) - (b.top + b.height * 0.42);   // a little above the middle: his name and relatives below him show too
+      sc.scrollLeft += (r.left + r.width / 2) - (b.left + b.width / 2);
+    };
+    requestAnimationFrame(go); setTimeout(go, 120); setTimeout(go, 700);
   }
   function draw(animate) {
     if (S.view === 'fam') return drawFamily(animate);
