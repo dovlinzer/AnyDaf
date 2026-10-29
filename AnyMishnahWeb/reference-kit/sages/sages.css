@@ -178,3 +178,4 @@
 .sgx-lines path.s,.sgx-lk.s path{stroke:var(--role-s)}.sgx-lines marker.s path{fill:var(--role-s)}
 .sgx-lk path{fill:none;stroke-width:1.6}
 .sgx-graph:not(.clay) .sgx-lines path.t,.sgx-graph:not(.clay) .sgx-lines path.s{stroke-width:1.8;opacity:.85}
+.sgx-trail .sgx-backbtn{color:#fff;opacity:1;text-decoration:none;font-size:14px;border:1px solid #fff9;border-radius:12px;padding:1px 10px}.sgx-trail .sgx-backbtn:hover{background:#fff2}

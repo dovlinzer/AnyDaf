@@ -321,6 +321,7 @@
   }
   // generations in rows, parents above children; each row ordered under its parents, a spouse next to her partner
   function famLayout(fg, nodeW, rowH, width) {
+    const top = S.o.clay ? 100 : 62;   // the top row's pictures must clear the two pills above
     const slot = nodeW + 24, all = [...fg.nodes.values()], gens = [...new Set(all.map(n => n.gen))].sort((a, b) => a - b);
     const par = n => fg.edges.filter(e => e.b === n.key && e.type === 'pc').map(e => fg.nodes.get(e.a));
     const mate = n => { const e = fg.edges.find(e => e.type === 'sp' && (e.a === n.key || e.b === n.key)); return e && fg.nodes.get(e.a === n.key ? e.b : e.a); };
@@ -340,8 +341,8 @@
     });
     const minX = Math.min(...all.map(n => n.x)), maxX = Math.max(...all.map(n => n.x));
     const need = maxX - minX + slot + 16, off = Math.max(0, (width - need) / 2);
-    all.forEach(n => { n.px = n.x - minX + slot / 2 + 8 + off; n.py = 62 + gens.indexOf(n.gen) * rowH; });
-    return { need, height: 62 + (gens.length - 1) * rowH + rowH * 0.6, gens };
+    all.forEach(n => { n.px = n.x - minX + slot / 2 + 8 + off; n.py = top + gens.indexOf(n.gen) * rowH; });
+    return { need, height: top + (gens.length - 1) * rowH + rowH * 0.6, gens };
   }
   const famOk = id => famGraph(id).nodes.size > 1;
   const tsOk = id => ['teachers', 'students', 'colleagues'].some(r => people(id, [r]).some(p => p.id));
@@ -440,6 +441,7 @@
     const tY = band('teachers', rows.teachers, cap);
     if (tY) y += clay ? 98 : rows.famUp.length ? 8 : phone ? 40 : 62;
     if (rows.famUp.length) { band('famUp', rows.famUp, phone ? 3 : 5); y += 20; }
+    if (clay && !tY) y = Math.max(y, 112);   // no teachers above: his picture and name still need room under the pills
     const cY = y;
     place.push({ key: id, id, name: fullName(x), x: width / 2, y: cY, centre: true });
     // colleagues on both sides of the centre, nearest first
@@ -592,8 +594,9 @@
   }
   function info() {
     const x = sage(S.cur), box = S.box.querySelector('.sgx-info');
-    S.box.querySelector('.sgx-trail').innerHTML = S.trail.map((id, i) =>
-      `<button type="button" data-back="${i}">${esc(shortName(sage(id)))}</button>`).join('<span>›</span>');
+    S.box.querySelector('.sgx-trail').innerHTML = S.o.clay
+      ? (S.trail.length ? `<button type="button" class="sgx-backbtn" data-back="${S.trail.length - 1}">${HE() ? '›' : '‹'} ${esc(t('back'))}: ${esc(shortName(sage(S.trail[S.trail.length - 1])))}</button>` : '')   // one clear Back button (the earlier names were blue on the blue bar)
+      : S.trail.map((id, i) => `<button type="button" data-back="${i}">${esc(shortName(sage(id)))}</button>`).join('<span>›</span>');
     const n = countOf(x), q = (x.quoted || {})[S.o.corpus] || {};
     const top = Object.entries(q).slice(0, 5).sort(byTractate);   // the five he is named in most, in the order of the books
     const name = S.o.tractateName || (s => s);
