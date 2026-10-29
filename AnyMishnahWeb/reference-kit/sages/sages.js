@@ -13,7 +13,7 @@
    (loaded when a reader opens "where quoted"). */
 (function () {
   const S = { o: { base: 'sages/', corpus: 'bavli', lang: 'en' }, data: null, quoted: null, trail: [], cur: null,
-              open: {}, nodes: new Map(), box: null, faceOf: new Map() };
+              open: {}, nodes: new Map(), box: null, faceOf: new Map(), view: 'ts', famEdges: [] };
   const HE = () => S.o.lang === 'he';
   const W = {
     en: { title: 'Sages', rel: 'Relationships', back: 'Back', close: 'Close', teachers: 'Teachers', students: 'Students',
@@ -27,7 +27,7 @@
           sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
           keyT: 'teacher → student', keyC: 'colleagues', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
           keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', notes: 'Notes and sources',
-          wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of', moreAbout: 'More about him',
+          wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of', moreAbout: 'More about him', vTS: 'Teachers & students', vFam: 'Family',
           alts: 'The sources give more than one name; each is a later identification or tradition.', est: 'a rough count: the name fits more than one sage' },
     he: { title: 'חכמים', rel: 'קשרים', back: 'חזרה', close: 'סגירה', teachers: 'רבותיו', students: 'תלמידיו',
           colleagues: 'בני דורו', family: 'משפחה', more: 'ועוד {0}', fewer: 'פחות', tanna: 'תנא', amora: 'אמורא',
@@ -39,7 +39,7 @@
           stories: 'סיפורים עליו', sefaria: 'ספריא', wiki: 'ויקיפדיה', approx: 'התאריכים משוערים, לפי הדור.',
           loading: 'טוען…', keyT: 'רב ← תלמיד', keyC: 'בני דורו', keyTa: 'תנא', keyEY: 'אמורא, ארץ ישראל',
           keyBV: 'אמורא, בבל', keyZ: 'זוגות', keyF: 'משפחה', notes: 'הערות ומקורות',
-          wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של', moreAbout: 'עוד עליו',
+          wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של', moreAbout: 'עוד עליו', vTS: 'רבותיו ותלמידיו', vFam: 'משפחה',
           alts: 'במקורות יותר משם אחד; כל אחד מהם זיהוי או מסורת מאוחרים.', est: 'מספר משוער: השם מתאים ליותר מחכם אחד' },
   };
   const t = (k, ...a) => (W[S.o.lang] || W.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
@@ -147,14 +147,14 @@
     b.className = 'sgx'; b.hidden = true; b.setAttribute('role', 'dialog'); b.setAttribute('aria-label', t('rel'));
     b.innerHTML = `<header class="sgx-bar"><h2>${t('rel')}</h2><nav class="sgx-trail" aria-label="${t('back')}"></nav>
       <button type="button" class="sgx-x" aria-label="${t('close')}">×</button></header>
-      <div class="sgx-scroll"><div class="sgx-graph"><svg class="sgx-lines" aria-hidden="true"><defs>
+      <div class="sgx-scroll"><div class="sgx-views" role="group" hidden><button type="button" data-view="ts"></button><button type="button" data-view="fam"></button></div><div class="sgx-graph"><svg class="sgx-lines" aria-hidden="true"><defs>
       <marker id="sgxArrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto">
       <path d="M0,0 L10,5 L0,10 z" fill="currentColor"/></marker></defs></svg></div>
       <p class="sgx-key"><span><i class="sw zug"></i>${t('keyZ')}</span><span><i class="sw tanna"></i>${t('keyTa')}</span>
       <span><i class="sw ey"></i>${t('keyEY')}</span><span><i class="sw bavel"></i>${t('keyBV')}</span>
       <span><svg width="30" height="12"><path d="M1,6 L15,6 L29,6" fill="none" stroke="currentColor" stroke-width="1.6" marker-mid="url(#sgxArrow)"/></svg>${t('keyT')}</span>
       <span><svg width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" stroke="currentColor" stroke-width="1.6" stroke-dasharray="3 3"/></svg>${t('keyC')}</span>
-      <span><svg width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" class="famkey" stroke-width="2"/></svg>${t('keyF')}</span></p>
+      </p>
       <div class="sgx-info" aria-live="polite"></div></div>`;
     if (HE()) b.dir = 'rtl';
     document.body.appendChild(b);
@@ -162,6 +162,8 @@
     b.querySelector('.sgx-x').onclick = close;
     b.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
     b.addEventListener('click', e => {
+      const vb = e.target.closest('[data-view]');
+      if (vb) { S.view = vb.dataset.view; fit(S.cur); draw(true); views(); return; }
       const nb = e.target.closest('.sgx-note');
       if (nb) { showNote(nb); return; }
       if (e.target.closest('.sgx-popx') || !e.target.closest('.sgx-pop')) S.box.querySelector('.sgx-pop')?.remove();
@@ -187,7 +189,7 @@
     S.box.querySelector('.sgx-info').textContent = t('loading');
     await load();
     if (!sage(id)) { S.box.querySelector('.sgx-info').textContent = ''; return; }
-    S.trail = []; S.cur = null; S.nodes.forEach(n => n.el.remove()); S.nodes.clear(); S.manualW = false;
+    S.trail = []; S.cur = null; S.nodes.forEach(n => n.el.remove()); S.nodes.clear(); S.manualW = false; S.view = 'ts';
     go(id);
     S.box.querySelector('.sgx-x').focus({ preventScroll: true });
   }
@@ -196,8 +198,9 @@
     if (S.cur && !fromTrail) S.trail.push(S.cur);
     if (S.trail.length > 8) S.trail = S.trail.slice(-8);
     S.cur = id; S.open = {};
+    pickView(id);
     fit(id);
-    draw(true); info();
+    draw(true); views(); info();
     S.box.querySelector('.sgx-scroll').scrollTo({ top: 0, behavior: 'smooth' });
   }
 
@@ -205,8 +208,8 @@
   // allows; with few, it goes back to its usual width. Not once the reader has dragged the box to a size himself.
   function fit(id) {
     if (!S.o.clay || S.manualW || innerWidth < 700) return;
-    const n = Math.min(8, Math.max(people(id, ['teachers']).length, people(id, ['students']).length));
-    const w = n <= 3 ? 0 : Math.min(innerWidth - 16, 760 + 170 * (n - 3) + 32);
+    let n = Math.min(8, Math.max(people(id, ['teachers']).length, people(id, ['students']).length)), w = n <= 3 ? 0 : Math.min(innerWidth - 16, 760 + 170 * (n - 3) + 32);
+    if (S.view === 'fam') { const fg = famGraph(id), lay = famLayout(fg, 112, 138, 0); w = lay.need > 700 ? Math.min(innerWidth - 16, lay.need + 40) : 0; }
     S.autoW = w; S.box.style.width = w ? w + 'px' : '';
   }
   // ---------- graph ----------
@@ -247,7 +250,118 @@
     const c = WOMEN.includes(n) ? 'gold' : colour;
     return `<span class="sgx-ring"><img class="sgx-fig" src="${esc(S.o.base)}fig/${FACES[n % FACES.length]}-${c}.png" alt="" draggable="false" onerror="this.onerror=null;this.src='${SILHOUETTE}'"></span>`;
   }
+
+  // ---------- the family tree ----------
+  // The second view of the box (a pill above the chart): the sage in his family, up to four generations either way.
+  // Parents and children are joined by lines; a spouse stands beside the person; a link we only know in general
+  // (a grandfather, a son-in-law) is a dotted line.
+  const REL_EN = { up: ['Parent', 'Father', 'Mother'], 'up2': ['Grandparent', 'Grandfather', 'Grandmother'], 'up3': ['Great-grandparent', 'Great-grandfather', 'Great-grandmother'],
+                   'up4': ['Great-great-grandparent', 'Great-great-grandfather', 'Great-great-grandmother'],
+                   down: ['Child', 'Son', 'Daughter'], 'down2': ['Grandchild', 'Grandson', 'Granddaughter'], 'down3': ['Great-grandchild', 'Great-grandson', 'Great-granddaughter'],
+                   'down4': ['Great-great-grandchild', 'Great-great-grandson', 'Great-great-granddaughter'] };
+  const REL_HE = { up: ['הורה', 'אביו', 'אמו'], up2: ['סב או סבתא', 'סבו', 'סבתו'], up3: ['אבי סבו', 'אבי סבו', 'אם סבתו'], up4: ['אבות אבותיו', 'אבות אבותיו', 'אבות אבותיו'],
+                   down: ['ילד', 'בנו', 'בתו'], down2: ['נכד', 'נכדו', 'נכדתו'], down3: ['נין', 'נינו', 'נינתו'], down4: ['נין', 'נינו', 'נינתו'] };
+  function relLabel(n, centre) {
+    const d = n.gen; if (n.centre) return '';
+    const sx = n.f ? 2 : 1, tab = HE() ? REL_HE : REL_EN;
+    if (n.inlaw) return d < 0 ? famWord('in_laws', n.f, centre.f) : d > 0 ? famWord('sons_in_law', n.f, centre.f) : '';
+    if (d === 0) return n.sib ? famWord('siblings', n.f, centre.f) : n.spouse ? famWord('spouse', n.f, centre.f) : '';
+    const k = (d < 0 ? 'up' : 'down') + (Math.abs(d) > 1 ? Math.min(4, Math.abs(d)) : '');
+    return (tab[k] || tab[d < 0 ? 'up4' : 'down4'])[sx];
+  }
+  const MAXGEN = 4;
+  function famGraph(id) {
+    const nodes = new Map(), edges = [];
+    const S0 = sage(id);
+    const C = { key: id, id, name: fullName(S0), gen: 0, centre: true, f: S0.f }; nodes.set(id, C);
+    const mk = (l, gen, extra) => {
+      const y = l.id && sage(l.id);
+      if (!y && (!l.name || l.alts)) return null;                      // unnamed ("his daughter"), or several proposed names: the info box only
+      const k = y ? l.id : 'name:' + l.name;
+      if (!nodes.has(k)) nodes.set(k, { key: k, id: y ? l.id : null, name: y ? shortName(y) : l.name, gen, f: y ? y.f : l.f, ...extra });
+      return nodes.get(k);
+    };
+    const edge = (a, b, type) => { if (a && b && a.key !== b.key && !edges.some(e => e.a === a.key && e.b === b.key && e.type === type)) edges.push({ a: a.key, b: b.key, type }); };
+    const done = new Set();
+    function expand(pn, up, down, depth) {
+      const tag = pn.key + (up ? 'u' : '') + (down ? 'd' : ''); if (!pn.id || done.has(tag)) return; done.add(tag);
+      const L = sage(pn.id).links, each = (rels, fn) => rels.forEach(r => (L[r] || []).forEach(l => fn(l, r)));
+      if (up && depth < MAXGEN) {
+        each(['father', 'mother', 'parents'], l => { const q = mk(l, pn.gen - 1); if (q) { edge(q, pn, 'pc'); expand(q, true, false, depth + 1); } });
+        each(['grandparents'], l => { const q = mk(l, pn.gen - 2); if (q) edge(q, pn, 'far'); });
+        each(['in_laws'], l => { const q = mk(l, pn.gen - 1, { inlaw: true }); if (q) edge(q, pn, 'far'); });
+      }
+      if (down && depth < MAXGEN) {
+        each(['children'], l => { const q = mk(l, pn.gen + 1); if (q) { edge(pn, q, 'pc'); expand(q, false, true, depth + 1); } });
+        each(['sons_in_law'], l => { const q = mk(l, pn.gen + 1, { inlaw: true }); if (q) edge(pn, q, 'far'); });
+        each(['grandchildren'], l => { const q = mk(l, pn.gen + 2); if (q) edge(pn, q, 'far'); });
+      }
+      each(['spouse'], l => { const q = mk(l, pn.gen, { spouse: pn.centre }); if (q) edge(pn, q, 'sp'); });
+    }
+    expand(C, true, true, 0);
+    // his brothers and sisters: the other children of his parents
+    [...nodes.values()].filter(n => n.gen === -1 && n.id).forEach(par => (sage(par.id).links.children || []).forEach(l => {
+      if (l.id === id) return; const q = mk(l, 0, { sib: true }); if (q) edge(par, q, 'pc'); }));
+    return { nodes, edges };
+  }
+  // generations in rows, parents above children; each row ordered under its parents, a spouse next to her partner
+  function famLayout(fg, nodeW, rowH, width) {
+    const slot = nodeW + 24, all = [...fg.nodes.values()], gens = [...new Set(all.map(n => n.gen))].sort((a, b) => a - b);
+    const par = n => fg.edges.filter(e => e.b === n.key && e.type === 'pc').map(e => fg.nodes.get(e.a));
+    const mate = n => { const e = fg.edges.find(e => e.type === 'sp' && (e.a === n.key || e.b === n.key)); return e && fg.nodes.get(e.a === n.key ? e.b : e.a); };
+    gens.forEach(gn => {
+      let row = all.filter(n => n.gen === gn);
+      row.forEach(n => { const ps = par(n).filter(q => q.x != null); n.want = ps.length ? ps.reduce((a, q) => a + q.x, 0) / ps.length : null; });
+      row.forEach(n => { if (n.want == null) { const m = mate(n); if (m && m.want != null) n.want = m.want + 0.01; } });
+      row.sort((a, b) => (a.want ?? 1e9) - (b.want ?? 1e9));
+      const out = [];   // a spouse right after her partner
+      row.forEach(n => { if (out.includes(n)) return; out.push(n); const m = mate(n); if (m && m.gen === gn && !out.includes(m)) out.push(m); });
+      let prevX = -1e9;
+      out.forEach((n, i) => { const w = n.want != null ? n.want : (i ? prevX + slot : 0); n.x = Math.max(w, prevX + slot); prevX = n.x; });
+      // centre the row on what its members wanted
+      const wants = out.filter(n => n.want != null);
+      if (wants.length) { const sh = wants.reduce((a, n) => a + (n.want - n.x), 0) / wants.length; if (sh > 0) out.forEach(n => n.x += sh); }
+      else { const m = (out[0].x + out[out.length - 1].x) / 2; out.forEach(n => n.x -= m); }
+    });
+    const minX = Math.min(...all.map(n => n.x)), maxX = Math.max(...all.map(n => n.x));
+    const need = maxX - minX + slot + 16, off = Math.max(0, (width - need) / 2);
+    all.forEach(n => { n.px = n.x - minX + slot / 2 + 8 + off; n.py = 62 + gens.indexOf(n.gen) * rowH; });
+    return { need, height: 62 + (gens.length - 1) * rowH + rowH * 0.6, gens };
+  }
+  const famOk = id => famGraph(id).nodes.size > 1;
+  const tsOk = id => ['teachers', 'students', 'colleagues'].some(r => people(id, [r]).some(p => p.id));
+  function pickView(id) {
+    const hasF = famOk(id), hasT = tsOk(id);
+    if (S.view === 'fam' && !hasF) S.view = 'ts';
+    if (S.view === 'ts' && !hasT && hasF) S.view = 'fam';
+  }
+  function views() {
+    const box = S.box.querySelector('.sgx-views'), hasF = famOk(S.cur), hasT = tsOk(S.cur);
+    box.hidden = !(hasF && hasT);   // one view only: nothing to choose
+    const bs = box.querySelectorAll('button'); bs[0].textContent = t('vTS'); bs[1].textContent = t('vFam');
+    bs.forEach(b => b.setAttribute('aria-pressed', String(b.dataset.view === S.view)));
+  }
+  function drawFamily(animate) {
+    const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg'), clay = !!S.o.clay;
+    S.box.dataset.view = 'fam'; g.classList.toggle('clay', clay); g.classList.add('famview');
+    const sc = S.box.querySelector('.sgx-scroll'), avail = sc.clientWidth - 2 || 600, phone = avail < 560;
+    const nodeW = clay ? (phone ? 92 : 112) : phone ? 88 : 118, rowH = clay ? (phone ? 128 : 138) : 74;
+    const fg = famGraph(S.cur), lay = famLayout(fg, nodeW, rowH, avail), centre = fg.nodes.get(S.cur), cx = sage(S.cur);
+    const width = Math.max(avail, lay.need);
+    g.style.width = width + 'px';
+    const X = x => HE() ? width - x : x;
+    const place = [...fg.nodes.values()].map(n => ({
+      key: n.key, id: n.id, name: n.name, x: X(n.px), y: n.py, centre: n.centre, f: n.f, famNode: true, maxW: nodeW,
+      rel: n.gen < 0 ? 'teachers' : n.gen > 0 ? 'students' : 'centre',       // older: blue, younger: green, same generation: gold
+      colour: n.gen < 0 ? 'blue' : n.gen > 0 ? 'green' : 'gold', label: relLabel(n, centre) }));
+    S.famEdges = fg.edges;
+    g.style.height = (lay.height + 70) + 'px';
+    svg.setAttribute('width', width); svg.setAttribute('height', lay.height + 70);
+    commit(place, [], animate, { g, clay, width, nodeW, cw: nodeW * 1.5, x: cx });
+  }
   function draw(animate) {
+    if (S.view === 'fam') return drawFamily(animate);
+    S.box.dataset.view = 'ts'; S.box.querySelector('.sgx-graph').style.width = ''; S.box.querySelector('.sgx-graph').classList.remove('famview');
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg');
     const clay = !!S.o.clay, width = g.clientWidth || 600, phone = width < 560, cap = clay ? (phone ? 3 : 3 + Math.floor(Math.max(0, width - 760) / 170)) : phone ? 3 : 6, nodeW = clay ? (phone ? 96 : 120) : phone ? 92 : 124;
     g.classList.toggle('clay', clay);
@@ -273,7 +387,8 @@
     const famRow = rels => row(rels, p => !p.id || rels.includes(famOf[p.id]));
     rows.famUp = famRow(FAM_UP); rows.famDown = famRow(FAMILY.filter(r => !FAM_UP.includes(r)));
     rows.colleagues = row(['colleagues']);
-    if (clay) { rows.famUp = []; rows.famDown = []; rows.colleagues = []; }   // clay: teachers and students only
+    rows.famUp = []; rows.famDown = [];   // family has its own view (the pill above the chart); here it is only the label under a name
+    if (clay) rows.colleagues = [];   // clay: teachers and students only
     [...rows.teachers, ...rows.students].forEach(p => { if (p.id && famOf[p.id]) p.famRel = famOf[p.id]; });
     const place = [];   // {key, id, name, x, y, cls, label}
     const more = [];    // "+N more" buttons
@@ -324,6 +439,11 @@
     g.style.height = (y + (sY ? 4 : 20)) + 'px';
     svg.setAttribute('width', width); svg.setAttribute('height', y + 20);
 
+    commit(place, more, animate, { g, clay, width, nodeW, cw, x });
+  }
+  // put the nodes on screen (reusing those already there, so they glide), and the "+N more" buttons, and the lines
+  function commit(place, more, animate, ctx) {
+    const { g, clay, width, nodeW, cw, x } = ctx;
     if (clay) assignFaces(place);
     // nodes: reuse what is already on screen so it glides
     const want = new Map(place.map(p => [p.id || p.key, p]));
@@ -342,11 +462,11 @@
       }
       const sx = p.centre ? x : p.id ? sage(p.id) : null;
       const fam = p.rel && FAMILY.includes(p.rel), famLabel = fam ? p.rel : p.famRel;
-      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${clay ? ' r-' + (p.centre ? 'centre' : p.rel) : ''}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam ? ' fam' : ''}`;
-      el.innerHTML = (clay ? figure(p.fig, p.centre ? 'gold' : p.rel === 'teachers' ? 'blue' : 'green') : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
+      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${clay ? ' r-' + (p.centre ? 'centre' : p.rel) : ''}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam || p.famNode ? ' fam' : ''}`;
+      el.innerHTML = (clay ? figure(p.fig, p.centre ? 'gold' : p.colour || (p.rel === 'teachers' ? 'blue' : 'green')) : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${p.label ? `<small>${esc(p.label)}</small>` : famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
       if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
-      el.style.maxWidth = (p.centre ? (clay ? Math.min(width * 0.7, 220) : cw) : Math.min(nodeW, p.maxW || nodeW)) + 'px';
+      el.style.maxWidth = (p.centre ? (clay ? Math.min(width * 0.7, 220) : cw || nodeW * 1.5) : Math.min(nodeW, p.maxW || nodeW)) + 'px';
       requestAnimationFrame(() => {
         el.style.opacity = '1';
         el.style.transform = `translate(${p.x}px,${p.y}px) translate(-50%,-50%)`;
@@ -368,11 +488,25 @@
     const tick = () => { lines(); if (performance.now() - t0 < 520) requestAnimationFrame(tick); };
     requestAnimationFrame(tick);
   }
+  function famLines(svg, gb) {
+    const box = el => { const r = el.getBoundingClientRect(); return { x: r.left - gb.left + r.width / 2, y: r.top - gb.top + r.height / 2, w: r.width / 2, h: r.height / 2, t: r.top - gb.top, b: r.bottom - gb.top, l: r.left - gb.left, r: r.right - gb.left }; };
+    let out = '';
+    for (const e of S.famEdges) {
+      const A = S.nodes.get(e.a), B = S.nodes.get(e.b); if (!A || !B) continue;
+      const a = box(A.el), b = box(B.el);
+      if (e.type === 'sp') { const lft = a.x < b.x ? a : b, rgt = a.x < b.x ? b : a; out += `<line class="fam sp" x1="${lft.r}" y1="${lft.y}" x2="${rgt.l}" y2="${rgt.y}"/>`; }
+      else if (e.type === 'far') out += `<line class="dot" x1="${a.x}" y1="${a.b}" x2="${b.x}" y2="${b.t}"/>`;
+      else { const m = (a.b + b.t) / 2; out += `<path class="tree" d="M${a.x},${a.b} V${m} H${b.x} V${b.t}"/>`; }
+    }
+    const defs = svg.querySelector('defs').outerHTML;
+    svg.innerHTML = defs + out;
+  }
   function lines() {
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg'), gb = g.getBoundingClientRect();
     const c = S.nodes.get(S.cur);
     if (!c) return;
     const box = el => { const r = el.getBoundingClientRect(); return { x: r.left - gb.left + r.width / 2, y: r.top - gb.top + r.height / 2, w: r.width / 2, h: r.height / 2 }; };
+    if (S.view === 'fam') return famLines(svg, gb);
     const C = box(c.el);
     let out = '';
     for (const [k, n] of S.nodes) {

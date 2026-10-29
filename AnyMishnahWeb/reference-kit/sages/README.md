@@ -39,3 +39,6 @@ page `/sages` (`sages_page()`).
 Years are approximate, from the generation (`GEN_YEARS` in `sages_kit.py`, a draft for the author),
 unless Wikipedia gives a birth or death year. Only facts are taken from Wikipedia, never its
 wording (CC BY-SA); bios are Sefaria's.
+
+## Two views (2026-10-29)
+The relationship box has a pill above the chart: **Teachers & students** (the old chart, now without family nodes; a family relation is only a small label under a name, e.g. "Son") and **Family**, a tree up to four generations either way, built from the `links` family relations (father, mother, parents, grandparents, children, grandchildren, spouse, in-laws, sons-in-law; brothers and sisters are the other children of his parents). Parents and children are joined by lines, a spouse stands beside the person, and a relation known only in general (a grandfather, a son-in-law) is a dotted line. The pill shows only when the sage has both; a sage with only one view opens in it. Same code for iTalmud and Illustrated Mishna. Family data is sparse (23 small family groups; the longest is R. Yehudah HaNasi's, five generations): improve it in `kit_overrides.json`.

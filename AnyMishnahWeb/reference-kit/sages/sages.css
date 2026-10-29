@@ -139,3 +139,11 @@
 .sgx-lines{z-index:0}.sgx-n,.sgx-more{z-index:1}
 .sgx-graph.clay .sgx-nm{background:var(--card,#fff);padding:0 4px;border-radius:5px}
 .sgx-graph.clay .sgx-ring{background:radial-gradient(ellipse at 50% 70%,color-mix(in srgb,var(--role,#999) 55%,transparent),color-mix(in srgb,var(--role,#999) 12%,transparent) 70%,transparent),var(--card,#fff)}
+/* the two views of the box: teachers and students, or the family tree */
+.sgx-views{display:flex;justify-content:center;gap:6px;margin:6px 0 0}.sgx-views[hidden]{display:none}
+.sgx-views button{font:inherit;font-size:13.5px;border:1.5px solid var(--blue,#1b3a8a);background:var(--card,#fff);color:var(--blue,#1b3a8a);border-radius:14px;padding:2px 14px;cursor:pointer}
+.sgx-views button[aria-pressed=true]{background:var(--blue,#1b3a8a);color:#fff}
+.sgx-scroll{overflow-x:auto}
+.sgx-lines path.tree{stroke:var(--c-fam);stroke-width:2;opacity:.85}
+.sgx[data-view=fam] .sgx-key{display:none}
+.sgx-graph.famview.clay .sgx-fig{height:64px}.sgx-graph.famview.clay .sgx-n.centre .sgx-fig{height:92px}
