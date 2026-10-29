@@ -110,11 +110,11 @@
     b.innerHTML = `<header class="sgx-bar"><h2>${t('rel')}</h2><nav class="sgx-trail" aria-label="${t('back')}"></nav>
       <button type="button" class="sgx-x" aria-label="${t('close')}">×</button></header>
       <div class="sgx-scroll"><div class="sgx-graph"><svg class="sgx-lines" aria-hidden="true"><defs>
-      <marker id="sgxArrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <marker id="sgxArrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto">
       <path d="M0,0 L10,5 L0,10 z" fill="currentColor"/></marker></defs></svg></div>
-      <p class="sgx-key"><span><i class="sw tanna"></i>${t('keyTa')}</span><span><i class="sw ey"></i>${t('keyEY')}</span>
-      <span><i class="sw bavel"></i>${t('keyBV')}</span><span><i class="sw zug"></i>${t('keyZ')}</span>
-      <span><svg width="26" height="10"><line x1="1" y1="5" x2="22" y2="5" stroke="currentColor" stroke-width="1.6" marker-end="url(#sgxArrow)"/></svg>${t('keyT')}</span>
+      <p class="sgx-key"><span><i class="sw zug"></i>${t('keyZ')}</span><span><i class="sw tanna"></i>${t('keyTa')}</span>
+      <span><i class="sw ey"></i>${t('keyEY')}</span><span><i class="sw bavel"></i>${t('keyBV')}</span>
+      <span><svg width="30" height="12"><path d="M1,6 L15,6 L29,6" fill="none" stroke="currentColor" stroke-width="1.6" marker-mid="url(#sgxArrow)"/></svg>${t('keyT')}</span>
       <span><svg width="26" height="10"><line x1="1" y1="5" x2="25" y2="5" stroke="currentColor" stroke-width="1.6" stroke-dasharray="3 3"/></svg>${t('keyC')}</span></p>
       <div class="sgx-info" aria-live="polite"></div></div>`;
     if (HE()) b.dir = 'rtl';
@@ -175,13 +175,14 @@
     let y = 34;
     function band(name, list, perLine, all) {
       if (!list.length) return null;
-      const open = all || S.open[name], shown = open ? list : list.slice(0, perLine);
+      // a "+1 more" button would take the space of the one it hides: show it instead
+      const open = all || S.open[name] || list.length === perLine + 1, shown = open ? list : list.slice(0, perLine);
       const extra = list.length - shown.length;
       const lines = [];
       for (let i = 0; i < shown.length; i += perLine) lines.push(shown.slice(i, i + perLine));
       const ys = [];
       lines.forEach((ln, li) => {
-        const btn = !all && li === lines.length - 1 && (extra > 0 || (open && list.length > perLine));
+        const btn = !all && li === lines.length - 1 && (extra > 0 || (S.open[name] && list.length > perLine + 1));
         const n = ln.length + (btn ? 1 : 0);
         ln.forEach((p, i) => place.push({ ...p, x: X((i + 1) * width / (n + 1)), y, maxW: width / (n + 1) - 10 }));
         if (btn)
@@ -204,7 +205,8 @@
     });
     y += phone ? 66 : 58;
     const restC = cols.slice(side * 2);
-    if (restC.length) {
+    if (restC.length === 1) band('colleagues_more', restC, cap, true);   // one more: just show him
+    else if (restC.length) {
       if (S.open.colleagues) band('colleagues_more', restC.map(p => ({ ...p })), cap, true);
       more.push({ row: 'colleagues', x: X(width - slot / 2), y: cY + 32, small: true,
                   label: S.open.colleagues ? t('fewer') : t('more', restC.length) });
@@ -268,8 +270,11 @@
     for (const [k, n] of S.nodes) {
       if (k === S.cur) continue;
       const P = box(n.el), rel = n.p.rel;
-      if (rel === 'teachers') out += `<line x1="${P.x}" y1="${P.y + P.h}" x2="${C.x}" y2="${C.y - C.h - 2}" marker-end="url(#sgxArrow)"/>`;
-      else if (rel === 'students') out += `<line x1="${C.x}" y1="${C.y + C.h}" x2="${P.x}" y2="${P.y - P.h - 2}" marker-end="url(#sgxArrow)"/>`;
+      // an arrowhead halfway along each line, pointing from teacher to student, so the direction
+      // reads even where many lines meet at the centre
+      const arrow = (x1, y1, x2, y2) => `<path d="M${x1},${y1} L${(x1 + x2) / 2},${(y1 + y2) / 2} L${x2},${y2}" marker-mid="url(#sgxArrow)"/>`;
+      if (rel === 'teachers') out += arrow(P.x, P.y + P.h, C.x, C.y - C.h);
+      else if (rel === 'students') out += arrow(C.x, C.y + C.h, P.x, P.y - P.h);
       else if (rel === 'colleagues') {
         const dir = P.x < C.x ? 1 : -1;
         out += `<line class="dot" x1="${P.x + dir * P.w}" y1="${P.y}" x2="${C.x - dir * C.w}" y2="${C.y}"/>`;
@@ -390,13 +395,13 @@
         const k = row + ':' + c, ids = (by[k] || []).filter(id => C.filter === 'all' || (C.filter === 'tanna' ? sage(id).kind !== 'amora' : sage(id).kind === 'amora'));
         const open = C.open.has(k);
         const major = ids.filter(id => tierOf(sage(id)) <= 2);
-        const shown = open ? major : major.slice(0, first);
+        const shown = open || major.length === first + 1 ? major : major.slice(0, first);
         const extra = ids.filter(id => C.show.has(id) && !shown.includes(id));
         const list = shown.concat(extra);
         const more = major.length - shown.length;
         h += `<div class="sgc-cell${row === 0 && tall(c) ? ' tall' : ''}" data-k="${k}">${list.map(id => { const x = sage(id);
           return `<button type="button" class="sgc-c g-${group(x)} t${tierOf(x)}${(x.region || '').includes('/') ? ' moved' : ''}${C.hit === id ? ' hit' : ''}" data-go="${esc(id)}" title="${esc(fullName(x))} · ${esc(meta(x))}">${esc(shortName(x))}</button>`; }).join('')}
-          ${more > 0 ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('more', more)}</button>` : open && major.length > first ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('fewer')}</button>` : ''}</div>`;
+          ${more > 0 ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('more', more)}</button>` : open && major.length > first + 1 ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('fewer')}</button>` : ''}</div>`;
       }
     });
     return h + '</div>';
@@ -429,7 +434,7 @@
     if (HE()) el.dir = 'rtl';
     el.innerHTML = `<div class="sgc-tools"><div class="sgc-find"><input type="search" placeholder="${ct('search')}" aria-label="${ct('search')}"><div class="sgc-res" hidden></div></div>
       <div class="sgc-filter" role="group"><button type="button" data-f="all" aria-pressed="true">${ct('all')}</button><button type="button" data-f="tanna">${ct('tannaim')}</button><button type="button" data-f="amora">${ct('amoraim')}</button></div></div>
-      <p class="sgc-tip">${ct('tip')} <span class="sgc-key"><i class="sw tanna"></i>${t('keyTa')} <i class="sw ey"></i>${t('keyEY')} <i class="sw bavel"></i>${t('keyBV')} <i class="sw zug"></i>${t('keyZ')} <i class="mv"></i>${ct('moved')}</span></p>
+      <p class="sgc-tip">${ct('tip')} <span class="sgc-key"><i class="sw zug"></i>${t('keyZ')} <i class="sw tanna"></i>${t('keyTa')} <i class="sw ey"></i>${t('keyEY')} <i class="sw bavel"></i>${t('keyBV')} <i class="mv"></i>${ct('moved')}</span></p>
       <div class="sgc-body">${t('loading')}</div>`;
     await load();
     chartDraw();

@@ -12,7 +12,8 @@
 .sgx-scroll{overflow:auto;padding:0 14px 14px}
 .sgx-graph{position:relative;min-height:200px;margin-top:6px}
 .sgx-lines{position:absolute;inset:0;overflow:visible;color:color-mix(in srgb,var(--fg,#222) 55%,transparent);pointer-events:none}
-.sgx-lines line{stroke:currentColor;stroke-width:1.6}
+.sgx-lines line,.sgx-lines path{stroke:currentColor;stroke-width:1.6;fill:none}
+.sgx-lines marker path{fill:currentColor;stroke:none}
 .sgx-lines line.dot{stroke-dasharray:4 4}
 .sgx-lines line.fam{stroke-width:1.2;opacity:.6}
 .sgx-n{position:absolute;left:0;top:0;box-sizing:border-box;padding:5px 9px;border-radius:10px;font:inherit;font-size:13.5px;

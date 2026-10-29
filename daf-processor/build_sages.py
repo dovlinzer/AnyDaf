@@ -46,6 +46,9 @@ HEB_ORDINAL = {"הראשון": 1, "השני": 2, "השלישי": 3, "הרביע�
                "השביעי": 7, "השמיני": 8}
 
 
+EN_NAMES = {"rabi": "Rebbe"}     # Sefaria: "Rabi" (R. Yehudah haNasi)
+
+
 def get(url, **params):
     for attempt in range(6):
         try:
@@ -240,6 +243,11 @@ def build():
             "links": {k: (props.get(k) or {}).get("value") for k in ("enWikiLink", "heWikiLink", "jeLink")
                       if (props.get(k) or {}).get("value")},
         }
+    # English names as learners say them, in place of Sefaria's (author, 2026-10-29)
+    for slug, name in EN_NAMES.items():
+        if slug in sages:
+            sages[slug]["titles_en"] = sorted(set(sages[slug]["titles_en"]) | {sages[slug]["en"]})
+            sages[slug]["en"] = name
     ov = json.loads((OUT / "overrides.json").read_text(encoding="utf-8"))
     for slug, facts in ov.items():
         if slug in sages:
