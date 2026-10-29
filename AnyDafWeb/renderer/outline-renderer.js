@@ -430,7 +430,7 @@
 
   function render(container, opts) {
     const { outline, keyTerms = [], onTerm, onSection, glance = true, glanceDepth = 2, onGlanceDepth,
-            glanceOpen = false, onGlanceOpen, sages = [], onSage, collapsible = false } = opts;
+            glanceOpen = false, onGlanceOpen, sages = [], onSage, collapsible = false, measures = null } = opts;
     const W = words(outline.lang);
     const markTerms = termMatcher(keyTerms), markSages = isHe(outline) ? hebSageMatcher(sages) : sageMatcher(sages);
     const mark = markTerms || markSages
@@ -453,8 +453,13 @@
         if (lastAmud && a.key !== lastAmud) divider = amudDivider(a, W, isHe(outline));
         lastAmud = a.key;
       }
-      const m = (s, hideable) => (mark ? mark(md(s), hideable ? new Set(termsSeen) : termsSeen,
-                                               hideable ? new Set(sagesSeen) : sagesSeen) : md(s));
+      // measures(html, seen): marks units of measure for the Reference popup (the page's
+      // measure-tags.js), each at its first mention in this section; text the reader can hide
+      // marks without using that mention up, as with key terms
+      const measSeen = new Set();
+      const mm = (h, hideable) => (measures ? measures(h, hideable ? new Set(measSeen) : measSeen) : h);
+      const m = (s, hideable) => mm(mark ? mark(md(s), hideable ? new Set(termsSeen) : termsSeen,
+                                               hideable ? new Set(sagesSeen) : sagesSeen) : md(s), hideable);
       const ret = (n.returns_to || []).map((x) =>
         `<button type="button" class="ado-ret" data-goto="${esc(x.id)}">↩ ${W.returns} ${md(titles[x.id] || x.id)}${x.note ? ` — ${md(x.note)}` : ""}</button>`).join("");
       // The gist is marked before the bullets: a name or term links where the reader meets it first.

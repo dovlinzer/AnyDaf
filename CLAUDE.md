@@ -2000,6 +2000,36 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   Chagigah 6 only, since it is the one outline with anchors so far. Run with daf-processor's
   venv. Published: https://claude.ai/artifact/VyEhmmkY9siDtWvA6F2WbH
 
+#### Reference: weights, measures, money (from Illustrated Mishna, 2026-10-28)
+The popup and Reference box of imishna.com/reference, in iTalmud. **One master copy, in AnyMishnahWeb:**
+`build_prototype.py` reads `AnyMishnahWeb/data/measures.json` and the pictures in
+`AnyMishnahWeb/site/img/measures/` (copies only the ones the JSON names, plus `plow.jpg`), and the
+popup's JS/CSS from `AnyMishnahWeb/reference-kit/` (checked 2026-10-28 to match `build_site.py`
+line for line; if Illustrated Mishna changes its inline JS, refresh the kit). `measures_js()` makes
+one change at build: every popup's list reads "In the Mishnah and Talmud". Edit the data there,
+never a copy here. Page side (`app.html`): a ruler button beside the gear, Settings "Measures:
+U.S. / Metric" (`prefs.units` -> `<html data-units>`; the kit refills the open popup), the
+Settings panel carries class `opts` so changing units doesn't close the popup, and a tap on a
+measure doesn't move the outline, the other pane or the audio. `reference.html` (`/reference`) is
+the box on its own page. English only: hidden in the Hebrew interface, no markers there.
+**Markers** (`renderer/measure-tags.js`, at display time): units become
+`<span class="mu" data-m=key>` (dotted underline, author's choice). **They are marked in the
+outline only** (author, 2026-10-28: the tools live with the outline, and the Gemara is long and
+dense): the renderer's `measures` option (`muOut` in app.html) runs on gists and bullets, each
+unit once per section (hideable Detailed/shiur bullets don't use up the mention). The Gemara
+marking is built but off: `MEASURES_IN_TEXT=false` in app.html (it covers the Gemara's English and
+the shiur's Gemara quotes). Rules: a number right before the unit ("four cubits", "two hundred
+dinars"); "a"/"an" counts except for finger, bath, span and the transliterated *amah*/*amot* (an
+*amah* is usually an *amah ivriyah*); English words that are ambiguous (sea, log, bath, finger,
+span, hin, dried fig, shekel, ris, mil) need the unit's Hebrew word in the same line, so in the
+outline (no Hebrew) they are never marked; a shekel is skipped in a line quoting a verse (the
+sacred shekel is a sela); "a/one hundred dinars" is a maneh only when the Hebrew says מנה.
+Davidson's forms and the outlines' transliterations (*tefachim*, *kezayit*, *se'ah*, *perutah*,
+*zuz*...) are both listed. Corpus check of the Gemara rules (node over `daf_text/`): 5,616 of
+82,001 lines would get a marker. Davidson bolds and italicizes inside units ("a
+**quarter**-*log*"); `tail()` wraps the part whose tags nest. Back burner (TODO.md): whether
+terms, sages and measures should link from the Gemara when the outline is closed.
+
 #### Global glossary — see `AnyDafWeb/GLOSSARY.md` (plan, 2026-10-18; author wants one glossary for Shas)
 
 #### Study games — see `AnyDafWeb/GAMES.md` (the design brief; read it first)

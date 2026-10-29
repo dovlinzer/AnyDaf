@@ -178,6 +178,13 @@ daf's terms link to master entries from the start. Not built; awaiting the autho
       a .docx the reader uploads); decide which.
 - [ ] Niddah 60 / Berakhot 31: check by ear whether the SoundCloud audio has an intro that
       throws the line timing off (their recordings run 28 s / 61 s longer than the transcripts).
+- [x] (2026-10-28) Reference popup (weights, measures, money) from Illustrated Mishna: ruler
+      button by the gear, U.S./Metric in Settings, `/reference`. Measures are marked in the
+      outline, once per section; marking them in the Gemara is built but off
+      (`MEASURES_IN_TEXT` in app.html).
+- [ ] **Back burner (author, 2026-10-28): links in the text when the outline is closed.** With
+      only the Gemara on screen, should glossary terms, sages and measures link from the Gemara
+      text? Today they link only from the outline.
 
 ## Phone apps (iOS + Android)
 

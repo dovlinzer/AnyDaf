@@ -24,6 +24,13 @@ from dotenv import load_dotenv
 
 HERE = Path(__file__).resolve().parent
 DP = HERE.parent.parent / "daf-processor"
+# The Reference popup (weights, measures, money) is Illustrated Mishna's: measures.json and the
+# pictures are read from AnyMishnahWeb (the one master copy), the popup's JS and CSS from its
+# reference kit, which matches the code in AnyMishnahWeb/scripts/build_site.py line for line.
+MISHNA = HERE.parent.parent / "AnyMishnahWeb"
+MEASURES_JSON = MISHNA / "data" / "measures.json"
+MEASURES_IMG = MISHNA / "site" / "img" / "measures"
+MEASURES_KIT = MISHNA / "reference-kit"
 SUMMARIES = (lambda f: json.loads(f.read_text(encoding="utf-8")) if f.exists() else {})(DP / "outline" / "daf_summaries.json")
 # hand-written multiple-choice quizzes for the demo, one file per base daf key (2026-10-16); in production the
 # outline pass would write them. Each question: q, options (the right one first), why, line (a Sefaria label).
@@ -491,6 +498,49 @@ def anon_key() -> str:
     return m.group(1)
 
 
+def measures_embed():
+    """The units data and the popup's script, for the end of a page."""
+    M = json.loads(MEASURES_JSON.read_text(encoding="utf-8"))
+    return ('<script type="application/json" id="ms">' + json.dumps(M, ensure_ascii=False).replace("</", "<\\/")
+            + "</script>\n<script>" + measures_js() + "</script>")
+
+
+def measures_js():
+    """The kit's popup script, its one Mishnah-only label widened: every popup here lists uses in
+    the Mishnah and the Talmud, not only the Reference box."""
+    js = (MEASURES_KIT / "measures.js").read_text(encoding="utf-8")
+    old = "(ref?'In the Mishnah and Talmud':'In the Mishnah')"
+    assert old in js, "measures.js changed: update measures_js()"
+    return js.replace(old, "'In the Mishnah and Talmud'")
+
+
+def copy_measure_images(out):
+    """The pictures measures.json names, plus the plowed field the popup's area chart draws."""
+    M = json.loads(MEASURES_JSON.read_text(encoding="utf-8"))
+    names = set(re.findall(r'"img/measures/([^"]+)"', json.dumps(M))) | {"plow.jpg"}
+    (out / "img" / "measures").mkdir(parents=True, exist_ok=True)
+    for n in sorted(names):
+        (out / "img" / "measures" / n).write_bytes((MEASURES_IMG / n).read_bytes())
+
+
+def reference_page(html):
+    """reference.html: the Reference box on a page of its own, in the site's theme."""
+    # the page's own <head> and styles (theme, fonts, and the popup's rules, already filled in)
+    head = re.sub(r"<title>.*?</title>", "<title>Measures Reference</title>", html[:html.index("</style>")], count=1)
+    return (head + "\n.ref{max-width:900px;margin:0 auto;padding:16px;overflow:auto;height:100%}.ref h1{font:600 1.6rem/1.2 var(--serif);color:var(--blue);margin:8px 0 2px}"
+            ".ref .sub{color:var(--muted);margin:0 0 10px}.ref .seg{display:inline-flex;gap:0}.ref .seg button{font:500 13px var(--sans);border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:4px 12px;cursor:pointer}"
+            ".ref .seg button[aria-pressed=true]{background:var(--blue);color:var(--panel)}.ref .top{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.ref .top a{color:var(--link)}"
+            "\n</style>"
+            '<div class="ref"><h1>Reference</h1><p class="sub">Weights, measures and money in the Mishnah and Talmud, after R. Chaim Naeh</p>'
+            '<div class="top"><span>Measures</span><span class="seg" data-key="units"><button data-v="us">U.S.</button><button data-v="metric">Metric</button></span>'
+            '<a href="./">Back to the Illustrated Talmud</a></div><div id="refhost"></div></div>'
+            "<script>(function(){var d=document.documentElement,p={};try{p=JSON.parse(localStorage.getItem('adw')||'{}')}catch(e){}"
+            "function set(v){d.dataset.units=v;p.units=v;try{localStorage.setItem('adw',JSON.stringify(p))}catch(e){}"
+            "document.querySelectorAll('.seg[data-key=units] button').forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.v===v))})}"
+            "set(p.units==='metric'?'metric':'us');document.querySelectorAll('.seg[data-key=units] button').forEach(function(b){b.onclick=function(){set(b.dataset.v)}})})()</script>"
+            + measures_embed() + "</body></html>")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dafim", nargs="+", default=DAFIM)
@@ -525,6 +575,8 @@ def main():
                 .replace("__GAMES_CSS__", (r / "games.css").read_text(encoding="utf-8"))
                 .replace("__GAMES_JS__", (r / "games.js").read_text(encoding="utf-8"))
                 .replace("__RENDERER_JS__", (r / "outline-renderer.js").read_text(encoding="utf-8"))
+                .replace("__MEASURE_TAGS_JS__", (r / "measure-tags.js").read_text(encoding="utf-8"))
+                .replace("__MEASURES_CSS__", (MEASURES_KIT / "measures.css").read_text(encoding="utf-8"))
                 .replace("__SPRITE__", (DP / "outline" / "sprite.svg").read_text(encoding="utf-8"))
                 .replace("__DAFIM__", json.dumps(index, ensure_ascii=False))
                 .replace("__TRACTATES__", json.dumps(tractates(), ensure_ascii=False))
@@ -545,6 +597,9 @@ def main():
         (out / "vercel.json").write_text(json.dumps({
             "headers": [{"source": "/(.*)", "headers": [{"key": "X-Robots-Tag", "value": "noindex, nofollow"}]}],
             "cleanUrls": True}, indent=1))
+    (out / "reference.html").write_text(reference_page(html), encoding="utf-8")
+    html = html.replace("__MEASURES__", measures_embed())
+    copy_measure_images(out)
     (out / "index.html").write_text(html, encoding="utf-8")
     size = sum(f.stat().st_size for f in out.rglob("*") if f.is_file())
     print(f"wrote {out}/index.html + {len(index)} dafim ({size / 1e6:.1f} MB total)")

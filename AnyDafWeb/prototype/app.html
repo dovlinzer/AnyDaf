@@ -20,6 +20,14 @@ img{max-width:100%}
 body{background:var(--ground);color:var(--ink);font:15px/1.55 var(--sans);display:flex;flex-direction:column;overflow:hidden}
 __RENDERER_CSS__
 __GAMES_CSS__
+__MEASURES_CSS__
+/* The Reference popup (weights, measures, money) from Illustrated Mishna: its rules read --card and
+   --fg; the button sits in the bar beside the gear instead of floating over a header */
+.mpop{--card:var(--panel);--fg:var(--ink);z-index:62;box-sizing:border-box}
+.mpop .mtabs button.on,.mpop .mvf button.on{color:var(--panel)}
+.bar .refbtn{position:static;width:34px;height:34px;border-radius:999px;border:1px solid var(--line);background:var(--panel);box-shadow:none;color:var(--muted)}
+.bar .refbtn:hover{color:var(--blue);border-color:var(--blue)}
+.mu:hover,.mu:focus-visible{border-bottom-style:solid}
 #pwin{width:min(640px,calc(100vw - 32px));height:min(640px,calc(100% - 120px));inset-inline-end:72px;top:96px}
 #pwin .adg{flex:1}
 .bar{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;padding:10px 16px;border-bottom:1px solid var(--line);background:var(--panel)}
@@ -476,8 +484,9 @@ __SPRITE__
   <button class="btn tool" id="practiceBtn" aria-pressed="false" title="Quizzes and games on this daf" hidden>Quizzes &amp; Games</button>
   <button class="btn tool" id="resBtn" aria-pressed="false" title="Articles, teshuvot and shiurim from the YCT Torah Library on this daf">Resources</button>
  </div>
+ <button class="refbtn" id="refBtn" type="button" aria-label="Reference: weights, measures and money" title="Reference: weights, measures and money"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect x="2.5" y="8" width="19" height="8" rx="1.5" fill="currentColor"/><path d="M6 8v4M9 8v3M12 8v4M15 8v3M18 8v4" stroke="var(--panel)" stroke-width="1.4"/></svg></button>
  <button class="iconbtn gear" id="moreBtn" type="button" aria-expanded="false" aria-controls="more" aria-label="Settings" title="Settings"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M19.4 13a7.6 7.6 0 0 0 0-2l2.1-1.6a.5.5 0 0 0 .1-.6l-2-3.5a.5.5 0 0 0-.6-.2l-2.5 1a7.4 7.4 0 0 0-1.7-1l-.4-2.6a.5.5 0 0 0-.5-.4h-4a.5.5 0 0 0-.5.4l-.4 2.6a7.4 7.4 0 0 0-1.7 1l-2.5-1a.5.5 0 0 0-.6.2l-2 3.5a.5.5 0 0 0 .1.6L4.6 11a7.6 7.6 0 0 0 0 2l-2.1 1.6a.5.5 0 0 0-.1.6l2 3.5a.5.5 0 0 0 .6.2l2.5-1a7.4 7.4 0 0 0 1.7 1l.4 2.6a.5.5 0 0 0 .5.4h4a.5.5 0 0 0 .5-.4l.4-2.6a7.4 7.4 0 0 0 1.7-1l2.5 1a.5.5 0 0 0 .6-.2l2-3.5a.5.5 0 0 0-.1-.6zM12 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7z"/></svg></button>
- <div class="more" id="more" role="dialog" aria-label="Settings">
+ <div class="more opts" id="more" role="dialog" aria-label="Settings">
   <div class="morehead"><span class="mt">Settings</span><button class="iconbtn" id="moreClose" type="button" aria-label="Close settings">×</button></div>
   <div class="grp"><span class="gl">Outline</span>
    <div class="seg" id="levels" role="group" aria-label="Detail level"><button data-lv="1">Headlines</button><button data-lv="2" aria-pressed="true">Standard</button><button data-lv="3">Detailed</button></div>
@@ -486,6 +495,10 @@ __SPRITE__
    <label class="tog" title="A small icon on each outcome in a chart; the words show either way"><input type="checkbox" id="optBadges" checked> Icons in charts</label>
    <label class="tog" title="Every heading shows, each with an arrow that opens its text, charts and pictures; off: the full outline with the At a glance list"><input type="checkbox" id="optCollapse"> Collapsible outline</label>
    <label class="tog" id="foldOpenOpt" title="Off: each daf opens with every section folded, headings only"><input type="checkbox" id="optFoldOpen"> Start with sections open</label>
+  </div>
+  <div class="grp" id="unitsGrp"><span class="gl">Measures</span>
+   <div class="seg" data-key="units" id="unitsSeg" role="group" aria-label="Units"><button data-v="us">U.S.</button><button data-v="metric">Metric</button></div>
+   <a class="fine" href="reference" target="_blank" rel="noopener">The reference as a page ↗</a>
   </div>
   <div class="grp"><span class="gl">Text</span>
    <label class="tog"><input type="checkbox" id="syncTog" checked> Follow the outline</label>
@@ -608,10 +621,17 @@ __SPRITE__
 </dialog>
 <script>__RENDERER_JS__</script>
 <script>__GAMES_JS__</script>
+<script>__MEASURE_TAGS_JS__</script>
 <script>
 const DAFIM=__DAFIM__;
 const $=id=>document.getElementById(id);
 const {md,esc}=AnyDafOutline;
+// measures in the Gemara's English become taps that open the Reference popup (measure-tags.js)
+// Measures link from the outline (author, 2026-10-28: the tools live with the outline, and the
+// Gemara is long and dense). Set MEASURES_IN_TEXT to true to mark them in the Gemara too.
+const MEASURES_IN_TEXT=false;
+const mu=(html,he)=>RTL||!MEASURES_IN_TEXT?html:AnyDafMeasures.tag(html,he);   // the Reference is English only so far
+const muOut=(html,seen)=>RTL?html:AnyDafMeasures.tag(html,'',seen);
 const prefs=(()=>{try{return JSON.parse(localStorage.getItem('adw')||'{}')}catch(e){return {}}})();
 function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch(e){}}
 
@@ -703,7 +723,7 @@ const firstAmud=s=>(s.from&&String(s.from).split('.')[0])||(String(s.amud||'').m
 // A daf with a Hebrew outline is the Israeli version: the Gemara with Steinsaltz's Hebrew
 // explanation in place of the English, and no English shiur (text or audio).
 let HE=false;
-const hxOf=it=>HE&&it.hx?`<p class="en hx" lang="he" dir="rtl">${md(it.hx)}</p>`:`<p class="en">${md(it.en)}</p>`;
+const hxOf=it=>HE&&it.hx?`<p class="en hx" lang="he" dir="rtl">${md(it.hx)}</p>`:`<p class="en">${mu(md(it.en),it.he)}</p>`;
 function renderDaf(d){
  D=d;current=null;
  HE=RTL||!!(d.outline&&d.outline.lang==='he');document.body.classList.toggle('hemode',HE);
@@ -724,7 +744,7 @@ function renderDaf(d){
  $('shiur').innerHTML=d.shiur.length?d.shiur.map(b=>{
   if(b.t==='amud')return `<div class="amudbreak">${esc(amudName(d,b.x))}</div>`;
   if(b.t==='h2')return `<h2>${md(b.x)}</h2>`;if(b.t==='h3')return `<h3>${md(b.x)}</h3>`;if(b.t==='hr')return '<hr>';
-  if(b.t==='q')return b.pairs.map(q=>`<div class="quote" data-o="${q.o??-1}"><span class="q-lab">${esc(q.l||'')}</span><p class="q-he" lang="he">${esc(q.he)}</p><p class="q-en">${md(q.en)}</p></div>`).join('');
+  if(b.t==='q')return b.pairs.map(q=>`<div class="quote" data-o="${q.o??-1}"><span class="q-lab">${esc(q.l||'')}</span><p class="q-he" lang="he">${esc(q.he)}</p><p class="q-en">${mu(md(q.en),q.he)}</p></div>`).join('');
   return `<p>${md(b.x)}</p>`}).join(''):'<p>There is no written shiur for this daf yet.</p>';
  quoteEls=[...document.querySelectorAll('#shiur .quote')].filter(q=>+q.dataset.o>=0);
  // Outline
@@ -737,7 +757,7 @@ function renderDaf(d){
   const sm=(d.outline.daf_summary&&d.outline.daf_summary.summary)||d.summary||'';$('outSum').hidden=!sm;$('outSum').innerHTML=sm?md(sm).replace(/^(Discussions? of:)/,'<b>$1</b>'):'';$('outHead').hidden=false;
   view=AnyDafOutline.render($('outline'),{outline:d.outline,keyTerms:terms,onTerm:i=>openGloss(i),onSection:id=>setCurrent(id,true),glanceDepth:gd,onGlanceDepth:onDepth,
    glanceOpen:prefs.glanceOpen===true,onGlanceOpen:o=>{prefs.glanceOpen=o;savePrefs()},
-   sages:d.sages||[],onSage:i=>openSage(i),collapsible:prefs.collapse!==false});
+   sages:d.sages||[],onSage:i=>openSage(i),collapsible:prefs.collapse!==false,measures:muOut});
   railView=AnyDafOutline.glance($('rail'),d.outline,{onSection:id=>setCurrent(id,true),depth:gd,onDepth});
   // Open all / Collapse all sit under the title and summary, above the outline's first line
   $('outHead').querySelectorAll('.ado-foldbar').forEach(x=>x.remove());
@@ -959,8 +979,8 @@ function sectionAtLine(){const line=outPane.getBoundingClientRect().top+110;let 
  return best||passed||secs[0]}
 outPane.addEventListener('scroll',()=>{if(raf||Date.now()<outHold||!secs.length)return;raf=requestAnimationFrame(()=>{raf=0;setCurrent(sectionAtLine().id)})},{passive:true});
 ['wheel','touchmove','keydown'].forEach(ev=>[textPane,shiurPane].forEach(p=>p.addEventListener(ev,()=>{textHold=Date.now()+1500;textMoved=true},{passive:true})));
-$('text').onclick=e=>{const it=e.target.closest('.item');if(it)fromPane('text',itemOrd[+it.dataset.i])};
-$('shiur').onclick=e=>{const q=e.target.closest('.quote');if(q)fromPane('shiur',+q.dataset.o)};
+$('text').onclick=e=>{if(e.target.closest('.mu'))return;const it=e.target.closest('.item');if(it)fromPane('text',itemOrd[+it.dataset.i])};
+$('shiur').onclick=e=>{if(e.target.closest('.mu'))return;const q=e.target.closest('.quote');if(q)fromPane('shiur',+q.dataset.o)};
 
 // ---------- size sliders (AnyTorah web's six steps) ----------
 const FONT_LEVELS=[-2,-1,0,2,4,6],FONT_LABELS=Object.fromEntries(Object.entries({'-2':'Smallest','-1':'Small','0':'Default','2':'Large','4':'Larger','6':'Largest'}).map(([k,v])=>[k,tr(v)]));
@@ -1114,6 +1134,13 @@ document.querySelectorAll('#showSeg button').forEach(b=>b.onclick=()=>setView(b.
 function setMore(open){document.querySelector('.bar').classList.toggle('open',open);$('moreBtn').setAttribute('aria-expanded',String(open))}
 $('moreBtn').onclick=e=>{e.stopPropagation();setMore($('moreBtn').getAttribute('aria-expanded')!=='true')};
 $('moreClose').onclick=()=>setMore(false);
+// Measures: U.S. (default) or metric, read by the Reference popup from <html data-units>
+function setUnits(v){document.documentElement.dataset.units=v;prefs.units=v;savePrefs();
+ $('unitsSeg').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.v===v)))}
+setUnits(prefs.units==='metric'?'metric':'us');
+$('unitsSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>setUnits(b.dataset.v));
+// the Reference is English only so far: no button, no setting in the Hebrew interface
+if(RTL){$('refBtn').hidden=true;$('unitsGrp').hidden=true}
 document.addEventListener('pointerdown',e=>{if($('moreBtn').getAttribute('aria-expanded')==='true'&&!e.target.closest('#more,#moreBtn'))setMore(false)});
 ['resBtn','notesBtn','practiceBtn'].forEach(id=>$(id).addEventListener('click',()=>setMore(false)));
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&$('moreBtn').getAttribute('aria-expanded')==='true')setMore(false)});
@@ -1820,3 +1847,4 @@ setWidths();
 $('dedClose').onclick=()=>$('dedDlg').close();
 $('dedDlg').addEventListener('click',e=>{if(e.target===$('dedDlg'))$('dedDlg').close()});   // a click outside the box
 </script>
+__MEASURES__
