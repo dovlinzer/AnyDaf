@@ -378,7 +378,7 @@
     S.famEdges = fg.edges;
     g.style.height = (lay.height + 70) + 'px';
     svg.setAttribute('width', width); svg.setAttribute('height', lay.height + 70);
-    commit(place, [], animate, { g, clay, width, nodeW, cw: nodeW * 1.5, x: cx });
+    commit(place, [], animate, { g, clay, width, nodeW, cw: clay ? nodeW * 1.5 : nodeW, x: cx });   // the tree is spaced for one box width: the centre box too
     centreFamily();
   }
   // a long tree opens with the chosen sage in the middle of what is shown (up and down, and sideways when it is wide)
@@ -503,7 +503,7 @@
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
       el.style.maxWidth = (p.centre ? (clay ? Math.min(width * 0.7, 220) : cw || nodeW * 1.5) : Math.min(nodeW, p.maxW || nodeW)) + 'px';
       // every box in a row the same size, whatever the name's length: a small box would read as a lesser sage
-      el.style.width = !clay && !p.centre ? Math.min(boxW || nodeW, p.maxW || nodeW) + 'px' : '';
+      el.style.width = !clay && (!p.centre || p.famNode) ? Math.min(boxW || nodeW, p.maxW || nodeW) + 'px' : '';
       requestAnimationFrame(() => {
         el.style.opacity = '1';
         el.style.transform = `translate(${p.x}px,${p.y}px) translate(-50%,-50%)`;

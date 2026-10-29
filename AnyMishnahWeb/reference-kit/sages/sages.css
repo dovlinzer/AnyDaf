@@ -161,8 +161,8 @@
 .sgx .r-teachers,.sgx .r-students{--tint:color-mix(in srgb,var(--role) 18%,var(--card,#fff))}
 /* colleagues: a light shade of the centre sage's own colour (he is at 22%), at his level and with no line */
 .sgx .r-colleagues{--role:var(--role-c);--tint:color-mix(in srgb,var(--role-c) 16%,var(--card,#fff))}
-.sgx-graph:not(.clay) .sgx-n.r-teachers,.sgx-graph:not(.clay) .sgx-n.r-students,.sgx-graph:not(.clay) .sgx-n.r-colleagues{background:var(--tint)}
-.sgx-graph:not(.clay) .sgx-n.r-teachers:hover,.sgx-graph:not(.clay) .sgx-n.r-students:hover,.sgx-graph:not(.clay) .sgx-n.r-colleagues:hover{background:color-mix(in srgb,var(--role) 34%,var(--card,#fff))}
+.sgx-graph:not(.clay):not(.famview) .sgx-n.r-teachers,.sgx-graph:not(.clay):not(.famview) .sgx-n.r-students,.sgx-graph:not(.clay):not(.famview) .sgx-n.r-colleagues{background:var(--tint)}
+.sgx-graph:not(.clay):not(.famview) .sgx-n.r-teachers:hover,.sgx-graph:not(.clay):not(.famview) .sgx-n.r-students:hover,.sgx-graph:not(.clay):not(.famview) .sgx-n.r-colleagues:hover{background:color-mix(in srgb,var(--role) 34%,var(--card,#fff))}
 
 /* The chart's scroll bars always show (macOS hides them until you scroll), and the chart can be dragged */
 .sgc-body{cursor:grab;scrollbar-width:auto;scrollbar-color:color-mix(in srgb,var(--fg,#222) 40%,transparent) transparent}
@@ -182,3 +182,6 @@
 
 /* the boxes around him are all one size (width set in sages.js): the name centred, two lines' height */
 .sgx-graph:not(.clay) .sgx-n:not(.centre){min-height:48px;display:flex;flex-direction:column;justify-content:center;align-items:center}
+
+/* family tree: the chosen sage's box is the width of the others (the tree is spaced for it), marked by weight and border */
+.sgx-graph.famview:not(.clay) .sgx-n.centre{font-size:14px;padding:6px 7px;min-height:48px;display:flex;align-items:center;justify-content:center}
