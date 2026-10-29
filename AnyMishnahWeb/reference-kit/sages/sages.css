@@ -118,3 +118,6 @@
 .sgx-graph.clay .sgx-n:not(.centre) .sgx-nm{opacity:.85}
 .sgx-graph.clay .sgx-lines path,.sgx-graph.clay .sgx-lines line{opacity:.45}
 .sgx:has(.sgx-graph.clay) .sgx-key{display:none}
+.sgx-moreinfo{margin:8px 0}.sgx-moreinfo summary{cursor:pointer;font-weight:600;color:var(--blue,#1b3a8a)}
+.sgc-filter[hidden]{display:none}
+.sgc-key[hidden]{display:none}

@@ -27,7 +27,7 @@
           sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
           keyT: 'teacher → student', keyC: 'colleagues', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
           keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', notes: 'Notes and sources',
-          wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of',
+          wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of', moreAbout: 'More about him',
           alts: 'The sources give more than one name; each is a later identification or tradition.', est: 'a rough count: the name fits more than one sage' },
     he: { title: 'חכמים', rel: 'קשרים', back: 'חזרה', close: 'סגירה', teachers: 'רבותיו', students: 'תלמידיו',
           colleagues: 'בני דורו', family: 'משפחה', more: 'ועוד {0}', fewer: 'פחות', tanna: 'תנא', amora: 'אמורא',
@@ -39,7 +39,7 @@
           stories: 'סיפורים עליו', sefaria: 'ספריא', wiki: 'ויקיפדיה', approx: 'התאריכים משוערים, לפי הדור.',
           loading: 'טוען…', keyT: 'רב ← תלמיד', keyC: 'בני דורו', keyTa: 'תנא', keyEY: 'אמורא, ארץ ישראל',
           keyBV: 'אמורא, בבל', keyZ: 'זוגות', keyF: 'משפחה', notes: 'הערות ומקורות',
-          wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של',
+          wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של', moreAbout: 'עוד עליו',
           alts: 'במקורות יותר משם אחד; כל אחד מהם זיהוי או מסורת מאוחרים.', est: 'מספר משוער: השם מתאים ליותר מחכם אחד' },
   };
   const t = (k, ...a) => (W[S.o.lang] || W.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
@@ -406,7 +406,27 @@
       return txt + noteMark(l.notes, l.alts);
     }).join(', ')}</span>`).join('');
     const noRel = !['teachers', 'students', 'colleagues'].some(r => (x.links[r] || []).some(l => l.id));
-    const bio = HE() && x.bio_he ? x.bio_he : x.bio;
+    let bio = HE() && x.bio_he ? x.bio_he : x.bio, bioRest = '';
+    if (S.o.clay && bio) {   // clay: the first two sentences up front, the rest under "More about him"
+      const sent = bio.split(/(?<=[a-z0-9)\]\u201d"\u2019\u05d0-\u05ea][.!?])(?<!\bb\.)(?<!\bbar\.)(?<!\bvs\.)\s+(?=[A-Z"\u201c\u05d0-\u05ea])/);
+      if (sent.length > 2) { bioRest = sent.slice(2).join(' '); bio = sent.slice(0, 2).join(' '); }
+    }
+    const bioLang = HE() && !x.bio_he ? ' lang="en" dir="ltr"' : '';
+    const stories = x.stories && x.stories.length ? `<h4>${t('stories')}</h4><ul class="sgx-stories">${x.stories.map(s =>
+        `<li><a href="${esc(S.o.link ? S.o.link(S.o.corpus, s.tractate, s.place) : '#')}">${esc(HE() && s.title_he ? s.title_he : s.title)}</a> <span>${esc(s.ref || '')}</span></li>`).join('')}</ul>` : '';
+    const where = n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
+      <p class="sgx-where">${top.map(([tr, c]) => `<button type="button" data-tr="${esc(tr)}">${esc(name(tr))} <b>${c}</b></button>`).join('')}
+      ${Object.keys(q).length > 5 ? `<button type="button" data-tr="*" class="all">${t('allT')}</button>` : ''}</p><div class="sgx-places"></div>` : '';
+    const links = `<p class="sgx-links"><a href="https://www.sefaria.org${HE() ? '.il' : ''}/topics/${encodeURIComponent(x.sefaria)}" target="_blank" rel="noopener">${t('sefaria')}</a>
+      ${x.wiki_he ? `<a href="${esc(x.wiki_he)}" target="_blank" rel="noopener">${t('wiki')}</a>` : ''}</p>`;
+    if (S.o.clay) {
+      box.innerHTML = `<h3>${esc(fullName(x))} <span lang="${HE() ? 'en' : 'he'}" dir="${HE() ? 'ltr' : 'rtl'}">${esc(HE() ? x.en : x.he)}</span></h3>
+        <p class="sgx-meta">${esc(meta(x))}${x.years && !x.died ? ` <i title="${esc(t('approx'))}">*</i>` : ''}</p>
+        ${bio ? `<p class="sgx-bio"${bioLang}>${bioHTML(bio)}</p>` : ''}
+        <details class="sgx-moreinfo"><summary>${t('moreAbout')}</summary>
+        ${bioRest ? `<p class="sgx-bio"${bioLang}>${bioHTML(bioRest)}</p>` : ''}${fam ? `<p class="sgx-fam">${fam}</p>` : ''}${stories}${where}${links}</details>`;
+      return;
+    }
     box.innerHTML = `<h3>${esc(fullName(x))} <span lang="${HE() ? 'en' : 'he'}" dir="${HE() ? 'ltr' : 'rtl'}">${esc(HE() ? x.en : x.he)}</span></h3>
       <p class="sgx-meta">${esc(meta(x))}${x.years && !x.died ? ` <i title="${esc(t('approx'))}">*</i>` : ''}</p>
       ${noRel ? `<p class="sgx-none">${t('none')}</p>` : ''}
@@ -446,13 +466,18 @@
     en: { chart: 'Sages of the Talmud', search: 'Find a sage', all: 'All', tannaim: "Tanna'im", amoraim: "Amora'im",
           zugot: 'Zugot', unknown: 'Generation unknown', ey: 'Eretz Yisrael', bavel: 'Bavel', trans: 'Transition',
           more: '+{0} more', fewer: 'Fewer', nohit: 'No sage by that name.', moved: 'Moved between Bavel and Eretz Yisrael',
+          chartM: 'Sages of the Mishnah', tipM: 'Tap a name to see his teachers and students.',
           tip: 'In each box: the most quoted sages, A–Z (“more” adds the rest). Tap a name to see his teachers, students and colleagues.' },
     he: { chart: 'חכמי התלמוד', search: 'חיפוש חכם', all: 'הכול', tannaim: 'תנאים', amoraim: 'אמוראים',
           zugot: 'זוגות', unknown: 'דור לא ידוע', ey: 'ארץ ישראל', bavel: 'בבל', trans: 'מעבר',
           more: 'ועוד {0}', fewer: 'פחות', nohit: 'לא נמצא חכם בשם הזה.', moved: 'עבר בין בבל לארץ ישראל',
+          chartM: 'חכמי המשנה', tipM: 'לחיצה על שם מציגה את רבותיו ותלמידיו.',
           tip: 'בכל תא: החכמים המצוטטים ביותר, לפי א״ב (״עוד״ מוסיף את השאר). לחיצה על שם מציגה את רבותיו, תלמידיו ובני דורו.' },
   };
   const ct = (k, ...a) => (CW[S.o.lang] || CW.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
+  // clay (Mishnah): only the sages the Mishnah names, and only the Zugot and the tanna'im
+  const simple = () => !!S.o.clay;
+  const inChart = x => ['tanna', 'amora', 'zug'].includes(x.kind) && !(simple() && (x.kind === 'amora' || !countOf(x)));
   const COLS = ['Z', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'TA', 'A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', '?'];
   function colOf(x) {
     if (x.kind === 'zug') return 'Z';
@@ -481,7 +506,7 @@
   function cells() {
     const by = {};
     for (const [id, x] of Object.entries(S.data.sages)) {
-      if (!['tanna', 'amora', 'zug'].includes(x.kind)) continue;
+      if (!inChart(x)) continue;
       const k = rowOf(x) + ':' + colOf(x);
       (by[k] = by[k] || []).push(id);
     }
@@ -494,18 +519,18 @@
     : shortName(x).replace(/^(?:Rabbi|Rebbi|Rabban|Rav|Mar|R\.)\s+/, '').replace(/^\[|\]/g, '');
   const byName = (a, b) => sortKey(sage(a)).localeCompare(sortKey(sage(b)), HE() ? 'he' : 'en');
   function chartHTML() {
-    const phone = (C.host.clientWidth || 800) < 560, first = 6, by = cells();   // six on a phone too (author)
-    const cols = COLS.filter(c => C.filter === 'all' || (C.filter === 'tanna' ? /^[ZT]/.test(c) || c === '?' : /^A/.test(c) || c === '?'));
-    let h = `<div class="sgc-grid" style="grid-template-columns:auto repeat(${cols.length},minmax(${phone ? 104 : 122}px,1fr))">`;
-    h += `<div class="sgc-corner"></div>` + cols.map(c => { const [a, b] = colHead(c);
+    const phone = (C.host.clientWidth || 800) < 560, first = simple() ? 5 : 6, by = cells();   // six on a phone too (author)
+    const cols = COLS.filter(c => simple() ? /^(Z|T[1-6]|TA)$/.test(c) && (by['0:' + c] || []).length > 0 : false || C.filter === 'all' || (C.filter === 'tanna' ? /^[ZT]/.test(c) || c === '?' : /^A/.test(c) || c === '?'));
+    let h = `<div class="sgc-grid" style="grid-template-columns:${simple() ? '' : 'auto '}repeat(${cols.length},minmax(${phone ? 104 : 122}px,1fr))">`;
+    h += (simple() ? '' : `<div class="sgc-corner"></div>`) + cols.map(c => { const [a, b] = colHead(c);
       return `<div class="sgc-h${c[0] === 'A' ? ' am' : c === '?' ? ' unk' : ''}"><b>${esc(a)}</b>${b ? `<small>${esc(b)}</small>` : ''}</div>`; }).join('');
-    [ct('ey'), ct('bavel')].forEach((label, row) => {
-      h += `<div class="sgc-rh">${esc(label)}</div>`;
+    (simple() ? [ct('ey')] : [ct('ey'), ct('bavel')]).forEach((label, row) => {
+      if (!simple()) h += `<div class="sgc-rh">${esc(label)}</div>`;
       for (const c of cols) {
         if (row === 1 && tall(c)) continue;
         const k = row + ':' + c, ids = (by[k] || []).filter(id => C.filter === 'all' || (C.filter === 'tanna' ? sage(id).kind !== 'amora' : sage(id).kind === 'amora'));
         const open = S.o.chartAllOpen ? !C.open.has(k) : C.open.has(k);   // with "show every sage", a click closes
-        const major = ids.filter(id => tierOf(sage(id)) <= 2);
+        const major = simple() ? ids : ids.filter(id => tierOf(sage(id)) <= 2);
         // the cell's most quoted (by Bavli or Mishnah count), then A–Z; opened, all of them A–Z.
         // The Zugot keep their historical order.
         const pick = open || major.length === first + 1 ? major : major.slice(0, first);
@@ -526,7 +551,7 @@
     q = norm(q); if (q.length < 2) return [];
     const out = [];
     for (const [id, x] of Object.entries(S.data.sages)) {
-      if (!['tanna', 'amora', 'zug'].includes(x.kind)) continue;
+      if (!inChart(x)) continue;
       const names = [x.en, x.he, ...(x.alt_en || []), ...(x.alt_he || [])].map(norm);
       const exact = names.some(n => n === q), start = names.some(n => n.startsWith(q) || n.split(' ').some(w => w.startsWith(q)));
       if (exact || start || names.some(n => n.includes(q))) out.push([exact ? 0 : start ? 1 : 2, tierOf(x), -countOf(x), id]);
@@ -558,8 +583,8 @@
     el.classList.add('sgc');
     if (HE()) el.dir = 'rtl';
     el.innerHTML = `<div class="sgc-tools"><div class="sgc-find"><input type="search" placeholder="${ct('search')}" aria-label="${ct('search')}"><div class="sgc-res" hidden></div></div>
-      <div class="sgc-filter" role="group"><button type="button" data-f="all" aria-pressed="true">${ct('all')}</button><button type="button" data-f="tanna">${ct('tannaim')}</button><button type="button" data-f="amora">${ct('amoraim')}</button></div></div>
-      <p class="sgc-tip">${ct('tip')} <span class="sgc-key"><i class="sw zug"></i>${t('keyZ')} <i class="sw tanna"></i>${t('keyTa')} <i class="sw ey"></i>${t('keyEY')} <i class="sw bavel"></i>${t('keyBV')} <i class="mv"></i>${ct('moved')}</span></p>
+      <div class="sgc-filter" role="group"${simple() ? ' hidden' : ''}><button type="button" data-f="all" aria-pressed="true">${ct('all')}</button><button type="button" data-f="tanna">${ct('tannaim')}</button><button type="button" data-f="amora">${ct('amoraim')}</button></div></div>
+      <p class="sgc-tip">${ct(simple() ? 'tipM' : 'tip')} <span class="sgc-key"${simple() ? ' hidden' : ''}><i class="sw zug"></i>${t('keyZ')} <i class="sw tanna"></i>${t('keyTa')} <i class="sw ey"></i>${t('keyEY')} <i class="sw bavel"></i>${t('keyBV')} <i class="mv"></i>${ct('moved')}</span></p>
       <div class="sgc-body">${t('loading')}</div>`;
     await load();
     chartDraw();
@@ -594,7 +619,7 @@
     if (!chartBox) {
       chartBox = document.createElement('div');
       chartBox.className = 'sgc-wrap'; chartBox.setAttribute('role', 'dialog'); chartBox.setAttribute('aria-label', ct('chart'));
-      chartBox.innerHTML = `<header class="sgx-bar"><h2>${ct('chart')}</h2><span style="flex:1"></span><button type="button" class="sgx-x" aria-label="${t('close')}">×</button></header><div class="sgc-in"></div>`;
+      chartBox.innerHTML = `<header class="sgx-bar"><h2>${ct(simple() ? 'chartM' : 'chart')}</h2><span style="flex:1"></span><button type="button" class="sgx-x" aria-label="${t('close')}">×</button></header><div class="sgc-in"></div>`;
       if (HE()) chartBox.dir = 'rtl';
       document.body.appendChild(chartBox);
       chartBox.querySelector('.sgx-x').onclick = () => { chartBox.hidden = true; };
