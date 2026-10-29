@@ -683,7 +683,7 @@
   const ct = (k, ...a) => (CW[S.o.lang] || CW.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
   // clay (Mishnah): only the sages the Mishnah names, and only the Zugot and the tanna'im
   const simple = () => !!S.o.clay;
-  const inChart = x => ['tanna', 'amora', 'zug'].includes(x.kind) && !(simple() && (x.kind === 'amora' || !countOf(x)));
+  const inChart = x => ['tanna', 'amora', 'zug'].includes(x.kind) && !(simple() && (x.kind === 'amora' || (x.kind !== 'zug' && !countOf(x))));   // the Zugot all stand in the Mishnah (Avot 1, Eduyot, Chagigah 2:2), but their bare names (Hillel, Shammai) are not matched by the name counter, so their count is 0
   const COLS = ['Z', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'TA', 'A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', '?'];
   function colOf(x) {
     if (x.kind === 'zug') return 'Z';
@@ -736,7 +736,8 @@
       const k = row + ':' + c, ids = (by[k] || []).filter(id => C.filter === 'all' || (C.filter === 'tanna' ? sage(id).kind !== 'amora' : sage(id).kind === 'amora'));
       const open = S.o.chartAllOpen ? !C.open.has(k) : C.open.has(k);   // with "show every sage", a click closes
       const major = simple() ? ids : ids.filter(id => tierOf(sage(id)) <= 2);
-      const pick = open || major.length === first + 1 ? major : major.slice(0, first);
+      const lim = simple() && c === 'Z' ? 12 : first;   // the ten Zugot are few: all of them, Hillel and Shammai included
+        const pick = open || major.length <= lim + 1 ? major : major.slice(0, lim);
       const shown = c === 'Z' ? pick : [...pick].sort(byName);
       const extra = ids.filter(id => C.show.has(id) && !shown.includes(id));
       cell[k] = { open, major, shown, list: shown.concat(extra) };
