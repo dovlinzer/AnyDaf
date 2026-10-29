@@ -90,8 +90,7 @@ two bands.
   which opens the row in two lines. On a phone, 4 per row.
 - **Colour by tier and era**, the same colours as the timeline, so the graph and the map read as
   one system. Tier-3 sages show smaller, but they are still clickable.
-- **Later, possibly:** a second, fainter ring (teachers' teachers); family links (father and son,
-  as in "Rav Bivi b. Abaye") as a third kind of line; reading the graph aloud for accessibility.
+- **Later, possibly:** a second, fainter ring (teachers' teachers); reading the graph aloud for accessibility.
 
 **Build:** hand-placed SVG with no graph library, because the layout is three fixed rows, not a
 free-form network. The transitions are CSS `transform`s on each node, keyed by slug. In Hebrew the
