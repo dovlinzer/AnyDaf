@@ -355,13 +355,15 @@
    "he": "גרוגרת",
    "tr": "grogeret",
    "en": "grogeret (dried fig)",
-   "cc_rashi": 18,
-   "cc_rambam": 18,
+   "cc_rashi": 19.2,
+   "cc_rambam": 19.2,
    "shape": "fig",
    "buys": [
-    "A third of a beitzah according to the Rambam (Kessef Mishneh on Rambam, Shabbat 8:4).",
+    "Bigger than an olive and smaller than an egg (Tosafot, Eruvin 80b). According to the Rambam it is a third of an egg (Kessef Mishneh on Rambam, Shabbat 8:4). The opinions differ, so no ratio is shown.",
+    "R. Chaim Naeh: 19.2 cc.",
     "The minimum for carrying out food on Shabbat is a dried fig (Mishnah Shabbat 7:4)."
-   ]
+   ],
+   "noratio": true
   },
   "ezayit": {
    "family": "eating",
