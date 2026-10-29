@@ -444,8 +444,8 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
       used.add(f); p.fig = f; faceOf.set(k, f);
     }
   }
-  function figure(n) {
-    return `<span class="sgx-ring"><img class="sgx-fig" src="${esc(S.o.base)}fig/${FACES[n % FACES.length]}.png" alt="" draggable="false"></span>`;
+  function figure(n, colour) {   // colour: gold (the middle sage), blue (a teacher), green (a student): his own picture, dressed for his role
+    return `<span class="sgx-ring"><img class="sgx-fig" src="${esc(S.o.base)}fig/${FACES[n % FACES.length]}-${colour}.png" alt="" draggable="false"></span>`;
   }
   function draw(animate) {
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg');
@@ -543,7 +543,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
       const sx = p.centre ? x : p.id ? sage(p.id) : null;
       const fam = p.rel && FAMILY.includes(p.rel), famLabel = fam ? p.rel : p.famRel;
       el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3}${clay ? ' r-' + (p.centre ? 'centre' : p.rel) : ''}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam ? ' fam' : ''}`;
-      el.innerHTML = (clay ? figure(p.fig) : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
+      el.innerHTML = (clay ? figure(p.fig, p.centre ? 'gold' : p.rel === 'teachers' ? 'blue' : 'green') : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
       if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
       el.style.maxWidth = (p.centre ? (clay ? Math.min(width * 0.7, 220) : cw) : Math.min(nodeW, p.maxW || nodeW)) + 'px';
