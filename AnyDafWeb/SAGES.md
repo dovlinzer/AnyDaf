@@ -130,11 +130,16 @@ a rebuild.
 4. Author review of the top two tiers' links.
 5. The Shas timeline with tiers, zoom and search, under Reference Tools.
 
+## Decisions (author, 2026-10-29)
+
+- **Major sages can be hand-picked.** The Bavli mention count sets the tiers, but the author can
+  mark any sage as major (tier 1) by judgement, for a figure who matters more than the Gemara's
+  count shows. Stored with the other overrides.
+- **Yerushalmi sages:** by default they show only in the graph (as someone's teacher or student)
+  and in search, plus a switch to include them in the timeline directly. That needs their
+  generation and region, which Sefaria mostly lacks for them (most of the 680 unclassed people).
+
 ## Questions for the author
 
-- Are "most quoted in the Bavli" tiers the right measure of "major", or should some sages be major
-  for other reasons (an important figure the Gemara mentions rarely)? The overrides allow both.
-- Should the Yerushalmi-only names (most of the 680 unclassed people) appear at all? The proposal
-  is to show them only in the graph, as someone's teacher or student, and in search.
 - Colleagues: dotted with no arrows (recommended), or two-way arrows?
 - Should the graph also open from a sage's name in the outline, or only from the Sages window?
