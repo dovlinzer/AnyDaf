@@ -433,11 +433,11 @@
     en: { chart: 'Sages of the Talmud', search: 'Find a sage', all: 'All', tannaim: "Tanna'im", amoraim: "Amora'im",
           zugot: 'Zugot', unknown: 'Generation unknown', ey: 'Eretz Yisrael', bavel: 'Bavel', trans: 'Transition',
           more: '+{0} more', fewer: 'Fewer', nohit: 'No sage by that name.', moved: 'Moved between Bavel and Eretz Yisrael',
-          tip: 'Tap a name to see his teachers, students and colleagues.' },
+          tip: 'In each box: the most quoted sages, A–Z (“more” adds the rest). Tap a name to see his teachers, students and colleagues.' },
     he: { chart: 'חכמי התלמוד', search: 'חיפוש חכם', all: 'הכול', tannaim: 'תנאים', amoraim: 'אמוראים',
           zugot: 'זוגות', unknown: 'דור לא ידוע', ey: 'ארץ ישראל', bavel: 'בבל', trans: 'מעבר',
           more: 'ועוד {0}', fewer: 'פחות', nohit: 'לא נמצא חכם בשם הזה.', moved: 'עבר בין בבל לארץ ישראל',
-          tip: 'לחיצה על שם מציגה את רבותיו, תלמידיו ובני דורו.' },
+          tip: 'בכל תא: החכמים המצוטטים ביותר, לפי א״ב (״עוד״ מוסיף את השאר). לחיצה על שם מציגה את רבותיו, תלמידיו ובני דורו.' },
   };
   const ct = (k, ...a) => (CW[S.o.lang] || CW.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
   const COLS = ['Z', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'TA', 'A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', '?'];
@@ -476,6 +476,10 @@
       : tierOf(sage(a)) - tierOf(sage(b)) || countOf(sage(b)) - countOf(sage(a)));
     return by;
   }
+  // A–Z by the name itself, not the title: Rabbi Akiva under A, Rav Pappa under P
+  const sortKey = x => HE() ? (x.he || '').replace(/^(?:רבי|רבן|רב|מר|ר')\s+/, '')
+    : shortName(x).replace(/^(?:Rabbi|Rebbi|Rabban|Rav|Mar|R\.)\s+/, '').replace(/^\[|\]/g, '');
+  const byName = (a, b) => sortKey(sage(a)).localeCompare(sortKey(sage(b)), HE() ? 'he' : 'en');
   function chartHTML() {
     const phone = (C.host.clientWidth || 800) < 560, first = phone ? 4 : 6, by = cells();
     const cols = COLS.filter(c => C.filter === 'all' || (C.filter === 'tanna' ? /^[ZT]/.test(c) || c === '?' : /^A/.test(c) || c === '?'));
@@ -489,7 +493,10 @@
         const k = row + ':' + c, ids = (by[k] || []).filter(id => C.filter === 'all' || (C.filter === 'tanna' ? sage(id).kind !== 'amora' : sage(id).kind === 'amora'));
         const open = C.open.has(k);
         const major = ids.filter(id => tierOf(sage(id)) <= 2);
-        const shown = open || major.length === first + 1 ? major : major.slice(0, first);
+        // the cell's most quoted (by Bavli or Mishnah count), then A–Z; opened, all of them A–Z.
+        // The Zugot keep their historical order.
+        const pick = open || major.length === first + 1 ? major : major.slice(0, first);
+        const shown = c === 'Z' ? pick : [...pick].sort(byName);
         const extra = ids.filter(id => C.show.has(id) && !shown.includes(id));
         const list = shown.concat(extra);
         const more = major.length - shown.length;
