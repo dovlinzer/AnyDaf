@@ -504,9 +504,10 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     if (n.inlaw) return d < 0 ? famWord('in_laws', n.f, centre.f) : d > 0 ? famWord('sons_in_law', n.f, centre.f) : '';
     if (d === 0) return n.sib ? famWord('siblings', n.f, centre.f) : n.spouse ? famWord('spouse', n.f, centre.f) : '';
     const k = (d < 0 ? 'up' : 'down') + (Math.abs(d) > 1 ? Math.min(4, Math.abs(d)) : '');
+    if (Math.abs(d) > 2 && !HE()) { const gr = 'Great' + '-great'.repeat(Math.abs(d) - 3) + '-'; return gr + (d < 0 ? (n.f ? 'grandmother' : 'grandfather') : (n.f ? 'granddaughter' : 'grandson')); }
     return (tab[k] || tab[d < 0 ? 'up4' : 'down4'])[sx];
   }
-  const MAXGEN = 4;
+  const MAXGEN = 7;
   function famGraph(id) {
     const nodes = new Map(), edges = [];
     const S0 = sage(id);
@@ -524,12 +525,18 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
       const tag = pn.key + (up ? 'u' : '') + (down ? 'd' : ''); if (!pn.id || done.has(tag)) return; done.add(tag);
       const L = sage(pn.id).links, each = (rels, fn) => rels.forEach(r => (L[r] || []).forEach(l => fn(l, r)));
       if (up && depth < MAXGEN) {
-        each(['father', 'mother', 'parents'], l => { const q = mk(l, pn.gen - 1); if (q) { edge(q, pn, 'pc'); expand(q, true, false, depth + 1); } });
+        each(['father', 'mother', 'parents'], l => { const q = mk(l, pn.gen - 1); if (q) { edge(q, pn, 'pc');
+          if (q.id) expand(q, true, false, depth + 1);
+          else for (const [oid, o] of Object.entries(S.data.sages))   // a father we only have by name (Shimon b. Hillel): a sage who lists a child of that name is HIS father
+            if ((o.links.children || []).some(c => !c.id && c.name === l.name)) { const g = mk({ id: oid }, q.gen - 1); if (g) { edge(g, q, 'pc'); expand(g, true, false, depth + 2); } } } });
         each(['grandparents'], l => { const q = mk(l, pn.gen - 2); if (q) edge(q, pn, 'far'); });
         each(['in_laws'], l => { const q = mk(l, pn.gen - 1, { inlaw: true }); if (q) edge(q, pn, 'far'); });
       }
       if (down && depth < MAXGEN) {
-        each(['children'], l => { const q = mk(l, pn.gen + 1); if (q) { edge(pn, q, 'pc'); expand(q, false, true, depth + 1); } });
+        each(['children'], l => { const q = mk(l, pn.gen + 1); if (q) { edge(pn, q, 'pc');
+          if (q.id) expand(q, false, true, depth + 1);
+          else for (const [oid, o] of Object.entries(S.data.sages))   // a child we only have by name: a sage who lists a father of that name is HIS child
+            if (['father', 'parents'].some(r => (o.links[r] || []).some(c => !c.id && c.name === l.name))) { const g = mk({ id: oid }, q.gen + 1); if (g) { edge(q, g, 'pc'); expand(g, false, true, depth + 2); } } } });
         each(['sons_in_law'], l => { const q = mk(l, pn.gen + 1, { inlaw: true }); if (q) edge(pn, q, 'far'); });
         each(['grandchildren'], l => { const q = mk(l, pn.gen + 2); if (q) edge(pn, q, 'far'); });
       }
