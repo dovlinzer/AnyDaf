@@ -527,6 +527,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
         each(['grandchildren'], l => { const q = mk(l, pn.gen + 2); if (q) edge(pn, q, 'far'); });
       }
       each(['spouse'], l => { const q = mk(l, pn.gen, { spouse: pn.centre }); if (q) edge(pn, q, 'sp'); });
+      if (pn.centre) each(['siblings'], l => { const q = mk(l, pn.gen, { sib: true }); if (q) edge(pn, q, 'sib'); });   // listed brothers and sisters (when the parents are not known)
     }
     expand(C, true, true, 0);
     // his brothers and sisters: the other children of his parents
@@ -724,7 +725,8 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     for (const e of S.famEdges) {
       const A = S.nodes.get(e.a), B = S.nodes.get(e.b); if (!A || !B) continue;
       const a = box(A.el), b = box(B.el);
-      if (e.type === 'sp') { const lft = a.x < b.x ? a : b, rgt = a.x < b.x ? b : a; out += `<line class="fam sp" x1="${lft.r}" y1="${lft.y}" x2="${rgt.l}" y2="${rgt.y}"/>`; }
+      if (e.type === 'sib') { const lft = a.x < b.x ? a : b, rgt = a.x < b.x ? b : a; out += `<line class="dot" x1="${lft.r}" y1="${lft.y}" x2="${rgt.l}" y2="${rgt.y}"/>`; }
+      else if (e.type === 'sp') { const lft = a.x < b.x ? a : b, rgt = a.x < b.x ? b : a; out += `<line class="fam sp" x1="${lft.r}" y1="${lft.y}" x2="${rgt.l}" y2="${rgt.y}"/>`; }
       else if (e.type === 'far') out += `<line class="dot" x1="${a.x}" y1="${a.b}" x2="${b.x}" y2="${b.t}"/>`;
       else { const m = (a.b + b.t) / 2; out += `<path class="tree" d="M${a.x},${a.b} V${m} H${b.x} V${b.t}"/>`; }
     }
