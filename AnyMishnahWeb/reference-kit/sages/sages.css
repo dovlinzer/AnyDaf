@@ -99,3 +99,11 @@
 .sgc-more{font:inherit;font-size:11.5px;border:1px dashed currentColor;border-radius:8px;background:none;color:var(--blue,#1b3a8a);padding:2px 6px;cursor:pointer}
 .sgc .sgc-in{padding:0}
 .sgc-cell.tall{grid-row:span 2}
+.sgx-note{font:italic 600 11px/1 Georgia,serif;width:16px;height:16px;border-radius:50%;border:1px solid currentColor;background:none;
+ color:var(--blue,#1b3a8a);cursor:pointer;padding:0;margin-inline-start:4px;vertical-align:2px;text-decoration:none!important}
+.sgx-scroll{position:relative}
+.sgx-pop{position:absolute;z-index:5;max-width:min(420px,calc(100% - 16px));box-sizing:border-box;background:var(--card,#fff);color:var(--fg,#222);
+ border:1px solid color-mix(in srgb,var(--fg,#222) 25%,transparent);border-radius:10px;box-shadow:0 6px 18px #0003;padding:8px 28px 8px 12px;font-size:13px;line-height:1.5}
+.sgx-pop p{margin:0 0 6px}.sgx-pop p:last-of-type{margin-bottom:0}
+.sgx-popx{position:absolute;top:2px;inset-inline-end:6px;border:0;background:none;color:inherit;font-size:16px;cursor:pointer}
+.sgx-bio button[data-go]{font:inherit;border:0;background:none;color:var(--blue,#1b3a8a);cursor:pointer;padding:0;text-decoration:underline}

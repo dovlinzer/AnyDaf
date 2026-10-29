@@ -94,11 +94,15 @@
   "students": [
    {
     "slug": "rav-ashi",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rav-huna-b-rav-natan",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "name": "מר בר אמימר"
@@ -125,11 +129,15 @@
   "students": [
    {
     "slug": "yose-b-yoezer",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "yose-b-yochanan",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "בפתחה של תקופת הזוגות",
@@ -165,11 +173,15 @@
   "teachers": [
    {
     "slug": "yehudah-b-tabbai",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "shimon-b-shetach",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -186,11 +198,15 @@
   "colleagues": [
    {
     "slug": "shemaiah",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "name": "יהודה בן דורתאי",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "זוג רביעי של תקופת הזוגות",
@@ -206,7 +222,9 @@
   "students": [
    {
     "slug": "shmuel-(amora)",
-    "note": "בנו"
+    "notes": [
+     "בנו"
+    ]
    },
    {
     "slug": "mar-ukva"
@@ -227,11 +245,11 @@
   ],
   "children": [
    {
-    "slug": "shmuel-(amora)"
-   },
-   {
-    "name": "רב שמן בר אבא",
-    "note": "פנחס ו (כנראה"
+    "notes": [
+     "אמורא",
+     "כנראה"
+    ],
+    "name": "שמואל"
    }
   ],
   "active_from": "דור המעבר בין התנאים לאמוראים",
@@ -265,8 +283,10 @@
     "slug": "rabbi-elazar-hakappar"
    },
    {
-    "name": "יהודה בן קלונימוס משפיירא",
-    "note": "רבי חמא (לפי"
+    "notes": [
+     "לפי יהודה בן קלונימוס משפיירא"
+    ],
+    "name": "רבי חמא"
    }
   ],
   "born": "המאה ה-2",
@@ -333,8 +353,7 @@
   ],
   "father": [
    {
-    "slug": "rabbi-hananyah-b-teradyon",
-    "note": "רבי"
+    "slug": "rabbi-hananyah-b-teradyon"
    }
   ],
   "spouse": [
@@ -438,25 +457,31 @@
   ],
   "father": [
    {
-    "name": "אבייה <small>(\"אביה\""
-   },
-   {
-    "name": "\"אבויה\" או \"אבוייה\")</small>"
+    "notes": [
+     "\"אביה\", \"אבויה\" או \"אבוייה\""
+    ],
+    "name": "אבייה <small></small>"
    }
   ],
   "children": [
    {
     "name": "מספר בנות"
-   },
+   }
+  ],
+  "grandchildren": [
    {
-    "name": "נכדו"
-   },
-   {
+    "notes": [
+     "תנא"
+    ],
+    "f": 0,
     "slug": "rabbi-yaakov-b-qorshai"
    }
   ],
   "sons_in_law": [
    {
+    "notes": [
+     "קדושאי/קודשי"
+    ],
     "name": "קרשי <small></small>"
    }
   ],
@@ -510,16 +535,10 @@
   ],
   "father": [
    {
-    "slug": "rabbi-yehudah-nesia-(i)",
-    "note": "או"
-   },
-   {
-    "slug": "rabbi-yehudah-nesia-(ii)",
-    "note": "או"
-   },
-   {
-    "name": "רבי יהודה נשיאה השלישי",
-    "note": "או"
+    "notes": [
+     "רבי יהודה נשיאה השני או רבי יהודה נשיאה השלישי"
+    ],
+    "slug": "rabbi-yehudah-nesia-(i)"
    }
   ],
   "born": "המאה ה-3 / המאה ה-4",
@@ -572,11 +591,15 @@
   "colleagues": [
    {
     "slug": "rabbi-yochanan-b-napacha",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "bar-padda",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "שני לאמוראים",
@@ -598,7 +621,9 @@
    },
    {
     "name": "חייא בר אבא",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "name": "שמואל"
@@ -617,8 +642,10 @@
   ],
   "children": [
    {
-    "name": "זבדי בן לוי",
-    "note": "השערה"
+    "notes": [
+     "השערה"
+    ],
+    "name": "זבדי בן לוי"
    }
   ],
   "active_from": "דור המעבר מתקופת התנאים לתקופת האמוראים",
@@ -661,11 +688,15 @@
    },
    {
     "slug": "avuha-di-shmuel",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "levi-b-sisi",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -684,11 +715,15 @@
   "teachers": [
    {
     "slug": "rav-pappa",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rav-pappi",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "colleagues": [
@@ -697,7 +732,9 @@
    },
    {
     "slug": "rav-ashi",
-    "note": "אחיו - רב אדא סבא"
+    "notes": [
+     "אחיו - רב אדא סבא"
+    ]
    }
   ],
   "father": [
@@ -838,9 +875,6 @@
   "children": [
    {
     "slug": "rabbi-yehudah-nesia-(i)"
-   },
-   {
-    "name": "רבי הלל"
    }
   ],
   "born": "המאה ה-2",
@@ -901,22 +935,20 @@
    },
    {
     "slug": "rabbi-eliezer-b-hyrcanus",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rabbi-elazar-b-azaryah",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "children": [
    {
     "slug": "rabban-shimon-b-gamliel-(ii)"
-   },
-   {
-    "slug": "rabbi-hanina-b-gamliel"
-   },
-   {
-    "name": "רבי יהודה בן גמליאל"
    }
   ],
   "active_from": "80-85",
@@ -959,11 +991,15 @@
   "teachers": [
    {
     "slug": "hillel",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "shammai",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -975,25 +1011,35 @@
    },
    {
     "slug": "rabbi-yose-hakohen",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "name": "שמעון בן נתנאל",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rabbi-elazar-b-arakh",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rabbi-nehunya-b-hakanah",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "colleagues": [
    {
     "name": "רבי אלעזר בר צדוק",
-    "note": "הראשון"
+    "notes": [
+     "הראשון"
+    ]
    },
    {
     "slug": "rabbi-chanina-b-dosa"
@@ -1027,11 +1073,15 @@
    },
    {
     "slug": "rabbi-hizkiyah",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rabbi-yirmeyah",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "colleagues": [
@@ -1040,29 +1090,27 @@
    },
    {
     "slug": "rabbi-assi",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "name": "רבי חייא בר אבא",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "children": [
    {
-    "slug": "avimi-b-abbahu",
-    "note": ".}}"
-   },
-   {
-    "name": "אביי. יש טוענים שהוא אבימי.}}"
-   },
-   {
-    "name": "רבי זעירא.}}"
-   },
-   {
-    "name": "רבי חנינא.}}"
-   },
-   {
-    "name": "ורבי שמעון.}}"
+    "notes": [
+     "ראו אודותיו כתובות פה א.",
+     "מוזכר בקידושין יט א. יש טוענים שהוא אבימי.",
+     "מוזכר בברכות ט א.",
+     "מוזכר בפסחים ג ז.",
+     "מוזכר ב."
+    ],
+    "slug": "avimi-b-abbahu"
    }
   ],
   "born": "סוף המאה ה-3",
@@ -1196,8 +1244,10 @@
     "name": "אשת יהושע בן כפוסאי"
    },
    {
-    "slug": "rabbi-yehoshua-b-korha",
-    "note": "שנוי במחלוקת"
+    "notes": [
+     "שנוי במחלוקת"
+    ],
+    "slug": "rabbi-yehoshua-b-korha"
    }
   ],
   "spouse": [
@@ -1213,9 +1263,6 @@
   "sons_in_law": [
    {
     "slug": "shimon-b-azzai"
-   },
-   {
-    "name": "יהושע בן כפוסאי"
    }
   ],
   "born": "לפי המסורת בין שנת 16 לשנת 17",
@@ -1326,7 +1373,9 @@
    },
    {
     "slug": "rabbi-yose-b-chanina",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rabbi-yitzhak-nappaha"
@@ -1341,7 +1390,9 @@
    },
    {
     "slug": "rebbi-abba-b-rebbi-mamal",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "colleagues": [
@@ -1371,11 +1422,15 @@
    },
    {
     "name": "חייא בר אבא",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "name": "ירמיה",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "active_from": "דור שלישי לאמוראי ארץ ישראל",
@@ -1417,15 +1472,21 @@
    },
    {
     "slug": "rabbi-yishmael-b-yose",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "name": "רבי חייא",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "bar-kappara",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -1443,7 +1504,9 @@
    },
    {
     "slug": "rabbi-shimon-b-lakish",
-    "note": "ועוד"
+    "notes": [
+     "ועוד"
+    ]
    }
   ],
   "colleagues": [
@@ -1459,11 +1522,17 @@
   ],
   "father": [
    {
+    "notes": [
+     "חמא הכהן / חמא בר אבא - משוער"
+    ],
     "name": "חמא"
    }
   ],
   "children": [
    {
+    "notes": [
+     "הראשון"
+    ],
     "slug": "rabbi-hama-b-r-hanina"
    }
   ],
@@ -1516,28 +1585,25 @@
   ],
   "father": [
    {
-    "slug": "rabbi-dosa-b-harkinas",
-    "note": "<small>(השערה מ)</small>"
-   },
-   {
-    "name": "המאה ה-14",
-    "note": "<small>(השערה מ)</small>"
+    "notes": [
+     "השערה מהמאה ה-14"
+    ],
+    "slug": "rabbi-dosa-b-harkinas"
    }
   ],
   "children": [
    {
-    "name": "בת"
+    "notes": [
+     "תענית כה א",
+     "אבות דרבי נתן, ח', ח'"
+    ],
+    "name": "בת, בן"
    },
    {
-    "name": "}} בן"
-   },
-   {
-    "name": "רב סעדיה בן יוסף אלפיומי גאון",
-    "note": "<small>(מסורת מ)</small>"
-   },
-   {
-    "name": "המאה ה-12",
-    "note": "<small>(מסורת מ)</small>"
+    "notes": [
+     "מסורת מהמאה ה-12"
+    ],
+    "name": "רב סעדיה בן יוסף אלפיומי גאון"
    }
   ],
   "spouse": [
@@ -1580,22 +1646,13 @@
   "children": [
    {
     "name": "יהודה"
-   },
-   {
-    "name": "חזקיה"
-   },
-   {
-    "name": "פזי"
-   },
-   {
-    "name": "טוי"
-   },
-   {
-    "name": "אושעיא"
    }
   ],
   "spouse": [
    {
+    "notes": [
+     "אשת רבי חייא"
+    ],
     "name": "יהודית"
    }
   ],
@@ -1622,22 +1679,13 @@
   "children": [
    {
     "name": "יהודה"
-   },
-   {
-    "name": "חזקיה"
-   },
-   {
-    "name": "פזי"
-   },
-   {
-    "name": "טוי"
-   },
-   {
-    "name": "אושעיא"
    }
   ],
   "spouse": [
    {
+    "notes": [
+     "אשת רבי חייא"
+    ],
     "name": "יהודית"
    }
   ],
@@ -1685,7 +1733,10 @@
   ],
   "father": [
    {
-    "name": "רבי ינאי (תנא)"
+    "notes": [
+     "תנא"
+    ],
+    "slug": "rabbi-yannai"
    }
   ],
   "active_from": "דור חמישי לתנאים",
@@ -1704,11 +1755,15 @@
   "students": [
    {
     "slug": "rabbi-yehoshua-b-hananyah",
-    "note": "לכאורה"
+    "notes": [
+     "לכאורה"
+    ]
    },
    {
     "name": "תלמיד-חבר",
-    "note": "לכאורה"
+    "notes": [
+     "לכאורה"
+    ]
    }
   ],
   "colleagues": [
@@ -1795,15 +1850,21 @@
   "colleagues": [
    {
     "slug": "rabbi-ammi",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rabbi-assi",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rav-zera",
-    "note": "ועוד"
+    "notes": [
+     "ועוד"
+    ]
    }
   ],
   "active_from": "שני ושלישי דור שני ושלישי לאמוראים בארץ ישראל",
@@ -1892,6 +1953,9 @@
   ],
   "mother": [
    {
+    "notes": [
+     "מסורת עממית"
+    ],
     "name": "שרה"
    }
   ],
@@ -1902,20 +1966,23 @@
   ],
   "spouse": [
    {
-    "name": "בתו של רבי יוסי ברבי שמעון בן לקוניא הכהן"
-   },
-   {
-    "name": "שמעון בן יוסי (ברבי שמעון) בן לקוניא הכהן",
-    "note": "או בתו של רבי"
+    "notes": [
+     "ברבי שמעון"
+    ],
+    "name": "",
+    "f": 1,
+    "child_of": {
+     "name": "שמעון בן יוסי  בן לקוניא הכהן"
+    }
    }
   ],
   "in_laws": [
    {
-    "name": "רבי יוסי  בן לקוניא הכהן"
-   },
-   {
-    "name": "שמעון בן יוסי (ברבי שמעון) בן לקוניא הכהן",
-    "note": "או רבי"
+    "notes": [
+     "ברבי שמעון",
+     "ברבי שמעון"
+    ],
+    "name": "שמעון בן יוסי  בן לקוניא הכהן"
    }
   ],
   "born": "המאה ה-2",
@@ -1946,13 +2013,17 @@
    },
    {
     "slug": "shimon-bar-yochai",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "colleagues": [
    {
     "slug": "rabbi-akiva",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "father": [
@@ -1962,8 +2033,10 @@
   ],
   "children": [
    {
-    "slug": "rabbi-shimon-b-elazar",
-    "note": "רבי  (השערה"
+    "notes": [
+     "השערה"
+    ],
+    "slug": "rabbi-shimon-b-elazar"
    }
   ],
   "active_from": "הדור השלישי",
@@ -2009,7 +2082,9 @@
   "teachers": [
    {
     "slug": "rabban-yochanan-b-zakkai",
-    "note": "השערה"
+    "notes": [
+     "השערה"
+    ]
    }
   ],
   "colleagues": [
@@ -2062,11 +2137,15 @@
   "colleagues": [
    {
     "slug": "rabbi-yohanan-b-nuri",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rabbi-yohanan-b-berokah",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "active_from": "תחילת המאה ה-1",
@@ -2136,7 +2215,9 @@
    },
    {
     "slug": "rabbi-yose-b-kippar",
-    "note": "שנוי במחלוקת"
+    "notes": [
+     "שנוי במחלוקת"
+    ]
    }
   ],
   "colleagues": [
@@ -2167,24 +2248,24 @@
   ],
   "father": [
    {
+    "notes": [
+     "אבי רבי אליעזר"
+    ],
     "name": "הורקנוס"
    }
   ],
   "children": [
    {
-    "name": "מספר בנים"
-   },
-   {
-    "name": "הורקנוס בן אליעזר",
-    "note": "ביניהם:"
+    "name": "הורקנוס בן אליעזר"
    }
   ],
   "spouse": [
    {
-    "name": "אימא שלום"
-   },
-   {
-    "name": "בת אחותו"
+    "name": "אימא שלום / בת אחותו",
+    "alts": true,
+    "notes": [
+     "בת אחותו: נישואין שניים"
+    ]
    }
   ],
   "in_laws": [
@@ -2225,7 +2306,9 @@
   "teachers": [
    {
     "slug": "rav-huna",
-    "note": "ועוד"
+    "notes": [
+     "ועוד"
+    ]
    }
   ],
   "students": [
@@ -2239,7 +2322,9 @@
   "colleagues": [
    {
     "slug": "rav-nachman-b-yaakov",
-    "note": "ועוד"
+    "notes": [
+     "ועוד"
+    ]
    }
   ]
  },
@@ -2248,7 +2333,9 @@
   "students": [
    {
     "slug": "rabbi-yose-b-chanina",
-    "note": "רבי יודה בן פזי;"
+    "notes": [
+     "רבי יודה בן פזי;"
+    ]
    }
   ],
   "colleagues": [
@@ -2369,11 +2456,15 @@
   "colleagues": [
    {
     "slug": "rabbi-abahu",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rabbi-yitzhak-nappaha",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "שלישי אמוראים",
@@ -2389,19 +2480,27 @@
   "colleagues": [
    {
     "slug": "rabbi-abahu",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rabbi-yitzhak-nappaha",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rabbi-abba",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rav-yitzhak-b-yosef",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "שלישי אמוראים",
@@ -2438,11 +2537,15 @@
   "teachers": [
    {
     "slug": "rabbi-yirmeyah",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rabbi-abahu",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -2496,8 +2599,10 @@
     "name": "יוחנן ברבי אילעאי"
    },
    {
-    "slug": "rabbi-yose-b-yehudah",
-    "note": "נכד"
+    "notes": [
+     "נכד"
+    ],
+    "slug": "rabbi-yose-b-yehudah"
    }
   ],
   "born": "המאה ה-1",
@@ -2520,7 +2625,9 @@
   "teachers": [
    {
     "slug": "rabbi-yonah",
-    "note": "אביו"
+    "notes": [
+     "אביו"
+    ]
    },
    {
     "slug": "rabbi-yose-b-zevida"
@@ -2595,12 +2702,6 @@
   "children": [
    {
     "slug": "rabbi-yochanan-b-matia"
-   },
-   {
-    "name": "יהושע בן מתיא"
-   },
-   {
-    "name": "אלעזר בן מתיא"
    }
   ],
   "born": "המאה ה-1",
@@ -2739,7 +2840,9 @@
    },
    {
     "slug": "rabbi-elazar-b-arakh",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "colleagues": [
@@ -2825,11 +2928,15 @@
   "students": [
    {
     "slug": "rabbi-eliezer-b-yaakov-(ii)",
-    "note": "לפי"
+    "notes": [
+     "לפי"
+    ]
    },
    {
     "name": "מדרש תהילים",
-    "note": "לפי"
+    "notes": [
+     "לפי"
+    ]
    }
   ],
   "colleagues": [
@@ -2848,25 +2955,36 @@
   ],
   "father": [
    {
+    "notes": [
+     "על פי מסורת עממית, נקבר יחדיו בצפת"
+    ],
     "name": "יאיר"
    }
   ],
-  "children": [
+  "grandchildren": [
    {
-    "name": "לפי הזוהר: נכדו"
+    "notes": [
+     "לפי הזוהר"
+    ],
+    "f": 0,
+    "slug": "rabbi-elazar-b-shimon"
    },
    {
-    "slug": "rabbi-elazar-b-shimon",
-    "note": ". נינו"
-   },
-   {
+    "notes": [
+     "לפי הזוהר",
+     "נינו"
+    ],
+    "f": 0,
     "name": "יוסי ברבי אלעזר"
    }
   ],
   "spouse": [
    {
-    "slug": "shimon-bar-yochai",
-    "note": "בתו של רבי"
+    "name": "",
+    "f": 1,
+    "child_of": {
+     "slug": "shimon-bar-yochai"
+    }
    }
   ],
   "in_laws": [
@@ -2876,8 +2994,10 @@
   ],
   "sons_in_law": [
    {
-    "slug": "shimon-bar-yochai",
-    "note": "לפי חלקים מהזוהר"
+    "notes": [
+     "לפי חלקים מהזוהר"
+    ],
+    "slug": "shimon-bar-yochai"
    }
   ],
   "born": "המאה ה-2",
@@ -2913,11 +3033,15 @@
   "teachers": [
    {
     "slug": "rabbi-meir",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "shimon-bar-yochai",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "colleagues": [
@@ -2941,7 +3065,9 @@
   "colleagues": [
    {
     "slug": "rabbi-elazar-b-pedat",
-    "note": "וחבריו"
+    "notes": [
+     "וחבריו"
+    ]
    }
   ],
   "active_from": "שני ושלישי דור שני ושלישי לאמוראים בארץ ישראל",
@@ -2979,11 +3105,15 @@
   "teachers": [
    {
     "slug": "rabbi-meir",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "shimon-bar-yochai",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -3000,11 +3130,15 @@
    },
    {
     "slug": "sumkhos",
-    "note": "השני"
+    "notes": [
+     "השני"
+    ]
    },
    {
     "slug": "rabban-shimon-b-gamliel-(ii)",
-    "note": "השני"
+    "notes": [
+     "השני"
+    ]
    },
    {
     "name": "רבי יוסי בן משולם"
@@ -3091,11 +3225,15 @@
    },
    {
     "slug": "rabban-shimon-b-gamliel-(ii)",
-    "note": "זיהוי מ"
+    "notes": [
+     "זיהוי מ"
+    ]
    },
    {
     "name": "המאה ה-10",
-    "note": "זיהוי מ"
+    "notes": [
+     "זיהוי מ"
+    ]
    }
   ],
   "father": [
@@ -3103,11 +3241,16 @@
     "name": "יהודה איש כפר עכו"
    },
    {
+    "notes": [
+     "השערה"
+    ],
     "name": "רבי יהודה בן אגרא איש כפר עכו"
    },
    {
-    "slug": "rabbi-yehudah-b-ilai",
-    "note": "השערה"
+    "notes": [
+     "השערה"
+    ],
+    "slug": "rabbi-yehudah-b-ilai"
    }
   ],
   "born": "המחצית הראשונה של המאה ה-2 <small>(משוער)</small>",
@@ -3135,7 +3278,9 @@
   "colleagues": [
    {
     "slug": "rabbi-akiva",
-    "note": "תלמידי"
+    "notes": [
+     "תלמידי"
+    ]
    }
   ],
   "active_from": "הדור הרביעי לתנאים",
@@ -3229,7 +3374,9 @@
   "teachers": [
    {
     "slug": "rabban-yochanan-b-zakkai",
-    "note": "רבן"
+    "notes": [
+     "רבן"
+    ]
    }
   ],
   "students": [
@@ -3261,8 +3408,7 @@
   ],
   "children": [
    {
-    "name": "שמעון ברבי טרפון",
-    "note": "ייתכן שרבי  ועוד מספר צאצאים}}"
+    "name": "שמעון ברבי טרפון"
    }
   ],
   "born": "המאה ה-1",
@@ -3347,15 +3493,21 @@
   "teachers": [
    {
     "slug": "rabbi-abahu",
-    "note": "; ;"
+    "notes": [
+     "; ;"
+    ]
    },
    {
     "slug": "rabbi-yitzhak",
-    "note": "; ;"
+    "notes": [
+     "; ;"
+    ]
    },
    {
     "slug": "rabbi-assi",
-    "note": "; ;"
+    "notes": [
+     "; ;"
+    ]
    }
   ],
   "students": [
@@ -3366,19 +3518,27 @@
   "colleagues": [
    {
     "slug": "rabbi-yirmeyah",
-    "note": ";"
+    "notes": [
+     ";"
+    ]
    },
    {
     "slug": "rav-zera",
-    "note": ";"
+    "notes": [
+     ";"
+    ]
    },
    {
     "slug": "rabbi-yose-b-zevida",
-    "note": ";"
+    "notes": [
+     ";"
+    ]
    },
    {
     "slug": "rabbi-yitzhak-nappaha",
-    "note": ";"
+    "notes": [
+     ";"
+    ]
    }
   ],
   "children": [
@@ -3432,11 +3592,15 @@
    },
    {
     "slug": "rabbi-yohanan-b-berokah",
-    "note": "רבי  ורבי"
+    "notes": [
+     "רבי ורבי"
+    ]
    },
    {
     "slug": "rabbi-elazar-hisma",
-    "note": "רבי  ורבי"
+    "notes": [
+     "רבי ורבי"
+    ]
    }
   ],
   "colleagues": [
@@ -3445,15 +3609,21 @@
    },
    {
     "slug": "rabbi-eliezer-b-hyrcanus",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rabbi-elazar-b-azaryah",
-    "note": "רבי  ורבי"
+    "notes": [
+     "רבי ורבי"
+    ]
    },
    {
     "slug": "rabbi-yohanan-b-nuri",
-    "note": "רבי  ורבי"
+    "notes": [
+     "רבי ורבי"
+    ]
    }
   ],
   "born": "המאה ה-1",
@@ -3528,7 +3698,9 @@
    },
    {
     "name": "חייא בר אבא",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rebbi-hamai-b-uqba"
@@ -3553,6 +3725,9 @@
   ],
   "father": [
    {
+    "notes": [
+     "או ליואי"
+    ],
     "name": "לוי"
    }
   ],
@@ -3561,18 +3736,29 @@
     "name": "יוסף בריה דרבי יהושע בן לוי"
    },
    {
-    "slug": "rabbi-yehudah-nesia-(i)",
-    "note": "בתו של  (משוער"
+    "notes": [
+     "משוער"
+    ],
+    "name": "",
+    "f": 1,
+    "child_of": {
+     "slug": "rabbi-yehudah-nesia-(i)"
+    }
    },
    {
-    "name": "מיאשה בר בריה דרבי יהושע בן לוי",
-    "note": "נכד"
+    "notes": [
+     "נכד"
+    ],
+    "name": "מיאשה בר בריה דרבי יהושע בן לוי"
    }
   ],
   "spouse": [
    {
-    "name": "יוסי בן פטרוס",
-    "note": "בתו של"
+    "name": "",
+    "f": 1,
+    "child_of": {
+     "name": "יוסי בן פטרוס"
+    }
    }
   ],
   "in_laws": [
@@ -3582,8 +3768,10 @@
   ],
   "sons_in_law": [
    {
-    "slug": "rabbi-yehudah-nesia-(i)",
-    "note": "משוער"
+    "notes": [
+     "משוער"
+    ],
+    "slug": "rabbi-yehudah-nesia-(i)"
    }
   ],
   "born": "המאה ה-2 / המאה ה-3",
@@ -3657,7 +3845,10 @@
   ],
   "father": [
    {
-    "slug": "rabbi-ilai-(i)"
+    "notes": [
+     "תנא"
+    ],
+    "name": "אלעאי הזקן"
    }
   ],
   "children": [
@@ -3708,7 +3899,9 @@
   "colleagues": [
    {
     "slug": "rebbi-ayvu-b-naggari",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rav-huna"
@@ -3756,7 +3949,9 @@
    },
    {
     "name": "הלל",
-    "note": "אחיו"
+    "notes": [
+     "אחיו"
+    ]
    },
    {
     "name": "אוריגנס"
@@ -4012,7 +4207,9 @@
    },
    {
     "slug": "rabbi-hanina-b-pappa1",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "children": [
@@ -4063,22 +4260,30 @@
    },
    {
     "name": "חייא בר אבא",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rebbi-benjamin-bar-jephet",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rabbi-ammi"
    },
    {
     "slug": "rebbi-parnakh",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rabbi-assi",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "colleagues": [
@@ -4302,7 +4507,9 @@
   "teachers": [
    {
     "slug": "abba-halafta",
-    "note": "אביו"
+    "notes": [
+     "אביו"
+    ]
    },
    {
     "slug": "rabbi-akiva"
@@ -4314,7 +4521,9 @@
   "students": [
    {
     "slug": "rabi",
-    "note": ";"
+    "notes": [
+     ";"
+    ]
    },
    {
     "slug": "issi-b-yehudah"
@@ -4335,24 +4544,14 @@
    },
    {
     "slug": "rabbi-elazar-b-shamua",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "children": [
    {
     "slug": "rabbi-yishmael-b-yose"
-   },
-   {
-    "slug": "rabbi-menahem-b-r-yose"
-   },
-   {
-    "name": "רבי אלעזר ברבי יוסי"
-   },
-   {
-    "name": "רבי חלפתא ברבי יוסי"
-   },
-   {
-    "name": "רבי אבטילס ברבי יוסי"
    }
   ],
   "active_from": "דור רביעי לתנאים",
@@ -4371,7 +4570,9 @@
    },
    {
     "slug": "rebbi-hamai-b-uqba",
-    "note": "מסרו בשמו דברי הלכה"
+    "notes": [
+     "מסרו בשמו דברי הלכה"
+    ]
    },
    {
     "slug": "rabbi-yehudah-b-pazi"
@@ -4393,7 +4594,9 @@
   "teachers": [
    {
     "slug": "rabbi-eliezer-b-hyrcanus",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "colleagues": [
@@ -4487,7 +4690,9 @@
   "students": [
    {
     "slug": "rebbi-yose-b-rebbu-abun",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "active_from": "אמורא בדור השלישי",
@@ -4507,7 +4712,9 @@
    },
    {
     "slug": "rabbi-yohanan-b-nuri",
-    "note": "אמר משמו"
+    "notes": [
+     "אמר משמו"
+    ]
    }
   ],
   "students": [
@@ -4611,8 +4818,7 @@
   ],
   "children": [
    {
-    "name": "אחי ברבי יאשיה",
-    "note": "רבי"
+    "name": "אחי ברבי יאשיה"
    }
   ],
   "active_from": "דור רביעי לתנאים",
@@ -4623,18 +4829,24 @@
   "teachers": [
    {
     "slug": "rabbi-shimon-b-lakish",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "slug": "rabbi-elazar-b-pedat"
    },
    {
     "slug": "rav-yehudah-b-yechezkel",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rabbi-ammi",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "colleagues": [
@@ -4691,7 +4903,9 @@
    },
    {
     "slug": "rav",
-    "note": "ועוד"
+    "notes": [
+     "ועוד"
+    ]
    }
   ],
   "colleagues": [
@@ -4756,11 +4970,11 @@
   ],
   "spouse": [
    {
-    "slug": "rav-chisda",
-    "note": "בתו של"
-   },
-   {
-    "name": "רבו"
+    "name": "",
+    "f": 1,
+    "child_of": {
+     "slug": "rav-chisda"
+    }
    }
   ],
   "active_from": "דור רביעי לאמוראי בבל",
@@ -4774,7 +4988,9 @@
    },
    {
     "slug": "rav-yehudah-b-yechezkel",
-    "note": "אחיו"
+    "notes": [
+     "אחיו"
+    ]
    }
   ],
   "active_from": "שני לאמוראי בבל",
@@ -4827,11 +5043,15 @@
    },
    {
     "slug": "amemar",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "mar-zutra",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "colleagues": [
@@ -4885,7 +5105,9 @@
   "teachers": [
    {
     "slug": "rav-sheshet",
-    "note": "רבו המובהק"
+    "notes": [
+     "רבו המובהק"
+    ]
    },
    {
     "slug": "rav"
@@ -4957,9 +5179,6 @@
   "children": [
    {
     "slug": "mar-b-rav-ashi"
-   },
-   {
-    "name": "רב סמא בריה דרב אשי"
    }
   ],
   "born": "352",
@@ -5082,7 +5301,9 @@
    },
    {
     "name": "אידי בר אבין",
-    "note": "רב"
+    "notes": [
+     "רב"
+    ]
    },
    {
     "name": "רב שיזבי"
@@ -5128,11 +5349,15 @@
   "colleagues": [
    {
     "slug": "abaye",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rava",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "דור חמישי לאמוראי בבלי",
@@ -5175,7 +5400,9 @@
    },
    {
     "slug": "rabbi-yitzhak-nappaha",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    }
   ],
   "active_from": "דור שני לאמוראים",
@@ -5201,7 +5428,9 @@
   "teachers": [
    {
     "slug": "rav",
-    "note": "חותנו"
+    "notes": [
+     "חותנו"
+    ]
    }
   ],
   "colleagues": [
@@ -5213,7 +5442,9 @@
    },
    {
     "slug": "rav-chisda",
-    "note": "חתנו"
+    "notes": [
+     "חתנו"
+    ]
    },
    {
     "slug": "rav-huna"
@@ -5227,11 +5458,15 @@
   "teachers": [
    {
     "slug": "rav-huna",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rav-chisda",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -5247,11 +5482,15 @@
   "teachers": [
    {
     "slug": "rav",
-    "note": "אביו"
+    "notes": [
+     "אביו"
+    ]
    },
    {
     "slug": "rav-hanan-b-rabbah",
-    "note": "גיסו"
+    "notes": [
+     "גיסו"
+    ]
    },
    {
     "name": "חתנו של רב)"
@@ -5278,7 +5517,10 @@
   ],
   "father": [
    {
-    "slug": "rav"
+    "notes": [
+     "אמורא"
+    ],
+    "name": "רב"
    }
   ],
   "active_from": "שלישי אמוראים",
@@ -5318,11 +5560,15 @@
   "teachers": [
    {
     "slug": "rav-nachman-b-yaakov",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rav-sheshet",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "colleagues": [
@@ -5331,11 +5577,15 @@
    },
    {
     "slug": "rav-aha-b-rav-huna",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rav-safra",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rava"
@@ -5370,11 +5620,15 @@
   "teachers": [
    {
     "slug": "abaye",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rava",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "colleagues": [
@@ -5446,28 +5700,27 @@
   ],
   "children": [
    {
-    "name": "בנו"
-   },
-   {
+    "notes": [
+     "או אחיו"
+    ],
+    "f": 0,
     "name": "מר זוטרא השני"
    },
    {
-    "name": "בתו"
-   },
-   {
+    "f": 1,
     "name": "שושנדוחט"
+   }
+  ],
+  "grandchildren": [
+   {
+    "f": 0,
+    "name": "בהראם החמישי"
    },
    {
-    "name": "נכדו"
-   },
-   {
-    "name": "בהראם החמישי",
-    "note": "{{אנ|Bahram V}}"
-   },
-   {
-    "name": "נינו"
-   },
-   {
+    "notes": [
+     "נינו"
+    ],
+    "f": 0,
     "name": "יזדגרד השני"
    }
   ],
@@ -5495,11 +5748,15 @@
   "teachers": [
    {
     "slug": "rav",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "shmuel-(amora)",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -5548,10 +5805,7 @@
   ],
   "children": [
    {
-    "name": "רב ששת ורב שישא בריה דרב אידי"
-   },
-   {
-    "name": "רב יהושע בריה דרב אידי"
+    "name": "רב ששת ורב שישא בריה דרב אידי, רב יהושע בריה דרב אידי"
    }
   ],
   "active_from": "רביעי לאמוראי בבל אמוראים",
@@ -5566,10 +5820,7 @@
   ],
   "children": [
    {
-    "name": "רב ששת ורב שישא בריה דרב אידי"
-   },
-   {
-    "name": "רב יהושע בריה דרב אידי"
+    "name": "רב ששת ורב שישא בריה דרב אידי, רב יהושע בריה דרב אידי"
    }
   ],
   "active_from": "רביעי לאמוראי בבל אמוראים",
@@ -5595,9 +5846,6 @@
   "children": [
    {
     "name": "מר זוטרא בריה דרב מרי"
-   },
-   {
-    "slug": "rav-adda-the-elder"
    }
   ]
  },
@@ -5606,11 +5854,15 @@
   "teachers": [
    {
     "slug": "rav",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "shmuel-(amora)",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "שני אמוראים",
@@ -5641,8 +5893,7 @@
     "slug": "shmuel-(amora)"
    },
    {
-    "slug": "rabbah-b-avuha",
-    "note": "}}"
+    "slug": "rabbah-b-avuha"
    }
   ],
   "students": [
@@ -5665,11 +5916,15 @@
   "colleagues": [
    {
     "slug": "rav-huna",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rav-chisda",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "שני לאמוראי בבל",
@@ -5694,7 +5949,9 @@
   "students": [
    {
     "slug": "ravina-(i)",
-    "note": "וחבריו"
+    "notes": [
+     "וחבריו"
+    ]
    }
   ],
   "colleagues": [
@@ -5713,11 +5970,15 @@
   "teachers": [
    {
     "slug": "abaye",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rava",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "name": "רב אידי בר אבין"
@@ -5726,11 +5987,15 @@
   "students": [
    {
     "slug": "ravina-(i)",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rav-ashi",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "name": "רב אידי בר אבין (השני)"
@@ -5755,8 +6020,7 @@
   ],
   "children": [
    {
-    "name": "אבא מרי בר פפא",
-    "note": "עשרה בנים בכללם"
+    "name": "אבא מרי בר פפא"
    }
   ],
   "spouse": [
@@ -5850,11 +6114,15 @@
   "teachers": [
    {
     "slug": "abaye",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rava",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "father": [
@@ -5902,11 +6170,15 @@
   "colleagues": [
    {
     "slug": "abaye",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rava",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "הדור החמישי לאמוראי בבל אמוראים",
@@ -5933,11 +6205,15 @@
   "students": [
    {
     "slug": "rabbah-b-nachmani",
-    "note": "ו שכיהנו אחריו בראש ישיבת פומבדיתא"
+    "notes": [
+     "ו שכיהנו אחריו בראש ישיבת פומבדיתא"
+    ]
    },
    {
     "slug": "rav-yosef-b-chiyya",
-    "note": "ו שכיהנו אחריו בראש ישיבת פומבדיתא"
+    "notes": [
+     "ו שכיהנו אחריו בראש ישיבת פומבדיתא"
+    ]
    },
    {
     "slug": "rav-zera"
@@ -6027,15 +6303,21 @@
   "colleagues": [
    {
     "name": "רב שמואל",
-    "note": "בנו של  ו"
+    "notes": [
+     "בנו של ו"
+    ]
    },
    {
     "slug": "rabbah-bar-bar-chanah",
-    "note": "בנו של  ו"
+    "notes": [
+     "בנו של ו"
+    ]
    },
    {
     "slug": "rav-aha-b-rav-huna",
-    "note": "בנו של  ו"
+    "notes": [
+     "בנו של ו"
+    ]
    }
   ],
   "active_from": "דור רביעי לאמוראי בבל",
@@ -6046,7 +6328,9 @@
   "teachers": [
    {
     "slug": "rav-yehudah-b-yechezkel",
-    "note": "רב"
+    "notes": [
+     "רב"
+    ]
    }
   ],
   "students": [
@@ -6146,7 +6430,9 @@
    },
    {
     "slug": "rav-chananiyah-b-shelemya",
-    "note": "רב"
+    "notes": [
+     "רב"
+    ]
    },
    {
     "slug": "rav-amram"
@@ -6178,7 +6464,9 @@
    },
    {
     "slug": "rav-yosef-b-chiyya",
-    "note": "בר חייא"
+    "notes": [
+     "בר חייא"
+    ]
    }
   ],
   "students": [
@@ -6202,11 +6490,15 @@
    },
    {
     "slug": "rav-ashi",
-    "note": "לפי ה) ועוד"
+    "notes": [
+     "לפי ה) ועוד"
+    ]
    },
    {
     "name": "רמב\"ם",
-    "note": "לפי ה) ועוד"
+    "notes": [
+     "לפי ה) ועוד"
+    ]
    }
   ],
   "colleagues": [
@@ -6284,7 +6576,9 @@
    },
    {
     "name": "רבי פטרוקי",
-    "note": "מסרו בשמו דברי הלכה"
+    "notes": [
+     "מסרו בשמו דברי הלכה"
+    ]
    }
   ],
   "active_from": "שני אמוראים, ארץ ישראל",
@@ -6442,15 +6736,21 @@
    },
    {
     "slug": "rabbi-yishmael-b-yose",
-    "note": "רבי"
+    "notes": [
+     "רבי"
+    ]
    },
    {
     "name": "רבי חייא",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "bar-kappara",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -6468,7 +6768,9 @@
    },
    {
     "slug": "rabbi-shimon-b-lakish",
-    "note": "ועוד"
+    "notes": [
+     "ועוד"
+    ]
    }
   ],
   "colleagues": [
@@ -6484,11 +6786,17 @@
   ],
   "father": [
    {
+    "notes": [
+     "חמא הכהן / חמא בר אבא - משוער"
+    ],
     "name": "חמא"
    }
   ],
   "children": [
    {
+    "notes": [
+     "הראשון"
+    ],
     "slug": "rabbi-hama-b-r-hanina"
    }
   ],
@@ -6565,11 +6873,15 @@
   "students": [
    {
     "name": "רבי אלעזר ברבי יוסי",
-    "note": "או"
+    "notes": [
+     "או"
+    ]
    },
    {
     "name": "רבי אלעזר דרומה",
-    "note": "או"
+    "notes": [
+     "או"
+    ]
    }
   ],
   "active_from": "הדור החמישי לאמוראי ארץ ישראל",
@@ -6640,11 +6952,15 @@
   "teachers": [
    {
     "slug": "yehudah-b-tabbai",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "shimon-b-shetach",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -6661,11 +6977,15 @@
   "colleagues": [
    {
     "slug": "avtalyon",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "name": "יהודה בן דורתאי",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "זוג רביעי של תקופת הזוגות",
@@ -6799,80 +7119,56 @@
   ],
   "mother": [
    {
-    "name": "חמי"
-   },
-   {
-    "name": "שרה"
-   },
-   {
-    "name": "אסתר"
+    "name": "חמי / שרה / אסתר",
+    "alts": true,
+    "notes": [
+     "חמי: זיהוי מהמאה ה-13",
+     "שרה: זיהוי עממי מהמאה ה-20",
+     "אסתר: זיהוי עממי מהמאה ה-21",
+     "אסתר: רבי אביגדור הכהן הבין מהירושלמי שלאמו קראו חמי (פירושים ופסקים על התורה לרבינו אביגדור הצרפתי, פרשת בשלח, וראו בספרו של רבי יעקב חיים סופר מנוחת שלום חלק ט' סימן י\"ג, ירושלים תשס\"ח) ככל הנראה, נגד פשטות דברי הירושלמי. לפי מקור מאוחר יותר, היא נקראה שרה (ספר 'נחלת אבות', של רבי יוסף משאש, דרוש קמו). הרב חיים כהן (\"החלבן\") טוען שהיו לה שני שמות ואחד מהם היה אסתר (הרב יהודה שינפלד בספר אוסרי לגפן חלק יד בירושלים תשע\"א, במדור \"מילי דחסידותא\")"
+    ]
    }
   ],
   "children": [
    {
-    "name": "בנו"
-   },
-   {
+    "f": 0,
     "slug": "rabbi-elazar-b-shimon"
    },
    {
-    "name": "בתו"
+    "f": 1,
+    "name": "",
+    "wife_of": {
+     "slug": "rabbi-pinchas-b-yair"
+    }
    },
    {
-    "slug": "rabbi-pinchas-b-yair",
-    "note": "אשתו של"
-   },
+    "notes": [
+     "שנוי במחלוקת",
+     "בשני מקורות תלמודיים (בבא מציעא פו ב, תענית יד א) הוזכר שם אביו, ושם נאמר ששמו היה \"רבי ינאי בן רבי ישמעאל\"; אולם בכתב-יד פירנצה נכתב \"בן רבי שמעון\". בתלמוד הירושלמי (שבת יג ז) מוזכר בנו, \"רבי שמעון בן רבי ינאי\". וכן מופיע במדרש: \"רבי ינאי ברשב\"י\" (תנחומא, יתרו, ג). מספר חוקרים (כגון אהרן היימן, רבי שמעון ברבי ינאי, תולדות תנאים ואמוראים, חלק ג, עמוד 1191) דוחים את הרעיון כי רבי ינאי הוא בנו של רשב\"י."
+    ],
+    "slug": "rabbi-yannai"
+   }
+  ],
+  "grandchildren": [
    {
-    "name": "נכדו"
-   },
-   {
+    "f": 0,
     "name": "רבי יוסי ברבי אלעזר"
-   },
-   {
-    "slug": "rabbi-yannai",
-    "note": "שנוי במחלוקת"
-   },
-   {
-    "name": ") הוזכר שם אביו"
-   },
-   {
-    "name": "ושם נאמר ששמו היה \"רבי ינאי בן רבי ישמעאל\"; אולם בכתב-יד פירנצה נכתב \"בן רבי שמעון\". בתלמוד הירושלמי  מוזכר בנו"
-   },
-   {
-    "name": "\"רבי שמעון בן רבי ינאי\". וכן מופיע במדרש: \"רבי ינאי ברשב\"י\" (תנחומא"
-   },
-   {
-    "name": "יתרו"
-   },
-   {
-    "name": "אהרן היימן",
-    "note": "ג). מספר חוקרים (כגון"
-   },
-   {
-    "name": "[https://www.hebrewbooks.org/pdfpager.aspx?req=43958&st=&pgnum=358 רבי שמעון ברבי ינאי]"
-   },
-   {
-    "name": "תולדות תנאים ואמוראים"
-   },
-   {
-    "name": "חלק ג"
-   },
-   {
-    "name": "עמוד 1191) דוחים את הרעיון כי רבי ינאי הוא בנו של רשב\"י.}})"
    }
   ],
   "spouse": [
    {
+    "notes": [
+     "מסורת עממית"
+    ],
     "name": "שרה"
    }
   ],
   "in_laws": [
    {
+    "notes": [
+     "או \"איסי\""
+    ],
     "name": "יוסי בן לקוניא הכהן"
-   },
-   {
-    "slug": "rabbi-pinchas-b-yair",
-    "note": "לפי חלק מהזוהר:"
    }
   ],
   "sons_in_law": [
@@ -6900,7 +7196,9 @@
   "teachers": [
    {
     "name": "עזרא",
-    "note": "ובית דינו: חגי זכריה"
+    "notes": [
+     "ובית דינו: חגי זכריה"
+    ]
    },
    {
     "name": "מלאכי"
@@ -6927,11 +7225,15 @@
    },
    {
     "slug": "yose-b-yoezer",
-    "note": "יש אומרים גם  ו).}}"
+    "notes": [
+     "יש אומרים גם ו"
+    ]
    },
    {
     "slug": "yose-b-yochanan",
-    "note": "יש אומרים גם  ו).}}"
+    "notes": [
+     "יש אומרים גם ו"
+    ]
    }
   ],
   "born": "-"
@@ -6958,7 +7260,9 @@
    },
    {
     "slug": "mar-ukva",
-    "note": "תלמיד חבר"
+    "notes": [
+     "תלמיד חבר"
+    ]
    }
   ],
   "colleagues": [
@@ -7016,10 +7320,10 @@
   ],
   "father": [
    {
-    "name": "יוסף (יוסי"
-   },
-   {
-    "name": "איסי)"
+    "notes": [
+     "יוסי, איסי"
+    ],
+    "name": "יוסף"
    }
   ],
   "born": "המאה ה-2",
@@ -7042,11 +7346,15 @@
   "teachers": [
    {
     "slug": "rabbi-elazar-b-pedat",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "rabbi-yochanan-b-napacha",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "active_from": "דור שני ושלישי לאמוראי ארץ ישראל",
@@ -7057,11 +7365,15 @@
   "teachers": [
    {
     "slug": "yose-b-yoezer",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "yose-b-yochanan",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
@@ -7088,21 +7400,29 @@
   "teachers": [
    {
     "slug": "yehoshua-b-perachya",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "nittai-haarbeli",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "students": [
    {
     "slug": "shemaiah",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "avtalyon",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "colleagues": [
@@ -7139,11 +7459,15 @@
   "students": [
    {
     "slug": "yehoshua-b-perachya",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    },
    {
     "slug": "nittai-haarbeli",
-    "note": "ו"
+    "notes": [
+     "ו"
+    ]
    }
   ],
   "colleagues": [

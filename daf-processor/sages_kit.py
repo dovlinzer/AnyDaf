@@ -40,9 +40,10 @@ TIER1, TIER2 = 250, 400
 REL = {"teachers": "students", "students": "teachers", "colleagues": "colleagues",
        "father": "children", "mother": "children", "children": "parents", "parents": "children",
        "spouse": "spouse", "in_laws": "sons_in_law", "sons_in_law": "in_laws",
-       "siblings": "siblings", "relatives": "relatives"}
+       "siblings": "siblings", "relatives": "relatives",
+       "grandchildren": "grandparents", "grandparents": "grandchildren"}
 FAMILY = ("father", "mother", "parents", "children", "spouse", "in_laws", "sons_in_law", "siblings",
-          "relatives")
+          "relatives", "grandchildren", "grandparents")
 
 
 # Sefaria records no women's sex, so women are named here or known by their names.
@@ -82,13 +83,17 @@ def main():
 
     # links: (a, rel, b-or-name) -> sources
     links = {}
-    def add(a, rel, b, src, note=""):
+    unnamed = {}      # relatives Wikipedia describes but does not name ("his daughter, wife of X")
+    def add(a, rel, b, src, notes=(), f=None, alts=False):
         if not b or b == a:
             return
         key = (a, rel, b)
-        e = links.setdefault(key, {"from": set(), "note": ""})
+        e = links.setdefault(key, {"from": set(), "notes": [], "f": None, "alts": False})
         e["from"].add(src)
-        e["note"] = e["note"] or note
+        e["notes"] += [n for n in notes if n not in e["notes"]]
+        if f is not None and e["f"] is None:
+            e["f"] = f
+        e["alts"] = e["alts"] or alts
     for k in keep:
         x = sages[k]
         for rel in ("teachers", "students", "colleagues"):
@@ -98,17 +103,27 @@ def main():
         w = wiki.get(k, {})
         for rel in REL:
             for e in w.get(rel) or []:
-                if not e.get("slug") and not clean_name(e["name"]):
+                notes = e.get("notes") or []
+                if not e.get("slug") and e.get("name") == "":
+                    # unnamed: kept for the info box; her husband or father is linked as such
+                    via = e.get("wife_of") or e.get("child_of") or {}
+                    unnamed.setdefault(k, []).append({"rel": rel, "f": e.get("f", 1),
+                        "wife_of" if "wife_of" in e else "child_of": ({"id": via["slug"]} if via.get("slug") else {"name": via.get("name", "")}),
+                        "notes": notes})
+                    if via.get("slug"):
+                        add(k, "sons_in_law" if "wife_of" in e else "in_laws", via["slug"], "wikipedia")
                     continue
-                b = e.get("slug") or ("name:" + clean_name(e["name"]))
-                add(k, rel, b, "wikipedia", e.get("note", ""))
+                if not e.get("slug") and not (e.get("alts") or clean_name(e["name"])):
+                    continue
+                b = e.get("slug") or ("name:" + (e["name"] if e.get("alts") else clean_name(e["name"])))
+                add(k, rel, b, "wikipedia", notes, e.get("f"), e.get("alts", False))
     for a, rel, b in ov.get("add_links", []):
         add(a, rel, b, "author")
     drop = {tuple(x) for x in ov.get("drop_links", [])}
     # make two-way
     for (a, rel, b), e in list(links.items()):
         if not b.startswith("name:") and b in sages:
-            back = links.setdefault((b, REL[rel], a), {"from": set(), "note": e["note"]})
+            back = links.setdefault((b, REL[rel], a), {"from": set(), "notes": list(e["notes"]), "f": None, "alts": False})
             back["from"] |= e["from"]
     # a sage whose only link is to a kept sage comes along (as someone's teacher, say)
     keep |= {b for (a, _, b) in links if a in keep and b in sages}
@@ -143,12 +158,18 @@ def main():
             if a != k or (a, rel, b) in drop:
                 continue
             item = ({"id": b} if not b.startswith("name:") else {"name": b[5:]})
-            if b.startswith("name:") and FEMALE_NAME.search(b[5:]):
+            if e["f"] is not None and b.startswith("name:"):
+                item["f"] = e["f"]
+            elif b.startswith("name:") and FEMALE_NAME.search(b[5:]):
                 item["f"] = 1
+            if e["alts"]:
+                item["alts"] = 1
             item.update({"by": sorted(e["from"]), "source": ""})
-            if e["note"]:
-                item["note"] = e["note"]
+            if e["notes"]:
+                item["notes"] = e["notes"]
             rels.setdefault(rel, []).append(item)
+        for u in unnamed.get(k, []):
+            rels.setdefault(u.pop("rel"), []).append(dict(u, name="", by=["wikipedia"], source=""))
         def exact(y):
             return y if y and len(y) == 2 else None   # a 'century' range is too rough to show
         born, died = exact(w.get("born_year")), exact(w.get("died_year"))

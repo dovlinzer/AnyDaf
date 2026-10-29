@@ -26,7 +26,9 @@
           sons_in_law: 'Son-in-law', siblings: 'Brother', relatives: 'Relative', stories: 'Stories about him',
           sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
           keyT: 'teacher → student', keyC: 'colleagues', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
-          keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', est: 'a rough count: the name fits more than one sage' },
+          keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', notes: 'Notes and sources',
+          wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of',
+          alts: 'The sources give more than one name; each is a later identification or tradition.', est: 'a rough count: the name fits more than one sage' },
     he: { title: 'חכמים', rel: 'קשרים', back: 'חזרה', close: 'סגירה', teachers: 'רבותיו', students: 'תלמידיו',
           colleagues: 'בני דורו', family: 'משפחה', more: 'ועוד {0}', fewer: 'פחות', tanna: 'תנא', amora: 'אמורא',
           zug: 'מן הזוגות', gen: 'דור {0}', trans: 'דור המעבר', ey: 'ארץ ישראל', bavel: 'בבל', about: 'בערך {0}',
@@ -36,7 +38,9 @@
           spouse: 'אשתו', in_laws: 'חמיו', sons_in_law: 'חתנו', siblings: 'אחיו', relatives: 'קרוב משפחה',
           stories: 'סיפורים עליו', sefaria: 'ספריא', wiki: 'ויקיפדיה', approx: 'התאריכים משוערים, לפי הדור.',
           loading: 'טוען…', keyT: 'רב ← תלמיד', keyC: 'בני דורו', keyTa: 'תנא', keyEY: 'אמורא, ארץ ישראל',
-          keyBV: 'אמורא, בבל', keyZ: 'זוגות', keyF: 'משפחה', est: 'מספר משוער: השם מתאים ליותר מחכם אחד' },
+          keyBV: 'אמורא, בבל', keyZ: 'זוגות', keyF: 'משפחה', notes: 'הערות ומקורות',
+          wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של',
+          alts: 'במקורות יותר משם אחד; כל אחד מהם זיהוי או מסורת מאוחרים.', est: 'מספר משוער: השם מתאים ליותר מחכם אחד' },
   };
   const t = (k, ...a) => (W[S.o.lang] || W.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
   const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -92,6 +96,8 @@
       for (const l of (x.links[r] || [])) {
         const y = l.id && sage(l.id);
         if (!y && r !== 'family' && !FAMILY.includes(r)) continue;   // a bare name only in the family row
+        if (!y && !l.name) continue;                                  // unnamed ("his daughter"): info box only
+        if (!y && l.alts) continue;                                   // several proposed names: info box only
         out.push({ key: (l.id || 'name:' + l.name) + '|' + r, id: y ? l.id : null, name: y ? shortName(y) : l.name,
                    rel: r, x: y, f: y ? y.f : l.f });
       }
@@ -99,16 +105,22 @@
     const seen = new Set();
     return out.filter(p => { const k = p.id || p.name; if (seen.has(k)) return false; seen.add(k); return true; });
   }
-  const NOTES = { 'שנוי במחלוקת': 'disputed', 'לפי חלק מהדעות': 'by some accounts', 'לפי המסורת': 'by tradition' };
-  const FAM_UP = ['father', 'mother', 'parents', 'in_laws'];
+  const NOTES = { 'שנוי במחלוקת': 'Disputed.', 'לפי חלק מהדעות': 'By some accounts.', 'לפי המסורת': 'By tradition.',
+                  'מסורת עממית': 'A folk tradition.', 'לפי הזוהר': 'According to the Zohar.',
+                  'לפי חלקים מהזוהר': 'According to parts of the Zohar.', 'לפי חלק מהזוהר': 'According to part of the Zohar.',
+                  'נינו': 'Great-grandson.' };
+  const FAM_UP = ['grandparents', 'father', 'mother', 'parents', 'in_laws'];
   // the family word for a relation, by the relative's sex (and, for a spouse, the centre's)
   const FW = {
     en: { children: ['Son', 'Daughter', 'Sons', 'Daughters'], parents: ['Father', 'Mother'], father: ['Father', 'Mother'],
           mother: ['Mother', 'Mother'], siblings: ['Brother', 'Sister', 'Brothers', 'Sisters'], spouse: ['Wife', 'Husband'],
-          in_laws: ['Father-in-law', 'Mother-in-law'], sons_in_law: ['Son-in-law', 'Son-in-law', 'Sons-in-law', 'Sons-in-law'] },
+          in_laws: ['Father-in-law', 'Mother-in-law'], sons_in_law: ['Son-in-law', 'Son-in-law', 'Sons-in-law', 'Sons-in-law'],
+          grandchildren: ['Grandson', 'Granddaughter', 'Grandsons', 'Granddaughters'],
+          grandparents: ['Grandfather', 'Grandmother', 'Grandparents', 'Grandparents'] },
     he: { children: ['בנו', 'בתו', 'בניו', 'בנותיו'], parents: ['אביו', 'אמו'], father: ['אביו', 'אמו'], mother: ['אמו', 'אמו'],
           siblings: ['אחיו', 'אחותו', 'אחיו', 'אחיותיו'], spouse: ['אשתו', 'בעלה'], in_laws: ['חמיו', 'חמותו'],
-          sons_in_law: ['חתנו', 'חתנו', 'חתניו', 'חתניו'] },
+          sons_in_law: ['חתנו', 'חתנו', 'חתניו', 'חתניו'],
+          grandchildren: ['נכדו', 'נכדתו', 'נכדיו', 'נכדותיו'], grandparents: ['סבו', 'סבתו', 'סביו', 'סביו'] },
   };
   function famWord(rel, female, centreFemale, plural) {
     const w = (FW[S.o.lang] || FW.en)[rel];
@@ -117,7 +129,8 @@
     const i = (female ? 1 : 0) + (plural && w.length > 2 ? 2 : 0);
     return w[i];
   }
-  const FAMILY = ['father', 'mother', 'parents', 'children', 'spouse', 'in_laws', 'sons_in_law', 'siblings'];
+  const FAMILY = ['grandparents', 'father', 'mother', 'parents', 'in_laws', 'spouse', 'siblings', 'children',
+                  'sons_in_law', 'grandchildren'];
 
   // ---------- box ----------
   function build() {
@@ -141,6 +154,9 @@
     b.querySelector('.sgx-x').onclick = close;
     b.addEventListener('keydown', e => { if (e.key === 'Escape') close(); });
     b.addEventListener('click', e => {
+      const nb = e.target.closest('.sgx-note');
+      if (nb) { showNote(nb); return; }
+      if (e.target.closest('.sgx-popx') || !e.target.closest('.sgx-pop')) S.box.querySelector('.sgx-pop')?.remove();
       const n = e.target.closest('[data-go]');
       if (n) { go(n.dataset.go); return; }
       const m = e.target.closest('[data-more]');
@@ -182,7 +198,8 @@
     const id = S.cur, x = sage(id);
     // a sage linked two ways appears once: teacher, then student, family, colleague
     const used = new Set();
-    const row = rels => people(id, rels).filter(p => {
+    const row = (rels, keep) => people(id, rels).filter(p => {
+      if (keep && !keep(p)) return false;
       if (!p.id && !HE()) return false;          // a name we only have in Hebrew stays in the info box
       const k = p.id || p.name; if (used.has(k)) return false; used.add(k); return true; });
     const rows = {};
@@ -190,9 +207,13 @@
     // (children, sons-in-law) and his wife and brothers below him, drawn lighter than the teachers
     // and students. A teacher who is also his father stays a teacher, labelled "Father".
     const famOf = {};
+    // a relative listed two ways (son-in-law, and by one tradition father-in-law) is drawn by the
+    // link with no qualifying note
+    FAMILY.forEach(r => (x.links[r] || []).forEach(l => { if (l.id && !l.notes && !famOf[l.id]) famOf[l.id] = r; }));
     FAMILY.forEach(r => (x.links[r] || []).forEach(l => { if (l.id && !famOf[l.id]) famOf[l.id] = r; }));
     rows.teachers = row(['teachers']); rows.students = row(['students']);
-    rows.famUp = row(FAM_UP); rows.famDown = row(FAMILY.filter(r => !FAM_UP.includes(r)));
+    const famRow = rels => row(rels, p => !p.id || rels.includes(famOf[p.id]));
+    rows.famUp = famRow(FAM_UP); rows.famDown = famRow(FAMILY.filter(r => !FAM_UP.includes(r)));
     rows.colleagues = row(['colleagues']);
     [...rows.teachers, ...rows.students].forEach(p => { if (p.id && famOf[p.id]) p.famRel = famOf[p.id]; });
     const place = [];   // {key, id, name, x, y, cls, label}
@@ -313,6 +334,42 @@
   }
 
   // ---------- info box ----------
+  // A small marker that opens the notes and sources behind an entry, so the box itself stays plain
+  function noteMark(notes, alts) {
+    const list = (notes || []).map(n => (!HE() && NOTES[n]) || n);
+    if (!list.length && !alts) return '';
+    const body = (alts ? [t('alts')] : []).concat(list);
+    return `<button type="button" class="sgx-note" aria-label="${esc(t('notes'))}" data-note="${esc(JSON.stringify(body))}">i</button>`;
+  }
+  // Sefaria's bios link names as [R. Akiva](https://www.sefaria.org/topics/rabbi-akiva?tab=sources):
+  // a sage we have opens in the box, anything else is plain text
+  function bioHTML(bio) {
+    let out = '', i = 0;
+    const re = /\[([^\]]+)\]\(([^)\s]+)\)/g;
+    let m;
+    while ((m = re.exec(bio))) {
+      out += esc(bio.slice(i, m.index));
+      const slug = (m[2].match(/sefaria\.org(?:\.il)?\/topics\/([^?#/]+)/) || [])[1];
+      const id = slug && decodeURIComponent(slug);
+      out += id && sage(id) ? `<button type="button" data-go="${esc(id)}">${esc(m[1])}</button>` : esc(m[1]);
+      i = m.index + m[0].length;
+    }
+    return (out + esc(bio.slice(i))).replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>');
+  }
+  function showNote(btn) {
+    const old = S.box.querySelector('.sgx-pop');
+    if (old) { const same = old._for === btn; old.remove(); if (same) return; }
+    const pop = document.createElement('div');
+    pop._for = btn;
+    pop.className = 'sgx-pop';
+    pop.innerHTML = JSON.parse(btn.dataset.note).map(n => `<p${/[\u05d0-\u05ea]/.test(n) ? ' lang="he" dir="rtl"' : ''}>${esc(n)}</p>`).join('')
+      + `<button type="button" class="sgx-popx" aria-label="${esc(t('close'))}">×</button>`;
+    const host = S.box.querySelector('.sgx-scroll');
+    host.appendChild(pop);
+    const hb = host.getBoundingClientRect(), bb = btn.getBoundingClientRect();
+    pop.style.top = (bb.bottom - hb.top + host.scrollTop + 6) + 'px';
+    pop.style.left = Math.max(8, Math.min(bb.left - hb.left - 20, hb.width - pop.offsetWidth - 8)) + 'px';
+  }
   function info() {
     const x = sage(S.cur), box = S.box.querySelector('.sgx-info');
     S.box.querySelector('.sgx-trail').innerHTML = S.trail.map((id, i) =>
@@ -326,11 +383,14 @@
       const ls = (x.links[r] || []).filter(l => ((l.id && sage(l.id)) ? sage(l.id).f : l.f) ? f : !f);
       if (ls.length) groups.push([famWord(r, f, x.f, ls.length > 1), ls]);
     }));
+    const who = l => { const y = l.id && sage(l.id);
+      return y ? `<button type="button" data-go="${esc(l.id)}">${esc(shortName(y))}</button>` : `<span lang="he" dir="rtl">${esc(l.name || '')}</span>`; };
     const fam = groups.map(([label, ls]) => `<span><b>${esc(label)}:</b> ${ls.map(l => {
-      const y = l.id && sage(l.id), nm = y ? shortName(y) : l.name;
-      const note = l.note ? (HE() ? l.note : NOTES[l.note] || '') : '';
-      return (y ? `<button type="button" data-go="${esc(l.id)}">${esc(nm)}</button>` : `<span lang="he" dir="rtl">${esc(nm)}</span>`)
-        + (note ? ` <i>(${esc(note)})</i>` : '');
+      let txt;
+      if (l.wife_of) txt = `${t('wifeOf')} ${who(l.wife_of)}`;
+      else if (l.child_of) txt = `${t(l.f ? 'daughterOf' : 'sonOf')} ${who(l.child_of)}`;
+      else txt = who(l);
+      return txt + noteMark(l.notes, l.alts);
     }).join(', ')}</span>`).join('');
     const noRel = !['teachers', 'students', 'colleagues'].some(r => (x.links[r] || []).some(l => l.id));
     const bio = HE() && x.bio_he ? x.bio_he : x.bio;
@@ -338,7 +398,7 @@
       <p class="sgx-meta">${esc(meta(x))}${x.years && !x.died ? ` <i title="${esc(t('approx'))}">*</i>` : ''}</p>
       ${noRel ? `<p class="sgx-none">${t('none')}</p>` : ''}
       ${fam ? `<p class="sgx-fam">${fam}</p>` : ''}
-      ${bio ? `<p class="sgx-bio"${HE() && !x.bio_he ? ' lang="en" dir="ltr"' : ''}>${esc(bio)}</p>` : ''}
+      ${bio ? `<p class="sgx-bio"${HE() && !x.bio_he ? ' lang="en" dir="ltr"' : ''}>${bioHTML(bio)}</p>` : ''}
       ${x.stories && x.stories.length ? `<h4>${t('stories')}</h4><ul class="sgx-stories">${x.stories.map(s =>
         `<li><a href="${esc(S.o.link ? S.o.link(S.o.corpus, s.tractate, s.place) : '#')}">${esc(HE() && s.title_he ? s.title_he : s.title)}</a> <span>${esc(s.ref || '')}</span></li>`).join('')}</ul>` : ''}
       ${n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
