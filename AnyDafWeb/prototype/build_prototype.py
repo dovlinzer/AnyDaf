@@ -24,13 +24,11 @@ from dotenv import load_dotenv
 
 HERE = Path(__file__).resolve().parent
 DP = HERE.parent.parent / "daf-processor"
-# The Reference popup (weights, measures, money) is Illustrated Mishna's: measures.json and the
-# pictures are read from AnyMishnahWeb (the one master copy), the popup's JS and CSS from its
-# reference kit, which matches the code in AnyMishnahWeb/scripts/build_site.py line for line.
-MISHNA = HERE.parent.parent / "AnyMishnahWeb"
-MEASURES_JSON = MISHNA / "data" / "measures.json"
-MEASURES_IMG = MISHNA / "site" / "img" / "measures"
-MEASURES_KIT = MISHNA / "reference-kit"
+# The Reference popup (weights, measures, money) comes from the reference kit, the single source
+# shared with Illustrated Mishna: measures.json, measures.js, measures.css and img/ are read from
+# it on every build and used as they are. Never copy or edit them here; edit the kit, then rebuild
+# and redeploy both sites.
+MEASURES_KIT = HERE.parent.parent / "AnyMishnahWeb" / "reference-kit"
 SUMMARIES = (lambda f: json.loads(f.read_text(encoding="utf-8")) if f.exists() else {})(DP / "outline" / "daf_summaries.json")
 # hand-written multiple-choice quizzes for the demo, one file per base daf key (2026-10-16); in production the
 # outline pass would write them. Each question: q, options (the right one first), why, line (a Sefaria label).
@@ -500,27 +498,18 @@ def anon_key() -> str:
 
 def measures_embed():
     """The units data and the popup's script, for the end of a page."""
-    M = json.loads(MEASURES_JSON.read_text(encoding="utf-8"))
+    M = json.loads((MEASURES_KIT / "measures.json").read_text(encoding="utf-8"))
     return ('<script type="application/json" id="ms">' + json.dumps(M, ensure_ascii=False).replace("</", "<\\/")
-            + "</script>\n<script>" + measures_js() + "</script>")
-
-
-def measures_js():
-    """The kit's popup script, its one Mishnah-only label widened: every popup here lists uses in
-    the Mishnah and the Talmud, not only the Reference box."""
-    js = (MEASURES_KIT / "measures.js").read_text(encoding="utf-8")
-    old = "(ref?'In the Mishnah and Talmud':'In the Mishnah')"
-    assert old in js, "measures.js changed: update measures_js()"
-    return js.replace(old, "'In the Mishnah and Talmud'")
+            + "</script>\n<script>" + (MEASURES_KIT / "measures.js").read_text(encoding="utf-8") + "</script>")
 
 
 def copy_measure_images(out):
-    """The pictures measures.json names, plus the plowed field the popup's area chart draws."""
-    M = json.loads(MEASURES_JSON.read_text(encoding="utf-8"))
-    names = set(re.findall(r'"img/measures/([^"]+)"', json.dumps(M))) | {"plow.jpg"}
+    """The kit's img/ folder, to img/measures/ where measures.json points (as Illustrated Mishna's
+    build_site.py does)."""
     (out / "img" / "measures").mkdir(parents=True, exist_ok=True)
-    for n in sorted(names):
-        (out / "img" / "measures" / n).write_bytes((MEASURES_IMG / n).read_bytes())
+    for f in (MEASURES_KIT / "img").iterdir():
+        if f.is_file():
+            (out / "img" / "measures" / f.name).write_bytes(f.read_bytes())
 
 
 def reference_page(html):

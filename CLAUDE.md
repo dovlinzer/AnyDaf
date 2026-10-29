@@ -2001,13 +2001,13 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   venv. Published: https://claude.ai/artifact/VyEhmmkY9siDtWvA6F2WbH
 
 #### Reference: weights, measures, money (from Illustrated Mishna, 2026-10-28)
-The popup and Reference box of imishna.com/reference, in iTalmud. **One master copy, in AnyMishnahWeb:**
-`build_prototype.py` reads `AnyMishnahWeb/data/measures.json` and the pictures in
-`AnyMishnahWeb/site/img/measures/` (copies only the ones the JSON names, plus `plow.jpg`), and the
-popup's JS/CSS from `AnyMishnahWeb/reference-kit/` (checked 2026-10-28 to match `build_site.py`
-line for line; if Illustrated Mishna changes its inline JS, refresh the kit). `measures_js()` makes
-one change at build: every popup's list reads "In the Mishnah and Talmud". Edit the data there,
-never a copy here. Page side (`app.html`): a ruler button beside the gear, Settings "Measures:
+The popup and Reference box of imishna.com/reference, in iTalmud. **Single source: the reference kit,
+`AnyMishnahWeb/reference-kit/`, shared with Illustrated Mishna (it must stay at that path).**
+`build_prototype.py` reads `measures.json`, `measures.js` and `measures.css` from it on every
+build and uses them unchanged, and copies its `img/` folder to the site's `img/measures/` (as
+`build_site.py` does). There is no copy in iTalmud; never edit measure code, data or images here:
+edit the kit, then rebuild and redeploy both sites. iTalmud adds only its own page styles in
+`app.html` (theme variables for the popup, `box-sizing`, the button's place in the bar). Page side (`app.html`): a ruler button beside the gear, Settings "Measures:
 U.S. / Metric" (`prefs.units` -> `<html data-units>`; the kit refills the open popup), the
 Settings panel carries class `opts` so changing units doesn't close the popup, and a tap on a
 measure doesn't move the outline, the other pane or the audio. `reference.html` (`/reference`) is
