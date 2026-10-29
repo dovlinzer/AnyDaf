@@ -455,8 +455,11 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
   // ---------- graph ----------
   // Clay look (Mishnah): a clay picture with the name under it. The middle sage has his own picture; teachers and
   // students each have three, and a sage keeps the same one (from his name), moving on if it is already used in the row.
-  const FACES = ['main', 'teacher-1', 'teacher-2', 'teacher-3', 'student-1', 'student-2', 'student-3'];
-  const FACE_PREF = { centre: [0], teachers: [1, 2, 3], students: [4, 5, 6] };   // what a sage gets the first time, by his role
+  const FACES = ['main', 'teacher-1', 'teacher-2', 'teacher-3', 'student-1', 'student-2', 'student-3', 'woman-1', 'woman-2'];
+  const WOMEN = [7, 8], MEN = [0, 1, 2, 3, 4, 5, 6];   // a woman gets a woman's picture, a man a man's
+  const WOMAN_FACE = { 'rachel-(rabbi-akiva)': 7, beruriah: 8 };
+  const FACE_PREF = { centre: [0], teachers: [1, 2, 3], students: [4, 5, 6] };
+  const isWoman = p => { const x = p.id && sage(p.id); return !!(x && (x.f === 1 || x.f === '1' || x.f === true)) || (!p.id && p.f === 1); };   // what a sage gets the first time, by his role
   const figHash = k => { let h = 5381; for (const c of String(k)) h = (h * 33 + c.charCodeAt(0)) >>> 0; return h; };
   // A sage keeps his picture when he moves (a student who is clicked glides to the middle with his own face);
   // among the sages on screen no two share one while there are pictures left.
@@ -464,12 +467,14 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
     const used = new Set(), row = { teachers: new Set(), students: new Set() }, faceOf = S.faceOf;
     const take = (p, f) => { used.add(f); if (row[p.rel]) row[p.rel].add(f); p.fig = f; };
     const ordered = [...placed].sort((a, b) => (b.centre ? 1 : 0) - (a.centre ? 1 : 0));   // the middle sage chooses first
-    for (const p of ordered) { const f = faceOf.get(p.id || p.name); if (f != null && !used.has(f)) take(p, f); }
+    for (const p of ordered) { const f = faceOf.get(p.id || p.name); if (f != null && !used.has(f) && (WOMEN.includes(f) === isWoman(p))) take(p, f); }
     for (const p of ordered) {
       if (p.fig != null) continue;
-      const k = p.id || p.name, pref = FACE_PREF[p.centre ? 'centre' : p.rel] || [], rest = [...FACES.keys()].filter(f => !pref.includes(f));
+      const k = p.id || p.name, w = isWoman(p);
+      const pref = w ? WOMEN : (FACE_PREF[p.centre ? 'centre' : p.rel] || []), rest = (w ? WOMEN : MEN).filter(f => !pref.includes(f));
       const h = figHash(k);
-      const order = [...pref.map((_, i) => pref[(h + i) % pref.length]), ...rest.map((_, i) => rest[(h + i) % rest.length])];   // his own kind of picture first
+      const order = [...(w && WOMAN_FACE[k] != null ? [WOMAN_FACE[k]] : []), ...pref.map((_, i) => pref[(h + i) % pref.length]), ...rest.map((_, i) => rest[(h + i) % rest.length])]
+        .filter((f, i, a) => a.indexOf(f) === i);   // her or his own kind of picture first
       let f = order.find(c => !used.has(c));
       if (f != null) faceOf.set(k, f);                 // a picture nobody else on screen has: he keeps it from now on
       else {                                           // more sages than pictures: repeat one, but never within a row or with the middle sage
@@ -479,8 +484,11 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closePop();i
       take(p, f);
     }
   }
+  const SILHOUETTE = "data:image/svg+xml;utf8," + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 100"><path d="M8 100C8 66 22 56 40 56s32 10 32 44z" fill="#9a8f80"/><ellipse cx="40" cy="32" rx="21" ry="26" fill="#b8ad9c"/><circle cx="40" cy="36" r="14" fill="#e6d3b8"/></svg>');
   function figure(n, colour) {   // colour: gold (the middle sage), blue (a teacher), green (a student): his own picture, dressed for his role
-    return `<span class="sgx-ring"><img class="sgx-fig" src="${esc(S.o.base)}fig/${FACES[n % FACES.length]}-${colour}.png" alt="" draggable="false"></span>`;
+    // (the women's pictures are in gold only so far; until a picture exists a plain silhouette stands in)
+    const c = WOMEN.includes(n) ? 'gold' : colour;
+    return `<span class="sgx-ring"><img class="sgx-fig" src="${esc(S.o.base)}fig/${FACES[n % FACES.length]}-${c}.png" alt="" draggable="false" onerror="this.onerror=null;this.src='${SILHOUETTE}'"></span>`;
   }
   function draw(animate) {
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg');
