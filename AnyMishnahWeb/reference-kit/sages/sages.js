@@ -368,7 +368,7 @@
   // generations in rows, parents above children; each row ordered under its parents, a spouse next to her partner
   function famLayout(fg, nodeW, rowH, width) {
     const top = S.o.clay ? 100 : 62;   // the top row's pictures must clear the two pills above
-    const slot = nodeW + 24, all = [...fg.nodes.values()], gens = [...new Set(all.map(n => n.gen))].sort((a, b) => a - b);
+    const slot = nodeW + (S.o.clay ? 24 : nodeW < 100 ? 28 : 48), all = [...fg.nodes.values()], gens = [...new Set(all.map(n => n.gen))].sort((a, b) => a - b);
     const par = n => fg.edges.filter(e => e.b === n.key && e.type === 'pc').map(e => fg.nodes.get(e.a));
     const mate = n => { const e = fg.edges.find(e => e.type === 'sp' && (e.a === n.key || e.b === n.key)); return e && fg.nodes.get(e.a === n.key ? e.b : e.a); };
     gens.forEach(gn => {
@@ -407,7 +407,7 @@
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg'), clay = !!S.o.clay;
     S.box.dataset.view = 'fam'; g.classList.toggle('clay', clay); g.classList.add('famview');
     const sc = S.box.querySelector('.sgx-scroll'), avail = sc.clientWidth - 2 || 600, phone = avail < 560;
-    const nodeW = clay ? (phone ? 92 : 112) : phone ? 88 : 118, rowH = clay ? (phone ? 158 : 170) : 74;   // room under each name for the line down to the next generation
+    const nodeW = clay ? (phone ? 92 : 112) : phone ? 88 : 118, rowH = clay ? (phone ? 158 : 170) : 124;   // room under each name for the line down to the next generation
     const fg = famGraph(S.cur), lay = famLayout(fg, nodeW, rowH, avail), centre = fg.nodes.get(S.cur), cx = sage(S.cur);
     const width = Math.max(avail, lay.need);
     g.style.width = width + 'px';

@@ -206,3 +206,6 @@
 .sgx-graph .sgx-n.ph,.sgx-graph.clay .sgx-n.ph{border:2px dotted var(--c-fam,#b83280);background:color-mix(in srgb,var(--c-fam,#b83280) 11%,var(--card,#fff));border-radius:12px;padding:12px 16px;min-width:72px;display:flex;align-items:center;justify-content:center;font-style:italic;cursor:default;opacity:.95}
 .sgx-graph.clay .sgx-n.ph .sgx-nm{background:none;padding:0}
 .sgx-lines path.tree.unsure{stroke-dasharray:5 5;opacity:.7}
+
+/* family tree: relatives often share the chosen sage's fill, so he is marked unmistakably: solid colour, white name, a ring */
+.sgx-graph.famview:not(.clay) .sgx-n.fam.centre,.sgx-graph.famview:not(.clay) .sgx-n.fam.centre:hover{--cd:color-mix(in srgb,var(--c) 78%,#000);background:var(--cd);color:#fff;border-color:var(--cd);box-shadow:0 0 0 3px var(--card,#fff),0 0 0 6px var(--cd)}
