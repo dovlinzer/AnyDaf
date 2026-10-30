@@ -27,7 +27,7 @@
           sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
           keyT: 'teacher → student', keyC: 'colleagues', keyRT: 'teacher', keyRS: 'student', keyRC: 'colleague', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
           keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', notes: 'Notes and sources',
-          wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of', moreAbout: 'More about him', vTS: 'Teachers & students', vFam: 'Family', disputed: 'disputed',
+          wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of', moreAbout: 'More about him', vTS: 'Teachers & students', vFam: 'Family', disputed: 'disputed', apparently: 'apparently', possibly: 'possibly', tradition: 'by tradition',
           alts: 'The sources give more than one name; each is a later identification or tradition.', est: 'a rough count: the name fits more than one sage' },
     he: { title: 'חכמים', rel: 'קשרים', back: 'חזרה', close: 'סגירה', teachers: 'רבותיו', students: 'תלמידיו',
           colleagues: 'בני דורו', family: 'משפחה', more: 'ועוד {0}', fewer: 'פחות', tanna: 'תנא', amora: 'אמורא',
@@ -39,7 +39,7 @@
           stories: 'סיפורים עליו', sefaria: 'ספריא', wiki: 'ויקיפדיה', approx: 'התאריכים משוערים, לפי הדור.',
           loading: 'טוען…', keyT: 'רב ← תלמיד', keyC: 'בני דורו', keyRT: 'רב', keyRS: 'תלמיד', keyRC: 'בן דורו', keyTa: 'תנא', keyEY: 'אמורא, ארץ ישראל',
           keyBV: 'אמורא, בבל', keyZ: 'זוגות', keyF: 'משפחה', notes: 'הערות ומקורות',
-          wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של', moreAbout: 'עוד עליו', vTS: 'רבותיו ותלמידיו', vFam: 'משפחה', disputed: 'שנוי במחלוקת',
+          wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של', moreAbout: 'עוד עליו', vTS: 'רבותיו ותלמידיו', vFam: 'משפחה', disputed: 'שנוי במחלוקת', apparently: 'כנראה', possibly: 'ייתכן', tradition: 'לפי המסורת',
           alts: 'במקורות יותר משם אחד; כל אחד מהם זיהוי או מסורת מאוחרים.', est: 'מספר משוער: השם מתאים ליותר מחכם אחד' },
   };
   const t = (k, ...a) => (W[S.o.lang] || W.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
@@ -280,6 +280,8 @@
   const MAXGEN = 7;
   // a note on a relation that makes it doubtful (disputed, a guess, 'by tradition', 'according to some'); other notes ('great-grandson') do not
   const UNSURE = /מחלוקת|השערה|לפי|מסורת|לכאורה|ייתכן|ספק|אולי|זיהוי|כנראה/;
+  // what kind of doubt: a dispute, 'apparently', a guess, or a tradition (each gets its own word under the name)
+  const unsureKind = txt => /מחלוקת/.test(txt) ? 'disputed' : /כנראה|לכאורה/.test(txt) ? 'apparently' : /ייתכן|אולי|ספק|השערה|זיהוי/.test(txt) ? 'possibly' : /לפי|מסורת/.test(txt) ? 'tradition' : 'disputed';
   function famGraph(id) {
     const nodes = new Map(), edges = [];
     const S0 = sage(id);
@@ -291,7 +293,7 @@
       if (!nodes.has(k)) nodes.set(k, { key: k, id: y ? l.id : null, name: y ? shortName(y) : l.name, gen, f: y ? y.f : l.f, ...extra });
       return nodes.get(k);
     };
-    const edge = (a, b, type, notes) => { if (a && b && a.key !== b.key && !edges.some(e => e.a === a.key && e.b === b.key && e.type === type)) edges.push({ a: a.key, b: b.key, type, notes: !!(notes && notes.length), unsure: UNSURE.test((notes || []).join(' ')) }); };
+    const edge = (a, b, type, notes) => { if (a && b && a.key !== b.key && !edges.some(e => e.a === a.key && e.b === b.key && e.type === type)) edges.push({ a: a.key, b: b.key, type, notes: !!(notes && notes.length), unsure: UNSURE.test((notes || []).join(' ')), kind: unsureKind((notes || []).join(' ')) }); };
     const done = new Set();
     function expand(pn, up, down, depth) {
       const tag = pn.key + (up ? 'u' : '') + (down ? 'd' : ''); if (!pn.id || done.has(tag)) return; done.add(tag);
@@ -342,7 +344,7 @@
       edge(fa, nodes.get(key), 'pc'); edge(nodes.get(key), so, 'sp');
     }
     // a person reached only by a doubtful line is marked, and stands after the sure ones in his row
-    for (const n of nodes.values()) { const es = edges.filter(e => (e.a === n.key || e.b === n.key) && e.type !== 'far'); n.unsure = !n.centre && es.length > 0 && es.every(e => e.unsure); }
+    for (const n of nodes.values()) { const es = edges.filter(e => (e.a === n.key || e.b === n.key) && e.type !== 'far'); n.unsure = !n.centre && es.length > 0 && es.every(e => e.unsure); n.unsureKind = n.unsure ? es[0].kind : null; }
     // generations again, from the edges that are left (a father one row above his child, a wife in her husband's row): the in-law pairs
     // above could be created from either side, so a person's first guess at his row may not match the line that was kept
     { const seen = new Set([id]); const q = [id]; C.gen = 0;
@@ -410,7 +412,7 @@
     const place = [...fg.nodes.values()].map(n => ({
       key: n.key, id: n.id, name: n.name, x: X(n.px), y: n.py, centre: n.centre, f: n.f, famNode: true, ph: n.ph, maxW: nodeW,
       rel: n.gen < 0 ? 'teachers' : n.gen > 0 ? 'students' : 'centre',       // older: blue, younger: green, same generation: gold
-      colour: n.gen < 0 ? 'blue' : n.gen > 0 ? 'green' : 'gold', label: relLabel(n, centre) + (n.unsure ? ' · ' + t('disputed') : '') }));
+      colour: n.gen < 0 ? 'blue' : n.gen > 0 ? 'green' : 'gold', label: relLabel(n, centre) + (n.unsure ? ' · ' + t(n.unsureKind || 'disputed') : '') }));
     S.famEdges = fg.edges;
     g.style.height = (lay.height + 70) + 'px';
     svg.setAttribute('width', width); svg.setAttribute('height', lay.height + 70);
