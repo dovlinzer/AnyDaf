@@ -222,10 +222,10 @@
   // ---------- graph ----------
   // Clay look (Mishnah): a clay picture with the name under it. The middle sage has his own picture; teachers and
   // students each have three, and a sage keeps the same one (from his name), moving on if it is already used in the row.
-  const FACES = ['main', 'teacher-1', 'teacher-2', 'teacher-3', 'student-1', 'student-2', 'student-3', 'woman-1', 'woman-2'];
-  const WOMEN = [7, 8], MEN = [0, 1, 2, 3, 4, 5, 6];   // a woman gets a woman's picture, a man a man's
+  const FACES = ['main', 'teacher-1', 'teacher-2', 'teacher-3', 'student-1', 'student-2', 'student-3', 'woman-1', 'woman-2', 'student-4', 'student-5', 'student-6'];
+  const WOMEN = [7, 8], MEN = [0, 1, 2, 3, 4, 5, 6, 9, 10, 11];   // a woman gets a woman's picture, a man a man's
   const WOMAN_FACE = { 'rachel-(rabbi-akiva)': 7, beruriah: 8 };
-  const FACE_PREF = { centre: [0], teachers: [1, 2, 3], students: [4, 5, 6] };
+  const FACE_PREF = { centre: [0], teachers: [1, 2, 3], students: [4, 5, 6, 9, 10, 11] };
   const isWoman = p => { const x = p.id && sage(p.id); return !!(x && (x.f === 1 || x.f === '1' || x.f === true)) || (!p.id && p.f === 1); };   // what a sage gets the first time, by his role
   const figHash = k => { let h = 5381; for (const c of String(k)) h = (h * 33 + c.charCodeAt(0)) >>> 0; return h; };
   // A sage keeps his picture when he moves (a student who is clicked glides to the middle with his own face);
