@@ -279,7 +279,7 @@
   }
   const MAXGEN = 7;
   // a note on a relation that makes it doubtful (disputed, a guess, 'by tradition', 'according to some'); other notes ('great-grandson') do not
-  const UNSURE = /מחלוקת|השערה|לפי|מסורת|לכאורה|ייתכן|ספק|אולי|זיהוי/;
+  const UNSURE = /מחלוקת|השערה|לפי|מסורת|לכאורה|ייתכן|ספק|אולי|זיהוי|כנראה/;
   function famGraph(id) {
     const nodes = new Map(), edges = [];
     const S0 = sage(id);
