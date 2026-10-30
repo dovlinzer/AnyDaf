@@ -195,3 +195,8 @@
 
 /* the region labels sit between the tanna'im and the amora'im, with a line on the side of the tall columns */
 .sgc-rh{border-inline-start:1px solid color-mix(in srgb,var(--fg,#222) 18%,transparent)}
+/* In the family tab the family is the subject, not background: full colour, solid borders, like the
+   teachers-and-students view (the lighter, dotted .fam style was for relatives shown beside teachers) */
+.sgx-graph.famview:not(.clay) .sgx-n.fam{border-width:2px;border-style:solid;background:color-mix(in srgb,var(--c) 14%,var(--card,#fff));color:inherit;font-size:13.5px}
+.sgx-graph.famview:not(.clay) .sgx-n.fam.centre{border-width:3px;background:color-mix(in srgb,var(--c) 22%,var(--card,#fff));font-weight:700}
+.sgx-graph.famview:not(.clay) .sgx-n.fam.plain{border-style:dashed}
