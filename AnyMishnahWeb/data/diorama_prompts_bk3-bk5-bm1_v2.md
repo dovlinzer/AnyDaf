@@ -1,4 +1,6 @@
-# Older-audience pictures in the sculpted-diorama style: prompts v1 (2026-10-30)
+# Older-audience pictures in the sculpted-diorama style: prompts v2 (2026-10-30)
+
+v2: open-air and wide scenes (12 of the 29, marked below by the line 'The set fills the whole frame') no longer open with 'miniature diorama ... crafted model' or say 'model on a display table', and carry a line that the set fills the frame; the pasture in 3:11 is not boxed in. Street, interior and close scenes are unchanged from v1 (3:1a worked).
 
 For every picture that already has a graphic-novel (older-audience) version: Bava Kamma 3 (14 pictures), Bava Kamma 5 (5) and Bava Metzia 1 (10). Teen/adult track only: the younger-track (claymation) style block was not pasted into the style file, and the younger pictures stay as they are. The other chapters of Bava Kamma have no older pictures yet, so they are not here.
 
@@ -62,9 +64,9 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -94,9 +96,9 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -111,9 +113,9 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -128,9 +130,9 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -189,9 +191,9 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -215,9 +217,9 @@ Using the previous picture as reference, everything is exactly the same except: 
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -258,9 +260,9 @@ Using the previous picture as reference, everything is exactly the same except: 
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -277,9 +279,9 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -318,9 +320,9 @@ Using the previous picture as reference, everything is exactly the same except: 
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -337,9 +339,9 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -363,9 +365,9 @@ Using the previous picture as reference, everything is exactly the same except: 
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
@@ -413,9 +415,9 @@ Using the previous picture as reference, everything is exactly the same except: 
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
+Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
 
-Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
 The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 

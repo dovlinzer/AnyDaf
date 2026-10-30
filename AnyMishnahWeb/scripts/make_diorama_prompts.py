@@ -105,8 +105,16 @@ for p in P:
 def frame_for(p):
     return FRAME["wide-eye"] if (p["kind"] == "field" and p["frame"] == "wide") else FRAME[p["frame"]]
 
+OPEN_LEAD = "Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame."
+OPEN_LEAD_NEW = "Handmade sculpted figures in a hand-built scene, photographed up close as a still of a crafted set, not a film frame."
+OPEN_LIGHT = "Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading."
+OPEN_LIGHT_NEW = "Lighting and depth: slight shallow depth of field so the scene reads as small and handmade. Soft, even lighting with gentle shadows and no dramatic contrast, no haze, no cinematic color grading."
+
 def style_for(p):
     s = STYLE
+    if p["kind"] == "field" or p["frame"] == "wide":   # no 'diorama', 'model' or 'display table': Gemini drew the set on a table (3:11a)
+        assert OPEN_LEAD in s and OPEN_LIGHT in s
+        s = s.replace(OPEN_LEAD, OPEN_LEAD_NEW).replace(OPEN_LIGHT, OPEN_LIGHT_NEW)
     if p["kind"] == "interior": s = s.replace(SETTING, SET_INTERIOR)
     elif p["kind"] == "field": s = s.replace(SETTING, SET_FIELD)
     assert s != STYLE or p["kind"] == "street"
@@ -115,7 +123,9 @@ def style_for(p):
     if p["child"]: s += "\n\n" + CHILD
     return s
 
-out = ["""# Older-audience pictures in the sculpted-diorama style: prompts v1 (2026-10-30)
+out = ["""# Older-audience pictures in the sculpted-diorama style: prompts v2 (2026-10-30)
+
+v2: open-air and wide scenes (12 of the 29, marked below by the line 'The set fills the whole frame') no longer open with 'miniature diorama ... crafted model' or say 'model on a display table', and carry a line that the set fills the frame; the pasture in 3:11 is not boxed in. Street, interior and close scenes are unchanged from v1 (3:1a worked).
 
 For every picture that already has a graphic-novel (older-audience) version: Bava Kamma 3 (14 pictures), Bava Kamma 5 (5) and Bava Metzia 1 (10). Teen/adult track only: the younger-track (claymation) style block was not pasted into the style file, and the younger pictures stay as they are. The other chapters of Bava Kamma have no older pictures yet, so they are not here.
 
@@ -138,5 +148,5 @@ for p in P:
         out[-1] = f"PASTE (edit, same chat; the style stays):\n```\n{p['scene']}\n```\n"
     else:
         out.append(f"PASTE (new chat):\n```\n{style_for(p)}\n\n{p['scene']}\n\n{frame_for(p)}\n\n{AVOID}\n```\n")
-open("data/diorama_prompts_bk3-bk5-bm1_v1.md", "w").write("".join(out))
+open("data/diorama_prompts_bk3-bk5-bm1_v2.md", "w").write("".join(out))
 print(len(P), "prompts;", sum(1 for p in P if p["edit"]), "edits")
