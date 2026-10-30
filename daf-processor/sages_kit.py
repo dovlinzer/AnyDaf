@@ -117,8 +117,9 @@ def main():
                     continue
                 b = e.get("slug") or ("name:" + (e["name"] if e.get("alts") else clean_name(e["name"])))
                 add(k, rel, b, "wikipedia", notes, e.get("f"), e.get("alts", False))
-    for a, rel, b in ov.get("add_links", []):
-        add(a, rel, b, "author")
+    for item in ov.get("add_links", []):
+        a, rel, b = item[:3]
+        add(a, rel, b, "author", [item[3]] if len(item) > 3 else ())   # an optional 4th item is a note on the relation ('כנראה' = apparently)
     drop = {tuple(x) for x in ov.get("drop_links", [])}
     # make two-way
     for (a, rel, b), e in list(links.items()):

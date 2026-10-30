@@ -3,23 +3,7 @@
  "major": [],
  "tier": {},
  "tier_mishnah": {},
- "drop_links": [
-  [
-   "rabban-gamliel",
-   "children",
-   "rabbi-hanina-b-gamliel"
-  ],
-  [
-   "rabbi-hanina-b-gamliel",
-   "father",
-   "rabban-gamliel"
-  ],
-  [
-   "rabbi-hanina-b-gamliel",
-   "parents",
-   "rabban-gamliel"
-  ]
- ],
+ "drop_links": [],
  "add_links": [
   [
    "rabban-gamliel",
@@ -205,8 +189,15 @@
    "rav-yosef-b-rava",
    "teachers",
    "rav-yosef-b-chiyya"
+  ],
+  [
+   "rabban-gamliel",
+   "children",
+   "rabbi-hanina-b-gamliel",
+   "כנראה"
   ]
  ],
  "_family_note": "Added 2026-10-29 at the author's request, from English Wikipedia (Gamaliel II: son of Shimon ben Gamaliel, grandson of Gamaliel I; Gamaliel the Elder: son of Simeon ben Hillel, grandson of Hillel the Elder). Completes Rebbe's line up to Hillel.",
- "_family_note2": "2026-10-29: 24 relations stated plainly in Hebrew or English Wikipedia article TEXT (not only the infobox), checked one by one against the sentence; speculative ones ('some think', 'possibly') were left out. Candidates: body_relations_audit.md (Hebrew) and enwiki_candidates.md (English)."
+ "_family_note2": "2026-10-29: 24 relations stated plainly in Hebrew or English Wikipedia article TEXT (not only the infobox), checked one by one against the sentence; speculative ones ('some think', 'possibly') were left out. Candidates: body_relations_audit.md (Hebrew) and enwiki_candidates.md (English).",
+ "_hanina_note": "2026-10-30: Hanina b. Gamliel as a son of Gamliel of Yavneh is in Hebrew Wikipedia's infobox; English Wikipedia says it 'cannot be regarded as proved'. Kept, marked 'apparently' (the author's call)."
 }

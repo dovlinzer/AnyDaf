@@ -115,7 +115,7 @@
     const seen = new Set();
     return out.filter(p => { const k = p.id || p.name; if (seen.has(k)) return false; seen.add(k); return true; });
   }
-  const NOTES = { 'שנוי במחלוקת': 'Disputed.', 'לפי חלק מהדעות': 'By some accounts.', 'לפי המסורת': 'By tradition.',
+  const NOTES = { 'כנראה': 'Apparently.', 'שנוי במחלוקת': 'Disputed.', 'לפי חלק מהדעות': 'By some accounts.', 'לפי המסורת': 'By tradition.',
                   'מסורת עממית': 'A folk tradition.', 'לפי הזוהר': 'According to the Zohar.',
                   'לפי חלקים מהזוהר': 'According to parts of the Zohar.', 'לפי חלק מהזוהר': 'According to part of the Zohar.',
                   'נינו': 'Great-grandson.' };
