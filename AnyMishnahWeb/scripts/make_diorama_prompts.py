@@ -11,11 +11,15 @@ Lighting and depth: slight miniature-set depth of field so the set reads as smal
 AVOID = "Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic skin pores, plush or felt toy look, clay look, glossy eyes, cute or rounded features, bright toy colors, comic-book or illustrated style, text, watermark. Aspect ratio 3:2 landscape."
 SETTING = "Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones."
 SET_INTERIOR = "Settings are built as a miniature interior of a stone house with plastered walls, wooden beams, and a tamped-earth floor."
-SET_FIELD = "Settings are built as a miniature landscape set with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones."
+SET_FIELD = "Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills."
+# Gemini read "miniature diorama ... photographed as a model" literally and showed the set on a table (3:11a). Open-air scenes have no building to
+# fill the frame, so they need this line, and an eye-level framing (an elevated view looks down onto a tabletop).
+FILL = "The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky."
 ANIMALS = "Animals are sculpted with the same matte hand-made surfaces, realistic anatomy, not cute."
 CHILD = "The child has child proportions with a realistic child's head size, not toy-like, expressions natural and dignified."
 FRAME = {
     "wide": "Wide, slightly elevated view with the whole scene clear at a glance.",
+    "wide-eye": "Wide shot at the eye level of the figures, with the whole scene clear at a glance.",
     "medium": "Medium shot at eye level, figures and key objects clearly visible, set visible behind them.",
     "close": "Close, slightly elevated view of the key objects and hands, with figures partly in frame.",
     "interior": "Elevated view into a cutaway room, all figures and objects visible.",
@@ -54,7 +58,7 @@ add("bk3-6", "3:6 a runner and a walker collide", "medium",
 add("bk3-7", "3:7 a wood chip flies over a wall", "medium",
     "Scene: a courtyard with a low stone wall that opens onto a street. Inside the courtyard, a woman in a rust-coloured dress with rolled sleeves and a head covering has just split a log with an axe, and has stopped, axe lowered, looking at the man in alarm. A wooden chip has flown over the wall and struck a passerby in the street, a man in a blue cloak and a plain cloth cap pushed back: a small wooden chip is stuck in the skin of his forehead, with a clear trickle of red blood running down from it past his eye, and his hand is pressed to the spot, his face twisted in pain. He stands on the street side of the wall. A few more chips lie on the ground between them. Exactly two people.")
 add("bk3-11a", "3:11 two oxen chase a third, two different owners (FIRST of a pair; make 11b in the SAME chat)", "wide",
-    "Scene: an open pasture with a stone wall along one side. A small brown ox staggers across the pasture, gored: a deep gash is torn open in its side, the edges of the wound ragged, with a clear stream of red blood running down its flank and dripping onto the grass, its head hanging low and its tongue out. A red ox and a black ox run after it with their horns lowered, one close behind the other. Beside the wall stand three people. The owner of the red ox, a woman in a green dress with a white head covering, points at the black ox with a frown. The owner of the black ox, a man in a yellow tunic and a plain grey cloth cap, points at the red ox with a frown. The owner of the small brown ox, a woman with grey hair under a white head covering, in a blue dress, stands between them with open hands, puzzled. Exactly three oxen and exactly three people (two women and one man).", kind="field", animals=True)
+    "Scene: an open pasture with a low stone wall along one side; the pasture continues out of the picture on every other side. A small brown ox staggers across the pasture, gored: a deep gash is torn open in its side, the edges of the wound ragged, with a clear stream of red blood running down its flank and dripping onto the grass, its head hanging low and its tongue out. A red ox and a black ox run after it with their horns lowered, one close behind the other. Beside the wall stand three people. The owner of the red ox, a woman in a green dress with a white head covering, points at the black ox with a frown. The owner of the black ox, a man in a yellow tunic and a plain grey cloth cap, points at the red ox with a frown. The owner of the small brown ox, a woman with grey hair under a white head covering, in a blue dress, stands between them with open hands, puzzled. Exactly three oxen and exactly three people (two women and one man).", kind="field", animals=True)
 add("bk3-11b", "3:11 the same two oxen, one owner (same chat, edit of 11a)", "wide",
     "Using the previous picture as reference, everything is exactly the same except: the red ox and the black ox are now both owned by the woman in the green dress, who stands beside the wall with a worried face and one hand on her chin; the man in the yellow tunic is gone; the woman in the blue dress still stands with open hands, pointing now at the two oxen. The small brown ox keeps the deep gash in its side and the blood running down its flank. Exactly three oxen and exactly two women.", animals=True, edit=True)
 
@@ -95,14 +99,18 @@ add("bm1-7", "1:7 a found document", "wide",
 # ---- the style-neutral check (the author's list), on scene and framing text
 BANNED = r"\b(clay|claymation|plasticine|puppet|sculpt\w*|stop-motion|diorama|miniature|model|painted|illustrat\w*|comic|photograph\w*|render\w*|cute|rounded|simplified|chunky|soft|glossy|matte|pores|35mm|bokeh|depth of field|golden hour|dramatic|studio|haze|cinematic|mature|dignified|serious|playful|whimsical|child-friendly)\b"
 for p in P:
-    bad = re.findall(BANNED, p["scene"] + " " + FRAME[p["frame"]], flags=re.I)
+    bad = re.findall(BANNED, p["scene"] + " " + FRAME[p["frame"]] + " " + FRAME["wide-eye"], flags=re.I)
     assert not bad, (p["id"], bad)
+
+def frame_for(p):
+    return FRAME["wide-eye"] if (p["kind"] == "field" and p["frame"] == "wide") else FRAME[p["frame"]]
 
 def style_for(p):
     s = STYLE
     if p["kind"] == "interior": s = s.replace(SETTING, SET_INTERIOR)
     elif p["kind"] == "field": s = s.replace(SETTING, SET_FIELD)
     assert s != STYLE or p["kind"] == "street"
+    if p["kind"] == "field" or p["frame"] == "wide": s += "\n\n" + FILL
     if p["animals"]: s += "\n\n" + ANIMALS
     if p["child"]: s += "\n\n" + CHILD
     return s
@@ -129,6 +137,6 @@ for p in P:
         # an edit goes into the same chat: no style block
         out[-1] = f"PASTE (edit, same chat; the style stays):\n```\n{p['scene']}\n```\n"
     else:
-        out.append(f"PASTE (new chat):\n```\n{style_for(p)}\n\n{p['scene']}\n\n{FRAME[p['frame']]}\n\n{AVOID}\n```\n")
+        out.append(f"PASTE (new chat):\n```\n{style_for(p)}\n\n{p['scene']}\n\n{frame_for(p)}\n\n{AVOID}\n```\n")
 open("data/diorama_prompts_bk3-bk5-bm1_v1.md", "w").write("".join(out))
 print(len(P), "prompts;", sum(1 for p in P if p["edit"]), "edits")

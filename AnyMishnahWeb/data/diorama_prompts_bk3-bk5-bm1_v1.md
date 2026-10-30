@@ -62,13 +62,15 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature landscape set with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones.
+Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
+
 Scene: a country path beside a field. A fence made of thorn branches that ran along the edge of the field has fallen across the path, and thorns lie spread over the ground, clearly visible in the foreground. A woman traveller in a blue cloak and a long dress, with a white head covering, has stepped into the thorns and is hopping on one foot, holding the other foot up with a pained face. The field's owner, a man in an olive tunic with a white beard and a plain cream cloth cap, stands at the edge of his field with both hands on his head in dismay. Exactly two people.
 
-Wide, slightly elevated view with the whole scene clear at a glance.
+Wide shot at the eye level of the figures, with the whole scene clear at a glance.
 
 Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic skin pores, plush or felt toy look, clay look, glossy eyes, cute or rounded features, bright toy colors, comic-book or illustrated style, text, watermark. Aspect ratio 3:2 landscape.
 ```
@@ -96,6 +98,8 @@ Handmade sculpted figures in a miniature diorama, photographed as a still of a c
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
+
 Scene: a path between two stone walls, seen from the side, with everyone moving toward the left of the picture. Two women pot-sellers each carry a wooden rack full of earthenware pots on her back. The first, ahead at the left, in a brown dress with a white head covering, has tripped and lies sprawled on the path. The second, behind her at the right, in a green dress with a red head covering, is tumbling forward over the first, arms out, her rack tipping so that pots spill. Several broken earthenware pots lie on the path. Exactly two women. The first woman (brown, left) is on the ground and the second (green, right) is falling onto her.
 
 Wide, slightly elevated view with the whole scene clear at a glance.
@@ -111,6 +115,8 @@ Handmade sculpted figures in a miniature diorama, photographed as a still of a c
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
+
 Scene: a wide town street seen from the side, with both people walking toward the left of the picture, abreast of each other, level with each other. The man nearer the viewer, in a brown tunic and a plain tan cloth cap, carries a long wooden beam on his shoulder, the beam pointing forward past his shoulder. The woman beside him, farther from the viewer, in a blue dress with a white head covering, carries a large earthenware jar on her shoulder; the front tip of the beam presses against the neck of the jar, and the jar is cracking at that spot with shards falling. Both look surprised. Exactly one man and one woman, one beam, one jar.
 
 Wide, slightly elevated view with the whole scene clear at a glance.
@@ -125,6 +131,8 @@ PASTE (new chat):
 Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
 Scene: a wide town street seen from the side, with both people walking toward the left of the picture. The first man, at the left, in a brown tunic and a plain tan cloth cap, carries a long wooden beam horizontally on his shoulder; the rear end of the beam sticks out behind him. The second person, a woman behind him at the right, in a blue dress with a white head covering, carries a large earthenware jar on her shoulder and has walked into the rear end of the beam, her face startled: the jar is cracking and a shard drops. The first man keeps walking, looking straight ahead, unaware. Exactly one man and one woman, one beam, one jar.
 
@@ -181,15 +189,17 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature landscape set with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones.
+Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
+
 Animals are sculpted with the same matte hand-made surfaces, realistic anatomy, not cute.
 
-Scene: an open pasture with a stone wall along one side. A small brown ox staggers across the pasture, gored: a deep gash is torn open in its side, the edges of the wound ragged, with a clear stream of red blood running down its flank and dripping onto the grass, its head hanging low and its tongue out. A red ox and a black ox run after it with their horns lowered, one close behind the other. Beside the wall stand three people. The owner of the red ox, a woman in a green dress with a white head covering, points at the black ox with a frown. The owner of the black ox, a man in a yellow tunic and a plain grey cloth cap, points at the red ox with a frown. The owner of the small brown ox, a woman with grey hair under a white head covering, in a blue dress, stands between them with open hands, puzzled. Exactly three oxen and exactly three people (two women and one man).
+Scene: an open pasture with a low stone wall along one side; the pasture continues out of the picture on every other side. A small brown ox staggers across the pasture, gored: a deep gash is torn open in its side, the edges of the wound ragged, with a clear stream of red blood running down its flank and dripping onto the grass, its head hanging low and its tongue out. A red ox and a black ox run after it with their horns lowered, one close behind the other. Beside the wall stand three people. The owner of the red ox, a woman in a green dress with a white head covering, points at the black ox with a frown. The owner of the black ox, a man in a yellow tunic and a plain grey cloth cap, points at the red ox with a frown. The owner of the small brown ox, a woman with grey hair under a white head covering, in a blue dress, stands between them with open hands, puzzled. Exactly three oxen and exactly three people (two women and one man).
 
-Wide, slightly elevated view with the whole scene clear at a glance.
+Wide shot at the eye level of the figures, with the whole scene clear at a glance.
 
 Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic skin pores, plush or felt toy look, clay look, glossy eyes, cute or rounded features, bright toy colors, comic-book or illustrated style, text, watermark. Aspect ratio 3:2 landscape.
 ```
@@ -205,15 +215,17 @@ Using the previous picture as reference, everything is exactly the same except: 
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature landscape set with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones.
+Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
 Animals are sculpted with the same matte hand-made surfaces, realistic anatomy, not cute.
 
 Scene: a farm yard. A gored cow lies on her side, eyes closed, completely still, with a clear gash torn open in her side, and a dead newborn calf lies on its side beside her, eyes closed, completely still. An ox stands a little way off, head lowered, horns pointing toward the cow, steam coming from its nostrils. A farmer in a simple tunic and a plain cloth cap scratches his head, puzzled. The picture has exactly two parts: the main scene in the lower part, and above it exactly two framed boxes side by side, each a plain rectangle with its own small picture, with no tails and no thought bubbles. The two boxes look clearly different, each showing an ox and a cow at normal size and proportion, the ox charging at the cow. Left box: the cow with a newborn calf already standing beside her. Right box: a visibly pregnant cow with a very round belly, and no calf. A single question mark floats in the gap between the two boxes, outside both of them. The only text allowed in the whole picture is that question mark.
 
-Wide, slightly elevated view with the whole scene clear at a glance.
+Wide shot at the eye level of the figures, with the whole scene clear at a glance.
 
 Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic skin pores, plush or felt toy look, clay look, glossy eyes, cute or rounded features, bright toy colors, comic-book or illustrated style, text, watermark. Aspect ratio 3:2 landscape.
 ```
@@ -246,15 +258,17 @@ Using the previous picture as reference, everything is exactly the same except: 
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature landscape set with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones.
+Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
 Animals are sculpted with the same matte hand-made surfaces, realistic anatomy, not cute.
 
 Scene: the picture has exactly two parts: a main scene in the lower part, and above it exactly two framed boxes, side by side, each a plain rectangle containing its own small picture. Main scene: a dirt road in daylight. A man in work clothes and a plain brown cloth cap stands next to a freshly dug round pit at the roadside, spade in hand. An ox walks along the road and has stopped at the edge of the pit, looking down into it, one front hoof near the rim. A measuring rod with equal notches stands upright inside the pit. The two boxes above show side views of the pit cut open, so its depth is visible; the pit is the same round shape everywhere. Left box: a deep round pit, a rod whose top notch is marked with the numeral 10, and an ox lying dead on its side at the bottom, eyes closed, completely still. Right box: a shallower round pit, a rod whose top notch is marked with the numeral 9, and the same ox lying dead on its side, eyes closed, completely still. A single question mark floats in the gap between the two boxes, outside both of them. The only text allowed in the whole picture is the numerals 10 and 9 and that question mark.
 
-Wide, slightly elevated view with the whole scene clear at a glance.
+Wide shot at the eye level of the figures, with the whole scene clear at a glance.
 
 Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic skin pores, plush or felt toy look, clay look, glossy eyes, cute or rounded features, bright toy colors, comic-book or illustrated style, text, watermark. Aspect ratio 3:2 landscape.
 ```
@@ -263,15 +277,17 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature landscape set with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones.
+Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
 Animals are sculpted with the same matte hand-made surfaces, realistic anatomy, not cute.
 
 Scene: the picture has exactly two parts: a main scene in the lower part, and above it exactly two framed boxes, side by side, each a plain rectangle containing its own small picture. Main scene: a field path beside an open round pit, with a wooden cover board lying on the ground next to it. Two partners are there: the first, in a brown tunic and cloak and a brown cloth cap, is already walking away down the path, looking back over his shoulder; the second, in a green tunic and a plain cream cloth cap, stands at the edge of the pit looking down into it, hands on his hips, the cover board at his feet; he has not picked it up. The two boxes above show what happened afterwards as side views cut open, with no people in them and no arrows. Left box: the pit properly covered by the board, and an ox standing safely on the ground beside it. Right box: the pit open, so its depth is visible, with an ox lying dead on its side at the very bottom of the pit, well below ground level, eyes closed, completely still. A single question mark floats in the gap between the two boxes, outside both of them. The only text allowed in the whole picture is that question mark.
 
-Wide, slightly elevated view with the whole scene clear at a glance.
+Wide shot at the eye level of the figures, with the whole scene clear at a glance.
 
 Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic skin pores, plush or felt toy look, clay look, glossy eyes, cute or rounded features, bright toy colors, comic-book or illustrated style, text, watermark. Aspect ratio 3:2 landscape.
 ```
@@ -306,6 +322,8 @@ Handmade sculpted figures in a miniature diorama, photographed as a still of a c
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
 
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
+
 Animals are sculpted with the same matte hand-made surfaces, realistic anatomy, not cute.
 
 Scene: the picture has exactly two parts: a main scene in the lower part, and above it exactly two framed boxes, side by side, each a plain rectangle containing its own small picture. Main scene: on a dirt road, a grey donkey with Man A in a blue cloak and a plain brown cloth cap sitting on it, and Man B in an orange tunic and a plain grey cloth cap walking beside it holding its rope; both point at themselves and look indignant. Above the scene, two boxes. Left box: the two men each with a raised right hand as if swearing an oath. Right box: the two men shaking hands, a third man in a white tunic and a plain white cloth cap (a witness) standing between them.
@@ -319,15 +337,17 @@ Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature landscape set with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones.
+Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
 Animals are sculpted with the same matte hand-made surfaces, realistic anatomy, not cute.
 
 Scene: cast, identical in both pictures of this pair: the rider wears a blue cloak and a plain brown cloth cap, has a short brown beard and sits on a grey donkey; the friend wears an orange tunic and a plain grey cloth cap and has a round beard. A dirt road in hill country. The rider points down toward the road. The friend, on foot, has picked up the leather purse and hugs it to his chest with a triumphant grin, while the rider looks surprised. There is exactly ONE leather purse in the whole picture, in the friend's arms; nothing lies on the ground.
 
-Wide, slightly elevated view with the whole scene clear at a glance.
+Wide shot at the eye level of the figures, with the whole scene clear at a glance.
 
 Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic skin pores, plush or felt toy look, clay look, glossy eyes, cute or rounded features, bright toy colors, comic-book or illustrated style, text, watermark. Aspect ratio 3:2 landscape.
 ```
@@ -343,15 +363,17 @@ Using the previous picture as reference, everything is exactly the same except: 
 
 PASTE (new chat):
 ```
-Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature landscape set with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones.
+Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a hand-built landscape with hand-carved stone walls, packed-earth ground, tufts of grass, and scattered stones, continuing back to distant hills.
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
 Animals are sculpted with the same matte hand-made surfaces, realistic anatomy, not cute.
 
 Scene: cast, identical in both pictures of this pair: the field's owner wears a brown tunic and a straw hat and has a round face and a grey moustache; the two chasers wear a yellow tunic with a plain cloth cap and a purple tunic with a plain cloth cap. An open grassy field on a hillside with a few olive trees, with no fence, wall or gate. A single deer stands on three legs, its broken front leg held up off the ground in a neat wooden splint and white bandage; it can only hobble slowly and cannot get away. The two chasers run toward it from the far side of the field; the owner stands close to the deer with one hand pressed to his chest, calling out confidently. Exactly one deer.
 
-Wide, slightly elevated view with the whole scene clear at a glance.
+Wide shot at the eye level of the figures, with the whole scene clear at a glance.
 
 Avoid: photorealism, film still, cinematic lighting, atmospheric haze, realistic skin pores, plush or felt toy look, clay look, glossy eyes, cute or rounded features, bright toy colors, comic-book or illustrated style, text, watermark. Aspect ratio 3:2 landscape.
 ```
@@ -394,6 +416,8 @@ PASTE (new chat):
 Handmade sculpted figures in a miniature diorama, photographed as a still of a crafted model, not a film frame. The figures are visibly sculpted by hand: slightly simplified, deliberately stylized faces with clean sculpted planes and soft tool marks, matte painted surfaces, and no pores or photographic skin detail. Adult proportions, normal-sized heads, narrow adult eyes, mature and dignified expressions, never cute. Costumes are heavy woven fabric with visible thread texture. Settings are built as a miniature set with hand-carved stone texture, wooden doors, and packed-earth ground with scattered stones.
 
 Lighting and depth: slight miniature-set depth of field so the set reads as small and handmade. Soft, even studio lighting like a model on a display table, with gentle shadows and no dramatic contrast, no haze, no cinematic color grading. Muted earthy palette of ochre, terracotta, dusty blue, and stone grey.
+
+The set fills the whole frame edge to edge and is seen from inside the scene, at the height of the figures. No table, display stand, base, plinth, box edge, or studio backdrop is visible anywhere; the set continues behind the figures to distant stone walls, hills, and sky.
 
 Scene: cast, to be kept strictly distinct: the finder in the main scene wears an orange tunic and a plain brown cloth cap and has black hair and a black beard. In the left box the giver is a clean-shaven man in a dark blue tunic and a white cap, and the woman wears a grey hooded cloak. In the right box the writer is a man in a green tunic and a plain grey cloth cap with a grey beard. No figure in the boxes looks like the finder. Any document is a rolled scroll. The picture has exactly two parts: a main scene in the lower part, and above it exactly two framed boxes, side by side, each a plain rectangle containing its own small picture. Main scene: the finder stands on a path holding up a rolled document, looking uncertain. Above the scene, two boxes. Left box: the giver handing the rolled document to the woman, and the same document later lying on the ground behind her as she looks around anxiously. Right box: the writer seated at a desk with the rolled document, pushing it away and shaking his head, the document falling to the floor. A single question mark floats in the gap between the two boxes, outside both of them. The only text allowed in the whole picture is that question mark.
 
