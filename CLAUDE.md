@@ -3373,6 +3373,8 @@ Script upserts Episodes first, then resolves `display_label → episode_id` via 
 
 ### WordPress Audio Posts (Unblocked and verified working — 2026-07-30)
 
+**Podcast names in titles (2026-10-30):** `seriesTitle` (`YCTLibraryClient.swift`/`.kt`, and `app.html` on the site; keep all three in step) prefixes an episode with its podcast ("Iggros Moshe A to Z - Episode 25: ..."). The library's series taxonomy is not in its REST API, so the slug comes from the post's `class_list` (`series-iggros-moshe`). Known names are listed in the function; another series is named from its slug only when the title starts with "Episode", so conference talks (Yemei Iyun) keep their plain titles.
+
 library.yctorah.org has audio posts (the ~45-episode "Iggros Moshe A to Z" podcast, among others — actually 795 total `audio` posts across all shiur types on the site) at `/audio/[slug]/` URLs, a custom WordPress post type. **The webmaster enabled `show_in_rest` and it is now confirmed live and fully working end-to-end**, verified 2026-07-30 via direct curl against production:
 
 - `/wp-json/wp/v2/types` now lists `audio` with `rest_base: "audio"` — **the guessed `restBase: "audio"` in `YCTLibraryClient.swift`/`.kt` was correct; no code change needed.**

@@ -155,7 +155,7 @@ class YCTLibraryClient(
         if (allTermIDs.isEmpty()) return@withContext emptyList()
 
         val ids = allTermIDs.joinToString(",")
-        val fields = "id,title,excerpt,content,date,link,slug,reference,_links,_embedded"
+        val fields = "id,title,excerpt,content,date,link,slug,reference,class_list,_links,_embedded"
         val url = "$baseURL/$restBase?reference=$ids&per_page=100&_fields=${encode(fields)}&_embed=author,wp:featuredmedia"
         val body = fetchString(url) ?: return@withContext emptyList()
         val arr = JSONArray(body)
@@ -171,7 +171,7 @@ class YCTLibraryClient(
             val contentRaw = post.optJSONObject("content")?.getString("rendered") ?: ""
             val isAudio = contentRaw.contains("<audio", ignoreCase = true)
 
-            val title = stripHtml(post.getJSONObject("title").getString("rendered"))
+            val title = seriesTitle(post.optJSONArray("class_list"), stripHtml(post.getJSONObject("title").getString("rendered")))
             // The "audio" custom post type doesn't declare excerpt support, so the
             // `excerpt` key is absent entirely from its REST response — fall back to ""
             // (the existing content-derived-excerpt logic below fills it in from there).
@@ -373,6 +373,20 @@ class YCTLibraryClient(
             s = s.replace(Regex(pattern), "")
         }
         return s
+    }
+
+    /**
+     * A podcast episode is named with its podcast: "Iggros Moshe A to Z - Episode 25: ...". The library's
+     * series taxonomy is not in its REST API, but each post's classes carry it (series-iggros-moshe).
+     */
+    private fun seriesTitle(classes: JSONArray?, title: String): String {
+        val cls = (0 until (classes?.length() ?: 0)).map { classes!!.optString(it) }
+            .firstOrNull { it.startsWith("series-") } ?: return title
+        val slug = cls.removePrefix("series-")
+        val known = mapOf("iggros-moshe" to "Iggros Moshe A to Z", "pastoral-parsha" to "Pastoral Parsha", "parsha-in-progress" to "Parsha in Progress")
+        val name = known[slug] ?: if (Regex("^(final )?episode\\b", RegexOption.IGNORE_CASE).containsMatchIn(title))
+            slug.split("-").joinToString(" ") { w -> w.replaceFirstChar { it.uppercase() } } else return title
+        return if (title.startsWith(name, ignoreCase = true)) title else "$name - $title"
     }
 
     private fun stripHtml(html: String): String {

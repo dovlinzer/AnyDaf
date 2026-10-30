@@ -195,7 +195,7 @@ class YCTLibraryClient {
         components.queryItems = [
             URLQueryItem(name: "reference", value: ids),
             URLQueryItem(name: "per_page",  value: "100"),
-            URLQueryItem(name: "_fields",   value: "id,title,excerpt,content,date,link,slug,reference,_links,_embedded"),
+            URLQueryItem(name: "_fields",   value: "id,title,excerpt,content,date,link,slug,reference,class_list,_links,_embedded"),
             URLQueryItem(name: "_embed",    value: "author,wp:featuredmedia"),
         ]
         guard let url = components.url else { throw YCTError.invalidURL }
@@ -224,7 +224,7 @@ class YCTLibraryClient {
             let contentRaw = (post["content"] as? [String: Any])?["rendered"] as? String ?? ""
             let isAudio = contentRaw.range(of: "<audio", options: .caseInsensitive) != nil
 
-            let title = stripHTML(titleRaw)
+            let title = seriesTitle(classes: post["class_list"] as? [String] ?? [], title: stripHTML(titleRaw))
             var excerpt = stripHTML(excerptRaw)
             if excerpt.isEmpty, !contentRaw.isEmpty {
                 // Audio posts (podcast episodes) embed a PowerPress player + link/subscribe
@@ -462,6 +462,20 @@ class YCTLibraryClient {
             s = s.replacingOccurrences(of: pattern, with: "", options: .regularExpression)
         }
         return s
+    }
+
+    /// A podcast episode is named with its podcast: "Iggros Moshe A to Z - Episode 25: ...". The library's
+    /// series taxonomy is not in its REST API, but each post's classes carry it (series-iggros-moshe).
+    private func seriesTitle(classes: [String], title: String) -> String {
+        guard let cls = classes.first(where: { $0.hasPrefix("series-") }) else { return title }
+        let slug = String(cls.dropFirst("series-".count))
+        let known = ["iggros-moshe": "Iggros Moshe A to Z", "pastoral-parsha": "Pastoral Parsha", "parsha-in-progress": "Parsha in Progress"]
+        var name = known[slug]
+        if name == nil, title.range(of: "^(final )?episode\\b", options: [.regularExpression, .caseInsensitive]) != nil {
+            name = slug.replacingOccurrences(of: "-", with: " ").capitalized
+        }
+        guard let series = name, !title.lowercased().hasPrefix(series.lowercased()) else { return title }
+        return "\(series) - \(title)"
     }
 
     private func stripHTML(_ html: String) -> String {
