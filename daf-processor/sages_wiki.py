@@ -373,6 +373,20 @@ def family_entries(field_key, value):
                 e.update({"target": links[0][0], "shown": links[0][1]})
                 for extra in links[1:]:
                     out.append({**{k: v for k, v in e.items() if k not in ("target", "shown")}, "target": extra[0], "shown": extra[1]})
+                if len(links) > 1:
+                    # a "(note)" belongs to the link just before it ("A, B (apparently)": B only), not to every link on the line
+                    starts = [m.start() for m in re.finditer(r"\[\[", seg)]
+                    paren = [(m.start(), plain(m.group(1))) for m in re.finditer(r"\(([^()]*)\)", seg) if plain(m.group(1))]
+                    if len(starts) == len(links):
+                        mine = []
+                        for i in range(len(links)):
+                            lo, hi = starts[i], (starts[i + 1] if i + 1 < len(starts) else len(seg) + 1)
+                            mine.append([n for pos, n in paren if lo < pos < hi])
+                        group = out[len(out) - len(links):]
+                        # the first link is `e` (appended below), the others are already in `out`
+                        e["notes"] = qual + mine[0] + refs
+                        for ent, ns in zip(out[len(out) - (len(links) - 1):], mine[1:]):
+                            ent["notes"] = qual + ns + refs
             else:
                 name = plain(body).strip(" ,;.:")
                 if not name:
