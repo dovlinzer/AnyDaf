@@ -276,3 +276,6 @@ Glossary terms (Hebrew, transliteration and English gloss) are given WITHOUT the
 ## Paragraph rule (author, 2026-10-28)
 Start a new paragraph whenever the speaker switches or a different tanna states a position ("They said to him", "He said to them", "Rabbi X says/said", "The Sages say"), in both English and Hebrew. Paragraph spacing is .25em. scripts/split_speakers.py applies this; use it for any new text.
 - No etymologies in glossary entries (author, 2026-10-28).
+
+## Head coverings (author, 2026-10-30)
+Every adult man is shown with his head covered (a cap, a wrapped cloth or a turban), as the women already are. Say it in the cast text and restate it in every edit. The sages figures (reference-kit/sages/fig) are done; the mishnah pictures still need an audit and edits (see CLAUDE.md, "HEAD COVERINGS in the mishnah pictures").
