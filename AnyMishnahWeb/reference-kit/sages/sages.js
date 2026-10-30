@@ -243,11 +243,11 @@
       const order = [...(w && WOMAN_FACE[k] != null ? [WOMAN_FACE[k]] : []), ...pref.map((_, i) => pref[(h + i) % pref.length]), ...rest.map((_, i) => rest[(h + i) % rest.length])]
         .filter((f, i, a) => a.indexOf(f) === i);   // her or his own kind of picture first
       let f = order.find(c => !used.has(c));
-      if (f != null) faceOf.set(k, f);                 // a picture nobody else on screen has: he keeps it from now on
-      else {                                           // more sages than pictures: repeat one, but never within a row or with the middle sage
+      if (f == null) {                                           // more sages than pictures: repeat one, but never within a row or with the middle sage
         const mid = placed.find(q => q.centre)?.fig;
         f = order.find(c => c !== mid && !(row[p.rel] && row[p.rel].has(c))) ?? order[0];
       }
+      faceOf.set(k, f);                                // he keeps it from now on, even where it had to repeat (so he looks the same when he is clicked to the middle)
       take(p, f);
     }
   }
