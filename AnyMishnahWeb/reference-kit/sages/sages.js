@@ -321,6 +321,9 @@
     // his brothers and sisters: the other children of his parents
     [...nodes.values()].filter(n => n.gen === -1 && n.id).forEach(par => (sage(par.id).links.children || []).forEach(l => {
       if (l.id === id) return; const q = mk(l, 0, { sib: true }); if (q) edge(par, q, 'pc'); }));
+    // brothers whose father is in the tree already hang from his bar: the dotted brother line is only for those with no shared parent
+    for (const e of [...edges].filter(e => e.type === 'sib'))
+      if (edges.some(p => p.type === 'pc' && p.b === e.a && edges.some(q => q.type === 'pc' && q.a === p.a && q.b === e.b))) edges.splice(edges.indexOf(e), 1);
     // A father-in-law and a son-in-law: not one dotted line between them but father -> his daughter (a shaded dotted box, or the
     // real wife when the tree already has her) -> the son-in-law.
     // a pair listed both ways (each the other's father-in-law, one by a doubtful tradition): keep the one with no note
