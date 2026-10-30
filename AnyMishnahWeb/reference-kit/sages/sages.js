@@ -334,7 +334,7 @@
       const wives = edges.filter(x => x.type === 'sp' && (x.a === so.key || x.b === so.key)).map(x => nodes.get(x.a === so.key ? x.b : x.a)).filter(n => n && n.id && !n.ph);
       if (wives.length === 1) { edge(fa, wives[0], 'pc'); continue; }
       // a daughter the data already names as his wife ("wife of Shimon b. Azzai") stands in for the unnamed one
-      const hn = (sage(so.id) && sage(so.id).he || '').replace(/[\[\]()"'׳״]/g, '').trim();
+      const hn = ((so.id && sage(so.id) && sage(so.id).he) || so.name || '').replace(/[\[\]()"'׳״]/g, '').trim();
       const named = hn && edges.filter(x => x.type === 'pc' && x.a === fa.key).map(x => nodes.get(x.b)).find(n => n && !n.id && n.f && n.name.replace(/["'׳״]/g, '').includes(hn));
       if (named) { edge(named, so, 'sp'); continue; }
       const key = 'ph:' + fa.key + '>' + so.key;

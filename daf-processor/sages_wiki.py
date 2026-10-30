@@ -368,7 +368,11 @@ def family_entries(field_key, value):
             elif child and links:
                 e.update({"name": "", "f": 1 if child.group(1).startswith("בת") else 0, "child_of": links[0]})
             elif links:
+                # one person per link: "[[A]], [[B]]" on one line is two people (only the first was read before 2026-10-30,
+                # which lost e.g. Rabbi Akiva's second son-in-law, Yehoshua b. Kapusai)
                 e.update({"target": links[0][0], "shown": links[0][1]})
+                for extra in links[1:]:
+                    out.append({**{k: v for k, v in e.items() if k not in ("target", "shown")}, "target": extra[0], "shown": extra[1]})
             else:
                 name = plain(body).strip(" ,;.:")
                 if not name:
