@@ -269,7 +269,7 @@
   const REL_HE = { up: ['הורה', 'אביו', 'אמו'], up2: ['סב או סבתא', 'סבו', 'סבתו'], up3: ['אבי סבו', 'אבי סבו', 'אם סבתו'], up4: ['אבות אבותיו', 'אבות אבותיו', 'אבות אבותיו'],
                    down: ['ילד', 'בנו', 'בתו'], down2: ['נכד', 'נכדו', 'נכדתו'], down3: ['נין', 'נינו', 'נינתו'], down4: ['נין', 'נינו', 'נינתו'] };
   function relLabel(n, centre) {
-    const d = n.gen; if (n.centre) return '';
+    const d = n.gen; if (n.centre || n.ph) return '';   // the shaded 'Daughter' box says what it is itself
     const sx = n.f ? 2 : 1, tab = HE() ? REL_HE : REL_EN;
     if (n.inlaw) return d < 0 ? famWord('in_laws', n.f, centre.f) : d > 0 ? famWord('sons_in_law', n.f, centre.f) : '';
     if (d === 0) return n.sib ? famWord('siblings', n.f, centre.f) : n.spouse ? famWord('spouse', n.f, centre.f) : '';
@@ -289,7 +289,7 @@
       if (!nodes.has(k)) nodes.set(k, { key: k, id: y ? l.id : null, name: y ? shortName(y) : l.name, gen, f: y ? y.f : l.f, ...extra });
       return nodes.get(k);
     };
-    const edge = (a, b, type) => { if (a && b && a.key !== b.key && !edges.some(e => e.a === a.key && e.b === b.key && e.type === type)) edges.push({ a: a.key, b: b.key, type }); };
+    const edge = (a, b, type, notes) => { if (a && b && a.key !== b.key && !edges.some(e => e.a === a.key && e.b === b.key && e.type === type)) edges.push({ a: a.key, b: b.key, type, notes: !!(notes && notes.length) }); };
     const done = new Set();
     function expand(pn, up, down, depth) {
       const tag = pn.key + (up ? 'u' : '') + (down ? 'd' : ''); if (!pn.id || done.has(tag)) return; done.add(tag);
@@ -300,14 +300,14 @@
           else for (const [oid, o] of Object.entries(S.data.sages))   // a father we only have by name (Shimon b. Hillel): a sage who lists a child of that name is HIS father
             if ((o.links.children || []).some(c => !c.id && c.name === l.name)) { const g = mk({ id: oid }, q.gen - 1); if (g) { edge(g, q, 'pc'); expand(g, true, false, depth + 2); } } } });
         each(['grandparents'], l => { const q = mk(l, pn.gen - 2); if (q) edge(q, pn, 'far'); });
-        each(['in_laws'], l => { const q = mk(l, pn.gen - 1, { inlaw: true }); if (q) edge(q, pn, 'far'); });
+        each(['in_laws'], l => { const q = mk(l, pn.gen - 1, { inlaw: true }); if (q) edge(q, pn, 'far', l.notes); });
       }
       if (down && depth < MAXGEN) {
         each(['children'], l => { const q = mk(l, pn.gen + 1); if (q) { edge(pn, q, 'pc');
           if (q.id) expand(q, false, true, depth + 1);
           else for (const [oid, o] of Object.entries(S.data.sages))   // a child we only have by name: a sage who lists a father of that name is HIS child
             if (['father', 'parents'].some(r => (o.links[r] || []).some(c => !c.id && c.name === l.name))) { const g = mk({ id: oid }, q.gen + 1); if (g) { edge(q, g, 'pc'); expand(g, false, true, depth + 2); } } } });
-        each(['sons_in_law'], l => { const q = mk(l, pn.gen + 1, { inlaw: true }); if (q) edge(pn, q, 'far'); });
+        each(['sons_in_law'], l => { const q = mk(l, pn.gen + 1, { inlaw: true }); if (q) edge(pn, q, 'far', l.notes); });
         each(['grandchildren'], l => { const q = mk(l, pn.gen + 2); if (q) edge(pn, q, 'far'); });
       }
       each(['spouse'], l => { const q = mk(l, pn.gen, { spouse: pn.centre }); if (q) edge(pn, q, 'sp'); });
@@ -317,6 +317,38 @@
     // his brothers and sisters: the other children of his parents
     [...nodes.values()].filter(n => n.gen === -1 && n.id).forEach(par => (sage(par.id).links.children || []).forEach(l => {
       if (l.id === id) return; const q = mk(l, 0, { sib: true }); if (q) edge(par, q, 'pc'); }));
+    // A father-in-law and a son-in-law: not one dotted line between them but father -> his daughter (a shaded dotted box, or the
+    // real wife when the tree already has her) -> the son-in-law.
+    // a pair listed both ways (each the other's father-in-law, one by a doubtful tradition): keep the one with no note
+    for (const e of [...edges].filter(e => e.type === 'far')) {
+      const o = edges.find(x => x.type === 'far' && x.a === e.b && x.b === e.a);
+      if (o && e.notes && !o.notes) edges.splice(edges.indexOf(e), 1);
+      else if (o && e.notes === o.notes && e.a > e.b) edges.splice(edges.indexOf(e), 1);
+    }
+    for (const e of [...edges].filter(e => e.type === 'far')) {
+      const fa = nodes.get(e.a), so = nodes.get(e.b);
+      if (!(fa && so && (fa.inlaw || so.inlaw))) continue;
+      edges.splice(edges.indexOf(e), 1);
+      const wives = edges.filter(x => x.type === 'sp' && (x.a === so.key || x.b === so.key)).map(x => nodes.get(x.a === so.key ? x.b : x.a)).filter(n => n && n.id && !n.ph);
+      if (wives.length === 1) { edge(fa, wives[0], 'pc'); continue; }
+      // a daughter the data already names as his wife ("wife of Shimon b. Azzai") stands in for the unnamed one
+      const hn = (sage(so.id) && sage(so.id).he || '').replace(/[\[\]()"'׳״]/g, '').trim();
+      const named = hn && edges.filter(x => x.type === 'pc' && x.a === fa.key).map(x => nodes.get(x.b)).find(n => n && !n.id && n.f && n.name.replace(/["'׳״]/g, '').includes(hn));
+      if (named) { edge(named, so, 'sp'); continue; }
+      const key = 'ph:' + fa.key + '>' + so.key;
+      nodes.set(key, { key, id: null, ph: true, name: famWord('children', true, 0, false), gen: so.gen, f: 1 });
+      edge(fa, nodes.get(key), 'pc'); edge(nodes.get(key), so, 'sp');
+    }
+    // generations again, from the edges that are left (a father one row above his child, a wife in her husband's row): the in-law pairs
+    // above could be created from either side, so a person's first guess at his row may not match the line that was kept
+    { const seen = new Set([id]); const q = [id]; C.gen = 0;
+      while (q.length) { const k = q.shift(), n = nodes.get(k);
+        for (const e of edges) {
+          let o = null, d = 0;
+          if (e.type === 'pc') { if (e.a === k) { o = e.b; d = 1; } else if (e.b === k) { o = e.a; d = -1; } }
+          else if (e.type === 'sp' || e.type === 'sib') { if (e.a === k) o = e.b; else if (e.b === k) o = e.a; }
+          if (o && !seen.has(o) && nodes.get(o)) { seen.add(o); nodes.get(o).gen = n.gen + d; q.push(o); }
+        } } }
     // a dotted line (a grandfather, a grandson) is drawn only when the tree has no way to him in one-generation steps
     const kids = new Map(); edges.filter(e => e.type === 'pc').forEach(e => (kids.get(e.a) || kids.set(e.a, []).get(e.a)).push(e.b));
     const reach = (from, to) => { const seen = new Set([from]), st = [from]; while (st.length) { const c = st.pop(); for (const k of kids.get(c) || []) { if (k === to) return true; if (!seen.has(k)) { seen.add(k); st.push(k); } } } return false; };
@@ -372,7 +404,7 @@
     g.style.width = width + 'px';
     const X = x => HE() ? width - x : x;
     const place = [...fg.nodes.values()].map(n => ({
-      key: n.key, id: n.id, name: n.name, x: X(n.px), y: n.py, centre: n.centre, f: n.f, famNode: true, maxW: nodeW,
+      key: n.key, id: n.id, name: n.name, x: X(n.px), y: n.py, centre: n.centre, f: n.f, famNode: true, ph: n.ph, maxW: nodeW,
       rel: n.gen < 0 ? 'teachers' : n.gen > 0 ? 'students' : 'centre',       // older: blue, younger: green, same generation: gold
       colour: n.gen < 0 ? 'blue' : n.gen > 0 ? 'green' : 'gold', label: relLabel(n, centre) }));
     S.famEdges = fg.edges;
@@ -497,8 +529,8 @@
       }
       const sx = p.centre ? x : p.id ? sage(p.id) : null;
       const fam = p.rel && FAMILY.includes(p.rel), famLabel = fam ? p.rel : p.famRel;
-      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3} r-${p.centre ? 'centre' : p.rel}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam || p.famNode ? ' fam' : ''}`;
-      el.innerHTML = (clay ? figure(p.fig, p.centre ? 'gold' : p.colour || (p.rel === 'teachers' ? 'blue' : 'green')) : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${p.label ? `<small>${esc(p.label)}</small>` : famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
+      el.className = `sgx-n g-${group(sx)} t${sx ? tierOf(sx) : 3} r-${p.centre ? 'centre' : p.rel}${p.centre ? ' centre' : ''}${p.id ? '' : ' plain'}${fam || p.famNode ? ' fam' : ''}${p.ph ? ' ph' : ''}`;
+      el.innerHTML = (clay && !p.ph ? figure(p.fig, p.centre ? 'gold' : p.colour || (p.rel === 'teachers' ? 'blue' : 'green')) : '') + `${clay ? '<span class="sgx-nm">' : ''}${esc(p.centre ? fullName(x) : p.name)}${clay ? '</span>' : ''}${p.label ? `<small>${esc(p.label)}</small>` : famLabel ? `<small>${esc(famWord(famLabel, sx ? sx.f : p.f, x.f))}</small>` : ''}`;
       if (p.centre) el.removeAttribute('data-go'); else if (p.id) el.dataset.go = p.id;
       el.title = sx ? `${fullName(sx)} · ${meta(sx)}` : p.name;
       el.style.maxWidth = (p.centre ? (clay ? Math.min(width * 0.7, 220) : cw || nodeW * 1.5) : Math.min(nodeW, p.maxW || nodeW)) + 'px';
@@ -917,5 +949,6 @@
     openChart,      // or open it over the page
     // for hosts that want the data (search, the timeline later)
     data: async () => { await load(); return S.data; },
+    _family: id => { const g = famGraph(id); return { nodes: [...g.nodes.values()].map(n => ({ k: n.key, name: n.name, gen: n.gen, ph: !!n.ph })), edges: g.edges }; },   // for checking the tree's data
   };
 })();
