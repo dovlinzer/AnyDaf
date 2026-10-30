@@ -1301,6 +1301,13 @@ const RES_SOURCES=[
  {id:'library',label:'Library',base:'https://library.yctorah.org/wp-json/wp/v2',rest:'posts',parent:1899,tractateLevel:false},
  {id:'psak',label:'Rosh Yeshiva Responds',base:'https://psak.yctorah.org/wp-json/wp/v2',rest:'posts',parent:null,tractateLevel:true},
  {id:'audio',label:'Audio',base:'https://library.yctorah.org/wp-json/wp/v2',rest:'audio',parent:1899,tractateLevel:true}];
+// A podcast episode is named with its podcast: "Iggros Moshe A to Z - Episode 25: …". The library's
+// series taxonomy is not in its API, but each post's classes carry it (series-iggros-moshe).
+const SERIES={'iggros-moshe':'Iggros Moshe A to Z','pastoral-parsha':'Pastoral Parsha','parsha-in-progress':'Parsha in Progress'};
+function seriesTitle(p,title){
+ const sl=((p.class_list||[]).find(c=>/^series-/.test(c))||'').slice(7);if(!sl)return title;
+ const name=SERIES[sl]||(/^(final )?episode\b/i.test(title)?sl.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase()):'');
+ return name&&!title.toLowerCase().startsWith(name.toLowerCase())?`${name} - ${title}`:title}
 // AnyDaf's tractate names where the library's differ (anyDafToYCT in the apps).
 const YCT_NAME={'Eiruvin':'Eruvin','Ta’anit':'Taanit','Taanit':'Taanit','Hullin':'Chullin','Middos':'Middot','Beitzah':'Beitza','Zevachim':'Zevahim','Rosh Hashanah':'Rosh HaShanah','Shevuot':"Shevu'ot"};
 const NON_ENGLISH=['-he','-fr','-sp','-ar','-ru','-de','-pt'];
@@ -1317,7 +1324,7 @@ async function fetchSource(src,tractate){
  const ids=Object.keys(termToDaf);if(!ids.length)return [];
  const out=[];
  for(let page=1;page<=5;page++){   // 100 a page; the apps stop at the first page
-  let posts;try{posts=await getJSON(`${src.base}/${src.rest}?reference=${ids.join(',')}&per_page=100&page=${page}&_fields=id,title,excerpt,content,date,link,slug,reference,_links,_embedded&_embed=author,wp:featuredmedia`)}catch(e){if(page>1)break;throw e}
+  let posts;try{posts=await getJSON(`${src.base}/${src.rest}?reference=${ids.join(',')}&per_page=100&page=${page}&_fields=id,title,excerpt,content,date,link,slug,reference,class_list,_links,_embedded&_embed=author,wp:featuredmedia`)}catch(e){if(page>1)break;throw e}
   for(const p of posts){if(NON_ENGLISH.some(s=>p.slug.endsWith(s)))continue;
    const dafs=[...new Set((p.reference||[]).map(id=>termToDaf[id]).filter(d=>d!=null))];
    const specific=dafs.filter(d=>d).sort((a,b)=>a-b);
@@ -1329,7 +1336,7 @@ async function fetchSource(src,tractate){
    // the post's featured image, as the apps show it (medium size, else thumbnail, else the original)
    const fm=((p._embedded||{})['wp:featuredmedia']||[])[0],sz=fm&&(fm.media_details||{}).sizes||{};
    const img=fm&&!fm.code?((sz.medium||sz.thumbnail||{}).source_url||fm.source_url||''):'';
-   out.push({id:src.id+p.id,title:textOf(p.title.rendered),excerpt:ex,link:p.link,date:p.date,author:au&&au.name||'',img,
+   out.push({id:src.id+p.id,title:seriesTitle(p,textOf(p.title.rendered)),excerpt:ex,link:p.link,date:p.date,author:au&&au.name||'',img,
     source:src,isAudio,daf:specific[0]||0,dafs:specific})}
   if(posts.length<100)break}
  return out}
