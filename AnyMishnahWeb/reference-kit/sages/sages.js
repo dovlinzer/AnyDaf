@@ -649,7 +649,7 @@
       <p class="sgx-meta">${esc(meta(x))}${x.years && !x.died ? ` <i title="${esc(t('approx'))}">*</i>` : ''}</p>
       ${noRel ? `<p class="sgx-none">${t('none')}</p>` : ''}
       ${fam ? `<p class="sgx-fam">${fam}</p>` : ''}
-      ${bio ? `<p class="sgx-bio"${HE() && !x.bio_he ? ' lang="en" dir="ltr"' : ''}>${bioHTML(bio)}</p>` : ''}
+      ${bioParas.map(t => `<p class="sgx-bio"${HE() && !x.bio_he ? ' lang="en" dir="ltr"' : ''}>${bioHTML(t)}</p>`).join('')}
       ${x.stories && x.stories.length ? `<h4>${t('stories')}</h4><ul class="sgx-stories">${x.stories.map(s =>
         `<li><a href="${esc(S.o.link ? S.o.link(S.o.corpus, s.tractate, s.place) : '#')}">${esc(HE() && s.title_he ? s.title_he : s.title)}</a> <span>${esc(s.ref || '')}</span></li>`).join('')}</ul>` : ''}
       ${n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
