@@ -279,3 +279,6 @@ Start a new paragraph whenever the speaker switches or a different tanna states 
 
 ## Head coverings (author, 2026-10-30)
 Every adult man is shown with his head covered (a cap, a wrapped cloth or a turban), as the women already are. Say it in the cast text and restate it in every edit. The sages figures (reference-kit/sages/fig) are done; the mishnah pictures still need an audit and edits (see CLAUDE.md, "HEAD COVERINGS in the mishnah pictures").
+
+## Dead animals in the diorama style (author, 2026-10-30)
+A dead animal lies on its side with an X marked on each closed eye (as in the clay set); without it Gemini draws the animal asleep (5:5). The older graphic-novel set used 'eyes closed, quite still, no cartoon marks', which is superseded for the diorama style. An ox is 'a male ox with no udder', or Gemini draws a cow.
