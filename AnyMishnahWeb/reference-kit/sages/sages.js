@@ -27,7 +27,7 @@
           sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
           keyT: 'teacher → student', keyC: 'colleagues', keyRT: 'teacher', keyRS: 'student', keyRC: 'colleague', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
           keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', notes: 'Notes and sources',
-          wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of', moreAbout: 'More about him', vTS: 'Teachers & students', vFam: 'Family',
+          wifeOf: 'wife of', daughterOf: 'daughter of', sonOf: 'son of', moreAbout: 'More about him', vTS: 'Teachers & students', vFam: 'Family', disputed: 'disputed',
           alts: 'The sources give more than one name; each is a later identification or tradition.', est: 'a rough count: the name fits more than one sage' },
     he: { title: 'חכמים', rel: 'קשרים', back: 'חזרה', close: 'סגירה', teachers: 'רבותיו', students: 'תלמידיו',
           colleagues: 'בני דורו', family: 'משפחה', more: 'ועוד {0}', fewer: 'פחות', tanna: 'תנא', amora: 'אמורא',
@@ -39,7 +39,7 @@
           stories: 'סיפורים עליו', sefaria: 'ספריא', wiki: 'ויקיפדיה', approx: 'התאריכים משוערים, לפי הדור.',
           loading: 'טוען…', keyT: 'רב ← תלמיד', keyC: 'בני דורו', keyRT: 'רב', keyRS: 'תלמיד', keyRC: 'בן דורו', keyTa: 'תנא', keyEY: 'אמורא, ארץ ישראל',
           keyBV: 'אמורא, בבל', keyZ: 'זוגות', keyF: 'משפחה', notes: 'הערות ומקורות',
-          wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של', moreAbout: 'עוד עליו', vTS: 'רבותיו ותלמידיו', vFam: 'משפחה',
+          wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של', moreAbout: 'עוד עליו', vTS: 'רבותיו ותלמידיו', vFam: 'משפחה', disputed: 'שנוי במחלוקת',
           alts: 'במקורות יותר משם אחד; כל אחד מהם זיהוי או מסורת מאוחרים.', est: 'מספר משוער: השם מתאים ליותר מחכם אחד' },
   };
   const t = (k, ...a) => (W[S.o.lang] || W.en)[k].replace(/\{(\d)\}/g, (_, i) => a[i]);
@@ -278,6 +278,8 @@
     return (tab[k] || tab[d < 0 ? 'up4' : 'down4'])[sx];
   }
   const MAXGEN = 7;
+  // a note on a relation that makes it doubtful (disputed, a guess, 'by tradition', 'according to some'); other notes ('great-grandson') do not
+  const UNSURE = /מחלוקת|השערה|לפי|מסורת|לכאורה|ייתכן|ספק|אולי|זיהוי/;
   function famGraph(id) {
     const nodes = new Map(), edges = [];
     const S0 = sage(id);
@@ -289,13 +291,13 @@
       if (!nodes.has(k)) nodes.set(k, { key: k, id: y ? l.id : null, name: y ? shortName(y) : l.name, gen, f: y ? y.f : l.f, ...extra });
       return nodes.get(k);
     };
-    const edge = (a, b, type, notes) => { if (a && b && a.key !== b.key && !edges.some(e => e.a === a.key && e.b === b.key && e.type === type)) edges.push({ a: a.key, b: b.key, type, notes: !!(notes && notes.length) }); };
+    const edge = (a, b, type, notes) => { if (a && b && a.key !== b.key && !edges.some(e => e.a === a.key && e.b === b.key && e.type === type)) edges.push({ a: a.key, b: b.key, type, notes: !!(notes && notes.length), unsure: UNSURE.test((notes || []).join(' ')) }); };
     const done = new Set();
     function expand(pn, up, down, depth) {
       const tag = pn.key + (up ? 'u' : '') + (down ? 'd' : ''); if (!pn.id || done.has(tag)) return; done.add(tag);
       const L = sage(pn.id).links, each = (rels, fn) => rels.forEach(r => (L[r] || []).forEach(l => fn(l, r)));
       if (up && depth < MAXGEN) {
-        each(['father', 'mother', 'parents'], l => { const q = mk(l, pn.gen - 1); if (q) { edge(q, pn, 'pc');
+        each(['father', 'mother', 'parents'], l => { const q = mk(l, pn.gen - 1); if (q) { edge(q, pn, 'pc', l.notes);
           if (q.id) expand(q, true, false, depth + 1);
           else for (const [oid, o] of Object.entries(S.data.sages))   // a father we only have by name (Shimon b. Hillel): a sage who lists a child of that name is HIS father
             if ((o.links.children || []).some(c => !c.id && c.name === l.name)) { const g = mk({ id: oid }, q.gen - 1); if (g) { edge(g, q, 'pc'); expand(g, true, false, depth + 2); } } } });
@@ -303,14 +305,14 @@
         each(['in_laws'], l => { const q = mk(l, pn.gen - 1, { inlaw: true }); if (q) edge(q, pn, 'far', l.notes); });
       }
       if (down && depth < MAXGEN) {
-        each(['children'], l => { const q = mk(l, pn.gen + 1); if (q) { edge(pn, q, 'pc');
+        each(['children'], l => { const q = mk(l, pn.gen + 1); if (q) { edge(pn, q, 'pc', l.notes);
           if (q.id) expand(q, false, true, depth + 1);
           else for (const [oid, o] of Object.entries(S.data.sages))   // a child we only have by name: a sage who lists a father of that name is HIS child
             if (['father', 'parents'].some(r => (o.links[r] || []).some(c => !c.id && c.name === l.name))) { const g = mk({ id: oid }, q.gen + 1); if (g) { edge(q, g, 'pc'); expand(g, false, true, depth + 2); } } } });
         each(['sons_in_law'], l => { const q = mk(l, pn.gen + 1, { inlaw: true }); if (q) edge(pn, q, 'far', l.notes); });
         each(['grandchildren'], l => { const q = mk(l, pn.gen + 2); if (q) edge(pn, q, 'far'); });
       }
-      each(['spouse'], l => { const q = mk(l, pn.gen, { spouse: pn.centre }); if (q) edge(pn, q, 'sp'); });
+      each(['spouse'], l => { const q = mk(l, pn.gen, { spouse: pn.centre }); if (q) edge(pn, q, 'sp', l.notes); });
       if (pn.centre) each(['siblings'], l => { const q = mk(l, pn.gen, { sib: true }); if (q) edge(pn, q, 'sib'); });   // listed brothers and sisters (when the parents are not known)
     }
     expand(C, true, true, 0);
@@ -339,6 +341,8 @@
       nodes.set(key, { key, id: null, ph: true, name: famWord('children', true, 0, false), gen: so.gen, f: 1 });
       edge(fa, nodes.get(key), 'pc'); edge(nodes.get(key), so, 'sp');
     }
+    // a person reached only by a doubtful line is marked, and stands after the sure ones in his row
+    for (const n of nodes.values()) { const es = edges.filter(e => (e.a === n.key || e.b === n.key) && e.type !== 'far'); n.unsure = !n.centre && es.length > 0 && es.every(e => e.unsure); }
     // generations again, from the edges that are left (a father one row above his child, a wife in her husband's row): the in-law pairs
     // above could be created from either side, so a person's first guess at his row may not match the line that was kept
     { const seen = new Set([id]); const q = [id]; C.gen = 0;
@@ -366,7 +370,7 @@
       let row = all.filter(n => n.gen === gn);
       row.forEach(n => { const ps = par(n).filter(q => q.x != null); n.want = ps.length ? ps.reduce((a, q) => a + q.x, 0) / ps.length : null; });
       row.forEach(n => { if (n.want == null) { const m = mate(n); if (m && m.want != null) n.want = m.want + 0.01; } });
-      row.sort((a, b) => (a.want ?? 1e9) - (b.want ?? 1e9));
+      row.sort((a, b) => (a.want ?? 1e9) - (b.want ?? 1e9) || (a.unsure ? 1 : 0) - (b.unsure ? 1 : 0));
       const out = [];   // a spouse right after her partner
       row.forEach(n => { if (out.includes(n)) return; out.push(n); const m = mate(n); if (m && m.gen === gn && !out.includes(m)) out.push(m); });
       let prevX = -1e9;
@@ -406,7 +410,7 @@
     const place = [...fg.nodes.values()].map(n => ({
       key: n.key, id: n.id, name: n.name, x: X(n.px), y: n.py, centre: n.centre, f: n.f, famNode: true, ph: n.ph, maxW: nodeW,
       rel: n.gen < 0 ? 'teachers' : n.gen > 0 ? 'students' : 'centre',       // older: blue, younger: green, same generation: gold
-      colour: n.gen < 0 ? 'blue' : n.gen > 0 ? 'green' : 'gold', label: relLabel(n, centre) }));
+      colour: n.gen < 0 ? 'blue' : n.gen > 0 ? 'green' : 'gold', label: relLabel(n, centre) + (n.unsure ? ' · ' + t('disputed') : '') }));
     S.famEdges = fg.edges;
     g.style.height = (lay.height + 70) + 'px';
     svg.setAttribute('width', width); svg.setAttribute('height', lay.height + 70);
@@ -566,7 +570,7 @@
       if (e.type === 'sib') { const lft = a.x < b.x ? a : b, rgt = a.x < b.x ? b : a; out += `<line class="dot" x1="${lft.r}" y1="${lft.y}" x2="${rgt.l}" y2="${rgt.y}"/>`; }
       else if (e.type === 'sp') { const lft = a.x < b.x ? a : b, rgt = a.x < b.x ? b : a; out += `<line class="fam sp" x1="${lft.r}" y1="${lft.y}" x2="${rgt.l}" y2="${rgt.y}"/>`; }
       else if (e.type === 'far') out += `<line class="dot" x1="${a.x}" y1="${a.b}" x2="${b.x}" y2="${b.t}"/>`;
-      else { const m = (a.b + b.t) / 2; out += `<path class="tree" d="M${a.x},${a.b} V${m} H${b.x} V${b.t}"/>`; }
+      else { const m = (a.b + b.t) / 2; out += `<path class="tree${e.unsure ? ' unsure' : ''}" d="M${a.x},${a.b} V${m} H${b.x} V${b.t}"/>`; }
     }
     const defs = svg.querySelector('defs').outerHTML;
     svg.innerHTML = defs + out;

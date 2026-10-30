@@ -203,3 +203,4 @@
 /* the unnamed daughter that joins a father-in-law and a son-in-law: a shaded, dotted box */
 .sgx-graph .sgx-n.ph,.sgx-graph.clay .sgx-n.ph{border:2px dotted var(--c-fam,#b83280);background:color-mix(in srgb,var(--c-fam,#b83280) 11%,var(--card,#fff));border-radius:12px;padding:12px 16px;min-width:72px;display:flex;align-items:center;justify-content:center;font-style:italic;cursor:default;opacity:.95}
 .sgx-graph.clay .sgx-n.ph .sgx-nm{background:none;padding:0}
+.sgx-lines path.tree.unsure{stroke-dasharray:5 5;opacity:.7}
