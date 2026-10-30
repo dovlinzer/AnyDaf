@@ -770,12 +770,20 @@
     // a long list continues in a second column, and its generation's column widens for it
     const LONG = 12, wide = c => !phone && rows.some((_, row) => (cell[row + ':' + c]?.list.length || 0) > LONG);
     const w = phone ? 104 : 132;
-    let h = `<div class="sgc-grid" style="grid-template-columns:${simple() ? '' : 'auto '}${cols.map(c => `minmax(${wide(c) ? 2 * w : w}px,${wide(c) ? 2 : 1}fr)`).join(' ')}">`;
-    h += (simple() ? '' : `<div class="sgc-corner"></div>`) + cols.map(c => { const [a, b] = colHead(c);
-      return `<div class="sgc-h${c[0] === 'A' ? ' am' : c === '?' ? ' unk' : ''}"><b>${esc(a)}</b>${b ? `<small>${esc(b)}</small>` : ''}</div>`; }).join('');
-    rows.forEach((label, row) => {
-      if (!simple()) h += `<div class="sgc-rh">${esc(label)}</div>`;
-      for (const c of cols) {
+    // The Eretz Yisrael / Bavel labels stand just before the amora'im: the Zugot and tanna'im are one
+    // tall column each (all in Eretz Yisrael, or nearly), and a label beside them would split them in two
+    const split = simple() ? -1 : cols.findIndex(c => !tall(c));
+    const colW = c => `minmax(${wide(c) ? 2 * w : w}px,${wide(c) ? 2 : 1}fr)`;
+    const tmpl = split < 0 ? cols.map(colW) : [...cols.slice(0, split).map(colW), 'auto', ...cols.slice(split).map(colW)];
+    let h = `<div class="sgc-grid" style="grid-template-columns:${tmpl.join(' ')}">`;
+    const head = c => { const [a, b] = colHead(c);
+      return `<div class="sgc-h${c[0] === 'A' ? ' am' : c === '?' ? ' unk' : ''}"><b>${esc(a)}</b>${b ? `<small>${esc(b)}</small>` : ''}</div>`; };
+    cols.forEach((c, i) => { if (i === split) h += `<div class="sgc-corner"></div>`; h += head(c); });
+    const rowsShown = split < 0 ? rows.slice(0, 1) : rows;
+    rowsShown.forEach((label, row) => {
+      if (split >= 0 && row === 1) h += `<div class="sgc-rh">${esc(label)}</div>`;
+      for (const [i, c] of cols.entries()) {
+        if (row === 0 && i === split) h += `<div class="sgc-rh">${esc(label)}</div>`;
         if (row === 1 && tall(c)) continue;
         const k = row + ':' + c, { open, major, shown, list } = cell[k];
         const more = major.length - shown.length, two = !phone && list.length > LONG;

@@ -87,8 +87,8 @@
 .sgc-h{position:sticky;top:0;z-index:2;background:var(--card,#fff);padding:6px;text-align:center;font-size:12.5px;line-height:1.25}
 .sgc-h b{display:block}.sgc-h small{opacity:.7}
 .sgc-h.am{background:color-mix(in srgb,var(--c-bavel) 6%,var(--card,#fff))}
-.sgc-corner{position:sticky;top:0;inset-inline-start:0;z-index:3;background:var(--card,#fff)}
-.sgc-rh{position:sticky;inset-inline-start:0;z-index:1;background:var(--card,#fff);padding:8px 6px;font-weight:600;font-size:12.5px;writing-mode:vertical-rl;transform:rotate(180deg);text-align:center}
+.sgc-corner{position:sticky;top:0;z-index:3;background:var(--card,#fff)}
+.sgc-rh{background:var(--card,#fff);padding:8px 6px;font-weight:600;font-size:12.5px;writing-mode:vertical-rl;transform:rotate(180deg);text-align:center}
 [dir=rtl] .sgc-rh{transform:none}
 .sgc-cell{padding:10px 9px;display:flex;flex-direction:column;gap:9px;align-items:stretch;min-height:60px}
 /* a long list runs down one column and continues in a second */
@@ -192,3 +192,6 @@
 .sgc-zug+.sgc-zug{border-top:1px solid color-mix(in srgb,var(--fg,#222) 18%,transparent);padding-top:9px}
 .sgc-zn{flex:none;width:12px;font-size:11px;font-weight:600;text-align:center;opacity:.55}
 .sgc-zug .sgc-c{font-size:12.5px;border-width:1.5px}   /* both of a pair the same size */
+
+/* the region labels sit between the tanna'im and the amora'im, with a line on the side of the tall columns */
+.sgc-rh{border-inline-start:1px solid color-mix(in srgb,var(--fg,#222) 18%,transparent)}
