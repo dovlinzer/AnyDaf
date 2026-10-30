@@ -185,3 +185,10 @@
 
 /* family tree: the chosen sage's box is the width of the others (the tree is spaced for it), marked by weight and border */
 .sgx-graph.famview:not(.clay) .sgx-n.centre{font-size:14px;padding:6px 7px;min-height:48px;display:flex;align-items:center;justify-content:center}
+
+/* the Zugot: one block per pair, a thin line between pairs, the pair's number beside it */
+.sgc-zug{display:flex;gap:6px;align-items:center}
+.sgc-zug>div{flex:1;display:flex;flex-direction:column;gap:9px}
+.sgc-zug+.sgc-zug{border-top:1px solid color-mix(in srgb,var(--fg,#222) 18%,transparent);padding-top:9px}
+.sgc-zn{flex:none;width:12px;font-size:11px;font-weight:600;text-align:center;opacity:.55}
+.sgc-zug .sgc-c{font-size:12.5px;border-width:1.5px}   /* both of a pair the same size */

@@ -738,6 +738,17 @@
   const sortKey = x => HE() ? (x.he || '').replace(/^(?:רבי|רבן|רב|מר|ר')\s+/, '')
     : shortName(x).replace(/^(?:Rabbi|Rebbi|Rabban|Rav|Mar|R\.)\s+/, '').replace(/^\[|\]/g, '');
   const byName = (a, b) => sortKey(sage(a)).localeCompare(sortKey(sage(b)), HE() ? 'he' : 'en');
+  // The Zugot in the order of Avot 1, each pair as the mishnah names them
+  const ZUG_ORDER = ['yose-b-yoezer', 'yose-b-yochanan', 'yehoshua-b-perachya', 'nittai-haarbeli', 'yehudah-b-tabbai',
+                     'shimon-b-shetach', 'shemaiah', 'avtalyon', 'hillel', 'shammai'];
+  const zugRank = id => { const i = ZUG_ORDER.indexOf(id); return i < 0 ? 99 + (sage(id).gen || 0) : i; };
+  const chip = (x, id) => `<button type="button" class="sgc-c g-${group(x)} t${tierOf(x)}${(x.region || '').includes('/') ? ' moved' : ''}${C.hit === id ? ' hit' : ''}" data-go="${esc(id)}" title="${esc(fullName(x))} · ${esc(meta(x))}">${esc(shortName(x))}</button>`;
+  // the Zugot pair by pair, a line between pairs and the pair's number beside it
+  function zugotHTML(list) {
+    const pairs = [];
+    list.forEach(id => { const g = sage(id).gen, last = pairs[pairs.length - 1]; if (last && last.g === g) last.ids.push(id); else pairs.push({ g, ids: [id] }); });
+    return pairs.map(p => `<div class="sgc-zug"><span class="sgc-zn" aria-hidden="true">${p.g ?? ''}</span><div>${p.ids.map(id => chip(sage(id), id)).join('')}</div></div>`).join('');
+  }
   function chartHTML() {
     const phone = (C.host.clientWidth || 800) < 560, first = simple() ? 5 : 6, by = cells();   // six on a phone too (author)
     const cols = COLS.filter(c => simple() ? /^(Z|T[1-6]|TA)$/.test(c) && (by['0:' + c] || []).length > 0 : false || C.filter === 'all' || (C.filter === 'tanna' ? /^[ZT]/.test(c) || c === '?' : /^A/.test(c) || c === '?'));
@@ -752,7 +763,7 @@
       const major = simple() || c === 'Z' ? ids : ids.filter(id => tierOf(sage(id)) <= 2);
       const lim = c === 'Z' ? 12 : first;   // the ten Zugot are few: all of them, Hillel and Shammai included
       const pick = open || major.length <= lim + 1 ? major : major.slice(0, lim);
-      const shown = c === 'Z' ? pick : [...pick].sort(byName);
+      const shown = c === 'Z' ? [...pick].sort((a, b) => zugRank(a) - zugRank(b)) : [...pick].sort(byName);
       const extra = ids.filter(id => C.show.has(id) && !shown.includes(id));
       cell[k] = { open, major, shown, list: shown.concat(extra) };
     }));
@@ -768,8 +779,7 @@
         if (row === 1 && tall(c)) continue;
         const k = row + ':' + c, { open, major, shown, list } = cell[k];
         const more = major.length - shown.length, two = !phone && list.length > LONG;
-        h += `<div class="sgc-cell${row === 0 && tall(c) ? ' tall' : ''}${two ? ' two' : ''}" data-k="${k}"${two ? ` style="--rows:${Math.ceil(list.length / 2)};--last:${Math.ceil(list.length / 2) + 1}"` : ''}>${list.map(id => { const x = sage(id);
-          return `<button type="button" class="sgc-c g-${group(x)} t${tierOf(x)}${(x.region || '').includes('/') ? ' moved' : ''}${C.hit === id ? ' hit' : ''}" data-go="${esc(id)}" title="${esc(fullName(x))} · ${esc(meta(x))}">${esc(shortName(x))}</button>`; }).join('')}
+        h += `<div class="sgc-cell${row === 0 && tall(c) ? ' tall' : ''}${two ? ' two' : ''}" data-k="${k}"${two ? ` style="--rows:${Math.ceil(list.length / 2)};--last:${Math.ceil(list.length / 2) + 1}"` : ''}>${c === 'Z' ? zugotHTML(list) : list.map(id => chip(sage(id), id)).join('')}
           ${more > 0 ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('more', more)}</button>` : open && major.length > first + 1 ? `<button type="button" class="sgc-more" data-cell="${k}">${ct('fewer')}</button>` : ''}</div>`;
       }
     });
