@@ -151,6 +151,8 @@
 .sgx-scroll{overflow-x:auto}
 .sgx-lines path.tree{stroke:var(--c-fam);stroke-width:2;opacity:.85}
 .sgx[data-view=fam] .sgx-key{display:none}
+.sgx-graph.famview.clay .sgx-n.centre{font-size:16px;max-width:124px!important}   /* his name wraps inside his own slot and never covers a brother's */
+@media (max-width:560px){.sgx-graph.famview.clay .sgx-n.centre{font-size:14.5px;max-width:100px!important}}
 .sgx-graph.famview.clay .sgx-fig{height:64px}.sgx-graph.famview.clay .sgx-n.centre .sgx-fig{height:92px}
 
 /* Teachers, students and colleagues are told apart by the box's fill as well as the line: purple,

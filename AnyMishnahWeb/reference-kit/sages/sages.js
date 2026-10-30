@@ -742,6 +742,7 @@
   // clay (Mishnah): only the sages the Mishnah names, and only the Zugot and the tanna'im
   const simple = () => !!S.o.clay;
   const inChart = x => ['tanna', 'amora', 'zug'].includes(x.kind) && !(simple() && (x.kind === 'amora' || (x.kind !== 'zug' && !countOf(x))));   // the Zugot all stand in the Mishnah (Avot 1, Eduyot, Chagigah 2:2), but their bare names (Hillel, Shammai) are not matched by the name counter, so their count is 0
+  const searchable = x => ['tanna', 'zug'].includes(x.kind) || (!simple() && x.kind === 'amora');   // search reaches every tanna, counted in the Mishnah or not
   const COLS = ['Z', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'TA', 'A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', '?'];
   function colOf(x) {
     if (x.kind === 'zug') return 'Z';
@@ -770,7 +771,7 @@
   function cells() {
     const by = {};
     for (const [id, x] of Object.entries(S.data.sages)) {
-      if (!inChart(x)) continue;
+      if (!inChart(x) && !(C.show.has(id) && searchable(x))) continue;   // a sage found by search stands in his cell even if the Mishnah counter never met his name
       const k = rowOf(x) + ':' + colOf(x);
       (by[k] = by[k] || []).push(id);
     }
@@ -843,7 +844,7 @@
     q = norm(q); if (q.length < 2) return [];
     const out = [];
     for (const [id, x] of Object.entries(S.data.sages)) {
-      if (!inChart(x)) continue;
+      if (!inChart(x) && !searchable(x)) continue;
       const names = [x.en, x.he, ...(x.alt_en || []), ...(x.alt_he || [])].map(norm);
       const exact = names.some(n => n === q), start = names.some(n => n.startsWith(q) || n.split(' ').some(w => w.startsWith(q)));
       if (exact || start || names.some(n => n.includes(q))) out.push([exact ? 0 : start ? 1 : 2, tierOf(x), -countOf(x), id]);
