@@ -566,13 +566,19 @@
   function famLines(svg, gb) {
     const box = el => { const r = el.getBoundingClientRect(); return { x: r.left - gb.left + r.width / 2, y: r.top - gb.top + r.height / 2, w: r.width / 2, h: r.height / 2, t: r.top - gb.top, b: r.bottom - gb.top, l: r.left - gb.left, r: r.right - gb.left }; };
     let out = '';
+    const nearest = new Map();   // the top of a parent's nearest child (and the bottom of a child's nearest parent), so the bar joining a family is one straight line
+    for (const e of S.famEdges) {
+      if (e.type === 'sib' || e.type === 'sp' || e.type === 'far') continue;
+      const A = S.nodes.get(e.a), B = S.nodes.get(e.b); if (!A || !B) continue;
+      const k = e.a, t = box(B.el).t; nearest.set(k, Math.min(nearest.get(k) ?? 1e9, t));
+    }
     for (const e of S.famEdges) {
       const A = S.nodes.get(e.a), B = S.nodes.get(e.b); if (!A || !B) continue;
       const a = box(A.el), b = box(B.el);
       if (e.type === 'sib') { const lft = a.x < b.x ? a : b, rgt = a.x < b.x ? b : a; out += `<line class="dot" x1="${lft.r}" y1="${lft.y}" x2="${rgt.l}" y2="${rgt.y}"/>`; }
       else if (e.type === 'sp') { const lft = a.x < b.x ? a : b, rgt = a.x < b.x ? b : a; out += `<line class="fam sp" x1="${lft.r}" y1="${lft.y}" x2="${rgt.l}" y2="${rgt.y}"/>`; }
       else if (e.type === 'far') out += `<line class="dot" x1="${a.x}" y1="${a.b}" x2="${b.x}" y2="${b.t}"/>`;
-      else { const m = (a.b + b.t) / 2; out += `<path class="tree${e.unsure ? ' unsure' : ''}" d="M${a.x},${a.b} V${m} H${b.x} V${b.t}"/>`; }
+      else { const m = (a.b + (nearest.get(e.a) ?? b.t)) / 2; out += `<path class="tree${e.unsure ? ' unsure' : ''}" d="M${a.x},${a.b} V${m} H${b.x} V${b.t}"/>`; }
     }
     const defs = svg.querySelector('defs').outerHTML;
     svg.innerHTML = defs + out;
