@@ -2,7 +2,7 @@
 """The site's copy of the Vilna margin cross-references: Sefaria's links (build_xrefs.py) with the accepted
 corrections applied and every reference still in doubt held back. No Anthropic API.
 
-Held back: Rambam / Shulchan Arukh references on the author's review list (to_review.json); any other reference
+Left out: the Semag and the Tur. Held back: Rambam / Shulchan Arukh references on the author's review list (to_review.json); any other reference
 the model judged wrong or couldn't decide (judged.json: a flag with verdict B / neither / unsure, a weak match
 judged "no"). Applied: corrections.json (remove / add per line). Ein Mishpat references carry their note's
 letter and the Gemara words it marks where Wikisource has them (em_notes.py).
@@ -23,6 +23,7 @@ from build_xrefs import OUT as XREFS
 
 SITE = XREFS / "site"
 DOUBT = {"B", "neither", "unsure", "unparsed", "error"}
+SKIP_WORKS = ("Sefer Mitzvot Gadol", "Tur,")   # the author: no one uses the Semag or the Tur
 
 
 def held_back():
@@ -73,7 +74,7 @@ def main():
 
                 for it in items:
                     ref = it["ref"]
-                    if ref in seen:
+                    if ref in seen or ref.startswith(SKIP_WORKS):
                         continue
                     if (t, amud, line, ref) in held:
                         stats["held back"] += 1

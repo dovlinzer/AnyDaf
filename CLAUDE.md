@@ -2106,7 +2106,9 @@ sources run longer than its text; falls back to pills when the pane is under 540
 `sefaria-popup.js`: Sefaria's /api/texts, א / אA / A, "Open on Sefaria"). The window shows the whole section the
 source is in (`xrLoad`: `context=1` gives the chapter of Rambam / SA / Mishnah / Tosefta / Tanakh and the requested
 range; a Gemara source loads both amudim of its daf), with the source marked (`.hit`) and scrolled to. The Ein
-Mishpat letter is not shown (author, 2026-11-08): it only groups a ruling's sources; the list leads with the words it
+Mishpat letter is not shown, the Semag and Tur are left out of the site's data (`SKIP_WORKS` in build_xrefs_site.py),
+and within a ruling each work is one row naming it once ("Rambam Robbery and Lost Property 17:10; Ownerless Property
+and Gifts 4:9", "SA CM 268:5, 243:23", `xrWorks`) with a hairline between Rambam and SA (author, 2026-11-08). The letter only groups a ruling's sources; the list leads with the words it
 marks, the margin separates rulings with space. A Bavli source's window also has "Go to
 this daf", which opens it in the site at the line (`xrLand`); ctrl/cmd-click opens Sefaria. Clicks in the lists
 don't move the outline or audio (`xrClick`). Rebuild `xrefs/site/` and the site after any new corrections. Not yet

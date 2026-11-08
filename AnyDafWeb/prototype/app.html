@@ -108,7 +108,10 @@ button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-o
 .xb{font:600 11.5px var(--sans);color:var(--k);background:none;border:1px solid color-mix(in srgb,var(--k) 45%,transparent);border-radius:999px;padding:1px 9px;cursor:pointer}
 .xb:hover,.xb[aria-expanded="true"]{background:color-mix(in srgb,var(--k) 12%,transparent);border-color:var(--k)}
 .xrl{cursor:auto;margin-top:6px;padding:8px 10px;border:1px solid var(--line);border-inline-start:3px solid var(--k);border-radius:6px;background:var(--panel);font:13px/1.5 var(--sans);display:grid;gap:5px;grid-column:-2/-1}
-.xrl .xn{display:flex;flex-wrap:wrap;gap:2px 10px;align-items:baseline}
+.xrl .xn{display:grid;gap:0}
+.xrl .xn .xmark{margin-bottom:2px}
+.xwr+.xwr{border-top:1px solid var(--line);margin-top:3px;padding-top:3px}
+.xwn{font-weight:600;color:var(--k)}
 .xrl .xmark,.xmg .xmark{unicode-bidi:isolate}
 .xlt{font:700 14px var(--hebrew);color:var(--k)}
 .xw{font:400 14px var(--hebrew);color:var(--muted)}
@@ -119,8 +122,10 @@ button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-o
    The margin can be folded away (an arrow at the pane's top right); folded, small dots mark the lines with sources. */
 .xmg{display:none;cursor:auto;font:11.5px/1.35 var(--sans);overflow-wrap:anywhere}
 .xmg .xc{display:block;margin-bottom:4px}
-.xmg .xc a{color:var(--k);text-decoration:none;display:block}
+.xmg .xc a{color:var(--k);text-decoration:none}
+.xmg .xwn{color:var(--muted)}
 .xmg .xn{display:block}
+.xmg .xn>a{display:block}
 .xmg .xn+.xn{margin-top:5px}
 .xmg .xc a:hover{text-decoration:underline}
 .xmg .xlt{font-size:12.5px}
@@ -1091,13 +1096,23 @@ function xrLabel(ref,short){const b=xrBavli(ref);if(b)return b.show;
 const xrUrl=ref=>'https://www.sefaria.org/'+encodeURI(ref.replace(/ /g,'_').replace(/:/g,'.'));
 const xrA=(ref,short)=>`<a href="${xrUrl(ref)}" data-ref="${esc(ref)}">${esc(xrLabel(ref,short))}</a>`;
 function xrSplit(rows){const out={em:[],ms:[],v:[]};rows.forEach(r=>(out[r[0]]||out.ms).push(r));return out}
-// Ein Mishpat sources grouped by their note letter (with the words it marks), then those with no known letter
+// Ein Mishpat sources grouped by ruling (the note's letter, not shown), then those with no known note. Within a ruling,
+// each work is one row naming it once: "Rambam Robbery and Lost Property 17:10; Ownerless Property and Gifts 4:9",
+// "SA CM 268:5, 243:23"; a hairline between the rows.
+function xrWorks(refs){const rows=[],R='Mishneh Torah, ',S='Shulchan Arukh, ';
+ const ram=refs.filter(r=>r.startsWith(R)),sa=refs.filter(r=>r.startsWith(S)),rest=refs.filter(r=>!r.startsWith(R)&&!r.startsWith(S));
+ if(ram.length)rows.push(`<span class="xwn">Rambam</span> `+ram.map(r=>`<a href="${xrUrl(r)}" data-ref="${esc(r)}">${esc(r.slice(R.length))}</a>`).join('; '));
+ if(sa.length){const by=[];sa.forEach(r=>{const m=r.slice(S.length).match(/^(.*) (\d+(?::\d+)?)$/)||[,r.slice(S.length),''];
+   let g=by.find(x=>x.sec===m[1]);if(!g)by.push(g={sec:m[1],refs:[]});g.refs.push([r,m[2]])});
+  rows.push(`<span class="xwn">SA</span> `+by.map(g=>g.refs.map(([r,n],i)=>`<a href="${xrUrl(r)}" data-ref="${esc(r)}">${esc((i?'':(SA_SEC[g.sec]||g.sec)+' ')+n)}</a>`).join(', ')).join('; '))}
+ rest.forEach(r=>rows.push(xrA(r,true)));
+ return rows.map(x=>`<div class="xwr">${x}</div>`).join('')}
 function xrNotes(rows,short){const notes=[],loose=[];
  rows.forEach(r=>{if(!r[2])return loose.push(r);let g=notes.find(x=>x.l===r[2]);if(!g)notes.push(g={l:r[2],w:r[3],refs:[]});g.refs.push(r[1])});
  // the note's letter is kept only to group a ruling's sources; the reader sees the words it marks
  const mark=g=>!short&&g.w?`<span class="xmark" lang="he" dir="rtl"><span class="xw">${esc(g.w)}…</span></span>`:'';
- return notes.map(g=>`<div class="xn">${mark(g)} ${g.refs.map(r=>xrA(r,short)).join('')}</div>`).join('')
-  +(loose.length?`<div class="xn">${loose.map(r=>xrA(r[1],short)).join('')}</div>`:'')}
+ return notes.map(g=>`<div class="xn">${mark(g)}${xrWorks(g.refs)}</div>`).join('')
+  +(loose.length?`<div class="xn">${xrWorks(loose.map(r=>r[1]))}</div>`:'')}
 function xrBody(k,rows,short){return k==='em'?xrNotes(rows,short):`<div class="xn">${rows.map(r=>xrA(r[1],short)).join('')}</div>`}
 function xrMount(el,rows,host){if(el.querySelector('.xchips'))return;const g=xrSplit(rows),ks=['em','ms','v'].filter(k=>g[k].length);
  const chips=document.createElement('div');chips.className='xchips';
