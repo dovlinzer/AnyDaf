@@ -2095,7 +2095,7 @@ corrections.json applied; to_review items and any other reference the model judg
 Ein Mishpat refs carry their note letter and marked words; ~6.5 MB), which `build_prototype.py` copies to the
 site's `xrefs/`. app.html (`decorateXrefs`, on Gemara lines and on shiur quotes by their line label): Settings "Margin
 sources" = Under the line (default: one pill per kind, "Halakha · N" / "Shas · N" / "Verse · N", each opening its
-list; Ein Mishpat grouped by note letter with its words) / In the margin (a dedicated, narrow (6rem), ruled column
+list; Ein Mishpat grouped by note, led by the words it marks) / In the margin (a dedicated, narrow (6rem), ruled column
 down the right of the Gemara and shiur panes, mostly empty, with a line's sources at its top: no headings, one kind
 per block, each link on its own line in the kind's color; an arrow at each pane's top right folds it away
 (`xrShut`, `prefs.xrShut`), leaving small colored dots on lines with sources that reopen it; `xrFit()` gives a line room when its
@@ -2103,7 +2103,11 @@ sources run longer than its text; falls back to pills when the pane is under 540
 #textPane / #shiurPane) / Off
 (`prefs.xrMode`). Colors by kind: --amber halakha, --teal Shas (Mesoret HaShas incl. Mishnah, Tosefta, Midrash),
 --link verse. **Every source opens in a window on the page** (`xrOpen`, ported from the YCT site's
-`sefaria-popup.js`: Sefaria's /api/texts, א / אA / A, "Open on Sefaria"); a Bavli source's window also has "Go to
+`sefaria-popup.js`: Sefaria's /api/texts, א / אA / A, "Open on Sefaria"). The window shows the whole section the
+source is in (`xrLoad`: `context=1` gives the chapter of Rambam / SA / Mishnah / Tosefta / Tanakh and the requested
+range; a Gemara source loads both amudim of its daf), with the source marked (`.hit`) and scrolled to. The Ein
+Mishpat letter is not shown (author, 2026-11-08): it only groups a ruling's sources; the list leads with the words it
+marks, the margin separates rulings with space. A Bavli source's window also has "Go to
 this daf", which opens it in the site at the line (`xrLand`); ctrl/cmd-click opens Sefaria. Clicks in the lists
 don't move the outline or audio (`xrClick`). Rebuild `xrefs/site/` and the site after any new corrections. Not yet
 (TODO.md): the daf page view, links to the whole amud (line 0), the letter marks on the Gemara's words, Hebrew book
