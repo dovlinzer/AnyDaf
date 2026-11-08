@@ -1,8 +1,23 @@
 {
-  "_note": "Conventional spellings that override the transliteration rules (transliteration.md). Author-maintained; add entries as they come up. 'use' is the spelling to write; 'not' lists rule-generated or common variants a local check can flag or fix.",
-  "terms": [
-    {"use": "halakha", "not": ["halakhah", "halacha", "halachah"], "why": "author: conventional spelling"}
-  ],
-  "tractate_names": "as in AnyDaf/Tractate.swift",
-  "sage_names": "common English usage"
+ "_note": "Conventional spellings that override the transliteration rules (transliteration.md). Author-maintained; add entries as they come up. 'use' is the spelling to write; 'not' lists rule-generated or common variants a local check can flag or fix.",
+ "terms": [
+  {
+   "use": "halakha",
+   "not": [
+    "halakhah",
+    "halacha",
+    "halachah"
+   ],
+   "why": "author: conventional spelling"
+  },
+  {
+   "use": "u'Pikadon",
+   "not": [
+    "u'Fikadon"
+   ],
+   "why": "author, 2026-11-08: the word keeps its own first letter after a prefix where the softened one is hard to parse (She'elah u'Pikadon)"
+  }
+ ],
+ "tractate_names": "as in AnyDaf/Tractate.swift",
+ "sage_names": "common English usage"
 }
