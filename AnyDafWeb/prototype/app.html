@@ -603,7 +603,9 @@ __SPRITE__
   </div>
   <div class="grp"><span class="gl">Margin sources</span>
    <div class="seg" id="xrSeg" role="group" aria-label="Margin sources"><button data-x="under">Under the line</button><button data-x="margin">In the margin</button><button data-x="off">Off</button></div>
-   <div class="seg" id="rmSeg" role="group" aria-label="Rambam book names"><button data-r="en">Rambam: English</button><button data-r="tr">Rambam: Hebrew names</button></div>
+  </div>
+  <div class="grp"><span class="gl">Rambam references</span>
+   <div class="seg" id="rmSeg" role="group" aria-label="Rambam references"><button data-r="en">English</button><button data-r="tr">Hebrew</button></div>
   </div>
   <div class="grp layout"><span class="gl">Layout</span>
    <div class="seg" id="showSeg" role="group" aria-label="Show"><button data-s="outline" title="Only the outline">Outline</button><button data-s="both" title="The outline with the text beside it">Both</button><button data-s="text" title="Only the Gemara, shiur or daf page">Text</button></div>
@@ -745,7 +747,7 @@ function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch
 // the code goes through tr(), keyed by the English.
 const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='he'||q==='en'){prefs.ui=q;savePrefs()}return prefs.ui==='he'?'he':'en'})();
 const RTL=UI==='he';
-const HEW={'Rambam: English':'רמב"ם: אנגלית','Rambam: Hebrew names':'רמב"ם: שמות עבריים','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
+const HEW={'Hebrew':'עברית','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
  "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
@@ -1221,6 +1223,7 @@ $('xrSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>xrSetMode(b.datas
 function rmSet(v){prefs.rmNames=v;savePrefs();$('rmSeg').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.r===v))}
 $('rmSeg').querySelectorAll('button').forEach(b=>b.onclick=()=>{rmSet(b.dataset.r);
  document.querySelectorAll('.xchips,.xmg,.xtick,.xrl').forEach(x=>x.remove());if(D)decorateXrefs(D)});
+if(RTL){$('rmSeg').querySelector('[data-r=en]').textContent='אנגלית';$('rmSeg').querySelector('[data-r=tr]').textContent='עברית'}
 rmSet(prefs.rmNames||'en');
 xrSetMode(prefs.xrMode||(prefs.xrefs===false?'off':'under'));
 
