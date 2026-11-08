@@ -2032,6 +2032,85 @@ terms, sages and measures should link from the Gemara when the outline is closed
 button becomes a "Reference Tools" button with this tool, the global glossary (in sections, per
 GLOSSARY.md) and a Shas-wide Sages chart.
 
+#### Vilna cross-references (data built 2026-10-31; not yet in any interface)
+Ein Mishpat, Mesoret HaShas (other Gemarot, Tosefta, Mishnah, Midrash) and quoted verses, per Gemara line.
+`daf-processor/build_xrefs.py fetch|build` (no API) streams Sefaria's link export (`gs://sefaria-export/links/`,
+links0..16) into `xrefs/cache/` and writes `xrefs/<Tractate>.json` (gitignored, line numbers as in daf_text;
+line "0" = linked to the whole amud) and `outline/xrefs_coverage.md`. Verses are read from the text, not from
+Sefaria's unlabeled Tanakh links: Wikisource's "(דברים כב, ג)" and Davidson's "(Deuteronomy 22:3)", combined
+(they differ often and both are real). Sukkah's Ein Mishpat rows are labeled `ein mishpat`, everywhere else
+`ein mishpat / ner mitsvah`. Shekalim, Kinnim and Middot have no Bavli links. Clicking a line already moves the
+outline and audio, so the interface needs its own marker on the line. `build_xref_review.py` makes the review
+page beside the scans (https://claude.ai/artifact/CFczhahr35ZV6qyaioQtda; answers in its `reviews` collection).
+**The numbers are not reliable as they stand**: Sefaria (and Wikisource, which shares its errors) misread
+Rashi-script numerals (author's catch, BM 2a:2: Rambam טוען ונטען 9:1 for 9:8, ח read as א).
+`check_xrefs.py fetch|check` (no API) downloads the cited books to `xrefs/sources/` and compares each line with
+the passage it cites and with the passages a misread letter, a number ±1/±2, the other amud or daf ±1 would
+name -> `outline/xref_check/flags.json` (2,548 flags), `weak.json` (overlap too low to tell), `report.md`.
+Alternatives on the line's own amud are skipped (they always match). `judge_xrefs.py build|submit|harvest`
+(**Batch API**, Sonnet 5.5, effort low) has a model judge each flag and a 200-reference sample of the weak ones
+-> `judged.json`, `report_judged.md`. Run 2026-11-02: 2,674 requests, $7.36, plus a rerun of the 219 Semag/Tur
+requests ($0.83, `--works smag,tur --tag long`), because a long unit cut at 1,800 characters hid the matching part;
+now a long unit is shown at its best-matching 2,400 characters (`best_window`). Result: 1,083 flags judged wrong
+(the suggested passage is right), 1,372 kept, 16 neither/unsure. Weak-match sample: 13% judged wrong, mostly
+links on the wrong line or Semag numbering rather than misread letters. `build_judge_review.py` makes a sample page
+for the author to measure the judge (https://claude.ai/artifact/LW5S9iu64iBBcEjtGbgxnX, answers in its `judgments`
+collection); corrections are accepted only after that. **That judge run was flawed** (author's catch, Shabbat
+104b:4): it compared a reference with its whole line, so on a line with two notes (ט on ואפצא -> Gerushin 4:2,
+י on כתבו באבר -> 4:1) one note's reference "lost" to the other's, and many "corrections" were just the line's
+other note. Sefaria's links carry no note letter or word. `em_notes.py fetch|build` (no API) reads Hebrew
+Wikisource: its "עין משפט ונר מצוה/<tractate>/פרק X" pages give each note's letter and contents, and its Gemara
+pages mark each letter on its word (`{{שוליים|ט}}ואפצא`; aligned to Sefaria's line numbers by word matching)
+-> `xrefs/em_notes/<Tractate>.json` (per line: each Rambam/SA reference's note letter, word, the Gemara it
+covers, and status on_line / other_line / no_note / no_marker). Only 24 tractates (Moed, Nashim, BM, BB,
+Sanhedrin, Makkot, Shevuot) have Wikisource Ein Mishpat; Nedarim's Gemara pages have no letter markers. Notes
+come as templates, wiki links and plain text (מיי' פ"ז מהל' נדרים הלי"ז, מיי' שם, טוש"ע שם סעיף לו, הלכה ו-י);
+`note_refs()` reads all of them. 91% of Sefaria's Rambam/SA references there match a note on their own line.
+Agreement proves nothing (Wikisource shares BM 2a:2's 9:1), but disagreement is evidence.
+`recheck_xrefs.py` (no API) sorts the judged Rambam/SA flags: same note cites both numbers, or the suggested
+number is its own note (both dropped: 256 of 694 proposed corrections), Wikisource has the suggested number,
+or scored against the note's own words -> `rechecked.json`; `recheck_xrefs.py disagreements` lists the 336
+references where Sefaria's number differs from Wikisource's by a possible misreading -> `disagreements.json`.
+`rejudge_xrefs.py build|submit|harvest` (**Batch API**, Sonnet 5.5, effort low) asks again about the Rambam/SA
+numbers still in doubt plus the disagreements, showing the note's letter, its marked words and the full note
+(618 requests, $2.44, 2026-11-02) -> `rejudged.json`: 447 change to the other number, 137 keep Sefaria's, 34
+neither/unsure. `build_rejudge_review.py` makes the sample page (https://claude.ai/artifact/8tmKdHXQKDU9KWPtR9sYP6,
+answers in its `rejudged` collection); the earlier judge page is superseded for Rambam/SA.
+**Author's review (2026-11-08):** "Change to B" 47 of 50 right, "Keep Sefaria's" 13 of 15; the "neither"
+group showed a new error class, a wrong Rambam *book* (Sefaria "Ownerless Property 10:13" for *Bikkurim* 10:13).
+That exposed two faults in `em_notes.py`, both fixed: Rambam matching compared chapter:halakha but never the book
+(now `rambam_book()` maps Wikisource's Hebrew names and abbreviations to Sefaria's titles, `xrefs/meta/rambam_books.json`,
+and `BOOK_ALIASES`), and wiki-link targets with multi-word books ("זכייה ומתנה יא" read "ומתנה" as chapter 501),
+whole-chapter links ("ופ\"ו כל הפרק", stored as `nums: [ch]`) and words inside a Semag link ("תשעה באב" = 775)
+were misread. Several review cards had shown a note from another line because of this. After the fix 31,806 Sefaria
+Rambam/SA links match a note on their own line. `recheck_xrefs.py wrong_book` lists links whose book differs from
+the note's (40). **Corrections are set changes per line** (remove / add, ranges added halakha by halakha; a ref the
+note also lists is never removed): `build_corrections.py` writes `xref_check/corrections.json` (model's verdicts +
+`author_overrides.json`, the author's notes from the review page, which win on their line) and `to_review.json`.
+`build_final_review.py` makes the page for to_review (https://claude.ai/artifact/H4pX3MnYF563M4biZ1KvzC, answers in
+its `final_review` collection; each card shows the notes whose letters sit on that line). `rejudge_xrefs.py --delta`
+judges only what the note fixes newly put in question and merges into rejudged.json.
+**In the site (2026-11-08):** `build_xrefs_site.py` writes `xrefs/site/<Tractate>.json` (Sefaria's links with
+corrections.json applied; to_review items and any other reference the model judged wrong or undecided held back;
+Ein Mishpat refs carry their note letter and marked words; ~6.5 MB), which `build_prototype.py` copies to the
+site's `xrefs/`. app.html (`decorateXrefs`, on Gemara lines and on shiur quotes by their line label): Settings "Margin
+sources" = Under the line (default: one pill per kind, "Halakha · N" / "Shas · N" / "Verse · N", each opening its
+list; Ein Mishpat grouped by note letter with its words) / In the margin (a dedicated, narrow (6rem), ruled column
+down the right of the Gemara and shiur panes, mostly empty, with a line's sources at its top: no headings, one kind
+per block, each link on its own line in the kind's color; an arrow at each pane's top right folds it away
+(`xrShut`, `prefs.xrShut`), leaving small colored dots on lines with sources that reopen it; `xrFit()` gives a line room when its
+sources run longer than its text; falls back to pills when the pane is under 540px, a container query on
+#textPane / #shiurPane) / Off
+(`prefs.xrMode`). Colors by kind: --amber halakha, --teal Shas (Mesoret HaShas incl. Mishnah, Tosefta, Midrash),
+--link verse. **Every source opens in a window on the page** (`xrOpen`, ported from the YCT site's
+`sefaria-popup.js`: Sefaria's /api/texts, א / אA / A, "Open on Sefaria"); a Bavli source's window also has "Go to
+this daf", which opens it in the site at the line (`xrLand`); ctrl/cmd-click opens Sefaria. Clicks in the lists
+don't move the outline or audio (`xrClick`). Rebuild `xrefs/site/` and the site after any new corrections. Not yet
+(TODO.md): the daf page view, links to the whole amud (line 0), the letter marks on the Gemara's words, Hebrew book
+names in the Hebrew interface.
+Errors found in Sefaria's
+data, for reporting to Sefaria, are collected in `daf-processor/outline/sefaria_corrections.md`.
+
 #### Global glossary — see `AnyDafWeb/GLOSSARY.md` (plan, 2026-10-18; author wants one glossary for Shas)
 
 #### Shas-wide Sages chart + relationship graph — see `AnyDafWeb/SAGES.md` (draft plan, 2026-10-29)

@@ -50,3 +50,12 @@ daf-processor/page_layout/out/
 daf-processor/outline/ab_key_*.json
 daf-processor/outline/line_times.json
 daf-processor/page_layout/*.log
+
+# Cross-references — rebuilt by build_xrefs.py
+daf-processor/xrefs/
+# Batch requests, metadata, state and logs of the cross-reference checks (regenerable, large)
+daf-processor/outline/xref_check/*requests*.jsonl
+daf-processor/outline/xref_check/*meta*.json
+daf-processor/outline/xref_check/.*batch*.json
+daf-processor/outline/xref_check/*.log
+daf-processor/outline/xref_check/weak.json

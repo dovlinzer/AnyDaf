@@ -283,3 +283,13 @@ daf's terms link to master entries from the start. Not built; awaiting the autho
 - [ ] Uncommitted in AnyDafWeb/prototype/app.html (2026-10-05, alongside the games session's work): ‹ › arrows by the daf page's amud pills step amud by amud and load the neighbouring daf when they pass this daf's own two amudim (`amudStep`, `crossDaf`, `landing`); "Previous daf" / "Next daf" buttons at the top and foot of the Gemara and shiur (`drawDafSteps`; going back opens at the end); `firstAmud` reads a section's amud from its text anchor, so the daf page follows Hebrew outlines too. Tested locally and live; deployed 2026-10-05 (with the games session's Practice work as it stood). Committed.
 - [x] Hebrew interface for the whole site (2026-10-06): English / עברית button and `?lang=he`; right to left throughout, Hebrew wording, tractate and daf names, Steinsaltz on every daf, Hebrew outlines only (English one offered where there is no Hebrew yet), Hebrew sages bios. Tested locally (desktop and phone) and live; deployed 2026-10-06. Talmud panel on the right in both languages; Sages About open; first visit via italmud opens on the outline, via the AnyDaf address on the text. Committed.
 - [ ] Hebrew interface, still English inside: the English outlines themselves, Resources items (the library is in English), sages with no Hebrew bio on Sefaria (770 of 1,032; shown in English, marked), and the games' own wording only where a daf's outline is English.
+
+## Vilna margin sources in iTalmud (2026-11-08)
+- [x] Gemara and shiur panes: Halakha / Shas / Verse pills under the line, or a margin column; sources open in a window.
+- [ ] Daf page view: a marker per Gemara line on the scan (the line boxes from page_layout give the position), opening
+      the same list. Needs a place on the page that doesn't cover Rashi/Tosafot, hit-testing in JS (the overlay is
+      drawn, clicks are tested by position), and behaviour under zoom and pan.
+- [ ] Fold the author's final review (https://claude.ai/artifact/H4pX3MnYF563M4biZ1KvzC) into corrections, rerun
+      `build_xrefs_site.py`, redeploy.
+- [ ] Links to the whole amud (line 0, 417); the Ein Mishpat letters on the Gemara's words; Hebrew titles in the
+      Hebrew interface.

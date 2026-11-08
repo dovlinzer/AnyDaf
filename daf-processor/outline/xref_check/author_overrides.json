@@ -1,0 +1,23 @@
+{
+ "_about": "The author's own corrections from the review page (2026-11-08). Each entry sets what a line should cite in place of what Sefaria has: remove these refs, add those. Applied after, and over, the model's verdicts.",
+ "entries": [
+  {"where": "Berakhot 20b:17", "remove": [], "add": [], "why": "model wrong: 62:4 (thought, בלבו) is the case; keep Sefaria's 62:4"},
+  {"where": "Moed Katan 15a:15", "remove": ["Mishneh Torah, Torah Study 6:5"], "add": ["Mishneh Torah, Torah Study 7:4"], "why": "the מנודה for whom these are permitted; Vilna and model both wrong"},
+  {"where": "Sanhedrin 60a:16", "remove": ["Mishneh Torah, Mourning 9:6"], "add": ["Mishneh Torah, Mourning 9:7", "Mishneh Torah, Mourning 9:8"], "why": "Vilna 9:6-8; should be 9:7-8"},
+  {"where": "Bava Batra 42a:9", "remove": [], "add": ["Mishneh Torah, Ownerless Property and Gifts 3:1"], "why": "both 2:1 (ownerless) and 3:1 (gift) apply"},
+  {"where": "Kiddushin 77a:17", "remove": [], "add": ["Mishneh Torah, Forbidden Intercourse 17:9", "Mishneh Torah, Forbidden Intercourse 17:10"], "why": "Vilna 17:8-10; the specifics are in 9 and 10"},
+  {"where": "Moed Katan 14b:8", "remove": [], "add": ["Mishneh Torah, Mourning 10:8"], "why": "Vilna 10:3 and 10:8, both right"},
+  {"where": "Moed Katan 19b:4", "remove": [], "add": ["Mishneh Torah, Mourning 6:12"], "why": "10:5 right; 6:12 the better source (updated Vilna)"},
+  {"where": "Pesachim 5b:14", "remove": ["Mishneh Torah, Leavened and Unleavened Bread 4:4"], "add": ["Mishneh Torah, Leavened and Unleavened Bread 4:3"], "why": "4:3 is the most accurate"},
+  {"where": "Ketubot 19b:9", "remove": ["Mishneh Torah, Testimony 3:8"], "add": ["Mishneh Torah, Testimony 7:7"], "why": "the note's 7:7, after its chapter 3 sources"},
+  {"where": "Bekhorot 12a:1", "remove": ["Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 12:1"], "add": ["Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 12:8"], "why": "B correct"},
+  {"where": "Bekhorot 49b:9", "remove": ["Shulchan Arukh, Yoreh De'ah 305:15"], "add": ["Shulchan Arukh, Yoreh De'ah 305:16"], "why": "B: states the underlying principle"},
+  {"where": "Menachot 20a:1", "remove": [], "add": [], "why": "A (5:11) correct"},
+  {"where": "Niddah 64a:9", "remove": [], "add": [], "why": "A (8:7) states the rule"},
+  {"where": "Sotah 23a:6", "remove": ["Mishneh Torah, Defilement by Leprosy 5:1"], "add": ["Mishneh Torah, Slaves 4:1"], "why": "Vilna and note: Avadim 4:1"},
+  {"where": "Bava Batra 138a:10", "remove": [], "add": ["Mishneh Torah, Ownerless Property and Gifts 11:16"], "why": "Vilna 16-18: keep 18"},
+  {"where": "Berakhot 36b:14", "remove": [], "add": ["Shulchan Arukh, Orach Chayim 202:16"], "why": "Vilna 16 and 18: keep 18"},
+  {"where": "Berakhot 16a:4", "remove": [], "add": ["Shulchan Arukh, Orach Chayim 64:2"], "why": "Vilna 64:2, 3 and 4: keep 4"},
+  {"where": "Sanhedrin 31a:16", "remove": [], "add": ["Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction 7:7"], "why": "Vilna 7:6-10: keep 6"}
+ ]
+}

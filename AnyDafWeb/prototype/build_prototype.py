@@ -29,6 +29,7 @@ DP = HERE.parent.parent / "daf-processor"
 # it on every build and used as they are. Never copy or edit them here; edit the kit, then rebuild
 # and redeploy both sites.
 MEASURES_KIT = HERE.parent.parent / "AnyMishnahWeb" / "reference-kit"
+XREFS_SITE = Path(__file__).resolve().parents[2] / "daf-processor" / "xrefs" / "site"
 SAGES_KIT = MEASURES_KIT / "sages"            # shared with Illustrated Mishna; built by daf-processor/sages_kit.py
 SUMMARIES = (lambda f: json.loads(f.read_text(encoding="utf-8")) if f.exists() else {})(DP / "outline" / "daf_summaries.json")
 # hand-written multiple-choice quizzes for the demo, one file per base daf key (2026-10-16); in production the
@@ -618,6 +619,10 @@ def main():
     (out / "sages").mkdir(exist_ok=True)          # the sages kit's data, loaded when the box opens
     for f in ("sages.json", "quoted.json"):
         (out / "sages" / f).write_bytes((SAGES_KIT / f).read_bytes())
+    # Vilna margin references, one file per tractate (daf-processor/build_xrefs_site.py)
+    (out / "xrefs").mkdir(exist_ok=True)
+    for f in XREFS_SITE.glob("*.json"):
+        (out / "xrefs" / f.name).write_bytes(f.read_bytes())
     (out / "index.html").write_text(html, encoding="utf-8")
     size = sum(f.stat().st_size for f in out.rglob("*") if f.is_file())
     print(f"wrote {out}/index.html + {len(index)} dafim ({size / 1e6:.1f} MB total)")
