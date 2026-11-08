@@ -2101,7 +2101,7 @@ per block, each link on its own line in the kind's color; an arrow at each pane'
 (`xrShut`, `prefs.xrShut`), leaving small colored dots on lines with sources that reopen it; `xrFit()` gives a line room when its
 sources run longer than its text; falls back to pills when the pane is under 540px, a container query on
 #textPane / #shiurPane) / Off
-(`prefs.xrMode`). Colors by kind: --amber halakha, --teal Shas (Mesoret HaShas incl. Mishnah, Tosefta, Midrash),
+(`prefs.xrMode`). Colors by kind: blue halakha ("Rambam"/"SA" in --blue, their links in --l2), --teal Shas (Mesoret HaShas incl. Mishnah, Tosefta, Midrash),
 --link verse. **Every source opens in a window on the page** (`xrOpen`, ported from the YCT site's
 `sefaria-popup.js`: Sefaria's /api/texts, א / אA / A, "Open on Sefaria"). The window shows the whole section the
 source is in (`xrLoad`: `context=1` gives the chapter of Rambam / SA / Mishnah / Tosefta / Tanakh and the requested
