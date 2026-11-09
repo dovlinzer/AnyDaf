@@ -244,14 +244,14 @@ body.xr-off .pgxr{display:none}
 .pgdots{position:absolute;inset:0 var(--xrw,18px) 0 0;pointer-events:none}
 body.xr-off .pgdots{display:none}
 /* in the gutter between the Gemara and the Rashi/Tosafot on its right, at the line's first printed row */
-.pgdot{position:absolute;transform:translateX(-50%);display:flex;flex-direction:column;gap:1px;padding:1px;cursor:pointer;border-radius:3px;pointer-events:auto}
+.pgdot{position:absolute;transform:translateX(-50%);display:flex;flex-direction:column;gap:calc(1px * var(--pz,1));padding:1px;cursor:pointer;border-radius:3px;pointer-events:auto}
 .pgdot:hover,.pgdot.on{background:#C9D8F5}
-.pgdot i{width:5px;height:5px;border-radius:50%;display:block;background:var(--k);box-shadow:0 0 0 1px #fff}
+.pgdot i{width:calc(5px * var(--pz,1));height:calc(5px * var(--pz,1));border-radius:50%;display:block;background:var(--k);box-shadow:0 0 0 1px #fff}
 .pgdot .xc,.pagepop .xc{--k:#3A62A8}.pgdot .xc.ms,.pagepop .xc.ms{--k:#9A6212}.pgdot .xc.v,.pagepop .xc.v{--k:#6B4FA0}
 /* Open (the default), the sources sit beside their lines in a panel over the page's outer margin, from
    where Rashi/Tosafot end to the dots, and move with the page; the arrow folds it to the dots (prefs.pgShut,
    the daf page's own, apart from the text's). Block tops and the width are set in px by pgFit. */
-.pgmg{display:block;position:absolute;top:0;bottom:0;right:var(--xrw,18px);box-sizing:border-box;background:var(--panel);
+.pgmg{display:block;position:absolute;top:0;bottom:0;right:0;box-sizing:border-box;background:var(--panel);
  border-left:1px solid var(--line);box-shadow:-4px 0 12px rgba(20,30,60,.08);font:11.5px/1.35 var(--sans);text-align:left;cursor:auto}
 .pgmg .pgm{position:absolute;left:6px;right:5px}
 .pgmg .pgm+.pgm{}
@@ -1051,12 +1051,13 @@ function drawPageXr(a){const box=$('pageXr'),dots=$('pageDots'),mg=$('pageMg');b
  mg.innerHTML=`<div class="pgtog"><button type="button" title="${esc(tr('Hide the sources'))}" aria-label="${esc(tr('Hide the sources'))}">›</button></div>`+groups.map(g=>`<div class="pgm" data-l="${esc(g.l.join(' '))}" data-y="${g.y}">`+g.l.map(l=>{const k=xrSplit(am[l.split('.')[1]]);
   return '<div class="xpl">'+['em','ms','v'].filter(x=>k[x].length).map(x=>`<div class="xc ${x}" title="${esc(tr(XR_KIND[x]))}">${xrBody(x,k[x],true)}</div>`).join('')+'</div>'}).join('')+'</div>').join('');
  pgFit()}
-// Width: the page's outer margin (from the layout's rightmost Rashi/Tosafot box to the dots), 5-9.5rem.
+// Width: from just past the layout's rightmost Rashi/Tosafot box (a little breathing room) to the page's right
+// edge, over the strip, so at any zoom the links start close to the commentary; at least 4.5rem.
 // Each block starts level with its line, or just below the block above when that one runs long.
 function pgFit(){const mg=$('pageMg'),img=$('pageEl'),L=layOf(amudShown);if(!mg.querySelector('.pgm')||!img.offsetHeight||!L)return;
  const rem=parseFloat(getComputedStyle(document.documentElement).fontSize),W=img.offsetWidth,H=img.offsetHeight;
  const edge=Math.max(...L.c.flatMap(c=>c.boxes.map(b=>b[0]+b[2])),...Object.values(L.g).flat().map(b=>b[0]+b[2]));
- mg.style.width=Math.max(5*rem,Math.min(9.5*rem,W*(1-edge)-3))+'px';
+ const xrw=$('pageWrap').offsetWidth-W;mg.style.width=Math.max(4.5*rem,W*(1-edge)+xrw-Math.max(8,W*.012))+'px';
  let low=28;for(const b of mg.querySelectorAll('.pgm')){const top=Math.max(+b.dataset.y*H-2,low);b.style.top=top+'px';low=top+b.offsetHeight+5}}
 {let raf=0;new ResizeObserver(()=>{if(!raf)raf=requestAnimationFrame(()=>{raf=0;pgFit()})}).observe($('pageEl'))}
 function pgShut(shut){prefs.pgShut=shut;savePrefs();document.body.classList.toggle('pg-shut',shut);if(!shut)pgFit()}
@@ -1325,7 +1326,7 @@ function applyText(l){[$('text'),$('shiur')].forEach(el=>el.style.setProperty('-
 function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyValue('--pz'))||1;
  const cx=(b.scrollLeft+b.clientWidth/2)/old,cy=(b.scrollTop+b.clientHeight/2)/old;
  b.style.setProperty('--pz',z);b.classList.toggle('pan',z>1);
- b.scrollLeft=cx*z-b.clientWidth/2;b.scrollTop=cy*z-b.clientHeight/2}
+ b.scrollLeft=cx*z-b.clientWidth/2;b.scrollTop=cy*z-b.clientHeight/2;pgFit()}
 // Drag to move the page inside its frame (mouse, pen or touch).
 (function pan(){const b=$('pageImg');let st=null;
  b.addEventListener('pointerdown',e=>{if(e.button!==0||e.target.closest('#pageMg,.pgtog'))return;st={x:e.clientX,y:e.clientY,l:b.scrollLeft,t:b.scrollTop,moved:false};b.setPointerCapture(e.pointerId)});
