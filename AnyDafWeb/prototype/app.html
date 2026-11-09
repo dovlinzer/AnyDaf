@@ -1187,9 +1187,13 @@ function steinFor(sp){const none={html:'',guide:[],word:''};if(!curHx||!sp.close
 // Steinsaltz's word in English: Klein, which covers the Hebrew he writes in. The entry for the word as it stands,
 // and, when that is a noun or the like, the verb root as well (גילה: גִּילָה "joy", or גלה "to uncover").
 const firstDef=ss=>{for(const x of ss||[]){if(x.definition)return x.definition;const d=firstDef(x.senses);if(d)return d}return ''};
-async function kleinGloss(w){const forms=wordForms(w).slice(0,10),got=await Promise.all(forms.map(f=>dictGet(f).then(es=>es.filter(e=>/Klein/.test(e.parent_lexicon))))),out=[];
+// hint: Hebrew words named in Jastrow's entries for the Gemara word (תְּנֵי: "v. שָׁנָה"). A Klein entry they name wins, so
+// ושישנה is ו+ש+ישנה from שנה, not שׂישׂ.
+async function kleinGloss(w,hint){const forms=wordForms(w),got=await Promise.all(forms.map(f=>dictGet(f).then(es=>es.filter(e=>/Klein/.test(e.parent_lexicon))))),out=[];
+ if(hint&&hint.size)for(const es of got){const m=es.filter(e=>hint.has(hwPlain(e.headword)));   // the verb root (unpointed) before a noun
+  if(m.length)return [m.find(e=>!/[\u05B0-\u05BC]/.test(e.headword))||m[0]]}
  for(let i=0;i<forms.length;i++){const es=got[i];if(!es.length)continue;
-  const root=es.find(e=>!/[֑-ׇ]/.test(e.headword)&&hwPlain(e.headword).length===3);
+  const root=es.find(e=>!/[\u05B0-\u05BC]/.test(e.headword)&&hwPlain(e.headword).length===3);
   if(!out.length){out.push(es.find(e=>hwPlain(e.headword)===forms[i])||root||es[0]);if(out[0]===root||!/n\.|adj/.test((out[0].content||{}).morphology||''))break;continue}
   if(root&&!out.includes(root)){out.push(root);break}}
  return out}
@@ -1244,9 +1248,12 @@ async function showWord(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=sp.te
  d.hidden=false;d.innerHTML=st+`<p class="dnote">${esc(tr('Looking up'))} <span lang="he">${esc(word)}</span>…</p>`;
  let en='';
  const showEn=()=>{const p=d.querySelector('.den');if(p&&en)p.innerHTML=en};
- if(S.word)kleinGloss(S.word).then(ks=>{if(!ks.length||!sp.classList.contains('on'))return;
+ const hitsP=lookupWord(word,G);
+ // Hebrew words in the opening lines of Jastrow's entries for the Gemara word
+ const hintOf=hs=>new Set(hs.flatMap(h=>h.es.filter(e=>/Jastrow/.test(e.parent_lexicon)).flatMap(e=>heNorm(senseHtml((e.content||{}).senses).replace(/<[^>]+>/g,' ')).split(' ').slice(0,40))).filter(x=>x.length>=3));
+ if(S.word)hitsP.then(hs=>kleinGloss(S.word,hintOf(hs))).then(ks=>{if(!ks.length||!sp.classList.contains('on'))return;
   en=`${esc(tr('In English'))} (Klein, <span lang="he">${esc(S.word)}</span>): `+ks.map(k=>`<b lang="he">${esc(k.headword)}</b> ${dictClean(firstDef((k.content||{}).senses)).replace(/<[^>]+>/g,'').replace(/^[\s,;:]+/,'')}`).join(` <span class="dlx">${esc(tr('or'))}</span> `);showEn()});
- const hits=await lookupWord(word,G);if(!sp.classList.contains('on'))return;
+ const hits=await hitsP;if(!sp.classList.contains('on'))return;
  for(const h of hits)h.es=await Promise.all(h.es.map(e=>/Jastrow/.test(e.parent_lexicon)?followXref(e):e));
 // "as preced.", "v. next w.": Jastrow defines the word under the neighbouring entry, so that entry is shown with it.
  // A bare "(preced.)" only names where the word comes from; that gets a button instead.

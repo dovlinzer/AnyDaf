@@ -2129,7 +2129,8 @@ Hebrew shows with a note. each Hebrew word there looks itself up in Sefaria's di
 Steinsaltz's gloss of it in that line, from the saved `hx`: his bold run with the word and what follows, usually a bracketed
 translation (`steinFor`); the bracket's word for the clicked word (only if it shares ≥2 letters and about half, in order,
 near the same position, or is a one-word bracket after the run's last word) is looked up in Klein for an English line
-(`kleinGloss`), and steers the entries (`guided`: headword is one of its forms, or the entry's opening names one, as
+(`kleinGloss`; a Klein root that Jastrow's entries for the Gemara word name wins, so ושישנה under וליתני is שנה "to repeat" via
+Jastrow's "v. שָׁנָה", not שׂישׂ), and steers the entries (`guided`: headword is one of its forms, or the entry's opening names one, as
 Jastrow's אֲמָא II "v. אמר" for תימא [תאמר]). A hand-written list of ~90 common Aramaic words (`COMMON`, for the author's
 review) shows for Gemara words. Entry order: guide, an entry for the whole word, then Klein first for Mishnah / Rashi /
 Tosafot (`isMishnah` reads Davidson's "MISHNA:"/"GEMARA:") and Jastrow first for the Gemara (Klein only when it has
