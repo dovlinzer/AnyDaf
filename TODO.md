@@ -286,9 +286,9 @@ daf's terms link to master entries from the start. Not built; awaiting the autho
 
 ## Vilna margin sources in iTalmud (2026-11-08)
 - [x] Gemara and shiur panes: Halakha / Shas / Verse pills under the line, or a margin column; sources open in a window.
-- [ ] Daf page view: a marker per Gemara line on the scan (the line boxes from page_layout give the position), opening
-      the same list. Needs a place on the page that doesn't cover Rashi/Tosafot, hit-testing in JS (the overlay is
-      drawn, clicks are tested by position), and behaviour under zoom and pan.
+- [x] Daf page view (2026-11-08): the scans are cropped tight and their margins are full of print, so the dots sit in
+      a thin strip of our own beside the scan (`#pageXr`), one stack per Gemara line at its first printed row; a tap
+      marks the line and lists its sources in the box under the page.
 - [ ] Fold the author's final review (https://claude.ai/artifact/H4pX3MnYF563M4biZ1KvzC) into corrections, rerun
       `build_xrefs_site.py`, redeploy.
 - [ ] Links to the whole amud (line 0, 417); the Ein Mishpat letters on the Gemara's words; Hebrew titles in the

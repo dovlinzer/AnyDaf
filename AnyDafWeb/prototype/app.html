@@ -220,11 +220,12 @@ html[lang="he"] .pagebar .folio{font-family:var(--hebrew)}
 .pageimg{flex:1;min-height:0;border:1px solid var(--line);border-radius:4px;overflow:auto;background:#FFF;overscroll-behavior:contain;touch-action:none}
 .pageimg.pan{cursor:grab}.pageimg.pan.grabbing{cursor:grabbing}
 .pageimg img{-webkit-user-drag:none;user-select:none;pointer-events:none}
-.pagewrap{position:relative;width:calc(100% * var(--pz,1))}
+.pagewrap{position:relative;width:calc(100% * var(--pz,1));box-sizing:border-box;padding-right:var(--xrw,18px)}
+body.xr-off .pagewrap{--xrw:0px}
 .pageimg img{display:block;width:100%;max-width:none;height:auto}
 /* Live text: boxes from page_layout over the scan. The scan is always white, so these colors
    don't change in dark mode. Strokes stay one pixel whatever the zoom. */
-.lay{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;overflow:visible}
+.lay{position:absolute;inset:0 auto 0 0;width:calc(100% - var(--xrw,18px));height:100%;pointer-events:none;overflow:visible}
 .lay rect{fill:transparent;stroke:none;vector-effect:non-scaling-stroke}
 .lay .g.on{fill:rgba(27,58,138,.15)}
 .lay .c.on{fill:rgba(154,98,18,.13)}
@@ -233,6 +234,19 @@ html[lang="he"] .pagebar .folio{font-family:var(--hebrew)}
 .lay .sel{fill:rgba(27,58,138,.3)}
 .lay .c.sel{fill:rgba(154,98,18,.3)}
 .lay.off{display:none}
+/* Vilna margin sources on the daf page: a thin strip beside the scan (its own margins are full of
+   print), one stack of dots per Gemara line with sources; the scan is white in dark mode too, so
+   the colors are fixed. A tap lists the line's sources in the box under the page. */
+.pgxr{position:absolute;top:0;bottom:0;right:0;width:var(--xrw,18px);border-left:1px solid #E4E6EC}
+body.xr-off .pgxr{display:none}
+.pgdot{position:absolute;left:4px;display:flex;flex-direction:column;gap:2px;padding:2px;cursor:pointer;border-radius:4px}
+.pgdot:hover,.pgdot.on{background:#E6EEFC}
+.pgdot i{width:6px;height:6px;border-radius:50%;display:block;background:var(--k)}
+.pgdot .xc,.pagepop .xc{--k:#3A62A8}.pgdot .xc.ms,.pagepop .xc.ms{--k:#9A6212}.pgdot .xc.v,.pagepop .xc.v{--k:#6B4FA0}
+.pagepop .xpl{margin:0 0 6px}.pagepop .xpl+.xpl{margin-top:10px}
+.pagepop .xrl,body.xr-margin .pagepop .xrl{margin-top:4px;display:grid}
+.pagepop:has(.xpl){flex-shrink:0;max-height:45%}
+.pagepop .xrl .xkn{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--k)}
 .pagebar .laynote{font-size:12px;color:var(--amber)}
 .pagepop{position:relative;border:1px solid var(--line);border-radius:6px;background:var(--panel);box-shadow:var(--shadow);padding:10px 12px;padding-inline-end:34px;max-height:38%;overflow:auto;font-size:14px}
 .pagepop .x{position:absolute;top:4px;inset-inline-end:6px;border:0;background:none;font-size:18px;color:var(--muted);cursor:pointer;padding:2px 6px}
@@ -640,7 +654,7 @@ __SPRITE__
   <div class="pane" id="pagePane" hidden><div class="page">
    <div class="pagebar"><span class="folio" id="folio"></span><span class="amudnav"><button type="button" class="navb" id="amudPrev" aria-label="Previous amud" title="Previous amud">‹</button><div class="seg" id="amudSeg" role="group" aria-label="Amud" hidden></div><button type="button" class="navb" id="amudNext" aria-label="Next amud" title="Next amud">›</button></span>
     <input type="checkbox" id="layTog" checked hidden><input type="checkbox" id="popTog" hidden><span class="laynote" id="layNote"></span></div>
-   <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg></div></div>
+   <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg><div class="pgxr" id="pageXr"></div></div></div>
    <div class="pagepop" id="pagePop" hidden role="status"></div>
   </div></div>
   <div class="foot" id="gemFoot"></div>
@@ -747,7 +761,7 @@ function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch
 // the code goes through tr(), keyed by the English.
 const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='he'||q==='en'){prefs.ui=q;savePrefs()}return prefs.ui==='he'?'he':'en'})();
 const RTL=UI==='he';
-const HEW={'Hebrew':'עברית','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
+const HEW={'Hebrew':'עברית','Sources':'מקורות','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
  "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
@@ -967,6 +981,7 @@ let pageTapHold=0,hovEl=null;
 const layOf=a=>(D&&D.layouts&&D.layouts[a])||null;
 function drawLayout(a){const L=layOf(a),svg=$('pageLay');closePop();hovEl=null;
  $('layNote').textContent=!L?tr('No live text for this amud yet.'):L.rough?tr('Line positions on this amud are approximate.'):'';
+ drawPageXr(a);
  if(!L){svg.innerHTML='';return}
  const r=(b,cls,attr)=>`<rect class="${cls}" ${attr} x="${b[0]}" y="${b[1]}" width="${b[2]}" height="${b[3]}"/>`;
  svg.innerHTML=Object.entries(L.g).map(([l,bs])=>bs.map(b=>r(b,'g',`data-l="${esc(l)}"`)).join('')).join('')
@@ -983,20 +998,40 @@ function scrollPageTo(){const b=$('pageImg'),first=$('pageLay').querySelector('r
   const top=r.top-br.top+b.scrollTop-b.clientHeight*.18,left=r.left+r.width/2-br.left+b.scrollLeft-b.clientWidth/2;
   b.scrollTo({top:Math.max(0,top),left:Math.max(0,left),behavior:'smooth'})};
  $('pageEl').complete?run():$('pageEl').addEventListener('load',run,{once:true})}
-function hitAt(x,y){const L=layOf(amudShown);if(!L)return null;const r=$('pageWrap').getBoundingClientRect();
- const fx=(x-r.left)/r.width,fy=(y-r.top)/r.height,pad=.002;
+function hitAt(x,y){const L=layOf(amudShown);if(!L)return null;const r=$('pageEl').getBoundingClientRect();
+ const fx=(x-r.left)/r.width,fy=(y-r.top)/r.height,pad=.002;   // r: the scan itself, not the strip beside it
  const inb=b=>fx>=b[0]-pad&&fx<=b[0]+b[2]+pad&&fy>=b[1]-pad&&fy<=b[1]+b[3]+pad;
  for(const [l,bs] of Object.entries(L.g))if(bs.some(inb))return{l};
  for(let i=0;i<L.c.length;i++)if(L.c[i].boxes.some(inb))return{c:i};
  return null}
 const hitSel=h=>h.l!=null?`rect.g[data-l="${CSS.escape(h.l)}"]`:`rect.c[data-c="${h.c}"]`;
-function hover(x,y){if($('pageLay').classList.contains('off'))return;const h=hitAt(x,y),sel=h?hitSel(h):null;
+function hover(x,y){if($('pageLay').classList.contains('off'))return;const dot=document.elementFromPoint(x,y)?.closest('.pgdot');
+ const h=dot?{l:dot.dataset.l.split(' ')[0]}:hitAt(x,y),sel=h?hitSel(h):null;
  if(sel===hovEl)return;hovEl=sel;drawHover(h);$('pageImg').style.cursor=sel?'pointer':''}
 // The passage under the pointer gets one border around its outside, not a box per printed line
 // (author, 2026-10-07): the line boxes are stretched to meet the next line, and only the edges
 // between covered and uncovered cells of their grid are drawn.
 function drawHover(h){const svg=$('pageLay');svg.querySelectorAll('.hovp').forEach(e=>e.remove());if(!h)return;
  const L=layOf(amudShown);svg.appendChild(outlinePath(h.l!=null?L.g[h.l]:L.c[h.c].boxes,'hovp'+(h.l!=null?'':' c')))}
+// Margin sources beside the scan: one stack of dots per Gemara line that has sources, at the line's
+// first printed row; lines starting on the same row share a stack.
+var xrPage=null;   // var: drawLayout can run before this line
+function drawPageXr(a){const box=$('pageXr');box.innerHTML='';const L=layOf(a);
+ if(!L||!xrPage||xrPage.d!==D||!a)return;const am=xrPage.data.amudim[a]||{},groups=[];
+ Object.entries(L.g).map(([l,bs])=>[l,Math.min(...bs.map(b=>b[1])),am[l.split('.')[1]]]).filter(x=>x[2]&&x[1]<Infinity)
+  .sort((x,y)=>x[1]-y[1]).forEach(([l,y,rows])=>{const g=groups.at(-1);
+   if(g&&y-g.y<.012){g.l.push(l);rows.forEach(r=>g.k.add(r[0]))}else groups.push({y,l:[l],k:new Set(rows.map(r=>r[0]))})});
+ box.innerHTML=groups.map(g=>`<span class="pgdot" data-l="${esc(g.l.join(' '))}" style="top:calc(${(g.y*100).toFixed(3)}% - 1px)" title="${esc(tr('Sources'))}">`
+  +['em','ms','v'].filter(k=>g.k.has(k)).map(k=>`<i class="xc ${k}"></i>`).join('')+'</span>').join('')}
+function showPageXr(dot){const L=layOf(amudShown),am=xrPage.data.amudim[amudShown]||{},pop=$('pagePop');
+ $('pageXr').querySelectorAll('.on').forEach(e=>e.classList.remove('on'));dot.classList.add('on');
+ $('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'));
+ const labels=dot.dataset.l.split(' ');labels.forEach(l=>$('pageLay').querySelectorAll(hitSel({l})).forEach(e=>e.classList.add('sel')));
+ pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+labels.map(l=>{const it=D.items.find(x=>x.l===l),g=xrSplit(am[l.split('.')[1]]||[]);
+  return `<div class="xpl">${it?`<p class="he" lang="he">${esc(it.he.split(/\s+/).slice(0,8).join(' '))}…</p>`:''}`
+   +['em','ms','v'].filter(k=>g[k].length).map(k=>`<div class="xrl xc ${k}"><span class="xkn">${esc(tr(XR_KIND[k]))}</span>${xrBody(k,g[k])}</div>`).join('')+'</div>'}).join('');
+ pop.hidden=false;pop.querySelector('.x').onclick=closePop}
+$('pagePop').addEventListener('click',e=>{const a=e.target.closest('.xrl a');if(!a||e.metaKey||e.ctrlKey||e.shiftKey||e.button)return;e.preventDefault();xrOpen(a.dataset.ref,a.href)});
 // one border around the outside of a passage's line boxes (the hover and the line being read)
 function outlinePath(boxes,cls){const bs=boxes.map(b=>[...b]).sort((a,b)=>a[1]-b[1]);
  for(let i=0;i<bs.length;i++){const b=bs[i],n=bs.find(o=>o[1]>b[1]+b[3]*.5);   // close the gap to the next line down
@@ -1028,7 +1063,7 @@ function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains(
  pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+html+(canPlay?'<button class="pfh" type="button" id="popPlay">▶ Play from here</button>':'');pop.hidden=false;
  if(!$('popTog').checked)pop.hidden=true;   // the line is still marked and the outline still moves
  pop.querySelector('.x').onclick=closePop;if(canPlay)$('popPlay').onclick=()=>playFrom(po)}
-function closePop(){$('pagePop').hidden=true;$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
+function closePop(){$('pagePop').hidden=true;$('pageXr').querySelectorAll('.on').forEach(e=>e.classList.remove('on'));$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
 $('layTog').onchange=()=>{$('pageLay').classList.toggle('off',!$('layTog').checked);prefs.lay=$('layTog').checked;savePrefs();if(!$('layTog').checked)closePop()};
 $('popTog').checked=false;$('popTog').onchange=()=>{prefs.pop=$('popTog').checked;savePrefs();if(!prefs.pop)$('pagePop').hidden=true};
 $('layTog').checked=true;   // the page is always highlighted, and a tap shows no text box (author, 2026-10-15)
@@ -1140,6 +1175,7 @@ function xrMount(el,rows,host){if(el.querySelector('.xchips'))return;const g=xrS
  const tk=document.createElement('span');tk.className='xtick';tk.title=tr('Show the sources');tk.innerHTML=ks.map(k=>`<i class="xc ${k}"></i>`).join('');el.append(tk)}
 async function decorateXrefs(d){const T=TR[navAt.t];if(!T)return;const data=await xrData(T.text||T.name);if(D!==d)return;
  const rowsOf=l=>{const [am,n]=(l||'').split('.');return (data.amudim[am]||{})[n]};
+ xrPage={d,data};drawPageXr(amudShown);
  itemEls.forEach((el,i)=>{const rows=rowsOf(d.items[i].l);if(rows)xrMount(el,rows,el.querySelector(':scope>div'))});
  document.querySelectorAll('#shiur .quote').forEach(q=>{const rows=rowsOf(q.querySelector('.q-lab')?.textContent);if(rows)xrMount(q,rows)});
  xrFit();
@@ -1254,6 +1290,7 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
  // A press that doesn't move is a tap on the page: the outline and the shiur go to the line or
  // comment under it, and its text opens.
  b.addEventListener('pointerup',e=>{const tap=st&&!st.moved;if(st&&st.moved)skimmed(skimKey('page'));st=null;b.classList.remove('grabbing');if(!tap)return;
+  const dot=document.elementFromPoint(e.clientX,e.clientY)?.closest('.pgdot');if(dot){showPageXr(dot);return}   // the pointer is captured, so not e.target
   const h=hitAt(e.clientX,e.clientY),L=layOf(amudShown),l=h&&(h.l!=null?h.l:L.c[h.c].on);
   const o=l&&!$('pageLay').classList.contains('off')?D.order[l]:null;
   if(o!=null){jumpAudio(o);textHold=Date.now()+2500;   // the audio with the outline, as on the text

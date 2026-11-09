@@ -2112,8 +2112,11 @@ and Gifts 4:9", "SA CM 268:5, 243:23", `xrWorks`) with a hairline between Rambam
 (`prefs.rmNames`, `RAMBAM_TR` in app.html, spelled by transliteration.md: *Chovel u'Mazik*, *Zekhiyah u'Matanah*). The letter only groups a ruling's sources; the list leads with the words it
 marks, the margin separates rulings with space. A Bavli source's window also has "Go to
 this daf", which opens it in the site at the line (`xrLand`); ctrl/cmd-click opens Sefaria. Clicks in the lists
-don't move the outline or audio (`xrClick`). Rebuild `xrefs/site/` and the site after any new corrections. Not yet
-(TODO.md): the daf page view, links to the whole amud (line 0), the letter marks on the Gemara's words, Hebrew book
+don't move the outline or audio (`xrClick`). Rebuild `xrefs/site/` and the site after any new corrections. On the daf page
+(`drawPageXr`, `showPageXr`): a thin strip beside the scan (the scans' own margins are full of print), one stack of
+dots per Gemara line with sources at its first printed row (lines starting on one row share a stack); a tap marks the
+line and lists its sources in the box under the page; hidden with Settings "Off". The overlay and `hitAt` measure the
+scan (`#pageEl`), not the wrap, which is wider by the strip (`--xrw`). Not yet (TODO.md): links to the whole amud (line 0), the letter marks on the Gemara's words, Hebrew book
 names in the Hebrew interface.
 Errors found in Sefaria's
 data, for reporting to Sefaria, are collected in `daf-processor/outline/sefaria_corrections.md`.
