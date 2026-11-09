@@ -1,0 +1,136 @@
+<title>Word Gloss Pilot</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+/* layout: one column; a sticky bar (amud tabs + score), then each line as text above a word table */
+:root{
+  --bg:#f6f7f9; --card:#ffffff; --fg:#1d2433; --muted:#5c6577; --line:#dde1e8;
+  --son:#1f6f8b; --son-soft:#e3f0f5; --hai:#9a5b13; --hai-soft:#f7ecdc;
+  --bad:#b3261e; --bad-soft:#fbe4e2; --diff:#fff7d6;
+  --hebrew:"Frank Ruhl Libre","Times New Roman",serif; --sans:"Source Sans 3",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#12161d; --card:#1a2029; --fg:#e4e8ef; --muted:#9aa3b2; --line:#2c3440;
+  --son:#6fc0dc; --son-soft:#16303a; --hai:#e0a35a; --hai-soft:#3a2a15;
+  --bad:#ff8a80; --bad-soft:#3d1c1a; --diff:#2d2a17; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12161d; --card:#1a2029; --fg:#e4e8ef; --muted:#9aa3b2; --line:#2c3440;
+  --son:#6fc0dc; --son-soft:#16303a; --hai:#e0a35a; --hai-soft:#3a2a15;
+  --bad:#ff8a80; --bad-soft:#3d1c1a; --diff:#2d2a17; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.5 var(--sans);margin:0}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--card)}
+.wrap{max-width:980px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 48px}
+header{padding-block:24px 8px}
+h1{font-size:1.6rem;margin:0 0 4px;text-wrap:balance}
+.lede{color:var(--muted);margin:0;max-width:65ch}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--card);border-bottom:1px solid var(--line);margin-inline:calc(-1 * max(16px,env(safe-area-inset-left,0px)));padding:10px max(16px,env(safe-area-inset-left,0px));display:flex;flex-direction:column;gap:8px}
+.tabs{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px}
+.tabs button{flex:0 0 auto;border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:999px;padding:4px 12px;font:600 13px var(--sans);cursor:pointer}
+.tabs button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.tabs button:focus-visible,.cell:focus-visible,label:focus-within{outline:2px solid var(--son);outline-offset:2px}
+.row2{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;font-size:13px;color:var(--muted)}
+.score b{font-variant-numeric:tabular-nums;color:var(--fg)}
+.k-son{color:var(--son);font-weight:700}.k-hai{color:var(--hai);font-weight:700}
+.save{margin-left:auto}
+.line{background:var(--card);border:1px solid var(--line);border-radius:8px;margin-top:16px;padding:12px 14px}
+.lnum{font:700 12px var(--sans);color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+.he{font:400 1.2rem/1.75 var(--hebrew);direction:rtl;margin:4px 0}
+.en{color:var(--muted);font-size:13.5px;margin:0 0 8px}
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th{font:600 12px var(--sans);text-align:start;color:var(--muted);padding:4px 6px;border-bottom:1px solid var(--line)}
+td{padding:3px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+tr.diff td{background:var(--diff)}
+td.w{font:500 1.1rem var(--hebrew);direction:rtl;text-align:right;white-space:nowrap;width:1%}
+.cell{cursor:pointer;border-radius:4px;padding:2px 6px;display:block;min-height:1.6em}
+.cell .lm{font-family:var(--hebrew);font-size:1.05rem;direction:rtl;unicode-bidi:isolate}
+.cell .g{margin-inline-start:6px}
+.son .cell:hover{background:var(--son-soft)}.hai .cell:hover{background:var(--hai-soft)}
+.cell.bad{background:var(--bad-soft);color:var(--bad);text-decoration:line-through}
+.cell .none{color:var(--muted);font-style:italic}
+.cell.bad .none{text-decoration:none}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Word Gloss Pilot</h1>
+    <p class="lede">Every word of 12 amudim, with the dictionary form and English gloss from two models: <span class="k-son">Sonnet 5.5</span> and <span class="k-hai">Haiku 5.5</span>. Click an answer to mark it wrong; click again to unmark. Yellow rows are where the two disagree on the dictionary form.</p>
+  </header>
+  <div class="bar">
+    <div class="tabs" id="tabs" role="toolbar" aria-label="Amud"></div>
+    <div class="row2">
+      <span class="score">Marked wrong: <span class="k-son">Sonnet</span> <b id="sc-son">0</b> · <span class="k-hai">Haiku</span> <b id="sc-hai">0</b> of <b id="sc-n">0</b> words in this amud</span>
+      <label><input type="checkbox" id="onlyDiff"> Only rows where they disagree</label>
+      <span class="save" id="save"></span>
+    </div>
+  </div>
+  <main id="main"></main>
+</div>
+
+<script>
+const DATA = __DATA__;
+let cur = 0, db = null, marks = {};   // marks[amudId] = {"line:i:model": 1}
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const plain = s => (s || "").replace(/[֑-ׇ"'׳״]/g, "");
+try{ cur = Math.min(DATA.length-1, +localStorage.getItem("wgTab") || 0); }catch(e){}
+
+function tabs(){
+  $("tabs").innerHTML = DATA.map((d,i)=>`<button type="button" data-i="${i}" aria-pressed="${i===cur}">${esc(d.name)}</button>`).join("");
+}
+function cell(id, key, v){
+  const on = marks[id]?.[key] ? " bad" : "";
+  const body = v ? `<span class="lm" lang="he">${esc(v[0])}</span><span class="g">${esc(v[1])}</span>` : `<span class="none">missing</span>`;
+  return `<span class="cell${on}" tabindex="0" role="button" data-k="${key}">${body}</span>`;
+}
+function render(){
+  const d = DATA[cur], only = $("onlyDiff").checked;
+  $("main").innerHTML = d.lines.map(l => {
+    const rows = l.w.map((r,i) => {
+      const diff = !r[1] || !r[2] || plain(r[1][0]) !== plain(r[2][0]);
+      if(only && !diff) return "";
+      return `<tr class="${diff?"diff":""}"><td class="w" lang="he">${esc(r[0])}</td>
+        <td class="son">${cell(d.id, `${l.n}:${i}:sonnet`, r[1])}</td><td class="hai">${cell(d.id, `${l.n}:${i}:haiku`, r[2])}</td></tr>`;
+    }).join("");
+    if(only && !rows) return "";
+    return `<section class="line"><div class="lnum">Line ${l.n}</div><p class="he" lang="he">${esc(l.he)}</p><p class="en">${esc(l.en)}</p>
+      <div class="tbl"><table><thead><tr><th>Word</th><th class="k-son">Sonnet 5.5</th><th class="k-hai">Haiku 5.5</th></tr></thead><tbody>${rows}</tbody></table></div></section>`;
+  }).join("") || `<p class="lede" style="margin-top:16px">No disagreements in this amud.</p>`;
+  score();
+}
+function score(){
+  const d = DATA[cur], m = marks[d.id] || {}, ks = Object.keys(m);
+  $("sc-son").textContent = ks.filter(k=>k.endsWith(":sonnet")).length;
+  $("sc-hai").textContent = ks.filter(k=>k.endsWith(":haiku")).length;
+  $("sc-n").textContent = d.lines.reduce((a,l)=>a+l.w.length,0);
+}
+async function save(id){
+  try{ localStorage.setItem("wgMarks", JSON.stringify(marks)); }catch(e){}
+  if(!db){ $("save").textContent = "Saved in this browser"; return; }
+  $("save").textContent = "Saving…";
+  try{ await db.doc("gloss_marks/"+id).set({marks: Object.keys(marks[id]||{})}); $("save").textContent = "Saved"; }
+  catch(e){ $("save").textContent = "Couldn't save online; kept in this browser"; }
+}
+function toggle(el){
+  const id = DATA[cur].id, k = el.dataset.k;
+  marks[id] = marks[id] || {};
+  if(marks[id][k]) delete marks[id][k]; else marks[id][k] = 1;
+  el.classList.toggle("bad", !!marks[id][k]); score(); save(id);
+}
+$("tabs").addEventListener("click", e => { const b = e.target.closest("button"); if(!b) return;
+  cur = +b.dataset.i; try{ localStorage.setItem("wgTab", cur); }catch(e){} tabs(); render(); scrollTo(0,0); });
+$("main").addEventListener("click", e => { const c = e.target.closest(".cell"); if(c) toggle(c); });
+$("main").addEventListener("keydown", e => { const c = e.target.closest(".cell"); if(c && (e.key==="Enter"||e.key===" ")){ e.preventDefault(); toggle(c); } });
+$("onlyDiff").addEventListener("change", render);
+try{ marks = JSON.parse(localStorage.getItem("wgMarks")||"{}"); }catch(e){}
+tabs(); render();
+(async()=>{
+  db = await claude.use("db"); if(!db) return;
+  for(const d of DATA){
+    try{ const s = await db.doc("gloss_marks/"+d.id).get(); const v = s && s.exists ? s.data() : null;
+         if(v && v.marks){ marks[d.id] = {}; v.marks.forEach(k => marks[d.id][k] = 1); } }catch(e){}
+  }
+  render();
+})();
+</script>
