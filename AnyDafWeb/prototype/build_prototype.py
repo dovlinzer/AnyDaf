@@ -562,6 +562,9 @@ def main():
     ap.add_argument("--feedback", action="store_true",
                     help="hosted build: Flag notes go to Supabase outline_feedback (public anon key, insert only); "
                          "also marks the site noindex and writes vercel.json")
+    ap.add_argument("--page-only", action="store_true",
+                    help="rewrite only the page (index.html and its small files), reusing the dafim of the last full "
+                         "build into the same --out; for changes to app.html or the renderer (seconds, not minutes)")
     args = ap.parse_args()
     global PROXY_IMAGES
     PROXY_IMAGES = args.feedback   # an artifact can't call the proxy, so it keeps image files
@@ -570,6 +573,11 @@ def main():
     out.mkdir(parents=True, exist_ok=True)
     src = Supa() if args.source == "supabase" else Local()
     pages = json.loads(PAGES_JSON.read_text(encoding="utf-8"))
+    saved = out / ".dafim.json"   # the daf list of the last full build, for --page-only
+    if args.page_only:
+        if not saved.exists():
+            sys.exit(f"--page-only: no full build in {out} yet")
+        args.dafim = []
     for spec in args.dafim:
         key, tag, _ = parse_spec(spec)
         tr, daf = parse_dir_name(key)
@@ -579,7 +587,11 @@ def main():
             continue
         for t_ in ts or []:
             SHARED_TERMS.setdefault((tr, o.get("lang") or "en"), []).append((daf, key, title_of(key).replace(" (no shiur)", ""), t_))
-    index = [build_daf(k, src, pages, out) for k in args.dafim]
+    if args.page_only:
+        index = json.loads(saved.read_text(encoding="utf-8"))
+    else:
+        index = [build_daf(k, src, pages, out) for k in args.dafim]
+        saved.write_text(json.dumps(index, ensure_ascii=False), encoding="utf-8")
 
     r = HERE.parent / "renderer"
     html = (HERE / "app.html").read_text(encoding="utf-8")
@@ -598,7 +610,7 @@ def main():
                 # Reading the Gemara and shiur of dafim without an outline (public tables, anon key).
                 .replace("__READ__", json.dumps({"url": SUPABASE_URL, "key": anon_key()}) if args.feedback else "null")
                 .replace("__FEEDBACK__", json.dumps({"url": SUPABASE_URL, "key": anon_key()}) if args.feedback else "null"))
-    if args.feedback:
+    if args.feedback and not args.page_only:
         write_sync(out, anon_key())
     (out / "brand").mkdir(exist_ok=True)          # the YCT logo in the bar (color, and white for dark mode)
     for f in (HERE / "brand").glob("*.png"):

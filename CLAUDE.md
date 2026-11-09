@@ -1812,7 +1812,8 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   Gemara quotes map to labels by exact Hebrew match. Pop-out glossary.
   Author decisions 2026-09-24: saved copy of the Bavli text (a `daf_text` table), not live
   Sefaria; link-only access for now.
-- Multi-daf version (2026-09-24): `build_prototype.py --out DIR [--source local|supabase]` writes
+- Multi-daf version (2026-09-24): `build_prototype.py --out DIR [--source local|supabase]` (`--page-only`: only the page, ~1 s, reusing the dafim of the last
+  full build into DIR, saved in `.dafim.json`; for app.html / renderer changes) writes
   `index.html` + `data/<key>.json` (fetched on demand by the picker) + `img/<key>_<amud>.jpg`
   (Vilna pages from AnyTorahWeb's `public/pages.json` Drive ids, resized to 1300px q45, cached in
   `daf-processor/outline/.page_cache/`). Artifacts can't load outside images or call Supabase from
@@ -2124,9 +2125,15 @@ daf page opens that one passage from Sefaria in the source window, and moves not
 outline and audio) (`pageHelp`; א / אA / A, no surrounding section: a comment is found among its line's comments by its
 dibbur ha'matchil). Sefaria's English for Rashi and Tosafot is sparse (none on Bava Metzia 11a, for one); then the
 Hebrew shows with a note. each Hebrew word there looks itself up in Sefaria's dictionaries
-(`/api/words`; a Gemara word first shows Steinsaltz's gloss of it in that line, from the saved `hx`: his bold run with the word
-and what follows, usually a bracketed translation (`steinFor`); then an entry for the whole word (Klein's מִדְּרַבָּנָן)
-before any for its root, then forms and entries ranked by the longest form of the word the entry quotes, then Jastrow;
+(`/api/words`, Jastrow and Klein only: BDB is Biblical, Ben Yehuda Hebrew-only; author 2026-11-09). A Gemara word first shows
+Steinsaltz's gloss of it in that line, from the saved `hx`: his bold run with the word and what follows, usually a bracketed
+translation (`steinFor`); the bracket's word for the clicked word (only if it shares ≥2 letters and about half, in order,
+near the same position, or is a one-word bracket after the run's last word) is looked up in Klein for an English line
+(`kleinGloss`), and steers the entries (`guided`: headword is one of its forms, or the entry's opening names one, as
+Jastrow's אֲמָא II "v. אמר" for תימא [תאמר]). A hand-written list of ~90 common Aramaic words (`COMMON`, for the author's
+review) shows for Gemara words. Entry order: guide, an entry for the whole word, then Klein first for Mishnah / Rashi /
+Tosafot (`isMishnah` reads Davidson's "MISHNA:"/"GEMARA:") and Jastrow first for the Gemara (Klein only when it has
+the whole word as PBH), then the longest form (≥5 letters) the entry quotes;
 hitpael/itpe'el of sibilant roots handled (מִשְׁתְּבַע → שבע, `META`); a Jastrow entry that says "as preced." / "v. next w." shows that neighbouring entry
 (`prev_hw`/`next_hw`) at its top, and a bare "(preced.)" gets a button to it; `wordForms` tries the word, then prefixes, suffixes and verb prefixes off, a final ה/א
 restored, matres dropped; up to 3 forms with entries, the rest offered as "Other possible forms"; a Jastrow entry that
