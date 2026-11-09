@@ -49,19 +49,32 @@ td.w{font:500 1.1rem var(--hebrew);direction:rtl;text-align:right;white-space:no
 .son .cell:hover{background:var(--son-soft)}.hai .cell:hover{background:var(--hai-soft)}
 .cell.bad{background:var(--bad-soft);color:var(--bad);text-decoration:line-through}
 .cell .none{color:var(--muted);font-style:italic}
+.cell.ent{font-size:13px;color:var(--muted);margin-top:2px}
+.cell.ent .hwd{font-family:var(--hebrew);font-size:1.02rem;color:var(--fg);direction:rtl;unicode-bidi:isolate;margin-inline-end:6px}
+.how{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:10px 14px;margin-top:12px;max-width:72ch}
+.how summary{font-weight:700;cursor:pointer}.how ol{padding-inline-start:20px;margin:8px 0}.how li{margin-bottom:6px}.how p{margin:0;color:var(--muted)}
 .cell.bad .none{text-decoration:none}
 </style>
 
 <div class="wrap">
   <header>
     <h1>Word Gloss Pilot</h1>
-    <p class="lede">Every word of 12 amudim, with the dictionary form and English gloss from two models: <span class="k-son">Sonnet 5.5</span> and <span class="k-hai">Haiku 5.5</span>. Click an answer to mark it wrong; click again to unmark. Yellow rows are where the two disagree on the dictionary form.</p>
+    <p class="lede">Every word of 12 amudim, glossed by two models, <span class="k-son">Sonnet 5.5</span> and <span class="k-hai">Haiku 5.5</span>, and linked to an entry in Jastrow's dictionary. Click a gloss or an entry to mark it wrong; click again to unmark. Yellow rows are where the two models chose different Jastrow entries.</p>
+    <details class="how" open>
+      <summary>Where each part comes from</summary>
+      <ol>
+        <li><b>The English gloss</b> is written by the model. For each line it reads the Aramaic, the William Davidson English translation and Steinsaltz's Hebrew explanation, and writes a short gloss of what each word means in that line ("all of it", "but let him teach"). Nothing is looked up for this part.</li>
+        <li><b>The dictionary form</b> (the small Hebrew before the gloss) is the model's own guess at the form Jastrow lists the word under. It is only a spelling: Jastrow often has several entries with that spelling.</li>
+        <li><b>The Jastrow entry</b> is chosen in a second step. We fetch from Sefaria every Jastrow entry the word or its dictionary form could point to (headword plus the opening of the definition), and the model picks the one that fits the gloss. Shown here: the chosen headword and the opening of its definition.</li>
+      </ol>
+      <p>So the gloss and the entry can disagree. In the first pilot <i>כולה</i> got the right gloss, "all of it", but its spelling also matches Jastrow's <i>כּוּלָה</i>, "a measure", and the old matching picked that one. Step 3 is meant to catch exactly this. Note also that an entry's first words can mislead: Jastrow's <i>אָמַר I</i> opens "to join, knot" but is the right entry for Hebrew "to say", which he derives from joining words.</p>
+    </details>
   </header>
   <div class="bar">
     <div class="tabs" id="tabs" role="toolbar" aria-label="Amud"></div>
     <div class="row2">
       <span class="score">Marked wrong: <span class="k-son">Sonnet</span> <b id="sc-son">0</b> · <span class="k-hai">Haiku</span> <b id="sc-hai">0</b> of <b id="sc-n">0</b> words in this amud</span>
-      <label><input type="checkbox" id="onlyDiff"> Only rows where they disagree</label>
+      <label><input type="checkbox" id="onlyDiff"> Only rows with different entries</label>
       <span class="save" id="save"></span>
     </div>
   </div>
@@ -82,16 +95,21 @@ function tabs(){
 function cell(id, key, v){
   const on = marks[id]?.[key] ? " bad" : "";
   const body = v ? `<span class="lm" lang="he">${esc(v[0])}</span><span class="g">${esc(v[1])}</span>` : `<span class="none">missing</span>`;
-  return `<span class="cell${on}" tabindex="0" role="button" data-k="${key}">${body}</span>`;
+  return `<span class="cell${on}" tabindex="0" role="button" data-k="${key}" title="Mark this gloss wrong">${body}</span>`;
+}
+function ecell(id, key, v){
+  const on = marks[id]?.[key] ? " bad" : "";
+  const body = v ? `<span class="hwd" lang="he">${esc(v[0])}</span>${esc(v[1])}…` : `<span class="none">no entry chosen</span>`;
+  return `<span class="cell ent${on}" tabindex="0" role="button" data-k="${key}" title="Mark this Jastrow entry wrong">Jastrow: ${body}</span>`;
 }
 function render(){
   const d = DATA[cur], only = $("onlyDiff").checked;
   $("main").innerHTML = d.lines.map(l => {
     const rows = l.w.map((r,i) => {
-      const diff = !r[1] || !r[2] || plain(r[1][0]) !== plain(r[2][0]);
+      const diff = (r[3]?.[0] || "") !== (r[4]?.[0] || "");
       if(only && !diff) return "";
       return `<tr class="${diff?"diff":""}"><td class="w" lang="he">${esc(r[0])}</td>
-        <td class="son">${cell(d.id, `${l.n}:${i}:sonnet`, r[1])}</td><td class="hai">${cell(d.id, `${l.n}:${i}:haiku`, r[2])}</td></tr>`;
+        <td class="son">${cell(d.id, `${l.n}:${i}:sonnet`, r[1])}${ecell(d.id, `${l.n}:${i}:sonnet:e`, r[3])}</td><td class="hai">${cell(d.id, `${l.n}:${i}:haiku`, r[2])}${ecell(d.id, `${l.n}:${i}:haiku:e`, r[4])}</td></tr>`;
     }).join("");
     if(only && !rows) return "";
     return `<section class="line"><div class="lnum">Line ${l.n}</div><p class="he" lang="he">${esc(l.he)}</p><p class="en">${esc(l.en)}</p>
@@ -101,8 +119,9 @@ function render(){
 }
 function score(){
   const d = DATA[cur], m = marks[d.id] || {}, ks = Object.keys(m);
-  $("sc-son").textContent = ks.filter(k=>k.endsWith(":sonnet")).length;
-  $("sc-hai").textContent = ks.filter(k=>k.endsWith(":haiku")).length;
+  const c = (m, e) => ks.filter(k => k.includes(":"+m) && k.endsWith(":e") === e).length;
+  $("sc-son").textContent = `${c("sonnet",false)} glosses, ${c("sonnet",true)} entries`;
+  $("sc-hai").textContent = `${c("haiku",false)} glosses, ${c("haiku",true)} entries`;
   $("sc-n").textContent = d.lines.reduce((a,l)=>a+l.w.length,0);
 }
 async function save(id){
