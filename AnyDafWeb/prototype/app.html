@@ -229,7 +229,7 @@ html[lang="he"] .pagebar .folio{font-family:var(--hebrew)}
 .dafstep{display:flex;justify-content:center;margin:10px 0 18px}
 .dafstep button{font:500 13px var(--sans);border:1px solid var(--line);background:var(--panel);color:var(--blue);border-radius:999px;padding:6px 14px;cursor:pointer}
 .dafstep button:hover{border-color:var(--blue)}
-.pageimg{flex:1;min-height:0;border:1px solid var(--line);border-radius:4px;overflow:auto;background:#FFF;overscroll-behavior:contain;touch-action:none}
+.pageimg{flex:1;min-height:0;border:1px solid var(--line);border-radius:4px;overflow:auto;background:#FFF;overscroll-behavior:contain;touch-action:none;-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
 .pageimg.pan{cursor:grab}.pageimg.pan.grabbing{cursor:grabbing}
 .pageimg img{-webkit-user-drag:none;user-select:none;pointer-events:none}
 .pagewrap{position:relative;width:calc(100% * var(--pz,1));box-sizing:border-box;padding-right:var(--xrw,18px)}
@@ -1202,10 +1202,14 @@ function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains(
  pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+html+(canPlay?'<button class="pfh" type="button" id="popPlay">▶ Play from here</button>':'');pop.hidden=false;
  if(!$('popTog').checked)pop.hidden=true;   // the line is still marked and the outline still moves
  pop.querySelector('.x').onclick=closePop;if(canPlay)$('popPlay').onclick=()=>playFrom(po)}
-// A right-click (on touch screens that offer it, a long press) on the Gemara, Rashi or Tosafot opens it alone;
+// A right-click, or on a touch screen a long press (pan() below), on the Gemara, Rashi or Tosafot opens it alone;
 // nothing else moves. A plain tap still moves the outline and the audio.
-$('pageImg').addEventListener('contextmenu',e=>{if(e.target.closest('#pageMg,.pgtog,.pgdot'))return;const h=hitAt(e.clientX,e.clientY);if(!h)return;e.preventDefault();
- $('pageLay').querySelectorAll('.sel').forEach(x=>x.classList.remove('sel'));$('pageLay').querySelectorAll(hitSel(h)).forEach(x=>x.classList.add('sel'));pageHelp(h)});
+let longAt=0;   // when a long press last opened a passage: Android then also sends contextmenu, which mustn't open it twice
+function helpAt(x,y){const h=hitAt(x,y);if(!h)return false;
+ $('pageLay').querySelectorAll('.sel').forEach(x=>x.classList.remove('sel'));$('pageLay').querySelectorAll(hitSel(h)).forEach(x=>x.classList.add('sel'));pageHelp(h);return true}
+$('pageImg').addEventListener('contextmenu',e=>{if(e.target.closest('#pageMg,.pgtog,.pgdot'))return;
+ if(Date.now()-longAt<1500){e.preventDefault();return}
+ if(hitAt(e.clientX,e.clientY)){e.preventDefault();helpAt(e.clientX,e.clientY)}});
 function closePop(){$('pagePop').hidden=true;$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
 $('layTog').onchange=()=>{$('pageLay').classList.toggle('off',!$('layTog').checked);prefs.lay=$('layTog').checked;savePrefs();if(!$('layTog').checked)closePop()};
 $('popTog').checked=false;$('popTog').onchange=()=>{prefs.pop=$('popTog').checked;savePrefs();if(!prefs.pop)$('pagePop').hidden=true};
@@ -1428,20 +1432,23 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
  b.scrollLeft=cx*z-b.clientWidth/2;b.scrollTop=cy*z-b.clientHeight/2;pgFit()}
 // Drag to move the page inside its frame (mouse, pen or touch).
 (function pan(){const b=$('pageImg');let st=null;
- b.addEventListener('pointerdown',e=>{if(e.button!==0||e.target.closest('#pageMg,.pgtog'))return;st={x:e.clientX,y:e.clientY,l:b.scrollLeft,t:b.scrollTop,moved:false};b.setPointerCapture(e.pointerId)});
+ // On touch and pen, holding still for half a second is a long press: it opens the passage (Safari on iPhone and
+ // iPad never sends contextmenu for one), and the release is then not a tap.
+ b.addEventListener('pointerdown',e=>{if(e.button!==0||e.target.closest('#pageMg,.pgtog'))return;st={x:e.clientX,y:e.clientY,l:b.scrollLeft,t:b.scrollTop,moved:false};try{b.setPointerCapture(e.pointerId)}catch{}
+  if(e.pointerType!=='mouse'&&!e.target.closest('.pgdot')){const s0=st;s0.timer=setTimeout(()=>{if(st!==s0||s0.moved)return;if(helpAt(s0.x,s0.y)){s0.long=true;longAt=Date.now();navigator.vibrate?.(15)}},500)}});
  b.addEventListener('pointermove',e=>{if(!st){if(e.pointerType==='mouse'&&!e.target.closest('#pageMg,.pgtog'))hover(e.clientX,e.clientY);return}
-  if(!st.moved&&Math.hypot(e.clientX-st.x,e.clientY-st.y)>6){st.moved=true;b.classList.add('grabbing')}
+  if(!st.moved&&!st.long&&Math.hypot(e.clientX-st.x,e.clientY-st.y)>6){st.moved=true;clearTimeout(st.timer);b.classList.add('grabbing')}
   if(st.moved){b.scrollLeft=st.l-(e.clientX-st.x);b.scrollTop=st.t-(e.clientY-st.y)}});
  // A press that doesn't move is a tap on the page: the outline and the shiur go to the line or
  // comment under it, and its text opens.
- b.addEventListener('pointerup',e=>{const tap=st&&!st.moved;if(st&&st.moved)skimmed(skimKey('page'));st=null;b.classList.remove('grabbing');if(!tap)return;
+ b.addEventListener('pointerup',e=>{if(st)clearTimeout(st.timer);if(st&&st.long){st=null;return}const tap=st&&!st.moved;if(st&&st.moved)skimmed(skimKey('page'));st=null;b.classList.remove('grabbing');if(!tap)return;
   const dot=document.elementFromPoint(e.clientX,e.clientY)?.closest('.pgdot');if(dot){pgDot(dot);return}   // the pointer is captured, so not e.target
   const h=hitAt(e.clientX,e.clientY),L=layOf(amudShown),l=h&&(h.l!=null?h.l:L.c[h.c].on);
   const o=l&&!$('pageLay').classList.contains('off')?D.order[l]:null;
   if(o!=null){jumpAudio(o);textHold=Date.now()+2500;   // the audio with the outline, as on the text
    visibleModes().filter(x=>x!=='page').forEach(x=>paneToLine(x,l,o,false))}   // the other pane before the outline (fromPane)
   tapPage(e.clientX,e.clientY);if(o!=null)outHold=Date.now()+2000});
- b.addEventListener('pointercancel',()=>{st=null;b.classList.remove('grabbing')});
+ b.addEventListener('pointercancel',()=>{if(st)clearTimeout(st.timer);st=null;b.classList.remove('grabbing')});
  b.addEventListener('pointerleave',()=>{if(!st){hovEl=null;drawHover(null);b.style.cursor=''}});
  // wheel/trackpad scrolling of the page counts as the reader moving it
  b.addEventListener('wheel',()=>pageTapHold=Date.now()+1500,{passive:true})})();

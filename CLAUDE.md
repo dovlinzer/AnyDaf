@@ -2118,7 +2118,8 @@ don't move the outline or audio (`xrClick`). Rebuild `xrefs/site/` and the site 
 (`drawPageXr`, `pgFit`, `pgShut`): as in the text's margin, a panel of the sources beside their lines, inside the page
 wrap so it moves with the page when scrolled or zoomed. It covers only the page's outer margin, from a little past the
 layout's rightmost Rashi/Tosafot box to the page's right edge, so at every zoom it starts close to the commentary
-(at least 4.5rem; dots scale with `--pz`). A right-click (long press where the browser offers it) on the Gemara, Rashi or Tosafot on the
+(at least 4.5rem; dots scale with `--pz`). A right-click, or on a touch screen a half-second long press (our own timer in `pan()`, since Safari on
+iPhone/iPad sends no contextmenu; Android's follow-up contextmenu is swallowed via `longAt`), on the Gemara, Rashi or Tosafot on the
 daf page opens that one passage from Sefaria in the source window, and moves nothing else (a plain tap still moves the
 outline and audio) (`pageHelp`; א / אA / A, no surrounding section: a comment is found among its line's comments by its
 dibbur ha'matchil). Sefaria's English for Rashi and Tosafot is sparse (none on Bava Metzia 11a, for one); then the
