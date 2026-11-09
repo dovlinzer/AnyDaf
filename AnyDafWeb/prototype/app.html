@@ -1040,6 +1040,11 @@ function showPageXr(dot){const am=xrPage.data.amudim[amudShown]||{},side=$('page
  // over the scan's frame, the list starting level with the dot where it fits
  const f=$('pageImg'),fr=f.getBoundingClientRect(),pr=f.offsetParent.getBoundingClientRect();
  side.style.top=(fr.top-pr.top+1)+'px';side.style.right=(pr.right-$('pageXr').getBoundingClientRect().left)+'px';   // up to the dots, so the others stay tappable
+ // as wide as the page's outer margin: from where Rashi/Tosafot end on the right (the layout's
+ // rightmost commentary box) to the dots; within 5-9.5rem when the page is zoomed or that edge is out of view
+ const L=layOf(amudShown),ir=$('pageEl').getBoundingClientRect(),stripL=$('pageXr').getBoundingClientRect().left,rem=parseFloat(getComputedStyle(document.documentElement).fontSize);
+ const edge=L?Math.max(...L.c.flatMap(c=>c.boxes.map(b=>b[0]+b[2])),...Object.values(L.g).flat().map(b=>b[0]+b[2])):null;
+ side.style.width=Math.max(5*rem,Math.min(9.5*rem,edge?stripL-(ir.left+edge*ir.width)-3:9.5*rem))+'px';
  side.style.height=(fr.height-2)+'px';side.hidden=false;
  const list=$('pageSideList'),want=dot.getBoundingClientRect().top-fr.top-28;
  list.style.marginTop=Math.max(0,Math.min(want,fr.height-list.offsetHeight-48))+'px'}

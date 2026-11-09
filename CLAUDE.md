@@ -2116,7 +2116,8 @@ this daf", which opens it in the site at the line (`xrLand`); ctrl/cmd-click ope
 don't move the outline or audio (`xrClick`). Rebuild `xrefs/site/` and the site after any new corrections. On the daf page
 (`drawPageXr`, `showPageXr`): a thin strip beside the scan (the scans' own margins are full of print), one stack of
 dots per Gemara line with sources at its first printed row (lines starting on one row share a stack); a tap marks the
-line and slides in a narrow panel from the right, over the scan's edge up to the dots, with the line's sources laid out
+line and slides in a narrow panel from the right, covering only the page's outer margin (from the layout's rightmost
+Rashi/Tosafot box to the dots; 5-9.5rem), with the line's sources laid out
 as in the text's margin, level with the dot (`#pageSide`; a second tap, ×, a tap on the scan or turning the amud closes it); hidden with Settings "Off". The overlay and `hitAt` measure the
 scan (`#pageEl`), not the wrap, which is wider by the strip (`--xrw`). Not yet (TODO.md): links to the whole amud (line 0), the letter marks on the Gemara's words, Hebrew book
 names in the Hebrew interface.
