@@ -2127,7 +2127,8 @@ Hebrew shows with a note. each Hebrew word there looks itself up in Sefaria's di
 (`/api/words`; a Gemara word first shows Steinsaltz's gloss of it in that line, from the saved `hx`: his bold run with the word
 and what follows, usually a bracketed translation (`steinFor`); then an entry for the whole word (Klein's מִדְּרַבָּנָן)
 before any for its root, then forms and entries ranked by the longest form of the word the entry quotes, then Jastrow;
-hitpael/itpe'el of sibilant roots handled (מִשְׁתְּבַע → שבע, `META`); `wordForms` tries the word, then prefixes, suffixes and verb prefixes off, a final ה/א
+hitpael/itpe'el of sibilant roots handled (מִשְׁתְּבַע → שבע, `META`); a Jastrow entry that says "as preced." / "v. next w." shows that neighbouring entry
+(`prev_hw`/`next_hw`) at its top, and a bare "(preced.)" gets a button to it; `wordForms` tries the word, then prefixes, suffixes and verb prefixes off, a final ה/א
 restored, matres dropped; up to 3 forms with entries, the rest offered as "Other possible forms"; a Jastrow entry that
 is only "v. X" is replaced by X's entry). Tested on 20 words from BM 11a: the right root first or among the others for
 about 17 and each line's block starts level with the line, or just below
