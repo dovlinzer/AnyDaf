@@ -1785,7 +1785,8 @@ Yevamot 33b). `build_prototype.py`'s `page_layout()` puts a compact overlay per 
 daf's data file (`layouts[amud] = {g: {label: boxes}, c: [{who, on, boxes, dh, text}], rough}`,
 boxes as fractions of the page so any image size fits; comment text is Sefaria's full Vilna text,
 split at the dibbur ha'matchil). In `app.html`'s Daf pane: an SVG over the scan marks the current
-section's Gemara lines with one blue border, no fill (`.secp`, author 2026-11-08; not when the outline is off
+section's Gemara lines with one blue border, no fill (`.secp`; `rowHulls` merges each printed row's boxes first,
+or the gaps between segments on a row show as little holes; author 2026-11-08; not when the outline is off
 screen, body class `textonly`; the Rashi/Tosafot on those lines were tinted amber until then, dropped as distracting); following the
 outline turns to an amud the section is on (staying on the one in view if the section is on it)
 and scrolls its first line into view; a tap (a press that doesn't move, so dragging still pans)
@@ -2117,8 +2118,10 @@ don't move the outline or audio (`xrClick`). Rebuild `xrefs/site/` and the site 
 (`drawPageXr`, `pgFit`, `pgShut`): as in the text's margin, a panel of the sources beside their lines, inside the page
 wrap so it moves with the page when scrolled or zoomed. It covers only the page's outer margin (from the layout's
 rightmost Rashi/Tosafot box to the strip; 5-9.5rem) and each line's block starts level with the line, or just below
-the block above when that runs long. Its arrow (›, sticky at the top of the view) folds it to a thin strip of dots
-(`#pageXr`, one stack per Gemara line at its first printed row); the strip's ‹ or a dot reopens it. Open or shut is
+the block above when that runs long. Each line with sources has a stack of dots in the gutter between the Gemara and the
+Rashi/Tosafot on its right, at its first printed row (`#pageDots`); pointing at a block lights its dot, a dot opens the
+panel and lights its block. The arrow (›, sticky at the top of the view) folds the panel; the strip's ‹ (`#pageXr`)
+or a dot reopens it. Open or shut is
 remembered apart from the text's (`prefs.pgShut`); hidden with Settings "Off". The panel and arrows don't start a
 pan, so their clicks work. The overlay and `hitAt` measure the scan (`#pageEl`), not the wrap, which is wider by the
 strip (`--xrw`). Not yet (TODO.md): links to the whole amud (line 0), the letter marks on the Gemara's words, Hebrew book

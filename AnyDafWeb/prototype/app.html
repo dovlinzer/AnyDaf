@@ -241,9 +241,12 @@ body.textonly .lay .secp{display:none}
    the colors are fixed. A tap lists the line's sources in the box under the page. */
 .pgxr{position:absolute;top:0;bottom:0;right:0;width:var(--xrw,18px);border-left:1px solid #E4E6EC}
 body.xr-off .pgxr{display:none}
-.pgdot{position:absolute;left:4px;display:flex;flex-direction:column;gap:2px;padding:2px;cursor:pointer;border-radius:4px}
-.pgdot:hover{background:#E6EEFC}
-.pgdot i{width:6px;height:6px;border-radius:50%;display:block;background:var(--k)}
+.pgdots{position:absolute;inset:0 var(--xrw,18px) 0 0;pointer-events:none}
+body.xr-off .pgdots{display:none}
+/* in the gutter between the Gemara and the Rashi/Tosafot on its right, at the line's first printed row */
+.pgdot{position:absolute;transform:translateX(-50%);display:flex;flex-direction:column;gap:1px;padding:1px;cursor:pointer;border-radius:3px;pointer-events:auto}
+.pgdot:hover,.pgdot.on{background:#C9D8F5}
+.pgdot i{width:5px;height:5px;border-radius:50%;display:block;background:var(--k);box-shadow:0 0 0 1px #fff}
 .pgdot .xc,.pagepop .xc{--k:#3A62A8}.pgdot .xc.ms,.pagepop .xc.ms{--k:#9A6212}.pgdot .xc.v,.pagepop .xc.v{--k:#6B4FA0}
 /* Open (the default), the sources sit beside their lines in a panel over the page's outer margin, from
    where Rashi/Tosafot end to the dots, and move with the page; the arrow folds it to the dots (prefs.pgShut,
@@ -253,9 +256,8 @@ body.xr-off .pgxr{display:none}
 .pgmg .pgm{position:absolute;left:6px;right:5px}
 .pgmg .pgm+.pgm{}
 .pgmg .xpl+.xpl{margin-top:4px}
-.pgmg .pgm:hover{background:color-mix(in srgb,var(--blue) 6%,transparent);border-radius:3px}
+.pgmg .pgm:hover,.pgmg .pgm.on{background:color-mix(in srgb,var(--blue) 6%,transparent);border-radius:3px}
 body.pg-shut .pgmg,body.xr-off .pgmg{display:none!important}
-.pgdot{display:none}body.pg-shut .pgdot{display:flex}
 /* the fold arrows ride at the top of the view: › on the panel, ‹ on the dots' strip */
 .pgtog{position:sticky;top:4px;height:0;z-index:4}
 .pgtog button{position:absolute;right:2px;top:0;width:22px;height:22px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--muted);font:600 14px/1 var(--sans);cursor:pointer;padding:0}
@@ -669,7 +671,7 @@ __SPRITE__
   <div class="pane" id="pagePane" hidden><div class="page">
    <div class="pagebar"><span class="folio" id="folio"></span><span class="amudnav"><button type="button" class="navb" id="amudPrev" aria-label="Previous amud" title="Previous amud">‹</button><div class="seg" id="amudSeg" role="group" aria-label="Amud" hidden></div><button type="button" class="navb" id="amudNext" aria-label="Next amud" title="Next amud">›</button></span>
     <input type="checkbox" id="layTog" checked hidden><input type="checkbox" id="popTog" hidden><span class="laynote" id="layNote"></span></div>
-   <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg><div class="pgxr" id="pageXr"></div><div class="pgmg" id="pageMg"></div></div></div>
+   <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg><div class="pgxr" id="pageXr"></div><div class="pgdots" id="pageDots"></div><div class="pgmg" id="pageMg"></div></div></div>
    <div class="pagepop" id="pagePop" hidden role="status"></div>
   </div></div>
   <div class="foot" id="gemFoot"></div>
@@ -1005,7 +1007,7 @@ function drawLayout(a){const L=layOf(a),svg=$('pageLay');closePop();hovEl=null;
 function markLayout(s){const L=layOf(amudShown);if(!L||!s)return;const on=o=>s.a!=null&&o!=null&&o>=s.a&&o<=s.b;
  $('pageLay').querySelectorAll('rect').forEach(el=>{const l=el.dataset.l??L.c[+el.dataset.c].on;el.classList.toggle('on',on(D.order[l]))});
  $('pageLay').querySelectorAll('.secp').forEach(e=>e.remove());
- const bs=Object.entries(L.g).filter(([l])=>on(D.order[l])).flatMap(([,b])=>b);if(bs.length)$('pageLay').prepend(outlinePath(bs,'secp'))}
+ const bs=Object.entries(L.g).filter(([l])=>on(D.order[l])).flatMap(([,b])=>b);if(bs.length)$('pageLay').prepend(outlinePath(rowHulls(bs),'secp'))}
 // Stay on the amud in view when the section is on it; otherwise its first amud with live text.
 function pageAmudFor(s){const inRange=a=>{const L=layOf(a);return L&&Object.keys(L.g).some(l=>{const o=D.order[l];return o!=null&&o>=s.a&&o<=s.b})};
  if(amudShown&&inRange(amudShown))return amudShown;
@@ -1033,12 +1035,18 @@ function drawHover(h){const svg=$('pageLay');svg.querySelectorAll('.hovp').forEa
 // Margin sources beside the scan: one stack of dots per Gemara line that has sources, at the line's
 // first printed row; lines starting on the same row share a stack.
 var xrPage=null;   // var: drawLayout can run before this line
-function drawPageXr(a){const box=$('pageXr'),mg=$('pageMg');box.innerHTML=mg.innerHTML='';const L=layOf(a);
+function drawPageXr(a){const box=$('pageXr'),dots=$('pageDots'),mg=$('pageMg');box.innerHTML=dots.innerHTML=mg.innerHTML='';const L=layOf(a);
  if(!L||!xrPage||xrPage.d!==D||!a)return;const am=xrPage.data.amudim[a]||{},groups=[];
- Object.entries(L.g).map(([l,bs])=>[l,Math.min(...bs.map(b=>b[1])),am[l.split('.')[1]]]).filter(x=>x[2]&&x[1]<Infinity)
-  .sort((x,y)=>x[1]-y[1]).forEach(([l,y,rows])=>{const g=groups.at(-1);
-   if(g&&y-g.y<.012){g.l.push(l);rows.forEach(r=>g.k.add(r[0]))}else groups.push({y,l:[l],k:new Set(rows.map(r=>r[0]))})});
- box.innerHTML=`<div class="pgtog"><button type="button" title="${esc(tr('Show the sources'))}" aria-label="${esc(tr('Show the sources'))}">‹</button></div>`+groups.map(g=>`<span class="pgdot" data-l="${esc(g.l.join(' '))}" style="top:calc(${(g.y*100).toFixed(3)}% - 1px)" title="${esc(tr('Show the sources'))}">`
+ Object.entries(L.g).map(([l,bs])=>[l,bs.reduce((m,b)=>b[1]<m[1]?b:m),am[l.split('.')[1]]]).filter(x=>x[2])
+  .sort((x,y)=>x[1][1]-y[1][1]).forEach(([l,fb,rows])=>{const g=groups.at(-1),y=fb[1];
+   if(g&&y-g.y<.012){g.l.push(l);rows.forEach(r=>g.k.add(r[0]))}else groups.push({y,h:fb[3],l:[l],k:new Set(rows.map(r=>r[0]))})});
+ // the gutter on the line's row: from the row's rightmost Gemara box to the nearest commentary box beyond it
+ const over=(b,g)=>b[1]<g.y+g.h&&b[1]+b[3]>g.y;
+ for(const g of groups){const gem=Object.values(L.g).flat().filter(b=>over(b,g)),right=Math.max(...gem.map(b=>b[0]+b[2]));
+  const com=L.c.flatMap(c=>c.boxes).filter(b=>over(b,g)&&b[0]>=right-.003).map(b=>b[0]);
+  g.x=com.length?Math.min(right+.012,(right+Math.min(...com))/2):right+.006}
+ box.innerHTML=`<div class="pgtog"><button type="button" title="${esc(tr('Show the sources'))}" aria-label="${esc(tr('Show the sources'))}">‹</button></div>`;
+ dots.innerHTML=groups.map(g=>`<span class="pgdot" data-l="${esc(g.l.join(' '))}" style="left:${(g.x*100).toFixed(3)}%;top:${(g.y*100).toFixed(3)}%" title="${esc(tr('Show the sources'))}">`
   +['em','ms','v'].filter(k=>g.k.has(k)).map(k=>`<i class="xc ${k}"></i>`).join('')+'</span>').join('');
  mg.innerHTML=`<div class="pgtog"><button type="button" title="${esc(tr('Hide the sources'))}" aria-label="${esc(tr('Hide the sources'))}">›</button></div>`+groups.map(g=>`<div class="pgm" data-l="${esc(g.l.join(' '))}" data-y="${g.y}">`+g.l.map(l=>{const k=xrSplit(am[l.split('.')[1]]);
   return '<div class="xpl">'+['em','ms','v'].filter(x=>k[x].length).map(x=>`<div class="xc ${x}" title="${esc(tr(XR_KIND[x]))}">${xrBody(x,k[x],true)}</div>`).join('')+'</div>'}).join('')+'</div>').join('');
@@ -1056,8 +1064,20 @@ pgShut(!!prefs.pgShut);
 $('pageImg').addEventListener('click',e=>{const t=e.target.closest('.pgtog button');if(t)pgShut(!document.body.classList.contains('pg-shut'))});
 $('pageMg').addEventListener('click',e=>{const a=e.target.closest('a[data-ref]');if(!a||e.metaKey||e.ctrlKey||e.shiftKey||e.button)return;e.preventDefault();xrOpen(a.dataset.ref,a.href)});
 // pointing at a block outlines its line on the page
-$('pageMg').addEventListener('mouseover',e=>{const b=e.target.closest('.pgm');const sel=b?'m'+b.dataset.l:null;if(sel===hovEl)return;hovEl=sel;drawHover(b?{l:b.dataset.l.split(' ')[0]}:null)});
+$('pageMg').addEventListener('mouseover',e=>{const b=e.target.closest('.pgm');const sel=b?'m'+b.dataset.l:null;if(sel===hovEl)return;hovEl=sel;drawHover(b?{l:b.dataset.l.split(' ')[0]}:null);
+ $('pageDots').querySelectorAll('.pgdot').forEach(d=>d.classList.toggle('on',!!b&&d.dataset.l===b.dataset.l))});
+$('pageMg').addEventListener('mouseleave',()=>{$('pageDots').querySelectorAll('.on').forEach(d=>d.classList.remove('on'));hovEl=null;drawHover(null)});
+// a dot opens the panel and lights its block (and the block's dot) for a moment
+function pgDot(dot){pgShut(false);const b=[...$('pageMg').querySelectorAll('.pgm')].find(x=>x.dataset.l===dot.dataset.l);if(!b)return;
+ [b,dot].forEach(x=>x.classList.add('on'));setTimeout(()=>[b,dot].forEach(x=>x.classList.remove('on')),1600)}
 // one border around the outside of a passage's line boxes (the hover and the line being read)
+// One box per printed row: the section's segments on a row meet with small gaps between them, which
+// the border would otherwise draw as little holes (author, 2026-11-08).
+function rowHulls(boxes){const out=[];
+ for(const b of [...boxes].sort((p,q)=>p[1]-q[1])){const c=b[1]+b[3]/2,r=out.find(o=>Math.abs(o[1]+o[3]/2-c)<Math.min(o[3],b[3])*.5);
+  if(r){const x0=Math.min(r[0],b[0]),y0=Math.min(r[1],b[1]),x1=Math.max(r[0]+r[2],b[0]+b[2]),y1=Math.max(r[1]+r[3],b[1]+b[3]);r.splice(0,4,x0,y0,x1-x0,y1-y0)}
+  else out.push([...b])}
+ return out}
 function outlinePath(boxes,cls){const bs=boxes.map(b=>[...b]).sort((a,b)=>a[1]-b[1]);
  for(let i=0;i<bs.length;i++){const b=bs[i],n=bs.find(o=>o[1]>b[1]+b[3]*.5);   // close the gap to the next line down
   if(n){const gap=n[1]-(b[1]+b[3]);if(gap>0&&gap<b[3])b[3]+=gap}}
@@ -1315,7 +1335,7 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
  // A press that doesn't move is a tap on the page: the outline and the shiur go to the line or
  // comment under it, and its text opens.
  b.addEventListener('pointerup',e=>{const tap=st&&!st.moved;if(st&&st.moved)skimmed(skimKey('page'));st=null;b.classList.remove('grabbing');if(!tap)return;
-  if(document.elementFromPoint(e.clientX,e.clientY)?.closest('.pgdot')){pgShut(false);return}   // a dot opens the panel (the pointer is captured, so not e.target)
+  const dot=document.elementFromPoint(e.clientX,e.clientY)?.closest('.pgdot');if(dot){pgDot(dot);return}   // the pointer is captured, so not e.target
   const h=hitAt(e.clientX,e.clientY),L=layOf(amudShown),l=h&&(h.l!=null?h.l:L.c[h.c].on);
   const o=l&&!$('pageLay').classList.contains('off')?D.order[l]:null;
   if(o!=null){jumpAudio(o);textHold=Date.now()+2500;   // the audio with the outline, as on the text
