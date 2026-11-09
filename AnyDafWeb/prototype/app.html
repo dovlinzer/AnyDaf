@@ -243,10 +243,15 @@ body.xr-off .pgxr{display:none}
 .pgdot:hover,.pgdot.on{background:#E6EEFC}
 .pgdot i{width:6px;height:6px;border-radius:50%;display:block;background:var(--k)}
 .pgdot .xc,.pagepop .xc{--k:#3A62A8}.pgdot .xc.ms,.pagepop .xc.ms{--k:#9A6212}.pgdot .xc.v,.pagepop .xc.v{--k:#6B4FA0}
-.pagepop .xpl{margin:0 0 6px}.pagepop .xpl+.xpl{margin-top:10px}
-.pagepop .xrl,body.xr-margin .pagepop .xrl{margin-top:4px;display:grid}
-.pagepop:has(.xpl){flex-shrink:0;max-height:45%}
-.pagepop .xrl .xkn{font:600 11px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--k)}
+/* the line's sources: a narrow panel sliding in from the right over the scan's edge, laid out as in the
+   text's margin (#pageSide; top and height set to the scan's frame in showPageXr) */
+.page{position:relative}
+.pgside{position:absolute;right:15px;width:9.5rem;box-sizing:border-box;background:var(--panel);border-left:1px solid var(--line);
+ box-shadow:-6px 0 18px rgba(20,30,60,.12);overflow:auto;padding:28px 10px 12px;z-index:3;animation:pgsideIn .18s ease-out}
+@keyframes pgsideIn{from{transform:translateX(30px);opacity:0}}
+.pgside .x{position:absolute;top:2px;right:4px;border:0;background:none;font-size:18px;color:var(--muted);cursor:pointer;padding:2px 6px}
+.pgside .xmg,body.xr-margin .pgside .xmg{display:block!important;position:static;width:auto}
+.pgside .xpl+.xpl{border-top:1px solid var(--line);margin-top:8px;padding-top:8px}
 .pagebar .laynote{font-size:12px;color:var(--amber)}
 .pagepop{position:relative;border:1px solid var(--line);border-radius:6px;background:var(--panel);box-shadow:var(--shadow);padding:10px 12px;padding-inline-end:34px;max-height:38%;overflow:auto;font-size:14px}
 .pagepop .x{position:absolute;top:4px;inset-inline-end:6px;border:0;background:none;font-size:18px;color:var(--muted);cursor:pointer;padding:2px 6px}
@@ -656,6 +661,7 @@ __SPRITE__
     <input type="checkbox" id="layTog" checked hidden><input type="checkbox" id="popTog" hidden><span class="laynote" id="layNote"></span></div>
    <div class="pageimg" id="pageImg"><div class="pagewrap" id="pageWrap"><img id="pageEl" alt=""><svg class="lay" id="pageLay" viewBox="0 0 1 1" preserveAspectRatio="none" aria-hidden="true"></svg><div class="pgxr" id="pageXr"></div></div></div>
    <div class="pagepop" id="pagePop" hidden role="status"></div>
+   <div class="pgside" id="pageSide" hidden><button class="x" type="button" aria-label="Close">×</button><div class="xmg" id="pageSideList"></div></div>
   </div></div>
   <div class="foot" id="gemFoot"></div>
   <button class="backaud" id="backText" type="button" hidden>↩ Back to the audio</button>
@@ -1023,15 +1029,20 @@ function drawPageXr(a){const box=$('pageXr');box.innerHTML='';const L=layOf(a);
    if(g&&y-g.y<.012){g.l.push(l);rows.forEach(r=>g.k.add(r[0]))}else groups.push({y,l:[l],k:new Set(rows.map(r=>r[0]))})});
  box.innerHTML=groups.map(g=>`<span class="pgdot" data-l="${esc(g.l.join(' '))}" style="top:calc(${(g.y*100).toFixed(3)}% - 1px)" title="${esc(tr('Sources'))}">`
   +['em','ms','v'].filter(k=>g.k.has(k)).map(k=>`<i class="xc ${k}"></i>`).join('')+'</span>').join('')}
-function showPageXr(dot){const L=layOf(amudShown),am=xrPage.data.amudim[amudShown]||{},pop=$('pagePop');
- $('pageXr').querySelectorAll('.on').forEach(e=>e.classList.remove('on'));dot.classList.add('on');
- $('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'));
+function showPageXr(dot){const am=xrPage.data.amudim[amudShown]||{},side=$('pageSide');
+ if(dot.classList.contains('on')&&!side.hidden){closePop();return}   // a second tap closes it
+ closePop();dot.classList.add('on');
  const labels=dot.dataset.l.split(' ');labels.forEach(l=>$('pageLay').querySelectorAll(hitSel({l})).forEach(e=>e.classList.add('sel')));
- pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+labels.map(l=>{const it=D.items.find(x=>x.l===l),g=xrSplit(am[l.split('.')[1]]||[]);
-  return `<div class="xpl">${it?`<p class="he" lang="he">${esc(it.he.split(/\s+/).slice(0,8).join(' '))}…</p>`:''}`
-   +['em','ms','v'].filter(k=>g[k].length).map(k=>`<div class="xrl xc ${k}"><span class="xkn">${esc(tr(XR_KIND[k]))}</span>${xrBody(k,g[k])}</div>`).join('')+'</div>'}).join('');
- pop.hidden=false;pop.querySelector('.x').onclick=closePop}
-$('pagePop').addEventListener('click',e=>{const a=e.target.closest('.xrl a');if(!a||e.metaKey||e.ctrlKey||e.shiftKey||e.button)return;e.preventDefault();xrOpen(a.dataset.ref,a.href)});
+ $('pageSideList').innerHTML=labels.map(l=>{const g=xrSplit(am[l.split('.')[1]]||[]);
+  return `<div class="xpl">`+['em','ms','v'].filter(k=>g[k].length).map(k=>`<div class="xc ${k}" title="${esc(tr(XR_KIND[k]))}">${xrBody(k,g[k],true)}</div>`).join('')+'</div>'}).join('');
+ // over the scan's frame, the list starting level with the dot where it fits
+ const f=$('pageImg'),fr=f.getBoundingClientRect(),pr=f.offsetParent.getBoundingClientRect();
+ side.style.top=(fr.top-pr.top+1)+'px';side.style.right=(pr.right-$('pageXr').getBoundingClientRect().left)+'px';   // up to the dots, so the others stay tappable
+ side.style.height=(fr.height-2)+'px';side.hidden=false;
+ const list=$('pageSideList'),want=dot.getBoundingClientRect().top-fr.top-28;
+ list.style.marginTop=Math.max(0,Math.min(want,fr.height-list.offsetHeight-48))+'px'}
+$('pageSide').querySelector('.x').onclick=()=>closePop();
+$('pageSide').addEventListener('click',e=>{const a=e.target.closest('a[data-ref]');if(!a||e.metaKey||e.ctrlKey||e.shiftKey||e.button)return;e.preventDefault();xrOpen(a.dataset.ref,a.href)});
 // one border around the outside of a passage's line boxes (the hover and the line being read)
 function outlinePath(boxes,cls){const bs=boxes.map(b=>[...b]).sort((a,b)=>a[1]-b[1]);
  for(let i=0;i<bs.length;i++){const b=bs[i],n=bs.find(o=>o[1]>b[1]+b[3]*.5);   // close the gap to the next line down
@@ -1063,7 +1074,7 @@ function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains(
  pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+html+(canPlay?'<button class="pfh" type="button" id="popPlay">▶ Play from here</button>':'');pop.hidden=false;
  if(!$('popTog').checked)pop.hidden=true;   // the line is still marked and the outline still moves
  pop.querySelector('.x').onclick=closePop;if(canPlay)$('popPlay').onclick=()=>playFrom(po)}
-function closePop(){$('pagePop').hidden=true;$('pageXr').querySelectorAll('.on').forEach(e=>e.classList.remove('on'));$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
+function closePop(){$('pagePop').hidden=true;$('pageSide').hidden=true;$('pageXr').querySelectorAll('.on').forEach(e=>e.classList.remove('on'));$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
 $('layTog').onchange=()=>{$('pageLay').classList.toggle('off',!$('layTog').checked);prefs.lay=$('layTog').checked;savePrefs();if(!$('layTog').checked)closePop()};
 $('popTog').checked=false;$('popTog').onchange=()=>{prefs.pop=$('popTog').checked;savePrefs();if(!prefs.pop)$('pagePop').hidden=true};
 $('layTog').checked=true;   // the page is always highlighted, and a tap shows no text box (author, 2026-10-15)
@@ -1291,6 +1302,7 @@ function applyPage(z){const b=$('pageImg'),old=parseFloat(b.style.getPropertyVal
  // comment under it, and its text opens.
  b.addEventListener('pointerup',e=>{const tap=st&&!st.moved;if(st&&st.moved)skimmed(skimKey('page'));st=null;b.classList.remove('grabbing');if(!tap)return;
   const dot=document.elementFromPoint(e.clientX,e.clientY)?.closest('.pgdot');if(dot){showPageXr(dot);return}   // the pointer is captured, so not e.target
+  if(!$('pageSide').hidden)closePop();   // a tap on the scan closes the sources panel
   const h=hitAt(e.clientX,e.clientY),L=layOf(amudShown),l=h&&(h.l!=null?h.l:L.c[h.c].on);
   const o=l&&!$('pageLay').classList.contains('off')?D.order[l]:null;
   if(o!=null){jumpAudio(o);textHold=Date.now()+2500;   // the audio with the outline, as on the text
