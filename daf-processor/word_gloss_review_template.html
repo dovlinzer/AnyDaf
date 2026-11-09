@@ -6,17 +6,17 @@
 :root{
   --bg:#f6f7f9; --card:#ffffff; --fg:#1d2433; --muted:#5c6577; --line:#dde1e8;
   --son:#1f6f8b; --son-soft:#e3f0f5; --hai:#9a5b13; --hai-soft:#f7ecdc;
-  --bad:#b3261e; --bad-soft:#fbe4e2; --diff:#fff7d6;
+  --bad:#b3261e; --bad-soft:#fbe4e2; --diff:#fff7d6; --gdiff:#e8f0ff;
   --hebrew:"Frank Ruhl Libre","Times New Roman",serif; --sans:"Source Sans 3",system-ui,sans-serif;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --bg:#12161d; --card:#1a2029; --fg:#e4e8ef; --muted:#9aa3b2; --line:#2c3440;
   --son:#6fc0dc; --son-soft:#16303a; --hai:#e0a35a; --hai-soft:#3a2a15;
-  --bad:#ff8a80; --bad-soft:#3d1c1a; --diff:#2d2a17; color-scheme:dark}}
+  --bad:#ff8a80; --bad-soft:#3d1c1a; --diff:#2d2a17; --gdiff:#1c2742; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#12161d; --card:#1a2029; --fg:#e4e8ef; --muted:#9aa3b2; --line:#2c3440;
   --son:#6fc0dc; --son-soft:#16303a; --hai:#e0a35a; --hai-soft:#3a2a15;
-  --bad:#ff8a80; --bad-soft:#3d1c1a; --diff:#2d2a17; color-scheme:dark}
+  --bad:#ff8a80; --bad-soft:#3d1c1a; --diff:#2d2a17; --gdiff:#1c2742; color-scheme:dark}
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--fg);font:15px/1.5 var(--sans);margin:0}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--card)}
@@ -42,6 +42,8 @@ table{border-collapse:collapse;width:100%;font-size:14px}
 th{font:600 12px var(--sans);text-align:start;color:var(--muted);padding:4px 6px;border-bottom:1px solid var(--line)}
 td{padding:3px 6px;border-bottom:1px solid var(--line);vertical-align:top}
 tr.diff td{background:var(--diff)}
+tr.gdiff td{background:var(--gdiff)}
+.tabs .n{font-weight:400;opacity:.75;margin-inline-start:4px}
 td.w{font:500 1.1rem var(--hebrew);direction:rtl;text-align:right;white-space:nowrap;width:1%}
 .cell{cursor:pointer;border-radius:4px;padding:2px 6px;display:block;min-height:1.6em}
 .cell .lm{font-family:var(--hebrew);font-size:1.05rem;direction:rtl;unicode-bidi:isolate}
@@ -59,7 +61,7 @@ td.w{font:500 1.1rem var(--hebrew);direction:rtl;text-align:right;white-space:no
 <div class="wrap">
   <header>
     <h1>Word Gloss Pilot</h1>
-    <p class="lede">Every word of 12 amudim, glossed by two models, <span class="k-son">Sonnet 5.5</span> and <span class="k-hai">Haiku 5.5</span>, and linked to an entry in Jastrow's dictionary. Click a gloss or an entry to mark it wrong; click again to unmark. Yellow rows are where the two models chose different Jastrow entries.</p>
+    <p class="lede">Every word of 12 amudim, glossed by two models, <span class="k-son">Sonnet 5.5</span> and <span class="k-hai">Haiku 5.5</span>, and linked to an entry in Jastrow's dictionary. Click a gloss or an entry to mark it wrong; click again to unmark. Blue rows are words whose two glosses share no word, the ones worth checking; yellow rows are where the models chose different Jastrow entries. The Show menu picks which rows appear.</p>
     <details class="how" open>
       <summary>Where each part comes from</summary>
       <ol>
@@ -74,7 +76,7 @@ td.w{font:500 1.1rem var(--hebrew);direction:rtl;text-align:right;white-space:no
     <div class="tabs" id="tabs" role="toolbar" aria-label="Amud"></div>
     <div class="row2">
       <span class="score">Marked wrong: <span class="k-son">Sonnet</span> <b id="sc-son">0</b> · <span class="k-hai">Haiku</span> <b id="sc-hai">0</b> of <b id="sc-n">0</b> words in this amud</span>
-      <label><input type="checkbox" id="onlyDiff"> Only rows with different entries</label>
+      <label for="view">Show</label> <select id="view"><option value="gloss">Glosses that differ in meaning</option><option value="entry">Different Jastrow entries</option><option value="all">Every word</option></select>
       <span class="save" id="save"></span>
     </div>
   </div>
@@ -90,7 +92,8 @@ const plain = s => (s || "").replace(/[֑-ׇ"'׳״]/g, "");
 try{ cur = Math.min(DATA.length-1, +localStorage.getItem("wgTab") || 0); }catch(e){}
 
 function tabs(){
-  $("tabs").innerHTML = DATA.map((d,i)=>`<button type="button" data-i="${i}" aria-pressed="${i===cur}">${esc(d.name)}</button>`).join("");
+  const v = $("view").value, cnt = d => v==="all" ? "" : `<span class="n">${d.lines.reduce((a,l)=>a+l.w.filter(r=>show(r,v)).length,0)}</span>`;
+  $("tabs").innerHTML = DATA.map((d,i)=>`<button type="button" data-i="${i}" aria-pressed="${i===cur}">${esc(d.name)}${cnt(d)}</button>`).join("");
 }
 function cell(id, key, v){
   const on = marks[id]?.[key] ? " bad" : "";
@@ -102,19 +105,21 @@ function ecell(id, key, v){
   const body = v ? `<span class="hwd" lang="he">${esc(v[0])}</span>${esc(v[1])}…` : `<span class="none">no entry chosen</span>`;
   return `<span class="cell ent${on}" tabindex="0" role="button" data-k="${key}" title="Mark this Jastrow entry wrong">Jastrow: ${body}</span>`;
 }
+const ediff = r => (r[3]?.[0] || "") !== (r[4]?.[0] || "");
+const show = (r, v) => v==="all" || (v==="gloss" ? !!r[5] : ediff(r));
 function render(){
-  const d = DATA[cur], only = $("onlyDiff").checked;
+  const d = DATA[cur], v = $("view").value, only = v !== "all";
   $("main").innerHTML = d.lines.map(l => {
     const rows = l.w.map((r,i) => {
-      const diff = (r[3]?.[0] || "") !== (r[4]?.[0] || "");
-      if(only && !diff) return "";
-      return `<tr class="${diff?"diff":""}"><td class="w" lang="he">${esc(r[0])}</td>
+      if(!show(r, v)) return "";
+      const cls = r[5] && v!=="entry" ? "gdiff" : ediff(r) && v!=="gloss" ? "diff" : "";
+      return `<tr class="${cls}"><td class="w" lang="he">${esc(r[0])}</td>
         <td class="son">${cell(d.id, `${l.n}:${i}:sonnet`, r[1])}${ecell(d.id, `${l.n}:${i}:sonnet:e`, r[3])}</td><td class="hai">${cell(d.id, `${l.n}:${i}:haiku`, r[2])}${ecell(d.id, `${l.n}:${i}:haiku:e`, r[4])}</td></tr>`;
     }).join("");
     if(only && !rows) return "";
     return `<section class="line"><div class="lnum">Line ${l.n}</div><p class="he" lang="he">${esc(l.he)}</p><p class="en">${esc(l.en)}</p>
       <div class="tbl"><table><thead><tr><th>Word</th><th class="k-son">Sonnet 5.5</th><th class="k-hai">Haiku 5.5</th></tr></thead><tbody>${rows}</tbody></table></div></section>`;
-  }).join("") || `<p class="lede" style="margin-top:16px">No disagreements in this amud.</p>`;
+  }).join("") || `<p class="lede" style="margin-top:16px">Nothing to show in this amud.</p>`;
   score();
 }
 function score(){
@@ -141,7 +146,8 @@ $("tabs").addEventListener("click", e => { const b = e.target.closest("button");
   cur = +b.dataset.i; try{ localStorage.setItem("wgTab", cur); }catch(e){} tabs(); render(); scrollTo(0,0); });
 $("main").addEventListener("click", e => { const c = e.target.closest(".cell"); if(c) toggle(c); });
 $("main").addEventListener("keydown", e => { const c = e.target.closest(".cell"); if(c && (e.key==="Enter"||e.key===" ")){ e.preventDefault(); toggle(c); } });
-$("onlyDiff").addEventListener("change", render);
+$("view").addEventListener("change", () => { try{ localStorage.setItem("wgView", $("view").value); }catch(e){} tabs(); render(); });
+try{ const v = localStorage.getItem("wgView"); if(v) $("view").value = v; }catch(e){}
 try{ marks = JSON.parse(localStorage.getItem("wgMarks")||"{}"); }catch(e){}
 tabs(); render();
 (async()=>{

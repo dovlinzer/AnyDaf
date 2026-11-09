@@ -15,6 +15,20 @@ from pathlib import Path
 from word_gloss_pilot import OUT, PILOT, amud_lines, clean
 
 TAGS = re.compile(r"<[^>]+>")
+STOP = set("a an the of to in on is it he she they that this and but for from by with as be was are at not do does "
+           "did will would there its his her one who which what".split())
+
+
+def toks(t):
+    return {x.rstrip("s") for x in re.findall(r"[a-z]+", (t or "").lower()) if x not in STOP}
+
+
+def gloss_differs(a, b):
+    """True when the two glosses share no content word (or one is missing): the ones worth a human look."""
+    if not a or not b:
+        return True
+    x, y = a[1], b[1]
+    return x.lower().strip() != y.lower().strip() and not (toks(x) & toks(y)) and bool(toks(x) or toks(y))
 plain = lambda w: re.sub(r"[\u0591-\u05C7\"'׳״]", "", w or "")
 
 
@@ -45,6 +59,7 @@ def main(outdir: str):
                 for k in ("sonnet", "haiku"):
                     hw = (ent[k].get(cid) or {}).get(iid)
                     row.append([hw, defs.get(hw, "")] if hw else None)
+                row.append(1 if gloss_differs(row[1], row[2]) else 0)
                 rows.append(row)
             lines.append({"n": s["n"], "he": clean(s.get("he")), "en": clean(s.get("en")), "w": rows})
         data.append({"id": cid, "name": f"{t} {a}", "lines": lines})
