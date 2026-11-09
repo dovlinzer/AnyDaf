@@ -1785,8 +1785,8 @@ Yevamot 33b). `build_prototype.py`'s `page_layout()` puts a compact overlay per 
 daf's data file (`layouts[amud] = {g: {label: boxes}, c: [{who, on, boxes, dh, text}], rough}`,
 boxes as fractions of the page so any image size fits; comment text is Sefaria's full Vilna text,
 split at the dibbur ha'matchil). In `app.html`'s Daf pane: an SVG over the scan marks the current
-section's Gemara lines in blue (not when the outline is off screen, body class `textonly`; the
-Rashi/Tosafot on those lines were tinted amber until 2026-11-08, dropped as distracting); following the
+section's Gemara lines with one blue border, no fill (`.secp`, author 2026-11-08; not when the outline is off
+screen, body class `textonly`; the Rashi/Tosafot on those lines were tinted amber until then, dropped as distracting); following the
 outline turns to an amud the section is on (staying on the one in view if the section is on it)
 and scrolls its first line into view; a tap (a press that doesn't move, so dragging still pans)
 on a Gemara line moves the outline there and shows the line's Hebrew and English, and on a
@@ -2114,12 +2114,14 @@ and Gifts 4:9", "SA CM 268:5, 243:23", `xrWorks`) with a hairline between Rambam
 marks, the margin separates rulings with space. A Bavli source's window also has "Go to
 this daf", which opens it in the site at the line (`xrLand`); ctrl/cmd-click opens Sefaria. Clicks in the lists
 don't move the outline or audio (`xrClick`). Rebuild `xrefs/site/` and the site after any new corrections. On the daf page
-(`drawPageXr`, `showPageXr`): a thin strip beside the scan (the scans' own margins are full of print), one stack of
-dots per Gemara line with sources at its first printed row (lines starting on one row share a stack); a tap marks the
-line and slides in a narrow panel from the right, covering only the page's outer margin (from the layout's rightmost
-Rashi/Tosafot box to the dots; 5-9.5rem), with the line's sources laid out
-as in the text's margin, level with the dot (`#pageSide`; a second tap, ×, a tap on the scan or turning the amud closes it); hidden with Settings "Off". The overlay and `hitAt` measure the
-scan (`#pageEl`), not the wrap, which is wider by the strip (`--xrw`). Not yet (TODO.md): links to the whole amud (line 0), the letter marks on the Gemara's words, Hebrew book
+(`drawPageXr`, `pgFit`, `pgShut`): as in the text's margin, a panel of the sources beside their lines, inside the page
+wrap so it moves with the page when scrolled or zoomed. It covers only the page's outer margin (from the layout's
+rightmost Rashi/Tosafot box to the strip; 5-9.5rem) and each line's block starts level with the line, or just below
+the block above when that runs long. Its arrow (›, sticky at the top of the view) folds it to a thin strip of dots
+(`#pageXr`, one stack per Gemara line at its first printed row); the strip's ‹ or a dot reopens it. Open or shut is
+remembered apart from the text's (`prefs.pgShut`); hidden with Settings "Off". The panel and arrows don't start a
+pan, so their clicks work. The overlay and `hitAt` measure the scan (`#pageEl`), not the wrap, which is wider by the
+strip (`--xrw`). Not yet (TODO.md): links to the whole amud (line 0), the letter marks on the Gemara's words, Hebrew book
 names in the Hebrew interface.
 Errors found in Sefaria's
 data, for reporting to Sefaria, are collected in `daf-processor/outline/sefaria_corrections.md`.
