@@ -1785,7 +1785,8 @@ Yevamot 33b). `build_prototype.py`'s `page_layout()` puts a compact overlay per 
 daf's data file (`layouts[amud] = {g: {label: boxes}, c: [{who, on, boxes, dh, text}], rough}`,
 boxes as fractions of the page so any image size fits; comment text is Sefaria's full Vilna text,
 split at the dibbur ha'matchil). In `app.html`'s Daf pane: an SVG over the scan marks the current
-section's Gemara lines in blue and the Rashi/Tosafot on those lines in amber; following the
+section's Gemara lines in blue (not when the outline is off screen, body class `textonly`; the
+Rashi/Tosafot on those lines were tinted amber until 2026-11-08, dropped as distracting); following the
 outline turns to an amud the section is on (staying on the one in view if the section is on it)
 and scrolls its first line into view; a tap (a press that doesn't move, so dragging still pans)
 on a Gemara line moves the outline there and shows the line's Hebrew and English, and on a
