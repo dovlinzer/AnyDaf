@@ -230,7 +230,7 @@ body.xr-off .pagewrap{--xrw:0px}
 .lay .g.on{fill:rgba(27,58,138,.15)}
 /* the Rashi/Tosafot beside the section are not tinted (author: distracting); with no outline on screen,
    the section's Gemara isn't either */
-body.textonly .lay .g.on{fill:transparent}
+body.textonly .lay .g.on:not(.aud):not(.sel){fill:transparent}   /* the line being read and a tapped line keep their fill */
 .lay .hovp{fill:none;stroke:#1B3A8A;stroke-width:1.5;stroke-linecap:square;vector-effect:non-scaling-stroke}
 .lay .hovp.c{stroke:#9A6212}
 .lay .sel{fill:rgba(27,58,138,.3)}
