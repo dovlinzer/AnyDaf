@@ -779,7 +779,7 @@ function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch
 // the code goes through tr(), keyed by the English.
 const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='he'||q==='en'){prefs.ui=q;savePrefs()}return prefs.ui==='he'?'he':'en'})();
 const RTL=UI==='he';
-const HEW={'Hebrew':'עברית','Sources':'מקורות','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
+const HEW={'Hebrew':'עברית','Sefaria has no English translation of this passage.':'אין בספריא תרגום לאנגלית לקטע זה.','Sources':'מקורות','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
  "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
@@ -1091,9 +1091,26 @@ function outlinePath(boxes,cls){const bs=boxes.map(b=>[...b]).sort((a,b)=>a[1]-b
   if(!on(i,j-1))seg(xs[i],ys[j],xs[i+1],ys[j]);if(!on(i,j+1))seg(xs[i],ys[j+1],xs[i+1],ys[j+1]);
   if(!on(i-1,j))seg(xs[i],ys[j],xs[i],ys[j+1]);if(!on(i+1,j))seg(xs[i+1],ys[j],xs[i+1],ys[j+1])}
  const p=document.createElementNS('http://www.w3.org/2000/svg','path');p.setAttribute('d',d);p.setAttribute('class',cls);return p}
+// Help with a passage on the daf page: a tap on the Gemara, Rashi or Tosafot opens it alone (Hebrew and English,
+// switchable as in the source window), from Sefaria. Rashi and Tosafot often have no English there; then only the
+// Hebrew shows, with a note.
+const heNorm=t=>(t||'').replace(/<[^>]+>/g,'').replace(/[֑-ׇ]/g,'').replace(/[^א-ת ]/g,' ').replace(/\s+/g,' ').trim();
+function pageHelp(h){const L=layOf(amudShown),T=TR[navAt.t];if(!L||!T)return;const book=T.text||T.name;
+ const one=(he,en,where)=>`<div class="xsrc-seg">${he?`<p class="he" lang="he">${xrClean(he)}</p>`:''}`
+  +(en?`<p class="en">${xrClean(en)}</p>`:`<p class="en"><i>${esc(tr('Sefaria has no English translation of this passage.'))}</i></p>`)+'</div>';
+ if(h.l!=null){const [am,n]=h.l.split('.'),ref=`${book} ${am}:${n}`;
+  xrOpen(ref,xrUrl(ref),{title:`${book} ${am}:${n}`,load:()=>xrApi(ref,0).then(d=>({html:one(xrFlat(d.he).join(' '),xrFlat(d.text).join(' ')),heRef:d.heRef}))});return}
+ const c=L.c[h.c],[am,n]=c.on.split('.'),who=c.who,lineRef=`${who} on ${book} ${am}:${n}`;
+ xrOpen(lineRef,xrUrl(lineRef),{title:`${RTL&&RASHI_HE[who]||who} · ${book} ${am}`,load:()=>xrApi(lineRef,0).then(d=>{
+  const he=xrFlat(d.he),en=xrFlat(d.text),key=heNorm(c.dh||c.text).split(' ').slice(0,4).join(' ');
+  let i=he.findIndex(x=>heNorm(x).startsWith(key));if(i<0)i=he.findIndex(x=>heNorm(x).includes(key));
+  const idx=i<0?he.map((_,k)=>k):[i];   // not found: all of this line's comments, still nothing beyond the line
+  if(i>=0)xrDlg.querySelector('.xsrc-out').href=xrUrl(`${lineRef}:${i+1}`);
+  return {html:idx.map(k=>one(he[k],en[k])).join(''),heRef:c.dh||d.heRef}})});}
 function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains('off')){closePop();return}
  $('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'));
  $('pageLay').querySelectorAll(hitSel(h)).forEach(e=>e.classList.add('sel'));
+ if(prefs.pageHelp!==false)pageHelp(h);
  const L=layOf(amudShown),pop=$('pagePop');let html='';
  const line=l=>D.items.find(it=>it.l===l);
  // Lines outside this daf's outline (the page shows the whole amud) belong to a neighbour's.
@@ -1280,10 +1297,11 @@ async function xrLoad(ref){const b=xrBavli(ref);
  const deep=!d.isSpanning&&from.length&&from.length===names.length&&typeof from[from.length-1]==='number';
  const lo=deep?from[from.length-1]:0,hi=deep?to[to.length-1]:0;
  return {html:xrSegs(d,k=>deep&&k>=lo&&k<=hi,deep,''),heRef:d.heRef}}
-function xrOpen(ref,href){if(!xrDlg)xrBuild();xrCur=ref;const q=s=>xrDlg.querySelector(s),body=q('.xsrc-body');
- q('.xsrc-title').textContent=xrLabel(ref);q('.xsrc-he').textContent='';q('.xsrc-out').href=href||xrUrl(ref);
- q('.xsrc-go').hidden=!xrBavli(ref);body.innerHTML=`<p class="xsrc-msg">${esc(tr('Loading…'))}</p>`;if(!xrDlg.open)xrDlg.showModal();
- xrLoad(ref).then(({html,heRef})=>{if(xrCur!==ref)return;q('.xsrc-he').textContent=heRef||'';
+// opt (the daf page's "help" window): {title, load, go:false} shows one passage, not its whole section
+function xrOpen(ref,href,opt){if(!xrDlg)xrBuild();xrCur=ref;const q=s=>xrDlg.querySelector(s),body=q('.xsrc-body');
+ q('.xsrc-title').textContent=opt&&opt.title||xrLabel(ref);q('.xsrc-he').textContent='';q('.xsrc-out').href=href||xrUrl(ref);
+ q('.xsrc-go').hidden=!!opt||!xrBavli(ref);body.innerHTML=`<p class="xsrc-msg">${esc(tr('Loading…'))}</p>`;if(!xrDlg.open)xrDlg.showModal();
+ (opt&&opt.load?opt.load():xrLoad(ref)).then(({html,heRef})=>{if(xrCur!==ref)return;q('.xsrc-he').textContent=heRef||'';
    body.innerHTML=html||`<p class="xsrc-msg">${esc(tr('Sefaria has no text for this reference.'))}</p>`;
    const h=body.querySelector('.hit');body.scrollTop=h?Math.max(0,h.offsetTop-body.offsetTop-12):0})
   .catch(()=>{if(xrCur===ref)body.innerHTML=`<p class="xsrc-msg">${esc(tr('Couldn’t load this passage. Use “Open on Sefaria” below.'))}</p>`})}
