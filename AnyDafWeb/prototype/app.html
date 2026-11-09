@@ -170,7 +170,8 @@ body.xr-off .xchips,body.xr-off .xrl,body.xr-off .xmg{display:none!important}
 .xsrc-dict .dlx{font:600 11px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
 .xsrc-dict .dnote{font-size:12.5px;color:var(--muted);margin:0 0 8px}
 .xsrc-dict .de+.de{border-top:1px solid var(--line);margin-top:8px;padding-top:8px}
-.xsrc-dict .dd{margin:2px 0}.xsrc-dict .dd [dir=rtl]{font-family:var(--hebrew)}
+.xsrc-dict .dd{margin:2px 0}
+.xsrc-dict .dstein{margin:0 0 10px;padding-bottom:8px;border-bottom:1px solid var(--line)}.xsrc-dict .dstein p[dir]{font:400 1.05rem/1.6 var(--hebrew);margin:0}.xsrc-dict .dstein mark{background:var(--amber-soft);color:inherit;border-radius:2px}.xsrc-dict .dd [dir=rtl]{font-family:var(--hebrew)}
 .xsrc-dict .dref{border:0;background:none;padding:0;font:inherit;font-family:var(--hebrew);color:var(--blue);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
 .xsrc-dict .dmore{border:0;background:none;color:var(--blue);cursor:pointer;padding:0;font:inherit;font-size:12.5px}
 .xsrc-seg.hit{background:var(--range);border-inline-start:3px solid var(--range-edge);margin-inline:-18px;padding-inline:calc(2rem + 15px) 18px}
@@ -790,7 +791,7 @@ function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch
 // the code goes through tr(), keyed by the English.
 const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='he'||q==='en'){prefs.ui=q;savePrefs()}return prefs.ui==='he'?'he':'en'})();
 const RTL=UI==='he';
-const HEW={'Hebrew':'עברית','Looking up':'מחפש את','No dictionary entry found for':'לא נמצא ערך במילון עבור','Entries for the form':'ערכים לצורה','Other possible forms:':'צורות אפשריות נוספות:','More':'עוד','from':'מתוך','Sefaria has no English translation of this passage.':'אין בספריא תרגום לאנגלית לקטע זה.','Sources':'מקורות','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
+const HEW={'Hebrew':'עברית','Steinsaltz':'שטיינזלץ','Looking up':'מחפש את','No dictionary entry found for':'לא נמצא ערך במילון עבור','Entries for the form':'ערכים לצורה','Other possible forms:':'צורות אפשריות נוספות:','More':'עוד','from':'מתוך','Sefaria has no English translation of this passage.':'אין בספריא תרגום לאנגלית לקטע זה.','Sources':'מקורות','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
  "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
@@ -1110,7 +1111,8 @@ function pageHelp(h){const L=layOf(amudShown),T=TR[navAt.t];if(!L||!T)return;con
  const one=(he,en,where)=>`<div class="xsrc-seg">${he?`<p class="he" lang="he">${xrClean(he)}</p>`:''}`
   +(en?`<p class="en">${xrClean(en)}</p>`:`<p class="en"><i>${esc(tr('Sefaria has no English translation of this passage.'))}</i></p>`)+'</div>';
  if(h.l!=null){const [am,n]=h.l.split('.'),ref=`${book} ${am}:${n}`;
-  xrOpen(ref,xrUrl(ref),{words:true,title:`${book} ${am}:${n}`,load:()=>xrApi(ref,0).then(d=>({html:one(xrFlat(d.he).join(' '),xrFlat(d.text).join(' ')),heRef:d.heRef}))});return}
+  const it=(D.items||[]).find(x=>x.l===h.l);
+  xrOpen(ref,xrUrl(ref),{words:true,hx:it&&it.hx,title:`${book} ${am}:${n}`,load:()=>xrApi(ref,0).then(d=>({html:one(xrFlat(d.he).join(' '),xrFlat(d.text).join(' ')),heRef:d.heRef}))});return}
  const c=L.c[h.c],[am,n]=c.on.split('.'),who=c.who,lineRef=`${who} on ${book} ${am}:${n}`;
  xrOpen(lineRef,xrUrl(lineRef),{words:true,title:`${RTL&&RASHI_HE[who]||who} · ${book} ${am}`,load:()=>xrApi(lineRef,0).then(d=>{
   const he=xrFlat(d.he),en=xrFlat(d.text),key=heNorm(c.dh||c.text).split(' ').slice(0,4).join(' ');
@@ -1132,15 +1134,39 @@ const fin=w=>w.length>1&&FINAL[w.at(-1)]?w.slice(0,-1)+FINAL[w.at(-1)]:w;
 const unfin=w=>w.length>1&&UNFIN[w.at(-1)]?w.slice(0,-1)+UNFIN[w.at(-1)]:w;
 const SUFF=['תיה','תון','תה','ית','נה','ייהו','יהון','ינהו','יהו','יכו','תיה','ינן','נן','ין','ון','יה','הו','הון','תא','נא','תי','תו','ים','ות','יך','נו','כם','א','ה','ו','י','ת','ן','ם','ך'];
 const VPRE=['אית','את','מית','מת','אי','נ','ת','י','א','מ'];
+// Hitpael / itpe'el of a root starting with a sibilant: the ת follows the first letter, and becomes ט after צ and
+// ד after ז (מִשְׁתְּבַע from שבע, אִצְטְרִיךְ from צרך, אִזְדַּבַּן from זבן).
+const META=/^(אי|א|מי|מ|נ|ת|י|לי|ל)?(שת|סת|צט|זד)(.{2,})$/;
 function wordForms(w){w=w.replace(/[֑-ׇ"'׳״]/g,'');const out=[],add=x=>{x=fin(x);if(x.length>=2&&!out.includes(x))out.push(x)};
+ const meta=x=>{const m=unfin(x).match(META);if(m)add(m[2][0]+m[3])};
  add(w);const pre=[w];for(let k=1;k<=2&&k<w.length-2;k++){if([...w.slice(0,k)].every(c=>'ודהבלמשכ'.includes(c)))pre.push(w.slice(k))}
- pre.slice(1).forEach(add);
+ pre.slice(1).forEach(add);pre.forEach(meta);
  const stems=[];for(const p of pre)for(const sf of SUFF)if(p.endsWith(sf)&&p.length-sf.length>=2)stems.push(p.slice(0,-sf.length));
- stems.forEach(add);
+ stems.forEach(add);stems.forEach(meta);
  for(const st of stems)if(st.length===2){add(st+'ה');add(st+'א')}   // roots ending in ה/א lose it when conjugated (זכתה → זכה)
  for(const st of [...pre.map(unfin),...stems])for(const vp of VPRE)if(st.startsWith(vp)&&st.length-vp.length>=2)add(st.slice(vp.length));
  for(const x of [...out])if(x.length>=4)add(x.slice(0,1)+x.slice(1,-1).replace(/[יו]/g,'')+x.slice(-1));
  return out.slice(0,16)}
+const hwPlain=h=>heNorm(h).replace(/ /g,'');
+// An entry for the whole word (Klein's מִדְּרַבָּנָן, "prescribed by the Rabbis") beats one for its root (Jastrow's רַבָּן)
+const exactOf=(es,f)=>es.filter(e=>hwPlain(e.headword)===f);
+// An entry that quotes the word as it stands (prefixes off) is likely the right one: Jastrow's שְׁבַע II lists
+// אִשְׁתְּבַע, its שֶׁבַע ("seven") doesn't.
+const quoteKeys=w=>{w=heNorm(w).replace(/ /g,'');return [w,w.slice(1),w.slice(2)].filter(x=>x.length>=3)};
+// the longest form of the word that the entry quotes (0: none); the longer, the closer the match
+const quotes=(e,keys)=>{const t=heNorm(JSON.stringify(e.content||{}));return Math.max(0,...keys.filter(k=>t.includes(k)).map(k=>k.length))};
+// Steinsaltz's Hebrew explanation of the line prints the Gemara's words in bold and explains them right after
+// ("**מותיב** [מקשה] היה..."). For a clicked word: its bold run and what follows, up to the next bold run.
+let curHx='';
+function steinFor(sp){if(!curHx||!sp.closest('.he'))return '';const w=heNorm(sp.textContent).replace(/ /g,'');if(w.length<2)return '';
+ const same=[...sp.closest('.he').querySelectorAll('.hw')].filter(x=>heNorm(x.textContent).replace(/ /g,'')===w),nth=Math.max(0,same.indexOf(sp));
+ const parts=curHx.split('**'),fits=b=>b===w||(b.length>=2&&w.endsWith(b)&&w.length-b.length<=2&&/^[ודהבלמשכ]+$/.test(w.slice(0,w.length-b.length)));
+ let seen=0;
+ for(let i=1;i<parts.length;i+=2){const ws=heNorm(parts[i]).split(' ');const k=ws.findIndex(fits);if(k<0)continue;if(seen++<nth)continue;
+  let after=(parts[i+1]||'').trim();const aw=after.split(/\s+/);if(aw.length>30)after=aw.slice(0,30).join(' ')+'…';
+  const bold=esc(parts[i]).replace(new RegExp('(^|\\s)([^\\s]*'+[...ws[k]].join('[\u0591-\u05C7]*')+'[^\\s]*)'),'$1<mark>$2</mark>');
+  return `<div class="dstein"><p class="dh"><span class="dlx">${esc(tr('Steinsaltz'))}</span></p><p dir="rtl" lang="he"><b>${bold}</b> ${esc(after)}</p></div>`}
+ return ''}
 const DICT={};
 const dictGet=w=>DICT[w]||(DICT[w]=fetch('https://www.sefaria.org/api/words/'+encodeURIComponent(w)+'?never_split=0').then(r=>r.ok?r.json():[]).catch(()=>[]));
 // Up to three forms with entries, in the order tried: the first with a Jastrow entry is shown, the others offered,
@@ -1149,7 +1175,9 @@ async function lookupWord(word){const forms=wordForms(word),hits=[];
  for(let i=0;i<forms.length&&hits.length<5;i+=4){const got=await Promise.all(forms.slice(i,i+4).map(f=>dictGet(f).then(es=>({f,es:Array.isArray(es)?es:[]}))));
   for(const g of got)if(g.es.length&&hits.length<5)hits.push(g)}
  // Jastrow first, and a two-letter guess (זך for זכתה) after any longer one; otherwise the order tried
- const rank=g=>(g.es.some(e=>/Jastrow/.test(e.parent_lexicon))?0:2)+(g.f.length<3?1:0);
+ const w=fin(word.replace(/[֑-ׇ"'׳״]/g,'')),whole=g=>w.endsWith(g.f)&&w.length-g.f.length<=2&&exactOf(g.es,g.f).length;
+ const keys=quoteKeys(word),q=g=>Math.max(0,...g.es.map(e=>quotes(e,keys)));
+ const rank=g=>whole(g)?-100:-q(g)*10+(g.es.some(e=>/Jastrow/.test(e.parent_lexicon))?0:2)+(g.f.length<3?1:0);
  return hits.map((g,i)=>[g,i]).sort((a,b)=>rank(a[0])-rank(b[0])||a[1]-b[1]).map(x=>x[0]).slice(0,3)}
 // Jastrow's "v. X" links become buttons that open X; other markup is reduced to plain emphasis.
 function dictClean(html){const doc=new DOMParser().parseFromString(`<div>${html||''}</div>`,'text/html'),root=doc.body.firstChild;
@@ -1167,14 +1195,16 @@ async function followXref(e){const body=senseHtml((e.content||{}).senses),m=body
  if(!m||body.replace(/<[^>]+>/g,'').length>80)return e;const t=await jastrowEntry(m[1]);return t?{...t,via:e.headword}:e}
 async function showWord(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=sp.textContent;
  xrDlg.querySelectorAll('.hw.on').forEach(x=>x.classList.remove('on'));sp.classList.add('on');
- d.hidden=false;d.innerHTML=`<p class="dnote">${esc(tr('Looking up'))} <span lang="he">${esc(word)}</span>…</p>`;
+ const st=steinFor(sp);
+ d.hidden=false;d.innerHTML=st+`<p class="dnote">${esc(tr('Looking up'))} <span lang="he">${esc(word)}</span>…</p>`;
  const hits=await lookupWord(word);if(!sp.classList.contains('on'))return;
  for(const h of hits)h.es=await Promise.all(h.es.map(e=>/Jastrow/.test(e.parent_lexicon)?followXref(e):e));
  if(!sp.classList.contains('on'))return;
- if(!hits.length){d.innerHTML=`<p class="dnote">${esc(tr('No dictionary entry found for'))} <span lang="he">${esc(word)}</span>.</p>`;return}
+ if(!hits.length){d.innerHTML=st+`<p class="dnote">${esc(tr('No dictionary entry found for'))} <span lang="he">${esc(word)}</span>.</p>`;return}
  const plain=w=>w.replace(/[\u0591-\u05C7"'׳״]/g,'');
- const draw=r=>{const jas=r.es.filter(e=>/Jastrow/.test(e.parent_lexicon)),es=(jas.length?jas:r.es).slice(0,3),alts=hits.filter(x=>x!==r);
-  d.innerHTML=(fin(plain(word))!==r.f?`<p class="dnote">${esc(tr('Entries for the form'))} <span lang="he">${esc(r.f)}</span></p>`:'')
+ const wp=fin(plain(word));
+ const draw=r=>{const ex=wp.endsWith(r.f)&&wp.length-r.f.length<=2?exactOf(r.es,r.f):[],jas=r.es.filter(e=>/Jastrow/.test(e.parent_lexicon)&&!ex.includes(e)),keys=quoteKeys(word),byQ=a=>a.map((e,i)=>[e,i]).sort((x,y)=>quotes(y[0],keys)-quotes(x[0],keys)||x[1]-y[1]).map(x=>x[0]),es=[...ex,...byQ(jas.length?jas:r.es.filter(e=>!ex.includes(e)))].slice(0,3),alts=hits.filter(x=>x!==r);
+  d.innerHTML=st+(fin(plain(word))!==r.f?`<p class="dnote">${esc(tr('Entries for the form'))} <span lang="he">${esc(r.f)}</span></p>`:'')
    +es.map(e=>{const body=senseHtml((e.content||{}).senses);const long=body.length>1400;
     return `<div class="de"><p class="dh"><span class="dhw" lang="he">${esc(e.headword)}</span><span class="dlx">${esc((e.parent_lexicon||'').replace(/ Dictionary$/,''))}</span>${e.via?`<span class="dlx">(${esc(tr('from'))} <span lang="he">${esc(e.via)}</span>)</span>`:''}</p><div class="dbody"${long?' style="max-height:9em;overflow:hidden"':''}>${body}</div>${long?`<button type="button" class="dmore">${esc(tr('More'))}</button>`:''}</div>`}).join('')
    +(alts.length?`<p class="dnote" style="margin-top:10px">${esc(tr('Other possible forms:'))} ${alts.map(x=>`<button type="button" class="dmore dalt" data-f="${esc(x.f)}" lang="he">${esc(x.f)}</button>`).join(' · ')}</p>`:'');
@@ -1384,7 +1414,7 @@ async function xrLoad(ref){const b=xrBavli(ref);
 // opt (the daf page's "help" window): {title, load, go:false} shows one passage, not its whole section
 function xrOpen(ref,href,opt){if(!xrDlg)xrBuild();xrCur=ref;const q=s=>xrDlg.querySelector(s),body=q('.xsrc-body');
  q('.xsrc-title').textContent=opt&&opt.title||xrLabel(ref);q('.xsrc-he').textContent='';q('.xsrc-out').href=href||xrUrl(ref);
- q('.xsrc-go').hidden=!!opt||!xrBavli(ref);q('.xsrc-dict').hidden=true;body.innerHTML=`<p class="xsrc-msg">${esc(tr('Loading…'))}</p>`;if(!xrDlg.open)xrDlg.showModal();
+ q('.xsrc-go').hidden=!!opt||!xrBavli(ref);q('.xsrc-dict').hidden=true;curHx=opt&&opt.hx||'';body.innerHTML=`<p class="xsrc-msg">${esc(tr('Loading…'))}</p>`;if(!xrDlg.open)xrDlg.showModal();
  (opt&&opt.load?opt.load():xrLoad(ref)).then(({html,heRef})=>{if(xrCur!==ref)return;q('.xsrc-he').textContent=heRef||'';
    body.innerHTML=html||`<p class="xsrc-msg">${esc(tr('Sefaria has no text for this reference.'))}</p>`;if(opt&&opt.words)wrapWords(body);
    const h=body.querySelector('.hit');body.scrollTop=h?Math.max(0,h.offsetTop-body.offsetTop-12):0})
