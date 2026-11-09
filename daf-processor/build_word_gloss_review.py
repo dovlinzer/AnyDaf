@@ -23,6 +23,8 @@ def main(outdir: str):
     res = {k: json.loads((OUT / f"{k}.json").read_text()) for k in ("sonnet", "haiku")}
     plan = json.loads((OUT / "entry_plan.json").read_text())
     ent = {k: json.loads((OUT / f"entries_{k}.json").read_text()) for k in ("sonnet", "haiku")}
+    if (OUT / "entries_sonnet_med.json").exists():   # the medium-effort run in smaller requests replaces the first
+        ent["sonnet"] = json.loads((OUT / "entries_sonnet_med.json").read_text())
     data = []
     for t, a in PILOT:
         cid = f"{t.replace(' ', '_')}_{a}"

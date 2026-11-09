@@ -85,44 +85,46 @@ def items_for(cid, meta, res, cache):
     return items, where
 
 
-def build():
+def build(keys, effort, chunk, tag):
     meta, res, cache = load()
     client = anthropic.Anthropic()
     plan = {}
-    for key, (model, pin, pout) in MODELS.items():
+    for key in keys:
+        model, pin, pout = MODELS[key]
         reqs = []
         for t, a in PILOT:
             cid = f"{t.replace(' ', '_')}_{a}"
             items, where = items_for(cid, meta, res, cache)
             plan[cid] = {"items": [[i, n, w, c] for i, n, w, _, c in items],
                          "where": {f"{n}:{i}": v for (n, i), v in where.items()}}
-            text = [f"{t} {a}"] + [f"Line {s['n']}: {clean(s.get('he'))}\n  English: {clean(s.get('en'))}"
+            head = [f"{t} {a}"] + [f"Line {s['n']}: {clean(s.get('he'))}\n  English: {clean(s.get('en'))}"
                                    for s in amud_lines(t, a)]
-            text.append("\n# Items")
-            for iid, n, w, gl, cands in items:
-                if not cands:
-                    continue
-                text.append(f"\n[{iid}] line {n}: {plain(w)} = \"{gl[key]}\"\n" +
-                            "\n".join(f"  {j + 1}. {hw} — {d}" for j, (hw, d) in enumerate(cands)))
-            reqs.append({"custom_id": cid, "params": {
-                "model": model, "max_tokens": 16000, "thinking": {"type": "adaptive"},
-                "output_config": {"effort": "low"}, "system": SYSTEM,
-                "messages": [{"role": "user", "content": "\n".join(text)}]}})
-        (OUT / f"entry_requests_{key}.jsonl").write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in reqs))
+            asked = [x for x in items if x[4]]
+            for k in range(0, len(asked), chunk):
+                text = head + ["\n# Items"]
+                for iid, n, w, gl, cands in asked[k:k + chunk]:
+                    text.append(f"\n[{iid}] line {n}: {plain(w)} = \"{gl[key]}\"\n" +
+                                "\n".join(f"  {j + 1}. {hw} — {d}" for j, (hw, d) in enumerate(cands)))
+                reqs.append({"custom_id": f"{cid}__{k // chunk}", "params": {
+                    "model": model, "max_tokens": 16000, "thinking": {"type": "adaptive"},
+                    "output_config": {"effort": effort}, "system": SYSTEM,
+                    "messages": [{"role": "user", "content": "\n".join(text)}]}})
+        (OUT / f"entry_requests_{key}{tag}.jsonl").write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in reqs))
         tin = sum(client.messages.count_tokens(model=model, system=SYSTEM, messages=r["params"]["messages"]).input_tokens
                   for r in reqs)
         print(f"{key}: {len(reqs)} requests, {tin:,} input tokens (${tin * pin / 1e6:.2f} in at batch rates)")
-    (OUT / "entry_plan.json").write_text(json.dumps(plan, ensure_ascii=False))
+    if not (OUT / "entry_plan.json").exists():
+        (OUT / "entry_plan.json").write_text(json.dumps(plan, ensure_ascii=False))
     print(sum(len(p["items"]) for p in plan.values()), "items (distinct word + gloss per amud)")
 
 
-def submit():
+def submit(keys, tag):
     client = anthropic.Anthropic()
-    state = OUT / "entry_batches.json"
+    state = OUT / f"entry_batches{tag}.json"
     ids = json.loads(state.read_text()) if state.exists() else {}
-    for key in MODELS:
+    for key in keys:
         if key not in ids:
-            reqs = [json.loads(l) for l in (OUT / f"entry_requests_{key}.jsonl").read_text().splitlines()]
+            reqs = [json.loads(l) for l in (OUT / f"entry_requests_{key}{tag}.jsonl").read_text().splitlines()]
             ids[key] = client.messages.batches.create(requests=reqs).id
             state.write_text(json.dumps(ids))
             print(f"{key}: batch {ids[key]}", flush=True)
@@ -134,10 +136,10 @@ def submit():
         time.sleep(30)
 
 
-def harvest():
+def harvest(tag):
     client = anthropic.Anthropic()
     plan = json.loads((OUT / "entry_plan.json").read_text())
-    ids = json.loads((OUT / "entry_batches.json").read_text())
+    ids = json.loads((OUT / f"entry_batches{tag}.json").read_text())
     picked, lines = {}, ["", "# Entry choice"]
     for key, bid in ids.items():
         model, pin, pout = MODELS[key]
@@ -156,24 +158,23 @@ def harvest():
             except (AttributeError, json.JSONDecodeError, KeyError):
                 bad.append(f"{r.custom_id}: unparsed ({msg.stop_reason})")
                 continue
-            items = {i: c for i, n, w, c in plan[r.custom_id]["items"]}
-            out[r.custom_id] = {}
-            for iid, cands in items.items():
-                j = ch.get(iid)
-                out[r.custom_id][iid] = cands[j - 1][0] if isinstance(j, int) and 1 <= j <= len(cands) else None
+            cid = r.custom_id.split("__")[0]
+            items = {i: c for i, n, w, c in plan[cid]["items"]}
+            got = out.setdefault(cid, {})
+            for iid, j in ch.items():
+                cands = items.get(str(iid)) or []
+                if isinstance(j, int) and 1 <= j <= len(cands):
+                    got[str(iid)] = cands[j - 1][0]
         picked[key] = out
-        (OUT / f"entries_{key}.json").write_text(json.dumps(out, ensure_ascii=False))
+        (OUT / f"entries_{key}{tag}.json").write_text(json.dumps(out, ensure_ascii=False))
         n = sum(len(p["items"]) for p in plan.values())
         cost = (tin * pin + tout * pout) / 1e6
         lines += [f"## {key}", f"{tin:,} input + {tout:,} output tokens, ${cost:.2f} for {n} items "
                   f"(3,755 words; Bavli ~1,883,000 words -> ~${cost / 3755 * 1883461:,.0f})."] + [f"- {b}" for b in bad]
-    same = diff = 0
-    for cid, p in plan.items():
-        for i, n, w, c in p["items"]:
-            a, b = (picked.get(k, {}).get(cid, {}).get(i) for k in MODELS)
-            same += a == b
-            diff += a != b
-    lines.append(f"\nSame entry chosen for {same} items, different for {diff}.")
+    for key, out in picked.items():
+        asked = [(cid, i) for cid, p in plan.items() for i, n, w, c in p["items"] if c]
+        none = sum(out.get(cid, {}).get(i) is None for cid, i in asked)
+        lines.append(f"{key}: no entry for {none} of {len(asked)} items asked.")
     with open(OUT / "report.md", "a") as f:
         f.write("\n".join(lines) + "\n")
     print("\n".join(lines))
@@ -182,4 +183,11 @@ def harvest():
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("cmd", choices=["build", "submit", "harvest"])
-    {"build": build, "submit": submit, "harvest": harvest}[ap.parse_args().cmd]()
+    ap.add_argument("--models", default="sonnet,haiku")
+    ap.add_argument("--effort", default="low")
+    ap.add_argument("--chunk", type=int, default=10000, help="items per request")
+    ap.add_argument("--tag", default="", help="suffix for this run's files, e.g. _med")
+    a = ap.parse_args()
+    keys = a.models.split(",")
+    {"build": lambda: build(keys, a.effort, a.chunk, a.tag), "submit": lambda: submit(keys, a.tag),
+     "harvest": lambda: harvest(a.tag)}[a.cmd]()
