@@ -2118,10 +2118,15 @@ don't move the outline or audio (`xrClick`). Rebuild `xrefs/site/` and the site 
 (`drawPageXr`, `pgFit`, `pgShut`): as in the text's margin, a panel of the sources beside their lines, inside the page
 wrap so it moves with the page when scrolled or zoomed. It covers only the page's outer margin, from a little past the
 layout's rightmost Rashi/Tosafot box to the page's right edge, so at every zoom it starts close to the commentary
-(at least 4.5rem; dots scale with `--pz`). A tap on the Gemara, Rashi or Tosafot on the daf page opens that one passage from Sefaria in
-the source window (`pageHelp`; א / אA / A, no surrounding section: a comment is found among its line's comments by its
+(at least 4.5rem; dots scale with `--pz`). A right-click (long press where the browser offers it) on the Gemara, Rashi or Tosafot on the
+daf page opens that one passage from Sefaria in the source window, and moves nothing else (a plain tap still moves the
+outline and audio) (`pageHelp`; א / אA / A, no surrounding section: a comment is found among its line's comments by its
 dibbur ha'matchil). Sefaria's English for Rashi and Tosafot is sparse (none on Bava Metzia 11a, for one); then the
-Hebrew shows with a note. `prefs.pageHelp=false` turns it off (no Settings switch yet) and each line's block starts level with the line, or just below
+Hebrew shows with a note. each Hebrew word there looks itself up in Sefaria's dictionaries
+(`/api/words`, Jastrow first; `wordForms` tries the word, then prefixes, suffixes and verb prefixes off, a final ה/א
+restored, matres dropped; up to 3 forms with entries, the rest offered as "Other possible forms"; a Jastrow entry that
+is only "v. X" is replaced by X's entry). Tested on 20 words from BM 11a: the right root first or among the others for
+about 17 and each line's block starts level with the line, or just below
 the block above when that runs long. Each line with sources has a stack of dots in the gutter between the Gemara and the
 Rashi/Tosafot on its right, at its first printed row (`#pageDots`); pointing at a block lights its dot, a dot opens the
 panel and lights its block. The arrow (›, sticky at the top of the view) folds the panel; the strip's ‹ (`#pageXr`)

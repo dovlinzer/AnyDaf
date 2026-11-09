@@ -162,6 +162,17 @@ body.xr-off .xchips,body.xr-off .xrl,body.xr-off .xmg{display:none!important}
 .xsrc-modes button[aria-pressed="true"]{background:var(--panel);color:var(--blue)}
 .xsrc-close{flex-shrink:0;width:32px;height:32px;margin:-4px -6px 0 0;border:0;border-radius:50%;background:transparent;color:var(--panel);font-size:1.5rem;line-height:1;cursor:pointer}
 .xsrc-body{flex:1 1 auto;min-height:0;overflow-y:auto;padding:4px 18px 12px;position:relative}
+/* the daf page's passage window: each Hebrew word looks itself up (Sefaria's dictionaries: Jastrow first) */
+.xsrc .hw{cursor:pointer;border-radius:3px}.xsrc .hw:hover{background:var(--term)}.xsrc .hw.on{background:var(--amber-soft);box-shadow:0 0 0 1px var(--amber)}
+.xsrc-dict{flex:0 1 auto;max-height:45%;overflow-y:auto;border-top:1px solid var(--line);padding:10px 18px 12px;font-size:14px;line-height:1.5;background:var(--grey-soft)}
+.xsrc-dict .dh{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;margin:0 0 4px}
+.xsrc-dict .dhw{font:600 1.25rem var(--hebrew);direction:rtl}
+.xsrc-dict .dlx{font:600 11px var(--sans);letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.xsrc-dict .dnote{font-size:12.5px;color:var(--muted);margin:0 0 8px}
+.xsrc-dict .de+.de{border-top:1px solid var(--line);margin-top:8px;padding-top:8px}
+.xsrc-dict .dd{margin:2px 0}.xsrc-dict .dd [dir=rtl]{font-family:var(--hebrew)}
+.xsrc-dict .dref{border:0;background:none;padding:0;font:inherit;font-family:var(--hebrew);color:var(--blue);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
+.xsrc-dict .dmore{border:0;background:none;color:var(--blue);cursor:pointer;padding:0;font:inherit;font-size:12.5px}
 .xsrc-seg.hit{background:var(--range);border-inline-start:3px solid var(--range-edge);margin-inline:-18px;padding-inline:calc(2rem + 15px) 18px}
 .xsrc-seg.hit .xsrc-num{inset-inline-start:15px}
 /* Hebrew and Hebrew+English: the number in the right-hand column, beside the Hebrew; English: on the left */
@@ -779,7 +790,7 @@ function savePrefs(){try{localStorage.setItem('adw',JSON.stringify(prefs))}catch
 // the code goes through tr(), keyed by the English.
 const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='he'||q==='en'){prefs.ui=q;savePrefs()}return prefs.ui==='he'?'he':'en'})();
 const RTL=UI==='he';
-const HEW={'Hebrew':'עברית','Sefaria has no English translation of this passage.':'אין בספריא תרגום לאנגלית לקטע זה.','Sources':'מקורות','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
+const HEW={'Hebrew':'עברית','Looking up':'מחפש את','No dictionary entry found for':'לא נמצא ערך במילון עבור','Entries for the form':'ערכים לצורה','Other possible forms:':'צורות אפשריות נוספות:','More':'עוד','from':'מתוך','Sefaria has no English translation of this passage.':'אין בספריא תרגום לאנגלית לקטע זה.','Sources':'מקורות','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
  "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
@@ -1099,18 +1110,82 @@ function pageHelp(h){const L=layOf(amudShown),T=TR[navAt.t];if(!L||!T)return;con
  const one=(he,en,where)=>`<div class="xsrc-seg">${he?`<p class="he" lang="he">${xrClean(he)}</p>`:''}`
   +(en?`<p class="en">${xrClean(en)}</p>`:`<p class="en"><i>${esc(tr('Sefaria has no English translation of this passage.'))}</i></p>`)+'</div>';
  if(h.l!=null){const [am,n]=h.l.split('.'),ref=`${book} ${am}:${n}`;
-  xrOpen(ref,xrUrl(ref),{title:`${book} ${am}:${n}`,load:()=>xrApi(ref,0).then(d=>({html:one(xrFlat(d.he).join(' '),xrFlat(d.text).join(' ')),heRef:d.heRef}))});return}
+  xrOpen(ref,xrUrl(ref),{words:true,title:`${book} ${am}:${n}`,load:()=>xrApi(ref,0).then(d=>({html:one(xrFlat(d.he).join(' '),xrFlat(d.text).join(' ')),heRef:d.heRef}))});return}
  const c=L.c[h.c],[am,n]=c.on.split('.'),who=c.who,lineRef=`${who} on ${book} ${am}:${n}`;
- xrOpen(lineRef,xrUrl(lineRef),{title:`${RTL&&RASHI_HE[who]||who} · ${book} ${am}`,load:()=>xrApi(lineRef,0).then(d=>{
+ xrOpen(lineRef,xrUrl(lineRef),{words:true,title:`${RTL&&RASHI_HE[who]||who} · ${book} ${am}`,load:()=>xrApi(lineRef,0).then(d=>{
   const he=xrFlat(d.he),en=xrFlat(d.text),key=heNorm(c.dh||c.text).split(' ').slice(0,4).join(' ');
   let i=he.findIndex(x=>heNorm(x).startsWith(key));if(i<0)i=he.findIndex(x=>heNorm(x).includes(key));
   const idx=i<0?he.map((_,k)=>k):[i];   // not found: all of this line's comments, still nothing beyond the line
   if(i>=0)xrDlg.querySelector('.xsrc-out').href=xrUrl(`${lineRef}:${i+1}`);
   return {html:idx.map(k=>one(he[k],en[k])).join(''),heRef:c.dh||d.heRef}})});}
+// ---------- word lookup (Sefaria's /api/words: Jastrow, Klein, Ben Yehuda, BDB) ----------
+// Sefaria strips some prefixes itself but misses most conjugated Aramaic verbs and suffixed forms, so when a word
+// finds nothing we try likely stems in turn: prefixes off, common suffixes off, verb prefixes off, final-letter form,
+// matres lectionis (י/ו) dropped. The first form with an entry wins; the window says which form it was.
+function wrapWords(root){const re=/[א-ת][א-ת֑-ׇ"'׳״]*/g;
+ const tw=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.parentElement.closest('.he')?1:2});const nodes=[];while(tw.nextNode())nodes.push(tw.currentNode);
+ for(const n of nodes){const t=n.nodeValue;re.lastIndex=0;if(!re.test(t))continue;re.lastIndex=0;const f=document.createDocumentFragment();let i=0,m;
+  while((m=re.exec(t))){f.append(t.slice(i,m.index));const sp=document.createElement('span');sp.className='hw';sp.textContent=m[0];f.append(sp);i=m.index+m[0].length}
+  f.append(t.slice(i));n.replaceWith(f)}}
+const FINAL={'כ':'ך','מ':'ם','נ':'ן','פ':'ף','צ':'ץ'},UNFIN={'ך':'כ','ם':'מ','ן':'נ','ף':'פ','ץ':'צ'};
+const fin=w=>w.length>1&&FINAL[w.at(-1)]?w.slice(0,-1)+FINAL[w.at(-1)]:w;
+const unfin=w=>w.length>1&&UNFIN[w.at(-1)]?w.slice(0,-1)+UNFIN[w.at(-1)]:w;
+const SUFF=['תיה','תון','תה','ית','נה','ייהו','יהון','ינהו','יהו','יכו','תיה','ינן','נן','ין','ון','יה','הו','הון','תא','נא','תי','תו','ים','ות','יך','נו','כם','א','ה','ו','י','ת','ן','ם','ך'];
+const VPRE=['אית','את','מית','מת','אי','נ','ת','י','א','מ'];
+function wordForms(w){w=w.replace(/[֑-ׇ"'׳״]/g,'');const out=[],add=x=>{x=fin(x);if(x.length>=2&&!out.includes(x))out.push(x)};
+ add(w);const pre=[w];for(let k=1;k<=2&&k<w.length-2;k++){if([...w.slice(0,k)].every(c=>'ודהבלמשכ'.includes(c)))pre.push(w.slice(k))}
+ pre.slice(1).forEach(add);
+ const stems=[];for(const p of pre)for(const sf of SUFF)if(p.endsWith(sf)&&p.length-sf.length>=2)stems.push(p.slice(0,-sf.length));
+ stems.forEach(add);
+ for(const st of stems)if(st.length===2){add(st+'ה');add(st+'א')}   // roots ending in ה/א lose it when conjugated (זכתה → זכה)
+ for(const st of [...pre.map(unfin),...stems])for(const vp of VPRE)if(st.startsWith(vp)&&st.length-vp.length>=2)add(st.slice(vp.length));
+ for(const x of [...out])if(x.length>=4)add(x.slice(0,1)+x.slice(1,-1).replace(/[יו]/g,'')+x.slice(-1));
+ return out.slice(0,16)}
+const DICT={};
+const dictGet=w=>DICT[w]||(DICT[w]=fetch('https://www.sefaria.org/api/words/'+encodeURIComponent(w)+'?never_split=0').then(r=>r.ok?r.json():[]).catch(()=>[]));
+// Up to three forms with entries, in the order tried: the first with a Jastrow entry is shown, the others offered,
+// since a form can match an unrelated headword (קנתה finds קַנְתָּא as well as קנה).
+async function lookupWord(word){const forms=wordForms(word),hits=[];
+ for(let i=0;i<forms.length&&hits.length<5;i+=4){const got=await Promise.all(forms.slice(i,i+4).map(f=>dictGet(f).then(es=>({f,es:Array.isArray(es)?es:[]}))));
+  for(const g of got)if(g.es.length&&hits.length<5)hits.push(g)}
+ // Jastrow first, and a two-letter guess (זך for זכתה) after any longer one; otherwise the order tried
+ const rank=g=>(g.es.some(e=>/Jastrow/.test(e.parent_lexicon))?0:2)+(g.f.length<3?1:0);
+ return hits.map((g,i)=>[g,i]).sort((a,b)=>rank(a[0])-rank(b[0])||a[1]-b[1]).map(x=>x[0]).slice(0,3)}
+// Jastrow's "v. X" links become buttons that open X; other markup is reduced to plain emphasis.
+function dictClean(html){const doc=new DOMParser().parseFromString(`<div>${html||''}</div>`,'text/html'),root=doc.body.firstChild;
+ root.querySelectorAll('a').forEach(a=>{const r=a.getAttribute('data-ref')||'';
+  if(/^Jastrow, /.test(r)){const b=doc.createElement('button');b.type='button';b.className='dref';b.dataset.hw=r.replace(/^Jastrow, /,'').replace(/ \d+$/,'');b.textContent=a.textContent;a.replaceWith(b)}
+  else a.replaceWith(...a.childNodes)});
+ const OK={B:1,STRONG:1,I:1,EM:1,BR:1,SMALL:1,SUP:1,SPAN:1,BUTTON:1};
+ (function walk(n){[...n.children].forEach(c=>{walk(c);if(!OK[c.tagName])c.replaceWith(...c.childNodes);else [...c.attributes].forEach(at=>{if(!['dir','type','class','data-hw'].includes(at.name))c.removeAttribute(at.name)})})})(root);
+ return root.innerHTML}
+function senseHtml(ss){return (ss||[]).map(x=>(x.definition?`<p class="dd">${dictClean(x.definition)}</p>`:'')+senseHtml(x.senses)).join('')}
+// The Jastrow entry with this exact (pointed) headword
+async function jastrowEntry(hw){const es=await dictGet(hw.replace(/[֑-ׇ]/g,''));return (Array.isArray(es)?es:[]).find(e=>/Jastrow/.test(e.parent_lexicon)&&e.headword===hw)||null}
+// An entry that is only a cross-reference ("v. יְלֵיף") is replaced by the entry it points to
+async function followXref(e){const body=senseHtml((e.content||{}).senses),m=body.match(/data-hw="([^"]+)"/);
+ if(!m||body.replace(/<[^>]+>/g,'').length>80)return e;const t=await jastrowEntry(m[1]);return t?{...t,via:e.headword}:e}
+async function showWord(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=sp.textContent;
+ xrDlg.querySelectorAll('.hw.on').forEach(x=>x.classList.remove('on'));sp.classList.add('on');
+ d.hidden=false;d.innerHTML=`<p class="dnote">${esc(tr('Looking up'))} <span lang="he">${esc(word)}</span>…</p>`;
+ const hits=await lookupWord(word);if(!sp.classList.contains('on'))return;
+ for(const h of hits)h.es=await Promise.all(h.es.map(e=>/Jastrow/.test(e.parent_lexicon)?followXref(e):e));
+ if(!sp.classList.contains('on'))return;
+ if(!hits.length){d.innerHTML=`<p class="dnote">${esc(tr('No dictionary entry found for'))} <span lang="he">${esc(word)}</span>.</p>`;return}
+ const plain=w=>w.replace(/[\u0591-\u05C7"'׳״]/g,'');
+ const draw=r=>{const jas=r.es.filter(e=>/Jastrow/.test(e.parent_lexicon)),es=(jas.length?jas:r.es).slice(0,3),alts=hits.filter(x=>x!==r);
+  d.innerHTML=(fin(plain(word))!==r.f?`<p class="dnote">${esc(tr('Entries for the form'))} <span lang="he">${esc(r.f)}</span></p>`:'')
+   +es.map(e=>{const body=senseHtml((e.content||{}).senses);const long=body.length>1400;
+    return `<div class="de"><p class="dh"><span class="dhw" lang="he">${esc(e.headword)}</span><span class="dlx">${esc((e.parent_lexicon||'').replace(/ Dictionary$/,''))}</span>${e.via?`<span class="dlx">(${esc(tr('from'))} <span lang="he">${esc(e.via)}</span>)</span>`:''}</p><div class="dbody"${long?' style="max-height:9em;overflow:hidden"':''}>${body}</div>${long?`<button type="button" class="dmore">${esc(tr('More'))}</button>`:''}</div>`}).join('')
+   +(alts.length?`<p class="dnote" style="margin-top:10px">${esc(tr('Other possible forms:'))} ${alts.map(x=>`<button type="button" class="dmore dalt" data-f="${esc(x.f)}" lang="he">${esc(x.f)}</button>`).join(' · ')}</p>`:'');
+  d.querySelectorAll('.dmore:not(.dalt)').forEach(b=>b.onclick=()=>{b.previousElementSibling.style.maxHeight='';b.remove()});
+  d.querySelectorAll('.dalt').forEach(b=>b.onclick=()=>draw(hits.find(x=>x.f===b.dataset.f)));
+  d.querySelectorAll('.dref').forEach(b=>b.onclick=async()=>{const t=await jastrowEntry(b.dataset.hw);if(t)draw({f:r.f,es:[t]})});d.scrollTop=0};
+ draw(hits[0])}
+document.addEventListener('click',e=>{const sp=e.target.closest('.xsrc .hw');if(sp)showWord(sp)});
 function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains('off')){closePop();return}
  $('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'));
  $('pageLay').querySelectorAll(hitSel(h)).forEach(e=>e.classList.add('sel'));
- if(prefs.pageHelp!==false)pageHelp(h);
  const L=layOf(amudShown),pop=$('pagePop');let html='';
  const line=l=>D.items.find(it=>it.l===l);
  // Lines outside this daf's outline (the page shows the whole amud) belong to a neighbour's.
@@ -1127,6 +1202,10 @@ function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains(
  pop.innerHTML=`<button class="x" type="button" aria-label="Close">×</button>`+html+(canPlay?'<button class="pfh" type="button" id="popPlay">▶ Play from here</button>':'');pop.hidden=false;
  if(!$('popTog').checked)pop.hidden=true;   // the line is still marked and the outline still moves
  pop.querySelector('.x').onclick=closePop;if(canPlay)$('popPlay').onclick=()=>playFrom(po)}
+// A right-click (on touch screens that offer it, a long press) on the Gemara, Rashi or Tosafot opens it alone;
+// nothing else moves. A plain tap still moves the outline and the audio.
+$('pageImg').addEventListener('contextmenu',e=>{if(e.target.closest('#pageMg,.pgtog,.pgdot'))return;const h=hitAt(e.clientX,e.clientY);if(!h)return;e.preventDefault();
+ $('pageLay').querySelectorAll('.sel').forEach(x=>x.classList.remove('sel'));$('pageLay').querySelectorAll(hitSel(h)).forEach(x=>x.classList.add('sel'));pageHelp(h)});
 function closePop(){$('pagePop').hidden=true;$('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'))}
 $('layTog').onchange=()=>{$('pageLay').classList.toggle('off',!$('layTog').checked);prefs.lay=$('layTog').checked;savePrefs();if(!$('layTog').checked)closePop()};
 $('popTog').checked=false;$('popTog').onchange=()=>{prefs.pop=$('popTog').checked;savePrefs();if(!prefs.pop)$('pagePop').hidden=true};
@@ -1267,6 +1346,7 @@ function xrBuild(){xrDlg=document.createElement('dialog');xrDlg.className='xsrc'
   <div class="xsrc-modes" role="group" aria-label="${esc(tr('Language'))}"><button type="button" data-m="he" lang="he">א</button><button type="button" data-m="both">אA</button><button type="button" data-m="en">A</button></div>
   <button type="button" class="xsrc-close" aria-label="${esc(tr('Close'))}">&times;</button></div>
   <div class="xsrc-body" tabindex="0"></div>
+  <div class="xsrc-dict" hidden aria-live="polite"></div>
   <div class="xsrc-foot"><button type="button" class="xsrc-go" hidden>${esc(tr('Go to this daf'))}</button><a class="xsrc-out" target="_blank" rel="noopener">${esc(tr('Open on Sefaria'))} →</a></div>`;
  document.body.append(xrDlg);
  xrDlg.querySelector('.xsrc-close').onclick=()=>xrDlg.close();
@@ -1300,9 +1380,9 @@ async function xrLoad(ref){const b=xrBavli(ref);
 // opt (the daf page's "help" window): {title, load, go:false} shows one passage, not its whole section
 function xrOpen(ref,href,opt){if(!xrDlg)xrBuild();xrCur=ref;const q=s=>xrDlg.querySelector(s),body=q('.xsrc-body');
  q('.xsrc-title').textContent=opt&&opt.title||xrLabel(ref);q('.xsrc-he').textContent='';q('.xsrc-out').href=href||xrUrl(ref);
- q('.xsrc-go').hidden=!!opt||!xrBavli(ref);body.innerHTML=`<p class="xsrc-msg">${esc(tr('Loading…'))}</p>`;if(!xrDlg.open)xrDlg.showModal();
+ q('.xsrc-go').hidden=!!opt||!xrBavli(ref);q('.xsrc-dict').hidden=true;body.innerHTML=`<p class="xsrc-msg">${esc(tr('Loading…'))}</p>`;if(!xrDlg.open)xrDlg.showModal();
  (opt&&opt.load?opt.load():xrLoad(ref)).then(({html,heRef})=>{if(xrCur!==ref)return;q('.xsrc-he').textContent=heRef||'';
-   body.innerHTML=html||`<p class="xsrc-msg">${esc(tr('Sefaria has no text for this reference.'))}</p>`;
+   body.innerHTML=html||`<p class="xsrc-msg">${esc(tr('Sefaria has no text for this reference.'))}</p>`;if(opt&&opt.words)wrapWords(body);
    const h=body.querySelector('.hit');body.scrollTop=h?Math.max(0,h.offsetTop-body.offsetTop-12):0})
   .catch(()=>{if(xrCur===ref)body.innerHTML=`<p class="xsrc-msg">${esc(tr('Couldn’t load this passage. Use “Open on Sefaria” below.'))}</p>`})}
 // a margin block taller than its line pushes the next line down, so the blocks never overlap
