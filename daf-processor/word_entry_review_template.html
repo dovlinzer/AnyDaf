@@ -53,12 +53,13 @@ label{display:inline-flex;gap:6px;align-items:center}
 <div class="wrap">
   <header>
     <h1>Jastrow Entry Check</h1>
-    <p class="lede">Four new amudim (Bava Kamma 10b, Sanhedrin 37a, Ketubot 17a, Hullin 88a) went through the whole pipeline twice: once with <span class="k-son">Sonnet's</span> glosses and once with <span class="k-hai">Haiku's</span>. In both runs Sonnet chose the Jastrow entry, now seeing every sense of each candidate. These are the only words where the two runs ended at different entries.</p>
+    <p class="lede">Four new amudim (Bava Kamma 10b, Sanhedrin 37a, Ketubot 17a, Hullin 88a) went through the whole pipeline twice: once with <span class="k-son">Sonnet's</span> glosses and once with <span class="k-hai">Haiku's</span>. In both runs Sonnet chose the Jastrow entry, now seeing every sense of each candidate. These are the only words where the two runs ended at different entries. The Show menu starts with the ones whose two glosses differ in meaning; the rest got the same or a similar gloss from both models, so their difference comes from the entry step itself.</p>
     <p class="lede">For each, choose which entry is right for the word in its line. "Both fine" when either serves the reader (say a Hebrew and an Aramaic entry for the same word).</p>
   </header>
   <div class="bar">
     <span>Done <b id="done">0</b> of <b id="total">0</b></span>
     <span><span class="k-son">Sonnet's</span> <b id="c-s">0</b> · <span class="k-hai">Haiku's</span> <b id="c-h">0</b> · Both <b id="c-b">0</b> · Neither <b id="c-n">0</b></span>
+    <label for="cat">Show</label> <select id="cat"><option value="diff">Glosses differ in meaning</option><option value="similar">Same or similar gloss</option><option value="all">All</option></select>
     <label><input type="checkbox" id="todo"> Only the ones not yet answered</label>
     <span class="save" id="save"></span>
   </div>
@@ -78,8 +79,9 @@ function side(cls, name, x){
     <div class="hw" lang="he">${esc(x.hw || "no entry chosen")}</div><p class="sn">${esc(x.senses)}</p></div>`;
 }
 function render(){
-  const only = $("todo").checked;
-  $("main").innerHTML = DATA.filter(d => !only || !votes[d.id]).map(d => {
+  const only = $("todo").checked, cat = $("cat").value;
+  const inCat = d => cat === "all" || (cat === "diff" ? d.cat === "diff" : d.cat !== "diff");
+  $("main").innerHTML = DATA.filter(d => inCat(d) && (!only || !votes[d.id])).map(d => {
     const he = d.words.map((w,i) => i===d.i ? `<mark>${esc(w)}</mark>` : esc(w)).join(" ");
     return `<section class="card" data-id="${d.id}"><div class="where">${esc(d.amud)} · line ${d.line}</div>
       <p class="he" lang="he">${he}</p><p class="en">${esc(d.en)}</p>
@@ -89,8 +91,9 @@ function render(){
   count();
 }
 function count(){
-  const vs = Object.values(votes);
-  $("total").textContent = DATA.length; $("done").textContent = vs.length;
+  const cat = $("cat").value, ds = DATA.filter(d => cat === "all" || (cat === "diff" ? d.cat === "diff" : d.cat !== "diff"));
+  const vs = ds.map(d => votes[d.id]).filter(Boolean);
+  $("total").textContent = ds.length; $("done").textContent = vs.length;
   for(const v of "shbn") $("c-"+v).textContent = vs.filter(x=>x===v).length;
 }
 async function save(id){
@@ -108,6 +111,8 @@ $("main").addEventListener("click", e => {
   count(); save(id);
 });
 $("todo").addEventListener("change", render);
+$("cat").addEventListener("change", () => { try{ localStorage.setItem("entryCat", $("cat").value); }catch(e){} render(); });
+try{ const c = localStorage.getItem("entryCat"); if(c) $("cat").value = c; }catch(e){}
 try{ votes = JSON.parse(localStorage.getItem("entryVotes")||"{}"); }catch(e){}
 render();
 (async()=>{

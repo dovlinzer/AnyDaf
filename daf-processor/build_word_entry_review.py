@@ -12,7 +12,14 @@ import sys
 from pathlib import Path
 
 from word_gloss_pilot import amud_lines, clean
+from build_word_gloss_review import toks
 from word_gloss_run import AMUDIM, RUN, cid_of, plain
+
+
+def gloss_cat(a, b):
+    """'same' (identical), 'close' (share a content word) or 'diff' (different in meaning)."""
+    x, y = a.lower().strip(), b.lower().strip()
+    return "same" if x == y else "close" if toks(x) & toks(y) else "diff"
 
 
 def main(outdir: str):
@@ -37,6 +44,7 @@ def main(outdir: str):
                     continue
                 vs, vh = plan["sonnet"]["items"][ks], plan["haiku"]["items"][kh]
                 cards.append({"id": pos.replace(":", "_"), "amud": f"{t} {a}", "line": n, "i": i,
+                              "cat": gloss_cat(vs["g"], vh["g"]),
                               "words": [plain(x) for x in ws], "en": clean(lines[n].get("en")),
                               "s": {"g": vs["g"], "lemma": plain(vs["lemma"]), "hw": es, "senses": senses.get(es, "")},
                               "h": {"g": vh["g"], "lemma": plain(vh["lemma"]), "hw": eh, "senses": senses.get(eh, "")}})
