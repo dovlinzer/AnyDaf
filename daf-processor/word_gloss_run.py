@@ -51,7 +51,8 @@ GLOSS_ONLY = {"לי", "לך", "ליך", "ליה", "לה", "לן", "לכו", "ל�
 
 def gloss_only(w):
     w = plain(w)
-    return any(f in GLOSS_ONLY for f in [w] + [w[k:] for k in (1, 2) if all(c in "ודהבלמשכ" for c in w[:k])])
+    # only the prefixes that come before these forms (ולה, דליה, לדידיה): stripping כ or מ would make כלה into לה
+    return any(f in GLOSS_ONLY for f in [w] + [w[k:] for k in (1, 2) if all(c in "ודבל" for c in w[:k])])
 
 
 def plain(w):
