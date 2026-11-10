@@ -468,9 +468,155 @@ def entry_harvest():
     print(line)
 
 
+
+# ---------- 4. senses: where in a long entry the word's sense begins ----------
+
+ENTRIES = HERE / "outline" / "word_gloss" / "jastrow_entries.json"
+SHORT_ENTRY = 500      # an entry this short is shown whole; no pointer needed
+ENTRY_CHARS = 6000     # longer entries are cut here for the model (a sense past this point gets no pointer)
+
+SENSE_SYSTEM = """You help English-speaking learners of the Babylonian Talmud who tap a word and see its entry in Jastrow's Dictionary. Long entries cover many senses; the page will open the entry at the sense that fits the word in its line.
+
+Each item gives a word from the Gemara (without vowels), the English gloss already decided for it in its line, a few words of the line around it, and the full text of the Jastrow entry chosen for it (citations included).
+
+For each item:
+- "q": copy, character for character, a short phrase from the entry (3 to 8 words) where the sense that fits the gloss begins: a sense number with its first words ("2) to say"), a form marker with its form ("Pl. רַבָּנָן", "Pa. אַמֵּר"), or the first words of the sense's English. Use "" if the sense that fits is the entry's opening sense.
+- "fit": "yes" if some sense of this entry fits the word as glossed; "no" if none does (the entry is probably the wrong one for this word).
+
+Reply with one JSON object and nothing else: {"senses": {"<item id>": {"q": "...", "fit": "yes"}, ...}}"""
+
+
+def entry_text(e):
+    out = []
+
+    def walk(ss):
+        for x in ss or []:
+            d = re.sub(r"\s+", " ", TAGS.sub("", x.get("definition") or "")).strip()
+            if d:
+                out.append(((x.get("number") or "") + " " + d).strip())
+            walk(x.get("senses"))
+    walk((e.get("content") or {}).get("senses"))
+    return " ".join(out)
+
+
+def fetch_entries(hws):
+    cache = json.loads(ENTRIES.read_text()) if ENTRIES.exists() else {}
+
+    def get(hw):
+        q = re.sub(r"\s+[IVX]+$|\s*[¹²³⁴]$", "", plain(hw)).replace("־", "")
+        try:
+            url = "https://www.sefaria.org/api/words/" + urllib.parse.quote(q) + "?never_split=0"
+            with urllib.request.urlopen(url, timeout=30) as f:
+                es = json.load(f)
+            hit = next((e for e in es if isinstance(e, dict) and "Jastrow" in e.get("parent_lexicon", "")
+                        and e.get("headword") == hw), None)
+            return hw, entry_text(hit) if hit else None
+        except Exception:
+            return hw, None
+    todo = sorted(h for h in hws if h not in cache)
+    with ThreadPoolExecutor(8) as ex:
+        for hw, t in ex.map(get, todo):
+            if t is not None:
+                cache[hw] = t
+    ENTRIES.write_text(json.dumps(cache, ensure_ascii=False))
+    return cache
+
+
+def sense_items(gk):
+    plan = json.loads((RUN / "entry_plan.json").read_text())[gk]
+    chosen = json.loads((RUN / "entries.json").read_text())[gk]
+    texts = fetch_entries(set(chosen.values()))
+    items = {}
+    for k, hw in chosen.items():
+        t = texts.get(hw)
+        if not t or len(t) <= SHORT_ENTRY:
+            continue
+        v = plan["items"][k]
+        items[f"{hw}|{v['g'].lower().strip()}"] = {"hw": hw, "w": v["w"], "g": v["g"], "ctx": v.get("ctx", ""), "text": t}
+    return items, texts
+
+
+SENSE_MODEL = os.environ.get("WG_SENSE_MODEL", "sonnet")
+SFX = "" if SENSE_MODEL == "sonnet" else "_" + SENSE_MODEL
+
+
+def sense_build(gk="sonnet", chunk=12):
+    items, _ = sense_items(gk)
+    keys = sorted(items)
+    model, pin, _ = MODELS[SENSE_MODEL]
+    reqs = []
+    for s in range(0, len(keys), chunk):
+        text = []
+        for j, k in enumerate(keys[s:s + chunk]):
+            v = items[k]
+            text.append(f"[{s + j + 1}] {v['w']} = \"{v['g']}\" — in: {v['ctx']}\nEntry {v['hw']}: {v['text'][:ENTRY_CHARS]}")
+        reqs.append({"custom_id": f"{gk}__{s // chunk}", "params": {
+            "model": model, "max_tokens": 8000, "thinking": {"type": "adaptive"}, "output_config": {"effort": "low"},
+            "system": SENSE_SYSTEM, "messages": [{"role": "user", "content": "\n\n".join(text)}]}})
+    (RUN / f"sense_requests_{gk}{SFX}.jsonl").write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in reqs))
+    (RUN / f"sense_plan_{gk}.json").write_text(json.dumps({"keys": keys, "items": items}, ensure_ascii=False))
+    client = anthropic.Anthropic()
+    tin = sum(client.messages.count_tokens(model=model, system=SENSE_SYSTEM, messages=r["params"]["messages"]).input_tokens
+              for r in reqs)
+    print(f"{gk}: {len(items)} long entry+gloss pairs, {len(reqs)} requests, {tin:,} input tokens (${tin * pin / 1e6:.2f})")
+
+
+def sense_submit(gk="sonnet"):
+    client = anthropic.Anthropic()
+    state = RUN / f"sense_batch_{gk}{SFX}.json"
+    if not state.exists():
+        reqs = [json.loads(l) for l in (RUN / f"sense_requests_{gk}{SFX}.jsonl").read_text().splitlines()]
+        state.write_text(json.dumps({"id": client.messages.batches.create(requests=reqs).id}))
+    batch_wait(client, {"senses": json.loads(state.read_text())["id"]})
+
+
+def norm_ws(t):
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def sense_harvest(gk="sonnet"):
+    client = anthropic.Anthropic()
+    sp = json.loads((RUN / f"sense_plan_{gk}.json").read_text())
+    keys, items = sp["keys"], sp["items"]
+    bid = json.loads((RUN / f"sense_batch_{gk}{SFX}.json").read_text())["id"]
+    _, pin, pout = MODELS[SENSE_MODEL]
+    tin = tout = 0
+    out, stats = {}, {"pointer": 0, "opening": 0, "not found": 0, "no fit": 0, "missing": 0}
+    for r in client.messages.batches.results(bid):
+        if r.result.type != "succeeded":
+            print("failed:", r.custom_id)
+            continue
+        m = r.result.message
+        tin += m.usage.input_tokens
+        tout += m.usage.output_tokens
+        for iid, a in ((parse_json("".join(b.text for b in m.content if b.type == "text")) or {}).get("senses") or {}).items():
+            if not str(iid).isdigit() or not 1 <= int(iid) <= len(keys) or not isinstance(a, dict):
+                continue
+            k = keys[int(iid) - 1]
+            q, fit = norm_ws(a.get("q") or ""), a.get("fit") == "yes"
+            text = norm_ws(items[k]["text"])
+            at = text.find(q) if q else 0
+            rec = {"fit": fit}
+            if q and at > 0:
+                rec["q"] = q
+            out[k] = rec
+            stats["no fit" if not fit else "pointer" if "q" in rec else "not found" if q and at < 0 else "opening"] += 1
+    stats["missing"] = len(keys) - len(out)
+    (RUN / f"senses_{gk}{SFX}.json").write_text(json.dumps(out, ensure_ascii=False))
+    line = f"Senses ({gk} pipeline, {SENSE_MODEL}): {tin:,} in + {tout:,} out, ${(tin * pin + tout * pout) / 1e6:.2f}. {stats}"
+    with open(RUN / "report.md", "a") as f:
+        f.write(line + "\n")
+    print(line)
+    for k, v in out.items():
+        if not v["fit"]:
+            print("  no fit:", k)
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("cmd", choices=["gloss-build", "gloss-submit", "gloss-harvest", "cands",
-                                    "entry-build", "entry-submit", "entry-harvest"])
+                                    "entry-build", "entry-submit", "entry-harvest", "sense-build", "sense-submit",
+                                    "sense-harvest"])
     {"gloss-build": gloss_build, "gloss-submit": gloss_submit, "gloss-harvest": gloss_harvest, "cands": cands,
-     "entry-build": entry_build, "entry-submit": entry_submit, "entry-harvest": entry_harvest}[ap.parse_args().cmd]()
+     "entry-build": entry_build, "entry-submit": entry_submit, "entry-harvest": entry_harvest,
+     "sense-build": sense_build, "sense-submit": sense_submit, "sense-harvest": sense_harvest}[ap.parse_args().cmd]()
