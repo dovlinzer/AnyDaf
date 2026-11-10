@@ -29,10 +29,10 @@ from concurrent.futures import ThreadPoolExecutor
 import anthropic
 from dotenv import load_dotenv
 
-from word_gloss_pilot import HERE, MODELS, SYSTEM as GLOSS_SYSTEM, prompt
+from word_gloss_pilot import HERE, MODELS, SYSTEM as GLOSS_SYSTEM, amud_lines, prompt
 
 load_dotenv(HERE / ".env", override=True)
-RUN = HERE / "outline" / "word_gloss" / os.environ.get("WG_RUN", "run2")   # run3: gloss rule + entry fixes
+RUN = HERE / "outline" / "word_gloss" / os.environ.get("WG_RUN", "run2")   # run3: gloss rule + entry fixes; run4: entries by dictionary form
 CACHE = HERE / "outline" / "word_gloss" / "jastrow_full.json"
 AMUDIM = [("Bava Kamma", "10b"), ("Sanhedrin", "37a"), ("Ketubot", "17a"), ("Hullin", "88a")]
 ENTRY_MODEL = "sonnet"
@@ -284,35 +284,73 @@ def candidates(word, lemma, cache):
 
 ENTRY_SYSTEM = """You link words of the Babylonian Talmud to the right entry in Jastrow's Dictionary of the Targumim, Talmud Babli and Yerushalmi, for English-speaking learners who tap a word and see the entry.
 
-Each item gives a word as it appears in the Gemara (without vowels), the English gloss already decided for it in its line, and a suggested dictionary form. The suggested form is only a hint: it can be wrong, and sometimes names the word's equivalent in the other language (the Hebrew שבר for the Aramaic תבר); a bare prefix letter (ש, ד) is not the word. Then numbered candidate Jastrow entries, each with its senses (English only, citations removed; verb stems such as Pa., Ithpe., Hif. label the senses that follow). Jastrow often has several entries with one spelling (numbered I, II, III), and separate Hebrew and Aramaic ("ch.") entries for the same word.
+Each item is one dictionary form with all its uses in the passage: every distinct word (without vowels) built on it, with the English gloss already decided for that word in its line, a few words of the line around it, and the line's language where it is known (Mishnah = Hebrew). The item's suggested dictionary form is only a hint: it can be wrong, and sometimes names the word's equivalent in the other language (the Hebrew שבר for the Aramaic תבר). Then numbered candidate Jastrow entries, each with its senses (English only, citations removed; verb stems such as Pa., Ithpe., Hif. label the senses that follow). Jastrow often has several entries with one spelling (numbered I, II, III), and separate Hebrew and Aramaic ("ch.") entries for the same word.
 
-For each item choose the entry that defines this word in the sense of the gloss:
-- prefer an entry found from the word itself as written (marked "from the word") when one fits the gloss; turn to the suggested form's entry only when none of those fits;
-- the entry for the word's root or base form, not one for a prefix letter alone (choose ל- or ב- only when the word is just that preposition with a pronoun suffix, like ליה or בו), and not a different word that shares the spelling;
+For each use, choose the entry that defines the word in the sense of its gloss:
+- be consistent: uses with the same meaning in the same language get the same entry; give different entries only when the meaning or the language really differs;
+- the language decides between a Hebrew and an Aramaic entry: Mishnah and baraita (Hebrew phrasing: אינו, שאין, הרי, אם) get the Hebrew entry, the Gemara's own discussion (Aramaic phrasing: לא, הא, מאי, איכא, קא) the Aramaic one when Jastrow has both;
+- prefer an entry found from the word itself as written (marked "from the word") when one fits; turn to the suggested form's entry only when none of those fits;
+- the entry for the word's root or base form, not one for a prefix letter alone, and not a different word that shares the spelling;
 - read all the senses: the sense that fits may come late in an entry;
-- an entry that only refers elsewhere ("v. X") is acceptable only if its target is not among the candidates; prefer the target (marked "via");
-- when a Hebrew and an Aramaic entry both fit, prefer the one matching the word's language here (Mishnah and baraita are Hebrew, the Gemara's own discussion mostly Aramaic).
-If no candidate fits, answer 0.
+- an entry that only refers elsewhere ("v. X") is acceptable only if its target is not among the candidates; prefer the target (marked "via").
+If no candidate fits a use, answer 0 for it.
 
-Reply with one JSON object and nothing else: {"choices": {"<item id>": <candidate number or 0>, ...}}"""
+Reply with one JSON object and nothing else: {"choices": {"<use id>": <candidate number or 0>, ...}} with every use id, e.g. "12a"."""
+
+CTX = 4
+
+
+def line_langs(t, a):
+    """'Mishnah' for lines inside a mishna on this amud, else None (the model judges from the context)."""
+    out, inm = {}, False
+    for s in amud_lines(t, a):
+        en = s.get("en") or ""
+        if "MISHNA" in en[:12]:
+            inm = True
+        elif "GEMARA" in en[:12]:
+            inm = False
+        out[str(s["n"])] = "Mishnah (Hebrew)" if inm else None
+    return out
+
+
+def group_key(w, lemma):
+    lem = fin(plain(lemma))
+    return lem if len(lem) >= 2 else plain(w)
 
 
 def items_for(gk, meta, glosses, cache):
-    """Distinct (word, gloss) items across the run for one gloss model, with candidates and where they occur."""
-    items, where = {}, {}
+    """Distinct (word, gloss) items for one gloss model, with candidates and where they occur, plus groups: the items
+    sharing a dictionary form, which the entry step decides together."""
+    items, where, groups = {}, {}, {}
     for c, m in meta.items():
+        langs = line_langs(m["tractate"], m["amud"])
         for n, ws in m["words"].items():
             g = (glosses[gk].get(c) or {}).get(n) or []
+            if len(g) != len(ws):
+                continue
             for i, w in enumerate(ws):
-                if len(g) != len(ws):
-                    continue
                 gl, lem = g[i].get("g", ""), g[i].get("lemma", "")
                 key = f"{plain(w)}|{gl.lower().strip()}"
                 where[f"{c}:{n}:{i}"] = key
                 if key not in items:
-                    items[key] = {"w": plain(w), "lemma": lem, "g": gl,
+                    ctx = " ".join(plain(x) for x in ws[max(0, i - CTX):i]) + " [" + plain(w) + "] " + \
+                          " ".join(plain(x) for x in ws[i + 1:i + 1 + CTX])
+                    items[key] = {"w": plain(w), "lemma": lem, "g": gl, "ctx": ctx.strip(), "lang": langs.get(n),
                                   "cands": [] if gloss_only(w) else candidates(w, lem, cache)}
-    return items, where
+                    if items[key]["cands"]:
+                        groups.setdefault(group_key(w, lem), []).append(key)
+    return items, where, groups
+
+
+def group_cands(keys, items):
+    out, seen = [], set()
+    for k in keys:   # own-word candidates first, then the rest
+        for own in (True, False):
+            for x in items[k]["cands"]:
+                if bool(x.get("own")) == own and x["hw"] not in seen:
+                    seen.add(x["hw"])
+                    out.append(x)
+    return out[:2 * MAX_CANDS]
 
 
 def entry_build(chunk=50):
@@ -323,25 +361,39 @@ def entry_build(chunk=50):
     client = anthropic.Anthropic()
     plan = {}
     for gk in MODELS:
-        items, where = items_for(gk, meta, glosses, cache)
-        keys = [k for k, v in items.items() if v["cands"]]
-        ids = {k: str(j + 1) for j, k in enumerate(keys)}
-        plan[gk] = {"items": items, "where": where, "ids": ids}
-        reqs = []
-        for s in range(0, len(keys), chunk):
-            text = []
-            for k in keys[s:s + chunk]:
+        items, where, groups = items_for(gk, meta, glosses, cache)
+        ids, gcands, blocks = {}, {}, []
+        for gi, (lem, keys) in enumerate(sorted(groups.items())):
+            cs = group_cands(keys, items)
+            gcands[str(gi + 1)] = [x["hw"] for x in cs]
+            uses = []
+            for j, k in enumerate(keys):
+                uid = f"{gi + 1}{chr(97 + j) if j < 26 else 'z' + str(j)}"
+                ids[k] = uid
                 v = items[k]
-                text.append(f"[{ids[k]}] {v['w']} = \"{v['g']}\" (suggested form {plain(v['lemma'])})\n" + "\n".join(
-                    f"  {j + 1}. {x['hw']}{' (via ' + x['via'] + ')' if x['via'] else ''}{' (from the word)' if x.get('own') else ''} — {x['senses'] or '(no English given)'}"
-                    for j, x in enumerate(v["cands"])))
-            reqs.append({"custom_id": f"{gk}__{s // chunk}", "params": {
-                "model": model, "max_tokens": 16000, "thinking": {"type": "adaptive"}, "output_config": {"effort": "medium"},
-                "system": ENTRY_SYSTEM, "messages": [{"role": "user", "content": "\n\n".join(text)}]}})
+                uses.append(f"  {uid}) {v['w']} = \"{v['g']}\"" + (f" [{v['lang']}]" if v["lang"] else "") +
+                            f" — in: {v['ctx']}")
+            blocks.append((len(keys), f"[{gi + 1}] suggested form {lem}\nUses:\n" + "\n".join(uses) + "\nCandidates:\n" +
+                           "\n".join(f"  {j + 1}. {x['hw']}{' (via ' + x['via'] + ')' if x['via'] else ''}"
+                                      f"{' (from the word)' if x.get('own') else ''} — {x['senses'] or '(no English given)'}"
+                                      for j, x in enumerate(cs))))
+        reqs, cur, n = [], [], 0
+        for size, b in blocks:   # whole groups per request, about `chunk` uses each
+            if cur and n + size > chunk:
+                reqs.append(cur)
+                cur, n = [], 0
+            cur.append(b)
+            n += size
+        if cur:
+            reqs.append(cur)
+        reqs = [{"custom_id": f"{gk}__{r}", "params": {
+            "model": model, "max_tokens": 16000, "thinking": {"type": "adaptive"}, "output_config": {"effort": "medium"},
+            "system": ENTRY_SYSTEM, "messages": [{"role": "user", "content": "\n\n".join(bs)}]}} for r, bs in enumerate(reqs)]
+        plan[gk] = {"items": items, "where": where, "ids": ids, "gcands": gcands}
         (RUN / f"entry_requests_{gk}.jsonl").write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in reqs))
         tin = sum(client.messages.count_tokens(model=model, system=ENTRY_SYSTEM, messages=r["params"]["messages"]).input_tokens
                   for r in reqs)
-        print(f"{gk} glosses: {len(items)} distinct word+gloss ({len(keys)} with candidates), {len(reqs)} requests, "
+        print(f"{gk} glosses: {len(items)} distinct word+gloss in {len(groups)} groups, {len(reqs)} requests, "
               f"{tin:,} input tokens (${tin * pin / 1e6:.2f})")
     (RUN / "entry_plan.json").write_text(json.dumps(plan, ensure_ascii=False))
 
@@ -374,9 +426,9 @@ def entry_harvest():
         byid = {v: k for k, v in plan[gk]["ids"].items()}
         for iid, j in ch.items():
             k = byid.get(str(iid))
-            cands = plan[gk]["items"][k]["cands"] if k else []
+            cands = plan[gk]["gcands"].get(re.match(r"\d+", str(iid)).group(0), []) if k else []
             if isinstance(j, int) and 1 <= j <= len(cands):
-                chosen[gk][k] = cands[j - 1]["hw"]
+                chosen[gk][k] = cands[j - 1]
     (RUN / "entries.json").write_text(json.dumps(chosen, ensure_ascii=False))
     # per running word: the entry each pipeline shows
     same = diff = none = 0
