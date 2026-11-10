@@ -33,8 +33,10 @@ from word_gloss_pilot import HERE, MODELS, SYSTEM as GLOSS_SYSTEM, amud_lines, p
 
 load_dotenv(HERE / ".env", override=True)
 RUN = HERE / "outline" / "word_gloss" / os.environ.get("WG_RUN", "run2")   # run3: gloss rule + entry fixes; run4: entries by dictionary form
-CACHE = HERE / "outline" / "word_gloss" / "jastrow_full.json"
+CACHE = HERE / "outline" / "word_gloss" / "dict_full.json"   # Jastrow and Klein ("lex": "J" / "K")
 AMUDIM = [("Bava Kamma", "10b"), ("Sanhedrin", "37a"), ("Ketubot", "17a"), ("Hullin", "88a")]
+if RUN.name >= "run5":   # four more, mostly the Gemara's own Aramaic and no Mishnah, for a second test set
+    AMUDIM += [("Gittin", "56a"), ("Bava Kamma", "27b"), ("Kiddushin", "45b"), ("Menachot", "29b")]
 ENTRY_MODEL = "sonnet"
 NIK = re.compile(r"[֑-ׇ\"'׳״]")
 TAGS = re.compile(r"<[^>]+>")
@@ -79,11 +81,35 @@ def fin(w):
 
 
 def wforms(w):
-    out = [w]
+    """The word, its forms without 1-2 prefix letters (and without the Aramaic present-tense ק / קא), and each of
+    those without its inner yod or vav (Jastrow often spells defectively: נבילה -> נבלה)."""
+    base = [w]
     for k in (1, 2):
         if len(w) - k >= 2 and all(c in "ודהבלמשכ" for c in w[:k]):
-            out.append(fin(w[k:]))
+            base.append(fin(w[k:]))
+    for b in list(base):
+        if b.startswith("קא") and len(b) >= 5:
+            base.append(b[2:])
+        elif b.startswith("ק") and len(b) >= 4:
+            base.append(b[1:])
+    out = []
+    for b in base:
+        for f in (b, b[0] + b[1:-1].replace("י", "") + b[-1] if len(b) > 3 else b,
+                  b[0] + b[1:-1].replace("ו", "") + b[-1] if len(b) > 3 else b):
+            if f not in out and len(f) >= 2:
+                out.append(f)
     return out
+
+
+# Common Hebrew words that need no dictionary entry; the gloss alone serves the reader.
+HEB_COMMON = {"היה", "היו", "הוא", "היא", "הם", "הן", "זה", "זו", "זאת", "אלו", "אלה", "אשר", "את", "אותו", "אותה",
+              "אותם", "של", "על", "אל", "עם", "כל", "לא", "אין", "יש", "כי", "אם", "או", "גם", "אף", "מה", "כן", "הרי",
+              "אלא", "אחד", "אחת", "אמר", "אמרו", "אומר", "אני", "אנו", "אתה", "אנחנו", "עד", "אבל"}
+
+
+def heb_common(w):
+    w = plain(w)
+    return any(f in HEB_COMMON for f in [w] + [w[k:] for k in (1, 2) if all(c in "ושהדבלמ" for c in w[:k])])
 
 
 def cid_of(t, a):
@@ -241,8 +267,9 @@ def fetch(q):
         url = "https://www.sefaria.org/api/words/" + urllib.parse.quote(q) + "?never_split=0"
         with urllib.request.urlopen(url, timeout=30) as f:
             es = json.load(f)
-        return q, [{"hw": e["headword"], "senses": sense_text(e), "ptr": pointer(e), "near": near(e)}
-                   for e in es if isinstance(e, dict) and "Jastrow" in e.get("parent_lexicon", "")]
+        return q, [{"hw": e["headword"], "lex": "J" if "Jastrow" in e["parent_lexicon"] else "K", "senses": sense_text(e),
+                    "ptr": pointer(e), "near": near(e)}
+                   for e in es if isinstance(e, dict) and re.search(r"Jastrow|Klein", e.get("parent_lexicon", ""))]
     except Exception:
         return q, None
 
@@ -272,26 +299,35 @@ def cands():
     print(len(cache), "queries cached")
 
 
-def candidates(word, lemma, cache):
+def candidates(word, lemma, cache, hebrew=False):
+    """Jastrow candidates; for a Hebrew word Klein's entries first (Jastrow's after them, for terms Klein lacks)."""
     out, seen = [], set()
 
     def add(e, via=None, own=False):
-        if e["hw"] not in seen and len(out) < MAX_CANDS:
-            seen.add(e["hw"])
-            out.append({"hw": e["hw"], "senses": e["senses"], "via": via, "own": own})
+        key = e.get("lex", "J") + e["hw"]
+        if key not in seen and len(out) < MAX_CANDS:
+            seen.add(key)
+            out.append({"hw": e["hw"], "lex": e.get("lex", "J"), "senses": e["senses"], "via": via, "own": own})
 
     own = wforms(plain(word))
     qs = own + ([fin(plain(lemma))] if lemma and fin(plain(lemma)) not in own else [])
+    if hebrew:
+        for q in qs:
+            for e in cache.get(q) or []:
+                if e.get("lex") == "K":
+                    add(e, own=q in own)
     for q in qs:
         for e in cache.get(q) or []:
+            if e.get("lex", "J") != "J":
+                continue
             add(e, own=q in own and not e["hw"].rstrip(" I²³").endswith("־"))
             if e.get("ptr"):
                 for t in cache.get(e["ptr"]) or []:
-                    if plain(t["hw"]).startswith(e["ptr"]):
+                    if t.get("lex", "J") == "J" and plain(t["hw"]).startswith(e["ptr"]):
                         add(t, e["hw"])
             if e.get("near"):
                 for t in cache.get(plain(e["near"])) or []:
-                    if t["hw"] == e["near"]:
+                    if t.get("lex", "J") == "J" and t["hw"] == e["near"]:
                         add(t, e["hw"])
     return out
 
@@ -300,11 +336,11 @@ def candidates(word, lemma, cache):
 
 ENTRY_SYSTEM = """You link words of the Babylonian Talmud to the right entry in Jastrow's Dictionary of the Targumim, Talmud Babli and Yerushalmi, for English-speaking learners who tap a word and see the entry.
 
-Each item is one dictionary form with all its uses in the passage: every distinct word (without vowels) built on it, with the English gloss already decided for that word in its line, a few words of the line around it, and the line's language where it is known (Mishnah = Hebrew). The item's suggested dictionary form is only a hint: it can be wrong, and sometimes names the word's equivalent in the other language (the Hebrew שבר for the Aramaic תבר). Then numbered candidate Jastrow entries, each with its senses (English only, citations removed; verb stems such as Pa., Ithpe., Hif. label the senses that follow). Jastrow often has several entries with one spelling (numbered I, II, III), and separate Hebrew and Aramaic ("ch.") entries for the same word.
+Each item is one dictionary form with all its uses in the passage: every distinct word (without vowels) built on it, with the English gloss already decided for that word in its line, a few words of the line around it, and its language (Hebrew or Aramaic). The item's suggested dictionary form is only a hint: it can be wrong, and sometimes names the word's equivalent in the other language (the Hebrew שבר for the Aramaic תבר). Then numbered candidate Jastrow entries, each with its senses (English only, citations removed; verb stems such as Pa., Ithpe., Hif. label the senses that follow). Jastrow often has several entries with one spelling (numbered I, II, III), and separate Hebrew and Aramaic ("ch.") entries for the same word.
 
 For each use, choose the entry that defines the word in the sense of its gloss:
 - be consistent: uses with the same meaning in the same language get the same entry; give different entries only when the meaning or the language really differs;
-- the language decides between a Hebrew and an Aramaic entry: Mishnah and baraita (Hebrew phrasing: אינו, שאין, הרי, אם) get the Hebrew entry, the Gemara's own discussion (Aramaic phrasing: לא, הא, מאי, איכא, קא) the Aramaic one when Jastrow has both;
+- the language decides between a Hebrew and an Aramaic entry: each use is marked Hebrew or Aramaic. A Hebrew use gets a Klein entry (Klein's dictionary of biblical and rabbinic Hebrew; those candidates are marked "Klein:") when one fits, else Jastrow's Hebrew entry; an Aramaic use gets Jastrow's Aramaic ("ch.") entry when Jastrow has both, and never a Klein entry;
 - prefer an entry found from the word itself as written (marked "from the word") when one fits; turn to the suggested form's entry only when none of those fits;
 - the entry for the word's root or base form, not one for a prefix letter alone, and not a different word that shares the spelling;
 - read all the senses: the sense that fits may come late in an entry;
@@ -346,6 +382,8 @@ def items_for(gk, meta, glosses, cache):
                 continue
             for i, w in enumerate(ws):
                 gl, lem = g[i].get("g", ""), g[i].get("lemma", "")
+                lang = {"he": "Hebrew", "ar": "Aramaic"}.get(g[i].get("l")) or langs.get(n)
+                hebrew = (lang or "").startswith(("Hebrew", "Mishnah"))
                 title = is_title(ws, g, i)
                 if title and TITLE_NOTE not in gl:
                     gl += TITLE_NOTE
@@ -354,8 +392,9 @@ def items_for(gk, meta, glosses, cache):
                 if key not in items:
                     ctx = " ".join(plain(x) for x in ws[max(0, i - CTX):i]) + " [" + plain(w) + "] " + \
                           " ".join(plain(x) for x in ws[i + 1:i + 1 + CTX])
-                    items[key] = {"w": plain(w), "lemma": lem, "g": gl, "ctx": ctx.strip(), "lang": langs.get(n),
-                                  "cands": [] if gloss_only(w) or title else candidates(w, lem, cache)}
+                    skip = gloss_only(w) or title or (hebrew and heb_common(w))
+                    items[key] = {"w": plain(w), "lemma": lem, "g": gl, "ctx": ctx.strip(), "lang": lang,
+                                  "cands": [] if skip else candidates(w, lem, cache, hebrew)}
                     if items[key]["cands"]:
                         groups.setdefault(group_key(w, lem), []).append(key)
     return items, where, groups
@@ -366,10 +405,15 @@ def group_cands(keys, items):
     for k in keys:   # own-word candidates first, then the rest
         for own in (True, False):
             for x in items[k]["cands"]:
-                if bool(x.get("own")) == own and x["hw"] not in seen:
-                    seen.add(x["hw"])
+                if bool(x.get("own")) == own and ref(x) not in seen:
+                    seen.add(ref(x))
                     out.append(x)
     return out[:2 * MAX_CANDS]
+
+
+def ref(x):
+    """How a chosen entry is stored: Jastrow's headword, or "K:" + Klein's."""
+    return ("K:" if x.get("lex") == "K" else "") + x["hw"]
 
 
 def entry_build(chunk=50):
@@ -384,7 +428,7 @@ def entry_build(chunk=50):
         ids, gcands, blocks = {}, {}, []
         for gi, (lem, keys) in enumerate(sorted(groups.items())):
             cs = group_cands(keys, items)
-            gcands[str(gi + 1)] = [x["hw"] for x in cs]
+            gcands[str(gi + 1)] = [ref(x) for x in cs]
             uses = []
             for j, k in enumerate(keys):
                 uid = f"{gi + 1}{chr(97 + j) if j < 26 else 'z' + str(j)}"
@@ -393,7 +437,7 @@ def entry_build(chunk=50):
                 uses.append(f"  {uid}) {v['w']} = \"{v['g']}\"" + (f" [{v['lang']}]" if v["lang"] else "") +
                             f" — in: {v['ctx']}")
             blocks.append((len(keys), f"[{gi + 1}] suggested form {lem}\nUses:\n" + "\n".join(uses) + "\nCandidates:\n" +
-                           "\n".join(f"  {j + 1}. {x['hw']}{' (via ' + x['via'] + ')' if x['via'] else ''}"
+                           "\n".join(f"  {j + 1}. {'Klein: ' if x.get('lex') == 'K' else ''}{x['hw']}{' (via ' + x['via'] + ')' if x['via'] else ''}"
                                       f"{' (from the word)' if x.get('own') else ''} — {x['senses'] or '(no English given)'}"
                                       for j, x in enumerate(cs))))
         reqs, cur, n = [], [], 0
@@ -480,7 +524,7 @@ SENSE_SYSTEM = """You help English-speaking learners of the Babylonian Talmud wh
 Each item gives a word from the Gemara (without vowels), the English gloss already decided for it in its line, a few words of the line around it, and the full text of the Jastrow entry chosen for it (citations included).
 
 For each item:
-- "q": copy, character for character, a short phrase from the entry (3 to 8 words) where the sense that fits the gloss begins: a sense number with its first words ("2) to say"), a form marker with its form ("Pl. רַבָּנָן", "Pa. אַמֵּר"), or the first words of the sense's English. Use "" if the sense that fits is the entry's opening sense.
+- "q": copy, character for character, a short phrase from the entry (3 to 8 words) where the sense that fits the gloss begins: a sense number with its first words ("2) to say"), a form marker with its form ("Pl. רַבָּנָן", "Pa. אַמֵּר"), or the first words of the sense's English. Use "" if the sense that fits is the entry's opening sense. Prefer the plain, literal sense of the word over a figurative or extended one ("to crumble" over "to refute"; "to see, assess" over "to regard as") unless the gloss itself is figurative.
 - "fit": "yes" if some sense of this entry fits the word as glossed; "no" if none does (the entry is probably the wrong one for this word).
 
 Reply with one JSON object and nothing else: {"senses": {"<item id>": {"q": "...", "fit": "yes"}, ...}}"""
@@ -503,13 +547,14 @@ def fetch_entries(hws):
     cache = json.loads(ENTRIES.read_text()) if ENTRIES.exists() else {}
 
     def get(hw):
-        q = re.sub(r"\s+[IVX]+$|\s*[¹²³⁴]$", "", plain(hw)).replace("־", "")
+        q = re.sub(r"\s+[IVX]+$|\s*[¹²³⁴]$", "", plain(hw.removeprefix("K:"))).replace("־", "")
         try:
             url = "https://www.sefaria.org/api/words/" + urllib.parse.quote(q) + "?never_split=0"
             with urllib.request.urlopen(url, timeout=30) as f:
                 es = json.load(f)
-            hit = next((e for e in es if isinstance(e, dict) and "Jastrow" in e.get("parent_lexicon", "")
-                        and e.get("headword") == hw), None)
+            lex = "Klein" if hw.startswith("K:") else "Jastrow"
+            hit = next((e for e in es if isinstance(e, dict) and lex in e.get("parent_lexicon", "")
+                        and e.get("headword") == hw.removeprefix("K:")), None)
             return hw, entry_text(hit) if hit else None
         except Exception:
             return hw, None
@@ -612,11 +657,97 @@ def sense_harvest(gk="sonnet"):
             print("  no fit:", k)
 
 
+
+# ---------- 5. retry: a second choice where the sense step found no fitting sense ----------
+
+RETRY_SYSTEM = """You link words of the Babylonian Talmud to the right dictionary entry (Jastrow's Dictionary of the Targumim, Talmud Babli and Yerushalmi, or Klein's dictionary of Hebrew for Hebrew words), for English-speaking learners who tap a word and see the entry.
+
+Each item gives a word from the Gemara (without vowels), its language, the English gloss already decided for it in its line, a few words of the line around it, and numbered candidate entries with their senses. An entry chosen earlier for this word was checked and found to have no sense that fits the gloss; it is listed as rejected. Choose the candidate that defines this word in the sense of its gloss, or 0 if none does: answering 0 is better than a wrong entry, since the reader will then see the gloss alone.
+
+Reply with one JSON object and nothing else: {"choices": {"<item id>": <candidate number or 0>, ...}}"""
+
+
+def retry_build():
+    reqs, rplan = [], {}
+    for gk in MODELS:
+        plan = json.loads((RUN / "entry_plan.json").read_text())[gk]
+        chosen = json.loads((RUN / "entries.json").read_text())[gk]
+        senses = json.loads((RUN / f"senses_{gk}.json").read_text())
+        bad = {k for k, v in senses.items() if not v["fit"]}
+        todo = [k for k, hw in chosen.items() if f"{hw}|{plan['items'][k]['g'].lower().strip()}" in bad]
+        rplan[gk] = {}
+        text = []
+        for j, k in enumerate(todo):
+            v = plan["items"][k]
+            cs = [x for x in v["cands"] if ref(x) != chosen[k]]
+            rplan[gk][str(j + 1)] = {"key": k, "cands": [ref(x) for x in cs], "rejected": chosen[k]}
+            text.append(f"[{j + 1}] {v['w']} ({v.get('lang') or 'language not marked'}) = \"{v['g']}\" — in: {v['ctx']}\n"
+                        f"  rejected: {chosen[k].removeprefix('K:')}\n" + "\n".join(
+                f"  {n + 1}. {'Klein: ' if x.get('lex') == 'K' else ''}{x['hw']} — {x['senses'] or '(no English given)'}"
+                for n, x in enumerate(cs)))
+        if text:
+            reqs.append({"custom_id": gk, "params": {
+                "model": MODELS["sonnet"][0], "max_tokens": 16000, "thinking": {"type": "adaptive"},
+                "output_config": {"effort": "medium"}, "system": RETRY_SYSTEM,
+                "messages": [{"role": "user", "content": "\n\n".join(text)}]}})
+        print(f"{gk}: {len(todo)} words to choose again")
+    (RUN / "retry_plan.json").write_text(json.dumps(rplan, ensure_ascii=False))
+    (RUN / "retry_requests.jsonl").write_text("\n".join(json.dumps(r, ensure_ascii=False) for r in reqs))
+
+
+def retry_submit():
+    client = anthropic.Anthropic()
+    state = RUN / "retry_batch.json"
+    if not state.exists():
+        reqs = [json.loads(l) for l in (RUN / "retry_requests.jsonl").read_text().splitlines()]
+        state.write_text(json.dumps({"id": client.messages.batches.create(requests=reqs).id}))
+    batch_wait(client, {"retry": json.loads(state.read_text())["id"]})
+
+
+def retry_harvest():
+    """entries_final.json: entries.json with the second choices applied; a word with no fitting entry is dropped
+    (the reader sees its gloss alone) and listed under "dropped"."""
+    client = anthropic.Anthropic()
+    rplan = json.loads((RUN / "retry_plan.json").read_text())
+    final = json.loads((RUN / "entries.json").read_text())
+    bid = json.loads((RUN / "retry_batch.json").read_text())["id"]
+    _, pin, pout = MODELS["sonnet"]
+    tin = tout = 0
+    dropped, changed = {gk: [] for gk in rplan}, {gk: 0 for gk in rplan}
+    for r in client.messages.batches.results(bid):
+        gk = r.custom_id
+        if r.result.type != "succeeded":
+            print("failed:", gk)
+            continue
+        m = r.result.message
+        tin += m.usage.input_tokens
+        tout += m.usage.output_tokens
+        ch = (parse_json("".join(b.text for b in m.content if b.type == "text")) or {}).get("choices", {})
+        for iid, it in rplan[gk].items():
+            j = ch.get(iid)
+            if isinstance(j, int) and 1 <= j <= len(it["cands"]):
+                final[gk][it["key"]] = it["cands"][j - 1]
+                changed[gk] += 1
+            else:
+                final[gk].pop(it["key"], None)
+                dropped[gk].append(it["key"])
+    final["dropped"] = dropped
+    (RUN / "entries_final.json").write_text(json.dumps(final, ensure_ascii=False))
+    line = (f"Retry: {tin:,} in + {tout:,} out, ${(tin * pin + tout * pout) / 1e6:.2f}. "
+            f"New entry: {changed}; gloss alone: { {k: len(v) for k, v in dropped.items()} }")
+    with open(RUN / "report.md", "a") as f:
+        f.write(line + "\n")
+    print(line)
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("cmd", choices=["gloss-build", "gloss-submit", "gloss-harvest", "cands",
                                     "entry-build", "entry-submit", "entry-harvest", "sense-build", "sense-submit",
-                                    "sense-harvest"])
+                                    "sense-harvest", "retry-build", "retry-submit", "retry-harvest"])
     {"gloss-build": gloss_build, "gloss-submit": gloss_submit, "gloss-harvest": gloss_harvest, "cands": cands,
      "entry-build": entry_build, "entry-submit": entry_submit, "entry-harvest": entry_harvest,
-     "sense-build": sense_build, "sense-submit": sense_submit, "sense-harvest": sense_harvest}[ap.parse_args().cmd]()
+     "sense-build": lambda: [sense_build(g) for g in MODELS],
+     "sense-submit": lambda: [sense_submit(g) for g in MODELS],
+     "sense-harvest": lambda: [sense_harvest(g) for g in MODELS],
+     "retry-build": retry_build, "retry-submit": retry_submit, "retry-harvest": retry_harvest}[ap.parse_args().cmd]()

@@ -45,10 +45,11 @@ For each line you get the Gemara text (vocalized), the William Davidson English 
 For every word in the numbered word list, give:
 - "w": the word as listed, without vowels (so the entries can be checked against the text).
 - "lemma": the dictionary form, as Jastrow's Dictionary of the Targumim, Talmud Babli and Yerushalmi lists it, unvocalized: for a verb its root (קתני -> תני, למיתנא -> תני, דמשתבע -> שבע, תימא -> אמר), for a noun or adjective its singular absolute form (שבועת -> שבועה), for a particle the particle itself (נמי, הכא). Strip prefixes (ו, ד, ה, ב, ל, מ, ש, כ, and ק/קא before a verb) and suffixes. For a person's name, the name (רב, אביי, יוחנן). For a word that is really an abbreviation, the abbreviation as written. Stay within the word itself: give the dictionary form of this word in its own language, never its equivalent in the other language. An Aramaic word keeps its Aramaic form (מיתבר -> תבר, not the Hebrew שבר; לישתוק -> שתק as Jastrow lists the Aramaic), and a Hebrew word its Hebrew form, even when the meaning is the same.
+- "l": the word's language here: "he" for Hebrew (the Mishnah, a baraita, a verse, a Hebrew phrase quoted inside the Gemara's discussion), "ar" for Aramaic (the Gemara's own language). Judge the word, not only the line: a Hebrew quotation inside an Aramaic line is "he".
 - "g": a short English gloss of what the word means HERE, in context, 1 to 5 words, including what its prefixes and suffixes add ("and let him teach", "who swears", "if you say", "from the Sages", "it was taught"). For a term of art, the term's sense here ("by rabbinic law", "an oath"). For a name, the person ("Rabbi Yochanan"). Plain English; write Hebrew terms in italic transliteration only if they are terms of art.
 
 Reply with one JSON object and nothing else:
-{"lines": [{"n": <line number>, "words": [{"w": "...", "lemma": "...", "g": "..."}, ...]}, ...]}
+{"lines": [{"n": <line number>, "words": [{"w": "...", "lemma": "...", "l": "ar", "g": "..."}, ...]}, ...]}
 Give exactly one entry per listed word, in the listed order."""
 
 
