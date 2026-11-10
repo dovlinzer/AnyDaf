@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import time
 import urllib.parse
@@ -31,7 +32,7 @@ from dotenv import load_dotenv
 from word_gloss_pilot import HERE, MODELS, SYSTEM as GLOSS_SYSTEM, prompt
 
 load_dotenv(HERE / ".env", override=True)
-RUN = HERE / "outline" / "word_gloss" / "run2"
+RUN = HERE / "outline" / "word_gloss" / os.environ.get("WG_RUN", "run2")   # run3: gloss rule + entry fixes
 CACHE = HERE / "outline" / "word_gloss" / "jastrow_full.json"
 AMUDIM = [("Bava Kamma", "10b"), ("Sanhedrin", "37a"), ("Ketubot", "17a"), ("Hullin", "88a")]
 ENTRY_MODEL = "sonnet"
@@ -40,6 +41,17 @@ TAGS = re.compile(r"<[^>]+>")
 FIN = {"כ": "ך", "מ": "ם", "נ": "ן", "פ": "ף", "צ": "ץ"}
 MAX_CANDS = 12
 SENSE_CHARS = 320
+# Prepositions with a pronoun suffix, and the possessive דיד-: Jastrow has no entry that helps a reader here (only the
+# bare prefix or a "v." pointer), so these show the gloss alone.
+GLOSS_ONLY = {"לי", "לך", "ליך", "ליה", "לה", "לן", "לכו", "לכון", "להו", "להון", "להם", "לו", "לנו", "לכם",
+              "בי", "בך", "ביה", "בה", "בן", "בכו", "בהו", "בהון", "בו", "בם", "בהם",
+              "מיניה", "מינה", "מינאי", "מינך", "מינן", "מינייהו", "מינהון", "ממנו", "ממנה",
+              "דידי", "דידך", "דידיה", "דידה", "דידן", "דידכו", "דידהו", "עליה", "עלה", "עלייהו", "עלן", "עלי"}
+
+
+def gloss_only(w):
+    w = plain(w)
+    return any(f in GLOSS_ONLY for f in [w] + [w[k:] for k in (1, 2) if all(c in "ודהבלמשכ" for c in w[:k])])
 
 
 def plain(w):
@@ -247,14 +259,16 @@ def cands():
 def candidates(word, lemma, cache):
     out, seen = [], set()
 
-    def add(e, via=None):
+    def add(e, via=None, own=False):
         if e["hw"] not in seen and len(out) < MAX_CANDS:
             seen.add(e["hw"])
-            out.append({"hw": e["hw"], "senses": e["senses"], "via": via})
+            out.append({"hw": e["hw"], "senses": e["senses"], "via": via, "own": own})
 
-    for q in [fin(plain(lemma))] + wforms(plain(word)) if lemma else wforms(plain(word)):
+    own = wforms(plain(word))
+    qs = own + ([fin(plain(lemma))] if lemma and fin(plain(lemma)) not in own else [])
+    for q in qs:
         for e in cache.get(q) or []:
-            add(e)
+            add(e, own=q in own and not e["hw"].rstrip(" I²³").endswith("־"))
             if e.get("ptr"):
                 for t in cache.get(e["ptr"]) or []:
                     if plain(t["hw"]).startswith(e["ptr"]):
@@ -270,9 +284,10 @@ def candidates(word, lemma, cache):
 
 ENTRY_SYSTEM = """You link words of the Babylonian Talmud to the right entry in Jastrow's Dictionary of the Targumim, Talmud Babli and Yerushalmi, for English-speaking learners who tap a word and see the entry.
 
-Each item gives a word as it appears in the Gemara (without vowels), its dictionary form, and the English gloss already decided for it in its line. Then numbered candidate Jastrow entries, each with its senses (English only, citations removed; verb stems such as Pa., Ithpe., Hif. label the senses that follow). Jastrow often has several entries with one spelling (numbered I, II, III), and separate Hebrew and Aramaic ("ch.") entries for the same word.
+Each item gives a word as it appears in the Gemara (without vowels), the English gloss already decided for it in its line, and a suggested dictionary form. The suggested form is only a hint: it can be wrong, and sometimes names the word's equivalent in the other language (the Hebrew שבר for the Aramaic תבר); a bare prefix letter (ש, ד) is not the word. Then numbered candidate Jastrow entries, each with its senses (English only, citations removed; verb stems such as Pa., Ithpe., Hif. label the senses that follow). Jastrow often has several entries with one spelling (numbered I, II, III), and separate Hebrew and Aramaic ("ch.") entries for the same word.
 
 For each item choose the entry that defines this word in the sense of the gloss:
+- prefer an entry found from the word itself as written (marked "from the word") when one fits the gloss; turn to the suggested form's entry only when none of those fits;
 - the entry for the word's root or base form, not one for a prefix letter alone (choose ל- or ב- only when the word is just that preposition with a pronoun suffix, like ליה or בו), and not a different word that shares the spelling;
 - read all the senses: the sense that fits may come late in an entry;
 - an entry that only refers elsewhere ("v. X") is acceptable only if its target is not among the candidates; prefer the target (marked "via");
@@ -295,7 +310,8 @@ def items_for(gk, meta, glosses, cache):
                 key = f"{plain(w)}|{gl.lower().strip()}"
                 where[f"{c}:{n}:{i}"] = key
                 if key not in items:
-                    items[key] = {"w": plain(w), "lemma": lem, "g": gl, "cands": candidates(w, lem, cache)}
+                    items[key] = {"w": plain(w), "lemma": lem, "g": gl,
+                                  "cands": [] if gloss_only(w) else candidates(w, lem, cache)}
     return items, where
 
 
@@ -316,8 +332,8 @@ def entry_build(chunk=50):
             text = []
             for k in keys[s:s + chunk]:
                 v = items[k]
-                text.append(f"[{ids[k]}] {v['w']} (dictionary form {plain(v['lemma'])}) = \"{v['g']}\"\n" + "\n".join(
-                    f"  {j + 1}. {x['hw']}{' (via ' + x['via'] + ')' if x['via'] else ''} — {x['senses'] or '(no English given)'}"
+                text.append(f"[{ids[k]}] {v['w']} = \"{v['g']}\" (suggested form {plain(v['lemma'])})\n" + "\n".join(
+                    f"  {j + 1}. {x['hw']}{' (via ' + x['via'] + ')' if x['via'] else ''}{' (from the word)' if x.get('own') else ''} — {x['senses'] or '(no English given)'}"
                     for j, x in enumerate(v["cands"])))
             reqs.append({"custom_id": f"{gk}__{s // chunk}", "params": {
                 "model": model, "max_tokens": 16000, "thinking": {"type": "adaptive"}, "output_config": {"effort": "medium"},
