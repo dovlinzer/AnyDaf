@@ -1,0 +1,120 @@
+<title>Jastrow Entry Check</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+/* layout: one column of cards, each a word in its line with the two pipelines' entries side by side */
+:root{
+  --bg:#f5f6f8; --card:#ffffff; --fg:#1c2331; --muted:#5d6678; --line:#dce0e7;
+  --son:#1f6f8b; --son-soft:#e3f0f5; --hai:#9a5b13; --hai-soft:#f7ecdc;
+  --ok:#1d7a46; --ok-soft:#e1f3e8; --no:#b3261e; --no-soft:#fbe4e2; --hl:#fff0b8;
+  --hebrew:"Frank Ruhl Libre","Times New Roman",serif; --sans:"Source Sans 3",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#11151c; --card:#1a2029; --fg:#e4e8ef; --muted:#9aa3b2; --line:#2c3440;
+  --son:#6fc0dc; --son-soft:#16303a; --hai:#e0a35a; --hai-soft:#3a2a15;
+  --ok:#6fd49a; --ok-soft:#173526; --no:#ff8a80; --no-soft:#3d1c1a; --hl:#4a3f12; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11151c; --card:#1a2029; --fg:#e4e8ef; --muted:#9aa3b2; --line:#2c3440;
+  --son:#6fc0dc; --son-soft:#16303a; --hai:#e0a35a; --hai-soft:#3a2a15;
+  --ok:#6fd49a; --ok-soft:#173526; --no:#ff8a80; --no-soft:#3d1c1a; --hl:#4a3f12; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.5 var(--sans);margin:0}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--card)}
+.wrap{max-width:960px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 48px}
+header{padding-block:24px 8px}
+h1{font-size:1.6rem;margin:0 0 4px;text-wrap:balance}
+.lede{color:var(--muted);margin:0 0 6px;max-width:68ch}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--card);border-bottom:1px solid var(--line);margin-inline:calc(-1 * max(16px,env(safe-area-inset-left,0px)));padding:10px max(16px,env(safe-area-inset-left,0px));display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;font-size:13.5px}
+.bar b{font-variant-numeric:tabular-nums}
+.k-son{color:var(--son);font-weight:700}.k-hai{color:var(--hai);font-weight:700}
+.save{margin-left:auto;color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;margin-top:14px;padding:12px 14px}
+.where{font:700 12px var(--sans);color:var(--muted);letter-spacing:.05em;text-transform:uppercase}
+.he{font:400 1.2rem/1.8 var(--hebrew);direction:rtl;margin:4px 0}
+.he mark{background:var(--hl);color:inherit;border-radius:3px;padding:0 2px}
+.en{color:var(--muted);font-size:13.5px;margin:0 0 10px}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media (max-width:640px){.pair{grid-template-columns:1fr}}
+.side{border:1px solid var(--line);border-radius:6px;padding:8px 10px;min-width:0}
+.side.son{border-top:3px solid var(--son)}.side.hai{border-top:3px solid var(--hai)}
+.lab{font:700 12px var(--sans);text-transform:uppercase;letter-spacing:.05em}
+.gl{margin:2px 0 6px}.gl .lm{font-family:var(--hebrew);direction:rtl;unicode-bidi:isolate;color:var(--muted)}
+.hw{font:500 1.15rem var(--hebrew);direction:rtl;unicode-bidi:isolate}
+.sn{font-size:13px;color:var(--muted);margin:2px 0 0}
+.vote{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.vote button{border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:999px;padding:4px 12px;font:600 13px var(--sans);cursor:pointer}
+.vote button:focus-visible{outline:2px solid var(--son);outline-offset:2px}
+.vote button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.vote button[data-v="s"][aria-pressed="true"]{background:var(--son);border-color:var(--son);color:var(--card)}
+.vote button[data-v="h"][aria-pressed="true"]{background:var(--hai);border-color:var(--hai);color:var(--card)}
+label{display:inline-flex;gap:6px;align-items:center}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Jastrow Entry Check</h1>
+    <p class="lede">Four new amudim (Bava Kamma 10b, Sanhedrin 37a, Ketubot 17a, Hullin 88a) went through the whole pipeline twice: once with <span class="k-son">Sonnet's</span> glosses and once with <span class="k-hai">Haiku's</span>. In both runs Sonnet chose the Jastrow entry, now seeing every sense of each candidate. These are the only words where the two runs ended at different entries.</p>
+    <p class="lede">For each, choose which entry is right for the word in its line. "Both fine" when either serves the reader (say a Hebrew and an Aramaic entry for the same word).</p>
+  </header>
+  <div class="bar">
+    <span>Done <b id="done">0</b> of <b id="total">0</b></span>
+    <span><span class="k-son">Sonnet's</span> <b id="c-s">0</b> · <span class="k-hai">Haiku's</span> <b id="c-h">0</b> · Both <b id="c-b">0</b> · Neither <b id="c-n">0</b></span>
+    <label><input type="checkbox" id="todo"> Only the ones not yet answered</label>
+    <span class="save" id="save"></span>
+  </div>
+  <main id="main"></main>
+</div>
+
+<script>
+const DATA = __DATA__;
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let votes = {}, db = null;
+const LABELS = [["s","Sonnet's is right"],["h","Haiku's is right"],["b","Both fine"],["n","Neither"]];
+
+function side(cls, name, x){
+  return `<div class="side ${cls}"><div class="lab k-${cls}">${name}'s gloss</div>
+    <div class="gl">"${esc(x.g)}" <span class="lm" lang="he">${esc(x.lemma)}</span></div>
+    <div class="hw" lang="he">${esc(x.hw || "no entry chosen")}</div><p class="sn">${esc(x.senses)}</p></div>`;
+}
+function render(){
+  const only = $("todo").checked;
+  $("main").innerHTML = DATA.filter(d => !only || !votes[d.id]).map(d => {
+    const he = d.words.map((w,i) => i===d.i ? `<mark>${esc(w)}</mark>` : esc(w)).join(" ");
+    return `<section class="card" data-id="${d.id}"><div class="where">${esc(d.amud)} · line ${d.line}</div>
+      <p class="he" lang="he">${he}</p><p class="en">${esc(d.en)}</p>
+      <div class="pair">${side("son","Sonnet",d.s)}${side("hai","Haiku",d.h)}</div>
+      <div class="vote">${LABELS.map(([v,l]) => `<button type="button" data-v="${v}" aria-pressed="${votes[d.id]===v}">${l}</button>`).join("")}</div></section>`;
+  }).join("") || `<p class="lede" style="margin-top:16px">All answered.</p>`;
+  count();
+}
+function count(){
+  const vs = Object.values(votes);
+  $("total").textContent = DATA.length; $("done").textContent = vs.length;
+  for(const v of "shbn") $("c-"+v).textContent = vs.filter(x=>x===v).length;
+}
+async function save(id){
+  try{ localStorage.setItem("entryVotes", JSON.stringify(votes)); }catch(e){}
+  if(!db){ $("save").textContent = "Saved in this browser"; return; }
+  $("save").textContent = "Saving…";
+  try{ await db.doc("entry_votes/"+id).set({v: votes[id] || null}); $("save").textContent = "Saved"; }
+  catch(e){ $("save").textContent = "Couldn't save online; kept in this browser"; }
+}
+$("main").addEventListener("click", e => {
+  const b = e.target.closest(".vote button"); if(!b) return;
+  const card = b.closest(".card"), id = card.dataset.id, v = b.dataset.v;
+  if(votes[id] === v) delete votes[id]; else votes[id] = v;
+  card.querySelectorAll(".vote button").forEach(x => x.setAttribute("aria-pressed", votes[id] === x.dataset.v));
+  count(); save(id);
+});
+$("todo").addEventListener("change", render);
+try{ votes = JSON.parse(localStorage.getItem("entryVotes")||"{}"); }catch(e){}
+render();
+(async()=>{
+  db = await claude.use("db"); if(!db) return;
+  for(const d of DATA){
+    try{ const s = await db.doc("entry_votes/"+d.id).get(); const v = s && s.exists ? s.data() : null; if(v && v.v) votes[d.id] = v.v; }catch(e){}
+  }
+  render();
+})();
+</script>
