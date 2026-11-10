@@ -55,6 +55,21 @@ def gloss_only(w):
     return any(f in GLOSS_ONLY for f in [w] + [w[k:] for k in (1, 2) if all(c in "ודבל" for c in w[:k])])
 
 
+TITLES = {"רב", "רבי", "רבן"}
+TITLE_NOTE = " (title before a sage's name)"
+
+
+def is_title(ws, glosses, i):
+    """רב / רבי / רבן (with a prefix like ד ו ל כ) when the next word is a name: the reader needs no entry for the title.
+    Without a name after it the word is a person (Rav, Rebbe) and keeps its entry."""
+    w = plain(ws[i])
+    stem = next((w[k:] for k in (0, 1, 2) if w[k:] in TITLES and all(c in "ודלכמשב" for c in w[:k])), None)
+    if not stem or i + 1 >= len(ws):
+        return False
+    nxt = (glosses[i + 1].get("g") or "").strip()
+    return bool(nxt) and nxt[0].isupper()
+
+
 def plain(w):
     return NIK.sub("", w or "")
 
@@ -331,13 +346,16 @@ def items_for(gk, meta, glosses, cache):
                 continue
             for i, w in enumerate(ws):
                 gl, lem = g[i].get("g", ""), g[i].get("lemma", "")
+                title = is_title(ws, g, i)
+                if title and TITLE_NOTE not in gl:
+                    gl += TITLE_NOTE
                 key = f"{plain(w)}|{gl.lower().strip()}"
                 where[f"{c}:{n}:{i}"] = key
                 if key not in items:
                     ctx = " ".join(plain(x) for x in ws[max(0, i - CTX):i]) + " [" + plain(w) + "] " + \
                           " ".join(plain(x) for x in ws[i + 1:i + 1 + CTX])
                     items[key] = {"w": plain(w), "lemma": lem, "g": gl, "ctx": ctx.strip(), "lang": langs.get(n),
-                                  "cands": [] if gloss_only(w) else candidates(w, lem, cache)}
+                                  "cands": [] if gloss_only(w) or title else candidates(w, lem, cache)}
                     if items[key]["cands"]:
                         groups.setdefault(group_key(w, lem), []).append(key)
     return items, where, groups
