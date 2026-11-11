@@ -38,6 +38,8 @@ AMUDIM = [("Bava Kamma", "10b"), ("Sanhedrin", "37a"), ("Ketubot", "17a"), ("Hul
 if RUN.name >= "run5":   # four more, mostly the Gemara's own Aramaic and no Mishnah, for a second test set
     AMUDIM += [("Gittin", "56a"), ("Bava Kamma", "27b"), ("Kiddushin", "45b"), ("Menachot", "29b")]
 ENTRY_MODEL = "sonnet"
+GKS = [k for k in os.environ.get("WG_GLOSS", ",".join(MODELS)).split(",") if k in MODELS]   # gloss pipelines to run
+ONLY = json.loads(open(os.environ["WG_ONLY"]).read()) if os.environ.get("WG_ONLY") else None   # targeted rerun
 NIK = re.compile(r"[֑-ׇ\"'׳״]")
 TAGS = re.compile(r"<[^>]+>")
 FIN = {"כ": "ך", "מ": "ם", "נ": "ן", "פ": "ף", "צ": "ץ"}
@@ -80,6 +82,9 @@ def fin(w):
     return w[:-1] + FIN[w[-1]] if len(w) > 1 and w[-1] in FIN else w
 
 
+SUFFIXES = ("ייהו", "יהון", "יהו", "הון", "יה", "א")
+
+
 def wforms(w):
     """The word, its forms without 1-2 prefix letters (and without the Aramaic present-tense ק / קא), and each of
     those without its inner yod or vav (Jastrow often spells defectively: נבילה -> נבלה)."""
@@ -87,6 +92,13 @@ def wforms(w):
     for k in (1, 2):
         if len(w) - k >= 2 and all(c in "ודהבלמשכ" for c in w[:k]):
             base.append(fin(w[k:]))
+    # then without the Aramaic final -א (Jastrow heads קְרָב, קְרָבָא under קרב) or a pronoun suffix (ידיה -> יד);
+    # these come after the word as written, so a root alef or heh (קרא, אתא) is still found first
+    for b in list(base):
+        for suf in SUFFIXES:
+            if b.endswith(suf) and len(b) - len(suf) >= (3 if suf == "א" else 2):
+                base.append(fin(b[:-len(suf)]))
+    # last, without the present-tense ק / קא (a word that merely starts with ק, like קרבא, finds its entry above)
     for b in list(base):
         if b.startswith("קא") and len(b) >= 5:
             base.append(b[2:])
@@ -99,6 +111,7 @@ def wforms(w):
             if f not in out and len(f) >= 2:
                 out.append(f)
     return out
+
 
 
 # Common Hebrew words that need no dictionary entry; the gloss alone serves the reader.
@@ -309,6 +322,25 @@ def candidates(word, lemma, cache, hebrew=False):
             seen.add(key)
             out.append({"hw": e["hw"], "lex": e.get("lex", "J"), "senses": e["senses"], "via": via, "own": own})
 
+    def filled(es):
+        """Jastrow's Aramaic entry that says only "ch. same" comes with no English: give it the senses of the entry
+        above it with the same spelling, marked as its Aramaic form."""
+        out_, prev = [], None
+        for e in es or []:
+            if e.get("lex", "J") == "J" and not e["senses"] and prev and \
+                    plain(prev["hw"]).rstrip(" I²³") == plain(e["hw"]).rstrip(" I²³"):
+                e = dict(e, senses="(Aramaic, ch.) same as the entry above: " + prev["senses"])
+            out_.append(e)
+            if e.get("lex", "J") == "J" and e["senses"]:
+                prev = e
+        return out_
+
+    full = cache
+
+    class Filled:
+        def get(self, q):
+            return filled(full.get(q))
+    cache = Filled()
     own = wforms(plain(word))
     qs = own + ([fin(plain(lemma))] if lemma and fin(plain(lemma)) not in own else [])
     if hebrew:
@@ -340,10 +372,12 @@ Each item is one dictionary form with all its uses in the passage: every distinc
 
 For each use, choose the entry that defines the word in the sense of its gloss:
 - be consistent: uses with the same meaning in the same language get the same entry; give different entries only when the meaning or the language really differs;
-- the language decides between a Hebrew and an Aramaic entry: each use is marked Hebrew or Aramaic. A Hebrew use gets a Klein entry (Klein's dictionary of biblical and rabbinic Hebrew; those candidates are marked "Klein:") when one fits, else Jastrow's Hebrew entry; an Aramaic use gets Jastrow's Aramaic ("ch.") entry when Jastrow has both, and never a Klein entry;
+- the language decides between a Hebrew and an Aramaic entry: each use is marked Hebrew or Aramaic. A Hebrew use gets a Klein entry (Klein's dictionary of biblical and rabbinic Hebrew; those candidates are marked "Klein:") when one fits, else Jastrow's Hebrew entry; an Aramaic use gets Jastrow's Aramaic ("ch.") entry when Jastrow has both, and never a Klein entry. The two are often spelled differently (Hebrew שָׁנָה, Aramaic תְּנֵי; Hebrew זָקֵן, Aramaic סָב): an Aramaic use of תני takes תְּנֵי, not the Hebrew entry;
+- the part of speech follows the gloss: a verb gets the verb's entry, not a noun from the same root (תנא "taught" is תְּנֵי, while תנא "a Tanna" is תַּנָּא);
 - prefer an entry found from the word itself as written (marked "from the word") when one fits; turn to the suggested form's entry only when none of those fits;
 - the entry for the word's root or base form, not one for a prefix letter alone, and not a different word that shares the spelling;
 - read all the senses: the sense that fits may come late in an entry;
+- go by the gloss, not the spelling alone: an entry that matches the word letter for letter is wrong if it defines another meaning (לְעוֹלָם "forever" for ולעולם glossed "and in the world", in עולם הבא);
 - an entry that only refers elsewhere ("v. X") is acceptable only if its target is not among the candidates; prefer the target (marked "via").
 If no candidate fits a use, answer 0 for it.
 
@@ -423,8 +457,10 @@ def entry_build(chunk=50):
     model, pin, _ = MODELS[ENTRY_MODEL]
     client = anthropic.Anthropic()
     plan = {}
-    for gk in MODELS:
+    for gk in GKS:
         items, where, groups = items_for(gk, meta, glosses, cache)
+        if ONLY:
+            groups = {g: ks for g, ks in groups.items() if g in ONLY["groups"]}
         ids, gcands, blocks = {}, {}, []
         for gi, (lem, keys) in enumerate(sorted(groups.items())):
             cs = group_cands(keys, items)
@@ -465,7 +501,7 @@ def entry_submit():
     client = anthropic.Anthropic()
     state = RUN / "entry_batch.json"
     if not state.exists():
-        reqs = [json.loads(l) for gk in MODELS for l in (RUN / f"entry_requests_{gk}.jsonl").read_text().splitlines()]
+        reqs = [json.loads(l) for gk in GKS for l in (RUN / f"entry_requests_{gk}.jsonl").read_text().splitlines()]
         state.write_text(json.dumps({"id": client.messages.batches.create(requests=reqs).id}))
     batch_wait(client, {"entries": json.loads(state.read_text())["id"]})
 
@@ -495,7 +531,7 @@ def entry_harvest():
     (RUN / "entries.json").write_text(json.dumps(chosen, ensure_ascii=False))
     # per running word: the entry each pipeline shows
     same = diff = none = 0
-    keys = set(plan["sonnet"]["where"]) & set(plan["haiku"]["where"])
+    keys = set(plan["sonnet"]["where"]) & set(plan["haiku"]["where"]) if len(plan) > 1 else set()
     for w in keys:
         a = chosen["sonnet"].get(plan["sonnet"]["where"][w])
         b = chosen["haiku"].get(plan["haiku"]["where"][w])
@@ -524,8 +560,9 @@ SENSE_SYSTEM = """You help English-speaking learners of the Babylonian Talmud wh
 Each item gives a word from the Gemara (without vowels), the English gloss already decided for it in its line, a few words of the line around it, and the full text of the Jastrow entry chosen for it (citations included).
 
 For each item:
-- "q": copy, character for character, a short phrase from the entry (3 to 8 words) where the sense that fits the gloss begins: a sense number with its first words ("2) to say"), a form marker with its form ("Pl. רַבָּנָן", "Pa. אַמֵּר"), or the first words of the sense's English. Use "" if the sense that fits is the entry's opening sense. Prefer the plain, literal sense of the word over a figurative or extended one ("to crumble" over "to refute"; "to see, assess" over "to regard as") unless the gloss itself is figurative.
-- "fit": "yes" if some sense of this entry fits the word as glossed; "no" if none does (the entry is probably the wrong one for this word).
+- "q": copy, character for character, a short phrase from the entry (3 to 8 words) where the sense that fits the gloss begins: a sense number with its first words ("2) to say"), a form marker with its form ("Pl. רַבָּנָן", "Pa. אַמֵּר"), or the first words of the sense's English. Use "" if the sense that fits is the entry's opening sense.
+  Point to the sense that matches the gloss; if two senses match about equally well, choose the earlier one. Choose by what the word means here, not by the passage's topic: a general word in a specialized context keeps its general sense (ספר "scroll" in a passage about a Torah scroll is "book, document", not the sense for ס׳ תורה). An idiom the entry lists (נָיְחָא נפשיה "his soul rested", i.e. he died) is the sense to point to when the gloss is that idiom. Prefer the plain, literal sense over a figurative or extended one ("to crumble" over "to refute"; "to see, assess" over "to regard as") unless the gloss itself is figurative.
+- "fit": "yes" if some sense of this entry fits the word as glossed; "no" if none does (the entry is probably the wrong one for this word). Judge the word without its prefix letters (ד, ו, ב, ל, ה, מ, ש, כ): the gloss includes their meaning ("of what" for דמאי), the entry does not. A gloss that is a person's name (Rav, Kahana) fits an entry that lists the name or the title it comes from.
 
 Reply with one JSON object and nothing else: {"senses": {"<item id>": {"q": "...", "fit": "yes"}, ...}}"""
 
@@ -587,6 +624,8 @@ SFX = "" if SENSE_MODEL == "sonnet" else "_" + SENSE_MODEL
 
 def sense_build(gk="sonnet", chunk=12):
     items, _ = sense_items(gk)
+    if ONLY:
+        items = {k: v for k, v in items.items() if k in set(ONLY["senses"])}
     keys = sorted(items)
     model, pin, _ = MODELS[SENSE_MODEL]
     reqs = []
@@ -669,7 +708,7 @@ Reply with one JSON object and nothing else: {"choices": {"<item id>": <candidat
 
 def retry_build():
     reqs, rplan = [], {}
-    for gk in MODELS:
+    for gk in GKS:
         plan = json.loads((RUN / "entry_plan.json").read_text())[gk]
         chosen = json.loads((RUN / "entries.json").read_text())[gk]
         senses = json.loads((RUN / f"senses_{gk}.json").read_text())
@@ -740,14 +779,161 @@ def retry_harvest():
     print(line)
 
 
+
+# ---------- 6. fix: local checks after the model steps (no API) ----------
+# Proper names: a gloss that is a name ("Kahana", "Neharde'a") keeps its entry only if the entry is the name's own
+# (Jastrow's "pr. n." / "name of", or an entry opening with the name); else it moves to a name entry spelled like the
+# word, or shows the gloss alone, marked as a name. Hebrew words: a Jastrow entry gives way to Klein's entry for the same
+# word. Last, corrections.json (found in review) overrides both.
+
+CORRECTIONS = HERE / "outline" / "word_gloss" / "corrections.json"
+BASE_RUN = os.environ.get("WG_BASE")   # an earlier full run whose senses a targeted rerun's senses are laid over
+LATIN = re.compile(r"[A-Za-zÀ-ɏḀ-ỿʿ'’]{2,}")
+NAME_MARK = re.compile(r"\bpr\. ?n\.|\bn\. ?pr\.|\bnames? of\b")
+NOT_NAMES = {"jew", "jews", "jewish", "god", "lord", "holy", "blessed", "torah", "mishnah", "mishna", "gemara", "sages",
+             "sage", "rabbis", "rabbinic", "merciful", "heaven", "shabbat", "sabbath", "temple", "israelite", "israelites",
+             "levite", "levites", "priest", "priests", "tanna", "tannaim", "amora", "amoraim", "baraita", "halakha",
+             "shema", "passover", "pesach", "festival", "festivals", "amen", "ark", "sanhedrin", "scripture", "written",
+             "oral", "law", "master", "creator", "omnipresent", "almighty", "one", "he", "him", "his", "i"}
+_EN = None
+
+
+def english():
+    global _EN
+    if _EN is None:
+        try:
+            _EN = {l.strip() for l in open("/usr/share/dict/words") if l.strip() and l.strip().islower()}
+        except OSError:
+            _EN = set()
+    return _EN
+
+
+def skel(t):
+    """A transliteration's consonant skeleton, so Yochanan = Johanan, Nehardea = N'hard'ʿa, Rav = Rab."""
+    import unicodedata
+    t = "".join(c for c in unicodedata.normalize("NFKD", t.lower()) if c.isascii() and c.isalpha())
+    for a, b in (("ch", "h"), ("kh", "h"), ("sh", "s"), ("th", "t"), ("ph", "f"), ("tz", "ts"), ("j", "y"), ("w", "v"),
+                 ("v", "b"), ("k", "c"), ("q", "c")):
+        t = t.replace(a, b)
+    t = re.sub(r"[aeiou]", "", t)
+    return re.sub(r"(.)\1+", r"\1", t)
+
+
+def name_tokens(g):
+    toks = re.findall(r"\b[A-Z][A-Za-z'’ḥḤṭṣʿ]+", g)
+    return [t for t in toks if t.lower() not in NOT_NAMES and t.lower().rstrip("s") not in NOT_NAMES
+            and t.lower() not in english()]
+
+
+def sk_match(a, b):
+    a, b = skel(a), skel(b)
+    n = min(3, len(a), len(b))
+    return bool(a) and (a == b or (n >= 2 and a[:n] == b[:n]) or (n >= 3 and a[-3:] == b[-3:]))
+
+
+def name_entry(text, toks, strict=False):
+    """Where the name's sense begins in an entry (0 for the opening), or None if the entry is not the name's.
+    strict: only an entry that opens with the name itself (for moving a word to another entry)."""
+    if not text:
+        return None
+    lead = re.sub(r"^\([^)]*\)\s*", "", text)
+    if any(w[0].isupper() and sk_match(w, t) for w in LATIN.findall(lead[:60])[:3] for t in toks):
+        return 0
+    if strict:
+        return None
+    for m in NAME_MARK.finditer(text):
+        if m.start() < 150:
+            return 0
+        # the name that follows, every word of it ("Resh Maya" is not "Reish"; "Ḥăninah (Love)" is not "Hanina")
+        run = []
+        for w in LATIN.findall(text[m.end():m.end() + 80]):
+            if w in ("pl", "pr", "m", "f"):
+                continue
+            if not w[0].isupper():
+                break
+            run.append(w)
+        if run and all(any(sk_match(w, t) for t in toks) for w in run[:3]):
+            return m.start()
+    return None
+
+
+def bare(hw):
+    return re.sub(r"[\s*IVX¹²³⁴ᴵⱽ]+$|^\*", "", plain(hw.removeprefix("K:"))).replace("־", "").strip()
+
+
+def fix():
+    gk = "sonnet"
+    plan = json.loads((RUN / "entry_plan.json").read_text())[gk]
+    final = json.loads((RUN / "entries_final.json").read_text())
+    entries = dict(final[gk])
+    senses = json.loads((HERE / "outline" / "word_gloss" / BASE_RUN / f"senses_{gk}.json").read_text()) if BASE_RUN else {}
+    senses.update(json.loads((RUN / f"senses_{gk}.json").read_text()))
+    corr = json.loads(CORRECTIONS.read_text()) if CORRECTIONS.exists() else {"entries": {}, "senses": {}}
+    items = plan["items"]
+    gl = lambda k: items[k]["g"].lower().strip()
+    names, log = [], []
+    named = {k: name_tokens(v["g"]) for k, v in items.items() if v["cands"] and not v["g"].endswith(TITLE_NOTE)}
+    named = {k: t for k, t in named.items() if t}
+    texts = fetch_entries({entries[k] for k in named if entries.get(k)} |
+                          {ref(x) for k in named for x in items[k]["cands"] if x.get("lex") == "J"})
+    for k, toks in sorted(named.items()):
+        hw = entries.get(k)
+        at = name_entry(texts.get(hw), toks) if hw else None
+        if at is not None:
+            if at:   # a name sense inside a longer entry: open the entry there
+                senses[f"{hw}|{gl(k)}"] = {"fit": True, "q": norm_ws(texts[hw])[at:at + 40].rsplit(" ", 1)[0]}
+            continue
+        w = plain(items[k]["w"])
+        forms = {w} | {fin(w[n:]) for n in (1, 2) if len(w) - n >= 2 and all(c in "ודבלכמשה" for c in w[:n])}
+        new = next((ref(x) for x in items[k]["cands"] if x.get("lex") == "J" and bare(x["hw"]) in forms
+                    and name_entry(texts.get(ref(x)), toks, strict=True) == 0), None)
+        log.append(f"name  {k}: {hw} -> {new or '(gloss alone, a name)'}")
+        if new:
+            entries[k] = new
+        else:
+            entries.pop(k, None)
+            names.append(k)
+    for k, hw in list(entries.items()):
+        v = items.get(k)
+        if not v or k in named or hw.startswith("K:") or not (v.get("lang") or "").startswith(("Hebrew", "Mishnah")):
+            continue
+        pts = lambda h: re.sub(r"[\u0591-\u05AF\u05BD\u05C0\u05C3]|[\sIVX¹²³⁴ᴵⱽ*]+$|^\*", "", h.removeprefix("K:"))
+        js = next((x["senses"] for x in v["cands"] if ref(x) == hw), "")
+        verb = bool(re.match(r"[^;]{0,40}?\bto [a-z]", js or ""))
+        ks = [ref(x) for x in v["cands"] if x.get("lex") == "K" and bare(x["hw"]) == bare(hw)
+              and (pts(x["hw"]) == pts(hw) or (verb and pts(x["hw"]) == plain(pts(x["hw"]))))]   # same vowels, or a verb's root
+        if len(ks) == 1:
+            entries[k] = ks[0]
+            log.append(f"klein {k}: {hw} -> {ks[0]}")
+    for k, hw in corr.get("entries", {}).items():
+        if k not in items:
+            log.append(f"corr  {k}: not in this run")
+            continue
+        log.append(f"corr  {k}: {entries.get(k)} -> {hw}")
+        if hw:
+            entries[k] = hw
+            if k in names:
+                names.remove(k)
+        else:
+            entries.pop(k, None)
+    for sk, q in corr.get("senses", {}).items():
+        senses[sk] = {"fit": True, **({"q": q} if q else {})}
+        log.append(f"sense {sk}: -> {q or '(opening)'}")
+    (RUN / "final.json").write_text(json.dumps({"entries": entries, "senses": senses, "names": names},
+                                               ensure_ascii=False))
+    (RUN / "fix_log.txt").write_text("\n".join(log) + "\n")
+    print("\n".join(log))
+    print(f"{len(entries)} entries, {len(names)} names shown as gloss alone, {len(log)} changes")
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("cmd", choices=["gloss-build", "gloss-submit", "gloss-harvest", "cands",
                                     "entry-build", "entry-submit", "entry-harvest", "sense-build", "sense-submit",
-                                    "sense-harvest", "retry-build", "retry-submit", "retry-harvest"])
+                                    "sense-harvest", "retry-build", "retry-submit", "retry-harvest", "fix"])
     {"gloss-build": gloss_build, "gloss-submit": gloss_submit, "gloss-harvest": gloss_harvest, "cands": cands,
      "entry-build": entry_build, "entry-submit": entry_submit, "entry-harvest": entry_harvest,
-     "sense-build": lambda: [sense_build(g) for g in MODELS],
-     "sense-submit": lambda: [sense_submit(g) for g in MODELS],
-     "sense-harvest": lambda: [sense_harvest(g) for g in MODELS],
-     "retry-build": retry_build, "retry-submit": retry_submit, "retry-harvest": retry_harvest}[ap.parse_args().cmd]()
+     "sense-build": lambda: [sense_build(g) for g in GKS],
+     "sense-submit": lambda: [sense_submit(g) for g in GKS],
+     "sense-harvest": lambda: [sense_harvest(g) for g in GKS],
+     "retry-build": retry_build, "retry-submit": retry_submit, "retry-harvest": retry_harvest, "fix": fix}[ap.parse_args().cmd]()

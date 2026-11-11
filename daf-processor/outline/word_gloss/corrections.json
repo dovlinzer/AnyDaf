@@ -1,0 +1,15 @@
+{
+  "_note": "Entries and sense pointers fixed by hand after review. Keys: entries 'word|gloss' (gloss lowercased) -> headword (K: for Klein) or null for gloss alone; senses 'headword|gloss' -> the phrase where the sense begins, or '' for the entry's opening. Applied last by word_gloss_run.py fix.",
+  "entries": {
+    "תנאי|a dispute of tannaim": "תַּנָּא",
+    "פרתא|dung": "פַּרְתָּא",
+    "אחתיה|the sister of": "אֲחָת",
+    "בדרא|in a generation": "דּוֹר",
+    "שרו|they sang": "שִׁיר I",
+    "משרו|they sing": "שִׁיר I",
+    "ומשרין|and would sing": "שִׁיר I"
+  },
+  "senses": {
+    "כְּסַף II|and her silver": ""
+  }
+}
