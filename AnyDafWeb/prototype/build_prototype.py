@@ -635,6 +635,10 @@ def main():
     (out / "xrefs").mkdir(exist_ok=True)
     for f in XREFS_SITE.glob("*.json"):
         (out / "xrefs" / f.name).write_bytes(f.read_bytes())
+    # the saved word glossary, one file per amud (daf-processor/word_gloss_export.py)
+    (out / "glossary").mkdir(exist_ok=True)
+    for f in (DP / "outline" / "word_gloss" / "site").glob("*.json"):
+        (out / "glossary" / f.name).write_bytes(f.read_bytes())
     (out / "index.html").write_text(html, encoding="utf-8")
     size = sum(f.stat().st_size for f in out.rglob("*") if f.is_file())
     print(f"wrote {out}/index.html + {len(index)} dafim ({size / 1e6:.1f} MB total)")

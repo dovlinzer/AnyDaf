@@ -177,6 +177,11 @@ body.xr-off .xchips,body.xr-off .xrl,body.xr-off .xmg{display:none!important}
 .xsrc-dict .dstein{margin:0 0 10px;padding-bottom:8px;border-bottom:1px solid var(--line)}.xsrc-dict .dstein p[dir]{font:400 1.05rem/1.6 var(--hebrew);margin:0}.xsrc-dict .dstein mark{background:var(--amber-soft);color:inherit;border-radius:2px}.xsrc-dict .dd [dir=rtl]{font-family:var(--hebrew)}
 .xsrc-dict .dref{border:0;background:none;padding:0;font:inherit;font-family:var(--hebrew);color:var(--blue);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
 .xsrc-dict .dmore{border:0;background:none;color:var(--blue);cursor:pointer;padding:0;font:inherit;font-size:12.5px}
+.xsrc-dict .dgloss{margin:0 0 8px}.xsrc-dict .dg{font:600 15px var(--sans)}
+.xsrc-dict .dsaved{max-height:12em;overflow-y:auto;position:relative}
+.xsrc-dict mark.dsense{background:var(--amber-soft);color:inherit;border-radius:2px;padding:0 1px}
+.xsrc-dict .dfoot{margin-top:10px}.xsrc-dict .drepbox textarea{width:100%;box-sizing:border-box;font:inherit;font-size:13px;margin:4px 0}
+.xsrc-dict .dsend{font:600 12.5px var(--sans);border:1px solid var(--blue);color:var(--blue);background:none;border-radius:6px;padding:3px 10px;cursor:pointer}
 .xsrc-seg.hit{background:var(--range);border-inline-start:3px solid var(--range-edge);margin-inline:-18px;padding-inline:calc(2rem + 15px) 18px}
 .xsrc-seg.hit .xsrc-num{inset-inline-start:15px}
 /* Hebrew and Hebrew+English: the number in the right-hand column, beside the Hebrew; English: on the left */
@@ -1115,7 +1120,7 @@ function pageHelp(h){const L=layOf(amudShown),T=TR[navAt.t];if(!L||!T)return;con
   +(en?`<p class="en">${xrClean(en)}</p>`:`<p class="en"><i>${esc(tr('Sefaria has no English translation of this passage.'))}</i></p>`)+'</div>';
  if(h.l!=null){const [am,n]=h.l.split('.'),ref=`${book} ${am}:${n}`;
   const it=(D.items||[]).find(x=>x.l===h.l);
-  xrOpen(ref,xrUrl(ref),{words:true,hx:it&&it.hx,heb:isMishnah(h.l),title:`${book} ${am}:${n}`,load:()=>xrApi(ref,0).then(d=>({html:one(xrFlat(d.he).join(' '),xrFlat(d.text).join(' ')),heRef:d.heRef}))});return}
+  xrOpen(ref,xrUrl(ref),{words:true,hx:it&&it.hx,heb:isMishnah(h.l),line:{book,am,n},title:`${book} ${am}:${n}`,load:()=>xrApi(ref,0).then(d=>({html:one(xrFlat(d.he).join(' '),xrFlat(d.text).join(' ')),heRef:d.heRef}))});return}
  const c=L.c[h.c],[am,n]=c.on.split('.'),who=c.who,lineRef=`${who} on ${book} ${am}:${n}`;
  xrOpen(lineRef,xrUrl(lineRef),{words:true,heb:true,title:`${RTL&&RASHI_HE[who]||who} · ${book} ${am}`,load:()=>xrApi(lineRef,0).then(d=>{
   const he=xrFlat(d.he),en=xrFlat(d.text),key=heNorm(c.dh||c.text).split(' ').slice(0,4).join(' ');
@@ -1161,7 +1166,7 @@ const quotes=(e,keys)=>{const t=heNorm(JSON.stringify(e.content||{}));return Mat
 // Steinsaltz's Hebrew explanation of the line prints the Gemara's words in bold and explains them right after
 // ("**מותיב** [מקשה] היה..."). For a clicked word: its bold run and what follows, up to the next bold run, and the
 // bracketed translation's word for it (same position when the bracket has about as many words as the run).
-let curHx='',curHeb=false;
+let curHx='',curHeb=false,curLine=null;
 // A Mishnah line (or Rashi, Tosafot) is mostly Hebrew: Klein leads there. The Gemara is Aramaic: Jastrow leads.
 // Davidson's English opens a Mishnah with "MISHNA:" and the Gemara with "GEMARA:", except a chapter's first Mishnah.
 function isMishnah(l){const its=D.items||[],i=its.findIndex(x=>x.l===l),mk=x=>((x&&x.en)||'').replace(/[*\s]/g,'').slice(0,6);
@@ -1241,7 +1246,7 @@ async function jastrowEntry(hw){const es=await dictGet(hw.replace(/[֑-ׇ]/g,'')
 // An entry that is only a cross-reference ("v. יְלֵיף") is replaced by the entry it points to
 async function followXref(e){const body=senseHtml((e.content||{}).senses),m=body.match(/data-hw="([^"]+)"/);
  if(!m||body.replace(/<[^>]+>/g,'').length>80)return e;const t=await jastrowEntry(m[1]);return t?{...t,via:e.headword}:e}
-async function showWord(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=sp.textContent;
+async function showWordLive(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=sp.textContent;
  xrDlg.querySelectorAll('.hw.on').forEach(x=>x.classList.remove('on'));sp.classList.add('on');
  const S=steinFor(sp),c=!curHeb&&commonFor(word),G=guideSet(S.guide);
  const st=S.html+(c?`<div class="dcommon"><p class="dh"><span class="dlx">${esc(tr('Common Aramaic word'))}</span></p><p><b lang="he">${esc(c[0])}</b> ${esc(c[1])}</p></div>`:'');
@@ -1278,6 +1283,53 @@ async function showWord(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=sp.te
   d.querySelectorAll('.dalt').forEach(b=>b.onclick=()=>draw(hits.find(x=>x.f===b.dataset.f)));
   d.querySelectorAll('.dref').forEach(b=>b.onclick=async()=>{const t=await jastrowEntry(b.dataset.hw);if(t)draw({f:r.f,es:[t]})});d.scrollTop=0};
  draw(hits[0])}
+// ---------- the saved word glossary (daf-processor/word_gloss_export.py: glossary/<Tractate>_<amud>.json) ----------
+// Where an amud has one, a tap on a Gemara word shows its gloss in this line, the dictionary entry chosen for it
+// (opened at the sense that fits), a link to the sage when the word is a sage's name, and a way to report a mistake.
+// "More from the dictionaries" falls back to the live lookup. Rashi, Tosafot and amudim without a file use it directly.
+const GLOSS={};
+const glossFile=(book,am)=>{const k=book.replace(/ /g,'_')+'_'+am;return GLOSS[k]||(GLOSS[k]=fetch('glossary/'+encodeURIComponent(k)+'.json').then(r=>r.ok?r.json():null).catch(()=>null))};
+async function savedEntry(ref){const k=ref.startsWith('K:'),hw=ref.replace(/^K:/,''),es=await dictGet(hw.replace(/[֑-ׇ]/g,'').replace(/\s+[IVX]+$|\s*[¹²³⁴ᴵⱽ]+$/,'').replace(/^\*/,''));
+ return (Array.isArray(es)?es:[]).find(e=>(k?/Klein/:/Jastrow/).test(e.parent_lexicon)&&e.headword===hw)||null}
+// Mark the phrase where the word's sense begins, and scroll the entry to it
+function markSense(box,q){if(!q)return;const norm=t=>t.replace(/\s+/g,' ');const tw=document.createTreeWalker(box,NodeFilter.SHOW_TEXT);
+ let S='',map=[];while(tw.nextNode()){const n=tw.currentNode,t=n.nodeValue;for(let i=0;i<t.length;i++){const c=/\s/.test(t[i])?' ':t[i];if(c===' '&&S.endsWith(' '))continue;S+=c;map.push([n,i])}}
+ const tries=[norm(q).trim(),norm(q).trim().replace(/^[\d)—.\s-]+/,'')];let at=-1,len=0;for(const t of tries){if(t.length<3)continue;at=S.indexOf(t);if(at>=0){len=t.length;break}}
+ if(at<0)return;const r=document.createRange(),[sn,so]=map[at],[en,eo]=map[at+len-1];r.setStart(sn,so);r.setEnd(en,eo+1);
+ const m=document.createElement('mark');m.className='dsense';try{r.surroundContents(m)}catch(_){m.append(r.extractContents());r.insertNode(m)}
+ box.scrollTop+=m.getBoundingClientRect().top-box.getBoundingClientRect().top-6}
+async function showWord(sp){
+ const live=()=>showWordLive(sp);if(RTL||!curLine)return live();
+ const G=await glossFile(curLine.book,curLine.am),row=G&&G.lines&&G.lines[curLine.n];if(!row)return live();
+ const idx=[...xrDlg.querySelectorAll('.xsrc-body .he .hw')].indexOf(sp),x=row[idx];if(!x||!x.g)return live();
+ const d=xrDlg.querySelector('.xsrc-dict'),word=sp.textContent;
+ xrDlg.querySelectorAll('.hw.on').forEach(y=>y.classList.remove('on'));sp.classList.add('on');
+ const S=steinFor(sp),lang=x.l==='he'?tr('Hebrew'):x.l==='ar'?tr('Aramaic'):'';
+ const head=`<div class="dgloss"><p class="dh"><span class="dhw" lang="he">${esc(word.replace(/[״"]/g,''))}</span><span class="dg">${esc(x.g)}</span>`
+  +(x.name?`<span class="dlx">${esc(tr('name'))}</span>`:x.t?`<span class="dlx">${esc(tr("title before a sage's name"))}</span>`:lang?`<span class="dlx">${esc(lang)}</span>`:'')+'</p>'
+  +(x.sage?`<p class="dnote"><button type="button" class="dref dsage" data-s="${esc(x.sage)}">${esc(tr('See this sage in the Sages chart'))}</button></p>`:'')+'</div>';
+ const foot=`<p class="dnote dfoot"><button type="button" class="dmore dlive">${esc(tr('More from the dictionaries'))}</button>`
+  +(FEEDBACK?` · <button type="button" class="dmore drep">${esc(tr('Report a mistake'))}</button>`:'')+'</p><div class="drepbox" hidden></div>';
+ d.hidden=false;d.innerHTML=head+(x.e?`<p class="dnote">${esc(tr('Looking up'))}…</p>`:'')+S.html+foot;
+ const wire=()=>{d.querySelector('.dlive').onclick=live;const sb=d.querySelector('.dsage');if(sb)sb.onclick=()=>{xrDlg.close();AnySages.open(sb.dataset.s)};   // the passage window is modal: the box would open beneath it
+  const rb=d.querySelector('.drep');if(rb)rb.onclick=()=>{const box=d.querySelector('.drepbox');box.hidden=false;rb.remove();
+   box.innerHTML=`<textarea rows="2" placeholder="${esc(tr('What is wrong, and what should it be?'))}"></textarea><button type="button" class="dsend">${esc(tr('Send'))}</button>`;
+   const ta=box.querySelector('textarea');ta.focus();box.querySelector('.dsend').onclick=async()=>{const note=ta.value.trim();if(!note)return;
+    const row_={daf:`${curLine.book}_${curLine.am}`.toLowerCase().replace(/ /g,'_').slice(0,64),version:null,section_id:`${curLine.am}.${curLine.n}:${idx}`,
+     section_title:`${word} = ${x.g} → ${x.e?x.e.replace(/^K:/,'Klein '):'gloss only'}`.slice(0,300),kind:'word',note:note.slice(0,4000)};
+    try{const r=await fetch(FEEDBACK.url+'/rest/v1/outline_feedback',{method:'POST',headers:{apikey:FEEDBACK.key,Authorization:'Bearer '+FEEDBACK.key,'Content-Type':'application/json',Prefer:'return=minimal'},body:JSON.stringify(row_)});
+     box.innerHTML=`<p class="dnote">${esc(tr(r.ok?'Thank you, sent.':"Couldn't send it; please try again later."))}</p>`}catch(_){box.innerHTML=`<p class="dnote">${esc(tr("Couldn't send it; please try again later."))}</p>`}}}};
+ wire();d.scrollTop=0;if(!x.e)return;
+ let e=await savedEntry(x.e);if(!sp.classList.contains('on'))return;
+ if(!e){d.querySelector('.dgloss').nextElementSibling.remove();return}
+ if(/Jastrow/.test(e.parent_lexicon)){e=await followXref(e);
+  const t=senseHtml((e.content||{}).senses).replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').slice(0,110),m=t.match(/\b(as|v\.|=|same as|s\.)\s*(preced|next\s*w)/)||(t.trim()===''||/^\s*ch\.\s*same/.test(t))&&['preced'];
+  const hw=m&&(/preced/.test(m[0]||m)?e.prev_hw:e.next_hw);if(hw){const n=await jastrowEntry(hw);if(n)e.near=n}}
+ if(!sp.classList.contains('on'))return;
+ const body=senseHtml((e.content||{}).senses),lx=(e.parent_lexicon||'').replace(/ Dictionary$/,'');
+ d.querySelector('.dgloss').nextElementSibling.outerHTML=`<div class="de"><p class="dh"><span class="dhw" lang="he">${esc(e.headword)}</span><span class="dlx">${esc(lx)}</span>${e.via?`<span class="dlx">(${esc(tr('from'))} <span lang="he">${esc(e.via)}</span>)</span>`:''}</p><div class="dbody dsaved">${e.near?`<div class="dnear"><p class="dh"><span class="dlx">${esc(tr('Jastrow refers to'))}</span><span class="dhw" lang="he">${esc(e.near.headword)}</span></p>${senseHtml((e.near.content||{}).senses)}</div>`:''}${body}</div></div>`;
+ const bx=d.querySelector('.dsaved');d.querySelectorAll('.de .dref').forEach(b=>b.onclick=async()=>{const t=await jastrowEntry(b.dataset.hw);if(t){bx.innerHTML=senseHtml((t.content||{}).senses);bx.scrollTop=0}});
+ markSense(bx,x.q)}
 document.addEventListener('click',e=>{const sp=e.target.closest('.xsrc .hw');if(sp)showWord(sp)});
 function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains('off')){closePop();return}
  $('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'));
@@ -1480,7 +1532,7 @@ async function xrLoad(ref){const b=xrBavli(ref);
 // opt (the daf page's "help" window): {title, load, go:false} shows one passage, not its whole section
 function xrOpen(ref,href,opt){if(!xrDlg)xrBuild();xrCur=ref;const q=s=>xrDlg.querySelector(s),body=q('.xsrc-body');
  q('.xsrc-title').textContent=opt&&opt.title||xrLabel(ref);q('.xsrc-he').textContent='';q('.xsrc-out').href=href||xrUrl(ref);
- q('.xsrc-go').hidden=!!opt||!xrBavli(ref);q('.xsrc-dict').hidden=true;curHx=opt&&opt.hx||'';curHeb=!!(opt&&opt.heb);body.innerHTML=`<p class="xsrc-msg">${esc(tr('Loading…'))}</p>`;if(!xrDlg.open)xrDlg.showModal();
+ q('.xsrc-go').hidden=!!opt||!xrBavli(ref);q('.xsrc-dict').hidden=true;curHx=opt&&opt.hx||'';curHeb=!!(opt&&opt.heb);curLine=opt&&opt.line||null;body.innerHTML=`<p class="xsrc-msg">${esc(tr('Loading…'))}</p>`;if(!xrDlg.open)xrDlg.showModal();
  (opt&&opt.load?opt.load():xrLoad(ref)).then(({html,heRef})=>{if(xrCur!==ref)return;q('.xsrc-he').textContent=heRef||'';
    body.innerHTML=html||`<p class="xsrc-msg">${esc(tr('Sefaria has no text for this reference.'))}</p>`;if(opt&&opt.words)wrapWords(body);
    const h=body.querySelector('.hit');body.scrollTop=h?Math.max(0,h.offsetTop-body.offsetTop-12):0})
