@@ -2124,7 +2124,7 @@ iPhone/iPad sends no contextmenu; Android's follow-up contextmenu is swallowed v
 daf page opens that one passage from Sefaria in the source window, and moves nothing else (a plain tap still moves the
 outline and audio) (`pageHelp`; א / אA / A, no surrounding section: a comment is found among its line's comments by its
 dibbur ha'matchil). Sefaria's English for Rashi and Tosafot is sparse (none on Bava Metzia 11a, for one); then the
-Hebrew shows with a note. each Hebrew word there looks itself up in Sefaria's dictionaries
+Hebrew shows with a note. each Hebrew word there looks itself up in Sefaria's dictionaries (where an amud has a saved word glossary, `glossary/<Tractate>_<amud>.json` from `daf-processor/word_gloss_export.py` after `word_gloss_run.py fix`, a Gemara word first shows its saved gloss, the chosen Jastrow/Klein entry opened at its sense, a Sages-chart link for a sage's name and "Report a mistake" (`outline_feedback`, kind `word`); "More from the dictionaries" runs the live lookup below; 8 test amudim so far)
 (`/api/words`, Jastrow and Klein only: BDB is Biblical, Ben Yehuda Hebrew-only; author 2026-11-09). A Gemara word first shows
 Steinsaltz's gloss of it in that line, from the saved `hx`: his bold run with the word and what follows, usually a bracketed
 translation (`steinFor`); the bracket's word for the clicked word (only if it shares ≥2 letters and about half, in order,
