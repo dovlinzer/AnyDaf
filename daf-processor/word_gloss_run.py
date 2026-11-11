@@ -372,7 +372,7 @@ Each item is one dictionary form with all its uses in the passage: every distinc
 
 For each use, choose the entry that defines the word in the sense of its gloss:
 - be consistent: uses with the same meaning in the same language get the same entry; give different entries only when the meaning or the language really differs;
-- the language decides between a Hebrew and an Aramaic entry: each use is marked Hebrew or Aramaic. A Hebrew use gets a Klein entry (Klein's dictionary of biblical and rabbinic Hebrew; those candidates are marked "Klein:") when one fits, else Jastrow's Hebrew entry; an Aramaic use gets Jastrow's Aramaic ("ch.") entry when Jastrow has both, and never a Klein entry. The two are often spelled differently (Hebrew שָׁנָה, Aramaic תְּנֵי; Hebrew זָקֵן, Aramaic סָב): an Aramaic use of תני takes תְּנֵי, not the Hebrew entry;
+- the language decides between a Hebrew and an Aramaic entry: each use is marked Hebrew or Aramaic. A Hebrew use gets Jastrow's Hebrew entry, which is written for the word's use in the Talmud; choose a Klein entry (Klein's dictionary of biblical and rabbinic Hebrew; those candidates are marked "Klein:") only when Jastrow has no entry that fits, or when Klein's clearly fits the gloss better (a word in a quoted verse is moved to Klein afterwards, so need not be judged here); an Aramaic use gets Jastrow's Aramaic ("ch.") entry when Jastrow has both, and never a Klein entry. The two are often spelled differently (Hebrew שָׁנָה, Aramaic תְּנֵי; Hebrew זָקֵן, Aramaic סָב): an Aramaic use of תני takes תְּנֵי, not the Hebrew entry;
 - the part of speech follows the gloss: a verb gets the verb's entry, not a noun from the same root (תנא "taught" is תְּנֵי, while תנא "a Tanna" is תַּנָּא);
 - prefer an entry found from the word itself as written (marked "from the word") when one fits; turn to the suggested form's entry only when none of those fits;
 - the entry for the word's root or base form, not one for a prefix letter alone, and not a different word that shares the spelling;
@@ -784,7 +784,7 @@ def retry_harvest():
 # Proper names: a gloss that is a name ("Kahana", "Neharde'a") keeps its entry only if the entry is the name's own
 # (Jastrow's "pr. n." / "name of", or an entry opening with the name); else it moves to a name entry spelled like the
 # word, or shows the gloss alone, marked as a name. Hebrew words: a Jastrow entry gives way to Klein's entry for the same
-# word. Last, corrections.json (found in review) overrides both.
+# word when the word is in a verse quote. Last, corrections.json (found in review) overrides both.
 
 CORRECTIONS = HERE / "outline" / "word_gloss" / "corrections.json"
 BASE_RUN = os.environ.get("WG_BASE")   # an earlier full run whose senses a targeted rerun's senses are laid over
@@ -794,20 +794,9 @@ NOT_NAMES = {"jew", "jews", "jewish", "god", "lord", "holy", "blessed", "torah",
              "sage", "rabbis", "rabbinic", "merciful", "heaven", "shabbat", "sabbath", "temple", "israelite", "israelites",
              "levite", "levites", "priest", "priests", "tanna", "tannaim", "amora", "amoraim", "baraita", "halakha",
              "shema", "passover", "pesach", "festival", "festivals", "amen", "ark", "sanhedrin", "scripture", "written",
-             "oral", "law", "master", "creator", "omnipresent", "almighty", "one", "he", "him", "his", "i"}
-_EN = None
-
-
-def english():
-    global _EN
-    if _EN is None:
-        try:
-            _EN = {l.strip() for l in open("/usr/share/dict/words") if l.strip() and l.strip().islower()}
-        except OSError:
-            _EN = set()
-    return _EN
-
-
+             "oral", "law", "master", "creator", "omnipresent", "almighty", "one", "he", "him", "his", "i", "me", "my",
+             "mine", "you", "your", "yours", "thou", "thee", "thy", "who", "whom", "house", "west", "east", "sanctuary",
+             "king", "nasi", "yah", "name", "presence", "shekhinah"}
 def skel(t):
     """A transliteration's consonant skeleton, so Yochanan = Johanan, Nehardea = N'hard'ʿa, Rav = Rab."""
     import unicodedata
@@ -821,8 +810,9 @@ def skel(t):
 
 def name_tokens(g):
     toks = re.findall(r"\b[A-Z][A-Za-z'’ḥḤṭṣʿ]+", g)
-    return [t for t in toks if t.lower() not in NOT_NAMES and t.lower().rstrip("s") not in NOT_NAMES
-            and t.lower() not in english()]
+    # no English-dictionary filter: glosses are lowercase, so a capital marks a name even when the word is also
+    # English (Cain, Bag); the exceptions are the capitalized nouns and divine pronouns listed in NOT_NAMES
+    return [t for t in toks if t.lower() not in NOT_NAMES and t.lower().rstrip("s") not in NOT_NAMES]
 
 
 def sk_match(a, b):
@@ -861,6 +851,34 @@ def bare(hw):
     return re.sub(r"[\s*IVX¹²³⁴ᴵⱽ]+$|^\*", "", plain(hw.removeprefix("K:"))).replace("־", "").strip()
 
 
+def quoted(he):
+    """Indices of the words inside ״…״ in a line of the Hebrew text: the Gemara's verse quotes (an abbreviation's ״
+    sits between letters and opens nothing)."""
+    out, inside = set(), False
+    for i, t in enumerate(x for x in he.split() if re.search(r"[א-ת]", x)):
+        letters = [j for j, c in enumerate(t) if "א" <= c <= "ת"]
+        if "״" in t[:letters[0]]:
+            inside = True
+        if inside:
+            out.add(i)
+        if "״" in t[letters[-1] + 1:]:
+            inside = False
+    return out
+
+
+def in_verse(where):
+    """Item keys with at least one occurrence inside a verse quote."""
+    meta = json.loads((RUN / "meta.json").read_text())
+    qs, out = {}, set()
+    for pos, k in where.items():
+        c, n, i = pos.rsplit(":", 2)
+        if c not in qs:
+            qs[c] = {str(x["n"]): quoted(x.get("he") or "") for x in amud_lines(meta[c]["tractate"], meta[c]["amud"])}
+        if int(i) in qs[c].get(n, ()):
+            out.add(k)
+    return out
+
+
 def fix():
     gk = "sonnet"
     plan = json.loads((RUN / "entry_plan.json").read_text())[gk]
@@ -893,9 +911,12 @@ def fix():
         else:
             entries.pop(k, None)
             names.append(k)
+    # Klein for words of a verse quote only: elsewhere Jastrow's entry, written for the Talmud's usage, is kept
+    # unless the entry step judged Klein the better match
+    verse = in_verse(plan["where"])
     for k, hw in list(entries.items()):
         v = items.get(k)
-        if not v or k in named or hw.startswith("K:") or not (v.get("lang") or "").startswith(("Hebrew", "Mishnah")):
+        if not v or k in named or hw.startswith("K:") or k not in verse:
             continue
         pts = lambda h: re.sub(r"[\u0591-\u05AF\u05BD\u05C0\u05C3]|[\sIVX¹²³⁴ᴵⱽ*]+$|^\*", "", h.removeprefix("K:"))
         js = next((x["senses"] for x in v["cands"] if ref(x) == hw), "")
