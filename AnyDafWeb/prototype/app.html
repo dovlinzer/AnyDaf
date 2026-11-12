@@ -182,7 +182,9 @@ body.xr-off .xchips,body.xr-off .xrl,body.xr-off .xmg{display:none!important}
 .xsrc-dict .dref{border:0;background:none;padding:0;font:inherit;font-family:var(--hebrew);color:var(--blue);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
 .xsrc-dict .dmore{border:0;background:none;color:var(--blue);cursor:pointer;padding:0;font:inherit;font-size:12.5px}
 .xsrc-dict .dgloss{margin:0 0 8px}.xsrc-dict .dg{font:600 15px var(--sans)}
-.xsrc-dict .dklein{margin-top:10px;padding-top:8px;border-top:1px solid var(--line)}
+.xsrc-dict .vref.vhit{background:var(--amber-soft);border-radius:3px;padding:0 2px}
+.dbdb+.dmain,.dbdb+.dwait{margin-top:10px;padding-top:8px;border-top:1px solid var(--line)}
+.dklein{margin-top:10px;padding-top:8px;border-top:1px solid var(--line)}
 .dmeta{font-size:12.5px;font-style:italic;color:var(--muted);margin:0 0 4px}
 .dety{font-size:13.5px;color:var(--muted);margin:6px 0 0}
 .dety .dlx{margin-inline-end:6px}
@@ -810,7 +812,7 @@ const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='
 const RTL=UI==='he';
 const HEW={'Hebrew':'עברית','Common Aramaic word':'מילה ארמית נפוצה','In English':'באנגלית','or':'או','Jastrow refers to':'יאסטרוב מפנה אל','See':'ראו','Steinsaltz':'שטיינזלץ','Looking up':'מחפש את','No dictionary entry found for':'לא נמצא ערך במילון עבור','Entries for the form':'ערכים לצורה','Other possible forms:':'צורות אפשריות נוספות:','More':'עוד','from':'מתוך','Sefaria has no English translation of this passage.':'אין בספריא תרגום לאנגלית לקטע זה.','Sources':'מקורות','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
- "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Origin':'מקור','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
+ "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Origin':'מקור','verse':'פסוק','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
  'Beside the outline':'לצד המתווה','Gemara':'גמרא','Shiur':'שיעור',
  'Articles, teshuvot and shiurim from the YCT Torah Library on this daf':'מאמרים, תשובות ושיעורים על הדף מספריית התורה של ישיבת חובבי תורה (באנגלית)',
@@ -1246,9 +1248,10 @@ async function lookupWord(word,G){const forms=wordForms(word),hits=[];
 function dictClean(html){const doc=new DOMParser().parseFromString(`<div>${html||''}</div>`,'text/html'),root=doc.body.firstChild;
  root.querySelectorAll('a').forEach(a=>{const r=a.getAttribute('data-ref')||'';
   if(/^(Jastrow|Klein Dictionary), /.test(r)){const b=doc.createElement('button');b.type='button';b.className='dref';b.dataset.hw=(/^Klein/.test(r)?'K:':'')+r.replace(/^(Jastrow|Klein Dictionary), /,'').replace(/ \d+$/,'');b.textContent=a.textContent;a.replaceWith(b)}
+  else if(/^[A-Z][A-Za-z ]+ \d+:\d+$/.test(r)){const v=doc.createElement('span');v.className='vref';v.setAttribute('data-ref',r);v.append(...a.childNodes);a.replaceWith(v)}   // BDB's verse citations
   else a.replaceWith(...a.childNodes)});
  const OK={B:1,STRONG:1,I:1,EM:1,BR:1,SMALL:1,SUP:1,SPAN:1,BUTTON:1};
- (function walk(n){[...n.children].forEach(c=>{walk(c);if(!OK[c.tagName])c.replaceWith(...c.childNodes);else [...c.attributes].forEach(at=>{if(!['dir','type','class','data-hw'].includes(at.name))c.removeAttribute(at.name)})})})(root);
+ (function walk(n){[...n.children].forEach(c=>{walk(c);if(!OK[c.tagName])c.replaceWith(...c.childNodes);else [...c.attributes].forEach(at=>{if(!['dir','type','class','data-hw','data-ref'].includes(at.name))c.removeAttribute(at.name)})})})(root);
  return root.innerHTML}
 // The whole entry: part of speech and period (Klein: BH, PBH…), the senses, and Klein's etymology and related words
 const KLANG={BH:'Biblical Hebrew',PBH:'Post-Biblical Hebrew',MH:'Medieval Hebrew',NH:'Modern Hebrew'};
@@ -1351,7 +1354,7 @@ async function showWord(sp){
   +(x.sage?`<p class="dnote"><button type="button" class="dref dsage" data-s="${esc(x.sage)}">${esc(tr('See this sage in the Sages chart'))}</button></p>`:'')+'</div>';
  const foot=`<p class="dnote dfoot"><button type="button" class="dmore dlive">${esc(tr('More from the dictionaries'))}</button>`
   +(FEEDBACK?` · <button type="button" class="dmore drep">${esc(tr('Report a mistake'))}</button>`:'')+'</p><div class="drepbox" hidden></div>';
- d.hidden=false;d.innerHTML=head+(x.e?`<p class="dnote">${esc(tr('Looking up'))}…</p>`:'')+foot;   // no Steinsaltz here: the saved gloss already reads the word in context
+ d.hidden=false;d.innerHTML=head+(x.b?'<div class="dbdbslot"></div>':'')+(x.e?`<p class="dnote dwait">${esc(tr('Looking up'))}…</p>`:'')+foot;   // no Steinsaltz here: the saved gloss already reads the word in context
  const wire=()=>{d.querySelector('.dlive').onclick=live;const sb=d.querySelector('.dsage');if(sb)sb.onclick=()=>{xrDlg.close();AnySages.open(sb.dataset.s)};   // the passage window is modal: the box would open beneath it
   const rb=d.querySelector('.drep');if(rb)rb.onclick=()=>{const box=d.querySelector('.drepbox');box.hidden=false;rb.remove();
    box.innerHTML=`<textarea rows="2" placeholder="${esc(tr('What is wrong, and what should it be?'))}"></textarea><button type="button" class="dsend">${esc(tr('Send'))}</button>`;
@@ -1360,16 +1363,25 @@ async function showWord(sp){
      section_title:`${word} = ${x.g} → ${x.e?x.e.replace(/^K:/,'Klein '):'gloss only'}`.slice(0,300),kind:'word',note:note.slice(0,4000)};
     try{const r=await fetch(FEEDBACK.url+'/rest/v1/outline_feedback',{method:'POST',headers:{apikey:FEEDBACK.key,Authorization:'Bearer '+FEEDBACK.key,'Content-Type':'application/json',Prefer:'return=minimal'},body:JSON.stringify(row_)});
      box.innerHTML=`<p class="dnote">${esc(tr(r.ok?'Thank you, sent.':"Couldn't send it; please try again later."))}</p>`}catch(_){box.innerHTML=`<p class="dnote">${esc(tr("Couldn't send it; please try again later."))}</p>`}}}};
- wire();d.scrollTop=0;if(!x.e)return;
+ wire();d.scrollTop=0;
+ // A word of a verse quote: BDB's entry first (bdb_verses.py found it from the verse's own words), with every citation
+ // of this verse marked and the entry scrolled to the last one, usually the sense that covers it
+ if(x.b)(async()=>{const es=await fetch('https://www.sefaria.org/api/words/'+encodeURIComponent(hwPlain(x.b))+'?never_split=1&lookup_ref='+encodeURIComponent(x.v)).then(r=>r.ok?r.json():[]).catch(()=>[]);
+  const b=(Array.isArray(es)?es:[]).find(y=>y.parent_lexicon==='BDB Dictionary'&&y.headword===x.b),slot=d.querySelector('.dbdbslot');
+  if(!slot||!sp.classList.contains('on'))return;if(!b){slot.remove();return}
+  slot.outerHTML=`<div class="de dbdb"><p class="dh"><span class="dhw" lang="he">${esc(b.headword)}</span><span class="dlx">BDB</span><span class="dlx">${esc(tr('verse'))}: ${esc(x.v)}</span></p><div class="dbody dsaved">${entryHtml(b)}</div></div>`;
+  const box=d.querySelector('.dbdb .dsaved'),hs=[...box.querySelectorAll('.vref')].filter(v=>v.dataset.ref===x.v);hs.forEach(v=>v.classList.add('vhit'));
+  const last=hs[hs.length-1];if(last)box.scrollTop+=last.getBoundingClientRect().top-box.getBoundingClientRect().top-box.clientHeight/3})();
+ if(!x.e)return;
  let e=await savedEntry(x.e);if(!sp.classList.contains('on'))return;
- if(!e){d.querySelector('.dgloss').nextElementSibling.remove();return}
+ if(!e){d.querySelector('.dwait')?.remove();return}
  if(/Jastrow/.test(e.parent_lexicon)){e=await followXref(e);
   const t=senseHtml((e.content||{}).senses).replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').slice(0,110),m=t.match(/\b(as|v\.|=|same as|s\.)\s*(preced|next\s*w)/)||(t.trim()===''||/^\s*ch\.\s*same/.test(t))&&['preced'];
   const hw=m&&(/preced/.test(m[0]||m)?e.prev_hw:e.next_hw);if(hw){const n=await jastrowEntry(hw);if(n)e.near=n}}
  if(!sp.classList.contains('on'))return;
  const body=entryHtml(e),lx=(e.parent_lexicon||'').replace(/ Dictionary$/,'');
- d.querySelector('.dgloss').nextElementSibling.outerHTML=`<div class="de"><p class="dh"><span class="dhw" lang="he">${esc(e.headword)}</span><span class="dlx">${esc(lx)}</span>${e.via?`<span class="dlx">(${esc(tr('from'))} <span lang="he">${esc(e.via)}</span>)</span>`:''}</p><div class="dbody dsaved">${e.near?`<div class="dnear"><p class="dh"><span class="dlx">${esc(tr('Jastrow refers to'))}</span><span class="dhw" lang="he">${esc(e.near.headword)}</span></p>${senseHtml((e.near.content||{}).senses)}</div>`:''}${body}</div></div>`;
- const bx=d.querySelector('.dsaved');
+ d.querySelector('.dwait').outerHTML=`<div class="de dmain"><p class="dh"><span class="dhw" lang="he">${esc(e.headword)}</span><span class="dlx">${esc(lx)}</span>${e.via?`<span class="dlx">(${esc(tr('from'))} <span lang="he">${esc(e.via)}</span>)</span>`:''}</p><div class="dbody dsaved">${e.near?`<div class="dnear"><p class="dh"><span class="dlx">${esc(tr('Jastrow refers to'))}</span><span class="dhw" lang="he">${esc(e.near.headword)}</span></p>${senseHtml((e.near.content||{}).senses)}</div>`:''}${body}</div></div>`;
+ const bx=d.querySelector('.dmain .dsaved');
  // a link in the entry opens that entry in its place, with its own headword, and its links work in turn
  const wireRefs=()=>bx.parentElement.querySelectorAll('.dref').forEach(b=>b.onclick=async()=>{const t=await refEntry(b.dataset.hw);if(!t)return;
   const h=bx.parentElement.querySelector('.dh');h.innerHTML=`<span class="dhw" lang="he">${esc(t.headword)}</span><span class="dlx">${esc((t.parent_lexicon||'').replace(/ Dictionary$/,''))}</span>`;
@@ -1383,7 +1395,7 @@ async function showWord(sp){
   const gw=new Set(x.g.toLowerCase().match(/[a-z]{3,}/g)||[]),score=k=>(senseHtml((k.content||{}).senses).toLowerCase().match(/[a-z]{3,}/g)||[]).filter(w=>gw.has(w)).length;
   const only=k=>/^\s*see\b/i.test(senseHtml((k.content||{}).senses).replace(/<[^>]+>/g,''))&&!k.notes;   // "see חוב" alone
   const k=ks.slice().sort((a,b)=>only(a)-only(b)||score(b)-score(a))[0];
-  d.querySelector('.de').insertAdjacentHTML('afterend',`<div class="de dklein"><p class="dh"><span class="dhw" lang="he">${esc(k.headword)}</span><span class="dlx">Klein</span></p><div class="dbody">${entryHtml(k)}</div></div>`);
+  d.querySelector('.dmain').insertAdjacentHTML('afterend',`<div class="de dklein"><p class="dh"><span class="dhw" lang="he">${esc(k.headword)}</span><span class="dlx">Klein</span></p><div class="dbody">${entryHtml(k)}</div></div>`);
   d.querySelectorAll('.dklein .dref').forEach(b=>b.onclick=async()=>{const t=await refEntry(b.dataset.hw);if(!t)return;const kb=d.querySelector('.dklein');
    kb.querySelector('.dh').innerHTML=`<span class="dhw" lang="he">${esc(t.headword)}</span><span class="dlx">Klein</span>`;kb.querySelector('.dbody').innerHTML=entryHtml(t)})}}
 document.addEventListener('click',e=>{const sp=e.target.closest('.xsrc .hw');if(sp)showWord(sp)});
