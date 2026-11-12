@@ -1279,6 +1279,14 @@ async function followXref(e){const orig=hwPlain(e.headword);let cur=e;
  for(let i=0;i<3;i++){const body=senseHtml((cur.content||{}).senses),m=body.match(/data-hw="([^"]+)"[^>]*>([\s\S]*?)<\/button>/);
   if(!m||body.replace(/<[^>]+>/g,'').length>80)break;const t=await xrefTarget(m[1],m[2].replace(/<[^>]+>/g,''),orig);if(!t||t.headword===cur.headword)break;cur=t}
  return cur===e?e:{...cur,via:e.headword}}
+// Klein's entry for a Hebrew word (spellings may differ from Jastrow's or BDB's by יי or an inner ו), preferring one
+// whose definition shares words with the gloss, and never a bare "see X"
+async function kleinFor(hws,gloss){const qs=[...new Set(hws.map(h=>hwPlain(h).replace(/[^א-ת]/g,'')).flatMap(p=>[p,p.replace(/יי/g,'י'),p.replace(/(?<=.)ו(?=.)/g,'')]))];   // Jastrow חַיָּיב, Klein חַיָּב
+ const ks=(await Promise.all(qs.map(dictGet))).flat().filter((k,i,a)=>/Klein/.test(k.parent_lexicon)&&qs.includes(hwPlain(k.headword))&&a.findIndex(y=>y.headword===k.headword&&y.parent_lexicon===k.parent_lexicon)===i);
+ if(!ks.length)return null;
+ const gw=new Set((gloss||'').toLowerCase().match(/[a-z]{3,}/g)||[]),score=k=>(senseHtml((k.content||{}).senses).toLowerCase().match(/[a-z]{3,}/g)||[]).filter(w=>gw.has(w)).length;
+ const only=k=>/^\s*see\b/i.test(senseHtml((k.content||{}).senses).replace(/<[^>]+>/g,''))&&!k.notes;   // "see חוב" alone
+ return ks.slice().sort((a,b)=>only(a)-only(b)||score(b)-score(a))[0]}
 async function showWordLive(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=sp.textContent;
  xrDlg.querySelectorAll('.hw.on').forEach(x=>x.classList.remove('on'));sp.classList.add('on');
  const S=steinFor(sp),c=!curHeb&&commonFor(word),G=guideSet(S.guide);
@@ -1375,6 +1383,8 @@ async function showWord(sp){
  if(!x.e)return;
  let e=await savedEntry(x.e);if(!sp.classList.contains('on'))return;
  if(!e){d.querySelector('.dwait')?.remove();return}
+ // a word of a verse: BDB, then Klein (for its origin) in place of Jastrow; Jastrow only if Klein has no entry
+ if(x.b&&/Jastrow/.test(e.parent_lexicon)){const k=await kleinFor([x.b,e.headword],x.g);if(!sp.classList.contains('on'))return;if(k)e=k}
  if(/Jastrow/.test(e.parent_lexicon)){e=await followXref(e);
   const t=senseHtml((e.content||{}).senses).replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').slice(0,110),m=t.match(/\b(as|v\.|=|same as|s\.)\s*(preced|next\s*w)/)||(t.trim()===''||/^\s*ch\.\s*same/.test(t))&&['preced'];
   const hw=m&&(/preced/.test(m[0]||m)?e.prev_hw:e.next_hw);if(hw){const n=await jastrowEntry(hw);if(n)e.near=n}}
@@ -1389,12 +1399,8 @@ async function showWord(sp){
  if(!markSense(bx,x.q)&&e.via)markSense(bx,e.via);
  // A Hebrew word shown in Jastrow also gets Klein's entry for the same word, for its origin (Klein is the stronger
  // on Hebrew etymology): part of speech, period, definition and etymology, below Jastrow's
- if(x.l==='he'&&/Jastrow/.test(e.parent_lexicon)){const p=hwPlain(e.headword),qs=[...new Set([p,p.replace(/יי/g,'י'),p.replace(/(?<=.)ו(?=.)/g,'')])];   // Jastrow חַיָּיב, Klein חַיָּב
-  const ks=(await Promise.all(qs.map(dictGet))).flat().filter((k,i,a)=>/Klein/.test(k.parent_lexicon)&&qs.includes(hwPlain(k.headword))&&a.findIndex(y=>y.headword===k.headword&&y.parent_lexicon===k.parent_lexicon)===i);
-  if(!ks.length||!sp.classList.contains('on'))return;
-  const gw=new Set(x.g.toLowerCase().match(/[a-z]{3,}/g)||[]),score=k=>(senseHtml((k.content||{}).senses).toLowerCase().match(/[a-z]{3,}/g)||[]).filter(w=>gw.has(w)).length;
-  const only=k=>/^\s*see\b/i.test(senseHtml((k.content||{}).senses).replace(/<[^>]+>/g,''))&&!k.notes;   // "see חוב" alone
-  const k=ks.slice().sort((a,b)=>only(a)-only(b)||score(b)-score(a))[0];
+ if(!x.b&&x.l==='he'&&/Jastrow/.test(e.parent_lexicon)){const k=await kleinFor([e.headword],x.g);
+  if(!k||!sp.classList.contains('on'))return;
   d.querySelector('.dmain').insertAdjacentHTML('afterend',`<div class="de dklein"><p class="dh"><span class="dhw" lang="he">${esc(k.headword)}</span><span class="dlx">Klein</span></p><div class="dbody">${entryHtml(k)}</div></div>`);
   d.querySelectorAll('.dklein .dref').forEach(b=>b.onclick=async()=>{const t=await refEntry(b.dataset.hw);if(!t)return;const kb=d.querySelector('.dklein');
    kb.querySelector('.dh').innerHTML=`<span class="dhw" lang="he">${esc(t.headword)}</span><span class="dlx">Klein</span>`;kb.querySelector('.dbody').innerHTML=entryHtml(t)})}}
