@@ -21,6 +21,7 @@ import argparse
 import json
 import os
 import re
+import sys
 import time
 import urllib.parse
 import urllib.request
@@ -791,7 +792,9 @@ def retry_harvest():
 # word when the word is in a verse quote. Last, corrections.json (found in review) overrides both.
 
 CORRECTIONS = HERE / "outline" / "word_gloss" / "corrections.json"
-BASE_RUN = os.environ.get("WG_BASE")   # an earlier full run whose senses a targeted rerun's senses are laid over
+# an earlier full run whose senses a targeted rerun's senses are laid over; remembered in the run's base.txt, since
+# fix() without it drops every sense the targeted run did not redo
+BASE_RUN = os.environ.get("WG_BASE") or ((RUN / "base.txt").read_text().strip() if (RUN / "base.txt").exists() else None)
 LATIN = re.compile(r"[A-Za-zÀ-ɏḀ-ỿʿ'’]{2,}")
 NAME_MARK = re.compile(r"\bpr\. ?n\.|\bn\. ?pr\.|\bnames? of\b")
 NOT_NAMES = {"jew", "jews", "jewish", "god", "lord", "holy", "blessed", "torah", "mishnah", "mishna", "gemara", "sages",
@@ -890,6 +893,10 @@ def fix():
     entries = dict(final[gk])
     senses = json.loads((HERE / "outline" / "word_gloss" / BASE_RUN / f"senses_{gk}.json").read_text()) if BASE_RUN else {}
     senses.update(json.loads((RUN / f"senses_{gk}.json").read_text()))
+    if BASE_RUN:
+        (RUN / "base.txt").write_text(BASE_RUN + "\n")
+    elif ONLY or (RUN / "only.json").exists():
+        sys.exit("a targeted run: give its base run (WG_BASE), or its other senses are dropped")
     corr = json.loads(CORRECTIONS.read_text()) if CORRECTIONS.exists() else {"entries": {}, "senses": {}}
     items = plan["items"]
     gl = lambda k: items[k]["g"].lower().strip()
@@ -928,6 +935,14 @@ def fix():
         if len(hws) == 1:
             entries[k] = hws.pop()
             log.append(f"reuse {k}: -> {entries[k]}")
+    # word_gloss_recheck.py: a second choice, from a candidate list widened by the dictionary forms the model named
+    rc = RUN / "recheck.json"
+    for k, v in (json.loads(rc.read_text()) if rc.exists() else {}).items():
+        if k in items and k not in entries and k not in names:
+            entries[k] = v["e"]
+            if v.get("q"):
+                senses[f"{v['e']}|{gl(k)}"] = {"fit": True, "q": v["q"]}
+            log.append(f"recheck {k}: -> {v['e']}")
     # Klein for words of a verse quote only: elsewhere Jastrow's entry, written for the Talmud's usage, is kept
     # unless the entry step judged Klein the better match
     verse = in_verse(plan["where"])
