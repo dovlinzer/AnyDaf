@@ -313,7 +313,7 @@ def cands():
 
 
 def candidates(word, lemma, cache, hebrew=False):
-    """Jastrow candidates; for a Hebrew word Klein's entries first (Jastrow's after them, for terms Klein lacks)."""
+    """Jastrow candidates; for a Hebrew word Klein's entries after them (up to 3 more), for terms Jastrow lacks or defines worse."""
     out, seen = [], set()
 
     def add(e, via=None, own=False):
@@ -343,11 +343,6 @@ def candidates(word, lemma, cache, hebrew=False):
     cache = Filled()
     own = wforms(plain(word))
     qs = own + ([fin(plain(lemma))] if lemma and fin(plain(lemma)) not in own else [])
-    if hebrew:
-        for q in qs:
-            for e in cache.get(q) or []:
-                if e.get("lex") == "K":
-                    add(e, own=q in own)
     for q in qs:
         for e in cache.get(q) or []:
             if e.get("lex", "J") != "J":
@@ -361,6 +356,15 @@ def candidates(word, lemma, cache, hebrew=False):
                 for t in cache.get(plain(e["near"])) or []:
                     if t.get("lex", "J") == "J" and t["hw"] == e["near"]:
                         add(t, e["hw"])
+    if hebrew:   # Klein after Jastrow (Jastrow's Hebrew entries are written for the Talmud), with room of its own
+        cap = len(out) + 3
+        for q in qs:
+            for e in cache.get(q) or []:
+                if e.get("lex") == "K" and len(out) < cap:
+                    key = "K" + e["hw"]
+                    if key not in seen:
+                        seen.add(key)
+                        out.append({"hw": e["hw"], "lex": "K", "senses": e["senses"], "via": None, "own": q in own})
     return out
 
 

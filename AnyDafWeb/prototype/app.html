@@ -182,7 +182,11 @@ body.xr-off .xchips,body.xr-off .xrl,body.xr-off .xmg{display:none!important}
 .xsrc-dict .dref{border:0;background:none;padding:0;font:inherit;font-family:var(--hebrew);color:var(--blue);cursor:pointer;text-decoration:underline;text-underline-offset:2px}
 .xsrc-dict .dmore{border:0;background:none;color:var(--blue);cursor:pointer;padding:0;font:inherit;font-size:12.5px}
 .xsrc-dict .dgloss{margin:0 0 8px}.xsrc-dict .dg{font:600 15px var(--sans)}
-.xsrc-dict .dsaved{max-height:12em;overflow-y:auto;position:relative}
+.xsrc-dict .dklein{margin-top:10px;padding-top:8px;border-top:1px solid var(--line)}
+.dmeta{font-size:12.5px;font-style:italic;color:var(--muted);margin:0 0 4px}
+.dety{font-size:13.5px;color:var(--muted);margin:6px 0 0}
+.dety .dlx{margin-inline-end:6px}
+.dsaved{max-height:12em;overflow-y:auto;position:relative}
 .xsrc-dict mark.dsense{background:var(--amber-soft);color:inherit;border-radius:2px;padding:0 1px}
 .xsrc-dict .dfoot{margin-top:10px}.xsrc-dict .drepbox textarea{width:100%;box-sizing:border-box;font:inherit;font-size:13px;margin:4px 0}
 .xsrc-dict .dsend{font:600 12.5px var(--sans);border:1px solid var(--blue);color:var(--blue);background:none;border-radius:6px;padding:3px 10px;cursor:pointer}
@@ -806,7 +810,7 @@ const UI=(()=>{const q=new URLSearchParams(location.search).get('lang');if(q==='
 const RTL=UI==='he';
 const HEW={'Hebrew':'עברית','Common Aramaic word':'מילה ארמית נפוצה','In English':'באנגלית','or':'או','Jastrow refers to':'יאסטרוב מפנה אל','See':'ראו','Steinsaltz':'שטיינזלץ','Looking up':'מחפש את','No dictionary entry found for':'לא נמצא ערך במילון עבור','Entries for the form':'ערכים לצורה','Other possible forms:':'צורות אפשריות נוספות:','More':'עוד','from':'מתוך','Sefaria has no English translation of this passage.':'אין בספריא תרגום לאנגלית לקטע זה.','Sources':'מקורות','Rambam references':'הפניות לרמב"ם','Show the sources':'הצגת המקורות','Hide the sources':'הסתרת המקורות','Off':'כבוי','Margin sources':'מראי מקומות','Under the line':'מתחת לשורה','In the margin':'בשוליים','Halakha':'הלכה','Shas':'ש"ס','Verse':'פסוק','Go to this daf':'לדף זה','Open on Sefaria':'פתיחה בספריא','Loading…':'טוען…','Sefaria has no text for this reference.':'אין בספריא טקסט למקור זה.','Couldn’t load this passage. Use “Open on Sefaria” below.':'לא ניתן לטעון את הקטע. אפשר לפתוח אותו בספריא.','Ein Mishpat':'עין משפט','Mesoret HaShas':'מסורת הש"ס','Verses':'פסוקים','Daf summary':'סיכום הדף','Relationships':'קשרים','All sages':'כל החכמים','Sages':'חכמים','Sages chart: show every sage':'לוח החכמים: כל החכמים','The chart as a page ↗':'הלוח בעמוד נפרד ↗','Sages of the Talmud':'חכמי התלמוד',
  'Choose a daf':'בחירת דף','Continue Learning':'להמשך הלימוד',"Today's Learning":'הלימוד היום',"This Week's Learning":'הלימוד השבוע',"This Month's Learning":'הלימוד החודש','Illustrated Talmud':'התלמוד המאויר','Yeshivat Chovevei Torah':'ישיבת חובבי תורה','Previous daf':'הדף הקודם','Previous daf (←)':'הדף הקודם (→)','Masechet':'מסכת','Daf':'דף','Next daf':'הדף הבא','Next daf (→)':'הדף הבא (←)',
- "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
+ "Go to today's daf yomi":'לדף היומי של היום','Daf Yomi':'הדף היומי','Origin':'מקור','Listen':'האזנה','Key terms list':'רשימת המושגים','Collapsible outline':'מתווה מתקפל','Icons in charts':'סמלים בטבלאות','Start with sections open':'הסעיפים פתוחים בפתיחת הדף','{0} tagged to this daf, more nearby and across the tractate':'{0} מתויגים לדף זה, ועוד בדפים הסמוכים ובמסכת','Flags on headings':'כפתורי הערה ליד הכותרות','Choose a daf…':'בחירת דף…','Two text panes':'שתי חלוניות טקסט','Show a second text beside the first':'טקסט שני לצד הראשון','Close the audio player':'סגירת נגן השמע','Settings':'הגדרות','Close settings':'סגירת ההגדרות','Quizzes & Games':'חידונים ומשחקים','Quizzes and games on this daf':'חידונים ומשחקים על הדף','Study tools':'כלי לימוד','Outline version':'גרסת המתווה','Show':'תצוגה','Only the outline':'המתווה בלבד','Outline':'מתווה',
  'The outline with the text beside it':'המתווה והטקסט זה לצד זה','Both':'שניהם','Only the Gemara, shiur or daf page':'הגמרא או צילום הדף בלבד','Text':'טקסט',
  'Beside the outline':'לצד המתווה','Gemara':'גמרא','Shiur':'שיעור',
  'Articles, teshuvot and shiurim from the YCT Torah Library on this daf':'מאמרים, תשובות ושיעורים על הדף מספריית התורה של ישיבת חובבי תורה (באנגלית)',
@@ -1241,11 +1245,19 @@ async function lookupWord(word,G){const forms=wordForms(word),hits=[];
 // Jastrow's "v. X" links become buttons that open X; other markup is reduced to plain emphasis.
 function dictClean(html){const doc=new DOMParser().parseFromString(`<div>${html||''}</div>`,'text/html'),root=doc.body.firstChild;
  root.querySelectorAll('a').forEach(a=>{const r=a.getAttribute('data-ref')||'';
-  if(/^Jastrow, /.test(r)){const b=doc.createElement('button');b.type='button';b.className='dref';b.dataset.hw=r.replace(/^Jastrow, /,'').replace(/ \d+$/,'');b.textContent=a.textContent;a.replaceWith(b)}
+  if(/^(Jastrow|Klein Dictionary), /.test(r)){const b=doc.createElement('button');b.type='button';b.className='dref';b.dataset.hw=(/^Klein/.test(r)?'K:':'')+r.replace(/^(Jastrow|Klein Dictionary), /,'').replace(/ \d+$/,'');b.textContent=a.textContent;a.replaceWith(b)}
   else a.replaceWith(...a.childNodes)});
  const OK={B:1,STRONG:1,I:1,EM:1,BR:1,SMALL:1,SUP:1,SPAN:1,BUTTON:1};
  (function walk(n){[...n.children].forEach(c=>{walk(c);if(!OK[c.tagName])c.replaceWith(...c.childNodes);else [...c.attributes].forEach(at=>{if(!['dir','type','class','data-hw'].includes(at.name))c.removeAttribute(at.name)})})})(root);
  return root.innerHTML}
+// The whole entry: part of speech and period (Klein: BH, PBH…), the senses, and Klein's etymology and related words
+const KLANG={BH:'Biblical Hebrew',PBH:'Post-Biblical Hebrew',MH:'Medieval Hebrew',NH:'Modern Hebrew'};
+function entryHtml(e){const c=e.content||{},bits=[c.morphology,KLANG[e.language_code]||e.language_code].filter(Boolean);
+ return (bits.length?`<p class="dmeta">${bits.map(dictClean).join(' · ')}</p>`:'')+senseHtml(c.senses)
+  +(e.notes?`<p class="dety"><span class="dlx">${esc(tr('Origin'))}</span> ${dictClean(e.notes)}</p>`:'')
+  +(e.derivatives?`<p class="dety">${dictClean(e.derivatives)}</p>`:'')}
+// a "v. X" link: a Jastrow headword, or a Klein one ("K:…")
+const refEntry=hw=>hw.startsWith('K:')?savedEntry(hw):jastrowEntry(hw);
 function senseHtml(ss){return (ss||[]).map(x=>(x.definition?`<p class="dd">${dictClean(x.definition)}</p>`:'')+senseHtml(x.senses)).join('')}
 // The Jastrow entry with this exact (pointed) headword
 async function jastrowEntry(hw){const es=await dictGet(hw.replace(/[֑-ׇ]/g,'').replace(/\s+[IVX]+$|\s*[¹²³⁴]$/,''));return (Array.isArray(es)?es:[]).find(e=>/Jastrow/.test(e.parent_lexicon)&&e.headword===hw)||null}
@@ -1296,13 +1308,13 @@ async function showWordLive(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=s
    cmp=(a,b)=>{for(let i=0;i<a.length;i++)if(a[i]!==b[i])return a[i]-b[i];return 0},
    es=r.es.map((e,i)=>[e,i]).sort((a,b)=>cmp(key(a[0]),key(b[0]))||a[1]-b[1]).map(x=>x[0]).slice(0,3),alts=hits.filter(x=>x!==r);
   d.innerHTML=st+(fin(plain(word))!==r.f?`<p class="dnote">${esc(tr('Entries for the form'))} <span lang="he">${esc(r.f)}</span></p>`:'')
-   +es.map(e=>{const body=senseHtml((e.content||{}).senses);const long=body.length+(e.near?JSON.stringify(e.near.content||{}).length:0)>1400;
+   +es.map(e=>{const body=entryHtml(e);const long=body.length+(e.near?JSON.stringify(e.near.content||{}).length:0)>1400;
     return `<div class="de"><p class="dh"><span class="dhw" lang="he">${esc(e.headword)}</span><span class="dlx">${esc((e.parent_lexicon||'').replace(/ Dictionary$/,''))}</span>${e.via?`<span class="dlx">(${esc(tr('from'))} <span lang="he">${esc(e.via)}</span>)</span>`:''}</p><div class="dbody"${long?' style="max-height:9em;overflow:hidden"':''}>${e.near?`<div class="dnear"><p class="dh"><span class="dlx">${esc(tr('Jastrow refers to'))}</span><span class="dhw" lang="he">${esc(e.near.headword)}</span></p>${senseHtml((e.near.content||{}).senses)}</div>`:''}${body}${e.nearBtn?`<p class="dnote"><button type="button" class="dref" data-hw="${esc(e.nearBtn)}">${esc(tr('See'))} <span lang="he">${esc(e.nearBtn)}</span></button></p>`:''}</div>${long?`<button type="button" class="dmore">${esc(tr('More'))}</button>`:''}</div>`}).join('')
    +(alts.length?`<p class="dnote" style="margin-top:10px">${esc(tr('Other possible forms:'))} ${alts.map(x=>`<button type="button" class="dmore dalt" data-f="${esc(x.f)}" lang="he">${esc(x.f)}</button>`).join(' · ')}</p>`:'');
   showEn();d.querySelectorAll('.de').forEach((el,i)=>{if(es[i]&&es[i].via)markSense(el.querySelector('.dbody'),es[i].via)});
   d.querySelectorAll('.dmore:not(.dalt)').forEach(b=>b.onclick=()=>{b.previousElementSibling.style.maxHeight='';b.remove()});
   d.querySelectorAll('.dalt').forEach(b=>b.onclick=()=>draw(hits.find(x=>x.f===b.dataset.f)));
-  d.querySelectorAll('.dref').forEach(b=>b.onclick=async()=>{const t=await jastrowEntry(b.dataset.hw);if(t)draw({f:r.f,es:[t]})});d.scrollTop=0};
+  d.querySelectorAll('.dref').forEach(b=>b.onclick=async()=>{const t=await refEntry(b.dataset.hw);if(t)draw({f:r.f,es:[t]})});d.scrollTop=0};
  draw(hits[0])}
 // ---------- the saved word glossary (daf-processor/word_gloss_export.py: glossary/<Tractate>_<amud>.json) ----------
 // Where an amud has one, a tap on a Gemara word shows its gloss in this line, the dictionary entry chosen for it
@@ -1355,10 +1367,25 @@ async function showWord(sp){
   const t=senseHtml((e.content||{}).senses).replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').slice(0,110),m=t.match(/\b(as|v\.|=|same as|s\.)\s*(preced|next\s*w)/)||(t.trim()===''||/^\s*ch\.\s*same/.test(t))&&['preced'];
   const hw=m&&(/preced/.test(m[0]||m)?e.prev_hw:e.next_hw);if(hw){const n=await jastrowEntry(hw);if(n)e.near=n}}
  if(!sp.classList.contains('on'))return;
- const body=senseHtml((e.content||{}).senses),lx=(e.parent_lexicon||'').replace(/ Dictionary$/,'');
+ const body=entryHtml(e),lx=(e.parent_lexicon||'').replace(/ Dictionary$/,'');
  d.querySelector('.dgloss').nextElementSibling.outerHTML=`<div class="de"><p class="dh"><span class="dhw" lang="he">${esc(e.headword)}</span><span class="dlx">${esc(lx)}</span>${e.via?`<span class="dlx">(${esc(tr('from'))} <span lang="he">${esc(e.via)}</span>)</span>`:''}</p><div class="dbody dsaved">${e.near?`<div class="dnear"><p class="dh"><span class="dlx">${esc(tr('Jastrow refers to'))}</span><span class="dhw" lang="he">${esc(e.near.headword)}</span></p>${senseHtml((e.near.content||{}).senses)}</div>`:''}${body}</div></div>`;
- const bx=d.querySelector('.dsaved');d.querySelectorAll('.de .dref').forEach(b=>b.onclick=async()=>{const t=await jastrowEntry(b.dataset.hw);if(t){bx.innerHTML=senseHtml((t.content||{}).senses);bx.scrollTop=0}});
- if(!markSense(bx,x.q)&&e.via)markSense(bx,e.via)}
+ const bx=d.querySelector('.dsaved');
+ // a link in the entry opens that entry in its place, with its own headword, and its links work in turn
+ const wireRefs=()=>bx.parentElement.querySelectorAll('.dref').forEach(b=>b.onclick=async()=>{const t=await refEntry(b.dataset.hw);if(!t)return;
+  const h=bx.parentElement.querySelector('.dh');h.innerHTML=`<span class="dhw" lang="he">${esc(t.headword)}</span><span class="dlx">${esc((t.parent_lexicon||'').replace(/ Dictionary$/,''))}</span>`;
+  bx.innerHTML=entryHtml(t);bx.scrollTop=0;wireRefs()});wireRefs();
+ if(!markSense(bx,x.q)&&e.via)markSense(bx,e.via);
+ // A Hebrew word shown in Jastrow also gets Klein's entry for the same word, for its origin (Klein is the stronger
+ // on Hebrew etymology): part of speech, period, definition and etymology, below Jastrow's
+ if(x.l==='he'&&/Jastrow/.test(e.parent_lexicon)){const p=hwPlain(e.headword),qs=[...new Set([p,p.replace(/יי/g,'י'),p.replace(/(?<=.)ו(?=.)/g,'')])];   // Jastrow חַיָּיב, Klein חַיָּב
+  const ks=(await Promise.all(qs.map(dictGet))).flat().filter((k,i,a)=>/Klein/.test(k.parent_lexicon)&&qs.includes(hwPlain(k.headword))&&a.findIndex(y=>y.headword===k.headword&&y.parent_lexicon===k.parent_lexicon)===i);
+  if(!ks.length||!sp.classList.contains('on'))return;
+  const gw=new Set(x.g.toLowerCase().match(/[a-z]{3,}/g)||[]),score=k=>(senseHtml((k.content||{}).senses).toLowerCase().match(/[a-z]{3,}/g)||[]).filter(w=>gw.has(w)).length;
+  const only=k=>/^\s*see\b/i.test(senseHtml((k.content||{}).senses).replace(/<[^>]+>/g,''))&&!k.notes;   // "see חוב" alone
+  const k=ks.slice().sort((a,b)=>only(a)-only(b)||score(b)-score(a))[0];
+  d.querySelector('.de').insertAdjacentHTML('afterend',`<div class="de dklein"><p class="dh"><span class="dhw" lang="he">${esc(k.headword)}</span><span class="dlx">Klein</span></p><div class="dbody">${entryHtml(k)}</div></div>`);
+  d.querySelectorAll('.dklein .dref').forEach(b=>b.onclick=async()=>{const t=await refEntry(b.dataset.hw);if(!t)return;const kb=d.querySelector('.dklein');
+   kb.querySelector('.dh').innerHTML=`<span class="dhw" lang="he">${esc(t.headword)}</span><span class="dlx">Klein</span>`;kb.querySelector('.dbody').innerHTML=entryHtml(t)})}}
 document.addEventListener('click',e=>{const sp=e.target.closest('.xsrc .hw');if(sp)showWord(sp)});
 function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains('off')){closePop();return}
  $('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'));
