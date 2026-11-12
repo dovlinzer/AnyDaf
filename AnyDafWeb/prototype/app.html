@@ -1302,7 +1302,13 @@ async function savedEntry(ref){const k=ref.startsWith('K:'),hw=ref.replace(/^K:/
 function markSense(box,q){if(!q)return;const norm=t=>t.replace(/\s+/g,' ');const tw=document.createTreeWalker(box,NodeFilter.SHOW_TEXT);
  let S='',map=[];while(tw.nextNode()){const n=tw.currentNode,t=n.nodeValue;for(let i=0;i<t.length;i++){const c=/\s/.test(t[i])?' ':t[i];if(c===' '&&S.endsWith(' '))continue;S+=c;map.push([n,i])}}
  const tries=[norm(q).trim(),norm(q).trim().replace(/^[\d)—.\s-]+/,'')];let at=-1,len=0;for(const t of tries){if(t.length<3)continue;at=S.indexOf(t);if(at>=0){len=t.length;break}}
- if(at<0)return;const r=document.createRange(),[sn,so]=map[at],[en,eo]=map[at+len-1];r.setStart(sn,so);r.setEnd(en,eo+1);
+ if(at<0)return;
+ // the pointer is where the sense starts ("4) (scholastic term) [to seize, stop,]"); mark on to the end of its
+ // English definition ("…to raise an objection."), stopping before a citation, Hebrew, "(" or "v." 
+ {const rest=S.slice(at+len,at+len+160);
+  if(!/[.;:]\s*$/.test(S.slice(at,at+len))){const m=rest.match(/^[^.;(—\u0590-\u05FF]*?(?=[.;(—\u0590-\u05FF]|, v\.|\s[A-Z][a-z]*\.|$)/);
+   if(m&&/[a-z]{3}/.test(m[0])){let e=m[0].replace(/[\s,]+$/,'');if(/^[.;]/.test(rest.slice(m[0].length)))e=m[0]+rest[m[0].length];len+=e.length}}}
+ const r=document.createRange(),[sn,so]=map[at],[en,eo]=map[at+len-1];r.setStart(sn,so);r.setEnd(en,eo+1);
  const m=document.createElement('mark');m.className='dsense';try{r.surroundContents(m)}catch(_){m.append(r.extractContents());r.insertNode(m)}
  box.scrollTop+=m.getBoundingClientRect().top-box.getBoundingClientRect().top-6}
 async function showWord(sp){
@@ -1311,13 +1317,13 @@ async function showWord(sp){
  const idx=[...xrDlg.querySelectorAll('.xsrc-body .he .hw')].indexOf(sp),x=row[idx];if(!x||!x.g)return live();
  const d=xrDlg.querySelector('.xsrc-dict'),word=sp.textContent;
  xrDlg.querySelectorAll('.hw.on').forEach(y=>y.classList.remove('on'));sp.classList.add('on');
- const S=steinFor(sp),lang=x.l==='he'?tr('Hebrew'):x.l==='ar'?tr('Aramaic'):'';
+ const lang=x.l==='he'?tr('Hebrew'):x.l==='ar'?tr('Aramaic'):'';
  const head=`<div class="dgloss"><p class="dh"><span class="dhw" lang="he">${esc(word.replace(/[״"]/g,''))}</span><span class="dg">${esc(x.g)}</span>`
   +(x.name?`<span class="dlx">${esc(tr('name'))}</span>`:x.t?`<span class="dlx">${esc(tr("title before a sage's name"))}</span>`:lang?`<span class="dlx">${esc(lang)}</span>`:'')+'</p>'
   +(x.sage?`<p class="dnote"><button type="button" class="dref dsage" data-s="${esc(x.sage)}">${esc(tr('See this sage in the Sages chart'))}</button></p>`:'')+'</div>';
  const foot=`<p class="dnote dfoot"><button type="button" class="dmore dlive">${esc(tr('More from the dictionaries'))}</button>`
   +(FEEDBACK?` · <button type="button" class="dmore drep">${esc(tr('Report a mistake'))}</button>`:'')+'</p><div class="drepbox" hidden></div>';
- d.hidden=false;d.innerHTML=head+(x.e?`<p class="dnote">${esc(tr('Looking up'))}…</p>`:'')+S.html+foot;
+ d.hidden=false;d.innerHTML=head+(x.e?`<p class="dnote">${esc(tr('Looking up'))}…</p>`:'')+foot;   // no Steinsaltz here: the saved gloss already reads the word in context
  const wire=()=>{d.querySelector('.dlive').onclick=live;const sb=d.querySelector('.dsage');if(sb)sb.onclick=()=>{xrDlg.close();AnySages.open(sb.dataset.s)};   // the passage window is modal: the box would open beneath it
   const rb=d.querySelector('.drep');if(rb)rb.onclick=()=>{const box=d.querySelector('.drepbox');box.hidden=false;rb.remove();
    box.innerHTML=`<textarea rows="2" placeholder="${esc(tr('What is wrong, and what should it be?'))}"></textarea><button type="button" class="dsend">${esc(tr('Send'))}</button>`;
