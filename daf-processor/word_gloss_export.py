@@ -4,7 +4,8 @@ build_prototype.py copies to the site's glossary/. No API.
 Each file: {"lines": {"<line>": [word, ...]}} with one item per word of the line's Hebrew (the same words, in the same
 order, as the passage window wraps them), each {"g": gloss, "e": entry ("K:" for Klein) or absent, "q": the phrase
 where the sense begins, "name": 1 for a name shown as its gloss alone, "sage": slug in the Sages kit, "t": 1 for a
-title before a name, "l": "he"/"ar", "b": BDB headword and "v": its verse, for a word of a verse quote}.
+title before a name, "l": "he"/"ar", "b": BDB headword and "v": its verse, for a word of a verse quote, with "s" its Strong's number, "bw" the
+word Sefaria finds it by and "bq" the start of the sense that fits}.
 
   WG_RUN=run7 WG_BASE=run5 venv/bin/python word_gloss_run.py fix     # first
   WG_RUN=run7 venv/bin/python word_gloss_export.py
@@ -85,6 +86,9 @@ def main():
                     bdb.get(f"{m['tractate'].replace(' ', '_')}_{m['amud']}", {}).get(n, {}).get(str(i))
                 if bx:
                     x["b"], x["v"] = bx["b"], bx["v"]
+                    for k in ("s", "bw", "bq"):   # Strong's number, the word to look it up by, sense pointer (bdb_senses.py)
+                        if bx.get(k):
+                            x[k] = bx[k]
                 row.append(x)
             out[n] = row
         f = OUT / f"{m['tractate'].replace(' ', '_')}_{m['amud']}.json"

@@ -8,7 +8,7 @@ outline/word_gloss/tahot/, gitignored) gives its Strong's number. Sefaria's BDB 
 so the number names the entry with no guessing between homographs.
 
 Writes outline/word_gloss/bdb.json: {"<Tractate>_<amud>": {"<line>": {"<word index>": {"b": BDB headword,
-"v": "Exodus 21:24"}}}}, which word_gloss_export.py merges into the site files.
+"v": "Exodus 21:24", "s": Strong's number (BDB has homographs with one headword: כִּי "for", כִּי "branding")}}}}, which word_gloss_export.py merges into the site files.
 
   WG_RUN=run8 venv/bin/python bdb_verses.py
 """
@@ -52,11 +52,12 @@ def tahot():
             ch, vs = (m.group(4), m.group(5)) if m.group(4) else (m.group(2), m.group(3))
             heb, st = m.group(6), m.group(7)
             main = re.search(r"\{H(\d+)", st) or re.search(r"H(\d+)", st)
-            lem = re.search(r"\{H\d+\w*=([^=]+)=", line)
+            lem = re.search(r"\{H\d+\w*=([^=]+)=([^}]*)", line)   # "{H0251G=אָח=: male-sibling»brother:1_male-sibling}"
             word = W.fin(W.plain(heb.replace("/", "").replace("\\", "")))
             if word:
                 verses.setdefault(f"{BOOKS[m.group(1)]} {int(ch)}:{int(vs)}", []).append(
-                    (word, str(int(main.group(1))) if main else None, lem.group(1) if lem else ""))
+                    (word, str(int(main.group(1))) if main else None, lem.group(1) if lem else "",
+                     lem.group(2) if lem else ""))
     return verses
 
 
@@ -86,10 +87,16 @@ def match(word, verse):
     return None
 
 
-def bdb_entry(word, ref, strong, lemma, cache):
-    """The BDB Dictionary entry Sefaria gives for this word in this verse whose Strong's numbers include it."""
+SUP = re.compile(r"[\u00b2\u00b3\u00b9\u2070-\u2079\s]+$")
+
+
+def bdb_entry(word, ref, strong, lemma, gloss, cache):
+    """The BDB Dictionary entry Sefaria gives for this word in this verse. Sefaria's Strong's numbers are coarse (כִּי
+    "branding", כִּי² "that, for" and a pointer entry all carry 3587 and 3588), so among the entries carrying the number
+    the pointers ("v. sub כפף.", BDB's alphabetical cross-references to the root) are dropped, TAHOT's lemma picks the
+    headword, and TAHOT's gloss of the lemma ("garment", "upon") picks the homograph whose definition opens with it."""
     key = f"{word}|{ref}"
-    if key not in cache:
+    if key not in cache or any("d" not in e for e in cache[key]):
         url = ("https://www.sefaria.org/api/words/" + urllib.parse.quote(word) + "?never_split=1&lookup_ref=" +
                urllib.parse.quote(ref))
         for _ in range(3):
@@ -101,13 +108,22 @@ def bdb_entry(word, ref, strong, lemma, cache):
                 time.sleep(2)
         else:
             es = []
-        cache[key] = [{"hw": e["headword"], "s": e.get("strong_numbers") or []} for e in es
-                      if e.get("parent_lexicon") == "BDB Dictionary"]
-    hits = [e["hw"] for e in cache[key] if strong in e["s"]]
-    # several entries can share a Strong's number (עַיִן and עוֹנָה): TAHOT's lemma picks between them
-    bare = lambda h: W.plain(re.sub(r"[\u00b2\u00b3\u00b9\u2070-\u2079\s]+$", "", h))
-    same = [h for h in hits if lemma and bare(h) == W.plain(lemma)]
-    return (same or hits or [None])[0]
+        cache[key] = [{"hw": e["headword"], "s": e.get("strong_numbers") or [],
+                       "d": re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", json.dumps((e.get("content") or {}).get("senses") or [],
+                                                                               ensure_ascii=False)))[:400]}
+                      for e in es if e.get("parent_lexicon") == "BDB Dictionary"]
+    hits = [e for e in cache[key] if strong in e["s"]]
+    pointer = lambda e: len(e["d"]) < 120 and re.search(r"\bv\.\s", e["d"])
+    hits = [e for e in hits if not pointer(e)] or hits
+    bare = lambda h: W.plain(SUP.sub("", h))
+    hits = [e for e in hits if lemma and bare(e["hw"]) == W.plain(lemma)] or hits
+    words = [w[:5] for w in re.findall(r"[a-z]{3,}", gloss.lower()) if w not in ("the", "and", "with", "from")]
+    def opens(e):   # gloss words near the start of the definition, the earlier the better (ties keep Sefaria's order)
+        d = e["d"].lower()[:200]
+        at = [m.start() for w in words for m in [re.search(r"\b" + re.escape(w), d)] if m]
+        verb = re.search(r"\bvb\.", d[:40]) is not None   # TAHOT glosses a verb "to complete"; BDB opens it "vb."
+        return len(at) + (verb == gloss.lstrip(" :").startswith("to ")), -min(at, default=999)
+    return max(hits, key=opens)["hw"] if hits else None
 
 
 def main():
@@ -173,13 +189,13 @@ def main():
 
 
 def _found(out, stats, cache, verses, r, j, t, a, n, i):
-    word, strong, lemma = verses[r][j]
-    hw = bdb_entry(word, r, strong, lemma, cache) if strong else None
+    word, strong, lemma, gloss = verses[r][j]
+    hw = bdb_entry(word, r, strong, lemma, gloss, cache) if strong else None
     if not hw:
         stats["no entry"] += 1
         return
     stats["found"] += 1
-    out.setdefault(f"{t.replace(' ', '_')}_{a}", {}).setdefault(n, {})[str(i)] = {"b": hw, "v": r}
+    out.setdefault(f"{t.replace(' ', '_')}_{a}", {}).setdefault(n, {})[str(i)] = {"b": hw, "v": r, "s": strong}
 
 
 if __name__ == "__main__":

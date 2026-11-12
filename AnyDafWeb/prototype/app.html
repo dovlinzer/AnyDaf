@@ -1374,12 +1374,15 @@ async function showWord(sp){
  wire();d.scrollTop=0;
  // A word of a verse quote: BDB's entry first (bdb_verses.py found it from the verse's own words), with every citation
  // of this verse marked and the entry scrolled to the last one, usually the sense that covers it
- if(x.b)(async()=>{const es=await fetch('https://www.sefaria.org/api/words/'+encodeURIComponent(hwPlain(x.b))+'?never_split=1&lookup_ref='+encodeURIComponent(x.v)).then(r=>r.ok?r.json():[]).catch(()=>[]);
-  const b=(Array.isArray(es)?es:[]).find(y=>y.parent_lexicon==='BDB Dictionary'&&y.headword===x.b),slot=d.querySelector('.dbdbslot');
+ // (bdb_senses.py: looked up by the verse's own word, "bw"; BDB's homographs share a headword's letters and Sefaria's
+ // Strong's numbers, so the headword with its superscript and the number "s" name the entry; "bq" starts the sense)
+ if(x.b)(async()=>{const es=await fetch('https://www.sefaria.org/api/words/'+encodeURIComponent(x.bw||hwPlain(x.b))+'?never_split=1&lookup_ref='+encodeURIComponent(x.v)).then(r=>r.ok?r.json():[]).catch(()=>[]);
+  const b=(Array.isArray(es)?es:[]).find(y=>y.parent_lexicon==='BDB Dictionary'&&y.headword===x.b&&(!x.s||(y.strong_numbers||[]).includes(x.s))),slot=d.querySelector('.dbdbslot');
   if(!slot||!sp.classList.contains('on'))return;if(!b){slot.remove();return}
   slot.outerHTML=`<div class="de dbdb"><p class="dh"><span class="dhw" lang="he">${esc(b.headword)}</span><span class="dlx">BDB</span><span class="dlx">${esc(tr('verse'))}: ${esc(x.v)}</span></p><div class="dbody dsaved">${entryHtml(b)}</div></div>`;
   const box=d.querySelector('.dbdb .dsaved'),hs=[...box.querySelectorAll('.vref')].filter(v=>v.dataset.ref===x.v);hs.forEach(v=>v.classList.add('vhit'));
-  const last=hs[hs.length-1];if(last)box.scrollTop+=last.getBoundingClientRect().top-box.getBoundingClientRect().top-box.clientHeight/3})();
+  // most entries never cite the verse: then the sense that fits the gloss (bq), marked as in Jastrow and Klein
+  const last=hs[hs.length-1];if(last)box.scrollTop+=last.getBoundingClientRect().top-box.getBoundingClientRect().top-box.clientHeight/3;else markSense(box,x.bq)})();
  if(!x.e)return;
  let e=await savedEntry(x.e);if(!sp.classList.contains('on'))return;
  if(!e){d.querySelector('.dwait')?.remove();return}
