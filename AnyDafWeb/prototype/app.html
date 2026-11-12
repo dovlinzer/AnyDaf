@@ -86,6 +86,7 @@ button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-o
 .gemhead{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;padding:10px 18px;border-bottom:1px solid var(--line)}
 .gpick{display:flex;gap:4px;flex:none}
 .gpick .pick{font-size:13px;padding:3px 6px}
+#gToday{font-size:12.5px;padding:3px 9px}
 #gTrac{max-width:10rem}
 .now{flex-basis:100%;font-size:12.5px;color:var(--muted);min-height:1.4em}
 .now b{color:var(--ink);font-weight:600}
@@ -686,7 +687,7 @@ __SPRITE__
  </div>
  <aside class="gem" id="gem" data-lang="both" aria-label="Gemara">
   <div class="gemhead">
-   <div class="gpick" role="group" aria-label="Go to"><select class="pick" id="gTrac" aria-label="Masechet"></select><select class="pick num" id="gDaf" aria-label="Daf"></select><select class="pick num" id="gAmud" aria-label="Amud"></select></div>
+   <div class="gpick" role="group" aria-label="Go to"><select class="pick" id="gTrac" aria-label="Masechet"></select><select class="pick num" id="gDaf" aria-label="Daf"></select><select class="pick num" id="gAmud" aria-label="Amud"></select><button class="btn" id="gToday" type="button" title="Go to today's daf yomi">Daf Yomi</button></div>
    <div class="seg lang" id="langSeg" role="group" aria-label="Language"><button data-l="he" aria-label="Hebrew only">א</button><button data-l="both" aria-pressed="true" aria-label="Hebrew and English">אA</button><button data-l="en" aria-label="English only">A</button></div>
    <div class="now" id="now" hidden></div>
    <div class="pills" id="gPills" role="group" aria-label="Sections of the shiur: go to" hidden></div>
@@ -1249,8 +1250,20 @@ function senseHtml(ss){return (ss||[]).map(x=>(x.definition?`<p class="dd">${dic
 // The Jastrow entry with this exact (pointed) headword
 async function jastrowEntry(hw){const es=await dictGet(hw.replace(/[֑-ׇ]/g,'').replace(/\s+[IVX]+$|\s*[¹²³⁴]$/,''));return (Array.isArray(es)?es:[]).find(e=>/Jastrow/.test(e.parent_lexicon)&&e.headword===hw)||null}
 // An entry that is only a cross-reference ("v. יְלֵיף") is replaced by the entry it points to
-async function followXref(e){const body=senseHtml((e.content||{}).senses),m=body.match(/data-hw="([^"]+)"/);
- if(!m||body.replace(/<[^>]+>/g,'').length>80)return e;const t=await jastrowEntry(m[1]);return t?{...t,via:e.headword}:e}
+// Jastrow's "v. X" is followed until it reaches an entry that defines something (כְּגוֹן -> גַּוָּן -> גַּוָּון). Sefaria
+// sometimes links an abbreviated "v. גַּוו׳" to the wrong entry (גַּוָּאָה, "inner"); then the entries the abbreviation
+// could stand for are tried, and the one that names the word is kept.
+const entryText=e=>' '+heNorm(senseHtml((e.content||{}).senses))+' ';
+const mentions=(e,w)=>!!w&&entryText(e).includes(' '+w+' ');
+async function xrefTarget(hw,txt,orig){const t=await jastrowEntry(hw);if(t&&mentions(t,orig))return t;
+ const ab=/[׳']\s*$/.test(txt)?hwPlain(txt):'';
+ if(ab.length>=2){const c=await fetch('https://www.sefaria.org/api/words/completion/'+encodeURIComponent(ab)+'/Jastrow%20Dictionary?limit=40').then(r=>r.ok?r.json():[]).catch(()=>[]);
+  for(const [,h] of (Array.isArray(c)?c:[]).filter(x=>hwPlain(x[1]).startsWith(ab)).slice(0,20)){const x=await jastrowEntry(h);if(x&&mentions(x,orig))return x}}
+ return t}
+async function followXref(e){const orig=hwPlain(e.headword);let cur=e;
+ for(let i=0;i<3;i++){const body=senseHtml((cur.content||{}).senses),m=body.match(/data-hw="([^"]+)"[^>]*>([\s\S]*?)<\/button>/);
+  if(!m||body.replace(/<[^>]+>/g,'').length>80)break;const t=await xrefTarget(m[1],m[2].replace(/<[^>]+>/g,''),orig);if(!t||t.headword===cur.headword)break;cur=t}
+ return cur===e?e:{...cur,via:e.headword}}
 async function showWordLive(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=sp.textContent;
  xrDlg.querySelectorAll('.hw.on').forEach(x=>x.classList.remove('on'));sp.classList.add('on');
  const S=steinFor(sp),c=!curHeb&&commonFor(word),G=guideSet(S.guide);
@@ -1286,7 +1299,8 @@ async function showWordLive(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=s
    +es.map(e=>{const body=senseHtml((e.content||{}).senses);const long=body.length+(e.near?JSON.stringify(e.near.content||{}).length:0)>1400;
     return `<div class="de"><p class="dh"><span class="dhw" lang="he">${esc(e.headword)}</span><span class="dlx">${esc((e.parent_lexicon||'').replace(/ Dictionary$/,''))}</span>${e.via?`<span class="dlx">(${esc(tr('from'))} <span lang="he">${esc(e.via)}</span>)</span>`:''}</p><div class="dbody"${long?' style="max-height:9em;overflow:hidden"':''}>${e.near?`<div class="dnear"><p class="dh"><span class="dlx">${esc(tr('Jastrow refers to'))}</span><span class="dhw" lang="he">${esc(e.near.headword)}</span></p>${senseHtml((e.near.content||{}).senses)}</div>`:''}${body}${e.nearBtn?`<p class="dnote"><button type="button" class="dref" data-hw="${esc(e.nearBtn)}">${esc(tr('See'))} <span lang="he">${esc(e.nearBtn)}</span></button></p>`:''}</div>${long?`<button type="button" class="dmore">${esc(tr('More'))}</button>`:''}</div>`}).join('')
    +(alts.length?`<p class="dnote" style="margin-top:10px">${esc(tr('Other possible forms:'))} ${alts.map(x=>`<button type="button" class="dmore dalt" data-f="${esc(x.f)}" lang="he">${esc(x.f)}</button>`).join(' · ')}</p>`:'');
-  showEn();d.querySelectorAll('.dmore:not(.dalt)').forEach(b=>b.onclick=()=>{b.previousElementSibling.style.maxHeight='';b.remove()});
+  showEn();d.querySelectorAll('.de').forEach((el,i)=>{if(es[i]&&es[i].via)markSense(el.querySelector('.dbody'),es[i].via)});
+  d.querySelectorAll('.dmore:not(.dalt)').forEach(b=>b.onclick=()=>{b.previousElementSibling.style.maxHeight='';b.remove()});
   d.querySelectorAll('.dalt').forEach(b=>b.onclick=()=>draw(hits.find(x=>x.f===b.dataset.f)));
   d.querySelectorAll('.dref').forEach(b=>b.onclick=async()=>{const t=await jastrowEntry(b.dataset.hw);if(t)draw({f:r.f,es:[t]})});d.scrollTop=0};
  draw(hits[0])}
@@ -1299,18 +1313,20 @@ const glossFile=(book,am)=>{const k=book.replace(/ /g,'_')+'_'+am;return GLOSS[k
 async function savedEntry(ref){const k=ref.startsWith('K:'),hw=ref.replace(/^K:/,''),es=await dictGet(hw.replace(/[֑-ׇ]/g,'').replace(/\s+[IVX]+$|\s*[¹²³⁴ᴵⱽ]+$/,'').replace(/^\*/,''));
  return (Array.isArray(es)?es:[]).find(e=>(k?/Klein/:/Jastrow/).test(e.parent_lexicon)&&e.headword===hw)||null}
 // Mark the phrase where the word's sense begins, and scroll the entry to it
-function markSense(box,q){if(!q)return;const norm=t=>t.replace(/\s+/g,' ');const tw=document.createTreeWalker(box,NodeFilter.SHOW_TEXT);
+function markSense(box,q){if(!q)return false;const norm=t=>t.replace(/\s+/g,' ');const tw=document.createTreeWalker(box,NodeFilter.SHOW_TEXT);
  let S='',map=[];while(tw.nextNode()){const n=tw.currentNode,t=n.nodeValue;for(let i=0;i<t.length;i++){const c=/\s/.test(t[i])?' ':t[i];if(c===' '&&S.endsWith(' '))continue;S+=c;map.push([n,i])}}
  const tries=[norm(q).trim(),norm(q).trim().replace(/^[\d)—.\s-]+/,'')];let at=-1,len=0;for(const t of tries){if(t.length<3)continue;at=S.indexOf(t);if(at>=0){len=t.length;break}}
- if(at<0)return;
+ if(at<0&&/[א-ת]/.test(q)){const P=[],pos=[];for(let i=0;i<S.length;i++)if(!/[\u0591-\u05C7]/.test(S[i])){P.push(S[i]);pos.push(i)}
+  const pq=norm(q).trim().replace(/[\u0591-\u05C7]/g,''),k=P.join('').indexOf(pq);if(k>=0){at=pos[k];len=pos[k+pq.length-1]-at+1;while(/[\u0591-\u05C7]/.test(S[at+len]||''))len++}}
+ if(at<0)return false;
  // the pointer is where the sense starts ("4) (scholastic term) [to seize, stop,]"); mark on to the end of its
  // English definition ("…to raise an objection."), stopping before a citation, Hebrew, "(" or "v." 
  {const rest=S.slice(at+len,at+len+160);
-  if(!/[.;:]\s*$/.test(S.slice(at,at+len))){const m=rest.match(/^[^.;(—\u0590-\u05FF]*?(?=[.;(—\u0590-\u05FF]|, v\.|\s[A-Z][a-z]*\.|$)/);
+  if(!/[.;:]\s*$/.test(S.slice(at,at+len))){const m=rest.match(/^(?:\s*\([^)]{0,60}\))?[^.;(—\u0590-\u05FF]*?(?=[.;(—\u0590-\u05FF]|, v\.|\s[A-Z][a-z]*\.|$)/);
    if(m&&/[a-z]{3}/.test(m[0])){let e=m[0].replace(/[\s,]+$/,'');if(/^[.;]/.test(rest.slice(m[0].length)))e=m[0]+rest[m[0].length];len+=e.length}}}
  const r=document.createRange(),[sn,so]=map[at],[en,eo]=map[at+len-1];r.setStart(sn,so);r.setEnd(en,eo+1);
  const m=document.createElement('mark');m.className='dsense';try{r.surroundContents(m)}catch(_){m.append(r.extractContents());r.insertNode(m)}
- box.scrollTop+=m.getBoundingClientRect().top-box.getBoundingClientRect().top-6}
+ box.scrollTop+=m.getBoundingClientRect().top-box.getBoundingClientRect().top-6;return true}
 async function showWord(sp){
  const live=()=>showWordLive(sp);if(RTL||!curLine)return live();
  const G=await glossFile(curLine.book,curLine.am),row=G&&G.lines&&G.lines[curLine.n];if(!row)return live();
@@ -1342,7 +1358,7 @@ async function showWord(sp){
  const body=senseHtml((e.content||{}).senses),lx=(e.parent_lexicon||'').replace(/ Dictionary$/,'');
  d.querySelector('.dgloss').nextElementSibling.outerHTML=`<div class="de"><p class="dh"><span class="dhw" lang="he">${esc(e.headword)}</span><span class="dlx">${esc(lx)}</span>${e.via?`<span class="dlx">(${esc(tr('from'))} <span lang="he">${esc(e.via)}</span>)</span>`:''}</p><div class="dbody dsaved">${e.near?`<div class="dnear"><p class="dh"><span class="dlx">${esc(tr('Jastrow refers to'))}</span><span class="dhw" lang="he">${esc(e.near.headword)}</span></p>${senseHtml((e.near.content||{}).senses)}</div>`:''}${body}</div></div>`;
  const bx=d.querySelector('.dsaved');d.querySelectorAll('.de .dref').forEach(b=>b.onclick=async()=>{const t=await jastrowEntry(b.dataset.hw);if(t){bx.innerHTML=senseHtml((t.content||{}).senses);bx.scrollTop=0}});
- markSense(bx,x.q)}
+ if(!markSense(bx,x.q)&&e.via)markSense(bx,e.via)}
 document.addEventListener('click',e=>{const sp=e.target.closest('.xsrc .hw');if(sp)showWord(sp)});
 function tapPage(x,y){const h=hitAt(x,y);if(!h||$('pageLay').classList.contains('off')){closePop();return}
  $('pageLay').querySelectorAll('.sel').forEach(e=>e.classList.remove('sel'));
@@ -2375,6 +2391,7 @@ function toAmud(a){if(!D)return;if(D.images[a])showAmud(a,true);
  const l=ls.reduce((x,y)=>D.order[x]<=D.order[y]?x:y),o=D.order[l];
  textHold=Date.now()+2500;[mode,splitOn()&&mode2].forEach(m=>{if(m&&m!=='page')paneToLine(m,l,o)})}
 $('gTrac').onchange=()=>goDaf($('gTrac').value,parseInt(TR[$('gTrac').value].first,10));
+$('gToday').onclick=()=>$('todayBtn').onclick();
 $('gDaf').onchange=()=>goDaf(navAt.t,+$('gDaf').value);
 $('gAmud').onchange=()=>{const a=$('gAmud').value;if(D&&+a.slice(0,-1)===navAt.n)toAmud(a)};
 $('verSeg').onclick=e=>{const b=e.target.closest('[data-v]');if(b)goDaf(navAt.t,navAt.n,b.dataset.v)};
