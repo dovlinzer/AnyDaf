@@ -915,6 +915,19 @@ def fix():
         else:
             entries.pop(k, None)
             names.append(k)
+    # a word left with no entry takes the one chosen for the same word under another gloss ("the carcass" and
+    # "carcass" are one word; the entry step sometimes answers "none fits" for one of them), if it is a candidate
+    chosen = {}
+    for k, hw in entries.items():
+        if k in items:
+            chosen.setdefault(plain(items[k]["lemma"] or items[k]["w"]), set()).add(hw)
+    for k, v in items.items():
+        if k in entries or k in named or not v["cands"]:
+            continue
+        hws = chosen.get(plain(v["lemma"] or v["w"]), set()) & {ref(x) for x in v["cands"]}
+        if len(hws) == 1:
+            entries[k] = hws.pop()
+            log.append(f"reuse {k}: -> {entries[k]}")
     # Klein for words of a verse quote only: elsewhere Jastrow's entry, written for the Talmud's usage, is kept
     # unless the entry step judged Klein the better match
     verse = in_verse(plan["where"])

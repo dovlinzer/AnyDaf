@@ -1281,12 +1281,14 @@ async function followXref(e){const orig=hwPlain(e.headword);let cur=e;
  return cur===e?e:{...cur,via:e.headword}}
 // Klein's entry for a Hebrew word (spellings may differ from Jastrow's or BDB's by יי or an inner ו), preferring one
 // whose definition shares words with the gloss, and never a bare "see X"
-async function kleinFor(hws,gloss){const qs=[...new Set(hws.map(h=>hwPlain(h).replace(/[^א-ת]/g,'')).flatMap(p=>[p,p.replace(/יי/g,'י'),p.replace(/(?<=.)ו(?=.)/g,'')]))];   // Jastrow חַיָּיב, Klein חַיָּב
+async function kleinFor(hws,gloss,strict){const qs=[...new Set(hws.map(h=>hwPlain(h).replace(/[^א-ת]/g,'')).flatMap(p=>[p,p.replace(/יי/g,'י'),p.replace(/(?<=.)ו(?=.)/g,'')]))];   // Jastrow חַיָּיב, Klein חַיָּב
  const ks=(await Promise.all(qs.map(dictGet))).flat().filter((k,i,a)=>/Klein/.test(k.parent_lexicon)&&qs.includes(hwPlain(k.headword))&&a.findIndex(y=>y.headword===k.headword&&y.parent_lexicon===k.parent_lexicon)===i);
  if(!ks.length)return null;
  const gw=new Set((gloss||'').toLowerCase().match(/[a-z]{3,}/g)||[]),score=k=>(senseHtml((k.content||{}).senses).toLowerCase().match(/[a-z]{3,}/g)||[]).filter(w=>gw.has(w)).length;
  const only=k=>/^\s*see\b/i.test(senseHtml((k.content||{}).senses).replace(/<[^>]+>/g,''))&&!k.notes;   // "see חוב" alone
- return ks.slice().sort((a,b)=>only(a)-only(b)||score(b)-score(a))[0]}
+ const pts=h=>h.replace(/[\u0591-\u05AF\u05BD\u05C0\u05C3]/g,'').replace(/[^\u05B0-\u05EA]/g,''),same=k=>hws.some(h=>pts(h)===pts(k.headword));
+ // strict (a word marked Aramaic): the same vocalized word in Klein, whose definition shares a word with the gloss
+ const best=ks.filter(k=>!strict||same(k)).sort((a,b)=>only(a)-only(b)||score(b)-score(a))[0];return !best||strict&&!score(best)?null:best}
 async function showWordLive(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=sp.textContent;
  xrDlg.querySelectorAll('.hw.on').forEach(x=>x.classList.remove('on'));sp.classList.add('on');
  const S=steinFor(sp),c=!curHeb&&commonFor(word),G=guideSet(S.guide);
@@ -1400,9 +1402,11 @@ async function showWord(sp){
   const h=bx.parentElement.querySelector('.dh');h.innerHTML=`<span class="dhw" lang="he">${esc(t.headword)}</span><span class="dlx">${esc((t.parent_lexicon||'').replace(/ Dictionary$/,''))}</span>`;
   bx.innerHTML=entryHtml(t);bx.scrollTop=0;wireRefs()});wireRefs();
  if(!markSense(bx,x.q)&&e.via)markSense(bx,e.via);
- // A Hebrew word shown in Jastrow also gets Klein's entry for the same word, for its origin (Klein is the stronger
- // on Hebrew etymology): part of speech, period, definition and etymology, below Jastrow's
- if(!x.b&&x.l==='he'&&/Jastrow/.test(e.parent_lexicon)){const k=await kleinFor([e.headword],x.g);
+ // A word shown in Jastrow also gets Klein's entry for the same word, for its origin (Klein is the stronger on
+ // Hebrew etymology): part of speech, period, definition and etymology, below Jastrow's. A word marked Aramaic gets it
+ // only when Klein's definition shares a word with the gloss: a Hebrew term in an Aramaic sentence (נבילה "carcass")
+ // is in Klein, an Aramaic word is not, and a Hebrew word spelled like it means something else
+ if(!x.b&&/Jastrow/.test(e.parent_lexicon)){const k=await kleinFor([e.headword],x.g,x.l!=='he');
   if(!k||!sp.classList.contains('on'))return;
   d.querySelector('.dmain').insertAdjacentHTML('afterend',`<div class="de dklein"><p class="dh"><span class="dhw" lang="he">${esc(k.headword)}</span><span class="dlx">Klein</span></p><div class="dbody">${entryHtml(k)}</div></div>`);
   d.querySelectorAll('.dklein .dref').forEach(b=>b.onclick=async()=>{const t=await refEntry(b.dataset.hw);if(!t)return;const kb=d.querySelector('.dklein');
