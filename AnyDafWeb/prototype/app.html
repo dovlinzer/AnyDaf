@@ -1259,7 +1259,9 @@ async function showWordLive(sp){const d=xrDlg.querySelector('.xsrc-dict'),word=s
  if(S.word)hitsP.then(hs=>kleinGloss(S.word,hintOf(hs))).then(ks=>{if(!ks.length||!sp.classList.contains('on'))return;
   en=`${esc(tr('In English'))} (Klein, <span lang="he">${esc(S.word)}</span>): `+ks.map(k=>`<b lang="he">${esc(k.headword)}</b> ${dictClean(firstDef((k.content||{}).senses)).replace(/<[^>]+>/g,'').replace(/^[\s,;:]+/,'')}`).join(` <span class="dlx">${esc(tr('or'))}</span> `);showEn()});
  const hits=await hitsP;if(!sp.classList.contains('on'))return;
- for(const h of hits)h.es=await Promise.all(h.es.map(e=>/Jastrow/.test(e.parent_lexicon)?followXref(e):e));
+ for(const h of hits){h.es=await Promise.all(h.es.map(e=>/Jastrow/.test(e.parent_lexicon)?followXref(e):e));
+  // a cross-reference followed to an entry the form also found by itself (תקין finds תְּקֵין -> תְּקֵן and תְּקֵן) is shown once
+  const seen=new Set();h.es=h.es.filter(e=>{const k=e.parent_lexicon+'|'+e.headword;if(seen.has(k))return false;seen.add(k);return true})}
 // "as preced.", "v. next w.": Jastrow defines the word under the neighbouring entry, so that entry is shown with it.
  // A bare "(preced.)" only names where the word comes from; that gets a button instead.
  for(const h of hits)for(const e of h.es){if(!/Jastrow/.test(e.parent_lexicon)||e.near)continue;
