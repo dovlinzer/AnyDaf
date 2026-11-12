@@ -84,6 +84,9 @@ button:focus-visible,input:focus-visible{outline:2px solid var(--blue);outline-o
 #outZoom[dir="rtl"] .terms button{font:500 14px "Assistant","Arial Hebrew",Arial,sans-serif}
 .gem{border-inline-start:1px solid var(--line);background:var(--gem-bg);display:flex;flex-direction:column;min-height:0}
 .gemhead{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;padding:10px 18px;border-bottom:1px solid var(--line)}
+.gpick{display:flex;gap:4px;flex:none}
+.gpick .pick{font-size:13px;padding:3px 6px}
+#gTrac{max-width:10rem}
 .now{flex-basis:100%;font-size:12.5px;color:var(--muted);min-height:1.4em}
 .now b{color:var(--ink);font-weight:600}
 .now code{font:500 11.5px var(--sans);font-variant-numeric:tabular-nums;color:var(--blue)}
@@ -683,6 +686,7 @@ __SPRITE__
  </div>
  <aside class="gem" id="gem" data-lang="both" aria-label="Gemara">
   <div class="gemhead">
+   <div class="gpick" role="group" aria-label="Go to"><select class="pick" id="gTrac" aria-label="Masechet"></select><select class="pick num" id="gDaf" aria-label="Daf"></select><select class="pick num" id="gAmud" aria-label="Amud"></select></div>
    <div class="seg lang" id="langSeg" role="group" aria-label="Language"><button data-l="he" aria-label="Hebrew only">א</button><button data-l="both" aria-pressed="true" aria-label="Hebrew and English">אA</button><button data-l="en" aria-label="English only">A</button></div>
    <div class="now" id="now" hidden></div>
    <div class="pills" id="gPills" role="group" aria-label="Sections of the shiur: go to" hidden></div>
@@ -1006,7 +1010,8 @@ function showAmud(a,manual){
  if(!a||!D.images[a]||a===amudShown)return;amudShown=a;
  $('pageEl').src=D.images[a];$('pageEl').alt=tr('{0}, Vilna page',amudName(D,a));
  drawLayout(a);
- $('folio').textContent=amudName(D,a);   // in the interface's language
+ $('folio').textContent=amudName(D,a);
+ fillAmudPick(a);   // in the interface's language
  $('amudSeg').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.a===a)));
  if(manual)textHold=Date.now()+4000;
 }
@@ -2320,6 +2325,8 @@ function goDaf(t,n,v,{push=true}={}){const T=TR[t];if(!T)return;
  const h=hashFor(t,n,outs.length>1?v:null);if(location.hash!==h)(push?history.pushState:history.replaceState).call(history,null,'',h);
  if($('tracPick').value!==t||$('dafNum').options.length!==ds.length){$('tracPick').value=t;fillDafs(t)}
  $('dafNum').value=String(n);
+ if($('gTrac').value!==t||$('gDaf').options.length!==ds.length){$('gTrac').value=t;$('gDaf').innerHTML=$('dafNum').innerHTML}
+ $('gDaf').value=String(n);
  $('prevDaf').disabled=t===TRACTATES[0].name&&n===ds[0];$('nextDaf').disabled=t===TRACTATES[TRACTATES.length-1].name&&n===ds[ds.length-1];
  $('verSeg').hidden=outs.length<2;
  $('verSeg').innerHTML=outs.length<2?'':outs.map(x=>`<button type="button" data-v="${esc(verLabel(x))}" aria-pressed="${x===o}" title="${esc(x.title)}">${esc(verLabel(x))}</button>`).join('');
@@ -2351,6 +2358,19 @@ $('todayBtn').onclick=async()=>{const b=$('todayBtn'),d=new Date();b.disabled=tr
  finally{b.disabled=false}};
 $('tracPick').onchange=()=>{fillDafs($('tracPick').value);goDaf($('tracPick').value,parseInt(TR[$('tracPick').value].first,10))};
 $('dafNum').onchange=()=>goDaf(navAt.t,+$('dafNum').value);
+// Masechet / daf / amud for all of Shas, in the text pane's header (the bar's menu lists only dafim with an outline)
+$('gTrac').innerHTML=$('tracPick').innerHTML;
+function fillAmudPick(a){const as=D?D.amudim.filter(x=>+x.slice(0,-1)===navAt.n&&(D.images[x]||Object.keys(D.order||{}).some(l=>l.startsWith(x+'.')))):[];
+ $('gAmud').innerHTML=as.map(x=>`<option value="${x}">${RTL?(x.endsWith('a')?'עמוד א':'עמוד ב'):x.slice(-1)}</option>`).join('');
+ // a page of the neighbouring daf (an outline can start on the previous amud) shows as this daf's nearest amud
+ if(a&&as.length)$('gAmud').value=as.includes(a)?a:+a.slice(0,-1)<navAt.n?as[0]:as[as.length-1]}
+function toAmud(a){if(!D)return;if(D.images[a])showAmud(a,true);
+ const ls=Object.keys(D.order||{}).filter(l=>l.startsWith(a+'.'));if(!ls.length)return;
+ const l=ls.reduce((x,y)=>D.order[x]<=D.order[y]?x:y),o=D.order[l];
+ textHold=Date.now()+2500;[mode,splitOn()&&mode2].forEach(m=>{if(m&&m!=='page')paneToLine(m,l,o)})}
+$('gTrac').onchange=()=>goDaf($('gTrac').value,parseInt(TR[$('gTrac').value].first,10));
+$('gDaf').onchange=()=>goDaf(navAt.t,+$('gDaf').value);
+$('gAmud').onchange=()=>{const a=$('gAmud').value;if(D&&+a.slice(0,-1)===navAt.n)toAmud(a)};
 $('verSeg').onclick=e=>{const b=e.target.closest('[data-v]');if(b)goDaf(navAt.t,navAt.n,b.dataset.v)};
 $('outPick').onchange=()=>{const o=DAFIM.find(x=>x.key===$('outPick').value);if(o){goDaf(o.tractate,Math.floor(o.daf),verLabel(o));if(narrow.matches)setMore(false)}};
 addEventListener('popstate',()=>{const h=parseHash();if(h)goDaf(h.t,h.n,h.v,{push:false})});

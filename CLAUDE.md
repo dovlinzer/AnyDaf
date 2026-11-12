@@ -1931,7 +1931,7 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   daf pickers are hidden, not removed) and ‹ › / ← → step through that list (`stepOut`,
   `OUT_SEQ`); `step()` still walks all of Shas, for when the full pickers return. The section pill
   strip can be dragged with a mouse (and scrolled with the wheel); a drag doesn't click a pill.
-  The Daf Yomi button is hidden for now (today's daf usually has no outline). The inline "At a
+  The Daf Yomi button is hidden for now (today's daf usually has no outline). The text pane's header has its own masechet / daf / amud pickers for all of Shas (`#gTrac`, `#gDaf`, `#gAmud`, 2026-11-11, as in the phone app): the amud picker turns the daf page and scrolls the Gemara/shiur to that amud's first line (`toAmud`); a page of the neighbouring daf shows as this daf's nearest amud. The inline "At a
   glance" box is only as wide as it needs (the label when closed, its longest entry when open;
   `width:fit-content` in the renderer). The daf menu is plain sans, regular weight (as AnyTorahWeb's
   pickers, a little larger).
