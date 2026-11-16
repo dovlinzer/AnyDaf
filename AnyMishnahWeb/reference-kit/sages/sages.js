@@ -690,6 +690,7 @@
           const ps = a.en.split(/(?<=\.)\s+(?=[A-Z\u2018\u201c\[(])/);
           return `<blockquote>${tag}${ps.map((p, i) => `<p>\u201c${esc(p)}${i === ps.length - 1 ? `\u201d <a href="${href}" target="_blank" rel="noopener">(${ref})</a>` : ''}</p>`).join('')}</blockquote>`; })();
     }).join('')}</div>` : '';
+    const avotFold = avot ? avot.replace(/^<h4>(.*?)<\/h4>(<div class="sgx-avot">)/, '<details class="sgx-avotfold"><summary>$1</summary>$2') + '</details>' : '';
     const where = n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
       <p class="sgx-where">${top.map(([tr, c]) => `<button type="button" data-tr="${esc(tr)}">${esc(name(tr))} <b>${c}</b></button>`).join('')}
       ${Object.keys(q).length > 5 ? `<button type="button" data-tr="*" class="all">${t('allT')}</button>` : ''}</p><div class="sgx-places"></div>` : '';
@@ -708,7 +709,7 @@
       ${noRel ? `<p class="sgx-none">${t('none')}</p>` : ''}
       ${fam ? `<p class="sgx-fam">${fam}</p>` : ''}
       ${bioParas.map(t => `<p class="sgx-bio"${HE() && !x.bio_he ? ' lang="en" dir="ltr"' : ''}>${bioHTML(t)}</p>`).join('')}
-      ${avot}
+      ${avotFold}
       ${x.stories && x.stories.length ? `<h4>${t('stories')}</h4><ul class="sgx-stories">${x.stories.map(s =>
         `<li><a href="${esc(S.o.link ? S.o.link(S.o.corpus, s.tractate, s.place) : '#')}">${esc(HE() && s.title_he ? s.title_he : s.title)}</a> <span>${esc(s.ref || '')}</span></li>`).join('')}</ul>` : ''}
       ${n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
