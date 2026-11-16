@@ -265,7 +265,7 @@ SMOOTH = {
  ("rabban-gamliel-b-rabbi-(iii)", "Avot 2:3", "saying"): "Be wary of those in power, for they draw a person close only when they need him. They appear to be friends when it suits them, but they do not stand by a person in his hour of need.",
  ("rabban-gamliel-b-rabbi-(iii)", "Avot 2:4", "saying"): "Make His will your own, so that He will make your will His. Set aside your will for the sake of His will, so that He will set aside the will of others for the sake of yours.",
  ("rabbi-yehoshua-b-hananyah", "Avot 2:8", "praise"): "Rabbi Yehoshua ben Hananya\u2014happy is she who bore him.",
- ("shimon-b-netanel", "Avot 2:9", "answer"): "One who foresees the outcome.",
+ ("shimon-b-netanel", "Avot 2:9", "answer"): "One who foresees what is yet to come.",
  ("shimon-b-netanel", "Avot 2:13", "saying"): "Be careful in reciting the Shema and in prayer. When you pray, do not make your prayer a fixed routine, but a plea for mercy and supplication before God... And do not be wicked in your own eyes.",
  ("rabbi-elazar-b-arakh", "Avot 2:9", "praise"): "I prefer the words of Elazar ben Arach to yours, because your words are included in his.",
  ("akavyah-b-mahalalel", "Avot 3:1", "saying"): "Keep three things in mind and you will not come to sin: Know where you came from, where you are going, and before Whom you will have to give an account. Where did you come from? From a putrid drop. Where are you going? To a place of dust, worms, and maggots. And before Whom will you give an account? Before the King of kings, the Holy One, blessed be He.",
