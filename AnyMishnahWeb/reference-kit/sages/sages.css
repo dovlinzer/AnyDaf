@@ -214,3 +214,5 @@
 .sgx-avot blockquote p{margin:3px 0;line-height:1.45}.sgx-avot blockquote p[lang=he]{font-size:1.05em}
 .sgx-avot blockquote small{display:block;opacity:.75;font-weight:600}.sgx-avot blockquote a{font-size:12.5px;opacity:.8}
 
+
+.sgx-avot blockquote p+p{margin-top:.55em}

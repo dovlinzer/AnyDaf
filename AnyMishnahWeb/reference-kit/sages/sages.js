@@ -686,7 +686,9 @@
       const href = `https://www.sefaria.org${HE() ? '.il' : ''}/Pirkei_Avot.${m[1]}.${m[2]}`, ref = `${m[1]}:${m[2]}`;
       // English pages: the saying alone, in quotation marks, with its place in brackets; Hebrew pages: the Hebrew of the saying
       return HE() ? `<blockquote>${tag}<p lang="he" dir="rtl">${esc(a.he)}</p><a href="${href}" target="_blank" rel="noopener">${esc(a.ref)}</a></blockquote>`
-        : `<blockquote>${tag}<p>\u201c${esc(a.en)}\u201d <a href="${href}" target="_blank" rel="noopener">(${ref})</a></p></blockquote>`;
+        : (() => {   // one paragraph per sentence (a question stays with its answer); the quotation opens each paragraph and closes the last, with its place after it
+          const ps = a.en.split(/(?<=\.)\s+(?=[A-Z\u2018\u201c\[(])/);
+          return `<blockquote>${tag}${ps.map((p, i) => `<p>\u201c${esc(p)}${i === ps.length - 1 ? `\u201d <a href="${href}" target="_blank" rel="noopener">(${ref})</a>` : ''}</p>`).join('')}</blockquote>`; })();
     }).join('')}</div>` : '';
     const where = n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
       <p class="sgx-where">${top.map(([tr, c]) => `<button type="button" data-tr="${esc(tr)}">${esc(name(tr))} <b>${c}</b></button>`).join('')}
