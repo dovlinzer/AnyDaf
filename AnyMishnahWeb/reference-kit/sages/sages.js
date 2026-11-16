@@ -532,7 +532,7 @@
     const roomL = c.x - half - 10, roomR = width - c.x - half - 10;
     const sides = [roomL >= 130 && 'L', roomR >= 130 && 'R'].filter(Boolean);
     if (!sides.length) return;                                // a narrow screen: the folded list below has them
-    const w = Math.min(270, ...sides.map(sd => sd === 'L' ? roomL : roomR));
+    const w = Math.min(330, ...sides.map(sd => sd === 'L' ? roomL : roomR));
     const b = document.createElement('div'); b.className = 'sgx-say'; b.style.opacity = '0'; b.style.width = w + 'px';
     b.style.top = (c.y - 28) + 'px'; b.style.transform = 'translateY(-50%)'; b.style.visibility = 'hidden';
     if (he) { b.lang = 'he'; b.dir = 'rtl'; }
