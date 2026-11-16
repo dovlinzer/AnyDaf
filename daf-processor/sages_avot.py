@@ -123,7 +123,7 @@ add("yose-b-yoezer", "1:4", hs="יוסי בן יועזר איש צרדה אומ�
 add("yose-b-yochanan", "1:5", he="ואל תרבה שיחה עם האשה")
 add("yehoshua-b-perachya", "1:6", hs="יהושע בן פרחיה אומר")
 add("nittai-haarbeli", "1:7")
-add("yehudah-b-tabbai", "1:8", hs="יהודה בן טבאי אומר")
+add("yehudah-b-tabbai", "1:8", hs="וכשיהיו בעלי דינין")
 add("shimon-b-shetach", "1:9")
 add("shemaiah", "1:10", hs="שמעיה אומר")
 add("avtalyon", "1:11")
@@ -141,7 +141,7 @@ add("rabban-gamliel-b-rabbi-(iii)", "2:3")
 add("rabban-gamliel-b-rabbi-(iii)", "2:4", hs="עשה רצונו כרצונך", he="רצון אחרים מפני רצונך")
 add("hillel", "2:4", hs="הלל אומר, אל תפרש")
 add("hillel", "2:6")
-add("hillel", "2:7")
+add("hillel", "2:7", hs="קנה שם טוב")
 add("hillel", "2:5")
 add("rabban-yochanan-b-zakkai", "2:8", hs="אם למדת תורה הרבה", he="כי לכך נוצרת")
 add("rabban-yochanan-b-zakkai", "2:8", "verdict", "הוא היה אומר, אם יהיו כל חכמי ישראל בכף מאזנים, ואליעזר", "מכריע את כלם")
@@ -234,7 +234,7 @@ add("rabbi-meir", "6:1", hs="רבי מאיר אומר", he="כדי הוא לו",
 add("rabbi-shimon-b-yehudah", "6:8", he="נאה לצדיקים ונאה לעולם", ee="fitting for the righteous and fitting for the world")
 add("shimon-bar-yochai", "6:8", "inname", he="נאה לצדיקים ונאה לעולם", ee="fitting for the righteous and fitting for the world")
 add("rabbi-shimon-b-menasya", "6:8", hs="רבי שמעון בן מנסיא אומר", es="Rabbi Shimon ben Menasya says")
-add("rabbi-yose-b-kisma", "6:9", he="איני דר אלא במקום תורה", ee="in a place of Torah.\"")
+add("rabbi-yose-b-kisma", "6:9", hs="אמרתי לו, בני, אם אתה נותן", he="איני דר אלא במקום תורה", ee="in a place of Torah.\"")
 
 out = {}
 for slug, c, m, kind, hs, he, es, ee in ITEMS:
@@ -257,8 +257,6 @@ SMOOTH = {
  ("nittai-haarbeli", "Avot 1:7", "saying"): "Keep away from a bad neighbor; do not become attached to a wicked person; and do not give up believing that wrongdoing is punished.",
  ("shemaiah", "Avot 1:10", "saying"): "Love work; hate lording it over others; and do not seek to become known to the authorities.",
  ("hillel", "Avot 1:14", "saying"): "If I am not for myself, who will be for me? And when I am for myself alone, what am I? And if not now, when?",
- ("hillel", "Avot 2:4", "saying"): "Do not separate yourself from the community; do not trust yourself until the day of your death; do not judge your fellow until you reach his place; do not say something that cannot be understood now, thinking it will be understood in the end; and do not say, \u2018When I have free time I will study,\u2019 for perhaps you will never have free time.",
- ("hillel", "Avot 2:5", "saying"): "An uncultured person cannot be sin-fearing, nor can an ignorant person be pious; the shy cannot learn, nor the short-tempered teach; and not everyone who does much business becomes wise. And in a place where no one is acting like a person, strive to be a person.",
  ("rabi", "Avot 2:1", "saying"): "Which is the right path for a person to choose? Whatever is a source of pride for the one who follows it and earns him the respect of others. Be as careful with a light commandment as with a serious one, for you do not know the reward given for each commandment. Weigh what a commandment costs you against what it earns, and what a transgression earns you against what it costs. Consider three things and you will not come to transgression: know what is above you\u2014an eye that sees, an ear that hears, and all your deeds written in a book.",
  ("rabi", "Avot 4:20", "saying"): "Do not look at the jug, but at what is in it. There are new jugs full of old wine, and old jugs without even new wine in them.",
  ("rabban-gamliel-b-rabbi-(iii)", "Avot 2:2", "saying"): "Torah study is excellent together with a worldly occupation, for the effort of doing both makes one forget sin. Torah study without work comes to nothing and leads to sin. Let all who work for the community do so for the sake of Heaven, for the merit of their ancestors supports them, and their righteousness lasts forever. And as for you, [God says,] I will count it for you as great reward, as if you had done it all yourselves.",
@@ -311,33 +309,34 @@ SMOOTH = {
  ("yehudah-b-tema", "Avot 5:20", "saying"): "Be bold as a leopard, light as an eagle, swift as a deer, and strong as a lion to do the will of your Father in Heaven.",
  ("yochanan-ben-bag-bag", "Avot 5:22", "saying"): "Turn it over and over, for everything is in it. Look into it, grow old and worn in it, and do not move away from it, for there is no better quality than it.",
  ("ben-he-he", "Avot 5:23", "saying"): "According to the effort is the reward.",
- ("rabbi-yose-b-kisma", "Avot 6:9", "saying"): "Once I was walking on the road, and a man met me and greeted me, and I returned his greeting. He said to me, \u2018Rabbi, where are you from?\u2019 I said to him, \u2018I am from a great city of sages and scribes.\u2019 He said to me, \u2018Rabbi, would you like to live with us in our place? I will give you a thousand thousand gold dinars, and precious stones and pearls.\u2019 I said to him, \u2018If you gave me all the silver, gold, precious stones and pearls in the world, I would live nowhere but in a place of Torah.\u2019",
+ ('abba-shaul', 'Avot 2:8', 'saying'): 'If all the sages of Israel were on one side of a scale, with Rabbi Eliezer ben Hyrcanus among them, and Rabbi Elazar ben Arach on the other side, he would outweigh them all.',
+ ('rabban-yochanan-b-zakkai', 'Avot 2:8', 'verdict'): 'If all the sages of Israel were on one side of a scale, and Eliezer ben Hyrcanus on the other side, he would outweigh them all.',
+ ('avtalyon', 'Avot 1:11', 'saying'): 'Sages, be careful with your words, lest you incur the penalty of exile and be exiled to a place of evil waters... and it turns out that Heaven’s name is desecrated.',
+ ('hillel', 'Avot 2:6', 'saying'): 'He saw a skull floating on the water.\u2060 He said to it: ‘Because you drowned [others], you were drowned; and in the end, those who drowned you will be drowned.’',
+ ('hillel', 'Avot 2:7', 'saying'): 'One who has acquired a good name has acquired it for himself; one who has acquired words of Torah has acquired for himself life in the World to Come.',
+ ('hillel', 'Avot 4:5', 'saying'): 'One who makes use of the crown [of learning] passes away.\u2060 From here you learn that anyone who benefits from the words of the Torah removes his life from the world.',
+ ('hillel', 'Avot 2:4', 'saying'): 'Do not separate yourself from the community. Do not trust yourself until the day of your death. Do not judge your fellow until you reach his place. Do not say something that cannot be understood now, thinking it will be understood in the end. And do not say, ‘When I have free time I will study,’ for perhaps you will never have free time.',
+ ('hillel', 'Avot 2:5', 'saying'): 'An uncultured person cannot be sin-fearing, nor can an ignorant person be pious; the shy cannot learn, nor the short-tempered teach; and not everyone who does much business becomes wise. And in a place where there is no man [no one is stepping up], strive to be a man.',
+ ('rabbi-dostai-b-r-yannai', 'Avot 3:8', 'saying'): 'Anyone who forgets one thing from his studies—Scripture considers it as if he is liable for his life.',
+ ('rabbi-meir', 'Avot 3:8', 'inname'): 'Anyone who forgets one thing from his studies—Scripture considers it as if he is liable for his life.',
+ ('rabbi-elazar-b-azaryah', 'Avot 3:17', 'saying'): 'If there is no Torah, there is no worldly occupation; if there is no worldly occupation, there is no Torah. If there is no wisdom, there is no fear [of Heaven]; if there is no fear [of Heaven], there is no wisdom. If there is no flour, there is no Torah; if there is no Torah, there is no flour.',
+ ('rabbi-elazar-hisma', 'Avot 3:18', 'saying'): '[The laws of] Kinin (bird offerings) and the beginnings of Niddah (menstruation) are the very body of Torah. Astronomical calculations and Gematria [numerical calculations] are the condiments to wisdom.',
+ ('rabbi-hananyah-b-hakhinai', 'Avot 3:4', 'saying'): 'One who stays awake at night or wanders on a road alone, and turns his heart to idleness, is liable for his life.',
+ ('rabbi-nehunya-b-hakanah', 'Avot 3:5', 'saying'): 'When one accepts the yoke of Torah upon himself, the yoke of the government and the yoke of worldly occupations (derekh erets) are removed from him. And when one casts off the yoke of Torah, the yoke of the government and the yoke of worldly occupations (derekh erets) are placed upon him.',
+ ('rabbi-yohanan-b-berokah', 'Avot 4:4', 'saying'): 'Anyone who desecrates the Name of Heaven in private, will be punished for it in public.\u2060 There is no differentiation between unintentional and intentional when it comes to desecration of the Name.',
+ ('rabbi-yose-b-kisma', 'Avot 6:9', 'saying'): 'If you gave me all the silver, gold, precious stones and pearls in the world, I would live nowhere but in a place of Torah.',
+ ('yehudah-b-tabbai', 'Avot 1:8', 'saying'): 'When litigants stand before you, regard them as guilty; and when they leave you, regard them as innocent, once they have accepted the judgment.',
 }
 for k, v in out.items():
     for it in v:
+        if (k, it["ref"]) == ("rabbi-elazar-hamodai", "Avot 3:11"): it["en"] = it["en"].replace(", peace be upon him", "")   # author's note
         sm = SMOOTH.get((k, it["ref"], it["kind"]))
-        if sm: it["en"] = sm; it["en_src"] = "ours" if it.get("en_src") else "smoothed"
+        if sm: it["en"] = sm; it["en_src"] = "ours" if it.get("en_src") else "smoothed"; it["_sm"] = 1   # hand-edited: skip the automatic clean-up below
 
 # Cut as obscure or not relatable for casual and young readers (author, 2026-11-15: a case-by-case judgement; restore any by deleting its line here).
 DROP = {
-    ("rabbi-elazar-hisma", "Avot 3:18"),                  # laws of bird offerings and niddah; astronomy and gematria
-    ("rabbi-elazar-hamodai", "Avot 3:11"),                # a list of grave offences
-    ("rabbi-hananyah-b-hakhinai", "Avot 3:4"),            # cryptic
-    ("rabbi-nehunya-b-hakanah", "Avot 3:5"),              # the yoke of government and of worldly care
-    ("yose-b-yochanan", "Avot 1:5"),                      # 'do not talk too much with a woman'
-    ("yehudah-b-tabbai", "Avot 1:8"),                     # the lawyers who 'arrange the judges'
-    ("avtalyon", "Avot 1:11"),                            # exile to the place of evil waters
     ("hillel", "Avot 1:13"),                              # Aramaic proverbs
     ("rabban-gamliel-hazaken-(i)", "Avot 1:16"),          # tithing by estimation
-    ("hillel", "Avot 2:6"),                               # the skull
-    ("hillel", "Avot 2:7"),                               # more flesh, more worms ... more wives, more witchcraft
-    ("abba-shaul", "Avot 2:8"),                           # the pan of the scale
-    ("rabban-yochanan-b-zakkai", "Avot 2:8:verdict"),     # the same image
-    ("rabbi-elazar-b-arakh", "Avot 2:14"),                # answering the unbeliever (apikoros)
-    ("rabbi-dostai-b-r-yannai", "Avot 3:8"),              # forgetting one's study is a sin of the soul
-    ("rabbi-meir", "Avot 3:8:inname"),                    # the same, quoted in his name
-    ("rabbi-yohanan-b-berokah", "Avot 4:4"),              # desecrating the Name in secret
-    ("hillel", "Avot 4:5"),                               # 'one who uses the crown'
     ("rabbi-yishmael-b-yose", "Avot 4:7"),                # shunning judicial office
     ("rabbi-yehudah-b-ilai", "Avot 4:13"),                # an error in study is an intentional sin
     ("rabbi-shimon-b-menasya", "Avot 6:8"),               # the seven qualities fulfilled in Rebbi and his sons
@@ -367,8 +366,11 @@ def drop_proof(t):
             t = before + "... " + rest.strip()
 for v in out.values():
     for it in v:
+        if it.get("_sm"): continue
         it["en"] = drop_proof(bare(it["en"])).replace("table of the Omnipresent, blessed be He.", "table of the Omnipresent.")
         if it["en"].startswith("\u2018") and it["en"].endswith("\u2019"): it["en"] = it["en"][1:-1]   # a saying that is itself one quotation
         it["en"] = re.sub(r"^\((?:[1-3] )?[A-Z][a-z]+ \d+:\d+(?:-\d+)?\)\s*", "", it["en"])   # Shmuel haKatan's saying is a verse: no reference in front
+for v in out.values():
+    for it in v: it.pop("_sm", None)
 json.dump(out, open("outline/sages/avot.json", "w"), ensure_ascii=False, indent=1)
 print(len(out), "sages,", sum(len(v) for v in out.values()), "quotations,", sum(1 for v in out.values() for i in v if i.get("en_src")), "of them our own rendering")
