@@ -217,4 +217,5 @@
 
 .sgx-avot blockquote p+p{margin-top:.55em}
 
-.sgx-avotfold{margin:20px 0 6px}.sgx-avotfold>summary{cursor:pointer;font-weight:700;font-size:1em;color:#5b2fa8}.sgx-avotfold>.sgx-avot{margin-top:4px}
+.sgx-avotfold{margin:20px 0 14px}.sgx-avotsec{margin:14px 0}.sgx-avotsec>h4{margin-top:0}
+.sgx-avotsec,.sgx-avotfold{border-top:1px solid color-mix(in srgb,currentColor 20%,transparent);border-bottom:1px solid color-mix(in srgb,currentColor 20%,transparent);padding:10px 0}.sgx-avotfold>summary{cursor:pointer;font-weight:700;font-size:1em;color:#5b2fa8}.sgx-avotfold>.sgx-avot{margin-top:4px}

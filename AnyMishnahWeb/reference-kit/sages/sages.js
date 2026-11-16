@@ -701,7 +701,7 @@
         <p class="sgx-meta">${esc(meta(x))}${x.years && !x.died ? ` <i title="${esc(t('approx'))}">*</i>` : ''}</p>
         ${bioParas.map(t => `<p class="sgx-bio"${bioLang}>${bioHTML(t)}</p>`).join('')}
         <details class="sgx-moreinfo"><summary>${t('moreAbout')}</summary>
-        ${fam ? `<p class="sgx-fam">${fam}</p>` : ''}${avot}${stories}${where}${links}</details>`;
+        ${fam ? `<p class="sgx-fam">${fam}</p>` : ''}${avot ? `<div class="sgx-avotsec">${avot}</div>` : ''}${stories}${where}${links}</details>`;
       return;
     }
     box.innerHTML = `<h3>${esc(fullName(x))} <span lang="${HE() ? 'en' : 'he'}" dir="${HE() ? 'ltr' : 'rtl'}">${esc(HE() ? x.en : x.he)}</span></h3>
