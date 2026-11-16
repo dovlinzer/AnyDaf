@@ -249,6 +249,33 @@ for slug, c, m, kind, hs, he, es, ee in ITEMS:
         out.setdefault(slug, []).append(item)
     except (ValueError, KeyError, IndexError) as err:
         raise SystemExit(f"marker not found: {slug} {c}:{m}: {err!r}\nHE: {NIKUD.sub('', h)[:300]}\nEN: {COMM[c][m-1][:400]}")
+# Cut as obscure or not relatable for casual and young readers (author, 2026-11-15: a case-by-case judgement; restore any by deleting its line here).
+DROP = {
+    ("rabbi-elazar-hisma", "Avot 3:18"),                  # laws of bird offerings and niddah; astronomy and gematria
+    ("rabbi-elazar-hamodai", "Avot 3:11"),                # a list of grave offences
+    ("rabbi-hananyah-b-hakhinai", "Avot 3:4"),            # cryptic
+    ("rabbi-nehunya-b-hakanah", "Avot 3:5"),              # the yoke of government and of worldly care
+    ("yose-b-yochanan", "Avot 1:5"),                      # 'do not talk too much with a woman'
+    ("yehudah-b-tabbai", "Avot 1:8"),                     # the lawyers who 'arrange the judges'
+    ("avtalyon", "Avot 1:11"),                            # exile to the place of evil waters
+    ("hillel", "Avot 1:13"),                              # Aramaic proverbs
+    ("rabban-gamliel-hazaken-(i)", "Avot 1:16"),          # tithing by estimation
+    ("hillel", "Avot 2:6"),                               # the skull
+    ("hillel", "Avot 2:7"),                               # more flesh, more worms ... more wives, more witchcraft
+    ("abba-shaul", "Avot 2:8"),                           # the pan of the scale
+    ("rabban-yochanan-b-zakkai", "Avot 2:8:verdict"),     # the same image
+    ("rabbi-elazar-b-arakh", "Avot 2:14"),                # answering the unbeliever (apikoros)
+    ("rabbi-dostai-b-r-yannai", "Avot 3:8"),              # forgetting one's study is a sin of the soul
+    ("rabbi-meir", "Avot 3:8:inname"),                    # the same, quoted in his name
+    ("rabbi-yohanan-b-berokah", "Avot 4:4"),              # desecrating the Name in secret
+    ("hillel", "Avot 4:5"),                               # 'one who uses the crown'
+    ("rabbi-yose-b-chalafta", "Avot 4:6"),                # his body honored by the creatures
+    ("rabbi-yishmael-b-yose", "Avot 4:7"),                # shunning judicial office
+    ("rabbi-yehudah-b-ilai", "Avot 4:13"),                # an error in study is an intentional sin
+    ("rabbi-shimon-b-menasya", "Avot 6:8"),               # the seven qualities fulfilled in Rebbi and his sons
+}
+out = {k: [it for it in v if (k, it["ref"]) not in DROP and (k, it["ref"] + ":" + it["kind"]) not in DROP] for k, v in out.items()}
+out = {k: v for k, v in out.items() if v}
 for v in out.values(): v.sort(key=lambda it: tuple(int(x) for x in it["ref"].split()[1].split(":")))   # in the order of the book (stable within a mishnah)
 
 def bare(t):
