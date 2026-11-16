@@ -20,11 +20,11 @@ def fetch(c, key, vt):
     d = json.load(urllib.request.urlopen(u))
     return [re.sub(r"<[^>]+>", "", t) for t in d["he" if key == "he" else "text"]]
 
-TEXT = {c: {"he": fetch(c, "he", VT_HE)} for c in (1, 2, 3, 4, 5)}
+TEXT = {c: {"he": fetch(c, "he", VT_HE)} for c in (1, 2, 3, 4, 5, 6)}
 
 def community():
     C = {}
-    for c in (1, 2, 3, 4, 5):
+    for c in (1, 2, 3, 4, 5, 6):
         u = f"https://www.sefaria.org/api/texts/Pirkei_Avot.{c}?context=0&commentary=0&pad=0&ven={urllib.parse.quote('Sefaria Community Translation')}"
         C[c] = [re.sub(r"<[^>]+>", "", t) if isinstance(t, str) else "" for t in json.load(urllib.request.urlopen(u))["text"]]
     return C
@@ -109,6 +109,9 @@ TR = {
  ("rabban-gamliel-b-rabbi-(iii)", "2:3", "saying"): "Be careful with the authorities, for they bring a person close only for their own needs. They appear as friends when it benefits them, but they do not stand by a person in his time of need.",
  ("hillel", "2:6", "saying"): "He also saw a skull floating on the water. He said to it: Because you drowned [others], you were drowned; and in the end, those who drowned you will be drowned.",
  ("hillel", "2:7", "saying"): "He used to say: The more flesh, the more worms; the more property, the more worry; the more wives, the more witchcraft; the more maidservants, the more lewdness; the more male servants, the more theft; the more Torah, the more life; the more study, the more wisdom; the more counsel, the more understanding; the more charity, the more peace. One who has acquired a good name has acquired it for himself; one who has acquired words of Torah has acquired for himself life in the World to Come.",
+
+ ("rabban-yochanan-b-zakkai", "2:8", "verdict"): "He used to say: If all the sages of Israel were on one pan of a scale, and Eliezer ben Hyrcanus on the other pan, he would outweigh them all.",
+ ("abba-shaul", "2:8", "saying"): "Abba Shaul says in his [Rabban Yochanan\u2019s] name: If all the sages of Israel were on one pan of a scale, with Rabbi Eliezer ben Hyrcanus among them, and Rabbi Elazar ben Arach on the other pan, he would outweigh them all.",
  ("rabbi-tarfon", "2:15", "saying"): "Rabbi Tarfon says: The day is short, the work is great, the workers are lazy, the reward is great, and the Master of the house is pressing.",
  ("rabbi-tarfon", "2:16", "saying"): "He used to say: It is not your duty to finish the work, but you are not free to desist from it. If you have learned much Torah, you will be given much reward; your Employer can be trusted to pay you the reward for your work; and know that the reward of the righteous is in the time to come.",
 }
@@ -141,6 +144,8 @@ add("hillel", "2:6")
 add("hillel", "2:7")
 add("hillel", "2:5")
 add("rabban-yochanan-b-zakkai", "2:8", hs="אם למדת תורה הרבה", he="כי לכך נוצרת")
+add("rabban-yochanan-b-zakkai", "2:8", "verdict", "הוא היה אומר, אם יהיו כל חכמי ישראל בכף מאזנים, ואליעזר", "מכריע את כלם")
+add("abba-shaul", "2:8", hs="אבא שאול אומר משמו")
 # R. Yochanan ben Zakkai's praise of his five students (2:8) and their answers to 'which is the good way' (2:9)
 for slug, hh in [
     ("rabbi-eliezer-b-hyrcanus", ("רבי אליעזר בן הורקנוס, בור סוד", "שאינו מאבד טפה")),
@@ -173,8 +178,10 @@ add("rabbi-hananyah-b-teradyon", "3:2", hs="רבי חנינא בן תרדיון 
 add("rabbi-hananyah-b-hakhinai", "3:4")
 add("rabbi-nehunya-b-hakanah", "3:5")
 add("rabbi-halafta-of-kefar-hanania", "3:6", he="שכינה שרויה ביניהם", ee="the Divine Presence rests among them")
+add("shimon-bar-yochai", "3:7", hs="רבי שמעון אומר, המהלך", es="Rabbi Shimon says: He who is walking")
 add("rabbi-dostai-b-r-yannai", "3:8", he="אשר ראו עיניך", ee="which your eyes saw.\"")
 add("rabbi-meir", "3:8", "inname", he="אשר ראו עיניך", ee="which your eyes saw.\"")   # taught in his name by R. Dostai b. Yannai
+add("shimon-bar-yochai", "3:3", he="אשר לפני ה'")
 add("rabbi-elazar-b-yehudah-of-bartota", "3:7", he="ומידך נתנו לך", ee="we have given to You\" (I Chronicles 29:14).")
 add("rabbi-chanina-b-dosa", "3:9")
 add("rabbi-chanina-b-dosa", "3:10", he="אין רוח המקום נוחה הימנו", ee="the spirit of God does not find pleasure.")
@@ -194,15 +201,21 @@ add("shimon-b-azzai", "4:3")
 add("rabbi-levitas-of-yavneh", "4:4", hs="רבי לויטס איש יבנה אומר", he="שתקות אנוש רמה", es="Rabbi Levitas", ee="the hope of man is worms.")
 add("rabbi-yohanan-b-berokah", "4:4", hs="רבי יוחנן בן ברוקא אומר", es="Rabbi Yochanan ben Beroka says")
 add("rabbi-yishmael-b-yohanan-b-berokah", "4:5", hs="רבי ישמעאל בנו אומר", he="לשמר ולעשות", ee="to observe, and to practice.")
+add("hillel", "4:5", hs="וכך היה הלל אומר", es="And thus Hillel used to say")
 add("rabbi-tzadok-(i)", "4:5", hs="רבי צדוק אומר", he="ולא קרדם לחפר בהם", es="Rabbi Tzadok says", ee="with which to dig into them.")
 add("rabbi-yose-b-chalafta", "4:6")      # 'R. Yose', whose son R. Yishmael follows in 4:7 (R. Yose b. Chalafta's son is R. Yishmael b. Yose)
 add("rabbi-yishmael-b-yose", "4:7", he="ושבועת שוא", es="One who withholds", ee="and the false oath.")   # cut before 'imbecile' (project rule: never)
 add("rabbi-yishmael-b-yose", "4:8")
 add("rabbi-yonatan", "4:9")
 add("rabbi-meir", "4:10")
+add("rabbi-eliezer-b-yaakov-(ii)", "4:11", hs="רבי אליעזר בן יעקב אומר", he="כתריס בפני הפרענות", es="Rabbi Eliezer ben Yaakov says", ee="shield against punishment.")
 add("rabbi-yohanan-hasandlar", "4:11", hs="רבי יוחנן הסנדלר אומר", es="Rabbi Yochanan the shoemaker says")
 add("rabbi-elazar-b-shamua", "4:12")
+add("rabbi-yehudah-b-ilai", "4:13", hs="רבי יהודה אומר", he="עולה זדון", es="Rabbi Yehuda says", ee="intentional transgression.")
+add("shimon-bar-yochai", "4:13", hs="רבי שמעון אומר", es="Rabbi Shimon says")
 add("rabbi-nehorai", "4:14")
+add("rabbi-yaakov-b-qorshai", "4:16")
+add("rabbi-yaakov-b-qorshai", "4:17")
 add("rabbi-mattia-b-heresh", "4:15", hs="רבי מתיא בן חרש אומר", es="Rabbi Mattia ben Charash says")
 add("rabbi-shimon-b-elazar", "4:18")
 add("shmuel-the-little", "4:19")
@@ -215,6 +228,13 @@ add("rabbi-elazar-hakappar", "4:21")
 add("yehudah-b-tema", "5:20", hs="יהודה בן תימא אומר", he="לעשות רצון אביך שבשמים", es="Yehudah ben Teimah says", ee="the Will of your Father Who is in Heaven.")
 add("yochanan-ben-bag-bag", "5:22")
 add("ben-he-he", "5:23")
+
+# --- chapter 6 (Kinyan Torah, a later addition; the sages the kit's Mishnah census places there)
+add("rabbi-meir", "6:1", hs="רבי מאיר אומר", he="כדי הוא לו", es="Rabbi Meir says", ee="worthwhile for his sake")
+add("rabbi-shimon-b-yehudah", "6:8", he="נאה לצדיקים ונאה לעולם", ee="fitting for the righteous and fitting for the world")
+add("shimon-bar-yochai", "6:8", "inname", he="נאה לצדיקים ונאה לעולם", ee="fitting for the righteous and fitting for the world")
+add("rabbi-shimon-b-menasya", "6:8", hs="רבי שמעון בן מנסיא אומר", es="Rabbi Shimon ben Menasya says")
+add("rabbi-yose-b-kisma", "6:9", he="איני דר אלא במקום תורה", ee="in a place of Torah.\"")
 
 out = {}
 for slug, c, m, kind, hs, he, es, ee in ITEMS:
@@ -229,5 +249,6 @@ for slug, c, m, kind, hs, he, es, ee in ITEMS:
         out.setdefault(slug, []).append(item)
     except (ValueError, KeyError, IndexError) as err:
         raise SystemExit(f"marker not found: {slug} {c}:{m}: {err!r}\nHE: {NIKUD.sub('', h)[:300]}\nEN: {COMM[c][m-1][:400]}")
+for v in out.values(): v.sort(key=lambda it: tuple(int(x) for x in it["ref"].split()[1].split(":")))   # in the order of the book (stable within a mishnah)
 json.dump(out, open("outline/sages/avot.json", "w"), ensure_ascii=False, indent=1)
 print(len(out), "sages,", sum(len(v) for v in out.values()), "quotations,", sum(1 for v in out.values() for i in v if i.get("en_src")), "of them our own rendering")
