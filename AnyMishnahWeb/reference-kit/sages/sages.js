@@ -517,8 +517,8 @@
 
     commit(place, more, animate, { g, clay, width, nodeW, cw, x, boxW: Math.min(nodeW, (width - 84) / (cap + 1) - 10) });
   }
-  // The sage's own Pirkei Avot sayings in the white space beside his picture, one box at a time, no more than four lines: a longer saying runs on into the next box (an ellipsis ends one and begins the next),
-  // and the boxes alternate left and right. Default: a box stays a few seconds, fades, the next fades in; a click on his picture moves on at once.
+  // The sage's own Pirkei Avot sayings in the white space beside his picture, one box at a time, no more than four lines: a longer saying runs on into the next box (an ellipsis ends one and begins the next, on the same side),
+  // and one saying to the next alternates left and right. Default: a box stays a few seconds, fades, the next fades in; a click on his picture moves on at once.
   // Add ?sayings=click to the address for the other way: nothing shows until his picture is clicked, each click shows the next box, and the last click hides it.
   const SAY = { idx: {}, timer: 0, n: 0 };
   function sayings(g, c, x, width) {
@@ -541,7 +541,7 @@
     // cut each saying into boxes of at most four lines, measured in the box itself
     const lh = parseFloat(getComputedStyle(b).lineHeight) || 18, pad = parseFloat(getComputedStyle(b).paddingTop) * 2, maxH = lh * 4 + pad + 1;
     const pages = [];
-    for (const a of list) {
+    list.forEach((a, k) => {
       const words = (he ? a.he : '\u201c' + a.en + '\u201d').split(/\s+/), ln = link(a);
       let i = 0;
       while (i < words.length) {
@@ -549,18 +549,18 @@
         const fits = n => { b.innerHTML = `<p>${esc(lead + words.slice(i, i + n).join(' '))}${i + n < words.length ? '\u2026' : ' ' + ln}</p>`; return b.scrollHeight <= maxH; };
         let lo = 1, hi = words.length - i;
         if (fits(hi)) lo = hi; else while (lo < hi) { const mid = (lo + hi + 1) >> 1; if (fits(mid)) lo = mid; else hi = mid - 1; }
-        pages.push(`<p>${esc(lead + words.slice(i, i + lo).join(' '))}${i + lo < words.length ? '\u2026' : ' ' + ln}</p>`);
+        pages.push({ k, h: `<p>${esc(lead + words.slice(i, i + lo).join(' '))}${i + lo < words.length ? '\u2026' : ' ' + ln}</p>` });
         i += lo;
       }
-    }
+    });
     b.style.visibility = ''; b.innerHTML = '';
     let i = SAY.idx[key] || 0, hidden = click;
-    const place = () => {   // alternate sides, from one box to the next
-      const sd = sides.length === 1 ? sides[0] : (SAY.n++ % 2 ? 'R' : 'L');
+    const place = () => {   // alternate sides from one saying to the next; the parts of one saying stay on its side
+      const sd = sides.length === 1 ? sides[0] : (pages[i % pages.length].k % 2 ? 'R' : 'L');
       b.style.left = (sd === 'R' ? c.x + half : c.x - half - w) + 'px';
       b.dataset.side = sd;
     };
-    const show = () => { b.innerHTML = pages[i % pages.length]; place(); b.style.opacity = '1'; hidden = false; };
+    const show = () => { b.innerHTML = pages[i % pages.length].h; place(); b.style.opacity = '1'; hidden = false; };
     const hide = fn => { b.style.opacity = '0'; setTimeout(fn, 450); };
     const next = () => {                                         // move on: fade out, then the next fades in (click mode: after the last, hide)
       clearTimeout(SAY.timer);
