@@ -23,7 +23,7 @@
           quotedB: 'Named on {0} lines of the Talmud', quotedM: 'Named in {0} mishnayot', most: 'Most in:',
           all: 'All places', allT: 'All tractates', none: 'No teachers or students are recorded.',
           father: 'Father', mother: 'Mother', parents: 'Parent', children: 'Children', spouse: 'Wife', in_laws: 'Father-in-law',
-          sons_in_law: 'Son-in-law', siblings: 'Brother', relatives: 'Relative', stories: 'Stories about him', avot: 'In Pirkei Avot', avotTaylor: 'English: Charles Taylor, 1897.', avotPraise: 'Rabban Yochanan ben Zakkai on his student', avotAnswer: 'His answer: which is the right way to hold to?',
+          sons_in_law: 'Son-in-law', siblings: 'Brother', relatives: 'Relative', stories: 'Stories about him', avot: 'In Pirkei Avot', avotTaylor: 'English: Joseph I. Gorfinkle, 1913.', avotPraise: 'Rabban Yochanan ben Zakkai on his student', avotAnswer: 'His answer: which is the right way to hold to?',
           sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
           keyT: 'teacher → student', keyC: 'colleagues', keyRT: 'teacher', keyRS: 'student', keyRC: 'colleague', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
           keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', notes: 'Notes and sources',
