@@ -1,0 +1,40 @@
+5 dafim x 1 runs (opus55_medium_v2) = 5 requests; system prompt 115,717 chars (cached)
+  bava_metzia_2            user prompt 50,869 chars
+  bava_metzia_3            user prompt 72,418 chars
+  bava_metzia_4            user prompt 64,965 chars
+  bava_metzia_5            user prompt 54,830 chars
+  bekhorot_13              user prompt 83,624 chars
+Submitted opus55_medium_v2 batch msgbatch_016waY4TTYyPovacd8rxeVc1 (5 requests)
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 in_progress: succeeded=0 processing=5 errored=0
+  opus55_medium_v2 ended: succeeded=5 processing=0 errored=0
+  wrote outline/results/bava_metzia_5/04_outline_opus55_medium_v2.json
+    check: summary of 'Takanta le'Takanta: Why Rav Nachman's Oath Can't Pass to the Owners' opens with a label and a list: 'The Gemara asks: even without R. Chiya, Rav Nachma…'
+    check: sage 'Avuha de'R. Aptoriki' (Avuha de'Rabbi Aptoriki, the father of R. Aptoriki) doesn't resolve to one sage
+    check: sage 'Rav Yehuda' (Rav Yehuda b. Yechezkel) doesn't resolve to one sage
+    check: sage 'Rav Huna' (Rav Huna) doesn't resolve to one sage
+  wrote outline/results/bava_metzia_4/04_outline_opus55_medium_v2.json
+  wrote outline/results/bava_metzia_2/04_outline_opus55_medium_v2.json
+    check: summary of 'Sumakhos Divides Without an Oath Only Between Two Shema Claims' opens with a label and a list: 'First answer: Sumakhos divides without an oath onl…'
+    check: sage 'Rabbenai' (Rabbenai) doesn't resolve to one sage
+    check: sage 'Sumakhos' (Sumakhos (the tanna, student of R. Meir)) doesn't resolve to one sage
+  wrote outline/results/bekhorot_13/04_outline_opus55_medium_v2.json
+    check: picture in 'When the Obligation to Redeem a Peter Chamor Begins' quotes speech but has no bubble
+    check: sage 'Rav Yosef' (Rav Yosef bar Chiya) doesn't resolve to one sage
+  wrote outline/results/bava_metzia_3/04_outline_opus55_medium_v2.json
+    check: summary of 'Does Yehei Munach Cost the Swindler Anything?' opens with a label and a list: 'A second answer: R. Yosi's hold works only because…'
+    check: summary of 'Does Hazamah Set Two Witnesses Apart?' opens with a label and a list: 'A second objection: neither admission nor one witn…'

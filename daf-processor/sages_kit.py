@@ -11,6 +11,7 @@ Inputs (edit these, never the output):
 - outline/sages/kit_overrides.json the author's picks: major sages, tiers, links to drop or add
 - outline/sages/stories.json       approved stories per sage (may be empty)
 - outline/sages/avot.json          selected sayings in Pirkei Avot 1-4 per sage (sages_avot.py)
+- outline/sages/notable.json       Sefaria's notable Bavli passages per sage (sages_notable.py)
 
 Also writes quoted.json: the amudim (Bavli) and mishnayot (Mishnah) where each sage is named.
 
@@ -78,6 +79,7 @@ def main():
     bavli, mishnah = load("census_bavli.json", {}), load("census_mishnah.json", {})
     ov = load("kit_overrides.json", {})
     stories = load("stories.json", {})
+    notable = load("notable.json", {})   # curated Bavli passages (sages_notable.py)
     avot = load("avot.json", {})   # selected sayings in Pirkei Avot 1-4 (sages_avot.py)
 
     # who to include: every sage with a kind, a count, or a link to one of those
@@ -236,6 +238,7 @@ def main():
                       for r, v in rels.items()},
             "stories": stories.get(k, []),
             "avot": avot.get(k, []),
+            "notable": notable.get(k, []),
         }
         out[k] = rec
     KIT.mkdir(parents=True, exist_ok=True)

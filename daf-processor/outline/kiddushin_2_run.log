@@ -1,0 +1,33 @@
+1 dafim x 2 runs (opus55_medium, opus55_high) = 2 requests; system prompt 79,322 chars (cached)
+  kiddushin_2              user prompt 61,826 chars
+Submitted opus55_medium batch msgbatch_019HgotaUK4xE8ydkptdQLt8 (1 requests)
+Submitted opus55_high batch msgbatch_01DEvHxwgDhPViktPwbVEuX6 (1 requests)
+  opus55_medium  in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_medium  in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_medium  ended: succeeded=1 processing=0 errored=0
+  wrote outline/results/kiddushin_2/04_outline_opus55_medium.json
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    in_progress: succeeded=0 processing=1 errored=0
+  opus55_high    ended: succeeded=1 processing=0 errored=0
+  wrote outline/results/kiddushin_2/04_outline_opus55_high.json

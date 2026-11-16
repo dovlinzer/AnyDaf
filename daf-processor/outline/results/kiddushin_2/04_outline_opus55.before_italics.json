@@ -1,0 +1,730 @@
+{
+ "daf": "Kiddushin 2",
+ "scope": {
+  "start": "2a: the opening Mishnah of the tractate, *ha-isha nikneit bi-shalosh derachim*",
+  "end": "2b: the *etrog* mishnah (Bikkurim 2:6), mid-discussion; continues on 3a"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "The Mishnah: How a Woman Is Acquired and Released",
+   "amud": "2a",
+   "gist": "The opening mishnah lists three ways a woman is betrothed and two ways she goes free, sets the minimum *kesef*, and applies the same frame to the *yevamah*.",
+   "bullets": [],
+   "chart": {
+    "caption": "The Mishnah's two cases: how each is acquired and how she acquires herself",
+    "columns": [
+     "",
+     "Acquired through",
+     "Acquires herself through"
+    ],
+    "rows": [
+     [
+      "A woman",
+      "Money (*kesef*), a document (*shtar*), intercourse (*bi'ah*)",
+      "A bill of divorce, or the husband's death"
+     ],
+     [
+      "A *yevamah*",
+      "*Bi'ah* with the *yavam* only",
+      "*Chalitzah*, or the *yavam*'s death"
+     ]
+    ]
+   },
+   "children": [
+    {
+     "id": "s2",
+     "title": "Three Ways In, Two Ways Out: Kesef, Shtar, Bi'ah",
+     "amud": "2a",
+     "gist": "A woman is betrothed through money, a document or *bi'ah* (intercourse), and she \"acquires herself\" in two ways, which means she becomes free to marry another man.",
+     "bullets": [
+      {
+       "text": "Mishnah: *ha-isha nikneit bi-shalosh derachim, ve-konah et atzmah bi-shtei derachim*. She is acquired through *kesef*, *shtar* and *bi'ah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rashi: *konah et atzmah* means she comes under her own control, free to marry another man. That is the core bond *kiddushin* creates, and its dissolution is what \"acquiring herself\" means.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "*Kesef*: giving an object of value with the words *harei at mekudeshet li*, before witnesses. The witnesses don't merely prove the act; they make it legally binding, as with *gittin*.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The ring appears in neither the Bavli nor the Yerushalmi. It is first recorded in the Geonic-era *Sefer ha-Chilukim*, which reports that Eretz Yisrael used a ring and the Jews of Bavel did not.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "*Shtar*: a document reading *harei at mekudeshet li*, handed to her before witnesses. It is fully valid, yet there is no evidence it was used in practice; the Gemara's stories are all about *kesef*.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The *ketubah* is not the *shtar*, and *yichud* is not the *bi'ah*: both belong to *nisu'in*. Some Genizah *ketubot* (studied by Mordechai Friedman) do include *harei at mekudeshet li*, suggesting a conceptual blurring in some communities.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "*Bi'ah*: a single act of intercourse done with the intent to create *kiddushin*, not any act of intimacy.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The first *perek* is about *kinyanim* broadly: the woman, the *yevamah*, the *eved ivri*, the *eved kena'ani*, land and movables, each named with its modes of acquisition.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "2a.1",
+      "to": "2a.1"
+     }
+    },
+    {
+     "id": "s3",
+     "title": "Kiddushin versus Nisu'in",
+     "amud": "2a",
+     "gist": "*Kiddushin* creates the legal status of a married woman, while living together, the household and the mutual obligations begin only with *nisu'in*.",
+     "bullets": [
+      {
+       "text": "After *kiddushin*, another man's *kiddushin* has no effect, relations with another man are adultery, and she needs a *get* to leave. But the couple does not yet share a home or a life.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "*Nisu'in* (the *chuppah*), treated in Ketubot, brings *she'er, kesut ve-onah* and, in the other direction, her earnings to her husband.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The stages could be years apart. In arranged matches the binding mechanism was originally *kiddushin* itself (later, *tna'im* with penalties), and *nisu'in* followed once the girl had grown up.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "This explains Rashi's precision. He mentions only her freedom to marry another, not vows or earnings, because those flow from *nisu'in*, not from *kiddushin*.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The *bi'ah* of *kiddushin* is a one-time legal act, entirely different in kind from the ongoing relationship of *nisu'in*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "2a.1",
+      "to": "2a.1"
+     }
+    },
+    {
+     "id": "s4",
+     "title": "Kesef: A Dinar or a Perutah",
+     "amud": "2a",
+     "gist": "Beit Shammai require a *dinar*'s worth and Beit Hillel a *perutah*'s worth, and the mishnah fixes the *perutah* at one-eighth of an Italian *issar*.",
+     "bullets": [
+      {
+       "text": "Beit Shammai: a *dinar* or anything worth a *dinar*. Beit Hillel: a *perutah*, a small copper coin, or anything worth a *perutah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "How much is a *perutah*, by the fixed value of silver? One-eighth of the Italian *issar*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "\"Or its equivalent\" means the object need not be a coin at all. Since Beit Hillel's *perutah* is itself copper, *kesef* here cannot literally mean silver; it simply means value.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "The mishnah is layered. The core, *nikneit be-kesef, be-shtar u-ve-vi'ah*, is terse. The Beit Shammai–Beit Hillel dispute is a gloss asking what *kesef* means, and the *perutah*'s definition is a gloss on the gloss.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Without the gloss, *kesef* would naturally mean a real price, like the Torah's fifty-silver *mohar*. That sum migrated to the *ketubah* (200 *zuz*), payable at death or divorce, which left the upfront payment symbolic and raised the question of how little suffices.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Contrast land, acquired through *kesef, shtar u-chazakah*. There *kesef* means the market price; nobody buys a house for a *perutah*.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Two models of marriage run through the *perek*. In the *kinyan* model the man acquires something in her, such as sexual rights. In the *kiddushin* model marriage is a personal status of exclusivity that arises from a relationship.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Signs of the *kinyan* model: the husband's duty of *onah* is derived from a verse, while the wife's duty is simply assumed; and damages for a miscarriage are paid to the husband.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Every mishnah in the tractate uses the language of *kiddushin* except this first one. Once the payment became a symbol, the institution was no longer called *kinyan* but *kiddushin*.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "illustration": {
+      "caption": "The Mishnah's dispute over the minimum *kesef*: Beit Shammai's *dinar* beside Beit Hillel's *perutah*, which the Mishnah fixes at one-eighth of the Italian *issar* (Kiddushin 2a).",
+      "svg": "<svg viewBox=\"0 0 900 420\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Beit Shammai's dinar on the left; on the right, an Italian issar divided into eight, with one eighth marked as Beit Hillel's peruta.</title><rect width=\"900\" height=\"420\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"38\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"22\" font-weight=\"600\" fill=\"#1A1F2E\">Betrothal with money: how much?</text><rect x=\"20\" y=\"58\" width=\"420\" height=\"320\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"230\" y=\"96\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#1B3A8A\">Beit Shammai</text><circle cx=\"230\" cy=\"200\" r=\"62\" fill=\"#D5D9E0\" stroke=\"#9AA3B2\" stroke-width=\"4\"/><circle cx=\"230\" cy=\"200\" r=\"50\" fill=\"none\" stroke=\"#B4BBC7\" stroke-width=\"2\"/><text x=\"230\" y=\"204\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"26\" font-weight=\"400\" fill=\"#3A4A6A\">דינר</text><text x=\"230\" y=\"230\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#3A4A6A\">dinar</text><text x=\"230\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">a dinar,</text><text x=\"230\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#1B3A8A\">or anything worth a dinar</text><rect x=\"460\" y=\"58\" width=\"420\" height=\"320\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"96\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"21\" font-weight=\"600\" fill=\"#9A6212\">Beit Hillel</text><circle cx=\"600\" cy=\"195\" r=\"62\" fill=\"#E4E6EA\" stroke=\"#9AA3B2\" stroke-width=\"3\"/><path d=\"M600 195 L600 133 A62 62 0 0 1 643.8 151.2 Z\" fill=\"#B87333\"/><g stroke=\"#9AA3B2\" stroke-width=\"2\"><line x1=\"538\" y1=\"195\" x2=\"662\" y2=\"195\"/><line x1=\"600\" y1=\"133\" x2=\"600\" y2=\"257\"/><line x1=\"556.2\" y1=\"151.2\" x2=\"643.8\" y2=\"238.8\"/><line x1=\"556.2\" y1=\"238.8\" x2=\"643.8\" y2=\"151.2\"/></g><text x=\"712\" y=\"183\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#6B4A1A\">one-eighth</text><path d=\"M672 195 H752\" stroke=\"#9A6212\" stroke-width=\"3\"/><path d=\"M762 195 l-12 -6 v12 z\" fill=\"#9A6212\"/><circle cx=\"795\" cy=\"195\" r=\"26\" fill=\"#B87333\" stroke=\"#8A5226\" stroke-width=\"3\"/><text x=\"600\" y=\"284\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">Italian issar</text><text x=\"600\" y=\"304\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#5B6478\">איסר האיטלקי</text><text x=\"795\" y=\"244\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1A1F2E\">peruta</text><text x=\"795\" y=\"264\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#5B6478\">פרוטה</text><text x=\"670\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#9A6212\">a peruta,</text><text x=\"670\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#9A6212\">or anything worth a peruta</text><text x=\"450\" y=\"404\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">Mishnah, Kiddushin 2a · a peruta is one-eighth of the Italian issar</text></svg>"
+     },
+     "text": {
+      "from": "2a.1",
+      "to": "2a.1"
+     }
+    },
+    {
+     "id": "s5",
+     "title": "Her Release, and the Yevamah",
+     "amud": "2a",
+     "gist": "A wife goes free through a *get* or her husband's death, and a *yevamah* is acquired only through *bi'ah* and freed by *chalitzah* or the *yavam*'s death.",
+     "flag": "Gemara text only",
+     "bullets": [
+      {
+       "text": "A woman acquires herself through a bill of divorce or through the death of her husband.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A *yevamah* is acquired by the *yavam* only through *bi'ah*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "She acquires herself, released from the levirate bond, through *chalitzah* or through the death of the *yavam*.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "2a.2",
+      "to": "2a.2"
+     }
+    }
+   ],
+   "text": {
+    "from": "2a.1",
+    "to": "2a.2"
+   }
+  },
+  {
+   "id": "s6",
+   "title": "Nikneit, Not Mekadesh: Why This Mishnah Speaks of Acquisition",
+   "amud": "2a–2b",
+   "gist": "This mishnah says \"a woman is acquired\" while chapter two says \"a man betroths\"; the Gemara explains the verb, the later change of language and the choice of the woman as subject.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s7",
+     "title": "Because of Kesef: Kicha–Kicha from Efron's Field",
+     "amud": "2a–2b",
+     "gist": "The mishnah uses acquisition language because it teaches betrothal with money, which is learned by *gezerah shavah* from Avraham's purchase of Efron's field.",
+     "bullets": [
+      {
+       "text": "Question: why does this mishnah say *ha-isha nikneit*, while the next chapter (42a) says *ha-ish mekadesh*?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: the *tanna* wants to teach betrothal with money, the standard means of acquisition, so he uses the language of acquisition.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The source for money is a *gezerah shavah*, *kicha–kicha*: \"*Ki yikach ish isha*\" (Devarim 24:1) and \"*Natati kesef ha-sadeh, kach mimeni*\" (Bereishit 23:13). Just as Efron's field was acquired with money, so too a woman.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "And the taking of the field is called acquisition: \"*ha-sadeh asher kanah Avraham*\" (Bereishit 25:10).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Alternatively, buying fields with money is called acquisition in \"*sadot ba-kesef yiknu*\" (Yirmeyahu 32:44). So the *tanna*, teaching money, said \"is acquired.\"",
+       "detail": 3,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot: the Yirmeyahu verse also shows that the money itself performs the acquisition, and is not merely a price paid alongside some other act, such as *chazakah*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [
+      {
+       "id": "s8",
+       "title": "Tosafot's Two Questions on the Gezerah Shavah",
+       "amud": "2a",
+       "gist": "Tosafot ask why the Efron derivation is needed at all, and point out that its \"taking\" refers to the money rather than the field.",
+       "bullets": [
+        {
+         "text": "First question: if we already know money is the means, why bring the whole Efron parallel to show that *kiddushin* is a *kinyan*?",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Answer: money by itself need not mean *kinyan*. It could work through some other mechanism. The *gezerah shavah* makes the *kesef* of *kiddushin* a *kinyan* in the same sense as buying a field.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Second question: in Bereishit 23:13 what is \"taken\" is the money, whereas in Devarim 24:1 it is the woman herself. The parallel is imperfect.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "The Torah's language of \"taking\" a woman fits the *mohar* framework, in which her father gives her and she is the object of the transaction rather than its subject.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "text": {
+        "from": "2a.4",
+        "to": "2a.5"
+       }
+      },
+      {
+       "id": "s9",
+       "title": "Kicha in the Torah Means Nisu'in; Betrothal Is Eirus",
+       "amud": "2a",
+       "gist": "In the Torah's own usage \"taking\" a woman means full marriage, while betrothal is *eirus*, so Chazal learn *kiddushin* from verses whose plain sense is *nisu'in*.",
+       "bullets": [
+        {
+         "text": "Tosafot: \"*ve-ish asher yikach et achoto*\" refers to relations, not betrothal. In \"*ki yikach ish isha u-va eileha*\" the taking is bringing her into his household, and the relations simply follow.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "The Torah's word for betrothal is *eiras*: \"*mi ha-ish asher eiras isha ve-lo lekachah*.\" *Eirus* comes first, and taking comes afterward.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "The paradox: Chazal derive *kiddushin* mainly from the *kicha* verses, which in their plain sense describe *nisu'in*.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "The Torah's *kinyan* model grows out of the *mohar* paid to the father at *eirus*, not out of the word *kicha* itself.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "text": {
+        "from": "2a.4",
+        "to": "2a.4"
+       }
+      }
+     ],
+     "illustration": {
+      "caption": "The *gezerah shavah* of *kicha–kicha*: \"When a man takes a woman\" (Devarim 24:1) is linked to Avraham's words to Efron, \"take it from me\" (Bereishit 23:13), so a woman, like the field, is acquired with money.",
+      "svg": "<svg viewBox=\"0 0 900 460\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a man gives a coin to a woman in betrothal. Right: Avraham gives silver to Efron for the field with the Cave of Machpelah. A link labeled kicha joins the two scenes.</title><rect width=\"900\" height=\"460\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"20\" width=\"400\" height=\"370\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"220\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">Betrothal</text><text x=\"220\" y=\"86\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"20\" font-weight=\"400\" fill=\"#6B4A1A\">כִּי יִקַּח אִישׁ אִשָּׁה</text><text x=\"220\" y=\"110\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">“When a man takes a woman” (Devarim 24:1)</text><use href=\"#man\" x=\"120\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"250\" y=\"160\" width=\"70\" height=\"140\" style=\"color:#8C4A60\"/><circle cx=\"218\" cy=\"255\" r=\"11\" fill=\"#D9B24C\" stroke=\"#A8842E\" stroke-width=\"2\"/><text x=\"220\" y=\"334\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#6B4A1A\">betrothal with money</text><text x=\"220\" y=\"358\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">the woman is “taken”</text><rect x=\"480\" y=\"20\" width=\"400\" height=\"370\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"680\" y=\"54\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#24592E\">Efron’s Field</text><text x=\"680\" y=\"86\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"19\" font-weight=\"400\" fill=\"#24592E\">נָתַתִּי כֶּסֶף הַשָּׂדֶה קַח מִמֶּנִּי</text><text x=\"680\" y=\"110\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#5B6478\">“I will give money for the field; take it from me”</text><text x=\"680\" y=\"128\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">(Bereishit 23:13)</text><rect x=\"500\" y=\"262\" width=\"360\" height=\"56\" fill=\"#C9D5B8\"/><path d=\"M760 262 Q812 190 860 262 Z\" fill=\"#A89A8E\"/><ellipse cx=\"812\" cy=\"252\" rx=\"14\" ry=\"10\" fill=\"#5A4A3A\"/><use href=\"#man\" x=\"520\" y=\"150\" width=\"56\" height=\"112\" style=\"color:#6B6F3A\"/><use href=\"#man\" x=\"640\" y=\"150\" width=\"56\" height=\"112\" style=\"color:#7A4A55\"/><circle cx=\"604\" cy=\"222\" r=\"7\" fill=\"#C9CDD4\" stroke=\"#8E96A3\" stroke-width=\"2\"/><circle cx=\"616\" cy=\"213\" r=\"7\" fill=\"#C9CDD4\" stroke=\"#8E96A3\" stroke-width=\"2\"/><text x=\"548\" y=\"296\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Avraham</text><text x=\"668\" y=\"296\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">Efron</text><text x=\"812\" y=\"296\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#1A1F2E\">Cave of Machpelah</text><text x=\"680\" y=\"342\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#24592E\">“The field which Avraham acquired” (Bereishit 25:10)</text><text x=\"680\" y=\"366\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#24592E\">הַשָּׂדֶה אֲשֶׁר קָנָה אַבְרָהָם</text><path d=\"M340 140 H420 M480 140 H560\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><circle cx=\"340\" cy=\"140\" r=\"5\" fill=\"#1B3A8A\"/><circle cx=\"560\" cy=\"140\" r=\"5\" fill=\"#1B3A8A\"/><circle cx=\"450\" cy=\"140\" r=\"30\" fill=\"#1B3A8A\"/><text x=\"450\" y=\"138\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"15\" font-weight=\"400\" fill=\"#FFFFFF\">קיחה</text><text x=\"450\" y=\"156\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#FFFFFF\">kicha</text><rect x=\"20\" y=\"402\" width=\"860\" height=\"44\" rx=\"22\" fill=\"#1B3A8A\"/><text x=\"450\" y=\"430\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#FFFFFF\">Gezerah shavah: as Efron’s field was acquired with money, so too a woman</text></svg>"
+     },
+     "text": {
+      "from": "2a.3",
+      "to": "2b.1"
+     }
+    },
+    {
+     "id": "s10",
+     "title": "Torah Language First, Rabbinic Language After",
+     "amud": "2b",
+     "gist": "Chapter two does not say \"a man acquires\" because the first mishnah speaks the Torah's language and the later one the Sages', who call betrothal *kiddushin*.",
+     "bullets": [
+      {
+       "text": "Question: then let the next chapter also say \"a man acquires.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: *me-ikara tani lishna de-Oraita, u-le-vasof tani lishna de-Rabbanan*. It opens with the Torah's language, in which betrothal is \"taking,\" and later uses the Sages' language.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The change of words is not arbitrary. It tracks a real conceptual shift from *kinyan* to *kiddushin*.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [
+      {
+       "id": "s11",
+       "title": "Why \"Kiddushin\": Forbidden to All Like Hekdesh",
+       "amud": "2b",
+       "gist": "The Sages' term means that the husband makes her forbidden to everyone, like consecrated property, and Tosafot add that the word *li* grounds this in her bond to him.",
+       "bullets": [
+        {
+         "text": "Betrothal is called *kiddushin* *de-asar lah a-kulei alma ke-hekdesh*: he renders her forbidden to everyone like consecrated property.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The analogy is imperfect. *Hekdesh* is forbidden to its owner too, and one can consecrate only what one already owns. Neither is true of a wife.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "Tosafot on *harei at mekudeshet li*: just as \"sanctified to Heaven\" means belonging to Heaven and so forbidden to all else, *li* means she is forbidden to everyone because she is bound to him.",
+         "detail": 2,
+         "source": "shiur"
+        },
+        {
+         "text": "The shift is from possession to a status that arises from a relationship. The man still initiates. *Hekdesh* itself can be read as dedication rather than a transfer of ownership to God.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": [],
+       "illustration": {
+        "caption": "The Gemara's explanation of the term *kiddushin*: like *hekdesh*, a betrothed woman is set apart from everyone else. On the right, Tosafot's reading of *li*: she is forbidden to others because she is bound to him.",
+        "svg": "<svg viewBox=\"0 0 900 440\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Left: a consecrated lamb inside a boundary, with a person outside kept away. Right: a betrothed woman inside a boundary, joined by a line labeled li to her husband, with another man outside kept away.</title><rect width=\"900\" height=\"440\" fill=\"#FBF8F1\"/><text x=\"450\" y=\"42\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"22\" font-weight=\"400\" fill=\"#1A1F2E\">דְּאָסַר לַהּ אַכּוּלֵּי עָלְמָא כְּהֶקְדֵּשׁ</text><text x=\"450\" y=\"68\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#5B6478\">“He renders her forbidden to everyone, like consecrated property”</text><rect x=\"20\" y=\"86\" width=\"420\" height=\"334\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"230\" y=\"118\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#9A6212\">Hekdesh</text><circle cx=\"230\" cy=\"222\" r=\"82\" fill=\"#FBF3E6\" stroke=\"#9A6212\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><use href=\"#lamb\" x=\"160\" y=\"172\" width=\"140\" height=\"98\"/><use href=\"#person\" x=\"40\" y=\"190\" width=\"40\" height=\"80\" style=\"color:#5E7D4F\"/><path d=\"M98 224 L110 236 M110 224 L98 236\" stroke=\"#B3261E\" stroke-width=\"3\" stroke-linecap=\"round\"/><text x=\"230\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#6B4A1A\">Consecrated property</text><text x=\"230\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">forbidden to all ordinary use</text><text x=\"230\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">even to the one who consecrated it</text><rect x=\"460\" y=\"86\" width=\"420\" height=\"334\" rx=\"14\" fill=\"#E3EAF3\"/><text x=\"670\" y=\"118\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1B3A8A\">Kiddushin</text><circle cx=\"690\" cy=\"222\" r=\"82\" fill=\"#EEF2F8\" stroke=\"#1B3A8A\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><use href=\"#woman\" x=\"660\" y=\"162\" width=\"60\" height=\"120\" style=\"color:#8C4A60\"/><use href=\"#man\" x=\"480\" y=\"182\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><path d=\"M532 232 L656 232\" stroke=\"#1B3A8A\" stroke-width=\"3\"/><text x=\"572\" y=\"222\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#1B3A8A\">לי</text><text x=\"572\" y=\"252\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#1B3A8A\">to me</text><use href=\"#person\" x=\"820\" y=\"190\" width=\"40\" height=\"80\" style=\"color:#6F5E4C\"/><path d=\"M790 224 L802 236 M802 224 L790 236\" stroke=\"#B3261E\" stroke-width=\"3\" stroke-linecap=\"round\"/><text x=\"670\" y=\"340\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"15\" font-weight=\"600\" fill=\"#1B3A8A\">A betrothed woman</text><text x=\"670\" y=\"362\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">forbidden to all other men</text><text x=\"670\" y=\"384\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">Tosafot on li: forbidden to others because she is his</text></svg>"
+       },
+       "text": {
+        "from": "2b.2",
+        "to": "2b.2"
+       }
+      }
+     ],
+     "text": {
+      "from": "2b.2",
+      "to": "2b.2"
+     }
+    },
+    {
+     "id": "s12",
+     "title": "Why the Woman Is the Subject",
+     "amud": "2b",
+     "gist": "The mishnah says \"the woman is acquired\" rather than \"the man acquires\" because it goes on to \"she acquires herself\", or, alternatively, to teach that betrothal requires her consent.",
+     "bullets": [
+      {
+       "text": "Question: let this mishnah also say \"a man acquires.\"",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: the latter clause says \"and she acquires herself,\" about her, so the first clause also speaks about her.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Then say \"the man acquires and releases (*koneh u-makneh*).\" No: when the husband dies, it is not he who releases her; her freedom comes from Heaven.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Alternatively, \"the man acquires\" would suggest he can acquire her even against her will. \"The woman is acquired\" teaches: with her consent, yes; without her consent, no.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The whole *perek* is organized around the thing acquired (woman, *yevamah*, slaves, land), so naming the object also fits its pattern.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "In the Torah a father married off his daughter without asking her; Rivkah being consulted is the exception. Chazal limited the father's power to a minor.",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "At its very first use, the vocabulary of acquisition is turned into an affirmation of her agency: she is a subject whose consent is required, not only an object.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": [],
+     "text": {
+      "from": "2b.3",
+      "to": "2b.5"
+     }
+    }
+   ],
+   "text": {
+    "from": "2a.3",
+    "to": "2b.5"
+   }
+  },
+  {
+   "id": "s13",
+   "title": "Bi-Shalosh Derachim: Why This Wording",
+   "amud": "2b → 3a",
+   "gist": "The Gemara asks two questions about the mishnah's phrase: why the feminine *shalosh*, and why \"ways\" at all rather than \"matters\".",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s14",
+     "title": "Shalosh, Not Shelosha: The Gender of Derech",
+     "amud": "2b",
+     "gist": "*Derech* is feminine, yet verses and mishnayot also treat it as masculine, and the Gemara resolves both conflicts by context.",
+     "bullets": [],
+     "chart": {
+      "caption": "When *derech* is feminine and when masculine",
+      "columns": [
+       "Source",
+       "Form",
+       "Gender of *derech*",
+       "Why"
+      ],
+      "rows": [
+       [
+        "Shemot 18:20",
+        "*yelchu vah*",
+        "Feminine",
+        "Refers to the Torah, which is feminine (*temimah*)"
+       ],
+       [
+        "Devarim 28:7",
+        "*derech echad*, *shiv'ah derachim*",
+        "Masculine",
+        "Refers to war, the way of a man"
+       ],
+       [
+        "Our Mishnah",
+        "*shalosh derachim*",
+        "Feminine",
+        "Speaks of a woman"
+       ],
+       [
+        "Mishnah, Nazir 65b",
+        "*shiv'ah derachim*",
+        "Masculine",
+        "Examining a *zav* applies to a man"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s15",
+       "title": "Feminine Here, Masculine There: The Contradictions",
+       "amud": "2b",
+       "gist": "Shemot 18:20 shows *derech* is feminine, but Devarim 28:7 and the *zav* mishnah use the masculine, so both the verses and the mishnayot seem to clash.",
+       "bullets": [
+        {
+         "text": "Why *shalosh* and not *shelosha*? Because the mishnah wants the word *derech*, which is feminine: \"*ve-hoda'ta lahem et ha-derech yelchu vah*\" (Shemot 18:20).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "But the mishnah in Nazir (65b) says *bi-shiv'ah derachim bodkin et ha-zav*, in the masculine. Answer: *derech* is also masculine: \"*be-derech echad yetz'u eilecha u-ve-shiv'ah derachim yanusu lefanecha*\" (Devarim 28:7).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "If so, the verses contradict each other, and the mishnayot contradict each other.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "text": {
+        "from": "2b.6",
+        "to": "2b.7"
+       }
+      },
+      {
+       "id": "s16",
+       "title": "Context Decides: Torah and War, Woman and Zav",
+       "amud": "2b",
+       "gist": "A *derech* of Torah is feminine and a *derech* of war masculine; likewise the mishnah about a woman uses the feminine and the one about examining a *zav* the masculine.",
+       "bullets": [
+        {
+         "text": "Shemot 18:20 speaks of the way of Torah, and Torah is feminine: \"*Torat Hashem temimah*\" (Tehillim 19:8).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Devarim 28:7 speaks of war, and it is the way of a man to wage war, not of a woman, so the masculine fits.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Our mishnah speaks of a woman, so it uses the feminine.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The *zav* mishnah uses the masculine because a man is examined to see whether his emission had another cause. A woman is not examined: she is impure even from a discharge beyond her control, so its cause does not matter.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "illustration": {
+        "caption": "The Gemara's resolution: the way of Torah (Shemot 18:20) is feminine, the ways of war (Devarim 28:7) masculine; so too our mishnah about a woman uses *shalosh*, while the mishnah about examining a *zav* uses *shiv'ah*.",
+        "svg": "<svg viewBox=\"0 0 900 480\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>Top left: a single road leading to a Torah scroll. Top right: one road splitting into seven, the ways of fleeing in war. Bottom: a woman beside the phrase shalosh derachim, and a man beside the phrase shiv'ah derachim about the zav.</title><rect width=\"900\" height=\"480\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"16\" width=\"420\" height=\"258\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"230\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#24592E\">The way of Torah</text><text x=\"230\" y=\"76\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#24592E\">אֶת הַדֶּרֶךְ יֵלְכוּ בָהּ</text><text x=\"230\" y=\"98\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">“the way in which (bah) they must walk” · Shemot 18:20</text><path d=\"M60 262 L200 262 L152 150 L118 150 Z\" fill=\"#D9C9A8\"/><rect x=\"108\" y=\"122\" width=\"54\" height=\"26\" fill=\"#F4EFE4\" stroke=\"#BFAE8E\"/><circle cx=\"108\" cy=\"135\" r=\"8\" fill=\"#C9A96E\"/><circle cx=\"162\" cy=\"135\" r=\"8\" fill=\"#C9A96E\"/><text x=\"240\" y=\"150\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#24592E\">Torah is feminine</text><text x=\"240\" y=\"176\" text-anchor=\"start\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#24592E\">תּוֹרַת ה׳ תְּמִימָה</text><text x=\"240\" y=\"196\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">(Tehillim 19:8)</text><text x=\"240\" y=\"232\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">derech is feminine: bah</text><rect x=\"460\" y=\"16\" width=\"420\" height=\"258\" rx=\"14\" fill=\"#F3E6D8\"/><text x=\"670\" y=\"46\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"19\" font-weight=\"600\" fill=\"#9A6212\">The way of war</text><text x=\"670\" y=\"76\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"16\" font-weight=\"400\" fill=\"#6B4A1A\">בְּדֶרֶךְ אֶחָד יֵצְאוּ … וּבְשִׁבְעָה דְרָכִים יָנוּסוּ</text><text x=\"670\" y=\"98\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12.5\" font-weight=\"400\" fill=\"#5B6478\">“come out against you one way … flee before you seven ways”</text><text x=\"670\" y=\"116\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">Devarim 28:7</text><text x=\"550\" y=\"156\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"600\" fill=\"#6B4A1A\">one way (echad)</text><path d=\"M500 170 H600\" stroke=\"#7A5A3A\" stroke-width=\"6\" stroke-linecap=\"round\"/><g stroke=\"#7A5A3A\" stroke-width=\"4\" stroke-linecap=\"round\"><line x1=\"600\" y1=\"170\" x2=\"720\" y2=\"122\"/><line x1=\"600\" y1=\"170\" x2=\"720\" y2=\"138\"/><line x1=\"600\" y1=\"170\" x2=\"720\" y2=\"154\"/><line x1=\"600\" y1=\"170\" x2=\"720\" y2=\"170\"/><line x1=\"600\" y1=\"170\" x2=\"720\" y2=\"186\"/><line x1=\"600\" y1=\"170\" x2=\"720\" y2=\"202\"/><line x1=\"600\" y1=\"170\" x2=\"720\" y2=\"218\"/></g><text x=\"732\" y=\"175\" text-anchor=\"start\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#6B4A1A\">seven ways (shiv'ah)</text><text x=\"670\" y=\"242\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#9A6212\">War is the way of a man, not of a woman</text><text x=\"670\" y=\"262\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#1A1F2E\">derech is masculine</text><rect x=\"20\" y=\"290\" width=\"420\" height=\"174\" rx=\"14\" fill=\"#E3EAF3\"/><use href=\"#woman\" x=\"44\" y=\"318\" width=\"50\" height=\"100\" style=\"color:#8C4A60\"/><text x=\"250\" y=\"322\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#1B3A8A\">Our mishnah</text><text x=\"250\" y=\"352\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#1A1F2E\">הָאִשָּׁה נִקְנֵית בְּשָׁלֹשׁ דְּרָכִים</text><text x=\"250\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">shalosh: feminine</text><text x=\"250\" y=\"404\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">it speaks of a woman</text><rect x=\"460\" y=\"290\" width=\"420\" height=\"174\" rx=\"14\" fill=\"#F3E6D8\"/><use href=\"#man\" x=\"484\" y=\"318\" width=\"50\" height=\"100\" style=\"color:#4B5E8C\"/><text x=\"690\" y=\"322\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"17\" font-weight=\"600\" fill=\"#9A6212\">Mishnah, Nazir 65b</text><text x=\"690\" y=\"352\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"17\" font-weight=\"400\" fill=\"#1A1F2E\">בְּשִׁבְעָה דְרָכִים בּוֹדְקִין אֶת הַזָּב</text><text x=\"690\" y=\"382\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#9A6212\">shiv'ah: masculine</text><text x=\"690\" y=\"404\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">a man is examined for another cause</text><text x=\"690\" y=\"426\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">a woman is impure regardless</text></svg>"
+       },
+       "text": {
+        "from": "2b.8",
+        "to": "2b.9"
+       }
+      }
+     ],
+     "text": {
+      "from": "2b.6",
+      "to": "2b.9"
+     }
+    },
+    {
+     "id": "s17",
+     "title": "Derachim, Not Devarim: Why \"Ways\" at All",
+     "amud": "2b → 3a",
+     "gist": "If the word *derech* forces the feminine, why not say *devarim* (\"matters\")? The Gemara tests explanations for \"ways\" in this mishnah and in others.",
+     "flag": "Gemara text only",
+     "bullets": [],
+     "children": [
+      {
+       "id": "s18",
+       "title": "*Bi'ah* Is Called a Way",
+       "amud": "2b",
+       "gist": "The mishnah says \"ways\" because Mishlei calls *bi'ah* a *derech*, and money and document follow suit because they too serve the marital bond.",
+       "flag": "Gemara text only",
+       "bullets": [
+        {
+         "text": "Question: then let it say *shelosha devarim*, three matters, in the masculine. Answer: it wanted to include *bi'ah*, which is called a way: \"the way of a man with a young woman; so is the way of an adulterous woman\" (Mishlei 30:19–20).",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "And money and document? Since *bi'ah* had to be called a way, the mishnah used \"way\" for the other two as well.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Would the mishnah phrase two cases for the sake of one? Money and document too are for the sake of *bi'ah*: the marital relationship is the purpose of betrothal.",
+         "detail": 3,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "text": {
+        "from": "2b.10",
+        "to": "2b.12"
+       }
+      },
+      {
+       "id": "s19",
+       "title": "R. Shimon: A Man Seeks What He Lost",
+       "amud": "2b",
+       "gist": "Alternatively, the mishnah follows R. Shimon, who explains that the Torah says \"when a man takes\" because it is the *derech* of a man to pursue a woman.",
+       "flag": "Gemara text only",
+       "bullets": [
+        {
+         "text": "Alternatively, the mishnah follows R. Shimon's *baraita*. Why does the Torah say \"*ki yikach ish isha*\" (Devarim 22:13) and not \"when a woman is taken by a man\"? Because it is the way of a man to pursue a woman, and not the way of a woman to pursue a man.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A parable: when someone loses an item, who searches for whom? The owner searches for his lost item. Woman was created from man's side, so the man seeks what he lost.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "illustration": {
+        "caption": "R. Shimon's *baraita* (2b): the Torah says \"when a man takes a woman\" because it is a man's way to pursue a woman, just as the owner of a lost item searches for it.",
+        "svg": "<svg viewBox=\"0 0 900 400\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><title>A man on the left and a woman on the right, with a dashed arrow from the man toward the woman illustrating R. Shimon's parable of the owner searching for his lost item.</title><rect width=\"900\" height=\"400\" fill=\"#FBF8F1\"/><rect x=\"20\" y=\"16\" width=\"860\" height=\"368\" rx=\"14\" fill=\"#E4EFE4\"/><text x=\"450\" y=\"52\" text-anchor=\"middle\" font-family=\"Newsreader, Georgia, serif\" font-size=\"20\" font-weight=\"600\" fill=\"#1A1F2E\">R. Shimon: why “when a man takes a woman”?</text><text x=\"450\" y=\"82\" text-anchor=\"middle\" font-family=\"Frank Ruhl Libre, serif\" font-size=\"18\" font-weight=\"400\" fill=\"#24592E\">כִּי יִקַּח אִישׁ אִשָּׁה</text><use href=\"#man\" x=\"190\" y=\"120\" width=\"80\" height=\"160\" style=\"color:#4B5E8C\"/><use href=\"#woman\" x=\"630\" y=\"120\" width=\"80\" height=\"160\" style=\"color:#8C4A60\"/><path d=\"M290 212 H600\" stroke=\"#1B3A8A\" stroke-width=\"3\" stroke-dasharray=\"8 6\"/><path d=\"M612 212 l-14 -7 v14 z\" fill=\"#1B3A8A\"/><text x=\"450\" y=\"196\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"600\" fill=\"#1B3A8A\">the way of a man is to pursue a woman</text><text x=\"450\" y=\"240\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"400\" fill=\"#1A1F2E\">the owner searches for what he lost</text><text x=\"230\" y=\"304\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">the man: the owner</text><text x=\"670\" y=\"304\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"13\" font-weight=\"600\" fill=\"#1A1F2E\">the woman: from his side</text><text x=\"450\" y=\"344\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"14\" font-weight=\"400\" fill=\"#24592E\">Who searches for what? The one who lost the item searches for it.</text><text x=\"450\" y=\"370\" text-anchor=\"middle\" font-family=\"Public Sans, system-ui, sans-serif\" font-size=\"12\" font-weight=\"400\" fill=\"#5B6478\">Baraita of R. Shimon · Devarim 22:13</text></svg>"
+       },
+       "text": {
+        "from": "2b.13",
+        "to": "2b.13"
+       }
+      },
+      {
+       "id": "s20",
+       "title": "The Zav: Eating and Drinking as \"Ways\"",
+       "amud": "2b",
+       "gist": "The *zav* mishnah says \"ways\" to teach that excessive eating or drinking is a way that leads to *zivah*.",
+       "flag": "Gemara text only",
+       "bullets": [
+        {
+         "text": "Why does the mishnah say \"one examines a *zav* in seven ways\" and not \"matters\"? To teach that excessive eating is a way that leads to *zivah*, and so is excessive drinking.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "returns_to": [
+        {
+         "id": "s16",
+         "note": "Returns to the *zav* mishnah (Nazir 65b), now asking about the word \"ways\" rather than its gender"
+        }
+       ],
+       "text": {
+        "from": "2b.14",
+        "to": "2b.14"
+       }
+      },
+      {
+       "id": "s21",
+       "title": "The Etrog: Like a Tree in Three Ways, Like a Vegetable in One",
+       "amud": "2b → 3a",
+       "gist": "Bikkurim 2:6 says \"ways\" because of its last clause, and the Gemara asks why that clause too does not say \"matter\"; the answer comes on 3a.",
+       "flag": "Gemara text only",
+       "bullets": [
+        {
+         "text": "Mishnah (Bikkurim 2:6): the *etrog* is like a tree in three ways. Why not \"matters\"? Because the latter clause says it is like a vegetable in one way, the first clause says \"ways\" too.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Then let the latter clause say \"one matter\"!",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": [],
+       "continues": "Continues on 3a: the *etrog*, like a vegetable, is watered by all water and tithed by its harvest time. Then the *koy* and *gittin* mishnayot lead the Gemara to a new rule: \"ways\" where there is a distinction, \"matters\" where there is none.",
+       "text": {
+        "from": "2b.15",
+        "to": "3a.1"
+       }
+      }
+     ],
+     "text": {
+      "from": "2b.10",
+      "to": "3a.1"
+     }
+    }
+   ],
+   "text": {
+    "from": "2b.6",
+    "to": "3a.1"
+   }
+  }
+ ],
+ "judgment_calls": [
+  "Kiddushin versus Nisu'in (s3) is entirely shiur framing and could have been folded into the three-ways section; kept as its own child of the Mishnah because it is a distinct conceptual point, and Rashi's precision depends on it.",
+  "The kinyan-versus-kiddushin models were placed in the kesef section, where the shiur ties them to the shift from *mohar* to a symbolic payment; they could instead stand as a separate framing section before the Gemara's opening question.",
+  "Tosafot's questions (s8) and the kicha-versus-eirus discussion (s9) come later in the lecture, but they comment on the *gezerah shavah*, so they are nested under it (s7) as shiur children rather than placed as separate sections in lecture order.",
+  "The consent inference is discussed in the shiur both under the meaning of *kiddushin* and later; it is outlined once, at 2b.5 where the text has it, as the alternative answer in s12.",
+  "The \"ways versus matters\" discussion (s17) could be its own top-level section; grouped with the gender question under one parent (s13) because both interrogate the phrase *bi-shalosh derachim*, and the second question grows out of the first answer.",
+  "The Mishnah's release and *yevamah* clauses (s5) were kept as a child of the Mishnah section rather than merged into the three-ways section, so the chart comparing woman and *yevamah* sits on the parent."
+ ],
+ "coverage_notes": [
+  "The shiur's overview of the tractate (comparison with Gittin, the content of perakim 2–4, and why Kiddushin follows Ketubot) is outside this daf's text and was left out, except for a brief note on the first perek's structure.",
+  "The Mishnah's clauses on release (a *get* or death) and on the *yevamah* are not discussed in the shiur; outlined from the text only (s5).",
+  "2b.10–2b.15 (intercourse called *derech*, R. Shimon's baraita, the *zav* and eating and drinking, the *etrog* mishnah) are not discussed in the shiur; outlined from the text only. This is the first daf of the tractate, so there is no previous essay tail.",
+  "The essay says the Italian *issar* was a copper coin and builds an argument on it; the text calls the *issar* a small silver coin (the *perutah* is the copper coin). Followed the text and kept only the point that the *perutah* itself is copper.",
+  "The essay presents \"*sadot ba-kesef yiknu*\" (Yirmeyahu 32:44) as a further confirming verse; the text offers it as an alternative proof (\"alternatively\"). Followed the text.",
+  "The essay presents the \"structural\" focus on the object acquired as the Gemara's answer to why the woman is the subject; the Gemara's answer is that the latter clause says \"she acquires herself.\" Followed the text and kept the structural point as shiur.",
+  "The essay discusses the consent inference before the *koneh u-makneh* exchange and says the Gemara is aware of the father's biblical rights; the text's order is *koneh u-makneh* first, then consent as an alternative answer, and the father's rights are not in the text. Followed the text's order and marked the father's rights as shiur.",
+  "The essay lists sleep among the causes examined for a *zav*; the text mentions only excessive eating and drinking. Omitted sleep."
+ ]
+}

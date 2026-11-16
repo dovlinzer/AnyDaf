@@ -1,0 +1,1423 @@
+{
+ "daf": "Bava Metzia 7",
+ "scope": {
+  "start": "7a.2: Rav Acha of Difti asks which doubtful animals are tithed (picks up from the proof about a kohen who seizes a doubtful animal)",
+  "end": "8a.3: the animal two people are riding, which shows that division is by value"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Which Doubtful Animals Enter the Pen for *Ma'aser Behemah*",
+   "amud": "7a",
+   "text": {
+    "from": "7a.2",
+    "to": "7a.3"
+   },
+   "gist": "The Gemara continues with the Mishnah that doubtful animals are counted for *ma'aser behemah* (the animal tithe), which proved that a kohen who seizes such an animal must return it. Rav Acha of Difti asks which animals these are. A doubtful *bekhor* is already holy and can't become a tithe, so they must be lambs that redeemed doubtful firstborn donkeys, as Rav Nachman rules.",
+   "bullets": [
+    {
+     "text": "Rav Acha of Difti asks Ravina what the Mishnah's doubtful animals are. They can't be animals of doubtful *bekhor* (firstborn) status: “the tenth shall be sacred” teaches that a tithe takes hold only of an animal not already sacred, and the doubt already gives such an animal sanctity.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "So the Mishnah means lambs given to redeem a doubtful *peter chamor* (firstborn donkey). Such a lamb has no sanctity of its own; at most it is owed to a kohen as money.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "This follows Rav Nachman in the name of Rabba bar Avuh: an Israelite with 10 doubtful firstborn donkeys separates 10 lambs to redeem them, tithes the lambs, and they all remain his, since no kohen can prove a claim to any of them.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "The tithe works only because the court rules that the owner owns the lambs, not merely that it won't act. That is why the Mishnah supports the view that a kohen who seizes such an animal must give it back.",
+     "detail": 2,
+     "source": "shiur"
+    },
+    {
+     "text": "The two kinds of doubt behave differently. As a matter of *issur* a doubtful *bekhor* stays in doubt and keeps its sanctity, while as a matter of money the court can decide for the owner.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "children": []
+  },
+  {
+   "id": "s2",
+   "title": "Consecrating a Disputed Bathhouse",
+   "amud": "7a",
+   "text": {
+    "from": "7a.4",
+    "to": "7a.6"
+   },
+   "gist": "The Gemara returns to the bathhouse that one claimant consecrated while the other kept silent. Rav Huna resolves it by Rav Nachman's rule that property one can't recover in court can't become *hekdesh* (consecrated property). The Gemara squares this with R. Yochanan by setting the bathhouse in the ground.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s3",
+     "title": "Rav Nachman: What One Can't Recover in Court Can't Become *Hekdesh*",
+     "amud": "7a",
+     "text": {
+      "from": "7a.4",
+      "to": "7a.4"
+     },
+     "gist": "R. Chiyya bar Avin reports that such a case went from Rav Chisda's school to Rav Huna, who ruled by Rav Nachman: property one can't extract from another through the court is not consecrated when one consecrates it. So the consecration of the bathhouse was void, and the other's silence proves nothing.",
+     "bullets": [
+      {
+       "text": "The open question: two people dispute a bathhouse, one consecrates it and the other says nothing. Does the silence show that the bathhouse belongs to the one who consecrated it?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Chiyya bar Avin: a similar case came before Rav Chisda's school, Rav Chisda sent it to Rav Huna's, and Rav Huna resolved it by Rav Nachman's rule: property one cannot recover from another by legal process, if he consecrated it, it is not consecrated.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Neither side could prove ownership, so the consecration had no legal effect. A silence in the face of an act that means nothing is no admission, since there was nothing to protest.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s4",
+     "title": "Why a Bathhouse in the Ground Can Be Consecrated Before It Is Recovered",
+     "amud": "7a",
+     "text": {
+      "from": "7a.5",
+      "to": "7a.6"
+     },
+     "gist": "Rav Nachman implies that what one could recover in court may be consecrated even before he recovers it. Yet R. Yochanan rules that a robbery victim can't consecrate his stolen item, since it isn't in his possession. The Gemara answers that the bathhouse is dug into the ground, and land stays in its owner's possession.",
+     "bullets": [
+      {
+       "text": "The inference: if one can recover the property by legal process, his consecration works even before he has recovered it?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "But R. Yochanan: when an item is stolen and the owner has not despaired of it, neither can consecrate it. The robber can't, because it isn't his; the owner can't, because it isn't in his possession.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The answer: the bathhouse is not a movable tub but a bath dug into the ground. Once its owner can recover it in court, it is already in his possession, with no need to take hold of it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Land can't be carried off, so another's sitting on it doesn't remove it from its owner's domain. A movable in a robber's hands does leave the owner's control, which is why R. Yochanan's rule is limited to movables.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "title": "Two Holding a Garment: Each Takes What Is in His Hand",
+   "amud": "7a",
+   "text": {
+    "from": "7a.7",
+    "to": "7a.14"
+   },
+   "gist": "A baraita lets each claimant keep the part of the garment he grips and divides only the rest, with an oath. Rav Pappa sets the Mishnah's equal split where both hold only the fringes. Rav Mesharshiyya learns from this that a cloth grasped in part completes *kinyan sudar* (acquisition by handing over a cloth), and Rava rules that gold woven into the unheld part is divided equally.",
+   "bullets": [],
+   "illustration": {
+    "title": "Gripping the garment itself vs. holding only its fringes",
+    "caption": "Rav Tachalifa's baraita (7a.7): each keeps what his hand holds and the rest is divided. Rav Pappa (7a.8): the Mishnah's equal split is where both hold only the fringes.",
+    "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>Left: two claimants each grip part of a garment's body; each keeps the part in his hand and the rest between them is divided. Right: two claimants hold only the fringes, and the whole garment is divided in half.</title><rect width='900' height='460' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='410' rx='14' fill='#F3E6D8'/><rect x='460' y='14' width='425' height='410' rx='14' fill='#E3EAF3'/><text x='227' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600'>Rav Tachalifa’s baraita</text><text x='227' y='70' text-anchor='middle' font-size='13' fill='#5B6478'>Each grips part of the garment itself</text><text x='672' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600'>The Mishnah, by Rav Pappa</text><text x='672' y='70' text-anchor='middle' font-size='13' fill='#5B6478'>Both hold only the fringes</text><rect x='110' y='190' width='230' height='100' rx='4' fill='#F2ECDD' stroke='#B3A68C' stroke-width='2'/><path d='M110 205 H340 M110 211 H340 M110 269 H340 M110 275 H340' stroke='#4A6A9A' stroke-width='3'/><rect x='110' y='190' width='55' height='100' fill='#1B3A8A' opacity='.18'/><rect x='295' y='190' width='45' height='100' fill='#9A6212' opacity='.22'/><path d='M230 184 V296' stroke='#8C2F2F' stroke-width='3' stroke-dasharray='8 6'/><use href='#man-reach' x='50' y='180' width='60' height='120' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><use href='#man-reach-r' x='341' y='180' width='60' height='120' style='color:#8C5A3C;--beard:#8E8A84;--hair:#6A5646'/><use href='#bubble' x='70' y='100' width='140' height='70'/><text x='140' y='134' text-anchor='middle' font-size='14'>I found it!</text><use href='#bubble-r' x='241' y='100' width='140' height='70'/><text x='311' y='134' text-anchor='middle' font-size='14'>I found it!</text><text x='80' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>keeps what he holds</text><text x='371' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>keeps what he holds</text><use href='#badge-divides' x='216' y='300' width='28' height='28'/><text x='230' y='348' text-anchor='middle' font-size='13' fill='#5B6478'>the rest: divided equally</text><text x='227' y='385' text-anchor='middle' font-size='14' font-weight='600'>Each keeps what he grips;</text><text x='227' y='405' text-anchor='middle' font-size='14'>the rest is divided, with an oath</text><rect x='555' y='190' width='230' height='100' rx='4' fill='#F2ECDD' stroke='#B3A68C' stroke-width='2'/><path d='M555 205 H785 M555 211 H785 M555 269 H785 M555 275 H785' stroke='#4A6A9A' stroke-width='3'/><path d='M547 200 H555 M547 215 H555 M547 230 H555 M547 245 H555 M547 260 H555 M547 275 H555 M785 200 H793 M785 215 H793 M785 230 H793 M785 245 H793 M785 260 H793 M785 275 H793' stroke='#B3A68C' stroke-width='2'/><path d='M670 184 V296' stroke='#8C2F2F' stroke-width='3' stroke-dasharray='8 6'/><use href='#man-reach' x='495' y='180' width='60' height='120' style='color:#6B6F3A;--beard:#4A3A2E;--hair:#4A3A2E'/><use href='#man-reach-r' x='786' y='180' width='60' height='120' style='color:#7A4A55;--beard:#3B3431;--hair:#3B3431'/><use href='#bubble' x='515' y='100' width='140' height='70'/><text x='585' y='134' text-anchor='middle' font-size='14'>I found it!</text><use href='#bubble-r' x='697' y='100' width='140' height='70'/><text x='767' y='134' text-anchor='middle' font-size='14'>I found it!</text><text x='525' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>holds the fringes</text><text x='816' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>holds the fringes</text><use href='#badge-divides' x='656' y='300' width='28' height='28'/><text x='670' y='348' text-anchor='middle' font-size='13' fill='#5B6478'>divided in half</text><text x='672' y='385' text-anchor='middle' font-size='14' font-weight='600'>Neither holds the garment itself,</text><text x='672' y='405' text-anchor='middle' font-size='14'>so each swears and they divide it equally</text><text x='450' y='446' text-anchor='middle' font-size='12.5' fill='#5B6478'>Rav Tachalifa’s baraita (7a.7) and Rav Pappa’s reading of the Mishnah (7a.8)</text></svg>"
+   },
+   "children": [
+    {
+     "id": "s6",
+     "title": "Rav Tachalifa's Baraita: Each Takes Up to Where His Hand Reaches",
+     "amud": "7a",
+     "text": {
+      "from": "7a.7",
+      "to": "7a.7"
+     },
+     "gist": "Rav Tachalifa of the West teaches a baraita: each claimant takes the part of the garment he is grasping, and they divide the rest equally. R. Abbahu signals that they must still swear.",
+     "bullets": [
+      {
+       "text": "Rav Tachalifa of the West (Eretz Yisrael) taught before R. Abbahu: if two are grasping a garment, each takes up to where his hand reaches, and they divide the part neither is holding equally.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Abbahu indicated with a gesture that he should add: and they take an oath.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Dividing by grip doesn't remove the reason for the oath. It is a *takanah* (rabbinic enactment) against grabbing another's garment and claiming it, and that risk remains however the garment is split.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Rashi explains the gesture as pointing heavenward, to an oath by God's name.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s7",
+     "title": "Rav Pappa: The Mishnah Speaks of Two Holding Only the Fringes",
+     "amud": "7a",
+     "text": {
+      "from": "7a.8",
+      "to": "7a.8"
+     },
+     "gist": "If each keeps what he holds, when does the Mishnah's plain equal split apply? Rav Pappa answers that both are holding only the fringes, so neither holds any of the garment itself, and they swear and divide it.",
+     "bullets": [
+      {
+       "text": "The Gemara asks how the Mishnah can be found: it says simply that they divide, not that each takes up to where his hand reaches.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Pappa: the Mishnah speaks where neither grasps the garment itself, only its fringes. So each swears and they divide the whole garment.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Holding a fringe gives no hold on a real part of the garment, so nothing counts as “in his hand”, and the whole of it is the remainder to be divided.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s8",
+     "title": "In *Kinyan Sudar*, What One Grasps Counts as Cut Off",
+     "amud": "7a",
+     "text": {
+      "from": "7a.9",
+      "to": "7a.12"
+     },
+     "gist": "Rav Mesharshiyya learns from Rav Pappa that in *kinyan sudar* the recipient need not take the whole cloth. Once he grasps 3 by 3 fingerbreadths, the size of a cloth that counts as a utensil, the transaction takes effect, since that much counts as cut off. The Gemara then sets this against Rav Chisda's ruling on a *get* tied to the husband by a string.",
+     "bullets": [
+      {
+       "text": "*Kinyan sudar* rests on Ruth 4:7: “A man drew off his shoe, and gave it to his neighbor; and this was the attestation in Israel.” One party hands the other a cloth, and the transaction takes effect.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Mesharshiyya: the whole cloth need not change hands. Once the recipient has grasped 3 by 3 fingerbreadths of it, the minimum size of a cloth that counts as a utensil, he has acquired, though the rest is still in the other's hand.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The reason: so much of the cloth is significant enough to count as if it were severed from the rest, so it has truly been given to him.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "It is the same idea as in the garment baraita: what is in a man's hand is treated as a piece of its own, apart from the rest of the object.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": [
+      {
+       "id": "s9",
+       "title": "Why a *Get* Still Held by a String Fails, Though a Grasped Cloth Acquires",
+       "amud": "7a",
+       "text": {
+        "from": "7a.11",
+        "to": "7a.12"
+       },
+       "gist": "Rav Chisda rules that a wife holding a *get* is not divorced if the husband can pull it back by a string still in his hand. The Gemara answers that a *get* must achieve *keritut* (complete severance), while a cloth needs only an act of giving.",
+       "bullets": [
+        {
+         "text": "Rav Chisda: a husband placed a *get* in his wife's hand, and a string tied to it stayed in his. If he can pull it back to himself, she is not divorced; if he can't, because the string is too weak, she is divorced.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Why isn't what she holds counted as cut off, as with the cloth? Because a *get* must accomplish *keritut* between husband and wife, and as long as he keeps a hold on it there is no complete severance.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "*Kinyan sudar* requires only an act of giving, and handing over part of the cloth is a valid giving.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The difference is in what each law asks. For the cloth the question is only whether something passed to the recipient; for the *get* it is whether the bond is broken, and it isn't while he can retrieve the document.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "title": "A corner of the cloth acquires, but a *get* on a string does not divorce",
+        "caption": "Rav Mesharshiyya (7a.9–10): grasping 3 by 3 fingerbreadths completes the *kinyan*. Rav Chisda (7a.11): if the husband can pull the *get* back by its string, she is not divorced, since a *get* needs complete severance (7a.12).",
+        "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>Left: a man holds most of a cloth while the recipient grasps a small square corner, and the acquisition takes effect. Right: a husband holds a string tied to a bill of divorce in his wife's hand; if he can pull it back she is not divorced.</title><rect width='900' height='460' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='410' rx='14' fill='#E3EAF3'/><rect x='460' y='14' width='425' height='410' rx='14' fill='#F3E6D8'/><text x='227' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600'><tspan font-style='italic'>Kinyan sudar</tspan>: a corner of the cloth</text><text x='227' y='70' text-anchor='middle' font-size='13' fill='#5B6478'>The recipient grasps 3 by 3 fingerbreadths</text><text x='672' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600'>A <tspan font-style='italic'>get</tspan> on a string</text><text x='672' y='70' text-anchor='middle' font-size='13' fill='#5B6478'>The husband still holds a string tied to it</text><rect x='120' y='215' width='180' height='65' rx='4' fill='#F2ECDD' stroke='#B3A68C' stroke-width='2'/><path d='M120 228 H300 M120 267 H300' stroke='#4A6A9A' stroke-width='3'/><rect x='268' y='232' width='32' height='32' fill='#1B3A8A' opacity='.25' stroke='#1B3A8A' stroke-width='1.5' stroke-dasharray='4 3'/><use href='#man-reach' x='60' y='180' width='60' height='120' style='color:#6B6F3A;--beard:#4A3A2E;--hair:#4A3A2E'/><use href='#man-reach-r' x='301' y='180' width='60' height='120' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><text x='235' y='302' text-anchor='middle' font-size='12.5' fill='#1B3A8A'>3 by 3 fingerbreadths</text><text x='90' y='324' text-anchor='middle' font-size='13' fill='#5B6478'>giver</text><text x='331' y='324' text-anchor='middle' font-size='13' fill='#5B6478'>recipient</text><use href='#badge-acquires' x='40' y='345' width='28' height='28'/><text x='78' y='364' font-size='14'><tspan font-weight='700' font-size='15' fill='#1B3A8A'>The <tspan font-style='italic'>kinyan</tspan> takes effect</tspan></text><text x='78' y='386' font-size='13' fill='#5B6478'>what he grasps counts as cut off: it was given</text><use href='#man-reach' x='500' y='180' width='60' height='120' style='color:#5C4A7A;--beard:#6A5646;--hair:#4A3A2E'/><path d='M560 247 Q650 270 740 247' fill='none' stroke='#8A6A44' stroke-width='2'/><use href='#woman-reach-r' x='760' y='180' width='60' height='120' style='color:#7A4A55'/><use href='#document' x='738' y='220' width='40' height='51'/><text x='650' y='236' text-anchor='middle' font-size='12.5' fill='#5B6478'>a string still in his hand</text><text x='530' y='324' text-anchor='middle' font-size='13' fill='#5B6478'>husband</text><text x='790' y='324' text-anchor='middle' font-size='13' fill='#5B6478'>wife, holding the <tspan font-style='italic'>get</tspan></text><text x='672' y='364' text-anchor='middle' font-size='14'>If he can pull it back: <tspan font-weight='700' font-size='15' fill='#9A6212'>she is not divorced</tspan></text><text x='672' y='386' text-anchor='middle' font-size='13' fill='#5B6478'>a <tspan font-style='italic'>get</tspan> needs <tspan font-style='italic'>keritut</tspan>, a complete severance</text><text x='672' y='406' text-anchor='middle' font-size='13' fill='#5B6478'>If he can’t pull it back, she is divorced</text><text x='450' y='446' text-anchor='middle' font-size='12.5' fill='#5B6478'>Rav Mesharshiyya (7a.9–10) and Rav Chisda (7a.11), as the Gemara contrasts them (7a.12)</text></svg>"
+       },
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s10",
+     "title": "Neither Claimant Chooses the Line of Division: A Garment Woven with Gold",
+     "amud": "7a",
+     "text": {
+      "from": "7a.13",
+      "to": "7a.14"
+     },
+     "gist": "Rava rules that a gold-woven garment is divided too, and the Gemara narrows his point step by step. Even when the gold, held by neither, lies nearer one claimant, he can't insist on a cut that leaves it on his side, since the other may demand a cut the other way.",
+     "bullets": [
+      {
+       "text": "Rava: even a garment woven with gold thread is divided. Isn't that obvious? The Gemara first says he means gold lying in the middle, in neither one's hand.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "That too is obvious, since the unheld remainder is divided. So Rava means gold that lies closer to one of them, though not in his grasp.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The nearer claimant might say: divide it along the middle line between us, which leaves most of the gold with me. Rava teaches that the gold is divided equally, because the other can answer: why divide it that way? Divide it the other way, and we share the gold.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Either line is an equal division of the garment, so neither side can force the line that favors him. The same answer returns in R. Yochanan's ruling on the note.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "title": "Gold nearer one claimant: cut between them, or cut the other way?",
+      "caption": "Rava (7a.13–14): the claimant near the gold proposes a cut that leaves it on his side, the other answers that they should cut the other way, and the gold is divided equally.",
+      "svg": "<svg viewBox='0 0 900 470' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>Two claimants hold the ends of a garment with a gold section nearer the left one. A vertical dashed line between them would leave the gold on his side; a horizontal dashed line would halve it. The gold is divided equally.</title><rect width='900' height='470' fill='#FBF8F1'/><text x='450' y='40' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600'>A garment woven with gold, the gold nearer one claimant</text><text x='450' y='64' text-anchor='middle' font-size='13' fill='#5B6478'>The gold is held by neither of them</text><rect x='280' y='170' width='340' height='130' rx='4' fill='#F2ECDD' stroke='#B3A68C' stroke-width='2'/><path d='M280 182 H620 M280 288 H620' stroke='#4A6A9A' stroke-width='3'/><rect x='330' y='190' width='70' height='90' rx='3' fill='#E8B84A' stroke='#A97B1E' stroke-width='1.5'/><path d='M450 162 V308' stroke='#1B3A8A' stroke-width='3' stroke-dasharray='8 6'/><path d='M282 235 H618' stroke='#9A6212' stroke-width='3' stroke-dasharray='8 6'/><use href='#man-reach' x='220' y='180' width='60' height='120' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><use href='#man-reach-r' x='621' y='180' width='60' height='120' style='color:#8C5A3C;--beard:#8E8A84;--hair:#6A5646'/><use href='#bubble' x='225' y='88' width='210' height='70'/><text x='330' y='112' text-anchor='middle' font-size='14'>Divide it down the middle,</text><text x='330' y='131' text-anchor='middle' font-size='14'>between us.</text><use href='#bubble-r' x='462' y='88' width='210' height='70'/><text x='567' y='112' text-anchor='middle' font-size='14'>Why that way?</text><text x='567' y='131' text-anchor='middle' font-size='14'>Divide it this way.</text><text x='250' y='324' text-anchor='middle' font-size='13' fill='#5B6478'>nearer the gold</text><text x='365' y='324' text-anchor='middle' font-size='13' fill='#5B6478'>the gold</text><text x='651' y='324' text-anchor='middle' font-size='13' fill='#5B6478'>the other claimant</text><path d='M260 355 H300' stroke='#1B3A8A' stroke-width='3' stroke-dasharray='8 6'/><text x='312' y='360' font-size='13.5'>His cut: across the middle, leaving the gold on his side</text><path d='M260 381 H300' stroke='#9A6212' stroke-width='3' stroke-dasharray='8 6'/><text x='312' y='386' font-size='13.5'>The other’s cut: the other way, halving the gold</text><use href='#badge-divides' x='300' y='402' width='28' height='28'/><text x='338' y='421' font-size='14'>Rava: <tspan font-weight='700' font-size='15'>the gold is divided equally</tspan></text><text x='450' y='455' text-anchor='middle' font-size='12.5' fill='#5B6478'>Rava (7a.13–14): neither claimant can force the other to accept his line of division</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "title": "A Promissory Note Held by Creditor and Debtor",
+   "amud": "7a–7b",
+   "text": {
+    "from": "7a.15",
+    "to": "7b.12"
+   },
+   "gist": "A baraita brings the garment's rules to a promissory note: the creditor says he dropped it, the debtor says he repaid and got it back. Rebbi requires *kiyum* (ratification through its signatures) and Rabban Shimon ben Gamliel divides it, a dispute Rav Nachman ties to a note the debtor admits writing. A note that reached a judge is never returned, against R. Yosi, and the Gemara asks whether R. Yosi fears *pera'on* (that the debt was already repaid), in light of a found *ketubah*.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s12",
+     "title": "Baraita: Who Gets a Note the Creditor Says He Dropped and the Debtor Says He Redeemed?",
+     "amud": "7a",
+     "text": {
+      "from": "7a.15",
+      "to": "7a.17"
+     },
+     "gist": "The creditor says the note is his and he dropped it; the debtor says he repaid and was given it. Rebbi says the note must undergo *kiyum* through its signatures, and Rabban Shimon ben Gamliel says they divide. A note that fell into a judge's hands is never taken out, while R. Yosi says it keeps its presumptive status.",
+     "bullets": [
+      {
+       "text": "Baraita (Tosefta 1:8): a creditor and a debtor are grasping a promissory note. The creditor says: it is mine, the debt is unpaid, I dropped it and found it. The debtor says: it was yours, but I repaid you and you gave it to me.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rebbi: the note must undergo *kiyum* through its signatories, the court confirming that the witnesses' signatures are authentic, before the creditor can collect.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rabban Shimon ben Gamliel: they divide it. The debtor pays half the debt, since we can't tell who is telling the truth.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If the note fell into the hands of a judge, it is never taken out to collect until there is proof. R. Yosi: it keeps its presumptive status, and the parties go by what it says.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s13",
+     "title": "Rebbi vs. Rabban Shimon ben Gamliel: Must a Note Be Ratified When the Debtor Admits Writing It?",
+     "amud": "7a",
+     "text": {
+      "from": "7a.18",
+      "to": "7a.22"
+     },
+     "gist": "Rebbi too divides a disputed garment, so the Gemara asks whether ratifying the note gives the creditor all of it. Rava, citing Rav Nachman, answers that everyone divides a ratified note. They disagree about an unratified one, the question of *modeh be'shtar she'katvo* (a debtor who admits he wrote the note): for Rebbi it must still be ratified, for Rabban Shimon ben Gamliel it need not.",
+     "bullets": [
+      {
+       "text": "The Gemara asks: does “it must be ratified” mean that once ratified the creditor collects everything? But Rebbi holds with the Mishnah that two holding a garment divide it, so here too the debtor should pay only half.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava in the name of Rav Nachman: where the note was ratified, all agree that they divide it. They disagree where it was not ratified.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rebbi holds that even when the debtor admits writing the note, the creditor must ratify it to collect. If he ratifies it, they divide; if he can't, he gets nothing, though the debtor admits the loan.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "His reason: an unratified note is merely a shard. Only the debtor's word makes it a note, and that same debtor says it was repaid.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "This is the logic of *ha'peh she'asar hu ha'peh she'hitir* (the mouth that bound is the mouth that released): the creditor can't take the debtor's admission that he wrote it and ignore his claim that he paid.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Rabban Shimon ben Gamliel holds that a debtor who admits writing the note frees the creditor from ratifying it, so even unratified it is valid, and they divide.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Signatures on a note count as testimony already examined in court; ratification is a rabbinic demand, which the debtor's own admission removes. The written note then stands, and his claim of repayment can't undo it.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "title": "Rebbi vs. Rabban Shimon ben Gamliel: what the debtor pays on a note both are holding",
+      "columns": [
+       "",
+       "Ratified note",
+       "Unratified note the debtor admits writing",
+       "Why"
+      ],
+      "rows": [
+       [
+        "Rebbi",
+        "**They divide it**: the debtor pays half",
+        "**The debtor pays nothing** until the note is ratified",
+        "An unratified note is a shard; it stands only on the debtor's word, and he says he repaid"
+       ],
+       [
+        "Rabban Shimon ben Gamliel",
+        "**They divide it**: the debtor pays half",
+        "**They divide it**: the debtor pays half",
+        "One who admits writing a note need not have it ratified, so it is valid as it is"
+       ]
+      ],
+      "tags": [
+       [
+        null,
+        "pays:1/2",
+        "exempt",
+        null
+       ],
+       [
+        null,
+        "pays:1/2",
+        "pays:1/2",
+        null
+       ]
+      ]
+     },
+     "illustration": {
+      "title": "Creditor and debtor holding an unratified note: Rebbi vs. Rabban Shimon ben Gamliel",
+      "caption": "The baraita (7a.15–16) as Rav Nachman explains it (7a.19–22): the two disagree only about a note that has not been ratified.",
+      "svg": "<svg viewBox='0 0 900 600' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>A creditor and a debtor both hold a promissory note. The creditor says it is his and he dropped it; the debtor says he repaid. Below, Rebbi rules the debtor pays nothing on an unratified note, and Rabban Shimon ben Gamliel rules he pays half.</title><rect width='900' height='600' fill='#FBF8F1'/><rect x='20' y='20' width='860' height='320' rx='14' fill='#E3EAF3'/><text x='40' y='44' font-size='13' font-weight='600' fill='#5B6478'>The case</text><rect x='390' y='195' width='120' height='85' rx='3' fill='#FBF6EA' stroke='#9A8A6E' stroke-width='2'/><path d='M402 212 H498 M402 224 H498 M402 236 H498 M402 248 H470' stroke='#B3A68C' stroke-width='2' stroke-linecap='round'/><path d='M440 268 q6 -8 10 0 t10 -2' fill='none' stroke='#3E5A9A' stroke-width='2' stroke-linecap='round'/><use href='#man-reach' x='330' y='170' width='60' height='120' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><use href='#man-reach-r' x='511' y='170' width='60' height='120' style='color:#8C5A3C;--beard:#8E8A84;--hair:#6A5646'/><use href='#bubble-r' x='129' y='86' width='260' height='80'/><text x='259' y='115' text-anchor='middle' font-size='14'>It’s mine; the debt is unpaid.</text><text x='259' y='134' text-anchor='middle' font-size='14'>I dropped it and found it.</text><use href='#bubble' x='512' y='86' width='260' height='80'/><text x='642' y='115' text-anchor='middle' font-size='14'>You lent it, but I repaid you,</text><text x='642' y='134' text-anchor='middle' font-size='14'>and you gave me the note.</text><text x='360' y='306' text-anchor='middle' font-size='14' font-weight='600'>Creditor</text><text x='450' y='306' text-anchor='middle' font-size='13' fill='#5B6478'>the note</text><text x='541' y='306' text-anchor='middle' font-size='14' font-weight='600'>Debtor</text><text x='450' y='328' text-anchor='middle' font-size='14' font-weight='600'>The note is not ratified: what does the debtor pay?</text><rect x='20' y='352' width='860' height='236' rx='14' fill='#F3E6D8'/><text x='40' y='374' font-size='13' font-weight='600' fill='#5B6478'>The ruling</text><use href='#sage' x='50' y='386' width='36' height='63' style='color:#5C4A7A;--beard:#6A5646;--wrap:#E4D8C0;--mantle:#EFE6D2'/><text x='100' y='410' font-size='15' font-weight='600'>Rebbi</text><use href='#badge-exempt' x='230' y='392' width='26' height='26'/><text x='266' y='410' font-size='14'>Unratified note: the debtor <tspan font-weight='700' font-size='15' fill='#1B3A8A'>pays nothing</tspan></text><text x='266' y='432' font-size='13' fill='#5B6478'>it stands only on his word, and he says he repaid</text><use href='#sage' x='50' y='466' width='36' height='63' style='color:#50706E;--beard:#A8A39C;--wrap:#D9CBB0;--mantle:#EFE6D2'/><text x='100' y='490' font-size='15' font-weight='600'>Rabban Shimon</text><text x='100' y='508' font-size='15' font-weight='600'>ben Gamliel</text><use href='#badge-pays' x='230' y='472' width='26' height='26'/><text x='266' y='490' font-size='14'>Unratified note: the debtor <tspan font-weight='700' font-size='15' fill='#9A6212'>pays half</tspan></text><text x='266' y='512' font-size='13' fill='#5B6478'>one who admits writing a note need not ratify it</text><text x='450' y='566' text-anchor='middle' font-size='13.5'>Once the note is ratified, both agree: they divide it, and the debtor pays half</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s14",
+     "title": "A Ratified Note Found by Another: Is There Concern for *Pera'on*?",
+     "amud": "7a–7b",
+     "text": {
+      "from": "7a.23",
+      "to": "7b.3"
+     },
+     "gist": "Why can't a note in a judge's hands be used? Rava reads the clause as a note found by a stranger that bears the court's ratification: even so it isn't returned, for fear the debtor repaid and then lost it. R. Yosi has no concern for *pera'on*, since a debtor who paid would have destroyed the note at once.",
+     "bullets": [
+      {
+       "text": "The Gemara asks what is special about a note that fell into a judge's hands, that the creditor can't take it back to collect.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rava: the baraita means another person, neither creditor nor debtor, who found a note that “had fallen into a judge's hands”: the court had written a ratification on it, certifying that it was examined and can be collected.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "A found note with no ratification plainly isn't returned: the debtor may have written it intending to borrow and never borrowed. The baraita adds that even a ratified note isn't returned, because we fear *pera'on*: the debtor repaid, took it back, and lost it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yosi: the note keeps its presumptive status. We don't fear *pera'on*, because had the debt been paid, the debtor would immediately have torn up the note.",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s15",
+     "title": "Does R. Yosi Suspect *Pera'on*? The Contradiction from a Found *Ketubah*",
+     "amud": "7b",
+     "text": {
+      "from": "7b.3",
+      "to": "7b.12"
+     },
+     "gist": "A baraita on a found *ketubah* has R. Yosi withhold it from a widow or divorcee for fear she was paid. The Gemara resolves the contradiction three ways. It first reverses the opinions in the note baraita and reads the *ketubah* baraita as R. Yosi's alone; Rav Pappa has R. Yosi argue from the Rabbis' own view; and Ravina reverses the opinions and gives the Rabbis a different fear, that a second *ketubah* was written.",
+     "bullets": [
+      {
+       "text": "The Gemara asks: does R. Yosi really not fear *pera'on*?",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "title": "Three ways to reconcile R. Yosi on the found note and the found *ketubah*",
+      "columns": [
+       "",
+       "The found note",
+       "The found *ketubah*",
+       "How it fits"
+      ],
+      "rows": [
+       [
+        "Reverse, and read the *ketubah* baraita as R. Yosi's alone",
+        "R. Yosi: never returned\nThe Rabbis: keeps its presumptive status",
+        "One view, R. Yosi's: returned to her while married; to neither once widowed or divorced",
+        "R. Yosi fears *pera'on* only once the *ketubah* is due; the Rabbis never fear it"
+       ],
+       [
+        "Rav Pappa: no reversal",
+        "R. Yosi: keeps its presumptive status\nThe Rabbis: never returned",
+        "R. Yosi argues from the Rabbis' view: at least return it while she is married. The Rabbis: he may have paid her in bundles of money",
+        "R. Yosi never fears *pera'on*; the Rabbis fear it even during the marriage"
+       ],
+       [
+        "Ravina: reverse",
+        "R. Yosi: never returned\nThe Rabbis: keeps its presumptive status",
+        "The Rabbis: not returned even while married. R. Yosi: returned while married",
+        "The Rabbis fear a second *ketubah*, not *pera'on*; R. Yosi fears *pera'on* but thinks a second *ketubah* is rare"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s16",
+       "title": "A *Ketubah* Found in the Market: Still Married vs. Widowed or Divorced",
+       "amud": "7b",
+       "text": {
+        "from": "7b.4",
+        "to": "7b.5"
+       },
+       "gist": "If the husband admits the *ketubah* is unpaid, it goes back to the wife; if he claims he paid, it goes to neither. R. Yosi returns it to her while she is still married, since a husband doesn't pay a *ketubah* during the marriage, but not once she is widowed or divorced, for fear she was paid. So R. Yosi does fear *pera'on*.",
+       "bullets": [
+        {
+         "text": "Baraita: one who found a *ketubah* in the market returns it to the wife if the husband admits he hasn't paid it. If he claims he paid it, the finder gives it to neither.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Yosi: if she is still married, it is returned to her, since presumably the husband didn't pay the *ketubah* during the marriage.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "If she was widowed or divorced, it goes to neither, since she may have been paid and the document later lost by the husband or his heirs. Here R. Yosi fears *pera'on*, against his ruling on the note.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s17",
+       "title": "Reversing the Opinions, and Reading the *Ketubah* Baraita as R. Yosi's Alone",
+       "amud": "7b",
+       "text": {
+        "from": "7b.6",
+        "to": "7b.8"
+       },
+       "gist": "The Gemara reverses the note baraita, so R. Yosi says the note is never returned and the Rabbis say it keeps its status. That sets the Rabbis against the *ketubah* baraita's first opinion, so the Gemara reads that baraita as one statement of R. Yosi: no return once the marriage has ended, return while it lasts.",
+       "bullets": [
+        {
+         "text": "Answer: reverse the tanna'im in the note baraita. “It is never removed” is R. Yosi's, and “it keeps its presumptive status” is the Rabbis'.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "But then the Rabbis contradict themselves: in the note they don't fear *pera'on*, and in the *ketubah* baraita's first opinion they do.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The *ketubah* baraita is entirely R. Yosi's, with a clause missing: when the husband claims he paid, the *ketubah* goes to neither, if she was widowed or divorced; while she is still married, it goes to her. R. Yosi then says it outright.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "On this reading R. Yosi fears *pera'on* wherever payment could have happened, in the note and after the marriage, but not during a marriage, when nothing is yet due.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s18",
+       "title": "Rav Pappa: R. Yosi Argues from the Rabbis' Own View",
+       "amud": "7b",
+       "text": {
+        "from": "7b.9",
+        "to": "7b.11"
+       },
+       "gist": "Rav Pappa keeps the note baraita as it is. R. Yosi never fears *pera'on*, but tells the Rabbis that by their own view they should at least return the *ketubah* while she is married. The Rabbis answer that he may have given her bundles of money for it.",
+       "bullets": [
+        {
+         "text": "Rav Pappa: don't reverse the baraita. R. Yosi was telling the Rabbis what the *ketubah* rule should be by their view, since they fear *pera'on* in a found note.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "In his own view, even a widow or divorcee gets it back, since he never fears *pera'on*. But by their view, they should concede that while she is married it goes back to her, since a *ketubah* isn't yet due and is unlikely to have been paid.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The Rabbis reply: even during the marriage, say he gave her bundles of money and she gave him the *ketubah* in return. Returning it would let her collect twice.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s19",
+       "title": "Ravina: The Rabbis Fear a Second *Ketubah*, Not *Pera'on*",
+       "amud": "7b",
+       "text": {
+        "from": "7b.12",
+        "to": "7b.12"
+       },
+       "gist": "Ravina reverses the note baraita, so the Rabbis never fear *pera'on*. In the *ketubah* case they withhold it for another reason: a husband whose *ketubah* is lost must write a second, so returning the first could let her collect twice. R. Yosi holds that a second *ketubah* is rare.",
+       "bullets": [
+        {
+         "text": "Ravina: reverse the tanna'im in the note baraita, so that R. Yosi says the note is never returned and the Rabbis say it keeps its status.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The Rabbis' reason for withholding the *ketubah* from a married woman is not *pera'on*. After the first *ketubah* was lost, the husband must have written a second one, and returning the first would let her collect twice.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Yosi returns it while she is married because he doesn't fear two *ketubot*; in his view that is rare.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A couple may not live together without a *ketubah*, which is why the Rabbis assume a replacement was written. Ravina's reading shows the two sides differ less about *pera'on* than about which risk is real.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s20",
+   "title": "*Tofes* vs. *Toref*: Dividing a Note When Each Holds a Different Part",
+   "amud": "7b",
+   "text": {
+    "from": "7b.13",
+    "to": "7b.18"
+   },
+   "gist": "R. Elazar limits Rabban Shimon ben Gamliel's equal division to claimants holding the same part of the note. If one holds the *tofes* (the standard wording) and the other the *toref* (the names, sum and date), each takes his part. R. Yochanan says they always divide equally, and Ravina explains that taking a part means taking its value: what the date adds by letting the note collect from *meshubadim* (liened property the debtor sold).",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s21",
+     "title": "R. Elazar vs. R. Yochanan: Does Holding the *Toref* Earn More?",
+     "amud": "7b",
+     "text": {
+      "from": "7b.13",
+      "to": "7b.15"
+     },
+     "gist": "R. Elazar gives each claimant the part he holds. R. Yochanan divides equally, and the Gemara, squaring him with the garment baraita, says he speaks of a *toref* lying between them, nearer one side. As with the gold, the nearer one can't insist on a cut that leaves it to him.",
+     "bullets": [
+      {
+       "text": "R. Elazar: Rabban Shimon ben Gamliel's equal division applies when both grasp the *tofes* or both grasp the *toref*. If one holds the *tofes* and the other the *toref*, this one takes the *tofes* and that one the *toref*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yochanan: they always divide equally.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The Gemara objects: even where one holds the *tofes* and the other the *toref*? But the garment baraita says each takes up to where his hand reaches.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: R. Yochanan speaks of a *toref* in the middle, held by neither; where each holds a different part, he agrees that each takes his.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Then why say it? For a *toref* lying nearer one of them: he might say “divide it this way, leaving the *toref* on my side”, and the other can answer “why that way? Divide it the other way, so we share it.”",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "returns_to": [
+      {
+       "id": "s10",
+       "note": "Uses the same answer as Rava's gold-woven garment"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s22",
+     "title": "Ravina: Each Takes the Value of the Part He Holds",
+     "amud": "7b",
+     "text": {
+      "from": "7b.16",
+      "to": "7b.18"
+     },
+     "gist": "Rav Acha of Difti asks what use half a note is: to stop up a flask? Ravina answers that the division is of value. The *toref* holds the date, which lets a note collect from *meshubadim*, so its holder receives the difference the date adds.",
+     "bullets": [
+      {
+       "text": "Rav Acha of Difti to Ravina: by R. Elazar, what does either gain from his part? Does he need half a note to cover the opening of his flask? Half a document has no legal force.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Ravina: the division is not of the paper but of its monetary value, each part weighed against the other.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The *toref* holder says: what is a dated note worth, and what is an undated one worth? A dated note collects even from *meshubadim*, property the debtor sold after the loan; an undated one doesn't. So the *tofes* holder gives him the difference.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "An example: a note for 1,000 might sell for 950 with its date and 700 without. The *toref* holder takes the 250 the date adds, and the 700 is split, 350 each, so he gets 600 and the other 350.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "Tosafot: the date is singled out because every other part of a note is essential, and without it the note is void. A note without a date still collects from *bnei chorin* (property the debtor still owns), so the date is a separable addition to its power.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "title": "One holds the *tofes*, the other the *toref*: dividing what the date is worth",
+      "caption": "R. Elazar's ruling as Ravina explains it (7b.17–18). The sums are an illustrative example: the *toref* holder takes what the date adds, and the rest is shared.",
+      "svg": "<svg viewBox='0 0 900 480' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>Two men hold a promissory note, one by the standard wording and one by the part with names, sum and date. A note of 1,000 worth 950 with a date and 700 without: the holder of the date part gets 600, the other 350.</title><rect width='900' height='480' fill='#FBF8F1'/><text x='450' y='40' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600'>One holds the <tspan font-style='italic'>tofes</tspan>, the other the <tspan font-style='italic'>toref</tspan></text><text x='450' y='62' text-anchor='middle' font-size='13' fill='#5B6478'>R. Elazar, as Ravina explains: each takes the value of his part</text><text x='375' y='132' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#5A4A3A'>טופס</text><text x='375' y='154' text-anchor='middle' font-size='14' font-style='italic'>tofes</text><text x='525' y='132' text-anchor='middle' direction='rtl' font-family='Frank Ruhl Libre, serif' font-size='17' fill='#5A4A3A'>טורף</text><text x='525' y='154' text-anchor='middle' font-size='14' font-style='italic'>toref</text><rect x='300' y='170' width='300' height='120' rx='4' fill='#FBF6EA' stroke='#9A8A6E' stroke-width='2'/><path d='M318 192 H432 M318 208 H432 M318 224 H432 M318 240 H432 M318 256 H410 M468 192 H582 M468 208 H582 M468 224 H560' stroke='#B3A68C' stroke-width='2' stroke-linecap='round'/><rect x='540' y='250' width='44' height='20' rx='3' fill='#F3CF6B' stroke='#A97B1E' stroke-width='1.2'/><path d='M450 166 V294' stroke='#8A93A6' stroke-width='2' stroke-dasharray='6 5'/><use href='#man-reach' x='240' y='170' width='60' height='120' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><use href='#man-reach-r' x='601' y='170' width='60' height='120' style='color:#8C5A3C;--beard:#8E8A84;--hair:#6A5646'/><use href='#bubble' x='607' y='96' width='270' height='80'/><text x='742' y='125' text-anchor='middle' font-size='14'>A note with a date is worth more:</text><text x='742' y='144' text-anchor='middle' font-size='14'>give me the difference.</text><text x='375' y='312' text-anchor='middle' font-size='13' fill='#5B6478'>standard wording</text><text x='525' y='312' text-anchor='middle' font-size='13' fill='#5B6478'>names, sum, date</text><text x='270' y='336' text-anchor='middle' font-size='14' font-weight='600'>holds the <tspan font-style='italic'>tofes</tspan></text><text x='631' y='336' text-anchor='middle' font-size='14' font-weight='600'>holds the <tspan font-style='italic'>toref</tspan></text><use href='#coins' x='245' y='352' width='50' height='42'/><text x='270' y='418' text-anchor='middle' font-size='14' font-weight='600'>gets 350</text><text x='270' y='438' text-anchor='middle' font-size='13' fill='#5B6478'>half of the 700</text><use href='#coins' x='606' y='352' width='50' height='42'/><text x='631' y='418' text-anchor='middle' font-size='14' font-weight='600'>gets 600</text><text x='631' y='438' text-anchor='middle' font-size='13' fill='#5B6478'>the 250 the date adds + 350</text><text x='450' y='370' text-anchor='middle' font-size='13.5'>For example, a note of 1,000:</text><text x='450' y='392' text-anchor='middle' font-size='13.5'>with a date, worth 950</text><text x='450' y='412' text-anchor='middle' font-size='13.5'>without one, 700</text><text x='450' y='466' text-anchor='middle' font-size='12' fill='#5B6478'>The sums are only an example; the rule is Ravina’s (7b.17–18)</text></svg>"
+     },
+     "children": []
+    }
+   ]
+  },
+  {
+   "id": "s23",
+   "title": "Dividing a Disputed Item Means Dividing Its Value",
+   "amud": "7b–8a",
+   "text": {
+    "from": "7b.19",
+    "to": "8a.3"
+   },
+   "gist": "The Gemara applies Ravina's answer to every case of division: the parties divide the item's value, not the item itself. A garment, even a gold-woven one, might be cut and still be of use, but a non-kosher animal that two are riding would be worthless once killed, so division must be by value.",
+   "bullets": [
+    {
+     "text": "Wherever we said that two litigants divide, it means the value. Otherwise, would two holding a garment cut it in two? That would ruin it.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "Rejected: they could cut it, since each half has value as a garment for small children.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "And Rava's gold-woven garment? Each half could serve the children of kings or of the wealthy, so cutting it doesn't ruin it.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "But the Mishnah's two riding an animal divide it too. A kosher animal could be slaughtered and its meat shared, but a non-kosher one would be worthless once killed. Clearly they divide its value, and so in every case.",
+     "detail": 2,
+     "source": "gemara"
+    },
+    {
+     "text": "In practice the court sells or assesses the item and the parties share the proceeds, which is what *yachloku*, “they divide”, means throughout the chapter.",
+     "detail": 3,
+     "source": "shiur"
+    }
+   ],
+   "chart": {
+    "title": "Could the disputed item be cut in two? The Gemara's test cases",
+    "columns": [
+     "",
+     "If it were cut in two",
+     "Does it prove division is by value?"
+    ],
+    "rows": [
+     [
+      "A garment",
+      "Each half still makes a garment for small children",
+      "No: cutting would not ruin it"
+     ],
+     [
+      "A gold-woven garment",
+      "Each half suits the children of kings or the wealthy",
+      "No: cutting would not ruin it"
+     ],
+     [
+      "A kosher animal two are riding",
+      "It can be slaughtered and its meat divided",
+      "No: its meat keeps its value"
+     ],
+     [
+      "A non-kosher animal two are riding",
+      "Killed, its carcass is worthless",
+      "Yes: so they must divide its value, and so in every case"
+     ]
+    ]
+   },
+   "returns_to": [
+    {
+     "id": "s5",
+     "note": "Returns to the garment cases, including Rava's gold-woven garment"
+    }
+   ],
+   "children": []
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "ma'aser behemah",
+   "hebrew": "מעשר בהמה",
+   "sense": "the tithe of newborn animals",
+   "definition": "The tithe of each year's newborn kosher animals: they pass one by one under a rod, and every tenth is sacred and offered as a sacrifice.",
+   "on_this_daf": "Only an animal not already sacred can become the tithe, so the Mishnah's doubtful animals must be lambs that redeemed doubtful firstborn donkeys.",
+   "aliases": [
+    "ma'aser behemah"
+   ],
+   "sections": [
+    "s1"
+   ]
+  },
+  {
+   "term": "peter chamor",
+   "hebrew": "פטר חמור",
+   "sense": "the firstborn male donkey",
+   "definition": "The firstborn male of a donkey. It is forbidden in benefit until its owner redeems it with a lamb given to a kohen; if he will not redeem it, he must break its neck.",
+   "on_this_daf": "Lambs that redeemed doubtful firstborn donkeys carry no sanctity and are ruled the owner's, so they may be tithed.",
+   "aliases": [
+    "peter chamor"
+   ],
+   "sections": [
+    "s1"
+   ]
+  },
+  {
+   "term": "hekdesh",
+   "hebrew": "הקדש",
+   "sense": "property consecrated to the Temple",
+   "definition": "Property dedicated to the Temple by an owner's declaration, after which it is sacred and may not be used for ordinary purposes.",
+   "on_this_daf": "By Rav Nachman, property one can't recover in court can't become hekdesh, though land one can prove is his can be consecrated even while another holds it.",
+   "aliases": [
+    "Hekdesh",
+    "hekdesh"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s4"
+   ]
+  },
+  {
+   "term": "kinyan sudar",
+   "hebrew": "קנין סודר",
+   "sense": "acquisition by handing over a cloth",
+   "definition": "A mode of acquisition in which one party hands the other a cloth or other object, and in return the agreed transaction takes effect; it is learned from the shoe handed over in the book of Ruth.",
+   "on_this_daf": "Rav Mesharshiyya rules that the recipient need grasp only 3 by 3 fingerbreadths of the cloth, since that much counts as cut off from the rest.",
+   "aliases": [
+    "Kinyan Sudar",
+    "kinyan sudar"
+   ],
+   "sections": [
+    "s5",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "term": "kiyum",
+   "hebrew": "קיום שטר",
+   "sense": "ratification of a document through its signatures",
+   "definition": "The court's confirmation that the witnesses' signatures on a document are authentic, after which it can be used to collect.",
+   "on_this_daf": "Rebbi requires a disputed note to undergo kiyum even when the debtor admits writing it; Rabban Shimon ben Gamliel does not.",
+   "aliases": [
+    "kiyum"
+   ],
+   "sections": [
+    "s11",
+    "s12",
+    "s13"
+   ]
+  },
+  {
+   "term": "modeh be'shtar she'katvo",
+   "hebrew": "מודה בשטר שכתבו",
+   "sense": "a debtor who admits writing the note",
+   "definition": "A debtor who acknowledges that he wrote the promissory note held against him; the question is whether his admission makes ratification of the signatures unnecessary.",
+   "on_this_daf": "Rav Nachman explains that Rebbi and Rabban Shimon ben Gamliel disagree on exactly this when the debtor admits the note but claims he repaid it.",
+   "aliases": [
+    "modeh be'shtar she'katvo"
+   ],
+   "sections": [
+    "s13"
+   ]
+  },
+  {
+   "term": "pera'on",
+   "hebrew": "פרעון",
+   "sense": "the concern that a debt was already repaid",
+   "definition": "The possibility that a debt recorded in a document was already paid, the document then being returned to the debtor and lost; where the court takes it into account, a found document is not returned to the creditor.",
+   "on_this_daf": "A ratified note found by a stranger isn't returned for fear of pera'on, against R. Yosi, and a found ketubah raises the question whether R. Yosi fears it after all.",
+   "aliases": [
+    "Pera'on",
+    "pera'on"
+   ],
+   "sections": [
+    "s11",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19"
+   ]
+  },
+  {
+   "term": "tofes",
+   "hebrew": "טופס",
+   "sense": "the standard wording of a document",
+   "definition": "The fixed, boilerplate text of a document, which is the same in every document of its kind.",
+   "on_this_daf": "By R. Elazar, one who holds only the tofes of a disputed note gets the value of the note without its date.",
+   "aliases": [
+    "Tofes",
+    "tofes"
+   ],
+   "sections": [
+    "s20",
+    "s21",
+    "s22"
+   ]
+  },
+  {
+   "term": "toref",
+   "hebrew": "טורף",
+   "sense": "the particular details of a document",
+   "definition": "The part of a document that sets it apart from every other: the names of the parties, the sum and the date.",
+   "on_this_daf": "By R. Elazar, one who holds the toref receives the extra value its date gives the note; R. Yochanan divides equally when the toref lies between them.",
+   "aliases": [
+    "Toref",
+    "toref"
+   ],
+   "sections": [
+    "s20",
+    "s21",
+    "s22"
+   ]
+  },
+  {
+   "term": "meshubadim",
+   "hebrew": "נכסים משועבדים",
+   "sense": "liened property the debtor has sold",
+   "definition": "Property the debtor sold or gave away after taking a loan, which remains subject to the creditor's lien when the loan is recorded in a dated document.",
+   "on_this_daf": "A dated note collects from meshubadim and an undated one doesn't, so the date is the measure of what the toref is worth.",
+   "aliases": [
+    "meshubadim"
+   ],
+   "sections": [
+    "s20",
+    "s22"
+   ]
+  }
+ ],
+ "sages": [
+  {
+   "id": null,
+   "name": "Rav Acha of Difti",
+   "full_name": "Rav Acha of Difti",
+   "hebrew": "רב אחא מדיפתי",
+   "sections": [
+    "s1",
+    "s22"
+   ]
+  },
+  {
+   "id": "ravina-(i)",
+   "name": "Ravina",
+   "hebrew": "רבינא",
+   "sections": [
+    "s1",
+    "s15",
+    "s19",
+    "s20",
+    "s22"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Nachman",
+   "full_name": "Rav Nachman bar Yaakov",
+   "hebrew": "רב נחמן",
+   "sections": [
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s11",
+    "s13"
+   ]
+  },
+  {
+   "id": "rabbah-b-avuha",
+   "name": "Rabba bar Avuh",
+   "hebrew": "רבה בר אבוה",
+   "sections": [
+    "s1"
+   ]
+  },
+  {
+   "id": "rav-huna",
+   "name": "Rav Huna",
+   "hebrew": "רב הונא",
+   "sections": [
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "id": "rabbi-yochanan-b-napacha",
+   "name": "R. Yochanan",
+   "hebrew": "רבי יוחנן",
+   "sections": [
+    "s2",
+    "s4",
+    "s20",
+    "s21"
+   ]
+  },
+  {
+   "id": null,
+   "name": "R. Chiyya bar Avin",
+   "full_name": "R. Chiyya bar Avin",
+   "hebrew": "רבי חייא בר אבין",
+   "sections": [
+    "s3"
+   ]
+  },
+  {
+   "id": "rav-chisda",
+   "name": "Rav Chisda",
+   "hebrew": "רב חסדא",
+   "sections": [
+    "s3",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "id": "rav-pappa",
+   "name": "Rav Pappa",
+   "hebrew": "רב פפא",
+   "sections": [
+    "s5",
+    "s7",
+    "s8",
+    "s15",
+    "s18"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Mesharshiyya",
+   "full_name": "Rav Mesharshiyya",
+   "hebrew": "רב משרשיא",
+   "sections": [
+    "s5",
+    "s8"
+   ]
+  },
+  {
+   "id": "rava",
+   "name": "Rava",
+   "hebrew": "רבא",
+   "sections": [
+    "s5",
+    "s10",
+    "s13",
+    "s14",
+    "s23"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Tachalifa of the West",
+   "full_name": "Rav Tachalifa of the West (Eretz Yisrael)",
+   "hebrew": "רב תחליפא מערבאה",
+   "sections": [
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "id": "rabbi-abahu",
+   "name": "R. Abbahu",
+   "hebrew": "רבי אבהו",
+   "sections": [
+    "s6"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rebbi",
+   "full_name": "Rabbi Yehuda HaNasi",
+   "hebrew": "רבי",
+   "sections": [
+    "s11",
+    "s12",
+    "s13"
+   ]
+  },
+  {
+   "id": "rabban-shimon-b-gamliel-(ii)",
+   "name": "Rabban Shimon ben Gamliel",
+   "hebrew": "רבן שמעון בן גמליאל",
+   "sections": [
+    "s11",
+    "s12",
+    "s13",
+    "s20"
+   ]
+  },
+  {
+   "id": "rabbi-yose-b-chalafta",
+   "name": "R. Yosi",
+   "hebrew": "רבי יוסי",
+   "sections": [
+    "s11",
+    "s12",
+    "s14",
+    "s15",
+    "s16",
+    "s17",
+    "s18",
+    "s19"
+   ]
+  },
+  {
+   "id": "rabbi-elazar-b-pedat",
+   "name": "R. Elazar",
+   "hebrew": "רבי אלעזר",
+   "sections": [
+    "s20",
+    "s21",
+    "s22"
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "An owner has an animal whose firstborn status is in doubt. Why can't it be counted for *ma'aser behemah*, though lambs that redeemed doubtful firstborn donkeys can?",
+   "options": [
+    "A doubtful *bekhor* is already sacred, and a tithe takes hold only of an animal not yet sacred",
+    "A kohen may seize it, so it is not certainly the owner's",
+    "Only lambs are tithed, never calves or kids",
+    "The lambs are counted only once the redemption is certain"
+   ],
+   "why": "“The tenth shall be sacred” excludes an animal already sacred. The redemption lambs carry no sanctity and are ruled the owner's.",
+   "line": "7a.2"
+  },
+  {
+   "q": "One claimant consecrates a disputed bathhouse and the other says nothing; neither can prove ownership. What does Rav Huna rule, following Rav Nachman?",
+   "options": [
+    "The consecration is void, since property one can't recover in court can't become *hekdesh*, so the silence proves nothing",
+    "The silence is an admission, so the bathhouse is *hekdesh*",
+    "Half the bathhouse is *hekdesh*",
+    "The bathhouse is held until Eliyahu comes"
+   ],
+   "why": "An act with no legal force calls for no protest, so the other's silence admits nothing.",
+   "line": "7a.4"
+  },
+  {
+   "q": "Two people grasp a garment, each holding part of its body, and each claims all of it. What does Rav Tachalifa's baraita rule?",
+   "options": [
+    "Each takes what is in his hand and they divide the rest, with an oath",
+    "They divide the whole garment equally, whatever each holds",
+    "The one who grips more takes all of it",
+    "Each takes what he holds, and no oath is needed"
+   ],
+   "why": "Each keeps the part he grips, and R. Abbahu adds that they still swear; the Mishnah's equal split is where both hold only the fringes.",
+   "line": "7a.7"
+  },
+  {
+   "q": "In *kinyan sudar*, the recipient grasps only 3 by 3 fingerbreadths of the cloth while the other holds the rest. Is the transaction complete?",
+   "options": [
+    "Yes: that much counts as if cut off from the rest, so the cloth has been given",
+    "No: the whole cloth must change hands",
+    "Only once the giver lets go",
+    "Only when acquiring land"
+   ],
+   "why": "3 by 3 fingerbreadths is a significant cloth in its own right, so grasping it is a full act of giving.",
+   "line": "7a.10"
+  },
+  {
+   "q": "A husband places a *get* in his wife's hand but keeps a string tied to it, strong enough to pull it back. Is she divorced, and why does this differ from the cloth?",
+   "options": [
+    "No: a *get* needs complete severance, while a cloth needs only an act of giving",
+    "Yes: what she holds counts as cut off, as with the cloth",
+    "Yes, if she holds 3 by 3 fingerbreadths of it",
+    "No: a *get* must be handed over before witnesses"
+   ],
+   "why": "As long as the husband can retrieve the *get* there is no *keritut*, whereas *kinyan sudar* requires only that something be given.",
+   "line": "7a.12"
+  },
+  {
+   "q": "A creditor and a debtor both hold a note that has not been ratified. The debtor admits writing it but says he repaid it. What does Rebbi rule?",
+   "options": [
+    "The debtor pays nothing unless the note is ratified, since it stands only on his word and he says he repaid",
+    "They divide it: the debtor pays half",
+    "The creditor collects it all, since the debtor admits the loan",
+    "The note is held until Eliyahu comes"
+   ],
+   "why": "For Rebbi an unratified note is a shard; Rabban Shimon ben Gamliel holds the debtor's admission makes it valid, so they divide.",
+   "line": "7a.21"
+  },
+  {
+   "q": "A *ketubah* is found while the couple is still married, and the husband says he paid it. On Ravina's reading, why do the Rabbis not return it to the wife?",
+   "options": [
+    "They fear a second *ketubah* was written after the first was lost, so she could collect twice",
+    "They fear he paid it during the marriage",
+    "A found document is never returned",
+    "The husband's claim of payment is believed"
+   ],
+   "why": "Ravina gives the Rabbis a concern about two *ketubot*, not *pera'on*, which keeps them consistent with their ruling on the found note.",
+   "line": "7b.12"
+  },
+  {
+   "q": "By R. Elazar, one claimant holds the *tofes* of a note and the other the *toref*. What does the one holding the *toref* receive, as Ravina explains?",
+   "options": [
+    "The value the date adds, since a dated note collects from *meshubadim*, besides his share of the rest",
+    "The piece of parchment he is holding",
+    "The whole note, since the *toref* is its essence",
+    "Exactly half, as in every division"
+   ],
+   "why": "Division is by value, and the *toref* carries the date, which gives the note its power over property the debtor sold.",
+   "line": "7b.18"
+  }
+ ],
+ "judgment_calls": [
+  "The bathhouse (7a.4–6) is a top-level section of its own with two children, since it closes a question opened on the previous daf and is unrelated to the garment discussion that follows.",
+  "Rav Chisda's *get* ruling (7a.11–12) is nested under Rav Mesharshiyya's *kinyan sudar* section rather than placed beside it, since the Gemara raises it only as a challenge to his idea that what one grasps counts as cut off.",
+  "The promissory-note baraita (7a.15–17) is its own child, separate from Rav Nachman's explanation of Rebbi vs. Rabban Shimon ben Gamliel (7a.18–22) and from Rava's reading of the judge clause (7a.23–7b.3), so each step of the baraita's discussion can be seen in order.",
+  "Line 7b.3 holds both R. Yosi's reason for not fearing *pera'on* and the Gemara's question whether he really doesn't; s14 ends at 7b.3 and s15 begins there, overlapping by one line.",
+  "The three resolutions of the *ketubah* contradiction are three children of one section with a chart, rather than three top-level sections, since they answer one question.",
+  "The closing discussion that division means value (7b.19–8a.3) is a top-level section rather than a child of the *tofes*/*toref* section: the Gemara applies Ravina's answer to every case of division in the chapter, and it is linked back to the garment sections with returns_to."
+ ],
+ "coverage_notes": [
+  "The shiur's opening review of *hamotzi me'chavero* and *tokfo kohen*, and the 'certain tenth, not an uncertain tenth' answer, belong to 7a.1 and the previous daf's scope; they are not outlined here.",
+  "The essay names the questioner 'Rav Achai mi-Difti'; the text has 'Rav Aha of Difti'. Followed the text (Rav Acha of Difti).",
+  "The essay has 'Rav Chiya bar Avin'; the text has 'Rabbi Hiyya bar Avin'. Followed the text.",
+  "The essay and segmentation call the promissory-note source a Mishnah; the text calls it a baraita (Tosefta 1:8). Followed the text.",
+  "The essay attributes the reason that a repaid debtor tears up the note to Rashi; the text states it in the Gemara (7b.3). Followed the text.",
+  "The essay says Rav Mesharshiyya draws his rule from the baraita; the text says he learns it from Rav Pappa's statement. Followed the text.",
+  "The essay says the first resolution lets R. Yosi return the note to the creditor; in the text, after the reversal R. Yosi is the one who says the note is never returned. Followed the text.",
+  "The essay's account of Ravina is garbled (that R. Yosi is concerned during the marriage 'for other reasons'); the text says the Rabbis fear two *ketubot* and R. Yosi does not, holding it rare. Followed the text.",
+  "The essay calls Rav Tachalifa 'bar Maarava'; the text has 'Rav Tahalifa from the West'.",
+  "The sums 1,000, 950, 700 and the resulting 600 and 350 come from the shiur as an illustration; they are marked as shiur material and labeled as an example in the picture.",
+  "All Gemara lines in scope are covered by the shiur; no section is flagged as Gemara text only."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s5",
+    "subject": "The garment cases: gripping the body, holding the fringes, gold nearer one side",
+    "why_not": "The illustrations show these cases more clearly than a grid, and each has one ruling."
+   },
+   {
+    "section": "s21",
+    "subject": "R. Elazar vs. R. Yochanan across three arrangements of the note",
+    "why_not": "R. Elazar is not stated for the case of a *toref* in the middle, so the grid would need filler cells."
+   },
+   {
+    "section": "s1",
+    "subject": "Doubtful *bekhor* vs. redemption lamb for *ma'aser behemah*",
+    "why_not": "Only two items with one reason; the bullets carry it."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s16",
+    "subject": "The found *ketubah*: still married vs. widowed or divorced",
+    "why_not": "Five pictures already cover the daf's physical cases; the *ketubah* passage turns on attributions, which the chart lays out better."
+   },
+   {
+    "section": "s2",
+    "subject": "A movable bath vs. a bath dug into the ground",
+    "why_not": "The distinction is a legal category about possession rather than a scene that a picture clarifies."
+   },
+   {
+    "section": "s1",
+    "subject": "10 doubtful firstborn donkeys and 10 redemption lambs passing under the rod",
+    "why_not": "The point is the lambs' legal status, which a counting scene would not show."
+   },
+   {
+    "section": "s23",
+    "subject": "Two riding a non-kosher animal that can't be cut",
+    "why_not": "It would repeat the garment scenes; the chart of test cases carries the argument."
+   }
+  ]
+ },
+ "tag_questions": [],
+ "daf_summary": {
+  "summary": "Discussion of: which doubtful animals are tithed (lambs that redeemed doubtful firstborn donkeys); a disputed bathhouse that one side consecrated (void, since it can't be recovered in court); two holding a garment (each keeps what he grips, the rest divided, the Mishnah speaking of fringes), with *kinyan sudar* by a corner of the cloth, a *get* on a string, and gold nearer one side; a note held by creditor and debtor (Rebbi requires *kiyum*, Rabban Shimon ben Gamliel divides) and whether R. Yosi fears *pera'on*; *tofes* vs. *toref* (R. Elazar vs. R. Yochanan); and the rule that division is by value.",
+  "takeaways": [
+   {
+    "text": "Lambs that redeemed doubtful firstborn donkeys can be counted for *ma'aser behemah*, since they carry no sanctity and the court rules them the owner's; a doubtful *bekhor* can't, since it is already sacred.",
+    "sections": [
+     "s1"
+    ]
+   },
+   {
+    "text": "Property one can't recover in court can't become *hekdesh*, so a silence in the face of such a consecration admits nothing. Land one can prove is his stays in his possession, so he can consecrate it, unlike a stolen movable.",
+    "sections": [
+     "s3",
+     "s4"
+    ]
+   },
+   {
+    "text": "Two holding a garment each keep the part they grip and divide the rest with an oath, and neither can choose the line of division to his own advantage.",
+    "sections": [
+     "s6",
+     "s10"
+    ]
+   },
+   {
+    "text": "In *kinyan sudar*, grasping 3 by 3 fingerbreadths of the cloth completes the transaction, since that much counts as cut off; a *get* the husband can still pull back by a string doesn't divorce, because it needs complete severance.",
+    "sections": [
+     "s8",
+     "s9"
+    ]
+   },
+   {
+    "text": "Wherever the court divides a disputed item, it divides the value: in a note, the holder of the *toref* gets what the date adds through its power over *meshubadim*.",
+    "sections": [
+     "s22",
+     "s23"
+    ]
+   }
+  ],
+  "debates": [
+   {
+    "question": "Must a note be ratified when the debtor admits writing it but says he repaid?",
+    "sides": [
+     {
+      "who": "Rebbi",
+      "view": "Yes: unratified it is a shard, and the debtor pays nothing"
+     },
+     {
+      "who": "Rabban Shimon ben Gamliel",
+      "view": "No: his admission makes it valid, and they divide it"
+     }
+    ],
+    "outcome": "Rav Nachman: a ratified note is divided by all; they disagree only about an unratified one.",
+    "sections": [
+     "s12",
+     "s13"
+    ]
+   },
+   {
+    "question": "Does R. Yosi fear *pera'on* in a found note and a found *ketubah*?",
+    "sides": [
+     {
+      "who": "Reversal, reading the *ketubah* baraita as R. Yosi's",
+      "view": "He fears it in a note and after a marriage ends, not during it"
+     },
+     {
+      "who": "Rav Pappa",
+      "view": "He never fears it, and argues only from the Rabbis' view"
+     },
+     {
+      "who": "Ravina",
+      "view": "He fears it; the Rabbis fear only a second *ketubah*"
+     }
+    ],
+    "outcome": "The Gemara offers all three readings without deciding between them.",
+    "sections": [
+     "s15",
+     "s17",
+     "s18",
+     "s19"
+    ]
+   },
+   {
+    "question": "When one holds the *tofes* of a note and the other the *toref*, do they divide equally?",
+    "sides": [
+     {
+      "who": "R. Elazar",
+      "view": "No: each takes the value of the part he holds"
+     },
+     {
+      "who": "R. Yochanan",
+      "view": "Yes, always, read as a *toref* lying between them"
+     }
+    ],
+    "outcome": "The Gemara reads R. Yochanan as agreeing where each holds a part, and Ravina explains R. Elazar's division as one of value.",
+    "sections": [
+     "s21",
+     "s22"
+    ]
+   }
+  ],
+  "key_terms": [
+   "kinyan sudar",
+   "kiyum",
+   "modeh be'shtar she'katvo",
+   "pera'on",
+   "toref",
+   "meshubadim"
+  ]
+ }
+}

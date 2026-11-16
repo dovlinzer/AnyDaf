@@ -1,0 +1,1515 @@
+{
+ "daf": "Bava Metzia 6",
+ "scope": {
+  "start": "5b.8: why the garment oath is needed at all, and R. Yochanan's answer",
+  "end": "7a.1: the Torah requires a certain tenth, which proves that a kohen who seizes a *safek bekhor* is removed (mid-exchange)"
+ },
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Why an Oath Can Work on a Would-Be Thief",
+   "amud": "5b–6a",
+   "text": {
+    "from": "5b.8",
+    "to": "6a.9"
+   },
+   "gist": "R. Yochanan explains the garment oath as a *takanat chakhamim* (rabbinic enactment) against seizing another's garment. But a man willing to grab may also be willing to swear falsely. The Gemara rules that we don't say *migo de'chashid amamona chashid ashvuata* (since he is suspect about money, he is suspect about oaths) and tests this against the law's other oaths. Abaye explains those oaths differently: the claimant may be unsure whether he is owed an old loan.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s2",
+     "title": "The Garment Oath as a *Takanat Chakhamim* Against Seizing",
+     "amud": "5b",
+     "text": {
+      "from": "5b.8",
+      "to": "5b.8"
+     },
+     "gist": "Each claimant receives the half he is holding, so why must he swear? R. Yochanan answers that the Sages enacted the oath so that people won't seize another's garment and claim it.",
+     "bullets": [
+      {
+       "text": "Each claimant ends up with the half he is holding, so the Gemara asks what the oath adds.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "R. Yochanan: it is a *takanat chakhamim*, so that people won't go and seize another's garment and say “It's mine.” Without it, anyone could grab a garment and walk away with half.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So here the oath is a deterrent, not a way of finding the facts. The prospect of swearing is meant to stop the grab, or to make the grabber back down once he is in court.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "This raises a new problem. The oath of a *modeh be'miktzat* works on a man who is rationalizing. Here the fear is of someone who knowingly takes what isn't his.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s3",
+     "title": "Why We Don't Say *Migo de'Chashid Amamona Chashid Ashvuata*",
+     "amud": "5b–6a",
+     "text": {
+      "from": "5b.9",
+      "to": "6a.4"
+     },
+     "gist": "The Gemara objects that a man who would grab a garment would also swear falsely. It answers that we don't say *migo de'chashid amamona chashid ashvuata*, since even a thief treats a false oath as more severe. It tests the principle against six oaths the law imposes. For the first three it finds a story the defendant can tell himself; for the last three it simply concludes that the principle holds.",
+     "bullets": [
+      {
+       "text": "Objection: he is suspect of stealing and of lying in court about money, so he should be suspect of swearing falsely too, and his oath should be worthless.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Answer: we don't say *migo de'chashid amamona chashid ashvuata*. Even one who steals is presumed to treat a false oath as more severe.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Tosafot gives two reasons. The first is that a false oath is uniquely grave: when “God will not hold guiltless one who takes His name in vain” was said, the whole world shook. People feel that weight even when monetary prohibitions don't move them.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The second is that the oath meets the claimant at a decision point, before he has committed to the theft, and it may make him back down. A proven *gazlan* (robber), like the shepherd of the previous daf, has no such point left, so he is disqualified from swearing.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "title": "Oaths given to someone who may be lying about money, and why they still work",
+      "caption": "Only the first three are explained by a story the defendant tells himself; the last three lead the Gemara to state the principle outright.",
+      "columns": [
+       "",
+       "Why he might be lying about money",
+       "Why his oath is still accepted"
+      ],
+      "rows": [
+       [
+        "*Modeh be'miktzat*",
+        "He denies part of a loan",
+        "He is only buying time and means to pay (Rabba)"
+       ],
+       [
+        "A bailee who admits part of a *pikadon*",
+        "He denies part of a deposit he may not use",
+        "He hopes to find the thief or the lost item"
+       ],
+       [
+        "Rav Huna's bailee who offers to pay",
+        "He may be hiding the item",
+        "He tells himself that paying for it is no wrong"
+       ],
+       [
+        "Rav Nachman's total denier",
+        "He denies the whole debt",
+        "No story is given: the principle itself"
+       ],
+       [
+        "The storekeeper and the laborer",
+        "One of them is surely lying",
+        "No story is given: the principle itself"
+       ],
+       [
+        "Rav Sheshet's unpaid bailee",
+        "He may have been negligent, used it, or kept it",
+        "No story is given: the principle itself"
+       ]
+      ]
+     },
+     "children": [
+      {
+       "id": "s4",
+       "title": "*Modeh be'Miktzat*: The Debtor Is Only Buying Time",
+       "amud": "5b",
+       "text": {
+        "from": "5b.10",
+        "to": "5b.11"
+       },
+       "gist": "The Gemara tries to prove the principle from the oath the Torah imposes on a *modeh be'miktzat* (one who admits part of a claim). It rejects the proof: by Rabba's explanation, that debtor is only buying time, not stealing.",
+       "bullets": [
+        {
+         "text": "The proof: the Torah has a *modeh be'miktzat* take an oath, though he may be lying about the part he denies. If a man who lies about money couldn't be trusted to swear, that oath would make no sense.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rejected: by Rabba's explanation, that debtor means to repay everything and denies part only to buy time until he can afford it. He is not a thief, so his oath shows nothing about one who is.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s5",
+       "title": "Denying a Loan vs. Denying a *Pikadon*",
+       "amud": "5b",
+       "text": {
+        "from": "5b.12",
+        "to": "5b.12"
+       },
+       "gist": "Rav Idi bar Avin, in the name of Rav Chisda, confirms the distinction. One caught denying a loan remains a valid witness, since he is presumed to be stalling; one caught denying a *pikadon* (deposit) is disqualified, since he presumably stole it.",
+       "bullets": [
+        {
+         "text": "A loan is given to be spent. A borrower who denies it has presumably spent the money and is stalling until he can repay, so witnesses who contradict him don't make him a robber, and he may still testify.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A *pikadon* may not be used by the bailee. If he denies receiving one and witnesses contradict him, he has presumably taken it for himself, so he is disqualified from testifying.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Stalling on a loan is a lie a man can live with, since he means to pay. Denying a deposit leaves no such story, because the object was never his to keep.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s6",
+       "title": "Why Bailees Who Deny a *Pikadon* Can Still Swear",
+       "amud": "5b",
+       "text": {
+        "from": "5b.13",
+        "to": "5b.16"
+       },
+       "gist": "Rami bar Chama's baraita has all four bailees swear when they admit part of the claim and deny part. The Gemara answers that a bailee too may be stalling, hoping to find the thief or the lost item. He is disqualified only when witnesses show the deposit was in his house as he denied it.",
+       "bullets": [
+        {
+         "text": "Baraita (Rami bar Chama): the unpaid bailee, the borrower, the paid bailee and the renter all swear when they deny part of the claim and admit part. A bailee has no debt to stall on, so why trust his oath?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: he need not be a robber. If the deposit was stolen, he thinks: given time, I'll find the thief and recover it. If it was lost, he thinks: I'll find it in the marsh and bring it back.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Then why is one who denies a *pikadon* disqualified as a witness? Ordinarily he isn't. He is disqualified only where witnesses testify that the deposit was in his house when he denied it and he knew it, or that he was holding it, since then he plainly meant to keep it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rather than admit negligence, the bailee says the item is gone and buys time to look for it, so the door to rationalization stays open.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s7",
+       "title": "A Bailee Who Pays Instead of Returning, and *Lo Tachmod*",
+       "amud": "5b",
+       "text": {
+        "from": "5b.17",
+        "to": "5b.20"
+       },
+       "gist": "Rav Huna has a bailee who offers to pay swear that the item isn't in his possession. Even if he kept it, he can tell himself that paying for it is no wrong. Rav Acha of Difti objects that this violates *lo tachmod*, and the Gemara answers that most people take *lo tachmod* to forbid only taking without paying.",
+       "bullets": [
+        {
+         "text": "Rav Huna: a bailee who says the deposit was lost or stolen and offers to pay must still swear that it isn't in his possession. If he is suspected of hiding it, why trust him to swear?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: even if he kept it, he can tell himself, “Since I am paying for it, I've done nothing wrong.” So he is not an outright robber.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Acha of Difti asks Ravina: doesn't keeping an item and paying for it violate *lo tachmod* (“you shall not covet”, Shemot 20:14), which applies even when one pays?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Answer: people understand *lo tachmod* as forbidding only taking without payment. He may not know he is doing wrong, so his oath is still credible.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "A man can break a prohibition and still think of himself as honest, because he has compensated the owner. That self-image is what keeps the oath working.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s8",
+       "title": "Three More Oaths Lead to the Conclusion",
+       "amud": "6a",
+       "text": {
+        "from": "6a.1",
+        "to": "6a.4"
+       },
+       "gist": "The Gemara raises three more oaths given to people suspected about money: Rav Nachman's *shevuat heset*, R. Chiyya's storekeeper and laborer, and Rav Sheshet's three oaths of an unpaid bailee. Rather than explain each, it concludes that we don't say *migo de'chashid amamona chashid ashvuata*.",
+       "bullets": [
+        {
+         "text": "Rav Nachman: one who denies a debt entirely takes a *shevuat heset* (a rabbinic oath imposed on a total denial). If the plaintiff is right, the defendant is lying about money, so why trust his oath?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "R. Chiyya's baraita on the storekeeper and the laborer (3a): both swear and collect from the employer, though one of them is surely lying about money.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Sheshet: an unpaid bailee who says the deposit was stolen swears three oaths: that he wasn't negligent, that he didn't misuse it, and that it isn't in his possession. The court suspects him of each, yet trusts him to swear.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The conclusion from all of these: we don't say *migo de'chashid amamona chashid ashvuata*. The law plainly gives oaths to people suspected about money.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "In the storekeeper case there is little room for a story: either he gave the food or he didn't. And if the bailee's deposit is in his closet, he is a knowing thief. Only the principle itself explains these oaths.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "s9",
+     "title": "Abaye: The Claimant May Think He Is Owed an Old Loan",
+     "amud": "6a",
+     "text": {
+      "from": "6a.5",
+      "to": "6a.9"
+     },
+     "gist": "Abaye explains these oaths differently: the defendant may think the plaintiff owes him an old loan, so he is collecting, not stealing. The Gemara sharpens this to a man unsure whether he is owed. Rav Sheshet son of Rav Idi explains why such a doubt lets a man seize but not swear: money can be returned, an oath cannot.",
+     "bullets": [
+      {
+       "text": "In practice Abaye and the Gemara give oaths in the same cases; they differ on why the oath works. For the Gemara even a knowing thief fears a false oath. For Abaye a would-be thief almost always has some story that makes him less than a thief.",
+       "detail": 2,
+       "source": "shiur"
+      }
+     ],
+     "children": [
+      {
+       "id": "s10",
+       "title": "A Certain Old Loan vs. a Doubtful One",
+       "amud": "6a",
+       "text": {
+        "from": "6a.5",
+        "to": "6a.7"
+       },
+       "gist": "Abaye suggests that the defendant may believe the plaintiff owes him an old loan. The Gemara objects that a man sure of the loan would swear freely, so Abaye must mean a man unsure whether he is owed.",
+       "bullets": [
+        {
+         "text": "Abaye: these oaths prove nothing about a suspected thief. We suspect the defendant believes the plaintiff owes him an old loan he can't recover, so he takes or keeps the item as repayment, not as robbery.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Objection: then the oath can't help. If he is sure of the loan, he will swear with a clear conscience that the item is his, so he might as well take it without an oath.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So Abaye's point must be a doubt: the defendant isn't sure whether the plaintiff owes him, and he holds on to the item just in case.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The story is always at hand. He sees a man in a fine coat and thinks: he owes me from years ago, he has forgotten, I can't prove it, so I may take this.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s11",
+       "title": "Rav Sheshet son of Rav Idi: Money Can Be Returned, an Oath Cannot",
+       "amud": "6a",
+       "text": {
+        "from": "6a.8",
+        "to": "6a.9"
+       },
+       "gist": "The Gemara asks why a man who seizes on a doubt wouldn't also swear on it. Rav Sheshet son of Rav Idi answers that people shrink from a doubtful oath but not from doubtful money, since money can be given back and an oath can't be retracted.",
+       "bullets": [
+        {
+         "text": "Objection: if a doubt is enough for him to seize another's property, why isn't it enough for him to swear?",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Sheshet son of Rav Idi: people refrain from a doubtful oath but not from doubtful money. If the seizure proves wrong, he can give the money back; once he has sworn falsely, nothing can undo it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "People allow themselves latitude where they think a wrong can be corrected, and take care where an act can't be reversed.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "illustration": {
+        "title": "Seizing on a doubt vs. swearing on a doubt",
+        "caption": "Rav Sheshet son of Rav Idi (6a.9), on Abaye's claimant who is unsure whether he is owed an old loan: he will seize on the doubt, since money can be returned, but won't swear on it.",
+        "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>Left: a man takes hold of a garment beside another man, thinking he may be owed an old loan and can give it back if not. Right: the same man before the court, thinking that an oath cannot be taken back, will not swear.</title><rect width='900' height='440' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='376' rx='14' fill='#F3E6D8'/><rect x='460' y='14' width='425' height='376' rx='14' fill='#E3EAF3'/><text x='227' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600'>Seizing on a doubt</text><text x='227' y='68' text-anchor='middle' font-size='13' fill='#5B6478'>He takes the garment just in case</text><text x='672' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='21' font-weight='600'>Swearing on a doubt</text><text x='672' y='68' text-anchor='middle' font-size='13' fill='#5B6478'>The court asks him to swear it is his</text><use href='#thought' x='160' y='78' width='260' height='100'/><text x='290' y='113' text-anchor='middle' font-size='13'>Maybe he owes me an old loan.</text><text x='290' y='131' text-anchor='middle' font-size='13'>If not, I can give it back.</text><rect x='30' y='300' width='395' height='4' fill='#D9C9A8'/><use href='#man-reach' x='150' y='180' width='60' height='120' style='color:#6A4F7A;--beard:#5A4636;--hair:#4A3A2E'/><use href='#garment' x='209' y='226' width='110' height='73'/><use href='#man' x='335' y='180' width='60' height='120' style='color:#3E5A7A;--beard:#8E8A84;--hair:#6A5646'/><text x='180' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>seizes it</text><text x='365' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>the other claimant</text><text x='227' y='355' text-anchor='middle' font-size='15' font-weight='600'>Money can be given back</text><text x='227' y='376' text-anchor='middle' font-size='13' fill='#5B6478'>so a doubt is enough for him to seize</text><use href='#thought' x='520' y='78' width='270' height='100'/><text x='655' y='113' text-anchor='middle' font-size='13'>Swear it is mine? If I am wrong,</text><text x='655' y='131' text-anchor='middle' font-size='13'>an oath cannot be taken back.</text><rect x='475' y='300' width='395' height='4' fill='#D9C9A8'/><use href='#man' x='520' y='180' width='60' height='120' style='color:#6A4F7A;--beard:#5A4636;--hair:#4A3A2E'/><use href='#court' x='700' y='210' width='150' height='90'/><text x='550' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>will not swear</text><text x='775' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>the court</text><text x='672' y='355' text-anchor='middle' font-size='15' font-weight='600'>An oath cannot be retracted</text><text x='672' y='376' text-anchor='middle' font-size='13' fill='#5B6478'>so the same doubt holds him back</text><text x='450' y='420' text-anchor='middle' font-size='12.5' fill='#5B6478'>Rav Sheshet son of Rav Idi (6a.9): people shrink from a doubtful oath, not from doubtful money</text></svg>"
+       },
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "title": "R. Zeira: One Claimant Seizes the Garment Before the Court",
+   "amud": "6a",
+   "text": {
+    "from": "6a.10",
+    "to": "6a.15"
+   },
+   "gist": "If one litigant pulls the whole garment from the other in court, does he now hold it? The question is real only where the other was silent at first and shouted later. Rav Nachman tries to answer from a baraita, but the Gemara reads the baraita as two other cases, and the question stays open.",
+   "bullets": [],
+   "children": [
+    {
+     "id": "s13",
+     "title": "Silence, Then Protest: Admission or Reliance on the Court?",
+     "amud": "6a",
+     "text": {
+      "from": "6a.10",
+      "to": "6a.12"
+     },
+     "gist": "If the one whose hands were emptied stays silent, he has conceded; if he shouts, seizing changes nothing, since he could do no more. R. Zeira asks about a man who was silent at first and shouted later: was his silence an admission, or did he rely on the judges who saw it happen?",
+     "bullets": [
+      {
+       "text": "R. Zeira asks: two are holding the garment, and one pulls it entirely from the other before the court. What is the law?",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If the other stays silent, his silence admits that the garment belongs to the one who took it. If he shouts, what more could he do? That the seizer is stronger has no bearing on who owns it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So the question is a man who was silent at first and shouted afterward. Perhaps his silence admitted the seizer's ownership and he regretted it later. Or perhaps he kept quiet because he thought, “The judges saw him take it from me, so I needn't cry out.”",
+       "detail": 2,
+       "source": "gemara"
+      }
+     ],
+     "chart": {
+      "title": "One claimant pulls the garment away before the court: what the other does and how it comes out",
+      "columns": [
+       "",
+       "What his behavior shows",
+       "Result"
+      ],
+      "rows": [
+       [
+        "He stays silent",
+        "He concedes that the seizer owns it",
+        "**The seizer keeps it**"
+       ],
+       [
+        "He shouts at once",
+        "He could do no more; strength proves nothing",
+        "**Seizing changes nothing**: they still divide it"
+       ],
+       [
+        "Silent at first, then shouts",
+        "Either an admission he later regretted, or reliance on the judges who saw it",
+        "R. Zeira's question, left open"
+       ]
+      ],
+      "tags": [
+       [
+        null,
+        null,
+        "keeps"
+       ],
+       [
+        null,
+        null,
+        "divides"
+       ],
+       [
+        null,
+        null,
+        null
+       ]
+      ]
+     },
+     "illustration": {
+      "title": "The garment pulled away in court: silent, shouting, or silent and then shouting",
+      "caption": "R. Zeira's question (6a.10–12): silence alone concedes, and shouting at once leaves the case unchanged; the open question is a man who was silent at first and protested later.",
+      "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>Three scenes before the court. In each, one man holds the whole garment he pulled away. In the first the other says nothing; in the second he protests at once; in the third he was silent and now protests that the judges saw it.</title><rect width='900' height='460' fill='#FBF8F1'/><rect x='15' y='14' width='280' height='400' rx='14' fill='#F3E6D8'/><rect x='310' y='14' width='280' height='400' rx='14' fill='#E3EAF3'/><rect x='605' y='14' width='280' height='400' rx='14' fill='#EEF0F4'/><text x='155' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600'>He stays silent</text><text x='155' y='68' text-anchor='middle' font-size='13' fill='#5B6478'>after it is pulled away</text><text x='450' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600'>He shouts</text><text x='450' y='68' text-anchor='middle' font-size='13' fill='#5B6478'>as soon as it is pulled away</text><text x='745' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600'>Silent, then he shouts</text><text x='745' y='68' text-anchor='middle' font-size='13' fill='#5B6478'>R. Zeira’s question</text><rect x='30' y='282' width='250' height='4' fill='#D9C9A8'/><use href='#man-reach' x='40' y='170' width='55' height='110' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><use href='#garment' x='94' y='212' width='80' height='53'/><use href='#man' x='200' y='170' width='55' height='110' style='color:#8C5A3C;--beard:#8E8A84;--hair:#6A5646'/><text x='67' y='302' text-anchor='middle' font-size='13' fill='#5B6478'>seizer</text><text x='227' y='302' text-anchor='middle' font-size='13' fill='#5B6478'>says nothing</text><use href='#badge-keeps' x='30' y='322' width='26' height='26'/><text x='64' y='340' font-size='15' font-weight='700' fill='#1B3A8A'>The seizer keeps it</text><text x='64' y='362' font-size='13' fill='#5B6478'>his silence is an admission</text><rect x='325' y='282' width='250' height='4' fill='#D9C9A8'/><use href='#man-reach' x='335' y='170' width='55' height='110' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><use href='#garment' x='389' y='212' width='80' height='53'/><use href='#man' x='495' y='170' width='55' height='110' style='color:#8C5A3C;--beard:#8E8A84;--hair:#6A5646'/><use href='#bubble-r' x='340' y='100' width='190' height='72'/><text x='435' y='135' text-anchor='middle' font-size='14'>He grabbed it from me!</text><text x='362' y='302' text-anchor='middle' font-size='13' fill='#5B6478'>seizer</text><text x='522' y='302' text-anchor='middle' font-size='13' fill='#5B6478'>protests</text><use href='#badge-divides' x='325' y='322' width='26' height='26'/><text x='359' y='340' font-size='15' font-weight='700' fill='#9A6212'>Seizing changes nothing</text><text x='359' y='362' font-size='13' fill='#5B6478'>what more could he do?</text><rect x='620' y='282' width='250' height='4' fill='#D9C9A8'/><use href='#man-reach' x='630' y='170' width='55' height='110' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><use href='#garment' x='684' y='212' width='80' height='53'/><use href='#man' x='790' y='170' width='55' height='110' style='color:#8C5A3C;--beard:#8E8A84;--hair:#6A5646'/><use href='#bubble-r' x='630' y='92' width='200' height='80'/><text x='730' y='121' text-anchor='middle' font-size='14'>Give it back! The judges</text><text x='730' y='139' text-anchor='middle' font-size='14'>saw him take it.</text><text x='657' y='302' text-anchor='middle' font-size='13' fill='#5B6478'>seizer</text><text x='817' y='302' text-anchor='middle' font-size='13' fill='#5B6478'>silent, then shouts</text><text x='745' y='340' text-anchor='middle' font-size='14'>Was his silence an admission,</text><text x='745' y='360' text-anchor='middle' font-size='14'>or did he rely on the judges?</text><text x='745' y='384' text-anchor='middle' font-size='13' fill='#5B6478'>The question is left open</text><text x='450' y='446' text-anchor='middle' font-size='12.5' fill='#5B6478'>R. Zeira (6a.10–12): the garment is pulled away before the court</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s14",
+     "title": "Rav Nachman's Baraita: When Only One Holds the Garment",
+     "amud": "6a",
+     "text": {
+      "from": "6a.13",
+      "to": "6a.15"
+     },
+     "gist": "Rav Nachman cites a baraita: the garment is divided only while both hold it, and if only one holds it, the other must bring proof. Since a plain case of one holder would be obvious, he reads it as a seizure in court. The Gemara offers two other cases the baraita could mean.",
+     "bullets": [
+      {
+       "text": "Baraita: both swear and divide only when both are holding the garment. If it is in one man's possession, *hamotzi me'chavero alav ha'ra'ayah* (the burden of proof is on the one who would take from another).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Nachman: read literally, this is obvious, since anyone claiming what another holds must prove it. So it must mean one who seized the garment before the court, R. Zeira's case, and the seizer keeps it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "On that reading the baraita is surprising. With no evidence on either side, the moment at which the court happens to look would decide who is in possession: a moment earlier, both were holding it.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "title": "Two other cases the baraita could mean: back from “Go divide it”, or holding only the edge",
+      "caption": "The Gemara's two readings of Rav Nachman's baraita (6a.14–15). In both, the one holding the garment keeps it, and neither concerns a seizure before the court.",
+      "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>Left: two litigants return from court with one holding the garment; he says the other conceded, and the other says he rented him his half. Right: one man holds the garment while the other holds only its edge. In both the holder keeps it.</title><rect width='900' height='460' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='410' rx='14' fill='#F3E6D8'/><rect x='460' y='14' width='425' height='410' rx='14' fill='#E3EAF3'/><text x='227' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600'>Back from “Go divide it”</text><text x='227' y='68' text-anchor='middle' font-size='13' fill='#5B6478'>They return with one holding it alone</text><text x='672' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600'>Holding only the edge</text><text x='672' y='68' text-anchor='middle' font-size='13' fill='#5B6478'>One grips the garment, the other its edge</text><rect x='30' y='310' width='395' height='4' fill='#D9C9A8'/><use href='#man-reach' x='40' y='190' width='60' height='120' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><use href='#garment' x='90' y='214' width='144' height='96'/><use href='#man' x='320' y='190' width='60' height='120' style='color:#8C5A3C;--beard:#8E8A84;--hair:#6A5646'/><use href='#bubble' x='72' y='100' width='130' height='80'/><text x='137' y='129' text-anchor='middle' font-size='14'>He conceded</text><text x='137' y='147' text-anchor='middle' font-size='14'>it to me.</text><use href='#bubble-r' x='215' y='100' width='150' height='80'/><text x='290' y='129' text-anchor='middle' font-size='14'>I only rented</text><text x='290' y='147' text-anchor='middle' font-size='14'>him my half.</text><text x='70' y='332' text-anchor='middle' font-size='13' fill='#5B6478'>holds it</text><text x='350' y='332' text-anchor='middle' font-size='13' fill='#5B6478'>not holding it</text><use href='#badge-keeps' x='30' y='348' width='26' height='26'/><text x='64' y='366' font-size='15' font-weight='700' fill='#1B3A8A'>The holder keeps it</text><text x='64' y='388' font-size='13' fill='#5B6478'>“You called him a robber, then rented</text><text x='64' y='406' font-size='13' fill='#5B6478'>to him without witnesses?”</text><rect x='475' y='310' width='395' height='4' fill='#D9C9A8'/><use href='#man-reach' x='490' y='190' width='60' height='120' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><use href='#garment' x='540' y='214' width='144' height='96'/><use href='#man-reach-r' x='676' y='190' width='60' height='120' style='color:#8C5A3C;--beard:#8E8A84;--hair:#6A5646'/><text x='520' y='332' text-anchor='middle' font-size='13' fill='#5B6478'>holds the garment</text><text x='706' y='332' text-anchor='middle' font-size='13' fill='#5B6478'>holds only the edge</text><use href='#badge-keeps' x='475' y='348' width='26' height='26'/><text x='509' y='366' font-size='15' font-weight='700' fill='#1B3A8A'>The one holding it keeps it</text><text x='509' y='388' font-size='13' fill='#5B6478'>Even Sumakhos: holding the edge</text><text x='509' y='406' font-size='13' fill='#5B6478'>is worth nothing</text><text x='450' y='448' text-anchor='middle' font-size='12.5' fill='#5B6478'>Two readings of the baraita (6a.14–15)</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s15",
+       "title": "They Return from “Go Divide It” with One Holding the Garment",
+       "amud": "6a",
+       "text": {
+        "from": "6a.14",
+        "to": "6a.14"
+       },
+       "gist": "The Gemara answers that the baraita may mean litigants told to divide who came back with one holding it. The holder says the other conceded; the other says he rented him his half, and he must prove it, since he had just called the holder a robber.",
+       "bullets": [
+        {
+         "text": "Both came to court holding the garment, the court said “Go divide it,” and they came back with one holding it. He says, “He admitted it was mine.” The other says, “I rented him my half for money.”",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The court tells the one not holding it: until now you suspected him of being a robber, and now you rented it to him without witnesses? So the burden of proof is on him, and the holder keeps it.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "His own story undermines him. That is why this case says nothing about a seizure before the court.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s16",
+       "title": "One Holds Only the Edge",
+       "amud": "6a",
+       "text": {
+        "from": "6a.15",
+        "to": "6a.15"
+       },
+       "gist": "Alternatively, the baraita means what it says: one holds the garment and the other only its edge. Even Sumakhos, who divides doubtful property without an oath, agrees that holding the edge counts for nothing, so the one holding the edge must bring proof.",
+       "bullets": [
+        {
+         "text": "They came to court with one holding the garment itself and the other hanging on to its edge.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "The baraita's point: even Sumakhos, who holds that property of doubtful ownership is divided without an oath, concedes that holding the edge is worth nothing. It doesn't make the ownership doubtful, so the one holding the edge must bring proof.",
+         "detail": 2,
+         "source": "gemara"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s17",
+   "title": "Can a Claimant Make *Hekdesh* of an Item He Isn't Holding?",
+   "amud": "6a–7a",
+   "text": {
+    "from": "6a.16",
+    "to": "7a.1"
+   },
+   "gist": "If seizing in court would win the garment, can a claimant declare it *hekdesh* (consecrated to the Temple) without seizing it? The bathhouse incident raises the same question. Rav Hamnuna answers from the *safek bekhor*, which he holds a kohen would keep if he seized it; Rabba holds a seizing kohen is removed, and Rav Chananya supports him from *ma'aser behemah*. After Abaye's challenge and retraction, the proof for Rabba stands.",
+   "bullets": [],
+   "continues": "Continues on 7a: Rav Acha of Difti asks which doubtful animals the baraita means, since a *safek bekhor* is already holy, and the Gemara resolves the bathhouse from Rav Nachman: what one can't recover by law, one can't consecrate.",
+   "children": [
+    {
+     "id": "s18",
+     "title": "Is Declaring *Hekdesh* Like Seizing?",
+     "amud": "6a",
+     "text": {
+      "from": "6a.16",
+      "to": "6a.18"
+     },
+     "gist": "R. Zeira's question is left open, but the Gemara draws a consequence. If a seizer in court must give the garment back, a claimant's *hekdesh* of it is surely void. If the seizer keeps it, the Gemara asks whether declaring *hekdesh* counts as seizing.",
+     "bullets": [
+      {
+       "text": "R. Zeira's question is not resolved. But if the court removes the garment from one who seizes it, then a claimant who declares the whole garment *hekdesh* achieves nothing, since it isn't his.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "If the court leaves it with the seizer, the question is whether a claimant who declares it *hekdesh* without seizing it is like one who seized it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Perhaps he is: the Master taught *amirato le'gavoha ki'mesirato le'hedyot* (a declaration to the Temple is like a formal transfer to an ordinary person), so his words may do what seizing would do.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Or perhaps not: he hasn't actually seized it, so it isn't his. And “when a man consecrates his house” (Vayikra 27:14) teaches that just as his house is in his possession, whatever he consecrates must be in his possession.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "On the first view, the other claimant's silence when he hears the declaration might count as a concession, as silence does after a seizure. On the second, he has nothing to protest, since words can't touch what he is holding.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "children": []
+    },
+    {
+     "id": "s19",
+     "title": "The Disputed Bathhouse That One Claimant Declared *Hekdesh*",
+     "amud": "6a–6b",
+     "text": {
+      "from": "6a.19",
+      "to": "6b.1"
+     },
+     "gist": "Two men disputed a bathhouse neither held, and one declared it *hekdesh*. Rav Chananya, Rav Oshaya and the other Rabbis stopped bathing there, unsure whether the declaration took effect, and Rav Oshaya asked Rabba to put the question to Rav Chisda.",
+     "bullets": [
+      {
+       "text": "Two people disputed a bathhouse that neither possessed, each saying “It's mine.” One of them got up and declared it *hekdesh*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Chananya, Rav Oshaya and all the Rabbis kept away from the bathhouse. If the *hekdesh* had taken effect, bathing there would be *me'ilah* (misusing consecrated property).",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Oshaya asked Rabba, who was going to study before Rav Chisda in Kafrei, to ask him what to do. On the way Rabba came to Sura and told the Sages there.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "The claimant seems to have declared it *hekdesh* in frustration at the deadlock: if he couldn't have it, neither would the other.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "title": "A bathhouse neither claimant holds, declared *hekdesh* by one of them",
+      "caption": "The incident at 6a.19–6b.1: one claimant declares the disputed bathhouse *hekdesh*, and the Rabbis keep away until they know whether it took effect.",
+      "svg": "<svg viewBox='0 0 900 440' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>A bathhouse between two men who each claim it. One declares it consecrated to the Temple. Two sages stand to the side, keeping away from it.</title><rect width='900' height='440' fill='#FBF8F1'/><path d='M320 125 L450 75 L580 125 Z' fill='#A9845A'/><rect x='335' y='125' width='230' height='175' fill='#D9C9A8' stroke='#A9845A' stroke-width='2'/><rect x='360' y='160' width='40' height='30' fill='#E3EAF3' stroke='#A9845A' stroke-width='2'/><rect x='500' y='160' width='40' height='30' fill='#E3EAF3' stroke='#A9845A' stroke-width='2'/><rect x='430' y='220' width='40' height='80' fill='#8A6A44'/><rect x='20' y='300' width='860' height='4' fill='#D9C9A8'/><use href='#man' x='180' y='180' width='60' height='120' style='color:#4B5E8C;--beard:#5A4636;--hair:#4A3A2E'/><use href='#bubble-r' x='55' y='96' width='170' height='76'/><text x='140' y='133' text-anchor='middle' font-size='14'>It is mine!</text><use href='#man' x='620' y='180' width='60' height='120' style='color:#8C5A3C;--beard:#8E8A84;--hair:#6A5646'/><use href='#bubble' x='640' y='90' width='200' height='82'/><text x='740' y='120' text-anchor='middle' font-size='13.5'>It is mine, and I declare</text><text x='740' y='138' text-anchor='middle' font-size='13.5'>it <tspan font-style='italic'>hekdesh</tspan>!</text><use href='#sage' x='760' y='230' width='40' height='70' style='color:#50706E;--beard:#A8A39C;--wrap:#E4D8C0'/><use href='#sage' x='815' y='230' width='40' height='70' style='color:#6A4F7A;--beard:#5A4636;--wrap:#D9CBB0'/><text x='210' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>claimant</text><text x='450' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>the bathhouse</text><text x='650' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>claimant</text><text x='805' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>Rav Chananya, Rav Oshaya</text><text x='805' y='340' text-anchor='middle' font-size='13' fill='#5B6478'>and the Rabbis keep away</text><text x='450' y='374' text-anchor='middle' font-size='15' font-weight='600'>Neither holds it: does his <tspan font-style='italic'>hekdesh</tspan> take effect?</text><text x='450' y='398' text-anchor='middle' font-size='13' fill='#5B6478'>Rav Oshaya to Rabba: “Ask Rav Chisda what we should do.”</text><text x='450' y='428' text-anchor='middle' font-size='12.5' fill='#5B6478'>The incident of the bathhouse (6a.19–6b.1)</text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s20",
+     "title": "Rav Hamnuna: A Seizing Kohen Keeps a *Safek Bekhor*",
+     "amud": "6b",
+     "text": {
+      "from": "6b.2",
+      "to": "6b.3"
+     },
+     "gist": "Rav Hamnuna answers from a Mishnah on a *safek bekhor* (an animal that may be a firstborn): the kohen must prove his claim, yet a baraita forbids shearing and working it. He reads this to mean that a kohen who seized it would keep it, so even unseized it is treated as holy; likewise, the bathhouse *hekdesh* takes effect.",
+     "bullets": [
+      {
+       "text": "Mishnah (Teharot 4:12): whenever it is uncertain whether a firstborn, human or animal, kosher or a donkey, is a *bekhor*, *hamotzi me'chavero alav ha'ra'ayah*. The kohen can't take the animal, or the redemption money, from the owner.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Baraita: even so, the owner may not shear such an animal or work it, since it may be a *bekhor*.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Rav Hamnuna: the Mishnah implies that if the kohen seized the animal, the court would leave it with him. Since he could keep it by seizing it, the animal counts as holy even when he hasn't, and that is why shearing is forbidden.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So too the bathhouse: the claimant who declared it *hekdesh* could have kept it by seizing it, so his *hekdesh* takes effect though he never took hold of it.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Behind this lies a question: in a case of real doubt, does *hamotzi me'chavero alav ha'ra'ayah* rule that the animal is the owner's, or does it only leave the animal where it is, so that a kohen who grabs it is no robber?",
+       "detail": 3,
+       "source": "shiur"
+      },
+      {
+       "text": "Such doubts arise when a woman's earlier miscarriage may have come before 40 days, so that her next son may or may not be a *bekhor*, or when it is unknown whether a cow has given birth before.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "illustration": {
+      "title": "A *safek bekhor* the owner holds and the kohen claims: Rav Hamnuna vs. Rabba",
+      "caption": "The Mishnah in Teharot 4:12, as Rav Hamnuna (6b.3) and Rabba (6b.4) read it: on both views the owner may not shear or work the animal, but they differ on whether a kohen who seizes it keeps it.",
+      "svg": "<svg viewBox='0 0 900 600' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>An owner stands with a lamb that may be a firstborn; a kohen claims it. Either way it may not be shorn or worked. Below, Rav Hamnuna says a kohen who seizes it keeps it, and Rabba says it is taken back from him.</title><rect width='900' height='600' fill='#FBF8F1'/><rect x='15' y='14' width='870' height='316' rx='14' fill='#E3EAF3'/><text x='30' y='36' font-size='12' font-weight='600' fill='#5B6478'>The case</text><text x='450' y='62' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='20' font-weight='600'>A <tspan font-style='italic'>safek bekhor</tspan>: the owner holds it, the kohen claims it</text><rect x='30' y='300' width='840' height='4' fill='#D9C9A8'/><use href='#man' x='230' y='180' width='60' height='120' style='color:#6B6F3A;--beard:#5A4636;--hair:#5A4636'/><use href='#lamb' x='320' y='230' width='100' height='70'/><use href='#kohen' x='460' y='180' width='60' height='120' style='--sash:#3E5A9A;--beard:#5A4636'/><use href='#bubble-r' x='90' y='96' width='190' height='80'/><text x='185' y='125' text-anchor='middle' font-size='14'>Prove it is</text><text x='185' y='143' text-anchor='middle' font-size='14'>a firstborn!</text><use href='#bubble' x='495' y='92' width='200' height='80'/><text x='595' y='121' text-anchor='middle' font-size='14'>It may be a firstborn,</text><text x='595' y='139' text-anchor='middle' font-size='14'>so it is mine.</text><text x='720' y='212' font-size='15' font-weight='700'>Either way</text><use href='#badge-forbidden' x='720' y='222' width='28' height='28'/><text x='756' y='241' font-size='14' font-weight='700' fill='#8C2F2F'>no shearing</text><text x='756' y='261' font-size='14' font-weight='700' fill='#8C2F2F'>and no work</text><text x='720' y='286' font-size='13' fill='#5B6478'>its sanctity is in doubt</text><text x='260' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>owner</text><text x='370' y='322' text-anchor='middle' font-size='13' fill='#5B6478' font-style='italic'>safek bekhor</text><text x='490' y='322' text-anchor='middle' font-size='13' fill='#5B6478'>kohen</text><rect x='15' y='345' width='870' height='240' rx='14' fill='#EEF0F4'/><text x='30' y='368' font-size='12.5' font-weight='600' fill='#5B6478'>The ruling</text><use href='#sage' x='32' y='380' width='40' height='70' style='color:#4B5E8C;--beard:#8E8A84;--wrap:#E4D8C0'/><text x='86' y='398' font-size='16' font-weight='700' fill='#1B3A8A'>Rav Hamnuna</text><use href='#badge-keeps' x='86' y='410' width='24' height='24'/><text x='118' y='427' font-size='14'>If the kohen seizes it, <tspan font-weight='700' font-size='15' fill='#1B3A8A'>he keeps it</tspan>; so it counts as seized, and holy</text><text x='118' y='450' font-size='13' fill='#5B6478'>so a <tspan font-style='italic'>hekdesh</tspan> made without seizing takes effect too</text><use href='#sage' x='32' y='480' width='40' height='70' style='color:#8C5A3C;--beard:#6A5646;--wrap:#D9CBB0'/><text x='86' y='498' font-size='16' font-weight='700' fill='#9A6212'>Rabba</text><use href='#badge-returns' x='86' y='510' width='24' height='24'/><text x='118' y='527' font-size='14'>If the kohen seizes it, <tspan font-weight='700' font-size='15' fill='#9A6212'>it is taken back from him</tspan></text><text x='118' y='550' font-size='13' fill='#5B6478'>its sanctity comes of itself: <tspan font-style='italic'>kedushah ba’ah me’eileha</tspan></text></svg>"
+     },
+     "children": []
+    },
+    {
+     "id": "s21",
+     "title": "Rabba: *Kedushah Ba'ah me'Eileha*, So the Seizing Kohen Is Removed",
+     "amud": "6b",
+     "text": {
+      "from": "6b.4",
+      "to": "6b.4"
+     },
+     "gist": "Rabba rejects the proof. A kohen who seizes a *safek bekhor* is made to return it, so the owner owns it outright. Shearing is forbidden for another reason: *kedushah ba'ah me'eileha* (sanctity that comes of itself), since a firstborn is holy from birth, whoever owns it.",
+     "bullets": [
+      {
+       "text": "Rabba: a kohen who seizes a *safek bekhor* is removed, since ownership taken by force counts for nothing. The Mishnah means that the kohen must prove the animal is a firstborn.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "Even so, shearing and work are forbidden because of *kedushah ba'ah me'eileha*. No one consecrates a firstborn; it is holy at birth, so the doubt about its sanctity lies in the animal itself, whoever wins the money case.",
+       "detail": 2,
+       "source": "gemara"
+      },
+      {
+       "text": "So *mammon* (ownership) and *issur* (prohibition) run on separate tracks. The animal is ruled the owner's, yet it stays a doubtful firstborn that he may not shear or work.",
+       "detail": 2,
+       "source": "shiur"
+      },
+      {
+       "text": "The *issur* follows whether the animal truly is a firstborn, so it would remain even if the animal passed to another owner entirely. The owner can wait for a blemish and then slaughter and eat it.",
+       "detail": 3,
+       "source": "shiur"
+      }
+     ],
+     "chart": {
+      "title": "Rav Hamnuna vs. Rabba: why a *safek bekhor* may not be shorn",
+      "columns": [
+       "",
+       "If a kohen seizes the animal",
+       "Why shearing and work are forbidden",
+       "What it means for the bathhouse"
+      ],
+      "rows": [
+       [
+        "Rav Hamnuna",
+        "**The kohen keeps it**, since the owner would then have to bring proof",
+        "The kohen could keep it by seizing, so it counts as seized, and holy",
+        "The *hekdesh* takes effect without seizing"
+       ],
+       [
+        "Rabba",
+        "**It is taken back from him**: ownership taken by force counts for nothing",
+        "*Kedushah ba'ah me'eileha*: a firstborn is holy at birth, whoever owns it",
+        "The firstborn proves nothing about *hekdesh*"
+       ]
+      ],
+      "tags": [
+       [
+        null,
+        "keeps",
+        null,
+        null
+       ],
+       [
+        null,
+        "returns",
+        null,
+        null
+       ]
+      ]
+     },
+     "children": []
+    },
+    {
+     "id": "s22",
+     "title": "Does *Ma'aser Behemah* Prove the Seizing Kohen Is Removed?",
+     "amud": "6b → 7a",
+     "text": {
+      "from": "6b.5",
+      "to": "7a.1"
+     },
+     "gist": "Rav Chananya supports Rabba: every *safek bekhor* enters the pen for *ma'aser behemah* (the tithe of a year's newborn animals), which could not be if a seizing kohen could keep it. Abaye first limits the case to 9 animals and the doubtful one, then retracts: a doubtful animal can't be tithed, since the Torah requires *asiri vadai* (a certain tenth). The proof stands.",
+     "bullets": [],
+     "illustration": {
+      "title": "9 animals and a doubtful one vs. a counted animal that jumps back",
+      "caption": "Abaye's suggestion (6b.7) and the Mishnah he retracts from (6b.8): since the Torah wants a certain tenth (7a.1), doubt exempts the whole flock, so a doubtful animal can't be tithed.",
+      "svg": "<svg viewBox='0 0 900 460' xmlns='http://www.w3.org/2000/svg' role='img' font-family='Public Sans, system-ui, sans-serif' fill='#1A1F2E'><title>Left: ten lambs, nine the owner's and one circled as doubtful. Right: a pen of uncounted lambs, three counted lambs outside, and the third jumping back into the pen.</title><rect width='900' height='460' fill='#FBF8F1'/><rect x='15' y='14' width='425' height='400' rx='14' fill='#F3E6D8'/><rect x='460' y='14' width='425' height='400' rx='14' fill='#E3EAF3'/><text x='227' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600'>Abaye at first: 9 and the doubtful one</text><text x='227' y='68' text-anchor='middle' font-size='13' fill='#5B6478'>Whichever way you look at it</text><text x='672' y='46' text-anchor='middle' font-family='Newsreader, Georgia, serif' font-size='19' font-weight='600'>A counted animal jumps back</text><text x='672' y='68' text-anchor='middle' font-size='13' fill='#5B6478'>The Mishnah in Bekhorot</text><use href='#lamb' x='45' y='100' width='56' height='39'/><use href='#lamb' x='125' y='100' width='56' height='39'/><use href='#lamb' x='205' y='100' width='56' height='39'/><use href='#lamb' x='285' y='100' width='56' height='39'/><use href='#lamb' x='365' y='100' width='56' height='39'/><use href='#lamb' x='45' y='160' width='56' height='39'/><use href='#lamb' x='125' y='160' width='56' height='39'/><use href='#lamb' x='205' y='160' width='56' height='39'/><use href='#lamb' x='285' y='160' width='56' height='39'/><use href='#lamb' x='365' y='160' width='56' height='39'/><ellipse cx='393' cy='180' rx='42' ry='30' fill='none' stroke='#1B3A8A' stroke-width='2' stroke-dasharray='6 4'/><text x='193' y='230' text-anchor='middle' font-size='13' fill='#5B6478'>9 of his own</text><text x='393' y='230' text-anchor='middle' font-size='13' font-weight='600' fill='#1B3A8A'>doubtful</text><text x='35' y='262' font-size='14'>If it is his: 10 animals, and he tithes</text><text x='35' y='284' font-size='14'>If it is the kohen’s: 9, and nothing is owed</text><text x='35' y='322' font-size='14.5' font-weight='700'>Abaye retracts: a doubtful animal</text><text x='35' y='342' font-size='14.5' font-weight='700'>cannot be tithed at all</text><rect x='480' y='110' width='170' height='150' rx='6' fill='#E9DFC9' stroke='#8A6A44' stroke-width='3'/><rect x='645' y='160' width='10' height='60' fill='#E3EAF3'/><use href='#lamb' x='488' y='124' width='60' height='42'/><use href='#lamb' x='568' y='130' width='60' height='42'/><use href='#lamb' x='492' y='192' width='60' height='42'/><use href='#lamb' x='572' y='198' width='60' height='42'/><use href='#lamb' x='680' y='172' width='60' height='42'/><use href='#lamb' x='750' y='172' width='60' height='42'/><use href='#lamb' x='820' y='172' width='60' height='42'/><text x='710' y='232' text-anchor='middle' font-size='13' font-weight='600' fill='#5A4A3A'>1</text><text x='780' y='232' text-anchor='middle' font-size='13' font-weight='600' fill='#5A4A3A'>2</text><text x='850' y='232' text-anchor='middle' font-size='13' font-weight='600' fill='#5A4A3A'>3</text><text x='780' y='252' text-anchor='middle' font-size='13' fill='#5B6478'>counted</text><text x='565' y='282' text-anchor='middle' font-size='13' fill='#5B6478'>not yet counted</text><path d='M845 170 Q745 80 636 110' fill='none' stroke='#8A6A44' stroke-width='2.5'/><polygon points='628,112 642,102 644,115' fill='#8A6A44'/><text x='745' y='148' text-anchor='middle' font-size='13' fill='#5B6478'>jumps back in</text><use href='#badge-exempt' x='480' y='304' width='26' height='26'/><text x='514' y='322' font-size='15' font-weight='700' fill='#1B3A8A'>All are exempt from the tithe</text><text x='514' y='344' font-size='13' fill='#5B6478'><tspan font-style='italic'>Asiri vadai</tspan>: the Torah wants a certain</text><text x='514' y='362' font-size='13' fill='#5B6478'>tenth, not a doubtful one</text><text x='450' y='440' text-anchor='middle' font-size='12.5' fill='#5B6478'>Abaye (6b.7–8); the reason, a certain tenth, is given on 7a.1</text></svg>"
+     },
+     "children": [
+      {
+       "id": "s23",
+       "title": "Rav Chananya: Every *Safek Bekhor* Enters the Tithing Pen",
+       "amud": "6b",
+       "text": {
+        "from": "6b.5",
+        "to": "6b.6"
+       },
+       "gist": "A baraita has every *safek bekhor* enter the pen with the other newborns to be tithed. Rav Chananya argues that if a kohen who seized it could keep it, the owner would be exempting his flock with the kohen's property.",
+       "bullets": [
+        {
+         "text": "Baraita: animals whose firstborn status is uncertain enter the pen to be tithed with the rest of the young, though a firstborn is not subject to *ma'aser behemah*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rav Chananya to Rabba: if a seizing kohen could keep it, the animal might be the kohen's, and the owner would be exempting his own animals with the kohen's property. One must tithe from one's own flock.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "In *ma'aser behemah* the year's newborns pass one by one through a gate, and every tenth is marked as holy.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s24",
+       "title": "Abaye: Only Where He Has 9 Animals and the Doubtful One",
+       "amud": "6b",
+       "text": {
+        "from": "6b.7",
+        "to": "6b.7"
+       },
+       "gist": "Abaye answers that the baraita may speak of an owner with only 9 animals and the doubtful one. Whichever way you look at it, the tithe is sound: if the doubtful one is his, he has 10 and tithes properly; if it is the kohen's, he has 9 and owes nothing.",
+       "bullets": [
+        {
+         "text": "Abaye: the baraita may mean an owner who has 9 animals plus the doubtful one.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "If it isn't a firstborn, it is his, the 10 are subject to the tithe, and he tithes properly. If it is a firstborn, it is the kohen's, and 9 animals owe no tithe at all. Either way he exempts nothing with another's property.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "With 11 or more this would fail: he would already owe a tithe from his own 10, and if the doubtful one came out tenth, he might be exempting them with the kohen's animal.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      },
+      {
+       "id": "s25",
+       "title": "Abaye Retracts: *Asiri Vadai* and the Animal That Jumps Back",
+       "amud": "6b → 7a",
+       "text": {
+        "from": "6b.8",
+        "to": "7a.1"
+       },
+       "gist": "Abaye retracts, from the Mishnah of a counted animal that jumps back into the pen: all are exempt, though counting on would work either way through *minyan ha'ra'uy* (a count fit to reach 10). The reason is that the Torah requires *asiri vadai*, not a doubtful tenth. So a doubtful animal can't be tithed, and the baraita proves that a seizing kohen is removed.",
+       "bullets": [
+        {
+         "text": "Abaye: what I said is wrong, since a doubtful animal is not subject to tithing. Mishnah (Bekhorot 58b): if a counted animal jumps back into the pen among the uncounted ones, all are exempt from the tithe, since any of them may be the one already counted.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "If doubtful animals were tithed, the owner could simply count on. If the next 10 don't include the counted one, the tenth is a proper tithe. If they do, the other 9 are exempt anyway by *minyan ha'ra'uy*.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Rava: *minyan ha'ra'uy* exempts. Animals counted while the tally could still reach 10 are free of the tithe even if it falls short, as when one of them dies.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "Why, then, are all exempt? The Torah says “the tenth shall be holy” (Vayikra 27:32): a certain tenth, not a doubtful one. So too, 9 animals and a doubtful one are exempt, since the tenth would not be certain.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So when the baraita has a *safek bekhor* enter the pen, it must be certainly the owner's. That proves a kohen who seizes it is removed, as Rabba held.",
+         "detail": 2,
+         "source": "gemara"
+        },
+        {
+         "text": "So *hamotzi me'chavero alav ha'ra'ayah* is a real ruling of ownership, not a holding pattern in which whoever grabs the animal keeps it.",
+         "detail": 3,
+         "source": "shiur"
+        }
+       ],
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "key_terms": [
+  {
+   "term": "takanat chakhamim",
+   "hebrew": "תקנת חכמים",
+   "sense": "a rabbinic enactment",
+   "definition": "A rule instituted by the Sages to improve or protect society, beyond what Torah law itself requires.",
+   "on_this_daf": "R. Yochanan explains the garment oath as a *takanat chakhamim*, meant to deter people from seizing another's garment and claiming it.",
+   "aliases": [
+    "Takanat Chakhamim",
+    "takanat chakhamim"
+   ],
+   "sections": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "term": "migo de'chashid amamona chashid ashvuata",
+   "hebrew": "מיגו דחשיד אממונא חשיד אשבועתא",
+   "sense": "whether suspicion about money extends to oaths",
+   "definition": "The argument that one suspected of monetary dishonesty should also be suspected of swearing falsely, so his oath would be worthless.",
+   "on_this_daf": "The Gemara concludes that we don't say it, testing it against six oaths the law gives to people suspected about money.",
+   "aliases": [
+    "Migo de'Chashid Amamona Chashid Ashvuata",
+    "migo de'chashid amamona chashid ashvuata"
+   ],
+   "sections": [
+    "s1",
+    "s3",
+    "s8"
+   ]
+  },
+  {
+   "term": "modeh be'miktzat",
+   "hebrew": "מודה במקצת",
+   "sense": "admission to part of a monetary claim",
+   "definition": "A defendant who admits part of a monetary claim and denies the rest. By Torah law he pays what he admits and swears that he doesn't owe the rest.",
+   "on_this_daf": "The Gemara's attempt to prove from his oath that money liars may swear is rejected, since he is only buying time.",
+   "aliases": [
+    "Modeh be'Miktzat",
+    "Modeh be'miktzat",
+    "modeh be'miktzat"
+   ],
+   "sections": [
+    "s2",
+    "s3",
+    "s4"
+   ]
+  },
+  {
+   "term": "pikadon",
+   "hebrew": "פיקדון",
+   "sense": "a deposit held by a bailee",
+   "definition": "An object entrusted to another for safekeeping, which he may not use and must return.",
+   "on_this_daf": "One caught denying a *pikadon* is disqualified as a witness, unlike one who denies a loan, but only where it is clear he knew he had it.",
+   "aliases": [
+    "Pikadon",
+    "pikadon"
+   ],
+   "sections": [
+    "s3",
+    "s5",
+    "s6"
+   ]
+  },
+  {
+   "term": "hamotzi me'chavero alav ha'ra'ayah",
+   "hebrew": "המוציא מחבירו עליו הראיה",
+   "sense": "the burden of proof in a monetary dispute",
+   "definition": "The rule that one who seeks to take property from another's possession must bring proof; without it, the property stays where it is.",
+   "on_this_daf": "It governs one who holds the garment alone and the *safek bekhor* in the owner's hands; the *ma'aser* proof shows it is a real ruling of ownership.",
+   "aliases": [
+    "hamotzi me'chavero alav ha'ra'ayah"
+   ],
+   "sections": [
+    "s14",
+    "s20",
+    "s25"
+   ]
+  },
+  {
+   "term": "hekdesh",
+   "hebrew": "הקדש",
+   "sense": "consecration to the Temple",
+   "definition": "Property consecrated to the Temple treasury, which may no longer be used for ordinary purposes; misusing it is *me'ilah*.",
+   "on_this_daf": "The Gemara asks whether a claimant can declare *hekdesh* a disputed item he isn't holding, as in the bathhouse incident.",
+   "aliases": [
+    "Hekdesh",
+    "hekdesh"
+   ],
+   "sections": [
+    "s17",
+    "s18",
+    "s19",
+    "s20",
+    "s21"
+   ]
+  },
+  {
+   "term": "amirato le'gavoha ki'mesirato le'hedyot",
+   "hebrew": "אמירתו לגבוה כמסירתו להדיוט",
+   "sense": "a verbal declaration to the Temple as a transfer",
+   "definition": "The principle that a verbal declaration consecrating something to the Temple has the force that a formal act of transfer has between ordinary people.",
+   "on_this_daf": "It is the reason to think a claimant's declaration of *hekdesh* might count as seizing the disputed garment.",
+   "aliases": [
+    "amirato le'gavoha ki'mesirato le'hedyot"
+   ],
+   "sections": [
+    "s18"
+   ]
+  },
+  {
+   "term": "safek bekhor",
+   "hebrew": "ספק בכור",
+   "sense": "an animal or child that may be a firstborn",
+   "definition": "A firstborn whose status is uncertain. The kohen can't claim it without proof, but its possible sanctity still restricts its use.",
+   "on_this_daf": "Rav Hamnuna and Rabba dispute whether a kohen who seizes a *safek bekhor* keeps it, and the *ma'aser* proof decides it.",
+   "aliases": [
+    "Safek Bekhor",
+    "safek bekhor"
+   ],
+   "sections": [
+    "s17",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s25"
+   ]
+  },
+  {
+   "term": "kedushah ba'ah me'eileha",
+   "hebrew": "קדושה הבאה מאליה",
+   "sense": "sanctity that arises by itself",
+   "definition": "Sanctity that takes effect without anyone's act of consecration, such as a firstborn animal's, which is holy from birth.",
+   "on_this_daf": "Rabba uses it to explain why a *safek bekhor* may not be shorn even though the kohen can't take it.",
+   "aliases": [
+    "Kedushah Ba'ah me'Eileha",
+    "Kedushah ba'ah me'eileha",
+    "kedushah ba'ah me'eileha"
+   ],
+   "sections": [
+    "s21"
+   ]
+  },
+  {
+   "term": "ma'aser behemah",
+   "hebrew": "מעשר בהמה",
+   "sense": "the animal tithe",
+   "definition": "The tithe of a year's newborn kosher animals: they pass one by one under the rod, and every tenth is holy.",
+   "on_this_daf": "A *safek bekhor* entering the pen proves it is certainly the owner's, so a seizing kohen is removed.",
+   "aliases": [
+    "Ma'aser Behemah",
+    "ma'aser behemah"
+   ],
+   "sections": [
+    "s17",
+    "s22",
+    "s23"
+   ]
+  },
+  {
+   "term": "minyan ha'ra'uy",
+   "hebrew": "מנין הראוי",
+   "sense": "a count fit to reach ten",
+   "definition": "Animals counted for the tithe while the count could still reach ten are exempt from the tithe, even if the count is cut short.",
+   "on_this_daf": "It would make counting on after an animal jumps back work either way, which shows that the exemption there must rest on the need for a certain tenth.",
+   "aliases": [
+    "minyan ha'ra'uy"
+   ],
+   "sections": [
+    "s25"
+   ]
+  },
+  {
+   "term": "asiri vadai",
+   "hebrew": "עשירי ודאי",
+   "sense": "a certain tenth in the animal tithe",
+   "definition": "The rule that only an animal that is certainly the tenth, and certainly subject to the tithe, becomes the tithe; a doubtful tenth does not.",
+   "on_this_daf": "It explains why a flock with a counted animal mixed back in is exempt, and why a doubtful animal can't join the tithe.",
+   "aliases": [
+    "Asiri Vadai",
+    "asiri vadai"
+   ],
+   "sections": [
+    "s22",
+    "s25"
+   ]
+  }
+ ],
+ "sages": [
+  {
+   "id": "rabbi-yochanan-b-napacha",
+   "name": "R. Yochanan",
+   "hebrew": "רבי יוחנן",
+   "sections": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "id": "rabbah-b-nachmani",
+   "name": "Rabba",
+   "hebrew": "רבה",
+   "sections": [
+    "s3",
+    "s4",
+    "s17",
+    "s19",
+    "s20",
+    "s21",
+    "s22",
+    "s23",
+    "s25"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Idi bar Avin",
+   "full_name": "Rav Idi bar Avin",
+   "hebrew": "רב אידי בר אבין",
+   "sections": [
+    "s5"
+   ]
+  },
+  {
+   "id": "rav-chisda",
+   "name": "Rav Chisda",
+   "hebrew": "רב חסדא",
+   "sections": [
+    "s5",
+    "s19"
+   ]
+  },
+  {
+   "id": "rami-b-hama",
+   "name": "Rami bar Chama",
+   "hebrew": "רמי בר חמא",
+   "sections": [
+    "s6"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Huna",
+   "full_name": "Rav Huna",
+   "hebrew": "רב הונא",
+   "sections": [
+    "s3",
+    "s7"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Acha of Difti",
+   "full_name": "Rav Acha of Difti",
+   "hebrew": "רב אחא מדיפתי",
+   "sections": [
+    "s7",
+    "s17"
+   ]
+  },
+  {
+   "id": "ravina-(i)",
+   "name": "Ravina",
+   "hebrew": "רבינא",
+   "sections": [
+    "s7"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Nachman",
+   "full_name": "Rav Nachman bar Yaakov",
+   "hebrew": "רב נחמן",
+   "sections": [
+    "s3",
+    "s8",
+    "s12",
+    "s14",
+    "s17"
+   ]
+  },
+  {
+   "id": "rabbi-chiyya",
+   "name": "R. Chiyya",
+   "hebrew": "רבי חייא",
+   "sections": [
+    "s8"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Sheshet",
+   "full_name": "Rav Sheshet",
+   "hebrew": "רב ששת",
+   "sections": [
+    "s3",
+    "s8"
+   ]
+  },
+  {
+   "id": "abaye",
+   "name": "Abaye",
+   "hebrew": "אביי",
+   "sections": [
+    "s1",
+    "s9",
+    "s10",
+    "s17",
+    "s22",
+    "s24",
+    "s25"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Sheshet son of Rav Idi",
+   "full_name": "Rav Sheshet son of Rav Idi",
+   "hebrew": "רב ששת בריה דרב אידי",
+   "sections": [
+    "s9",
+    "s11"
+   ]
+  },
+  {
+   "id": "rav-zera",
+   "name": "R. Zeira",
+   "hebrew": "רבי זירא",
+   "sections": [
+    "s12",
+    "s13",
+    "s14",
+    "s18"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Sumakhos",
+   "full_name": "Sumakhos",
+   "hebrew": "סומכוס",
+   "sections": [
+    "s14",
+    "s16"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Chananya",
+   "full_name": "Rav Chananya, colleague of Rav Oshaya",
+   "hebrew": "רב חננא",
+   "sections": [
+    "s17",
+    "s19",
+    "s22",
+    "s23"
+   ]
+  },
+  {
+   "id": null,
+   "name": "Rav Oshaya",
+   "full_name": "Rav Oshaya (amora, colleague of Rav Chananya)",
+   "hebrew": "רב אושעיא",
+   "sections": [
+    "s19"
+   ]
+  },
+  {
+   "id": "rav-hamnuna-(ii)",
+   "name": "Rav Hamnuna",
+   "hebrew": "רב המנונא",
+   "sections": [
+    "s17",
+    "s20",
+    "s21"
+   ]
+  },
+  {
+   "id": "rava",
+   "name": "Rava",
+   "hebrew": "רבא",
+   "sections": [
+    "s25"
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "A man may be grabbing another's garment and lying in court that it is his. Why may the court still have him swear?",
+   "options": [
+    "We don't say *migo de'chashid amamona chashid ashvuata*: even one who steals treats a false oath as more severe",
+    "Grabbing a garment is only rabbinic theft, so he is not suspect at all",
+    "His oath is accepted only if he has no prior record of theft",
+    "The other claimant swears instead, so his own oath doesn't matter"
+   ],
+   "why": "Suspicion about money doesn't carry over to oaths; the Gemara concludes this from a series of oaths the law gives to people suspected about money.",
+   "line": "5b.10"
+  },
+  {
+   "q": "Witnesses contradict one man who denied receiving a loan, and another who denied receiving a *pikadon*. Which may still testify in other cases?",
+   "options": [
+    "The one who denied the loan, since he has presumably spent it and is only stalling",
+    "The one who denied the *pikadon*, since a deposit may have been lost",
+    "Both, since neither has sworn falsely",
+    "Neither, since both were caught lying in court"
+   ],
+   "why": "A loan is meant to be spent, so denying it suggests stalling; a deposit may not be used, so denying it suggests he took it.",
+   "line": "5b.12"
+  },
+  {
+   "q": "A bailee says the deposit was lost and offers to pay for it. Rav Huna has him swear that it isn't in his possession. Why is his oath trusted, though he may have kept it?",
+   "options": [
+    "He can tell himself that since he is paying, he has done nothing wrong; people take *lo tachmod* to forbid only taking without paying",
+    "Paying for a deposit is permitted, so there is nothing to suspect",
+    "He is trusted because he hasn't yet been contradicted by witnesses",
+    "The oath is only a formality, and the court doesn't rely on it"
+   ],
+   "why": "Even if he kept the item, he doesn't see himself as a robber, since he compensated the owner.",
+   "line": "5b.20"
+  },
+  {
+   "q": "A man isn't sure whether the plaintiff owes him an old loan, and holds on to the plaintiff's item just in case. Why would he refuse to swear that the item is his?",
+   "options": [
+    "People shrink from a doubtful oath but not from doubtful money, since money can be returned and an oath can't be retracted",
+    "An oath on a doubt is invalid by Torah law",
+    "He would have to pay the plaintiff first",
+    "Swearing would make him a *kafran*"
+   ],
+   "why": "Rav Sheshet son of Rav Idi: if the seizure proves wrong he can give it back, but a false oath can never be undone.",
+   "line": "6a.9"
+  },
+  {
+   "q": "Two litigants hold a garment in court, and one pulls it entirely from the other, who says nothing at all. How does the Gemara treat his silence?",
+   "options": [
+    "As an admission that the garment belongs to the one who took it",
+    "As meaningless, since the judges saw the seizure",
+    "As a refusal to swear, so he must pay",
+    "As grounds to set the garment aside until the truth is known"
+   ],
+   "why": "Silence concedes the seizer's ownership; R. Zeira's question is only about one who was silent at first and protested later.",
+   "line": "6a.11"
+  },
+  {
+   "q": "One man holds a garment and the other holds only its edge. What does the baraita rule, even according to Sumakhos?",
+   "options": [
+    "Holding the edge counts for nothing, so the one holding the edge must bring proof",
+    "They divide it without an oath, as Sumakhos rules for doubtful property",
+    "They divide it, each with an oath",
+    "The garment is set aside until the truth is known"
+   ],
+   "why": "Even Sumakhos agrees that holding the edge doesn't make the ownership doubtful.",
+   "line": "6a.15"
+  },
+  {
+   "q": "A kohen seizes an animal that may or may not be a firstborn. According to Rabba, what happens, and may the owner shear it?",
+   "options": [
+    "It is taken back from the kohen, but the owner may not shear or work it, since a firstborn's sanctity comes of itself",
+    "The kohen keeps it, so the owner never faces the question",
+    "It is taken back, and the owner may shear it freely",
+    "The kohen keeps it, but must pay the owner its value"
+   ],
+   "why": "Ownership by force counts for nothing, yet *kedushah ba'ah me'eileha*: the doubt about sanctity lies in the animal itself.",
+   "line": "6b.4"
+  },
+  {
+   "q": "During tithing, an animal already counted jumps back into the pen among the uncounted ones. What happens to the animals in the pen, and why?",
+   "options": [
+    "All are exempt, since the Torah requires a certain tenth, not a doubtful one",
+    "The owner counts on, since *minyan ha'ra'uy* covers him either way",
+    "He must count them all again from the start",
+    "He brings the next animal out as a doubtful tithe"
+   ],
+   "why": "Counting on would work either way, but the Torah's “the tenth shall be holy” means *asiri vadai*, so doubt exempts them all.",
+   "line": "7a.1"
+  }
+ ],
+ "judgment_calls": [
+  "Abaye's view (6a.5–9) is a sibling of the six oaths section under s1 rather than its child: it reinterprets the whole set of oaths and develops its own two-step exchange.",
+  "The last three oaths (6a.1–3) and the conclusion (6a.4) are one section (s8) rather than three, since the Gemara raises them in a single breath and answers them together.",
+  "The *hekdesh* question (6a.16–18) is a top-level section of its own rather than a child of R. Zeira's question: it is framed as a consequence of R. Zeira's question, but it opens the bathhouse and *safek bekhor* sugya with a question of its own, which runs to the end of the daf.",
+  "Rav Chananya's *ma'aser* proof and Abaye's challenge are nested under the *hekdesh* section (s22), since they test Rabba's answer to Rav Hamnuna, not a new question.",
+  "The *safek bekhor* illustration is placed on Rav Hamnuna's section (s20), where the debate begins, though it also shows Rabba's ruling in s21.",
+  "s25 runs into 7a.1 to include the Gemara's answer (a certain tenth), which completes Abaye's retraction and the proof for Rabba."
+ ],
+ "coverage_notes": [
+  "The essay names the sage who supports Rabba from *ma'aser behemah*, and one who kept away from the bathhouse, \"Rabbi Chanina\" or \"Rav Chanina\"; the text has Rav Chananya. Followed the text.",
+  "The essay says Rav Nachman's *shevuat heset* concerns a *shomeret*; the text concerns one who denies a debt entirely. Followed the text.",
+  "The essay says the Teharot Mishnah itself rules that a kohen who grabs the animal must return it; the text's Mishnah says only that the burden of proof is on the claimant, Rav Hamnuna infers that a seizing kohen would keep it, and Rabba holds that he is removed. Followed the text.",
+  "The essay attributes the theory that the ban on shearing derives from the kohen's latent power to seize to \"the gemara\"; the text attributes it to Rav Hamnuna. Followed the text.",
+  "The essay describes the doubtful animals in the tithing pen as lambs that redeem a doubtful firstborn donkey; on this daf the text speaks of animals whose firstborn status is uncertain, and the redemption-lamb reading comes only at 7a.2–3, outside scope. Followed the text.",
+  "The essay calls Rav Oshaya \"Rabbi Oshaya\" and the town \"Kafri\"; the text has Rav Oshaya and Kafrei. Followed the text.",
+  "The sage list mapped רב אושעיא to the tanna R. Oshaya; here he is an amora, colleague of Rav Chananya, so his id is left null.",
+  "The shiur's remarks tying Rav Sheshet son of Rav Idi's point to Rosh Hashanah and to interpersonal speech are left out.",
+  "Material from 7a.2 onward (Rav Acha of Difti's question, Rav Nachman's ruling on the bathhouse) lies outside this daf's scope and is noted only in `continues`."
+ ],
+ "runners_up": {
+  "charts": [
+   {
+    "section": "s22",
+    "subject": "Rav Chananya, Abaye at first, and Abaye retracting, on what the doubtful animals in the pen prove",
+    "why_not": "The illustration shows the two decisive cases; a grid would repeat the bullets step by step."
+   },
+   {
+    "section": "s18",
+    "subject": "The two sides of whether declaring *hekdesh* counts as seizing",
+    "why_not": "Only two positions with one reason each; the bullets carry them clearly."
+   },
+   {
+    "section": "s9",
+    "subject": "The Gemara vs. Abaye on why the oath works",
+    "why_not": "Two rows with a single column of content; a shiur bullet states the contrast."
+   }
+  ],
+  "illustrations": [
+   {
+    "section": "s6",
+    "subject": "The bailee hoping to find the thief or the lost item in the marsh",
+    "why_not": "A thought rather than a case with parties or an outcome; the old-loan picture already shows a rationalization."
+   },
+   {
+    "section": "s5",
+    "subject": "Denying a loan vs. denying a deposit before witnesses",
+    "why_not": "The point is about later witness status, which a scene can't show well; the chart and bullets carry it."
+   },
+   {
+    "section": "s7",
+    "subject": "The bailee who pays instead of returning the item",
+    "why_not": "Would repeat the theme of the seizing-on-a-doubt picture without a new arrangement of parties."
+   }
+  ]
+ },
+ "tag_questions": [
+  {
+   "section": "s13",
+   "cell": "Silent at first, then shouts / Result: R. Zeira's question, left open",
+   "note": "An unresolved question is not an outcome; `holds` doesn't fit, since the court sets nothing aside. Left null."
+  }
+ ],
+ "daf_summary": {
+  "summary": "Discussion of: why the garment oath works on someone who may be grabbing (we don't say *migo de'chashid amamona chashid ashvuata*, tested on six oaths; Abaye: he may doubt whether he is owed an old loan, and money can be returned but an oath can't); R. Zeira's question of one who pulls the garment away in court, left open; and whether a claimant can declare *hekdesh* what he isn't holding, which leads to the bathhouse, Rav Hamnuna vs. Rabba on a kohen who seizes a *safek bekhor*, and Rav Chananya's proof from *ma'aser behemah*.",
+  "takeaways": [
+   {
+    "text": "The garment oath is a *takanat chakhamim* against seizing, and it works even on a would-be thief, because we don't say *migo de'chashid amamona chashid ashvuata*: people treat a false oath as graver than taking money.",
+    "sections": [
+     "s2",
+     "s3",
+     "s8"
+    ]
+   },
+   {
+    "text": "Abaye explains such oaths by a claimant unsure whether he is owed an old loan: he will seize on that doubt, since money can be returned, but won't swear on it, since an oath can't be retracted.",
+    "sections": [
+     "s10",
+     "s11"
+    ]
+   },
+   {
+    "text": "A litigant who stays silent when the garment is pulled from him in court has conceded it; one who protests at once loses nothing. One who was silent and protested later is left as an open question.",
+    "sections": [
+     "s13"
+    ]
+   },
+   {
+    "text": "A kohen who seizes a *safek bekhor* must return it, so the owner owns it outright; yet he may not shear or work it, because a firstborn's sanctity comes of itself, whoever owns it.",
+    "sections": [
+     "s21",
+     "s25"
+    ]
+   },
+   {
+    "text": "Only a certain tenth becomes *ma'aser behemah*, so a doubtful animal can't join the tithe, and a counted animal mixed back into the pen exempts them all.",
+    "sections": [
+     "s25"
+    ]
+   }
+  ],
+  "debates": [
+   {
+    "question": "Why can an oath be given to someone who may be lying about money?",
+    "sides": [
+     {
+      "who": "The Gemara",
+      "view": "We don't say *migo de'chashid amamona chashid ashvuata*: even a thief fears a false oath"
+     },
+     {
+      "who": "Abaye",
+      "view": "He may doubt whether he is owed an old loan, and people seize on a doubt but won't swear on one"
+     }
+    ],
+    "outcome": "Both lead to the same oaths in practice; Rav Sheshet son of Rav Idi supports Abaye's reading against the Gemara's objection.",
+    "sections": [
+     "s3",
+     "s8",
+     "s9"
+    ]
+   },
+   {
+    "question": "When the garment is pulled away in court and the other was silent at first but protested later, does the seizer keep it?",
+    "sides": [
+     {
+      "who": "One possibility",
+      "view": "His silence was an admission, and his later protest is regret"
+     },
+     {
+      "who": "The other possibility",
+      "view": "He kept quiet because the judges saw the seizure, so it changes nothing"
+     }
+    ],
+    "outcome": "Left unresolved; Rav Nachman's baraita is read as two other cases.",
+    "sections": [
+     "s13",
+     "s14"
+    ]
+   },
+   {
+    "question": "Does a kohen who seizes a *safek bekhor* keep it?",
+    "sides": [
+     {
+      "who": "Rav Hamnuna",
+      "view": "Yes, so the animal counts as seized and holy, and an unseized *hekdesh* takes effect too"
+     },
+     {
+      "who": "Rabba",
+      "view": "No, it is taken back; shearing is forbidden because a firstborn's sanctity comes of itself"
+     }
+    ],
+    "outcome": "Rav Chananya's proof from *ma'aser behemah* stands after Abaye's retraction, supporting Rabba.",
+    "sections": [
+     "s20",
+     "s21",
+     "s22"
+    ]
+   }
+  ],
+  "key_terms": [
+   "migo de'chashid amamona chashid ashvuata",
+   "hekdesh",
+   "safek bekhor",
+   "kedushah ba'ah me'eileha",
+   "asiri vadai"
+  ]
+ }
+}

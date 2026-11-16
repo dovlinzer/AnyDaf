@@ -1,0 +1,112 @@
+72 requests, 246 charts, 232,727 prompt chars (+ 2,824 system) with claude-sonnet-5 (effort medium)
+Submitted batch msgbatch_01NfF7jknw2hQ9vp7ac8V5cq
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  in_progress: succeeded=0 processing=72 errored=0
+  ended: succeeded=72 processing=0 errored=0
+usage: in 97,882 cache_write 1,025 cache_read 72,775 out 103,691  ~$0.94
+  bava_batra_84    opus55         1/3 charts tagged, 2 questions
+  bava_metzia_10   opus55_high    2/4 charts tagged, 0 questions
+  bava_metzia_10   opus55_medium  1/4 charts tagged, 0 questions
+      ! s1: tags don't fit the chart ([[None, None, None, None], [None, 'acquires', None, None], [None, 'not-acquired', None, None], [None, 'acquires', None, None]])
+  bava_metzia_11   opus55         1/2 charts tagged, 4 questions
+  bava_metzia_11   opus55_high    4/4 charts tagged, 1 questions
+  bava_metzia_11   opus55_medium  3/4 charts tagged, 7 questions
+  bava_metzia_2    opus55_high    2/3 charts tagged, 0 questions
+  bava_metzia_2    opus55_medium  2/3 charts tagged, 0 questions
+  bava_metzia_3    opus55_high    2/3 charts tagged, 0 questions
+  bava_metzia_3    opus55_medium  3/3 charts tagged, 3 questions
+  bava_metzia_4    opus55_high    3/3 charts tagged, 0 questions
+  bava_metzia_4    opus55_medium  3/3 charts tagged, 0 questions
+  bava_metzia_5    opus55_high    3/3 charts tagged, 0 questions
+  bava_metzia_5    opus55_medium  3/4 charts tagged, 2 questions
+  bava_metzia_6    opus55_high    3/3 charts tagged, 0 questions
+  bava_metzia_6    opus55_medium  1/3 charts tagged, 0 questions
+  bava_metzia_7    opus55_high    3/4 charts tagged, 3 questions
+  bava_metzia_7    opus55_medium  4/4 charts tagged, 2 questions
+  bava_metzia_8    opus55_high    2/4 charts tagged, 2 questions
+  bava_metzia_8    opus55_medium  2/4 charts tagged, 4 questions
+  bava_metzia_9    opus55_high    4/4 charts tagged, 0 questions
+  bava_metzia_9    opus55_medium  4/4 charts tagged, 0 questions
+  bekhorot_10      opus55_high    1/3 charts tagged, 0 questions
+  bekhorot_10      opus55_medium  2/4 charts tagged, 6 questions
+  bekhorot_11      opus55_high    1/4 charts tagged, 8 questions
+  bekhorot_11      opus55_medium  3/4 charts tagged, 0 questions
+  bekhorot_12      opus55_high    3/4 charts tagged, 0 questions
+  bekhorot_12      opus55_medium  2/3 charts tagged, 1 questions
+  bekhorot_13      opus55_high    2/5 charts tagged, 1 questions
+  bekhorot_13      opus55_medium  2/5 charts tagged, 2 questions
+  bekhorot_14      opus55_high    1/3 charts tagged, 4 questions
+  bekhorot_14      opus55_medium  2/3 charts tagged, 5 questions
+  bekhorot_15      opus55_high    1/3 charts tagged, 2 questions
+  bekhorot_15      opus55_medium  2/4 charts tagged, 0 questions
+  bekhorot_16      opus55_high    1/4 charts tagged, 5 questions
+  bekhorot_16      opus55_medium  1/3 charts tagged, 1 questions
+  bekhorot_17      opus55_high    3/4 charts tagged, 0 questions
+  bekhorot_17      opus55_medium  2/4 charts tagged, 2 questions
+  bekhorot_18      opus55_high    2/4 charts tagged, 0 questions
+  bekhorot_18      opus55_medium  3/4 charts tagged, 2 questions
+  bekhorot_19      opus55_high    1/3 charts tagged, 0 questions
+  bekhorot_19      opus55_medium  1/2 charts tagged, 0 questions
+  berakhot_31b     opus55         0/3 charts tagged, 0 questions
+  gittin_18        opus55         2/4 charts tagged, 0 questions
+  hullin_88        opus55         2/2 charts tagged, 1 questions
+  kiddushin_10     opus55_high    2/4 charts tagged, 4 questions
+  kiddushin_10     opus55_medium  0/4 charts tagged, 0 questions
+  kiddushin_11     opus55_high    0/2 charts tagged, 0 questions
+  kiddushin_11     opus55_medium  0/3 charts tagged, 0 questions
+  kiddushin_12     opus55_high    2/4 charts tagged, 1 questions
+  kiddushin_12     opus55_medium  1/4 charts tagged, 9 questions
+  kiddushin_2      opus55_high    0/3 charts tagged, 0 questions
+  kiddushin_2      opus55_medium  0/3 charts tagged, 0 questions
+  kiddushin_3      opus55_high    1/3 charts tagged, 0 questions
+  kiddushin_3      opus55_medium  2/3 charts tagged, 0 questions
+  kiddushin_4      opus55_high    0/4 charts tagged, 3 questions
+  kiddushin_4      opus55_medium  0/3 charts tagged, 0 questions
+  kiddushin_5      opus55_high    2/5 charts tagged, 1 questions
+  kiddushin_5      opus55_medium  2/4 charts tagged, 1 questions
+  kiddushin_6      opus55_high    3/3 charts tagged, 0 questions
+  kiddushin_6      opus55_medium  4/4 charts tagged, 2 questions
+  kiddushin_7      opus55_high    2/4 charts tagged, 0 questions
+  kiddushin_7      opus55_medium  3/3 charts tagged, 6 questions
+  kiddushin_8      opus55_high    3/4 charts tagged, 2 questions
+  kiddushin_8      opus55_medium  2/3 charts tagged, 2 questions
+  kiddushin_9      opus55_high    1/3 charts tagged, 6 questions
+  kiddushin_9      opus55_medium  2/3 charts tagged, 0 questions
+  niddah_60        opus55         3/4 charts tagged, 4 questions
+  sanhedrin_6b     opus55         0/1 charts tagged, 0 questions
+  shabbat_21       opus55         0/2 charts tagged, 0 questions
+  shabbat_38       opus55         3/3 charts tagged, 0 questions
+  yevamot_33       opus55         0/2 charts tagged, 0 questions
+  bava_metzia_10   he             1 charts tagged (from Medium)
+  bava_metzia_11   he             3 charts tagged (from Medium)
+  bava_metzia_2    he             2 charts tagged (from Medium)
+  bava_metzia_3    he             3 charts tagged (from Medium)
+  bava_metzia_4    he             3 charts tagged (from Medium)
+  bava_metzia_5    he             3 charts tagged (from Medium)
+  bava_metzia_6    he             1 charts tagged (from Medium)
+  bava_metzia_7    he             4 charts tagged (from Medium)
+  bava_metzia_8    he             2 charts tagged (from Medium)
+  bava_metzia_9    he             4 charts tagged (from Medium)
+  kiddushin_10     he             0 charts tagged (from Medium)
+  kiddushin_11     he             0 charts tagged (from Medium)
+  kiddushin_12     he             1 charts tagged (from Medium)
+  kiddushin_2      he             0 charts tagged (from Medium)
+  kiddushin_3      he             2 charts tagged (from Medium)
+  kiddushin_4      he             0 charts tagged (from Medium)
+  kiddushin_5      he             2 charts tagged (from Medium)
+  kiddushin_6      he             4 charts tagged (from Medium)
+  kiddushin_7      he             3 charts tagged (from Medium)
+  kiddushin_8      he             2 charts tagged (from Medium)
+  kiddushin_9      he             2 charts tagged (from Medium)

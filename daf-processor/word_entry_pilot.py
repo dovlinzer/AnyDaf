@@ -85,7 +85,7 @@ def items_for(cid, meta, res, cache):
     return items, where
 
 
-def build(keys, effort, chunk, tag):
+def build(keys, effort, chunk, tag, gloss_from=None, only_gloss_diff=False):
     meta, res, cache = load()
     client = anthropic.Anthropic()
     plan = {}
@@ -100,10 +100,14 @@ def build(keys, effort, chunk, tag):
             head = [f"{t} {a}"] + [f"Line {s['n']}: {clean(s.get('he'))}\n  English: {clean(s.get('en'))}"
                                    for s in amud_lines(t, a)]
             asked = [x for x in items if x[4]]
+            if only_gloss_diff:
+                from build_word_gloss_review import toks
+                asked = [x for x in asked if x[3]["sonnet"] and x[3]["haiku"] and not (toks(x[3]["sonnet"]) & toks(x[3]["haiku"]))
+                         and x[3]["sonnet"].lower().strip() != x[3]["haiku"].lower().strip()]
             for k in range(0, len(asked), chunk):
                 text = head + ["\n# Items"]
                 for iid, n, w, gl, cands in asked[k:k + chunk]:
-                    text.append(f"\n[{iid}] line {n}: {plain(w)} = \"{gl[key]}\"\n" +
+                    text.append(f"\n[{iid}] line {n}: {plain(w)} = \"{gl[gloss_from or key]}\"\n" +
                                 "\n".join(f"  {j + 1}. {hw} — {d}" for j, (hw, d) in enumerate(cands)))
                 reqs.append({"custom_id": f"{cid}__{k // chunk}", "params": {
                     "model": model, "max_tokens": 16000, "thinking": {"type": "adaptive"},
@@ -187,7 +191,9 @@ if __name__ == "__main__":
     ap.add_argument("--effort", default="low")
     ap.add_argument("--chunk", type=int, default=10000, help="items per request")
     ap.add_argument("--tag", default="", help="suffix for this run's files, e.g. _med")
+    ap.add_argument("--gloss-from", help="give the model this model's step-1 gloss (default: its own)")
+    ap.add_argument("--only-gloss-diff", action="store_true", help="only items whose two glosses share no word")
     a = ap.parse_args()
     keys = a.models.split(",")
-    {"build": lambda: build(keys, a.effort, a.chunk, a.tag), "submit": lambda: submit(keys, a.tag),
+    {"build": lambda: build(keys, a.effort, a.chunk, a.tag, a.gloss_from, a.only_gloss_diff), "submit": lambda: submit(keys, a.tag),
      "harvest": lambda: harvest(a.tag)}[a.cmd]()

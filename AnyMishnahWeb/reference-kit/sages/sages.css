@@ -219,3 +219,12 @@
 
 .sgx-avotfold{margin:20px 0 14px}.sgx-avotsec{margin:14px 0}.sgx-avotsec>h4{margin-top:0}
 .sgx-avotsec,.sgx-avotfold{border-top:1px solid color-mix(in srgb,currentColor 20%,transparent);border-bottom:1px solid color-mix(in srgb,currentColor 20%,transparent);padding:10px 0}.sgx-avotfold>summary{cursor:pointer;font-weight:700;font-size:1em;color:#5b2fa8}.sgx-avotfold>.sgx-avot{margin-top:4px}
+
+.sgx-avotsec>h4{color:#5b2fa8}
+
+.sgx-notfold{margin:14px 0;border-top:1px solid color-mix(in srgb,currentColor 20%,transparent);border-bottom:1px solid color-mix(in srgb,currentColor 20%,transparent);padding:10px 0}
+.sgx-notfold>summary{cursor:pointer;font-weight:700;color:#5b2fa8}
+.sgx-notable{margin-top:6px;display:flex;flex-direction:column;gap:4px}
+.sgx-pass>summary{cursor:pointer;font-style:italic;padding:2px 0}
+.sgx-pass>p{margin:4px 0 8px;padding-inline-start:16px;line-height:1.5}
+.sgx-pass>p a{font-size:.9em;white-space:nowrap}
