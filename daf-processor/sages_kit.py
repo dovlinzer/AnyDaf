@@ -227,6 +227,7 @@ def main():
             "tier": tier(k), "tier_mishnah": mtier(k) if k in mishnah else 3,
             "bio": x.get("bio") or "", "bio_he": x.get("bio_he") or "",
             "sefaria": k, "wiki_he": (x.get("links") or {}).get("heWikiLink") or "",
+            "wiki_en": ((x.get("links") or {}).get("enWikiLink") or "").replace("http://", "https://"),   # English Wikipedia, from Sefaria's topic
             "count": {"bavli": bavli.get(k, {}).get("total", 0), "mishnah": mishnah.get(k, {}).get("total", 0)},
             "quoted": {"bavli": bavli.get(k, {}).get("by_tractate", {}),
                        "mishnah": mishnah.get(k, {}).get("by_tractate", {})},

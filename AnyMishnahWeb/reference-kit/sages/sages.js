@@ -694,8 +694,9 @@
     const where = n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
       <p class="sgx-where">${top.map(([tr, c]) => `<button type="button" data-tr="${esc(tr)}">${esc(name(tr))} <b>${c}</b></button>`).join('')}
       ${Object.keys(q).length > 5 ? `<button type="button" data-tr="*" class="all">${t('allT')}</button>` : ''}</p><div class="sgx-places"></div>` : '';
+    const wikiUrl = HE() ? (x.wiki_he || x.wiki_en) : (x.wiki_en || x.wiki_he);   // English Wikipedia by default on the English pages, Hebrew first on the Hebrew ones
     const links = `<p class="sgx-links"><a href="https://www.sefaria.org${HE() ? '.il' : ''}/topics/${encodeURIComponent(x.sefaria)}" target="_blank" rel="noopener">${t('sefaria')}</a>
-      ${x.wiki_he ? `<a href="${esc(x.wiki_he)}" target="_blank" rel="noopener">${t('wiki')}</a>` : ''}</p>`;
+      ${wikiUrl ? `<a href="${esc(wikiUrl)}" target="_blank" rel="noopener">${t('wiki')}</a>` : ''}</p>`;
     if (S.o.clay) {
       box.innerHTML = `<h3>${esc(fullName(x))} <span lang="${HE() ? 'en' : 'he'}" dir="${HE() ? 'ltr' : 'rtl'}">${esc(HE() ? x.en : x.he)}</span></h3>
         <p class="sgx-meta">${esc(meta(x))}${x.years && !x.died ? ` <i title="${esc(t('approx'))}">*</i>` : ''}</p>
@@ -716,7 +717,7 @@
       <p class="sgx-where">${top.map(([tr, c]) => `<button type="button" data-tr="${esc(tr)}">${esc(name(tr))} <b>${c}</b></button>`).join('')}
       ${Object.keys(q).length > 5 ? `<button type="button" data-tr="*" class="all">${t('allT')}</button>` : ''}</p><div class="sgx-places"></div>` : ''}
       <p class="sgx-links"><a href="https://www.sefaria.org${HE() ? '.il' : ''}/topics/${encodeURIComponent(x.sefaria)}" target="_blank" rel="noopener">${t('sefaria')}</a>
-      ${x.wiki_he ? `<a href="${esc(x.wiki_he)}" target="_blank" rel="noopener">${t('wiki')}</a>` : ''}</p>`;
+      ${wikiUrl ? `<a href="${esc(wikiUrl)}" target="_blank" rel="noopener">${t('wiki')}</a>` : ''}</p>`;
   }
   async function showPlaces(tr) {
     const x = sage(S.cur), host = S.box.querySelector('.sgx-places'), name = S.o.tractateName || (s => s);
