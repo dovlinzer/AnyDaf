@@ -229,3 +229,7 @@
 .sgx-pass>p{margin:4px 0 8px;padding-inline-start:16px;line-height:1.5}
 .sgx-pass>p a{font-size:.9em;white-space:nowrap}
 .sgx-pass b{font-weight:600;color:var(--amber,#a85d00)}
+
+.sgx-say{position:absolute;box-sizing:border-box;padding:8px 12px;border-radius:12px;border-inline-start:3px solid #5b2fa8;background:color-mix(in srgb,currentColor 6%,transparent);font-size:.82rem;line-height:1.4;font-style:italic;transition:opacity .45s ease;z-index:2;pointer-events:auto}
+.sgx-say p{margin:0 0 4px}.sgx-say a{font-size:.9em;font-style:normal;white-space:nowrap}
+.sgx-n.centre.hasay{cursor:pointer}

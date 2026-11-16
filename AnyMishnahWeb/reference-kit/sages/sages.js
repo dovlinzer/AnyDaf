@@ -517,6 +517,48 @@
 
     commit(place, more, animate, { g, clay, width, nodeW, cw, x, boxW: Math.min(nodeW, (width - 84) / (cap + 1) - 10) });
   }
+  // The sage's own Pirkei Avot sayings in the white space beside his picture. Default: one shows, stays a few seconds, fades, the next fades in;
+  // a click on his picture moves on at once. Add ?sayings=click to the address for the other way: nothing shows until his picture is clicked, each click shows the next, and the last click hides it.
+  const SAY = { idx: {}, timer: 0 };
+  function sayings(g, c, x, width) {
+    clearTimeout(SAY.timer);
+    g.querySelectorAll('.sgx-say').forEach(e => e.remove());
+    const all = x.avot || [], own = all.filter(a => a.kind === 'saying'), list = (own.length ? own : all).filter(a => HE() ? a.he : a.en);
+    const el = c && S.nodes.get(c.id || c.key) && S.nodes.get(c.id || c.key).el;
+    if (!list.length || !el) return;
+    const click = /[?&]sayings=click/.test(location.search), key = x.sefaria;
+    const right = c.x < width / 2 ? true : false;
+    const half = Math.max(el.offsetWidth, 100) / 2 + 14;
+    const room = (right ? width - c.x : c.x) - half - 10;
+    if (room < 130) return;                                   // a narrow screen: the folded list below has them
+    const b = document.createElement('div'); b.className = 'sgx-say'; b.style.opacity = '0';
+    b.style.width = Math.min(room, 270) + 'px';
+    b.style.top = (c.y - 28) + 'px';
+    b.style[right ? 'left' : 'right'] = '';
+    b.style.left = ((right ? c.x + half : c.x - half - Math.min(room, 270))) + 'px';
+    b.style.transform = 'translateY(-50%)';
+    g.appendChild(b);
+    const html = a => { const m = /Avot (\d+):(\d+)/.exec(a.ref), href = `https://www.sefaria.org${HE() ? '.il' : ''}/Pirkei_Avot.${m[1]}.${m[2]}`;
+      return HE() ? `<p lang="he" dir="rtl">${esc(a.he)}</p><a href="${href}" target="_blank" rel="noopener">${esc(a.ref)}</a>` : `<p>\u201c${esc(a.en)}\u201d</p><a href="${href}" target="_blank" rel="noopener">(${m[1]}:${m[2]})</a>`; };
+    let i = SAY.idx[key] || 0, hidden = click;
+    const show = () => { b.innerHTML = html(list[i % list.length]); b.style.opacity = '1'; hidden = false; };
+    const hide = fn => { b.style.opacity = '0'; setTimeout(fn, 450); };
+    const next = () => {                                         // move on: fade out, then the next fades in (click mode: after the last, hide)
+      clearTimeout(SAY.timer);
+      if (click) {
+        if (hidden) { i = 0; show(); }
+        else if (i + 1 >= list.length) { hide(() => { hidden = true; i = 0; }); }
+        else hide(() => { i++; show(); });
+        return;
+      }
+      if (list.length < 2) return;
+      hide(() => { i = (i + 1) % list.length; SAY.idx[key] = i; show(); loop(); });
+    };
+    const loop = () => { if (click || list.length < 2) return; SAY.timer = setTimeout(() => { if (!g.isConnected) return; next(); }, 7000); };
+    el.classList.add('hasay'); el.title = (click ? 'Click for a saying' : 'Click for the next saying');
+    el.onclick = e => { if (e.target.closest('a')) return; next(); };
+    if (!click) { setTimeout(() => { if (g.isConnected) { show(); loop(); } }, 500); }
+  }
   // put the nodes on screen (reusing those already there, so they glide), and the "+N more" buttons, and the lines
   function commit(place, more, animate, ctx) {
     const { g, clay, width, nodeW, cw, x, boxW } = ctx;
@@ -553,6 +595,7 @@
     }
     for (const [k, n] of prev) if (!next.has(k)) { n.el.style.opacity = '0'; setTimeout(() => n.el.remove(), 400); }
     S.nodes = next;
+    if (clay && !g.classList.contains('famview')) sayings(g, place.find(p => p.centre), x, width);
     g.querySelectorAll('.sgx-more').forEach(e => e.remove());
     for (const m of more) {
       const b = document.createElement('button');
