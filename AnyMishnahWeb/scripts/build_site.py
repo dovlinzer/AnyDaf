@@ -389,7 +389,7 @@ def foot_html():
              "The illustrations are AI-generated; the round symbols are interim. Prototype for discussion, not for distribution."]
     body = "".join(f"<p>{esc(x)}</p>" for x in paras)
     if not he:
-        body += "<p>" + esc("Sayings from Pirkei Avot (in the sages box): Hebrew from the Torat Emet text (public domain), via Sefaria. English for chapters 3 to 6 from the Sefaria Community Translation (CC0), via Sefaria; the English for chapters 1 and 2 is our own translation from the Hebrew, written by Claude and under review.") + "</p>"
+        body += "<p>" + esc("Sayings from Pirkei Avot (in the sages box): Hebrew from the Torat Emet text (public domain), via Sefaria. English for chapters 3 to 6 based on the Sefaria Community Translation (CC0), via Sefaria, and smoothed by Claude; the English for chapters 1 and 2 is our own translation from the Hebrew, written by Claude. All under review.") + "</p>"
     body += (f'<p>{esc("Sages icon:")} <a href="https://www.flaticon.com/free-icon/rabbi_5317326" target="_blank" rel="noopener">{esc("Rabbi icon")}</a> '
              f'{esc("by")} <a href="https://www.flaticon.com/authors/magnific" target="_blank" rel="noopener">{esc("Magnific")}</a> - '
              f'<a href="https://www.flaticon.com/" target="_blank" rel="noopener">{esc("Flaticon")}</a>.</p>')

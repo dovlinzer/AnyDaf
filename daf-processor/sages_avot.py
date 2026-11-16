@@ -249,6 +249,75 @@ for slug, c, m, kind, hs, he, es, ee in ITEMS:
         out.setdefault(slug, []).append(item)
     except (ValueError, KeyError, IndexError) as err:
         raise SystemExit(f"marker not found: {slug} {c}:{m}: {err!r}\nHE: {NIKUD.sub('', h)[:300]}\nEN: {COMM[c][m-1][:400]}")
+# Smoothing pass (author, 2026-11-15): every quotation re-read and put into easy modern English, staying close to the Hebrew; keyed by (slug, ref, kind).
+# The Community Translation text above is the starting point for Avot 3-6; Avot 1-2 are our own rendering. Anything not listed here is used as is.
+SMOOTH = {
+ ("antigonus-of-sokho", "Avot 1:3", "saying"): "Do not be like servants who serve their master in order to receive a reward; be like servants who serve without expecting a reward. And let the fear of Heaven be upon you.",
+ ("yose-b-yoezer", "Avot 1:4", "saying"): "Let your house be a meeting place for the sages; sit in the dust at their feet; and drink in their words thirstily.",
+ ("nittai-haarbeli", "Avot 1:7", "saying"): "Keep away from a bad neighbor; do not become attached to a wicked person; and do not give up believing that wrongdoing is punished.",
+ ("shemaiah", "Avot 1:10", "saying"): "Love work; hate lording it over others; and do not seek to become known to the authorities.",
+ ("hillel", "Avot 1:14", "saying"): "If I am not for myself, who will be for me? And when I am for myself alone, what am I? And if not now, when?",
+ ("hillel", "Avot 2:4", "saying"): "Do not separate yourself from the community; do not trust yourself until the day of your death; do not judge your fellow until you reach his place; do not say something that cannot be understood now, thinking it will be understood in the end; and do not say, \u2018When I have free time I will study,\u2019 for perhaps you will never have free time.",
+ ("hillel", "Avot 2:5", "saying"): "An uncultured person cannot be sin-fearing, nor can an ignorant person be pious; the shy cannot learn, nor the short-tempered teach; and not everyone who does much business becomes wise. And in a place where no one is acting like a person, strive to be a person.",
+ ("rabi", "Avot 2:1", "saying"): "Which is the right path for a person to choose? Whatever is a source of pride for the one who follows it and earns him the respect of others. Be as careful with a light commandment as with a serious one, for you do not know the reward given for each commandment. Weigh what a commandment costs you against what it earns, and what a transgression earns you against what it costs. Consider three things and you will not come to transgression: know what is above you\u2014an eye that sees, an ear that hears, and all your deeds written in a book.",
+ ("rabi", "Avot 4:20", "saying"): "Do not look at the jug, but at what is in it. There are new jugs full of old wine, and old jugs without even new wine in them.",
+ ("rabban-gamliel-b-rabbi-(iii)", "Avot 2:2", "saying"): "Torah study is excellent together with a worldly occupation, for the effort of doing both makes one forget sin. Torah study without work comes to nothing and leads to sin. Let all who work for the community do so for the sake of Heaven, for the merit of their ancestors supports them, and their righteousness lasts forever. And as for you, [God says,] I will count it for you as great reward, as if you had done it all yourselves.",
+ ("rabban-gamliel-b-rabbi-(iii)", "Avot 2:3", "saying"): "Be wary of those in power, for they draw a person close only when they need him. They appear to be friends when it suits them, but they do not stand by a person in his hour of need.",
+ ("rabban-gamliel-b-rabbi-(iii)", "Avot 2:4", "saying"): "Make His will your own, so that He will make your will His. Set aside your will for the sake of His will, so that He will set aside the will of others for the sake of yours.",
+ ("rabbi-yehoshua-b-hananyah", "Avot 2:8", "praise"): "Rabbi Yehoshua ben Hananya\u2014happy is she who bore him.",
+ ("shimon-b-netanel", "Avot 2:9", "answer"): "One who foresees the outcome.",
+ ("shimon-b-netanel", "Avot 2:13", "saying"): "Be careful in reciting the Shema and in prayer. When you pray, do not make your prayer a fixed routine, but a plea for mercy and supplication before God... And do not be wicked in your own eyes.",
+ ("rabbi-elazar-b-arakh", "Avot 2:9", "praise"): "I prefer the words of Elazar ben Arach to yours, because your words are included in his.",
+ ("akavyah-b-mahalalel", "Avot 3:1", "saying"): "Keep three things in mind and you will not come to sin: Know where you came from, where you are going, and before Whom you will have to give an account. Where did you come from? From a putrid drop. Where are you going? To a place of dust, worms, and maggots. And before Whom will you give an account? Before the King of kings, the Holy One, blessed be He.",
+ ("rabbi-hanina-segan-hakohanim", "Avot 3:2", "saying"): "Pray for the welfare of the government, for were it not for fear of it, people would swallow one another alive.",
+ ("rabbi-hananyah-b-teradyon", "Avot 3:2", "saying"): "If two people sit together and no words of Torah pass between them, this is a gathering of scoffers... But if two sit together and words of Torah pass between them, the Divine Presence rests among them.",
+ ("rabbi-halafta-of-kefar-hanania", "Avot 3:6", "saying"): "When ten people sit together and engage in Torah, the Divine Presence rests among them.",
+ ("shimon-bar-yochai", "Avot 3:3", "saying"): "Three who ate at one table without speaking words of Torah over it\u2014it is as if they ate from offerings to the dead... But three who ate at one table and spoke words of Torah over it\u2014it is as if they ate from the table of the Omnipresent.",
+ ("shimon-bar-yochai", "Avot 3:7", "saying"): "Someone walking along the road, reviewing his studies, who breaks off his studying to say, \u2018How lovely is this tree! How lovely is this plowed field!\u2019\u2014Scripture considers it as if he has forfeited his life.",
+ ("shimon-bar-yochai", "Avot 4:13", "saying"): "There are three crowns: the crown of Torah, the crown of priesthood, and the crown of monarchy\u2014but the crown of a good name outweighs them all.",
+ ("shimon-bar-yochai", "Avot 6:8", "inname"): "Beauty, strength, wealth, honor, wisdom, old age, gray hair, and children are fitting for the righteous and good for the world.",
+ ("rabbi-shimon-b-yehudah", "Avot 6:8", "saying"): "Beauty, strength, wealth, honor, wisdom, old age, gray hair, and children are fitting for the righteous and good for the world.",
+ ("rabbi-meir", "Avot 4:10", "saying"): "Cut back on business and engage in Torah. Be humble before everyone. If you neglect Torah, many reasons to neglect it will come your way. But if you labor in Torah, God has abundant reward to give you.",
+ ("rabbi-meir", "Avot 6:1", "saying"): "Anyone who engages in Torah for its own sake merits many things; moreover, the entire world is worthwhile for his sake.",
+ ("rabbi-elazar-b-yehudah-of-bartota", "Avot 3:7", "saying"): "Give to Him from what is His, for you and everything you have are His.",
+ ("rabbi-chanina-b-dosa", "Avot 3:9", "saying"): "Anyone whose fear of sin comes before his wisdom, his wisdom endures; but anyone whose wisdom comes before his fear of sin, his wisdom does not endure. He used to say: Anyone whose actions exceed his wisdom, his wisdom endures; but anyone whose wisdom exceeds his actions, his wisdom does not endure.",
+ ("rabbi-chanina-b-dosa", "Avot 3:10", "saying"): "Anyone whom people are pleased with, God is pleased with. And anyone whom people are not pleased with, God is not pleased with.",
+ ("rabbi-dosa-b-harkinas", "Avot 3:10", "saying"): "Sleeping late in the morning, drinking wine at midday, children\u2019s chatter, and sitting in the gathering places of the ignorant take a person out of the world.",
+ ("rabbi-yishmael-b-elisha", "Avot 3:12", "saying"): "Be yielding to a leader, easygoing with the young, and receive everyone cheerfully.",
+ ("rabbi-akiva", "Avot 3:13", "saying"): "Laughter and frivolity lead a person toward immorality. Tradition is a fence around the Torah. Tithes are a fence around wealth. Vows are a fence around self-restraint. A fence around wisdom is silence.",
+ ("rabbi-akiva", "Avot 3:14", "saying"): "Beloved is a person, for he was created in the image of God. It is a sign of even greater love that he is told he was created in the image of God.",
+ ("rabbi-akiva", "Avot 3:15", "saying"): "Everything is foreseen, yet freedom is given; the world is judged with goodness, yet everything depends on the abundance of one\u2019s deeds.",
+ ("rabbi-akiva", "Avot 3:16", "saying"): "Everything is given as a pledge, and a net is spread over all the living. The shop is open, the shopkeeper extends credit, the ledger lies open, and the hand writes.",
+ ("shimon-b-zoma", "Avot 4:1", "saying"): "Who is wise? One who learns from every person. Who is mighty? One who masters his impulses.",
+ ("shimon-b-azzai", "Avot 4:2", "saying"): "Hurry to perform even a minor commandment as you would a major one, and flee from sin; for one commandment leads to another, and one sin leads to another; the reward of a commandment is another commandment, and the reward of a sin is another sin.",
+ ("shimon-b-azzai", "Avot 4:3", "saying"): "Do not look down on anyone, and do not dismiss anything, for there is no person who does not have his hour, and nothing that does not have its place.",
+ ("rabbi-levitas-of-yavneh", "Avot 4:4", "saying"): "Be very, very humble in spirit, for all a person can hope for in the end is worms.",
+ ("rabbi-tzadok-(i)", "Avot 4:5", "saying"): "Do not make the Torah a crown with which to glorify yourself, nor a spade with which to dig.",
+ ("rabbi-yose-b-chalafta", "Avot 4:6", "saying"): "Anyone who honors the Torah will himself be honored by people. Anyone who dishonors the Torah will himself be dishonored by people.",
+ ("rabbi-yishmael-b-yose", "Avot 4:8", "saying"): "Do not judge alone, for only One [God] judges alone. And do not say to your fellow judges, \u2018Accept my opinion,\u2019 for they are free to decide, and you are not.",
+ ("rabbi-yonatan", "Avot 4:9", "saying"): "Anyone who keeps the Torah in poverty will in the end keep it in wealth. And anyone who neglects the Torah in wealth will in the end neglect it in poverty.",
+ ("rabbi-eliezer-b-yaakov-(ii)", "Avot 4:11", "saying"): "Whoever performs one commandment acquires one defender; whoever commits one sin acquires one accuser. Repentance and good deeds are like a shield against punishment.",
+ ("rabbi-yohanan-hasandlar", "Avot 4:11", "saying"): "Every gathering that is for the sake of Heaven will in the end endure; and every gathering that is not for the sake of Heaven will not endure.",
+ ("rabbi-elazar-b-shamua", "Avot 4:12", "saying"): "Let the honor of your student be as dear to you as your own, the honor of your colleague as dear as the reverence you have for your teacher, and the reverence you have for your teacher as dear as the reverence for Heaven.",
+ ("rabbi-nehorai", "Avot 4:14", "saying"): "Go off to a place of Torah, and do not say that it will come after you, that your colleagues will make sure you keep it. And do not rely on your own understanding.",
+ ("rabbi-yaakov-b-qorshai", "Avot 4:16", "saying"): "This world is like a hallway before the world to come. Prepare yourself in the hallway so that you may enter the reception hall.",
+ ("rabbi-yaakov-b-qorshai", "Avot 4:17", "saying"): "One hour of repentance and good deeds in this world is better than all of life in the World to Come. And one hour of contentment in the World to Come is better than all of life in this world.",
+ ("rabbi-mattia-b-heresh", "Avot 4:15", "saying"): "Be the first to greet everyone. And be a tail to lions rather than a head to foxes.",
+ ("rabbi-shimon-b-elazar", "Avot 4:18", "saying"): "Do not try to calm your friend while he is angry; do not comfort him while his dead lies before him; do not question him at the moment he makes a vow; and do not try to see him at the moment of his downfall.",
+ ("shmuel-the-little", "Avot 4:19", "saying"): "When your enemy falls, do not rejoice, and when he stumbles, let your heart not be glad, lest God see it, and it displease Him, and He turn His anger away from him.",
+ ("elisha-ben-abuya", "Avot 4:20", "saying"): "One who learns as a child\u2014what is he like? Ink written on fresh paper. One who learns as an old person\u2014what is he like? Ink written on erased paper.",
+ ("rabbi-yose-b-yehudah-of-kefar-habavli", "Avot 4:20", "saying"): "One who learns from the young\u2014what is he like? Someone who eats unripe grapes and drinks wine straight from the press. One who learns from the old\u2014what is he like? Someone who eats ripe grapes and drinks aged wine.",
+ ("rabbi-elazar-hakappar", "Avot 4:21", "saying"): "Envy, desire, and the pursuit of honor take a person out of the world.",
+ ("yehudah-b-tema", "Avot 5:20", "saying"): "Be bold as a leopard, light as an eagle, swift as a deer, and strong as a lion to do the will of your Father in Heaven.",
+ ("yochanan-ben-bag-bag", "Avot 5:22", "saying"): "Turn it over and over, for everything is in it. Look into it, grow old and worn in it, and do not move away from it, for there is no better quality than it.",
+ ("ben-he-he", "Avot 5:23", "saying"): "According to the effort is the reward.",
+ ("rabbi-yose-b-kisma", "Avot 6:9", "saying"): "Once I was walking on the road, and a man met me and greeted me, and I returned his greeting. He said to me, \u2018Rabbi, where are you from?\u2019 I said to him, \u2018I am from a great city of sages and scribes.\u2019 He said to me, \u2018Rabbi, would you like to live with us in our place? I will give you a thousand thousand gold dinars, and precious stones and pearls.\u2019 I said to him, \u2018If you gave me all the silver, gold, precious stones and pearls in the world, I would live nowhere but in a place of Torah.\u2019",
+}
+for k, v in out.items():
+    for it in v:
+        sm = SMOOTH.get((k, it["ref"], it["kind"]))
+        if sm: it["en"] = sm; it["en_src"] = "ours" if it.get("en_src") else "smoothed"
+
 # Cut as obscure or not relatable for casual and young readers (author, 2026-11-15: a case-by-case judgement; restore any by deleting its line here).
 DROP = {
     ("rabbi-elazar-hisma", "Avot 3:18"),                  # laws of bird offerings and niddah; astronomy and gematria
