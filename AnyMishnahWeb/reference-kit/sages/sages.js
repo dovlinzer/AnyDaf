@@ -693,7 +693,7 @@
     // Notable passages: Sefaria's curated Bavli passages for this sage, each a collapsed card (its title) opening to the excerpt and its folio; the host can switch the section off
     const showNotable = !S.o.notable || S.o.notable();
     const notable = showNotable && x.notable && x.notable.length ? `<details class="sgx-notfold"><summary>${t('notable')}</summary><div class="sgx-notable">${x.notable.map(p =>
-      `<details class="sgx-pass"><summary>${esc(p.title)}</summary><p${HE() ? ' lang="he" dir="rtl"' : ''}>${esc(HE() ? p.he : p.en)} <a href="https://www.sefaria.org${HE() ? '.il' : ''}/${encodeURIComponent(p.ref.replace(/ /g, '_'))}" target="_blank" rel="noopener">(${esc(p.cite)})</a></p></details>`).join('')}</div></details>` : '';
+      `<details class="sgx-pass"><summary>${esc(p.title)}</summary><p${HE() ? ' lang="he" dir="rtl"' : ''}>${esc(HE() ? p.he : p.en).replace(/⟦/g, '<b>').replace(/⟧/g, '</b>')} <a href="https://www.sefaria.org${HE() ? '.il' : ''}/${encodeURIComponent(p.ref.replace(/ /g, '_'))}" target="_blank" rel="noopener">(${esc(p.cite)})</a></p></details>`).join('')}</div></details>` : '';
     const avotFold = avot ? avot.replace(/^<h4>(.*?)<\/h4>(<div class="sgx-avot">)/, '<details class="sgx-avotfold"><summary>$1</summary>$2') + '</details>' : '';
     const where = n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
       <p class="sgx-where">${top.map(([tr, c]) => `<button type="button" data-tr="${esc(tr)}">${esc(name(tr))} <b>${c}</b></button>`).join('')}

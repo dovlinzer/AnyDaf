@@ -228,3 +228,5 @@
 .sgx-pass>summary{cursor:pointer;font-style:italic;padding:2px 0}
 .sgx-pass>p{margin:4px 0 8px;padding-inline-start:16px;line-height:1.5}
 .sgx-pass>p a{font-size:.9em;white-space:nowrap}
+.sgx-pass>p:not([lang=he]){background:var(--term,rgba(70,110,210,.16));border-radius:6px;padding:6px 10px;margin-inline-start:16px;padding-inline-start:10px}
+.sgx-pass b{font-weight:700}

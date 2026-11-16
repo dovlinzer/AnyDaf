@@ -37,8 +37,9 @@ Nazir Sotah Gittin Kiddushin Bava_Kamma Bava_Metzia Bava_Batra Sanhedrin Makkot 
 Keritot Meilah Tamid Niddah""".split()}
 FOLIO = re.compile(r"^(.+?) (\d+[ab])\b")
 
-def clean(t):
+def clean(t, keep_bold=False):
     t = re.sub(r'<sup class="footnote-marker">.*?</sup>\s*<i class="footnote">.*?</i>', "", t, flags=re.S)
+    if keep_bold: t = re.sub(r"</?(b|strong)>", lambda m: "⟦" if m.group(0)[1] != "/" else "⟧", t)   # bold = the Talmud's own wording; plain = the translator's additions
     t = re.sub(r"<[^>]+>", "", t)
     t = html.unescape(t).replace(" ", " ")
     t = re.sub(r"^\s*§\s*", "", t.strip())
@@ -47,18 +48,38 @@ def clean(t):
 def flat(x):
     return [y for i in x for y in flat(i)] if isinstance(x, list) else [x]
 
+def balance(t):
+    """Close or open a bold run the cut left dangling."""
+    depth = 0; first_close_before_open = False
+    for c in t:
+        if c == "⟦": depth += 1
+        elif c == "⟧":
+            if depth == 0: first_close_before_open = True
+            else: depth -= 1
+    if first_close_before_open: t = "⟦" + t
+    return t + "⟧" * depth
+
+def trim(t, start, end):
+    """Cut to the passage from the phrase `start` to the phrase `end` (either may be None); markers may fall anywhere inside a phrase."""
+    pat = lambda ph: r"[⟦⟧]*".join(re.escape(c) for c in ph)
+    if start:
+        m = re.search(pat(start), t); t = t[m.start():] if m else t
+    if end:
+        m = re.search(pat(end), t); t = t[:m.end()] if m else t
+    return balance(t.strip())
+
 def excerpt(t, limit):
     if len(t) <= limit: return t
     cut = t[:limit]
     m = max(cut.rfind(". "), cut.rfind("? "), cut.rfind("! "), cut.rfind("׃ "))   # prefer a sentence end late in the window
     cut = cut[:m + 1] if m > limit * 0.6 else cut[:cut.rfind(" ")]
-    return cut.rstrip(" ,;:-—") + "…"
+    return balance(cut.rstrip(" ,;:-—")) + "…"
 
 def text(ref, version, lang):
     def fetch():
         u = "https://www.sefaria.org/api/texts/" + urllib.parse.quote(ref.replace(" ", "_"), safe="_:.-") + "?context=0&commentary=0&pad=0&" + ("vhe=" if lang == "he" else "ven=") + urllib.parse.quote(version)
         d = get(u)
-        return " ".join(clean(s) for s in flat(d["he" if lang == "he" else "text"]) if isinstance(s, str) and s.strip())
+        return " ".join(clean(s, lang == "en") for s in flat(d["he" if lang == "he" else "text"]) if isinstance(s, str) and s.strip())
     return cached(f"{ref}|{lang}", fetch)
 
 def cite(ref):
@@ -67,6 +88,11 @@ def cite(ref):
     book, first = m.group(1), m.group(2)
     last = re.findall(r"(\d+[ab])", ref.split("-", 1)[1])[0] if "-" in ref and re.findall(r"(\d+[ab])", ref.split("-", 1)[1]) else first
     return f"{book} {first}" + (f"–{last}" if last != first else "")
+
+# Hand trims, keyed (sage slug, ref): (start phrase, end phrase) - the sentence(s) that make the point, when Sefaria's whole passage is too long
+TRIM = {
+    ("rabbi-meir", "Sanhedrin 86a:3"): ("Rabbi Yoḥanan says: An unattributed mishna", "in accordance with the opinion of Rabbi Meir"),
+}
 
 def topic(slug):
     return cached("topic|" + slug, lambda: get(f"https://www.sefaria.org/api/v2/topics/{urllib.parse.quote(slug)}?with_refs=1&with_links=0"))
@@ -84,7 +110,11 @@ def one(slug):
     for _, ref, title in sorted(rows, reverse=True):
         try: en, he = text(ref, V_EN, "en"), text(ref, V_HE, "he")
         except Exception: continue
-        if en: out.append({"title": title, "ref": ref, "cite": cite(ref), "en": excerpt(en, LIMIT_EN), "he": excerpt(he, LIMIT_HE)})
+        if (slug, ref) in TRIM:
+            a, b = TRIM[(slug, ref)]
+            en_t, he_t = trim(en, a, b), excerpt(he, LIMIT_HE)
+        else: en_t, he_t = excerpt(en, LIMIT_EN), excerpt(he, LIMIT_HE)
+        if en: out.append({"title": title, "ref": ref, "cite": cite(ref), "en": en_t, "he": he_t})
     return slug, out
 
 if __name__ == "__main__":
