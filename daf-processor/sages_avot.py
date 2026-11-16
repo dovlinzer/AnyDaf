@@ -273,6 +273,7 @@ def drop_proof(t):
 for v in out.values():
     for it in v:
         it["en"] = drop_proof(bare(it["en"])).replace("table of the Omnipresent, blessed be He.", "table of the Omnipresent.")
+        if it["en"].startswith("\u2018") and it["en"].endswith("\u2019"): it["en"] = it["en"][1:-1]   # a saying that is itself one quotation
         it["en"] = re.sub(r"^\((?:[1-3] )?[A-Z][a-z]+ \d+:\d+(?:-\d+)?\)\s*", "", it["en"])   # Shmuel haKatan's saying is a verse: no reference in front
 json.dump(out, open("outline/sages/avot.json", "w"), ensure_ascii=False, indent=1)
 print(len(out), "sages,", sum(len(v) for v in out.values()), "quotations,", sum(1 for v in out.values() for i in v if i.get("en_src")), "of them our own rendering")
