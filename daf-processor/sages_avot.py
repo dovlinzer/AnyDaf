@@ -269,7 +269,6 @@ DROP = {
     ("rabbi-meir", "Avot 3:8:inname"),                    # the same, quoted in his name
     ("rabbi-yohanan-b-berokah", "Avot 4:4"),              # desecrating the Name in secret
     ("hillel", "Avot 4:5"),                               # 'one who uses the crown'
-    ("rabbi-yose-b-chalafta", "Avot 4:6"),                # his body honored by the creatures
     ("rabbi-yishmael-b-yose", "Avot 4:7"),                # shunning judicial office
     ("rabbi-yehudah-b-ilai", "Avot 4:13"),                # an error in study is an intentional sin
     ("rabbi-shimon-b-menasya", "Avot 6:8"),               # the seven qualities fulfilled in Rebbi and his sons
