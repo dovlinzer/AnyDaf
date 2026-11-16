@@ -541,17 +541,21 @@
     // cut each saying into boxes of at most four lines, measured in the box itself
     const lh = parseFloat(getComputedStyle(b).lineHeight) || 18, pad = parseFloat(getComputedStyle(b).paddingTop) * 2, maxH = lh * 4 + pad + 1;
     const pages = [];
-    list.forEach((a, k) => {
-      const words = (he ? a.he : '\u201c' + a.en + '\u201d').split(/\s+/), ln = link(a);
-      let i = 0;
-      while (i < words.length) {
-        const lead = i ? '\u2026 ' : '';
-        const fits = n => { b.innerHTML = `<p>${esc(lead + words.slice(i, i + n).join(' '))}${i + n < words.length ? '\u2026' : ' ' + ln}</p>`; return b.scrollHeight <= maxH; };
-        let lo = 1, hi = words.length - i;
-        if (fits(hi)) lo = hi; else while (lo < hi) { const mid = (lo + hi + 1) >> 1; if (fits(mid)) lo = mid; else hi = mid - 1; }
-        pages.push({ k, h: `<p>${esc(lead + words.slice(i, i + lo).join(' '))}${i + lo < words.length ? '\u2026' : ' ' + ln}</p>` });
-        i += lo;
-      }
+    list.forEach((a, k) => {   // each sentence of a saying gets a box of its own (a long one runs on into more boxes); the place in Pirkei Avot goes on the last
+      const ln = link(a), sents = (he ? a.he.split(/(?<=\.)\s+/) : a.en.split(/(?<=[.!?])\s+(?=[A-Z\u2018\u201c\[(])/)).filter(t => t.trim());
+      sents.forEach((sent, si) => {
+        const words = (he ? sent : '\u201c' + sent + '\u201d').split(/\s+/), lastSent = si === sents.length - 1;
+        let i = 0;
+        while (i < words.length) {
+          const lead = i ? '\u2026 ' : '';
+          const html = n => `<p>${esc(lead + words.slice(i, i + n).join(' '))}${i + n < words.length ? '\u2026' : lastSent ? ' ' + ln : ''}</p>`;
+          const fits = n => { b.innerHTML = html(n); return b.scrollHeight <= maxH; };
+          let lo = 1, hi = words.length - i;
+          if (fits(hi)) lo = hi; else while (lo < hi) { const mid = (lo + hi + 1) >> 1; if (fits(mid)) lo = mid; else hi = mid - 1; }
+          pages.push({ k, h: html(lo) });
+          i += lo;
+        }
+      });
     });
     b.style.visibility = ''; b.innerHTML = '';
     let i = SAY.idx[key] || 0, hidden = click;
