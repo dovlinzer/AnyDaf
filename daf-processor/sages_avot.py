@@ -250,5 +250,15 @@ for slug, c, m, kind, hs, he, es, ee in ITEMS:
     except (ValueError, KeyError, IndexError) as err:
         raise SystemExit(f"marker not found: {slug} {c}:{m}: {err!r}\nHE: {NIKUD.sub('', h)[:300]}\nEN: {COMM[c][m-1][:400]}")
 for v in out.values(): v.sort(key=lambda it: tuple(int(x) for x in it["ref"].split()[1].split(":")))   # in the order of the book (stable within a mishnah)
+
+def bare(t):
+    """The words of the saying alone: drop the 'Rabbi X says:' lead-in, and turn inner double quotes into single ones (the page wraps the whole in double quotes)."""
+    m = re.match(r"^([^:\u201c\"]{0,170}\b(?:says?|said|saying)\b[^:\u201c\"]{0,80}:)\s*", t, re.I)
+    if m: t = t[m.end():]
+    t = t[0].upper() + t[1:]
+    t = re.sub(r'[\u201c"]([^\u201c\u201d"]*)[\u201d"]', "\u2018\\1\u2019", t)
+    return t.replace("\u2019\u2019", "\u2019").replace(",\u2018", ", \u2018")
+for v in out.values():
+    for it in v: it["en"] = bare(it["en"])
 json.dump(out, open("outline/sages/avot.json", "w"), ensure_ascii=False, indent=1)
 print(len(out), "sages,", sum(len(v) for v in out.values()), "quotations,", sum(1 for v in out.values() for i in v if i.get("en_src")), "of them our own rendering")

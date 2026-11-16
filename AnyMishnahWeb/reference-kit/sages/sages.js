@@ -23,7 +23,7 @@
           quotedB: 'Named on {0} lines of the Talmud', quotedM: 'Named in {0} mishnayot', most: 'Most in:',
           all: 'All places', allT: 'All tractates', none: 'No teachers or students are recorded.',
           father: 'Father', mother: 'Mother', parents: 'Parent', children: 'Children', spouse: 'Wife', in_laws: 'Father-in-law',
-          sons_in_law: 'Son-in-law', siblings: 'Brother', relatives: 'Relative', stories: 'Stories about him', avot: 'In Pirkei Avot', avotPraise: 'Rabban Yochanan ben Zakkai on his student', avotInName: 'Quoted in his name by another sage', avotAnswer: 'His answer: which is the right way to hold to?',
+          sons_in_law: 'Son-in-law', siblings: 'Brother', relatives: 'Relative', stories: 'Stories about him', avot: 'Sayings in Pirkei Avot', avotPraise: 'Rabban Yochanan ben Zakkai on his student', avotInName: 'Quoted in his name by another sage', avotAnswer: 'His answer: which is the right way to hold to?',
           sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
           keyT: 'teacher → student', keyC: 'colleagues', keyRT: 'teacher', keyRS: 'student', keyRC: 'colleague', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
           keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', notes: 'Notes and sources',
@@ -683,7 +683,10 @@
     const avot = x.avot && x.avot.length ? `<h4>${t('avot')}</h4><div class="sgx-avot">${x.avot.map(a => {
       const m = /Avot (\d+):(\d+)/.exec(a.ref);
       const tag = a.kind === 'praise' ? `<small>${t('avotPraise')}</small>` : a.kind === 'answer' ? `<small>${t('avotAnswer')}</small>` : a.kind === 'inname' ? `<small>${t('avotInName')}</small>` : '';
-      return `<blockquote>${tag}<p lang="he" dir="rtl">${esc(a.he)}</p>${HE() ? '' : `<p>${esc(a.en)}</p>`}<a href="https://www.sefaria.org${HE() ? '.il' : ''}/Pirkei_Avot.${m[1]}.${m[2]}" target="_blank" rel="noopener">${esc(a.ref)}</a></blockquote>`;
+      const href = `https://www.sefaria.org${HE() ? '.il' : ''}/Pirkei_Avot.${m[1]}.${m[2]}`, ref = `${m[1]}:${m[2]}`;
+      // English pages: the saying alone, in quotation marks, with its place in brackets; Hebrew pages: the Hebrew of the saying
+      return HE() ? `<blockquote>${tag}<p lang="he" dir="rtl">${esc(a.he)}</p><a href="${href}" target="_blank" rel="noopener">${esc(a.ref)}</a></blockquote>`
+        : `<blockquote>${tag}<p>\u201c${esc(a.en)}\u201d <a href="${href}" target="_blank" rel="noopener">(${ref})</a></p></blockquote>`;
     }).join('')}</div>` : '';
     const where = n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
       <p class="sgx-where">${top.map(([tr, c]) => `<button type="button" data-tr="${esc(tr)}">${esc(name(tr))} <b>${c}</b></button>`).join('')}
