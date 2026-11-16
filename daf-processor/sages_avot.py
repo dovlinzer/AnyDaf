@@ -1,7 +1,7 @@
 """Pirkei Avot 1-4: a selection of each tanna's own sayings (and R. Yochanan ben Zakkai's praise of his five students, Avot 2:8-9)
 for the sages kit. Output: outline/sages/avot.json = {slug: [{ref, kind, he, en}]}, read by sages_kit.py.
 
-Sources (facts only from Sefaria): Hebrew = Sefaria's 'Torat Emet 357' (Public Domain). English = the Sefaria Community Translation (CC0) for Avot 3-4 and 1:14,
+Sources (facts only from Sefaria): Hebrew = Sefaria's 'Torat Emet 357' (Public Domain). English = the Sefaria Community Translation (CC0) for Avot 3-5 and 1:14,
 cut verbatim; Avot 1-2 are not in it (chapter 2 not at all), so those quotations are OUR OWN rendering of the Hebrew clause quoted (marked en_src 'ours'
 in the data and '(our translation)' on screen) and need the author's review. Tried and rejected: Kulp (project rule), Taylor 1897 and Gorfinkle 1913 (public
 domain but dated), Silverstein/Bartenura (modern, CC-BY, but Bartenura's notes are interleaved in brackets with his own mishnah words, so it cannot be cut cleanly).
@@ -20,11 +20,11 @@ def fetch(c, key, vt):
     d = json.load(urllib.request.urlopen(u))
     return [re.sub(r"<[^>]+>", "", t) for t in d["he" if key == "he" else "text"]]
 
-TEXT = {c: {"he": fetch(c, "he", VT_HE)} for c in (1, 2, 3, 4)}
+TEXT = {c: {"he": fetch(c, "he", VT_HE)} for c in (1, 2, 3, 4, 5)}
 
 def community():
     C = {}
-    for c in (1, 2, 3, 4):
+    for c in (1, 2, 3, 4, 5):
         u = f"https://www.sefaria.org/api/texts/Pirkei_Avot.{c}?context=0&commentary=0&pad=0&ven={urllib.parse.quote('Sefaria Community Translation')}"
         C[c] = [re.sub(r"<[^>]+>", "", t) if isinstance(t, str) else "" for t in json.load(urllib.request.urlopen(u))["text"]]
     return C
@@ -108,7 +108,7 @@ TR = {
  ("rabbi-tarfon", "2:16", "saying"): "He used to say: It is not your duty to finish the work, but you are not free to desist from it. If you have learned much Torah, you will be given much reward; your Employer can be trusted to pay you the reward for your work; and know that the reward of the righteous is in the time to come.",
 }
 
-# --- chapter 1   (hs/he = start/end markers in the Hebrew; es/ee = start/end markers in the Community Translation, for Avot 3-4 and 1:14)
+# --- chapter 1   (hs/he = start/end markers in the Hebrew; es/ee = start/end markers in the Community Translation, for Avot 3-5 and 1:14)
 add("shimon-hatzaddik", "1:2")
 add("antigonus-of-sokho", "1:3")
 add("yose-b-yoezer", "1:4", hs="יוסי בן יועזר איש צרדה אומר")
@@ -193,6 +193,11 @@ add("elisha-ben-abuya", "4:20", hs="אלישע בן אבויה אומר", he="ע
 add("rabbi-yose-b-yehudah-of-kefar-habavli", "4:20", hs="רבי יוסי בר יהודה איש כפר הבבלי אומר", he="ושותה יין ישן", es="Rabbi Yose bar Yehuda", ee="aged wine.")
 add("rabi", "4:20", hs="רבי אומר, אל תסתכל בקנקן", es="Rebbi says")
 add("rabbi-elazar-hakappar", "4:21")
+
+# --- chapter 5 (Avot 5 is mostly anonymous lists; these are the named sages)
+add("yehudah-b-tema", "5:20", hs="יהודה בן תימא אומר", he="לעשות רצון אביך שבשמים", es="Yehudah ben Teimah says", ee="the Will of your Father Who is in Heaven.")
+add("yochanan-ben-bag-bag", "5:22")
+add("ben-he-he", "5:23")
 
 out = {}
 for slug, c, m, kind, hs, he, es, ee in ITEMS:
