@@ -217,4 +217,4 @@
 
 .sgx-avot blockquote p+p{margin-top:.55em}
 
-.sgx-avotfold{margin:6px 0}.sgx-avotfold>summary{cursor:pointer;font-weight:700;font-size:1em}.sgx-avotfold>.sgx-avot{margin-top:4px}
+.sgx-avotfold{margin:20px 0 6px}.sgx-avotfold>summary{cursor:pointer;font-weight:700;font-size:1em;color:var(--role-t,#805ad5)}.sgx-avotfold>.sgx-avot{margin-top:4px}
