@@ -104,6 +104,11 @@ TR = {
  ("rabbi-elazar-b-arakh", "2:9", "answer"): "Rabbi Elazar says: A good heart.",
  ("rabbi-elazar-b-arakh", "2:9", "praise"): "He [Rabban Yochanan] said to them: I prefer the words of Elazar ben Arach to your words, because your words are included in his words.",
  ("rabbi-elazar-b-arakh", "2:14", "saying"): "Rabbi Elazar says: Be diligent in studying Torah, and know how to answer an unbeliever (apikoros); know before whom you toil, and that your Employer can be trusted to pay you the reward for your work.",
+
+ ("hillel", "1:13", "saying"): "He used to say: One who makes his name great destroys his name; one who does not add [to his learning] loses; one who does not learn deserves death; and one who makes use of the crown [of Torah] passes away.",
+ ("rabban-gamliel-b-rabbi-(iii)", "2:3", "saying"): "Be careful with the authorities, for they bring a person close only for their own needs. They appear as friends when it benefits them, but they do not stand by a person in his time of need.",
+ ("hillel", "2:6", "saying"): "He also saw a skull floating on the water. He said to it: Because you drowned [others], you were drowned; and in the end, those who drowned you will be drowned.",
+ ("hillel", "2:7", "saying"): "He used to say: The more flesh, the more worms; the more property, the more worry; the more wives, the more witchcraft; the more maidservants, the more lewdness; the more male servants, the more theft; the more Torah, the more life; the more study, the more wisdom; the more counsel, the more understanding; the more charity, the more peace. One who has acquired a good name has acquired it for himself; one who has acquired words of Torah has acquired for himself life in the World to Come.",
  ("rabbi-tarfon", "2:15", "saying"): "Rabbi Tarfon says: The day is short, the work is great, the workers are lazy, the reward is great, and the Master of the house is pressing.",
  ("rabbi-tarfon", "2:16", "saying"): "He used to say: It is not your duty to finish the work, but you are not free to desist from it. If you have learned much Torah, you will be given much reward; your Employer can be trusted to pay you the reward for your work; and know that the reward of the righteous is in the time to come.",
 }
@@ -120,6 +125,7 @@ add("shimon-b-shetach", "1:9")
 add("shemaiah", "1:10", hs="שמעיה אומר")
 add("avtalyon", "1:11")
 add("hillel", "1:12", hs="הלל אומר")
+add("hillel", "1:13")
 add("hillel", "1:14")
 add("shammai", "1:15")
 add("rabban-gamliel-hazaken-(i)", "1:16")
@@ -128,8 +134,11 @@ add("rabban-shimon-b-gamliel-(ii)", "1:18")
 # --- chapter 2
 add("rabi", "2:1")
 add("rabban-gamliel-b-rabbi-(iii)", "2:2")
+add("rabban-gamliel-b-rabbi-(iii)", "2:3")
 add("rabban-gamliel-b-rabbi-(iii)", "2:4", hs="עשה רצונו כרצונך", he="רצון אחרים מפני רצונך")
 add("hillel", "2:4", hs="הלל אומר, אל תפרש")
+add("hillel", "2:6")
+add("hillel", "2:7")
 add("hillel", "2:5")
 add("rabban-yochanan-b-zakkai", "2:8", hs="אם למדת תורה הרבה", he="כי לכך נוצרת")
 # R. Yochanan ben Zakkai's praise of his five students (2:8) and their answers to 'which is the good way' (2:9)
@@ -164,6 +173,8 @@ add("rabbi-hananyah-b-teradyon", "3:2", hs="רבי חנינא בן תרדיון 
 add("rabbi-hananyah-b-hakhinai", "3:4")
 add("rabbi-nehunya-b-hakanah", "3:5")
 add("rabbi-halafta-of-kefar-hanania", "3:6", he="שכינה שרויה ביניהם", ee="the Divine Presence rests among them")
+add("rabbi-dostai-b-r-yannai", "3:8", he="אשר ראו עיניך", ee="which your eyes saw.\"")
+add("rabbi-meir", "3:8", "inname", he="אשר ראו עיניך", ee="which your eyes saw.\"")   # taught in his name by R. Dostai b. Yannai
 add("rabbi-elazar-b-yehudah-of-bartota", "3:7", he="ומידך נתנו לך", ee="we have given to You\" (I Chronicles 29:14).")
 add("rabbi-chanina-b-dosa", "3:9")
 add("rabbi-chanina-b-dosa", "3:10", he="אין רוח המקום נוחה הימנו", ee="the spirit of God does not find pleasure.")
@@ -173,6 +184,7 @@ add("rabbi-yishmael-b-elisha", "3:12")
 add("rabbi-akiva", "3:13")
 add("rabbi-akiva", "3:14", he="עשה את האדם", ee="He made man.\"")
 add("rabbi-akiva", "3:15")
+add("rabbi-akiva", "3:16", he="והיד כותבת", ee="the hand writes")
 add("rabbi-elazar-b-azaryah", "3:17", he="אם אין תורה, אין קמח", ee="there is no flour.")
 add("rabbi-elazar-hisma", "3:18")
 # --- chapter 4
@@ -183,6 +195,11 @@ add("rabbi-levitas-of-yavneh", "4:4", hs="רבי לויטס איש יבנה או
 add("rabbi-yohanan-b-berokah", "4:4", hs="רבי יוחנן בן ברוקא אומר", es="Rabbi Yochanan ben Beroka says")
 add("rabbi-yishmael-b-yohanan-b-berokah", "4:5", hs="רבי ישמעאל בנו אומר", he="לשמר ולעשות", ee="to observe, and to practice.")
 add("rabbi-tzadok-(i)", "4:5", hs="רבי צדוק אומר", he="ולא קרדם לחפר בהם", es="Rabbi Tzadok says", ee="with which to dig into them.")
+add("rabbi-yose-b-chalafta", "4:6")      # 'R. Yose', whose son R. Yishmael follows in 4:7 (R. Yose b. Chalafta's son is R. Yishmael b. Yose)
+add("rabbi-yishmael-b-yose", "4:7", he="ושבועת שוא", es="One who withholds", ee="and the false oath.")   # cut before 'imbecile' (project rule: never)
+add("rabbi-yishmael-b-yose", "4:8")
+add("rabbi-yonatan", "4:9")
+add("rabbi-meir", "4:10")
 add("rabbi-yohanan-hasandlar", "4:11", hs="רבי יוחנן הסנדלר אומר", es="Rabbi Yochanan the shoemaker says")
 add("rabbi-elazar-b-shamua", "4:12")
 add("rabbi-nehorai", "4:14")
