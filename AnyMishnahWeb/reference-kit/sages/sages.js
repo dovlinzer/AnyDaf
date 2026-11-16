@@ -632,7 +632,7 @@
       out += id && sage(id) ? `<button type="button" data-go="${esc(id)}">${esc(m[1])}</button>` : esc(m[1]);
       i = m.index + m[0].length;
     }
-    return (out + esc(bio.slice(i))).replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>');
+    return (out + esc(bio.slice(i))).replace(/\*\*([^*]+)\*\*/g, '<b>$1</b>').replace(/\*([^*]+)\*/g, '<i>$1</i>');   // **bold** and *italic* (Sefaria's markdown)
   }
   function showNote(btn) {
     const old = S.box.querySelector('.sgx-pop');
