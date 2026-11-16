@@ -23,7 +23,7 @@
           quotedB: 'Named on {0} lines of the Talmud', quotedM: 'Named in {0} mishnayot', most: 'Most in:',
           all: 'All places', allT: 'All tractates', none: 'No teachers or students are recorded.',
           father: 'Father', mother: 'Mother', parents: 'Parent', children: 'Children', spouse: 'Wife', in_laws: 'Father-in-law',
-          sons_in_law: 'Son-in-law', siblings: 'Brother', relatives: 'Relative', stories: 'Stories about him', avot: 'In Pirkei Avot', avotTaylor: 'English: Joseph I. Gorfinkle, 1913.', avotPraise: 'Rabban Yochanan ben Zakkai on his student', avotAnswer: 'His answer: which is the right way to hold to?',
+          sons_in_law: 'Son-in-law', siblings: 'Brother', relatives: 'Relative', stories: 'Stories about him', avot: 'In Pirkei Avot', avotTaylor: 'English: Sefaria Community Translation (CC0); where marked, our own translation from the Hebrew.', avotOurs: '(our translation)', avotPraise: 'Rabban Yochanan ben Zakkai on his student', avotAnswer: 'His answer: which is the right way to hold to?',
           sefaria: 'Sefaria', wiki: 'Wikipedia', approx: 'Dates are approximate, by generation.', loading: 'Loading…',
           keyT: 'teacher → student', keyC: 'colleagues', keyRT: 'teacher', keyRS: 'student', keyRC: 'colleague', keyTa: 'Tanna', keyEY: 'Amora, Eretz Yisrael',
           keyBV: 'Amora, Bavel', keyZ: 'Zugot', keyF: 'family', notes: 'Notes and sources',
@@ -36,7 +36,7 @@
           quotedM: 'נזכר ב־{0} משניות', most: 'בעיקר ב:', all: 'כל המקומות', allT: 'כל המסכתות',
           none: 'לא ידוע על רבותיו ותלמידיו.', father: 'אביו', mother: 'אמו', parents: 'הורה', children: 'ילדיו',
           spouse: 'אשתו', in_laws: 'חמיו', sons_in_law: 'חתנו', siblings: 'אחיו', relatives: 'קרוב משפחה',
-          stories: 'סיפורים עליו', avot: 'בפרקי אבות', avotTaylor: '', avotPraise: 'רבן יוחנן בן זכאי על תלמידו', avotAnswer: 'תשובתו: איזוהי דרך ישרה שידבק בה האדם?', sefaria: 'ספריא', wiki: 'ויקיפדיה', approx: 'התאריכים משוערים, לפי הדור.',
+          stories: 'סיפורים עליו', avot: 'בפרקי אבות', avotTaylor: '', avotOurs: '', avotPraise: 'רבן יוחנן בן זכאי על תלמידו', avotAnswer: 'תשובתו: איזוהי דרך ישרה שידבק בה האדם?', sefaria: 'ספריא', wiki: 'ויקיפדיה', approx: 'התאריכים משוערים, לפי הדור.',
           loading: 'טוען…', keyT: 'רב ← תלמיד', keyC: 'בני דורו', keyRT: 'רב', keyRS: 'תלמיד', keyRC: 'בן דורו', keyTa: 'תנא', keyEY: 'אמורא, ארץ ישראל',
           keyBV: 'אמורא, בבל', keyZ: 'זוגות', keyF: 'משפחה', notes: 'הערות ומקורות',
           wifeOf: 'אשת', daughterOf: 'בתו של', sonOf: 'בנו של', moreAbout: 'עוד עליו', vTS: 'רבותיו ותלמידיו', vFam: 'משפחה', disputed: 'שנוי במחלוקת', apparently: 'כנראה', possibly: 'ייתכן', tradition: 'לפי המסורת',
@@ -683,7 +683,7 @@
     const avot = x.avot && x.avot.length ? `<h4>${t('avot')}</h4><div class="sgx-avot">${x.avot.map(a => {
       const m = /Avot (\d+):(\d+)/.exec(a.ref);
       const tag = a.kind === 'praise' ? `<small>${t('avotPraise')}</small>` : a.kind === 'answer' ? `<small>${t('avotAnswer')}</small>` : '';
-      return `<blockquote>${tag}<p lang="he" dir="rtl">${esc(a.he)}</p>${HE() ? '' : `<p>${esc(a.en)}</p>`}<a href="https://www.sefaria.org${HE() ? '.il' : ''}/Pirkei_Avot.${m[1]}.${m[2]}" target="_blank" rel="noopener">${esc(a.ref)}</a></blockquote>`;
+      return `<blockquote>${tag}<p lang="he" dir="rtl">${esc(a.he)}</p>${HE() ? '' : `<p>${esc(a.en)}${a.en_src === 'ours' ? ` <span class="sgx-ours">${t('avotOurs')}</span>` : ''}</p>`}<a href="https://www.sefaria.org${HE() ? '.il' : ''}/Pirkei_Avot.${m[1]}.${m[2]}" target="_blank" rel="noopener">${esc(a.ref)}</a></blockquote>`;
     }).join('')}${HE() ? '' : `<p class="sgx-credit">${t('avotTaylor')}</p>`}</div>` : '';
     const where = n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
       <p class="sgx-where">${top.map(([tr, c]) => `<button type="button" data-tr="${esc(tr)}">${esc(name(tr))} <b>${c}</b></button>`).join('')}
