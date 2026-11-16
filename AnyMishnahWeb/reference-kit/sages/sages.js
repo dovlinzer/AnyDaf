@@ -690,9 +690,8 @@
           const ps = a.en.split(/(?<=\.)\s+(?=[A-Z\u2018\u201c\[(])/);
           return `<blockquote>${tag}${ps.map((p, i) => `<p>\u201c${esc(p)}${i === ps.length - 1 ? `\u201d <a href="${href}" target="_blank" rel="noopener">(${ref})</a>` : ''}</p>`).join('')}</blockquote>`; })();
     }).join('')}</div>` : '';
-    // Notable passages: Sefaria's curated Bavli passages for this sage, each a collapsed card (its title) opening to the excerpt and its folio; the host can switch the section off
-    const showNotable = !S.o.notable || S.o.notable();
-    const notable = showNotable && x.notable && x.notable.length ? `<details class="sgx-notfold"><summary>${t('notable')}</summary><div class="sgx-notable">${x.notable.map(p =>
+    // Notable passages: Sefaria's curated Bavli passages for this sage, each a collapsed card (its title) opening to the excerpt and its folio
+    const notable = x.notable && x.notable.length ? `<details class="sgx-notfold"><summary>${t('notable')}</summary><div class="sgx-notable">${x.notable.map(p =>
       `<details class="sgx-pass"><summary>${esc(p.title)}</summary><p${HE() ? ' lang="he" dir="rtl"' : ''}>${esc(HE() ? p.he : p.en).replace(/⟦/g, '<b>').replace(/⟧/g, '</b>')} <a href="https://www.sefaria.org${HE() ? '.il' : ''}/${encodeURIComponent(p.ref.replace(/ /g, '_'))}" target="_blank" rel="noopener">(${esc(p.cite)})</a></p></details>`).join('')}</div></details>` : '';
     const avotFold = avot ? avot.replace(/^<h4>(.*?)<\/h4>(<div class="sgx-avot">)/, '<details class="sgx-avotfold"><summary>$1</summary>$2') + '</details>' : '';
     const where = n ? `<h4>${t(S.o.corpus === 'mishnah' ? 'quotedM' : 'quotedB', n.toLocaleString())}${x.estimated_count ? ` <i title="${esc(t('est'))}">~</i>` : ''}</h4>
@@ -705,8 +704,7 @@
       box.innerHTML = `<h3>${esc(fullName(x))} <span lang="${HE() ? 'en' : 'he'}" dir="${HE() ? 'ltr' : 'rtl'}">${esc(HE() ? x.en : x.he)}</span></h3>
         <p class="sgx-meta">${esc(meta(x))}${x.years && !x.died ? ` <i title="${esc(t('approx'))}">*</i>` : ''}</p>
         ${bioParas.map(t => `<p class="sgx-bio"${bioLang}>${bioHTML(t)}</p>`).join('')}
-        <details class="sgx-moreinfo"><summary>${t('moreAbout')}</summary>
-        ${fam ? `<p class="sgx-fam">${fam}</p>` : ''}${avot ? `<div class="sgx-avotsec">${avot}</div>` : ''}${notable}${stories}${where}${links}</details>`;
+        ${fam ? `<p class="sgx-fam">${fam}</p>` : ''}${avotFold}${notable}${stories}${where}${links}`;
       return;
     }
     box.innerHTML = `<h3>${esc(fullName(x))} <span lang="${HE() ? 'en' : 'he'}" dir="${HE() ? 'ltr' : 'rtl'}">${esc(HE() ? x.en : x.he)}</span></h3>
