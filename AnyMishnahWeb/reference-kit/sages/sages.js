@@ -517,47 +517,66 @@
 
     commit(place, more, animate, { g, clay, width, nodeW, cw, x, boxW: Math.min(nodeW, (width - 84) / (cap + 1) - 10) });
   }
-  // The sage's own Pirkei Avot sayings in the white space beside his picture. Default: one shows, stays a few seconds, fades, the next fades in;
-  // a click on his picture moves on at once. Add ?sayings=click to the address for the other way: nothing shows until his picture is clicked, each click shows the next, and the last click hides it.
-  const SAY = { idx: {}, timer: 0 };
+  // The sage's own Pirkei Avot sayings in the white space beside his picture, one box at a time, no more than four lines: a longer saying runs on into the next box (an ellipsis ends one and begins the next),
+  // and the boxes alternate left and right. Default: a box stays a few seconds, fades, the next fades in; a click on his picture moves on at once.
+  // Add ?sayings=click to the address for the other way: nothing shows until his picture is clicked, each click shows the next box, and the last click hides it.
+  const SAY = { idx: {}, timer: 0, n: 0 };
   function sayings(g, c, x, width) {
     clearTimeout(SAY.timer);
     g.querySelectorAll('.sgx-say').forEach(e => e.remove());
     const all = x.avot || [], own = all.filter(a => a.kind === 'saying'), list = (own.length ? own : all).filter(a => HE() ? a.he : a.en);
     const el = c && S.nodes.get(c.id || c.key) && S.nodes.get(c.id || c.key).el;
     if (!list.length || !el) return;
-    const click = /[?&]sayings=click/.test(location.search), key = x.sefaria;
-    const right = c.x < width / 2 ? true : false;
+    const click = /[?&]sayings=click/.test(location.search), key = x.sefaria, he = HE();
     const half = Math.max(el.offsetWidth, 100) / 2 + 14;
-    const room = (right ? width - c.x : c.x) - half - 10;
-    if (room < 130) return;                                   // a narrow screen: the folded list below has them
-    const b = document.createElement('div'); b.className = 'sgx-say'; b.style.opacity = '0';
-    b.style.width = Math.min(room, 270) + 'px';
-    b.style.top = (c.y - 28) + 'px';
-    b.style[right ? 'left' : 'right'] = '';
-    b.style.left = ((right ? c.x + half : c.x - half - Math.min(room, 270))) + 'px';
-    b.style.transform = 'translateY(-50%)';
+    const roomL = c.x - half - 10, roomR = width - c.x - half - 10;
+    const sides = [roomL >= 130 && 'L', roomR >= 130 && 'R'].filter(Boolean);
+    if (!sides.length) return;                                // a narrow screen: the folded list below has them
+    const w = Math.min(270, ...sides.map(sd => sd === 'L' ? roomL : roomR));
+    const b = document.createElement('div'); b.className = 'sgx-say'; b.style.opacity = '0'; b.style.width = w + 'px';
+    b.style.top = (c.y - 28) + 'px'; b.style.transform = 'translateY(-50%)'; b.style.visibility = 'hidden';
+    if (he) { b.lang = 'he'; b.dir = 'rtl'; }
     g.appendChild(b);
-    const html = a => { const m = /Avot (\d+):(\d+)/.exec(a.ref), href = `https://www.sefaria.org${HE() ? '.il' : ''}/Pirkei_Avot.${m[1]}.${m[2]}`;
-      return HE() ? `<p lang="he" dir="rtl">${esc(a.he)}</p><a href="${href}" target="_blank" rel="noopener">${esc(a.ref)}</a>` : `<p>\u201c${esc(a.en)}\u201d</p><a href="${href}" target="_blank" rel="noopener">(${m[1]}:${m[2]})</a>`; };
+    const link = a => { const m = /Avot (\d+):(\d+)/.exec(a.ref); return `<a href="https://www.sefaria.org${he ? '.il' : ''}/Pirkei_Avot.${m[1]}.${m[2]}" target="_blank" rel="noopener">${he ? esc(a.ref) : `(${m[1]}:${m[2]})`}</a>`; };
+    // cut each saying into boxes of at most four lines, measured in the box itself
+    const lh = parseFloat(getComputedStyle(b).lineHeight) || 18, pad = parseFloat(getComputedStyle(b).paddingTop) * 2, maxH = lh * 4 + pad + 1;
+    const pages = [];
+    for (const a of list) {
+      const words = (he ? a.he : '\u201c' + a.en + '\u201d').split(/\s+/), ln = link(a);
+      let i = 0;
+      while (i < words.length) {
+        const lead = i ? '\u2026 ' : '';
+        const fits = n => { b.innerHTML = `<p>${esc(lead + words.slice(i, i + n).join(' '))}${i + n < words.length ? '\u2026' : ' ' + ln}</p>`; return b.scrollHeight <= maxH; };
+        let lo = 1, hi = words.length - i;
+        if (fits(hi)) lo = hi; else while (lo < hi) { const mid = (lo + hi + 1) >> 1; if (fits(mid)) lo = mid; else hi = mid - 1; }
+        pages.push(`<p>${esc(lead + words.slice(i, i + lo).join(' '))}${i + lo < words.length ? '\u2026' : ' ' + ln}</p>`);
+        i += lo;
+      }
+    }
+    b.style.visibility = ''; b.innerHTML = '';
     let i = SAY.idx[key] || 0, hidden = click;
-    const show = () => { b.innerHTML = html(list[i % list.length]); b.style.opacity = '1'; hidden = false; };
+    const place = () => {   // alternate sides, from one box to the next
+      const sd = sides.length === 1 ? sides[0] : (SAY.n++ % 2 ? 'R' : 'L');
+      b.style.left = (sd === 'R' ? c.x + half : c.x - half - w) + 'px';
+      b.dataset.side = sd;
+    };
+    const show = () => { b.innerHTML = pages[i % pages.length]; place(); b.style.opacity = '1'; hidden = false; };
     const hide = fn => { b.style.opacity = '0'; setTimeout(fn, 450); };
     const next = () => {                                         // move on: fade out, then the next fades in (click mode: after the last, hide)
       clearTimeout(SAY.timer);
       if (click) {
         if (hidden) { i = 0; show(); }
-        else if (i + 1 >= list.length) { hide(() => { hidden = true; i = 0; }); }
+        else if (i + 1 >= pages.length) { hide(() => { hidden = true; i = 0; }); }
         else hide(() => { i++; show(); });
         return;
       }
-      if (list.length < 2) return;
-      hide(() => { i = (i + 1) % list.length; SAY.idx[key] = i; show(); loop(); });
+      if (pages.length < 2) return;
+      hide(() => { i = (i + 1) % pages.length; SAY.idx[key] = i; show(); loop(); });
     };
-    const loop = () => { if (click || list.length < 2) return; SAY.timer = setTimeout(() => { if (!g.isConnected) return; next(); }, 7000); };
-    el.classList.add('hasay'); el.title = (click ? 'Click for a saying' : 'Click for the next saying');
-    el.onclick = e => { if (e.target.closest('a')) return; next(); };
-    if (!click) { setTimeout(() => { if (g.isConnected) { show(); loop(); } }, 500); }
+    const loop = () => { if (click || pages.length < 2) return; SAY.timer = setTimeout(() => { if (g.isConnected) next(); }, 7000); };
+    el.classList.add('hasay'); el.title = click ? 'Click for a saying' : 'Click for the next saying';
+    el.onclick = e => { if (!e.target.closest('a')) next(); };
+    if (!click) setTimeout(() => { if (g.isConnected) { show(); loop(); } }, 500);
   }
   // put the nodes on screen (reusing those already there, so they glide), and the "+N more" buttons, and the lines
   function commit(place, more, animate, ctx) {
