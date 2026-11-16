@@ -258,7 +258,21 @@ def bare(t):
     t = t[0].upper() + t[1:]
     t = re.sub(r'[\u201c"]([^\u201c\u201d"]*)[\u201d"]', "\u2018\\1\u2019", t)
     return t.replace("\u2019\u2019", "\u2019").replace(",\u2018", ", \u2018")
+PROOF = re.compile(r",?\s*(?:and (?:thus|so) with David it says|as it is (?:said|written|stated)|as it says|for it is said),?\s*(?:\([^)]*\):?)?\s*\u2018[^\u2019]*\u2019(?:\s*\([^)]*\))?")
+def drop_proof(t):
+    """Prooftexts ('as it is said (Isaiah 28:8): ...') are cut (author's rule): an ellipsis where more of the saying follows, a full stop where it ends."""
+    while True:
+        m = PROOF.search(t)
+        if not m: return t
+        before, rest = t[:m.start()].rstrip(" ,;"), t[m.end():]
+        if re.match(r"\s*\.", rest or ".") or not rest.strip():   # the verse ended the sentence: a full stop
+            rest = re.sub(r"^\s*\.\s*", "", rest)
+            t = before + "." + (" " + rest if rest else "")
+        else:                                                      # the saying goes on: an ellipsis
+            t = before + "... " + rest.strip()
 for v in out.values():
-    for it in v: it["en"] = bare(it["en"])
+    for it in v:
+        it["en"] = drop_proof(bare(it["en"])).replace("table of the Omnipresent, blessed be He.", "table of the Omnipresent.")
+        it["en"] = re.sub(r"^\((?:[1-3] )?[A-Z][a-z]+ \d+:\d+(?:-\d+)?\)\s*", "", it["en"])   # Shmuel haKatan's saying is a verse: no reference in front
 json.dump(out, open("outline/sages/avot.json", "w"), ensure_ascii=False, indent=1)
 print(len(out), "sages,", sum(len(v) for v in out.values()), "quotations,", sum(1 for v in out.values() for i in v if i.get("en_src")), "of them our own rendering")
