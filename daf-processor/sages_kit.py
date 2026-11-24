@@ -91,11 +91,16 @@ def main():
     # Rule: only a real scholarly possibility. A relation that rests on the Zohar or on a medieval (10th-15th c.) identification or tradition is not one
     # (the Zohar makes R. Pinchas b. Yair RSBY's father-in-law, the Talmud, Meilah 17b, his son-in-law; a 13th-c. name for RSBY's mother; Saadia Gaon as a descendant).
     LATE = re.compile(r"זוהר|זהר|יהודה בן קלונימוס|מהמאה ה-(?:1[0-9]|[2-9])\b")
+    # Rav Sherira Gaon's Iggeret (987) is authoritative for who belonged to whose generation (author, 2026-11-23): R. Shimon b. Yehudah (of Kfar Akko)
+    # is a colleague of Rabban Shimon b. Gamliel II
+    AUTHORITATIVE = {("rabbi-shimon-b-yehudah", "colleagues", "rabban-shimon-b-gamliel-(ii)"), ("rabban-shimon-b-gamliel-(ii)", "colleagues", "rabbi-shimon-b-yehudah")}
     def add(a, rel, b, src, notes=(), f=None, alts=False):
         if not b or b == a:
             return
         if any(LATE.search(n or "") for n in notes):
-            return
+            if (a, rel, b) not in AUTHORITATIVE:
+                return
+            notes = ()     # a late source the author accepts as authoritative: kept, and shown as certain (no 'possibly')
         key = (a, rel, b)
         e = links.setdefault(key, {"from": set(), "notes": [], "f": None, "alts": False})
         e["from"].add(src)

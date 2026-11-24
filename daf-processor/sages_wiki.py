@@ -254,18 +254,74 @@ def wikilinks(v):
                                                                 drop_refs(v))]
 
 
+def split_top(v):
+    """Split at commas, line breaks and bullets that are not inside parentheses (a note such as
+    "(לפי ה[[רמב"ם]], ועוד)" stays whole)."""
+    parts, cur, depth = [], [], 0
+    for ch in v:
+        if ch == "(":
+            depth += 1
+        elif ch == ")":
+            depth = max(0, depth - 1)
+        if depth == 0 and ch in ",\n\u2022":
+            parts.append("".join(cur)); cur = []
+        else:
+            cur.append(ch)
+    parts.append("".join(cur))
+    return parts
+
+
 def items(v):
-    """A field's entries: its links, plus plain names separated by commas or line breaks."""
+    """A field's entries: its links, plus plain names separated by commas or line breaks.
+    A "(note)" belongs to the link just before it, and links inside the note (a century, a
+    book: "(זיהוי מ[[המאה ה-10]])") are part of the note's words, not people. Before 2026-11-23
+    those links were read as people and the note was cut to what stood outside them ("זיהוי מ")."""
     v = drop_refs(v)
     v = re.sub(r"\{\{ש\}\}|<br\s*/?>", ",", v)
     out = []
-    for chunk in re.split(r",|\n|•", v):
+    for chunk in split_top(v):
         chunk = chunk.strip(" ;.")
         if not chunk:
             continue
-        ls = wikilinks(chunk)
-        if ls:
-            out.extend(("link", t, shown, re.sub(r"\[\[.*?\]\]", "", chunk).strip(" ()")) for t, shown in ls)
+        # links first (a link's own "(אמורא)" is not a note), then the "(notes)" outside them
+        groups, links, depth, gs, i = [], [], 0, None, 0
+        while i < len(chunk):
+            if chunk.startswith("[[", i):
+                j = chunk.find("]]", i)
+                if j < 0:
+                    break
+                if depth == 0:
+                    w = wikilinks(chunk[i:j + 2])
+                    if w:
+                        links.append((i, j + 2, w[0]))
+                i = j + 2
+                continue
+            c = chunk[i]
+            if c == "(":
+                if depth == 0:
+                    gs = i
+                depth += 1
+            elif c == ")" and depth:
+                depth -= 1
+                if depth == 0:
+                    groups.append((gs, i + 1, chunk[gs + 1:i]))
+            i += 1
+        if not links:   # "אביו ([[רב]])": the person is inside the brackets, the words outside say who he is
+            outside = " ".join(chunk[a:b] for a, b in zip([0] + [g[1] for g in groups], [g[0] for g in groups] + [len(chunk)])).strip(" ,;-")
+            for _, _, g in groups:
+                for m in re.finditer(r"\[\[.*?\]\]", g):
+                    w = wikilinks(m.group(0))
+                    if w:
+                        links.append((0, 0, w[0]))
+                        groups = [] if not outside else [(0, 0, outside)]
+        if links:
+            for i, (st, en, (t, shown)) in enumerate(links):
+                nxt = links[i + 1][0] if i + 1 < len(links) else len(chunk) + 1
+                note = "; ".join(g for gs, ge, g in groups if en <= gs < nxt or (i == 0 and gs < st))
+                pre = re.sub(r"\{\{.*?\}\}|'+", "", chunk[(links[i - 1][1] if i else 0):st]).strip(" -:,;")
+                if re.fullmatch(r"(?:אביו|אחיו|בנו|חתנו|חותנו|גיסו)(?:\s+\S+)?", pre) and "(" not in pre:   # "אביו - [[X]]": who he is to the sage
+                    note = "; ".join(x for x in (pre, note) if x)
+                out.append(("link", t, shown, note))
         else:
             plain = re.sub(r"\{\{.*?\}\}|'''?|\(.*?\)", "", chunk).strip()
             if plain:
