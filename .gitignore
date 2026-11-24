@@ -60,3 +60,6 @@ daf-processor/outline/xref_check/.*batch*.json
 daf-processor/outline/xref_check/*.log
 daf-processor/outline/xref_check/weak.json
 daf-processor/outline/word_gloss/tahot/
+
+# AnyMishnahWeb build environment (made by scripts/setup_env.sh)
+AnyMishnahWeb/.venv/

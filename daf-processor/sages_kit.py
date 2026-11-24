@@ -88,8 +88,13 @@ def main():
     # links: (a, rel, b-or-name) -> sources
     links = {}
     unnamed = {}      # relatives Wikipedia describes but does not name ("his daughter, wife of X")
+    # Rule: only a real scholarly possibility. A relation that rests on the Zohar or on a medieval (10th-15th c.) identification or tradition is not one
+    # (the Zohar makes R. Pinchas b. Yair RSBY's father-in-law, the Talmud, Meilah 17b, his son-in-law; a 13th-c. name for RSBY's mother; Saadia Gaon as a descendant).
+    LATE = re.compile(r"זוהר|זהר|יהודה בן קלונימוס|מהמאה ה-(?:1[0-9]|[2-9])\b")
     def add(a, rel, b, src, notes=(), f=None, alts=False):
         if not b or b == a:
+            return
+        if any(LATE.search(n or "") for n in notes):
             return
         key = (a, rel, b)
         e = links.setdefault(key, {"from": set(), "notes": [], "f": None, "alts": False})

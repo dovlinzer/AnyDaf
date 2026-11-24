@@ -406,7 +406,7 @@
   function drawFamily(animate) {
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg'), clay = !!S.o.clay;
     S.box.dataset.view = 'fam'; g.classList.toggle('clay', clay); g.classList.add('famview');
-    clearTimeout(SAY.timer); g.querySelectorAll('.sgx-say').forEach(e => e.remove());
+    clearTimeout(SAY.timer); g.onclick = null; g.classList.remove('hasay'); g.querySelectorAll('.sgx-say').forEach(e => e.remove());
     const sc = S.box.querySelector('.sgx-scroll'), avail = sc.clientWidth - 2 || 600, phone = avail < 560;
     const nodeW = clay ? (phone ? 92 : 112) : phone ? 88 : 118, rowH = clay ? (phone ? 158 : 170) : 124;   // room under each name for the line down to the next generation
     const fg = famGraph(S.cur), lay = famLayout(fg, nodeW, rowH, avail), centre = fg.nodes.get(S.cur), cx = sage(S.cur);
@@ -523,7 +523,7 @@
   // Add ?sayings=click to the address for the other way: nothing shows until his picture is clicked, each click shows the next box, and the last click hides it.
   const SAY = { idx: {}, timer: 0, n: 0 };
   function sayings(g, c, x, width) {
-    clearTimeout(SAY.timer);
+    clearTimeout(SAY.timer); g.onclick = null; g.classList.remove('hasay');
     g.querySelectorAll('.sgx-say').forEach(e => e.remove());
     const all = x.avot || [], own = all.filter(a => a.kind === 'saying'), list = (own.length ? own : all).filter(a => HE() ? a.he : a.en);
     const el = c && S.nodes.get(c.id || c.key) && S.nodes.get(c.id || c.key).el;
@@ -579,8 +579,10 @@
       hide(() => { i = (i + 1) % pages.length; SAY.idx[key] = i; show(); loop(); });
     };
     const loop = () => { if (click || pages.length < 2) return; SAY.timer = setTimeout(() => { if (g.isConnected) next(); }, 7000); };
-    el.classList.add('hasay'); el.title = click ? 'Click for a saying' : 'Click for the next saying';
-    el.onclick = e => { if (!e.target.closest('a')) next(); };
+    g.title = click ? 'Click for a saying' : 'Click for the next saying';
+    // a click anywhere in the picture area moves the sayings on (a click on another sage still goes to him, a link or a '+N more' button does what it says)
+    g.onclick = e => { if (e.target.closest('a, .sgx-more')) return; const n = e.target.closest('.sgx-n'); if (n && n.dataset.go) return; next(); };
+    g.classList.add('hasay');
     if (!click) setTimeout(() => { if (g.isConnected) { show(); loop(); } }, 500);
   }
   // put the nodes on screen (reusing those already there, so they glide), and the "+N more" buttons, and the lines
