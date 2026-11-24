@@ -299,7 +299,7 @@
       const tag = pn.key + (up ? 'u' : '') + (down ? 'd' : ''); if (!pn.id || done.has(tag)) return; done.add(tag);
       const L = sage(pn.id).links, each = (rels, fn) => rels.forEach(r => (L[r] || []).forEach(l => fn(l, r)));
       if (up && depth < MAXGEN) {
-        each(['father', 'mother', 'parents'], l => { const q = mk(l, pn.gen - 1); if (q) { edge(q, pn, 'pc', l.notes);
+        each(['father', 'mother', 'parents'], (l, r) => { const q = mk(l, pn.gen - 1, r === 'mother' ? { f: 1 } : undefined); if (q) { edge(q, pn, 'pc', l.notes);
           if (q.id) expand(q, true, false, depth + 1);
           else for (const [oid, o] of Object.entries(S.data.sages))   // a father we only have by name (Shimon b. Hillel): a sage who lists a child of that name is HIS father
             if ((o.links.children || []).some(c => !c.id && c.name === l.name)) { const g = mk({ id: oid }, q.gen - 1); if (g) { edge(g, q, 'pc'); expand(g, true, false, depth + 2); } } } });
@@ -375,7 +375,7 @@
       let row = all.filter(n => n.gen === gn);
       row.forEach(n => { const ps = par(n).filter(q => q.x != null); n.want = ps.length ? ps.reduce((a, q) => a + q.x, 0) / ps.length : null; });
       row.forEach(n => { if (n.want == null) { const m = mate(n); if (m && m.want != null) n.want = m.want + 0.01; } });
-      row.sort((a, b) => (a.want ?? 1e9) - (b.want ?? 1e9) || (a.unsure ? 1 : 0) - (b.unsure ? 1 : 0));
+      row.sort((a, b) => (a.want ?? 1e9) - (b.want ?? 1e9) || (a.inlaw ? 1 : 0) - (b.inlaw ? 1 : 0) || (a.unsure ? 1 : 0) - (b.unsure ? 1 : 0));
       const out = [];   // a spouse right after her partner
       row.forEach(n => { if (out.includes(n)) return; out.push(n); const m = mate(n); if (m && m.gen === gn && !out.includes(m)) out.push(m); });
       let prevX = -1e9;
@@ -406,6 +406,7 @@
   function drawFamily(animate) {
     const g = S.box.querySelector('.sgx-graph'), svg = g.querySelector('svg'), clay = !!S.o.clay;
     S.box.dataset.view = 'fam'; g.classList.toggle('clay', clay); g.classList.add('famview');
+    clearTimeout(SAY.timer); g.querySelectorAll('.sgx-say').forEach(e => e.remove());
     const sc = S.box.querySelector('.sgx-scroll'), avail = sc.clientWidth - 2 || 600, phone = avail < 560;
     const nodeW = clay ? (phone ? 92 : 112) : phone ? 88 : 118, rowH = clay ? (phone ? 158 : 170) : 124;   // room under each name for the line down to the next generation
     const fg = famGraph(S.cur), lay = famLayout(fg, nodeW, rowH, avail), centre = fg.nodes.get(S.cur), cx = sage(S.cur);
