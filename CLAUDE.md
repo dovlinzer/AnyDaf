@@ -2003,6 +2003,9 @@ contract, open questions, milestones). Built so far, no Next.js scaffold yet:
   Chagigah 6 only, since it is the one outline with anchors so far. Run with daf-processor's
   venv. Published: https://claude.ai/artifact/VyEhmmkY9siDtWvA6F2WbH
 
+#### Demo video (`AnyDafWeb/demo-video/`, 2026-11-25)
+A 45-second demo of the site (Bava Metzia 3 example), 16:9 and 9:16: Playwright takes from the live site, edited in Remotion. See its README. Re-record the takes (`node capture/scenes.mjs`) if the site's look changes.
+
 #### Reference: weights, measures, money (from Illustrated Mishna, 2026-10-28)
 The popup and Reference box of imishna.com/reference, in iTalmud. **Single source: the reference kit,
 `AnyMishnahWeb/reference-kit/`, shared with Illustrated Mishna (it must stay at that path).**
