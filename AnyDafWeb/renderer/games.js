@@ -23,12 +23,12 @@
       none: "Nothing to practice here yet.", again: "Play again", next: "Next chart", done: "Done!", slips: (n) => n ? `${n} slip${n > 1 ? "s" : ""}` : "no slips",
       tray: "Cards", hint: "Tap a card, then tap its place, or drag it there.", pairs: "pairs found", tries: "tries", chartN: (i, n) => `Chart ${i} of ${n}`, all: "All matched",
       kp: "Kosher or pasul", kpD: "Swipe right or left, or tap, for each case.", round: (i, n) => `${i} of ${n}`, right: "Right!", wrong: "Not quite", score: (a, n) => `${a} of ${n} right`, swipe: "← swipe →",
-      who: "Who said it", whoD: "Match each sage or school to the position they hold.", whoQ: "Who holds this?", roundN: (i, n) => `Round ${i} of ${n}`, nextR: "Next round", review: "See it in the outline:", next1: "Next ›", peek: "See it in the outline", according: "According to", section: "Outline section", navPrev: "Previous", navNext: "Skip to the next", skipped: (n) => n ? ` ${n} skipped.` : "", quiz: "Quiz", quizD: "Multiple-choice questions on the daf's main points.", qN: (i, n) => `Question ${i} of ${n}` },
+      who: "Who said it", whoD: "Match each sage or school to the position they hold.", whoQ: "Who holds this?", roundN: (i, n) => `Round ${i} of ${n}`, nextR: "Next round", review: "See it in the outline:", next1: "Next ›", peek: "See it in the outline", onDaf: "Show in the daf", according: "According to", section: "Outline section", navPrev: "Previous", navNext: "Skip to the next", skipped: (n) => n ? ` ${n} skipped.` : "", quiz: "Quiz", quizD: "Multiple-choice questions on the daf's main points.", qN: (i, n) => `Question ${i} of ${n}` },
     he: { title: "תרגול", back: "› כל המשחקים", chart: "השלימו את הטבלה", chartD: "גררו כל כרטיס למקומו בטבלה.", match: "התאמת מושגים", matchD: "הפכו שני כרטיסים: מושג והפירוש שלו.",
       none: "אין עדיין מה לתרגל כאן.", again: "שוב", next: "הטבלה הבאה", done: "סיימתם!", slips: (n) => n ? `${n} טעויות` : "בלי טעויות",
       tray: "כרטיסים", hint: "הקישו על כרטיס ואז על מקומו, או גררו אותו.", pairs: "זוגות", tries: "ניסיונות", chartN: (i, n) => `טבלה ${i} מתוך ${n}`, all: "הכול הותאם",
       kp: "כשר או פסול", kpD: "החליקו ימינה או שמאלה, או הקישו, על כל מקרה.", round: (i, n) => `${i} מתוך ${n}`, right: "נכון!", wrong: "לא בדיוק", score: (a, n) => `${a} מתוך ${n} נכונות`, swipe: "← החליקו →",
-      who: "מי אמר", whoD: "התאימו כל חכם או בית מדרש לעמדה שלו.", whoQ: "מי סבור כך?", roundN: (i, n) => `סבב ${i} מתוך ${n}`, nextR: "הסבב הבא", review: "ראו בסכמה:", next1: "‹ הבא", peek: "ראו בסכמה", according: "לדעת", section: "פרק בסכמה", navPrev: "הקודם", navNext: "דלגו לבא", skipped: (n) => n ? ` ${n} דולגו.` : "", quiz: "חידון", quizD: "שאלות אמריקאיות על עיקרי הדף.", qN: (i, n) => `שאלה ${i} מתוך ${n}` },
+      who: "מי אמר", whoD: "התאימו כל חכם או בית מדרש לעמדה שלו.", whoQ: "מי סבור כך?", roundN: (i, n) => `סבב ${i} מתוך ${n}`, nextR: "הסבב הבא", review: "ראו בסכמה:", next1: "‹ הבא", peek: "ראו בסכמה", onDaf: "הצגה בדף", according: "לדעת", section: "פרק בסכמה", navPrev: "הקודם", navNext: "דלגו לבא", skipped: (n) => n ? ` ${n} דולגו.` : "", quiz: "חידון", quizD: "שאלות אמריקאיות על עיקרי הדף.", qN: (i, n) => `שאלה ${i} מתוך ${n}` },
   };
 
   // Small line icons for the games menu, drawn in currentColor so they follow the theme.
@@ -275,7 +275,7 @@
     // ---------- Quiz ----------
     // One question at a time in the daf's order; the options are shuffled (the right one is written first).
     // A right answer lights up green; a wrong one red, with the right one shown. Each answer gives its reason
-    // and a way back to the outline section the question comes from.
+    // and a way back to the outline section the question comes from, and to its line on the daf page (opts.onDaf).
     function quizGame() {
       const res = []; let i = 0;
       const body = shell(W.quiz, `<div class="adg-quiz"></div><div class="adg-end" hidden></div>`, `<span class="adg-sc"></span>${navHTML()}`);
@@ -292,8 +292,8 @@
         box.querySelectorAll(".adg-opt").forEach((b) => { b.disabled = true; const n = +b.dataset.k;
           if (n === 0) b.classList.add("good"); else if (n === k) b.classList.add("bad"); else b.classList.add("dim"); });
         const a = box.querySelector(".adg-after"); a.hidden = false;
-        a.innerHTML = `<p class="adg-fb ${good ? "good" : "bad"}"><b>${good ? W.right : W.wrong}</b> ${md(it.why || "")}</p><div class="adg-row">${it.id ? `<button type="button" class="adg-btn" data-rev="${esc(it.id)}">${W.peek}</button>` : ""}<button type="button" class="adg-btn pri" id="adgNext1">${W.next1}</button></div>`;
-        wireReview(a); a.querySelector("#adgNext1").onclick = advance; a.querySelector("#adgNext1").focus();
+        a.innerHTML = `<p class="adg-fb ${good ? "good" : "bad"}"><b>${good ? W.right : W.wrong}</b> ${md(it.why || "")}</p><div class="adg-row">${it.id ? `<button type="button" class="adg-btn" data-rev="${esc(it.id)}">${W.peek}</button>` : ""}${it.line && opts.onDaf ? `<button type="button" class="adg-btn" data-daf="${esc(it.line)}">${W.onDaf}</button>` : ""}<button type="button" class="adg-btn pri" id="adgNext1">${W.next1}</button></div>`;
+        wireReview(a); a.querySelectorAll("[data-daf]").forEach((b) => b.onclick = () => opts.onDaf(b.dataset.daf, it.id)); a.querySelector("#adgNext1").onclick = advance; a.querySelector("#adgNext1").focus();
       }
       const advance = () => { i++; i < quiz.length ? show() : finish(); };
       wireNav(() => { if (i > 0) { i--; show(); } }, () => { if (i < quiz.length) advance(); });
