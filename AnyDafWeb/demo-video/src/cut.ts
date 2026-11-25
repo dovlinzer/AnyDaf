@@ -7,7 +7,7 @@
 export const FPS = 30;
 export const SRC = { w: 1600, h: 900, scale: 2 };   // CSS size of the takes, and video pixels per CSS pixel
 
-export type Seg = { from: number; to: number; rate: number };
+export type Seg = { from: number; to: number; rate: number; note?: string };   // note: the caption while it plays (else the scene's)
 export type Key = { t: number; x: number; y: number; w: number };
 export type Scene = {
   clip: string;
@@ -69,5 +69,5 @@ export const XFADE = 8;   // frames of cross-fade between scenes
 
 export const segFrames = (g: Seg) => Math.round(((g.to - g.from) / g.rate) * FPS);
 export const sceneFrames = (s: Scene) => s.segs.reduce((n, g) => n + segFrames(g), 0);
-export const totalFrames = () =>
-  Math.round(TITLE_S * FPS) + SCENES.reduce((n, s) => n + sceneFrames(s), 0) + Math.round(END_S * FPS) - XFADE * (SCENES.length + 1);
+export const totalFrames = (scenes: Scene[] = SCENES) =>
+  Math.round(TITLE_S * FPS) + scenes.reduce((n, s) => n + sceneFrames(s), 0) + Math.round(END_S * FPS) - XFADE * (scenes.length + 1);

@@ -10,3 +10,6 @@ A 45-second demo of the Illustrated Talmud website (Bava Metzia 3, the example o
 
 The 9:16 version is reframed from the same web takes (no phone recording). `capture/phone.mjs` records the
 phone layout, unused. Takes, renders and stills are gitignored; re-record if the site changes.
+
+## 90-second version
+`node capture/scenes90.mjs [1-6]` records takes L1-L6 (L6 is Hullin 88a's word lookups); each take's click and scroll times go to `public/clips/<take>.marks.json`. The edit is `src/cut90.ts` (captions per segment); render with `npm run render90:wide` / `npm run render90:tall`.

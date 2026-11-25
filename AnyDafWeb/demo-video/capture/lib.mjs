@@ -70,13 +70,17 @@ export async function glide(s, to, ms = 700) {
   for (let i = 1; i <= n; i++) { const t = ease(i / n); await s.page.mouse.move(x0 + (x - x0) * t, y0 + (y - y0) * t); await sleep(ms / n); }
   s.mouse.x = x; s.mouse.y = y;
 }
-export async function click(s, to, { ms = 650, pause = 180 } = {}) {
+// a timestamp in the take being recorded (seconds from its first frame), saved beside the clip
+export function mark(s, label) { if (s.t0) s.marks.push([label, +((Date.now() / 1000) - s.t0).toFixed(2)]); }
+export async function click(s, to, { ms = 650, pause = 180, label } = {}) {
   if (typeof to === "object" && to.scrollIntoViewIfNeeded) { await to.scrollIntoViewIfNeeded({ timeout: 5000 }).catch(() => {}); await sleep(150); }
   await glide(s, to, ms); await sleep(pause);
+  mark(s, label || (typeof to === "object" && to.toString ? String(to).replace(/^locator\(|\)$/g, "").slice(0, 70) : "click"));
   await s.page.mouse.down(); await sleep(70); await s.page.mouse.up();
 }
 // a smooth scroll of a scrolling element by dy pixels (or to a target scrollTop)
 export async function scrollBy(s, selector, dy, ms = 1200) {
+  mark(s, `scroll ${selector} ${Math.round(dy)}`);
   await s.page.evaluate(async ({ selector, dy, ms }) => {
     const el = document.querySelector(selector); const y0 = el.scrollTop, t0 = performance.now();
     const ease = (t) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2);
@@ -104,8 +108,9 @@ export async function record(s, name, fn, { fps = 30 } = {}) {
   // a heartbeat repaint so static stretches still get frames
   await s.page.evaluate(() => { const d = document.createElement('div'); d.id = '__hb'; Object.assign(d.style, {position:'fixed', right:'0', bottom:'0', width:'1px', height:'1px', opacity:'0.01', pointerEvents:'none'}); document.body.appendChild(d); let k = 0; window.__hbT = setInterval(() => { d.style.background = (k++ % 2) ? '#fff' : '#fefefe'; }, 33); });
   await cdp.send("Page.startScreencast", { format: "jpeg", quality: 92, maxWidth: s.width * s.scale, maxHeight: s.height * s.scale, everyNthFrame: 1 });
-  const t0 = Date.now() / 1000;
+  const t0 = Date.now() / 1000; s.t0 = t0; s.marks = [];
   await fn();
+  mark(s, "end"); s.t0 = 0;
   const t1 = Date.now() / 1000;
   await cdp.send("Page.stopScreencast");
   await s.page.evaluate(() => clearInterval(window.__hbT));
@@ -121,6 +126,8 @@ export async function record(s, name, fn, { fps = 30 } = {}) {
   const out = path.join(ROOT, "public", "clips", `${name}.mp4`); fs.mkdirSync(path.dirname(out), { recursive: true });
   const r = spawnSync("ffmpeg", ["-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", "list.txt", "-vf", `fps=${fps},scale=trunc(iw/2)*2:trunc(ih/2)*2,format=yuv420p`, "-c:v", "libx264", "-preset", "slow", "-crf", "14", out], { cwd: dir });
   if (r.status) throw new Error(r.stderr.toString());
+  const off = frames.length ? frames[0].t - t0 : 0;   // the clip starts at the first frame
+  fs.writeFileSync(out.replace(/\.mp4$/, ".marks.json"), JSON.stringify(s.marks.map(([l, t]) => [l, +(t - off).toFixed(2)]), null, 1));
   const span = frames.length ? frames.at(-1).t - frames[0].t : 0;
   console.log(`  ${name}: ${frames.length} frames over ${span.toFixed(1)}s (${(frames.length / Math.max(span, 0.01)).toFixed(1)} fps captured), ${(t1 - t0).toFixed(1)}s take -> ${path.relative(ROOT, out)}`);
   return out;

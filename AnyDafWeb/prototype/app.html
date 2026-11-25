@@ -1842,7 +1842,15 @@ function setPractice(open){$('pwin').hidden=!open;$('practiceBtn').setAttribute(
 $('practiceBtn').onclick=()=>setPractice($('pwin').hidden);
 $('pwinClose').onclick=()=>setPractice(false);
 // ---------- glossary pop-out ----------
-function openGloss(i){$('gwin').hidden=false;if(i!=null&&gloss)gloss.focus(i)}
+// The glossary, Sages and measures windows open over the outline, where the reader clicked (author, 2026-11-25):
+// the left by default, the right when the sides are swapped. A window the reader has dragged stays where they put it.
+function outlineSide(){if(narrow.matches)return null;const r=$('outCol').getBoundingClientRect();return r.width>200?r:null}
+function toOutlineSide(w){const r=outlineSide();if(!r||w.dataset.moved)return;const ww=w.offsetWidth||380;
+ const x=r.left+r.width/2<innerWidth/2?r.left+24:r.right-ww-24;w.style.left=Math.max(8,Math.min(innerWidth-ww-8,x))+'px';w.style.right='auto'}
+new MutationObserver(ms=>ms.forEach(m=>m.addedNodes.forEach(n=>{   // the measures popup (reference kit): centred on the outline
+ if(!(n.classList&&n.classList.contains('mpop'))||n.classList.contains('inline'))return;const r=outlineSide();if(!r)return;
+ const hw=n.offsetWidth/2;n.style.left=Math.max(hw+8,Math.min(innerWidth-hw-8,r.left+r.width/2))+'px'}))).observe(document.body,{childList:true});
+function openGloss(i){const w=$('gwin'),was=w.hidden;w.hidden=false;if(was)toOutlineSide(w);if(i!=null&&gloss)gloss.focus(i)}
 $('terms').onclick=e=>{const b=e.target.closest('[data-t]');if(b)openGloss(+b.dataset.t)};
 $('gwinClose').onclick=()=>{$('gwin').hidden=true};
 $('gq').oninput=e=>gloss&&gloss.filter(e.target.value);
@@ -1851,11 +1859,11 @@ $('gOrder').onclick=e=>{const b=e.target.closest('[data-o]');if(b)setGOrder(b.da
 if(prefs.gOrder)document.querySelectorAll('#gOrder button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.o===prefs.gOrder)));
 [['gwin','gwinBar'],['swin','swinBar'],['rwin','rwinBar'],['pwin','pwinBar']].forEach(([wid,hid])=>{const w=$(wid),h=$(hid);let s=null;
  h.addEventListener('pointerdown',e=>{if(e.target.closest('button')||matchMedia('(max-width:860px)').matches)return;const r=w.getBoundingClientRect();s={x:e.clientX-r.left,y:e.clientY-r.top};h.setPointerCapture(e.pointerId)});
- h.addEventListener('pointermove',e=>{if(!s)return;w.style.left=Math.max(0,Math.min(innerWidth-80,e.clientX-s.x))+'px';w.style.top=Math.max(0,Math.min(innerHeight-40,e.clientY-s.y))+'px';w.style.right='auto'});
+ h.addEventListener('pointermove',e=>{if(!s)return;w.dataset.moved='1';w.style.left=Math.max(0,Math.min(innerWidth-80,e.clientX-s.x))+'px';w.style.top=Math.max(0,Math.min(innerHeight-40,e.clientY-s.y))+'px';w.style.right='auto'});
  h.addEventListener('pointerup',()=>s=null)});
 // Sages box: a larger size, and a divider to give the timeline more or less of the box.
 $('swinBig').onclick=()=>{const big=!$('swin').classList.contains('big');$('swin').classList.toggle('big',big);
- $('swinBig').setAttribute('aria-pressed',String(big));$('swin').style.left=$('swin').style.top='';$('swin').style.right='';
+ $('swinBig').setAttribute('aria-pressed',String(big));$('swin').style.left=$('swin').style.top='';$('swin').style.right='';delete $('swin').dataset.moved;if(!big)toOutlineSide($('swin'));
  const i=$('slist').querySelector('.sage.hit');if(i)markChip(+i.id.slice(2),false)};
 function setStlH(h){const t=$('stl');if(h){t.style.height=h+'px';t.classList.add('sized')}else{t.style.height='';t.classList.remove('sized')}}
 {const g=$('sgrip');let y0=null,h0=0;
@@ -1928,7 +1936,7 @@ function where(i,x){const ids=new Set();
  x.lines.forEach(l=>{const o=D.order[l];if(o==null)return;let best=null;
   for(const s of secs)if(s.a!=null&&o>=s.a&&o<=s.b&&(!best||s.depth>=best.depth))best=s;if(best)ids.add(best.id)});
  return secs.filter(s=>ids.has(s.id))}
-function openSage(i){$('swin').hidden=false;front($('swin'));showSage(i)}
+function openSage(i){const w=$('swin'),was=w.hidden;w.hidden=false;if(was)toOutlineSide(w);front(w);showSage(i)}
 // Jumping to a sage: the card goes to the top of the list, highlighted, and the timeline scrolls
 // to that sage's name and highlights it, so the neighbours in time and place are in view.
 function markChip(i,smooth){const box=$('stl');box.querySelectorAll('button.on').forEach(b=>b.classList.remove('on'));

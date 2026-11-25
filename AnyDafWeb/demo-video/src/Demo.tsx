@@ -1,6 +1,9 @@
 import React from "react";
 import { AbsoluteFill, Img, OffthreadVideo, Sequence, interpolate, staticFile, useCurrentFrame, Easing } from "remotion";
 import { END_S, FPS, Key, SCENES, SRC, Scene, Seg, TITLE_S, XFADE, sceneFrames, segFrames } from "./cut";
+import { SCENES90 } from "./cut90";
+
+export const EDITS: Record<string, Scene[]> = { "45": SCENES, "90": SCENES90 };
 
 export type Format = "wide" | "tall";
 const NAVY = "#1B3A8A", AMBER = "#E8A020", CREAM = "#F7F3EA", INK = "#1d2433";
@@ -42,32 +45,31 @@ const Shot: React.FC<{ clip: string; seg: Seg; keys: Key[]; W: number; H: number
 };
 
 // ---------- captions ----------
-const Caption: React.FC<{ scene: Scene; fmt: Format; total: number }> = ({ scene, fmt, total }) => {
+// kicker: the scene's label (it fades in only with the scene); text: the caption, which can change per segment
+const Caption: React.FC<{ scene: Scene; text: string; first: boolean; last: boolean; fmt: Format; total: number }> = ({ scene, text, first, last, fmt, total }) => {
   const f = useCurrentFrame();
-  const inn = interpolate(f, [4, 18], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
-  const out = interpolate(f, [total - 10, total], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const inn = interpolate(f, first ? [4, 18] : [0, 10], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
+  const out = interpolate(f, [total - (last ? 10 : 6), total], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const kick = first ? inn * (last ? out : 1) : last ? out : 1;
   if (fmt === "tall") {
     return (
       <div style={{ position: "absolute", left: 0, right: 0, top: 0, height: TALL_CAP, background: NAVY, color: "white", padding: "70px 64px 0", boxSizing: "border-box", fontFamily: SANS }}>
-        <div style={{ opacity: inn * out, transform: `translateY(${(1 - inn) * 18}px)` }}>
-          <div style={{ color: AMBER, fontWeight: 700, letterSpacing: 3, fontSize: 30, textTransform: "uppercase", marginBottom: 16 }}>{scene.kicker}</div>
-          <div style={{ fontSize: 50, lineHeight: 1.22, fontWeight: 600 }}>{scene.caption}</div>
-        </div>
+        <div style={{ color: AMBER, fontWeight: 700, letterSpacing: 3, fontSize: 30, textTransform: "uppercase", marginBottom: 16, opacity: kick }}>{scene.kicker}</div>
+        <div style={{ fontSize: text.length > 90 ? 42 : 48, lineHeight: 1.22, fontWeight: 600, opacity: inn * out, transform: `translateY(${(1 - inn) * 14}px)` }}>{text}</div>
       </div>
     );
   }
   return (
-    <div style={{ position: "absolute", left: 56, bottom: 52, maxWidth: 1080, opacity: inn * out, transform: `translateY(${(1 - inn) * 24}px)`, fontFamily: SANS }}>
+    <div style={{ position: "absolute", left: 56, bottom: 52, maxWidth: 1180, opacity: kick, transform: `translateY(${(1 - (first ? inn : 1)) * 24}px)`, fontFamily: SANS }}>
       <div style={{ background: "rgba(27,58,138,.96)", color: "white", borderRadius: 20, padding: "24px 34px 26px", boxShadow: "0 12px 40px rgba(10,20,60,.35)" }}>
         <div style={{ color: AMBER, fontWeight: 700, letterSpacing: 2.5, fontSize: 22, textTransform: "uppercase", marginBottom: 8 }}>{scene.kicker}</div>
-        <div style={{ fontSize: 40, lineHeight: 1.25, fontWeight: 600 }}>{scene.caption}</div>
+        <div style={{ fontSize: text.length > 90 ? 34 : 38, lineHeight: 1.25, fontWeight: 600, opacity: first ? (last ? 1 : out) : inn * out }}>{text}</div>
       </div>
     </div>
   );
 };
 
 const SceneView: React.FC<{ scene: Scene; fmt: Format; W: number; H: number }> = ({ scene, fmt, W, H }) => {
-  const total = sceneFrames(scene);
   const top = fmt === "tall" ? TALL_CAP : 0, vh = H - top;
   let at = 0;
   return (
@@ -76,7 +78,12 @@ const SceneView: React.FC<{ scene: Scene; fmt: Format; W: number; H: number }> =
         {scene.segs.map((g, i) => { const from = at; at += segFrames(g);
           return <Sequence key={i} from={from} durationInFrames={segFrames(g)}><Shot clip={scene.clip} seg={g} keys={fmt === "tall" ? scene.tall : scene.wide} W={W} H={vh} /></Sequence>; })}
       </div>
-      <Caption scene={scene} fmt={fmt} total={total} />
+      {scene.segs.map((g, i) => { const from = scene.segs.slice(0, i).reduce((n, x) => n + segFrames(x), 0), n = scene.segs.length;
+        const text = g.note || scene.caption, same = (j: number) => (scene.segs[j].note || scene.caption) === text;
+        // a caption that runs on unchanged into the next segment is drawn once across both
+        if (i > 0 && same(i - 1)) return null;
+        let len = segFrames(g), j = i + 1; while (j < n && same(j)) { len += segFrames(scene.segs[j]); j++; }
+        return <Sequence key={"c" + i} from={from} durationInFrames={len}><Caption scene={scene} text={text} first={i === 0} last={j === n} fmt={fmt} total={len} /></Sequence>; })}
     </AbsoluteFill>
   );
 };
@@ -117,10 +124,11 @@ const FadeIn: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   return <AbsoluteFill style={{ opacity: interpolate(f, [0, XFADE], [0, 1], { extrapolateRight: "clamp" }) }}>{children}</AbsoluteFill>;
 };
 
-export const Demo: React.FC<{ fmt: Format; W: number; H: number }> = ({ fmt, W, H }) => {
+export const Demo: React.FC<{ fmt: Format; W: number; H: number; edit?: string }> = ({ fmt, W, H, edit = "45" }) => {
+  const SC = EDITS[edit];
   const pieces: { len: number; el: React.ReactNode }[] = [
     { len: Math.round(TITLE_S * FPS), el: <TitleCard fmt={fmt} /> },
-    ...SCENES.map((s) => ({ len: sceneFrames(s), el: <SceneView scene={s} fmt={fmt} W={W} H={H} /> })),
+    ...SC.map((s) => ({ len: sceneFrames(s), el: <SceneView scene={s} fmt={fmt} W={W} H={H} /> })),
     { len: Math.round(END_S * FPS), el: <EndCard fmt={fmt} /> },
   ];
   let at = 0;

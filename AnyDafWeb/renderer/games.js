@@ -15,7 +15,7 @@
 (function (global) {
   "use strict";
   const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-  const md = (s) => esc(s).replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>").replace(/\*([^*]+)\*/g, "<i>$1</i>").replace(/\n/g, "<br>");
+  const md = (s) => esc(s).replace(/\*\*((?:[^*]|\*[^*]+\*)+)\*\*/g, "<b>$1</b>").replace(/\*([^*]+)\*/g, "<i>$1</i>").replace(/\n/g, "<br>");
   const plain = (s) => String(s ?? "").replace(/\*+/g, "").trim();
   const shuffle = (a) => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
   const WORDS = {
@@ -118,6 +118,7 @@
     tray.addEventListener("keydown", (e) => { const k = e.target.closest(".adg-card"); if (k && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); select(picked === k ? null : k); } });
     tray.addEventListener("pointerdown", (e) => {
       const k = e.target.closest(".adg-card"); if (!k) return;
+      e.preventDefault();   // no text selection in the page behind while dragging (a tap still clicks)
       drag = { k, x: e.clientX, y: e.clientY, ghost: null, moved: false }; k.setPointerCapture(e.pointerId);
     });
     tray.addEventListener("pointermove", (e) => {
