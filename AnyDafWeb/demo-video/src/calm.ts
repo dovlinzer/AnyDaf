@@ -19,9 +19,10 @@ export const BEATS: Record<string, Beat> = {
   fillchart:    { kicker: "Quizzes & games", caption: "Or rebuild a chart: drag each card to its place." },
   textsync:     { kicker: "Outline and Talmud in step", caption: "Tap a section, and the Gemara goes there, in Hebrew, English or both." },
   linesync:     { kicker: "Outline and Talmud in step", caption: "Tap a line of Gemara, and the outline follows." },
-  dafpage:      { kicker: "Outline and Talmud in step", caption: "On the daf page too, with the Rambam and Shulchan Arukh in the margin." },
-  // at normal speed, and held on the open entry, so the definitions don't go by too fast
-  words:        { kicker: "Word Definitions", caption: "Right-click a line on the daf, then tap any word for its meaning and its dictionary entry.", rate: 1, hold: 2.5 },
+  xrefs:        { kicker: "Hyperlinks", caption: "Every line links to its sources: the verse in Tanakh, the parallels in Shas, the Rambam and Shulchan Arukh." },
+  dafpage:      { kicker: "Hyperlinks", caption: "On the daf page too, the sources in the margin. Tap a passage, and the outline goes there." },
+  // a Gemara word (Jastrow), then a word from the verse the baraita quotes (BDB); a little slower than the rest
+  words:        { kicker: "Word Definitions", caption: "Right-click a line on the daf, then tap any word for its meaning and its entry in the dictionary: Jastrow for the Gemara, BDB for a verse.", rate: 1.2, hold: 0.8 },
 };
 
 // ---------- the camera, from a take's targets ----------
@@ -69,7 +70,7 @@ const edit = (names: string[], rate: number, titleS = 2.6, endS = 5.6, features 
 
 export const CALM: Record<string, Edit> = {
   // about two minutes: every feature, each introduced by the Features card
-  calm120: edit(["outline", "summary@0.8-11.6", "chart@0.8-11.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "fillchart", "textsync", "linesync", "dafpage", "words"], 1.25, 2.6, 5.6, true),
+  calm120: edit(["outline", "summary@0.8-11.6", "chart@0.8-11.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "fillchart", "xrefs@0.3-19.9", "dafpage", "words"], 1.25, 2.6, 5.6, true),
   calm90: edit(["outline", "summary@0.8-11.6", "chart@0.8-11.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "textsync", "dafpage", "words"], 1.25),
   calm60: edit(["outline", "illustration", "sages", "quiz@0.5-16.3", "dafpage", "words"], 1.2),
   // three 30-second cuts, each with its own features

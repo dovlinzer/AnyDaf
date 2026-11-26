@@ -148,7 +148,7 @@ const BEATS = {
     });
     await L.record(s, "C_fillchart", async () => {
       await L.focus(s, "#pwin", { pad: 10 }); await L.sleep(1500);
-      for (const x of plan.slice(0, 3)) await drag(s, p.locator(`#pgames .adg-card[data-i="${x.i}"]`), p.locator(`#pgames .slot[data-r="${x.r}"][data-c="${x.c}"]`));
+      for (const x of plan.slice(0, 2)) await drag(s, p.locator(`#pgames .adg-card[data-i="${x.i}"]`), p.locator(`#pgames .slot[data-r="${x.r}"][data-c="${x.c}"]`));
       await L.sleep(1600);
     });
   },
@@ -198,6 +198,29 @@ const BEATS = {
       await L.sleep(2400);
     });
   },
+  // the sources in the Gemara's margin (Hullin 88a.10): the verse, a Shas source, the Rambam
+  async xrefs(s) {
+    const p = s.page;
+    await L.load(s, "#Hullin/88");
+    await p.evaluate(() => { xrSetMode("margin"); setPane("text"); });
+    await L.sleep(1800);
+    await p.evaluate(() => [...document.querySelectorAll("#text .item")].find((x) => x.querySelector(".lab")?.textContent.trim() === "88a.10").scrollIntoView({ block: "center" }));
+    await L.sleep(1200);
+    const item = p.locator('#text .item:has(.lab:text-is("88a.10"))');
+    const open = async (ref) => {
+      await L.click(s, item.locator(`.xmg a[data-ref="${ref}"]`), C);
+      await L.sleep(800); await L.focus(s, "dialog.xsrc[open]", { pad: 20 });
+      await L.sleep(2400);
+      await L.click(s, p.locator("dialog.xsrc[open] .xsrc-close"), { ms: 700, pause: 200 });
+      await L.sleep(400); await L.focus(s, item, { pad: 30 }); await L.sleep(500);
+    };
+    await L.record(s, "C_xrefs", async () => {
+      await L.focus(s, item, { pad: 30 }); await L.sleep(1500);
+      await open("Leviticus 17:13");
+      await open("Sifra, Acharei Mot, Chapter 11 11");
+      await open("Mishneh Torah, Ritual Slaughter 14:11");
+    });
+  },
   // a word on the daf: its meaning and its dictionary entry (Hullin 88a)
   async words(s) {
     const p = s.page;
@@ -212,7 +235,10 @@ const BEATS = {
       await L.sleep(1000); await L.focus(s, "dialog.xsrc[open]", { pad: 20 });
       await L.sleep(1400);
       await L.click(s, p.locator(".hw", { hasText: "זֶבֶל" }).first(), C);
-      await L.sleep(3400);
+      await L.sleep(2800);
+      // a word from the verse the baraita quotes: its BDB entry, at that verse
+      await L.click(s, p.locator("dialog.xsrc[open] .hw", { hasText: "וְכִסָּהוּ" }).first(), C);
+      await L.sleep(3800);
     });
   },
 };

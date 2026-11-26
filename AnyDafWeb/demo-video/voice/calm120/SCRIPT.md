@@ -15,12 +15,11 @@ Record each line as its own file, named by its id (`title.m4a`, `f1.m4a`, `s1.m4
 - **f4** (Features card): Quizzes and games.
 - **s7** (quiz): Test yourself with a quiz on every daf. Each answer links to its place on the daf.
 - **s8** (fill in the chart): Or rebuild a chart: drag each card to its place.
-- **f5** (Features card): Outline and Talmud, in step.
-- **s9** (tap a section): The outline and the Talmud move together. Tap a section, and the Gemara goes there, in Hebrew, English, or both.
-- **s10** (tap a line): Tap a line of Gemara, and the outline follows.
-- **s11** (daf page): On the daf page too, with the Rambam and Shulchan Arukh in the margin.
+- **f5** (Features card): Hyperlinks.
+- **s9** (links in the margin): Every line links to its sources: the verse in Tanakh, the parallels in Shas, the Rambam and the Shulchan Arukh. Each one opens right on the page.
+- **s10** (daf page): On the daf page too, with the sources in the margin. Tap a passage, and the outline goes there.
 - **f6** (Features card): Word definitions.
-- **s12** (words): And every word opens to its meaning, and its entry in the dictionary.
+- **s11** (words): And every word opens to its meaning, and its dictionary entry: Jastrow for the Gemara, and for a verse, Brown-Driver-Briggs.
 - **end**: The Talmud. Explicated. Annotated. Illustrated. italmud dot com.
 
 Then:
