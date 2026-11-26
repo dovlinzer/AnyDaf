@@ -1405,7 +1405,10 @@ async function showWord(sp){
   slot.outerHTML=`<div class="de dbdb"><p class="dh"><span class="dhw" lang="he">${esc(b.headword)}</span><span class="dlx">BDB</span><span class="dlx">${esc(tr('verse'))}: ${esc(x.v)}</span></p><div class="dbody dsaved">${entryHtml(b)}</div></div>`;
   const box=d.querySelector('.dbdb .dsaved'),hs=[...box.querySelectorAll('.vref')].filter(v=>v.dataset.ref===x.v);hs.forEach(v=>v.classList.add('vhit'));
   // most entries never cite the verse: then the sense that fits the gloss (bq), marked as in Jastrow and Klein
-  const last=hs[hs.length-1];if(last)box.scrollTop+=last.getBoundingClientRect().top-box.getBoundingClientRect().top-box.clientHeight/3;else markSense(box,x.bq)})();
+  // scroll to the start of the paragraph that cites it, so the sense reads from its beginning (the citation a third
+  // down only when the paragraph is too long to show it otherwise)
+  const last=hs[hs.length-1];if(last){const top=el=>el.getBoundingClientRect().top-box.getBoundingClientRect().top,par=last.closest('p,li');
+   box.scrollTop+=par&&box.contains(par)&&top(last)-top(par)<box.clientHeight*0.6?top(par)-6:top(last)-box.clientHeight/3}else markSense(box,x.bq)})();
  if(!x.e)return;
  let e=await savedEntry(x.e);if(!sp.classList.contains('on'))return;
  if(!e){d.querySelector('.dwait')?.remove();return}
