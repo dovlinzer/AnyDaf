@@ -1,0 +1,13 @@
+{
+  "_note": "Narration for the 90-second demo, one entry per piece of the video. Draft voice: macOS 'say' (Samantha). Replace public/voice/<id>.wav with your own recording of the same line (any length; the picture adapts).",
+  "lines": [
+    { "id": "title", "text": "This is iTalmud: the Illustrated Talmud." },
+    { "id": "s1", "text": "Every daf comes with a study outline: a summary of each section, the steps of the sugya, insights from the shiur, and a summary of the whole daf." },
+    { "id": "s2", "text": "Charts lay the cases side by side, with an icon for every ruling. Illustrations show each case, and how each opinion rules on it." },
+    { "id": "s3", "text": "Tap a key term for its definition. Tap a sage to see who he was, and his teachers and students. Tap any of them, and the diagram re-centers on that sage. Even weights and coins are a tap away." },
+    { "id": "s4", "text": "Then test yourself. Every quiz answer links to its place in the outline, and on the daf itself. You can also fill in the charts, or match each term to its meaning." },
+    { "id": "s5", "text": "The outline and the Talmud move together. Tap a section, and the Gemara goes there, in Hebrew, English, or both. Tap a line, and the outline follows, on the daf page too." },
+    { "id": "s6", "text": "And every word opens to its meaning, and to its entry in Jastrow, Klein, or Brown-Driver-Briggs." },
+    { "id": "end", "text": "Learn the daf at italmud dot com." }
+  ]
+}

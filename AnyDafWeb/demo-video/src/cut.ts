@@ -69,5 +69,21 @@ export const XFADE = 8;   // frames of cross-fade between scenes
 
 export const segFrames = (g: Seg) => Math.round(((g.to - g.from) / g.rate) * FPS);
 export const sceneFrames = (s: Scene) => s.segs.reduce((n, g) => n + segFrames(g), 0);
-export const totalFrames = (scenes: Scene[] = SCENES) =>
-  Math.round(TITLE_S * FPS) + scenes.reduce((n, s) => n + sceneFrames(s), 0) + Math.round(END_S * FPS) - XFADE * (scenes.length + 1);
+export const totalFrames = (scenes: Scene[] = SCENES, titleS = TITLE_S, endS = END_S) =>
+  Math.round(titleS * FPS) + scenes.reduce((n, s) => n + sceneFrames(s), 0) + Math.round(endS * FPS) - XFADE * (scenes.length + 1);
+
+// ---------- narration ----------
+// public/voice/<id>.wav, one per piece (title, s1..sN, end), and their lengths in public/voice/durations.json.
+// Each scene's voice starts VOICE_IN after the scene does; a scene too short for its line is slowed down to fit.
+export const VOICE_IN = 0.35, VOICE_PAD = 0.5;
+export type Voiced = { scenes: Scene[]; titleS: number; endS: number; ids: string[] };
+export function fitToVoice(scenes: Scene[], dur: Record<string, number>): Voiced {
+  const ids = scenes.map((_, i) => "s" + (i + 1));
+  const fitted = scenes.map((s, i) => {
+    const need = VOICE_IN + (dur[ids[i]] || 0) + VOICE_PAD, have = sceneFrames(s) / FPS;
+    if (have >= need) return s;
+    const k = have / need;   // slow every stretch of the scene by the same factor
+    return { ...s, segs: s.segs.map((g) => ({ ...g, rate: g.rate * k })) };
+  });
+  return { scenes: fitted, titleS: Math.max(TITLE_S, 0.3 + (dur.title || 0) + 0.6), endS: Math.max(END_S, 0.4 + (dur.end || 0) + 1.2), ids };
+}

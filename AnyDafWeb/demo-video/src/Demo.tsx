@@ -1,9 +1,12 @@
 import React from "react";
-import { AbsoluteFill, Img, OffthreadVideo, Sequence, interpolate, staticFile, useCurrentFrame, Easing } from "remotion";
-import { END_S, FPS, Key, SCENES, SRC, Scene, Seg, TITLE_S, XFADE, sceneFrames, segFrames } from "./cut";
+import { AbsoluteFill, Audio, Img, OffthreadVideo, Sequence, interpolate, staticFile, useCurrentFrame, Easing } from "remotion";
+import { END_S, FPS, Key, SCENES, SRC, Scene, Seg, TITLE_S, VOICE_IN, XFADE, fitToVoice, sceneFrames, segFrames } from "./cut";
+import VOICE from "../public/voice/durations.json";
 import { SCENES90 } from "./cut90";
 
 export const EDITS: Record<string, Scene[]> = { "45": SCENES, "90": SCENES90 };
+// an edit with narration: the 90-second cut fitted to the voice
+export const voiced = (edit: string) => fitToVoice(EDITS[edit], VOICE as Record<string, number>);
 
 export type Format = "wide" | "tall";
 const NAVY = "#1B3A8A", AMBER = "#E8A020", CREAM = "#F7F3EA", INK = "#1d2433";
@@ -124,18 +127,23 @@ const FadeIn: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   return <AbsoluteFill style={{ opacity: interpolate(f, [0, XFADE], [0, 1], { extrapolateRight: "clamp" }) }}>{children}</AbsoluteFill>;
 };
 
-export const Demo: React.FC<{ fmt: Format; W: number; H: number; edit?: string }> = ({ fmt, W, H, edit = "45" }) => {
-  const SC = EDITS[edit];
-  const pieces: { len: number; el: React.ReactNode }[] = [
-    { len: Math.round(TITLE_S * FPS), el: <TitleCard fmt={fmt} /> },
-    ...SC.map((s) => ({ len: sceneFrames(s), el: <SceneView scene={s} fmt={fmt} W={W} H={H} /> })),
-    { len: Math.round(END_S * FPS), el: <EndCard fmt={fmt} /> },
+export const Demo: React.FC<{ fmt: Format; W: number; H: number; edit?: string; voice?: boolean }> = ({ fmt, W, H, edit = "45", voice = false }) => {
+  const V = voice ? voiced(edit) : null;
+  const SC = V ? V.scenes : EDITS[edit], titleS = V ? V.titleS : TITLE_S, endS = V ? V.endS : END_S;
+  const pieces: { len: number; el: React.ReactNode; id: string }[] = [
+    { len: Math.round(titleS * FPS), el: <TitleCard fmt={fmt} />, id: "title" },
+    ...SC.map((s, i) => ({ len: sceneFrames(s), el: <SceneView scene={s} fmt={fmt} W={W} H={H} />, id: "s" + (i + 1) })),
+    { len: Math.round(endS * FPS), el: <EndCard fmt={fmt} />, id: "end" },
   ];
   let at = 0;
   return (
     <AbsoluteFill style={{ background: CREAM }}>
       {pieces.map((p, i) => { const from = i === 0 ? 0 : at - XFADE; at = from + p.len;
-        return <Sequence key={i} from={from} durationInFrames={p.len}>{i === 0 ? p.el : <FadeIn>{p.el}</FadeIn>}</Sequence>; })}
+        const vin = Math.round((p.id === "title" ? 0.3 : p.id === "end" ? 0.4 : VOICE_IN) * FPS);
+        return <React.Fragment key={i}>
+          <Sequence from={from} durationInFrames={p.len}>{i === 0 ? p.el : <FadeIn>{p.el}</FadeIn>}</Sequence>
+          {voice && <Sequence from={from + vin}><Audio src={staticFile(`voice/${p.id}.wav`)} /></Sequence>}
+        </React.Fragment>; })}
     </AbsoluteFill>
   );
 };

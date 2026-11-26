@@ -13,3 +13,6 @@ phone layout, unused. Takes, renders and stills are gitignored; re-record if the
 
 ## 90-second version
 `node capture/scenes90.mjs [1-6]` records takes L1-L6 (L6 is Hullin 88a's word lookups); each take's click and scroll times go to `public/clips/<take>.marks.json`. The edit is `src/cut90.ts` (captions per segment); render with `npm run render90:wide` / `npm run render90:tall`.
+
+## Narration
+Script: `voice/SCRIPT.md` (from `voice/script.json`). The draft track is the Mac's voice; `python3 voice/import.py <folder>` brings in recordings named title, s1..s6, end (trims silence, evens loudness). `npm run render90v:wide` / `render90v:tall`; a scene too short for its line slows to fit (`fitToVoice` in src/cut.ts).

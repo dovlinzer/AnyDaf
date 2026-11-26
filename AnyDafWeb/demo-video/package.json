@@ -9,7 +9,9 @@
     "render:tall": "remotion render src/index.ts Demo9x16 out/italmud-demo-9x16.mp4",
     "capture90": "node capture/scenes90.mjs",
     "render90:wide": "remotion render src/index.ts Demo90-16x9 out/italmud-demo-90s-16x9.mp4",
-    "render90:tall": "remotion render src/index.ts Demo90-9x16 out/italmud-demo-90s-9x16.mp4"
+    "render90:tall": "remotion render src/index.ts Demo90-9x16 out/italmud-demo-90s-9x16.mp4",
+    "render90v:wide": "remotion render src/index.ts Demo90v-16x9 out/italmud-demo-90s-voice-16x9.mp4",
+    "render90v:tall": "remotion render src/index.ts Demo90v-9x16 out/italmud-demo-90s-voice-9x16.mp4"
   },
   "devDependencies": {
     "@remotion/cli": "^4.0.547",
