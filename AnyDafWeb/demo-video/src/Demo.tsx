@@ -106,14 +106,23 @@ const TitleCard: React.FC<{ fmt: Format }> = ({ fmt }) => {
   );
 };
 
+// The end card: "The Talmud" / Explicated. / Annotated. / Illustrated. / iTalmud.com, each fading in on its own beat
+// (END_BEATS, seconds into the card; the draft narration speaks each word as it appears).
+export const END_BEATS = [0.45, 1.3, 2.1, 2.9, 3.8];
 const EndCard: React.FC<{ fmt: Format }> = ({ fmt }) => {
   const f = useCurrentFrame(), tall = fmt === "tall";
+  const fade = (t: number) => interpolate(f, [t * FPS, t * FPS + 12], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
   const a = interpolate(f, [XFADE, XFADE + 16], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
+  const [t0, ...tw] = END_BEATS, words = ["Explicated.", "Annotated.", "Illustrated."];
+  const rise = (t: number) => ({ opacity: fade(t), transform: `translateY(${(1 - fade(t)) * 14}px)` });
   return (
     <AbsoluteFill style={{ background: NAVY, alignItems: "center", justifyContent: "center", color: "white", fontFamily: SANS, textAlign: "center" }}>
-      <Img src={staticFile("brand/yct-logo-white.png")} style={{ width: tall ? 340 : 280, opacity: a, marginBottom: tall ? 80 : 46 }} />
-      <div style={{ fontFamily: SERIF, fontSize: tall ? 60 : 56, lineHeight: 1.2, maxWidth: tall ? 860 : 1500, opacity: a }}>{tall ? <>Learn Talmud in an<br />entirely new way at</> : "Learn Talmud in an entirely new way at"}</div>
-      <div style={{ fontSize: tall ? 116 : 112, fontWeight: 700, letterSpacing: -1, marginTop: tall ? 24 : 14, opacity: a, transform: `scale(${0.95 + 0.05 * a})` }}>iTalmud.com</div>
+      <Img src={staticFile("brand/yct-logo-white.png")} style={{ width: tall ? 320 : 250, opacity: a, marginBottom: tall ? 70 : 40 }} />
+      <div style={{ fontFamily: SERIF, fontSize: tall ? 84 : 72, fontWeight: 600, ...rise(t0) }}>The Talmud</div>
+      <div style={{ display: "flex", flexDirection: tall ? "column" : "row", gap: tall ? 6 : 44, marginTop: tall ? 18 : 10, fontFamily: SERIF, fontStyle: "italic", fontSize: tall ? 74 : 62, color: "#F4D58A" }}>
+        {words.map((w, i) => <div key={w} style={rise(tw[i])}>{w}</div>)}
+      </div>
+      <div style={{ fontSize: tall ? 112 : 104, fontWeight: 700, letterSpacing: -1, marginTop: tall ? 56 : 36, ...rise(tw[3]) }}>iTalmud.com</div>
       <div style={{ position: "absolute", bottom: tall ? 110 : 48, left: 60, right: 60, fontSize: tall ? 26 : 22, opacity: 0.75 * a, lineHeight: 1.4 }}>
         English translation: The William Davidson Talmud (CC BY-NC), via Sefaria
       </div>

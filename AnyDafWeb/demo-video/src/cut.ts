@@ -64,7 +64,7 @@ export const SCENES: Scene[] = [
 ];
 
 export const TITLE_S = 2.6;
-export const END_S = 3.4;
+export const END_S = 5.6;   // the end card's words fade in one by one (END_BEATS in Demo.tsx), then hold
 export const XFADE = 8;   // frames of cross-fade between scenes
 
 export const segFrames = (g: Seg) => Math.round(((g.to - g.from) / g.rate) * FPS);
@@ -85,5 +85,5 @@ export function fitToVoice(scenes: Scene[], dur: Record<string, number>): Voiced
     const k = have / need;   // slow every stretch of the scene by the same factor
     return { ...s, segs: s.segs.map((g) => ({ ...g, rate: g.rate * k })) };
   });
-  return { scenes: fitted, titleS: Math.max(TITLE_S, 0.3 + (dur.title || 0) + 0.6), endS: Math.max(END_S, 0.4 + (dur.end || 0) + 1.2), ids };
+  return { scenes: fitted, titleS: Math.max(TITLE_S, 0.3 + (dur.title || 0) + 0.6), endS: Math.max(END_S, (dur.end || 0) + 1.4), ids };
 }
