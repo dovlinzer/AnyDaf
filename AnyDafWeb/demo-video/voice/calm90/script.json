@@ -1,0 +1,53 @@
+{
+ "_note": "Narration for the calm 90-second cut (calm90), one line per feature. Record each line as its own file named by its id (title, s1 ... s10, end), then: python3 voice/import.py <folder> --edit calm90.",
+ "lines": [
+  {
+   "id": "title",
+   "text": "This is iTalmud: the Illustrated Talmud."
+  },
+  {
+   "id": "s1",
+   "text": "Every daf comes with a study outline. Open a section to see its steps, and insights from the shiur."
+  },
+  {
+   "id": "s2",
+   "text": "At the end, a summary of the whole daf, each point linked back to its section."
+  },
+  {
+   "id": "s3",
+   "text": "Charts set the cases side by side, with an icon for every ruling."
+  },
+  {
+   "id": "s4",
+   "text": "Illustrations draw each case, and how each opinion rules on it."
+  },
+  {
+   "id": "s5",
+   "text": "Tap a key term for its definition, or a measure to see it on a scale."
+  },
+  {
+   "id": "s6",
+   "text": "Tap a sage to meet him, and explore his teachers and students."
+  },
+  {
+   "id": "s7",
+   "text": "Test yourself with a quiz on every daf. Each answer links to its place on the daf."
+  },
+  {
+   "id": "s8",
+   "text": "The outline and the Talmud move together. Tap a section, and the Gemara goes there, in Hebrew, English, or both."
+  },
+  {
+   "id": "s9",
+   "text": "On the daf page too, with the Rambam and Shulchan Arukh in the margin."
+  },
+  {
+   "id": "s10",
+   "text": "And every word opens to its meaning, and its entry in the dictionary."
+  },
+  {
+   "id": "end",
+   "text": "The Talmud. Explicated. Annotated. Illustrated. italmud dot com."
+  }
+ ]
+}

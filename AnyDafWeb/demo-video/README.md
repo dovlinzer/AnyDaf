@@ -16,3 +16,20 @@ phone layout, unused. Takes, renders and stills are gitignored; re-record if the
 
 ## Narration
 Script: `voice/SCRIPT.md` (from `voice/script.json`). The draft track is the Mac's voice; `python3 voice/import.py <folder>` brings in recordings named title, s1..s6, end (trims silence, evens loudness). `npm run render90v:wide` / `render90v:tall`; a scene too short for its line slows to fit (`fitToVoice` in src/cut.ts).
+
+## Calm cuts (90 s, 60 s, three 30 s)
+
+The first cuts played the takes at up to 3.6x. The calm cuts use one short take per feature, recorded slowly
+(`capture/beats.mjs`: outline, summary, chart, illustration, reference, sages, quiz, fillchart, textsync,
+linesync, dafpage, words) and played at 1.05x–1.25x, with one caption per feature.
+
+    npm run beats          # record the takes, then gather their timings into src/beats.gen.json
+    npm run rendercalm     # calm90, calm60, calm30study, calm30reference, calm30practice, each 16:9 and 9:16
+
+Each take logs where the camera should look (`L.focus(...)`, saved as `<clip>.cam.json`); `src/calm.ts` turns
+that into the camera (16:9 zooms in only on a small target; 9:16 stays at most 620 px wide so the text is
+readable on a phone). The cuts are lists of beat names in `CALM` (`name@from-to` plays part of a take), so a
+new cut is one line.
+
+Narration for calm90: `voice/calm90/SCRIPT.md`. Record title, s1 … s10, end, then
+`python3 voice/import.py <folder> --edit calm90` and `npm run rendercalmv`.

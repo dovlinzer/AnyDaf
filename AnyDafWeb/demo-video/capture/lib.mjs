@@ -66,12 +66,24 @@ export async function glide(s, to, ms = 700) {
   let x, y;
   if (typeof to === "object" && to.boundingBox) { const b = await to.boundingBox(); if (!b) throw new Error("glide: not visible"); x = b.x + b.width / 2; y = b.y + b.height / 2; }
   else [x, y] = to;
-  const x0 = s.mouse.x, y0 = s.mouse.y, n = Math.max(8, Math.round(ms / 16));
-  for (let i = 1; i <= n; i++) { const t = ease(i / n); await s.page.mouse.move(x0 + (x - x0) * t, y0 + (y - y0) * t); await sleep(ms / n); }
+  // timed by the clock, so a glide takes ms however slow each mouse move is
+  const x0 = s.mouse.x, y0 = s.mouse.y, start = Date.now();
+  for (;;) { const u = Math.min(1, (Date.now() - start) / ms), t = ease(u); await s.page.mouse.move(x0 + (x - x0) * t, y0 + (y - y0) * t); if (u >= 1) break; await sleep(12); }
   s.mouse.x = x; s.mouse.y = y;
 }
 // a timestamp in the take being recorded (seconds from its first frame), saved beside the clip
 export function mark(s, label) { if (s.t0) s.marks.push([label, +((Date.now() / 1000) - s.t0).toFixed(2)]); }
+// where the camera should look from now on: a locator, a selector, or [x, y, w, h] in CSS pixels.
+// Saved beside the clip as <name>.cam.json; the calm edits build their camera from it.
+// fmt: "wide" or "tall" when the target is only for that format.
+export async function focus(s, target, { pad = 0, fmt } = {}) {
+  let b;
+  if (Array.isArray(target)) b = { x: target[0], y: target[1], width: target[2], height: target[3] };
+  else { const loc = typeof target === "string" ? s.page.locator(target).first() : target; b = await loc.boundingBox().catch(() => null); }
+  if (!b || !s.t0) return;
+  const x0 = Math.max(0, b.x - pad), y0 = Math.max(0, b.y - pad), x1 = Math.min(s.width, b.x + b.width + pad), y1 = Math.min(s.height, b.y + b.height + pad);
+  s.focus.push([+((Date.now() / 1000) - s.t0).toFixed(2), Math.round(x0), Math.round(y0), Math.round(x1 - x0), Math.round(y1 - y0), ...(fmt ? [fmt] : [])]);
+}
 export async function click(s, to, { ms = 650, pause = 180, label } = {}) {
   if (typeof to === "object" && to.scrollIntoViewIfNeeded) { await to.scrollIntoViewIfNeeded({ timeout: 5000 }).catch(() => {}); await sleep(150); }
   await glide(s, to, ms); await sleep(pause);
@@ -108,7 +120,7 @@ export async function record(s, name, fn, { fps = 30 } = {}) {
   // a heartbeat repaint so static stretches still get frames
   await s.page.evaluate(() => { const d = document.createElement('div'); d.id = '__hb'; Object.assign(d.style, {position:'fixed', right:'0', bottom:'0', width:'1px', height:'1px', opacity:'0.01', pointerEvents:'none'}); document.body.appendChild(d); let k = 0; window.__hbT = setInterval(() => { d.style.background = (k++ % 2) ? '#fff' : '#fefefe'; }, 33); });
   await cdp.send("Page.startScreencast", { format: "jpeg", quality: 92, maxWidth: s.width * s.scale, maxHeight: s.height * s.scale, everyNthFrame: 1 });
-  const t0 = Date.now() / 1000; s.t0 = t0; s.marks = [];
+  const t0 = Date.now() / 1000; s.t0 = t0; s.marks = []; s.focus = [];
   await fn();
   mark(s, "end"); s.t0 = 0;
   const t1 = Date.now() / 1000;
@@ -128,6 +140,7 @@ export async function record(s, name, fn, { fps = 30 } = {}) {
   if (r.status) throw new Error(r.stderr.toString());
   const off = frames.length ? frames[0].t - t0 : 0;   // the clip starts at the first frame
   fs.writeFileSync(out.replace(/\.mp4$/, ".marks.json"), JSON.stringify(s.marks.map(([l, t]) => [l, +(t - off).toFixed(2)]), null, 1));
+  fs.writeFileSync(out.replace(/\.mp4$/, ".cam.json"), JSON.stringify(s.focus.map(([t, ...r]) => [+(t - off).toFixed(2), ...r])));
   const span = frames.length ? frames.at(-1).t - frames[0].t : 0;
   console.log(`  ${name}: ${frames.length} frames over ${span.toFixed(1)}s (${(frames.length / Math.max(span, 0.01)).toFixed(1)} fps captured), ${(t1 - t0).toFixed(1)}s take -> ${path.relative(ROOT, out)}`);
   return out;

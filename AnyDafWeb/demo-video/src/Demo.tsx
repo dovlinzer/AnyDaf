@@ -2,11 +2,19 @@ import React from "react";
 import { AbsoluteFill, Audio, Img, OffthreadVideo, Sequence, interpolate, staticFile, useCurrentFrame, Easing } from "remotion";
 import { END_S, FPS, Key, SCENES, SRC, Scene, Seg, TITLE_S, VOICE_IN, XFADE, fitToVoice, sceneFrames, segFrames } from "./cut";
 import VOICE from "../public/voice/durations.json";
+import VOICE_CALM90 from "../public/voice/calm90/durations.json";
 import { SCENES90 } from "./cut90";
+import { CALM } from "./calm";
 
-export const EDITS: Record<string, Scene[]> = { "45": SCENES, "90": SCENES90 };
+export const EDITS: Record<string, Scene[]> = { "45": SCENES, "90": SCENES90, ...Object.fromEntries(Object.entries(CALM).map(([k, e]) => [k, e.scenes])) };
+export const cardsOf = (edit: string) => (CALM[edit] ? { titleS: CALM[edit].titleS, endS: CALM[edit].endS } : { titleS: TITLE_S, endS: END_S });
 // an edit with narration: the 90-second cut fitted to the voice
-export const voiced = (edit: string) => fitToVoice(EDITS[edit], VOICE as Record<string, number>);
+// each narrated edit has its own recordings: public/voice/<dir>/<id>.wav
+export const VOICES: Record<string, { dir: string; dur: Record<string, number> }> = { "90": { dir: "voice", dur: VOICE }, calm90: { dir: "voice/calm90", dur: VOICE_CALM90 } };
+export const voiced = (edit: string) => {
+  const v = fitToVoice(EDITS[edit], VOICES[edit].dur);
+  return CALM[edit] ? { ...v, titleS: Math.max(CALM[edit].titleS, v.titleS), endS: Math.max(CALM[edit].endS, v.endS) } : v;
+};
 
 export type Format = "wide" | "tall";
 const NAVY = "#1B3A8A", AMBER = "#E8A020", CREAM = "#F7F3EA", INK = "#1d2433";
@@ -49,11 +57,13 @@ const Shot: React.FC<{ clip: string; seg: Seg; keys: Key[]; W: number; H: number
 
 // ---------- captions ----------
 // kicker: the scene's label (it fades in only with the scene); text: the caption, which can change per segment
-const Caption: React.FC<{ scene: Scene; text: string; first: boolean; last: boolean; fmt: Format; total: number }> = ({ scene, text, first, last, fmt, total }) => {
+const Caption: React.FC<{ scene: Scene; text: string; first: boolean; last: boolean; fmt: Format; total: number; contIn?: boolean; contOut?: boolean }> = ({ scene, text, first, last, fmt, total, contIn, contOut }) => {
   const f = useCurrentFrame();
   const inn = interpolate(f, first ? [4, 18] : [0, 10], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
   const out = interpolate(f, [total - (last ? 10 : 6), total], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
-  const kick = first ? inn * (last ? out : 1) : last ? out : 1;
+  let kick = first ? inn * (last ? out : 1) : last ? out : 1;
+  if (contIn || contOut) kick = (first && !contIn ? inn : 1) * (last && !contOut ? out : 1);
+  const boxIn = first && !contIn;   // the box (not the text) slides in
   if (fmt === "tall") {
     return (
       <div style={{ position: "absolute", left: 0, right: 0, top: 0, height: TALL_CAP, background: NAVY, color: "white", padding: "70px 64px 0", boxSizing: "border-box", fontFamily: SANS }}>
@@ -63,16 +73,16 @@ const Caption: React.FC<{ scene: Scene; text: string; first: boolean; last: bool
     );
   }
   return (
-    <div style={{ position: "absolute", left: 56, bottom: 52, maxWidth: 1180, opacity: kick, transform: `translateY(${(1 - (first ? inn : 1)) * 24}px)`, fontFamily: SANS }}>
+    <div style={{ position: "absolute", left: 56, bottom: 52, maxWidth: 1180, opacity: kick, transform: `translateY(${(1 - (boxIn ? inn : 1)) * 24}px)`, fontFamily: SANS }}>
       <div style={{ background: "rgba(27,58,138,.96)", color: "white", borderRadius: 20, padding: "24px 34px 26px", boxShadow: "0 12px 40px rgba(10,20,60,.35)" }}>
         <div style={{ color: AMBER, fontWeight: 700, letterSpacing: 2.5, fontSize: 22, textTransform: "uppercase", marginBottom: 8 }}>{scene.kicker}</div>
-        <div style={{ fontSize: text.length > 90 ? 34 : 38, lineHeight: 1.25, fontWeight: 600, opacity: first ? (last ? 1 : out) : inn * out }}>{text}</div>
+        <div style={{ fontSize: text.length > 90 ? 34 : 38, lineHeight: 1.25, fontWeight: 600, opacity: (contIn || contOut) ? inn * out : first ? (last ? 1 : out) : inn * out }}>{text}</div>
       </div>
     </div>
   );
 };
 
-const SceneView: React.FC<{ scene: Scene; fmt: Format; W: number; H: number }> = ({ scene, fmt, W, H }) => {
+const SceneView: React.FC<{ scene: Scene; fmt: Format; W: number; H: number; contIn?: boolean; contOut?: boolean }> = ({ scene, fmt, W, H, contIn, contOut }) => {
   const top = fmt === "tall" ? TALL_CAP : 0, vh = H - top;
   let at = 0;
   return (
@@ -86,7 +96,7 @@ const SceneView: React.FC<{ scene: Scene; fmt: Format; W: number; H: number }> =
         // a caption that runs on unchanged into the next segment is drawn once across both
         if (i > 0 && same(i - 1)) return null;
         let len = segFrames(g), j = i + 1; while (j < n && same(j)) { len += segFrames(scene.segs[j]); j++; }
-        return <Sequence key={"c" + i} from={from} durationInFrames={len}><Caption scene={scene} text={text} first={i === 0} last={j === n} fmt={fmt} total={len} /></Sequence>; })}
+        return <Sequence key={"c" + i} from={from} durationInFrames={len}><Caption scene={scene} text={text} first={i === 0} last={j === n} fmt={fmt} total={len} contIn={i === 0 && contIn} contOut={j === n && contOut} /></Sequence>; })}
     </AbsoluteFill>
   );
 };
@@ -138,10 +148,10 @@ const FadeIn: React.FC<{ children: React.ReactNode }> = ({ children }) => {
 
 export const Demo: React.FC<{ fmt: Format; W: number; H: number; edit?: string; voice?: boolean }> = ({ fmt, W, H, edit = "45", voice = false }) => {
   const V = voice ? voiced(edit) : null;
-  const SC = V ? V.scenes : EDITS[edit], titleS = V ? V.titleS : TITLE_S, endS = V ? V.endS : END_S;
+  const SC = V ? V.scenes : EDITS[edit], C0 = cardsOf(edit), titleS = V ? V.titleS : C0.titleS, endS = V ? V.endS : C0.endS;
   const pieces: { len: number; el: React.ReactNode; id: string }[] = [
     { len: Math.round(titleS * FPS), el: <TitleCard fmt={fmt} />, id: "title" },
-    ...SC.map((s, i) => ({ len: sceneFrames(s), el: <SceneView scene={s} fmt={fmt} W={W} H={H} />, id: "s" + (i + 1) })),
+    ...SC.map((s, i) => ({ len: sceneFrames(s), el: <SceneView scene={s} fmt={fmt} W={W} H={H} contIn={i > 0 && SC[i - 1].kicker === s.kicker} contOut={i + 1 < SC.length && SC[i + 1].kicker === s.kicker} />, id: "s" + (i + 1) })),
     { len: Math.round(endS * FPS), el: <EndCard fmt={fmt} />, id: "end" },
   ];
   let at = 0;
@@ -151,7 +161,7 @@ export const Demo: React.FC<{ fmt: Format; W: number; H: number; edit?: string; 
         const vin = Math.round((p.id === "title" ? 0.3 : p.id === "end" ? 0.4 : VOICE_IN) * FPS);
         return <React.Fragment key={i}>
           <Sequence from={from} durationInFrames={p.len}>{i === 0 ? p.el : <FadeIn>{p.el}</FadeIn>}</Sequence>
-          {voice && <Sequence from={from + vin}><Audio src={staticFile(`voice/${p.id}.wav`)} /></Sequence>}
+          {voice && <Sequence from={from + vin}><Audio src={staticFile(`${VOICES[edit].dir}/${p.id}.wav`)} /></Sequence>}
         </React.Fragment>; })}
     </AbsoluteFill>
   );
