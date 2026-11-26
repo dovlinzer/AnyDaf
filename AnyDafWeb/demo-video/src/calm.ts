@@ -19,8 +19,11 @@ export const BEATS: Record<string, Beat> = {
   fillchart:    { kicker: "Quizzes & games", caption: "Or rebuild a chart: drag each card to its place." },
   textsync:     { kicker: "Outline and Talmud in step", caption: "Tap a section, and the Gemara goes there, in Hebrew, English or both." },
   linesync:     { kicker: "Outline and Talmud in step", caption: "Tap a line of Gemara, and the outline follows." },
-  xrefs:        { kicker: "Hyperlinks", caption: "Every line links to its sources: the verse in Tanakh, the parallels in Shas, the Rambam and Shulchan Arukh." },
-  dafpage:      { kicker: "Hyperlinks", caption: "On the daf page too, the sources in the margin. Tap a passage, and the outline goes there." },
+  dafsync:      { kicker: "Study Outline", caption: "Tap a section, and the daf page goes there. Tap a passage on the daf, and the outline follows." },
+  memory:       { kicker: "Quizzes & games", caption: "Or play term match: flip two cards to pair each term with its meaning.", rate: 1.4 },
+  links:        { kicker: "Links to Tanakh, Shas and Halakha", caption: "Every passage on the daf links to its sources: the parallels in Shas, the Rambam and the Shulchan Arukh. Each opens in place, in its context.", rate: 1.35 },
+  xrefs:        { kicker: "Links to Tanakh, Shas and Halakha", caption: "Every line links to its sources: the verse in Tanakh, the parallels in Shas, the Rambam and Shulchan Arukh." },
+  dafpage:      { kicker: "Links to Tanakh, Shas and Halakha", caption: "On the daf page too, the sources in the margin. Tap a passage, and the outline goes there." },
   // a Gemara word (Jastrow), then a word from the verse the baraita quotes (BDB); a little slower than the rest
   words:        { kicker: "Word Definitions", caption: "Right-click a line on the daf, then tap any word for its meaning and its entry in the dictionary: Jastrow for the Gemara, BDB for a verse.", rate: 1.2, hold: 0.8 },
 };
@@ -70,7 +73,7 @@ const edit = (names: string[], rate: number, titleS = 2.6, endS = 5.6, features 
 
 export const CALM: Record<string, Edit> = {
   // about two minutes: every feature, each introduced by the Features card
-  calm120: edit(["outline", "summary@0.8-11.6", "chart@0.8-11.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "fillchart", "xrefs@0.3-19.9", "dafpage", "words"], 1.25, 2.6, 5.6, true),
+  calm120: edit(["outline", "summary@0.8-11.6", "dafsync@1.0-10.6", "chart@0.8-10.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "fillchart@0.3-5.6", "memory@8.9-19.9", "links@0.3-25.6", "words"], 1.25, 2.6, 5.6, true),
   calm90: edit(["outline", "summary@0.8-11.6", "chart@0.8-11.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "textsync", "dafpage", "words"], 1.25),
   calm60: edit(["outline", "illustration", "sages", "quiz@0.5-16.3", "dafpage", "words"], 1.2),
   // three 30-second cuts, each with its own features

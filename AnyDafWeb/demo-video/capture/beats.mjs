@@ -221,6 +221,80 @@ const BEATS = {
       await open("Mishneh Torah, Ritual Slaughter 14:11");
     });
   },
+  // term match, the memory game: a miss, then two pairs
+  async memory(s) {
+    const p = s.page;
+    await p.locator("#practiceBtn").click(); await L.sleep(800);
+    await p.locator('#pgames [data-g="match"]').click(); await L.sleep(1500);
+    // which sense card belongs to which term card (from the daf's key terms)
+    const pairs = await p.evaluate(() => {
+      const n = (t) => String(t).replace(/\*+/g, "").replace(/\s+/g, " ").trim();
+      const cs = [...document.querySelectorAll("#pgames .adg-flip")];
+      const sense = (t) => n(t.sense || String(t.definition).split(/(?<=[.!?])\s/)[0]);
+      return cs.filter((c) => c.classList.contains("term")).map((c) => {
+        const name = n(c.querySelector(".front b").textContent), t = (D.keyTerms || []).find((x) => n(x.term) === name);
+        const m = t && cs.find((x) => x.classList.contains("sense") && n(x.querySelector(".front").textContent) === sense(t));
+        return m ? [+c.dataset.n, +m.dataset.n] : null;
+      }).filter(Boolean);
+    });
+    const card = (i) => p.locator(`#pgames .adg-flip[data-n="${i}"]`);
+    const [a, b, c] = pairs;
+    await L.record(s, "C_memory", async () => {
+      await L.focus(s, "#pwin", { pad: 10 }); await L.sleep(1400);
+      await L.click(s, card(a[0]), C); await L.sleep(700);
+      await L.click(s, card(b[1]), C); await L.sleep(2900);   // not a pair: both turn back
+      await L.click(s, card(a[0]), C); await L.sleep(600);
+      await L.click(s, card(a[1]), C); await L.sleep(2400);   // a pair: its definition shows below
+      await L.click(s, card(c[0]), C); await L.sleep(600);
+      await L.click(s, card(c[1]), C); await L.sleep(2400);
+    });
+  },
+  // the daf page: tap a section in the outline and the daf goes there; tap a passage on the daf and the outline follows
+  async dafsync(s) {
+    const p = s.page;
+    await p.locator('#paneSeg button[data-p="page"]').click(); await L.sleep(2500);
+    const sec = await p.evaluate(() => (secs.find((x) => x.am === "3b" && x.id.split(".").length === 1) || secs.find((x) => x.am === "3b")).id);
+    await L.record(s, "C_dafsync", async () => {
+      await L.focus(s, [0, 0, 1600, 900], { fmt: "wide" }); await L.focus(s, head(sec), { pad: 160, fmt: "tall" }); await L.sleep(1200);
+      await L.click(s, p.locator(`${head(sec)} .ado-t`), C);
+      await L.sleep(700); await L.focus(s, "#gem", { fmt: "tall" });
+      await L.sleep(2600);
+      const tap = await p.evaluate(() => {
+        const L = layOf(amudShown), cur = secs.find((x) => x.id === current), box = document.querySelector("#pageImg").getBoundingClientRect();
+        const ls = Object.keys(L.g).filter((l) => { const o = D.order[l]; return o != null && !(o >= cur.a && o <= cur.b); })
+          .filter((l) => { const r = document.querySelector(`#pageLay rect.g[data-l="${l}"]`)?.getBoundingClientRect(); return r && r.top > box.top + 80 && r.bottom < box.bottom - 80; });
+        return ls[Math.floor(ls.length / 2)];
+      });
+      await L.click(s, p.locator(`#pageLay rect.g[data-l="${tap}"]`).first(), C);
+      await L.sleep(900); await L.focus(s, head(await p.evaluate(() => current)), { pad: 200, fmt: "tall" });
+      await L.sleep(2600);
+    });
+  },
+  // the daf page's margin (Bava Metzia 3a): a Shas source, scrolled for its context; then the Rambam and the
+  // Shulchan Arukh. All zoomed out (16:9); 9:16 follows the window.
+  async links(s) {
+    const p = s.page;
+    await p.locator('#paneSeg button[data-p="page"]').click(); await L.sleep(1500);
+    await p.evaluate(() => showAmud("3a")); await L.sleep(2500);
+    await p.evaluate(() => { document.querySelector("#pageImg").scrollTop += 320; }); await L.sleep(800);
+    const a = (ref) => p.locator(`#pageImg a[data-ref^="${ref}"]`).first();
+    const body = "dialog.xsrc[open] .xsrc-body";
+    const wheel = async (dy, steps = 14) => { for (let i = 0; i < steps; i++) { await p.mouse.wheel(0, dy / steps); await L.sleep(45); } };
+    const close = async () => { await L.click(s, p.locator("dialog.xsrc[open] .xsrc-close"), { ms: 700, pause: 200 }); await L.sleep(500); await L.focus(s, "#gem", { fmt: "tall" }); };
+    await L.record(s, "C_links", async () => {
+      await L.focus(s, [0, 0, 1600, 900], { fmt: "wide" }); await L.focus(s, "#gem", { fmt: "tall" }); await L.sleep(1300);
+      await L.click(s, a("Shevuot 42b"), C);
+      await L.sleep(700); await L.focus(s, "dialog.xsrc[open]", { pad: 10, fmt: "tall" }); await L.sleep(1600);
+      await L.glide(s, p.locator(body), 600); await L.sleep(200);
+      await wheel(-700); await L.sleep(1200); await wheel(1400, 24); await L.sleep(1200); await wheel(-700); await L.sleep(1300);
+      await close(); await L.sleep(400);
+      await L.click(s, a("Mishneh Torah, Plaintiff and Defendant 1:1"), C);
+      await L.sleep(700); await L.focus(s, "dialog.xsrc[open]", { pad: 10, fmt: "tall" }); await L.sleep(2600);
+      await close(); await L.sleep(400);
+      await L.click(s, a("Shulchan Arukh, Choshen Mishpat 87:1"), C);
+      await L.sleep(700); await L.focus(s, "dialog.xsrc[open]", { pad: 10, fmt: "tall" }); await L.sleep(2800);
+    });
+  },
   // a word on the daf: its meaning and its dictionary entry (Hullin 88a)
   async words(s) {
     const p = s.page;

@@ -6,20 +6,21 @@ Record each line as its own file, named by its id (`title.m4a`, `f1.m4a`, `s1.m4
 - **f1** (Features card): Study outline.
 - **s1** (outline): Every daf comes with a study outline. Open a section to see its steps, and insights from the shiur.
 - **s2** (summary): At the end, a summary of the whole daf, each point linked back to its section.
+- **s3** (outline and daf page): Tap a section, and the daf page goes there. Tap a passage on the daf, and the outline follows.
 - **f2** (Features card): Charts and illustrations.
-- **s3** (chart): Charts set the cases side by side, with an icon for every ruling.
-- **s4** (illustration): Illustrations draw each case, and how each opinion rules on it.
+- **s4** (chart): Charts set the cases side by side, with an icon for every ruling.
+- **s5** (illustration): Illustrations draw each case, and how each opinion rules on it.
 - **f3** (Features card): Terms, sages, measures.
-- **s5** (reference): Tap a key term for its definition, or a measure to see it on a scale.
-- **s6** (sages): Tap a sage to meet him, and explore his teachers and students.
+- **s6** (reference): Tap a key term for its definition, or a measure to see it on a scale.
+- **s7** (sages): Tap a sage to meet him, and explore his teachers and students.
 - **f4** (Features card): Quizzes and games.
-- **s7** (quiz): Test yourself with a quiz on every daf. Each answer links to its place on the daf.
-- **s8** (fill in the chart): Or rebuild a chart: drag each card to its place.
-- **f5** (Features card): Hyperlinks.
-- **s9** (links in the margin): Every line links to its sources: the verse in Tanakh, the parallels in Shas, the Rambam and the Shulchan Arukh. Each one opens right on the page.
-- **s10** (daf page): On the daf page too, with the sources in the margin. Tap a passage, and the outline goes there.
+- **s8** (quiz): Test yourself with a quiz on every daf. Each answer links to its place on the daf.
+- **s9** (fill in the chart): Rebuild a chart, card by card.
+- **s10** (term match): Or play term match: flip two cards to pair each term with its meaning.
+- **f5** (Features card): Links to Tanakh, Shas and halakha.
+- **s11** (links on the daf page): Every passage on the daf links to its sources: the parallels in Shas, the Rambam and the Shulchan Arukh. Each one opens right on the page, in its context.
 - **f6** (Features card): Word definitions.
-- **s11** (words): And every word opens to its meaning, and its dictionary entry: Jastrow for the Gemara, and for a verse, Brown-Driver-Briggs.
+- **s12** (words): And every word opens to its meaning, and its dictionary entry: Jastrow for the Gemara, and for a verse, Brown-Driver-Briggs.
 - **end**: The Talmud. Explicated. Annotated. Illustrated. italmud dot com.
 
 Then:
