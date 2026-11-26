@@ -1,6 +1,6 @@
 # iTalmud demo: narration script (draft)
 
-About 210 words, read at a relaxed pace. Each line plays over its part of the video; if your reading of a line runs longer than its slot, the picture slows down to fit, so don't rush.
+About 215 words, read at a relaxed pace. Each line plays over its part of the video; if your reading of a line runs longer than its slot, the picture slows down to fit, so don't rush.
 
 | Part | Line | Draft voice | Slot |
 |---|---|---|---|
@@ -11,7 +11,7 @@ About 210 words, read at a relaxed pace. Each line plays over its part of the vi
 | 4. Quizzes and games | Then test yourself. Every quiz answer links to its place in the outline, and on the daf itself. You can also fill in the charts, or match each term to its meaning. | 9.4 s | 21.6 s |
 | 5. Outline and Talmud in step | The outline and the Talmud move together. Tap a section, and the Gemara goes there, in Hebrew, English, or both. Tap a line, and the outline follows, on the daf page too. | 10.9 s | 15.8 s |
 | 6. Every word | And every word opens to its meaning, and to its entry in Jastrow, Klein, or Brown-Driver-Briggs. | 6.0 s | 8.0 s |
-| End card | Learn the daf at italmud dot com. | 1.8 s | 3.4 s |
+| End card | Learn Talmud in an entirely new way at italmud dot com. | 3.3 s | 4.9 s |
 
 ## Recording tips
 - One file per line, named `title`, `s1` ... `s6`, `end` (any format: m4a from the phone's Voice Memos is fine).

@@ -112,8 +112,8 @@ const EndCard: React.FC<{ fmt: Format }> = ({ fmt }) => {
   return (
     <AbsoluteFill style={{ background: NAVY, alignItems: "center", justifyContent: "center", color: "white", fontFamily: SANS, textAlign: "center" }}>
       <Img src={staticFile("brand/yct-logo-white.png")} style={{ width: tall ? 340 : 280, opacity: a, marginBottom: tall ? 80 : 46 }} />
-      <div style={{ fontFamily: SERIF, fontSize: tall ? 64 : 56, opacity: a }}>Learn the daf at</div>
-      <div style={{ fontSize: tall ? 116 : 112, fontWeight: 700, letterSpacing: -1, marginTop: 10, opacity: a, transform: `scale(${0.95 + 0.05 * a})` }}>italmud.com</div>
+      <div style={{ fontFamily: SERIF, fontSize: tall ? 60 : 56, lineHeight: 1.2, maxWidth: tall ? 860 : 1500, opacity: a }}>{tall ? <>Learn Talmud in an<br />entirely new way at</> : "Learn Talmud in an entirely new way at"}</div>
+      <div style={{ fontSize: tall ? 116 : 112, fontWeight: 700, letterSpacing: -1, marginTop: tall ? 24 : 14, opacity: a, transform: `scale(${0.95 + 0.05 * a})` }}>iTalmud.com</div>
       <div style={{ position: "absolute", bottom: tall ? 110 : 48, left: 60, right: 60, fontSize: tall ? 26 : 22, opacity: 0.75 * a, lineHeight: 1.4 }}>
         English translation: The William Davidson Talmud (CC BY-NC), via Sefaria
       </div>
