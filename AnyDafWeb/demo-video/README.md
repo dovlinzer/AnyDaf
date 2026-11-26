@@ -17,14 +17,22 @@ phone layout, unused. Takes, renders and stills are gitignored; re-record if the
 ## Narration
 Script: `voice/SCRIPT.md` (from `voice/script.json`). The draft track is the Mac's voice; `python3 voice/import.py <folder>` brings in recordings named title, s1..s6, end (trims silence, evens loudness). `npm run render90v:wide` / `render90v:tall`; a scene too short for its line slows to fit (`fitToVoice` in src/cut.ts).
 
-## Calm cuts (90 s, 60 s, three 30 s)
+## Calm cuts (2 min, 90 s, 60 s, three 30 s)
 
 The first cuts played the takes at up to 3.6x. The calm cuts use one short take per feature, recorded slowly
 (`capture/beats.mjs`: outline, summary, chart, illustration, reference, sages, quiz, fillchart, textsync,
 linesync, dafpage, words) and played at 1.05x–1.25x, with one caption per feature.
 
     npm run beats          # record the takes, then gather their timings into src/beats.gen.json
-    npm run rendercalm     # calm90, calm60, calm30study, calm30reference, calm30practice, each 16:9 and 9:16
+    npm run rendercalm     # calm120, calm90, calm60, calm30study, calm30reference, calm30practice, each 16:9 and 9:16
+    npm run chapters calm120 [videos...]   # chapter list (out/calm120.chapters.txt), embedded in any videos given
+
+The 2-minute cut (`calm120`, `features: true` in `CALM`) puts a Features card before each feature: the list so
+far, with the new line fading in, and the whole list once more at the end (`src/pieces.ts` lays out the pieces;
+`FeaturesCard` in `src/Demo.tsx`). Each feature is a chapter, starting at its card: `rendercalm` embeds them in the
+2-minute videos, and `out/calm120.chapters.txt` is the list for a YouTube description. Narration for it:
+`voice/calm120/SCRIPT.md` (the `f` lines go over the Features cards, which stretch to fit), then
+`python3 voice/import.py <folder> --edit calm120` and `npm run rendercalmv`.
 
 Each take logs where the camera should look (`L.focus(...)`, saved as `<clip>.cam.json`); `src/calm.ts` turns
 that into the camera (16:9 zooms in only on a small target; 9:16 stays at most 620 px wide so the text is

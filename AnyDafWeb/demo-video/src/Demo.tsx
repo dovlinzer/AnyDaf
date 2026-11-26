@@ -3,14 +3,22 @@ import { AbsoluteFill, Audio, Img, OffthreadVideo, Sequence, interpolate, static
 import { END_S, FPS, Key, SCENES, SRC, Scene, Seg, TITLE_S, VOICE_IN, XFADE, fitToVoice, sceneFrames, segFrames } from "./cut";
 import VOICE from "../public/voice/durations.json";
 import VOICE_CALM90 from "../public/voice/calm90/durations.json";
+import VOICE_CALM120 from "../public/voice/calm120/durations.json";
 import { SCENES90 } from "./cut90";
 import { CALM } from "./calm";
+import { FEAT_ADD, FEAT_VOICE_IN, layout } from "./pieces";
 
 export const EDITS: Record<string, Scene[]> = { "45": SCENES, "90": SCENES90, ...Object.fromEntries(Object.entries(CALM).map(([k, e]) => [k, e.scenes])) };
 export const cardsOf = (edit: string) => (CALM[edit] ? { titleS: CALM[edit].titleS, endS: CALM[edit].endS } : { titleS: TITLE_S, endS: END_S });
 // an edit with narration: the 90-second cut fitted to the voice
 // each narrated edit has its own recordings: public/voice/<dir>/<id>.wav
-export const VOICES: Record<string, { dir: string; dur: Record<string, number> }> = { "90": { dir: "voice", dur: VOICE }, calm90: { dir: "voice/calm90", dur: VOICE_CALM90 } };
+export const VOICES: Record<string, { dir: string; dur: Record<string, number> }> = { "90": { dir: "voice", dur: VOICE }, calm90: { dir: "voice/calm90", dur: VOICE_CALM90 }, calm120: { dir: "voice/calm120", dur: VOICE_CALM120 } };
+export const featuresOf = (edit: string) => !!CALM[edit]?.features;
+// the whole timeline of an edit (silent or voiced): pieces and total frames
+export const timeline = (edit: string, voice = false) => {
+  const V = voice ? voiced(edit) : null, C0 = cardsOf(edit);
+  return layout(V ? V.scenes : EDITS[edit], V ? V.titleS : C0.titleS, V ? V.endS : C0.endS, featuresOf(edit), V ? VOICES[edit].dur : {});
+};
 export const voiced = (edit: string) => {
   const v = fitToVoice(EDITS[edit], VOICES[edit].dur);
   return CALM[edit] ? { ...v, titleS: Math.max(CALM[edit].titleS, v.titleS), endS: Math.max(CALM[edit].endS, v.endS) } : v;
@@ -140,6 +148,35 @@ const EndCard: React.FC<{ fmt: Format }> = ({ fmt }) => {
   );
 };
 
+// ---------- the Features card ----------
+// "Features", then the list so far; the newest line fades in (adding), or the whole list shows (the recap)
+const FeaturesCard: React.FC<{ fmt: Format; items: string[]; shown: number; adding: boolean }> = ({ fmt, items, shown, adding }) => {
+  const f = useCurrentFrame(), tall = fmt === "tall";
+  const t0 = Math.round(FEAT_ADD * FPS);
+  const add = adding ? interpolate(f, [t0, t0 + 14], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) }) : 1;
+  const fs = tall ? 60 : 54, gap = tall ? 30 : 18;
+  return (
+    <AbsoluteFill style={{ background: CREAM, alignItems: "center", justifyContent: "center", fontFamily: SERIF, color: NAVY }}>
+      <div style={{ width: tall ? 860 : 1100 }}>
+        <div style={{ fontSize: tall ? 110 : 96, fontWeight: 600, letterSpacing: -1 }}>Features</div>
+        <div style={{ width: 120, height: 4, background: AMBER, margin: tall ? "28px 0 56px" : "18px 0 40px", borderRadius: 2 }} />
+        {/* every line is laid out from the start, so adding one never moves the others */}
+        {items.map((it, i) => {
+          const isNew = adding && i === shown - 1, vis = i < shown ? (isNew ? add : 1) : 0;
+          const past = adding && i < shown - 1;
+          return (
+            <div key={it} style={{ display: "flex", alignItems: "baseline", gap: 22, fontSize: fs, lineHeight: 1.15, marginBottom: gap,
+              opacity: vis * (past ? 0.5 : 1), transform: `translateX(${(1 - vis) * 24}px)`, fontWeight: isNew ? 600 : 500 }}>
+              <span style={{ color: AMBER, fontFamily: SANS, fontWeight: 700, fontSize: fs * 0.8, minWidth: fs * 0.9, textAlign: "right" }}>{i + 1}.</span>
+              <span>{it}</span>
+            </div>
+          );
+        })}
+      </div>
+    </AbsoluteFill>
+  );
+};
+
 // a cross-fade in at the start of each piece after the first
 const FadeIn: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const f = useCurrentFrame();
@@ -147,21 +184,20 @@ const FadeIn: React.FC<{ children: React.ReactNode }> = ({ children }) => {
 };
 
 export const Demo: React.FC<{ fmt: Format; W: number; H: number; edit?: string; voice?: boolean }> = ({ fmt, W, H, edit = "45", voice = false }) => {
-  const V = voice ? voiced(edit) : null;
-  const SC = V ? V.scenes : EDITS[edit], C0 = cardsOf(edit), titleS = V ? V.titleS : C0.titleS, endS = V ? V.endS : C0.endS;
-  const pieces: { len: number; el: React.ReactNode; id: string }[] = [
-    { len: Math.round(titleS * FPS), el: <TitleCard fmt={fmt} />, id: "title" },
-    ...SC.map((s, i) => ({ len: sceneFrames(s), el: <SceneView scene={s} fmt={fmt} W={W} H={H} contIn={i > 0 && SC[i - 1].kicker === s.kicker} contOut={i + 1 < SC.length && SC[i + 1].kicker === s.kicker} />, id: "s" + (i + 1) })),
-    { len: Math.round(endS * FPS), el: <EndCard fmt={fmt} />, id: "end" },
-  ];
-  let at = 0;
+  const { pieces } = timeline(edit, voice);
+  const dur: Record<string, number> = voice ? VOICES[edit].dur : {};
+  const el = (p: (typeof pieces)[number]) =>
+    p.kind === "title" ? <TitleCard fmt={fmt} /> :
+    p.kind === "end" ? <EndCard fmt={fmt} /> :
+    p.kind === "features" ? <FeaturesCard fmt={fmt} items={p.features!} shown={p.shown!} adding={!!p.adding} /> :
+    <SceneView scene={p.scene!} fmt={fmt} W={W} H={H} contIn={p.contIn} contOut={p.contOut} />;
   return (
     <AbsoluteFill style={{ background: CREAM }}>
-      {pieces.map((p, i) => { const from = i === 0 ? 0 : at - XFADE; at = from + p.len;
-        const vin = Math.round((p.id === "title" ? 0.3 : p.id === "end" ? 0.4 : VOICE_IN) * FPS);
+      {pieces.map((p, i) => {
+        const vin = Math.round((p.kind === "title" ? 0.3 : p.kind === "end" ? 0.4 : p.kind === "features" ? FEAT_VOICE_IN : VOICE_IN) * FPS);
         return <React.Fragment key={i}>
-          <Sequence from={from} durationInFrames={p.len}>{i === 0 ? p.el : <FadeIn>{p.el}</FadeIn>}</Sequence>
-          {voice && <Sequence from={from + vin}><Audio src={staticFile(`${VOICES[edit].dir}/${p.id}.wav`)} /></Sequence>}
+          <Sequence from={p.from} durationInFrames={p.len}>{i === 0 ? el(p) : <FadeIn>{el(p)}</FadeIn>}</Sequence>
+          {voice && (dur[p.id] || 0) > 0 && <Sequence from={p.from + vin}><Audio src={staticFile(`${VOICES[edit].dir}/${p.id}.wav`)} /></Sequence>}
         </React.Fragment>; })}
     </AbsoluteFill>
   );

@@ -6,10 +6,11 @@ import GEN from "./beats.gen.json";
 type Gen = { dur: number; marks: number[]; focus: (number | string)[][] };
 const G = GEN as Record<string, Gen>;
 
-export type Beat = { kicker: string; caption: string; from?: number; to?: number };
+// rate: this beat's own speed (else the edit's); hold: seconds to hold its last frame
+export type Beat = { kicker: string; caption: string; from?: number; to?: number; rate?: number; hold?: number };
 export const BEATS: Record<string, Beat> = {
-  outline:      { kicker: "The study outline", caption: "Every daf has a study outline. Open a section for its steps and the shiur's insights." },
-  summary:      { kicker: "The study outline", caption: "A summary of the whole daf, each point linked to its section." },
+  outline:      { kicker: "Study Outline", caption: "Every daf has a study outline. Open a section for its steps and the shiur's insights." },
+  summary:      { kicker: "Study Outline", caption: "A summary of the whole daf, each point linked to its section." },
   chart:        { kicker: "Charts & illustrations", caption: "Charts set the cases side by side, with an icon for each ruling." },
   illustration: { kicker: "Charts & illustrations", caption: "Illustrations draw each case, and how each opinion rules on it." },
   reference:    { kicker: "Terms, sages, measures", caption: "Tap a key term for its definition, or a measure to see it on a scale." },
@@ -19,7 +20,8 @@ export const BEATS: Record<string, Beat> = {
   textsync:     { kicker: "Outline and Talmud in step", caption: "Tap a section, and the Gemara goes there, in Hebrew, English or both." },
   linesync:     { kicker: "Outline and Talmud in step", caption: "Tap a line of Gemara, and the outline follows." },
   dafpage:      { kicker: "Outline and Talmud in step", caption: "On the daf page too, with the Rambam and Shulchan Arukh in the margin." },
-  words:        { kicker: "Every word", caption: "Right-click a line on the daf, then tap any word for its meaning and its dictionary entry." },
+  // at normal speed, and held on the open entry, so the definitions don't go by too fast
+  words:        { kicker: "Word Definitions", caption: "Right-click a line on the daf, then tap any word for its meaning and its dictionary entry.", rate: 1, hold: 2.5 },
 };
 
 // ---------- the camera, from a take's targets ----------
@@ -55,15 +57,19 @@ export const beatScene = (spec: string, rate: number): Scene => {
   if (name === "reference" && part && pt < 6.5) b.caption = "Tap a key term for its definition.";
   return {
     clip: "C_" + name, kicker: b.kicker, caption: b.caption,
-    segs: [{ from: b.from ?? 0.3, to: b.to ?? Math.max(1, (g?.dur || 8) - 0.15), rate }],
+    segs: ((to) => [{ from: b.from ?? 0.3, to, rate: b.rate ?? rate },
+      // a hold: the last frame, played very slowly
+      ...(b.hold ? [{ from: to - 0.03, to, rate: 0.03 / b.hold }] : [])])(b.to ?? Math.max(1, (g?.dur || 8) - 0.15)),
     wide: camera("C_" + name, "wide"), tall: camera("C_" + name, "tall"),
   };
 };
 
-export type Edit = { scenes: Scene[]; titleS: number; endS: number };
-const edit = (names: string[], rate: number, titleS = 2.6, endS = 5.6): Edit => ({ scenes: names.map((n) => beatScene(n, rate)), titleS, endS });
+export type Edit = { scenes: Scene[]; titleS: number; endS: number; features?: boolean };   // features: a Features card before each feature
+const edit = (names: string[], rate: number, titleS = 2.6, endS = 5.6, features = false): Edit => ({ scenes: names.map((n) => beatScene(n, rate)), titleS, endS, features });
 
 export const CALM: Record<string, Edit> = {
+  // about two minutes: every feature, each introduced by the Features card
+  calm120: edit(["outline", "summary@0.8-11.6", "chart@0.8-11.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "fillchart", "textsync", "linesync", "dafpage", "words"], 1.25, 2.6, 5.6, true),
   calm90: edit(["outline", "summary@0.8-11.6", "chart@0.8-11.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "textsync", "dafpage", "words"], 1.25),
   calm60: edit(["outline", "illustration", "sages", "quiz@0.5-16.3", "dafpage", "words"], 1.2),
   // three 30-second cuts, each with its own features

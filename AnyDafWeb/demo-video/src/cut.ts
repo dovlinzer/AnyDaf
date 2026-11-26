@@ -23,7 +23,7 @@ const FULL = (t: number): Key => ({ t, x: 800, y: 450, w: 1600 });
 export const SCENES: Scene[] = [
   {
     clip: "s1_outline",
-    kicker: "The study outline",
+    kicker: "Study Outline",
     caption: "Every daf, organized: a study outline from the first line to a summary at the end.",
     segs: [{ from: 1.4, to: 7.6, rate: 1.6 }, { from: 8.6, to: 13.4, rate: 1.7 }],
     wide: [FULL(1.4), FULL(2.4), { t: 3.6, x: 470, y: 330, w: 980 }, { t: 8.0, x: 470, y: 330, w: 980 }, FULL(9.4), FULL(10.4), { t: 11.4, x: 450, y: 300, w: 940 }],

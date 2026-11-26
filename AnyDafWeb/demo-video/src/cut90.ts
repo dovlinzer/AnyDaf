@@ -13,7 +13,7 @@ const F = 1600;   // the whole page
 export const SCENES90: Scene[] = [
   {
     clip: "L1_outline",
-    kicker: "The study outline",
+    kicker: "Study Outline",
     caption: "Every daf, organized: a study outline from the first line to a summary at the end.",
     segs: [
       { from: 2.4, to: 9.6, rate: 1.8, note: "Each section opens to a summary, the steps of the sugya, and insights from the shiur." },
@@ -96,7 +96,7 @@ export const SCENES90: Scene[] = [
   },
   {
     clip: "L6_words",
-    kicker: "Every word",
+    kicker: "Word Definitions",
     caption: "Tap any word for its meaning and its dictionary entry.",
     segs: [
       { from: 0.4, to: 16.0, rate: 1.95, note: "Right-click a line on the daf, then tap any word: its meaning, and Jastrow, Klein or BDB at the right sense." },

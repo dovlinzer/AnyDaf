@@ -1,0 +1,85 @@
+{
+ "_note": "Narration for the 2-minute cut (calm120). Record each line as its own file named by its id, then: python3 voice/import.py <folder> --edit calm120. The f lines are said over the Features cards (about 2 seconds each): keep them short. The recap card (f7) has no line.",
+ "lines": [
+  {
+   "id": "title",
+   "text": "This is iTalmud: the Illustrated Talmud."
+  },
+  {
+   "id": "f1",
+   "text": "Study outline."
+  },
+  {
+   "id": "s1",
+   "text": "Every daf comes with a study outline. Open a section to see its steps, and insights from the shiur."
+  },
+  {
+   "id": "s2",
+   "text": "At the end, a summary of the whole daf, each point linked back to its section."
+  },
+  {
+   "id": "f2",
+   "text": "Charts and illustrations."
+  },
+  {
+   "id": "s3",
+   "text": "Charts set the cases side by side, with an icon for every ruling."
+  },
+  {
+   "id": "s4",
+   "text": "Illustrations draw each case, and how each opinion rules on it."
+  },
+  {
+   "id": "f3",
+   "text": "Terms, sages, measures."
+  },
+  {
+   "id": "s5",
+   "text": "Tap a key term for its definition, or a measure to see it on a scale."
+  },
+  {
+   "id": "s6",
+   "text": "Tap a sage to meet him, and explore his teachers and students."
+  },
+  {
+   "id": "f4",
+   "text": "Quizzes and games."
+  },
+  {
+   "id": "s7",
+   "text": "Test yourself with a quiz on every daf. Each answer links to its place on the daf."
+  },
+  {
+   "id": "s8",
+   "text": "Or rebuild a chart: drag each card to its place."
+  },
+  {
+   "id": "f5",
+   "text": "Outline and Talmud, in step."
+  },
+  {
+   "id": "s9",
+   "text": "The outline and the Talmud move together. Tap a section, and the Gemara goes there, in Hebrew, English, or both."
+  },
+  {
+   "id": "s10",
+   "text": "Tap a line of Gemara, and the outline follows."
+  },
+  {
+   "id": "s11",
+   "text": "On the daf page too, with the Rambam and Shulchan Arukh in the margin."
+  },
+  {
+   "id": "f6",
+   "text": "Word definitions."
+  },
+  {
+   "id": "s12",
+   "text": "And every word opens to its meaning, and its entry in the dictionary."
+  },
+  {
+   "id": "end",
+   "text": "The Talmud. Explicated. Annotated. Illustrated. italmud dot com."
+  }
+ ]
+}
