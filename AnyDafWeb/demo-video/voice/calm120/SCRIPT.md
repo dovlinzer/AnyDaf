@@ -18,7 +18,7 @@ Record each line as its own file, named by its id (`title.m4a`, `f1.m4a`, `s1.m4
 - **s9** (fill in the chart): Rebuild a chart, card by card.
 - **s10** (term match): Or play term match: flip two cards to pair each term with its meaning.
 - **f5** (Features card): Links to Tanakh, Shas and halakha.
-- **s11** (links on the daf page): Every passage on the daf links to its sources: the parallels in Shas, the Rambam and the Shulchan Arukh. Each one opens right on the page, in its context.
+- **s11** (links on the daf page): Every passage on the daf links to its sources: the verses in Tanakh, parallels in Shas, and rulings in the Rambam and Shulchan Arukh. Each one opens right on the page, in its context.
 - **f6** (Features card): Word definitions.
 - **s12** (words): And every word opens to its meaning, and its dictionary entry: Jastrow for the Gemara, and for a verse, Brown-Driver-Briggs.
 - **end**: The Talmud. Explicated. Annotated. Illustrated. italmud dot com.
