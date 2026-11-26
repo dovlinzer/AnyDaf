@@ -21,7 +21,7 @@ export const BEATS: Record<string, Beat> = {
   linesync:     { kicker: "Outline and Talmud in step", caption: "Tap a line of Gemara, and the outline follows." },
   dafsync:      { kicker: "Study Outline", caption: "Tap a section, and the daf page goes there. Tap a passage on the daf, and the outline follows." },
   memory:       { kicker: "Quizzes & games", caption: "Or play term match: flip two cards to pair each term with its meaning.", rate: 1.4 },
-  links:        { kicker: "Links to Tanakh, Shas and Halakha", caption: "Every passage on the daf links to its sources: The verses in Tanakh, parallels in Shas, and rulings in Rambam and Shulchan Arukh. Each opens in place, in its context.", rate: 1.35 },
+  links:        { kicker: "Links to Tanakh, Shas and Halakha", caption: "Every passage on the daf links to its sources: the verses in Tanakh, parallels in Shas, and rulings in Rambam and Shulchan Arukh. Each opens in place, in its context.", rate: 1.35 },
   xrefs:        { kicker: "Links to Tanakh, Shas and Halakha", caption: "Every line links to its sources: the verse in Tanakh, the parallels in Shas, the Rambam and Shulchan Arukh." },
   dafpage:      { kicker: "Links to Tanakh, Shas and Halakha", caption: "On the daf page too, the sources in the margin. Tap a passage, and the outline goes there." },
   // a Gemara word (Jastrow), then a word from the verse the baraita quotes (BDB); a little slower than the rest
