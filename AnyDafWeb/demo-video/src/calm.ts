@@ -73,7 +73,7 @@ const edit = (names: string[], rate: number, titleS = 2.6, endS = 5.6, features 
 
 export const CALM: Record<string, Edit> = {
   // about two minutes: every feature, each introduced by the Features card
-  calm120: edit(["outline", "summary@0.8-11.6", "dafsync@1.0-10.6", "chart@0.8-10.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "fillchart@0.3-5.6", "memory@8.9-19.9", "links@0.3-25.6", "words"], 1.25, 2.6, 5.6, true),
+  calm120: edit(["outline", "summary@0.8-11.6", "dafsync@1.0-10.6", "chart@0.8-10.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "fillchart@0.3-5.6", "memory@0.5-14.0", "links@0.3-19.2", "words"], 1.25, 2.6, 5.6, true),
   calm90: edit(["outline", "summary@0.8-11.6", "chart@0.8-11.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "textsync", "dafpage", "words"], 1.25),
   calm60: edit(["outline", "illustration", "sages", "quiz@0.5-16.3", "dafpage", "words"], 1.2),
   // three 30-second cuts, each with its own features

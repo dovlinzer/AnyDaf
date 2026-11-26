@@ -270,8 +270,7 @@ const BEATS = {
       await L.sleep(2600);
     });
   },
-  // the daf page's margin (Bava Metzia 3a): a Shas source, scrolled for its context; then the Rambam and the
-  // Shulchan Arukh. All zoomed out (16:9); 9:16 follows the window.
+  // the daf page's margin (Bava Metzia 3a): a Shas source, scrolled for its context; then the Shulchan Arukh. All zoomed out (16:9); 9:16 follows the window.
   async links(s) {
     const p = s.page;
     await p.locator('#paneSeg button[data-p="page"]').click(); await L.sleep(1500);
@@ -287,9 +286,6 @@ const BEATS = {
       await L.sleep(700); await L.focus(s, "dialog.xsrc[open]", { pad: 10, fmt: "tall" }); await L.sleep(1600);
       await L.glide(s, p.locator(body), 600); await L.sleep(200);
       await wheel(-700); await L.sleep(1200); await wheel(1400, 24); await L.sleep(1200); await wheel(-700); await L.sleep(1300);
-      await close(); await L.sleep(400);
-      await L.click(s, a("Mishneh Torah, Plaintiff and Defendant 1:1"), C);
-      await L.sleep(700); await L.focus(s, "dialog.xsrc[open]", { pad: 10, fmt: "tall" }); await L.sleep(2600);
       await close(); await L.sleep(400);
       await L.click(s, a("Shulchan Arukh, Choshen Mishpat 87:1"), C);
       await L.sleep(700); await L.focus(s, "dialog.xsrc[open]", { pad: 10, fmt: "tall" }); await L.sleep(2800);
