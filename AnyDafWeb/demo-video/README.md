@@ -24,7 +24,9 @@ The first cuts played the takes at up to 3.6x. The calm cuts use one short take 
 linesync, dafpage, words) and played at 1.05x–1.25x, with one caption per feature.
 
     npm run beats          # record the takes, then gather their timings into src/beats.gen.json
-    npm run rendercalm     # calm120, calm90, calm60, calm30study, calm30reference, calm30practice, each 16:9 and 9:16
+    npm run rendercalm     # silent: calm120, calm60, calm30study, calm30reference, calm30practice, each 16:9 and 9:16
+    npm run rendercalmv    # the same, narrated
+    npm run rendercalmv -- calm30study calm60      # just these (or --skip calm120; --only 16x9 for one format)
     npm run chapters calm120 [videos...]   # chapter list (out/calm120.chapters.txt), embedded in any videos given
 
 The 2-minute cut (`calm120`, `features: true` in `CALM`) puts a Features card before each feature: the list so

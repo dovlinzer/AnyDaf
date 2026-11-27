@@ -38,3 +38,5 @@ python3 voice/import.py <folder> --edit calm120
 ```bash
 npm run rendercalmv
 ```
+
+To render only some cuts: `npm run rendercalmv -- calm30study calm30reference calm30practice`, or `npm run rendercalmv -- --skip calm120`.
