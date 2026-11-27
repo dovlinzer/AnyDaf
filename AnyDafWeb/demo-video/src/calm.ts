@@ -89,7 +89,7 @@ export const CALM: Record<string, Edit> = {
   calm120: edit(["outline", "summary@0.8-11.6", "dafsync@1.0-10.6", "chart@0.8-10.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "fillchart@0.3-5.6", "memory@0.5-14.0", "links@0.3-19.2", "words"], 1.25, 2.6, 5.6, true),
   calm90: edit(["outline", "summary@0.8-11.6", "chart@0.8-11.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "textsync", "dafpage", "words"], 1.25),
   // the short cuts are trimmed so each scene runs about as long as its narrated line
-  calm60: edit(["outline", "chart@0.8-3.8", "illustration", "reference@1.5-5.0", "sages@1.5-11.6", "quiz@3.8-14.0", "links@0.3-19.2", "words@4.5-14.4"], 1.2, 2.6, 5.6, false, 0.8),
+  calm60: edit(["outline", "chart@0.8-3.8", "illustration", "reference@1.5-5.0", "sages@1.5-11.6", "quiz@1.2-14.0", "links@0.3-19.2", "words@0.6-7.4,9.6-14.4|wide"], 1.2, 2.6, 5.6, false, 0.8),
   // three 30-second cuts, each with its own features
   calm30study: edit(["outline", "chart@0.8-7.8", "illustration"], 1.2, 2.2, 5.0, false, 0.8, "Study Outlines,\nCharts and Illustrations"),
   calm30reference: edit(["reference@1.5-5.0,7.6-12.0", "sages@1.5-9.6", "words@0.6-7.4,9.6-14.4|wide"], 1.25, 2.2, 5.0, false, 0.8, "Terms, Measures,\nSages, Definitions"),
