@@ -13,7 +13,7 @@
     "render90v:wide": "remotion render src/index.ts Demo90v-16x9 out/italmud-demo-90s-voice-16x9.mp4",
     "beats": "node capture/beats.mjs && node capture/collect.mjs",
     "rendercalm": "bash -c 'for e in calm120 calm90 calm60 calm30study calm30reference calm30practice; do for f in 16x9 9x16; do remotion render src/index.ts $e-$f out/italmud-$e-$f.mp4; done; done; node tools/chapters.mjs calm120 out/italmud-calm120-16x9.mp4 out/italmud-calm120-9x16.mp4'",
-    "rendercalmv": "remotion render src/index.ts calm120v-16x9 out/italmud-calm120-voice-16x9.mp4 && remotion render src/index.ts calm120v-9x16 out/italmud-calm120-voice-9x16.mp4 && node tools/chapters.mjs calm120v out/italmud-calm120-voice-16x9.mp4 out/italmud-calm120-voice-9x16.mp4",
+    "rendercalmv": "bash -c 'for e in calm120 calm60 calm30study calm30reference calm30practice; do for f in 16x9 9x16; do remotion render src/index.ts ${e}v-$f out/italmud-$e-voice-$f.mp4; done; done; node tools/chapters.mjs calm120v out/italmud-calm120-voice-16x9.mp4 out/italmud-calm120-voice-9x16.mp4'",
     "render90v:tall": "remotion render src/index.ts Demo90v-9x16 out/italmud-demo-90s-voice-9x16.mp4",
     "chapters": "node tools/chapters.mjs"
   },

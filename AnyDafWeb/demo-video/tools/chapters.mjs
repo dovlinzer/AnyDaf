@@ -11,7 +11,7 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const [edit = "calm120", ...videos] = process.argv.slice(2);
-const voice = edit.endsWith("v") && !edit.startsWith("calm30");
+const voice = edit.endsWith("v");   // calm120v: the narrated calm120
 
 // the bundle sits inside the project so its imports (react, remotion) resolve
 const tmp = fs.mkdtempSync(path.join(ROOT, "out", ".chapters-"));
@@ -32,6 +32,7 @@ const yt = [...marks];
 for (let i = yt.length - 1; i > 0; i--) if ((yt[i + 1]?.t ?? end) - yt[i].t < 10) yt.splice(i, 1);
 const txt = yt.map((m, i) => `${i === 0 ? "0:00" : ts(m.t)} ${m.title}`).join("\n");
 fs.writeFileSync(path.join(ROOT, "out", `${edit}.chapters.txt`), txt + "\n");
+if (process.env.PIECES) console.log(pieces.map((p) => `  ${p.id.padEnd(5)} ${(p.len / FPS).toFixed(1)}s  ${p.scene?.clip || ""}`).join("\n"));
 console.log(`${edit}: ${end.toFixed(2)} s\n` + marks.map((m) => `  ${ts(m.t)}  ${m.title}`).join("\n"));
 
 for (const v of videos) {

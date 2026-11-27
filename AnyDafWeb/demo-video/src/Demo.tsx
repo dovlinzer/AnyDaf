@@ -14,8 +14,17 @@ export const cardsOf = (edit: string) => (CALM[edit] ? { titleS: CALM[edit].titl
 // each narrated edit has its own recordings: public/voice/<dir>/<id>.wav
 // endBeats: when the recorded end line says each word (voice/import.py finds them), so the card shows each as it is said
 const vo = (dir: string, j: Record<string, unknown>) => { const { end_beats, ...dur } = j; return { dir, dur: dur as Record<string, number>, endBeats: end_beats as number[] | undefined }; };
-export const VOICES: Record<string, { dir: string; dur: Record<string, number>; endBeats?: number[] }> = {
+export const VOICES: Record<string, { dir: string; dur: Record<string, number>; endBeats?: number[]; file?: Record<string, string> }> = {
   "90": vo("voice", VOICE), calm90: vo("voice/calm90", VOICE_CALM90), calm120: vo("voice/calm120", VOICE_CALM120) };
+// the shorter cuts reuse the 2-minute cut's recordings: scene i plays line ids[i] (and the same title and end)
+const reuse = (from: string, ids: string[]) => { const b = VOICES[from], file = Object.fromEntries(ids.map((id, i) => ["s" + (i + 1), id]));
+  return { ...b, file, dur: { title: b.dur.title, end: b.dur.end, ...Object.fromEntries(ids.map((id, i) => ["s" + (i + 1), b.dur[id]])) } }; };
+Object.assign(VOICES, {
+  calm60: reuse("calm120", ["s1", "s5", "s7", "s8", "s11", "s12"]),
+  calm30study: reuse("calm120", ["s1", "s4", "s5"]),
+  calm30reference: reuse("calm120", ["s6", "s7", "s12"]),
+  calm30practice: reuse("calm120", ["s8", "s9", "s10"]),
+});
 export const featuresOf = (edit: string) => !!CALM[edit]?.features;
 // the whole timeline of an edit (silent or voiced): pieces and total frames
 export const timeline = (edit: string, voice = false) => {
@@ -24,7 +33,8 @@ export const timeline = (edit: string, voice = false) => {
 };
 export const voiced = (edit: string) => {
   const v = fitToVoice(EDITS[edit], VOICES[edit].dur);
-  return CALM[edit] ? { ...v, titleS: Math.max(CALM[edit].titleS, v.titleS), endS: Math.max(CALM[edit].endS, v.endS) } : v;
+  const c = CALM[edit], endS = c?.endPad != null ? Math.max(c.endS, (VOICES[edit].dur.end || 0) + c.endPad) : Math.max(c?.endS ?? 0, v.endS);
+  return c ? { ...v, titleS: Math.max(c.titleS, v.titleS), endS } : v;
 };
 
 export type Format = "wide" | "tall";
@@ -201,7 +211,7 @@ export const Demo: React.FC<{ fmt: Format; W: number; H: number; edit?: string; 
         const vin = Math.round((p.kind === "title" ? 0.3 : p.kind === "end" ? END_VOICE_IN : p.kind === "features" ? FEAT_VOICE_IN : VOICE_IN) * FPS);
         return <React.Fragment key={i}>
           <Sequence from={p.from} durationInFrames={p.len}>{i === 0 ? el(p) : <FadeIn>{el(p)}</FadeIn>}</Sequence>
-          {voice && (dur[p.id] || 0) > 0 && <Sequence from={p.from + vin}><Audio src={staticFile(`${VOICES[edit].dir}/${p.id}.wav`)} /></Sequence>}
+          {voice && (dur[p.id] || 0) > 0 && <Sequence from={p.from + vin}><Audio src={staticFile(`${VOICES[edit].dir}/${VOICES[edit].file?.[p.id] ?? p.id}.wav`)} /></Sequence>}
         </React.Fragment>; })}
     </AbsoluteFill>
   );

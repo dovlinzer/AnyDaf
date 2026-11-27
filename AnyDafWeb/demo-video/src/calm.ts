@@ -54,30 +54,34 @@ function camera(clip: string, fmt: "wide" | "tall"): Key[] {
   return keys.length ? keys : [{ t: 0, x: 800, y: 450, w: 1600 }];
 }
 
-// name, or name@from-to to play only part of the take
+// name, or name@from-to to play only part of the take, or name@a-b,c-d to play two parts of it (cut together)
 export const beatScene = (spec: string, rate: number): Scene => {
-  const [name, part] = spec.split("@"), [pf, pt] = part ? part.split("-").map(Number) : [];
-  const b = { ...BEATS[name], ...(part ? { from: pf, to: pt } : {}) }, g = G["C_" + name];
-  if (name === "reference" && part && pt < 6.5) b.caption = "Tap a key term for its definition.";
+  const [name, part] = spec.split("@"), g = G["C_" + name];
+  const b = { ...BEATS[name] };
+  const parts = part ? part.split(",").map((x) => x.split("-").map(Number)) : [[b.from ?? 0.3, b.to ?? Math.max(1, (g?.dur || 8) - 0.15)]];
+  if (name === "reference" && parts.length === 1 && parts[0][1] < 6.5) b.caption = "Tap a key term for its definition.";
+  const r = b.rate ?? rate, to = parts[parts.length - 1][1];
   return {
     clip: "C_" + name, kicker: b.kicker, caption: b.caption,
-    segs: ((to) => [{ from: b.from ?? 0.3, to, rate: b.rate ?? rate },
+    segs: [...parts.map(([from, t]) => ({ from, to: t, rate: r })),
       // a hold: the last frame, played very slowly
-      ...(b.hold ? [{ from: to - 0.03, to, rate: 0.03 / b.hold }] : [])])(b.to ?? Math.max(1, (g?.dur || 8) - 0.15)),
+      ...(b.hold ? [{ from: to - 0.03, to, rate: 0.03 / b.hold }] : [])],
     wide: camera("C_" + name, "wide"), tall: camera("C_" + name, "tall"),
   };
 };
 
-export type Edit = { scenes: Scene[]; titleS: number; endS: number; features?: boolean };   // features: a Features card before each feature
-const edit = (names: string[], rate: number, titleS = 2.6, endS = 5.6, features = false): Edit => ({ scenes: names.map((n) => beatScene(n, rate)), titleS, endS, features });
+// features: a Features card before each feature; endPad: with narration, the end card holds this long after the end line
+export type Edit = { scenes: Scene[]; titleS: number; endS: number; features?: boolean; endPad?: number };
+const edit = (names: string[], rate: number, titleS = 2.6, endS = 5.6, features = false, endPad?: number): Edit => ({ scenes: names.map((n) => beatScene(n, rate)), titleS, endS, features, endPad });
 
 export const CALM: Record<string, Edit> = {
   // about two minutes: every feature, each introduced by the Features card
   calm120: edit(["outline", "summary@0.8-11.6", "dafsync@1.0-10.6", "chart@0.8-10.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "fillchart@0.3-5.6", "memory@0.5-14.0", "links@0.3-19.2", "words"], 1.25, 2.6, 5.6, true),
   calm90: edit(["outline", "summary@0.8-11.6", "chart@0.8-11.6", "illustration", "reference", "sages", "quiz@0.5-16.3", "textsync", "dafpage", "words"], 1.25),
-  calm60: edit(["outline", "illustration", "sages", "quiz@0.5-16.3", "dafpage", "words"], 1.2),
+  // the short cuts are trimmed so each scene runs about as long as its narrated line
+  calm60: edit(["outline", "illustration", "sages@1.5-11.6", "quiz@3.8-14.0", "links@0.3-19.2", "words@4.5-14.4"], 1.2, 2.6, 5.6, false, 0.8),
   // three 30-second cuts, each with its own features
-  calm30study: edit(["outline", "chart@0.8-11.6", "illustration"], 1.2, 2.2, 5.0),
-  calm30reference: edit(["reference@0.3-5.6", "sages", "words"], 1.25, 2.2, 5.0),
-  calm30practice: edit(["quiz@0.5-16.3", "textsync", "linesync"], 1.25, 2.2, 5.0),
+  calm30study: edit(["outline", "chart@0.8-7.8", "illustration"], 1.2, 2.2, 5.0, false, 0.8),
+  calm30reference: edit(["reference@1.5-5.0,7.6-12.0", "sages@1.5-9.6", "words@5.5-14.4"], 1.25, 2.2, 5.0, false, 0.8),
+  calm30practice: edit(["quiz@4.0-13.6", "fillchart@0.3-5.6", "memory@2.2-14.0"], 1.3, 2.2, 5.0, false, 0.8),
 };

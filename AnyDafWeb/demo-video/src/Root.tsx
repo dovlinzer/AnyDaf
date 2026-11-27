@@ -23,7 +23,7 @@ export const Root: React.FC = () => (
         <Composition id={`${e}-9x16`} component={Demo} durationInFrames={n} fps={FPS} width={1080} height={1920} defaultProps={{ fmt: "tall" as const, W: 1080, H: 1920, edit: e }} />
       </React.Fragment>); })}
     {/* calm90 and calm120 with narration (public/voice/<edit>): calm90v-16x9, calm120v-9x16, ... */}
-    {["calm90", "calm120"].map((e) => { const n = timeline(e, true).total; return (<React.Fragment key={e + "v"}>
+    {["calm90", "calm120", "calm60", "calm30study", "calm30reference", "calm30practice"].map((e) => { const n = timeline(e, true).total; return (<React.Fragment key={e + "v"}>
       <Composition id={`${e}v-16x9`} component={Demo} durationInFrames={n} fps={FPS} width={1920} height={1080} defaultProps={{ fmt: "wide" as const, W: 1920, H: 1080, edit: e, voice: true }} />
       <Composition id={`${e}v-9x16`} component={Demo} durationInFrames={n} fps={FPS} width={1080} height={1920} defaultProps={{ fmt: "tall" as const, W: 1080, H: 1920, edit: e, voice: true }} />
     </React.Fragment>); })}
