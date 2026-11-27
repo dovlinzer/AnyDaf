@@ -12,7 +12,10 @@ export const EDITS: Record<string, Scene[]> = { "45": SCENES, "90": SCENES90, ..
 export const cardsOf = (edit: string) => (CALM[edit] ? { titleS: CALM[edit].titleS, endS: CALM[edit].endS } : { titleS: TITLE_S, endS: END_S });
 // an edit with narration: the 90-second cut fitted to the voice
 // each narrated edit has its own recordings: public/voice/<dir>/<id>.wav
-export const VOICES: Record<string, { dir: string; dur: Record<string, number> }> = { "90": { dir: "voice", dur: VOICE }, calm90: { dir: "voice/calm90", dur: VOICE_CALM90 }, calm120: { dir: "voice/calm120", dur: VOICE_CALM120 } };
+// endBeats: when the recorded end line says each word (voice/import.py finds them), so the card shows each as it is said
+const vo = (dir: string, j: Record<string, unknown>) => { const { end_beats, ...dur } = j; return { dir, dur: dur as Record<string, number>, endBeats: end_beats as number[] | undefined }; };
+export const VOICES: Record<string, { dir: string; dur: Record<string, number>; endBeats?: number[] }> = {
+  "90": vo("voice", VOICE), calm90: vo("voice/calm90", VOICE_CALM90), calm120: vo("voice/calm120", VOICE_CALM120) };
 export const featuresOf = (edit: string) => !!CALM[edit]?.features;
 // the whole timeline of an edit (silent or voiced): pieces and total frames
 export const timeline = (edit: string, voice = false) => {
@@ -127,11 +130,12 @@ const TitleCard: React.FC<{ fmt: Format }> = ({ fmt }) => {
 // The end card: "The Talmud" / Explicated. / Annotated. / Illustrated. / iTalmud.com, each fading in on its own beat
 // (END_BEATS, seconds into the card; the draft narration speaks each word as it appears).
 export const END_BEATS = [0.45, 1.3, 2.1, 2.9, 3.8];
-const EndCard: React.FC<{ fmt: Format }> = ({ fmt }) => {
+const END_VOICE_IN = 0.4;   // the end line starts this far into the card
+const EndCard: React.FC<{ fmt: Format; beats?: number[] }> = ({ fmt, beats = END_BEATS }) => {
   const f = useCurrentFrame(), tall = fmt === "tall";
   const fade = (t: number) => interpolate(f, [t * FPS, t * FPS + 12], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
   const a = interpolate(f, [XFADE, XFADE + 16], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
-  const [t0, ...tw] = END_BEATS, words = ["Explicated.", "Annotated.", "Illustrated."];
+  const [t0, ...tw] = beats, words = ["Explicated.", "Annotated.", "Illustrated."];
   const rise = (t: number) => ({ opacity: fade(t), transform: `translateY(${(1 - fade(t)) * 14}px)` });
   return (
     <AbsoluteFill style={{ background: NAVY, alignItems: "center", justifyContent: "center", color: "white", fontFamily: SANS, textAlign: "center" }}>
@@ -188,13 +192,13 @@ export const Demo: React.FC<{ fmt: Format; W: number; H: number; edit?: string; 
   const dur: Record<string, number> = voice ? VOICES[edit].dur : {};
   const el = (p: (typeof pieces)[number]) =>
     p.kind === "title" ? <TitleCard fmt={fmt} /> :
-    p.kind === "end" ? <EndCard fmt={fmt} /> :
+    p.kind === "end" ? <EndCard fmt={fmt} beats={voice && VOICES[edit].endBeats ? VOICES[edit].endBeats!.map((b) => END_VOICE_IN - 0.1 + b) : undefined} /> :
     p.kind === "features" ? <FeaturesCard fmt={fmt} items={p.features!} shown={p.shown!} adding={!!p.adding} /> :
     <SceneView scene={p.scene!} fmt={fmt} W={W} H={H} contIn={p.contIn} contOut={p.contOut} />;
   return (
     <AbsoluteFill style={{ background: CREAM }}>
       {pieces.map((p, i) => {
-        const vin = Math.round((p.kind === "title" ? 0.3 : p.kind === "end" ? 0.4 : p.kind === "features" ? FEAT_VOICE_IN : VOICE_IN) * FPS);
+        const vin = Math.round((p.kind === "title" ? 0.3 : p.kind === "end" ? END_VOICE_IN : p.kind === "features" ? FEAT_VOICE_IN : VOICE_IN) * FPS);
         return <React.Fragment key={i}>
           <Sequence from={p.from} durationInFrames={p.len}>{i === 0 ? el(p) : <FadeIn>{el(p)}</FadeIn>}</Sequence>
           {voice && (dur[p.id] || 0) > 0 && <Sequence from={p.from + vin}><Audio src={staticFile(`${VOICES[edit].dir}/${p.id}.wav`)} /></Sequence>}

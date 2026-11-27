@@ -3,3 +3,5 @@ captures/
 out/
 public/clips/
 stills/
+# the author's recorded narration stays on this machine (the repository is public)
+public/voice/calm120/*.wav
