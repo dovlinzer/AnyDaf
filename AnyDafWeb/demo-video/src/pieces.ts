@@ -16,23 +16,25 @@ export const FEAT_ADD = 0.55;
 export const FEAT_ALL_S = 2.8;    // the whole list once more, after the last feature
 
 export type Piece = {
-  kind: "title" | "scene" | "features" | "end";
+  kind: "title" | "topic" | "scene" | "features" | "end";
   id: string;            // voice file id: title, s1.., f1.., end
   len: number;           // frames
   from: number;          // first frame (pieces after the first overlap the one before by XFADE)
   scene?: Scene; contIn?: boolean; contOut?: boolean;
-  features?: string[]; shown?: number; adding?: boolean;   // Features card: the list, lines shown, last one fading in
+  features?: string[]; shown?: number; adding?: boolean; topic?: string;   // Features card: the list, lines shown, last one fading in
   chapter?: string;      // a chapter starts here
 };
 
 // voice: the narration's line lengths; a Features card stretches to fit its line (FEAT_VOICE_IN after the card starts)
 export const FEAT_VOICE_IN = 0.25;
-export function layout(scenes: Scene[], titleS: number, endS: number, features = false, voice: Record<string, number> = {}): { pieces: Piece[]; total: number } {
+export const TOPIC_S = 2.2;   // the card naming a short cut's part of the whole
+export function layout(scenes: Scene[], titleS: number, endS: number, features = false, voice: Record<string, number> = {}, topic?: string): { pieces: Piece[]; total: number } {
   const featLen = (id: string, s: number) => Math.round(Math.max(s, voice[id] ? FEAT_VOICE_IN + voice[id] + 0.45 : 0) * FPS);
   const groups: string[] = [];
   if (features) scenes.forEach((s) => { if (!groups.includes(s.kicker)) groups.push(s.kicker); });
   const labels = groups.map(featureLabel);
   const out: Omit<Piece, "from">[] = [{ kind: "title", id: "title", len: Math.round(titleS * FPS), chapter: "iTalmud" }];
+  if (topic) out.push({ kind: "topic", id: "topic", len: Math.round(Math.max(TOPIC_S, voice.topic ? FEAT_VOICE_IN + voice.topic + 0.45 : 0) * FPS), topic });
   let f = 0;
   scenes.forEach((s, i) => {
     const prev = scenes[i - 1], next = scenes[i + 1];

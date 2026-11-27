@@ -16,20 +16,24 @@ export const cardsOf = (edit: string) => (CALM[edit] ? { titleS: CALM[edit].titl
 const vo = (dir: string, j: Record<string, unknown>) => { const { end_beats, ...dur } = j; return { dir, dur: dur as Record<string, number>, endBeats: end_beats as number[] | undefined }; };
 export const VOICES: Record<string, { dir: string; dur: Record<string, number>; endBeats?: number[]; file?: Record<string, string> }> = {
   "90": vo("voice", VOICE), calm90: vo("voice/calm90", VOICE_CALM90), calm120: vo("voice/calm120", VOICE_CALM120) };
-// the shorter cuts reuse the 2-minute cut's recordings: scene i plays line ids[i] (and the same title and end)
-const reuse = (from: string, ids: string[]) => { const b = VOICES[from], file = Object.fromEntries(ids.map((id, i) => ["s" + (i + 1), id]));
-  return { ...b, file, dur: { title: b.dur.title, end: b.dur.end, ...Object.fromEntries(ids.map((id, i) => ["s" + (i + 1), b.dur[id]])) } }; };
+// the shorter cuts reuse the 2-minute cut's recordings: scene i plays line ids[i] ("" = no line: the scene runs silent),
+// with the same title and end; topic: the line for the cut's opening card (recorded with the others, e.g. topic_study)
+const reuse = (from: string, ids: string[], topic?: string) => { const b = VOICES[from];
+  const file: Record<string, string> = Object.fromEntries(ids.map((id, i) => ["s" + (i + 1), id]).filter(([, id]) => id));
+  if (topic) file.topic = topic;
+  return { ...b, file, dur: { title: b.dur.title, end: b.dur.end, ...(topic ? { topic: b.dur[topic] || 0 } : {}),
+    ...Object.fromEntries(ids.map((id, i) => ["s" + (i + 1), id ? b.dur[id] : 0])) } }; };
 Object.assign(VOICES, {
-  calm60: reuse("calm120", ["s1", "s5", "s7", "s8", "s11", "s12"]),
-  calm30study: reuse("calm120", ["s1", "s4", "s5"]),
-  calm30reference: reuse("calm120", ["s6", "s7", "s12"]),
-  calm30practice: reuse("calm120", ["s8", "s9", "s10"]),
+  calm60: reuse("calm120", ["s1", "", "s5", "", "s7", "s8", "s11", "s12"]),
+  calm30study: reuse("calm120", ["s1", "s4", "s5"], "topic_study"),
+  calm30reference: reuse("calm120", ["s6", "s7", "s12"], "topic_reference"),
+  calm30practice: reuse("calm120", ["s8", "s9", "s10"], "topic_practice"),
 });
 export const featuresOf = (edit: string) => !!CALM[edit]?.features;
 // the whole timeline of an edit (silent or voiced): pieces and total frames
 export const timeline = (edit: string, voice = false) => {
   const V = voice ? voiced(edit) : null, C0 = cardsOf(edit);
-  return layout(V ? V.scenes : EDITS[edit], V ? V.titleS : C0.titleS, V ? V.endS : C0.endS, featuresOf(edit), V ? VOICES[edit].dur : {});
+  return layout(V ? V.scenes : EDITS[edit], V ? V.titleS : C0.titleS, V ? V.endS : C0.endS, featuresOf(edit), V ? VOICES[edit].dur : {}, CALM[edit]?.topic);
 };
 export const voiced = (edit: string) => {
   const v = fitToVoice(EDITS[edit], VOICES[edit].dur);
@@ -191,6 +195,18 @@ const FeaturesCard: React.FC<{ fmt: Format; items: string[]; shown: number; addi
   );
 };
 
+// ---------- a short cut's topic card ----------
+const TopicCard: React.FC<{ fmt: Format; text: string }> = ({ fmt, text }) => {
+  const f = useCurrentFrame(), tall = fmt === "tall";
+  const a = interpolate(f, [XFADE, XFADE + 16], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.out(Easing.cubic) });
+  return (
+    <AbsoluteFill style={{ background: CREAM, alignItems: "center", justifyContent: "center", fontFamily: SERIF, color: NAVY, textAlign: "center" }}>
+      <div style={{ maxWidth: tall ? 880 : 1400, fontSize: tall ? 100 : 104, fontWeight: 600, letterSpacing: -1, lineHeight: 1.12, whiteSpace: "pre-line", opacity: a, transform: `translateY(${(1 - a) * 16}px)` }}>{text}</div>
+      <div style={{ width: 120, height: 4, background: AMBER, marginTop: tall ? 56 : 44, borderRadius: 2, opacity: a }} />
+    </AbsoluteFill>
+  );
+};
+
 // a cross-fade in at the start of each piece after the first
 const FadeIn: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const f = useCurrentFrame();
@@ -203,12 +219,13 @@ export const Demo: React.FC<{ fmt: Format; W: number; H: number; edit?: string; 
   const el = (p: (typeof pieces)[number]) =>
     p.kind === "title" ? <TitleCard fmt={fmt} /> :
     p.kind === "end" ? <EndCard fmt={fmt} beats={voice && VOICES[edit].endBeats ? VOICES[edit].endBeats!.map((b) => END_VOICE_IN - 0.1 + b) : undefined} /> :
+    p.kind === "topic" ? <TopicCard fmt={fmt} text={p.topic!} /> :
     p.kind === "features" ? <FeaturesCard fmt={fmt} items={p.features!} shown={p.shown!} adding={!!p.adding} /> :
     <SceneView scene={p.scene!} fmt={fmt} W={W} H={H} contIn={p.contIn} contOut={p.contOut} />;
   return (
     <AbsoluteFill style={{ background: CREAM }}>
       {pieces.map((p, i) => {
-        const vin = Math.round((p.kind === "title" ? 0.3 : p.kind === "end" ? END_VOICE_IN : p.kind === "features" ? FEAT_VOICE_IN : VOICE_IN) * FPS);
+        const vin = Math.round((p.kind === "title" ? 0.3 : p.kind === "end" ? END_VOICE_IN : p.kind === "features" || p.kind === "topic" ? FEAT_VOICE_IN : VOICE_IN) * FPS);
         return <React.Fragment key={i}>
           <Sequence from={p.from} durationInFrames={p.len}>{i === 0 ? el(p) : <FadeIn>{el(p)}</FadeIn>}</Sequence>
           {voice && (dur[p.id] || 0) > 0 && <Sequence from={p.from + vin}><Audio src={staticFile(`${VOICES[edit].dir}/${VOICES[edit].file?.[p.id] ?? p.id}.wav`)} /></Sequence>}

@@ -23,6 +23,12 @@ Record each line as its own file, named by its id (`title.m4a`, `f1.m4a`, `s1.m4
 - **s12** (words): And every word opens to its meaning, and its dictionary entry: Jastrow for the Gemara, and for a verse, Brown-Driver-Briggs.
 - **end**: The Talmud. Explicated. Annotated. Illustrated. italmud dot com.
 
+For the 30-second cuts, one line each for their opening cards (any length: the card waits for it):
+
+- **topic_study** (opening card, 30-second Study): Study outlines, charts and illustrations.
+- **topic_reference** (opening card, 30-second Reference): Terms, measures, sages, definitions.
+- **topic_practice** (opening card, 30-second Practice): Quizzes and games.
+
 Then:
 
 ```bash
