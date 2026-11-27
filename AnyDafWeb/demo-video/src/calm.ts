@@ -54,9 +54,16 @@ function camera(clip: string, fmt: "wide" | "tall"): Key[] {
   return keys.length ? keys : [{ t: 0, x: 800, y: 450, w: 1600 }];
 }
 
-// name, or name@from-to to play only part of the take, or name@a-b,c-d to play two parts of it (cut together)
-export const beatScene = (spec: string, rate: number): Scene => {
-  const [name, part] = spec.split("@"), g = G["C_" + name];
+// 16:9: hold the whole screen until `at` (seconds of the take), then move in to wherever the take's camera is by then
+function openWide(keys: Key[], at: number): Key[] {
+  const FULL = { x: 800, y: 450, w: 1600 }, k = [...keys].reverse().find((x) => x.t <= at + MOVE) || keys[0];
+  return [{ t: 0, ...FULL }, { t: at, ...FULL }, { t: at + MOVE, x: k.x, y: k.y, w: k.w }, ...keys.filter((x) => x.t > at + MOVE)];
+}
+
+// name, or name@from-to to play only part of the take, or name@a-b,c-d to play two parts of it (cut together);
+// a trailing "|wide" starts the scene on the whole screen (16:9) and moves in a second later
+export const beatScene = (spec0: string, rate: number): Scene => {
+  const [spec, opt] = spec0.split("|"), [name, part] = spec.split("@"), g = G["C_" + name];
   const b = { ...BEATS[name] };
   const parts = part ? part.split(",").map((x) => x.split("-").map(Number)) : [[b.from ?? 0.3, b.to ?? Math.max(1, (g?.dur || 8) - 0.15)]];
   if (name === "reference" && parts.length === 1 && parts[0][1] < 6.5) b.caption = "Tap a key term for its definition.";
@@ -68,7 +75,7 @@ export const beatScene = (spec: string, rate: number): Scene => {
     segs: [...parts.map(([from, t]) => ({ from, to: t, rate: r })),
       // a hold: the last frame, played very slowly
       ...(b.hold ? [{ from: to - 0.03, to, rate: 0.03 / b.hold }] : [])],
-    wide: camera("C_" + name, "wide"), tall: camera("C_" + name, "tall"),
+    wide: opt === "wide" ? openWide(camera("C_" + name, "wide"), parts[0][0] + 1.0) : camera("C_" + name, "wide"), tall: camera("C_" + name, "tall"),
   };
 };
 
@@ -85,6 +92,6 @@ export const CALM: Record<string, Edit> = {
   calm60: edit(["outline", "chart@0.8-3.8", "illustration", "reference@1.5-5.0", "sages@1.5-11.6", "quiz@3.8-14.0", "links@0.3-19.2", "words@4.5-14.4"], 1.2, 2.6, 5.6, false, 0.8),
   // three 30-second cuts, each with its own features
   calm30study: edit(["outline", "chart@0.8-7.8", "illustration"], 1.2, 2.2, 5.0, false, 0.8, "Study Outlines,\nCharts and Illustrations"),
-  calm30reference: edit(["reference@1.5-5.0,7.6-12.0", "sages@1.5-9.6", "words@5.5-14.4"], 1.25, 2.2, 5.0, false, 0.8, "Terms, Measures,\nSages, Definitions"),
-  calm30practice: edit(["quiz@4.0-13.6", "fillchart@0.3-5.6", "memory@2.2-14.0"], 1.3, 2.2, 5.0, false, 0.8, "Quizzes and Games"),
+  calm30reference: edit(["reference@1.5-5.0,7.6-12.0", "sages@1.5-9.6", "words@0.6-7.4,9.6-14.4|wide"], 1.25, 2.2, 5.0, false, 0.8, "Terms, Measures,\nSages, Definitions"),
+  calm30practice: edit(["quiz@1.2-13.6", "fillchart@0.3-5.6", "memory@2.2-14.0"], 1.3, 2.2, 5.0, false, 0.8, "Quizzes and Games"),
 };
